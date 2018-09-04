@@ -1,4 +1,5 @@
 <?xml version="1.0" encoding="utf-8"?>
+
 <TEI xmlns="http://www.tei-c.org/ns/1.0">
     <teiHeader>
         <fileDesc>
@@ -1221,7 +1222,7 @@
  n="0824b17" ed="T"/><lb
  n="0824b18" ed="T"/><lb
  n="0824b19" ed="T"/>
-<ab type='juan' subtype='open'>成唯識論演祕卷第一</ab><lb
+<ab type='juan'>成唯識論演祕卷第一</ab><lb
  n="0824b20" ed="T"/><lb
  n="0824b21" ed="T"/><ab type='prose'>論。所信至教者。問何者言教得至教名<lb
  n="0824b22" ed="T"/>　答通於凡．聖言無差別。可信者語皆至教<lb
@@ -3301,7 +3302,7 @@
  n="0848b07" ed="T"/><lb
  n="0848b08" ed="T"/><lb
  n="0848b09" ed="T"/>
-<ab type='juan' subtype='open'>成唯識論演祕卷第二</ab><lb
+<ab type='juan'>成唯識論演祕卷第二</ab><lb
  n="0848b10" ed="T"/><lb
  n="0848b11" ed="T"/><ab type='prose'>疏。如童女想等者。西域立法出逢童女<lb
  n="0848b12" ed="T"/>表有吉祥。又如童女齒白脣薄脚膝纖團。<lb
@@ -5282,7 +5283,7 @@
  n="0871a12" ed="T"/><lb
  n="0871a13" ed="T"/><lb
  n="0871a14" ed="T"/>
-<ab type='juan' subtype='open'>成唯識論演祕卷第三</ab><lb
+<ab type='juan'>成唯識論演祕卷第三</ab><lb
  n="0871a15" ed="T"/><lb
  n="0871a16" ed="T"/><ab type='prose'>疏。令相隨順等者。此隨轉門。故俱舍論第<lb
  n="0871a17" ed="T"/>十云。三和有三。一同在一世故名三和。二<lb
@@ -7413,7 +7414,7 @@
  n="0895b22" ed="T"/><lb
  n="0895b23" ed="T"/><lb
  n="0895b24" ed="T"/>
-<ab type='juan' subtype='open'>成唯識論演祕卷第四</ab><lb
+<ab type='juan'>成唯識論演祕卷第四</ab><lb
  n="0895b25" ed="T"/><lb
  n="0895b26" ed="T"/><ab type='prose'>疏。二率爾遇境位者。問論無率爾。何乃加<lb
  n="0895b27" ed="T"/>之　答准下奪中既有三位。明今縱處三<lb
@@ -9518,7 +9519,7 @@
  n="0920a17" ed="T"/><lb
  n="0920a18" ed="T"/><lb
  n="0920a19" ed="T"/>
-<ab type='juan' subtype='open'>成唯識論演祕卷第五</ab><lb
+<ab type='juan'>成唯識論演祕卷第五</ab><lb
  n="0920a20" ed="T"/><lb
  n="0920a21" ed="T"/><ab type='prose'>論。三邪見等者。謗因果等。瑜伽第七．五十<lb
  n="0920a22" ed="T"/>五．五十八．對法第一互有不同。如瑜伽鈔<lb
@@ -11096,7 +11097,7 @@
 </ab><ab type='juan' subtype='close'>成唯識論演祕卷第六</ab><pb n="0938b" id="T43.1833.0938b" ed="T"/><lb
  n="0938b01" ed="T"/><lb
  n="0938b02" ed="T"/>
-<ab type='juan' subtype='open'>成唯識論演祕卷第八</ab><lb
+<ab type='juan'>成唯識論演祕卷第八</ab><lb
  n="0938b03" ed="T"/><lb
  n="0938b04" ed="T"/><byline>沙門智周撰</byline><lb
  n="0938b05" ed="T"/><ab type='prose'>論。云何此依十五處立者。而有兩釋。一云云<lb
@@ -13500,7 +13501,7 @@
  n="0965c22" ed="T"/><lb
  n="0965c23" ed="T"/><lb
  n="0965c24" ed="T"/>
-<ab type='juan' subtype='open'>成唯識論演祕卷第七</ab><lb
+<ab type='juan'>成唯識論演祕卷第七</ab><lb
  n="0965c25" ed="T"/><lb
  n="0965c26" ed="T"/><ab type='prose'>論。依謂所依等者。具如疏辨。有義轉者屬<lb
  n="0965c27" ed="T"/>能轉道。亦轉之依。由能轉道轉所轉依名<lb
