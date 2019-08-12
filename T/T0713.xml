@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T16</biblScope>
                     <idno type="Taisho">T16n0713</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0826b02" ed="T"/><lb
  n="0826b03" ed="T"/><lb
  n="0826b04" ed="T"/>
-<ab type="juan" subtype="open">貝多樹下思惟十二因緣經</ab><lb
+<ab type='juan' subtype='open'>貝多樹下思惟十二因緣經</ab><lb
  n="0826b06" ed="T"/><lb
  n="0826b07" ed="T"/><byline>吳月氏優婆塞支謙譯</byline><lb
- n="0826b08" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時佛在舍衛國，止祇樹給孤獨園。<lb
+ n="0826b08" ed="T"/><div type='jing' level='1'><ab type='prose'>聞如是：一時佛在舍衛國，止祇樹給孤獨園。<lb
  n="0826b09" ed="T"/>是時佛告：「比丘！」比丘便應：「唯然。」比丘從佛聽。<lb
  n="0826b10" ed="T"/>佛便說言：「諸比丘！我本未得佛道為菩薩<lb
  n="0826b11" ed="T"/>時，為念是：『咄！是世間極劇，為生、老、死，為往<lb
@@ -147,5 +147,5 @@
  n="0827b18" ed="T"/>無為行者，增多方至。」天亦人已見佛說如是<lb
  n="0827b19" ed="T"/>宜，比丘取著意，佛行者受。</ab></div><lb
  n="0827b20" ed="T"/>
-<ab type="juan" subtype="close">貝多樹下思惟十二因緣經</ab>
+<ab type='juan' subtype='close'>貝多樹下思惟十二因緣經</ab>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0469</idno>
                 </bibl>
@@ -43,12 +43,12 @@
  n="0509b01" ed="T"/><lb
  n="0509b02" ed="T"/><lb
  n="0509b03" ed="T"/>
-<ab type="juan" subtype="open">文殊問經字母品第十四</ab><lb
+<ab type='juan' subtype='open'>文殊問經字母品第十四</ab><lb
  n="0509b04" ed="T"/><lb
  n="0509b05" ed="T"/><byline>開府儀同三司特進試鴻臚卿肅國公，食<lb
  n="0509b06" ed="T"/>邑三千戶，賜紫贈司空，謚大鑒，正號大廣<lb
  n="0509b07" ed="T"/>智，大興善寺三藏沙門不空，奉　詔譯</byline><lb
- n="0509b08" ed="T"/><div type="jing" level="1"><ab type="prose">爾時文殊師利白佛言：「世尊！一切諸字母，云<lb
+ n="0509b08" ed="T"/><div type='jing' level='1'><ab type='prose'>爾時文殊師利白佛言：「世尊！一切諸字母，云<lb
  n="0509b09" ed="T"/>何一切諸法，入於此及陀羅尼字？」佛告文殊<lb
  n="0509b10" ed="T"/>師利：「一切諸法，入於字母及陀羅尼字。文殊<lb
  n="0509b11" ed="T"/>師利！如：<lb
@@ -104,5 +104,5 @@
  n="0510a03" ed="T"/>「稱乞灑字時，是一切文字究竟無言說聲。<lb
  n="0510a04" ed="T"/>「文殊師利！此謂字母義，一切諸字入於此中。」</ab></div><lb
  n="0510a05" ed="T"/>
-<ab type="juan" subtype="close">文殊問經字母品</ab>
+<ab type='juan' subtype='close'>文殊問經字母品</ab>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T17</biblScope>
                     <idno type="Taisho">T17n0787</idno>
                 </bibl>
@@ -44,11 +44,11 @@
  n="0726b14" ed="T"/><lb
  n="0726b15" ed="T"/><lb
  n="0726b16" ed="T"/>
-<ab type="juan" subtype="open">曼殊室利呪藏中校量數珠功德<lb
+<ab type='juan' subtype='open'>曼殊室利呪藏中校量數珠功德<lb
  n="0726b17" ed="T"/>經</ab><lb
  n="0726b18" ed="T"/><lb
  n="0726b19" ed="T"/><byline>大唐三藏沙門釋義淨譯</byline><lb
- n="0726b20" ed="T"/><div type="jing" level="1"><ab type="prose">爾時，曼殊室利法王子菩薩摩訶薩，於大眾<lb
+ n="0726b20" ed="T"/><div type='jing' level='1'><ab type='prose'>爾時，曼殊室利法王子菩薩摩訶薩，於大眾<lb
  n="0726b21" ed="T"/>中從座而起，整理衣服，偏袒右肩，合掌恭敬<lb
  n="0726b22" ed="T"/>白佛言：「世尊！我今為欲利益諸有情故，說受<lb
  n="0726b23" ed="T"/>持數珠功德，校量福分利益差別。唯願世尊<lb
@@ -57,15 +57,15 @@
  n="0726b26" ed="T"/>人有能誦念諸陀羅尼及佛名者，為欲自利<lb
  n="0726b27" ed="T"/>及護他人，速成諸法而得驗者，其數珠法應<lb
  n="0726b28" ed="T"/>當如是作意受持。然其珠體種種不同，若以<lb
- n="0726b29" ed="T"/>鐵為數珠者，誦搯一遍得福五倍；若用赤銅<pb n="0726c" ed="T" id="T17.0787.0726c"/><lb
- n="0726c01" ed="T"/>為數珠者，誦搯一遍得福十倍；若用真珠、珊<lb
- n="0726c02" ed="T"/>瑚等寶為數珠者，誦搯一遍得福百倍；若用<lb
- n="0726c03" ed="T"/>槵子為數珠者，誦搯一遍得福千倍；若用蓮<lb
- n="0726c04" ed="T"/>子為數珠者，誦搯一遍得福萬倍；若用因陀<lb
- n="0726c05" ed="T"/>囉佉叉為數珠者，誦搯一遍得福百萬倍；若<lb
- n="0726c06" ed="T"/>用烏嚧陀囉佉叉為數珠者，誦搯一遍得福<lb
- n="0726c07" ed="T"/>百億倍；若用水精為數珠者，誦搯一遍得福<lb
- n="0726c08" ed="T"/>千億倍；若用菩提子為數珠者，或時搯念或<lb
+ n="0726b29" ed="T"/>鐵為數珠者，誦掐一遍得福五倍；若用赤銅<pb n="0726c" ed="T" id="T17.0787.0726c"/><lb
+ n="0726c01" ed="T"/>為數珠者，誦掐一遍得福十倍；若用真珠、珊<lb
+ n="0726c02" ed="T"/>瑚等寶為數珠者，誦掐一遍得福百倍；若用<lb
+ n="0726c03" ed="T"/>槵子為數珠者，誦掐一遍得福千倍；若用蓮<lb
+ n="0726c04" ed="T"/>子為數珠者，誦掐一遍得福萬倍；若用因陀<lb
+ n="0726c05" ed="T"/>囉佉叉為數珠者，誦掐一遍得福百萬倍；若<lb
+ n="0726c06" ed="T"/>用烏嚧陀囉佉叉為數珠者，誦掐一遍得福<lb
+ n="0726c07" ed="T"/>百億倍；若用水精為數珠者，誦掐一遍得福<lb
+ n="0726c08" ed="T"/>千億倍；若用菩提子為數珠者，或時掐念或<lb
  n="0726c09" ed="T"/>但手持，誦數一遍其福無量不可算計難可<lb
  n="0726c10" ed="T"/>校量。若欲願生諸佛淨土者，應當依法受持<lb
  n="0726c11" ed="T"/>此珠。」曼殊室利菩薩言：「菩提子者，若復有人<lb
@@ -92,5 +92,5 @@
  n="0727a08" ed="T"/>「善哉，善哉！曼殊室利！如汝所說。」爾時，大眾聞<lb
  n="0727a09" ed="T"/>說持珠功德經已，皆大歡喜，信受奉行。</ab></div><lb
  n="0727a10" ed="T"/>
-<ab type="juan" subtype="close">曼殊室利校量數珠功德經</ab>
+<ab type='juan' subtype='close'>曼殊室利校量數珠功德經</ab>
 </body></text></TEI>

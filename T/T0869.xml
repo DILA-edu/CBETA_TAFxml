@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T18</biblScope>
                     <idno type="Taisho">T18n0869</idno>
                 </bibl>
@@ -39,19 +39,19 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0284c09" ed="T"/><lb
  n="0284c10" ed="T"/><lb
  n="0284c11" ed="T"/>
-<ab type="juan" subtype="open">金剛頂經瑜伽十八會指歸一<lb
+<ab type='juan' subtype='open'>金剛頂經瑜伽十八會指歸一<lb
  n="0284c12" ed="T"/>卷</ab><lb
  n="0284c13" ed="T"/><lb
  n="0284c14" ed="T"/><byline>開府儀同三司特進試鴻臚卿肅國<lb
  n="0284c15" ed="T"/>公食邑三千戶賜紫贈司空諡大鑒<lb
  n="0284c16" ed="T"/>正號大廣智大興善寺三藏沙門<lb
  n="0284c17" ed="T"/>不空奉　詔譯</byline><lb
- n="0284c18" ed="T"/><div type="jing" level="2"><ab type="prose">金剛頂經瑜伽有十萬偈十八會，初會名一<lb
+ n="0284c18" ed="T"/><div type='jing' level='2'><ab type='prose'>金剛頂經瑜伽有十萬偈十八會，初會名一<lb
  n="0284c19" ed="T"/>切如來真實攝教王，有四大品：一名金剛界，<lb
  n="0284c20" ed="T"/>二名降三世，三名遍調伏，四名一切義成就表<lb
  n="0284c21" ed="T"/>四智印。於初品中有六曼茶羅，所謂金剛界<lb
@@ -223,13 +223,13 @@
  n="0286c19" ed="T"/>各說四種曼茶羅，說引入弟子儀，受四種印<lb
  n="0286c20" ed="T"/>法。此中說偈云：<lb
  n="0286c21" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「愚童覆無智，　　不知此理趣，　　<lb
  n="0286c22" ed="T"/>餘處而求佛，　　不悟此處有。　　<lb
  n="0286c23" ed="T"/>十方世界中，　　餘處不可得，　　<lb
  n="0286c24" ed="T"/>心自為等覺，　　餘處不說佛。」　　
 </ab><lb
- n="0286c25" ed="T"/><ab type="prose">第十一會名大乘現證瑜伽，於阿迦尼吒天<lb
+ n="0286c25" ed="T"/><ab type='prose'>第十一會名大乘現證瑜伽，於阿迦尼吒天<lb
  n="0286c26" ed="T"/>說。毘盧遮那佛等，至金剛毘首羯磨菩薩，<lb
  n="0286c27" ed="T"/>及八大供養四攝出生同真實攝瑜伽，一一<lb
  n="0286c28" ed="T"/>尊具四種曼茶羅四種印，廣說實相理心建<lb
@@ -305,6 +305,6 @@
  n="0287c11" ed="T"/>身、等流身，是能頓作利樂一切有情、諸菩薩<lb
  n="0287c12" ed="T"/>聲聞緣覺及諸外道，名瑜伽金剛乘教法。</ab></div><lb
  n="0287c13" ed="T"/>
-<ab type="juan" subtype="close">金剛頂瑜伽經十八會指歸</ab><lb
- n="0287c14" ed="T"/><div type="w" level="2"><ab type="prose">金剛頂瑜伽指歸一卷</ab></div></div>
+<ab type='juan' subtype='close'>金剛頂瑜伽經十八會指歸</ab><lb
+ n="0287c14" ed="T"/><div type='w' level='2'><ab type='prose'>金剛頂瑜伽指歸一卷</ab></div></div>
 </body></text></TEI>

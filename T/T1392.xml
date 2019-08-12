@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1392</idno>
                 </bibl>
@@ -39,18 +39,18 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0908b05" ed="T"/><lb
  n="0908b06" ed="T"/><lb
  n="0908b07" ed="T"/><lb
  n="0908b08" ed="T"/>
-<ab type="juan" subtype="open">大寒林聖難拏陀羅尼經</ab><lb
+<ab type='juan' subtype='open'>大寒林聖難拏陀羅尼經</ab><lb
  n="0908b09" ed="T"/><lb
  n="0908b10" ed="T"/><byline>西天中印度摩伽陀國那爛陀寺<lb
  n="0908b11" ed="T"/>三藏傳教大師賜紫沙門臣<lb
  n="0908b12" ed="T"/>法天奉　詔譯</byline><lb
- n="0908b13" ed="T"/><div type="jing" level="2"><ab type="prose">如是我聞。一時薄伽梵。在王舍城中。是時尊<lb
+ n="0908b13" ed="T"/><div type='jing' level='2'><ab type='prose'>如是我聞。一時薄伽梵。在王舍城中。是時尊<lb
  n="0908b14" ed="T"/>者羅睺羅。遊於孕欺迦耶怛曩地寒林之中。<lb
  n="0908b15" ed="T"/>於大塚間。彼時有諸天魅龍魅藥叉羅剎緊<lb
  n="0908b16" ed="T"/>捺囉㜸嚕荼摩護囉誐。及餘一切人非人。餓<lb
@@ -70,7 +70,7 @@
  n="0908c01" ed="T"/>若苾芻苾芻尼鄔播索俱鄔播斯迦。長夜利<lb
  n="0908c02" ed="T"/>益得安樂故。說此陀羅尼曰。<lb
  n="0908c03" ed="T"/></ab>
-<ab type="dharani">怛儞也他阿誐罔誐婆誐嚩㘄誐僧娑囉哆𠻴誐<lb
+<ab type='dharani'>怛儞也他阿誐罔誐婆誐嚩㘄誐僧娑囉哆𠻴誐<lb
  n="0908c05" ed="T"/>娑麼嚩娜娑婆誐𡁠素囉<lb
  n="0908c06" ed="T"/>翳迦哆囉阿囉尾囉哆囉尾囉哆<lb
  n="0908c07" ed="T"/>囉哆囉尾囉迦囉尾囉迦囉迦囉尾囉印娜印娜罽娑羅悍娑悍<lb
@@ -135,7 +135,7 @@
  n="0909b15" ed="T"/>哩呬哩企哩企哩伽囉禮護嚕護<lb
  n="0909b16" ed="T"/>嚕氷誐禮曩謨窣覩沒馱<lb
  n="0909b17" ed="T"/>喃婆誐嚩蹬娑嚩賀</ab></div><pb n="0909c" id="T21.1392.0909c" ed="T"/><lb
- n="0909c01" ed="T"/><div type="梵文" level="2"><ab type="prose">Tad yathā, aṅgā vaṅgā kaliṅgā bhaṅgā varaṅgā saṁsārataraṅgā, sāsadaṅgā, bhagā, asurā, ekataraṅgā, asuravīrā, tara<lb
+ n="0909c01" ed="T"/><div type='梵文' level='2'><ab type='prose'>Tad yathā, aṅgā vaṅgā kaliṅgā bhaṅgā varaṅgā saṁsārataraṅgā, sāsadaṅgā, bhagā, asurā, ekataraṅgā, asuravīrā, tara<lb
  n="0909c02" ed="T"/>vīrā tara tara vīrā, kara vīrā, kara kara vīrā, indrā indra kisarā, hansā hansa kisarā picimalā. Mahāceiccā. Viheṭhikā,<lb
  n="0909c03" ed="T"/>kālucchikā, aṅgādarā jayā jayā likā delā elā cintāli, cili cili hili hili sumati, vasuvati, culu naḍḍe, culu culu nadre, culu<lb
  n="0909c04" ed="T"/>3 naḍḍe, culu nāḍi, kunādi, hārīṭaki 2, kārīṭaki 2, varīṭaki 2 gauri 2 gandhāri, caṇḍāli, vctāli, mātaṅgi, vacasi, dharaṅi,<lb
@@ -154,7 +154,7 @@
  n="0909c17" ed="T"/>2 khuru 2 phuru 2 khuramati, vandhamati svāhā, dhurandhare 2 vidhare. vimati, viskambhini, bhāvani vibhāvani, nāśani<lb
  n="0909c18" ed="T"/>vināśani, vandhani, mokṣaṇi śodhani, sādhani, saṁśodhani, viśodhani, saṁkhiraṇi, saṁkiraṇi saṁcchindani. Sādhu turamā-<lb
  n="0909c19" ed="T"/>ne, turu 2 manohara 2 vandhumati, hiri 2 khiri 2 khurali, huru 2 khuru 2 piṅgale manośtu buddhānāṁ bhagavatāṁ svāhā.</ab></div><lb
- n="0909b18" ed="T"/><div type="jing" level="2"><ab type="prose">復次羅睺羅。此大明陀羅尼念誦之人。能以<lb
+ n="0909b18" ed="T"/><div type='jing' level='2'><ab type='prose'>復次羅睺羅。此大明陀羅尼念誦之人。能以<lb
  n="0909b19" ed="T"/>香花而作供養。及結印契志心念誦一百八<lb
  n="0909b20" ed="T"/>遍結諸線索繫於手上及安頸上。即得周遍<lb
  n="0909b21" ed="T"/>百踰繕那能為擁護。人非人等悉皆遠離。亦<lb
@@ -180,5 +180,5 @@
  n="0910a13" ed="T"/>時尊者羅睺羅及諸大眾聞世尊說一心信受<lb
  n="0910a14" ed="T"/>禮佛而退。</ab></div><lb
  n="0910a15" ed="T"/>
-<ab type="juan" subtype="close">大寒林聖難拏陀羅尼經</ab></div>
+<ab type='juan' subtype='close'>大寒林聖難拏陀羅尼經</ab></div>
 </body></text></TEI>

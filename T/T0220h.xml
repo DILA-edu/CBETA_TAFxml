@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T07</biblScope>
                     <idno type="Taisho">T07n0220h</idno>
                 </bibl>
@@ -39,12 +39,13 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><pb n="0979c" ed="T" id="T07.0220h.0979c"/><lb
+        <body><div level='1'>
+<pb n="0979c" ed="T" id="T07.0220h.0979c"/><lb
  n="0979c01" ed="T"/><lb
- n="0979c02" ed="T"/><div type="hui" level="1"><head>大般若經第九會能斷金剛分</head><div type="xu" level="2"><head>序</head><lb
+ n="0979c02" ed="T"/><div type='hui' level='2'><head>大般若經第九會能斷金剛分</head><div type='xu' level='3'><head>序</head><lb
  n="0979c03" ed="T"/><lb
  n="0979c04" ed="T"/><byline>西明寺沙門玄則撰</byline><lb
- n="0979c05" ed="T"/><ab type="prose">竊尋浩汗其源者，必總靈怪之儲；紛糺其峯<lb
+ n="0979c05" ed="T"/><ab type='prose'>竊尋浩汗其源者，必總靈怪之儲；紛糺其峯<lb
  n="0979c06" ed="T"/>者，自動鬱冥之觀。況沖照倬存、逸韻遐舉，規<lb
  n="0979c07" ed="T"/>真附體、紐玄立極，根大衍於初會、革小成<lb
  n="0979c08" ed="T"/>於後心，蓄靈蘊福，信哉宜矣！故其承閑語要，<lb
@@ -68,14 +69,14 @@
  n="0979c26" ed="T"/>陰泫而陽晞，則危蘊方促。以有為之若此，<lb
  n="0979c27" ed="T"/>加無相之如彼，寧不荷付囑之遙恩，躬受行<lb
  n="0979c28" ed="T"/>之美證矣。</ab></div><pb n="0980a" ed="T" id="T07.0220h.0980a"/><lb
- n="0980a01" ed="T"/><div type="fen" level="2"><lb
+ n="0980a01" ed="T"/><div type='fen' level='3'><lb
  n="0980a02" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百七<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百七<lb
  n="0980a03" ed="T"/>十七</ab><lb
  n="0980a04" ed="T"/><lb
  n="0980a05" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
  n="0980a06" ed="T"/><head>第九能斷金剛分</head><lb
- n="0980a07" ed="T"/><ab type="prose">如是我聞：一時，薄伽梵在室羅筏住誓多林<lb
+ n="0980a07" ed="T"/><ab type='prose'>如是我聞：一時，薄伽梵在室羅筏住誓多林<lb
  n="0980a08" ed="T"/>給孤獨園，與大苾芻眾千二百五十人俱。爾<lb
  n="0980a09" ed="T"/>時，世尊於日初分，整理裳服執持衣鉢，入室<lb
  n="0980a10" ed="T"/>羅筏大城乞食。時，薄伽梵於其城中行乞食<lb
@@ -143,7 +144,7 @@
  n="0980c14" ed="T"/>諸善根，乃能聞說如是色經典句，當得一淨<lb
  n="0980c15" ed="T"/>信心。善現！如來以其佛智悉已知彼，如來以<lb
  n="0980c16" ed="T"/>其佛眼悉已見彼。善現！如來悉已覺彼一切<lb
- n="0980c17" ed="T"/>有情，當生無量無數福聚，當攝無量無數福<lb
+ n="0980c17" ed="T"/>有情當生無量無數福聚，當攝無量無數福<lb
  n="0980c18" ed="T"/>聚。何以故？善現！彼菩薩摩訶薩無我想轉，<lb
  n="0980c19" ed="T"/>無有情想、無命者想、無士夫想、無補特伽羅<lb
  n="0980c20" ed="T"/>想、無意生想、無摩納婆想、無作者想、無受者<lb
@@ -197,7 +198,7 @@
  n="0981b10" ed="T"/>性，故名不還。」佛告善現：「於汝意云何？諸阿羅<lb
  n="0981b11" ed="T"/>漢頗作是念：我能證得阿羅漢不？」善現答言：<lb
  n="0981b12" ed="T"/>「不也！世尊！諸阿羅漢不作是念：我能證得阿<lb
- n="0981b13" ed="T"/>羅漢性何以故？世尊！以無少法名阿羅漢，由<lb
+ n="0981b13" ed="T"/>羅漢性。何以故？世尊！以無少法名阿羅漢，由<lb
  n="0981b14" ed="T"/>是因緣名阿羅漢。世尊！若阿羅漢作如是念：<lb
  n="0981b15" ed="T"/>我能證得阿羅漢性，即為執我、有情、命者、士<lb
  n="0981b16" ed="T"/>夫、補特伽羅等。所以者何？世尊！如來、應、正等<lb
@@ -246,7 +247,7 @@
  n="0982a01" ed="T"/>能於此法門具足究竟、書寫、受持、讀誦、究竟<lb
  n="0982a02" ed="T"/>通利，及廣為他宣說、開示、如理作意！如是有<lb
  n="0982a03" ed="T"/>情成就最勝希有功德。此地方所大師所住，<lb
- n="0982a04" ed="T"/>或隨一一尊重處所若諸有智、同梵行者。」說<lb
+ n="0982a04" ed="T"/>或隨一一尊重處所，若諸有智、同梵行者。」說<lb
  n="0982a05" ed="T"/>是語已，<lb
  n="0982a06" ed="T"/>具壽善現復白佛言：「世尊！當何名此法門？我<lb
  n="0982a07" ed="T"/>當云何奉持？」作是語已，佛告善現言：「具壽！今<lb
@@ -497,7 +498,7 @@
  n="0984c21" ed="T"/>菩提。「復次，善現！是法平等，於其中間無不平<lb
  n="0984c22" ed="T"/>等，故名無上正等菩提。以無我性、無有情性、<lb
  n="0984c23" ed="T"/>無命者性、無士夫性、無補特伽羅等性平等，故<lb
- n="0984c24" ed="T"/>名無上正等菩提一切善法無不現證、一切<lb
+ n="0984c24" ed="T"/>名無上正等菩提。一切善法無不現證，一切<lb
  n="0984c25" ed="T"/>善法無不妙覺。善現！善法善法者，如來一切<lb
  n="0984c26" ed="T"/>說為非法，是故如來說名善法善法。」<lb
  n="0984c27" ed="T"/>「復次，善現！若善男子或善女人集七寶聚，量<lb
@@ -526,13 +527,13 @@
  n="0985a21" ed="T"/>如是應以諸相非相觀於如來。」爾時，世尊而<lb
  n="0985a22" ed="T"/>說頌曰：<lb
  n="0985a23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「諸以色觀我，　　以音聲尋我，　　<lb
  n="0985a24" ed="T"/>彼生履邪斷，　　不能當見我。　　<lb
  n="0985a25" ed="T"/>應觀佛法性，　　即導師法身；　　<lb
  n="0985a26" ed="T"/>法性非所識，　　故彼不能了。」　　
 </ab><lb
- n="0985a27" ed="T"/><ab type="prose">佛告善現：「於汝意云何？如來、應、正等覺以諸<lb
+ n="0985a27" ed="T"/><ab type='prose'>佛告善現：「於汝意云何？如來、應、正等覺以諸<lb
  n="0985a28" ed="T"/>相具足現證無上正等覺耶？善現！汝今勿當<lb
  n="0985a29" ed="T"/>作如是觀。何以故？善現！如來、應、正等覺不以<pb n="0985b" ed="T" id="T07.0220h.0985b"/><lb
  n="0985b01" ed="T"/>諸相具足現證無上正等菩提。<lb
@@ -583,14 +584,14 @@
  n="0985c17" ed="T"/>說、開示，故名為他宣說、開示。」爾時，世尊而說<lb
  n="0985c18" ed="T"/>頌曰：<lb
  n="0985c19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「諸和合所為，　　如星翳燈幻，　　<lb
  n="0985c20" ed="T"/>露泡夢電雲，　　應作如是觀。」　　
 </ab><lb
- n="0985c21" ed="T"/><ab type="prose">時，薄伽梵說是經已，尊者善現及諸苾芻、苾<lb
+ n="0985c21" ed="T"/><ab type='prose'>時，薄伽梵說是經已，尊者善現及諸苾芻、苾<lb
  n="0985c22" ed="T"/>芻尼、鄔波索迦、鄔波斯迦，并諸世間天、人、阿<lb
  n="0985c23" ed="T"/>素洛、健達縛等，聞薄伽梵所說經已，皆大歡<lb
  n="0985c24" ed="T"/>喜、信受奉行。<lb
  n="0985c25" ed="T"/>
-</ab><ab type="juan" subtype="close">大般若波羅蜜多經卷第五百七十七</ab></div></div>
+</ab><ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百七十七</ab></div></div></div>
 </body></text></TEI>

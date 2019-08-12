@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1367</idno>
                 </bibl>
@@ -42,18 +42,18 @@
         <body><lb
  n="0884c19" ed="T"/><lb
  n="0884c20" ed="T"/><lb
- n="0884c21" ed="T"/><div type="jing" level="1"><lb
+ n="0884c21" ed="T"/><div type='jing' level='1'><lb
  n="0884c22" ed="T"/>
-<ab type="juan" subtype="open">佛說大普賢陀羅尼經</ab><lb
+<ab type='juan' subtype='open'>佛說大普賢陀羅尼經</ab><lb
  n="0884c23" ed="T"/><lb
  n="0884c24" ed="T"/><byline>失譯人名今附梁錄</byline><lb
- n="0884c25" ed="T"/><ab type="prose">如是我聞。一時佛在舍衛國祇樹給孤獨園。<lb
+ n="0884c25" ed="T"/><ab type='prose'>如是我聞。一時佛在舍衛國祇樹給孤獨園。<lb
  n="0884c26" ed="T"/>時佛告阿難。吾今說大普賢呪。汝當受持。<lb
  n="0884c27" ed="T"/></ab>
-<ab type="dharani">多擲多　阿咤　那咤　茶彌茶　遮居梨<lb
+<ab type='dharani'>多擲多　阿咤　那咤　茶彌茶　遮居梨<lb
  n="0884c28" ed="T"/>　居梨茶也　居梨茶也拔坻　思提　思<lb
  n="0884c29" ed="T"/>陀　婆夢坻</ab>
-<ab type="prose">阿難此大普賢呪。遮滅一切<pb n="0885a" id="T21.1367.0885a" ed="T"/><lb
+<ab type='prose'>阿難此大普賢呪。遮滅一切<pb n="0885a" id="T21.1367.0885a" ed="T"/><lb
  n="0885a01" ed="T"/>兵刃。除一切怨仇。除一切夜叉羅剎復多等<lb
  n="0885a02" ed="T"/>畏。除一切不得食下鬼名。<lb
  n="0885a03" ed="T"/>胡摩兜烏奢睺睺胡摩兜阿㝹羯卑胡摩<lb
@@ -98,5 +98,5 @@
  n="0885b13" ed="T"/>不發起。是善男子善女人。應善讀誦執持奉<lb
  n="0885b14" ed="T"/>行。<lb
  n="0885b15" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說大普賢陀羅尼經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說大普賢陀羅尼經</ab></div>
 </body></text></TEI>

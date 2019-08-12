@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0427</idno>
                 </bibl>
@@ -43,10 +43,10 @@
  n="0072b01" ed="T"/><lb
  n="0072b02" ed="T"/><lb
  n="0072b03" ed="T"/>
-<ab type="juan" subtype="open">佛說八吉祥神呪經</ab><lb
+<ab type='juan' subtype='open'>佛說八吉祥神呪經</ab><lb
  n="0072b04" ed="T"/><lb
  n="0072b05" ed="T"/><byline>吳月氏優婆塞支謙譯</byline><lb
- n="0072b06" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時，佛在羅閱祇耆闍崛山中，與千<lb
+ n="0072b06" ed="T"/><div type='jing' level='1'><ab type='prose'>聞如是：一時，佛在羅閱祇耆闍崛山中，與千<lb
  n="0072b07" ed="T"/>二百五十比丘俱，菩薩千人皆彌勒等。佛告<lb
  n="0072b08" ed="T"/>賢者舍利弗及諸比丘：「皆一心聽！」佛告賢者<lb
  n="0072b09" ed="T"/>舍利弗：「東方去是一恒沙，有佛名安隱囑累<lb
@@ -84,7 +84,7 @@
  n="0072c12" ed="T"/>惡夢、諸魔所嬈，恐怖衣毛竪時，常當讀是八<lb
  n="0072c13" ed="T"/>吉祥神呪經呪之，即得除愈。」是時，佛說偈言：<lb
  n="0072c14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「若有持是經，　　八佛國土名，　　<lb
  n="0072c15" ed="T"/>不墮三惡處，　　疾得無上道。　　<lb
  n="0072c16" ed="T"/>自覺發道意，　　見佛即開解，　　<lb
@@ -118,7 +118,7 @@
  n="0073a15" ed="T"/>所願皆可得，　　踊躍大歡喜，　　<lb
  n="0073a16" ed="T"/>一心信樂者，　　福德亦如是。」　　
 </ab><lb
- n="0073a17" ed="T"/><ab type="prose">爾時，諸菩薩：颰陀和菩薩、羅憐那竭菩薩、橋<lb
+ n="0073a17" ed="T"/><ab type='prose'>爾時，諸菩薩：颰陀和菩薩、羅憐那竭菩薩、橋<lb
  n="0073a18" ed="T"/>曰兜菩薩、那羅達菩薩、須深彌菩薩、摩訶<lb
  n="0073a19" ed="T"/>須和薩和菩薩、因祗達菩薩、和輪調菩<lb
  n="0073a20" ed="T"/>薩，是八人求道已來無央數劫，於今未取<lb
@@ -130,5 +130,5 @@
  n="0073a26" ed="T"/>佛說經已，舍利弗、彌勒菩薩，及諸比丘、天龍、<lb
  n="0073a27" ed="T"/>鬼神、阿須倫王，皆大歡喜樂聞。</ab></div><lb
  n="0073a28" ed="T"/>
-<ab type="juan" subtype="close">佛說八吉祥神呪經</ab>
+<ab type='juan' subtype='close'>佛說八吉祥神呪經</ab>
 </body></text></TEI>

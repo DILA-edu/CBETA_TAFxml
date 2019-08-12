@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T13</biblScope>
                     <idno type="Taisho">T13n0406</idno>
                 </bibl>
@@ -44,9 +44,9 @@
  n="0656b17" ed="T"/><lb
  n="0656b18" ed="T"/><lb
  n="0656b19" ed="T"/>
-<ab type="juan" subtype="open">佛說虛空藏菩薩神呪經</ab><lb
+<ab type='juan' subtype='open'>佛說虛空藏菩薩神呪經</ab><lb
  n="0656b20" ed="T"/><lb
- n="0656b21" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時佛在佉羅帝耶山仙聖住處，<lb
+ n="0656b21" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時佛在佉羅帝耶山仙聖住處，<lb
  n="0656b22" ed="T"/>與無數大比丘眾俱，大菩薩眾，數如恒沙無<lb
  n="0656b23" ed="T"/>量無邊，演說如來功德經已。爾時，西方有如<lb
  n="0656b24" ed="T"/>意寶珠，自然而現；百千釋迦毘楞伽寶珠，以<lb
@@ -68,7 +68,7 @@
  n="0656c11" ed="T"/>爾時會中有菩薩摩訶薩，名曰梵音，從坐而<lb
  n="0656c12" ed="T"/>起，合掌向佛，而說偈言：<lb
  n="0656c13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「諸法真實義，　　眾生不能知，　　<lb
  n="0656c14" ed="T"/>愚於六根中，　　貪着色陰故，　　<lb
  n="0656c15" ed="T"/>以不見一陰，　　推求於色相，　　<lb
@@ -84,9 +84,9 @@
  n="0656c25" ed="T"/>唯願佛世尊，　　安慰諸來眾，　　<lb
  n="0656c26" ed="T"/>成就於眾生，　　大士之所行。」　　
 </ab><lb
- n="0656c27" ed="T"/><ab type="prose">爾時，世尊便說偈言：<lb
+ n="0656c27" ed="T"/><ab type='prose'>爾時，世尊便說偈言：<lb
  n="0656c28" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「如汝之所說，　　三昧力所為，　　<lb
  n="0656c29" ed="T"/>其有智慧者，　　乃得聞是事。　　<pb n="0657a" ed="T" id="T13.0406.0657a"/><lb
  n="0657a01" ed="T"/>虛空藏菩薩，　　大士之所行，　　<lb
@@ -96,7 +96,7 @@
  n="0657a05" ed="T"/>若於此二見，　　欲得解脫者，　　<lb
  n="0657a06" ed="T"/>不應着諸欲，　　速得證諸地。」　　
 </ab><lb
- n="0657a07" ed="T"/><ab type="prose">佛告梵音：「善男子！初行菩薩，先當為說有緣<lb
+ n="0657a07" ed="T"/><ab type='prose'>佛告梵音：「善男子！初行菩薩，先當為說有緣<lb
  n="0657a08" ed="T"/>想行六波羅蜜，若能解知四大之性是生滅<lb
  n="0657a09" ed="T"/>法，然後為說一切諸法不可言說，無有自相、<lb
  n="0657a10" ed="T"/>不生不滅、無緣無所有，一切諸行皆悉如是。<lb
@@ -158,34 +158,34 @@
  n="0657c08" ed="T"/>結跏趺坐，頂上有如意寶珠。虛空藏菩薩所<lb
  n="0657c09" ed="T"/>將眷屬，皆悉坐於蓮華之上。<lb
  n="0657c10" ed="T"/>爾時，彌勒菩薩即以偈問藥王菩薩：</ab>
-<ab type="verse">
+<ab type='verse'>
 「昔來諸<lb
  n="0657c11" ed="T"/>菩薩，　　有大名稱者；　　先禮佛世尊，　　<lb
  n="0657c12" ed="T"/>然後乃就坐。　　今此大士眾，　　<lb
  n="0657c13" ed="T"/>現妙莊嚴事；　　亦不禮世尊，　　<lb
  n="0657c14" ed="T"/>輒便就於坐。」　　
 </ab><lb
- n="0657c15" ed="T"/><ab type="prose">爾時，藥王菩薩摩訶薩以偈答彌勒菩薩摩訶<lb
+ n="0657c15" ed="T"/><ab type='prose'>爾時，藥王菩薩摩訶薩以偈答彌勒菩薩摩訶<lb
  n="0657c16" ed="T"/>薩：<lb
  n="0657c17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「今此大士者，　　已住佛深法；　　<lb
  n="0657c18" ed="T"/>不見有眾生，　　不分別己身。」　　
 </ab><lb
- n="0657c19" ed="T"/><ab type="prose">彌勒菩薩復以偈問：<lb
+ n="0657c19" ed="T"/><ab type='prose'>彌勒菩薩復以偈問：<lb
  n="0657c20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「若不見眾生，　　必住於實際。　　<lb
  n="0657c21" ed="T"/>何故現莊嚴？　　願答以決定。」　　
 </ab><lb
- n="0657c22" ed="T"/><ab type="prose">藥王菩薩復以偈答：<lb
+ n="0657c22" ed="T"/><ab type='prose'>藥王菩薩復以偈答：<lb
  n="0657c23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「勇猛方便者，　　欲成就眾生。　　<lb
  n="0657c24" ed="T"/>凡愚分別行，　　不解真實義，　　<lb
  n="0657c25" ed="T"/>唯知於世諦，　　不達真故苦。」　　
 </ab><lb
- n="0657c26" ed="T"/><ab type="prose">爾時，世尊告族姓子：「善哉！善哉！如汝所說，一<lb
+ n="0657c26" ed="T"/><ab type='prose'>爾時，世尊告族姓子：「善哉！善哉！如汝所說，一<lb
  n="0657c27" ed="T"/>切凡夫不能知一須陀洹所行方便及以解<lb
  n="0657c28" ed="T"/>脫。假令一切眾生是須陀洹，不能知一斯陀<lb
  n="0657c29" ed="T"/>含所行方便及以解脫。如斯陀含、阿那含、阿<pb n="0658a" ed="T" id="T13.0406.0658a"/><lb
@@ -241,19 +241,19 @@
  n="0658b21" ed="T"/>燒多伽樓香若迦荼阿菟羅香，合掌歸向敬<lb
  n="0658b22" ed="T"/>禮十方，禮已應說是呪：<lb
  n="0658b23" ed="T"/></ab>
-<ab type="dharani">「囉󰫏姪他　阿弭唎鑠　阿弭唎鑠　迦噌<lb
+<ab type='dharani'>「囉𭇄姪他　阿弭唎鑠　阿弭唎鑠　迦噌<lb
  n="0658b24" ed="T"/>嬭迦柘羅柘羅毘柘羅珊柘<lb
  n="0658b25" ed="T"/>羅迦噌嬭迦曷囉磨囉曷囉<lb
  n="0658b26" ed="T"/>磨囉毘伽阿唎磨磨法菩噌闍<lb
  n="0658b27" ed="T"/>磨那迦噌嬭迦真多磨嬭車囉夜<lb
  n="0658b28" ed="T"/>迦噌嬭迦娑囉皤奢迷娑他跋<lb
- n="0658b29" ed="T"/>夜　阿賢禳阿唎娑󰫹共<pb n="0658c" ed="T" id="T13.0406.0658c"/><lb
- n="0658c01" ed="T"/>娑󰫹共戶噌底毘󰪫伽<lb
- n="0658c02" ed="T"/>共提唎瑟知󰫶伽共迦噌儞迦<lb
+ n="0658b29" ed="T"/>夜　阿賢禳阿唎娑𭱑共<pb n="0658c" ed="T" id="T13.0406.0658c"/><lb
+ n="0658c01" ed="T"/>娑𭱑共戶噌底毘𮒪伽<lb
+ n="0658c02" ed="T"/>共提唎瑟知𮙙伽共迦噌儞迦<lb
  n="0658c03" ed="T"/>連唎夜覩磨阿奢夜娑囉皤跋陀柘<lb
  n="0658c04" ed="T"/>阿輸迦伽底娑婆訶<lb
  n="0658c05" ed="T"/></ab>
-<ab type="prose">「若能如是誦持是呪，彼族姓子，若作人形、若<lb
+<ab type='prose'>「若能如是誦持是呪，彼族姓子，若作人形、若<lb
  n="0658c06" ed="T"/>鳥獸形，以示其人，隨彼福德，而為說法，示一<lb
  n="0658c07" ed="T"/>方便。以一方便能令百千那由他眾生來住<lb
  n="0658c08" ed="T"/>乘者，或住聲聞、辟支佛乘，以少時方便令住<lb
@@ -459,18 +459,18 @@
  n="0661a05" ed="T"/>提頭賴吒乃至毘沙門王，隨其所事，於彼人<lb
  n="0661a06" ed="T"/>前示現其身，而說偈言：<lb
  n="0661a07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『如是四聖諦，　　智慧者所見，　　<lb
  n="0661a08" ed="T"/>以知於生死，　　能度諸有海。』　　
 </ab><lb
- n="0661a09" ed="T"/><ab type="prose">「時彼眾生於意識中知此法已，皆生善處。若<lb
+ n="0661a09" ed="T"/><ab type='prose'>「時彼眾生於意識中知此法已，皆生善處。若<lb
  n="0661a10" ed="T"/>有眾生信敬佛者，即現佛身而說偈言：<lb
  n="0661a11" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『佛正智清淨，　　能度諸有海；　　<lb
  n="0661a12" ed="T"/>速得證諸地，　　遠離一切苦。』　　
 </ab><lb
- n="0661a13" ed="T"/><ab type="prose">「爾時，眾生聞說是語，思惟佛功德故，命終之<lb
+ n="0661a13" ed="T"/><ab type='prose'>「爾時，眾生聞說是語，思惟佛功德故，命終之<lb
  n="0661a14" ed="T"/>後所往生處，國土清淨無有五濁。面見諸佛，<lb
  n="0661a15" ed="T"/>現在說法，念法、念僧亦復如是。虛空藏菩薩<lb
  n="0661a16" ed="T"/>成就如是不可思議甚深功德，若有眾生欲<lb
@@ -479,23 +479,23 @@
  n="0661a19" ed="T"/>是言：『念我念我，有大智得大慈悲虛空藏菩<lb
  n="0661a20" ed="T"/>薩！願與我念定方便。』即說是呪：<lb
  n="0661a21" ed="T"/></ab>
-<ab type="dharani">「『跢姪他戶噌嬈曷囉那谿跛叉儞黎<lb
+<ab type='dharani'>「『跢姪他戶噌嬈曷囉那谿跛叉儞黎<lb
  n="0661a22" ed="T"/>三慕駄囉皤多嚟跢那夜摩訶迦噌<lb
  n="0661a23" ed="T"/>嬭迦阿弩跛蟾婆從弭唎底阿<lb
- n="0661a24" ed="T"/>伽羅蟾婆從󰫃唎底皤闍㘕蟾婆<lb
- n="0661a25" ed="T"/>從󰫃唎底曷嚧輸從󰫃唎底阿那摩從󰫃<lb
- n="0661a26" ed="T"/>唎底蒲跢俱知從󰫃唎底沙婆訶』<lb
+ n="0661a24" ed="T"/>伽羅蟾婆從𭤶唎底皤闍㘕蟾婆<lb
+ n="0661a25" ed="T"/>從𭤶唎底曷嚧輸從𭤶唎底阿那摩從𭤶<lb
+ n="0661a26" ed="T"/>唎底蒲跢俱知從𭤶唎底沙婆訶』<lb
  n="0661a27" ed="T"/></ab>
-<ab type="prose">「若誦持是咒，即得入念定方便。復次，若欲讀<lb
+<ab type='prose'>「若誦持是咒，即得入念定方便。復次，若欲讀<lb
  n="0661a28" ed="T"/>誦種種經論，若佛所說、若弟子所說者，應淨<lb
  n="0661a29" ed="T"/>澡浴，餘如上說，即說呪曰：<pb n="0661b" ed="T" id="T13.0406.0661b"/><lb
  n="0661b01" ed="T"/></ab>
-<ab type="dharani">「『跢姪他阿儞羅闍󰫷鉗蒲沙闍󰫷<lb
- n="0661b02" ed="T"/>夜皤那闍󰫷跛叉娑迷跛奼羅闍<lb
- n="0661b03" ed="T"/>沙沙他那娑羅󰫷奢娑跢羅迦<lb
+<ab type='dharani'>「『跢姪他阿儞羅闍𭅮鉗蒲沙闍𭅮<lb
+ n="0661b02" ed="T"/>夜皤那闍𭅮跛叉娑迷跛奼羅闍<lb
+ n="0661b03" ed="T"/>沙沙他那娑羅𭅮奢娑跢羅迦<lb
  n="0661b04" ed="T"/>囉虎磨虎磨摩訶迦噌嬭迦娑婆訶』<lb
  n="0661b05" ed="T"/></ab>
-<ab type="prose">「若欲入大海者、欲入幽穴求珍異者、欲服<lb
+<ab type='prose'>「若欲入大海者、欲入幽穴求珍異者、欲服<lb
  n="0661b06" ed="T"/>神仙藥者、被繫閉者、受刑罸者、若臨死者、愛<lb
  n="0661b07" ed="T"/>別離者、怨憎會者、水火刀兵畏者、虎狼師子<lb
  n="0661b08" ed="T"/>毒蛇盜賊所劫、長病乃至乏衣食者，當禮拜<lb
@@ -546,15 +546,15 @@
  n="0661c24" ed="T"/>一切法如是相者，是名於無生法中得無生<lb
  n="0661c25" ed="T"/>法忍。」即說呪曰：<lb
  n="0661c26" ed="T"/></ab>
-<ab type="dharani">「跢姪他婆檀跢婆伽槃弊皤囉闍<lb
+<ab type='dharani'>「跢姪他婆檀跢婆伽槃弊皤囉闍<lb
  n="0661c27" ed="T"/>磨弩叉夜是那闍夜闍那儞摩媎儞訶<lb
  n="0661c28" ed="T"/>囉阿那夜頗羅瞿頗伽囉婆儞<lb
  n="0661c29" ed="T"/>磨阿毘那夜索皤鑠鑠皤鑠那<pb n="0662a" ed="T" id="T13.0406.0662a"/><lb
  n="0662a01" ed="T"/>鑠磨那鑠跢跢迦囉磨鑠磨迦<lb
  n="0662a02" ed="T"/>唎摩覩毘沙踈可鑠磨犁跢那夜結<lb
- n="0662a03" ed="T"/>𪏭鑠覩僧輸󰪤儞娑婆訶」<lb
+ n="0662a03" ed="T"/>𪏭鑠覩僧輸𭫭儞娑婆訶」<lb
  n="0662a04" ed="T"/></ab>
-<ab type="prose">佛告族姓子：「善哉善哉！汝能為眾生故說<lb
+<ab type='prose'>佛告族姓子：「善哉善哉！汝能為眾生故說<lb
  n="0662a05" ed="T"/>此離垢師子遊步欠呿陀羅尼，令諸眾生臨<lb
  n="0662a06" ed="T"/>命終時、最後意識，離煩惱障、業障、報障，得生<lb
  n="0662a07" ed="T"/>清淨佛土。汝能於無量無邊國土、城邑、聚落、<lb
@@ -567,5 +567,5 @@
  n="0662a14" ed="T"/>龍及人、阿修羅等，聞佛所說，皆大歡喜，作禮<lb
  n="0662a15" ed="T"/>而去。</ab></div><lb
  n="0662a16" ed="T"/>
-<ab type="juan" subtype="close">虛空藏菩薩神呪經一卷</ab>
+<ab type='juan' subtype='close'>虛空藏菩薩神呪經一卷</ab>
 </body></text></TEI>

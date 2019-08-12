@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n0980</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0410b18" ed="T"/><lb
  n="0410b19" ed="T"/><lb
  n="0410b20" ed="T"/><lb
  n="0410b21" ed="T"/>
-<ab type="juan" subtype="open">大勝金剛佛頂念誦儀軌</ab><lb
+<ab type='juan' subtype='open'>大勝金剛佛頂念誦儀軌</ab><lb
  n="0410b22" ed="T"/><lb
  n="0410b23" ed="T"/><byline>南天竺三藏金剛智奉　詔譯</byline><lb
- n="0410b24" ed="T"/><ab type="prose">爾時世尊為末世一切眾生故。現五種光明。<lb
+ n="0410b24" ed="T"/><ab type='prose'>爾時世尊為末世一切眾生故。現五種光明。<lb
  n="0410b25" ed="T"/>從頂上放火光。照三界所有惡魔鬼神等不<lb
  n="0410b26" ed="T"/>信佛教者。同時悉焚燒。金剛手菩薩見是相<lb
  n="0410b27" ed="T"/>已。白世尊言。如來智火被燒所有天魔鬼神<lb
@@ -59,10 +59,10 @@
  n="0410c03" ed="T"/>子。誦滿五萬遍。一切諸佛大菩薩天龍天女<lb
  n="0410c04" ed="T"/>眾。晝夜共守護令成所願。爾時如來說明曰。<lb
  n="0410c05" ed="T"/></ab>
-<ab type="dharani">唵麼賀縛日羅瑟抳灑吽怛路<lb
+<ab type='dharani'>唵麼賀縛日羅瑟抳灑吽怛路<lb
  n="0410c06" ed="T"/>瀨利惡吽<lb
  n="0410c07" ed="T"/></ab>
-<ab type="prose">二手內縛忍願屈如頂。是名根本大印。若有<lb
+<ab type='prose'>二手內縛忍願屈如頂。是名根本大印。若有<lb
  n="0410c08" ed="T"/>末法轉時。有諸眾生常結此印持念真言者。<lb
  n="0410c09" ed="T"/>一切兵力不能相害。水火不焚漂。不便一切<lb
  n="0410c10" ed="T"/>惡魔惡鬼。金剛胎藏聖眾坐臥咸來增擁護。<lb
@@ -90,10 +90,10 @@
  n="0411a03" ed="T"/>瑟摳摩金剛呪印加持五處。以右手四指作<lb
  n="0411a04" ed="T"/>拳。直竪彈指。密言曰。<lb
  n="0411a05" ed="T"/></ab>
-<ab type="dharani">唵俱路馱曩吽弱<lb
+<ab type='dharani'>唵俱路馱曩吽弱<lb
  n="0411a06" ed="T"/>
-</ab><ab type="juan" subtype="close">大勝金剛佛頂念誦儀軌</ab><lb
- n="0411a07" ed="T"/><div type="w" level="2"><ab type="prose">　　　　　　　　　　　　　一校了<lb
+</ab><ab type='juan' subtype='close'>大勝金剛佛頂念誦儀軌</ab><lb
+ n="0411a07" ed="T"/><div type='w' level='2'><ab type='prose'>　　　　　　　　　　　　　一校了<lb
  n="0411a08" ed="T"/>康元二年二月二十九日<lb
  n="0411a09" ed="T"/>　　　　　　　　於覺洞院書寫之了<lb
  n="0411a10" ed="T"/>　　　　　　　　金剛佛子　親尊</ab></div></div>

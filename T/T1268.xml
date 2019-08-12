@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1268</idno>
                 </bibl>
@@ -39,29 +39,29 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0298b18" ed="T"/><lb
  n="0298b19" ed="T"/><lb
- n="0298b20" ed="T"/><div type="jing" level="2"><lb
+ n="0298b20" ed="T"/><div type='jing' level='2'><lb
  n="0298b21" ed="T"/>
-<ab type="juan" subtype="open">大使呪法經</ab><lb
+<ab type='juan' subtype='open'>大使呪法經</ab><lb
  n="0298b22" ed="T"/><lb
  n="0298b23" ed="T"/><byline>南天竺國三藏沙門菩提流支譯</byline><lb
- n="0298b24" ed="T"/><ab type="prose">爾時毘那夜迦。於雞羅山集諸大眾梵天自<lb
+ n="0298b24" ed="T"/><ab type='prose'>爾時毘那夜迦。於雞羅山集諸大眾梵天自<lb
  n="0298b25" ed="T"/>在天釋提桓因等。及無量億數鬼神等。從座<lb
  n="0298b26" ed="T"/>而起稽首作禮於大自在天請言。我今欲說<lb
  n="0298b27" ed="T"/>一字呪。曰饒益眾生。唯願印可聽我所說。<lb
  n="0298b28" ed="T"/>諸天言善哉善哉如所說。毘那夜迦得說歡<lb
  n="0298b29" ed="T"/>喜踊躍。即說毘那夜迦一字呪曰。<pb n="0298c" id="T21.1268.0298c" ed="T"/><lb
  n="0298c01" ed="T"/></ab>
-<ab type="dharani">唵虐伽頡哩唵訶𤙖泮<lb
+<ab type='dharani'>唵虐伽頡哩唵訶𤙖泮<lb
  n="0298c02" ed="T"/>虐頡哩唵訶𤙖泮<lb
  n="0298c03" ed="T"/>泮字稱三遍跋剎唵頡哩<lb
  n="0298c04" ed="T"/>訶伽泮呼𤙖字跋剎<lb
  n="0298c05" ed="T"/>稱二遍<lb
  n="0298c06" ed="T"/></ab>
-<ab type="prose">說一字呪已復說壇法。若欲作此法及像法。<lb
+<ab type='prose'>說一字呪已復說壇法。若欲作此法及像法。<lb
  n="0298c07" ed="T"/>取白月四日作。即是成就日。取阿伽木如一<lb
  n="0298c08" ed="T"/>指即長。剋作四臂天著虫衣。頭戴七<lb
  n="0298c09" ed="T"/>寶冠。右手把鉞斧。又下手把歡喜團盤。左<lb
@@ -113,26 +113,26 @@
  n="0299a26" ed="T"/>至滿七日即得。<lb
  n="0299a27" ed="T"/>又說毘那夜迦呪法功能。即說呪曰第一。<lb
  n="0299a28" ed="T"/></ab>
-<ab type="dharani">唵迷巨伽呼囉箇夜牟唎夜娑婆訶<lb
+<ab type='dharani'>唵迷巨伽呼囉箇夜牟唎夜娑婆訶<lb
  n="0299a29" ed="T"/></ab>
-<ab type="prose">此呪若禁切觸像頭即禁第二。<pb n="0299b" id="T21.1268.0299b" ed="T"/><lb
+<ab type='prose'>此呪若禁切觸像頭即禁第二。<pb n="0299b" id="T21.1268.0299b" ed="T"/><lb
  n="0299b01" ed="T"/></ab>
-<ab type="dharani">唵拔闍爐囉迦夜爐禁夜牟唎夜娑婆訶<lb
+<ab type='dharani'>唵拔闍爐囉迦夜爐禁夜牟唎夜娑婆訶<lb
  n="0299b02" ed="T"/></ab>
-<ab type="prose">此呪若欲破壞怨家以手觸像眼即得第三。<lb
+<ab type='prose'>此呪若欲破壞怨家以手觸像眼即得第三。<lb
  n="0299b03" ed="T"/></ab>
-<ab type="dharani">唵跋跛覩羅迦耶爐梨耶牟唎夜娑婆訶<lb
+<ab type='dharani'>唵跋跛覩羅迦耶爐梨耶牟唎夜娑婆訶<lb
  n="0299b04" ed="T"/></ab>
-<ab type="prose">此呪若欲令人遮以手觸耳即得第四。<lb
+<ab type='prose'>此呪若欲令人遮以手觸耳即得第四。<lb
  n="0299b05" ed="T"/></ab>
-<ab type="dharani">唵摩呼囉迦夜爐梨夜娑婆訶<lb
+<ab type='dharani'>唵摩呼囉迦夜爐梨夜娑婆訶<lb
  n="0299b06" ed="T"/></ab>
-<ab type="prose">此呪法若降伏者以手觸像邊第五。<lb
+<ab type='prose'>此呪法若降伏者以手觸像邊第五。<lb
  n="0299b07" ed="T"/></ab>
-<ab type="dharani">唵毘牟囉迦夜牟梨夜娑婆訶　唵訶<lb
+<ab type='dharani'>唵毘牟囉迦夜牟梨夜娑婆訶　唵訶<lb
  n="0299b08" ed="T"/>數迦夜爐梨夜娑婆訶<lb
  n="0299b09" ed="T"/></ab>
-<ab type="prose">又法令身昏沈。以手觸像心即得。又法若<lb
+<ab type='prose'>又法令身昏沈。以手觸像心即得。又法若<lb
  n="0299b10" ed="T"/>欲降伏人。取像擬彼人心即得。用第一呪。<lb
  n="0299b11" ed="T"/>又法欲禁怨家者。以手把像擬彼眼。其彼即<lb
  n="0299b12" ed="T"/>禁。又法欲令人愛敬者。以手觸像膊。即用<lb
@@ -157,9 +157,9 @@
  n="0299c02" ed="T"/>及花供養。一牙種種飲食香花供養。童子使<lb
  n="0299c03" ed="T"/>呪者。第二呪召請。<lb
  n="0299c04" ed="T"/></ab>
-<ab type="dharani">唵縛迦羅準荼阿地波哆曳莎訶<lb
+<ab type='dharani'>唵縛迦羅準荼阿地波哆曳莎訶<lb
  n="0299c05" ed="T"/></ab>
-<ab type="prose">其使者身作人形。頭作羊頭牛蹄手捉棒棒<lb
+<ab type='prose'>其使者身作人形。頭作羊頭牛蹄手捉棒棒<lb
  n="0299c06" ed="T"/>頭踵地。鬼神道中呪極惡名夜叉縛鬼呪。亦<lb
  n="0299c07" ed="T"/>用與一切鬼。即日別如此。一七日誦十萬遍。<lb
  n="0299c08" ed="T"/>若呪藥與人病乍立差也。不得食胡臯牛肉<lb
@@ -168,11 +168,11 @@
  n="0299c11" ed="T"/>隱誦之呪。各一茅草安四方為界。第四本<lb
  n="0299c12" ed="T"/>身呪。<lb
  n="0299c13" ed="T"/></ab>
-<ab type="dharani">那牟毘那夜迦寫阿悉知目佉寫哆姪他阿<lb
+<ab type='dharani'>那牟毘那夜迦寫阿悉知目佉寫哆姪他阿<lb
  n="0299c14" ed="T"/>知耶那智耶殊幡帝耶烏悉曇迦耶悉婆拖<lb
  n="0299c15" ed="T"/>鉢耶婆達薩寫耶耶婆唎遲莎訶<lb
  n="0299c16" ed="T"/></ab>
-<ab type="prose">欲作此法先須造像。或用白鑞及銅木。各剋<lb
+<ab type='prose'>欲作此法先須造像。或用白鑞及銅木。各剋<lb
  n="0299c17" ed="T"/>作其形像。夫婦二身和合相抱立。並作象<lb
  n="0299c18" ed="T"/>頭人身。其造像直不得還價。造其像已。白<lb
  n="0299c19" ed="T"/>月一日。於淨室內用淨牛糞。磨作圓壇隨意<lb
@@ -188,19 +188,19 @@
  n="0300a05" ed="T"/>力。<lb
  n="0300a06" ed="T"/>第五六急疾神王呪<lb
  n="0300a07" ed="T"/></ab>
-<ab type="dharani">藥叉那藥叉那毘舍遮那俱荼也麗哆藥<lb
+<ab type='dharani'>藥叉那藥叉那毘舍遮那俱荼也麗哆藥<lb
  n="0300a08" ed="T"/>若俱盤厨唬屋泲屋屋娑婆訶<lb
  n="0300a09" ed="T"/></ab>
-<ab type="prose">其呪一名急疾二名偏使。不須多誦滿三兩<lb
+<ab type='prose'>其呪一名急疾二名偏使。不須多誦滿三兩<lb
  n="0300a10" ed="T"/>遍即得　第二結界。使者阿闍囉阿闍囉<lb
  n="0300a11" ed="T"/>化為人身即問名。<lb
  n="0300a12" ed="T"/>疊毘疊毘使者毘那夜迦。隱誦之呪各一<lb
  n="0300a13" ed="T"/>茅草。安四方為界第六。<lb
  n="0300a14" ed="T"/></ab>
-<ab type="dharani">唵標哆他耶健陀蔭都羊拏曳南無疊毘毘<lb
+<ab type='dharani'>唵標哆他耶健陀蔭都羊拏曳南無疊毘毘<lb
  n="0300a15" ed="T"/>那夜迦唵置置俱娑婆訶　疊毘呪<lb
  n="0300a16" ed="T"/></ab>
-<ab type="prose">若使者毘那夜迦。不得與人為害作障礙等<lb
+<ab type='prose'>若使者毘那夜迦。不得與人為害作障礙等<lb
  n="0300a17" ed="T"/>事。若欲治瘧病打四箇草枝長寸許。口誦呪<lb
  n="0300a18" ed="T"/>七遍。安患瘧人四畔。各去四尺許。結界其<lb
  n="0300a19" ed="T"/>疊毘在草上瘧即差。若患人不來呪章將去<lb
@@ -217,22 +217,22 @@
  n="0300b01" ed="T"/>已。云慚愧好去。如是語已。壇中雜物盤盛。出<lb
  n="0300b02" ed="T"/>門向西棄却。西北亦得口云。<lb
  n="0300b03" ed="T"/></ab>
-<ab type="dharani">薩婆藥叉囉闍阿謁薩訶婆鉢闍迦車<lb
+<ab type='dharani'>薩婆藥叉囉闍阿謁薩訶婆鉢闍迦車<lb
  n="0300b04" ed="T"/></ab>
-<ab type="prose">作是語已棄却即歸。<lb
+<ab type='prose'>作是語已棄却即歸。<lb
  n="0300b05" ed="T"/>大自在天呪<lb
  n="0300b06" ed="T"/></ab>
-<ab type="dharani">唵毘哆囉薩尼婆囉末唎達尼瞋達尼<lb
+<ab type='dharani'>唵毘哆囉薩尼婆囉末唎達尼瞋達尼<lb
  n="0300b07" ed="T"/>瞋頻達尼莎訶<lb
  n="0300b08" ed="T"/></ab>
-<ab type="prose">誦一百八遍即心歡喜。非但夢中但覺有魔<lb
+<ab type='prose'>誦一百八遍即心歡喜。非但夢中但覺有魔<lb
  n="0300b09" ed="T"/>事。即作法定好。<lb
  n="0300b10" ed="T"/>藥叉神王部攝大急疾第五呪<lb
  n="0300b11" ed="T"/></ab>
-<ab type="dharani">藥叉那藥叉那毘舍遮那俱盤荼耶世麗多藥<lb
+<ab type='dharani'>藥叉那藥叉那毘舍遮那俱盤荼耶世麗多藥<lb
  n="0300b12" ed="T"/>若俱槃厨唬屋鋪屋鋪屋莎訶<lb
  n="0300b13" ed="T"/></ab>
-<ab type="prose">先須三五遍不得多誦。一切鬼神被縛。爾時<lb
+<ab type='prose'>先須三五遍不得多誦。一切鬼神被縛。爾時<lb
  n="0300b14" ed="T"/>毘那羅曩伽。將領九千八百諸大鬼王遊行<lb
  n="0300b15" ed="T"/>三千世界。我等所為神力自在。遍歷諸方奉<lb
  n="0300b16" ed="T"/>衛三寶。已大慈悲利益眾生。向於世尊俱發<lb
@@ -241,7 +241,7 @@
  n="0300b19" ed="T"/>那夜伽如是四天下稱皆不同。我於出世<lb
  n="0300b20" ed="T"/>復有別名。即以神變昇虛空。而說偈言。<lb
  n="0300b21" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 我有微妙法　　世間甚希有　　<lb
  n="0300b22" ed="T"/>眾生受持者　　皆與願滿足　　<lb
  n="0300b23" ed="T"/>我行順世法　　世示希有事　　<lb
@@ -282,32 +282,32 @@
  n="0301a01" ed="T"/>頭破作七分　　壽命悉長遠　　<lb
  n="0301a02" ed="T"/>福祿自遷至　　
 </ab><lb
- n="0301a03" ed="T"/><ab type="prose">爾時毘那羅夜迦。說是偈已告世人言。若有<lb
+ n="0301a03" ed="T"/><ab type='prose'>爾時毘那羅夜迦。說是偈已告世人言。若有<lb
  n="0301a04" ed="T"/>至心持我陀羅尼滿十萬遍。皆當作圓壇造<lb
  n="0301a05" ed="T"/>像。一日之中或一時或三時。供養勿令有闕。<lb
  n="0301a06" ed="T"/>滿七日或三七日。我為現身隨願滿足。世人<lb
  n="0301a07" ed="T"/>持我陀羅尼。復有陀羅尼。當持誦呪。於須臾<lb
  n="0301a08" ed="T"/>而受彼請。以具神力。而說呪曰。<lb
  n="0301a09" ed="T"/></ab>
-<ab type="dharani">唵怛姪他毘曩夜迦寫跛利尼耶莎訶<lb
+<ab type='dharani'>唵怛姪他毘曩夜迦寫跛利尼耶莎訶<lb
  n="0301a10" ed="T"/></ab>
-<ab type="prose">爾時毘那羅夜迦。說是呪語已復告人。若<lb
+<ab type='prose'>爾時毘那羅夜迦。說是呪語已復告人。若<lb
  n="0301a11" ed="T"/>法時欲見我身。復當持我明現神呪。至心持<lb
  n="0301a12" ed="T"/>者。我即向其前共語。有所願求皆為滿足。即<lb
  n="0301a13" ed="T"/>以神口說呪曰。<lb
  n="0301a14" ed="T"/></ab>
-<ab type="dharani">唵跋唎遲夜迦寫耶娑婆訶<lb
+<ab type='dharani'>唵跋唎遲夜迦寫耶娑婆訶<lb
  n="0301a15" ed="T"/></ab>
-<ab type="prose">爾時毘那羅夜迦。說是明現呪。以復告世<lb
+<ab type='prose'>爾時毘那羅夜迦。說是明現呪。以復告世<lb
  n="0301a16" ed="T"/>人。若作壇法供養於我。當須兩手結印誦呪<lb
  n="0301a17" ed="T"/>以印。以小指及無名指相交合屈向內。即二<lb
  n="0301a18" ed="T"/>中指竪相叉。頭亦竪各附中指微指。從外<lb
  n="0301a19" ed="T"/>捻中指頭節。以二大指各附頭指。近頭節側<lb
  n="0301a20" ed="T"/>動來去。以為召意。結印成已。而說呪曰。<lb
  n="0301a21" ed="T"/></ab>
-<ab type="dharani">唵薄迦準荼阿波哆曳莎訶<lb
+<ab type='dharani'>唵薄迦準荼阿波哆曳莎訶<lb
  n="0301a22" ed="T"/></ab>
-<ab type="prose">爾時毘那夜迦說如是說已。復告世人。若有<lb
+<ab type='prose'>爾時毘那夜迦說如是說已。復告世人。若有<lb
  n="0301a23" ed="T"/>持我陀羅尼者。當為說作壇畫像法。汝當諦<lb
  n="0301a24" ed="T"/>聽不得異疑。縱有持法者。當須至心誦滿十<lb
  n="0301a25" ed="T"/>萬遍。即作壇如是一度至心。我亦隨願滿足。<lb
@@ -318,7 +318,7 @@
  n="0301b01" ed="T"/>日為首。圓壇量可一肘。或可隨意大小。當<lb
  n="0301b02" ed="T"/>用小黃犢子糞以作圓基。自填計合厚薄。隨<lb
  n="0301b03" ed="T"/>意加復香泥高於七寸。或可三寸或尺二寸。<lb
- n="0301b04" ed="T"/>其土用處隱他󱄛深谷一小畜不󱄃者。又<lb
+ n="0301b04" ed="T"/>其土用處隱他𮥫深谷一小畜不𭒎者。又<lb
  n="0301b05" ed="T"/>造像取唐桃及唐棗。剋相好不得輕翫。或<lb
  n="0301b06" ed="T"/>復銀銅及以白鑞鑄。於以用皆得相好不<lb
  n="0301b07" ed="T"/>新。珍作形像。雙身象頭抱持相合。而有左<lb
@@ -365,7 +365,7 @@
  n="0301c19" ed="T"/>口鼻俱白似金剛形。然須有男女相。男象鼻<lb
  n="0301c20" ed="T"/>長曲。女鼻微短。眼長身肥。皆如喜㗛著拂<lb
  n="0301c21" ed="T"/>稟衣。前名塔堹如諸用著令熳此部不同。<lb
- n="0301c22" ed="T"/>男衣窄女衣慢。脚踏蓮花。脚手臂膊󱃈皆有<lb
+ n="0301c22" ed="T"/>男衣窄女衣慢。脚踏蓮花。脚手臂膊𭕶皆有<lb
  n="0301c23" ed="T"/>瓔珠。造像成了。即取白膠香揩磨。又燒白<lb
  n="0301c24" ed="T"/>膠香。薰一合像得香淨。即立像安淨處。如<pb n="0302a" id="T21.1268.0302a" ed="T"/><lb
  n="0302a01" ed="T"/>法即誦呪一百八遍。如是每至七日供養。然<lb
@@ -393,9 +393,9 @@
  n="0302a23" ed="T"/>作歡喜菩薩。使請者一切事等物知好惡。七<lb
  n="0302a24" ed="T"/>日欲出壇解法呪。三遍呪。<lb
  n="0302a25" ed="T"/></ab>
-<ab type="dharani">唵毘娑婆莎訶<lb
+<ab type='dharani'>唵毘娑婆莎訶<lb
  n="0302a26" ed="T"/></ab>
-<ab type="prose">凡立壇受壇法於山野及水邊淨最妙。不然<lb
+<ab type='prose'>凡立壇受壇法於山野及水邊淨最妙。不然<lb
  n="0302a27" ed="T"/>於山家中別院。不得婦人產生并姙娠鷄狗<lb
  n="0302a28" ed="T"/>等見。次用兩箇十五已上童女著淨衣。私承<lb
  n="0302a29" ed="T"/>身使出院　凡欲念誦聖者。先內淨服藥一<pb n="0302b" id="T21.1268.0302b" ed="T"/><lb
@@ -446,13 +446,13 @@
  n="0302c16" ed="T"/>中夜有婦人。見極端正。此切作意避起諸<lb
  n="0302c17" ed="T"/>臥。<lb
  n="0302c18" ed="T"/></ab>
-<ab type="dharani">唵度卑伽耶鉢羅闍跋利儞娑婆訶</ab>
-<ab type="prose">洗浴七遍。<lb
+<ab type='dharani'>唵度卑伽耶鉢羅闍跋利儞娑婆訶</ab>
+<ab type='prose'>洗浴七遍。<lb
  n="0302c19" ed="T"/></ab>
-<ab type="dharani">唵部闍跋羅吽<lb
+<ab type='dharani'>唵部闍跋羅吽<lb
  n="0302c20" ed="T"/>
-</ab><ab type="juan" subtype="close">大使呪法經</ab></div><pb n="0303a" id="T21.1268.0303a" ed="T"/><lb
- n="0303a01" ed="T"/><div type="w" level="2"><ab type="prose">此本未再治歟。又後生展轉寫誤乎。他<lb
+</ab><ab type='juan' subtype='close'>大使呪法經</ab></div><pb n="0303a" id="T21.1268.0303a" ed="T"/><lb
+ n="0303a01" ed="T"/><div type='w' level='2'><ab type='prose'>此本未再治歟。又後生展轉寫誤乎。他<lb
  n="0303a02" ed="T"/>日考正本而質之耳。<lb
  n="0303a03" ed="T"/>　　　　　時寶曆四甲戌秋夷則中浣</ab></div></div>
 </body></text></TEI>

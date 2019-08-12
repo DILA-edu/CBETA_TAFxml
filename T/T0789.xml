@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T17</biblScope>
                     <idno type="Taisho">T17n0789</idno>
                 </bibl>
@@ -43,20 +43,20 @@
  n="0727c01" ed="T"/><lb
  n="0727c02" ed="T"/><lb
  n="0727c03" ed="T"/>
-<ab type="juan" subtype="open">金剛頂瑜伽念珠經</ab><lb
+<ab type='juan' subtype='open'>金剛頂瑜伽念珠經</ab><lb
  n="0727c04" ed="T"/><lb
  n="0727c05" ed="T"/><byline>開府儀同三司特進試鴻臚卿肅國<lb
  n="0727c06" ed="T"/>公食邑三千戶賜紫贈司空謚大鑒<lb
  n="0727c07" ed="T"/>正號大廣智大興善寺三藏沙門不空<lb
  n="0727c08" ed="T"/>奉　詔譯</byline><lb
- n="0727c09" ed="T"/><div type="jing" level="1"><ab type="prose">爾時，毘盧遮那世尊告金剛手言：「善哉，善哉！<lb
+ n="0727c09" ed="T"/><div type='jing' level='1'><ab type='prose'>爾時，毘盧遮那世尊告金剛手言：「善哉，善哉！<lb
  n="0727c10" ed="T"/>為諸修真言行菩薩者，說諸儀軌則。哀愍未<lb
  n="0727c11" ed="T"/>來諸有情等，說念珠功德勝利。由聞如是妙<lb
  n="0727c12" ed="T"/>意趣故，速證悉地。」時，金剛薩埵菩薩白佛言：<lb
  n="0727c13" ed="T"/>「唯然世尊！我今為說之。」爾時，金剛薩埵菩薩<lb
  n="0727c14" ed="T"/>而說偈言：<lb
  n="0727c15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「珠表菩薩之勝果，　　於中間絕為斷漏，　　<lb
  n="0727c16" ed="T"/>繩線貫串表觀音，　　母珠以表無量壽，　　<lb
  n="0727c17" ed="T"/>慎莫驀過越法罪，　　皆由念珠積功德。　　<lb
@@ -80,8 +80,8 @@
  n="0728a06" ed="T"/>若修真言陀羅尼，　　念諸如來菩薩名，　　<lb
  n="0728a07" ed="T"/>當獲無量勝功德，　　所求勝願皆成就。」　　
 </ab><lb
- n="0728a08" ed="T"/><ab type="prose">加持念珠貫串之法，一如《蘇悉地經》說。其瑜<lb
+ n="0728a08" ed="T"/><ab type='prose'>加持念珠貫串之法，一如《蘇悉地經》說。其瑜<lb
  n="0728a09" ed="T"/>伽經但說其功能、理趣，不說相，應知。</ab></div><lb
  n="0728a10" ed="T"/>
-<ab type="juan" subtype="close">金剛頂瑜伽念珠經</ab>
+<ab type='juan' subtype='close'>金剛頂瑜伽念珠經</ab>
 </body></text></TEI>

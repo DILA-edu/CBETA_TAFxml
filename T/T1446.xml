@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T23</biblScope>
                     <idno type="Taisho">T23n1446</idno>
                 </bibl>
@@ -44,11 +44,11 @@
  n="1044c08" ed="T"/><lb
  n="1044c09" ed="T"/><lb
  n="1044c10" ed="T"/>
-<ab type="juan" subtype="open">根本說一切有部毘奈耶隨意事<lb
+<ab type='juan' subtype='open'>根本說一切有部毘奈耶隨意事<lb
  n="1044c11" ed="T"/>一卷</ab><lb
  n="1044c12" ed="T"/><lb
  n="1044c13" ed="T"/><byline>大唐三藏義淨奉　制譯</byline><lb
- n="1044c14" ed="T"/><div type="jing" level="1"><ab type="prose">爾時薄伽梵在室羅筏城逝多林給孤獨園，<lb
+ n="1044c14" ed="T"/><div type='jing' level='1'><ab type='prose'>爾時薄伽梵在室羅筏城逝多林給孤獨園，<lb
  n="1044c15" ed="T"/>三月雨安居。時有眾多苾芻，於餘處安居，各<lb
  n="1044c16" ed="T"/>共立制，作如是言：「諸具壽！我等安居三月，不<lb
  n="1044c17" ed="T"/>應言諸破戒、破見、破軌儀、非正命等。若見有<lb
@@ -127,7 +127,7 @@
  n="1045c03" ed="T"/>如次，一一對五德苾芻，同前作法。其受隨意<lb
  n="1045c04" ed="T"/>苾芻，應向上座前立，作如是白言：『大德諸妹！<lb
  n="1045c05" ed="T"/>二部僧伽，已作隨意竟。』二部僧伽並應唱<lb
- n="1045c06" ed="T"/>言：『善哉已作隨意，極善已作順意。』唱者善，如<lb
+ n="1045c06" ed="T"/>言：『善哉已作隨意，極善已作隨意。』唱者善，如<lb
  n="1045c07" ed="T"/>不唱者，得惡作罪。受隨意苾芻，應持小刀子、<lb
  n="1045c08" ed="T"/>或持針線、或持諸雜沙門資具，在上座前立，<lb
  n="1045c09" ed="T"/>作如是言：『大德！此等諸物，頗得與安居竟<lb
@@ -288,7 +288,7 @@
  n="1047b19" ed="T"/>意。若苾芻至隨意時，於他勝罪而生疑惑，或<lb
  n="1047b20" ed="T"/>有不是他勝。若犯他勝，不共住者，不成苾芻。<lb
  n="1047b21" ed="T"/>若不是不共住等，應且住然後隨意。若隨意<lb
- n="1047b22" ed="T"/>時，有苾芻或有說罪、若有羯磨其出說罪<lb
+ n="1047b22" ed="T"/>時，有苾芻或有說罪、或有羯磨其出說罪<lb
  n="1047b23" ed="T"/>者，應先說罪，後當隨意。其有羯磨出者，應先<lb
  n="1047b24" ed="T"/>羯磨後方隨意。若隨意時，或有苾芻自相謂<lb
  n="1047b25" ed="T"/>曰：「汝身有罪。」其舉罪苾芻不善身口意者，不<lb
@@ -377,5 +377,5 @@
  n="1048b21" ed="T"/>名字，是名有人有事。云何名無人無事？二俱<lb
  n="1048b22" ed="T"/>無故，是名為四。<lb
  n="1048b23" ed="T"/>
-</ab><ab type="juan" subtype="close">根本說一切有部毘奈耶隨意事一卷</ab></div>
+</ab><ab type='juan' subtype='close'>根本說一切有部毘奈耶隨意事一卷</ab></div>
 </body></text></TEI>

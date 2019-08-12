@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T15</biblScope>
                     <idno type="Taisho">T15n0647</idno>
                 </bibl>
@@ -41,12 +41,12 @@
     <text>
         <body><lb
  n="0711a19" ed="T"/><lb
- n="0711a20" ed="T"/><div type="jing" level="1"><lb
+ n="0711a20" ed="T"/><div type='jing' level='1'><lb
  n="0711a21" ed="T"/>
-<ab type="juan" subtype="open">力莊嚴三昧經卷上</ab><lb
+<ab type='juan' subtype='open'>力莊嚴三昧經卷上</ab><lb
  n="0711a22" ed="T"/><lb
  n="0711a23" ed="T"/><byline>隋天竺三藏那連提耶舍譯</byline><lb
- n="0711a24" ed="T"/><ab type="prose">如是我聞：一時婆伽婆住舍婆提城祇陀林<lb
+ n="0711a24" ed="T"/><ab type='prose'>如是我聞：一時婆伽婆住舍婆提城祇陀林<lb
  n="0711a25" ed="T"/>樹給孤獨園，與比丘眾五百人俱，一切皆是<lb
  n="0711a26" ed="T"/>大阿羅漢，諸漏已盡，無復煩惱，心得好解脫、<lb
  n="0711a27" ed="T"/>慧得好解脫，其心柔和猶調伏象，內外清淨，<lb
@@ -411,14 +411,14 @@
  n="0715b09" ed="T"/>迦牟尼佛、世尊前。彼二童子及餘菩薩，各各<lb
  n="0715b10" ed="T"/>頭面頂禮佛足，禮畢皆退坐蓮花座。<lb
  n="0715b11" ed="T"/>
-</ab><ab type="juan" subtype="close">力莊嚴三昧經卷上</ab><lb
+</ab><ab type='juan' subtype='close'>力莊嚴三昧經卷上</ab><lb
  n="0715b12" ed="T"/><lb
  n="0715b13" ed="T"/><lb
  n="0715b14" ed="T"/>
-<ab type="juan" subtype="open">力莊嚴三昧經卷中</ab><lb
+<ab type='juan' subtype='open'>力莊嚴三昧經卷中</ab><lb
  n="0715b15" ed="T"/><lb
  n="0715b16" ed="T"/><byline>隋天竺三藏那連提耶舍譯</byline><lb
- n="0715b17" ed="T"/><ab type="prose">爾時，佛告長老阿難：「汝今可喚諸比丘集。」是<lb
+ n="0715b17" ed="T"/><ab type='prose'>爾時，佛告長老阿難：「汝今可喚諸比丘集。」是<lb
  n="0715b18" ed="T"/>時阿難受佛教已，即歷處處告諸比丘說如<lb
  n="0715b19" ed="T"/>是言：「汝等當知：世尊導師今命於汝，汝等當<lb
  n="0715b20" ed="T"/>往。」時諸比丘聞是語已，一切皆往，見佛坐於<lb
@@ -584,7 +584,7 @@
  n="0717b06" ed="T"/>大故，亦一切法大智；一切法大智故，亦一<lb
  n="0717b07" ed="T"/>切眾生大智離於障礙。離障礙者，此名一切<lb
  n="0717b08" ed="T"/>眾生名字；又，離障者名為離暗。離於暗者，<lb
- n="0717b09" ed="T"/>此名體性照耀光明；照燿明者，於諸境界無<lb
+ n="0717b09" ed="T"/>此名體性照耀光明；照耀明者，於諸境界無<lb
  n="0717b10" ed="T"/>有塵垢；無塵垢故，名離障礙。眾生大界一而<lb
  n="0717b11" ed="T"/>無異，此名眾生體性大界；一切眾生大界因<lb
  n="0717b12" ed="T"/>緣故，亦一切法離於塵垢不異故大；亦一切<lb
@@ -749,13 +749,13 @@
  n="0719a26" ed="T"/>以如是名色故，如來、多陀阿伽度、阿羅呵、三<lb
  n="0719a27" ed="T"/>藐三佛陀，名一切智、一切見、一切觸、一切覺。」<lb
  n="0719a28" ed="T"/>
-</ab><ab type="juan" subtype="close">力莊嚴三昧經卷中</ab><pb n="0719b" ed="T" id="T15.0647.0719b"/><lb
+</ab><ab type='juan' subtype='close'>力莊嚴三昧經卷中</ab><pb n="0719b" ed="T" id="T15.0647.0719b"/><lb
  n="0719b01" ed="T"/><lb
  n="0719b02" ed="T"/>
-<ab type="juan" subtype="open">力莊嚴三昧經卷下</ab><lb
+<ab type='juan' subtype='open'>力莊嚴三昧經卷下</ab><lb
  n="0719b03" ed="T"/><lb
  n="0719b04" ed="T"/><byline>隋天竺三藏那連提耶舍譯</byline><lb
- n="0719b05" ed="T"/><ab type="prose">爾時，佛告智輪大海辯才童子言：「善男子！汝<lb
+ n="0719b05" ed="T"/><ab type='prose'>爾時，佛告智輪大海辯才童子言：「善男子！汝<lb
  n="0719b06" ed="T"/>見一切如來身不？」智輪童子即白佛言：「世尊！<lb
  n="0719b07" ed="T"/>我見。」佛問智輪：「汝言見者，所見何等？」智輪言：<lb
  n="0719b08" ed="T"/>「世尊！我見一切諸佛、如來。若恒河沙等所有<lb
@@ -1084,5 +1084,5 @@
  n="0723a12" ed="T"/>切菩薩，天、人、阿修羅、乾闥婆一切大眾，聞佛<lb
  n="0723a13" ed="T"/>說法，歡喜奉行。<lb
  n="0723a14" ed="T"/>
-</ab><ab type="juan" subtype="close">力莊嚴三昧經卷下</ab></div>
+</ab><ab type='juan' subtype='close'>力莊嚴三昧經卷下</ab></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n0970</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0357b22" ed="T"/><lb
  n="0357b23" ed="T"/><lb
- n="0357b24" ed="T"/><div type="jing" level="1"><lb
+ n="0357b24" ed="T"/><div type='jing' level='1'><lb
  n="0357b25" ed="T"/>
-<ab type="juan" subtype="open">最勝佛頂陀羅尼淨除業障呪經</ab><lb
+<ab type='juan' subtype='open'>最勝佛頂陀羅尼淨除業障呪經</ab><lb
  n="0357b26" ed="T"/><lb
  n="0357b27" ed="T"/><byline>大唐天竺三藏地婆訶羅奉　制譯</byline><lb
- n="0357b28" ed="T"/><ab type="prose">如是我聞。一時薄伽梵在室羅筏竹筍道場。<lb
+ n="0357b28" ed="T"/><ab type='prose'>如是我聞。一時薄伽梵在室羅筏竹筍道場。<lb
  n="0357b29" ed="T"/>於誓多林給孤獨園中。與大比丘眾八千人<pb n="0357c" id="T19.0970.0357c" ed="T"/><lb
  n="0357c01" ed="T"/>俱。皆是住聲聞位尊者。大阿羅漢眾所知識。<lb
  n="0357c02" ed="T"/>其名曰尊者舍利子。摩訶目乾連。摩訶迦葉。<lb
@@ -200,7 +200,7 @@
  n="0359b04" ed="T"/>願令一切眾生永離八難之苦。爾時世尊為<lb
  n="0359b05" ed="T"/>天帝及善住天子四部眾等即說呪曰。<lb
  n="0359b06" ed="T"/></ab>
-<ab type="dharani">那謨薄伽伐帝啼曬路迦鉢囉底毘<lb
+<ab type='dharani'>那謨薄伽伐帝啼曬路迦鉢囉底毘<lb
  n="0359b07" ed="T"/>失瑟咤耶勃陀耶薄伽伐底<lb
  n="0359b08" ed="T"/>怛姪他唵毘輸馱耶娑摩三漫多<lb
  n="0359b09" ed="T"/>嚩婆娑娑破囉拏揭底伽訶<lb
@@ -226,7 +226,7 @@
  n="0359c01" ed="T"/>薩婆多他揭多地瑟吒那頞地瑟恥帝<lb
  n="0359c02" ed="T"/>摩賀慕底㘑娑婆訶<lb
  n="0359c03" ed="T"/></ab>
-<ab type="prose">佛告天帝。我此清淨諸趣最勝佛頂陀羅尼<lb
+<ab type='prose'>佛告天帝。我此清淨諸趣最勝佛頂陀羅尼<lb
  n="0359c04" ed="T"/>呪。能淨除一切罪業等障能淨除一切三<lb
  n="0359c05" ed="T"/>惡道苦。此陀羅尼呪。八十八俱胝殑伽沙諸<lb
  n="0359c06" ed="T"/>佛同共宣說。嚴記守護隨喜讚歎。一切如來<lb
@@ -395,5 +395,5 @@
  n="0361c15" ed="T"/>畢舍遮人非人等。聞佛所說皆大歡喜。作禮<lb
  n="0361c16" ed="T"/>而去信受奉行。<lb
  n="0361c17" ed="T"/>
-</ab><ab type="juan" subtype="close">最勝佛頂陀羅尼淨除業障呪經</ab></div>
+</ab><ab type='juan' subtype='close'>最勝佛頂陀羅尼淨除業障呪經</ab></div>
 </body></text></TEI>

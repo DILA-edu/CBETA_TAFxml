@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1128</idno>
                 </bibl>
@@ -43,11 +43,11 @@
  n="0542c01" ed="T"/><lb
  n="0542c02" ed="T"/><lb
  n="0542c03" ed="T"/>
-<ab type="juan" subtype="open">最上大乘金剛大教寶王經卷上</ab><lb
+<ab type='juan' subtype='open'>最上大乘金剛大教寶王經卷上</ab><lb
  n="0542c04" ed="T"/><lb
  n="0542c05" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚卿<lb
  n="0542c06" ed="T"/>傳教大師臣法天奉　詔譯</byline><lb
- n="0542c07" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞。一時世尊。在廣嚴城菴羅樹園。與<lb
+ n="0542c07" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞。一時世尊。在廣嚴城菴羅樹園。與<lb
  n="0542c08" ed="T"/>大苾芻眾六十萬人俱。其名曰尊者大迦葉<lb
  n="0542c09" ed="T"/>尊者優樓頻螺迦葉。尊者那提迦葉尊者須<lb
  n="0542c10" ed="T"/>菩提。尊者尊那尊者大目乾連。尊者舍利弗<lb
@@ -267,14 +267,14 @@
  n="0545a21" ed="T"/>事供養恭敬讚歎一如聖旨。爾時金剛手菩<lb
  n="0545a22" ed="T"/>薩摩訶薩化事畢已。即於彼處隱沒不現。<lb
  n="0545a23" ed="T"/>
-</ab><ab type="juan" subtype="close">最上大乘金剛大教寶王經卷上</ab><pb n="0545b" id="T20.1128.0545b" ed="T"/><lb
+</ab><ab type='juan' subtype='close'>最上大乘金剛大教寶王經卷上</ab><pb n="0545b" id="T20.1128.0545b" ed="T"/><lb
  n="0545b01" ed="T"/><lb
  n="0545b02" ed="T"/>
-<ab type="juan" subtype="open">最上大乘金剛大教寶王經卷下</ab><lb
+<ab type='juan' subtype='open'>最上大乘金剛大教寶王經卷下</ab><lb
  n="0545b03" ed="T"/><lb
  n="0545b04" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚卿<lb
  n="0545b05" ed="T"/>傳教大師臣法天奉　詔譯</byline><lb
- n="0545b06" ed="T"/><ab type="prose">爾時世尊。復告印捺囉部帝大王言。大王<lb
+ n="0545b06" ed="T"/><ab type='prose'>爾時世尊。復告印捺囉部帝大王言。大王<lb
  n="0545b07" ed="T"/>汝於往昔過去無量阿僧祇大劫之前。日清<lb
  n="0545b08" ed="T"/>淨光明如來法中。已曾為王號精進授。汝於<lb
  n="0545b09" ed="T"/>是時與諸學眾。於彼佛處已曾求學金剛大<lb
@@ -554,5 +554,5 @@
  n="0548b22" ed="T"/>經已。歡喜信受作禮而退。金剛手菩薩即於<lb
  n="0548b23" ed="T"/>山中隱沒不現。<lb
  n="0548b24" ed="T"/>
-</ab><ab type="juan" subtype="close">最上大乘金剛大教寶王經卷下</ab></div>
+</ab><ab type='juan' subtype='close'>最上大乘金剛大教寶王經卷下</ab></div>
 </body></text></TEI>

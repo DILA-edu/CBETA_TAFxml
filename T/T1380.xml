@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1380</idno>
                 </bibl>
@@ -42,13 +42,13 @@
         <body><lb
  n="0902c16" ed="T"/><lb
  n="0902c17" ed="T"/><lb
- n="0902c18" ed="T"/><div type="jing" level="1"><lb
+ n="0902c18" ed="T"/><div type='jing' level='1'><lb
  n="0902c19" ed="T"/>
-<ab type="juan" subtype="open">佛說善樂長者經</ab><lb
+<ab type='juan' subtype='open'>佛說善樂長者經</ab><lb
  n="0902c20" ed="T"/><lb
  n="0902c21" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0902c22" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
- n="0902c23" ed="T"/><ab type="prose">如是我聞。一時佛在迦毘羅城。與大眾俱。是<lb
+ n="0902c23" ed="T"/><ab type='prose'>如是我聞。一時佛在迦毘羅城。與大眾俱。是<lb
  n="0902c24" ed="T"/>時有一釋種長者。名曰善樂住在本處。而彼<lb
  n="0902c25" ed="T"/>長者信重三寶。歸依佛歸依法歸依僧。唯信<lb
  n="0902c26" ed="T"/>佛法僧不復信於諸餘外道。唯求佛法僧善<lb
@@ -64,7 +64,7 @@
  n="0903a07" ed="T"/>拔護持令得寂靜安樂。乃至與彼四眾亦作<lb
  n="0903a08" ed="T"/>利益安樂故。<lb
  n="0903a09" ed="T"/>爾時世尊為善樂長者等。說此清淨眼祕密<lb
- n="0903a10" ed="T"/>大神呪曰　怛󰍕他呬里彌里企里<lb
+ n="0903a10" ed="T"/>大神呪曰　怛𭔞他呬里彌里企里<lb
  n="0903a11" ed="T"/>呬係多忽喻忽喻忽夜尾底忽盧忽<lb
  n="0903a12" ed="T"/>盧忽盧訥訥訥訥盧以此清淨眼祕密神<lb
  n="0903a13" ed="T"/>呪句力。眼得清淨除去昏暗除去翳障。乃至<lb
@@ -112,10 +112,10 @@
  n="0903b26" ed="T"/>實力。以如是等真實力故。眼得清淨。<lb
  n="0903b27" ed="T"/>爾時世尊復說祕密神呪曰。<lb
  n="0903b28" ed="T"/></ab>
-<ab type="dharani">那謨沒馱寫婆誐嚩都悉殿覩滿怛囉<lb
+<ab type='dharani'>那謨沒馱寫婆誐嚩都悉殿覩滿怛囉<lb
  n="0903b29" ed="T"/>鉢那莎賀<pb n="0903c" id="T21.1380.0903c" ed="T"/><lb
  n="0903c01" ed="T"/></ab>
-<ab type="prose">佛告阿難此祕密大神呪。若人日日三時。與<lb
+<ab type='prose'>佛告阿難此祕密大神呪。若人日日三時。與<lb
  n="0903c02" ed="T"/>前神呪同共依法誦念。是人所有眼病悉皆<lb
  n="0903c03" ed="T"/>消除。<lb
  n="0903c04" ed="T"/>爾時尊者阿難白佛言世尊。我今承佛聖旨<lb
@@ -124,5 +124,5 @@
  n="0903c07" ed="T"/>是經已尊者阿難及諸大眾。聞佛所說皆大<lb
  n="0903c08" ed="T"/>歡喜信受奉行。<lb
  n="0903c09" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說善樂長者經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說善樂長者經</ab></div>
 </body></text></TEI>

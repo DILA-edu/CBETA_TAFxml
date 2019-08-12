@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T31</biblScope>
                     <idno type="Taisho">T31n1603</idno>
                 </bibl>
@@ -39,17 +39,17 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0583b18" ed="T"/><lb
- n="0583b19" ed="T"/><div type="pin" level="2"><lb
+ n="0583b19" ed="T"/><div type='pin' level='2'><lb
  n="0583b20" ed="T"/>
-<ab type="juan" subtype="open">顯揚聖教論頌</ab><lb
+<ab type='juan' subtype='open'>顯揚聖教論頌</ab><lb
  n="0583b21" ed="T"/><lb
  n="0583b22" ed="T"/><byline>無著菩薩造</byline><lb
  n="0583b23" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
  n="0583b24" ed="T"/><head>攝事品第一</head><lb
- n="0583b25" ed="T"/><ab type="verse">
+ n="0583b25" ed="T"/><ab type='verse'>
 善逝善說妙三身　　無畏無流證教法　　<lb
  n="0583b26" ed="T"/>上乘真實牟尼子　　我今至誠先讚禮　　<lb
  n="0583b27" ed="T"/>稽首次敬大慈尊　　將紹種智法王位　　<lb
@@ -109,8 +109,8 @@
  n="0584a23" ed="T"/>若欲正修行　　遍知等功德　　<lb
  n="0584a24" ed="T"/>由十種法行　　及六種理趣　　
 </ab></div><lb
- n="0584a25" ed="T"/><div type="pin" level="2"><head>攝淨義品第二</head><lb
- n="0584a26" ed="T"/><ab type="verse">
+ n="0584a25" ed="T"/><div type='pin' level='2'><head>攝淨義品第二</head><lb
+ n="0584a26" ed="T"/><ab type='verse'>
 諸論中勝論　　亦善入瑜伽　　<lb
  n="0584a27" ed="T"/>清淨義應知　　由具四淨德　　<lb
  n="0584a28" ed="T"/>攝一切義故　　彼外不壞故　　<lb
@@ -154,8 +154,8 @@
  n="0584c08" ed="T"/>諸地相作意　　依處德非德　　<lb
  n="0584c09" ed="T"/>所對治能治　　略廣義應知　　
 </ab></div><lb
- n="0584c10" ed="T"/><div type="pin" level="2"><head>成善巧品第三</head><lb
- n="0584c11" ed="T"/><ab type="verse">
+ n="0584c10" ed="T"/><div type='pin' level='2'><head>成善巧品第三</head><lb
+ n="0584c11" ed="T"/><ab type='verse'>
 於諸蘊界處　　及眾緣起法　　<lb
  n="0584c12" ed="T"/>處非處根諦　　善巧事應知　　<lb
  n="0584c13" ed="T"/>身者自在等　　無因身者住　　<lb
@@ -207,8 +207,8 @@
  n="0585b01" ed="T"/>當知諸善巧　　差別二十三　　<lb
  n="0585b02" ed="T"/>異攝論為先　　後最極清淨　　
 </ab></div><lb
- n="0585b03" ed="T"/><div type="pin" level="2"><head>成無常品第四</head><lb
- n="0585b04" ed="T"/><ab type="verse">
+ n="0585b03" ed="T"/><div type='pin' level='2'><head>成無常品第四</head><lb
+ n="0585b04" ed="T"/><ab type='verse'>
 無常謂有為　　三相相應故　　<lb
  n="0585b05" ed="T"/>無常義如應　　六八種應知　　<lb
  n="0585b06" ed="T"/>無性壞轉異　　別離得當有　　<lb
@@ -257,8 +257,8 @@
  n="0585c20" ed="T"/>自種故非他　　待緣故非自　　<lb
  n="0585c21" ed="T"/>無作故非共　　用故非無因　　
 </ab></div><lb
- n="0585c22" ed="T"/><div type="pin" level="2"><head>成苦品第五</head><lb
- n="0585c23" ed="T"/><ab type="verse">
+ n="0585c22" ed="T"/><div type='pin' level='2'><head>成苦品第五</head><lb
+ n="0585c23" ed="T"/><ab type='verse'>
 生為欲離因　　滅生和合欲　　<lb
  n="0585c24" ed="T"/>倒無倒厭離　　彼因為苦相　　<lb
  n="0585c25" ed="T"/>依三受差別　　建立三苦相　　<lb
@@ -300,8 +300,8 @@
  n="0586b03" ed="T"/>纏疑不樂離　　沈惡趣餘趣　　<lb
  n="0586b04" ed="T"/>下劣行所起　　遍獨眾苦盡　　
 </ab></div><lb
- n="0586b05" ed="T"/><div type="pin" level="2"><head>成空品第六</head><lb
- n="0586b06" ed="T"/><ab type="verse">
+ n="0586b05" ed="T"/><div type='pin' level='2'><head>成空品第六</head><lb
+ n="0586b06" ed="T"/><ab type='verse'>
 若於此無有　　及此餘所有　　<lb
  n="0586b07" ed="T"/>隨二種道理　　說空相無二　　<lb
  n="0586b08" ed="T"/>甚深相應知　　取捨無增減　　<lb
@@ -349,8 +349,8 @@
  n="0586c21" ed="T"/>修果應當知　　三菩提功德　　<lb
  n="0586c22" ed="T"/>依止轉依性　　所作事成就　　
 </ab></div><lb
- n="0586c23" ed="T"/><div type="pin" level="2"><head>成無性品第七</head><lb
- n="0586c24" ed="T"/><ab type="verse">
+ n="0586c23" ed="T"/><div type='pin' level='2'><head>成無性品第七</head><lb
+ n="0586c24" ed="T"/><ab type='verse'>
 三自性應知　　初遍計所執　　<lb
  n="0586c25" ed="T"/>次依他起性　　最後圓成實　　<lb
  n="0586c26" ed="T"/>三無性應知　　不離三自性　　<lb
@@ -400,8 +400,8 @@
  n="0587b12" ed="T"/>不住生滅故　　諸佛智無上　　<lb
  n="0587b13" ed="T"/>利樂諸有情　　不思議無二　　
 </ab></div><lb
- n="0587b14" ed="T"/><div type="pin" level="2"><head>成現觀品第八</head><lb
- n="0587b15" ed="T"/><ab type="verse">
+ n="0587b14" ed="T"/><div type='pin' level='2'><head>成現觀品第八</head><lb
+ n="0587b15" ed="T"/><ab type='verse'>
 當知現所觀　　下中上品事　　<lb
  n="0587b16" ed="T"/>有漏及無漏　　未見未受遍　　<lb
  n="0587b17" ed="T"/>出世間勝智　　能除見所斷　　<lb
@@ -453,8 +453,8 @@
  n="0588a05" ed="T"/>此現觀差別　　或六或十八　　<lb
  n="0588a06" ed="T"/>相勝利眾多　　隨經論廣說　　
 </ab></div><lb
- n="0588a07" ed="T"/><div type="pin" level="2"><head>成瑜伽品第九</head><lb
- n="0588a08" ed="T"/><ab type="verse">
+ n="0588a07" ed="T"/><div type='pin' level='2'><head>成瑜伽品第九</head><lb
+ n="0588a08" ed="T"/><ab type='verse'>
 般若度瑜伽　　等至無分別　　<lb
  n="0588a09" ed="T"/>一切一切種　　無有分別故　　<lb
  n="0588a10" ed="T"/>一切一切種　　三相與三輪　　<lb
@@ -464,8 +464,8 @@
  n="0588a14" ed="T"/>若都無所取　　無慧亦無度　　<lb
  n="0588a15" ed="T"/>俱成取離言　　為順非無用　　
 </ab></div><lb
- n="0588a16" ed="T"/><div type="pin" level="2"><head>成不思議品第十</head><lb
- n="0588a17" ed="T"/><ab type="verse">
+ n="0588a16" ed="T"/><div type='pin' level='2'><head>成不思議品第十</head><lb
+ n="0588a17" ed="T"/><ab type='verse'>
 九事不思議　　由依止五處　　<lb
  n="0588a18" ed="T"/>有五種因故　　得失俱三種　　<lb
  n="0588a19" ed="T"/>不應思不記　　當知由四因　　<lb
@@ -487,8 +487,8 @@
  n="0588b06" ed="T"/>諸佛之所說　　遍知等無違　　<lb
  n="0588b07" ed="T"/>五因二因故　　於此不應思　　
 </ab></div><lb
- n="0588b08" ed="T"/><div type="pin" level="2"><head>攝勝決擇品第十一</head><lb
- n="0588b09" ed="T"/><ab type="verse">
+ n="0588b08" ed="T"/><div type='pin' level='2'><head>攝勝決擇品第十一</head><lb
+ n="0588b09" ed="T"/><ab type='verse'>
 數相別有處　　邊際與生起　　<lb
  n="0588b10" ed="T"/>想善巧攝等　　勝決擇諸事　　<lb
  n="0588b11" ed="T"/>心性有二種　　異熟及與轉　　<lb
@@ -587,5 +587,5 @@
  n="0589b17" ed="T"/>奢摩他與觀　　依影像成就　　
 </ab><lb
  n="0589b18" ed="T"/>
-<ab type="juan" subtype="close">顯揚聖教論頌</ab></div></div>
+<ab type='juan' subtype='close'>顯揚聖教論頌</ab></div></div>
 </body></text></TEI>

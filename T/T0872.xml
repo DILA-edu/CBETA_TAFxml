@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T18</biblScope>
                     <idno type="Taisho">T18n0872</idno>
                 </bibl>
@@ -39,17 +39,17 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0297c08" ed="T"/><lb
  n="0297c09" ed="T"/><lb
- n="0297c10" ed="T"/><div type="jing" level="2"><lb
+ n="0297c10" ed="T"/><div type='jing' level='2'><lb
  n="0297c11" ed="T"/>
-<ab type="juan" subtype="open">金剛頂瑜伽三十七尊出生義</ab><lb
+<ab type='juan' subtype='open'>金剛頂瑜伽三十七尊出生義</ab><lb
  n="0297c12" ed="T"/><lb
  n="0297c13" ed="T"/><byline>特進試鴻臚卿大興寺三藏沙門<lb
  n="0297c14" ed="T"/>大廣智不空奉　詔譯</byline><lb
- n="0297c15" ed="T"/><ab type="prose">我能仁如來。憫三有六趣之惑。常由蘊界入<lb
+ n="0297c15" ed="T"/><ab type='prose'>我能仁如來。憫三有六趣之惑。常由蘊界入<lb
  n="0297c16" ed="T"/>等。受生死妄執。空華無而虛計。衣珠有而不<lb
  n="0297c17" ed="T"/>知。於是乎收跡都史天宮下。生中印土。<lb
  n="0297c18" ed="T"/>起化城以接之。由糞除以誘之。及乎大種<lb
@@ -169,8 +169,8 @@
  n="0299a16" ed="T"/>是從法生。得膺金剛名。已墮菩薩數。其有<lb
  n="0299a17" ed="T"/>觸視之者。則為菩提因觀焉。<lb
  n="0299a18" ed="T"/>
-</ab><ab type="juan" subtype="close">金剛頂瑜伽三十七尊出生義</ab></div><lb
- n="0299a19" ed="T"/><div type="w" level="2"><ab type="prose">靈雲校本末云。<lb
+</ab><ab type='juan' subtype='close'>金剛頂瑜伽三十七尊出生義</ab></div><lb
+ n="0299a19" ed="T"/><div type='w' level='2'><ab type='prose'>靈雲校本末云。<lb
  n="0299a20" ed="T"/>貞享三年五月初朔校之了<lb
  n="0299a21" ed="T"/>同二十四日再校了<lb
  n="0299a22" ed="T"/>行本文字多譌冀得善本正之淨嚴</ab></div></div>

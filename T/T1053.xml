@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1053</idno>
                 </bibl>
@@ -44,12 +44,12 @@
  n="0068a15" ed="T"/><lb
  n="0068a16" ed="T"/><lb
  n="0068a17" ed="T"/>
-<ab type="juan" subtype="open">聖觀自在菩薩功德讚</ab><lb
+<ab type='juan' subtype='open'>聖觀自在菩薩功德讚</ab><lb
  n="0068a18" ed="T"/><lb
  n="0068a19" ed="T"/><byline>西方賢聖集</byline><lb
  n="0068a20" ed="T"/><byline>西天譯經三藏朝奉大夫試鴻臚卿<lb
  n="0068a21" ed="T"/>傳法大師臣施護奉　詔譯</byline><lb
- n="0068a22" ed="T"/><div type="jing" level="1"><ab type="verse">
+ n="0068a22" ed="T"/><div type='jing' level='1'><ab type='verse'>
 歸命最聖觀自在，　　滿月妙相蓮華生，　　<lb
  n="0068a23" ed="T"/>能以無畏施有情，　　我今稱讚彼功德：　　<lb
  n="0068a24" ed="T"/>「一切善法悉具足，　　頂戴諸佛大智冠，　　<lb
@@ -144,5 +144,5 @@
  n="0069a26" ed="T"/>假以百舌千劫中，　　稱揚讚歎不能盡。　　
 </ab><lb
  n="0069a27" ed="T"/>
-<ab type="juan" subtype="close">聖觀自在菩薩功德讚</ab></div>
+<ab type='juan' subtype='close'>聖觀自在菩薩功德讚</ab></div>
 </body></text></TEI>

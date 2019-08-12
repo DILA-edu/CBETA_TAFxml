@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T10</biblScope>
                     <idno type="Taisho">T10n0309</idno>
                 </bibl>
@@ -39,18 +39,18 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0966a" ed="T" id="T10.0309.0966a"/><lb
  n="0966a01" ed="T"/><lb
  n="0966a02" ed="T"/><lb
  n="0966a03" ed="T"/><lb
- n="0966a04" ed="T"/><div type="pin" level="2">
-<ab type="juan" subtype="open">最勝問菩薩十住除垢斷結經<lb
+ n="0966a04" ed="T"/><div type='pin' level='2'>
+<ab type='juan' subtype='open'>最勝問菩薩十住除垢斷結經<lb
  n="0966a05" ed="T"/>卷第一</ab><lb
  n="0966a06" ed="T"/><lb
  n="0966a07" ed="T"/><byline>姚秦涼州沙門竺佛念譯</byline><lb
  n="0966a08" ed="T"/><head>道引品第一</head><lb
- n="0966a09" ed="T"/><ab type="prose">聞如是：一時佛在毘舍離城㮏氏樹園，與大<lb
+ n="0966a09" ed="T"/><ab type='prose'>聞如是：一時佛在毘舍離城㮏氏樹園，與大<lb
  n="0966a10" ed="T"/>比丘眾八萬四千，菩薩十萬四千人俱——普皆<lb
  n="0966a11" ed="T"/>大聖玄鑒通達，獲致總持辯無滯礙，三昧常<lb
  n="0966a12" ed="T"/>定慧無畏難，解了纏縺十二行本，以逮深要<lb
@@ -227,8 +227,8 @@
  n="0968a09" ed="T"/>三十四無漏聖意具諸功德，悉為成辦，觀于<lb
  n="0968a10" ed="T"/>無常苦空非身，解知無二，乃於一地而淨其<lb
  n="0968a11" ed="T"/>跡也。」</ab></div><lb
- n="0968a12" ed="T"/><div type="pin" level="2"><head>留化品第二</head><lb
- n="0968a13" ed="T"/><ab type="prose">爾時最勝菩薩前白佛言：「云何菩薩於二住<lb
+ n="0968a12" ed="T"/><div type='pin' level='2'><head>留化品第二</head><lb
+ n="0968a13" ed="T"/><ab type='prose'>爾時最勝菩薩前白佛言：「云何菩薩於二住<lb
  n="0968a14" ed="T"/>地而具足行，必果所願無有中錯？」佛告最勝：<lb
  n="0968a15" ed="T"/>「菩薩於二地中常當思惟，念淨其戒識其重<lb
  n="0968a16" ed="T"/>恩，勤行忍辱謙恭卑下，常懷喜悅先笑後言，<lb
@@ -320,8 +320,8 @@
  n="0969a16" ed="T"/>求七慧，煎熬三愛善制四流，修六重法成果<lb
  n="0969a17" ed="T"/>證行。如是，最勝！菩薩大士具諸法已，知無形<lb
  n="0969a18" ed="T"/>貌而不可見，是謂習學淨於二地。」</ab></div><lb
- n="0969a19" ed="T"/><div type="pin" level="2"><head>空觀品第三</head><lb
- n="0969a20" ed="T"/><ab type="prose">爾時最勝菩薩復白佛言：「云何菩薩於三地<lb
+ n="0969a19" ed="T"/><div type='pin' level='2'><head>空觀品第三</head><lb
+ n="0969a20" ed="T"/><ab type='prose'>爾時最勝菩薩復白佛言：「云何菩薩於三地<lb
  n="0969a21" ed="T"/>中當淨其行？」<lb
  n="0969a22" ed="T"/>世尊告曰：「進學菩薩無出入念，雖多學問義<lb
  n="0969a23" ed="T"/>無厭足，不入文句字體本末，分流法施謙下<lb
@@ -359,7 +359,7 @@
  n="0969b26" ed="T"/>中毛孔氣息所經靡不了達，出氣為溫還報<lb
  n="0969b27" ed="T"/>為冷，解知寂寞都無形質。菩薩觀身分別識<lb
  n="0969b28" ed="T"/>知亦無處所，用清淨故平正無邪，柔軟其心<lb
- n="0969b29" ed="T"/>不懷麁穬，篤信真要未曾變改，志常堅強<pb n="0969c" ed="T" id="T10.0309.0969c"/><lb
+ n="0969b29" ed="T"/>不懷麁獷，篤信真要未曾變改，志常堅強<pb n="0969c" ed="T" id="T10.0309.0969c"/><lb
  n="0969c01" ed="T"/>而無動轉，無能憎嫉而嬈害者。何以故爾？以<lb
  n="0969c02" ed="T"/>其行際不可逮，及有所建立無能誹謗，何敢<lb
  n="0969c03" ed="T"/>興造？無根無罪心垢為消，願令法輪常轉於<lb
@@ -474,8 +474,8 @@
  n="0970c25" ed="T"/>眩惑乃應真空。如是，最勝！菩薩之行分別空<lb
  n="0970c26" ed="T"/>無引致入法，具在苦痛皆令普安。是謂，最勝！<lb
  n="0970c27" ed="T"/>進學菩薩於三住地而淨其行。」</ab></div><lb
- n="0970c28" ed="T"/><div type="pin" level="2"><head>色入品第四</head><lb
- n="0970c29" ed="T"/><ab type="prose">是時最勝菩薩前白佛言：「何謂生貴菩薩於<pb n="0971a" ed="T" id="T10.0309.0971a"/><lb
+ n="0970c28" ed="T"/><div type='pin' level='2'><head>色入品第四</head><lb
+ n="0970c29" ed="T"/><ab type='prose'>是時最勝菩薩前白佛言：「何謂生貴菩薩於<pb n="0971a" ed="T" id="T10.0309.0971a"/><lb
  n="0971a01" ed="T"/>四地中而淨其行？」<lb
  n="0971a02" ed="T"/>佛告最勝：「生貴菩薩於四地中，常當不捨奉<lb
  n="0971a03" ed="T"/>真人法，念在閑靜不離燕坐，於淫怒癡恒<lb
@@ -652,16 +652,16 @@
  n="0972c29" ed="T"/>最勝！當勤習學學無所學，當作是行行無所<pb n="0973a" ed="T" id="T10.0309.0973a"/><lb
  n="0973a01" ed="T"/>行，生貴菩薩於四住中而淨其地。」<lb
  n="0973a02" ed="T"/>
-</ab><ab type="juan" subtype="close">十住斷結經卷第一</ab></div><lb
+</ab><ab type='juan' subtype='close'>十住斷結經卷第一</ab></div><lb
  n="0973a03" ed="T"/><lb
  n="0973a04" ed="T"/><lb
  n="0973a05" ed="T"/><lb
- n="0973a06" ed="T"/><div type="None" level="2">
-<ab type="juan" subtype="open">十住斷結經卷第二</ab><lb
+ n="0973a06" ed="T"/><div type='' level='2'>
+<ab type='juan' subtype='open'>十住斷結經卷第二</ab><lb
  n="0973a07" ed="T"/><lb
  n="0973a08" ed="T"/><byline>姚秦涼州沙門竺佛念譯</byline><lb
  n="0973a09" ed="T"/><head>了空品第五</head><lb
- n="0973a10" ed="T"/><ab type="prose">爾時最勝菩薩復白佛言：「云何修成菩薩於<lb
+ n="0973a10" ed="T"/><ab type='prose'>爾時最勝菩薩復白佛言：「云何修成菩薩於<lb
  n="0973a11" ed="T"/>五住中當淨其地？」佛告最勝：「修成大士常當<lb
  n="0973a12" ed="T"/>遠離居家財業，亦莫親近頻頭彌淫材，修善<lb
  n="0973a13" ed="T"/>功德念除憎嫉，遠離俗會世間因緣，當念和<lb
@@ -878,8 +878,8 @@
  n="0975b21" ed="T"/>處，亦不住中而有僥倖，悉去塵勞是為盡諦；<lb
  n="0975b22" ed="T"/>欲成無上正真道者，了苦習盡斷邪疑心。如<lb
  n="0975b23" ed="T"/>是，最勝！修成菩薩於五住中當淨其地。」</ab></div><lb
- n="0975b24" ed="T"/><div type="pin" level="2"><head>根門品第六</head><lb
- n="0975b25" ed="T"/><ab type="prose">爾時最勝菩薩復白佛言：「云何上位菩薩於<lb
+ n="0975b24" ed="T"/><div type='pin' level='2'><head>根門品第六</head><lb
+ n="0975b25" ed="T"/><ab type='prose'>爾時最勝菩薩復白佛言：「云何上位菩薩於<lb
  n="0975b26" ed="T"/>六住地而淨其行？」佛告最勝：「上位菩薩常當<lb
  n="0975b27" ed="T"/>修行六度無極，不慕所有，成本果誓去聲聞<lb
  n="0975b28" ed="T"/>心，欲淨國土無緣覺意，所為弘廣不為小心，<lb
@@ -1090,8 +1090,8 @@
  n="0978a01" ed="T"/>位菩薩常當思惟，除二十二更樂之本相連<lb
  n="0978a02" ed="T"/>之殃，乃能修習崇菩薩業。是謂，最勝！上位菩<lb
  n="0978a03" ed="T"/>薩於六住中而淨其行。」</ab></div><lb
- n="0978a04" ed="T"/><div type="None" level="2"><head>廣受品第七</head><lb
- n="0978a05" ed="T"/><ab type="prose">爾時最勝菩薩復白佛言：「云何阿毘婆帝菩<lb
+ n="0978a04" ed="T"/><div type='' level='2'><head>廣受品第七</head><lb
+ n="0978a05" ed="T"/><ab type='prose'>爾時最勝菩薩復白佛言：「云何阿毘婆帝菩<lb
  n="0978a06" ed="T"/>薩於七住地而淨其行？」佛告最勝：「菩薩常當<lb
  n="0978a07" ed="T"/>於七住中，必報施勞終果其願，去離計著不<lb
  n="0978a08" ed="T"/>見有我，雖度眾生不見有度，亦復不見我人<lb
@@ -1363,16 +1363,16 @@
  n="0981a13" ed="T"/>淨，無極深妙不可思議巍巍難量。如是，最勝！<lb
  n="0981a14" ed="T"/>不退大士於七住中而淨其行。」<lb
  n="0981a15" ed="T"/>
-</ab><ab type="juan" subtype="close">十住斷結經卷第二</ab></div><lb
+</ab><ab type='juan' subtype='close'>十住斷結經卷第二</ab></div><lb
  n="0981a16" ed="T"/><lb
  n="0981a17" ed="T"/><lb
  n="0981a18" ed="T"/><lb
- n="0981a19" ed="T"/><div type="None" level="2">
-<ab type="juan" subtype="open">十住斷結經卷第三</ab><lb
+ n="0981a19" ed="T"/><div type='' level='2'>
+<ab type='juan' subtype='open'>十住斷結經卷第三</ab><lb
  n="0981a20" ed="T"/><lb
  n="0981a21" ed="T"/><byline>姚秦涼州沙門竺佛念譯</byline><lb
  n="0981a22" ed="T"/><head>童真品第八</head><lb
- n="0981a23" ed="T"/><ab type="prose">爾時最勝菩薩白佛言：「世尊！云何第八菩薩<lb
+ n="0981a23" ed="T"/><ab type='prose'>爾時最勝菩薩白佛言：「世尊！云何第八菩薩<lb
  n="0981a24" ed="T"/>於八住地而淨其行？」佛告最勝：「第八菩薩常<lb
  n="0981a25" ed="T"/>當具足以神通慧曉眾生根，觀其意趣而為<lb
  n="0981a26" ed="T"/>示現，復以神通遊諸佛國，觀其奇特殊妙<lb
@@ -1734,8 +1734,8 @@
  n="0985b05" ed="T"/>當修習二十行法，却乃漸入深法寶藏。如是。<lb
  n="0985b06" ed="T"/>最勝！當作是學，如是學者便應第八菩薩之<lb
  n="0985b07" ed="T"/>道。」</ab></div><lb
- n="0985b08" ed="T"/><div type="None" level="2"><head>定意品第九</head><lb
- n="0985b09" ed="T"/><ab type="prose">是時最勝菩薩復白佛言：「何謂常淨菩薩於<lb
+ n="0985b08" ed="T"/><div type='' level='2'><head>定意品第九</head><lb
+ n="0985b09" ed="T"/><ab type='prose'>是時最勝菩薩復白佛言：「何謂常淨菩薩於<lb
  n="0985b10" ed="T"/>第九地而淨其住？」爾時世尊告最勝曰：「九住<lb
  n="0985b11" ed="T"/>菩薩修習定意一心解門，三昧正受而不耗<lb
  n="0985b12" ed="T"/>損，於淨不淨常若一心，雖處塵勞恚恨之中，<lb
@@ -2125,16 +2125,16 @@
  n="0989c19" ed="T"/>具滿現生兜術清淨無瑕，或現降神接度眾<lb
  n="0989c20" ed="T"/>生，是謂菩薩於第九地而淨其行。」<lb
  n="0989c21" ed="T"/>
-</ab><ab type="juan" subtype="close">十住斷結經卷第三</ab></div><lb
+</ab><ab type='juan' subtype='close'>十住斷結經卷第三</ab></div><lb
  n="0989c22" ed="T"/><lb
  n="0989c23" ed="T"/><lb
  n="0989c24" ed="T"/><lb
- n="0989c25" ed="T"/><div type="None" level="2">
-<ab type="juan" subtype="open">十住斷結經卷第四</ab><lb
+ n="0989c25" ed="T"/><div type='' level='2'>
+<ab type='juan' subtype='open'>十住斷結經卷第四</ab><lb
  n="0989c26" ed="T"/><lb
  n="0989c27" ed="T"/><byline>姚秦涼州沙門竺佛念譯</byline><lb
  n="0989c28" ed="T"/><head>成道品第十</head><lb
- n="0989c29" ed="T"/><ab type="prose">是時最勝菩薩復白佛言：「世尊！云何十住菩<pb n="0990a" ed="T" id="T10.0309.0990a"/><lb
+ n="0989c29" ed="T"/><ab type='prose'>是時最勝菩薩復白佛言：「世尊！云何十住菩<pb n="0990a" ed="T" id="T10.0309.0990a"/><lb
  n="0990a01" ed="T"/>薩於十地中而淨其行？」是時世尊告最勝曰：<lb
  n="0990a02" ed="T"/>「所謂菩薩修神妙道廣度眾生，以性空法暢<lb
  n="0990a03" ed="T"/>演文字，進修禁戒，其德無量不可思議亦無<lb
@@ -2503,8 +2503,8 @@
  n="0994a18" ed="T"/>強記亦不可盡。吾於彼土施為佛事，此彼眾<lb
  n="0994a19" ed="T"/>生亦不知吾身為所住。是謂菩薩多所潤及，<lb
  n="0994a20" ed="T"/>是謂最勝十住菩薩於十地中而淨其行。」</ab></div><lb
- n="0994a21" ed="T"/><div type="None" level="2"><head>滅心品第十一</head><lb
- n="0994a22" ed="T"/><ab type="prose">是時最勝菩薩前白佛言：「云何菩薩觀無常<lb
+ n="0994a21" ed="T"/><div type='' level='2'><head>滅心品第十一</head><lb
+ n="0994a22" ed="T"/><ab type='prose'>是時最勝菩薩前白佛言：「云何菩薩觀無常<lb
  n="0994a23" ed="T"/>義諦分別空，解了己身內外無主？又心自在<lb
  n="0994a24" ed="T"/>所作具足？」爾時世尊告最勝曰：「菩薩所遊心<lb
  n="0994a25" ed="T"/>無所著，論講諸法無所罣礙，達知人根是<lb
@@ -2753,7 +2753,7 @@
  n="0997a07" ed="T"/>斯皆不真不獲其願。」爾時世尊便與最勝，而<lb
  n="0997a08" ed="T"/>說斯偈：<lb
  n="0997a09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「身淨不行惡，　　口行無四殃，　　<lb
  n="0997a10" ed="T"/>意法不念罪，　　是菩薩總持。　　<lb
  n="0997a11" ed="T"/>頒宣無量德，　　永無慳貪心，　　<lb
@@ -2769,7 +2769,7 @@
  n="0997a21" ed="T"/>道場放金光，　　億神來歸命，　　<lb
  n="0997a22" ed="T"/>隨沙門善神，　　皆來而自歸。　　
 </ab><lb
- n="0997a23" ed="T"/><ab type="prose">「是故最勝！當念專意除去想求，解了法界一<lb
+ n="0997a23" ed="T"/><ab type='prose'>「是故最勝！當念專意除去想求，解了法界一<lb
  n="0997a24" ed="T"/>相無形，修治佛土明慧不斷，不勸助業普施<lb
  n="0997a25" ed="T"/>一切，無施無聖了無所生，平等一乘不見若<lb
  n="0997a26" ed="T"/>干。最勝！復當分別四諦，苦由何生復由何滅？<lb
@@ -2815,7 +2815,7 @@
  n="0997c08" ed="T"/>至佛所，頭面禮足在一面立，叉手向佛而歎<lb
  n="0997c09" ed="T"/>頌曰：<lb
  n="0997c10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「和顏色殊特，　　人中尊第一，　　<lb
  n="0997c11" ed="T"/>塵勞無垢穢，　　施以無量德。　　<lb
  n="0997c12" ed="T"/>其明照百億，　　鮮潔知無涯，　　<lb
@@ -2827,7 +2827,7 @@
  n="0997c18" ed="T"/>今我從來處，　　去此無數土，　　<lb
  n="0997c19" ed="T"/>飢虛甚積久，　　願為宣示之。」　　
 </ab><lb
- n="0997c20" ed="T"/><ab type="prose">是時寶勇菩薩，以此偈讚佛已，復禮佛足各<lb
+ n="0997c20" ed="T"/><ab type='prose'>是時寶勇菩薩，以此偈讚佛已，復禮佛足各<lb
  n="0997c21" ed="T"/>次第坐。爾時世尊告來會者：「諦聽諦聽，善思<lb
  n="0997c22" ed="T"/>念之！吾當分別說於菩薩無生滅行，上中下<lb
  n="0997c23" ed="T"/>善戢在心懷。」時諸菩薩白世尊曰：「願樂欲聞。」<lb
@@ -2848,16 +2848,16 @@
  n="0998a09" ed="T"/>如是。」爾時眾會，聞斯說法無生滅行定意觀<lb
  n="0998a10" ed="T"/>時，皆逮得無生滅心不復退轉。<lb
  n="0998a11" ed="T"/>
-</ab><ab type="juan" subtype="close">十住斷結經卷第四</ab></div><lb
+</ab><ab type='juan' subtype='close'>十住斷結經卷第四</ab></div><lb
  n="0998a12" ed="T"/><lb
  n="0998a13" ed="T"/><lb
  n="0998a14" ed="T"/><lb
- n="0998a15" ed="T"/><div type="None" level="2">
-<ab type="juan" subtype="open">十住斷結經卷第五</ab><lb
+ n="0998a15" ed="T"/><div type='' level='2'>
+<ab type='juan' subtype='open'>十住斷結經卷第五</ab><lb
  n="0998a16" ed="T"/><lb
  n="0998a17" ed="T"/><byline>姚秦涼州沙門竺佛念譯</byline><lb
  n="0998a18" ed="T"/><head>神足品第十二</head><lb
- n="0998a19" ed="T"/><ab type="prose">是時最勝菩薩前白佛言：「世尊！云何菩薩於<lb
+ n="0998a19" ed="T"/><ab type='prose'>是時最勝菩薩前白佛言：「世尊！云何菩薩於<lb
  n="0998a20" ed="T"/>施戒忍辱精進禪定智慧有進有退？復有菩<lb
  n="0998a21" ed="T"/>薩從初發意至成作佛，未曾處在父母胞胎<lb
  n="0998a22" ed="T"/>常得化生，復以神足遊諸佛國，亦無國土之<lb
@@ -2998,8 +2998,8 @@
  n="0999c12" ed="T"/>得同時生彼國土而得修此覺意三昧，斯由<lb
  n="0999c13" ed="T"/>本誓發願所致，覺意三昧之所感動其德如<lb
  n="0999c14" ed="T"/>是。</ab></div><lb
- n="0999c15" ed="T"/><div type="None" level="2"><head>恭敬品第十三</head><lb
- n="0999c16" ed="T"/><ab type="prose">是時最勝菩薩復白佛言：「云何種類菩薩常<lb
+ n="0999c15" ed="T"/><div type='' level='2'><head>恭敬品第十三</head><lb
+ n="0999c16" ed="T"/><ab type='prose'>是時最勝菩薩復白佛言：「云何種類菩薩常<lb
  n="0999c17" ed="T"/>從佛聞法而興恭敬意加勇躍不能自勝？」世<lb
  n="0999c18" ed="T"/>尊告曰：「斯法要者猶那提神藥，若人服食斯<lb
  n="0999c19" ed="T"/>神藥者，心神悅豫自然濡滿，淫怒癡除無復<lb
@@ -3024,13 +3024,13 @@
  n="1000a09" ed="T"/>宣暢無我，神通自遊不失善權，是謂十法獲<lb
  n="1000a10" ed="T"/>十功德。」爾時世尊便說斯偈：<lb
  n="1000a11" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「聞教專意聽，　　慎道無想願，　　<lb
  n="1000a12" ed="T"/>憑受善知識，　　施念無悔悋。　　<lb
  n="1000a13" ed="T"/>愛彼猶養已，　　高下隨顏色，　　<lb
  n="1000a14" ed="T"/>一心念恭敬，　　獲十功德福。　　
 </ab><lb
- n="1000a15" ed="T"/><ab type="prose">「最勝當知！善權適化智度無極，逮於菩薩大<lb
+ n="1000a15" ed="T"/><ab type='prose'>「最勝當知！善權適化智度無極，逮於菩薩大<lb
  n="1000a16" ed="T"/>乘方等，如來出世愍於俗故，而現若干行法<lb
  n="1000a17" ed="T"/>不同，或現緣覺聲聞之乘，或在山崖深窟自<lb
  n="1000a18" ed="T"/>隱，或復經行而自剋責，挍計身中無一可<lb
@@ -3191,8 +3191,8 @@
  n="1001c28" ed="T"/>菩薩于時觀察眾生有著苦者，為說五陰為苦<lb
  n="1001c29" ed="T"/>為老為無真實，習色著苦滅習成道，苦義<pb n="1002a" ed="T" id="T10.0309.1002a"/><lb
  n="1002a01" ed="T"/>眾多習為原本，斯二事盡乃謂為道。」</ab></div><lb
- n="1002a02" ed="T"/><div type="None" level="2"><head>勇猛品第十四</head><lb
- n="1002a03" ed="T"/><ab type="prose">爾時最勝菩薩前白佛言：「云何菩薩初發心<lb
+ n="1002a02" ed="T"/><div type='' level='2'><head>勇猛品第十四</head><lb
+ n="1002a03" ed="T"/><ab type='prose'>爾時最勝菩薩前白佛言：「云何菩薩初發心<lb
  n="1002a04" ed="T"/>行無能斷者？云何菩薩意識安隱不可捨離？」<lb
  n="1002a05" ed="T"/>是時世尊告最勝曰：「初發意菩薩當學所學，<lb
  n="1002a06" ed="T"/>不滯生死不畏吾我，雖處過去當來現在亦<lb
@@ -3535,7 +3535,7 @@
  n="1005c24" ed="T"/>退轉立菩薩道。」是時辯聰菩薩及十千菩薩，<lb
  n="1005c25" ed="T"/>禮世尊足右繞三匝，叉手向佛而嘆頌曰：<lb
  n="1005c26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「聲振徹十方，　　功德名訓稱，　　<lb
  n="1005c27" ed="T"/>人尊所適方，　　靡不蒙其度。　　<lb
  n="1005c28" ed="T"/>佛土界清淨，　　不聞五道名，　　<lb
@@ -3561,7 +3561,7 @@
  n="1006a19" ed="T"/>我等信心至，　　故遠來歸命，　　<lb
  n="1006a20" ed="T"/>欲聞定意法，　　願時敷演之。」　　
 </ab><lb
- n="1006a21" ed="T"/><ab type="prose">爾時辯聰菩薩以偈讚佛已，前白佛言：「何謂<lb
+ n="1006a21" ed="T"/><ab type='prose'>爾時辯聰菩薩以偈讚佛已，前白佛言：「何謂<lb
  n="1006a22" ed="T"/>菩薩志意堅牢堪受定意，所聞教誡亦無厭<lb
  n="1006a23" ed="T"/>足？云何菩薩言行相應內性柔軟？」爾時世尊<lb
  n="1006a24" ed="T"/>告辯聰曰：「諦聽諦聽，善思念之！吾當為汝分<lb
@@ -3632,16 +3632,16 @@
  n="1007a02" ed="T"/>子得不起法忍，是時諸佛剎土諸菩薩等，各<lb
  n="1007a03" ed="T"/>齎華香而興供養，花至于膝。<lb
  n="1007a04" ed="T"/>
-</ab><ab type="juan" subtype="close">十住斷結經卷第五</ab></div><lb
+</ab><ab type='juan' subtype='close'>十住斷結經卷第五</ab></div><lb
  n="1007a05" ed="T"/><lb
  n="1007a06" ed="T"/><lb
  n="1007a07" ed="T"/><lb
- n="1007a08" ed="T"/><div type="None" level="2">
-<ab type="juan" subtype="open">十住斷結經卷第六</ab><lb
+ n="1007a08" ed="T"/><div type='' level='2'>
+<ab type='juan' subtype='open'>十住斷結經卷第六</ab><lb
  n="1007a09" ed="T"/><lb
  n="1007a10" ed="T"/><byline>姚秦涼州沙門竺佛念譯</byline><lb
  n="1007a11" ed="T"/><head>碎身品第十五</head><lb
- n="1007a12" ed="T"/><ab type="prose">佛告最勝：「菩薩摩訶薩入碎身定，使菩薩入<lb
+ n="1007a12" ed="T"/><ab type='prose'>佛告最勝：「菩薩摩訶薩入碎身定，使菩薩入<lb
  n="1007a13" ed="T"/>此定，具足十種如住。何謂為十？一切世界<lb
  n="1007a14" ed="T"/>如如住，一切諸方如如住，一切劫數如如住，<lb
  n="1007a15" ed="T"/>一切眾生如如住，一切諸法如如住，一切諸<lb
@@ -3831,8 +3831,8 @@
  n="1009a25" ed="T"/>勝菩薩摩訶薩住此三昧者，便能顯曜諸度<lb
  n="1009a26" ed="T"/>無極得十無畏，在大眾中入定正受，碎身如<lb
  n="1009a27" ed="T"/>塵善權方便，第八菩薩之所修行。」</ab></div><lb
- n="1009a28" ed="T"/><div type="None" level="2"><head>身入品第十六</head><lb
- n="1009a29" ed="T"/><ab type="prose">是時世尊告最勝曰：「復次菩薩摩訶薩，還自<pb n="1009b" ed="T" id="T10.0309.1009b"/><lb
+ n="1009a28" ed="T"/><div type='' level='2'><head>身入品第十六</head><lb
+ n="1009a29" ed="T"/><ab type='prose'>是時世尊告最勝曰：「復次菩薩摩訶薩，還自<pb n="1009b" ed="T" id="T10.0309.1009b"/><lb
  n="1009b01" ed="T"/>觀身身持身入，悉能分別了無處所。是時菩<lb
  n="1009b02" ed="T"/>薩入身入持法界定意，於諸定中最得自在，<lb
  n="1009b03" ed="T"/>身諸毛孔，一一毛孔入法界定意三昧而得<lb
@@ -3956,8 +3956,8 @@
  n="1010c05" ed="T"/>力、於諸眾生獨步不嬈彼力。是謂菩薩摩訶<lb
  n="1010c06" ed="T"/>薩住此定者，乃應無所有力，過諸羅漢辟支<lb
  n="1010c07" ed="T"/>佛上，乃能入於菩薩定力。」</ab></div><lb
- n="1010c08" ed="T"/><div type="None" level="2"><head>辯才品第十七</head><lb
- n="1010c09" ed="T"/><ab type="prose">爾時最勝菩薩前白佛言：「云何菩薩具足眾<lb
+ n="1010c08" ed="T"/><div type='' level='2'><head>辯才品第十七</head><lb
+ n="1010c09" ed="T"/><ab type='prose'>爾時最勝菩薩前白佛言：「云何菩薩具足眾<lb
  n="1010c10" ed="T"/>德斷眾生望，充飽一切令無嫌恨？」佛告最勝：<lb
  n="1010c11" ed="T"/>「諦聽諦聽，善思念之！今當與汝善分別之。菩<lb
  n="1010c12" ed="T"/>薩從初發心以來至于成佛，要當莊嚴清淨<lb
@@ -4153,8 +4153,8 @@
  n="1012c28" ed="T"/>盛終無羅漢辟支之意。是謂最勝！菩薩摩訶<lb
  n="1012c29" ed="T"/>薩得此法界自在定意三昧，大事增益上菩<pb n="1013a" ed="T" id="T10.0309.1013a"/><lb
  n="1013a01" ed="T"/>薩位終不虛勞。</ab></div><lb
- n="1013a02" ed="T"/><div type="None" level="2"><head>權智品第十八</head><lb
- n="1013a03" ed="T"/><ab type="prose">「復次最勝！菩薩摩訶薩復當思惟第十權智<lb
+ n="1013a02" ed="T"/><div type='' level='2'><head>權智品第十八</head><lb
+ n="1013a03" ed="T"/><ab type='prose'>「復次最勝！菩薩摩訶薩復當思惟第十權智<lb
  n="1013a04" ed="T"/>定慧三昧，當念修行。云何菩薩修行第十權<lb
  n="1013a05" ed="T"/>智定慧三昧？於是，最勝！菩薩摩訶薩有三昧<lb
  n="1013a06" ed="T"/>名無量定意，菩薩住此三昧者，觀知無量身<lb
@@ -4329,16 +4329,16 @@
  n="1015a01" ed="T"/>最勝！虛空神識、虛空中止，泥洹神識、泥洹中<lb
  n="1015a02" ed="T"/>止，是謂各各差別。」<lb
  n="1015a03" ed="T"/>
-</ab><ab type="juan" subtype="close">十住斷結經卷第六</ab></div><lb
+</ab><ab type='juan' subtype='close'>十住斷結經卷第六</ab></div><lb
  n="1015a04" ed="T"/><lb
  n="1015a05" ed="T"/><lb
  n="1015a06" ed="T"/><lb
- n="1015a07" ed="T"/><div type="None" level="2">
-<ab type="juan" subtype="open">十住斷結經卷第七</ab><lb
+ n="1015a07" ed="T"/><div type='' level='2'>
+<ab type='juan' subtype='open'>十住斷結經卷第七</ab><lb
  n="1015a08" ed="T"/><lb
  n="1015a09" ed="T"/><byline>姚秦涼州沙門竺佛念譯</byline><lb
  n="1015a10" ed="T"/><head>化眾生品第十九</head><lb
- n="1015a11" ed="T"/><ab type="prose">爾時最勝菩薩白佛言：「世尊！云何菩薩摩訶<lb
+ n="1015a11" ed="T"/><ab type='prose'>爾時最勝菩薩白佛言：「世尊！云何菩薩摩訶<lb
  n="1015a12" ed="T"/>薩涉歷生死執勤苦行，從一佛國至一佛國，<lb
  n="1015a13" ed="T"/>育養眾生莊嚴道場，雖化眾生亦不見化，亦<lb
  n="1015a14" ed="T"/>不見眾生，亦不自見我有所化？所以然者，以<lb
@@ -4688,8 +4688,8 @@
  n="1019a10" ed="T"/>應可度者，所說無二不可轉還，是謂菩薩十<lb
  n="1019a11" ed="T"/>牢要法，進成道果取道不難。是謂最勝菩薩<lb
  n="1019a12" ed="T"/>上妙無盡之法，當念修行。」</ab></div><lb
- n="1019a13" ed="T"/><div type="None" level="2"><head>三道滅度品第二十</head><lb
- n="1019a14" ed="T"/><ab type="prose">爾時最勝菩薩即從座起長跪叉手，前白佛<lb
+ n="1019a13" ed="T"/><div type='' level='2'><head>三道滅度品第二十</head><lb
+ n="1019a14" ed="T"/><ab type='prose'>爾時最勝菩薩即從座起長跪叉手，前白佛<lb
  n="1019a15" ed="T"/>言：「唯然世尊！如來至真道德無崖，不猗道<lb
  n="1019a16" ed="T"/>門求出解脫，於清淨學勤修慕及，金剛三昧<lb
  n="1019a17" ed="T"/>不可稱量。今聞如來說滅度淨三道歸一，更<lb
@@ -4886,8 +4886,8 @@
  n="1021b05" ed="T"/>淨慈悲一切，眾行具足乃稱菩薩。」爾時世尊<lb
  n="1021b06" ed="T"/>說此本無清淨品時，五千菩薩皆得一生補<lb
  n="1021b07" ed="T"/>處，無數千人皆發無上平等道意。</ab></div><lb
- n="1021b08" ed="T"/><div type="None" level="2"><head>乘無相品第二十一</head><lb
- n="1021b09" ed="T"/><ab type="prose">最勝白佛言：「菩薩摩訶薩從初發意至成作<lb
+ n="1021b08" ed="T"/><div type='' level='2'><head>乘無相品第二十一</head><lb
+ n="1021b09" ed="T"/><ab type='prose'>最勝白佛言：「菩薩摩訶薩從初發意至成作<lb
  n="1021b10" ed="T"/>佛，云何了達一相無相，復以無相分別一相？<lb
  n="1021b11" ed="T"/>云何菩薩以清淨心遊處愛欲，從愛欲中復至<lb
  n="1021b12" ed="T"/>清淨？」佛告最勝：「行權菩薩乘無相淨心，周旋<lb
@@ -5077,15 +5077,15 @@
  n="1023b22" ed="T"/>薩遊于十方無量世界，觀彼眾生愚惑想者，<lb
  n="1023b23" ed="T"/>為現慧明永無闇昧。」<lb
  n="1023b24" ed="T"/>
-</ab><ab type="juan" subtype="close">十住斷結經卷第七</ab></div><pb n="1023c" ed="T" id="T10.0309.1023c"/><lb
+</ab><ab type='juan' subtype='close'>十住斷結經卷第七</ab></div><pb n="1023c" ed="T" id="T10.0309.1023c"/><lb
  n="1023c01" ed="T"/><lb
  n="1023c02" ed="T"/><lb
- n="1023c03" ed="T"/><div type="None" level="2">
-<ab type="juan" subtype="open">十住斷結經卷第八</ab><lb
+ n="1023c03" ed="T"/><div type='' level='2'>
+<ab type='juan' subtype='open'>十住斷結經卷第八</ab><lb
  n="1023c04" ed="T"/><lb
  n="1023c05" ed="T"/><byline>姚秦涼州沙門竺佛念譯</byline><lb
  n="1023c06" ed="T"/><head>等慈品第二十二</head><lb
- n="1023c07" ed="T"/><ab type="prose">爾時最勝菩薩前白佛言：「云何菩薩入等慈<lb
+ n="1023c07" ed="T"/><ab type='prose'>爾時最勝菩薩前白佛言：「云何菩薩入等慈<lb
  n="1023c08" ed="T"/>三昧，遍觀三千大千世界，人陰神陰諸龍鬼<lb
  n="1023c09" ed="T"/>界，一身二身至百千身？云何菩薩以神足力，<lb
  n="1023c10" ed="T"/>從一佛國至一佛國，如人遊虛亦無罣礙？」爾<lb
@@ -5423,8 +5423,8 @@
  n="1027b23" ed="T"/>生逮得慧根。」爾時世尊說此等慈品時，十四<lb
  n="1027b24" ed="T"/>那術人皆發無上正真道意，八千菩薩尋於<lb
  n="1027b25" ed="T"/>坐上逮得等慈三昧。</ab></div><lb
- n="1027b26" ed="T"/><div type="pin" level="2"><head>法界品第二十三</head><lb
- n="1027b27" ed="T"/><ab type="prose">爾時世尊，放舌相光明普照三千大千世界，<lb
+ n="1027b26" ed="T"/><div type='pin' level='2'><head>法界品第二十三</head><lb
+ n="1027b27" ed="T"/><ab type='prose'>爾時世尊，放舌相光明普照三千大千世界，<lb
  n="1027b28" ed="T"/>復照十方諸佛國土，四維上下靡不蒙照，復<lb
  n="1027b29" ed="T"/>照東方八十四億，江河沙數寂寞世界，諸佛<pb n="1027c" ed="T" id="T10.0309.1027c"/><lb
  n="1027c01" ed="T"/>普集無有二乘，恒講菩薩殊特之行，分別世<lb
@@ -5763,16 +5763,16 @@
  n="1031b15" ed="T"/>勤勞行甚為難有，能於五鼎沸世教化眾生<lb
  n="1031b16" ed="T"/>演布大道，寂然滅盡歸於無為也。』」<lb
  n="1031b17" ed="T"/>
-</ab><ab type="juan" subtype="close">十住斷結經卷第八</ab></div><lb
+</ab><ab type='juan' subtype='close'>十住斷結經卷第八</ab></div><lb
  n="1031b18" ed="T"/><lb
  n="1031b19" ed="T"/><lb
  n="1031b20" ed="T"/><lb
- n="1031b21" ed="T"/><div type="None" level="2">
-<ab type="juan" subtype="open">十住斷結經卷第九</ab><lb
+ n="1031b21" ed="T"/><div type='' level='2'>
+<ab type='juan' subtype='open'>十住斷結經卷第九</ab><lb
  n="1031b22" ed="T"/><lb
  n="1031b23" ed="T"/><byline>姚秦涼州沙門竺佛念譯</byline><lb
  n="1031b24" ed="T"/><head>道智品第二十四</head><lb
- n="1031b25" ed="T"/><ab type="prose">爾時座上百億眾生，及諸大會菩薩之人，及<lb
+ n="1031b25" ed="T"/><ab type='prose'>爾時座上百億眾生，及諸大會菩薩之人，及<lb
  n="1031b26" ed="T"/>天帝釋、梵天王、兜術天、焰天、化自在天、他<lb
  n="1031b27" ed="T"/>化自在天，乃至一究竟天，各各狐疑，欲得聞<lb
  n="1031b28" ed="T"/>說至道之要。「道者無相而不可見，云何如來<lb
@@ -6187,8 +6187,8 @@
  n="1036b05" ed="T"/>泣耳。」佛告遍淨：「止止！勿說斯言。汝昔發願弘<lb
  n="1036b06" ed="T"/>誓心異，何為中欲生於異國？賢劫名滅，汝當<lb
  n="1036b07" ed="T"/>次繼，號為遍淨如來、至真、等正覺，十號具足。」</ab></div><lb
- n="1036b08" ed="T"/><div type="pin" level="2"><head>身口意品第二十五</head><lb
- n="1036b09" ed="T"/><ab type="prose">爾時最勝菩薩前白佛言：「一切諸法皆如幻<lb
+ n="1036b08" ed="T"/><div type='pin' level='2'><head>身口意品第二十五</head><lb
+ n="1036b09" ed="T"/><ab type='prose'>爾時最勝菩薩前白佛言：「一切諸法皆如幻<lb
  n="1036b10" ed="T"/>化，云何幻化法中教化眾生淨佛國土？云何<lb
  n="1036b11" ed="T"/>淨除三想我人壽命？云何從一佛國至一佛<lb
  n="1036b12" ed="T"/>國，承事供養諸佛世尊？」<lb
@@ -6412,9 +6412,9 @@
  n="1038c27" ed="T"/>善男子善女人，執持諷誦此經典者，我等當<lb
  n="1038c28" ed="T"/>擁護至竟成佛不使留難。」於是呪曰：<lb
  n="1038c29" ed="T"/></ab>
-<ab type="dharani">「留遮耶摩那那僧求時那寫<pb n="1039a" ed="T" id="T10.0309.1039a"/><lb
+<ab type='dharani'>「留遮耶摩那那僧求時那寫<pb n="1039a" ed="T" id="T10.0309.1039a"/><lb
  n="1039a01" ed="T"/></ab>
-<ab type="prose">「持是擁護善男子善女人，至竟成佛不使留<lb
+<ab type='prose'>「持是擁護善男子善女人，至竟成佛不使留<lb
  n="1039a02" ed="T"/>難。」是時東方天王提鞮賴吒將其翼從，即從<lb
  n="1039a03" ed="T"/>座起前白佛言：「我等當擁護是善男子善女<lb
  n="1039a04" ed="T"/>人，諷誦讀說此經典者，常當擁護至竟成佛。」<lb
@@ -6430,9 +6430,9 @@
  n="1039a14" ed="T"/>言：「若有善男子善女人，執持諷誦此經典者，<lb
  n="1039a15" ed="T"/>我當擁護至竟成佛不使留難。」於是呪曰：<lb
  n="1039a16" ed="T"/></ab>
-<ab type="dharani">「伊昵彌昵奢彌<lb
+<ab type='dharani'>「伊昵彌昵奢彌<lb
  n="1039a17" ed="T"/></ab>
-<ab type="prose">「持是擁護是善男子善女人，至竟成佛不使<lb
+<ab type='prose'>「持是擁護是善男子善女人，至竟成佛不使<lb
  n="1039a18" ed="T"/>留難。」是時北方天王拘毘羅，將其翼從前白<lb
  n="1039a19" ed="T"/>佛言：「若有善男子善女人，執持諷誦此經典<lb
  n="1039a20" ed="T"/>者，我當擁護至竟成佛不使留難。」於是呪曰：<lb
@@ -6442,15 +6442,15 @@
  n="1039a24" ed="T"/>天王，各說神呪已，遶佛三匝頭面禮足，各還<lb
  n="1039a25" ed="T"/>復坐。<lb
  n="1039a26" ed="T"/>
-</ab><ab type="juan" subtype="close">十住斷結經卷第九</ab></div><pb n="1039b" ed="T" id="T10.0309.1039b"/><lb
+</ab><ab type='juan' subtype='close'>十住斷結經卷第九</ab></div><pb n="1039b" ed="T" id="T10.0309.1039b"/><lb
  n="1039b01" ed="T"/><lb
  n="1039b02" ed="T"/><lb
- n="1039b03" ed="T"/><div type="None" level="2">
-<ab type="juan" subtype="open">十住斷結經卷第十</ab><lb
+ n="1039b03" ed="T"/><div type='' level='2'>
+<ab type='juan' subtype='open'>十住斷結經卷第十</ab><lb
  n="1039b04" ed="T"/><lb
  n="1039b05" ed="T"/><byline>姚秦涼州沙門竺佛念譯</byline><lb
  n="1039b06" ed="T"/><head>夢中成道品第二十六</head><lb
- n="1039b07" ed="T"/><ab type="prose">爾時治地菩薩即從座起，右膝著地叉手白<lb
+ n="1039b07" ed="T"/><ab type='prose'>爾時治地菩薩即從座起，右膝著地叉手白<lb
  n="1039b08" ed="T"/>佛言：「世尊！甚奇甚特，今聞濡首菩薩得與<lb
  n="1039b09" ed="T"/>最勝論無形法道無言教，未曾所聞未曾所<lb
  n="1039b10" ed="T"/>見，便為紹繼佛種不斷，又行佛事不思議法。」<lb
@@ -6674,8 +6674,8 @@
  n="1041c25" ed="T"/>者得佛心識定意不亂；十者度心無量不處<lb
  n="1041c26" ed="T"/>解脫，亦復不見眾生度者。是謂，族姓子，菩薩<lb
  n="1041c27" ed="T"/>摩訶薩至空法界修若干十慧。」</ab></div><lb
- n="1041c28" ed="T"/><div type="pin" level="2"><head>菩薩證品第二十七</head><lb
- n="1041c29" ed="T"/><ab type="prose">佛復告族姓子：「菩薩摩訶薩乘六神通遊至<pb n="1042a" ed="T" id="T10.0309.1042a"/><lb
+ n="1041c28" ed="T"/><div type='pin' level='2'><head>菩薩證品第二十七</head><lb
+ n="1041c29" ed="T"/><ab type='prose'>佛復告族姓子：「菩薩摩訶薩乘六神通遊至<pb n="1042a" ed="T" id="T10.0309.1042a"/><lb
  n="1042a01" ed="T"/>十方無數佛土，承事供養諸佛世尊，從一佛<lb
  n="1042a02" ed="T"/>國至一佛國，教化眾生不懷怯弱，歎佛功勳<lb
  n="1042a03" ed="T"/>德行之業，普使十方聞佛音響，最勝所行無<lb
@@ -6827,8 +6827,8 @@
  n="1043c04" ed="T"/>四大盡增則識有病，病非四大由識而生，萬<lb
  n="1043c05" ed="T"/>病增減皆由識生，從初發意乃至成佛，神識<lb
  n="1043c06" ed="T"/>無垢不由四大。」</ab></div><lb
- n="1043c07" ed="T"/><div type="pin" level="2"><head>解慧品第二十八</head><lb
- n="1043c08" ed="T"/><ab type="prose">爾時最勝菩薩白佛言：「世尊！云何菩薩摩訶<lb
+ n="1043c07" ed="T"/><div type='pin' level='2'><head>解慧品第二十八</head><lb
+ n="1043c08" ed="T"/><ab type='prose'>爾時最勝菩薩白佛言：「世尊！云何菩薩摩訶<lb
  n="1043c09" ed="T"/>薩執意堅固不可沮壞？云何菩薩執意真誠<lb
  n="1043c10" ed="T"/>終不虛妄？云何菩薩一向佛道不趣二乘？云<lb
  n="1043c11" ed="T"/>何菩薩執持威儀不失禮節？云何菩薩守意<lb
@@ -6899,8 +6899,8 @@
  n="1044b18" ed="T"/>無上正真道意；復有萬二千人，即於座上逮<lb
  n="1044b19" ed="T"/>不起法忍；復有無數十方天子，散華供養乃<lb
  n="1044b20" ed="T"/>至于膝。</ab></div><lb
- n="1044b21" ed="T"/><div type="pin" level="2"><head>三毒品第二十九</head><lb
- n="1044b22" ed="T"/><ab type="prose">爾時濡首童真白佛言：「世尊！今聞如來說四<lb
+ n="1044b21" ed="T"/><div type='pin' level='2'><head>三毒品第二十九</head><lb
+ n="1044b22" ed="T"/><ab type='prose'>爾時濡首童真白佛言：「世尊！今聞如來說四<lb
  n="1044b23" ed="T"/>法門慧，甚深微妙立根得力，菩薩所行，非是<lb
  n="1044b24" ed="T"/>羅漢辟支所及。今問如來未來中間，初禪思<lb
  n="1044b25" ed="T"/>惟惡露不淨之觀，為觀自身不淨？觀他身不<lb
@@ -6984,8 +6984,8 @@
  n="1045b16" ed="T"/>何而去。各各低頭自相謂言：「我等何為涉此<lb
  n="1045b17" ed="T"/>慊苦，日夜精勤修於梵行，或言有泥洹，泥<lb
  n="1045b18" ed="T"/>洹無取滅度者，亦無有道，況當有成道者。」</ab></div><lb
- n="1045b19" ed="T"/><div type="pin" level="2"><head>問泥洹品第三十</head><lb
- n="1045b20" ed="T"/><ab type="prose">爾時最勝菩薩白佛言：「世尊！若有眾生欲使<lb
+ n="1045b19" ed="T"/><div type='pin' level='2'><head>問泥洹品第三十</head><lb
+ n="1045b20" ed="T"/><ab type='prose'>爾時最勝菩薩白佛言：「世尊！若有眾生欲使<lb
  n="1045b21" ed="T"/>諸法出生，則無有道成等正覺，何況於泥洹<lb
  n="1045b22" ed="T"/>欲成道乎？此則不然。泥洹無姓亦無名號，<lb
  n="1045b23" ed="T"/>云何欲於空中求空？泥洹無一，況當欲求諸<lb
@@ -7078,8 +7078,8 @@
  n="1046b23" ed="T"/>答曰：「超越外法不與邪俱。」又問：「云何解空而<lb
  n="1046b24" ed="T"/>無猶豫？」答曰：「解道非道道無根源。是謂菩<lb
  n="1046b25" ed="T"/>薩摩訶薩所應行業。」</ab></div><lb
- n="1046b26" ed="T"/><div type="pin" level="2"><head>四梵堂品第三十一</head><lb
- n="1046b27" ed="T"/><ab type="prose">爾時濡首童真，內心自念：「云何菩薩摩訶薩，<lb
+ n="1046b26" ed="T"/><div type='pin' level='2'><head>四梵堂品第三十一</head><lb
+ n="1046b27" ed="T"/><ab type='prose'>爾時濡首童真，內心自念：「云何菩薩摩訶薩，<lb
  n="1046b28" ed="T"/>於身口意淨修梵行，周遍四荒往度眾生，從<lb
  n="1046b29" ed="T"/>一佛國至一佛國，未曾捨離眾生？云何菩薩<pb n="1046c" ed="T" id="T10.0309.1046c"/><lb
  n="1046c01" ed="T"/>進成佛業，不失菩薩所行之定？」佛知其意，即<lb
@@ -7103,8 +7103,8 @@
  n="1046c19" ed="T"/>住至住愛憎意等，是謂菩薩通慧之本。不違<lb
  n="1046c20" ed="T"/>過去諸法之本，未來現在亦復如是，於染無<lb
  n="1046c21" ed="T"/>染不見染著，是謂菩薩通慧之本。」</ab></div><lb
- n="1046c22" ed="T"/><div type="pin" level="2"><head>梵天請品第三十二</head><lb
- n="1046c23" ed="T"/><ab type="prose">爾時最勝菩薩摩訶薩白佛言：「世尊！身行清<lb
+ n="1046c22" ed="T"/><div type='pin' level='2'><head>梵天請品第三十二</head><lb
+ n="1046c23" ed="T"/><ab type='prose'>爾時最勝菩薩摩訶薩白佛言：「世尊！身行清<lb
  n="1046c24" ed="T"/>淨不行惡業，演說言教終不虛妄，心念清淨<lb
  n="1046c25" ed="T"/>超越道根，尊今所論四等梵堂，慈悲喜護濟<lb
  n="1046c26" ed="T"/>度眾生，一人不度終不忘捨，以慈去婬，以不<lb
@@ -7119,8 +7119,8 @@
  n="1047a06" ed="T"/>無三乘道名，然我今日至誠，作佛成等正覺，<lb
  n="1047a07" ed="T"/>廣化眾生不以為厭。」爾時八千天人立於信<lb
  n="1047a08" ed="T"/>地，魔王營從即還本所。</ab></div><lb
- n="1047a09" ed="T"/><div type="pin" level="2"><head>梵天囑累品第三十三</head><lb
- n="1047a10" ed="T"/><ab type="prose">佛告無畏梵天及諸大眾諸菩薩等：「吾從無<lb
+ n="1047a09" ed="T"/><div type='pin' level='2'><head>梵天囑累品第三十三</head><lb
+ n="1047a10" ed="T"/><ab type='prose'>佛告無畏梵天及諸大眾諸菩薩等：「吾從無<lb
  n="1047a11" ed="T"/>數阿僧祇劫積功累德自致成佛，不染於世<lb
  n="1047a12" ed="T"/>八法之累，一切眾生蜎飛蠕動有形之類，染<lb
  n="1047a13" ed="T"/>著五陰翫而不捨，是以賢聖不染八法，解知<lb
@@ -7153,5 +7153,5 @@
  n="1047b11" ed="T"/>舍利弗，天、龍、鬼神、乾沓和、阿須倫、迦留羅、栴<lb
  n="1047b12" ed="T"/>陀羅、摩休勒，聞佛所說，作禮而去。<lb
  n="1047b13" ed="T"/>
-</ab><ab type="juan" subtype="close">十住斷結經卷第十</ab></div></div>
+</ab><ab type='juan' subtype='close'>十住斷結經卷第十</ab></div></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0058</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0853c17" ed="T"/><lb
  n="0853c18" ed="T"/><lb
- n="0853c19" ed="T"/><div type="jing" level="1"><lb
+ n="0853c19" ed="T"/><div type='jing' level='1'><lb
  n="0853c20" ed="T"/>
-<ab type="juan" subtype="open">佛說阿耨風經</ab><lb
+<ab type='juan' subtype='open'>佛說阿耨風經</ab><lb
  n="0853c21" ed="T"/><lb
  n="0853c22" ed="T"/><byline>東晉西域沙門竺曇無蘭譯</byline><lb
- n="0853c23" ed="T"/><ab type="prose">聞如是：一時，婆伽婆在跋耆城名阿耨風。<lb
+ n="0853c23" ed="T"/><ab type='prose'>聞如是：一時，婆伽婆在跋耆城名阿耨風。<lb
  n="0853c24" ed="T"/>彼時，世尊從下晡起，告尊者阿難曰：「汝，阿難！<lb
  n="0853c25" ed="T"/>來！當共至阿夷陀婆池水上，當共澡浴。」「唯<lb
  n="0853c26" ed="T"/>然，世尊！」彼尊者阿難受世尊教。彼時，世尊與<lb
@@ -201,5 +201,5 @@
  n="0855b29" ed="T"/>說，是我教授。」佛如是說。彼諸比丘聞世尊所<pb n="0855c" ed="T" id="T01.0058.0855c"/><lb
  n="0855c01" ed="T"/>說，歡喜奉行。<lb
  n="0855c02" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說阿耨風經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說阿耨風經</ab></div>
 </body></text></TEI>

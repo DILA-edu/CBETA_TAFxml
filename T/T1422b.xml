@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T22</biblScope>
                     <idno type="Taisho">T22n1422b</idno>
                 </bibl>
@@ -43,17 +43,17 @@
  n="0200b13" ed="T"/><lb
  n="0200b14" ed="T"/><lb
  n="0200b15" ed="T"/>
-<ab type="juan" subtype="open">五分戒本</ab><lb
+<ab type='juan' subtype='open'>五分戒本</ab><lb
  n="0200b16" ed="T"/><lb
  n="0200b17" ed="T"/><byline>宋罽賓三藏佛陀什等譯</byline><lb
- n="0200b18" ed="T"/><div type="jing" level="1"><ab type="prose">「大德僧聽！冬時一月過少一夜，餘有一夜<lb
+ n="0200b18" ed="T"/><div type='jing' level='1'><ab type='prose'>「大德僧聽！冬時一月過少一夜，餘有一夜<lb
  n="0200b19" ed="T"/>三月在。老死至近，佛法欲滅。諸大德！為得<lb
  n="0200b20" ed="T"/>道故，一心勤精進。所以者何？諸佛一心勤<lb
  n="0200b21" ed="T"/>精進故得無上菩提，何況餘善道法！未受<lb
  n="0200b22" ed="T"/>具足者已出。僧今和合先作何事？」<lb
  n="0200b23" ed="T"/>「諸大德！為未來諸比丘說欲及清淨。」<lb
  n="0200b24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「合十指爪掌，　　供養釋師子，　　<lb
  n="0200b25" ed="T"/>我今欲說戒，　　僧當一心聽。　　<lb
  n="0200b26" ed="T"/>乃至小罪中，　　心應大怖畏，　　<lb
@@ -69,7 +69,7 @@
  n="0200c07" ed="T"/>日夜常精進，　　求實智慧故，　　<lb
  n="0200c08" ed="T"/>是人佛法中，　　能得清淨命。」　　
 </ab><lb
- n="0200c09" ed="T"/><ab type="prose">「大德僧聽！今十五日布薩說戒，若僧時到<lb
+ n="0200c09" ed="T"/><ab type='prose'>「大德僧聽！今十五日布薩說戒，若僧時到<lb
  n="0200c10" ed="T"/>僧忍聽，僧一心共作布薩。白如是。」<lb
  n="0200c11" ed="T"/>「有罪者發露，無罪者默然。默然故，當知諸<lb
  n="0200c12" ed="T"/>大德清淨。若比丘知如是眾中三唱，憶有<lb
@@ -533,52 +533,52 @@
  n="0206a06" ed="T"/>佛告比丘：「毘婆尸佛如來、應供、正遍知，為<lb
  n="0206a07" ed="T"/>寂靜僧，最初略說波羅提木叉：<lb
  n="0206a08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『忍辱第一道，　　涅槃佛稱最，　　<lb
  n="0206a09" ed="T"/>出家惱他人，　　不名為沙門。』　　
 </ab><lb
- n="0206a10" ed="T"/><ab type="prose">「第二尸棄佛如來、應供、正遍知，為寂靜僧，<lb
+ n="0206a10" ed="T"/><ab type='prose'>「第二尸棄佛如來、應供、正遍知，為寂靜僧，<lb
  n="0206a11" ed="T"/>最初略說波羅提木叉：<lb
  n="0206a12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『譬如明眼人，　　能避險惡道，　　<lb
  n="0206a13" ed="T"/>世有聰明人，　　能遠離眾惡。』　　
 </ab><lb
- n="0206a14" ed="T"/><ab type="prose">「第三毘鉢施佛如來、應供、正遍知，為寂靜<lb
+ n="0206a14" ed="T"/><ab type='prose'>「第三毘鉢施佛如來、應供、正遍知，為寂靜<lb
  n="0206a15" ed="T"/>僧，最初略說波羅提木叉：<lb
  n="0206a16" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『不毀亦不犯，　　如戒所說行，　　<lb
  n="0206a17" ed="T"/>飯食知節量，　　常樂在空處，　　<lb
  n="0206a18" ed="T"/>心常樂精進，　　是名諸佛教。』　　
 </ab><lb
- n="0206a19" ed="T"/><ab type="prose">「第四拘樓孫佛如來、應供、正遍知，為寂靜<lb
+ n="0206a19" ed="T"/><ab type='prose'>「第四拘樓孫佛如來、應供、正遍知，為寂靜<lb
  n="0206a20" ed="T"/>僧，最初略說波羅提木叉：<lb
  n="0206a21" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『譬如蜂採華，　　不壞色與香，　　<lb
  n="0206a22" ed="T"/>但取其味去。　　比丘出聚然，　　<lb
  n="0206a23" ed="T"/>不破壞他事，　　不觀作不作，　　<lb
  n="0206a24" ed="T"/>但自觀身行，　　諦視善不善。』　　
 </ab><lb
- n="0206a25" ed="T"/><ab type="prose">「第五拘那含牟尼佛如來、應供、正遍知，為<lb
+ n="0206a25" ed="T"/><ab type='prose'>「第五拘那含牟尼佛如來、應供、正遍知，為<lb
  n="0206a26" ed="T"/>寂靜僧，最初略說波羅提木叉：<lb
  n="0206a27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『欲得好心莫放逸，　　聖人善法當勤學，　　<lb
  n="0206a28" ed="T"/>若有智寂一心人，　　乃能無復愁憂患。』　　
 </ab><lb
- n="0206a29" ed="T"/><ab type="prose">「第六迦葉佛如來、應供、正遍知，為寂靜僧，<pb n="0206b" ed="T" id="T22.1422b.0206b"/><lb
+ n="0206a29" ed="T"/><ab type='prose'>「第六迦葉佛如來、應供、正遍知，為寂靜僧，<pb n="0206b" ed="T" id="T22.1422b.0206b"/><lb
  n="0206b01" ed="T"/>最初略說波羅提木叉：<lb
  n="0206b02" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『一切惡莫作，　　當具足善法，　　<lb
  n="0206b03" ed="T"/>自淨其志意，　　是名諸佛教。』　　
 </ab><lb
- n="0206b04" ed="T"/><ab type="prose">「第七我釋迦牟尼佛如來、應供、正遍知，為<lb
+ n="0206b04" ed="T"/><ab type='prose'>「第七我釋迦牟尼佛如來、應供、正遍知，為<lb
  n="0206b05" ed="T"/>寂靜僧，最初略說波羅提木叉：<lb
  n="0206b06" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『護身為善哉，　　能護口亦善，　　<lb
  n="0206b07" ed="T"/>護意為善哉，　　護一切亦善，　　<lb
  n="0206b08" ed="T"/>比丘護一切，　　便得離眾苦。　　<lb
@@ -592,7 +592,7 @@
  n="0206b16" ed="T"/>恭敬戒經已，　　各各相恭敬，　　<lb
  n="0206b17" ed="T"/>慚愧得具足，　　能得無為道。」　　
 </ab><lb
- n="0206b18" ed="T"/><ab type="prose">「已說戒經竟，僧一心布薩。」<lb
+ n="0206b18" ed="T"/><ab type='prose'>「已說戒經竟，僧一心布薩。」<lb
  n="0206b19" ed="T"/>
-</ab><ab type="juan" subtype="close">五分戒本</ab></div>
+</ab><ab type='juan' subtype='close'>五分戒本</ab></div>
 </body></text></TEI>

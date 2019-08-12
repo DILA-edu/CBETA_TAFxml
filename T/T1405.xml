@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1405</idno>
                 </bibl>
@@ -41,13 +41,13 @@
     <text>
         <body><pb n="0921c" id="T21.1405.0921c" ed="T"/><lb
  n="0921c01" ed="T"/><lb
- n="0921c02" ed="T"/><div type="jing" level="1"><lb
+ n="0921c02" ed="T"/><div type='jing' level='1'><lb
  n="0921c03" ed="T"/>
-<ab type="juan" subtype="open">佛說息除賊難陀羅尼經</ab><lb
+<ab type='juan' subtype='open'>佛說息除賊難陀羅尼經</ab><lb
  n="0921c04" ed="T"/><lb
  n="0921c05" ed="T"/><byline>西天譯經三藏朝散大夫試光祿卿<lb
  n="0921c06" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
- n="0921c07" ed="T"/><ab type="prose">如是我聞。一時佛在摩伽陀國。與諸大眾圍<lb
+ n="0921c07" ed="T"/><ab type='prose'>如是我聞。一時佛在摩伽陀國。與諸大眾圍<lb
  n="0921c08" ed="T"/>繞經行。到於菴羅樹園側韋提呬山帝釋巖<lb
  n="0921c09" ed="T"/>中。時尊者阿難。忽見大惡賊眾遙遠而來。見<lb
  n="0921c10" ed="T"/>已生大恐怖。心懷憂惱身毛皆竪。時尊者阿<lb
@@ -60,11 +60,11 @@
  n="0921c17" ed="T"/>我宣說。<lb
  n="0921c18" ed="T"/>爾時世尊即說大輪結界陀羅尼曰。<lb
  n="0921c19" ed="T"/></ab>
-<ab type="dharani">怛󰍕他阿焬路哥鉢囉路計伊該阿<lb
+<ab type='dharani'>怛𭔞他阿焬路哥鉢囉路計伊該阿<lb
  n="0921c20" ed="T"/>提鉢底藕哩巘馱哩贊拏哩摩登儗<lb
  n="0921c21" ed="T"/>惹虞哩補哥細<lb
  n="0921c22" ed="T"/></ab>
-<ab type="prose">爾時世尊說是陀羅尼已。告尊者阿難汝今<lb
+<ab type='prose'>爾時世尊說是陀羅尼已。告尊者阿難汝今<lb
  n="0921c23" ed="T"/>可往。以此陀羅尼。面十二由旬當作結界。令<lb
  n="0921c24" ed="T"/>得安隱息除賊難。乃至刀劍器杖等悉不能<lb
  n="0921c25" ed="T"/>侵。又復能令彼諸惡賊。不離本處旋如陶家<lb
@@ -74,5 +74,5 @@
  n="0921c29" ed="T"/>爾時世尊說是經已。尊者阿難及諸大眾。聞<pb n="0922a" id="T21.1405.0922a" ed="T"/><lb
  n="0922a01" ed="T"/>佛所說皆大歡喜信受奉行。<lb
  n="0922a02" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說息除賊難陀羅尼經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說息除賊難陀羅尼經</ab></div>
 </body></text></TEI>

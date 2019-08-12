@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T18</biblScope>
                     <idno type="Taisho">T18n0899</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0776c22" ed="T"/><lb
  n="0776c23" ed="T"/><lb
  n="0776c24" ed="T"/><lb
  n="0776c25" ed="T"/>
-<ab type="juan" subtype="open">清淨法身毘盧遮那心地法門成<lb
+<ab type='juan' subtype='open'>清淨法身毘盧遮那心地法門成<lb
  n="0776c26" ed="T"/>就一切陀羅尼三種悉地</ab><lb
  n="0776c27" ed="T"/><lb
- n="0776c28" ed="T"/><div type="jing" level="2"><ab type="prose">爾時毘盧遮那佛。在蓮華藏世界。與百千億<lb
+ n="0776c28" ed="T"/><div type='jing' level='2'><ab type='prose'>爾時毘盧遮那佛。在蓮華藏世界。與百千億<lb
  n="0776c29" ed="T"/>化身釋迦牟尼佛。說心地尸羅淨行品教菩<pb n="0777a" id="T18.0899.0777a" ed="T"/><lb
  n="0777a01" ed="T"/>薩法證菩提道。爾時千百億釋迦。異口同音<lb
  n="0777a02" ed="T"/>白言。法身世尊。一切眾生。雖得心地法門。而<lb
@@ -76,7 +76,7 @@
  n="0777a24" ed="T"/>方法無能救者。如此眾生。為苦所逼。必發道<lb
  n="0777a25" ed="T"/>意。乃可引攝令入佛道。時釋迦聞是說已。心<lb
  n="0777a26" ed="T"/>懷慚愧。頂禮辭退。至本源世界。坐道場處。作<lb
- n="0777a27" ed="T"/>是惡惟。諸佛境界難解難入。不可思議。種<lb
+ n="0777a27" ed="T"/>是思惟。諸佛境界難解難入。不可思議。種<lb
  n="0777a28" ed="T"/>種方便教導眾生。凡夫無知。難可調伏。又告<lb
  n="0777a29" ed="T"/>大眾。汝等當知。心地尸羅淨行法門。難可得<pb n="0777b" id="T18.0899.0777b" ed="T"/><lb
  n="0777b01" ed="T"/>聞。難可得見。汝等一切菩薩摩訶薩。及諸聲<lb
@@ -138,9 +138,9 @@
  n="0777c28" ed="T"/>爾時毘盧遮那佛。即與釋迦說心地神呪。即<lb
  n="0777c29" ed="T"/>說呪曰。<pb n="0778a" id="T18.0899.0778a" ed="T"/><lb
  n="0778a01" ed="T"/></ab>
-<ab type="dharani">唵蘇底瑟吒縛折羅<lb
+<ab type='dharani'>唵蘇底瑟吒縛折羅<lb
  n="0778a02" ed="T"/></ab>
-<ab type="prose">說此呪已。天雨寶華。十方世界所有上妙香<lb
+<ab type='prose'>說此呪已。天雨寶華。十方世界所有上妙香<lb
  n="0778a03" ed="T"/>華反諸音樂。悉皆雲集而為供養。諸天伇<lb
  n="0778a04" ed="T"/>樂滿於空中。一切天龍皆曰未曾有也。時佛<lb
  n="0778a05" ed="T"/>雖說法。眾會有聞不聞者。何以故。心得解脫<lb
@@ -178,7 +178,7 @@
  n="0778b08" ed="T"/>定智惠。此人能入諸境界。無有怖畏。般若波<lb
  n="0778b09" ed="T"/>羅蜜多自然圓滿。如是境界諸者乃知。人<lb
  n="0778b10" ed="T"/>言。汝等若有人。持三部神呪。欲得此心地神<lb
- n="0778b11" ed="T"/>呪助法成者。我今為汝分別解脫之。持佛部<lb
+ n="0778b11" ed="T"/>呪助法成者。我今為汝分別解說之。持佛部<lb
  n="0778b12" ed="T"/>呪者。當先誦心地呪百萬遍。若持菩薩呪者。<lb
  n="0778b13" ed="T"/>當誦心地呪二百萬遍。若持金剛部呪者。當<lb
  n="0778b14" ed="T"/>誦心地呪三百萬遍。若人但依此遍數滿者。<lb
@@ -193,14 +193,14 @@
  n="0778b23" ed="T"/>呪。我為此等說緒勳心神呪。令諸眾生無間<lb
  n="0778b24" ed="T"/>斷性。共本不退一種。即說緒勳呪曰。<lb
  n="0778b25" ed="T"/></ab>
-<ab type="dharani">曩牟波伽伐帝烏瑟尼沙唵部林盤陀曳娑婆<lb
+<ab type='dharani'>曩牟波伽伐帝烏瑟尼沙唵部林盤陀曳娑婆<lb
  n="0778b26" ed="T"/>訶怛他揭都娑婆曳娑婆訶鉢頭摩尼娑婆曳<lb
  n="0778b27" ed="T"/>娑婆訶跋折羅摩尼娑婆曳娑婆訶摩尼摩尼<lb
  n="0778b28" ed="T"/>摩尼俱羅曳娑婆訶怛姪他𤙖吽叭吒摩尼達<lb
  n="0778b29" ed="T"/>哩𤙖叭吒唵𤙖𤙖歌歌叭吒摩尼伐折哩𤙖叭<pb n="0778c" id="T18.0899.0778c" ed="T"/><lb
  n="0778c01" ed="T"/>吒<lb
  n="0778c02" ed="T"/></ab>
-<ab type="prose">此是緒勳神呪。亦名心地根本神呪。能滅重<lb
+<ab type='prose'>此是緒勳神呪。亦名心地根本神呪。能滅重<lb
  n="0778c03" ed="T"/>罪。此罪業。能誦此呪。悉能滅之。亦能破一切<lb
  n="0778c04" ed="T"/>諸呪功能。復成諸呪功能。不用具論。俱有誦<lb
  n="0778c05" ed="T"/>持。獲驗無量。若人持呪。中間斷絕。復欲諸<lb
@@ -378,7 +378,7 @@
  n="0780c03" ed="T"/>文殊菩薩。觀世音菩薩。普賢菩薩。金剛藏王<lb
  n="0780c04" ed="T"/>菩薩。彌勒菩薩。同聲說偈讚毘盧遮那佛曰。<lb
  n="0780c05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 諸佛難思議　　甚深法亦爾　　<lb
  n="0780c06" ed="T"/>我今得聞之　　亦復知深義　　<lb
  n="0780c07" ed="T"/>法身不說身　　報應身亦爾　　<lb
@@ -387,16 +387,16 @@
  n="0780c10" ed="T"/>說者及聽聞　　此皆如幻義　　<lb
  n="0780c11" ed="T"/>如幻不可得　　佛方便如是　　
 </ab><lb
- n="0780c12" ed="T"/><ab type="prose">是諸菩薩說此偈已。坐而聽法。觀世音菩薩<lb
+ n="0780c12" ed="T"/><ab type='prose'>是諸菩薩說此偈已。坐而聽法。觀世音菩薩<lb
  n="0780c13" ed="T"/>白言。世尊我為求悉地之人。或在深山曠野<lb
  n="0780c14" ed="T"/>之中。持誦呪法。未得成就。乏少糧食之。以<lb
  n="0780c15" ed="T"/>是義故。令退菩提之心。我今為此等善男子。<lb
  n="0780c16" ed="T"/>說諸天厨神呪。即說呪曰。<lb
  n="0780c17" ed="T"/></ab>
-<ab type="dharani">南牟喝羅怛那多羅那夜闍羅摩訶闍羅逗遛<lb
+<ab type='dharani'>南牟喝羅怛那多羅那夜闍羅摩訶闍羅逗遛<lb
  n="0780c18" ed="T"/>摩訶逗遛吽急速訶尼攝唵急速訶尼攝速<lb
  n="0780c19" ed="T"/></ab>
-<ab type="prose">先以淨水洗鉢。置鉢淨巾上。復以淨灰於巾<lb
+<ab type='prose'>先以淨水洗鉢。置鉢淨巾上。復以淨灰於巾<lb
  n="0780c20" ed="T"/>下。灰上舖巾。含水噀鉢。閉目誦呪。一百八<lb
  n="0780c21" ed="T"/>遍。心念上妙天厨。于時諸天遣天童。奉送上<lb
  n="0780c22" ed="T"/>妙之食。於鉢中滿。即起頂禮彌勒世尊。次禮<lb
@@ -417,9 +417,9 @@
  n="0781a08" ed="T"/>爾時金剛藏王菩薩言。諸有情持三部呪。未<lb
  n="0781a09" ed="T"/>得成就。有少功効。即而為防護。即說呪曰。<lb
  n="0781a10" ed="T"/></ab>
-<ab type="dharani">怛姓他唵跋折羅娑婆耶娑婆訶<lb
+<ab type='dharani'>怛姓他唵跋折羅娑婆耶娑婆訶<lb
  n="0781a11" ed="T"/></ab>
-<ab type="prose">若持呪之人覺有不安。當知即是諸魔夜迦<lb
+<ab type='prose'>若持呪之人覺有不安。當知即是諸魔夜迦<lb
  n="0781a12" ed="T"/>等惱亂。即急誦此呪。我與十方藏王及諸眷<lb
  n="0781a13" ed="T"/>屬。至彼作護。一切諸夜迦魔鬼眾忙怕自死。<lb
  n="0781a14" ed="T"/>若得蘇息。遠走他方。不敢他住也。爾時釋<lb
@@ -450,8 +450,8 @@
  n="0781b10" ed="T"/>諸大眾同聞。聞已悲泣而淚。歎未曾有。爾時<lb
  n="0781b11" ed="T"/>眾會歡喜信受。作禮奉行。</ab></div><lb
  n="0781b12" ed="T"/>
-<ab type="juan" subtype="close">毘盧遮那佛別行經一卷</ab><lb
- n="0781b13" ed="T"/><div type="w" level="2"><ab type="prose">。<lb
+<ab type='juan' subtype='close'>毘盧遮那佛別行經一卷</ab><lb
+ n="0781b13" ed="T"/><div type='w' level='2'><ab type='prose'>。<lb
  n="0781b14" ed="T"/>祕錄云。復題云毘盧遮那別行經。<lb
  n="0781b15" ed="T"/>常曉進宦錄云。大毘盧遮那三種悉地法<lb
  n="0781b16" ed="T"/>一卷。<lb

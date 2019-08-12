@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T10</biblScope>
                     <idno type="Taisho">T10n0280</idno>
                 </bibl>
@@ -42,10 +42,10 @@
         <body><pb n="0445a" ed="T" id="T10.0280.0445a"/><lb
  n="0445a01" ed="T"/><lb
  n="0445a02" ed="T"/>
-<ab type="juan" subtype="open">佛說兜沙經一卷</ab><lb
+<ab type='juan' subtype='open'>佛說兜沙經一卷</ab><lb
  n="0445a03" ed="T"/><lb
  n="0445a04" ed="T"/><byline>後漢月氏三藏支婁迦讖譯</byline><lb
- n="0445a05" ed="T"/><div type="jing" level="1"><ab type="prose">一切諸佛威神恩，諸過去、當來、今現在亦爾。<lb
+ n="0445a05" ed="T"/><div type='jing' level='1'><ab type='prose'>一切諸佛威神恩，諸過去、當來、今現在亦爾。<lb
  n="0445a06" ed="T"/>佛在摩竭提國時，法清淨處，其處號曰在所<lb
  n="0445a07" ed="T"/>問清淨。始作佛時，光景甚明。自然金剛蓮<lb
  n="0445a08" ed="T"/>華，周匝甚大。自然師子座，諸佛過去時亦悉<lb
@@ -183,5 +183,5 @@
  n="0446b21" ed="T"/>　伊豆羅墮還佛、　梵摩墮還佛、<lb
  n="0446b22" ed="T"/>　惟夷羅還佛。</ab></div><lb
  n="0446b23" ed="T"/>
-<ab type="juan" subtype="close">佛說兜沙經</ab>
+<ab type='juan' subtype='close'>佛說兜沙經</ab>
 </body></text></TEI>

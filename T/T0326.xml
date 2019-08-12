@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T12</biblScope>
                     <idno type="Taisho">T12n0326</idno>
                 </bibl>
@@ -44,13 +44,13 @@
  n="0042c12" ed="T"/><lb
  n="0042c13" ed="T"/><lb
  n="0042c14" ed="T"/>
-<ab type="juan" subtype="open">佛說三十五佛名禮懺文一卷</ab><lb
+<ab type='juan' subtype='open'>佛說三十五佛名禮懺文一卷</ab><lb
  n="0042c16" ed="T"/><lb
  n="0042c17" ed="T"/><byline>開府儀同三司特進試鴻臚卿<lb
  n="0042c18" ed="T"/>肅國公食邑三千戶賜紫贈司空<lb
  n="0042c19" ed="T"/>諡大鑒正號大廣智大興善寺<lb
  n="0042c20" ed="T"/>三藏沙門不空奉　詔譯</byline><lb
- n="0042c21" ed="T"/><div type="jing" level="1"><ab type="prose">「娜謨釋迦牟尼佛、娜謨金剛堅固能摧佛、<lb
+ n="0042c21" ed="T"/><div type='jing' level='1'><ab type='prose'>「娜謨釋迦牟尼佛、娜謨金剛堅固能摧佛、<lb
  n="0042c22" ed="T"/>娜謨寶焰佛、娜謨龍自在王佛、娜謨勤勇<lb
  n="0042c23" ed="T"/>軍佛、娜謨勤勇喜佛、娜謨寶火佛、娜謨<lb
  n="0042c24" ed="T"/>寶月光佛、娜謨不空見佛、娜謨寶月佛、<lb
@@ -85,13 +85,13 @@
  n="0043a24" ed="T"/>三世一切諸佛於最勝無上迴向願中，願皆<lb
  n="0043a25" ed="T"/>迴向無上正等菩提。<lb
  n="0043a26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「一切罪懺悔，　　諸福皆隨喜，　　<lb
  n="0043a27" ed="T"/>及勸請諸佛，　　願證無上智，　　<lb
  n="0043a28" ed="T"/>過去及未來，　　現在人中尊，　　<lb
  n="0043a29" ed="T"/>無量功德海，　　我今稽首禮。」　　
 </ab><pb n="0043b" id="T12.0326.0043b" ed="T"/><lb
- n="0043b01" ed="T"/><ab type="prose"></ab></div><lb
+ n="0043b01" ed="T"/><ab type='prose'></ab></div><lb
  n="0043b06" ed="T"/>
-<ab type="juan" subtype="close">佛說三十五佛名禮懺文</ab>
+<ab type='juan' subtype='close'>佛說三十五佛名禮懺文</ab>
 </body></text></TEI>

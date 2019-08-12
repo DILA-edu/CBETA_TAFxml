@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T16</biblScope>
                     <idno type="Taisho">T16n0663</idno>
                 </bibl>
@@ -39,15 +39,15 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0335a" ed="T" id="T16.0663.0335a"/><lb
  n="0335a01" ed="T"/><lb
  n="0335a02" ed="T"/><lb
- n="0335a03" ed="T"/><div type="xu" level="2"><head>金光明經序</head><lb
+ n="0335a03" ed="T"/><div type='xu' level='2'><head>金光明經序</head><lb
  n="0335a04" ed="T"/><lb
  n="0335a05" ed="T"/><byline>真定府十方洪濟禪院住持<lb
  n="0335a06" ed="T"/>傳法慈覺大師宗頤述</byline><lb
- n="0335a07" ed="T"/><ab type="prose">夫靈心絕待，泯萬物而獨存。妙行難思，諸緣<lb
+ n="0335a07" ed="T"/><ab type='prose'>夫靈心絕待，泯萬物而獨存。妙行難思，諸緣<lb
  n="0335a08" ed="T"/>普現，則實際理地雖不受於一毫，而事相門<lb
  n="0335a09" ed="T"/>中不捨於一法。故如來出世，說《金光明經》，依<lb
  n="0335a10" ed="T"/>清淨心，建解脫行，顯出塵之經卷，永廓迷情；<lb
@@ -70,15 +70,15 @@
  n="0335a27" ed="T"/>年三月十五日序。</ab></div><pb n="0335b" ed="T" id="T16.0663.0335b"/><lb
  n="0335b01" ed="T"/><lb
  n="0335b02" ed="T"/>
-<ab type="juan" subtype="open">金光明經卷第一</ab><lb
+<ab type='juan' subtype='open'>金光明經卷第一</ab><lb
  n="0335b03" ed="T"/><lb
  n="0335b04" ed="T"/><byline>北涼三藏法師曇無讖譯</byline><lb
- n="0335b05" ed="T"/><div type="pin" level="2"><head>金光明經序品第一</head><lb
- n="0335b06" ed="T"/><ab type="prose">如是我聞：一時佛住王舍大城耆闍崛山。<lb
+ n="0335b05" ed="T"/><div type='pin' level='2'><head>金光明經序品第一</head><lb
+ n="0335b06" ed="T"/><ab type='prose'>如是我聞：一時佛住王舍大城耆闍崛山。<lb
  n="0335b07" ed="T"/>是時如來遊於無量甚深法性諸佛行處，過<lb
  n="0335b08" ed="T"/>諸菩薩所行清淨。<lb
  n="0335b09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 是金光明，　　諸經之王！　　若有聞者，　　<lb
  n="0335b10" ed="T"/>則能思惟，　　無上微妙，　　甚深之義。　　<lb
  n="0335b11" ed="T"/>如是經典，　　常為四方，　　四佛世尊，　　<lb
@@ -116,8 +116,8 @@
  n="0335c14" ed="T"/>人身人道，　　及以正命；　　若聞懺悔，　　<lb
  n="0335c15" ed="T"/>執持在心，　　是上善根，　　諸佛所讚。　　
 </ab></div><lb
- n="0335c16" ed="T"/><div type="pin" level="2"><head>金光明經壽量品第二</head><lb
- n="0335c17" ed="T"/><ab type="prose">爾時王舍城中，有菩薩摩訶薩名曰信相，<lb
+ n="0335c16" ed="T"/><div type='pin' level='2'><head>金光明經壽量品第二</head><lb
+ n="0335c17" ed="T"/><ab type='prose'>爾時王舍城中，有菩薩摩訶薩名曰信相，<lb
  n="0335c18" ed="T"/>已曾供養過去無量億那由他百千諸佛，種<lb
  n="0335c19" ed="T"/>諸善根。是信相菩薩作是思惟：「何因何緣，釋<lb
  n="0335c20" ed="T"/>迦如來壽命短促方八十年？」復更念言：「如佛<lb
@@ -154,7 +154,7 @@
  n="0336a22" ed="T"/>集信相菩薩摩訶薩室。爾時四佛，於大眾中<lb
  n="0336a23" ed="T"/>略以偈喻說釋迦如來所得壽量，而作頌曰：<lb
  n="0336a24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「一切諸水，　　可知幾滴，　　無有能數，　　<lb
  n="0336a25" ed="T"/>釋尊壽命。　　諸須彌山，　　可知斤兩，　　<lb
  n="0336a26" ed="T"/>無有能量，　　釋尊壽命。　　一切大地，　　<lb
@@ -167,12 +167,12 @@
  n="0336b04" ed="T"/>亦無齊限。　　是故汝今，　　不應於佛，　　<lb
  n="0336b05" ed="T"/>無量壽命，　　而生疑惑。」　　
 </ab><lb
- n="0336b06" ed="T"/><ab type="prose">爾時信相菩薩摩訶薩，聞是四佛宣說如來<lb
+ n="0336b06" ed="T"/><ab type='prose'>爾時信相菩薩摩訶薩，聞是四佛宣說如來<lb
  n="0336b07" ed="T"/>壽命無量，深心信解歡喜踊躍。說是如來壽<lb
  n="0336b08" ed="T"/>量品時，無量無邊阿僧祇眾生，發阿耨多羅<lb
  n="0336b09" ed="T"/>三藐三菩提心。時四如來忽然不現。</ab></div><lb
- n="0336b10" ed="T"/><div type="pin" level="2"><head>金光明經懺悔品第三</head><lb
- n="0336b11" ed="T"/><ab type="prose">爾時信相菩薩，即於其夜夢見金鼓，其狀<lb
+ n="0336b10" ed="T"/><div type='pin' level='2'><head>金光明經懺悔品第三</head><lb
+ n="0336b11" ed="T"/><ab type='prose'>爾時信相菩薩，即於其夜夢見金鼓，其狀<lb
  n="0336b12" ed="T"/>姝大，其明普照喻如日光；復於光中得見<lb
  n="0336b13" ed="T"/>十方無量無邊諸佛世尊，眾寶樹下坐琉璃<lb
  n="0336b14" ed="T"/>座，與無量百千眷屬圍繞而為說法。見有<lb
@@ -185,7 +185,7 @@
  n="0336b21" ed="T"/>仰尊顏目不暫捨，以其夢中所見金鼓及<lb
  n="0336b22" ed="T"/>懺悔偈，向如來說：<lb
  n="0336b23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「昨夜所夢，　　至心憶持。　　夢見金鼓，　　<lb
  n="0336b24" ed="T"/>妙色晃耀，　　其光大盛，　　明踰於日，　　<lb
  n="0336b25" ed="T"/>遍照十方，　　恒沙世界。　　又因此光，　　<lb
@@ -403,11 +403,11 @@
  n="0339a05" ed="T"/>若於無量，　　百千萬億，　　諸佛如來，　　<lb
  n="0339a06" ed="T"/>種諸善根，　　然後乃得，　　聞是懺悔。』」　　
 </ab></div><lb
- n="0339a07" ed="T"/><div type="pin" level="2"><head>金光明經讚歎品第四</head><lb
- n="0339a08" ed="T"/><ab type="prose">爾時佛告地神堅牢：「善女天！過去有王名<lb
+ n="0339a07" ed="T"/><div type='pin' level='2'><head>金光明經讚歎品第四</head><lb
+ n="0339a08" ed="T"/><ab type='prose'>爾時佛告地神堅牢：「善女天！過去有王名<lb
  n="0339a09" ed="T"/>金龍尊，常以讚歎，讚歎去來現在諸佛：<lb
  n="0339a10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『我今尊重，　　敬禮讚歎，　　去來現在，　　<lb
  n="0339a11" ed="T"/>十方諸佛。　　諸佛清淨，　　微妙寂滅，　　<lb
  n="0339a12" ed="T"/>色中上色，　　金光照耀；　　於諸聲中，　　<lb
@@ -493,8 +493,8 @@
  n="0340a05" ed="T"/>爾時二子，　　金龍金光，　　今汝二子，　　<lb
  n="0340a06" ed="T"/>銀相等是。」　　
 </ab></div><lb
- n="0340a07" ed="T"/><div type="pin" level="2"><head>金光明經空品第五</head><lb
- n="0340a08" ed="T"/><ab type="verse">
+ n="0340a07" ed="T"/><div type='pin' level='2'><head>金光明經空品第五</head><lb
+ n="0340a08" ed="T"/><ab type='verse'>
 「無量餘經，　　已廣說空，　　是故此中，　　<lb
  n="0340a09" ed="T"/>略而解說。　　眾生根鈍，　　尠於智慧，　　<lb
  n="0340a10" ed="T"/>不能廣知，　　無量空義，　　故此尊經，　　<lb
@@ -557,15 +557,15 @@
  n="0340c09" ed="T"/>真珠瓔珞、　　金銀琉璃，　　種種異物。」　　
 </ab></div><lb
  n="0340c10" ed="T"/>
-<ab type="juan" subtype="close">金光明經卷第一</ab><lb
+<ab type='juan' subtype='close'>金光明經卷第一</ab><lb
  n="0340c11" ed="T"/><lb
  n="0340c12" ed="T"/><lb
  n="0340c13" ed="T"/>
-<ab type="juan" subtype="open">金光明經卷第二</ab><lb
+<ab type='juan' subtype='open'>金光明經卷第二</ab><lb
  n="0340c14" ed="T"/><lb
  n="0340c15" ed="T"/><byline>北涼三藏法師曇無讖譯</byline><lb
- n="0340c16" ed="T"/><div type="pin" level="2"><head>金光明經四天王品第六</head><lb
- n="0340c17" ed="T"/><ab type="prose">爾時毘沙門天王、提頭賴吒天王、毘留勒叉<lb
+ n="0340c16" ed="T"/><div type='pin' level='2'><head>金光明經四天王品第六</head><lb
+ n="0340c17" ed="T"/><ab type='prose'>爾時毘沙門天王、提頭賴吒天王、毘留勒叉<lb
  n="0340c18" ed="T"/>天王、毘留博叉天王，俱從座起偏袒右肩，<lb
  n="0340c19" ed="T"/>右膝著地胡跪合掌，白佛言：「世尊！是金光<lb
  n="0340c20" ed="T"/>明微妙經典眾經之王，諸佛世尊之所護念，<lb
@@ -863,7 +863,7 @@
  n="0344a22" ed="T"/>座起偏袒右肩，右膝著地長跪合掌，於世<lb
  n="0344a23" ed="T"/>尊前以偈讚曰：<lb
  n="0344a24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「佛月清淨，　　滿足莊嚴，　　佛日暉曜，　　<lb
  n="0344a25" ed="T"/>放千光明。　　如來面目，　　最上明淨，　　<lb
  n="0344a26" ed="T"/>齒白無垢，　　如蓮華根；　　功德無量，　　<lb
@@ -877,9 +877,9 @@
  n="0344b05" ed="T"/>無有障礙，　　如焰如化，　　是故我今，　　<lb
  n="0344b06" ed="T"/>稽首佛月。」　　
 </ab><lb
- n="0344b07" ed="T"/><ab type="prose">爾時世尊，以偈答曰：<lb
+ n="0344b07" ed="T"/><ab type='prose'>爾時世尊，以偈答曰：<lb
  n="0344b08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「此金光明，　　諸經之王，　　甚深最勝，　　<lb
  n="0344b09" ed="T"/>為無有上；　　十力世尊，　　之所宣說，　　<lb
  n="0344b10" ed="T"/>汝等四王，　　應當勤護。　　以是因緣，　　<lb
@@ -914,7 +914,7 @@
  n="0344c10" ed="T"/>集聽是經；　　聽是經故，　　具諸威德，　　<lb
  n="0344c11" ed="T"/>增益天眾，　　精氣身力。」　　
 </ab><lb
- n="0344c12" ed="T"/><ab type="prose">爾時四天王聞是偈已，白佛言：「世尊！我<lb
+ n="0344c12" ed="T"/><ab type='prose'>爾時四天王聞是偈已，白佛言：「世尊！我<lb
  n="0344c13" ed="T"/>從昔來未曾得聞如是微妙寂滅之法，我<lb
  n="0344c14" ed="T"/>聞是已心生悲喜涕淚交流，舉身戰動<lb
  n="0344c15" ed="T"/>肢節怡解，復得無量不可思議具足妙樂。」<lb
@@ -922,8 +922,8 @@
  n="0344c17" ed="T"/>如來上。作如是等供養佛已，復白佛言：「世<lb
  n="0344c18" ed="T"/>尊！我等四王，各各自有五百鬼神，常當隨<lb
  n="0344c19" ed="T"/>逐是說法者而為守護。」</ab></div><lb
- n="0344c20" ed="T"/><div type="pin" level="2"><head>金光明經大辯天神品第七</head><lb
- n="0344c21" ed="T"/><ab type="prose">爾時大辯天白佛言：「世尊！是說法者，我當<lb
+ n="0344c20" ed="T"/><div type='pin' level='2'><head>金光明經大辯天神品第七</head><lb
+ n="0344c21" ed="T"/><ab type='prose'>爾時大辯天白佛言：「世尊！是說法者，我當<lb
  n="0344c22" ed="T"/>益其樂說辯才，令其所說莊嚴次第善得<lb
  n="0344c23" ed="T"/>大智，若是經中有失文字句義違錯，我能<lb
  n="0344c24" ed="T"/>令是說法比丘次第還得，能與總持令不<lb
@@ -935,8 +935,8 @@
  n="0345a01" ed="T"/>方便、善能辯暢一切諸論、善知世間種種<lb
  n="0345a02" ed="T"/>技術，能出生死得不退轉，必定疾得阿耨<lb
  n="0345a03" ed="T"/>多羅三藐三菩提。」</ab></div><lb
- n="0345a04" ed="T"/><div type="pin" level="2"><head>金光明經功德天品第八</head><lb
- n="0345a05" ed="T"/><ab type="prose">爾時功德天白佛言：「世尊！是說法者，我當<lb
+ n="0345a04" ed="T"/><div type='pin' level='2'><head>金光明經功德天品第八</head><lb
+ n="0345a05" ed="T"/><ab type='prose'>爾時功德天白佛言：「世尊！是說法者，我當<lb
  n="0345a06" ed="T"/>隨其所須之物，衣服飲食臥具醫藥及餘資<lb
  n="0345a07" ed="T"/>產，供給是人無所乏少，令心安住晝夜歡<lb
  n="0345a08" ed="T"/>樂，正念思惟是經章句分別深義。若有眾<lb
@@ -969,14 +969,14 @@
  n="0345b06" ed="T"/>金光明經至誠發願，別以香華種種美味，供<lb
  n="0345b07" ed="T"/>施於我散灑諸方，爾時當說如是章句：<lb
  n="0345b08" ed="T"/></ab>
-<ab type="dharani">「波利富樓那遮利　三曼陀達舍尼羅佉<lb
+<ab type='dharani'>「波利富樓那遮利　三曼陀達舍尼羅佉<lb
  n="0345b09" ed="T"/>　摩訶毘呵羅伽帝　三曼陀毘陀那伽帝<lb
  n="0345b10" ed="T"/>　摩訶迦梨波帝　波婆禰　薩婆哆㖃　三<lb
  n="0345b11" ed="T"/>曼陀　脩鉢梨富隷　阿夜那達摩帝　摩<lb
  n="0345b12" ed="T"/>訶毘鼓畢帝　摩訶彌勒簸僧祇帝　醯帝簁<lb
  n="0345b13" ed="T"/>三博祇悕帝　三曼陀阿咃　阿㝹婆羅尼<lb
  n="0345b14" ed="T"/></ab>
-<ab type="prose">「是灌頂章句，必定吉祥真實不虛。等行眾<lb
+<ab type='prose'>「是灌頂章句，必定吉祥真實不虛。等行眾<lb
  n="0345b15" ed="T"/>生及中善根，應當受持讀誦通利，七日七夜<lb
  n="0345b16" ed="T"/>受持八戒，朝暮淨心，香華供養十方諸佛，<lb
  n="0345b17" ed="T"/>常為己身及諸眾生，迴向具足阿耨多羅三<lb
@@ -998,8 +998,8 @@
  n="0345c04" ed="T"/>藏菩薩、常悲菩薩、法上菩薩；亦應敬禮：東<lb
  n="0345c05" ed="T"/>方阿閦如來、南方寶相如來、西方無量壽佛、<lb
  n="0345c06" ed="T"/>北方微妙聲佛。」</ab></div><lb
- n="0345c07" ed="T"/><div type="pin" level="2"><head>金光明經堅牢地神品第九</head><lb
- n="0345c08" ed="T"/><ab type="prose">爾時地神堅牢白佛言：「世尊！是金光明微<lb
+ n="0345c07" ed="T"/><div type='pin' level='2'><head>金光明經堅牢地神品第九</head><lb
+ n="0345c08" ed="T"/><ab type='prose'>爾時地神堅牢白佛言：「世尊！是金光明微<lb
  n="0345c09" ed="T"/>妙經典，若現在世若未來世，在在處處——若城<lb
  n="0345c10" ed="T"/>邑聚落，若山澤空處，若王宮宅。世尊！隨是<lb
  n="0345c11" ed="T"/>經典所流布處，是地分中敷師子座，令說<lb
@@ -1059,15 +1059,15 @@
  n="0346b07" ed="T"/>受快樂，值遇諸佛，疾成阿耨多羅三藐三菩<lb
  n="0346b08" ed="T"/>提，三惡道苦悉斷無餘。」</ab></div><lb
  n="0346b09" ed="T"/>
-<ab type="juan" subtype="close">金光明經卷第二</ab><lb
+<ab type='juan' subtype='close'>金光明經卷第二</ab><lb
  n="0346b10" ed="T"/><lb
  n="0346b11" ed="T"/><lb
  n="0346b12" ed="T"/>
-<ab type="juan" subtype="open">金光明經卷第三</ab><lb
+<ab type='juan' subtype='open'>金光明經卷第三</ab><lb
  n="0346b13" ed="T"/><lb
  n="0346b14" ed="T"/><byline>北涼三藏法師曇無讖譯</byline><lb
- n="0346b15" ed="T"/><div type="pin" level="2"><head>金光明經散脂鬼神品第十</head><lb
- n="0346b16" ed="T"/><ab type="prose">爾時散脂鬼神大將，及二十八部諸鬼神等，<lb
+ n="0346b15" ed="T"/><div type='pin' level='2'><head>金光明經散脂鬼神品第十</head><lb
+ n="0346b16" ed="T"/><ab type='prose'>爾時散脂鬼神大將，及二十八部諸鬼神等，<lb
  n="0346b17" ed="T"/>即從座起，偏袒右肩右膝著地，白佛言：「世<lb
  n="0346b18" ed="T"/>尊！是金光明微妙經典，若現在世及未來世，<lb
  n="0346b19" ed="T"/>在在處處，若城邑聚落、若山澤空處、若王宮<lb
@@ -1103,8 +1103,8 @@
  n="0346c20" ed="T"/>他莊嚴其身釋迦如來、應供、正遍知，熾然如<lb
  n="0346c21" ed="T"/>是微妙法炬。南無第一威德成就眾事大功<lb
  n="0346c22" ed="T"/>德天。南無不可思量智慧功德成就大辯天。」</ab></div><lb
- n="0346c23" ed="T"/><div type="pin" level="2"><head>金光明經正論品第十一</head><lb
- n="0346c24" ed="T"/><ab type="prose">爾時佛告地神堅牢：「過去有王名力尊相，其<lb
+ n="0346c23" ed="T"/><div type='pin' level='2'><head>金光明經正論品第十一</head><lb
+ n="0346c24" ed="T"/><ab type='prose'>爾時佛告地神堅牢：「過去有王名力尊相，其<lb
  n="0346c25" ed="T"/>王有子名曰信相，不久當受灌頂之位統<lb
  n="0346c26" ed="T"/>領國土。爾時父王告其大子信相：『世有正<lb
  n="0346c27" ed="T"/>論，善治國土。我於昔時曾為大子，不久<lb
@@ -1114,7 +1114,7 @@
  n="0347a02" ed="T"/>何等名為治世正論？「地神！爾時力尊相王為<lb
  n="0347a03" ed="T"/>信相大子，說是偈言：<lb
  n="0347a04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『我今當說，　　諸王正論，　　為利眾生，　　<lb
  n="0347a05" ed="T"/>斷諸疑惑。　　一切人王、　　諸天天王，　　<lb
  n="0347a06" ed="T"/>應當歡喜，　　合掌諦聽。　　諸王和合，　　<lb
@@ -1226,11 +1226,11 @@
  n="0348a25" ed="T"/>是王當得，　　好名善譽，　　善能攝護，　　<lb
  n="0348a26" ed="T"/>安樂眾生。』」　　
 </ab></div><lb
- n="0348a27" ed="T"/><div type="pin" level="2"><head>金光明經善集品第十二</head><lb
- n="0348a28" ed="T"/><ab type="prose">爾時如來復為地神，說往昔因緣，而作偈<lb
+ n="0348a27" ed="T"/><div type='pin' level='2'><head>金光明經善集品第十二</head><lb
+ n="0348a28" ed="T"/><ab type='prose'>爾時如來復為地神，說往昔因緣，而作偈<lb
  n="0348a29" ed="T"/>言：<pb n="0348b" ed="T" id="T16.0663.0348b"/><lb
  n="0348b01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「我昔曾為，　　轉輪聖王，　　捨四大地，　　<lb
  n="0348b02" ed="T"/>及以大海；　　又於是時，　　以四天下，　　<lb
  n="0348b03" ed="T"/>滿中珍寶，　　奉上諸佛。　　凡所布施，　　<lb
@@ -1318,15 +1318,15 @@
  n="0349a27" ed="T"/>皆由聞經，　　及稱善哉。　　如我所願，　　<lb
  n="0349a28" ed="T"/>成就菩提，　　正法之身，　　我今已得。」　　
 </ab></div><lb
- n="0349a29" ed="T"/><div type="pin" level="2"><head>金光明經鬼神品第十三</head><pb n="0349b" ed="T" id="T16.0663.0349b"/><lb
- n="0349b01" ed="T"/><ab type="prose">佛告功德天：「若有善男子、善女人，欲以不<lb
+ n="0349a29" ed="T"/><div type='pin' level='2'><head>金光明經鬼神品第十三</head><pb n="0349b" ed="T" id="T16.0663.0349b"/><lb
+ n="0349b01" ed="T"/><ab type='prose'>佛告功德天：「若有善男子、善女人，欲以不<lb
  n="0349b02" ed="T"/>可思議妙供養具供養過去未來現在諸佛<lb
  n="0349b03" ed="T"/>世尊，及欲得知三世諸佛甚深行處，是人<lb
  n="0349b04" ed="T"/>應當必定至心，隨有是經流布之處，若城<lb
  n="0349b05" ed="T"/>邑村落舍宅空處，正念不亂，至心聽是微妙<lb
  n="0349b06" ed="T"/>經典。」爾時世尊欲重宣此義，而說偈言：<lb
  n="0349b07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「若欲供養，　　一切諸佛，　　欲知三世，　　<lb
  n="0349b08" ed="T"/>諸佛行處，　　應當往彼，　　城邑聚落，　　<lb
  n="0349b09" ed="T"/>有是經處，　　至心聽受，　　是妙經典。　　<lb
@@ -1467,8 +1467,8 @@
  n="0350c28" ed="T"/>讀誦之處，　　其國土境，　　即得增益，　　<lb
  n="0350c29" ed="T"/>如上所說，　　無量功德。」　　
 </ab></div><pb n="0351a" ed="T" id="T16.0663.0351a"/><lb
- n="0351a01" ed="T"/><div type="pin" level="2"><head>金光明經授記品第十四</head><lb
- n="0351a02" ed="T"/><ab type="prose">爾時如來，將欲為是信相菩薩及其二子銀<lb
+ n="0351a01" ed="T"/><div type='pin' level='2'><head>金光明經授記品第十四</head><lb
+ n="0351a02" ed="T"/><ab type='prose'>爾時如來，將欲為是信相菩薩及其二子銀<lb
  n="0351a03" ed="T"/>相、銀光，授阿耨多羅三藐三菩提記。是時即<lb
  n="0351a04" ed="T"/>有十千天子，威德熾王而為上首，俱從忉<lb
  n="0351a05" ed="T"/>利來至佛所，頂禮佛足却坐一面。爾時佛<lb
@@ -1518,8 +1518,8 @@
  n="0351b20" ed="T"/>聞此三大菩薩受於記莂，亦以過去本昔<lb
  n="0351b21" ed="T"/>發心誓願因緣，是故我今皆與受記，於未<lb
  n="0351b22" ed="T"/>來世，當成阿耨多羅三藐三菩提。」</ab></div><lb
- n="0351b23" ed="T"/><div type="pin" level="2"><head>金光明經除病品第十五</head><lb
- n="0351b24" ed="T"/><ab type="prose">佛告道場菩提樹神：「善女天！諦聽，諦聽！善持<lb
+ n="0351b23" ed="T"/><div type='pin' level='2'><head>金光明經除病品第十五</head><lb
+ n="0351b24" ed="T"/><ab type='prose'>佛告道場菩提樹神：「善女天！諦聽，諦聽！善持<lb
  n="0351b25" ed="T"/>憶念，我當為汝演說往昔誓願因緣。過去<lb
  n="0351b26" ed="T"/>無量不可思議阿僧祇劫，爾時有佛出現於<lb
  n="0351b27" ed="T"/>世，名曰寶勝如來、應供、正遍知、明行足、善逝、<lb
@@ -1548,7 +1548,7 @@
  n="0351c21" ed="T"/>叉手却住，以四大增損而問於父，即說偈<lb
  n="0351c22" ed="T"/>言：<lb
  n="0351c23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『云何當知，　　四大諸根，　　衰損代謝，　　<lb
  n="0351c24" ed="T"/>而得諸病？　　云何當知，　　飲食時節，　　<lb
  n="0351c25" ed="T"/>若食食已，　　身火不滅？　　云何當知，　　<lb
@@ -1580,7 +1580,7 @@
  n="0352a22" ed="T"/>違時而發，　　應當任師，　　籌量隨病，　　<lb
  n="0352a23" ed="T"/>飲食湯藥。』　　
 </ab><lb
- n="0352a24" ed="T"/><ab type="prose">「善女天！爾時流水長者子，問其父醫四大<lb
+ n="0352a24" ed="T"/><ab type='prose'>「善女天！爾時流水長者子，問其父醫四大<lb
  n="0352a25" ed="T"/>增損，因是得了一切醫方。時長者子知醫<lb
  n="0352a26" ed="T"/>方已，遍至國內城邑聚落，在在處處隨<lb
  n="0352a27" ed="T"/>有眾生病苦者所，軟言慰喻作如是言：『我<lb
@@ -1595,15 +1595,15 @@
  n="0352b07" ed="T"/>亦得平復。「善女天！是長者子，於其國內<lb
  n="0352b08" ed="T"/>治諸眾生所有病苦悉得除差。」</ab></div><lb
  n="0352b09" ed="T"/>
-<ab type="juan" subtype="close">金光明經卷第三</ab><lb
+<ab type='juan' subtype='close'>金光明經卷第三</ab><lb
  n="0352b10" ed="T"/><lb
  n="0352b11" ed="T"/><lb
  n="0352b12" ed="T"/>
-<ab type="juan" subtype="open">金光明經卷第四</ab><lb
+<ab type='juan' subtype='open'>金光明經卷第四</ab><lb
  n="0352b13" ed="T"/><lb
  n="0352b14" ed="T"/><byline>北涼三藏法師曇無讖譯</byline><lb
- n="0352b15" ed="T"/><div type="pin" level="2"><head>金光明經流水長者子品第十六</head><lb
- n="0352b16" ed="T"/><ab type="prose">佛告樹神：「爾時流水長者子，於天自在光王<lb
+ n="0352b15" ed="T"/><div type='pin' level='2'><head>金光明經流水長者子品第十六</head><lb
+ n="0352b16" ed="T"/><ab type='prose'>佛告樹神：「爾時流水長者子，於天自在光王<lb
  n="0352b17" ed="T"/>國內，治一切眾生無量苦患已，令其身體<lb
  n="0352b18" ed="T"/>平復如本，受諸快樂；以病除故多設福業，<lb
  n="0352b19" ed="T"/>修行布施，尊重恭敬是長者子，作如是<lb
@@ -1724,8 +1724,8 @@
  n="0353c18" ed="T"/>藏，今阿難是；時十千魚者，今十千天子是。是<lb
  n="0353c19" ed="T"/>故我今為其授阿耨多羅三藐三菩提記。爾<lb
  n="0353c20" ed="T"/>時樹神現半身者，今汝身是。」</ab></div><lb
- n="0353c21" ed="T"/><div type="pin" level="2"><head>金光明經捨身品第十七</head><lb
- n="0353c22" ed="T"/><ab type="prose">爾時道場菩提樹神復白佛言：「世尊！我聞世<lb
+ n="0353c21" ed="T"/><div type='pin' level='2'><head>金光明經捨身品第十七</head><lb
+ n="0353c22" ed="T"/><ab type='prose'>爾時道場菩提樹神復白佛言：「世尊！我聞世<lb
  n="0353c23" ed="T"/>尊過去修行菩薩道時，具受無量百千苦<lb
  n="0353c24" ed="T"/>行，捐捨身命肉血骨髓，惟願世尊，少說往<lb
  n="0353c25" ed="T"/>昔苦行因緣，為利眾生受諸快樂。」爾時世<lb
@@ -1818,20 +1818,20 @@
  n="0354c25" ed="T"/>噉食其肉唯留餘骨。爾時第一王子見地<lb
  n="0354c26" ed="T"/>大動，為第二王子而說偈言：<lb
  n="0354c27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『震動大地，　　及以大海，　　日無精光，　　<lb
  n="0354c28" ed="T"/>如有覆蔽；　　於上虛空，　　雨諸華香，　　<lb
  n="0354c29" ed="T"/>必是我弟，　　捨所愛身。』　　
 </ab><pb n="0355a" ed="T" id="T16.0663.0355a"/><lb
- n="0355a01" ed="T"/><ab type="prose">「第二王子復說偈言：<lb
+ n="0355a01" ed="T"/><ab type='prose'>「第二王子復說偈言：<lb
  n="0355a02" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『彼虎產來，　　已經七日，　　七子圍繞，　　<lb
  n="0355a03" ed="T"/>窮無飲食，　　氣力羸損，　　命不云遠。　　<lb
  n="0355a04" ed="T"/>小弟大悲，　　知其窮悴，　　懼不堪忍，　　<lb
  n="0355a05" ed="T"/>還食其子，　　恐定捨身，　　以救彼命。』　　
 </ab><lb
- n="0355a06" ed="T"/><ab type="prose">「時二王子心大愁怖，涕泣悲歎容貌憔悴，復<lb
+ n="0355a06" ed="T"/><ab type='prose'>「時二王子心大愁怖，涕泣悲歎容貌憔悴，復<lb
  n="0355a07" ed="T"/>共相將還至虎所，見弟所著帔服衣裳，皆<lb
  n="0355a08" ed="T"/>悉在一竹枝之上，骸骨髮爪布散狼藉，流血<lb
  n="0355a09" ed="T"/>處處遍污其地；見已悶絕不自勝持，投身<lb
@@ -1847,13 +1847,13 @@
  n="0355a19" ed="T"/>時王妃，大地動時即便驚寤，心生愁怖而<lb
  n="0355a20" ed="T"/>說偈言：<lb
  n="0355a21" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『今日何故，　　大地大水，　　一切皆動；　　<lb
  n="0355a22" ed="T"/>物不安所，　　日無精光，　　如有覆蔽？　　<lb
  n="0355a23" ed="T"/>我心憂苦，　　目睫瞤動，　　如我今者，　　<lb
  n="0355a24" ed="T"/>所見瑞相，　　必有災異，　　不祥苦惱。』　　
 </ab><lb
- n="0355a25" ed="T"/><ab type="prose">「於是王妃說是偈已，時有青衣在外已聞<lb
+ n="0355a25" ed="T"/><ab type='prose'>「於是王妃說是偈已，時有青衣在外已聞<lb
  n="0355a26" ed="T"/>王子消息，心驚惶怖尋即入內，啟白王妃<lb
  n="0355a27" ed="T"/>作如是言：『向者在外聞諸侍從推覓王子<lb
  n="0355a28" ed="T"/>不知所在。』王妃聞已生大憂惱，涕泣滿目<lb
@@ -1862,7 +1862,7 @@
  n="0355b02" ed="T"/>淚而言：『如何今日失我心中所愛重者？』」爾<lb
  n="0355b03" ed="T"/>時世尊欲重宣此義，而說偈言：<lb
  n="0355b04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「我於往昔，　　無量劫中，　　捨所重身，　　<lb
  n="0355b05" ed="T"/>以求菩提。　　若為國王，　　及作王子，　　<lb
  n="0355b06" ed="T"/>常捨難捨，　　以求菩提。　　我念宿命，　　<lb
@@ -1995,16 +1995,16 @@
  n="0356c17" ed="T"/>『願我舍利，　　於未來世，　　過算數劫，　　<lb
  n="0356c18" ed="T"/>常為眾生，　　而作佛事。』」　　
 </ab><lb
- n="0356c19" ed="T"/><ab type="prose">說是經時，無量阿僧祇諸天及人，發阿耨<lb
+ n="0356c19" ed="T"/><ab type='prose'>說是經時，無量阿僧祇諸天及人，發阿耨<lb
  n="0356c20" ed="T"/>多羅三藐三菩提心。「樹神！是名禮塔往昔因<lb
  n="0356c21" ed="T"/>緣。」爾時佛神力故，是七寶塔即沒不現。</ab></div><lb
- n="0356c22" ed="T"/><div type="pin" level="2"><head>金光明經讚佛品第十八</head><lb
- n="0356c23" ed="T"/><ab type="prose">爾時無量百千萬億諸菩薩眾，從此世界至<lb
+ n="0356c22" ed="T"/><div type='pin' level='2'><head>金光明經讚佛品第十八</head><lb
+ n="0356c23" ed="T"/><ab type='prose'>爾時無量百千萬億諸菩薩眾，從此世界至<lb
  n="0356c24" ed="T"/>金寶蓋山王如來國土，到彼土已五體投<lb
  n="0356c25" ed="T"/>地，為佛作禮却住一面，合掌向佛異口<lb
  n="0356c26" ed="T"/>同音，而讚歎曰：<lb
  n="0356c27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「如來之身，　　金色微妙，　　其明照耀，　　<lb
  n="0356c28" ed="T"/>如金山王；　　身淨柔軟，　　如金蓮華；　　<lb
  n="0356c29" ed="T"/>無量妙相，　　以自莊嚴；　　隨形之好，　　<pb n="0357a" ed="T" id="T16.0663.0357a"/><lb
@@ -2033,10 +2033,10 @@
  n="0357a23" ed="T"/>不能宣一；　　若我功德，　　得聚集者，　　<lb
  n="0357a24" ed="T"/>迴與眾生，　　證無上道。」　　
 </ab><lb
- n="0357a25" ed="T"/><ab type="prose">爾時信相菩薩，即於此會從座而起，偏袒<lb
+ n="0357a25" ed="T"/><ab type='prose'>爾時信相菩薩，即於此會從座而起，偏袒<lb
  n="0357a26" ed="T"/>右肩右膝著地，合掌向佛而說讚言：<lb
  n="0357a27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「世尊百福，　　相好微妙，　　功德千數，　　<lb
  n="0357a28" ed="T"/>莊嚴其身，　　色淨遠照，　　視之無厭；　　<lb
  n="0357a29" ed="T"/>如日千光，　　彌滿虛空，　　光明熾盛，　　<pb n="0357b" ed="T" id="T16.0663.0357b"/><lb
@@ -2061,9 +2061,9 @@
  n="0357b19" ed="T"/>右旋宛轉，　　光明流出，　　如琉璃珠，　　<lb
  n="0357b20" ed="T"/>其色微妙，　　如日處空。」　　
 </ab><lb
- n="0357b21" ed="T"/><ab type="prose">爾時道場菩提樹神，復說讚曰：<lb
+ n="0357b21" ed="T"/><ab type='prose'>爾時道場菩提樹神，復說讚曰：<lb
  n="0357b22" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「南無清淨，　　無上正覺，　　甚深妙法，　　<lb
  n="0357b23" ed="T"/>隨順覺了，　　遠離一切，　　非法非道，　　<lb
  n="0357b24" ed="T"/>獨拔而出，　　成佛正覺。　　知有非有，　　<lb
@@ -2103,8 +2103,8 @@
  n="0357c29" ed="T"/>汝於今日，　　快說是言，　　一切眾生，　　<pb n="0358a" ed="T" id="T16.0663.0358a"/><lb
  n="0358a01" ed="T"/>若聞此法，　　皆入甘露，　　無生法門。」　　
 </ab></div><lb
- n="0358a02" ed="T"/><div type="pin" level="2"><head>金光明經囑累品第十九</head><lb
- n="0358a03" ed="T"/><ab type="prose">爾時釋迦牟尼佛，從三昧起現大神力，以<lb
+ n="0358a02" ed="T"/><div type='pin' level='2'><head>金光明經囑累品第十九</head><lb
+ n="0358a03" ed="T"/><ab type='prose'>爾時釋迦牟尼佛，從三昧起現大神力，以<lb
  n="0358a04" ed="T"/>右手摩諸菩薩摩訶薩頂，與諸天王及諸龍<lb
  n="0358a05" ed="T"/>王、二十八部散脂鬼神大將軍等，而作是言：<lb
  n="0358a06" ed="T"/>「我於無量百千萬億恒河沙劫，修習是金光<lb
@@ -2131,9 +2131,9 @@
  n="0358a27" ed="T"/>脩羅等，聞佛所說，皆發無上菩提之道，踊<lb
  n="0358a28" ed="T"/>躍歡喜作禮而去。</ab></div><lb
  n="0358a29" ed="T"/>
-<ab type="juan" subtype="close">金光明經卷第四</ab><pb n="0358b" ed="T" id="T16.0663.0358b"/><lb
- n="0358b01" ed="T"/><div type="w" level="2"><head>金光明經懺悔滅罪傳</head><lb
- n="0358b02" ed="T"/><ab type="prose">昔溫州治中張居道，滄州景城縣人。未莅<lb
+<ab type='juan' subtype='close'>金光明經卷第四</ab><pb n="0358b" ed="T" id="T16.0663.0358b"/><lb
+ n="0358b01" ed="T"/><div type='w' level='2'><head>金光明經懺悔滅罪傳</head><lb
+ n="0358b02" ed="T"/><ab type='prose'>昔溫州治中張居道，滄州景城縣人。未莅<lb
  n="0358b03" ed="T"/>職日，因適女事屠宰諸命，牛羊猪雞鵝鴨<lb
  n="0358b04" ed="T"/>之類。未踰一旬，卒得重病絕音不語，因爾<lb
  n="0358b05" ed="T"/>便死，唯心尚暖家人不即葬之。經三夜便<lb

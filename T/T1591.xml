@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T31</biblScope>
                     <idno type="Taisho">T31n1591</idno>
                 </bibl>
@@ -44,11 +44,11 @@
  n="0077b10" ed="T"/><lb
  n="0077b11" ed="T"/><lb
  n="0077b12" ed="T"/>
-<ab type="juan" subtype="open">成唯識寶生論卷第一</ab><lb
+<ab type='juan' subtype='open'>成唯識寶生論卷第一</ab><lb
  n="0077b13" ed="T"/><lb
  n="0077b14" ed="T"/><byline>護法菩薩造</byline><lb
  n="0077b15" ed="T"/><byline>大唐三藏法師義淨奉　制譯</byline><lb
- n="0077b16" ed="T"/><div type="jing" level="1"><ab type="verse">
+ n="0077b16" ed="T"/><div type='jing' level='1'><ab type='verse'>
 有情恒為眾苦逼　　熾燃猛火燒內心　　<lb
  n="0077b17" ed="T"/>善士意樂起慈悲　　譬如自身皆自受　　<lb
  n="0077b18" ed="T"/>敬禮善慧諸佛種　　於眾煩惱皆除滅　　<lb
@@ -56,7 +56,7 @@
  n="0077b20" ed="T"/>微笑降伏大魔軍　　明智覺了除眾欲　　<lb
  n="0077b21" ed="T"/>於此大乘能善住　　深識愛源唯自心　　
 </ab><lb
- n="0077b22" ed="T"/><ab type="prose">論曰。謂依大乘成立三界但唯是識。<lb
+ n="0077b22" ed="T"/><ab type='prose'>論曰。謂依大乘成立三界但唯是識。<lb
  n="0077b23" ed="T"/>釋曰。此復何意。輒名大乘。本契弘心。堅持<lb
  n="0077b24" ed="T"/>禁戒。遍諸生品。拔濟有情。普令出離。獲得難<lb
  n="0077b25" ed="T"/>勝。無罪之行。極妙吉祥。是諸善逝。去而隨<lb
@@ -364,15 +364,15 @@
  n="0081a08" ed="T"/>識緣非實物。不勞深搆。無違諍故。詎煩辛苦<lb
  n="0081a09" ed="T"/>而為成立。<lb
  n="0081a10" ed="T"/>
-</ab><ab type="juan" subtype="close">成唯識寶生論卷第一</ab><lb
- n="0081a11" ed="T"/><ab type="prose">大唐景龍四年歲次庚戌四月壬午朔十五<lb
+</ab><ab type='juan' subtype='close'>成唯識寶生論卷第一</ab><lb
+ n="0081a11" ed="T"/><ab type='prose'>大唐景龍四年歲次庚戌四月壬午朔十五<lb
  n="0081a12" ed="T"/>日景申三藏法師大德沙門義淨宣釋梵本<lb
  n="0081a13" ed="T"/>并綴文正字<lb
  n="0081a14" ed="T"/>翻經沙門吐火羅大德達秣磨證梵義<lb
  n="0081a15" ed="T"/>翻經沙門中天竺國大德拔努證梵義<lb
  n="0081a16" ed="T"/>翻經沙門罽賓國大德達摩難陀證梵文<lb
  n="0081a17" ed="T"/>翻經沙門淄州大雲寺大德惠沼證義<lb
- n="0081a18" ed="T"/>翻經沙門洛州崇光寺大德律師道󰤱證<lb
+ n="0081a18" ed="T"/>翻經沙門洛州崇光寺大德律師道𭻜證<lb
  n="0081a19" ed="T"/>義<lb
  n="0081a20" ed="T"/>翻經沙門福壽寺寺主大德利明證義<lb
  n="0081a21" ed="T"/>翻經沙門洛州太平寺大德律師道恪證義<lb
@@ -404,11 +404,11 @@
  n="0081b18" ed="T"/><lb
  n="0081b19" ed="T"/><lb
  n="0081b20" ed="T"/>
-</ab><ab type="juan" subtype="open">成唯識寶生論卷第二</ab><lb
+</ab><ab type='juan' subtype='open'>成唯識寶生論卷第二</ab><lb
  n="0081b21" ed="T"/><lb
  n="0081b22" ed="T"/><byline>護法菩薩造</byline><lb
  n="0081b23" ed="T"/><byline>大唐三藏法師義淨奉　制譯</byline><lb
- n="0081b24" ed="T"/><ab type="prose">論曰。復言處時定如夢者。謂如諸覺雖無其<lb
+ n="0081b24" ed="T"/><ab type='prose'>論曰。復言處時定如夢者。謂如諸覺雖無其<lb
  n="0081b25" ed="T"/>境共許有定。若時決定而有方處。見村園等<lb
  n="0081b26" ed="T"/>復有定時。現前可得。然非彼有。斯言為顯雖<lb
  n="0081b27" ed="T"/>有決定時處之覺而無境故。彼於他成因無<lb
@@ -438,11 +438,11 @@
  n="0081c22" ed="T"/>其過。爾者於彼夢中。實亦無其處時決定。相<lb
  n="0081c23" ed="T"/>狀在心由何得知。如有頌言。<lb
  n="0081c24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若眠於夜裏　　見日北方生　　<lb
  n="0081c25" ed="T"/>參差夢時處　　如何有定心　　
 </ab><lb
- n="0081c26" ed="T"/><ab type="prose">此但不委前後所述。朋黨旨趣空愛巧詞。由<lb
+ n="0081c26" ed="T"/><ab type='prose'>此但不委前後所述。朋黨旨趣空愛巧詞。由<lb
  n="0081c27" ed="T"/>於時處不許。但言唯於此處。故不應詰處時<lb
  n="0081c28" ed="T"/>決定。於他所許不相應故。如前已述。復有立<lb
  n="0081c29" ed="T"/>言。夢心有境。是其念故。准知處等是其決定。<pb n="0082a" id="T31.1591.0082a" ed="T"/><lb
@@ -574,11 +574,11 @@
  n="0083b10" ed="T"/>不令他能為解悟。然諸論文極分明故。如有<lb
  n="0083b11" ed="T"/>頌云。<lb
  n="0083b12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 縱使河流鬼不見　　設有所見別為形　　<lb
  n="0083b13" ed="T"/>明知彼皆由故業　　業障瞳人壞明睛　　
 </ab><lb
- n="0083b14" ed="T"/><ab type="prose">境雖非有。由業過故而令眼見體。是現有。而<lb
+ n="0083b14" ed="T"/><ab type='prose'>境雖非有。由業過故而令眼見體。是現有。而<lb
  n="0083b15" ed="T"/>不能見斯即自許。故所見物便有別形。由此<lb
  n="0083b16" ed="T"/>應知。實無膿血便有妄見。有餘復言。然諸餓<lb
  n="0083b17" ed="T"/>鬼由其非愛惡業力故。遂令其眼見如是相。<lb
@@ -749,15 +749,15 @@
  n="0085b08" ed="T"/>銷。故此那洛迦非為能害者。由如屠所繫柱<lb
  n="0085b09" ed="T"/>之獸。然此是彼生怖因故。非受彼苦。<lb
  n="0085b10" ed="T"/>
-</ab><ab type="juan" subtype="close">成唯識寶生論卷第二</ab><lb
+</ab><ab type='juan' subtype='close'>成唯識寶生論卷第二</ab><lb
  n="0085b11" ed="T"/><lb
  n="0085b12" ed="T"/><lb
  n="0085b13" ed="T"/>
-<ab type="juan" subtype="open">成唯識寶生論卷第三</ab><lb
+<ab type='juan' subtype='open'>成唯識寶生論卷第三</ab><lb
  n="0085b14" ed="T"/><lb
  n="0085b15" ed="T"/><byline>護法菩薩造</byline><lb
  n="0085b16" ed="T"/><byline>大唐三藏法師義淨奉　制譯</byline><lb
- n="0085b17" ed="T"/><ab type="prose">論曰。㮈洛迦波羅如獵鹿者。如是應知。非<lb
+ n="0085b17" ed="T"/><ab type='prose'>論曰。㮈洛迦波羅如獵鹿者。如是應知。非<lb
  n="0085b18" ed="T"/>但不受相害之苦。然於器處共相之苦。亦復<lb
  n="0085b19" ed="T"/>不受此之獄卒能害彼故。若異此者。彼在熱<lb
  n="0085b20" ed="T"/>鐵融沸地上受燒然苦不能忍時。如何此際<lb
@@ -835,11 +835,11 @@
  n="0086b05" ed="T"/>所有階位便。成無失然。則許有階級殊途如。<lb
  n="0086b06" ed="T"/>有頌云。<lb
  n="0086b07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 多瞋為墋業　　好行罪惡事　　<lb
  n="0086b08" ed="T"/>見苦心歡悅　　當生琰摩卒　　
 </ab><lb
- n="0086b09" ed="T"/><ab type="prose">由非此相那洛迦有。若此伽他是實義者。如<lb
+ n="0086b09" ed="T"/><ab type='prose'>由非此相那洛迦有。若此伽他是實義者。如<lb
  n="0086b10" ed="T"/>何輒爾作如是言。其獄卒等非有情數。隨<lb
  n="0086b11" ed="T"/>那洛迦所見之相。作如斯說。理復何違。諸近<lb
  n="0086b12" ed="T"/>見者。由覩於他舉動差別。為所量故測度彼<lb
@@ -866,7 +866,7 @@
  n="0086c04" ed="T"/>諸獄卒類未必要須同形量等然與彼卒墋毒<lb
  n="0086c05" ed="T"/>可畏。見便生怖。高大形軀非常威壯。設有形<lb
  n="0086c06" ed="T"/>量可容相似。然彼身形含毒可畏。如篾戾車。<lb
- n="0086c07" ed="T"/>見便悚懼。是能害者。設使此類軀貌矬󰤴。<lb
+ n="0086c07" ed="T"/>見便悚懼。是能害者。設使此類軀貌矬𭏯。<lb
  n="0086c08" ed="T"/>由其稟性是猛利故。縱令敵者形狀偉大。情<lb
  n="0086c09" ed="T"/>不比數事同草芥。陵篾彼徒力有容裕。此亦<lb
  n="0086c10" ed="T"/>未能閑他意趣幽邃深義。然彼疎失。我且恕<lb
@@ -1126,15 +1126,15 @@
  n="0089c03" ed="T"/>身之苦故。如是說處色等狂亂增上愛著所<lb
  n="0089c04" ed="T"/>住種子之密意者。因立果名。<lb
  n="0089c05" ed="T"/>
-</ab><ab type="juan" subtype="close">成唯識寶生論卷第三</ab><lb
+</ab><ab type='juan' subtype='close'>成唯識寶生論卷第三</ab><lb
  n="0089c06" ed="T"/><lb
  n="0089c07" ed="T"/><lb
  n="0089c08" ed="T"/>
-<ab type="juan" subtype="open">成唯識寶生論卷第四</ab><lb
+<ab type='juan' subtype='open'>成唯識寶生論卷第四</ab><lb
  n="0089c09" ed="T"/><lb
  n="0089c10" ed="T"/><byline>護法菩薩造</byline><lb
  n="0089c11" ed="T"/><byline>大唐三藏法師義淨奉　制譯</byline><lb
- n="0089c12" ed="T"/><ab type="prose">論曰。識從自種生者。以因性同故。非有質礙。<lb
+ n="0089c12" ed="T"/><ab type='prose'>論曰。識從自種生者。以因性同故。非有質礙。<lb
  n="0089c13" ed="T"/>所依所緣五識身境識之相故。猶如意識。或<lb
  n="0089c14" ed="T"/>不離心心所體性。彼眼等識同共作業。能生<lb
  n="0089c15" ed="T"/>因故。猶如意處法處。此說表示蘇呾羅意。經<lb
@@ -1395,15 +1395,15 @@
  n="0092c09" ed="T"/>然。為其能立。不共成故。宗及於喻欲曉悟他。<lb
  n="0092c10" ed="T"/>於境領受全無力用。<lb
  n="0092c11" ed="T"/>
-</ab><ab type="juan" subtype="close">成唯識寶生論卷第四</ab><lb
+</ab><ab type='juan' subtype='close'>成唯識寶生論卷第四</ab><lb
  n="0092c12" ed="T"/><lb
  n="0092c13" ed="T"/><lb
  n="0092c14" ed="T"/>
-<ab type="juan" subtype="open">成唯識寶生論卷第五</ab><lb
+<ab type='juan' subtype='open'>成唯識寶生論卷第五</ab><lb
  n="0092c15" ed="T"/><lb
  n="0092c16" ed="T"/><byline>護法菩薩造</byline><lb
  n="0092c17" ed="T"/><byline>大唐三藏法師義淨奉　制譯</byline><lb
- n="0092c18" ed="T"/><ab type="prose">論曰。如何不與色等諸境而相關涉名作見<lb
+ n="0092c18" ed="T"/><ab type='prose'>論曰。如何不與色等諸境而相關涉名作見<lb
  n="0092c19" ed="T"/>耶。若遣斯難。此不勞言。由斯識體自現形相。<lb
  n="0092c20" ed="T"/>雖無色等而境得成。此前已說。夢獄瞖等為<lb
  n="0092c21" ed="T"/>能喻事。隨其所應廣陳比量。<lb
@@ -1749,5 +1749,5 @@
  n="0096c13" ed="T"/>實境。所以者何。於非實事作實事解。而為決<lb
  n="0096c14" ed="T"/>斷。由於彼識現虛妄相故。<lb
  n="0096c15" ed="T"/>
-</ab><ab type="juan" subtype="close">成唯識寶生論卷第五</ab></div>
+</ab><ab type='juan' subtype='close'>成唯識寶生論卷第五</ab></div>
 </body></text></TEI>

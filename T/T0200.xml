@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T04</biblScope>
                     <idno type="Taisho">T04n0200</idno>
                 </bibl>
@@ -39,17 +39,17 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0203a" ed="T" id="T04.0200.0203a"/><lb
  n="0203a01" ed="T"/><lb
  n="0203a02" ed="T"/><lb
  n="0203a03" ed="T"/>
-<ab type="juan" subtype="open">撰集百緣經卷第一</ab><lb
+<ab type='juan' subtype='open'>撰集百緣經卷第一</ab><lb
  n="0203a04" ed="T"/><lb
  n="0203a05" ed="T"/><byline>吳月支優婆塞支謙譯</byline><lb
- n="0203a06" ed="T"/><div type="pin" level="2"><head>菩薩授記品第一</head><lb
+ n="0203a06" ed="T"/><div type='pin' level='2'><head>菩薩授記品第一</head><lb
  n="0203a07" ed="T"/><head>（一）滿賢婆羅門遙請佛緣</head><lb
- n="0203a08" ed="T"/><ab type="prose">佛在王舍城迦蘭陀竹林。時彼南方有一<lb
+ n="0203a08" ed="T"/><ab type='prose'>佛在王舍城迦蘭陀竹林。時彼南方有一<lb
  n="0203a09" ed="T"/>婆羅門，名曰滿賢，財寶無量，不可稱計，<lb
  n="0203a10" ed="T"/>似毘沙門天，德信賢善，體性調順，自利利<lb
  n="0203a11" ed="T"/>他，慈愍眾生，如母愛子。於異學所，施設<lb
@@ -233,20 +233,20 @@
  n="0205a25" ed="T"/>補破衣，心懷歡喜，前禮佛足，發大誓願，即<lb
  n="0205a26" ed="T"/>於佛前，而說偈言：<lb
  n="0205a27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「所施雖微少，　　值大良福田，　　<lb
  n="0205a28" ed="T"/>奉施世尊已，　　誓願後成佛。　　<lb
  n="0205a29" ed="T"/>過度群萠類，　　其數不可量，　　<pb n="0205b" ed="T" id="T04.0200.0205b"/><lb
  n="0205b01" ed="T"/>大威德世尊，　　當證知此事。」　　
 </ab><lb
- n="0205b02" ed="T"/><ab type="prose">爾時世尊說偈答曰：<lb
+ n="0205b02" ed="T"/><ab type='prose'>爾時世尊說偈答曰：<lb
  n="0205b03" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「汝今值我故，　　歸誠發信施，　　<lb
  n="0205b04" ed="T"/>未來當成佛，　　號名曰十綖，　　<lb
  n="0205b05" ed="T"/>名聞遍十方，　　度脫不可量。」　　
 </ab><lb
- n="0205b06" ed="T"/><ab type="prose">爾時須摩聞佛世尊說此偈已，深生信敬，<lb
+ n="0205b06" ed="T"/><ab type='prose'>爾時須摩聞佛世尊說此偈已，深生信敬，<lb
  n="0205b07" ed="T"/>五體投地，發大誓願：「持此施綖所有功德，<lb
  n="0205b08" ed="T"/>於未來世，盲冥眾生，為作眼目；無歸依者，<lb
  n="0205b09" ed="T"/>為作歸依；無救護者，為作救護；無解脫者，<lb
@@ -405,11 +405,11 @@
  n="0207a23" ed="T"/>詣佛所，前禮佛足，却坐一面。佛即為王，<lb
  n="0207a24" ed="T"/>說非常偈：<lb
  n="0207a25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「高者亦隨墮，　　常者亦有盡，　　<lb
  n="0207a26" ed="T"/>生者皆有死，　　合會有別離。」　　
 </ab><lb
- n="0207a27" ed="T"/><ab type="prose">爾時國王聞佛世尊說是偈已，心開意<lb
+ n="0207a27" ed="T"/><ab type='prose'>爾時國王聞佛世尊說是偈已，心開意<lb
  n="0207a28" ed="T"/>解，得須陀洹果，即於佛前，求索出家。佛即<lb
  n="0207a29" ed="T"/>告言：「善來比丘！」鬚髮自落，法服著身，便成<pb n="0207b" ed="T" id="T04.0200.0207b"/><lb
  n="0207b01" ed="T"/>沙門，精懃修習，得阿羅漢果。彼第二王聞<lb
@@ -455,12 +455,12 @@
  n="0207c12" ed="T"/>於親非親，心常平等，賢聖所讚。」即便為<lb
  n="0207c13" ed="T"/>王而說偈言：<lb
  n="0207c14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「負則生憂懼，　　勝則懷欣慶，　　<lb
  n="0207c15" ed="T"/>汝今放彼王，　　二俱生歡喜，　　<lb
  n="0207c16" ed="T"/>若能息勝負，　　最妙第一樂。」　　
 </ab><lb
- n="0207c17" ed="T"/><ab type="prose">時波斯匿王聞佛世尊說是偈已，即放<lb
+ n="0207c17" ed="T"/><ab type='prose'>時波斯匿王聞佛世尊說是偈已，即放<lb
  n="0207c18" ed="T"/>阿闍世還詣本國，自歸舍衛，而自念言：「吾<lb
  n="0207c19" ed="T"/>今所以戰鬪獲勝，由彼長者資我珍寶，賞<lb
  n="0207c20" ed="T"/>募將士，今得勝耳。」作是念已，即召長者，<lb
@@ -490,15 +490,15 @@
  n="0208a20" ed="T"/>發辟支佛心者，有發無上菩提心者。爾<lb
  n="0208a21" ed="T"/>時諸比丘聞佛所說，歡喜奉行。</ab></div><lb
  n="0208a22" ed="T"/>
-<ab type="juan" subtype="close">撰集百緣經卷第一</ab><pb n="0208b" ed="T" id="T04.0200.0208b"/><lb
+<ab type='juan' subtype='close'>撰集百緣經卷第一</ab><pb n="0208b" ed="T" id="T04.0200.0208b"/><lb
  n="0208b01" ed="T"/><lb
  n="0208b02" ed="T"/>
-<ab type="juan" subtype="open">撰集百緣經卷第二</ab><lb
+<ab type='juan' subtype='open'>撰集百緣經卷第二</ab><lb
  n="0208b03" ed="T"/><lb
  n="0208b04" ed="T"/><byline>吳月支優婆塞支謙譯</byline><lb
- n="0208b05" ed="T"/><div type="pin" level="2"><head>報應受供養品第二</head><lb
+ n="0208b05" ed="T"/><div type='pin' level='2'><head>報應受供養品第二</head><lb
  n="0208b06" ed="T"/><head>（一一）船師請佛渡水緣</head><lb
- n="0208b07" ed="T"/><ab type="prose">佛在舍衛國祇樹給孤獨園。伊羅拔河邊<lb
+ n="0208b07" ed="T"/><ab type='prose'>佛在舍衛國祇樹給孤獨園。伊羅拔河邊<lb
  n="0208b08" ed="T"/>有諸船師，止住河側。爾時如來將諸比<lb
  n="0208b09" ed="T"/>丘，詣彼聚落，欲渡於水化諸船師。是諸<lb
  n="0208b10" ed="T"/>人等，見佛來至，各懷歡喜，乘船渡水，前<lb
@@ -902,16 +902,16 @@
  n="0213a18" ed="T"/>至今者自致成佛，故有人天來供養我。」<lb
  n="0213a19" ed="T"/>爾時諸比丘聞佛所說，歡喜奉行。</ab></div><lb
  n="0213a20" ed="T"/>
-<ab type="juan" subtype="close">撰集百緣經卷第二</ab><lb
+<ab type='juan' subtype='close'>撰集百緣經卷第二</ab><lb
  n="0213a21" ed="T"/><lb
  n="0213a22" ed="T"/><lb
  n="0213a23" ed="T"/>
-<ab type="juan" subtype="open">撰集百緣經卷第三</ab><lb
+<ab type='juan' subtype='open'>撰集百緣經卷第三</ab><lb
  n="0213a24" ed="T"/><lb
  n="0213a25" ed="T"/><byline>吳月支優婆塞支謙譯</byline><lb
- n="0213a26" ed="T"/><div type="pin" level="2"><head>授記辟支佛品第三</head><lb
+ n="0213a26" ed="T"/><div type='pin' level='2'><head>授記辟支佛品第三</head><lb
  n="0213a27" ed="T"/><head>（二一）化生王子成辟支佛緣</head><lb
- n="0213a28" ed="T"/><ab type="prose">佛在摩竭提國，將諸比丘，漸次遊行，到<lb
+ n="0213a28" ed="T"/><ab type='prose'>佛在摩竭提國，將諸比丘，漸次遊行，到<lb
  n="0213a29" ed="T"/>恒河側，見一故塔，毀落崩壞，無人修治。時<pb n="0213b" ed="T" id="T04.0200.0213b"/><lb
  n="0213b01" ed="T"/>諸比丘白佛言：「世尊！此是何塔？朽故乃爾，<lb
  n="0213b02" ed="T"/>無人補治。」爾時世尊，告諸比丘：「汝等諦<lb
@@ -927,11 +927,11 @@
  n="0213b12" ed="T"/>后妃，往到薗中，見此小兒，喜不自勝，欲<lb
  n="0213b13" ed="T"/>前抱取。兒便為王，而說偈言：<lb
  n="0213b14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『大王常所求，　　故來稱王願，　　<lb
  n="0213b15" ed="T"/>見無子息故，　　今來為王子。』　　
 </ab><lb
- n="0213b16" ed="T"/><ab type="prose">「爾時大王后妃婇女，聞說此已，莫不歡<lb
+ n="0213b16" ed="T"/><ab type='prose'>「爾時大王后妃婇女，聞說此已，莫不歡<lb
  n="0213b17" ed="T"/>喜，即抱小兒，還宮養育。年漸長大，隨其行<lb
  n="0213b18" ed="T"/>處，有蓮花生，身毛孔中，有栴檀香，因為立<lb
  n="0213b19" ed="T"/>字，名栴檀香。時此小兒，尋自觀察，足跡行<lb
@@ -1223,15 +1223,15 @@
  n="0216c25" ed="T"/>天世人，所見敬仰。爾時諸比丘聞佛所<lb
  n="0216c26" ed="T"/>說，歡喜奉行。</ab></div><lb
  n="0216c27" ed="T"/>
-<ab type="juan" subtype="close">撰集百緣經卷第三</ab><pb n="0217a" ed="T" id="T04.0200.0217a"/><lb
+<ab type='juan' subtype='close'>撰集百緣經卷第三</ab><pb n="0217a" ed="T" id="T04.0200.0217a"/><lb
  n="0217a01" ed="T"/><lb
  n="0217a02" ed="T"/>
-<ab type="juan" subtype="open">撰集百緣經卷第四</ab><lb
+<ab type='juan' subtype='open'>撰集百緣經卷第四</ab><lb
  n="0217a03" ed="T"/><lb
  n="0217a04" ed="T"/><byline>吳月支優婆塞支謙譯</byline><lb
- n="0217a05" ed="T"/><div type="pin" level="2"><head>出生菩薩品第四</head><lb
+ n="0217a05" ed="T"/><div type='pin' level='2'><head>出生菩薩品第四</head><lb
  n="0217a06" ed="T"/><head>（三一）蓮華王捨身作赤魚緣</head><lb
- n="0217a07" ed="T"/><ab type="prose">佛在舍衛國祇樹給孤獨園。爾時世尊，<lb
+ n="0217a07" ed="T"/><ab type='prose'>佛在舍衛國祇樹給孤獨園。爾時世尊，<lb
  n="0217a08" ed="T"/>秋果熟時，將諸比丘，遊行聚落，噉食果蓏，<lb
  n="0217a09" ed="T"/>皆不消化，多有瘧疾，種種病生，不能坐<lb
  n="0217a10" ed="T"/>禪讀誦行道。爾時阿難，前白佛言：「如來<lb
@@ -1427,11 +1427,11 @@
  n="0219b06" ed="T"/>然後捨身，用供汝食。』爾時羅剎，知其誠信，<lb
  n="0219b07" ed="T"/>即便為王而說偈言：<lb
  n="0219b08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『因愛則生憂，　　因愛便有畏，　　<lb
  n="0219b09" ed="T"/>能離恩愛者，　　永斷無怖畏。』　　
 </ab><lb
- n="0219b10" ed="T"/><ab type="prose">「爾時羅剎，說此偈已，還復釋身，太子夫<lb
+ n="0219b10" ed="T"/><ab type='prose'>「爾時羅剎，說此偈已，還復釋身，太子夫<lb
  n="0219b11" ed="T"/>人，忽然在前。王聞法已，倍生信敬，復見夫<lb
  n="0219b12" ed="T"/>人，及以太子，猶故存在，心懷歡喜，不能<lb
  n="0219b13" ed="T"/>自勝。」佛告諸比丘：「欲知爾時善面王者<lb
@@ -1502,13 +1502,13 @@
  n="0220a25" ed="T"/>門言：『唯願大師！先為我說，我命儻終，不及<lb
  n="0220a26" ed="T"/>聞法。』時婆羅門，即為太子而說偈言：<lb
  n="0220a27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『常行於慈心，　　除去恚害想，　　<lb
  n="0220a28" ed="T"/>大悲愍眾生，　　矜傷為雨淚。　　<lb
  n="0220a29" ed="T"/>修行大悲者，　　同己所得法，　　<pb n="0220b" ed="T" id="T04.0200.0220b"/><lb
  n="0220b01" ed="T"/>救護諸群生，　　乃應菩薩行。』　　
 </ab><lb
- n="0220b02" ed="T"/><ab type="prose">「爾時太子，聞是偈已，喜不自勝，即便投<lb
+ n="0220b02" ed="T"/><ab type='prose'>「爾時太子，聞是偈已，喜不自勝，即便投<lb
  n="0220b03" ed="T"/>身。大火坑中，變成華池，太子於中，坐蓮華<lb
  n="0220b04" ed="T"/>上，地大震動，雨諸天華，積至于膝。時婆羅<lb
  n="0220b05" ed="T"/>門，還復釋身，讚太子曰：『汝今於此火難<lb
@@ -1687,15 +1687,15 @@
  n="0222b09" ed="T"/>見敬仰。爾時諸比丘聞佛所說，歡喜奉<lb
  n="0222b10" ed="T"/>行。</ab></div><lb
  n="0222b11" ed="T"/>
-<ab type="juan" subtype="close">撰集百緣經卷第四</ab><lb
+<ab type='juan' subtype='close'>撰集百緣經卷第四</ab><lb
  n="0222b12" ed="T"/><lb
  n="0222b13" ed="T"/>
-<ab type="juan" subtype="open">撰集百緣經卷第五</ab><lb
+<ab type='juan' subtype='open'>撰集百緣經卷第五</ab><lb
  n="0222b14" ed="T"/><lb
  n="0222b15" ed="T"/><byline>吳月支優婆塞支謙譯</byline><lb
- n="0222b16" ed="T"/><div type="pin" level="2"><head>餓鬼品第五</head><lb
+ n="0222b16" ed="T"/><div type='pin' level='2'><head>餓鬼品第五</head><lb
  n="0222b17" ed="T"/><head>（四一）富那奇墮餓鬼緣</head><lb
- n="0222b18" ed="T"/><ab type="prose">佛在王舍城迦蘭陀竹林。時尊者舍利弗、<lb
+ n="0222b18" ed="T"/><ab type='prose'>佛在王舍城迦蘭陀竹林。時尊者舍利弗、<lb
  n="0222b19" ed="T"/>大目揵連，欲設食時，先觀地獄、畜生、餓鬼，<lb
  n="0222b20" ed="T"/>然後方食。所以爾者，欲令眾生厭離生死<lb
  n="0222b21" ed="T"/>求於涅槃。時彼目連，見一餓鬼，身如燋柱，<lb
@@ -2101,11 +2101,11 @@
  n="0227b22" ed="T"/>門，威儀詳序，如十二臈比丘，無有異也。<lb
  n="0227b23" ed="T"/>既蒙佛恩，得出家已，即於佛前，而說偈言：<lb
  n="0227b24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「今蒙佛恩得，　　稱意德如願，　　<lb
  n="0227b25" ed="T"/>除去臭穢身，　　得成為沙門。」　　
 </ab><lb
- n="0227b26" ed="T"/><ab type="prose">爾時世尊，告嚪婆羅：「汝今於我法中<lb
+ n="0227b26" ed="T"/><ab type='prose'>爾時世尊，告嚪婆羅：「汝今於我法中<lb
  n="0227b27" ed="T"/>已得出家。」懃修繫念，未久之間，得阿羅漢<lb
  n="0227b28" ed="T"/>果，三明六通，具八解脫，諸天世人，皆共敬<lb
  n="0227b29" ed="T"/>仰。時諸比丘，見是事已，白佛言：「世尊！今<pb n="0227c" ed="T" id="T04.0200.0227c"/><lb
@@ -2113,11 +2113,11 @@
  n="0227c02" ed="T"/>何緣，值佛世尊，獲阿羅漢果？」爾時世尊，<lb
  n="0227c03" ed="T"/>為諸比丘，而說偈言：<lb
  n="0227c04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「宿造善惡業，　　百劫而不朽，　　<lb
  n="0227c05" ed="T"/>罪業因緣故，　　今獲如是報。」　　
 </ab><lb
- n="0227c06" ed="T"/><ab type="prose">時諸比丘，聞佛世尊說此偈已，前白佛<lb
+ n="0227c06" ed="T"/><ab type='prose'>時諸比丘，聞佛世尊說此偈已，前白佛<lb
  n="0227c07" ed="T"/>言：「不審，世尊！過去世時，其事云何？唯願世<lb
  n="0227c08" ed="T"/>尊！敷演解說。」爾時世尊，告諸比丘：「汝等<lb
  n="0227c09" ed="T"/>諦聽！吾當為汝分別解說。此賢劫中，人壽四<lb
@@ -2147,14 +2147,14 @@
  n="0228a08" ed="T"/>有發無上菩提心者。爾時諸比丘，聞佛所<lb
  n="0228a09" ed="T"/>說，歡喜奉行。</ab></div><lb
  n="0228a10" ed="T"/>
-<ab type="juan" subtype="close">撰集百緣經卷第五</ab><lb
+<ab type='juan' subtype='close'>撰集百緣經卷第五</ab><lb
  n="0228a11" ed="T"/><lb
  n="0228a12" ed="T"/>
-<ab type="juan" subtype="open">撰集百緣經卷第六</ab><lb
+<ab type='juan' subtype='open'>撰集百緣經卷第六</ab><lb
  n="0228a13" ed="T"/><byline>吳月支優婆塞支謙譯</byline><lb
- n="0228a14" ed="T"/><div type="pin" level="2"><head>諸天來下供養品第六</head><lb
+ n="0228a14" ed="T"/><div type='pin' level='2'><head>諸天來下供養品第六</head><lb
  n="0228a15" ed="T"/><head>（五一）賢面慳貪受毒蛇身緣</head><lb
- n="0228a16" ed="T"/><ab type="prose">佛在王舍城迦蘭陀竹林。時彼城中，有一<lb
+ n="0228a16" ed="T"/><ab type='prose'>佛在王舍城迦蘭陀竹林。時彼城中，有一<lb
  n="0228a17" ed="T"/>長者，名曰賢面，財寶無量，不可稱計，多諸<lb
  n="0228a18" ed="T"/>諂曲慳貪嫉妬，終無施心，乃至飛鳥驅不<lb
  n="0228a19" ed="T"/>近舍。有諸沙門及婆羅門，貧窮乞匃從其<lb
@@ -2196,13 +2196,13 @@
  n="0228b26" ed="T"/>坐一面，聽佛說法，心開意解，得須陀洹果。<lb
  n="0228b27" ed="T"/>即於佛前，以偈讚佛：<lb
  n="0228b28" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「巍巍大聖尊，　　功德悉滿足，　　<lb
  n="0228b29" ed="T"/>能開諸盲冥，　　尋得於佛果。　　<pb n="0228c" ed="T" id="T04.0200.0228c"/><lb
  n="0228c01" ed="T"/>除去煩惱垢，　　超越生死海，　　<lb
  n="0228c02" ed="T"/>今蒙佛恩德，　　得閉三惡道。」　　
 </ab><lb
- n="0228c03" ed="T"/><ab type="prose">爾時天子，讚歎佛已，遶佛三匝，還詣天宮。<lb
+ n="0228c03" ed="T"/><ab type='prose'>爾時天子，讚歎佛已，遶佛三匝，還詣天宮。<lb
  n="0228c04" ed="T"/>時頻婆娑羅王，於其晨朝，來詣佛所白言：<lb
  n="0228c05" ed="T"/>「世尊！昨夜光明，照于世尊，為是釋梵轉輪<lb
  n="0228c06" ed="T"/>聖王、二十八部鬼神將耶？」佛告王曰：「亦非釋<lb
@@ -2286,29 +2286,29 @@
  n="0229c01" ed="T"/>釋，見此天子，身體挺特，端政第一，說偈讚<lb
  n="0229c02" ed="T"/>歎：<lb
  n="0229c03" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「身如真金色，　　照曜極鮮明，　　<lb
  n="0229c04" ed="T"/>容貌極端政，　　諸天中最勝。」　　
 </ab><lb
- n="0229c05" ed="T"/><ab type="prose">爾時天子，即便說偈，答帝釋曰：<lb
+ n="0229c05" ed="T"/><ab type='prose'>爾時天子，即便說偈，答帝釋曰：<lb
  n="0229c06" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「我蒙佛恩德，　　散以娑羅花，　　<lb
  n="0229c07" ed="T"/>由是善因緣，　　今得是果報。」　　
 </ab><lb
- n="0229c08" ed="T"/><ab type="prose">爾時天子，說是偈已，即共帝釋，來詣佛<lb
+ n="0229c08" ed="T"/><ab type='prose'>爾時天子，說是偈已，即共帝釋，來詣佛<lb
  n="0229c09" ed="T"/>所，頂禮佛足，却坐一面。佛即為其種種<lb
  n="0229c10" ed="T"/>說法，心開意解，破二十億邪見業障，得<lb
  n="0229c11" ed="T"/>須陀洹果，心懷欣慶，即於佛前說偈讚<lb
  n="0229c12" ed="T"/>佛：<lb
  n="0229c13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「巍巍大聖尊，　　最上無有比，　　<lb
  n="0229c14" ed="T"/>父母及師長，　　功德無及者。　　<lb
  n="0229c15" ed="T"/>乾竭四大海，　　超越白骨山，　　<lb
  n="0229c16" ed="T"/>閇塞三惡道，　　能開三善門。」　　
 </ab><lb
- n="0229c17" ed="T"/><ab type="prose">爾時天子，說此偈已，頂禮佛足，遶佛三<lb
+ n="0229c17" ed="T"/><ab type='prose'>爾時天子，說此偈已，頂禮佛足，遶佛三<lb
  n="0229c18" ed="T"/>匝，還詣天上。時諸比丘，見此事已，於其<lb
  n="0229c19" ed="T"/>晨朝，前白佛言：「世尊！昨夜光明普曜祇桓，<lb
  n="0229c20" ed="T"/>為是帝釋梵天王等四天王耶？二十八部鬼<lb
@@ -2348,7 +2348,7 @@
  n="0230a25" ed="T"/>倍勝諸天。」爾時天子，即以偈頌，答帝釋<lb
  n="0230a26" ed="T"/>曰：<lb
  n="0230a27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「如來出於世，　　如日月光明，　　<lb
  n="0230a28" ed="T"/>照彼諸黑闇，　　皆悉普使明。　　<lb
  n="0230a29" ed="T"/>見者生歡喜，　　心垢自然除，　　<pb n="0230b" ed="T" id="T04.0200.0230b"/><lb
@@ -2356,7 +2356,7 @@
  n="0230b02" ed="T"/>信心修福德，　　我不惜身命，　　<lb
  n="0230b03" ed="T"/>被害致命終，　　得生於天上。」　　
 </ab><lb
- n="0230b04" ed="T"/><ab type="prose">爾時天子，向於帝釋，說此偈已，頂戴天<lb
+ n="0230b04" ed="T"/><ab type='prose'>爾時天子，向於帝釋，說此偈已，頂戴天<lb
  n="0230b05" ed="T"/>冠，著諸瓔珞，莊嚴其身，將諸天眾各齎<lb
  n="0230b06" ed="T"/>香花，下供養佛，光明普曜照于竹林，倍踰<lb
  n="0230b07" ed="T"/>於常，前禮佛足，却坐一面。佛即為其說<lb
@@ -2510,11 +2510,11 @@
  n="0232a20" ed="T"/>視佛如來，喜不自勝。爾時世尊，知彼惡<lb
  n="0232a21" ed="T"/>牛心已調伏，即便為牛，而說偈言：<lb
  n="0232a22" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「盛心興惡意，　　欲來傷害我，　　<lb
  n="0232a23" ed="T"/>歸誠望得勝，　　返來舐我足。」　　
 </ab><lb
- n="0232a24" ed="T"/><ab type="prose">時彼水牛，聞佛世尊說是偈已，深生慚<lb
+ n="0232a24" ed="T"/><ab type='prose'>時彼水牛，聞佛世尊說是偈已，深生慚<lb
  n="0232a25" ed="T"/>愧，欻然悟解，蓋障雲除，知在先身在人<lb
  n="0232a26" ed="T"/>道中所作惡業，倍生慚愧，不食水草，即<lb
  n="0232a27" ed="T"/>便命終。生忉利天，忽然長大，如八歲兒，便<lb
@@ -2544,11 +2544,11 @@
  n="0232b22" ed="T"/>知水牛及放牛人宿業所造諸惡業緣，我今<lb
  n="0232b23" ed="T"/>當為汝等說偈：<lb
  n="0232b24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「宿造善惡業，　　百劫而不朽，　　<lb
  n="0232b25" ed="T"/>善業因緣故，　　今獲如是報。」　　
 </ab><lb
- n="0232b26" ed="T"/><ab type="prose">時諸比丘，聞佛世尊說是偈已，前白佛<lb
+ n="0232b26" ed="T"/><ab type='prose'>時諸比丘，聞佛世尊說是偈已，前白佛<lb
  n="0232b27" ed="T"/>言：「不審，世尊！過去世時，其事云何？唯願<lb
  n="0232b28" ed="T"/>世尊！敷演解說。」爾時世尊，告諸比丘：<lb
  n="0232b29" ed="T"/>「汝等諦聽！吾當為汝分別解說。此賢劫中，<pb n="0232c" ed="T" id="T04.0200.0232c"/><lb
@@ -2687,15 +2687,15 @@
  n="0234b08" ed="T"/>羅漢者，有發辟支佛心者，有發無上菩提<lb
  n="0234b09" ed="T"/>心者。爾時諸比丘，聞佛所說歡喜奉行。</ab></div><lb
  n="0234b10" ed="T"/>
-<ab type="juan" subtype="close">撰集百緣經卷第六</ab><lb
+<ab type='juan' subtype='close'>撰集百緣經卷第六</ab><lb
  n="0234b11" ed="T"/><lb
  n="0234b12" ed="T"/>
-<ab type="juan" subtype="open">撰集百緣經卷第七</ab><lb
+<ab type='juan' subtype='open'>撰集百緣經卷第七</ab><lb
  n="0234b13" ed="T"/><lb
  n="0234b14" ed="T"/><byline>吳月支優婆塞支謙譯</byline><lb
- n="0234b15" ed="T"/><div type="pin" level="2"><head>現化品第七</head><lb
+ n="0234b15" ed="T"/><div type='pin' level='2'><head>現化品第七</head><lb
  n="0234b16" ed="T"/><head>（六一）身作金色緣</head><lb
- n="0234b17" ed="T"/><ab type="prose">佛在迦毘羅衛國尼拘陀樹下。時彼城中，<lb
+ n="0234b17" ed="T"/><ab type='prose'>佛在迦毘羅衛國尼拘陀樹下。時彼城中，<lb
  n="0234b18" ed="T"/>有一長者，財寶無量，不可稱計，選擇族望，<lb
  n="0234b19" ed="T"/>娉以為婦，作諸音樂，以娛樂之。其婦懷<lb
  n="0234b20" ed="T"/>妊，足滿十月，生一男兒，身作金色，端政<lb
@@ -3022,16 +3022,16 @@
  n="0238b15" ed="T"/>今此波多迦比丘是。」爾時諸比丘，聞佛所<lb
  n="0238b16" ed="T"/>說，歡喜奉行。</ab></div><lb
  n="0238b17" ed="T"/>
-<ab type="juan" subtype="close">撰集百緣經卷第七</ab><lb
+<ab type='juan' subtype='close'>撰集百緣經卷第七</ab><lb
  n="0238b18" ed="T"/><lb
  n="0238b19" ed="T"/><lb
  n="0238b20" ed="T"/>
-<ab type="juan" subtype="open">撰集百緣經卷第八</ab><lb
+<ab type='juan' subtype='open'>撰集百緣經卷第八</ab><lb
  n="0238b21" ed="T"/><lb
  n="0238b22" ed="T"/><byline>吳月支優婆塞支謙譯</byline><lb
- n="0238b23" ed="T"/><div type="pin" level="2"><head>比丘尼品第八</head><lb
+ n="0238b23" ed="T"/><div type='pin' level='2'><head>比丘尼品第八</head><lb
  n="0238b24" ed="T"/><head>（七一）寶珠比丘尼生時光照城內緣</head><lb
- n="0238b25" ed="T"/><ab type="prose">佛在舍衛國祇樹給孤獨園。時彼城中，有<lb
+ n="0238b25" ed="T"/><ab type='prose'>佛在舍衛國祇樹給孤獨園。時彼城中，有<lb
  n="0238b26" ed="T"/>一長者，名曰善賢，財寶無量，不可稱計<lb
  n="0238b27" ed="T"/>選擇族望，娉以為婦，作諸音樂，以娛樂<lb
  n="0238b28" ed="T"/>之。其婦懷妊足滿十月，生一女兒，端政<lb
@@ -3065,13 +3065,13 @@
  n="0239a02" ed="T"/>近。時彼女子，見其怖畏，合掌向母，而說偈<lb
  n="0239a03" ed="T"/>言：<lb
  n="0239a04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「願母聽我語，　　今當如實說，　　<lb
  n="0239a05" ed="T"/>實非毘舍闍，　　及諸餘鬼等。　　<lb
  n="0239a06" ed="T"/>我今實是人，　　業行相逐隨，　　<lb
  n="0239a07" ed="T"/>善業因緣故，　　今獲如是報。」　　
 </ab><lb
- n="0239a08" ed="T"/><ab type="prose">爾時父母，聞女說偈，喜不自勝，尋前抱<lb
+ n="0239a08" ed="T"/><ab type='prose'>爾時父母，聞女說偈，喜不自勝，尋前抱<lb
  n="0239a09" ed="T"/>取，乳哺養育，因為立字，名曰善愛。時彼<lb
  n="0239a10" ed="T"/>女子，見母歡悅，合掌白言：「為我請佛及比<lb
  n="0239a11" ed="T"/>丘僧。」尋即與請，百味飲食皆悉充足，即於<lb
@@ -3494,16 +3494,16 @@
  n="0244b01" ed="T"/>諸天世人，所見敬仰。爾時諸比丘，聞佛所<lb
  n="0244b02" ed="T"/>說，歡喜奉行。</ab></div><lb
  n="0244b03" ed="T"/>
-<ab type="juan" subtype="close">撰集百緣經卷第八</ab><lb
+<ab type='juan' subtype='close'>撰集百緣經卷第八</ab><lb
  n="0244b04" ed="T"/><lb
  n="0244b05" ed="T"/><lb
  n="0244b06" ed="T"/>
-<ab type="juan" subtype="open">撰集百緣經卷第九</ab><lb
+<ab type='juan' subtype='open'>撰集百緣經卷第九</ab><lb
  n="0244b07" ed="T"/><lb
  n="0244b08" ed="T"/><byline>吳月支優婆塞支謙譯</byline><lb
- n="0244b09" ed="T"/><div type="pin" level="2"><head>聲聞品第九</head><lb
+ n="0244b09" ed="T"/><div type='pin' level='2'><head>聲聞品第九</head><lb
  n="0244b10" ed="T"/><head>（八一）海生商主緣</head><lb
- n="0244b11" ed="T"/><ab type="prose">佛在舍衛國祇樹給孤獨園。時彼城中，有<lb
+ n="0244b11" ed="T"/><ab type='prose'>佛在舍衛國祇樹給孤獨園。時彼城中，有<lb
  n="0244b12" ed="T"/>五百賈客，欲入大海採取珍寶。時彼商主，<lb
  n="0244b13" ed="T"/>選擇族望，娉以為婦。將共入海，足滿十<lb
  n="0244b14" ed="T"/>月，產一男兒，因為立字，名曰海生。有大福<lb
@@ -3632,11 +3632,11 @@
  n="0246a05" ed="T"/>語，乃能與佛感有答問？唯願世尊！敷演<lb
  n="0246a06" ed="T"/>解說。」爾時世尊，即便為王，而說偈言：<lb
  n="0246a07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「宿造諸善業，　　百劫而不朽，　　<lb
  n="0246a08" ed="T"/>善業因緣故，　　今獲如是報。」　　
 </ab><lb
- n="0246a09" ed="T"/><ab type="prose">是時波斯匿王及其夫人，聞佛世尊說<lb
+ n="0246a09" ed="T"/><ab type='prose'>是時波斯匿王及其夫人，聞佛世尊說<lb
  n="0246a10" ed="T"/>此偈已，前白佛言：「不審，世尊！過去世時其<lb
  n="0246a11" ed="T"/>事云何？唯願世尊！敷演解說。」爾時世尊，<lb
  n="0246a12" ed="T"/>告大王曰：「汝今諦聽！吾當為汝分別解<lb
@@ -3961,15 +3961,15 @@
  n="0249c25" ed="T"/>養辟支佛故，今得值我，出家得道。」爾時諸<lb
  n="0249c26" ed="T"/>比丘，聞佛所說，歡喜奉行。</ab></div><lb
  n="0249c27" ed="T"/>
-<ab type="juan" subtype="close">撰集百緣經卷第九</ab><pb n="0250a" ed="T" id="T04.0200.0250a"/><lb
+<ab type='juan' subtype='close'>撰集百緣經卷第九</ab><pb n="0250a" ed="T" id="T04.0200.0250a"/><lb
  n="0250a01" ed="T"/><lb
  n="0250a02" ed="T"/>
-<ab type="juan" subtype="open">撰集百緣經卷第十</ab><lb
+<ab type='juan' subtype='open'>撰集百緣經卷第十</ab><lb
  n="0250a03" ed="T"/><lb
  n="0250a04" ed="T"/><byline>吳月支優婆塞支謙譯</byline><lb
- n="0250a05" ed="T"/><div type="pin" level="2"><head>諸緣品第十</head><lb
+ n="0250a05" ed="T"/><div type='pin' level='2'><head>諸緣品第十</head><lb
  n="0250a06" ed="T"/><head>（九一）須菩提惡性緣</head><lb
- n="0250a07" ed="T"/><ab type="prose">爾時世尊，初始成佛，便欲教化諸龍王<lb
+ n="0250a07" ed="T"/><ab type='prose'>爾時世尊，初始成佛，便欲教化諸龍王<lb
  n="0250a08" ed="T"/>故，即便往至須彌山下，現比丘形，端坐思<lb
  n="0250a09" ed="T"/>惟。時有金翅鳥王，入大海中捉一小龍，還<lb
  n="0250a10" ed="T"/>須彌頂，規欲食噉。時彼小龍命故未斷，遙<lb
@@ -4280,11 +4280,11 @@
  n="0253c23" ed="T"/>坐。我及彌勒俱為菩薩，到彼佛所，種種供<lb
  n="0253c24" ed="T"/>養，而翹一足，於七日中，說偈讚佛：<pb n="0254a" ed="T" id="T04.0200.0254a"/><lb
  n="0254a01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『天上世間無如佛，　　十方世界亦無有，　　<lb
  n="0254a02" ed="T"/>世界所有悉能見，　　無有能及如佛者。』　　
 </ab><lb
- n="0254a03" ed="T"/><ab type="prose">「爾時菩薩，說是偈已，時彼山中，有一鬼<lb
+ n="0254a03" ed="T"/><ab type='prose'>「爾時菩薩，說是偈已，時彼山中，有一鬼<lb
  n="0254a04" ed="T"/>神，作醜陋形，來恐怖我。我以神力，令彼行<lb
  n="0254a05" ed="T"/>處懸岸嶮岨不能得過。時彼山神，即作是<lb
  n="0254a06" ed="T"/>念：『我以惡心恐怖他故，令我今者行處嶮<lb
@@ -4417,34 +4417,34 @@
  n="0255b23" ed="T"/>此比丘。」作是念已，即前問曰：「汝事何<lb
  n="0255b24" ed="T"/>師，法則乃爾？」時阿鞞比丘，說偈答曰：<lb
  n="0255b25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「吾師天中天，　　三界無極尊，　　<lb
  n="0255b26" ed="T"/>相好身丈六，　　神通遊虛空。」　　
 </ab><lb
- n="0255b27" ed="T"/><ab type="prose">時阿鞞比丘，說是偈已，默然而住。時舍利<lb
+ n="0255b27" ed="T"/><ab type='prose'>時阿鞞比丘，說是偈已，默然而住。時舍利<lb
  n="0255b28" ed="T"/>弗，語阿鞞言：「汝師容貌神通，我久已聞。<lb
  n="0255b29" ed="T"/>為悟何道，得如是乎？」時阿鞞比丘，復以偈<pb n="0255c" ed="T" id="T04.0200.0255c"/><lb
  n="0255c01" ed="T"/>答：<lb
  n="0255c02" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「花熏去五陰，　　拔斷十二根，　　<lb
  n="0255c03" ed="T"/>不貪天世樂，　　心淨開法門。」　　
 </ab><lb
- n="0255c04" ed="T"/><ab type="prose">時舍利弗，復問阿鞞比丘言：「汝師所說，為<lb
+ n="0255c04" ed="T"/><ab type='prose'>時舍利弗，復問阿鞞比丘言：「汝師所說，為<lb
  n="0255c05" ed="T"/>經幾時？習學何法？」阿鞞比丘，復以偈答：<lb
  n="0255c06" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「我年既幼稚，　　學日有初淺，　　<lb
  n="0255c07" ed="T"/>豈能宣正真，　　如來廣大義？」　　
 </ab><lb
- n="0255c08" ed="T"/><ab type="prose">時舍利弗，復語阿鞞言：「汝師所說，幸見告<lb
+ n="0255c08" ed="T"/><ab type='prose'>時舍利弗，復語阿鞞言：「汝師所說，幸見告<lb
  n="0255c09" ed="T"/>示。」爾時阿鞞，復以偈答：<lb
  n="0255c10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「一切諸法中，　　因緣空無主，　　<lb
  n="0255c11" ed="T"/>息心達本原，　　故號為沙門。」　　
 </ab><lb
- n="0255c12" ed="T"/><ab type="prose">時舍利弗，聞此偈已，心即開悟，得須陀洹<lb
+ n="0255c12" ed="T"/><ab type='prose'>時舍利弗，聞此偈已，心即開悟，得須陀洹<lb
  n="0255c13" ed="T"/>果。爾時目連見舍利弗顏色怡悅，而問之<lb
  n="0255c14" ed="T"/>言：「我昔與汝，先有要誓，若有先得甘露法<lb
  n="0255c15" ed="T"/>味，要當相語。我今觀汝，以有所得，顏色<lb
@@ -4538,5 +4538,5 @@
  n="0256c24" ed="T"/>得端正者，今孫陀利比丘是。」爾時大王<pb n="0257a" ed="T" id="T04.0200.0257a"/><lb
  n="0257a01" ed="T"/>聞佛所說，歡喜奉行。</ab></div><lb
  n="0257a02" ed="T"/>
-<ab type="juan" subtype="close">撰集百緣經卷第十</ab></div>
+<ab type='juan' subtype='close'>撰集百緣經卷第十</ab></div>
 </body></text></TEI>

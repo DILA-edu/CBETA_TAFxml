@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0048</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0837c18" ed="T"/><lb
  n="0837c19" ed="T"/><lb
- n="0837c20" ed="T"/><div type="jing" level="1"><lb
+ n="0837c20" ed="T"/><div type='jing' level='1'><lb
  n="0837c21" ed="T"/>
-<ab type="juan" subtype="open">佛說是法非法經</ab><lb
+<ab type='juan' subtype='open'>佛說是法非法經</ab><lb
  n="0837c22" ed="T"/><lb
  n="0837c23" ed="T"/><byline>後漢安息國三藏安世高譯</byline><lb
- n="0837c24" ed="T"/><ab type="prose">聞如是：一時，佛在舍衛國祇樹給孤獨園。是<lb
+ n="0837c24" ed="T"/><ab type='prose'>聞如是：一時，佛在舍衛國祇樹給孤獨園。是<lb
  n="0837c25" ed="T"/>時，佛告諸比丘，比丘應曰：「唯然。」比丘從佛聽。<lb
  n="0837c26" ed="T"/>佛說：「有賢者法，比丘聽說，亦有非賢者法，<lb
  n="0837c27" ed="T"/>當聽熟聽、熟知熟念說。」比丘唯然，從佛受教，<lb
@@ -141,5 +141,5 @@
  n="0838c28" ed="T"/>法。隨法比丘應當學是。」佛說是，比丘受著心<lb
  n="0838c29" ed="T"/>行。<pb n="0839a" ed="T" id="T01.0048.0839a"/><lb
  n="0839a01" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說是法非法經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說是法非法經</ab></div>
 </body></text></TEI>

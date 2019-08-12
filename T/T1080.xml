@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1080</idno>
                 </bibl>
@@ -39,17 +39,17 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0188b14" ed="T"/><lb
  n="0188b15" ed="T"/><lb
  n="0188b16" ed="T"/><lb
  n="0188b17" ed="T"/>
-<ab type="juan" subtype="open">如意輪陀羅尼經</ab><lb
+<ab type='juan' subtype='open'>如意輪陀羅尼經</ab><lb
  n="0188b18" ed="T"/><lb
  n="0188b19" ed="T"/><byline>唐天竺三藏菩提流志譯</byline><lb
- n="0188b20" ed="T"/><div type="pin" level="2"><head>序品第一</head><lb
- n="0188b21" ed="T"/><ab type="prose">如是我聞。一時佛在雞喇斯山。與無央數菩<lb
+ n="0188b20" ed="T"/><div type='pin' level='2'><head>序品第一</head><lb
+ n="0188b21" ed="T"/><ab type='prose'>如是我聞。一時佛在雞喇斯山。與無央數菩<lb
  n="0188b22" ed="T"/>薩眾俱。爾時觀自在菩薩摩訶薩。從座而起<lb
  n="0188b23" ed="T"/>整理衣服。長跪合掌前白佛言。世尊我有大<lb
  n="0188b24" ed="T"/>蓮華峯金剛祕密無障礙如意輪陀羅尼明三<lb
@@ -67,7 +67,7 @@
  n="0188c07" ed="T"/>以歡喜心。諦觀會眾熙怡微笑。即說根本陀<lb
  n="0188c08" ed="T"/>羅尼明曰。<lb
  n="0188c09" ed="T"/></ab>
-<ab type="dharani">􄖩娜􄗭謨􄗽囉􅑈怛娜二合那可反􄩞怛囉二合􄗲野<lb
+<ab type='dharani'>􄖩娜􄗭謨􄗽囉􅑈怛娜二合那可反􄩞怛囉二合􄗲野<lb
  n="0188c10" ed="T"/><lb
  n="0188c11" ed="T"/>􄗱耶􄖩娜􄗥麼􆿆阿去􅝪唎耶二合􄙖嚩無可反􄙒嚧􄑂枳<lb
  n="0188c12" ed="T"/><lb
@@ -86,20 +86,20 @@
  n="0188c25" ed="T"/>􄗁柿􈁆吒半音􅁥莎去嚩二合􄚩訶<lb
  n="0188c26" ed="T"/><lb
  n="0188c27" ed="T"/></ab>
-<ab type="prose">大心陀羅尼明曰。<lb
+<ab type='prose'>大心陀羅尼明曰。<lb
  n="0188c28" ed="T"/></ab>
-<ab type="dharani">􈁴唵呼􄖵鉢􇪯頭麼􄑾振􆩗跢􄗥麼􄕍抳摩訶<lb
+<ab type='dharani'>􈁴唵呼􄖵鉢􇪯頭麼􄑾振􆩗跢􄗥麼􄕍抳摩訶<lb
  n="0188c29" ed="T"/><pb n="0189a" id="T20.1080.0189a" ed="T"/><lb
  n="0189a01" ed="T"/>􄺸入嚩二合􄙊攞􈅼虎𤙖二合<lb
  n="0189a02" ed="T"/><lb
  n="0189a03" ed="T"/></ab>
-<ab type="prose">小心陀羅尼明曰。<lb
+<ab type='prose'>小心陀羅尼明曰。<lb
  n="0189a04" ed="T"/></ab>
-<ab type="dharani">􈁴唵呼􄙖嚩􄗽囉􄕯娜􄖵鉢􈉃頭謎􈅼虎𤙖二合<lb
+<ab type='dharani'>􈁴唵呼􄙖嚩􄗽囉􄕯娜􄖵鉢􈉃頭謎􈅼虎𤙖二合<lb
  n="0189a05" ed="T"/><lb
  n="0189a06" ed="T"/><lb
  n="0189a07" ed="T"/></ab>
-<ab type="prose">爾時觀自在菩薩摩訶薩。說此陀羅尼明時。<lb
+<ab type='prose'>爾時觀自在菩薩摩訶薩。說此陀羅尼明時。<lb
  n="0189a08" ed="T"/>大地山林六返震動。一切天宮龍宮藥叉宮。<lb
  n="0189a09" ed="T"/>羅剎宮乾闥婆宮。阿素落宮迦樓羅宮。緊那<lb
  n="0189a10" ed="T"/>羅宮摩呼羅伽宮。皆大震動。種種諸惡大力<lb
@@ -121,18 +121,18 @@
  n="0189a26" ed="T"/>爾時世尊出迦陵頻伽美妙梵聲。說深妙偈<lb
  n="0189a27" ed="T"/>讚觀自在菩薩摩訶薩曰。<lb
  n="0189a28" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 善哉善哉善男子　　汝能愍念諸有情　　<lb
  n="0189a29" ed="T"/>說是如意陀羅尼　　拯濟有情大勝益　　<pb n="0189b" id="T20.1080.0189b" ed="T"/><lb
  n="0189b01" ed="T"/>令信受者銷諸罪　　當超三界證菩提　　<lb
  n="0189b02" ed="T"/>隨方若有修持者　　世出世願皆圓滿　　
 </ab><lb
- n="0189b03" ed="T"/><ab type="prose">爾時世尊說斯偈已。復告觀自在菩薩摩訶<lb
+ n="0189b03" ed="T"/><ab type='prose'>爾時世尊說斯偈已。復告觀自在菩薩摩訶<lb
  n="0189b04" ed="T"/>薩言。善男子汝當重為一切有情。說斯神<lb
  n="0189b05" ed="T"/>通陀羅尼呪受持法要。令當有情獲大善<lb
  n="0189b06" ed="T"/>利。</ab></div><lb
- n="0189b07" ed="T"/><div type="pin" level="2"><head>如意輪陀羅尼經破業障品第二</head><lb
- n="0189b08" ed="T"/><ab type="prose">爾時觀自在菩薩摩訶薩。又白佛言世尊。若<lb
+ n="0189b07" ed="T"/><div type='pin' level='2'><head>如意輪陀羅尼經破業障品第二</head><lb
+ n="0189b08" ed="T"/><ab type='prose'>爾時觀自在菩薩摩訶薩。又白佛言世尊。若<lb
  n="0189b09" ed="T"/>有比丘比丘尼優婆塞優婆夷童男童女。於<lb
  n="0189b10" ed="T"/>此生身求大功德現報之者。當於晝夜依法<lb
  n="0189b11" ed="T"/>精勤。修持此如意輪陀羅尼呪。不假占擇日<lb
@@ -175,8 +175,8 @@
  n="0189c19" ed="T"/>天衣服而自莊飾。生生之處識宿命智乃至<lb
  n="0189c20" ed="T"/>菩提。更不墮於三惡道中。恒與一切諸佛菩<lb
  n="0189c21" ed="T"/>薩。同一生處住不退地。</ab></div><lb
- n="0189c22" ed="T"/><div type="pin" level="2"><head>如意輪陀羅尼經誦念法品第三</head><lb
- n="0189c23" ed="T"/><ab type="prose">爾時觀自在菩薩摩訶薩。復白佛言世尊。是<lb
+ n="0189c22" ed="T"/><div type='pin' level='2'><head>如意輪陀羅尼經誦念法品第三</head><lb
+ n="0189c23" ed="T"/><ab type='prose'>爾時觀自在菩薩摩訶薩。復白佛言世尊。是<lb
  n="0189c24" ed="T"/>祕密如意輪陀羅尼。復有二法。一在世間。二<lb
  n="0189c25" ed="T"/>出世間。言世間者。所謂誦念課法勝願成就。<lb
  n="0189c26" ed="T"/>攝化有情富貴資財。勢力威德皆得成就。言<lb
@@ -228,8 +228,8 @@
  n="0190b14" ed="T"/>念帝釋梵王。一燒滿七日七夜。帝釋梵王與<lb
  n="0190b15" ed="T"/>諸天眾。皆自現身說法慰喻。與所求願而擁<lb
  n="0190b16" ed="T"/>護之。</ab></div><lb
- n="0190b17" ed="T"/><div type="pin" level="2"><head>如意輪陀羅尼經法印品第四</head><lb
- n="0190b18" ed="T"/><ab type="prose">爾時觀自在菩薩摩訶薩。復白佛言世尊。是<lb
+ n="0190b17" ed="T"/><div type='pin' level='2'><head>如意輪陀羅尼經法印品第四</head><lb
+ n="0190b18" ed="T"/><ab type='prose'>爾時觀自在菩薩摩訶薩。復白佛言世尊。是<lb
  n="0190b19" ed="T"/>祕密如意輪陀羅尼明印明者。防護供養請<lb
  n="0190b20" ed="T"/>召迎送。必皆依法觀想分明無令錯謬。則得<lb
  n="0190b21" ed="T"/>成就此祕密三昧耶。<lb
@@ -238,56 +238,56 @@
  n="0190b24" ed="T"/>磔開微屈。頭指相去寸半。二大指二小指各<lb
  n="0190b25" ed="T"/>竪相著微屈。印明曰。<lb
  n="0190b26" ed="T"/></ab>
-<ab type="dharani">娜謨囉怛娜怛囉耶野娜麼阿<lb
+<ab type='dharani'>娜謨囉怛娜怛囉耶野娜麼阿<lb
  n="0190b27" ed="T"/>唎耶婆露抧諦濕嚩囉<lb
  n="0190b28" ed="T"/>野菩地薩埵野摩訶薩埵野摩訶迦嚕抳迦野唵參摩曳譟咩<pb n="0190c" id="T20.1080.0190c" ed="T"/><lb
  n="0190c01" ed="T"/>扇諦彈諦薩嚩參摩耶努鉢囉尾瑟𪘨奴邏努霓莎嚩<lb
  n="0190c03" ed="T"/>訶<lb
  n="0190c04" ed="T"/></ab>
-<ab type="prose">若欲作曼茶羅時。當於壇地先誦身心三明<lb
+<ab type='prose'>若欲作曼茶羅時。當於壇地先誦身心三明<lb
  n="0190c05" ed="T"/>一千八十遍。即結此印明印七遍。以印東西<lb
  n="0190c06" ed="T"/>南北四維上下各揮三遍。靜心想印作百千<lb
  n="0190c07" ed="T"/>葉七寶開敷蓮華。供養一切諸佛菩薩諸天<lb
- n="0190c08" ed="T"/>龍神一切歡喜。凡欲洗浴。以小心明加󰴤字。<lb
+ n="0190c08" ed="T"/>龍神一切歡喜。凡欲洗浴。以小心明加𭠒字。<lb
  n="0190c09" ed="T"/>明水七遍右手摩水則用沐浴。不明不用。<lb
  n="0190c10" ed="T"/><head>解脫印第二</head><lb
  n="0190c11" ed="T"/>以二小指二無名指。掌中右押左相叉。二中<lb
  n="0190c12" ed="T"/>指竪頭相著。二頭指各當中指背屈如鉤。頭<lb
  n="0190c13" ed="T"/>去中指背三分。二大指並竪。印明曰。<lb
  n="0190c14" ed="T"/></ab>
-<ab type="dharani">那謨摩訶室哩夜曳唵鑠計參<lb
+<ab type='dharani'>那謨摩訶室哩夜曳唵鑠計參<lb
  n="0190c15" ed="T"/>摩曳譟咩悉地悉第娑馱耶始吠<lb
  n="0190c16" ed="T"/>始吠始皤咩阿皤訶薩嚩<lb
  n="0190c17" ed="T"/>阿㗚詫娑達泥莎嚩訶<lb
  n="0190c18" ed="T"/></ab>
-<ab type="prose">當作此印明印三遍。印頂上髆上心上喉上。<lb
+<ab type='prose'>當作此印明印三遍。印頂上髆上心上喉上。<lb
  n="0190c19" ed="T"/>護身竟以印繞衣。能令一切毘那夜迦。遠不<lb
  n="0190c20" ed="T"/>為障超諸障礙。亦用此印持護一切供養物<lb
  n="0190c21" ed="T"/>等。而供獻之。<lb
  n="0190c22" ed="T"/><head>治土明第三</head><lb
  n="0190c23" ed="T"/></ab>
-<ab type="dharani">唵步入縛攞唬𤙖<lb
+<ab type='dharani'>唵步入縛攞唬𤙖<lb
  n="0190c24" ed="T"/></ab>
-<ab type="prose">當取淨土分作三聚。以此明明土七遍。一聚<lb
+<ab type='prose'>當取淨土分作三聚。以此明明土七遍。一聚<lb
  n="0190c25" ed="T"/>洗腰已下。一聚洗髆已七。一聚洗頭頸。<lb
  n="0190c26" ed="T"/><head>觸護身印第四</head><lb
  n="0190c27" ed="T"/>二頭指二無名指二小指。掌中右押左相叉。<lb
  n="0190c28" ed="T"/>二中指屈頭。於二頭指背甲背相著。二大指<lb
  n="0190c29" ed="T"/>並申。捻二中指甲側。印明曰。<pb n="0191a" id="T20.1080.0191a" ed="T"/><lb
  n="0191a01" ed="T"/></ab>
-<ab type="dharani">唵句露陀那唬𤙖綽<lb
+<ab type='dharani'>唵句露陀那唬𤙖綽<lb
  n="0191a02" ed="T"/></ab>
-<ab type="prose">次作此印明印三遍護身。往諸觸處及上廁<lb
+<ab type='prose'>次作此印明印三遍護身。往諸觸處及上廁<lb
  n="0191a03" ed="T"/>上。出入如常洗淨。又至一處持土洗手。并漱<lb
  n="0191a04" ed="T"/>口齒。<lb
  n="0191a05" ed="T"/><head>漱口印第五</head><lb
  n="0191a06" ed="T"/>右手大指頭指中指並微屈。無名指小指屈<lb
  n="0191a07" ed="T"/>如鉤。印明曰。<lb
  n="0191a08" ed="T"/></ab>
-<ab type="dharani">唵覩覩麗矩嚕矩嚕莎嚩<lb
+<ab type='dharani'>唵覩覩麗矩嚕矩嚕莎嚩<lb
  n="0191a09" ed="T"/>訶<lb
  n="0191a10" ed="T"/></ab>
-<ab type="prose">次作此印承水明水三遍。洗漱口齒并飲灑<lb
+<ab type='prose'>次作此印承水明水三遍。洗漱口齒并飲灑<lb
  n="0191a11" ed="T"/>淨。若欲澡浴。先浴三寶。次浴聖觀自在。則<lb
  n="0191a12" ed="T"/>自洗浴。<lb
  n="0191a13" ed="T"/><head>浴三寶印第六</head><lb
@@ -295,9 +295,9 @@
  n="0191a15" ed="T"/>指甲上。二中指二無名指二小指相著平申。<lb
  n="0191a16" ed="T"/>印明曰。<lb
  n="0191a17" ed="T"/></ab>
-<ab type="dharani">唵諦曬曬勃陀莎嚩訶<lb
+<ab type='dharani'>唵諦曬曬勃陀莎嚩訶<lb
  n="0191a18" ed="T"/></ab>
-<ab type="prose">次作此印取水明之三遍浴佛。次浴法時除<lb
+<ab type='prose'>次作此印取水明之三遍浴佛。次浴法時除<lb
  n="0191a19" ed="T"/>勃陀字安達磨字。次浴僧時除達磨字安僧<lb
  n="0191a20" ed="T"/>伽字。各水三掬。浴獻三寶已。當浴本尊。<lb
  n="0191a21" ed="T"/><head>聖觀自在浴印第七</head><lb
@@ -306,13 +306,13 @@
  n="0191a24" ed="T"/>指二小指。各竪屈相著。屈二大指各捻二頭<lb
  n="0191a25" ed="T"/>指下文。印明曰。<lb
  n="0191a26" ed="T"/></ab>
-<ab type="dharani">娜謨囉怛娜怛囉耶野娜麼阿<lb
+<ab type='dharani'>娜謨囉怛娜怛囉耶野娜麼阿<lb
  n="0191a27" ed="T"/>唎耶婆露抧諦濕嚩囉野菩地薩埵野<lb
  n="0191a28" ed="T"/>摩訶薩埵野摩訶迦嚕抳迦野怛地<lb
  n="0191a29" ed="T"/>他闍曬摩訶闍曬蘇囉鉢底莎<pb n="0191b" id="T20.1080.0191b" ed="T"/><lb
  n="0191b01" ed="T"/>嚩訶<lb
  n="0191b02" ed="T"/></ab>
-<ab type="prose">次作此印取水三掬各明三遍。浴聖觀自在<lb
+<ab type='prose'>次作此印取水三掬各明三遍。浴聖觀自在<lb
  n="0191b03" ed="T"/>已。即澆自頂洗浴於身。<lb
  n="0191b04" ed="T"/><head>自灌頂印第八</head><lb
  n="0191b05" ed="T"/>以二無名指。掌中右押左相叉。二小指直竪<lb
@@ -320,17 +320,17 @@
  n="0191b07" ed="T"/>指各捻中指背中節上。二大指捻二無名指<lb
  n="0191b08" ed="T"/>頭。印明曰。<lb
  n="0191b09" ed="T"/></ab>
-<ab type="dharani">唵賀佉理理虎𤙖󰴤<lb
+<ab type='dharani'>唵賀佉理理虎𤙖𭠒<lb
  n="0191b10" ed="T"/></ab>
-<ab type="prose">若洗浴訖。次作此印明印三遍。取水用自灌<lb
+<ab type='prose'>若洗浴訖。次作此印明印三遍。取水用自灌<lb
  n="0191b11" ed="T"/>頂。辟除一切作障難者。<lb
  n="0191b12" ed="T"/><head>著衣印第九</head><lb
  n="0191b13" ed="T"/>二手大指。各橫押頭指中指。無名指小指<lb
  n="0191b14" ed="T"/>甲上。印明曰。<lb
  n="0191b15" ed="T"/></ab>
-<ab type="dharani">唵微莽囉莎嚩訶<lb
+<ab type='dharani'>唵微莽囉莎嚩訶<lb
  n="0191b16" ed="T"/></ab>
-<ab type="prose">次以此印。取水明三遍㵶灑衣服。又以小心<lb
+<ab type='prose'>次以此印。取水明三遍㵶灑衣服。又以小心<lb
  n="0191b17" ed="T"/>明明衣三遍。著持己出於淨處面東蹲坐。又<lb
  n="0191b18" ed="T"/>用澡豆淨水洗手漱口。其漱口明如上無<lb
  n="0191b19" ed="T"/>別。<lb
@@ -338,9 +338,9 @@
  n="0191b21" ed="T"/>以右手中指無名指小指作拳。以頭指捻大<lb
  n="0191b22" ed="T"/>拇指面中文。印呪曰。<lb
  n="0191b23" ed="T"/></ab>
-<ab type="dharani">唵矩嚕矩麗莎嚩訶<lb
+<ab type='dharani'>唵矩嚕矩麗莎嚩訶<lb
  n="0191b24" ed="T"/></ab>
-<ab type="prose">次作此印明印三遍印頂上。作浴法時於其<lb
+<ab type='prose'>次作此印明印三遍印頂上。作浴法時於其<lb
  n="0191b25" ed="T"/>中間。不得瞋怒起諸漏心。亦不得見諸臭穢<lb
  n="0191b26" ed="T"/>物諸惡人輩。一心憶念聖觀自在。即入道場<lb
  n="0191b27" ed="T"/>頂禮三寶。次禮聖觀自在。用小心明明水五<lb
@@ -351,31 +351,31 @@
  n="0191c03" ed="T"/>各當二中指上節相去半分。二大指當二中<lb
  n="0191c04" ed="T"/>指側仰。印明曰。<lb
  n="0191c05" ed="T"/></ab>
-<ab type="dharani">唵跋日羅祇聹鉢囉儞鉢跢<lb
+<ab type='dharani'>唵跋日羅祇聹鉢囉儞鉢跢<lb
  n="0191c06" ed="T"/>野莎嚩訶<lb
  n="0191c07" ed="T"/></ab>
-<ab type="prose">次作此印明三遍。印頂上兩髆上喉上心<lb
+<ab type='prose'>次作此印明三遍。印頂上兩髆上喉上心<lb
  n="0191c08" ed="T"/>上。即成護身。<lb
  n="0191c09" ed="T"/><head>大護身印第十二</head><lb
  n="0191c10" ed="T"/>印相准前印明曰。<lb
  n="0191c11" ed="T"/></ab>
-<ab type="dharani">唵入縛攞囊野虎𤙖󰴤<lb
+<ab type='dharani'>唵入縛攞囊野虎𤙖𭠒<lb
  n="0191c12" ed="T"/></ab>
-<ab type="prose">又作前護身印明印三遍。印觸五處成大護<lb
+<ab type='prose'>又作前護身印明印三遍。印觸五處成大護<lb
  n="0191c13" ed="T"/>身。<lb
  n="0191c14" ed="T"/><head>被甲印第十三</head><lb
  n="0191c15" ed="T"/>二手仰掌。散申十指。印明曰。<lb
  n="0191c16" ed="T"/></ab>
-<ab type="dharani">唵度比度比迦野度比鉢囉入<lb
+<ab type='dharani'>唵度比度比迦野度比鉢囉入<lb
  n="0191c17" ed="T"/>嚩理矃莎嚩訶<lb
  n="0191c18" ed="T"/></ab>
-<ab type="prose">次作此印明印三遍。從頂摩觸下至於足。即<lb
+<ab type='prose'>次作此印明印三遍。從頂摩觸下至於足。即<lb
  n="0191c19" ed="T"/>成被甲。<lb
  n="0191c20" ed="T"/><head>十方界明第十四</head><lb
  n="0191c21" ed="T"/></ab>
-<ab type="dharani">唵阿󰳿力<lb
+<ab type='dharani'>唵阿𭍆力<lb
  n="0191c22" ed="T"/></ab>
-<ab type="prose">此明明水白芥子。灑散八方結界。又以小心<lb
+<ab type='prose'>此明明水白芥子。灑散八方結界。又以小心<lb
  n="0191c23" ed="T"/>明明水白芥子。灑散八方上下方結界。<lb
  n="0191c24" ed="T"/><head>結壇界印第十五</head><lb
  n="0191c25" ed="T"/>二中指二無名指二小指。掌中右押左相叉<lb
@@ -385,10 +385,10 @@
  n="0191c29" ed="T"/>器。水上汎花供養。<pb n="0192a" id="T20.1080.0192a" ed="T"/><lb
  n="0192a01" ed="T"/><head>治路明第十六</head><lb
  n="0192a02" ed="T"/></ab>
-<ab type="dharani">唵鉢那弭矃皤伽縛底慕賀<lb
+<ab type='dharani'>唵鉢那弭矃皤伽縛底慕賀<lb
  n="0192a03" ed="T"/>野慕賀野惹蘖慕賀矃莎嚩訶<lb
  n="0192a05" ed="T"/></ab>
-<ab type="prose">此明欲奉請時。持香鑪誦之七遍。開治空中<lb
+<ab type='prose'>此明欲奉請時。持香鑪誦之七遍。開治空中<lb
  n="0192a06" ed="T"/>道路關鑰辟除一切。警覺聖觀自在及諸聖<lb
  n="0192a07" ed="T"/>者。來加被之。<lb
  n="0192a08" ed="T"/><head>請召印第十七</head><lb
@@ -397,14 +397,14 @@
  n="0192a11" ed="T"/>二中指頭。請召先顧彼方。若改二大指向外<lb
  n="0192a12" ed="T"/>撥。即名送諸聖者法。印明曰。<lb
  n="0192a13" ed="T"/></ab>
-<ab type="dharani">唵覩嚕覩嚕莎縛訶<lb
+<ab type='dharani'>唵覩嚕覩嚕莎縛訶<lb
  n="0192a14" ed="T"/></ab>
-<ab type="prose">次作此印誦明七遍。請諸聖者降會道場。<lb
+<ab type='prose'>次作此印誦明七遍。請諸聖者降會道場。<lb
  n="0192a15" ed="T"/><head>迎印第十八</head><lb
  n="0192a16" ed="T"/>二手十指。掌中右押左相叉作拳。各露中<lb
  n="0192a17" ed="T"/>節。竪右大指來去。印明曰。<lb
  n="0192a18" ed="T"/></ab>
-<ab type="dharani">娜謨囉怛娜怛囉耶野娜麼阿<lb
+<ab type='dharani'>娜謨囉怛娜怛囉耶野娜麼阿<lb
  n="0192a19" ed="T"/>唎耶婆露抧諦溼縛囉野菩地薩埵野<lb
  n="0192a20" ed="T"/>摩訶薩埵野摩訶迦嚕抳迦野鉢頭<lb
  n="0192a21" ed="T"/>摩鉢頭摩鉢頭摩播矃娑<lb
@@ -412,15 +412,15 @@
  n="0192a23" ed="T"/>那哩夜婆露抧諦溼縛囉野阿<lb
  n="0192a24" ed="T"/>奴紺播謨播馱野啊露力<lb
  n="0192a25" ed="T"/></ab>
-<ab type="prose">次作此印誦明三遍。右轉迎想聖者至壇<lb
+<ab type='prose'>次作此印誦明三遍。右轉迎想聖者至壇<lb
  n="0192a26" ed="T"/>供養。<lb
  n="0192a27" ed="T"/><head>香水印第十九</head><lb
  n="0192a28" ed="T"/>二手十指掌中右押左相叉。雙合成拳。竪左<lb
  n="0192a29" ed="T"/>頭指而遍示之。印明曰。<pb n="0192b" id="T20.1080.0192b" ed="T"/><lb
  n="0192b01" ed="T"/></ab>
-<ab type="dharani">唵啊露力<lb
+<ab type='dharani'>唵啊露力<lb
  n="0192b02" ed="T"/></ab>
-<ab type="prose">次作此印明印三遍。印香水器捧持當額供<lb
+<ab type='prose'>次作此印明印三遍。印香水器捧持當額供<lb
  n="0192b03" ed="T"/>養奉請。<lb
  n="0192b04" ed="T"/><head>華座印第二十</head><lb
  n="0192b05" ed="T"/>二手仰掌。二頭指二中指二無名指二小指。<lb
@@ -428,10 +428,10 @@
  n="0192b07" ed="T"/>指頭與二中指上文齊。二大指各附頭指下<lb
  n="0192b08" ed="T"/>文。印明曰。<lb
  n="0192b09" ed="T"/></ab>
-<ab type="dharani">唵鉢頭摩寐邏野莎嚩<lb
+<ab type='dharani'>唵鉢頭摩寐邏野莎嚩<lb
  n="0192b10" ed="T"/>訶<lb
  n="0192b11" ed="T"/></ab>
-<ab type="prose">次作此印誦明三遍。與諸聖者敷設花座。白<lb
+<ab type='prose'>次作此印誦明三遍。與諸聖者敷設花座。白<lb
  n="0192b12" ed="T"/>言聖者善來。由本願力不捨大悲。來降赴此<lb
  n="0192b13" ed="T"/>卑弊之處。開無等恩願垂加持受斯供養。滿<lb
  n="0192b14" ed="T"/>有情願各就本座。作請坐印總請想諸聖者<lb
@@ -448,21 +448,21 @@
  n="0192b25" ed="T"/>二頭指斜竪頭相拄。二大指向身竪頭相<lb
  n="0192b26" ed="T"/>拄。印明曰。<lb
  n="0192b27" ed="T"/></ab>
-<ab type="dharani">唵耳㗚耳曩伽勃力婆<lb
+<ab type='dharani'>唵耳㗚耳曩伽勃力婆<lb
  n="0192b28" ed="T"/>夜弊儞抳莎嚩訶<lb
  n="0192b29" ed="T"/></ab>
-<ab type="prose">次作此印明印三遍。印一切花香供養物等。<pb n="0192c" id="T20.1080.0192c" ed="T"/><lb
+<ab type='prose'>次作此印明印三遍。印一切花香供養物等。<pb n="0192c" id="T20.1080.0192c" ed="T"/><lb
  n="0192c01" ed="T"/>作淨除障。<lb
  n="0192c02" ed="T"/><head>供養印第二十三</head><lb
  n="0192c03" ed="T"/>二手合掌。二大指二中指二無名指二小指。<lb
  n="0192c04" ed="T"/>頭各右押左相叉。二頭指各捻中指背上<lb
  n="0192c05" ed="T"/>節。印明曰。<lb
  n="0192c06" ed="T"/></ab>
-<ab type="dharani">娜謨薩嚩勃陀步地薩埵南薩婆<lb
+<ab type='dharani'>娜謨薩嚩勃陀步地薩埵南薩婆<lb
  n="0192c07" ed="T"/>詑沃刈諦薩頗囉伊摩𤙖伽<lb
  n="0192c08" ed="T"/>伽那紺莎縛訶<lb
  n="0192c09" ed="T"/></ab>
-<ab type="prose">次作此印明印三遍。想為種種供養聖者。當<lb
+<ab type='prose'>次作此印明印三遍。想為種種供養聖者。當<lb
  n="0192c10" ed="T"/>作種種讚歎三寶讚歎聖觀自在。隨心所樂<lb
  n="0192c11" ed="T"/>發願迴向。懺悔諸罪發菩提心。<lb
  n="0192c12" ed="T"/><head>求生印第二十四</head><lb
@@ -470,10 +470,10 @@
  n="0192c14" ed="T"/>指二無名指。各竪散伸微屈。令頭間各相去<lb
  n="0192c15" ed="T"/>一寸。印明曰。<lb
  n="0192c16" ed="T"/></ab>
-<ab type="dharani">唵鉢頭慕皤婆野莎<lb
+<ab type='dharani'>唵鉢頭慕皤婆野莎<lb
  n="0192c17" ed="T"/>嚩訶<lb
  n="0192c18" ed="T"/></ab>
-<ab type="prose">次作此印明印三遍。顯示諸尊一切歡喜。擁<lb
+<ab type='prose'>次作此印明印三遍。顯示諸尊一切歡喜。擁<lb
  n="0192c19" ed="T"/>護加被所求福願。<lb
  n="0192c20" ed="T"/><head>根本印第二十五</head><lb
  n="0192c21" ed="T"/>二手合掌虛掌內。二大指相並竪申。屈二頭<lb
@@ -486,20 +486,20 @@
  n="0193a05" ed="T"/>辦一切事業。<lb
  n="0193a06" ed="T"/><head>淨治珠明第二十七</head><lb
  n="0193a07" ed="T"/></ab>
-<ab type="dharani">唵暗沒哩耽儼袂室哩曳室<lb
+<ab type='dharani'>唵暗沒哩耽儼袂室哩曳室<lb
  n="0193a08" ed="T"/>唎忙哩儞莎縛訶<lb
  n="0193a09" ed="T"/></ab>
-<ab type="prose">以此明淨治念珠。當用蓮子或摩尼珠。以牛<lb
+<ab type='prose'>以此明淨治念珠。當用蓮子或摩尼珠。以牛<lb
  n="0193a10" ed="T"/>五淨浴之。一一珠明七遍。穿持繫畢又明一<lb
  n="0193a11" ed="T"/>百八遍。如法受持。<lb
  n="0193a12" ed="T"/><head>數珠印第二十八</head><lb
  n="0193a13" ed="T"/>右手取珠置於掌中。二手合掌大虛掌內。捧<lb
  n="0193a14" ed="T"/>珠明曰。<lb
  n="0193a15" ed="T"/></ab>
-<ab type="dharani">唵縛蘇皤底室哩曳鉢特<lb
- n="0193a16" ed="T"/>莽忙󰓑莎縛訶<lb
+<ab type='dharani'>唵縛蘇皤底室哩曳鉢特<lb
+ n="0193a16" ed="T"/>莽忙𭌆莎縛訶<lb
  n="0193a17" ed="T"/></ab>
-<ab type="prose">此明又明珠一千八十遍清淨受持。每取珠<lb
+<ab type='prose'>此明又明珠一千八十遍清淨受持。每取珠<lb
  n="0193a18" ed="T"/>時三遍明珠。二手當心相去六寸或當鼻前。<lb
  n="0193a19" ed="T"/>二手五指各攢捻念珠。捻一一珠與明同了。<lb
  n="0193a20" ed="T"/>斷諸緣慮一心凝目。想念聖觀自在陀羅尼<lb
@@ -516,23 +516,23 @@
  n="0193b02" ed="T"/>名指甲上。二中指竪頭相拄。二頭指附二中<lb
  n="0193b03" ed="T"/>指背相著。二小指並竪相著。印明曰。<lb
  n="0193b04" ed="T"/></ab>
-<ab type="dharani">唵紇哩阿參忙擬矃虎𤙖<lb
+<ab type='dharani'>唵紇哩阿參忙擬矃虎𤙖<lb
  n="0193b05" ed="T"/></ab>
-<ab type="prose">次作此印誦明七遍。左轉三匝解結壇界。若<lb
+<ab type='prose'>次作此印誦明七遍。左轉三匝解結壇界。若<lb
  n="0193b06" ed="T"/>解界已。又獻香水供養發遣。作前迎印向外<lb
  n="0193b07" ed="T"/>撥之。送諸聖者。<lb
  n="0193b08" ed="T"/><head>五淨明第三十</head><lb
  n="0193b09" ed="T"/></ab>
-<ab type="dharani">唵耶輸提莎縛訶<lb
+<ab type='dharani'>唵耶輸提莎縛訶<lb
  n="0193b10" ed="T"/></ab>
-<ab type="prose">明者若食觸穢食時。以此明淨牛五淨一百<lb
+<ab type='prose'>明者若食觸穢食時。以此明淨牛五淨一百<lb
  n="0193b11" ed="T"/>八遍。以茅草攪令相和服之。解其觸穢。即<lb
  n="0193b12" ed="T"/>得清淨。一切藥物供養器物。香水香花塗香<lb
  n="0193b13" ed="T"/>燒香。飲食然燈磨香喫食。著脫衣服灑水澡<lb
  n="0193b14" ed="T"/>浴作淨。皆用小心明明之五遍。威光增澤遣<lb
  n="0193b15" ed="T"/>治諸障。</ab></div><lb
- n="0193b16" ed="T"/><div type="pin" level="2"><head>如意輪陀羅尼經壇法品第五</head><lb
- n="0193b17" ed="T"/><ab type="prose">爾時觀自在菩薩摩訶薩。復白佛言世尊。是<lb
+ n="0193b16" ed="T"/><div type='pin' level='2'><head>如意輪陀羅尼經壇法品第五</head><lb
+ n="0193b17" ed="T"/><ab type='prose'>爾時觀自在菩薩摩訶薩。復白佛言世尊。是<lb
  n="0193b18" ed="T"/>祕密如意輪陀羅尼大曼茶羅印三昧耶。成<lb
  n="0193b19" ed="T"/>就世間三種藥法。令世人民見聞歡喜而相<lb
  n="0193b20" ed="T"/>愛敬。當候太陰太陽蝕時。預二七日於閑靜<lb
@@ -587,8 +587,8 @@
  n="0194a11" ed="T"/>間二種藥處。增長福蘊。命終當得往生西方<lb
  n="0194a12" ed="T"/>極樂剎土。蓮花化生。著天衣服而自莊嚴。識<lb
  n="0194a13" ed="T"/>宿命智。乃至菩提不墮惡道。</ab></div><lb
- n="0194a14" ed="T"/><div type="pin" level="2"><head>如意輪陀羅尼經佩藥品第六</head><lb
- n="0194a15" ed="T"/><ab type="prose">爾時觀自在菩薩摩訶薩。復白佛言世尊。是<lb
+ n="0194a14" ed="T"/><div type='pin' level='2'><head>如意輪陀羅尼經佩藥品第六</head><lb
+ n="0194a15" ed="T"/><ab type='prose'>爾時觀自在菩薩摩訶薩。復白佛言世尊。是<lb
  n="0194a16" ed="T"/>祕密如意輪陀羅尼明。有三種藥。一者佩<lb
  n="0194a17" ed="T"/>藥。二者含藥。三者眼藥。言佩藥者。等分當<lb
  n="0194a18" ed="T"/>用牛黃白栴檀香欝金香龍腦香麝香丁香白<lb
@@ -616,8 +616,8 @@
  n="0194b11" ed="T"/>獄。以藥熏佩而得解脫。是持明者作此法<lb
  n="0194b12" ed="T"/>時。應當至心誠信斯法勿懷疑惑。依法修治<lb
  n="0194b13" ed="T"/>必不虛也。</ab></div><lb
- n="0194b14" ed="T"/><div type="pin" level="2"><head>如意輪陀羅尼經含藥品第七</head><lb
- n="0194b15" ed="T"/><ab type="prose">爾時觀自在菩薩摩訶薩。復白佛言世尊。是<lb
+ n="0194b14" ed="T"/><div type='pin' level='2'><head>如意輪陀羅尼經含藥品第七</head><lb
+ n="0194b15" ed="T"/><ab type='prose'>爾時觀自在菩薩摩訶薩。復白佛言世尊。是<lb
  n="0194b16" ed="T"/>陀羅尼明含香法者。世間一切恭敬愛樂。等<lb
  n="0194b17" ed="T"/>分當以龍腦香麝香欝金香牛黃。塗壇結界<lb
  n="0194b18" ed="T"/>明藥一千八十遍。相和擣研。以天雨水和丸<lb
@@ -669,8 +669,8 @@
  n="0195a06" ed="T"/>陣鬪諍皆得勝利。以是因緣聖觀自在。於一<lb
  n="0195a07" ed="T"/>切時護如愛子與大自在。作是法者除不至<lb
  n="0195a08" ed="T"/>心。</ab></div><lb
- n="0195a09" ed="T"/><div type="pin" level="2"><head>如意輪陀羅尼經眼藥品第八</head><lb
- n="0195a10" ed="T"/><ab type="prose">爾時觀自在菩薩摩訶薩。復白佛言世尊。是<lb
+ n="0195a09" ed="T"/><div type='pin' level='2'><head>如意輪陀羅尼經眼藥品第八</head><lb
+ n="0195a10" ed="T"/><ab type='prose'>爾時觀自在菩薩摩訶薩。復白佛言世尊。是<lb
  n="0195a11" ed="T"/>陀羅尼明眼藥法者。令諸有情獲大勝利如<lb
  n="0195a12" ed="T"/>意成就。聖觀自在與所求願一切圓滿。其藥<lb
  n="0195a13" ed="T"/>等分雄黃迦俱婆昵夜珊<lb
@@ -731,8 +731,8 @@
  n="0195c11" ed="T"/>有情生大悲心學佛智慧。即得成就如向所<lb
  n="0195c12" ed="T"/>說。一切事業必不虛也。作此法者心生疑惑<lb
  n="0195c13" ed="T"/>復不專功。所作諸法則不成就。</ab></div><lb
- n="0195c14" ed="T"/><div type="pin" level="2"><head>如意輪陀羅尼經護摩品第九</head><lb
- n="0195c15" ed="T"/><ab type="prose">爾時觀自在菩薩摩訶薩。復白佛言世尊。是<lb
+ n="0195c14" ed="T"/><div type='pin' level='2'><head>如意輪陀羅尼經護摩品第九</head><lb
+ n="0195c15" ed="T"/><ab type='prose'>爾時觀自在菩薩摩訶薩。復白佛言世尊。是<lb
  n="0195c16" ed="T"/>陀羅尼明護摩法。饒益有情成就一切最勝<lb
  n="0195c17" ed="T"/>之法。破諸蓋障止諸怨敵。一切毘那夜迦不<lb
  n="0195c18" ed="T"/>相障惱。一切人民見皆歡喜。於清淨處方量<lb
@@ -770,8 +770,8 @@
  n="0196a21" ed="T"/>淨能成有情。心寂法海入諸三昧。神道遊戲<lb
  n="0196a22" ed="T"/>住佛菩提。以斯因緣我以大悲成熟有情。唯<lb
  n="0196a23" ed="T"/>希如來加持覆護。</ab></div><lb
- n="0196a24" ed="T"/><div type="pin" level="2"><head>如意輪陀羅尼經囑累品第十</head><lb
- n="0196a25" ed="T"/><ab type="prose">爾時世尊讚觀自在菩薩摩訶薩言。善哉善<lb
+ n="0196a24" ed="T"/><div type='pin' level='2'><head>如意輪陀羅尼經囑累品第十</head><lb
+ n="0196a25" ed="T"/><ab type='prose'>爾時世尊讚觀自在菩薩摩訶薩言。善哉善<lb
  n="0196a26" ed="T"/>哉大慈悲者。能善說此如意輪陀羅尼明。是<lb
  n="0196a27" ed="T"/>法於贍部洲。利樂成熟一切有情菩提善<lb
  n="0196a28" ed="T"/>根。若有有情發心。於此如意輪陀羅尼明。讀<lb
@@ -788,5 +788,5 @@
  n="0196b10" ed="T"/>救苦有情。爾時聖觀自在菩薩摩訶薩說此<lb
  n="0196b11" ed="T"/>經已。一切大眾皆大歡喜信受奉行。<lb
  n="0196b12" ed="T"/>
-</ab><ab type="juan" subtype="close">如意輪陀羅尼經</ab></div></div>
+</ab><ab type='juan' subtype='close'>如意輪陀羅尼經</ab></div></div>
 </body></text></TEI>

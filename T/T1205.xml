@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1205</idno>
                 </bibl>
@@ -39,18 +39,18 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0033a10" ed="T"/><lb
  n="0033a11" ed="T"/><lb
- n="0033a12" ed="T"/><div type="jing" level="2"><lb
+ n="0033a12" ed="T"/><div type='jing' level='2'><lb
  n="0033a13" ed="T"/>
-<ab type="juan" subtype="open">勝軍不動明王四十八使者祕密<lb
+<ab type='juan' subtype='open'>勝軍不動明王四十八使者祕密<lb
  n="0033a14" ed="T"/>成就儀軌一卷</ab><lb
  n="0033a15" ed="T"/><lb
  n="0033a16" ed="T"/><byline>大興善寺三藏沙門大廣智不空<lb
  n="0033a17" ed="T"/>天竺國婆羅門僧遍智奉　詔集</byline><lb
- n="0033a18" ed="T"/><ab type="prose">爾時般若菩薩入三摩地。名金剛等至。熾盛<lb
+ n="0033a18" ed="T"/><ab type='prose'>爾時般若菩薩入三摩地。名金剛等至。熾盛<lb
  n="0033a19" ed="T"/>炎焰。其炎普照一切佛土。周遍焚燒三千<lb
  n="0033a20" ed="T"/>大千世界。其中所有一切魔羅作難者。一切<lb
  n="0033a21" ed="T"/>尾曩也迦羅剎娑等。被是大火焚燒疫楚<lb
@@ -95,12 +95,12 @@
  n="0033c02" ed="T"/>退失不墮在非道中。乃至在佛道速疾證果。<lb
  n="0033c03" ed="T"/>明王四弘願云。<lb
  n="0033c04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 見我身者　　發菩提心　　聞我名者　　<lb
  n="0033c05" ed="T"/>斷惡修善　　聞我說者　　得大智慧　　<lb
  n="0033c06" ed="T"/>知我心者　　即身成佛　　
 </ab><lb
- n="0033c07" ed="T"/><ab type="prose">一持祕密呪。生生而加護。持念我者不可至<lb
+ n="0033c07" ed="T"/><ab type='prose'>一持祕密呪。生生而加護。持念我者不可至<lb
  n="0033c08" ed="T"/>疑心。何況世間諸障哉。唯有二種。一者內<lb
  n="0033c09" ed="T"/>障。謂從自心生。其類甚多不可說。二者外<lb
  n="0033c10" ed="T"/>障。從外事生。其類亦多。此真言皆能摧滅<lb
@@ -194,20 +194,20 @@
  n="0034c11" ed="T"/>印相。二羽內相叉。輪輪各如環。二空住水側。<lb
  n="0034c12" ed="T"/>火峯住空面。二風和合竪。真言曰。<lb
  n="0034c13" ed="T"/></ab>
-<ab type="dharani">曩莫三曼馱縛日羅赦怛羅吒阿慕伽<lb
- n="0034c14" ed="T"/>贊拏摩訶󰽷沙拏娑婆吒也吽怛羅摩也<lb
+<ab type='dharani'>曩莫三曼馱縛日羅赦怛羅吒阿慕伽<lb
+ n="0034c14" ed="T"/>贊拏摩訶𮑗沙拏娑婆吒也吽怛羅摩也<lb
  n="0034c15" ed="T"/>怛羅摩也吽怛羅吒憾𤚥<lb
  n="0034c16" ed="T"/></ab>
-<ab type="prose">行者每日。此真言持念。一切所求悉地成就。<lb
+<ab type='prose'>行者每日。此真言持念。一切所求悉地成就。<lb
  n="0034c17" ed="T"/>次聖無動尊略布字法。唵縛日<lb
  n="0034c18" ed="T"/>羅阿左已上<lb
  n="0034c19" ed="T"/>五處布立修行人身上。於中有阿字遍含五<lb
  n="0034c20" ed="T"/>字。此中布已遍體。故不動金剛身觀。布已即<lb
  n="0034c21" ed="T"/>誦一字真言。用一切事。<lb
  n="0034c22" ed="T"/></ab>
-<ab type="dharani">曩莫三曼多縛日羅赦憾<lb
+<ab type='dharani'>曩莫三曼多縛日羅赦憾<lb
  n="0034c23" ed="T"/></ab>
-<ab type="prose">次護身結界。以左手中指以下拄右手中指<lb
+<ab type='prose'>次護身結界。以左手中指以下拄右手中指<lb
  n="0034c24" ed="T"/>已下三指。各以兩手大指。捻無名指。相拄<lb
  n="0034c25" ed="T"/>訖直竪右手頭指。屈左手頭指。捻右手頭指<lb
  n="0034c26" ed="T"/>第二節文安口上。誦根本呪七遍。於頂上右<lb
@@ -215,71 +215,71 @@
  n="0034c28" ed="T"/>次入佛三摩耶印。二羽吝轉。合掌並遠於二<lb
  n="0034c29" ed="T"/>大。以印當額右左肩心喉。真言曰。<pb n="0035a" id="T21.1205.0035a" ed="T"/><lb
  n="0035a01" ed="T"/></ab>
-<ab type="dharani">曩莫三滿多沒馱南阿三迷怛哩三迷三摩曳<lb
+<ab type='dharani'>曩莫三滿多沒馱南阿三迷怛哩三迷三摩曳<lb
  n="0035a02" ed="T"/>娑婆賀<lb
  n="0035a03" ed="T"/></ab>
-<ab type="prose">次法界生印。二手作金剛拳背相合。申二風<lb
+<ab type='prose'>次法界生印。二手作金剛拳背相合。申二風<lb
  n="0035a04" ed="T"/>頭相拄。以印向心。三遍。<lb
  n="0035a05" ed="T"/></ab>
-<ab type="dharani">曩莫三滿多沒馱喃達摩馱暏薩縛婆婆<lb
+<ab type='dharani'>曩莫三滿多沒馱喃達摩馱暏薩縛婆婆<lb
  n="0035a06" ed="T"/>句含<lb
  n="0035a07" ed="T"/></ab>
-<ab type="prose">次轉法輪。二手相背。地水火風相叉。以二空<lb
+<ab type='prose'>次轉法輪。二手相背。地水火風相叉。以二空<lb
  n="0035a08" ed="T"/>入掌中頭相合。即配心三遍舉之。真言曰。<lb
  n="0035a09" ed="T"/></ab>
-<ab type="dharani">曩莫三滿多縛日羅赦縛日羅怛摩句含<lb
+<ab type='dharani'>曩莫三滿多縛日羅赦縛日羅怛摩句含<lb
  n="0035a11" ed="T"/></ab>
-<ab type="prose">次無堪忍印。虛心合掌二火相叉。二水二風<lb
+<ab type='prose'>次無堪忍印。虛心合掌二火相叉。二水二風<lb
  n="0035a12" ed="T"/>各各立之。逆順三遍印天地。印身五處即頂<lb
  n="0035a13" ed="T"/>散之。並四方結界。真言。<lb
  n="0035a14" ed="T"/></ab>
-<ab type="dharani">唵灑魯補哩尾履尾隷娑婆賀<lb
+<ab type='dharani'>唵灑魯補哩尾履尾隷娑婆賀<lb
  n="0035a15" ed="T"/></ab>
-<ab type="prose">總攝不動慈救真言<lb
+<ab type='prose'>總攝不動慈救真言<lb
  n="0035a16" ed="T"/></ab>
-<ab type="dharani">曩莫三曼多縛日羅赦戰拏摩賀路灑儜<lb
+<ab type='dharani'>曩莫三曼多縛日羅赦戰拏摩賀路灑儜<lb
  n="0035a17" ed="T"/>娑破吒也吽怛羅吒悍𤚥<lb
  n="0035a18" ed="T"/></ab>
-<ab type="prose">次閼伽印。二手並仰。二大指入掌。以二頭指<lb
+<ab type='prose'>次閼伽印。二手並仰。二大指入掌。以二頭指<lb
  n="0035a19" ed="T"/>加二大指中節上。是尚佉印也。真言曰。<lb
  n="0035a20" ed="T"/></ab>
-<ab type="dharani">曩莫三滿多沒馱喃誐誐那三摩三摩娑婆<lb
+<ab type='dharani'>曩莫三滿多沒馱喃誐誐那三摩三摩娑婆<lb
  n="0035a21" ed="T"/>賀<lb
  n="0035a22" ed="T"/></ab>
-<ab type="prose">次奉華座印。十輪開敷。以是當三所奉之。<lb
+<ab type='prose'>次奉華座印。十輪開敷。以是當三所奉之。<lb
  n="0035a23" ed="T"/>次塗香印真言。<lb
  n="0035a24" ed="T"/></ab>
-<ab type="dharani">曩莫三滿多沒馱喃尾輸馱獻度納婆縛<lb
+<ab type='dharani'>曩莫三滿多沒馱喃尾輸馱獻度納婆縛<lb
  n="0035a25" ed="T"/>娑縛賀<lb
  n="0035a26" ed="T"/></ab>
-<ab type="prose">次華鬘印。以前塗香印二空拄風側中節之<lb
+<ab type='prose'>次華鬘印。以前塗香印二空拄風側中節之<lb
  n="0035a27" ed="T"/>下際。名華供養印。真言曰。<lb
  n="0035a28" ed="T"/></ab>
-<ab type="dharani">曩莫三滿多沒馱喃摩訶妹底哩夜毘庾娜蘖帝娑縛賀<pb n="0035b" id="T21.1205.0035b" ed="T"/><lb
+<ab type='dharani'>曩莫三滿多沒馱喃摩訶妹底哩夜毘庾娜蘖帝娑縛賀<pb n="0035b" id="T21.1205.0035b" ed="T"/><lb
  n="0035b01" ed="T"/></ab>
-<ab type="prose">次燒香印。二羽三補吒。仰竪地水火。二風<lb
+<ab type='prose'>次燒香印。二羽三補吒。仰竪地水火。二風<lb
  n="0035b02" ed="T"/>屈拄上節。真言曰。<lb
  n="0035b03" ed="T"/></ab>
-<ab type="dharani">曩莫三滿多沒馱喃達麼馱怛縛弩蘖帝娑縛<lb
+<ab type='dharani'>曩莫三滿多沒馱喃達麼馱怛縛弩蘖帝娑縛<lb
  n="0035b04" ed="T"/>賀<lb
  n="0035b05" ed="T"/></ab>
-<ab type="prose">次飲食印。二手虛心合掌定慧入內。真言曰。<lb
+<ab type='prose'>次飲食印。二手虛心合掌定慧入內。真言曰。<lb
  n="0035b06" ed="T"/></ab>
-<ab type="dharani">曩莫三滿多沒馱喃阿羅羅迦羅羅末隣<lb
+<ab type='dharani'>曩莫三滿多沒馱喃阿羅羅迦羅羅末隣<lb
  n="0035b07" ed="T"/>捺娜彌沫隣捺禰摩訶沫歷娑婆賀<lb
  n="0035b08" ed="T"/></ab>
-<ab type="prose">次燈明印。<lb
+<ab type='prose'>次燈明印。<lb
  n="0035b09" ed="T"/></ab>
-<ab type="dharani">曩莫三滿多沒馱喃怛他蘖多羅脂娑叵<lb
- n="0035b10" ed="T"/>羅儜縛婆娑曩誐誐󱂳娜里野娑縛賀<lb
+<ab type='dharani'>曩莫三滿多沒馱喃怛他蘖多羅脂娑叵<lb
+ n="0035b10" ed="T"/>羅儜縛婆娑曩誐誐𭫴娜里野娑縛賀<lb
  n="0035b11" ed="T"/></ab>
-<ab type="prose">次虛空普供養印真言。<lb
+<ab type='prose'>次虛空普供養印真言。<lb
  n="0035b12" ed="T"/></ab>
-<ab type="dharani">唵誐誐那三縛婆娑羅解<lb
+<ab type='dharani'>唵誐誐那三縛婆娑羅解<lb
  n="0035b13" ed="T"/></ab>
-<ab type="prose">次不動尊讚。<lb
+<ab type='prose'>次不動尊讚。<lb
  n="0035b14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 稽首聖無動　　摩訶威怒王　　<lb
  n="0035b15" ed="T"/>極大慈悲心　　愍念有情者　　<lb
  n="0035b16" ed="T"/>本體盧舍那　　入遠成正覺　　<lb
@@ -319,12 +319,12 @@
  n="0035c21" ed="T"/>自界及他界　　無邊世界海　　<lb
  n="0035c22" ed="T"/>滿中諸含識　　同證無上覺　　
 </ab><lb
- n="0035c23" ed="T"/><ab type="prose">第一俱哩迦羅龍王不動明王變身吞劍形<lb
+ n="0035c23" ed="T"/><ab type='prose'>第一俱哩迦羅龍王不動明王變身吞劍形<lb
  n="0035c24" ed="T"/>也。立盤石上。真言曰。<lb
  n="0035c25" ed="T"/></ab>
-<ab type="dharani">唵俱哩迦耶迦羅惹銘伽扇曳娑婆賀<lb
+<ab type='dharani'>唵俱哩迦耶迦羅惹銘伽扇曳娑婆賀<lb
  n="0035c26" ed="T"/></ab>
-<ab type="prose">第二健達藥叉王。是阿閦佛所變身。<lb
+<ab type='prose'>第二健達藥叉王。是阿閦佛所變身。<lb
  n="0035c28" ed="T"/>第三尸棄大梵王。是華開佛所變身。<pb n="0036a" id="T21.1205.0036a" ed="T"/><lb
  n="0036a01" ed="T"/>第四七天五母夜叉王。西方彌陀所變身。<lb
  n="0036a03" ed="T"/>第五初禪若干大梵王。北方不空所變身。<lb
@@ -407,7 +407,7 @@
  n="0037a15" ed="T"/>得法利。時勝軍大動明王白佛言。此大自在<lb
  n="0037a16" ed="T"/>天當甦云何。佛言汝應甦之時。不動明王即<lb
  n="0037a17" ed="T"/>說法界生真言。爾時大自在者即復蘇息生<lb
- n="0037a18" ed="T"/>大歡善白佛言。甚希有也。我初各至已問佛。<lb
+ n="0037a18" ed="T"/>大歡喜白佛言。甚希有也。我初各至已問佛。<lb
  n="0037a19" ed="T"/>此夜叉是何等類。我所不解。佛言是諸佛之<lb
  n="0037a20" ed="T"/>主我作是念。諸佛一切之尊。云何以此而更<lb
  n="0037a21" ed="T"/>為主耶。是所不解。今乃知之。由此大王力故。<lb
@@ -439,13 +439,13 @@
  n="0037b18" ed="T"/>向人說。一洛叉十萬遍也。勝軍明王法略要<lb
  n="0037b19" ed="T"/>盡此。信受奉行。<lb
  n="0037b20" ed="T"/>
-</ab><ab type="juan" subtype="close">勝軍不動祕密儀軌一卷</ab></div><lb
- n="0037b21" ed="T"/><div type="w" level="2"><ab type="prose">西院宏教律師。甫文抄九。不動記云。勝軍<lb
+</ab><ab type='juan' subtype='close'>勝軍不動祕密儀軌一卷</ab></div><lb
+ n="0037b21" ed="T"/><div type='w' level='2'><ab type='prose'>西院宏教律師。甫文抄九。不動記云。勝軍<lb
  n="0037b22" ed="T"/>儀軌中云。一持祕密呪生生加護。求覓其<lb
  n="0037b23" ed="T"/>本然不得既久。今歲夏六月。幸得此軌小<lb
  n="0037b24" ed="T"/>池坊寶庫。是信恕僧正傳持之本也。享和<lb
  n="0037b25" ed="T"/>改元辛酉冬。共二三之同志。挍點之命工<lb
- n="0037b26" ed="T"/>壽󱁝。弘明王及四十八使者之威德。<lb
+ n="0037b26" ed="T"/>壽𭡄。弘明王及四十八使者之威德。<lb
  n="0037b27" ed="T"/>　　　　　　　　豐山總持院快道誌<lb
  n="0037b28" ed="T"/><lb
  n="0037b29" ed="T"/>此軌未得他本。不得對校以故。披閱使者<pb n="0037c" id="T21.1205.0037c" ed="T"/><lb

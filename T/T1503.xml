@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T24</biblScope>
                     <idno type="Taisho">T24n1503</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="1116c07" ed="T"/><lb
  n="1116c08" ed="T"/><lb
  n="1116c09" ed="T"/>
-<ab type="juan" subtype="open">優婆塞五戒威儀經一卷</ab><lb
+<ab type='juan' subtype='open'>優婆塞五戒威儀經一卷</ab><lb
  n="1116c10" ed="T"/><lb
  n="1116c11" ed="T"/><byline>宋罽賓三藏求那跋摩譯</byline><lb
- n="1116c12" ed="T"/><div type="jing" level="1"><ab type="verse">
+ n="1116c12" ed="T"/><div type='jing' level='1'><ab type='verse'>
 佛者眾聖尊，　　神通應自在，　　<lb
  n="1116c13" ed="T"/>隨類處身形，　　音聲亦復爾。　　<lb
  n="1116c14" ed="T"/>見聞獲安隱，　　莫不信向心，　　<lb
@@ -61,7 +61,7 @@
  n="1116c22" ed="T"/>質直離諂曲，　　常與賢聖俱，　　<lb
  n="1116c23" ed="T"/>愛眾猶養已，　　是名真菩薩。　　
 </ab><lb
- n="1116c24" ed="T"/><ab type="prose">「諸大德！一心諦聽諦聽，善思念之。我今欲<lb
+ n="1116c24" ed="T"/><ab type='prose'>「諸大德！一心諦聽諦聽，善思念之。我今欲<lb
  n="1116c25" ed="T"/>說三世諸佛菩薩成就利益一切眾生功德<lb
  n="1116c26" ed="T"/>戒。如是住菩薩戒者，有四波羅夷法。何等<lb
  n="1116c27" ed="T"/>為四？若菩薩為利養故自讚毀他，是名菩薩<lb
@@ -178,7 +178,7 @@
  n="1118a22" ed="T"/>「菩薩，與他共鬪及共相嫌，惡心瞋心、若憍慢<lb
  n="1118a23" ed="T"/>心，不如法悔者，犯重垢罪。若懶惰放逸一不<lb
  n="1118a24" ed="T"/>求悔者，犯輕垢罪。不犯者，若為調伏滅惡增<lb
- n="1118a25" ed="T"/>善，若彼外道要作非法，若彼憙鬪怨更增<lb
+ n="1118a25" ed="T"/>善，若彼外道要作非法，若彼憙鬪恐更增<lb
  n="1118a26" ed="T"/>上，若知彼人終不受悔，若向彼悔起彼重慢，<lb
  n="1118a27" ed="T"/>是名不犯。<lb
  n="1118a28" ed="T"/>「菩薩，共他嫌恨，他如法求悔，菩薩惡心不受，<lb
@@ -245,7 +245,7 @@
  n="1119a02" ed="T"/>若有僧限護多人意，是名不犯。「若菩薩，見病<lb
  n="1119a03" ed="T"/>眾生，以惡心瞋心不瞻養者，犯重垢罪。若<lb
  n="1119a04" ed="T"/>懶惰不養，犯輕垢罪。不犯者，若自有病，若<lb
- n="1119a05" ed="T"/>無巧便，若倩他看，若彼病者自有屬眷，若<lb
+ n="1119a05" ed="T"/>無巧便，若倩他看，若彼病者自有眷屬，若<lb
  n="1119a06" ed="T"/>知病者能自經給，若久病，若人猶能起止，<lb
  n="1119a07" ed="T"/>若欲勤修增上善根，若極自闇鈍恐失黨次，<lb
  n="1119a08" ed="T"/>若失看病如病餘，貧窮苦惱亦復如是，是名<lb
@@ -304,7 +304,7 @@
  n="1119c03" ed="T"/>菩薩亦復如是。菩薩弘慈普恩，及六道眾生、<lb
  n="1119c04" ed="T"/>三塗八難，苦惱十方無不蒙益。」<lb
  n="1119c05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「功德不可計，　　福慧如虛空，　　<lb
  n="1119c06" ed="T"/>略說共要竟，　　歡喜禮奉行。　　<lb
  n="1119c07" ed="T"/>普發菩提心，　　福慧命得成，　　<lb
@@ -312,7 +312,7 @@
  n="1119c09" ed="T"/>一切成佛道，　　永盡無有餘，　　<lb
  n="1119c10" ed="T"/>十方同其願，　　巍巍無極尊。」　　
 </ab><lb
- n="1119c11" ed="T"/><ab type="prose">「欲為菩薩優婆塞，放逸五戒威儀者，若無師<lb
+ n="1119c11" ed="T"/><ab type='prose'>「欲為菩薩優婆塞，放逸五戒威儀者，若無師<lb
  n="1119c12" ed="T"/>從受處，爾時受者若無師，應向佛像前自誓<lb
  n="1119c13" ed="T"/>受。菩薩優婆塞威儀應如是作禮，偏袒右肩<lb
  n="1119c14" ed="T"/>胡跪合掌，應如是言：『我某甲白十方佛及住<lb
@@ -421,7 +421,7 @@
  n="1121a01" ed="T"/>何緣而生日滿後不死，不墮地獄中間。白十<lb
  n="1121a02" ed="T"/>方佛及大迦葉，皆當善聽。某甲竪標如是。』三<lb
  n="1121a03" ed="T"/>白已訖，捉標竪樹竟，復作如是白：『十方諸<lb
- n="1121a04" ed="T"/>佛、四方淨行大德悉為證知，某不欺誑於諸<lb
+ n="1121a04" ed="T"/>佛、四方淨行大德悉為證知：某不欺，誑於諸<lb
  n="1121a05" ed="T"/>天，不到彼岸。今齎法床及如法杖，悉皆具足。<lb
  n="1121a06" ed="T"/>今以結坐，一切行蘭若比丘亦皆結坐。』如是<lb
  n="1121a07" ed="T"/>三白，作禮六拜，合掌一心如是念：『念十方<lb
@@ -462,5 +462,5 @@
  n="1121b13" ed="T"/>上智。四者我食時，十方餓者悉令飽滿，皆<lb
  n="1121b14" ed="T"/>悉奉行。」</ab></div><lb
  n="1121b15" ed="T"/>
-<ab type="juan" subtype="close">優婆塞五戒威儀經一卷</ab>
+<ab type='juan' subtype='close'>優婆塞五戒威儀經一卷</ab>
 </body></text></TEI>

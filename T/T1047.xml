@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1047</idno>
                 </bibl>
@@ -44,11 +44,11 @@
  n="0044a06" ed="T"/><lb
  n="0044a07" ed="T"/><lb
  n="0044a08" ed="T"/>
-<ab type="juan" subtype="open">佛說聖六字大明王陀羅尼經</ab><lb
+<ab type='juan' subtype='open'>佛說聖六字大明王陀羅尼經</ab><lb
  n="0044a09" ed="T"/><lb
  n="0044a10" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚少卿<lb
  n="0044a11" ed="T"/>傳法大師臣施護奉　詔譯</byline><lb
- n="0044a12" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞。一時世尊。在舍衛國祇樹給孤獨<lb
+ n="0044a12" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞。一時世尊。在舍衛國祇樹給孤獨<lb
  n="0044a13" ed="T"/>園。爾時世尊告尊者阿難言。阿難。汝當諦聽。<lb
  n="0044a14" ed="T"/>我有六字大明王陀羅尼。乃是過去無量諸<lb
  n="0044a15" ed="T"/>佛。為諸大士之所宣說。阿難。我今復為汝等<lb
@@ -60,10 +60,10 @@
  n="0044a21" ed="T"/>安樂。<lb
  n="0044a22" ed="T"/>爾時世尊即說六字大明王陀羅尼曰。<lb
  n="0044a23" ed="T"/></ab>
-<ab type="dharani">怛儞也他難底隷摩度摩底曼<lb
+<ab type='dharani'>怛儞也他難底隷摩度摩底曼<lb
  n="0044a24" ed="T"/>拏哩計布哩曩禰計娑嚩賀<lb
  n="0044a25" ed="T"/></ab>
-<ab type="prose">爾時佛告阿難言。若有眾生。得聞此大明王<lb
+<ab type='prose'>爾時佛告阿難言。若有眾生。得聞此大明王<lb
  n="0044a26" ed="T"/>陀羅尼章句名字。信心受持憶念讀誦。及以<lb
  n="0044a27" ed="T"/>香花。種種供養者。是人所有王怖水火等怖。<lb
  n="0044a28" ed="T"/>乃至盜賊怨家之怖。如是諸怖。悉皆解脫。又<lb
@@ -75,12 +75,12 @@
  n="0044b05" ed="T"/>於其晝夜。常獲安隱。一切所求。皆得如願。爾<lb
  n="0044b06" ed="T"/>時世尊。又說陀羅尼曰。<lb
  n="0044b07" ed="T"/></ab>
-<ab type="dharani">怛儞也他阿拏哩波拏哩那彌<lb
+<ab type='dharani'>怛儞也他阿拏哩波拏哩那彌<lb
  n="0044b08" ed="T"/>那摩儞嚩迦細俱酥計句迦切<lb
  n="0044b09" ed="T"/>計部多誐囉切帝濟嚩底野舍<lb
  n="0044b10" ed="T"/>嚩底娑嚩賀<lb
  n="0044b11" ed="T"/></ab>
-<ab type="prose">佛告阿難。若有眾生。得聞是陀羅尼者。我不<lb
+<ab type='prose'>佛告阿難。若有眾生。得聞是陀羅尼者。我不<lb
  n="0044b12" ed="T"/>見有一切天龍夜叉羅剎。畢哩多毘舍遮部<lb
  n="0044b13" ed="T"/>多俱畔拏。布單曩羯吒布單曩。乃至人非人<lb
  n="0044b14" ed="T"/>等。一切行不饒益者。敢有違逆。阿難如是等<lb
@@ -92,5 +92,5 @@
  n="0044b20" ed="T"/>阿難及大梵天王天帝釋四天大王等。聞佛<lb
  n="0044b21" ed="T"/>所說。歡喜信受。禮佛而退。<lb
  n="0044b22" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說聖六字大明王陀羅尼經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說聖六字大明王陀羅尼經</ab></div>
 </body></text></TEI>

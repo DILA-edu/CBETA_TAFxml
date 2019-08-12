@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1303</idno>
                 </bibl>
@@ -42,13 +42,13 @@
         <body><lb
  n="0421a15" ed="T"/><lb
  n="0421a16" ed="T"/><lb
- n="0421a17" ed="T"/><div type="jing" level="1"><lb
+ n="0421a17" ed="T"/><div type='jing' level='1'><lb
  n="0421a18" ed="T"/>
-<ab type="juan" subtype="open">佛說聖曜母陀羅尼經</ab><lb
+<ab type='juan' subtype='open'>佛說聖曜母陀羅尼經</ab><lb
  n="0421a19" ed="T"/><lb
  n="0421a20" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚卿<lb
  n="0421a21" ed="T"/>傳教大師臣法天奉　詔譯</byline><lb
- n="0421a22" ed="T"/><ab type="prose">如是我聞。一時佛在阿拏迦嚩帝大城。爾時<lb
+ n="0421a22" ed="T"/><ab type='prose'>如是我聞。一時佛在阿拏迦嚩帝大城。爾時<lb
  n="0421a23" ed="T"/>有無數天龍夜叉乾闥婆阿修羅迦樓羅緊那<lb
  n="0421a24" ed="T"/>羅摩睺羅伽人非人。及木星火星金星水星<lb
  n="0421a25" ed="T"/>土星。太陰太陽羅睺計都。如是等二十七曜<lb
@@ -83,7 +83,7 @@
  n="0421b25" ed="T"/>界而為守護。爾時釋迦如來。即說供養宿曜<lb
  n="0421b26" ed="T"/>真言。<lb
  n="0421b27" ed="T"/></ab>
-<ab type="dharani">唵銘齲攞迦野娑嚩賀唵尸<lb
+<ab type='dharani'>唵銘齲攞迦野娑嚩賀唵尸<lb
  n="0421b28" ed="T"/>旦舍尾娑嚩賀唵洛訖旦誐俱<lb
  n="0421b29" ed="T"/>麼囉野娑嚩賀唵󰂛馱野󰂛馱<pb n="0421c" id="T21.1303.0421c" ed="T"/><lb
  n="0421c01" ed="T"/>野娑嚩賀唵步誐娑波那野<lb
@@ -91,7 +91,7 @@
  n="0421c04" ed="T"/>娑嚩賀唵阿沒里多鉢里夜<lb
  n="0421c05" ed="T"/>野娑嚩賀唵乳底計多吠娑嚩<lb
  n="0421c06" ed="T"/>賀</ab>
-<ab type="prose">爾時世尊說真言已。告金剛手菩薩<lb
+<ab type='prose'>爾時世尊說真言已。告金剛手菩薩<lb
  n="0421c07" ed="T"/>言。如是九曜真言。念者皆得成就。先須依法<lb
  n="0421c08" ed="T"/>以香水。塗曼拏羅闊十二指。或金銀器或銅<lb
  n="0421c09" ed="T"/>器瓦器等。獻閼伽供養星曜。用前真言各念<lb
@@ -103,7 +103,7 @@
  n="0421c15" ed="T"/>日日持誦彼一切宿曜。能滿有情一切意願。<lb
  n="0421c16" ed="T"/>宿曜母陀羅尼曰。<lb
  n="0421c17" ed="T"/></ab>
-<ab type="dharani">曩謨囉怛曩怛囉夜野曩謨沒馱<lb
+<ab type='dharani'>曩謨囉怛曩怛囉夜野曩謨沒馱<lb
  n="0421c18" ed="T"/>野曩謨嚩日囉馱囉野曩謨鉢捺麼<lb
  n="0421c19" ed="T"/>馱囉野曩謨薩嚩仡囉賀𧹞薩嚩<lb
  n="0421c20" ed="T"/>商波哩布囉迦𧹞曩謨諾乞叉怛<lb
@@ -137,7 +137,7 @@
  n="0422a22" ed="T"/>里舞波那囉嚩𧹞娑嚩賀唵薩哩嚩<lb
  n="0422a23" ed="T"/>尾禰吽𠷑吒娑嚩賀<lb
  n="0422a24" ed="T"/></ab>
-<ab type="prose">爾時世尊說此陀羅尼已。告金剛手菩薩言。<lb
+<ab type='prose'>爾時世尊說此陀羅尼已。告金剛手菩薩言。<lb
  n="0422a25" ed="T"/>今此真言最上祕密。能與眾生滿一切願。若<lb
  n="0422a26" ed="T"/>有人求長壽等。於八月七日起首。受持齋戒<lb
  n="0422a27" ed="T"/>至十四日夜。依法供養宿曜至十五日。一晝<lb
@@ -147,5 +147,5 @@
  n="0422b02" ed="T"/>讚言善哉善哉甚為希有。我等受持。即以頭<lb
  n="0422b03" ed="T"/>面禮世尊足忽然不現。<lb
  n="0422b04" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說聖曜母陀羅尼經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說聖曜母陀羅尼經</ab></div>
 </body></text></TEI>

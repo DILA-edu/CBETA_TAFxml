@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1216</idno>
                 </bibl>
@@ -39,25 +39,25 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0077b09" ed="T"/><lb
  n="0077b10" ed="T"/><lb
  n="0077b11" ed="T"/><lb
  n="0077b12" ed="T"/>
-<ab type="juan" subtype="open">大方廣曼殊室利童真菩薩華嚴<lb
+<ab type='juan' subtype='open'>大方廣曼殊室利童真菩薩華嚴<lb
  n="0077b13" ed="T"/>本教讚閻曼德迦忿怒王真言阿<lb
  n="0077b14" ed="T"/>毘遮嚕迦儀軌品第三十一<lb
  n="0077b15" ed="T"/></ab><lb
  n="0077b16" ed="T"/><lb
- n="0077b17" ed="T"/><div type="pin" level="2"><ab type="prose">爾時金剛手祕密主。觀察大集會。及淨居天<lb
+ n="0077b17" ed="T"/><div type='pin' level='2'><ab type='prose'>爾時金剛手祕密主。觀察大集會。及淨居天<lb
  n="0077b18" ed="T"/>宮坐。眾作是告言。汝等應聽忿怒王無比威<lb
  n="0077b19" ed="T"/>猛。曼殊室利之所說。治罰難調者。乃至斷命<lb
  n="0077b20" ed="T"/>令順伏故。<lb
  n="0077b21" ed="T"/>先且說畫像儀軌。<lb
  n="0077b22" ed="T"/>爾時金剛手祕密主。以偈宣說而作是言。<lb
  n="0077b23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 不擇日吉宿　　亦不限齋戒　　<lb
  n="0077b24" ed="T"/>怖畏冤敵者　　應畫忿怒像　　<lb
  n="0077b25" ed="T"/>於黑分八日　　及以十四日　　<lb
@@ -228,9 +228,9 @@
  n="0079b16" ed="T"/>能遮一切罪　　及斷三種過　　<lb
  n="0079b17" ed="T"/>奉順法王教　　解脫諸結縛　　
 </ab></div><lb
- n="0079b18" ed="T"/><div type="pin" level="2"><head>大方廣曼殊室利童真菩薩華嚴本教閻曼<lb
+ n="0079b18" ed="T"/><div type='pin' level='2'><head>大方廣曼殊室利童真菩薩華嚴本教閻曼<lb
  n="0079b19" ed="T"/>德迦忿怒王品第三十二</head><lb
- n="0079b20" ed="T"/><ab type="prose">爾時寂靜慧菩薩摩訶薩。在彼大眾集會而<lb
+ n="0079b20" ed="T"/><ab type='prose'>爾時寂靜慧菩薩摩訶薩。在彼大眾集會而<lb
  n="0079b21" ed="T"/>坐。即從座起頂禮一切如來。於集會中住。遶<lb
  n="0079b22" ed="T"/>釋迦牟尼佛三匝。接佛雙足虔恭長跪。即觀<lb
  n="0079b23" ed="T"/>金剛手藥叉之主。作如是言。汝極暴惡。金剛<lb
@@ -245,7 +245,7 @@
  n="0079c03" ed="T"/>所顯示。如一切佛菩薩大威德者說。我亦如<lb
  n="0079c04" ed="T"/>是說。依勝義實際法作如是說。<lb
  n="0079c05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 實際不思議　　異熟不思議　　<lb
  n="0079c06" ed="T"/>佛法不思議　　菩薩不思議　　<lb
  n="0079c07" ed="T"/>調伏有情行　　行行不思議　　<lb
@@ -254,7 +254,7 @@
  n="0079c10" ed="T"/>忿怒王真言　　大威閻曼德　　<lb
  n="0079c11" ed="T"/>神境不思議　　大威不思議　　
 </ab><lb
- n="0079c12" ed="T"/><ab type="prose">寂靜慧不思議菩薩摩訶薩等。流行有情界<lb
+ n="0079c12" ed="T"/><ab type='prose'>寂靜慧不思議菩薩摩訶薩等。流行有情界<lb
  n="0079c13" ed="T"/>所生如是。寂靜慧真言行菩薩。應發如是心。<lb
  n="0079c14" ed="T"/>若行婬欲。於諸有情獲罪無量。墮於大那落<lb
  n="0079c15" ed="T"/>迦。作瞋怒有情。亦獲罪無量。勿令有情於三<lb
@@ -372,6 +372,6 @@
  n="0081a11" ed="T"/>軍眾。若欲令彼如故。對忿怒王像前。用乳護<lb
  n="0081a12" ed="T"/>摩一千八遍。彼得安樂無能沮壞。</ab></div><lb
  n="0081a14" ed="T"/>
-<ab type="juan" subtype="close">聖閻曼德迦威怒王立成大神驗念誦法一<lb
+<ab type='juan' subtype='close'>聖閻曼德迦威怒王立成大神驗念誦法一<lb
  n="0081a15" ed="T"/>卷</ab></div>
 </body></text></TEI>

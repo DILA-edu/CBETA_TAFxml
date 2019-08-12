@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T13</biblScope>
                     <idno type="Taisho">T13n0412</idno>
                 </bibl>
@@ -39,17 +39,17 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0777c05" ed="T"/><lb
  n="0777c06" ed="T"/><lb
- n="0777c07" ed="T"/><div type="pin" level="2"><lb
+ n="0777c07" ed="T"/><div type='pin' level='2'><lb
  n="0777c08" ed="T"/>
-<ab type="juan" subtype="open">地藏菩薩本願經卷上</ab><lb
+<ab type='juan' subtype='open'>地藏菩薩本願經卷上</ab><lb
  n="0777c09" ed="T"/><lb
  n="0777c10" ed="T"/><byline>唐于闐國三藏沙門實叉難陀譯</byline><lb
  n="0777c11" ed="T"/><head>忉利天宮神通品第一</head><lb
- n="0777c12" ed="T"/><ab type="prose">如是我聞：一時，佛在忉利天，為母說法。爾<lb
+ n="0777c12" ed="T"/><ab type='prose'>如是我聞：一時，佛在忉利天，為母說法。爾<lb
  n="0777c13" ed="T"/>時，十方無量世界，不可說不可說一切諸佛，<lb
  n="0777c14" ed="T"/>及大菩薩摩訶薩，皆來集會。讚歎釋迦牟尼<lb
  n="0777c15" ed="T"/>佛，能於五濁惡世，現不可思議大智慧神通<lb
@@ -92,7 +92,7 @@
  n="0778a23" ed="T"/>受。小果聲聞、天龍八部，及未來世諸眾生等，<lb
  n="0778a24" ed="T"/>雖聞如來誠實之語，必懷疑惑，設使頂受，未<lb
  n="0778a25" ed="T"/>免興謗。唯願世尊，廣說地藏菩薩摩訶薩<lb
- n="0778a26" ed="T"/>因地作何行？立何願？而能成就不思議事。」<lb
+ n="0778a26" ed="T"/>因地作何行、立何願，而能成就不思議事？」<lb
  n="0778a27" ed="T"/>佛告文殊師利：「譬如三千大千世界，所有草<lb
  n="0778a28" ed="T"/>木叢林，稻麻竹葦，山石微塵，一物一數，作一<lb
  n="0778a29" ed="T"/>恒河，一恒河沙，一沙一界。一界之內，一塵一<pb n="0778b" ed="T" id="T13.0412.0778b"/><lb
@@ -182,8 +182,8 @@
  n="0779a26" ed="T"/>劫，應有罪苦眾生，廣設方便，使令解脫。』」佛<lb
  n="0779a27" ed="T"/>告文殊師利：「時鬼王無毒者，當今財首菩薩<lb
  n="0779a28" ed="T"/>是。婆羅門女者，即地藏菩薩是。」</ab></div><lb
- n="0779a29" ed="T"/><div type="pin" level="2"><head>分身集會品第二</head><pb n="0779b" ed="T" id="T13.0412.0779b"/><lb
- n="0779b01" ed="T"/><ab type="prose">爾時，百千萬億不可思、不可議、不可量、不可說、<lb
+ n="0779a29" ed="T"/><div type='pin' level='2'><head>分身集會品第二</head><pb n="0779b" ed="T" id="T13.0412.0779b"/><lb
+ n="0779b01" ed="T"/><ab type='prose'>爾時，百千萬億不可思、不可議、不可量、不可說、<lb
  n="0779b02" ed="T"/>無量阿僧祇世界，所有地獄處，分身地藏菩薩，<lb
  n="0779b03" ed="T"/>俱來集在忉利天宮。以如來神力故，各以<lb
  n="0779b04" ed="T"/>方面，與諸得解脫從業道出者，亦各有千<lb
@@ -225,8 +225,8 @@
  n="0779c11" ed="T"/>世惡業眾生為慮。」爾時，佛讚地藏菩薩言：<lb
  n="0779c12" ed="T"/>「善哉！善哉！吾助汝喜。汝能成就久遠劫來，發<lb
  n="0779c13" ed="T"/>弘誓願，廣度將畢，即證菩提。」</ab></div><lb
- n="0779c14" ed="T"/><div type="pin" level="2"><head>觀眾生業緣品第三</head><lb
- n="0779c15" ed="T"/><ab type="prose">爾時，佛母摩耶夫人，恭敬合掌，問地藏菩薩<lb
+ n="0779c14" ed="T"/><div type='pin' level='2'><head>觀眾生業緣品第三</head><lb
+ n="0779c15" ed="T"/><ab type='prose'>爾時，佛母摩耶夫人，恭敬合掌，問地藏菩薩<lb
  n="0779c16" ed="T"/>言：「聖者！閻浮眾生，造業差別，所受報應，其事<lb
  n="0779c17" ed="T"/>云何？」地藏答言：「千萬世界，乃及國土，或有<lb
  n="0779c18" ed="T"/>地獄，或無地獄，或有女人，或無女人，或<lb
@@ -285,8 +285,8 @@
  n="0780b13" ed="T"/>言：「無間地獄，麁說如是。若廣說地獄罪器等<lb
  n="0780b14" ed="T"/>名，及諸苦事，一劫之中，求說不盡。」摩耶夫人<lb
  n="0780b15" ed="T"/>聞已，愁憂合掌，頂禮而退。</ab></div><lb
- n="0780b16" ed="T"/><div type="pin" level="2"><head>閻浮眾生業感品第四</head><lb
- n="0780b17" ed="T"/><ab type="prose">爾時，地藏菩薩摩訶薩白佛言：「世尊！我承佛<lb
+ n="0780b16" ed="T"/><div type='pin' level='2'><head>閻浮眾生業感品第四</head><lb
+ n="0780b17" ed="T"/><ab type='prose'>爾時，地藏菩薩摩訶薩白佛言：「世尊！我承佛<lb
  n="0780b18" ed="T"/>如來威神力故，遍百千萬億世界，分是身<lb
  n="0780b19" ed="T"/>形，救拔一切業報眾生。若非如來大慈力<lb
  n="0780b20" ed="T"/>故，即不能作如是變化。我今又蒙佛付囑，<lb
@@ -411,8 +411,8 @@
  n="0781c23" ed="T"/>先受如是等報，後墮地獄，動經劫數，無有<lb
  n="0781c24" ed="T"/>出期。是故汝等，護人護國，無令是諸眾業，<lb
  n="0781c25" ed="T"/>迷惑眾生。」四天王聞已，涕淚悲歎，合掌而退。</ab></div><lb
- n="0781c26" ed="T"/><div type="pin" level="2"><head>地獄名號品第五</head><lb
- n="0781c27" ed="T"/><ab type="prose">爾時，普賢菩薩摩訶薩白地藏菩薩言：「仁者！<lb
+ n="0781c26" ed="T"/><div type='pin' level='2'><head>地獄名號品第五</head><lb
+ n="0781c27" ed="T"/><ab type='prose'>爾時，普賢菩薩摩訶薩白地藏菩薩言：「仁者！<lb
  n="0781c28" ed="T"/>願為天龍四眾，及未來現在一切眾生，說娑<lb
  n="0781c29" ed="T"/>婆世界及閻浮提罪苦眾生，所受報處地獄名<pb n="0782a" ed="T" id="T13.0412.0782a"/><lb
  n="0782a01" ed="T"/>號，及惡報等事，使未來世末法眾生，知是果<lb
@@ -463,8 +463,8 @@
  n="0782b17" ed="T"/>報等事，一一獄中，更有百千種苦楚，何況多<lb
  n="0782b18" ed="T"/>獄。我今承佛威神，及仁者問，略說如是。若<lb
  n="0782b19" ed="T"/>廣解說，窮劫不盡。」</ab></div><lb
- n="0782b20" ed="T"/><div type="pin" level="2"><head>如來讚歎品第六</head><lb
- n="0782b21" ed="T"/><ab type="prose">爾時，世尊舉身放大光明，遍照百千萬億恒<lb
+ n="0782b20" ed="T"/><div type='pin' level='2'><head>如來讚歎品第六</head><lb
+ n="0782b21" ed="T"/><ab type='prose'>爾時，世尊舉身放大光明，遍照百千萬億恒<lb
  n="0782b22" ed="T"/>河沙等諸佛世界，出大音聲，普告諸佛世界<lb
  n="0782b23" ed="T"/>一切諸菩薩摩訶薩，及天龍鬼神、人、非人等：<lb
  n="0782b24" ed="T"/>「聽吾今日稱揚讚歎地藏菩薩摩訶薩，於<lb
@@ -581,15 +581,15 @@
  n="0783c19" ed="T"/>願，利益眾生，是故汝等，依願流布。」普廣聞<lb
  n="0783c20" ed="T"/>已，合掌恭敬，作禮而退。<lb
  n="0783c21" ed="T"/>
-</ab><ab type="juan" subtype="close">地藏菩薩本願經卷上</ab></div><lb
+</ab><ab type='juan' subtype='close'>地藏菩薩本願經卷上</ab></div><lb
  n="0783c22" ed="T"/><lb
- n="0783c23" ed="T"/><div type="pin" level="2"><lb
+ n="0783c23" ed="T"/><div type='pin' level='2'><lb
  n="0783c24" ed="T"/>
-<ab type="juan" subtype="open">地藏菩薩本願經卷下</ab><lb
+<ab type='juan' subtype='open'>地藏菩薩本願經卷下</ab><lb
  n="0783c25" ed="T"/><lb
  n="0783c26" ed="T"/><byline>唐于闐國三藏沙門實叉難陀譯</byline><lb
  n="0783c27" ed="T"/><head>利益存亡品第七</head><lb
- n="0783c28" ed="T"/><ab type="prose">爾時，地藏菩薩摩訶薩白佛言：「世尊！我觀是<lb
+ n="0783c28" ed="T"/><ab type='prose'>爾時，地藏菩薩摩訶薩白佛言：「世尊！我觀是<lb
  n="0783c29" ed="T"/>閻浮眾生，舉心動念，無非是罪。脫獲善利，<pb n="0784a" ed="T" id="T13.0412.0784a"/><lb
  n="0784a01" ed="T"/>多退初心；若遇惡緣，念念增益。是等輩人，<lb
  n="0784a02" ed="T"/>如履泥塗，負於重石，漸困漸重，足步深邃。<lb
@@ -650,8 +650,8 @@
  n="0784b28" ed="T"/>亡獲利。」說是語時，忉利天宮有千萬億那<lb
  n="0784b29" ed="T"/>由他閻浮鬼神，悉發無量菩提之心。大辯長<pb n="0784c" ed="T" id="T13.0412.0784c"/><lb
  n="0784c01" ed="T"/>者，作禮而退。</ab></div><lb
- n="0784c02" ed="T"/><div type="pin" level="2"><head>閻羅王眾讚歎品第八</head><lb
- n="0784c03" ed="T"/><ab type="prose">爾時，鐵圍山內，有無量鬼王，與閻羅天子，俱<lb
+ n="0784c02" ed="T"/><div type='pin' level='2'><head>閻羅王眾讚歎品第八</head><lb
+ n="0784c03" ed="T"/><ab type='prose'>爾時，鐵圍山內，有無量鬼王，與閻羅天子，俱<lb
  n="0784c04" ed="T"/>詣忉利，來到佛所。所謂惡毒鬼王、多惡鬼<lb
  n="0784c05" ed="T"/>王、大諍鬼王、白虎鬼王、血虎鬼王、赤虎鬼王、<lb
  n="0784c06" ed="T"/>散殃鬼王、飛身鬼王、電光鬼王、狼牙鬼王、千<lb
@@ -757,8 +757,8 @@
  n="0785c19" ed="T"/>如來。劫名安樂，世界名淨住。其佛壽命，不<lb
  n="0785c20" ed="T"/>可計劫。地藏！是大鬼王，其事如是，不可思議，<lb
  n="0785c21" ed="T"/>所度天人，亦不可限量。」</ab></div><lb
- n="0785c22" ed="T"/><div type="pin" level="2"><head>稱佛名號品第九</head><lb
- n="0785c23" ed="T"/><ab type="prose">爾時，地藏菩薩摩訶薩白佛言：「世尊！我今為<lb
+ n="0785c22" ed="T"/><div type='pin' level='2'><head>稱佛名號品第九</head><lb
+ n="0785c23" ed="T"/><ab type='prose'>爾時，地藏菩薩摩訶薩白佛言：「世尊！我今為<lb
  n="0785c24" ed="T"/>未來眾生，演利益事，於生死中，得大利益。<lb
  n="0785c25" ed="T"/>唯願世尊，聽我說之。」佛告地藏菩薩：「汝今<lb
  n="0785c26" ed="T"/>欲興慈悲，救拔一切罪苦六道眾生，演不<lb
@@ -804,8 +804,8 @@
  n="0786b08" ed="T"/>劫，了不得出，承斯臨命終時，他人為其稱<lb
  n="0786b09" ed="T"/>念佛名，於是罪中亦漸銷滅。何況眾生，自稱<lb
  n="0786b10" ed="T"/>自念，獲福無量，滅無量罪。」</ab></div><lb
- n="0786b11" ed="T"/><div type="pin" level="2"><head>校量布施功德緣品第十</head><lb
- n="0786b12" ed="T"/><ab type="prose">爾時，地藏菩薩摩訶薩承佛威神，從座而<lb
+ n="0786b11" ed="T"/><div type='pin' level='2'><head>校量布施功德緣品第十</head><lb
+ n="0786b12" ed="T"/><ab type='prose'>爾時，地藏菩薩摩訶薩承佛威神，從座而<lb
  n="0786b13" ed="T"/>起，胡跪合掌，白佛言：「世尊！我觀業道眾生，<lb
  n="0786b14" ed="T"/>校量布施，有輕有重：有一生受福，有十生<lb
  n="0786b15" ed="T"/>受福，有百生千生受大福利者。是事云何？<lb
@@ -866,8 +866,8 @@
  n="0787a12" ed="T"/>生中，受上妙樂。如但迴向自家眷屬，或自身<lb
  n="0787a13" ed="T"/>利益，如是之果，即三生受樂，捨一得萬報。<lb
  n="0787a14" ed="T"/>是故，地藏！布施因緣，其事如是。」</ab></div><lb
- n="0787a15" ed="T"/><div type="pin" level="2"><head>地神護法品第十一</head><lb
- n="0787a16" ed="T"/><ab type="prose">爾時，堅牢地神白佛言：「世尊！我從昔來，瞻<lb
+ n="0787a15" ed="T"/><div type='pin' level='2'><head>地神護法品第十一</head><lb
+ n="0787a16" ed="T"/><ab type='prose'>爾時，堅牢地神白佛言：「世尊！我從昔來，瞻<lb
  n="0787a17" ed="T"/>視頂禮無量菩薩摩訶薩，皆是大不可思議<lb
  n="0787a18" ed="T"/>神通智慧，廣度眾生。是地藏菩薩摩訶薩，於<lb
  n="0787a19" ed="T"/>諸菩薩，誓願深重。世尊！是地藏菩薩，於閻浮<lb
@@ -901,8 +901,8 @@
  n="0787b18" ed="T"/>是人。何故得如是聖賢擁護？皆由瞻禮地<lb
  n="0787b19" ed="T"/>藏形像，及轉讀是本願經故。自然畢竟出離<lb
  n="0787b20" ed="T"/>苦海，證涅槃樂。以是之故，得大擁護。」</ab></div><lb
- n="0787b21" ed="T"/><div type="pin" level="2"><head>見聞利益品第十二</head><lb
- n="0787b22" ed="T"/><ab type="prose">爾時，世尊從頂門上，放百千萬億大毫相光——<lb
+ n="0787b21" ed="T"/><div type='pin' level='2'><head>見聞利益品第十二</head><lb
+ n="0787b22" ed="T"/><ab type='prose'>爾時，世尊從頂門上，放百千萬億大毫相光——<lb
  n="0787b23" ed="T"/>所謂白毫相光、大白毫相光、瑞毫相光、大瑞<lb
  n="0787b24" ed="T"/>毫相光、玉毫相光、大玉毫相光、紫毫相光、大<lb
  n="0787b25" ed="T"/>紫毫相光、青毫相光、大青毫相光、碧毫相光、<lb
@@ -1013,7 +1013,7 @@
  n="0788c14" ed="T"/>經，令娑婆世界眾生，百千萬劫，永受安樂。」<lb
  n="0788c15" ed="T"/>爾時，世尊而說偈言：<lb
  n="0788c16" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「吾觀地藏威神力，　　恒河沙劫說難盡，　　<lb
  n="0788c17" ed="T"/>見聞瞻禮一念間，　　利益人天無量事。　　<lb
  n="0788c18" ed="T"/>若男若女若龍神，　　報盡應當墮惡道，　　<lb
@@ -1052,8 +1052,8 @@
  n="0789a22" ed="T"/>若能以此迴法界，　　畢竟成佛超生死。　　<lb
  n="0789a23" ed="T"/>是故觀音汝當知，　　普告恒沙諸國土。」　　
 </ab></div><lb
- n="0789a24" ed="T"/><div type="pin" level="2"><head>囑累人天品第十三</head><lb
- n="0789a25" ed="T"/><ab type="prose">爾時，世尊舉金色臂，又摩地藏菩薩摩訶薩<lb
+ n="0789a24" ed="T"/><div type='pin' level='2'><head>囑累人天品第十三</head><lb
+ n="0789a25" ed="T"/><ab type='prose'>爾時，世尊舉金色臂，又摩地藏菩薩摩訶薩<lb
  n="0789a26" ed="T"/>頂，而作是言：「地藏！地藏！汝之神力，不可思<lb
  n="0789a27" ed="T"/>議；汝之慈悲，不可思議；汝之智慧，不可思議；<lb
  n="0789a28" ed="T"/>汝之辯才，不可思議。正使十方諸佛，讚歎宣<lb
@@ -1078,11 +1078,11 @@
  n="0789b18" ed="T"/>身，為碎地獄，遣令生天，受勝妙樂。」爾時，世<lb
  n="0789b19" ed="T"/>尊而說偈言：<lb
  n="0789b20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「現在未來天人眾，　　吾今殷勤付囑汝，　　<lb
  n="0789b21" ed="T"/>以大神通方便度，　　勿令墮在諸惡趣。」　　
 </ab><lb
- n="0789b22" ed="T"/><ab type="prose">爾時，地藏菩薩摩訶薩胡跪合掌，白佛言：「世<lb
+ n="0789b22" ed="T"/><ab type='prose'>爾時，地藏菩薩摩訶薩胡跪合掌，白佛言：「世<lb
  n="0789b23" ed="T"/>尊！唯願世尊，不以為慮。未來世中，若有善<lb
  n="0789b24" ed="T"/>男子、善女人，於佛法中，一念恭敬，我亦百千<lb
  n="0789b25" ed="T"/>方便，度脫是人，於生死中，速得解脫。何況<lb
@@ -1120,5 +1120,5 @@
  n="0789c28" ed="T"/>華，天衣珠瓔，供養釋迦牟尼佛，及地藏菩薩<lb
  n="0789c29" ed="T"/>已。一切眾會，俱復瞻禮，合掌而退。<pb n="0790a" ed="T" id="T13.0412.0790a"/><lb
  n="0790a01" ed="T"/>
-</ab><ab type="juan" subtype="close">地藏菩薩本願經卷下</ab></div></div>
+</ab><ab type='juan' subtype='close'>地藏菩薩本願經卷下</ab></div></div>
 </body></text></TEI>

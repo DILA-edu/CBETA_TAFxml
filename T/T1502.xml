@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T24</biblScope>
                     <idno type="Taisho">T24n1502</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="1115c24" ed="T"/><lb
  n="1115c25" ed="T"/><lb
  n="1115c26" ed="T"/>
-<ab type="juan" subtype="open">菩薩受齋經</ab><lb
+<ab type='juan' subtype='open'>菩薩受齋經</ab><lb
  n="1115c27" ed="T"/><lb
  n="1115c28" ed="T"/><byline>西晉居士聶道真譯</byline><lb
- n="1115c29" ed="T"/><div type="jing" level="1"><ab type="prose">菩薩受齋法言：「某自歸佛，自歸法，自歸比丘<pb n="1116a" id="T24.1502.1116a" ed="T"/><lb
+ n="1115c29" ed="T"/><div type='jing' level='1'><ab type='prose'>菩薩受齋法言：「某自歸佛，自歸法，自歸比丘<pb n="1116a" id="T24.1502.1116a" ed="T"/><lb
  n="1116a01" ed="T"/>僧。某身所行惡，口所言惡，意所念惡，今已除<lb
  n="1116a02" ed="T"/>棄。某若干日、若干夜，受菩薩齋，自歸菩薩，如<lb
  n="1116a03" ed="T"/>前六萬菩薩，皆持是齋。我是菩薩，如先行菩<lb
@@ -107,12 +107,12 @@
  n="1116b28" ed="T"/>歸命西方阿彌陀三耶三佛檀，廅樓亘摩訶<lb
  n="1116b29" ed="T"/>那鉢菩薩，三毒消除，往生尊剎。<pb n="1116c" id="T24.1502.1116c" ed="T"/><lb
  n="1116c01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 清淨尊神國，　　安隱在西方，　　<lb
  n="1116c02" ed="T"/>願得自歸命，　　奉事無上王。　　<lb
  n="1116c03" ed="T"/>神通聖智達，　　照見我心情，　　<lb
  n="1116c04" ed="T"/>自歸諸大護，　　百劫不動傾。　　
 </ab></div><lb
  n="1116c05" ed="T"/>
-<ab type="juan" subtype="close">菩薩受齋經</ab>
+<ab type='juan' subtype='close'>菩薩受齋經</ab>
 </body></text></TEI>

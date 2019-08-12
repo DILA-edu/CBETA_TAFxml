@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T12</biblScope>
                     <idno type="Taisho">T12n0370</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0352b05" ed="T"/><lb
  n="0352b06" ed="T"/><lb
  n="0352b07" ed="T"/>
-<ab type="juan" subtype="open">阿彌陀鼓音聲王陀羅尼經</ab><lb
+<ab type='juan' subtype='open'>阿彌陀鼓音聲王陀羅尼經</ab><lb
  n="0352b08" ed="T"/><lb
  n="0352b09" ed="T"/><byline>失譯人名今附梁錄</byline><lb
- n="0352b10" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時佛在瞻波大城伽伽靈池，與<lb
+ n="0352b10" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時佛在瞻波大城伽伽靈池，與<lb
  n="0352b11" ed="T"/>大比丘眾五百人俱。爾時，世尊告諸比丘：「今<lb
  n="0352b12" ed="T"/>當為汝演說，西方安樂世界今現有佛，號阿<lb
  n="0352b13" ed="T"/>彌陀，若有四眾，能正受持彼佛名號，以此功<lb
@@ -81,7 +81,7 @@
  n="0352c12" ed="T"/>聲王大陀羅尼？吾今當說，汝等善聽。」「唯然受<lb
  n="0352c13" ed="T"/>教。」於時世尊即說呪曰：<lb
  n="0352c14" ed="T"/></ab>
-<ab type="dharani">「多狄他　婆離　阿婆離　娑摩婆羅　尼<lb
+<ab type='dharani'>「多狄他　婆離　阿婆離　娑摩婆羅　尼<lb
  n="0352c15" ed="T"/>地奢　昵闍多禰　昵茂邸　昵茂企<lb
  n="0352c16" ed="T"/>　闍羅婆羅車馱禰　宿佉波啼呢地奢　阿<lb
  n="0352c17" ed="T"/>彌多由婆離　阿彌多蛇伽婆昵呵隸　阿<lb
@@ -103,9 +103,9 @@
  n="0353a04" ed="T"/>啼　修波羅啼癡啼　修離　修目企<lb
  n="0353a05" ed="T"/>　達咩　達達啼　離婆　遮婆<lb
  n="0353a06" ed="T"/>離　阿㝹舍婆離　佛陀迦舍昵裘禰<lb
- n="0353a07" ed="T"/>佛陀迦舍裘禰　娑婆呵<lb
+ n="0353a07" ed="T"/>佛陀迦舍裘禰　沙婆呵<lb
  n="0353a08" ed="T"/></ab>
-<ab type="prose">「此是阿彌陀鼓音聲王大陀羅尼。若有比丘、<lb
+<ab type='prose'>「此是阿彌陀鼓音聲王大陀羅尼。若有比丘、<lb
  n="0353a09" ed="T"/>比丘尼、清信士女，常應至誠受持讀誦，如說<lb
  n="0353a10" ed="T"/>修行，行此持法。當處閑寂，洗浴其身，著新淨<lb
  n="0353a11" ed="T"/>衣，飲食白素，不噉酒肉及以五辛，常修梵行。<lb
@@ -129,5 +129,5 @@
  n="0353a29" ed="T"/>生彼。」聞佛說已，天龍八部，歡喜踊躍，作禮奉<pb n="0353b" id="T12.0370.0353b" ed="T"/><lb
  n="0353b01" ed="T"/>行。</ab></div><lb
  n="0353b02" ed="T"/>
-<ab type="juan" subtype="close">阿彌陀鼓音聲王陀羅尼經</ab>
+<ab type='juan' subtype='close'>阿彌陀鼓音聲王陀羅尼經</ab>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T24</biblScope>
                     <idno type="Taisho">T24n1495</idno>
                 </bibl>
@@ -45,10 +45,10 @@
  n="1100b14" ed="T"/><lb
  n="1100b15" ed="T"/><lb
  n="1100b16" ed="T"/>
-<ab type="juan" subtype="open">善恭敬經</ab><lb
+<ab type='juan' subtype='open'>善恭敬經</ab><lb
  n="1100b17" ed="T"/><lb
  n="1100b18" ed="T"/><byline>隋天竺三藏闍那崛多譯</byline><lb
- n="1100b19" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時婆伽婆住在如來本所行處<lb
+ n="1100b19" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時婆伽婆住在如來本所行處<lb
  n="1100b20" ed="T"/>寶莊嚴殿。爾時世尊與大比丘及諸菩薩摩<lb
  n="1100b21" ed="T"/>訶薩等，并餘無量百千萬億四部大眾，左右<lb
  n="1100b22" ed="T"/>圍繞，共會說法。爾時長老阿難從坐而起，整<lb
@@ -226,5 +226,5 @@
  n="1102b20" ed="T"/>敬重經法，深愛敬僧，當入是次。」佛說是經已，<lb
  n="1102b21" ed="T"/>長老阿難等及諸大眾，聞佛所說，歡喜奉行。</ab></div><lb
  n="1102b22" ed="T"/>
-<ab type="juan" subtype="close">善恭敬經</ab>
+<ab type='juan' subtype='close'>善恭敬經</ab>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0061</idno>
                 </bibl>
@@ -39,42 +39,42 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0858a08" ed="T"/><lb
- n="0858a09" ed="T"/><div type="jing" level="2"><lb
+ n="0858a09" ed="T"/><div type='jing' level='2'><lb
  n="0858a11" ed="T"/>
-<ab type="juan" subtype="open">佛說受新歲經</ab><lb
+<ab type='juan' subtype='open'>佛說受新歲經</ab><lb
  n="0858a12" ed="T"/><lb
  n="0858a13" ed="T"/><byline>西晉月氏國三藏竺法護譯</byline><lb
- n="0858a14" ed="T"/><ab type="prose">聞如是：一時，佛在舍衛國東苑鹿母園中，與<lb
+ n="0858a14" ed="T"/><ab type='prose'>聞如是：一時，佛在舍衛國東苑鹿母園中，與<lb
  n="0858a15" ed="T"/>大比丘眾五百人俱。是時世尊，七月十五日，<lb
  n="0858a16" ed="T"/>於露地敷坐，比丘僧前後圍遶。佛告阿難曰：<lb
  n="0858a17" ed="T"/>「汝今於露地速擊揵槌。所以然者，今七月十<lb
  n="0858a18" ed="T"/>五日是受新歲之日。」是時尊者阿難，右膝著<lb
  n="0858a19" ed="T"/>地長跪叉手，便說此偈：<lb
  n="0858a20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「淨眼無與等，　　無事而不練，　　<lb
  n="0858a21" ed="T"/>智慧無染著，　　何等名受歲？」　　
 </ab><lb
- n="0858a22" ed="T"/><ab type="prose">爾時，世尊復說此偈報阿難曰：<lb
+ n="0858a22" ed="T"/><ab type='prose'>爾時，世尊復說此偈報阿難曰：<lb
  n="0858a23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「受歲三業淨，　　身口意所作，　　<lb
  n="0858a24" ed="T"/>兩兩比丘對，　　自陳所作短。　　<lb
  n="0858a25" ed="T"/>還自稱名字，　　今日眾受歲，　　<lb
  n="0858a26" ed="T"/>我亦淨意受，　　唯願原其過。」　　
 </ab><lb
- n="0858a27" ed="T"/><ab type="prose">爾時，阿難復以此偈問其儀曰：<lb
+ n="0858a27" ed="T"/><ab type='prose'>爾時，阿難復以此偈問其儀曰：<lb
  n="0858a28" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「過去恒沙佛，　　辟支及聲聞，　　<lb
  n="0858a29" ed="T"/>盡是諸佛法？　　獨是釋迦文？」　　
 </ab><pb n="0858b" ed="T" id="T01.0061.0858b"/><lb
- n="0858b01" ed="T"/><ab type="prose">爾時，世尊復更以偈報阿難曰：<lb
+ n="0858b01" ed="T"/><ab type='prose'>爾時，世尊復更以偈報阿難曰：<lb
  n="0858b02" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「恒沙過去佛，　　弟子清淨心，　　<lb
  n="0858b03" ed="T"/>皆是諸佛法，　　非今釋迦文。　　<lb
  n="0858b04" ed="T"/>辟支無此法，　　無歲無弟子，　　<lb
@@ -82,18 +82,18 @@
  n="0858b06" ed="T"/>當來佛世尊，　　恒沙不可計，　　<lb
  n="0858b07" ed="T"/>彼亦受此歲，　　如今瞿曇法。」　　
 </ab><lb
- n="0858b08" ed="T"/><ab type="prose">是時尊者阿難聞此語已，歡喜踊躍不能自<lb
+ n="0858b08" ed="T"/><ab type='prose'>是時尊者阿難聞此語已，歡喜踊躍不能自<lb
  n="0858b09" ed="T"/>勝，即昇講堂手執揵槌，並作是說：「我今擊此<lb
  n="0858b10" ed="T"/>如來信皷，諸有如來弟子眾者盡當普集。」爾<lb
  n="0858b11" ed="T"/>時，阿難復說此偈：<lb
  n="0858b12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「降伏魔力怨，　　除結無有餘，　　<lb
  n="0858b13" ed="T"/>露地擊揵槌，　　比丘聞當集。　　<lb
  n="0858b14" ed="T"/>諸欲聞法人，　　度流生死海，　　<lb
  n="0858b15" ed="T"/>聞此妙響音，　　盡當速集此。」　　
 </ab><lb
- n="0858b16" ed="T"/><ab type="prose">爾時，尊者阿難已擊揵槌，至世尊所，頭面禮<lb
+ n="0858b16" ed="T"/><ab type='prose'>爾時，尊者阿難已擊揵槌，至世尊所，頭面禮<lb
  n="0858b17" ed="T"/>足，在一面住，白世尊言：「今正是時，唯願世尊！<lb
  n="0858b18" ed="T"/>何所勅使？」是時世尊告阿難曰：「汝隨次第坐，<lb
  n="0858b19" ed="T"/>如來自當知時。」是時，世尊坐于草坐，告諸比<lb
@@ -135,7 +135,7 @@
  n="0858c26" ed="T"/>世尊告曰：「欲有所說今正是時。」朋耆奢即於<lb
  n="0858c27" ed="T"/>佛前，歎佛及比丘僧，而說此偈：<lb
  n="0858c28" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「十五清淨日，　　五百比丘集，　　<lb
  n="0858c29" ed="T"/>諸縛結悉解，　　無愛更不生。　　<pb n="0859a" ed="T" id="T01.0061.0859a"/><lb
  n="0859a01" ed="T"/>轉輪大聖王，　　群臣所圍繞，　　<lb
@@ -145,15 +145,15 @@
  n="0859a05" ed="T"/>皆是真佛子，　　無有塵垢者，　　<lb
  n="0859a06" ed="T"/>能斷欲愛刺，　　今日自歸命。」　　
 </ab><lb
- n="0859a07" ed="T"/><ab type="prose">爾時，世尊可朋耆奢所說。是時朋耆奢作是<lb
+ n="0859a07" ed="T"/><ab type='prose'>爾時，世尊可朋耆奢所說。是時朋耆奢作是<lb
  n="0859a08" ed="T"/>念：「如來今日可我所說。」歡喜踊躍不能自勝，<lb
  n="0859a09" ed="T"/>即從坐起禮佛却退還就本位。爾時，世尊告<lb
  n="0859a10" ed="T"/>諸比丘：「我聲聞中第一造偈弟子，所謂朋耆<lb
  n="0859a11" ed="T"/>奢比丘是；所說無疑難，亦是朋耆奢比丘是<lb
  n="0859a12" ed="T"/>也。」爾時，諸比丘聞佛所說，歡喜奉行。<lb
  n="0859a13" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說受新歲經</ab></div><lb
- n="0859a14" ed="T"/><div type="w" level="2"><ab type="prose">按此《受新歲經》，竺法護譯者，國本、宋本皆<lb
+</ab><ab type='juan' subtype='close'>佛說受新歲經</ab></div><lb
+ n="0859a14" ed="T"/><div type='w' level='2'><ab type='prose'>按此《受新歲經》，竺法護譯者，國本、宋本皆<lb
  n="0859a15" ed="T"/>編於容函中；丹藏則容函中有名受歲經<lb
  n="0859a16" ed="T"/>者，而與此經大別。今依《開元錄》撿之，則丹<lb
  n="0859a17" ed="T"/>藏之經正是容函《受歲經》耳。此宋藏經，與<lb

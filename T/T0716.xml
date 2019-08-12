@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T16</biblScope>
                     <idno type="Taisho">T16n0716</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0830b13" ed="T"/><lb
  n="0830b14" ed="T"/><lb
- n="0830b15" ed="T"/><div type="jing" level="2"><lb
+ n="0830b15" ed="T"/><div type='jing' level='2'><lb
  n="0830b16" ed="T"/>
-<ab type="juan" subtype="open">緣生初勝分法本經卷上</ab><lb
+<ab type='juan' subtype='open'>緣生初勝分法本經卷上</ab><lb
  n="0830b17" ed="T"/><lb
  n="0830b18" ed="T"/><byline>隋天竺三藏達磨笈多譯</byline><lb
- n="0830b19" ed="T"/><ab type="prose">如是我聞：一時婆伽婆在舍囉婆悉帝城勝<lb
+ n="0830b19" ed="T"/><ab type='prose'>如是我聞：一時婆伽婆在舍囉婆悉帝城勝<lb
  n="0830b20" ed="T"/>林給孤獨園。爾時眾多比丘集坐住堂，作是<lb
  n="0830b21" ed="T"/>議論言：「諸命者等，世尊曾以無量諸門，說<lb
  n="0830b22" ed="T"/>十二分緣生，於彼最初演說無明以為緣體。<lb
@@ -333,14 +333,14 @@
  n="0833c13" ed="T"/>比丘白佛：「大德！緣生者，是何句義？」佛言：「比<lb
  n="0833c14" ed="T"/>丘！各自有緣同聚相續，故此諸分生。」<lb
  n="0833c15" ed="T"/>
-</ab><ab type="juan" subtype="close">緣生初勝分法本經卷上</ab><lb
+</ab><ab type='juan' subtype='close'>緣生初勝分法本經卷上</ab><lb
  n="0833c16" ed="T"/><lb
  n="0833c17" ed="T"/><lb
  n="0833c18" ed="T"/>
-<ab type="juan" subtype="open">緣生初勝分法本經卷下</ab><lb
+<ab type='juan' subtype='open'>緣生初勝分法本經卷下</ab><lb
  n="0833c19" ed="T"/><lb
  n="0833c20" ed="T"/><byline>隋天竺三藏達磨笈多譯</byline><lb
- n="0833c21" ed="T"/><ab type="prose">比丘白佛：「大德！惟此出生相續緣生，為更別<lb
+ n="0833c21" ed="T"/><ab type='prose'>比丘白佛：「大德！惟此出生相續緣生，為更別<lb
  n="0833c22" ed="T"/>有緣生？」佛言：「比丘！我說八門緣生：一謂受<lb
  n="0833c23" ed="T"/>用世俗者，如眼緣色生眼識，三和有觸，觸緣<lb
  n="0833c24" ed="T"/>受如是等；二謂說助持者緣生，如四食作緣，<lb
@@ -399,7 +399,7 @@
  n="0834b19" ed="T"/>深。比丘！此是無明等起殊勝。」<lb
  n="0834b20" ed="T"/>比丘白佛：「大德！何者是無明轉住殊勝？」佛<lb
  n="0834b21" ed="T"/>言：「比丘！略說無明有四種轉住，所謂順眠<lb
- n="0834b22" ed="T"/>轉住，起處轉往，相應轉住，獨不<lb
+ n="0834b22" ed="T"/>轉住，起處轉住，相應轉住，獨不<lb
  n="0834b23" ed="T"/>共轉住。」<lb
  n="0834b24" ed="T"/>比丘白佛：「大德！誰所轉住無明作緣？」佛言：<lb
  n="0834b25" ed="T"/>「比丘！此外凡夫以不正思，牽引四種無明，與<lb
@@ -633,28 +633,28 @@
  n="0837a21" ed="T"/>哉大德！」彼等比丘於世尊說，歡喜默然而住。<lb
  n="0837a22" ed="T"/>彼諸比丘於世尊說，其心悅樂，皆大歡喜。<lb
  n="0837a23" ed="T"/>
-</ab><ab type="juan" subtype="close">緣生初勝分法本經卷下</ab></div><lb
+</ab><ab type='juan' subtype='close'>緣生初勝分法本經卷下</ab></div><lb
  n="0837a24" ed="T"/><lb
- n="0837a25" ed="T"/><div type="xu" level="2"><lb
+ n="0837a25" ed="T"/><div type='xu' level='2'><lb
  n="0837a26" ed="T"/><head>緣生經并論序</head><lb
  n="0837a27" ed="T"/><lb
- n="0837a28" ed="T"/><ab type="prose">原是一心，積為三界，癡流漫遠，苦樹欝高，欲討<lb
+ n="0837a28" ed="T"/><ab type='prose'>原是一心，積為三界，癡流漫遠，苦樹欝高，欲討<lb
  n="0837a29" ed="T"/>其際，難測其本，理極實相之門，筌窮假名之域，<pb n="0837b" ed="T" id="T16.0716.0837b"/><lb
  n="0837b01" ed="T"/>五因七果十有二分，緣生之法總備於此，凡則<lb
- n="0837b02" ed="T"/>迷而起妄，聖則悟以通真，下似兔浮，上如象度，<lb
- n="0837b03" ed="T"/>大哉妙覺淵乎洞盡十地與雙林俱暢聞域共<lb
+ n="0837b02" ed="T"/>迷而起妄，聖則悟以通真，下似兔浮，上如象渡，<lb
+ n="0837b03" ed="T"/>大哉妙覺淵乎洞盡十地與雙林俱暢聞城共<lb
  n="0837b04" ed="T"/>稻芉咸敷，至若此經，獨包彼例，彼所未說，此乃<lb
- n="0837b05" ed="T"/>具演，攀緣為首，對治為末，總則一十一問，別<lb
+ n="0837b05" ed="T"/>具演，攀緣為首，對治為末，總則一十一門，別<lb
  n="0837b06" ed="T"/>則百二十問，其旨微而密，其辭約而隱，經之綱<lb
  n="0837b07" ed="T"/>目，攝在茲焉，并有聖者欝楞迦附此經旨作論<lb
  n="0837b08" ed="T"/>顯發其論也遍取三乘之意，不執一部之筌，先<lb
  n="0837b09" ed="T"/>立偈章，後興論釋，偈有三十，故亦名三十論也，<lb
  n="0837b10" ed="T"/>大業二年十月南賢豆國三藏法師達<lb
- n="0837b11" ed="T"/>磨笈多與故翻經法師產琮在東都上林園依<lb
+ n="0837b11" ed="T"/>磨笈多與故翻經法師彥琮在東都上林園依<lb
  n="0837b12" ed="T"/>林邑所獲賢豆梵本譯為隋言，三年九月其功<lb
  n="0837b13" ed="T"/>乃竟，經二卷論一卷，三藏師字論閑明義解沈<lb
  n="0837b14" ed="T"/>密琮法師博通經論，兼善梵文，共對葉本，更相<lb
- n="0837b15" ed="T"/>控擊，一言靡遺，三覆逾審，辭頗簡質，意存允正，<lb
+ n="0837b15" ed="T"/>扣擊，一言靡遺，三覆逾審，辭頗簡質，意存允正，<lb
  n="0837b16" ed="T"/>比之昔人，差無尤失，真曰法燈，足稱智藏，願窮<lb
  n="0837b17" ed="T"/>後際常益世間云爾。</ab></div></div>
 </body></text></TEI>

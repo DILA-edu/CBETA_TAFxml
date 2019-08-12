@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0089</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0913a14" ed="T"/><lb
  n="0913a15" ed="T"/><lb
- n="0913a16" ed="T"/><div type="jing" level="1"><lb
+ n="0913a16" ed="T"/><div type='jing' level='1'><lb
  n="0913a17" ed="T"/>
-<ab type="juan" subtype="open">佛說八關齋經</ab><lb
+<ab type='juan' subtype='open'>佛說八關齋經</ab><lb
  n="0913a18" ed="T"/><lb
  n="0913a19" ed="T"/><byline>宋居士沮渠京聲譯</byline><lb
- n="0913a20" ed="T"/><ab type="prose">聞如是：一時，婆伽婆在舍衛城祇樹給孤獨<lb
+ n="0913a20" ed="T"/><ab type='prose'>聞如是：一時，婆伽婆在舍衛城祇樹給孤獨<lb
  n="0913a21" ed="T"/>園。爾時，世尊告諸比丘：「我今當說聖八關齋。<lb
  n="0913a22" ed="T"/>諦聽諦聽，善思念之，我今當說。」對曰：「如是世<lb
  n="0913a23" ed="T"/>尊！」爾時，彼比丘從佛受教。世尊告曰：「於是比<lb
@@ -86,5 +86,5 @@
  n="0913b27" ed="T"/>功德、爾所果報，此大福不可稱計。」爾時諸比<lb
  n="0913b28" ed="T"/>丘聞佛所說，歡喜奉行。<lb
  n="0913b29" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說八關齋經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說八關齋經</ab></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1089</idno>
                 </bibl>
@@ -39,18 +39,18 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0217b04" ed="T"/><lb
  n="0217b05" ed="T"/><lb
  n="0217b06" ed="T"/><lb
  n="0217b07" ed="T"/>
-<ab type="juan" subtype="open">都表如意摩尼轉輪聖王次第念<lb
+<ab type='juan' subtype='open'>都表如意摩尼轉輪聖王次第念<lb
  n="0217b08" ed="T"/>誦祕密最要略法</ab><lb
  n="0217b09" ed="T"/><lb
  n="0217b10" ed="T"/><byline>解脫師子譯</byline><lb
- n="0217b11" ed="T"/><div type="pin" level="2"><head>相貌品第一</head><lb
- n="0217b12" ed="T"/><ab type="verse">
+ n="0217b11" ed="T"/><div type='pin' level='2'><head>相貌品第一</head><lb
+ n="0217b12" ed="T"/><ab type='verse'>
 我今當說思惟法　　三種真言而次第　　<lb
  n="0217b13" ed="T"/>初用大心外加持　　第二根本復想內　　<lb
  n="0217b14" ed="T"/>第三小心內外通　　應可存心無錯亂　　<lb
@@ -67,26 +67,26 @@
  n="0217b25" ed="T"/>步步想八葉蓮華　　存想變地無濁穢　　<lb
  n="0217b26" ed="T"/>加持護身入精室　　安置像前而念誦　　
 </ab></div><lb
- n="0217b27" ed="T"/><div type="pin" level="2"><head>大心密言品第二</head><lb
- n="0217b28" ed="T"/><ab type="verse">
+ n="0217b27" ed="T"/><div type='pin' level='2'><head>大心密言品第二</head><lb
+ n="0217b28" ed="T"/><ab type='verse'>
 先用大心真言王　　澡浴洗淨結護法　　<lb
  n="0217b29" ed="T"/>呪水灑身加持衣　　復須想念皆成就　　<pb n="0217c" id="T20.1089.0217c" ed="T"/><lb
  n="0217c01" ed="T"/>如此五種隨次第　　都用大明及本印　　
 </ab><lb
- n="0217c02" ed="T"/><ab type="dharani">唵波怛摩進跢末尼摩賀惹嚩囉吽<lb
+ n="0217c02" ed="T"/><ab type='dharani'>唵波怛摩進跢末尼摩賀惹嚩囉吽<lb
  n="0217c03" ed="T"/></ab>
-<ab type="prose">澡豆沐浴之具。各呪七遍。然後澡洗。<lb
+<ab type='prose'>澡豆沐浴之具。各呪七遍。然後澡洗。<lb
  n="0217c04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 想水白色　　猶如甘露　　又想自身　　<lb
  n="0217c05" ed="T"/>垢穢煩惱　　受此水已　　一切塵勞　　<lb
  n="0217c06" ed="T"/>皆悉落盡　　洗浴畢已　　應須洗淨　　<lb
  n="0217c07" ed="T"/>取土少許　　加持七遍　　隨時洗淨　　<lb
  n="0217c08" ed="T"/>然後著衣　　
 </ab><lb
- n="0217c09" ed="T"/><ab type="prose">時其衣亦復加持七遍作如此想。<lb
+ n="0217c09" ed="T"/><ab type='prose'>時其衣亦復加持七遍作如此想。<lb
  n="0217c10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 我今此身　　被金剛甲　　依法訖已　　<lb
  n="0217c11" ed="T"/>即須灑身　　用水一掬　　加持七遍　　<lb
  n="0217c12" ed="T"/>散灑其身　　想虛空中　　雨諸寶華　　<lb
@@ -94,15 +94,15 @@
  n="0217c14" ed="T"/>誦持七遍　　印於七處　　心及兩肩　　<lb
  n="0217c15" ed="T"/>兩眼兩膝　　散於頭上　　
 </ab><lb
- n="0217c16" ed="T"/><ab type="prose">亦成大護身已。即須結界。<lb
+ n="0217c16" ed="T"/><ab type='prose'>亦成大護身已。即須結界。<lb
  n="0217c17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若結壇界　　開於四門　　不應結界　　<lb
  n="0217c18" ed="T"/>若作結護　　皆須用心　　
 </ab><lb
- n="0217c19" ed="T"/><ab type="prose">亦鋪置次第即作啟請等事。</ab></div><lb
- n="0217c20" ed="T"/><div type="pin" level="2"><head>根本密言品第三</head><lb
- n="0217c21" ed="T"/><ab type="verse">
+ n="0217c19" ed="T"/><ab type='prose'>亦鋪置次第即作啟請等事。</ab></div><lb
+ n="0217c20" ed="T"/><div type='pin' level='2'><head>根本密言品第三</head><lb
+ n="0217c21" ed="T"/><ab type='verse'>
 復說根本軌儀法　　想念奉請大聖王　　<lb
  n="0217c22" ed="T"/>誦此密言及結印　　一一自想往彼山　　<lb
  n="0217c23" ed="T"/>存心頂禮而奉請　　迎引尊者入道場　　<lb
@@ -111,45 +111,45 @@
  n="0217c26" ed="T"/>想念供養尊者已　　隨便持珠誦密言　　<lb
  n="0217c27" ed="T"/>悔先世過及發願　　至誠端坐觀明王　　
 </ab><lb
- n="0217c28" ed="T"/><ab type="prose">行者像前端坐思惟。存心諦觀布多勒伽山<lb
+ n="0217c28" ed="T"/><ab type='prose'>行者像前端坐思惟。存心諦觀布多勒伽山<lb
  n="0217c29" ed="T"/>眾寶莊嚴華果茂盛。<pb n="0218a" id="T20.1089.0218a" ed="T"/><lb
  n="0218a01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 其山頂上　　聖者宮殿　　本在其中　　<lb
  n="0218a02" ed="T"/>應想聖者　　安坐殿中　　殊妙供具　　<lb
  n="0218a03" ed="T"/>莊嚴其身　　行者於此　　心想之中　　<lb
  n="0218a04" ed="T"/>自往彼山　　迎誦尊者　　引入道場　　<lb
  n="0218a05" ed="T"/>於壇中心　　蓮華臺上　　安置聖者　　
 </ab><lb
- n="0218a06" ed="T"/><ab type="prose">次奉遏伽水。<lb
+ n="0218a06" ed="T"/><ab type='prose'>次奉遏伽水。<lb
  n="0218a07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 於新銅器　　或用白瓷　　器盛香水　　<lb
  n="0218a08" ed="T"/>奉於聖者　　便誦真言　　復想此水　　<lb
  n="0218a09" ed="T"/>聖者受已　　遍灑四方　　及灑妙身　　
 </ab><lb
- n="0218a10" ed="T"/><ab type="prose">行者細觀尊灑水已。三千大千世界猶如瑠<lb
+ n="0218a10" ed="T"/><ab type='prose'>行者細觀尊灑水已。三千大千世界猶如瑠<lb
  n="0218a11" ed="T"/>璃內外明徹中無一物。<lb
  n="0218a12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 奉遏伽已　　次復供養　　香華飲食　　<lb
  n="0218a13" ed="T"/>塗香末香　　燈蓋之事　　一一加持　　<lb
  n="0218a14" ed="T"/>真言及印　　
 </ab><lb
- n="0218a15" ed="T"/><ab type="prose">供養畢已。於本尊聖者前悔謝其身呵責<lb
+ n="0218a15" ed="T"/><ab type='prose'>供養畢已。於本尊聖者前悔謝其身呵責<lb
  n="0218a16" ed="T"/>己過。<lb
  n="0218a17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 次復發願　　隨心所求　　悉皆陳說　　<lb
  n="0218a18" ed="T"/>於其想中　　結壇三門　　唯留西門　　<lb
  n="0218a19" ed="T"/>復結大界　　身外四方　　周匝鋪置　　<lb
  n="0218a20" ed="T"/>及虛空界　　次用塗香　　塗手臂上　　<lb
  n="0218a21" ed="T"/>然後念誦　　
 </ab><lb
- n="0218a22" ed="T"/><ab type="prose">執念珠以珠熏香。二手合掌再三頂戴作如<lb
+ n="0218a22" ed="T"/><ab type='prose'>執念珠以珠熏香。二手合掌再三頂戴作如<lb
  n="0218a23" ed="T"/>是言。<lb
  n="0218a24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 我念存心　　承事聖者　　持此密言　　<lb
  n="0218a25" ed="T"/>唯願尊者　　不捨大悲　　莫違本誓　　<lb
  n="0218a26" ed="T"/>發弘誓願　　速現一切　　妙莊嚴身　　<lb
@@ -157,35 +157,35 @@
  n="0218a28" ed="T"/>常侍尊者　　不離左右　　發此願已　　<lb
  n="0218a29" ed="T"/>便誦根本　　祕密真言曰　　
 </ab><pb n="0218b" id="T20.1089.0218b" ed="T"/><lb
- n="0218b01" ed="T"/><ab type="dharani">曩謨阿囉怛曩怛囉夜<lb
+ n="0218b01" ed="T"/><ab type='dharani'>曩謨阿囉怛曩怛囉夜<lb
  n="0218b02" ed="T"/>野曩莫阿哩野嚩路枳帝濕<lb
  n="0218b03" ed="T"/>嚩囉野冒地薩怛嚩野摩賀薩怛<lb
  n="0218b04" ed="T"/>嚩野摩賀迦嚕抳迦野怛儞野他唵左訖囉嚩底進跢末抳<lb
  n="0218b06" ed="T"/>摩訶跛納冥嚕嚕底瑟吒入嚩囉<lb
  n="0218b07" ed="T"/>阿訖羅灑野吽泮吒娑嚩賀<lb
  n="0218b09" ed="T"/></ab>
-<ab type="prose">誦此真言。於七日中滿三十萬遍。聖者即現<lb
+<ab type='prose'>誦此真言。於七日中滿三十萬遍。聖者即現<lb
  n="0218b10" ed="T"/>持誦人前。隨心所求皆得成就。<lb
  n="0218b11" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若常持念　　每日三時　　時別念誦　　<lb
  n="0218b12" ed="T"/>一千八遍　　或百八遍　　如是數滿　　<lb
  n="0218b13" ed="T"/>三十萬遍　　即成悉地　　時別皆作　　<lb
  n="0218b14" ed="T"/>迎送之事　　付囑等法　　
 </ab><lb
- n="0218b15" ed="T"/><ab type="prose">大心密言曰。</ab>
-<ab type="dharani">唵嚩囉曩娜跛納冥進<lb
+ n="0218b15" ed="T"/><ab type='prose'>大心密言曰。</ab>
+<ab type='dharani'>唵嚩囉曩娜跛納冥進<lb
  n="0218b16" ed="T"/>跢末尼摩賀入嚩囉吽泮吒娑嚩<lb
  n="0218b17" ed="T"/>賀</ab></div><lb
- n="0218b18" ed="T"/><div type="pin" level="2"><head>小心密言品第四</head><lb
- n="0218b19" ed="T"/><ab type="verse">
+ n="0218b18" ed="T"/><div type='pin' level='2'><head>小心密言品第四</head><lb
+ n="0218b19" ed="T"/><ab type='verse'>
 復說最勝小心王　　能成一切諸悉地　　<lb
  n="0218b20" ed="T"/>三業齊用結妙印　　誦祕真言而付囑　　<lb
  n="0218b21" ed="T"/>又於想中除結界　　次奉遏伽灑四方　　<lb
  n="0218b22" ed="T"/>後責已過深慚愧　　引大聖者還本宮　　<lb
  n="0218b23" ed="T"/>安置尊者彼殿已　　辭別自念還本方　　
 </ab><lb
- n="0218b24" ed="T"/><ab type="verse">
+ n="0218b24" ed="T"/><ab type='verse'>
 又復行者　　每持誦已　　須作付囑　　<lb
  n="0218b25" ed="T"/>結此密印　　及誦真言　　付囑聖者　　<lb
  n="0218b26" ed="T"/>作如是語　　所有遍數　　及持功夫　　<lb
@@ -201,15 +201,15 @@
  n="0218c07" ed="T"/>安置殿中　　聖者坐已　　自須辭去　　<lb
  n="0218c08" ed="T"/>却還本方　　
 </ab><lb
- n="0218c09" ed="T"/><ab type="prose">小心密言曰。</ab>
-<ab type="dharani">唵嚩囉娜跛納冥吽<lb
+ n="0218c09" ed="T"/><ab type='prose'>小心密言曰。</ab>
+<ab type='dharani'>唵嚩囉娜跛納冥吽<lb
  n="0218c10" ed="T"/></ab>
-<ab type="prose">此中密印相貌我今說之。初作大印用種種<lb
+<ab type='prose'>此中密印相貌我今說之。初作大印用種種<lb
  n="0218c11" ed="T"/>塗香塗於手臂。然後結印頂戴當心合掌。二<lb
  n="0218c12" ed="T"/>小指及無名指。鉤在掌中。其二頭指押中指<lb
  n="0218c13" ed="T"/>背第二節上。二大指並竪。<lb
  n="0218c14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 此是大心　　真言密印　　要須共用　　<lb
  n="0218c15" ed="T"/>所作加持　　其祕密言　　各誦七遍　　<lb
  n="0218c16" ed="T"/>各印印之　　或擲或止　　要當想成　　<lb
@@ -219,7 +219,7 @@
  n="0218c20" ed="T"/>不久即成　　一切種智　　
 </ab><lb
  n="0218c21" ed="T"/><head>第二根本真言印</head><lb
- n="0218c22" ed="T"/><ab type="prose">以二手腕相著。當在胸前。其十指並散。二小<lb
+ n="0218c22" ed="T"/><ab type='prose'>以二手腕相著。當在胸前。其十指並散。二小<lb
  n="0218c23" ed="T"/>指及二大指並竪猶如蓮花形。亦依前法印<lb
  n="0218c24" ed="T"/>之止之。惟有迎請母指來去。<lb
  n="0218c25" ed="T"/><head>第三小心真言印</head><lb
@@ -230,8 +230,8 @@
  n="0219a01" ed="T"/>行者不得錯傳如護眼目。若能如是。一切聖<lb
  n="0219a02" ed="T"/>者皆大歡喜憶念此人。一切善神日夜常護<lb
  n="0219a03" ed="T"/>不離左右。</ab></div><lb
- n="0219a04" ed="T"/><div type="pin" level="2"><head>成就世間出世間除災護摩念誦品第五</head><lb
- n="0219a05" ed="T"/><ab type="verse">
+ n="0219a04" ed="T"/><div type='pin' level='2'><head>成就世間出世間除災護摩念誦品第五</head><lb
+ n="0219a05" ed="T"/><ab type='verse'>
 我今順於蓮花部　　略說如意摩尼輪　　<lb
  n="0219a06" ed="T"/>能勝諸部最祕密　　成就世法出世法　　<lb
  n="0219a07" ed="T"/>念誦都有四種相　　行者諦聽我說之　　<lb
@@ -252,8 +252,8 @@
  n="0219a22" ed="T"/>或想此光入我身　　一切罪障皆滅盡　　<lb
  n="0219a23" ed="T"/>罪滅福生以加持　　復勤念誦便成就　　
 </ab></div><lb
- n="0219a24" ed="T"/><div type="pin" level="2"><head>增益福德品第六</head><lb
- n="0219a25" ed="T"/><ab type="verse">
+ n="0219a24" ed="T"/><div type='pin' level='2'><head>增益福德品第六</head><lb
+ n="0219a25" ed="T"/><ab type='verse'>
 我今略說福生法　　大慈悲故順有情　　<lb
  n="0219a26" ed="T"/>菩薩分身遍一切　　隨彼眾生所樂心　　<lb
  n="0219a27" ed="T"/>又復安立諸珍藏　　種種法門各不同　　<lb
@@ -294,8 +294,8 @@
  n="0219c04" ed="T"/>雄黃等藥用塗之　　我今說此增益訖　　<lb
  n="0219c05" ed="T"/>行者努力守護之　　
 </ab></div><lb
- n="0219c06" ed="T"/><div type="pin" level="2"><head>隨心憶念品第七</head><lb
- n="0219c07" ed="T"/><ab type="verse">
+ n="0219c06" ed="T"/><div type='pin' level='2'><head>隨心憶念品第七</head><lb
+ n="0219c07" ed="T"/><ab type='verse'>
 我今復說隨順事　　人與非人及畜生　　<lb
  n="0219c08" ed="T"/>又取鹽和大麥麫　　所求隨心作其形　　<lb
  n="0219c09" ed="T"/>男左女右從脚興　　須用賓鐵刀細截　　<lb
@@ -313,8 +313,8 @@
  n="0219c21" ed="T"/>隨心念誦我略說　　智者應須諦思惟　　<lb
  n="0219c22" ed="T"/>一切部中總攝盡　　祕密最要蓮華心　　
 </ab></div><lb
- n="0219c23" ed="T"/><div type="pin" level="2"><head>阿毘遮嚕迦品第八</head><lb
- n="0219c24" ed="T"/><ab type="verse">
+ n="0219c23" ed="T"/><div type='pin' level='2'><head>阿毘遮嚕迦品第八</head><lb
+ n="0219c24" ed="T"/><ab type='verse'>
 我今稽首彼大聖　　為現種種方便門　　<lb
  n="0219c25" ed="T"/>護佛法故現忿怒　　降伏破滅聖法人　　<lb
  n="0219c26" ed="T"/>此中火爐須三角　　用燒雌木兼濕薪　　<lb
@@ -339,5 +339,5 @@
  n="0220a16" ed="T"/>今已略陳此少耳　　行者精心勤修之　　
 </ab><lb
  n="0220a17" ed="T"/>
-<ab type="juan" subtype="close">都表如意輪儀軌</ab></div></div>
+<ab type='juan' subtype='close'>都表如意輪儀軌</ab></div></div>
 </body></text></TEI>

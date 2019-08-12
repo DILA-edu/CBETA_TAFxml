@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0563</idno>
                 </bibl>
@@ -44,16 +44,16 @@
  n="0914b10" ed="T"/><lb
  n="0914b11" ed="T"/><lb
  n="0914b12" ed="T"/>
-<ab type="juan" subtype="open">佛說腹中女聽經</ab><lb
+<ab type='juan' subtype='open'>佛說腹中女聽經</ab><lb
  n="0914b13" ed="T"/><lb
  n="0914b14" ed="T"/><byline>北涼天竺三藏曇無讖譯</byline><lb
- n="0914b15" ed="T"/><div type="jing" level="1"><ab type="prose">佛在羅閱祇，與諸菩薩、比丘僧、比丘尼、優婆<lb
+ n="0914b15" ed="T"/><div type='jing' level='1'><ab type='prose'>佛在羅閱祇，與諸菩薩、比丘僧、比丘尼、優婆<lb
  n="0914b16" ed="T"/>塞、優婆夷，及諸天人民無央數共會，聽佛說<lb
  n="0914b17" ed="T"/>經。時，會中有迦羅婦懷妊在座，腹中子叉手<lb
  n="0914b18" ed="T"/>聽經，佛欲使眾會見之，便現大光明，照迦<lb
  n="0914b19" ed="T"/>羅婦。座中眾人，皆見腹中女叉手聽經，如<lb
  n="0914b20" ed="T"/>照鏡無有異。佛持八種聲，問腹中女言：「汝<lb
- n="0914b21" ed="T"/>叉手聽經，何以故爾？」女用佛威神，即答佛<lb
+ n="0914b21" ed="T"/>叉手聽經，以何故爾？」女用佛威神，即答佛<lb
  n="0914b22" ed="T"/>言：「以世間人皆行十惡，欲令行十善，是故<lb
  n="0914b23" ed="T"/>叉手聽經；又以世間人貪婬、瞋恚、愚癡、生死<lb
  n="0914b24" ed="T"/>不絕，是故叉手聽經；復用世間人不孝順父<lb
@@ -71,7 +71,7 @@
  n="0914c07" ed="T"/>利弗白佛言：「此女為從何國來？當送衣也。」<lb
  n="0914c08" ed="T"/>佛言：「此女從東南方佛剎來，其國名清淨，<lb
  n="0914c09" ed="T"/>去此十萬佛剎，女從本剎來欲見佛，自當有<lb
- n="0914c10" ed="T"/>持衣來者。」本國衣便自然在虛空中來，蕭肅<lb
+ n="0914c10" ed="T"/>持衣來者。」本國衣便自然在虛空中來，肅肅<lb
  n="0914c11" ed="T"/>有聲，女見衣來便著之，當得五通，又女本<lb
  n="0914c12" ed="T"/>國人盡得五通。女得衣著訖，便從蓮華上，<lb
  n="0914c13" ed="T"/>下行至佛前，女一舉足，地為六反震動，便<lb
@@ -118,5 +118,5 @@
  n="0915a25" ed="T"/>數人皆發無上正真道意。佛說經竟，皆大<lb
  n="0915a26" ed="T"/>歡喜。</ab></div><lb
  n="0915a27" ed="T"/>
-<ab type="juan" subtype="close">佛說腹中女聽經</ab>
+<ab type='juan' subtype='close'>佛說腹中女聽經</ab>
 </body></text></TEI>

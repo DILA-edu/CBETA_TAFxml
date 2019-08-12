@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0081</idno>
                 </bibl>
@@ -42,14 +42,14 @@
         <body><lb
  n="0895b22" ed="T"/><lb
  n="0895b23" ed="T"/><lb
- n="0895b24" ed="T"/><div type="jing" level="1"><lb
+ n="0895b24" ed="T"/><div type='jing' level='1'><lb
  n="0895b25" ed="T"/>
-<ab type="juan" subtype="open">分別善惡報應經卷上</ab><lb
+<ab type='juan' subtype='open'>分別善惡報應經卷上</ab><lb
  n="0895b26" ed="T"/><lb
  n="0895b27" ed="T"/><byline>西天中印度惹爛駄囉國密林寺<lb
  n="0895b28" ed="T"/>三藏明教大師賜紫沙門臣天息<lb
  n="0895b29" ed="T"/>災奉　詔譯</byline><pb n="0895c" ed="T" id="T01.0081.0895c"/><lb
- n="0895c01" ed="T"/><ab type="prose">如是我聞：一時，世尊在舍衛國祇樹給孤獨<lb
+ n="0895c01" ed="T"/><ab type='prose'>如是我聞：一時，世尊在舍衛國祇樹給孤獨<lb
  n="0895c02" ed="T"/>園。爾時，世尊食時著衣持鉢，入舍衛城次第<lb
  n="0895c03" ed="T"/>乞食，至兜儞野子輸迦長者舍，在門外立。是<lb
  n="0895c04" ed="T"/>時，輸迦長者家有一犬，名曰商佉，常在門首。<lb
@@ -74,7 +74,7 @@
  n="0895c23" ed="T"/>我心生輕謗，一切眾生亦復如是。」<lb
  n="0895c24" ed="T"/>爾時世尊告諸比丘，而說頌曰：<lb
  n="0895c25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「於佛起惡心，　　毀謗生輕慢，　　<lb
  n="0895c26" ed="T"/>入大地獄中，　　受苦無窮盡。　　<lb
  n="0895c27" ed="T"/>有諸數取趣，　　於師及比丘，　　<lb
@@ -82,7 +82,7 @@
  n="0895c29" ed="T"/>若於如來處，　　起大瞋恨心，　　<pb n="0896a" ed="T" id="T01.0081.0896a"/><lb
  n="0896a01" ed="T"/>皆墮惡道中，　　輪迴恒受苦。」　　
 </ab><lb
- n="0896a02" ed="T"/><ab type="prose">是時兜儞野子來詣佛所，頂禮佛足，於世尊<lb
+ n="0896a02" ed="T"/><ab type='prose'>是時兜儞野子來詣佛所，頂禮佛足，於世尊<lb
  n="0896a03" ed="T"/>前種種語言，柔和善順稱歎如來。說是語已，<lb
  n="0896a04" ed="T"/>在一面立而白佛言：「世尊！以何因緣到於我<lb
  n="0896a05" ed="T"/>舍？」佛告輸迦長者言：「食時已至，吾乃著衣持<lb
@@ -122,13 +122,13 @@
  n="0896b10" ed="T"/>因於我所歡喜踊躍，發誠諦心獲報如是。」爾<lb
  n="0896b11" ed="T"/>時世尊告諸比丘，而說頌曰：<lb
  n="0896b12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「此一數取趣，　　發心見我喜，　　<lb
  n="0896b13" ed="T"/>命終往生天，　　如捨於重擔。　　<lb
  n="0896b14" ed="T"/>若於說法師，　　如來及比丘，　　<lb
  n="0896b15" ed="T"/>暫時心歡喜，　　獲果亦如是。」　　
 </ab><lb
- n="0896b16" ed="T"/><ab type="prose">爾時世尊說此偈已，於是輸迦長者往詣佛<lb
+ n="0896b16" ed="T"/><ab type='prose'>爾時世尊說此偈已，於是輸迦長者往詣佛<lb
  n="0896b17" ed="T"/>所，頭面禮足歡喜無量，種種稱讚歎未曾有。<lb
  n="0896b18" ed="T"/>說是語已，在一面立。於是世尊告輸迦言：「此<lb
  n="0896b19" ed="T"/>商佉犬，實是汝父。」長者白言：「唯然，世尊！如佛<lb
@@ -336,16 +336,16 @@
  n="0898c18" ed="T"/>終已後生在人間，而得身心悉皆快樂，不愛<lb
  n="0898c19" ed="T"/>修福。<lb
  n="0898c20" ed="T"/>
-</ab><ab type="juan" subtype="close">分別善惡報應經卷上</ab><lb
+</ab><ab type='juan' subtype='close'>分別善惡報應經卷上</ab><lb
  n="0898c21" ed="T"/><lb
  n="0898c22" ed="T"/><lb
  n="0898c23" ed="T"/>
-<ab type="juan" subtype="open">分別善惡報應經卷下</ab><lb
+<ab type='juan' subtype='open'>分別善惡報應經卷下</ab><lb
  n="0898c24" ed="T"/><lb
  n="0898c25" ed="T"/><byline>西天中印度惹爛駄囉國密林寺<lb
  n="0898c26" ed="T"/>三藏明教大師賜紫沙門臣天息<lb
  n="0898c27" ed="T"/>災奉　詔譯</byline><lb
- n="0898c28" ed="T"/><ab type="prose">「復云何業，有補特伽羅，若身及心俱不快樂<lb
+ n="0898c28" ed="T"/><ab type='prose'>「復云何業，有補特伽羅，若身及心俱不快樂<lb
  n="0898c29" ed="T"/>又不修福？此一有情，於過去世損惱眾生令<pb n="0899a" ed="T" id="T01.0081.0899a"/><lb
  n="0899a01" ed="T"/>他怖畏，又無信心不發善願，故此補特伽羅，<lb
  n="0899a02" ed="T"/>命終之後生在人中身心不安，又多愚闇而<lb
@@ -569,5 +569,5 @@
  n="0901b17" ed="T"/>諸苾芻、無量百千人非人等，歡喜踊躍，禮佛<lb
  n="0901b18" ed="T"/>而退。<lb
  n="0901b19" ed="T"/>
-</ab><ab type="juan" subtype="close">分別善惡報應經卷下</ab></div>
+</ab><ab type='juan' subtype='close'>分別善惡報應經卷下</ab></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0019</idno>
                 </bibl>
@@ -42,13 +42,13 @@
         <body><lb
  n="0258a07" ed="T"/><lb
  n="0258a08" ed="T"/><lb
- n="0258a09" ed="T"/><div type="jing" level="1"><lb
+ n="0258a09" ed="T"/><div type='jing' level='1'><lb
  n="0258a10" ed="T"/>
-<ab type="juan" subtype="open">佛說大三摩惹經</ab><lb
+<ab type='juan' subtype='open'>佛說大三摩惹經</ab><lb
  n="0258a11" ed="T"/><lb
  n="0258a12" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚卿<lb
  n="0258a13" ed="T"/>傳教大師臣法天奉　詔譯</byline><lb
- n="0258a14" ed="T"/><ab type="prose">如是我聞：一時，佛在迦毘羅林，與大苾芻<lb
+ n="0258a14" ed="T"/><ab type='prose'>如是我聞：一時，佛在迦毘羅林，與大苾芻<lb
  n="0258a15" ed="T"/>眾，皆阿羅漢——諸漏已盡，所作已辦，逮得己<lb
  n="0258a16" ed="T"/>利，盡諸有結，心得自在——如是五千五百人<lb
  n="0258a17" ed="T"/>俱。<lb
@@ -58,29 +58,29 @@
  n="0258a21" ed="T"/>梵王各以伽陀而頌佛德。第一梵王，而說頌<lb
  n="0258a22" ed="T"/>曰：<lb
  n="0258a23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「此大三摩惹，　　宣揚妙法音，　　<lb
  n="0258a24" ed="T"/>我佛無能勝，　　天人普來集。」　　
 </ab><lb
- n="0258a25" ed="T"/><ab type="prose">第二梵王，而說頌曰：<lb
+ n="0258a25" ed="T"/><ab type='prose'>第二梵王，而說頌曰：<lb
  n="0258a26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「歷大僧祇劫，　　修行深信心，　　<lb
  n="0258a27" ed="T"/>守護眼等根，　　不住諸塵境。」　　
 </ab><lb
- n="0258a28" ed="T"/><ab type="prose">第三梵王，而說頌曰：<lb
+ n="0258a28" ed="T"/><ab type='prose'>第三梵王，而說頌曰：<lb
  n="0258a29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「戒定慧真實，　　清淨無垢染，　　<pb n="0258b" ed="T" id="T01.0019.0258b"/><lb
  n="0258b01" ed="T"/>如帝釋金剛，　　堅固不可壞。」　　
 </ab><lb
- n="0258b02" ed="T"/><ab type="prose">第四梵王，而說頌曰：<lb
+ n="0258b02" ed="T"/><ab type='prose'>第四梵王，而說頌曰：<lb
  n="0258b03" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「若人歸依佛，　　永不墮惡道，　　<lb
  n="0258b04" ed="T"/>彼人命終時，　　速得生天上。」　　
 </ab><lb
- n="0258b05" ed="T"/><ab type="prose">爾時，世尊以淨天眼，普觀大會，人天之眾無<lb
+ n="0258b05" ed="T"/><ab type='prose'>爾時，世尊以淨天眼，普觀大會，人天之眾無<lb
  n="0258b06" ed="T"/>量無數，告苾芻眾言：「過去如來、應、正等覺，<lb
  n="0258b07" ed="T"/>集會人天，而為說法，亦復如是。我於今日，<lb
  n="0258b08" ed="T"/>普集人天，欲為說法。汝等受持，若人勇<lb
@@ -193,5 +193,5 @@
  n="0259b28" ed="T"/>已，歸依息惡，與諸苾芻，同住聲聞乘。是時，<lb
  n="0259b29" ed="T"/>眾會見佛降魔，踊躍歡喜，信受奉行。<pb n="0259c" ed="T" id="T01.0019.0259c"/><lb
  n="0259c01" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說大三摩惹經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說大三摩惹經</ab></div>
 </body></text></TEI>

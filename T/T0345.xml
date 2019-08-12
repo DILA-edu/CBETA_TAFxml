@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T12</biblScope>
                     <idno type="Taisho">T12n0345</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0156a11" ed="T"/><lb
  n="0156a12" ed="T"/><lb
  n="0156a13" ed="T"/>
-<ab type="juan" subtype="open">慧上菩薩問大善權經卷上</ab><lb
+<ab type='juan' subtype='open'>慧上菩薩問大善權經卷上</ab><lb
  n="0156a14" ed="T"/><lb
  n="0156a15" ed="T"/><byline>西晉月氏國三藏竺法護譯</byline><lb
- n="0156a16" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時，佛遊舍衛城祇樹給孤獨園，與<lb
+ n="0156a16" ed="T"/><div type='jing' level='1'><ab type='prose'>聞如是：一時，佛遊舍衛城祇樹給孤獨園，與<lb
  n="0156a17" ed="T"/>大比丘眾俱，比丘八千，諸大弟子學戒具足，<lb
  n="0156a18" ed="T"/>菩薩萬二千，一切聖通無所不達，已得總持<lb
  n="0156a19" ed="T"/>辯才無量不起法忍，其德無限，徹覩諸根，應<lb
@@ -161,20 +161,20 @@
  n="0157b11" ed="T"/>地心等無持，執手同處已如其欲。則頌<lb
  n="0157b12" ed="T"/>曰：<lb
  n="0157b13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『愚哉悖於欲，　　諸佛所不歎，　　<lb
  n="0157b14" ed="T"/>能蠲恩愛者，　　得佛人中上。』　　
 </ab><lb
- n="0157b15" ed="T"/><ab type="prose">「時女喜踊，即從坐起，自投于地，歸命自責，伏<lb
+ n="0157b15" ed="T"/><ab type='prose'>「時女喜踊，即從坐起，自投于地，歸命自責，伏<lb
  n="0157b16" ed="T"/>罪悔過，為重勝王而歎頌曰：<lb
  n="0157b17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『吾已離諸欲，　　世尊之所歎，　　<lb
  n="0157b18" ed="T"/>節止恩愛著，　　願佛無上道，　　<lb
  n="0157b19" ed="T"/>前心之所想，　　今首自悔過，　　<lb
  n="0157b20" ed="T"/>傷愍諸群生，　　究竟發道意。』　　
 </ab><lb
- n="0157b21" ed="T"/><ab type="prose">「爾時重勝王菩薩，隨欲化女，使發無上正真<lb
+ n="0157b21" ed="T"/><ab type='prose'>「爾時重勝王菩薩，隨欲化女，使發無上正真<lb
  n="0157b22" ed="T"/>道意，即從坐起而出其室。阿難觀斯心持清<lb
  n="0157b23" ed="T"/>淨，今吾授彼女決，轉女身後九十九劫當得<lb
  n="0157b24" ed="T"/>作佛，號離無數百千所受如來、至真、等正覺、<lb
@@ -279,11 +279,11 @@
  n="0158c07" ed="T"/>皆以花香而供上之，前稽首禮繞佛三匝住，<lb
  n="0158c08" ed="T"/>各叉手而讚頌曰：<lb
  n="0158c09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「諸佛無思念，　　樂最不可量，　　<lb
  n="0158c10" ed="T"/>如來無心意，　　則獲尊上道。　　
 </ab><lb
- n="0158c11" ed="T"/><ab type="verse">
+ n="0158c11" ed="T"/><ab type='verse'>
 「我在舍衛為女人，　　其大名德不可議，　　<lb
  n="0158c12" ed="T"/>號曰執祥長者息，　　端正姝好寶嚴身，　　<lb
  n="0158c13" ed="T"/>以為父母所珍重，　　有正覺子無所著，　　<lb
@@ -343,7 +343,7 @@
  n="0159b09" ed="T"/>則為藥王大名德。　　何因菩薩當有穢？　　<lb
  n="0159b10" ed="T"/>因緣塵勞施安隱，　　何況供養奉事者。」　　
 </ab><lb
- n="0159b11" ed="T"/><ab type="prose">爾時賢者阿難白佛言：「猶如有人近須彌山，<lb
+ n="0159b11" ed="T"/><ab type='prose'>爾時賢者阿難白佛言：「猶如有人近須彌山，<lb
  n="0159b12" ed="T"/>皆隨山光炤為金色。設懷歡喜欲義心奉<lb
  n="0159b13" ed="T"/>道法心，得近菩薩皆獲一類，趣諸通慧心性<lb
  n="0159b14" ed="T"/>自然，我從今始奉侍菩薩，如須彌山，猶如<lb
@@ -515,14 +515,14 @@
  n="0161b06" ed="T"/>示現悉學無所不博，欲令庶人不自憍慢，是<lb
  n="0161b07" ed="T"/>為菩薩善權方便。<lb
  n="0161b08" ed="T"/>
-</ab><ab type="juan" subtype="close">慧上菩薩問大善權經卷上</ab><lb
+</ab><ab type='juan' subtype='close'>慧上菩薩問大善權經卷上</ab><lb
  n="0161b09" ed="T"/><lb
  n="0161b10" ed="T"/><lb
  n="0161b11" ed="T"/>
-<ab type="juan" subtype="open">慧上菩薩問大善權經卷下</ab><lb
+<ab type='juan' subtype='open'>慧上菩薩問大善權經卷下</ab><lb
  n="0161b12" ed="T"/><lb
  n="0161b13" ed="T"/><byline>西晉月氏國三藏竺法護譯</byline><lb
- n="0161b14" ed="T"/><ab type="prose">「何故菩薩而有室娶？菩薩無欲不尚配匹，其<lb
+ n="0161b14" ed="T"/><ab type='prose'>「何故菩薩而有室娶？菩薩無欲不尚配匹，其<lb
  n="0161b15" ed="T"/>於離欲則為正士，所以示現眷屬妻息，傍人<lb
  n="0161b16" ed="T"/>懷疑：『菩薩非男，斯黃門耳？』欲除沈吟，故納瞿<lb
  n="0161b17" ed="T"/>夷釋氏之女，緣此現生子男羅云。假論羅云<lb
@@ -707,11 +707,11 @@
  n="0163b22" ed="T"/>世尊。大梵勸佛轉法輪，時六百八十萬梵天<lb
  n="0163b23" ed="T"/>皆發無上正真道意，悉歎頌曰：<lb
  n="0163b24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『佛尊無有極，　　最勝不可及，　　<lb
  n="0163b25" ed="T"/>行善權方便，　　是亦為如來。』」　　
 </ab><lb
- n="0163b26" ed="T"/><ab type="prose">佛告慧上菩薩：「如來所現餘殃有十，是亦世<lb
+ n="0163b26" ed="T"/><ab type='prose'>佛告慧上菩薩：「如來所現餘殃有十，是亦世<lb
  n="0163b27" ed="T"/>尊善權方便。當了至誠，欲使如來有毛髮瑕，<lb
  n="0163b28" ed="T"/>不具殖德本，欲令有短，行不具足，逮成正覺<lb
  n="0163b29" ed="T"/>坐佛樹者，此亦不然。所以者何？暢清白法無<pb n="0163c" id="T12.0345.0163c" ed="T"/><lb
@@ -918,5 +918,5 @@
  n="0165c27" ed="T"/>說如是，慧上菩薩及比丘眾，菩薩大士，諸天、<lb
  n="0165c28" ed="T"/>龍神、阿須倫、世人，莫不歡喜。</ab></div><lb
  n="0165c29" ed="T"/>
-<ab type="juan" subtype="close">慧上菩薩問大善權經卷下</ab>
+<ab type='juan' subtype='close'>慧上菩薩問大善權經卷下</ab>
 </body></text></TEI>

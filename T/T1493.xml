@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T24</biblScope>
                     <idno type="Taisho">T24n1493</idno>
                 </bibl>
@@ -44,11 +44,11 @@
  n="1091b13" ed="T"/><lb
  n="1091b14" ed="T"/><lb
  n="1091b15" ed="T"/>
-<ab type="juan" subtype="open">大乘三聚懺悔經</ab><lb
+<ab type='juan' subtype='open'>大乘三聚懺悔經</ab><lb
  n="1091b16" ed="T"/><lb
  n="1091b17" ed="T"/><byline>隋開皇年闍那崛多共<lb
  n="1091b18" ed="T"/>笈多等於大興善寺譯</byline><lb
- n="1091b19" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時婆伽婆在毘舍梨大光明林，<lb
+ n="1091b19" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時婆伽婆在毘舍梨大光明林，<lb
  n="1091b20" ed="T"/>與大比丘眾千餘人俱，復有無量諸菩薩等。<lb
  n="1091b21" ed="T"/>爾時世尊與於無量百千諸眾前後圍遶而為<lb
  n="1091b22" ed="T"/>說法。<lb
@@ -389,5 +389,5 @@
  n="1095b09" ed="T"/>利弗，及諸天、龍、乾闥婆、阿修羅、人非人等，聞<lb
  n="1095b10" ed="T"/>佛所說，歡喜奉行。</ab></div><lb
  n="1095b11" ed="T"/>
-<ab type="juan" subtype="close">大乘三聚懺悔經</ab>
+<ab type='juan' subtype='close'>大乘三聚懺悔經</ab>
 </body></text></TEI>

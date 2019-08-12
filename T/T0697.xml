@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T16</biblScope>
                     <idno type="Taisho">T16n0697</idno>
                 </bibl>
@@ -45,10 +45,10 @@
  n="0798c04" ed="T"/><lb
  n="0798c05" ed="T"/><lb
  n="0798c06" ed="T"/>
-<ab type="juan" subtype="open">佛說浴像功德經</ab><lb
+<ab type='juan' subtype='open'>佛說浴像功德經</ab><lb
  n="0798c07" ed="T"/><lb
  n="0798c08" ed="T"/><byline>大唐天竺三藏寶思惟譯</byline><lb
- n="0798c09" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時，薄伽梵在王舍城鷲峯山中，<lb
+ n="0798c09" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時，薄伽梵在王舍城鷲峯山中，<lb
  n="0798c10" ed="T"/>與大苾芻眾及與無量諸大菩薩摩訶薩俱。<lb
  n="0798c11" ed="T"/>爾時，會中有一菩薩，名清淨慧，作是思惟：「以<lb
  n="0798c12" ed="T"/>何因緣諸佛如來得清淨身？」又復念言：「若佛<lb
@@ -85,7 +85,7 @@
  n="0799a14" ed="T"/>諸佛如來恒加覆護。十五者、速得成就五分<lb
  n="0799a15" ed="T"/>法身。」爾時世尊而說頌曰：<lb
  n="0799a16" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「若以清淨心，　　於如來滅後，　　<lb
  n="0799a17" ed="T"/>供養舍利者；　　或造於塔廟，　　<lb
  n="0799a18" ed="T"/>及如來形像；　　於彼塔像前，　　<lb
@@ -96,7 +96,7 @@
  n="0799a23" ed="T"/>無量難思議，　　智慧及神通，　　<lb
  n="0799a24" ed="T"/>諸善巧方便，　　悉皆到彼岸。」　　
 </ab><lb
- n="0799a25" ed="T"/><ab type="prose">爾時，清淨慧菩薩聞佛世尊說是頌已，而白<lb
+ n="0799a25" ed="T"/><ab type='prose'>爾時，清淨慧菩薩聞佛世尊說是頌已，而白<lb
  n="0799a26" ed="T"/>佛言：「世尊！若佛在世及滅度後未來世中，<lb
  n="0799a27" ed="T"/>諸眾生等，云何浴像？唯願如來為眾生故，<lb
  n="0799a28" ed="T"/>開示演說。」佛言：「清淨慧！如佛在世，諸眾生<lb
@@ -114,22 +114,22 @@
  n="0799b11" ed="T"/>燒種種香以為供養。「初於像上下水之時，應<lb
  n="0799b12" ed="T"/>誦以偈：<lb
  n="0799b13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『我今灌沐諸如來，　　淨智功德莊嚴聚；　　<lb
  n="0799b14" ed="T"/>五濁眾生令離垢，　　願證如來淨法身。』　　
 </ab><lb
- n="0799b15" ed="T"/><ab type="prose">「燒香之時當誦斯偈：<lb
+ n="0799b15" ed="T"/><ab type='prose'>「燒香之時當誦斯偈：<lb
  n="0799b16" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『戒定慧解知見香，　　遍十方剎常芬馥；　　<lb
  n="0799b17" ed="T"/>願此香烟亦如是，　　迴作自他五種身。』」　　
 </ab><lb
- n="0799b18" ed="T"/><ab type="prose">爾時世尊說是法已，眾中有無量菩薩摩訶<lb
+ n="0799b18" ed="T"/><ab type='prose'>爾時世尊說是法已，眾中有無量菩薩摩訶<lb
  n="0799b19" ed="T"/>薩獲得清淨無垢三昧，即從座而起；無量<lb
  n="0799b20" ed="T"/>天人得不退轉無上菩提。爾時阿難白佛言：<lb
  n="0799b21" ed="T"/>「世尊！當何名此經？我等云何奉持？」佛言：「此<lb
  n="0799b22" ed="T"/>經名為『洗浴諸佛得身清淨』，應如是持。」說是<lb
  n="0799b23" ed="T"/>經已，一切眾會皆大歡喜，信受奉行。</ab></div><lb
  n="0799b24" ed="T"/>
-<ab type="juan" subtype="close">佛說浴像功德經</ab>
+<ab type='juan' subtype='close'>佛說浴像功德經</ab>
 </body></text></TEI>

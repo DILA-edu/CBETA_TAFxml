@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T17</biblScope>
                     <idno type="Taisho">T17n0743</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0550a16" ed="T"/><lb
  n="0550a17" ed="T"/><lb
  n="0550a18" ed="T"/>
-<ab type="juan" subtype="open">佛說忠心經</ab><lb
+<ab type='juan' subtype='open'>佛說忠心經</ab><lb
  n="0550a19" ed="T"/><lb
  n="0550a20" ed="T"/><byline>東晉天竺三藏竺曇無蘭譯</byline><lb
- n="0550a21" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時佛在舍衛國祇樹給孤獨園。時，<lb
+ n="0550a21" ed="T"/><div type='jing' level='1'><ab type='prose'>聞如是：一時佛在舍衛國祇樹給孤獨園。時，<lb
  n="0550a22" ed="T"/>諸菩薩、四輩弟子、天龍鬼神、帝王臣民，日<lb
  n="0550a23" ed="T"/>會聽經。佛右面比丘，名曰目連，神通妙達、智<lb
  n="0550a24" ed="T"/>如虛空，隨時變化、權智並行，普還濟眾數<lb
@@ -73,7 +73,7 @@
  n="0550b15" ed="T"/>道力，欲令山移，山入三下，遂成平地。梵志<lb
  n="0550b16" ed="T"/>顧相謂曰：「夫有明達、道德深者，即吾等師。」咸<lb
  n="0550b17" ed="T"/>興整服，稽首敬白：「願為弟子，示吾極聖。」目<lb
- n="0550b18" ed="T"/>連答曰：「汝等欲去瞑就明者，善！吾有尊師，<lb
+ n="0550b18" ed="T"/>連答曰：「汝等欲去暝就明者，善！吾有尊師，<lb
  n="0550b19" ed="T"/>號無上正真、天中之天，為一切智。汝等尋吾<lb
  n="0550b20" ed="T"/>往至佛所。」諸梵志曰：「佛之導化，寧殊於師<lb
  n="0550b21" ed="T"/>乎？」目連曰：「佛以須彌為芥子，吾以芥子為須<lb
@@ -140,7 +140,7 @@
  n="0551b03" ed="T"/>出囚。黠慧者常念賢者恩，比丘已得道者，<lb
  n="0551b04" ed="T"/>當念佛，如是念經，當如人念飲食。「諸比丘<lb
  n="0551b05" ed="T"/>當轉相承事，如弟事兄，中有癡者，當問黠<lb
- n="0551b06" ed="T"/>者，展轉相教；問黠者如瞑中有燈火，無得陰<lb
+ n="0551b06" ed="T"/>者，展轉相教；問黠者如暝中有燈火，無得陰<lb
  n="0551b07" ed="T"/>謀作惡、無得諍訟。見金銀當如見土，無得<lb
  n="0551b08" ed="T"/>妄證人入罪法，語言無得妄中傷人意。不<lb
  n="0551b09" ed="T"/>聞莫言聞、不見莫言見，行道當低頭視，<lb
@@ -158,7 +158,7 @@
  n="0551b21" ed="T"/>癡，譬如磨鏡。端自思惟，天下無堅固，皆<lb
  n="0551b22" ed="T"/>無有常。」<lb
  n="0551b23" ed="T"/>佛告諸比丘：「持心當如四方石，石在中庭，雨<lb
- n="0551b24" ed="T"/>墮不能壞、日炎亦不能消、風吹亦不能<lb
+ n="0551b24" ed="T"/>墮不能壞、日炙亦不能消、風吹亦不能<lb
  n="0551b25" ed="T"/>動，持心當如石。」佛言：「天下人心，如流水中<lb
  n="0551b26" ed="T"/>有草木，各自流行，不相顧望。前者亦不顧<lb
  n="0551b27" ed="T"/>後，後者亦不顧前，草木流行，各自如故。人心<lb
@@ -180,5 +180,5 @@
  n="0551c14" ed="T"/>竟，諸菩薩、四輩弟子、帝王人民、天龍鬼神，<lb
  n="0551c15" ed="T"/>無不歡喜，為佛作禮。</ab></div><lb
  n="0551c16" ed="T"/>
-<ab type="juan" subtype="close">佛說忠心經</ab>
+<ab type='juan' subtype='close'>佛說忠心經</ab>
 </body></text></TEI>

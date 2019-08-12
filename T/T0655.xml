@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T15</biblScope>
                     <idno type="Taisho">T15n0655</idno>
                 </bibl>
@@ -44,11 +44,11 @@
  n="0806c21" ed="T"/><lb
  n="0806c22" ed="T"/><lb
  n="0806c23" ed="T"/>
-<ab type="juan" subtype="open">佛說勝義空經</ab><lb
+<ab type='juan' subtype='open'>佛說勝義空經</ab><lb
  n="0806c24" ed="T"/><lb
  n="0806c25" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0806c26" ed="T"/>傳法大師賜紫沙門臣施護等奉　詔譯</byline><lb
- n="0806c27" ed="T"/><div type="jing" level="1"><ab type="prose">佛世尊一時在俱盧數國，與苾芻眾俱。<lb
+ n="0806c27" ed="T"/><div type='jing' level='1'><ab type='prose'>佛世尊一時在俱盧數國，與苾芻眾俱。<lb
  n="0806c28" ed="T"/>佛告諸苾芻言：「諸有法門，我如前說；復有正<lb
  n="0806c29" ed="T"/>法，名勝義空，汝等諦聽，極善作意，今為汝<pb n="0807a" ed="T" id="T15.0655.0807a"/><lb
  n="0807a01" ed="T"/>說。「諸苾芻！此中云何名勝義空？謂：眼生時<lb
@@ -71,5 +71,5 @@
  n="0807a18" ed="T"/>苦蘊滅。如是等所說，是為勝義空。「諸苾芻！諸<lb
  n="0807a19" ed="T"/>有法門，如前已說，今此正法，汝等當學。」</ab></div><lb
  n="0807a20" ed="T"/>
-<ab type="juan" subtype="close">佛說勝義空經</ab>
+<ab type='juan' subtype='close'>佛說勝義空經</ab>
 </body></text></TEI>

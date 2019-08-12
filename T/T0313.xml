@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T11</biblScope>
                     <idno type="Taisho">T11n0313</idno>
                 </bibl>
@@ -39,17 +39,17 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0751b20" ed="T"/><lb
  n="0751b21" ed="T"/><lb
- n="0751b22" ed="T"/><div type="pin" level="2"><lb
+ n="0751b22" ed="T"/><div type='pin' level='2'><lb
  n="0751b23" ed="T"/>
-<ab type="juan" subtype="open">阿閦佛國經卷上</ab><lb
+<ab type='juan' subtype='open'>阿閦佛國經卷上</ab><lb
  n="0751b24" ed="T"/><lb
  n="0751b25" ed="T"/><byline>後漢月支國三藏支婁迦讖譯</byline><lb
  n="0751b26" ed="T"/><head>發意受慧品第一</head><lb
- n="0751b27" ed="T"/><ab type="prose">聞如是：一時佛在羅閱祇耆闍崛山中，與大<lb
+ n="0751b27" ed="T"/><ab type='prose'>聞如是：一時佛在羅閱祇耆闍崛山中，與大<lb
  n="0751b28" ed="T"/>比丘眾比丘千二百五十人俱，皆阿羅漢也——<lb
  n="0751b29" ed="T"/>生死已斷，無復有結，悉壞牢獄，已得自在意、<pb n="0751c" ed="T" id="T11.0313.0751c"/><lb
  n="0751c01" ed="T"/>已善解智慧，為度諸天、龍王皆為之伏，所作<lb
@@ -350,8 +350,8 @@
  n="0755a06" ed="T"/>不生疲極、意亦不念疲極。舍利弗！阿閦如來<lb
  n="0755a07" ed="T"/>昔求菩薩道，聽說法時：『如是好法，令我佛剎<lb
  n="0755a08" ed="T"/>中諸菩薩摩訶薩好法如是。』」</ab></div><lb
- n="0755a09" ed="T"/><div type="pin" level="2"><head>阿閦佛剎善快品第二</head><lb
- n="0755a10" ed="T"/><ab type="prose">賢者舍利弗白佛言：「天中天！是阿閦如來、無<lb
+ n="0755a09" ed="T"/><div type='pin' level='2'><head>阿閦佛剎善快品第二</head><lb
+ n="0755a10" ed="T"/><ab type='prose'>賢者舍利弗白佛言：「天中天！是阿閦如來、無<lb
  n="0755a11" ed="T"/>所著、等正覺昔行德號時以成號阿閦如來。<lb
  n="0755a12" ed="T"/>甚善。天中天！願佛當復廣說其佛剎之善快。<lb
  n="0755a13" ed="T"/>所以者何？若有求菩薩道者，聞知彼佛剎之<lb
@@ -509,8 +509,8 @@
  n="0756c20" ed="T"/>他方異世界，彼亦自然生——以佛威神所致，<lb
  n="0756c21" ed="T"/>其三千大千世界以七寶金色蓮華而莊嚴<lb
  n="0756c22" ed="T"/>之。」</ab></div><lb
- n="0756c23" ed="T"/><div type="pin" level="2"><head>阿閦佛國經弟子學成品第三</head><lb
- n="0756c24" ed="T"/><ab type="prose">佛復語舍利弗：「阿閦如來說法時，於一一說<lb
+ n="0756c23" ed="T"/><div type='pin' level='2'><head>阿閦佛國經弟子學成品第三</head><lb
+ n="0756c24" ed="T"/><ab type='prose'>佛復語舍利弗：「阿閦如來說法時，於一一說<lb
  n="0756c25" ed="T"/>法之中，不可計無央數人隨律之行，至有作<lb
  n="0756c26" ed="T"/>阿羅漢道證者，如是比無央數諸弟子聚會<lb
  n="0756c27" ed="T"/>及復得八惟務禪者，阿閦如來佛剎諸弟子<lb
@@ -619,15 +619,15 @@
  n="0758a14" ed="T"/>行。」賢者舍利弗白佛言：「阿閦如來、無所著、等<lb
  n="0758a15" ed="T"/>正覺佛剎，諸弟子所行皆無極也。」<lb
  n="0758a16" ed="T"/>
-</ab><ab type="juan" subtype="close">阿閦佛國經卷上</ab></div><lb
+</ab><ab type='juan' subtype='close'>阿閦佛國經卷上</ab></div><lb
  n="0758a17" ed="T"/><lb
- n="0758a18" ed="T"/><div type="pin" level="2"><lb
+ n="0758a18" ed="T"/><div type='pin' level='2'><lb
  n="0758a19" ed="T"/>
-<ab type="juan" subtype="open">阿閦佛國經卷下</ab><lb
+<ab type='juan' subtype='open'>阿閦佛國經卷下</ab><lb
  n="0758a20" ed="T"/><lb
  n="0758a21" ed="T"/><byline>後漢月支國三藏支婁迦讖譯</byline><lb
  n="0758a22" ed="T"/><head>諸菩薩學成品第四</head><lb
- n="0758a23" ed="T"/><ab type="prose">爾時，賢者舍利弗心念言：「佛已說弟子所學<lb
+ n="0758a23" ed="T"/><ab type='prose'>爾時，賢者舍利弗心念言：「佛已說弟子所學<lb
  n="0758a24" ed="T"/>成，願佛當復說諸菩薩所學成。所以者何？皆<lb
  n="0758a25" ed="T"/>當學成是諸菩薩所照光明。」時佛即知賢者<lb
  n="0758a26" ed="T"/>舍利弗心所念，即告舍利弗：「其阿閦如來、無<lb
@@ -826,8 +826,8 @@
  n="0760b16" ed="T"/>屬天中天所說：是間菩薩摩訶薩受決，菩薩<lb
  n="0760b17" ed="T"/>生阿閦佛剎者是這等耳。天中天！以何故<lb
  n="0760b18" ed="T"/>等而等？」佛告舍利弗言：「用法等故而等。」</ab></div><lb
- n="0760b19" ed="T"/><div type="pin" level="2"><head>阿閦佛國經佛般泥洹品第五</head><lb
- n="0760b20" ed="T"/><ab type="prose">爾時，賢者舍利弗心念言：「佛已說阿閦佛昔<lb
+ n="0760b19" ed="T"/><div type='pin' level='2'><head>阿閦佛國經佛般泥洹品第五</head><lb
+ n="0760b20" ed="T"/><ab type='prose'>爾時，賢者舍利弗心念言：「佛已說阿閦佛昔<lb
  n="0760b21" ed="T"/>者行菩薩道時德號、復說佛剎之善快、亦復<lb
  n="0760b22" ed="T"/>說諸弟子及諸菩薩所學成願，佛當復說阿<lb
  n="0760b23" ed="T"/>閦佛摩訶般泥洹時有何感應。天中天！」於是，<lb
@@ -1138,5 +1138,5 @@
  n="0764a09" ed="T"/>之；若言經行寫，當經行寫之；若言住寫，當住<lb
  n="0764a10" ed="T"/>寫之；若言坐寫，當坐寫之。」<lb
  n="0764a11" ed="T"/>
-</ab><ab type="juan" subtype="close">阿閦佛國經卷下</ab></div></div>
+</ab><ab type='juan' subtype='close'>阿閦佛國經卷下</ab></div></div>
 </body></text></TEI>

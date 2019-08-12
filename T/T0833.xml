@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T17</biblScope>
                     <idno type="Taisho">T17n0833</idno>
                 </bibl>
@@ -39,12 +39,12 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0879b03" ed="T"/><lb
  n="0879b04" ed="T"/><lb
- n="0879b05" ed="T"/><div type="xu" level="2"><head>第一義法勝經翻譯之記</head><lb
- n="0879b06" ed="T"/><ab type="prose">夫愛法者必深善根。《涅槃經》云：「供佛二恒。」<lb
+ n="0879b05" ed="T"/><div type='xu' level='2'><head>第一義法勝經翻譯之記</head><lb
+ n="0879b06" ed="T"/><ab type='prose'>夫愛法者必深善根。《涅槃經》云：「供佛二恒。」<lb
  n="0879b07" ed="T"/>魏尚書令儀同高公，重法心成，生上財想，<lb
  n="0879b08" ed="T"/>博採梵文，廣崇翻譯。且《第一義法勝經》者，<lb
  n="0879b09" ed="T"/>諸法門中此其髓也。公意殷誠，感之題額。<lb
@@ -54,10 +54,10 @@
  n="0879b13" ed="T"/><lb
  n="0879b14" ed="T"/><lb
  n="0879b15" ed="T"/>
-<ab type="juan" subtype="open">第一義法勝經</ab><lb
+<ab type='juan' subtype='open'>第一義法勝經</ab><lb
  n="0879b16" ed="T"/><lb
  n="0879b17" ed="T"/><byline>元魏婆羅門瞿曇般若流支譯</byline><lb
- n="0879b18" ed="T"/><div type="jing" level="2"><ab type="prose">如是我聞：一時婆伽婆住伽耶城，成道未久，<lb
+ n="0879b18" ed="T"/><div type='jing' level='2'><ab type='prose'>如是我聞：一時婆伽婆住伽耶城，成道未久，<lb
  n="0879b19" ed="T"/>與勝中勝諸比丘俱，九十九億諸菩薩眾，復<lb
  n="0879b20" ed="T"/>有二十八億諸天，八萬六千比丘、比丘尼、優<lb
  n="0879b21" ed="T"/>婆塞、優婆夷，六萬力士。有十二億尼乾陀<lb
@@ -107,7 +107,7 @@
  n="0880a07" ed="T"/>而起，整服一廂，右膝著地，合掌向佛以偈<lb
  n="0880a08" ed="T"/>讚言：<lb
  n="0880a09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「人主！甚希有，　　速示諸世間，　　<lb
  n="0880a10" ed="T"/>本未曾有此。　　魔軍隱不現，　　<lb
  n="0880a11" ed="T"/>迭相瞻說言：　　『此事甚希有。　　<lb
@@ -125,7 +125,7 @@
  n="0880a23" ed="T"/>此是何法相？　　牟尼欲何為？　　<lb
  n="0880a24" ed="T"/>此眾有疑心，　　願愍眾生說。」　　
 </ab><lb
- n="0880a25" ed="T"/><ab type="prose">爾時，如來以威神力令眾會中一大仙人——名<lb
+ n="0880a25" ed="T"/><ab type='prose'>爾時，如來以威神力令眾會中一大仙人——名<lb
  n="0880a26" ed="T"/>光明炬——語彼勝陰大菩薩言：「童子默然，童<lb
  n="0880a27" ed="T"/>子默然。我今難問，若能解釋自清淨者，如一<lb
  n="0880a28" ed="T"/>切智相應得名。若那羅延、摩醯首羅所作幻<lb
@@ -136,7 +136,7 @@
  n="0880b04" ed="T"/>能清淨。」<lb
  n="0880b05" ed="T"/>爾時，大仙光明炬言：「我問瞿曇，瞿曇為我一<lb
  n="0880b06" ed="T"/>一解說：一切眾生從何處生？何者眾生？何<lb
- n="0880b07" ed="T"/>因緣故，劫盡熾燃？眾生過去何處和合而生<lb
+ n="0880b07" ed="T"/>因緣故，劫盡燒燃？眾生過去何處和合而生<lb
  n="0880b08" ed="T"/>人中？何相得知眾生身中微細內我，為一肘<lb
  n="0880b09" ed="T"/>量、為二肘量，為二指量、為一指量，為如大<lb
  n="0880b10" ed="T"/>麥、為如小麥、為當如豆、為如胡麻、為如芥<lb
@@ -344,7 +344,7 @@
  n="0882c09" ed="T"/>來入世尊頂。爾時，慧命須菩提以妙伽陀<lb
  n="0882c10" ed="T"/>請如來曰：<lb
  n="0882c11" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「朝日釋迦子，　　放光照十方，　　<lb
  n="0882c12" ed="T"/>此非無因緣，　　唯願為我說。　　<lb
  n="0882c13" ed="T"/>見人主奮迅，　　此眾皆生疑；　　<lb
@@ -356,7 +356,7 @@
  n="0882c19" ed="T"/>諸天虛空中，　　雨種種妙華，　　<lb
  n="0882c20" ed="T"/>多有諸音樂，　　不擊自然鳴。」　　
 </ab><lb
- n="0882c21" ed="T"/><ab type="prose">爾時，世尊即告慧命須菩提言：「汝須菩提！見<lb
+ n="0882c21" ed="T"/><ab type='prose'>爾時，世尊即告慧命須菩提言：「汝須菩提！見<lb
  n="0882c22" ed="T"/>光明炬大仙人不？須菩提！是人未來月光世<lb
  n="0882c23" ed="T"/>界當得成佛，號毘婆尸如來、應、正遍知，此<lb
  n="0882c24" ed="T"/>賢劫中一千如來最後如來同時出世。須菩<lb
@@ -433,5 +433,5 @@
  n="0883c08" ed="T"/>子、光明炬等諸大仙人，一切眾會，并諸天、人、<lb
  n="0883c09" ed="T"/>及阿修羅、乾闥婆等，聞佛所說，歡喜讚歎。</ab></div><lb
  n="0883c10" ed="T"/>
-<ab type="juan" subtype="close">第一義法勝經</ab></div>
+<ab type='juan' subtype='close'>第一義法勝經</ab></div>
 </body></text></TEI>

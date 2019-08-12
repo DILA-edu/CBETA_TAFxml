@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T10</biblScope>
                     <idno type="Taisho">T10n0307</idno>
                 </bibl>
@@ -43,10 +43,10 @@
  n="0961b01" ed="T"/><lb
  n="0961b02" ed="T"/><lb
  n="0961b03" ed="T"/>
-<ab type="juan" subtype="open">佛說莊嚴菩提心經一卷</ab><lb
+<ab type='juan' subtype='open'>佛說莊嚴菩提心經一卷</ab><lb
  n="0961b04" ed="T"/><lb
  n="0961b05" ed="T"/><byline>姚秦三藏鳩摩羅什譯</byline><lb
- n="0961b06" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時佛住王舍城耆闍崛山中，與<lb
+ n="0961b06" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時佛住王舍城耆闍崛山中，與<lb
  n="0961b07" ed="T"/>大比丘眾千二百人俱，菩薩萬人——其名曰智<lb
  n="0961b08" ed="T"/>光菩薩、法光菩薩、月光菩薩、日光菩薩、無邊<lb
  n="0961b09" ed="T"/>光菩薩、跋陀婆羅等十六正士，如文殊師利<lb
@@ -218,5 +218,5 @@
  n="0963b01" ed="T"/>藐三菩提心。思無量義菩薩及諸天、龍、夜叉、<lb
  n="0963b02" ed="T"/>乾闥婆、阿修羅、人、非人等聞佛所說，歡喜奉行。</ab></div><lb
  n="0963b03" ed="T"/>
-<ab type="juan" subtype="close">佛說莊嚴菩提心經</ab>
+<ab type='juan' subtype='close'>佛說莊嚴菩提心經</ab>
 </body></text></TEI>

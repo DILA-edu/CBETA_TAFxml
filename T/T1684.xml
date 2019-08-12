@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T32</biblScope>
                     <idno type="Taisho">T32n1684</idno>
                 </bibl>
@@ -41,13 +41,13 @@
     <text>
         <body><lb
  n="0772b06" ed="T"/><lb
- n="0772b07" ed="T"/><div type="jing" level="1"><lb
+ n="0772b07" ed="T"/><div type='jing' level='1'><lb
  n="0772b08" ed="T"/>
-<ab type="juan" subtype="open">八大靈塔梵讚</ab><lb
+<ab type='juan' subtype='open'>八大靈塔梵讚</ab><lb
  n="0772b09" ed="T"/><lb
  n="0772b10" ed="T"/><byline>西天譯經三藏朝散大夫試光祿卿<lb
  n="0772b11" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
- n="0772b12" ed="T"/><ab type="dharani">惹鼎冒亭鉢囉嚩囉末覩朗達哩摩<lb
+ n="0772b12" ed="T"/><ab type='dharani'>惹鼎冒亭鉢囉嚩囉末覩朗達哩摩<lb
  n="0772b13" ed="T"/>作訖囉左囉藐戴帝煬左禰煬帝哩<lb
  n="0772b14" ed="T"/>部嚩那摩呬當室哩摩賀鉢囉<lb
  n="0772b15" ed="T"/>底賀哩煬薩他難際曩呬摩儗哩<lb
@@ -64,10 +64,10 @@
  n="0772b26" ed="T"/>割濕彌麗際那禰尸朅沙怛吒<lb
  n="0772b27" ed="T"/>野牟泥末哩嚩麗星賀梨嚩邏<lb
  n="0772b28" ed="T"/>濃捺麗辛度褒捺麗三摩怛吒摩𦾨<lb
- n="0772b29" ed="T"/>提末朅梨酤薩梨嚩泥播梨哥<pb n="0772c" id="T32.1684.0772c" ed="T"/><lb
+ n="0772b29" ed="T"/>提末朅梨酤薩梨嚩泥播梨哥<pb n="0772c" ed="T" id="T32.1684.0772c"/><lb
  n="0772c01" ed="T"/>摩嚕閉割羅舍嚩囉補麗幹唧騷囉<lb
  n="0772c02" ed="T"/>瑟吒囉囉瑟吒麗曳左󰱱馱<lb
- n="0772c03" ed="T"/>覩誐哩婆捺舍󰥕囉嚩哩那薩旦<lb
+ n="0772c03" ed="T"/>覩誐哩婆捺舍𭌯囉嚩哩那薩旦<lb
  n="0772c04" ed="T"/>那莫寫彌暮達那該邏細係<lb
  n="0772c05" ed="T"/>末酤致呬摩儗哩儞羅曳滿捺麗彌<lb
  n="0772c06" ed="T"/>嚕室凌詣播怛梨昧惹演帝達<lb
@@ -83,6 +83,7 @@
  n="0772c17" ed="T"/>朅囉誐多薩哩嚩都馱覩誐哩婆沒馱喃夜儞泯摩鉢囉底禰那<lb
  n="0772c19" ed="T"/>摩設訖哩多儞暮達那那摩彌<lb
  n="0772c20" ed="T"/>阿瑟吒摩賀載爹滿捺那三摩鉢多<lb
+ n="0772c21" ed="T"/><lb
  n="0772c22" ed="T"/>
-</ab><ab type="juan" subtype="close">八大靈塔梵讚</ab></div>
+</ab><ab type='juan' subtype='close'>八大靈塔梵讚</ab></div>
 </body></text></TEI>

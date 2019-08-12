@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1068</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0138a10" ed="T"/><lb
  n="0138a11" ed="T"/><lb
  n="0138a12" ed="T"/><lb
  n="0138a13" ed="T"/>
-<ab type="juan" subtype="open">千手觀音造次第法儀軌</ab><lb
+<ab type='juan' subtype='open'>千手觀音造次第法儀軌</ab><lb
  n="0138a14" ed="T"/><lb
  n="0138a15" ed="T"/><byline>中天竺國三藏善無畏奉　詔譯</byline><lb
- n="0138a16" ed="T"/><div type="jing" level="2"><ab type="prose">上首正體身大黃色。結跏趺座大寶蓮華臺<lb
+ n="0138a16" ed="T"/><div type='jing' level='2'><ab type='prose'>上首正體身大黃色。結跏趺座大寶蓮華臺<lb
  n="0138a17" ed="T"/>上。其華三十二葉。其一一間有諸小葉。以<lb
  n="0138a18" ed="T"/>無量百千大摩尼寶為莊嚴也。其尊之正面<lb
  n="0138a19" ed="T"/>天冠上有三重。諸頭面之數有五百。當面之<lb
@@ -124,126 +124,126 @@
  n="0139a02" ed="T"/>火玉也。<lb
  n="0139a03" ed="T"/>一密迹金剛十密語。<lb
  n="0139a04" ed="T"/></ab>
-<ab type="dharani">唵阿艮阿艮沙耶多他蘖他耶娑婆訶<lb
+<ab type='dharani'>唵阿艮阿艮沙耶多他蘖他耶娑婆訶<lb
  n="0139a05" ed="T"/></ab>
-<ab type="prose">二烏瑟君荼密語。<lb
+<ab type='prose'>二烏瑟君荼密語。<lb
  n="0139a06" ed="T"/></ab>
-<ab type="dharani">唵毘瑟他耶良他羅阿羅乞叉多耶娑婆訶<lb
+<ab type='dharani'>唵毘瑟他耶良他羅阿羅乞叉多耶娑婆訶<lb
  n="0139a07" ed="T"/></ab>
-<ab type="prose">三魔醯那羅達密語。<lb
+<ab type='prose'>三魔醯那羅達密語。<lb
  n="0139a08" ed="T"/></ab>
-<ab type="dharani">唵阿三沒遲良多那娑婆訶<lb
+<ab type='dharani'>唵阿三沒遲良多那娑婆訶<lb
  n="0139a09" ed="T"/></ab>
-<ab type="prose">四金毘羅陀密語。<lb
+<ab type='prose'>四金毘羅陀密語。<lb
  n="0139a10" ed="T"/></ab>
-<ab type="dharani">唵嚩悉儞阿利夜三曼他娑婆訶<lb
+<ab type='dharani'>唵嚩悉儞阿利夜三曼他娑婆訶<lb
  n="0139a11" ed="T"/></ab>
-<ab type="prose">五婆馺婆樓那密語。<lb
+<ab type='prose'>五婆馺婆樓那密語。<lb
  n="0139a12" ed="T"/></ab>
-<ab type="dharani">唵烏瑟三昧耶毘秡羅尾秡羅娑婆訶<lb
+<ab type='dharani'>唵烏瑟三昧耶毘秡羅尾秡羅娑婆訶<lb
  n="0139a13" ed="T"/></ab>
-<ab type="prose">六滿善車鉢密語。<lb
+<ab type='prose'>六滿善車鉢密語。<lb
  n="0139a14" ed="T"/></ab>
-<ab type="dharani">唵富樓娑多娑多加那加那阿羅瑟尼耶娑婆<lb
+<ab type='dharani'>唵富樓娑多娑多加那加那阿羅瑟尼耶娑婆<lb
  n="0139a15" ed="T"/>訶<lb
  n="0139a16" ed="T"/></ab>
-<ab type="prose">七薩遮摩和羅密語。<lb
+<ab type='prose'>七薩遮摩和羅密語。<lb
  n="0139a17" ed="T"/></ab>
-<ab type="dharani">唵貝檀遲揭帝阿羅叉娑婆訶<lb
+<ab type='dharani'>唵貝檀遲揭帝阿羅叉娑婆訶<lb
  n="0139a18" ed="T"/></ab>
-<ab type="prose">八鳩蘭單吒密語。<lb
+<ab type='prose'>八鳩蘭單吒密語。<lb
  n="0139a19" ed="T"/></ab>
-<ab type="dharani">唵蘖那耶豹他野囉叉娑婆訶<lb
+<ab type='dharani'>唵蘖那耶豹他野囉叉娑婆訶<lb
  n="0139a20" ed="T"/></ab>
-<ab type="prose">九畢婆伽羅密語。<lb
+<ab type='prose'>九畢婆伽羅密語。<lb
  n="0139a21" ed="T"/></ab>
-<ab type="dharani">唵末羅伽叉耶阿知羅叉耶南謨室利耶曳<lb
+<ab type='dharani'>唵末羅伽叉耶阿知羅叉耶南謨室利耶曳<lb
  n="0139a22" ed="T"/>娑婆訶<lb
  n="0139a23" ed="T"/></ab>
-<ab type="prose">十應德毘多密語。<lb
+<ab type='prose'>十應德毘多密語。<lb
  n="0139a24" ed="T"/></ab>
-<ab type="dharani">唵摩訶帝弊曳娑婆訶<lb
+<ab type='dharani'>唵摩訶帝弊曳娑婆訶<lb
  n="0139a25" ed="T"/></ab>
-<ab type="prose">十一梵摩三鉢羅密語。<lb
+<ab type='prose'>十一梵摩三鉢羅密語。<lb
  n="0139a26" ed="T"/></ab>
-<ab type="dharani">唵伐羅伐羅藥率帝藥率帝娑婆訶<lb
+<ab type='dharani'>唵伐羅伐羅藥率帝藥率帝娑婆訶<lb
  n="0139a27" ed="T"/></ab>
-<ab type="prose">十二五部淨居密語。<lb
+<ab type='prose'>十二五部淨居密語。<lb
  n="0139a28" ed="T"/></ab>
-<ab type="dharani">唵伐羅伐羅吽𠰢吒𠰢吒娑婆訶<lb
+<ab type='dharani'>唵伐羅伐羅吽𠰢吒𠰢吒娑婆訶<lb
  n="0139a29" ed="T"/></ab>
-<ab type="prose">十三釋王三十三密語。<lb
+<ab type='prose'>十三釋王三十三密語。<lb
  n="0139a30" ed="T"/></ab>
-<ab type="dharani">唵末尼迦釋迦跋折羅壁瑠璃耶娑婆訶<pb n="0139b" id="T20.1068.0139b" ed="T"/><lb
+<ab type='dharani'>唵末尼迦釋迦跋折羅壁瑠璃耶娑婆訶<pb n="0139b" id="T20.1068.0139b" ed="T"/><lb
  n="0139b01" ed="T"/></ab>
-<ab type="prose">十四大辨功德密語。<lb
+<ab type='prose'>十四大辨功德密語。<lb
  n="0139b02" ed="T"/></ab>
-<ab type="dharani">唵摩訶具陵吉利他曳娑婆訶<lb
+<ab type='dharani'>唵摩訶具陵吉利他曳娑婆訶<lb
  n="0139b03" ed="T"/></ab>
-<ab type="prose">十五提頭賴吒王密語。<lb
+<ab type='prose'>十五提頭賴吒王密語。<lb
  n="0139b04" ed="T"/></ab>
-<ab type="dharani">唵剎利耶曳薩婆訶薩婆訶薩多毘犀耶瑟吒<lb
+<ab type='dharani'>唵剎利耶曳薩婆訶薩婆訶薩多毘犀耶瑟吒<lb
  n="0139b05" ed="T"/>娑婆訶<lb
  n="0139b06" ed="T"/></ab>
-<ab type="prose">十六神母等密語。<lb
+<ab type='prose'>十六神母等密語。<lb
  n="0139b07" ed="T"/></ab>
-<ab type="dharani">唵醯利醯利多醯徒醯娑婆訶<lb
+<ab type='dharani'>唵醯利醯利多醯徒醯娑婆訶<lb
  n="0139b08" ed="T"/></ab>
-<ab type="prose">十七毘樓勒叉密語。<lb
+<ab type='prose'>十七毘樓勒叉密語。<lb
  n="0139b09" ed="T"/></ab>
-<ab type="dharani">唵醯伊吽吽娑婆訶<lb
+<ab type='dharani'>唵醯伊吽吽娑婆訶<lb
  n="0139b10" ed="T"/></ab>
-<ab type="prose">十八毘樓博叉密語。<lb
+<ab type='prose'>十八毘樓博叉密語。<lb
  n="0139b11" ed="T"/></ab>
-<ab type="dharani">唵摩兜祇浦屈沙底娑婆訶<lb
+<ab type='dharani'>唵摩兜祇浦屈沙底娑婆訶<lb
  n="0139b12" ed="T"/></ab>
-<ab type="prose">十九毘沙門天密語。<lb
+<ab type='prose'>十九毘沙門天密語。<lb
  n="0139b13" ed="T"/></ab>
-<ab type="dharani">唵南無帝南跋折羅祇叉婆羅弭他南南壁<lb
+<ab type='dharani'>唵南無帝南跋折羅祇叉婆羅弭他南南壁<lb
  n="0139b14" ed="T"/>室良半拏耶婆良耶娑婆訶<lb
  n="0139b15" ed="T"/></ab>
-<ab type="prose">二十金色孔雀密語。<lb
+<ab type='prose'>二十金色孔雀密語。<lb
  n="0139b16" ed="T"/></ab>
-<ab type="dharani">唵具光𠰢吒沙羅迦羅放光𠰢吒沙羅迦羅周<lb
+<ab type='dharani'>唵具光𠰢吒沙羅迦羅放光𠰢吒沙羅迦羅周<lb
  n="0139b17" ed="T"/>遍吽羅迦唵𠰢吒娑婆訶<lb
  n="0139b18" ed="T"/></ab>
-<ab type="prose">二十一二十八部大仙密語。<lb
+<ab type='prose'>二十一二十八部大仙密語。<lb
  n="0139b19" ed="T"/></ab>
-<ab type="dharani">唵南無佛法僧因他羅也縛悉儞曳娑婆訶<lb
+<ab type='dharani'>唵南無佛法僧因他羅也縛悉儞曳娑婆訶<lb
  n="0139b20" ed="T"/></ab>
-<ab type="prose">二十二摩尼跋陀羅密語。<lb
+<ab type='prose'>二十二摩尼跋陀羅密語。<lb
  n="0139b21" ed="T"/></ab>
-<ab type="dharani">唵陀羅迦羅夾曼陀娑婆訶<lb
+<ab type='dharani'>唵陀羅迦羅夾曼陀娑婆訶<lb
  n="0139b22" ed="T"/></ab>
-<ab type="prose">二十三散脂大將密語。<lb
+<ab type='prose'>二十三散脂大將密語。<lb
  n="0139b23" ed="T"/></ab>
-<ab type="dharani">唵阿利耶三昧曳娑婆訶<lb
+<ab type='dharani'>唵阿利耶三昧曳娑婆訶<lb
  n="0139b24" ed="T"/></ab>
-<ab type="prose">二十四難陀跋難陀密語。<lb
+<ab type='prose'>二十四難陀跋難陀密語。<lb
  n="0139b25" ed="T"/></ab>
-<ab type="dharani">唵苦摩尼豹商娑婆訶<lb
+<ab type='dharani'>唵苦摩尼豹商娑婆訶<lb
  n="0139b26" ed="T"/></ab>
-<ab type="prose">二十五修羅乾闥婆密語。<lb
+<ab type='prose'>二十五修羅乾闥婆密語。<lb
  n="0139b27" ed="T"/></ab>
-<ab type="dharani">唵展若展具末利迦娑婆訶<lb
+<ab type='dharani'>唵展若展具末利迦娑婆訶<lb
  n="0139b28" ed="T"/></ab>
-<ab type="prose">二十六水火雷電密語。<lb
+<ab type='prose'>二十六水火雷電密語。<lb
  n="0139b29" ed="T"/></ab>
-<ab type="dharani">唵具羅婆曳油娑婆訶<lb
+<ab type='dharani'>唵具羅婆曳油娑婆訶<lb
  n="0139b30" ed="T"/></ab>
-<ab type="prose">二十七鳩槃荼王密語。<pb n="0139c" id="T20.1068.0139c" ed="T"/><lb
+<ab type='prose'>二十七鳩槃荼王密語。<pb n="0139c" id="T20.1068.0139c" ed="T"/><lb
  n="0139c01" ed="T"/></ab>
-<ab type="dharani">唵闍曳阿闍曳娑婆訶<lb
+<ab type='dharani'>唵闍曳阿闍曳娑婆訶<lb
  n="0139c02" ed="T"/></ab>
-<ab type="prose">二十八毘沙闍密語。<lb
+<ab type='prose'>二十八毘沙闍密語。<lb
  n="0139c03" ed="T"/></ab>
-<ab type="dharani">唵帝曳帝曳隣陀隣陀娑婆訶<lb
+<ab type='dharani'>唵帝曳帝曳隣陀隣陀娑婆訶<lb
  n="0139c04" ed="T"/></ab>
-<ab type="prose">如是善神異口同音。各各誓言顯說釋名密<lb
+<ab type='prose'>如是善神異口同音。各各誓言顯說釋名密<lb
  n="0139c05" ed="T"/>語神呪。領諸眷屬。左右前後圍繞守護。受<lb
  n="0139c06" ed="T"/>持娑婆訶。若有善男子善女人持呪者。可誦<lb
  n="0139c07" ed="T"/>善神呪。有大威德勢云云。</ab></div><lb
- n="0139c08" ed="T"/><div type="w" level="2"><ab type="prose">延寶三年。淨嚴和尚染筆之。天明元丑歲<lb
+ n="0139c08" ed="T"/><div type='w' level='2'><ab type='prose'>延寶三年。淨嚴和尚染筆之。天明元丑歲<lb
  n="0139c09" ed="T"/>慈忍師寫宇治慧心院藏本。今得彼本。當<lb
  n="0139c10" ed="T"/>山慈心院傳燈等一挍。予復校之壽梓享<lb
  n="0139c11" ed="T"/>和改元八月　　　長谷總持院快道誌<lb

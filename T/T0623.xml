@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T15</biblScope>
                     <idno type="Taisho">T15n0623</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0346b03" ed="T"/><lb
  n="0346b04" ed="T"/><lb
  n="0346b05" ed="T"/>
-<ab type="juan" subtype="open">佛說如來獨證自誓三昧經</ab><lb
+<ab type='juan' subtype='open'>佛說如來獨證自誓三昧經</ab><lb
  n="0346b06" ed="T"/><lb
  n="0346b07" ed="T"/><byline>西晉月氏三藏竺法護譯</byline><lb
- n="0346b08" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時佛遊於句潭彌國大叢樹間交<lb
+ n="0346b08" ed="T"/><div type='jing' level='1'><ab type='prose'>聞如是：一時佛遊於句潭彌國大叢樹間交<lb
  n="0346b09" ed="T"/>露精舍，所止道場名曰獨證自誓三昧。初始<lb
  n="0346b10" ed="T"/>得佛光景甚明，自然靈瑞寶蓮華座，其花清<lb
  n="0346b11" ed="T"/>香明徹十方，華有千葉，一一葉上有化菩薩，<lb
@@ -89,7 +89,7 @@
  n="0346c18" ed="T"/>使眾生普得見佛，現變畢竟廓如常故。於時<lb
  n="0346c19" ed="T"/>坐中有菩薩名曰賢儒，即於佛前以偈歎曰：<lb
  n="0346c20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「妙哉大聖化，　　愍哀群萌類，　　<lb
  n="0346c21" ed="T"/>從無央數劫，　　積功累德行。　　<lb
  n="0346c22" ed="T"/>一一功德行，　　有若干百千，　　<lb
@@ -103,7 +103,7 @@
  n="0347a01" ed="T"/>惠澤隨時宜，　　善權接群黎，　　<lb
  n="0347a02" ed="T"/>法橋度一切，　　願禮三界尊。」　　
 </ab><lb
- n="0347a03" ed="T"/><ab type="prose">於是聖師告賢儒曰：「諸佛法笑有三因緣。何<lb
+ n="0347a03" ed="T"/><ab type='prose'>於是聖師告賢儒曰：「諸佛法笑有三因緣。何<lb
  n="0347a04" ed="T"/>謂為三？薩云若智深遠微妙，明暢三世達眾<lb
  n="0347a05" ed="T"/>生原，三乘趣向各有本行根信具足。或有菩<lb
  n="0347a06" ed="T"/>薩志在弘誓，被大德鎧為眾重任，斷所趣向<lb
@@ -143,19 +143,19 @@
  n="0347b11" ed="T"/>術人皆得道迹；三界諸天普得法眼。於是聖<lb
  n="0347b12" ed="T"/>師而作頌曰：<lb
  n="0347b13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「法界一切空，　　色身清淨真，　　<lb
  n="0347b14" ed="T"/>總持度無極，　　三昧無有因。　　<lb
  n="0347b15" ed="T"/>佛界亦不空，　　慧淨亦不有，　　<lb
  n="0347b16" ed="T"/>哀世表微笑，　　正士宜速受。」　　
 </ab><lb
- n="0347b17" ed="T"/><ab type="prose">於是座中有眼見光賢菩薩，即起正衣<lb
+ n="0347b17" ed="T"/><ab type='prose'>於是座中有眼見光賢菩薩，即起正衣<lb
  n="0347b18" ed="T"/>服，偏露右臂下右膝，長跪叉手前白聖師：「願<lb
  n="0347b19" ed="T"/>有所問。唯聖師以無量慧照釋未聞。」答曰：「善<lb
  n="0347b20" ed="T"/>哉！恣汝所問。今當為汝具敷大要。」眼見光<lb
  n="0347b21" ed="T"/>賢菩薩曰：「何謂正士出家具足道證至薩云<lb
  n="0347b22" ed="T"/>若？」於是聖師告曰：「正士！善聽著意。諸佛出家<lb
- n="0347b23" ed="T"/>要有起發，端坐思閑玄靜通微。夫專稱念道<lb
+ n="0347b23" ed="T"/>要有起發，端坐思閑玄靜通微。夫專精念道<lb
  n="0347b24" ed="T"/>分有所感，應感者淨居天子梵王自在，便勅<lb
  n="0347b25" ed="T"/>帝釋化四非常老病死像，因此說證離欲苦<lb
  n="0347b26" ed="T"/>難念道清淨，當處山澤研精行禪。此意方興，<lb
@@ -235,9 +235,9 @@
  n="0348b13" ed="T"/>法背眾不師於師。此法謂都無比丘眾，可為<lb
  n="0348b14" ed="T"/>師者慕行此法。若有僧者當求僧為證，佛法<lb
  n="0348b15" ed="T"/>眾此三寶等於如來，故多薩阿竭稱明律比<lb
- n="0348b16" ed="T"/>丘僧眾以為上頭。當知天下比丘僧中畢有<lb
+ n="0348b16" ed="T"/>丘僧眾以為上頭。當知天子！比丘僧中畢有<lb
  n="0348b17" ed="T"/>三乘。』說是語時，淨居天子及八部眾聞經歡<lb
  n="0348b18" ed="T"/>喜，作禮而去。」</ab></div><lb
  n="0348b19" ed="T"/>
-<ab type="juan" subtype="close">佛說如來獨證自誓三昧經</ab>
+<ab type='juan' subtype='close'>佛說如來獨證自誓三昧經</ab>
 </body></text></TEI>

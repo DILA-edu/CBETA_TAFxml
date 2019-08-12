@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0073</idno>
                 </bibl>
@@ -43,12 +43,12 @@
  n="0879a03" ed="T"/><lb
  n="0879a04" ed="T"/><lb
  n="0879a05" ed="T"/><lb
- n="0879a06" ed="T"/><div type="jing" level="1"><lb
+ n="0879a06" ed="T"/><div type='jing' level='1'><lb
  n="0879a08" ed="T"/>
-<ab type="juan" subtype="open">佛說須達經</ab><lb
+<ab type='juan' subtype='open'>佛說須達經</ab><lb
  n="0879a09" ed="T"/><lb
  n="0879a10" ed="T"/><byline>蕭齊中印度三藏求那毗地譯</byline><lb
- n="0879a11" ed="T"/><ab type="prose">聞如是：一時，婆伽婆在舍衛城祇樹給孤獨<lb
+ n="0879a11" ed="T"/><ab type='prose'>聞如是：一時，婆伽婆在舍衛城祇樹給孤獨<lb
  n="0879a12" ed="T"/>園。彼時，須達居士至世尊所，到已禮世尊足，<lb
  n="0879a13" ed="T"/>却坐一面。須達居士却坐一面已，世尊告曰：<lb
  n="0879a14" ed="T"/>「頗有，居士！在家施與不？」「唯世尊！在家有施與<lb
@@ -126,5 +126,5 @@
  n="0880a02" ed="T"/>苦。」佛如是說。居士須達聞世尊所說，歡喜<lb
  n="0880a03" ed="T"/>而樂。<lb
  n="0880a04" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說須達經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說須達經</ab></div>
 </body></text></TEI>

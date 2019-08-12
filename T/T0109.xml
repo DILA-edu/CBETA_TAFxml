@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T02</biblScope>
                     <idno type="Taisho">T02n0109</idno>
                 </bibl>
@@ -40,12 +40,12 @@
     </teiHeader>
     <text>
         <body><pb n="0503b" ed="T" id="T02.0109.0503b"/><lb
- n="0503b01" ed="T"/><div type="jing" level="1"><lb
+ n="0503b01" ed="T"/><div type='jing' level='1'><lb
  n="0503b02" ed="T"/>
-<ab type="juan" subtype="open">佛說轉法輪經</ab><lb
+<ab type='juan' subtype='open'>佛說轉法輪經</ab><lb
  n="0503b03" ed="T"/><lb
  n="0503b04" ed="T"/><byline>後漢安息三藏安世高譯</byline><lb
- n="0503b05" ed="T"/><ab type="prose">聞如是：一時，佛在波羅㮈國鹿野樹下坐，時<lb
+ n="0503b05" ed="T"/><ab type='prose'>聞如是：一時，佛在波羅㮈國鹿野樹下坐，時<lb
  n="0503b06" ed="T"/>有千比丘諸天神，皆大會側塞空中，於是有<lb
  n="0503b07" ed="T"/>自然法輪，飛來當佛前轉。佛以手撫輪曰：<lb
  n="0503b08" ed="T"/>「止！往者吾從無數劫來，為名色轉受苦無<lb
@@ -93,5 +93,5 @@
  n="0503c21" ed="T"/>無上法輪轉未轉者，照無數度諸天人從是<lb
  n="0503c22" ed="T"/>得道。佛說是已，皆大歡喜。<lb
  n="0503c23" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說轉法輪經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說轉法輪經</ab></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T04</biblScope>
                     <idno type="Taisho">T04n0206</idno>
                 </bibl>
@@ -39,15 +39,15 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0510b03" ed="T"/><lb
  n="0510b04" ed="T"/><lb
  n="0510b05" ed="T"/>
-<ab type="juan" subtype="open">舊雜譬喻經卷上</ab><lb
+<ab type='juan' subtype='open'>舊雜譬喻經卷上</ab><lb
  n="0510b06" ed="T"/><lb
  n="0510b07" ed="T"/><byline>吳天竺三藏康僧會譯</byline><lb
- n="0510b08" ed="T"/><head>（一）</head><ab type="prose">昔無數世有一商人，號曰薩薄，時適他國<lb
+ n="0510b08" ed="T"/><head>（一）</head><ab type='prose'>昔無數世有一商人，號曰薩薄，時適他國<lb
  n="0510b09" ed="T"/>賣齎貨，所止近住佛弟子家。佛弟子家時<lb
  n="0510b10" ed="T"/>作大福，安施高座眾僧說法講論罪福，善惡<lb
  n="0510b11" ed="T"/>由心身口所行，及四諦非常苦空之法。遠<lb
@@ -82,7 +82,7 @@
  n="0510c11" ed="T"/>復打亦入，如是兩脚及頭都入鬼中不能復<lb
  n="0510c12" ed="T"/>動。於是閱叉即以頌而問曰：<lb
  n="0510c13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「手足及與頭，　　五事雖絆覊，　　<lb
  n="0510c14" ed="T"/>但當前就死，　　跳踉復何為？」　　<lb
  n="0510c15" ed="T"/>「手足及與頭，　　五事雖被繫，　　<lb
@@ -91,7 +91,7 @@
  n="0510c18" ed="T"/>前後噉汝輩，　　不可復稱數。　　<lb
  n="0510c19" ed="T"/>今汝死在近，　　何為復讇語？　　
 </ab><lb
- n="0510c20" ed="T"/><ab type="verse">
+ n="0510c20" ed="T"/><ab type='verse'>
 「是身為無常，　　吾早欲棄離，　　<lb
  n="0510c21" ed="T"/>魔今適我願，　　便持相布施。　　<lb
  n="0510c22" ed="T"/>緣是得正覺，　　當成無上智，　　<lb
@@ -99,7 +99,7 @@
  n="0510c24" ed="T"/>畢為度人師，　　得備將不久，　　<lb
  n="0510c25" ed="T"/>願以身自歸，　　頭面禮稽首。」　　
 </ab><lb
- n="0510c26" ed="T"/><ab type="prose">於是閱叉前受五戒慈心眾生，即為作禮退<lb
+ n="0510c26" ed="T"/><ab type='prose'>於是閱叉前受五戒慈心眾生，即為作禮退<lb
  n="0510c27" ed="T"/>入深山。薩薄還呼眾人，前進彼土，於是二國<lb
  n="0510c28" ed="T"/>並知，五戒十善降鬼通道，乃識佛法至真無<lb
  n="0510c29" ed="T"/>量，皆共奉戒延敬三尊國致太平。後昇天<pb n="0511a" ed="T" id="T04.0206.0511a"/><lb
@@ -593,13 +593,13 @@
  n="0516b24" ed="T"/>言者，魚身是也。時貧窮佐助者，汝身是也。」於<lb
  n="0516b25" ed="T"/>是力士心意開悟，即作沙門得阿羅漢道也。<lb
  n="0516b26" ed="T"/>
-</ab><ab type="juan" subtype="close">舊雜譬喻經卷上</ab><pb n="0516c" ed="T" id="T04.0206.0516c"/><lb
+</ab><ab type='juan' subtype='close'>舊雜譬喻經卷上</ab><pb n="0516c" ed="T" id="T04.0206.0516c"/><lb
  n="0516c01" ed="T"/><lb
  n="0516c02" ed="T"/>
-<ab type="juan" subtype="open">舊雜譬喻經卷下</ab><lb
+<ab type='juan' subtype='open'>舊雜譬喻經卷下</ab><lb
  n="0516c03" ed="T"/><lb
  n="0516c04" ed="T"/><byline>吳天竺三藏康僧會譯</byline><lb
- n="0516c05" ed="T"/><head>（三五）</head><ab type="prose">佛為諸弟子說經。時有射獵人擔弩，及<lb
+ n="0516c05" ed="T"/><head>（三五）</head><ab type='prose'>佛為諸弟子說經。時有射獵人擔弩，及<lb
  n="0516c06" ed="T"/>負十餘死鳥，過往觀佛，其意精銳，願聞說<lb
  n="0516c07" ed="T"/>經心欲聽受，佛則止不為說之。獵人退去，<lb
  n="0516c08" ed="T"/>便言：「若我作佛，必普遍為人說道，無所違<lb
@@ -1100,5 +1100,5 @@
  n="0522b10" ed="T"/>及兒內外親屬，應時皆得阿惟越致。自歸之<lb
  n="0522b11" ed="T"/>福所度如是，況乃終年修道教乎？<lb
  n="0522b12" ed="T"/>
-</ab><ab type="juan" subtype="close">舊雜譬喻經卷下</ab></div>
+</ab><ab type='juan' subtype='close'>舊雜譬喻經卷下</ab></div>
 </body></text></TEI>

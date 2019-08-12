@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T17</biblScope>
                     <idno type="Taisho">T17n0750</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0572b16" ed="T"/><lb
  n="0572b17" ed="T"/><lb
  n="0572b18" ed="T"/>
-<ab type="juan" subtype="open">沙彌羅經</ab><lb
+<ab type='juan' subtype='open'>沙彌羅經</ab><lb
  n="0572b19" ed="T"/><lb
  n="0572b20" ed="T"/><byline>失譯附三秦錄</byline><lb
- n="0572b21" ed="T"/><div type="jing" level="1"><ab type="prose">昔有小兒，名曰沙彌羅。年始七歲，意好道德，<lb
+ n="0572b21" ed="T"/><div type='jing' level='1'><ab type='prose'>昔有小兒，名曰沙彌羅。年始七歲，意好道德，<lb
  n="0572b22" ed="T"/>隨一沙門，為作弟子。處在山中，給師所使；誦<lb
  n="0572b23" ed="T"/>念經法，心不懈怠。至年八歲，得阿羅漢。道眼<lb
  n="0572b24" ed="T"/>能洞視，所見無極；耳能徹聽，天上、天下所為<lb
@@ -85,5 +85,5 @@
  n="0572c27" ed="T"/>所求索，願行如言，永離生死，斷絕身根，如人<lb
  n="0572c28" ed="T"/>不種，當所泥洹。」善會師說已，飛騰虛空。</ab></div><lb
  n="0572c29" ed="T"/>
-<ab type="juan" subtype="close">沙彌羅經</ab>
+<ab type='juan' subtype='close'>沙彌羅經</ab>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1182</idno>
                 </bibl>
@@ -44,11 +44,11 @@
  n="0781a17" ed="T"/><lb
  n="0781a18" ed="T"/><lb
  n="0781a19" ed="T"/>
-<ab type="juan" subtype="open">曼殊室利菩薩呪藏中一字呪<lb
+<ab type='juan' subtype='open'>曼殊室利菩薩呪藏中一字呪<lb
  n="0781a20" ed="T"/>王經</ab><lb
  n="0781a21" ed="T"/><lb
  n="0781a22" ed="T"/><byline>唐三藏法師義淨奉　制譯</byline><lb
- n="0781a23" ed="T"/><div type="jing" level="1"><ab type="prose">爾時釋迦牟尼佛。在淨居天上。於天眾中跏<lb
+ n="0781a23" ed="T"/><div type='jing' level='1'><ab type='prose'>爾時釋迦牟尼佛。在淨居天上。於天眾中跏<lb
  n="0781a24" ed="T"/>趺正念。普觀大眾而告之曰。汝諸天子。當至<lb
  n="0781a25" ed="T"/>心聽曼殊室利童子微妙之行。所謂壇場神<lb
  n="0781a26" ed="T"/>呪作法。所須療病護身。第一祕密最上呪<lb
@@ -65,9 +65,9 @@
  n="0781b08" ed="T"/>足所有求願。汝諸天眾。咸皆一心聽此不可<lb
  n="0781b09" ed="T"/>思議具大威力最上神呪。即說呪曰。<lb
  n="0781b10" ed="T"/></ab>
-<ab type="dharani">唵叱洛呬焰<lb
+<ab type='dharani'>唵叱洛呬焰<lb
  n="0781b11" ed="T"/></ab>
-<ab type="prose">汝等天眾。此是一切祕密中勝一字呪王。一<lb
+<ab type='prose'>汝等天眾。此是一切祕密中勝一字呪王。一<lb
  n="0781b12" ed="T"/>切有情無敢違者。一切鬼神不敢親近。一切<lb
  n="0781b13" ed="T"/>諸佛為吉祥事。一切呪中最能成立隨意所<lb
  n="0781b14" ed="T"/>為。一切世間作大尊勝。於求財者有大自在<lb
@@ -124,5 +124,5 @@
  n="0782a12" ed="T"/>事。皆隨意作無不成就。爾時諸天大眾聞佛<lb
  n="0782a13" ed="T"/>說此一字呪王經已。歡喜奉行。<lb
  n="0782a15" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說一字呪王經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說一字呪王經</ab></div>
 </body></text></TEI>

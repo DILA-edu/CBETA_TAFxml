@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T10</biblScope>
                     <idno type="Taisho">T10n0284</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0456c07" ed="T"/><lb
  n="0456c08" ed="T"/><lb
  n="0456c09" ed="T"/>
-<ab type="juan" subtype="open">佛說菩薩十住經一卷</ab><lb
+<ab type='juan' subtype='open'>佛說菩薩十住經一卷</ab><lb
  n="0456c10" ed="T"/><lb
  n="0456c11" ed="T"/><byline>東晉三藏祇多蜜譯</byline><lb
- n="0456c12" ed="T"/><div type="jing" level="1"><ab type="prose">佛說菩薩戒十二時竟。文殊師利白佛言：「菩<lb
+ n="0456c12" ed="T"/><div type='jing' level='1'><ab type='prose'>佛說菩薩戒十二時竟。文殊師利白佛言：「菩<lb
  n="0456c13" ed="T"/>薩用何功德得是十住？唯願天中天分別<lb
  n="0456c14" ed="T"/>說之。」佛言：「善哉，善哉！文殊師利菩薩摩訶薩！<lb
  n="0456c15" ed="T"/>多所憂念、多所安隱。吾當為汝具說其要，<lb
@@ -164,5 +164,5 @@
  n="0458a10" ed="T"/>大踊躍歡喜，各現光明，展轉相照。各各起<lb
  n="0458a11" ed="T"/>正衣服，前以頭腦著地，為佛作禮而去。</ab></div><lb
  n="0458a12" ed="T"/>
-<ab type="juan" subtype="close">佛說菩薩十住經</ab>
+<ab type='juan' subtype='close'>佛說菩薩十住經</ab>
 </body></text></TEI>

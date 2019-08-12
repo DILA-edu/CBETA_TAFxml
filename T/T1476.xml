@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T24</biblScope>
                     <idno type="Taisho">T24n1476</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0939c12" ed="T"/><lb
  n="0939c13" ed="T"/><lb
  n="0939c14" ed="T"/>
-<ab type="juan" subtype="open">佛說優婆塞五戒相經一卷</ab><lb
+<ab type='juan' subtype='open'>佛說優婆塞五戒相經一卷</ab><lb
  n="0939c15" ed="T"/><lb
  n="0939c16" ed="T"/><byline>宋元嘉年求那跋摩譯</byline><lb
- n="0939c17" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時佛在迦維羅衛國。爾時淨飯王<lb
+ n="0939c17" ed="T"/><div type='jing' level='1'><ab type='prose'>聞如是：一時佛在迦維羅衛國。爾時淨飯王<lb
  n="0939c18" ed="T"/>來詣佛所，頭面禮足，合掌恭敬，而白佛言：「欲<lb
  n="0939c19" ed="T"/>所請求，以自濟度。唯願世尊哀酬我志！」佛<lb
  n="0939c20" ed="T"/>言：「可得之願，隨王所求！」王白佛言：「世尊已為<lb
@@ -217,8 +217,8 @@
  n="0941c10" ed="T"/>罪可悔；若破熟癰瘡死者，無罪。』「又一小兒喜<lb
  n="0941c11" ed="T"/>笑，居士捉擊攊，令大笑故，便死。居士生疑。佛<lb
  n="0941c12" ed="T"/>言：『戲笑故，不犯殺罪。從今不應復擊攊人令<lb
- n="0941c13" ed="T"/>笑。』「又一人坐以衣自覆，居士喚言起。是人言：<lb
- n="0941c14" ed="T"/>『勿喚我起，便死。』復喚言：『起。』起便即死。居士<lb
+ n="0941c13" ed="T"/>笑。』「又一人坐，以衣自覆。居士喚言：『起！』是人言：<lb
+ n="0941c14" ed="T"/>『勿喚，我起便死。』復喚言：『起！』起便即死。居士<lb
  n="0941c15" ed="T"/>生疑。佛言：『犯中可悔罪。』」<lb
  n="0941c16" ed="T"/>盜戒第二<lb
  n="0941c17" ed="T"/>佛告諸比丘：「優婆塞以三種取他重物，犯不<lb
@@ -433,5 +433,5 @@
  n="0944a23" ed="T"/>者，隨咽咽犯。若但作酒色，無酒香、無酒味，不<lb
  n="0944a24" ed="T"/>能醉人及餘，飲皆不犯。」</ab></div><lb
  n="0944a25" ed="T"/>
-<ab type="juan" subtype="close">佛說優婆塞五戒相經一卷</ab>
+<ab type='juan' subtype='close'>佛說優婆塞五戒相經一卷</ab>
 </body></text></TEI>

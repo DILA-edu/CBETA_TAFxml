@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T17</biblScope>
                     <idno type="Taisho">T17n0772</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0708b13" ed="T"/><lb
  n="0708b14" ed="T"/><lb
  n="0708b15" ed="T"/>
-<ab type="juan" subtype="open">大乘四法經</ab><lb
+<ab type='juan' subtype='open'>大乘四法經</ab><lb
  n="0708b16" ed="T"/><lb
  n="0708b17" ed="T"/><byline>大唐天竺三藏地婆訶羅譯</byline><lb
- n="0708b18" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時薄伽梵在室羅筏，住誓多林<lb
+ n="0708b18" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時薄伽梵在室羅筏，住誓多林<lb
  n="0708b19" ed="T"/>給孤獨園，與大苾芻眾千二百五十人俱，復<lb
  n="0708b20" ed="T"/>有無量菩薩摩訶薩眾。爾時世尊告諸苾芻：<lb
  n="0708b21" ed="T"/>「有四種法，菩薩摩訶薩盡其壽量，常應修行，<lb
@@ -61,15 +61,15 @@
  n="0708b29" ed="T"/>盡壽，常應堅持，寧喪身命而不捨離。」爾時<pb n="0708c" ed="T" id="T17.0772.0708c"/><lb
  n="0708c01" ed="T"/>世尊重演其義，說伽他曰：<lb
  n="0708c02" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「世間明慧者，　　應發菩提心，　　<lb
  n="0708c03" ed="T"/>常思一切智，　　恒近善知識，　　<lb
  n="0708c04" ed="T"/>住堪忍愛樂，　　依止阿練若，　　<lb
  n="0708c05" ed="T"/>猶如師子王，　　遠離諸驚怖。　　
 </ab><lb
- n="0708c06" ed="T"/><ab type="prose">「諸明慧者修行此法，速能超出眾魔羅網，<lb
+ n="0708c06" ed="T"/><ab type='prose'>「諸明慧者修行此法，速能超出眾魔羅網，<lb
  n="0708c07" ed="T"/>疾證無上正等菩提。」時薄伽梵說此經已，諸<lb
  n="0708c08" ed="T"/>苾芻等歡喜奉行。</ab></div><lb
  n="0708c09" ed="T"/>
-<ab type="juan" subtype="close">大乘四法經</ab>
+<ab type='juan' subtype='close'>大乘四法經</ab>
 </body></text></TEI>

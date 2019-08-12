@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T18</biblScope>
                     <idno type="Taisho">T18n0877</idno>
                 </bibl>
@@ -39,31 +39,31 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0331b10" ed="T"/><lb
  n="0331b11" ed="T"/><lb
  n="0331b12" ed="T"/><lb
  n="0331b13" ed="T"/><lb
  n="0331b14" ed="T"/>
-<ab type="juan" subtype="open">金剛頂經毘盧遮那一百八尊法<lb
+<ab type='juan' subtype='open'>金剛頂經毘盧遮那一百八尊法<lb
  n="0331b15" ed="T"/>身契印</ab><lb
  n="0331b16" ed="T"/><lb
  n="0331b17" ed="T"/><byline>善無畏三藏一行和上同譯</byline><lb
- n="0331b18" ed="T"/><div type="jing" level="2"><ab type="prose">一切如來入自己身密語。<lb
+ n="0331b18" ed="T"/><div type='jing' level='2'><ab type='prose'>一切如來入自己身密語。<lb
  n="0331b19" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄙺薩􅞣嚩􄕗怛􄕤他􄑘揭􄕘多􆿅阿􄗛毘􆿓三􄗕菩􄕽提<lb
+<ab type='dharani'>􇩂唵􄙺薩􅞣嚩􄕗怛􄕤他􄑘揭􄕘多􆿅阿􄗛毘􆿓三􄗕菩􄕽提<lb
  n="0331b20" ed="T"/><lb
  n="0331b21" ed="T"/>􆯫涅哩􄓾荼􄙖跋􄦽折羅􄕙底􆵋瑟吒<lb
  n="0331b22" ed="T"/><lb
  n="0331b23" ed="T"/><lb
  n="0331b24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 稽首毘盧遮那佛　　一切如來金剛頂　　
 </ab><lb
- n="0331b25" ed="T"/><ab type="prose">金剛薩埵大心。<lb
+ n="0331b25" ed="T"/><ab type='prose'>金剛薩埵大心。<lb
  n="0331b26" ed="T"/></ab>
-<ab type="dharani">􄖩南􄗰無􄙺三􄗥曼􆩖哆􈎭勃􇧺陀􈁀喃􇩂唵􄙖跋􄦽折囉<lb
+<ab type='dharani'>􄖩南􄗰無􄙺三􄗥曼􆩖哆􈎭勃􇧺陀􈁀喃􇩂唵􄙖跋􄦽折囉<lb
  n="0331b27" ed="T"/><lb
  n="0331b28" ed="T"/>􄙺薩􄽙埵􄗥摩􄚩訶􄙺三􄗥昧􄗱耶􅁥莎􄚩訶<lb
  n="0331b29" ed="T"/><pb n="0331c" id="T18.0877.0331c" ed="T"/><lb
@@ -79,7 +79,7 @@
  n="0331c10" ed="T"/><lb
  n="0331c11" ed="T"/>􄗽羅􄒶穰􅁥莎􄚩訶<lb
  n="0331c12" ed="T"/><lb
- n="0331c13" ed="T"/>金剛座􇩂唵􄙖跋􄦽折囉􆿅阿􄗭目􄑤佉􄙼悉􄽳地􅁥莎<lb
+ n="0331c13" ed="T"/>金剛座􇩂唵􄙖跋􄦽折囉􆿅阿􄗭目􄑤佉􄙼悉􇧻地􅁥莎<lb
  n="0331c14" ed="T"/><lb
  n="0331c15" ed="T"/>􄚩訶<lb
  n="0331c16" ed="T"/><lb
@@ -289,9 +289,9 @@
  n="0334a14" ed="T"/><lb
  n="0334a15" ed="T"/>金剛受􇩂唵􄙖跋􄦽日囉􄕯怛􄖩那􄗷曳􅁥莎􄚩訶<lb
  n="0334a16" ed="T"/><lb
- n="0334a17" ed="T"/>金剛手􇩂唵􄙖跋􄦽日囉􄙼悉􄽳地􄗱耶􅁥莎􄚩訶<lb
+ n="0334a17" ed="T"/>金剛手􇩂唵􄙖跋􄦽日囉􄙼悉􇧻地􄗱耶􅁥莎􄚩訶<lb
  n="0334a18" ed="T"/><lb
- n="0334a19" ed="T"/>金剛錫􇩂唵􄙖跋􄦽日囉􄑀羯􈆺磨􄙼悉􄽳地􅁥沙􄚩訶<lb
+ n="0334a19" ed="T"/>金剛錫􇩂唵􄙖跋􄦽日囉􄑀羯􈆺磨􄙼悉􇧻地􅁥沙􄚩訶<lb
  n="0334a20" ed="T"/><lb
  n="0334a21" ed="T"/>金剛傘􇩂唵􄙖跋􄦽日囉􆿅阿􄙈藍􅁥莎􄚩訶<lb
  n="0334a22" ed="T"/><lb
@@ -299,7 +299,7 @@
  n="0334a24" ed="T"/><lb
  n="0334a25" ed="T"/>金剛禪􇩂唵􄙖跋􄦽日囉􄙺薩􄕗埵􄙀里􅁥莎􄚩訶<lb
  n="0334a26" ed="T"/><lb
- n="0334a27" ed="T"/>金剛剎􇩂唵􄙖跋􄦽日囉􆿅阿􄗭目􄑤佉􄙼悉􄽳地􅁥莎<lb
+ n="0334a27" ed="T"/>金剛剎􇩂唵􄙖跋􄦽日囉􆿅阿􄗭目􄑤佉􄙼悉􇧻地􅁥莎<lb
  n="0334a28" ed="T"/><lb
  n="0334a29" ed="T"/>􄚩訶<lb
  n="0334a30" ed="T"/><pb n="0334b" id="T18.0877.0334b" ed="T"/><lb
@@ -366,14 +366,14 @@
  n="0335a01" ed="T"/>􈅼吽􇩉莎􄚩訶<lb
  n="0335a02" ed="T"/><lb
  n="0335a03" ed="T"/></ab>
-<ab type="prose">佛告金剛密菩薩摩訶薩。說此金剛尊悉地<lb
+<ab type='prose'>佛告金剛密菩薩摩訶薩。說此金剛尊悉地<lb
  n="0335a04" ed="T"/>印契及密言字。住大寂靜遠離一切心。於<lb
  n="0335a05" ed="T"/>月愛三昧白毫輪中。次第觀照分明普現。一<lb
  n="0335a06" ed="T"/>切如來金剛大摩尼如意之寶。同一法性一<lb
  n="0335a07" ed="T"/>真法界一味如如。不來不去無相無為。清淨<lb
  n="0335a08" ed="T"/>法身照圓寂海。<lb
  n="0335a09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 如是八百金剛句　　本從三昧一法生　　<lb
  n="0335a10" ed="T"/>觀照真如不二門　　得入如來圓寂海　　<lb
  n="0335a11" ed="T"/>善知出句及入句　　瑜伽悉地諸儀式　　<lb
@@ -404,7 +404,7 @@
  n="0335b07" ed="T"/>心得自在無去來　　功德常行普迴向　　
 </ab></div><lb
  n="0335b08" ed="T"/><head>入法身觀門</head><lb
- n="0335b09" ed="T"/><ab type="verse">
+ n="0335b09" ed="T"/><ab type='verse'>
 稽首毘盧遮那佛　　一切如來金剛頂　　<lb
  n="0335b10" ed="T"/>於大法界道場中　　一心觀想分明見　　<lb
  n="0335b11" ed="T"/>妙高殊特大希有　　神通聖力登其上　　<lb
@@ -434,14 +434,14 @@
  n="0335c06" ed="T"/>有身有相權來化　　非身非相是無為　　<lb
  n="0335c07" ed="T"/>悟此三昧涅槃宮　　得入如來吉祥地　　
 </ab><lb
- n="0335c08" ed="T"/><ab type="prose">毘盧遮那悉地流出相應句陀羅尼。<lb
+ n="0335c08" ed="T"/><ab type='prose'>毘盧遮那悉地流出相應句陀羅尼。<lb
  n="0335c09" ed="T"/></ab>
-<ab type="dharani">􄖩南􄗰麼􄙺薩􅞣婆􄕗怛􄕤他引􄑘蘖􄕝帝􄡼󰴁毘庾反􄙘微<lb
+<ab type='dharani'>􄖩南􄗰麼􄙺薩􅞣婆􄕗怛􄕤他引􄑘蘖􄕝帝􄡼𭍇毘庾反􄙘微<lb
  n="0335c10" ed="T"/><lb
  n="0335c11" ed="T"/>􈂫濕嚩二合􈁃目􄑒契􄢥弊毘也反􄙺薩􅞣婆􄕤他􆿅阿􆿆阿引<lb
  n="0335c12" ed="T"/><lb
  n="0335c13" ed="T"/>􆿓暗􆿔噁<lb
  n="0335c14" ed="T"/><lb
- n="0335c15" ed="T"/></ab><div type="w" level="2"><ab type="prose">靈雲校本末云　貞享三年五月三日校<lb
+ n="0335c15" ed="T"/></ab><div type='w' level='2'><ab type='prose'>靈雲校本末云　貞享三年五月三日校<lb
  n="0335c16" ed="T"/>了　淨嚴</ab></div></div>
 </body></text></TEI>

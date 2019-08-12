@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T02</biblScope>
                     <idno type="Taisho">T02n0115</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0507a04" ed="T"/><lb
  n="0507a05" ed="T"/><lb
- n="0507a06" ed="T"/><div type="jing" level="1"><lb
+ n="0507a06" ed="T"/><div type='jing' level='1'><lb
  n="0507a07" ed="T"/>
-<ab type="juan" subtype="open">佛說馬有八態譬人經</ab><lb
+<ab type='juan' subtype='open'>佛說馬有八態譬人經</ab><lb
  n="0507a08" ed="T"/><lb
  n="0507a09" ed="T"/><byline>後漢西域三藏支曜譯</byline><lb
- n="0507a10" ed="T"/><ab type="prose">聞如是：一時，佛在舍衛國行在祇樹給孤獨<lb
+ n="0507a10" ed="T"/><ab type='prose'>聞如是：一時，佛在舍衛國行在祇樹給孤獨<lb
  n="0507a11" ed="T"/>園，多比丘僧俱。佛告諸比丘：「馬有弊惡態<lb
  n="0507a12" ed="T"/>八。何等八？一態者解󰊊韁時便掣車欲走；二<lb
  n="0507a13" ed="T"/>態者駕車跳𨄈欲嚙人；三態者便舉前兩脚<lb
@@ -73,5 +73,5 @@
  n="0507b04" ed="T"/>馬八態，惡人亦有八惡態如是。」諸比丘聞經<lb
  n="0507b05" ed="T"/>歡喜，作禮而去。<lb
  n="0507b06" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說馬有八態譬人經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說馬有八態譬人經</ab></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T04</biblScope>
                     <idno type="Taisho">T04n0193</idno>
                 </bibl>
@@ -39,17 +39,17 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0054c09" ed="T"/><lb
  n="0054c10" ed="T"/><lb
  n="0054c11" ed="T"/><lb
  n="0054c12" ed="T"/>
-<ab type="juan" subtype="open">佛本行經卷第一</ab><lb
+<ab type='juan' subtype='open'>佛本行經卷第一</ab><lb
  n="0054c13" ed="T"/><lb
  n="0054c14" ed="T"/><byline>宋涼州沙門釋寶雲譯</byline><lb
- n="0054c15" ed="T"/><div type="pin" level="2"><head>因緣品第一</head><lb
- n="0054c16" ed="T"/><ab type="verse">
+ n="0054c15" ed="T"/><div type='pin' level='2'><head>因緣品第一</head><lb
+ n="0054c16" ed="T"/><ab type='verse'>
 今粗頒宣法，　　慈心專聽受；　　<lb
  n="0054c17" ed="T"/>佛眾經要義，　　聖師之言辭。　　<lb
  n="0054c18" ed="T"/>傳佛之典籍，　　最利益於世；　　<lb
@@ -135,8 +135,8 @@
  n="0055c11" ed="T"/>今我之所說，　　猶如鸚鵡言；　　<lb
  n="0055c12" ed="T"/>以歡悅仁等，　　可專意諦聽。」　　
 </ab></div><lb
- n="0055c13" ed="T"/><div type="pin" level="2"><head>佛本行經稱歎如來品第二</head><lb
- n="0055c14" ed="T"/><ab type="verse">
+ n="0055c13" ed="T"/><div type='pin' level='2'><head>佛本行經稱歎如來品第二</head><lb
+ n="0055c14" ed="T"/><ab type='verse'>
 今欲昇清虛，　　翔佛無外法；　　<lb
  n="0055c15" ed="T"/>適欲稱發言，　　心為之沈疑。　　<lb
  n="0055c16" ed="T"/>吾心之羽翮，　　勢弱不能強；　　<lb
@@ -210,13 +210,13 @@
  n="0056b26" ed="T"/>佛修種種業，　　治理法空城；　　<lb
  n="0056b27" ed="T"/>濟脫塵勞賊，　　將至無為城。　　
 </ab><lb
- n="0056b28" ed="T"/><ab type="verse">
+ n="0056b28" ed="T"/><ab type='verse'>
 日明照晝不及夜，　　不曜天上三惡趣；　　<lb
  n="0056b29" ed="T"/>佛光晝夜三千世，　　及至一切眾生心。　　<pb n="0056c" ed="T" id="T04.0193.0056c"/><lb
  n="0056c01" ed="T"/>佛神妙暉常盛明，　　千萬無數難可喻；　　<lb
  n="0056c02" ed="T"/>月之盛明十五日，　　其暉曜夜無益晝。　　
 </ab><lb
- n="0056c03" ed="T"/><ab type="verse">
+ n="0056c03" ed="T"/><ab type='verse'>
 天帝懷憂悴，　　壽命臨終沒；　　<lb
  n="0056c04" ed="T"/>垂退失天福，　　詣佛還見諦。　　<lb
  n="0056c05" ed="T"/>日月世眼目，　　阿須倫所嬈；　　<lb
@@ -226,13 +226,13 @@
  n="0056c09" ed="T"/>懷恚甚怒害，　　飲醉狂惑亂；　　<lb
  n="0056c10" ed="T"/>鴦崛魔醉象，　　佛以慈制伏。　　
 </ab><lb
- n="0056c11" ed="T"/><ab type="verse">
+ n="0056c11" ed="T"/><ab type='verse'>
 無量生死堅纏裹，　　愚癡之賊蔽其目；　　<lb
  n="0056c12" ed="T"/>佛以言箄智慧藥，　　決除欝鞞迦葉賊。　　<lb
  n="0056c13" ed="T"/>是三人等塵甚厚，　　假令聲聞如恒沙；　　<lb
  n="0056c14" ed="T"/>無有能動其毛者，　　唯佛濟使覩道明。　　
 </ab><lb
- n="0056c15" ed="T"/><ab type="verse">
+ n="0056c15" ed="T"/><ab type='verse'>
 容貌甚憍慢，　　因寶黼黻服；　　<lb
  n="0056c16" ed="T"/>迸沙最矜高，　　見佛屈修禮。　　<lb
  n="0056c17" ed="T"/>頭如戴火焰，　　牙長眼正赤；　　<lb
@@ -258,7 +258,7 @@
  n="0057a08" ed="T"/>致出甘露藥，　　永安滅老病；　　<lb
  n="0057a09" ed="T"/>最樂滅眾苦，　　服者離生死。　　
 </ab><lb
- n="0057a10" ed="T"/><ab type="verse">
+ n="0057a10" ed="T"/><ab type='verse'>
 佛明喻日不亂精，　　盛喻月滿而不寒；　　<lb
  n="0057a11" ed="T"/>樂過六天而消欲，　　燄如盛火無所燒。　　<lb
  n="0057a12" ed="T"/>法甚微妙德行具，　　眾善伏藏稱福聚；　　<lb
@@ -268,12 +268,12 @@
  n="0057a16" ed="T"/>如是無量清妙歎，　　眾聖窮劫不能盡；　　<lb
  n="0057a17" ed="T"/>況吾愚淺欲究竟，　　猶無舟船欲渡海。　　
 </ab><lb
- n="0057a18" ed="T"/><ab type="verse">
+ n="0057a18" ed="T"/><ab type='verse'>
 諸天皆叉手，　　懷悅謂金剛；　　<lb
  n="0057a19" ed="T"/>願佛下兜術，　　即受許為說。　　
 </ab></div><lb
- n="0057a20" ed="T"/><div type="pin" level="2"><head>佛本行經降胎品第三</head><lb
- n="0057a21" ed="T"/><ab type="verse">
+ n="0057a20" ed="T"/><div type='pin' level='2'><head>佛本行經降胎品第三</head><lb
+ n="0057a21" ed="T"/><ab type='verse'>
 處兜術宮時，　　以天眼普觀；　　<lb
  n="0057a22" ed="T"/>覩眾生苦惱，　　追憶往古誓。　　<lb
  n="0057a23" ed="T"/>本願安眾生，　　累劫勞求佛；　　<lb
@@ -309,13 +309,13 @@
  n="0057b24" ed="T"/>毛孔雜色光，　　明動兜術宮；　　<lb
  n="0057b25" ed="T"/>諸天懷疑集，　　肅敬禮菩薩。　　
 </ab><lb
- n="0057b26" ed="T"/><ab type="verse">
+ n="0057b26" ed="T"/><ab type='verse'>
 即時種種擊金鼓，　　任資賦與七覺籌；　　<lb
  n="0057b27" ed="T"/>誰欲與吾降世間？　　故相延請法賓會。　　<lb
  n="0057b28" ed="T"/>光從兜術照四方，　　樂役力渚閻浮提；　　<lb
  n="0057b29" ed="T"/>即勅侍臣卿月猛：　　「汝識世間大國王。　　
 </ab><pb n="0057c" ed="T" id="T04.0193.0057c"/><lb
- n="0057c01" ed="T"/><ab type="verse">
+ n="0057c01" ed="T"/><ab type='verse'>
 「何國可託生？　　不違古典制；　　<lb
  n="0057c02" ed="T"/>應遭遇菩薩，　　奉順佛言教。」　　<lb
  n="0057c03" ed="T"/>對曰：「唯聖聽，　　有大豪尊王，　　<lb
@@ -325,13 +325,13 @@
  n="0057c07" ed="T"/>光燄王留生，　　又王名勇武，　　<lb
  n="0057c08" ed="T"/>王善臂之子，　　又名白雪王。　　
 </ab><lb
- n="0057c09" ed="T"/><ab type="verse">
+ n="0057c09" ed="T"/><ab type='verse'>
 「是八大王有名聞，　　不審為可託生不？」　　<lb
  n="0057c10" ed="T"/>曰：「有是王穢不真，　　遍更察觀真正者。」　　<lb
  n="0057c11" ed="T"/>思惟斯須曰：「更有，　　轉輪王種壽興後，　　<lb
  n="0057c12" ed="T"/>王最盈後名師子，　　其子白淨釋中尊。」　　
 </ab><lb
- n="0057c13" ed="T"/><ab type="verse">
+ n="0057c13" ed="T"/><ab type='verse'>
 「善妙稱吾意，　　應託生為子。　　<lb
  n="0057c14" ed="T"/>白淨男中上，　　妙后女中英；　　<lb
  n="0057c15" ed="T"/>諸城邑之中，　　迦夷羅越最。　　<lb
@@ -360,25 +360,25 @@
  n="0058a09" ed="T"/>樹神見眾花，　　開張如目視；　　<lb
  n="0058a10" ed="T"/>魔王愛樂樹，　　即萎憔悴愁。　　
 </ab><lb
- n="0058a11" ed="T"/><ab type="verse">
+ n="0058a11" ed="T"/><ab type='verse'>
 妙后寐寤尋憶夢，　　諸根寂然喜踊躍；　　<lb
  n="0058a12" ed="T"/>舉目四向遍察視，　　王顏怡悅蓮華色。　　<lb
  n="0058a13" ed="T"/>即啟王曰：「唯願聽，　　夢中所見甚吉祥；　　<lb
  n="0058a14" ed="T"/>大白象王有六牙，　　忽然來至在我前。」　　
 </ab><lb
- n="0058a15" ed="T"/><ab type="verse">
+ n="0058a15" ed="T"/><ab type='verse'>
 王聞后所夢，　　懷疑喜踊躍；　　<lb
  n="0058a16" ed="T"/>即召梵志占，　　為說夢所見。　　<lb
  n="0058a17" ed="T"/>明達善占夢，　　思惟乃發言；　　<lb
  n="0058a18" ed="T"/>按典籍占夢，　　唯聽今諦說：　　
 </ab><lb
- n="0058a19" ed="T"/><ab type="verse">
+ n="0058a19" ed="T"/><ab type='verse'>
 「女夢日光明入腹，　　因此懷妊生吉子；　　<lb
  n="0058a20" ed="T"/>如日赫照普地界，　　其子德尊主十方。　　<lb
  n="0058a21" ed="T"/>夢見月滿眾生俱，　　光照女腹因懷胎；　　<lb
  n="0058a22" ed="T"/>生子聖達轉金輪，　　典主四方正法治。　　
 </ab><lb
- n="0058a23" ed="T"/><ab type="verse">
+ n="0058a23" ed="T"/><ab type='verse'>
 「此女夢白象，　　趣入其右脅；　　<lb
  n="0058a24" ed="T"/>此子無瑕穢，　　天人稽首禮；　　<lb
  n="0058a25" ed="T"/>一切無不知，　　所生必為佛。　　<lb
@@ -405,8 +405,8 @@
  n="0058b17" ed="T"/>后覺生期至，　　遊詣花香園；　　<lb
  n="0058b18" ed="T"/>其園肅肅清，　　諸妙神來集。　　
 </ab></div><lb
- n="0058b19" ed="T"/><div type="pin" level="2"><head>佛本行經如來生品第四</head><lb
- n="0058b20" ed="T"/><ab type="verse">
+ n="0058b19" ed="T"/><div type='pin' level='2'><head>佛本行經如來生品第四</head><lb
+ n="0058b20" ed="T"/><ab type='verse'>
 于時佛星，　　適與月合；　　吉瑞應期，　　<lb
  n="0058b21" ed="T"/>從右脇生。　　猶如雲除，　　千日霍現；　　<lb
  n="0058b22" ed="T"/>譬如久冥，　　炬光卒耀。　　東方為首，　　<lb
@@ -500,8 +500,8 @@
  n="0059b23" ed="T"/>天阿須倫，　　棄捨怨嫌。　　從白淨月，　　<lb
  n="0059b24" ed="T"/>出清涼光；　　普為世間，　　滅愛憎火。　　
 </ab></div><lb
- n="0059b25" ed="T"/><div type="pin" level="2"><head>佛本行經梵志占相品第五</head><lb
- n="0059b26" ed="T"/><ab type="verse">
+ n="0059b25" ed="T"/><div type='pin' level='2'><head>佛本行經梵志占相品第五</head><lb
+ n="0059b26" ed="T"/><ab type='verse'>
 當爾之時，　　眾善普會；　　殃患消滅，　　<lb
  n="0059b27" ed="T"/>快樂無極。　　王因是喜，　　赦降天下；　　<lb
  n="0059b28" ed="T"/>欣慶來集，　　如眾川流。　　如天帝釋，　　<lb
@@ -575,8 +575,8 @@
  n="0060b09" ed="T"/>以妙寶瓔，　　繫太子頸。　　慈心叉手，　　<lb
  n="0060b10" ed="T"/>歎其德曰：　　「先臨聖王，　　然後出家。」　　
 </ab></div><lb
- n="0060b11" ed="T"/><div type="pin" level="2"><head>佛本行經阿夷決疑品第六</head><lb
- n="0060b12" ed="T"/><ab type="verse">
+ n="0060b11" ed="T"/><div type='pin' level='2'><head>佛本行經阿夷決疑品第六</head><lb
+ n="0060b12" ed="T"/><ab type='verse'>
 高山花果池，　　快樂如天觀；　　<lb
  n="0060b13" ed="T"/>眾山少及者，　　故名阿夷岳。　　<lb
  n="0060b14" ed="T"/>曩久居此山，　　年耆結簇髮；　　<lb
@@ -699,8 +699,8 @@
  n="0061c15" ed="T"/>即呼弟子來：　　「汝莫如吾誤。」　　<lb
  n="0061c16" ed="T"/>以徒託太子，　　阿夷辭還退。　　
 </ab></div><lb
- n="0061c17" ed="T"/><div type="pin" level="2"><head>佛本行經入譽論品第七</head><lb
- n="0061c18" ed="T"/><ab type="verse">
+ n="0061c17" ed="T"/><div type='pin' level='2'><head>佛本行經入譽論品第七</head><lb
+ n="0061c18" ed="T"/><ab type='verse'>
 是時釋王，　　德日夜增；　　寶倉國境，　　<lb
  n="0061c19" ed="T"/>名稱智慧。　　金寶積聚，　　種種瓔珞；　　<lb
  n="0061c20" ed="T"/>眾善來歸，　　如秋海淵。　　象馬車乘，　　<lb
@@ -750,7 +750,7 @@
  n="0062b06" ed="T"/>攝藏輝光，　　不甘五欲；　　口終不發，　　<lb
  n="0062b07" ed="T"/>不遜之言。　　
 </ab><lb
- n="0062b08" ed="T"/><ab type="verse">
+ n="0062b08" ed="T"/><ab type='verse'>
 眼不起視色，　　猶餓夫於樂；　　<lb
  n="0062b09" ed="T"/>諸伎女懷慚，　　如冥逃光走。　　<lb
  n="0062b10" ed="T"/>父王聞是已，　　不安寢於床；　　<lb
@@ -808,7 +808,7 @@
  n="0063a04" ed="T"/>如是歌稱聲，　　斯須流聞王；　　<lb
  n="0063a05" ed="T"/>王聞甚歡悅，　　重賜名寶珍。　　
 </ab><lb
- n="0063a06" ed="T"/><ab type="verse">
+ n="0063a06" ed="T"/><ab type='verse'>
 王即令求，　　女父母來；　　賜與珍寶，　　<lb
  n="0063a07" ed="T"/>不可稱計。　　召明梵志，　　卜擇良辰；　　<lb
  n="0063a08" ed="T"/>塗香坦地，　　飾以眾花。　　以神呪酥，　　<lb
@@ -817,15 +817,15 @@
  n="0063a11" ed="T"/>如日月星。　　
 </ab></div><lb
  n="0063a12" ed="T"/>
-<ab type="juan" subtype="close">佛本行經卷第一</ab><lb
+<ab type='juan' subtype='close'>佛本行經卷第一</ab><lb
  n="0063a13" ed="T"/><lb
  n="0063a14" ed="T"/><lb
  n="0063a15" ed="T"/>
-<ab type="juan" subtype="open">佛本行經卷第二</ab><lb
+<ab type='juan' subtype='open'>佛本行經卷第二</ab><lb
  n="0063a16" ed="T"/><lb
  n="0063a17" ed="T"/><byline>宋涼州沙門釋寶雲譯</byline><lb
- n="0063a18" ed="T"/><div type="pin" level="2"><head>與眾婇女遊居品第八</head><lb
- n="0063a19" ed="T"/><ab type="verse">
+ n="0063a18" ed="T"/><div type='pin' level='2'><head>與眾婇女遊居品第八</head><lb
+ n="0063a19" ed="T"/><ab type='verse'>
 種種嚴飾，　　猶如天宮；　　春秋冬夏，　　<lb
  n="0063a20" ed="T"/>四時各異。　　應節修治，　　遊觀園池；　　<lb
  n="0063a21" ed="T"/>亦如天帝，　　施安樹林。　　太子因遊，　　<lb
@@ -908,8 +908,8 @@
  n="0064a11" ed="T"/>亦無堅要。　　合會有離，　　汝當諦覺。」　　<lb
  n="0064a12" ed="T"/>太子自思：　　「是吾出應。」　　
 </ab></div><lb
- n="0064a13" ed="T"/><div type="pin" level="2"><head>佛本行經現憂懼品第九</head><lb
- n="0064a14" ed="T"/><ab type="verse">
+ n="0064a13" ed="T"/><div type='pin' level='2'><head>佛本行經現憂懼品第九</head><lb
+ n="0064a14" ed="T"/><ab type='verse'>
 王愍太子愁，　　勸令行遊觀；　　<lb
  n="0064a15" ed="T"/>始出宮城門，　　霍然日出雲。　　<lb
  n="0064a16" ed="T"/>駕乘七寶車，　　眾德相自嚴；　　<lb
@@ -1085,8 +1085,8 @@
  n="0066a12" ed="T"/>還至遊觀園；　　心寂滅定安，　　<lb
  n="0066a13" ed="T"/>意思若干種，　　眾善之方便。　　
 </ab></div><lb
- n="0066a14" ed="T"/><div type="pin" level="2"><head>佛本行經閻浮提樹蔭品第十</head><lb
- n="0066a15" ed="T"/><ab type="verse">
+ n="0066a14" ed="T"/><div type='pin' level='2'><head>佛本行經閻浮提樹蔭品第十</head><lb
+ n="0066a15" ed="T"/><ab type='verse'>
 菩薩於是時，　　心懷慘然還；　　<lb
  n="0066a16" ed="T"/>過到遊觀園，　　德曜猶天帝。　　<lb
  n="0066a17" ed="T"/>諸仙聖之王，　　不以女色惑；　　<lb
@@ -1212,8 +1212,8 @@
  n="0067b21" ed="T"/>即勅諸傍臣，　　增伎樂牢守；　　<lb
  n="0067b22" ed="T"/>於時聖太子，　　入宮自消息。　　
 </ab></div><lb
- n="0067b23" ed="T"/><div type="pin" level="2"><head>佛本行經出家品第十一</head><lb
- n="0067b24" ed="T"/><ab type="verse">
+ n="0067b23" ed="T"/><div type='pin' level='2'><head>佛本行經出家品第十一</head><lb
+ n="0067b24" ed="T"/><ab type='verse'>
 太子於是時，　　心懷甚憔悴；　　<lb
  n="0067b25" ed="T"/>又更詣父王，　　盡意勤求出。　　<lb
  n="0067b26" ed="T"/>「尊若見憐愍，　　願觀世擾動；　　<lb
@@ -1239,7 +1239,7 @@
  n="0067c17" ed="T"/>寫恩愛所生，　　久積之涕泣；　　<lb
  n="0067c18" ed="T"/>淚盈目入澤，　　以塞先人責。」　　
 </ab><lb
- n="0067c19" ed="T"/><ab type="verse">
+ n="0067c19" ed="T"/><ab type='verse'>
 太子聞王令如是，　　即啟王以清深辭；　　<lb
  n="0067c20" ed="T"/>「已審覺王垂愛愍，　　余亦孝敬重愛尊。　　<lb
  n="0067c21" ed="T"/>若欲逃出夫火宅，　　有親愛遮不令出；　　<lb
@@ -1257,13 +1257,13 @@
  n="0068a04" ed="T"/>尊以王位盡委授，　　彼無恃怙無歸救；　　<lb
  n="0068a05" ed="T"/>猶負大石渡深水，　　是故不宜受王位。」　　
 </ab><lb
- n="0068a06" ed="T"/><ab type="verse">
+ n="0068a06" ed="T"/><ab type='verse'>
 王聞太子言，　　辭理甚正直；　　<lb
  n="0068a07" ed="T"/>子言不可答，　　無理可固遮。　　<lb
  n="0068a08" ed="T"/>即令勅諸臣，　　竊守太子宮；　　<lb
  n="0068a09" ed="T"/>增益其伎樂，　　莫令子愁慘。　　
 </ab><lb
- n="0068a10" ed="T"/><ab type="verse">
+ n="0068a10" ed="T"/><ab type='verse'>
 已後不久，　　日向欲夕；　　於是入宮，　　<lb
  n="0068a11" ed="T"/>如月入雲。　　坐觀伎樂，　　如象被閉；　　<lb
  n="0068a12" ed="T"/>患厭伎樂，　　小却偃息。　　雖小偃息，　　<lb
@@ -1351,20 +1351,20 @@
  n="0069a07" ed="T"/>即便下馬，　　入山澤中；　　心懷歡喜，　　<lb
  n="0069a08" ed="T"/>辦已大事。　　
 </ab></div><lb
- n="0069a09" ed="T"/><div type="pin" level="2"><head>佛本行經車匿品第十二</head><lb
- n="0069a10" ed="T"/><ab type="verse">
+ n="0069a09" ed="T"/><div type='pin' level='2'><head>佛本行經車匿品第十二</head><lb
+ n="0069a10" ed="T"/><ab type='verse'>
 菩薩以普慈，　　目睫紺青色；　　<lb
  n="0069a11" ed="T"/>眼雨淚且言，　　盡心曉車匿。　　<lb
  n="0069a12" ed="T"/>金鞘明珠靶，　　拔劍如抽虺；　　<lb
  n="0069a13" ed="T"/>自以剃其頭，　　天敬接髮去。　　
 </ab><lb
- n="0069a14" ed="T"/><ab type="verse">
+ n="0069a14" ed="T"/><ab type='verse'>
 解寶瓔珞付車匿，　　遙跪敬意囑及曰：　　<lb
  n="0069a15" ed="T"/>「以此寶珠拜上王，　　執慈意啟唯莫憂。　　<lb
  n="0069a16" ed="T"/>畏死懷懼甚苦劇，　　乃令父王失所僥；　　<lb
  n="0069a17" ed="T"/>未還膝下之報養，　　乃令慈母宿天上。　　
 </ab><lb
- n="0069a18" ed="T"/><ab type="verse">
+ n="0069a18" ed="T"/><ab type='verse'>
 「未致父子，　　慈孝恩養；　　畏死別痛，　　<lb
  n="0069a19" ed="T"/>入山滅意。　　覺生死惡，　　事甚眾多；　　<lb
  n="0069a20" ed="T"/>我性本調，　　強變令疎。　　如父戀愛，　　<lb
@@ -1396,7 +1396,7 @@
  n="0069b17" ed="T"/>必當強遭，　　別離之患；　　死對不避，　　<lb
  n="0069b18" ed="T"/>賢愚貴賤。　　
 </ab><lb
- n="0069b19" ed="T"/><ab type="verse">
+ n="0069b19" ed="T"/><ab type='verse'>
 「親族恩愛會，　　必當強別離；　　<lb
  n="0069b20" ed="T"/>奚不別求度，　　不令強死別。　　<lb
  n="0069b21" ed="T"/>王若懷此想，　　子非時入山；　　<lb
@@ -1472,8 +1472,8 @@
  n="0070b04" ed="T"/>太子捨家出，　　願逮不動處；　　<lb
  n="0070b05" ed="T"/>欲令一切生，　　皆逮得是處。　　
 </ab></div><lb
- n="0070b06" ed="T"/><div type="pin" level="2"><head>佛本行經瓶沙王問事品第十三</head><lb
- n="0070b07" ed="T"/><ab type="verse">
+ n="0070b06" ed="T"/><div type='pin' level='2'><head>佛本行經瓶沙王問事品第十三</head><lb
+ n="0070b07" ed="T"/><ab type='verse'>
 於是車匿，　　將馬去後；　　寂然滅意，　　<lb
  n="0070b08" ed="T"/>詳雄猛步。　　如師子王，　　裂壞眾網；　　<lb
  n="0070b09" ed="T"/>專心一向，　　樂居山澤。　　形體巍巍，　　<lb
@@ -1481,7 +1481,7 @@
  n="0070b11" ed="T"/>雖獨遊行，　　德如大眾；　　眾善內著，　　<lb
  n="0070b12" ed="T"/>外福始友。　　
 </ab><lb
- n="0070b13" ed="T"/><ab type="verse">
+ n="0070b13" ed="T"/><ab type='verse'>
 行且自思惟，　　不宜著綵服；　　<lb
  n="0070b14" ed="T"/>忽見釋化作，　　獵師被袈裟。　　<lb
  n="0070b15" ed="T"/>太子因語曰：　　「此服非汝宜，　　<lb
@@ -1664,15 +1664,15 @@
  n="0072b18" ed="T"/>執慈而默視，　　清心聽報誨。　　
 </ab></div><lb
  n="0072b19" ed="T"/>
-<ab type="juan" subtype="close">佛本行經卷第二</ab><lb
+<ab type='juan' subtype='close'>佛本行經卷第二</ab><lb
  n="0072b20" ed="T"/><lb
  n="0072b21" ed="T"/><lb
  n="0072b22" ed="T"/>
-<ab type="juan" subtype="open">佛本行經卷第三</ab><lb
+<ab type='juan' subtype='open'>佛本行經卷第三</ab><lb
  n="0072b23" ed="T"/><lb
  n="0072b24" ed="T"/><byline>宋涼州沙門釋寶雲譯</byline><lb
- n="0072b25" ed="T"/><div type="pin" level="2"><head>為瓶沙王說法品第十四</head><lb
- n="0072b26" ed="T"/><ab type="verse">
+ n="0072b25" ed="T"/><div type='pin' level='2'><head>為瓶沙王說法品第十四</head><lb
+ n="0072b26" ed="T"/><ab type='verse'>
 意如重慶雲，　　欲時降甘露；　　<lb
  n="0072b27" ed="T"/>以深奧流聲，　　清淨梵天音。　　<lb
  n="0072b28" ed="T"/>又復以八種，　　柔軟和調嚮；　　<lb
@@ -1684,7 +1684,7 @@
  n="0072c05" ed="T"/>見王諸淨意，　　內意清淨徹；　　<lb
  n="0072c06" ed="T"/>猶如晝陰霧，　　花開知日出。　　
 </ab><lb
- n="0072c07" ed="T"/><ab type="verse">
+ n="0072c07" ed="T"/><ab type='verse'>
 「雖施恩於愚人，　　恩德終不居之；　　<lb
  n="0072c08" ed="T"/>施少善於賢人，　　其恩好日日厚。　　<lb
  n="0072c09" ed="T"/>今視王甚奇特，　　不迷惑於王位；　　<lb
@@ -1692,7 +1692,7 @@
  n="0072c11" ed="T"/>智慧人若得財，　　以不要財為要；　　<lb
  n="0072c12" ed="T"/>身不要如炎花，　　慧者從身取要。　　
 </ab><lb
- n="0072c13" ed="T"/><ab type="verse">
+ n="0072c13" ed="T"/><ab type='verse'>
 「眾生昇天，　　甚得大利；　　諸土地主，　　<lb
  n="0072c14" ed="T"/>以正治法。　　正法之王，　　順理而治；　　<lb
  n="0072c15" ed="T"/>一切人民，　　皆從真正。　　若有財寶，　　<lb
@@ -1838,8 +1838,8 @@
  n="0074b10" ed="T"/>逃身速疾，　　不遇雨渧。　　大王亦當，　　<lb
  n="0074b11" ed="T"/>如是逃意；　　莫遇惡相，　　以自免濟。」　　
 </ab></div><lb
- n="0074b12" ed="T"/><div type="pin" level="2"><head>佛本行經不然阿蘭品第十五</head><lb
- n="0074b13" ed="T"/><ab type="verse">
+ n="0074b12" ed="T"/><div type='pin' level='2'><head>佛本行經不然阿蘭品第十五</head><lb
+ n="0074b13" ed="T"/><ab type='verse'>
 如是菩薩，　　廣肩長臂；　　安徐詳雅，　　<lb
  n="0074b14" ed="T"/>師子應步。　　詣阿蘭問，　　生死出要；　　<lb
  n="0074b15" ed="T"/>意欲斷壞，　　生死門閫。　　遙見阿蘭，　　<lb
@@ -1983,8 +1983,8 @@
  n="0076a08" ed="T"/>願使眾生，　　蒙如所歎；　　十方眾生，　　<lb
  n="0076a09" ed="T"/>逮得所願。」　　
 </ab></div><lb
- n="0076a10" ed="T"/><div type="pin" level="2"><head>佛本行經降魔品第十六</head><lb
- n="0076a11" ed="T"/><ab type="verse">
+ n="0076a10" ed="T"/><div type='pin' level='2'><head>佛本行經降魔品第十六</head><lb
+ n="0076a11" ed="T"/><ab type='verse'>
 時菩薩始坐，　　座號金剛齊；　　<lb
  n="0076a12" ed="T"/>建立金剛心，　　三千世界震。　　<lb
  n="0076a13" ed="T"/>地神喜踊躍，　　數數而震動；　　<lb
@@ -2046,7 +2046,7 @@
  n="0076c11" ed="T"/>便語菩薩曰：　　「咄起剎利種；　　<lb
  n="0076c12" ed="T"/>如何故畏死，　　棄己帝王位？　　
 </ab><lb
- n="0076c13" ed="T"/><ab type="verse">
+ n="0076c13" ed="T"/><ab type='verse'>
 「相仁妙臂當執弓，　　應食世間之榮位；　　<lb
  n="0076c14" ed="T"/>古王之路名普聞，　　汝應當受頭縱恣。　　<lb
  n="0076c15" ed="T"/>應食世妙祠嚴國，　　普令役世無遺餘；　　<lb
@@ -2114,7 +2114,7 @@
  n="0077b19" ed="T"/>有一天人謂魔王：　　「熟尊觀是仙聖德；　　<lb
  n="0077b20" ed="T"/>身中照現諸天宮。　　
 </ab><lb
- n="0077b21" ed="T"/><ab type="verse">
+ n="0077b21" ed="T"/><ab type='verse'>
 「日月五星及諸宿，　　鐵圍須彌江海淵；　　<lb
  n="0077b22" ed="T"/>釋梵四王太山君，　　一切照現菩薩身，　　<lb
  n="0077b23" ed="T"/>猶如普世現月中。」　　於是魔王益恚盛；　　<lb
@@ -2253,15 +2253,15 @@
  n="0079a11" ed="T"/>終不能令吾意動，　　以功德力勝降之。」　　
 </ab></div><lb
  n="0079a12" ed="T"/>
-<ab type="juan" subtype="close">佛本行經卷第三</ab><lb
+<ab type='juan' subtype='close'>佛本行經卷第三</ab><lb
  n="0079a13" ed="T"/><lb
  n="0079a14" ed="T"/><lb
  n="0079a15" ed="T"/>
-<ab type="juan" subtype="open">佛本行經卷第四</ab><lb
+<ab type='juan' subtype='open'>佛本行經卷第四</ab><lb
  n="0079a16" ed="T"/><lb
  n="0079a17" ed="T"/><byline>宋涼洲沙門釋寶雲譯</byline><lb
- n="0079a18" ed="T"/><div type="pin" level="2"><head>度五比丘品第十七</head><lb
- n="0079a19" ed="T"/><ab type="verse">
+ n="0079a18" ed="T"/><div type='pin' level='2'><head>度五比丘品第十七</head><lb
+ n="0079a19" ed="T"/><ab type='verse'>
 「敬順於佛，　　意無差別；　　吾愍汝等，　　<lb
  n="0079a20" ed="T"/>令離罪咎。　　佛於世間，　　普施以善；　　<lb
  n="0079a21" ed="T"/>以平等慈，　　猶如赤子。　　其有慢意，　　<lb
@@ -2277,7 +2277,7 @@
  n="0079b02" ed="T"/>猶如盛火，　　得風吹動；　　燒然乾薪，　　<lb
  n="0079b03" ed="T"/>終不休滅。　　
 </ab><lb
- n="0079b04" ed="T"/><ab type="verse">
+ n="0079b04" ed="T"/><ab type='verse'>
 「人縱情意，　　迷惑六欲；　　塵勞穢行，　　<lb
  n="0079b05" ed="T"/>終不損滅。　　盛炎雖滅，　　餘有少火；　　<lb
  n="0079b06" ed="T"/>終不捨本，　　燒燋之性。　　意雖精微，　　<lb
@@ -2313,8 +2313,8 @@
  n="0079c07" ed="T"/>願使眾生，　　速轉法輪；　　如佛世尊，　　<lb
  n="0079c08" ed="T"/>說法度人。　　
 </ab></div><lb
- n="0079c09" ed="T"/><div type="pin" level="2"><head>佛本行經度寶稱品第十八</head><lb
- n="0079c10" ed="T"/><ab type="verse">
+ n="0079c09" ed="T"/><div type='pin' level='2'><head>佛本行經度寶稱品第十八</head><lb
+ n="0079c10" ed="T"/><ab type='verse'>
 久無央數劫，　　所積得善本；　　<lb
  n="0079c11" ed="T"/>逮得昔所願，　　先以授五人。　　<lb
  n="0079c12" ed="T"/>猶如事火祠，　　得酥益增熾；　　<lb
@@ -2516,8 +2516,8 @@
  n="0082a05" ed="T"/>皆尋得安隱，　　不危墜之處；　　<lb
  n="0082a06" ed="T"/>聞已樂學者，　　當入泥洹城。　　
 </ab></div><lb
- n="0082a07" ed="T"/><div type="pin" level="2"><head>佛本行經廣度品第十九</head><lb
- n="0082a08" ed="T"/><ab type="verse">
+ n="0082a07" ed="T"/><div type='pin' level='2'><head>佛本行經廣度品第十九</head><lb
+ n="0082a08" ed="T"/><ab type='verse'>
 獨為一切護，　　獨為世間師；　　<lb
  n="0082a09" ed="T"/>為天人為導，　　號佛天中天。　　<lb
  n="0082a10" ed="T"/>長夜在塵勞，　　久處昏眠者；　　<lb
@@ -2652,7 +2652,7 @@
  n="0083b23" ed="T"/>牛勝絜長頸，　　未發并泉作。　　<lb
  n="0083b24" ed="T"/>如是等羅漢，　　同一有五百；　　<lb
  n="0083b25" ed="T"/>略說其端首，　　度者無央數。　　<lb
- n="0083b26" ed="T"/>或以柔軟教，　　或以麤穬辭；　　<lb
+ n="0083b26" ed="T"/>或以柔軟教，　　或以麤獷辭；　　<lb
  n="0083b27" ed="T"/>或以剛柔調，　　佛盡教化之。　　<lb
  n="0083b28" ed="T"/>調達之所放，　　狂醉於王舍；　　<lb
  n="0083b29" ed="T"/>佛所化迷惑，　　醉象名財守。　　<pb n="0083c" ed="T" id="T04.0193.0083c"/><lb
@@ -2683,8 +2683,8 @@
  n="0083c25" ed="T"/>見佛受化者，　　世間今故有；　　<lb
  n="0083c26" ed="T"/>是等護國土，　　災患永消亡。　　
 </ab></div><lb
- n="0083c27" ed="T"/><div type="pin" level="2"><head>佛本行經現大神變品第二十</head><lb
- n="0083c28" ed="T"/><ab type="verse">
+ n="0083c27" ed="T"/><div type='pin' level='2'><head>佛本行經現大神變品第二十</head><lb
+ n="0083c28" ed="T"/><ab type='verse'>
 諸天之帝，　　與諸天俱；　　已勝強怨，　　<lb
  n="0083c29" ed="T"/>諸阿須倫。　　名稱力勢，　　普增遠聞；　　<pb n="0084a" ed="T" id="T04.0193.0084a"/><lb
  n="0084a01" ed="T"/>坐施安床，　　心喜無量。　　以微妙法，　　<lb
@@ -2930,7 +2930,7 @@
  n="0086c09" ed="T"/>世間無復，　　愚癡之冥；　　一切智明，　　<lb
  n="0086c10" ed="T"/>愚癡除無。　　
 </ab><lb
- n="0086c11" ed="T"/><ab type="verse">
+ n="0086c11" ed="T"/><ab type='verse'>
 紺色光明，　　晃深虛空；　　坐於千葉，　　<lb
  n="0086c12" ed="T"/>寶蓮花上。　　佛現福報，　　滿是世界；　　<lb
  n="0086c13" ed="T"/>猶如大海，　　七寶充盈。　　佛現眾會，　　<lb
@@ -2955,9 +2955,9 @@
  n="0087a03" ed="T"/>安樂之城。　　
 </ab></div><lb
  n="0087a04" ed="T"/>
-<ab type="juan" subtype="close">佛本行經卷第四</ab><lb
- n="0087a05" ed="T"/><div type="w" level="2"><head>轉法輪品第十七</head><lb
- n="0087a06" ed="T"/><ab type="verse">
+<ab type='juan' subtype='close'>佛本行經卷第四</ab><lb
+ n="0087a05" ed="T"/><div type='w' level='2'><head>轉法輪品第十七</head><lb
+ n="0087a06" ed="T"/><ab type='verse'>
 願成懷歡喜，　　悅澤樹王下；　　<lb
  n="0087a07" ed="T"/>坐觀樹七日，　　不食喜充盈。　　<lb
  n="0087a08" ed="T"/>猶王初臨國，　　巡行妙寶藏；　　<lb
@@ -2975,7 +2975,7 @@
  n="0087a20" ed="T"/>慈目視無厭，　　盡敬白佛言：　　<lb
  n="0087a21" ed="T"/>「願憶果敢誓，　　施甘露於世。　　
 </ab><lb
- n="0087a22" ed="T"/><ab type="verse">
+ n="0087a22" ed="T"/><ab type='verse'>
 「世人如藕，　　華微妙好；　　或齊水敷，　　<lb
  n="0087a23" ed="T"/>或出水上。　　眾生欽仰，　　佛日當出；　　<lb
  n="0087a24" ed="T"/>蒙日心開，　　猶池中華。　　捨佛世尊，　　<lb
@@ -3078,11 +3078,11 @@
  n="0088b04" ed="T"/><lb
  n="0088b05" ed="T"/><lb
  n="0088b06" ed="T"/>
-<ab type="juan" subtype="open">佛本行經卷第五</ab><lb
+<ab type='juan' subtype='open'>佛本行經卷第五</ab><lb
  n="0088b07" ed="T"/><lb
  n="0088b08" ed="T"/><byline>宋涼州沙門釋寶雲譯</byline><lb
- n="0088b09" ed="T"/><div type="pin" level="2"><head>昇忉利宮為母說法品第二十一</head><lb
- n="0088b10" ed="T"/><ab type="verse">
+ n="0088b09" ed="T"/><div type='pin' level='2'><head>昇忉利宮為母說法品第二十一</head><lb
+ n="0088b10" ed="T"/><ab type='verse'>
 以正法甘露，　　充飽世間人；　　<lb
  n="0088b11" ed="T"/>下解脫種者，　　皆放受其報。　　<lb
  n="0088b12" ed="T"/>佛功德猶日，　　正法喻光明；　　<lb
@@ -3144,8 +3144,8 @@
  n="0089a10" ed="T"/>時無數諸天，　　聞微妙大法；　　<lb
  n="0089a11" ed="T"/>即殖善德種，　　鮮潔佛之種。　　
 </ab></div><lb
- n="0089a12" ed="T"/><div type="pin" level="2"><head>佛本行經憶先品第二十二</head><lb
- n="0089a13" ed="T"/><ab type="verse">
+ n="0089a12" ed="T"/><div type='pin' level='2'><head>佛本行經憶先品第二十二</head><lb
+ n="0089a13" ed="T"/><ab type='verse'>
 於是天中天，　　諸天世人師；　　<lb
  n="0089a14" ed="T"/>在於大王境，　　摩竭之國土。　　<lb
  n="0089a15" ed="T"/>遊止竹林園，　　思憶往古世；　　<lb
@@ -3241,8 +3241,8 @@
  n="0090a18" ed="T"/>晝夜行眾善，　　以休息其意；　　<lb
  n="0090a19" ed="T"/>緣是自勸進，　　志願在佛道。　　
 </ab></div><lb
- n="0090a20" ed="T"/><div type="pin" level="2"><head>佛本行經遊維耶離品第二十三</head><lb
- n="0090a21" ed="T"/><ab type="verse">
+ n="0090a20" ed="T"/><div type='pin' level='2'><head>佛本行經遊維耶離品第二十三</head><lb
+ n="0090a21" ed="T"/><ab type='verse'>
 世智一切敏，　　所願無不成；　　<lb
  n="0090a22" ed="T"/>慈哀加眾生，　　如人有一子。　　<lb
  n="0090a23" ed="T"/>猶如轉輪王，　　放教靡不從；　　<lb
@@ -3396,8 +3396,8 @@
  n="0091c26" ed="T"/>猶如化猛盛，　　還反地獄苦；　　<lb
  n="0091c27" ed="T"/>及無數眾生，　　皆下生天種。　　
 </ab></div><lb
- n="0091c28" ed="T"/><div type="pin" level="2"><head>佛本行經歎定光佛品第二十四</head><lb
- n="0091c29" ed="T"/><ab type="verse">
+ n="0091c28" ed="T"/><div type='pin' level='2'><head>佛本行經歎定光佛品第二十四</head><lb
+ n="0091c29" ed="T"/><ab type='verse'>
 宿世殖百福，　　千巖峻無極；　　<pb n="0092a" ed="T" id="T04.0193.0092a"/><lb
  n="0092a01" ed="T"/>智慧之川谷，　　甚深難可測。　　<lb
  n="0092a02" ed="T"/>眾口言辭風，　　不能令傾動；　　<lb
@@ -3407,7 +3407,7 @@
  n="0092a06" ed="T"/>時阿難見此，　　未曾為瑞應；　　<lb
  n="0092a07" ed="T"/>懷踊躍喜心，　　長跪白佛言：　　
 </ab><lb
- n="0092a08" ed="T"/><ab type="verse">
+ n="0092a08" ed="T"/><ab type='verse'>
 「種種天花，　　甚微妙好；　　如有心意，　　<lb
  n="0092a09" ed="T"/>來供養佛。　　猶如林樹，　　遇群野馬；　　<lb
  n="0092a10" ed="T"/>如雪山中，　　眾花香樹。　　面如千葉，　　<lb
@@ -3447,7 +3447,7 @@
  n="0092b15" ed="T"/>以足蹈地，　　跡如印章；　　千輻相輪，　　<lb
  n="0092b16" ed="T"/>微妙而明。　　
 </ab><lb
- n="0092b17" ed="T"/><ab type="verse">
+ n="0092b17" ed="T"/><ab type='verse'>
 「調御六情馬，　　駕乘六度車；　　<lb
  n="0092b18" ed="T"/>施戒之輦輿，　　慈箱喜護屋。　　<lb
  n="0092b19" ed="T"/>定意以調御，　　八正之大幢；　　<lb
@@ -3497,7 +3497,7 @@
  n="0093a05" ed="T"/>女叉手答曰：　　『終不違仁心，　　<lb
  n="0093a06" ed="T"/>今便當誓願，　　安施不敢逆。』　　
 </ab><lb
- n="0093a07" ed="T"/><ab type="verse">
+ n="0093a07" ed="T"/><ab type='verse'>
 「即取其價，　　與花五莖；　　別託二枚，　　<lb
  n="0093a08" ed="T"/>以結誓願。　　爾時菩薩，　　得花七枚；　　<lb
  n="0093a09" ed="T"/>即便建立，　　決定上願：　　『如今天尊，　　<lb
@@ -3558,8 +3558,8 @@
  n="0093c06" ed="T"/>施眾善德。　　布施持戒，　　智慧勤修；　　<lb
  n="0093c07" ed="T"/>彌勒出世，　　顯其福報。」　　
 </ab></div><lb
- n="0093c08" ed="T"/><div type="pin" level="2"><head>佛本行經降象品第二十五</head><lb
- n="0093c09" ed="T"/><ab type="verse">
+ n="0093c08" ed="T"/><div type='pin' level='2'><head>佛本行經降象品第二十五</head><lb
+ n="0093c09" ed="T"/><ab type='verse'>
 爾時世尊，　　遊王舍城；　　行福眾生，　　<lb
  n="0093c10" ed="T"/>地為大動。　　諸佛瑞應，　　奇異感變；　　<lb
  n="0093c11" ed="T"/>欲入城時，　　皆為顯現。　　爾時調達，　　<lb
@@ -3568,7 +3568,7 @@
  n="0093c14" ed="T"/>教使逆惡：　　「汝篡父王，　　我當殺佛；　　<lb
  n="0093c15" ed="T"/>俱共照照，　　猶如日月。」　　
 </ab><lb
- n="0093c16" ed="T"/><ab type="verse">
+ n="0093c16" ed="T"/><ab type='verse'>
 飲王以偽辭，　　飲象以醇酒；　　<lb
  n="0093c17" ed="T"/>象得醉酒狂，　　鳴吼如雷震。　　<lb
  n="0093c18" ed="T"/>即時放醉象，　　奔馳來向佛；　　<lb
@@ -3742,13 +3742,13 @@
  n="0095c12" ed="T"/>其聞是奉持，　　至心得向佛；　　<lb
  n="0095c13" ed="T"/>奉行善因緣，　　都令諸苦滅。　　
 </ab></div><lb
- n="0095c14" ed="T"/><div type="pin" level="2"><head>佛本行經魔勸捨壽品第二十六</head><lb
- n="0095c15" ed="T"/><ab type="verse">
+ n="0095c14" ed="T"/><div type='pin' level='2'><head>佛本行經魔勸捨壽品第二十六</head><lb
+ n="0095c15" ed="T"/><ab type='verse'>
 如日初出，　　顯于山崗；　　奮大光明，　　<lb
  n="0095c16" ed="T"/>消滅厚冥。　　佛法中天，　　正法暉明；　　<lb
  n="0095c17" ed="T"/>頒宣言辭，　　淨無垢光。　　
 </ab><lb
- n="0095c18" ed="T"/><ab type="verse">
+ n="0095c18" ed="T"/><ab type='verse'>
 心懷愚癡冥，　　如幽深谿谷；　　<lb
  n="0095c19" ed="T"/>日以大光明，　　推盡幽冥原。　　<lb
  n="0095c20" ed="T"/>如清明無雲，　　日光靡不照；　　<lb
@@ -3987,15 +3987,15 @@
  n="0098b21" ed="T"/>名寶須彌山，　　亦必當崩顛。」　　
 </ab></div><lb
  n="0098b22" ed="T"/>
-<ab type="juan" subtype="close">佛本行經卷第五</ab><lb
+<ab type='juan' subtype='close'>佛本行經卷第五</ab><lb
  n="0098b23" ed="T"/><lb
  n="0098b24" ed="T"/><lb
  n="0098b25" ed="T"/>
-<ab type="juan" subtype="open">佛本行經卷第六</ab><lb
+<ab type='juan' subtype='open'>佛本行經卷第六</ab><lb
  n="0098b26" ed="T"/><lb
  n="0098b27" ed="T"/><byline>宋涼州沙門釋寶雲譯</byline><lb
- n="0098b28" ed="T"/><div type="pin" level="2"><head>調達入地獄品第二十七</head><lb
- n="0098b29" ed="T"/><ab type="verse">
+ n="0098b28" ed="T"/><div type='pin' level='2'><head>調達入地獄品第二十七</head><lb
+ n="0098b29" ed="T"/><ab type='verse'>
 佛天師世祐，　　身心俱清淨；　　<pb n="0098c" ed="T" id="T04.0193.0098c"/><lb
  n="0098c01" ed="T"/>愍眾詣江浴，　　著澡衣而立。　　<lb
  n="0098c02" ed="T"/>爾時佛世尊，　　始入清流江；　　<lb
@@ -4285,12 +4285,12 @@
  n="0101c25" ed="T"/>以遭獄守鬼，　　無逮解脫路；　　<lb
  n="0101c26" ed="T"/>四種之方便，　　其術不復行。　　
 </ab><lb
- n="0101c27" ed="T"/><ab type="verse">
+ n="0101c27" ed="T"/><ab type='verse'>
 捐名稱譬，　　如日竭水；　　消眾善行，　　<lb
  n="0101c28" ed="T"/>如火焚野。　　傷智慧明，　　猶花遇霜；　　<lb
  n="0101c29" ed="T"/>穢壞禁戒，　　淨意之香。　　
 </ab><pb n="0102a" ed="T" id="T04.0193.0102a"/><lb
- n="0102a01" ed="T"/><ab type="verse">
+ n="0102a01" ed="T"/><ab type='verse'>
 障蔽心之明，　　猶月如遭蝕；　　<lb
  n="0102a02" ed="T"/>調達以友根，　　於我為毒怨。　　<lb
  n="0102a03" ed="T"/>獄卒加毒治，　　甚痛大叫呼；　　<lb
@@ -4386,8 +4386,8 @@
  n="0103a06" ed="T"/>有六億眾生，　　解諦見道跡；　　<lb
  n="0103a07" ed="T"/>餘無數眾生，　　皆發大道意。　　
 </ab></div><lb
- n="0103a08" ed="T"/><div type="pin" level="2"><head>佛本行經現乳哺品第二十八</head><lb
- n="0103a09" ed="T"/><ab type="verse">
+ n="0103a08" ed="T"/><div type='pin' level='2'><head>佛本行經現乳哺品第二十八</head><lb
+ n="0103a09" ed="T"/><ab type='verse'>
 佛以入無為，　　滅身諸苦痛；　　<lb
  n="0103a10" ed="T"/>與無著弟子，　　出妙維耶離。　　<lb
  n="0103a11" ed="T"/>行歷諸村落，　　安詳以次第；　　<lb
@@ -4525,12 +4525,12 @@
  n="0104b27" ed="T"/>時諸力士等，　　稽首禮佛足；　　<lb
  n="0104b28" ed="T"/>長跪叉手言：　　
 </ab><lb
- n="0104b29" ed="T"/><ab type="verse">
+ n="0104b29" ed="T"/><ab type='verse'>
 「唯然天中天，　　已見乳哺力；　　<pb n="0104c" ed="T" id="T04.0193.0104c"/><lb
  n="0104c01" ed="T"/>具聞福德力；　　唯願重聞聽，　　<lb
  n="0104c02" ed="T"/>佛之智慧力。」　　
 </ab><lb
- n="0104c03" ed="T"/><ab type="verse">
+ n="0104c03" ed="T"/><ab type='verse'>
 佛告諸力士：　　「樂者靜心聽；　　<lb
  n="0104c04" ed="T"/>今當具暢說，　　佛之智慧力。　　<lb
  n="0104c05" ed="T"/>此閻浮提地，　　廣七千由延，　　<lb
@@ -4569,7 +4569,7 @@
  n="0105a10" ed="T"/>萬萬巨億倍；　　無可計為喻，　　<lb
  n="0105a11" ed="T"/>佛慧力如是。　　
 </ab><lb
- n="0105a12" ed="T"/><ab type="verse">
+ n="0105a12" ed="T"/><ab type='verse'>
 「已過去諸佛，　　及甫當興者；　　<lb
  n="0105a13" ed="T"/>如吾今現在，　　一切皆平等。　　<lb
  n="0105a14" ed="T"/>等音等稱量，　　等德等相好，　　<lb
@@ -4690,16 +4690,16 @@
  n="0106b13" ed="T"/>逮無為清涼。　　
 </ab></div><lb
  n="0106b14" ed="T"/>
-<ab type="juan" subtype="close">佛本行經卷第六</ab><lb
+<ab type='juan' subtype='close'>佛本行經卷第六</ab><lb
  n="0106b15" ed="T"/><lb
  n="0106b16" ed="T"/><lb
  n="0106b17" ed="T"/><lb
  n="0106b18" ed="T"/>
-<ab type="juan" subtype="open">佛本行經卷第七</ab><lb
+<ab type='juan' subtype='open'>佛本行經卷第七</ab><lb
  n="0106b19" ed="T"/><lb
  n="0106b20" ed="T"/><byline>宋涼州沙門釋寶雲譯</byline><lb
- n="0106b21" ed="T"/><div type="pin" level="2"><head>大滅品第二十九</head><lb
- n="0106b22" ed="T"/><ab type="verse">
+ n="0106b21" ed="T"/><div type='pin' level='2'><head>大滅品第二十九</head><lb
+ n="0106b22" ed="T"/><ab type='verse'>
 時佛與大眾，　　遊至雙樹林；　　<lb
  n="0106b23" ed="T"/>梵音告阿難，　　詣雙樹敷床。　　<lb
  n="0106b24" ed="T"/>佛便在繩床，　　右脇而倚臥；　　<lb
@@ -4817,7 +4817,7 @@
  n="0107c20" ed="T"/>執持慚愧者，　　以故名為人；　　<lb
  n="0107c21" ed="T"/>強顏不知慚，　　是名為畜獸。　　<lb
  n="0107c22" ed="T"/>若節節支解，　　心不當起亂；　　<lb
- n="0107c23" ed="T"/>亦莫違禁戒，　　口發麤穬言。　　<lb
+ n="0107c23" ed="T"/>亦莫違禁戒，　　口發麤獷言。　　<lb
  n="0107c24" ed="T"/>戒則是忍辱，　　亦是其強力；　　<lb
  n="0107c25" ed="T"/>不忍他麤言，　　終不得解脫。　　<lb
  n="0107c26" ed="T"/>恚壞法失名，　　善心悅顏怨；　　<lb
@@ -4953,8 +4953,8 @@
  n="0109b11" ed="T"/>世尊捨軀命，　　寂潛於泥洹；　　<lb
  n="0109b12" ed="T"/>一切有形類，　　莫不失精榮。　　
 </ab></div><lb
- n="0109b13" ed="T"/><div type="pin" level="2"><head>佛本行經嘆無為品第三十</head><lb
- n="0109b14" ed="T"/><ab type="verse">
+ n="0109b13" ed="T"/><div type='pin' level='2'><head>佛本行經嘆無為品第三十</head><lb
+ n="0109b14" ed="T"/><ab type='verse'>
 於時從空中，　　天寶宮照耀；　　<lb
  n="0109b15" ed="T"/>駕以千象車，　　懸虛而在上；　　<lb
  n="0109b16" ed="T"/>敬心熟視佛，　　捨命臥身形；　　<lb
@@ -5196,8 +5196,8 @@
  n="0112a20" ed="T"/>幡蓋授大殿，　　施七寶高座；　　<lb
  n="0112a21" ed="T"/>舍利置其上，　　一切禮供養。　　
 </ab></div><lb
- n="0112a22" ed="T"/><div type="pin" level="2"><head>佛本行經八王分舍利品第三十一</head><lb
- n="0112a23" ed="T"/><ab type="verse">
+ n="0112a22" ed="T"/><div type='pin' level='2'><head>佛本行經八王分舍利品第三十一</head><lb
+ n="0112a23" ed="T"/><ab type='verse'>
 諸力士悲感，　　在於王殿上；　　<lb
  n="0112a24" ed="T"/>供養尊舍利，　　如是至數日。　　<lb
  n="0112a25" ed="T"/>隣側七國王，　　時各尋遣使；　　<lb
@@ -5479,5 +5479,5 @@
  n="0115b11" ed="T"/>稽首歸命佛，　　忽然各飛去。　　
 </ab></div><lb
  n="0115b12" ed="T"/>
-<ab type="juan" subtype="close">佛本行經卷第七</ab></div>
+<ab type='juan' subtype='close'>佛本行經卷第七</ab></div>
 </body></text></TEI>

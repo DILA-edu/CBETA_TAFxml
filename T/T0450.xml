@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0450</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0404c09" ed="T"/><lb
  n="0404c10" ed="T"/><lb
  n="0404c11" ed="T"/><lb
  n="0404c12" ed="T"/>
-<ab type="juan" subtype="open">藥師琉璃光如來本願功德經</ab><lb
+<ab type='juan' subtype='open'>藥師琉璃光如來本願功德經</ab><lb
  n="0404c13" ed="T"/><lb
  n="0404c14" ed="T"/><byline>大唐、三藏法師玄奘奉　詔譯</byline><lb
- n="0404c15" ed="T"/><div type="jing" level="2"><ab type="prose">如是我聞：一時，薄伽梵遊化諸國，至廣嚴<lb
+ n="0404c15" ed="T"/><div type='jing' level='2'><ab type='prose'>如是我聞：一時，薄伽梵遊化諸國，至廣嚴<lb
  n="0404c16" ed="T"/>城，住樂音樹下。與大苾芻眾八千人俱，菩<lb
  n="0404c17" ed="T"/>薩摩訶薩三萬六千，及國王、大臣、婆羅門、居<lb
  n="0404c18" ed="T"/>士、天、龍、藥叉、人、非人等，無量大眾，恭敬圍繞，<lb
@@ -340,7 +340,7 @@
  n="0408a23" ed="T"/>令度苦厄，不遭眾難。」<lb
  n="0408a24" ed="T"/>爾時，眾中有十二藥叉大將，俱在會坐，所謂：<lb
  n="0408a25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 宮毘羅大將，　　伐折羅大將，　　<lb
  n="0408a26" ed="T"/>迷企羅大將，　　安底羅大將，　　<lb
  n="0408a27" ed="T"/>頞儞羅大將，　　珊底羅大將，　　<lb
@@ -348,7 +348,7 @@
  n="0408a29" ed="T"/>摩虎羅大將，　　真達羅大將，　　<pb n="0408b" ed="T" id="T14.0450.0408b"/><lb
  n="0408b01" ed="T"/>招杜羅大將，　　毘羯羅大將。　　
 </ab><lb
- n="0408b02" ed="T"/><ab type="prose">此十二藥叉大將，一一各有七千藥叉以為<lb
+ n="0408b02" ed="T"/><ab type='prose'>此十二藥叉大將，一一各有七千藥叉以為<lb
  n="0408b03" ed="T"/>眷屬，同時舉聲白佛言：「世尊！我等今者，蒙<lb
  n="0408b04" ed="T"/>佛威力，得聞世尊藥師琉璃光如來名號，不<lb
  n="0408b05" ed="T"/>復更有惡趣之怖。我等相率，皆同一心，乃<lb
@@ -372,6 +372,6 @@
  n="0408b23" ed="T"/>達縛、阿素洛、揭路荼、緊捺洛、莫呼洛伽，人、非人<lb
  n="0408b24" ed="T"/>等，一切大眾，聞佛所說，皆大歡喜，信受奉行。</ab></div><lb
  n="0408b25" ed="T"/>
-<ab type="juan" subtype="close">藥師琉璃光如來本願功德經</ab><lb
- n="0408b26" ed="T"/><div type="w" level="2"><ab type="prose"></ab></div></div>
+<ab type='juan' subtype='close'>藥師琉璃光如來本願功德經</ab><lb
+ n="0408b26" ed="T"/><div type='w' level='2'><ab type='prose'></ab></div></div>
 </body></text></TEI>

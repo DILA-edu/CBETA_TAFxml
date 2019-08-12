@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1214</idno>
                 </bibl>
@@ -41,16 +41,16 @@
     <text>
         <body><pb n="0073a" id="T21.1214.0073a" ed="T"/><lb
  n="0073a01" ed="T"/><lb
- n="0073a02" ed="T"/><div type="jing" level="1"><lb
+ n="0073a02" ed="T"/><div type='jing' level='1'><lb
  n="0073a03" ed="T"/>
-<ab type="juan" subtype="open">聖閻曼德迦威怒王立成大神驗<lb
+<ab type='juan' subtype='open'>聖閻曼德迦威怒王立成大神驗<lb
  n="0073a04" ed="T"/>念誦法一卷</ab><lb
  n="0073a05" ed="T"/><lb
  n="0073a06" ed="T"/><byline>開府儀同三司特進試鴻臚卿<lb
  n="0073a07" ed="T"/>肅國公食邑三千戶賜紫贈司空<lb
  n="0073a08" ed="T"/>諡大鑒正號大廣智大興善寺<lb
  n="0073a09" ed="T"/>三藏沙門不空奉　詔譯</byline><lb
- n="0073a10" ed="T"/><ab type="prose">爾時釋迦牟尼佛。觀淨居天宮諸菩薩天龍<lb
+ n="0073a10" ed="T"/><ab type='prose'>爾時釋迦牟尼佛。觀淨居天宮諸菩薩天龍<lb
  n="0073a11" ed="T"/>八部。告文殊師利言。過去十阿僧祇俱胝如<lb
  n="0073a12" ed="T"/>來。皆於大聖文殊師利菩薩。發無上菩提心。<lb
  n="0073a13" ed="T"/>說文殊師利真言教法。欲令佛法久住世間。<lb
@@ -61,7 +61,7 @@
  n="0073a18" ed="T"/>洞然如劫燒焰。顧視四方如師子奮迅。說勝<lb
  n="0073a19" ed="T"/>根本真言曰。<lb
  n="0073a20" ed="T"/></ab>
-<ab type="dharani">曩莫三漫多沒馱南阿鉢囉底賀多<lb
+<ab type='dharani'>曩莫三漫多沒馱南阿鉢囉底賀多<lb
  n="0073a21" ed="T"/>舍娑那南唵羯囉羯羅矩嚕矩嚕麼<lb
  n="0073a22" ed="T"/>麼迦哩閻伴惹伴惹薩嚩尾覲南<lb
  n="0073a23" ed="T"/>諾賀諾賀薩嚩嚩日囉尾曩野建<lb
@@ -75,7 +75,7 @@
  n="0073b05" ed="T"/>野麼怒娑麼囉吽吽吽吽吽吽<lb
  n="0073b06" ed="T"/>娑頗吒娑頗吒娑嚩賀<lb
  n="0073b07" ed="T"/></ab>
-<ab type="prose">纔誦此真言。三千大千世界六種震動。所有<lb
+<ab type='prose'>纔誦此真言。三千大千世界六種震動。所有<lb
  n="0073b08" ed="T"/>天魔毘那夜迦於世間作障者。所居宮殿皆<lb
  n="0073b09" ed="T"/>大震動恐怖不安。皆來雲集頂禮大威德尊<lb
  n="0073b10" ed="T"/>白言。唯願哀愍令我無畏。<lb
@@ -104,12 +104,12 @@
  n="0073c04" ed="T"/>災護摩法彼則如故。<lb
  n="0073c05" ed="T"/>次說大心真言法真言曰。<lb
  n="0073c06" ed="T"/></ab>
-<ab type="dharani">唵紇哩瑟置哩尾訖哩多<lb
+<ab type='dharani'>唵紇哩瑟置哩尾訖哩多<lb
  n="0073c07" ed="T"/>娜曩吽薩嚩設咄論曩捨野<pb n="0074a" id="T21.1214.0074a" ed="T"/><lb
  n="0074a01" ed="T"/>塞擔婆野薩擔婆野娑頗吒<lb
  n="0074a02" ed="T"/>娑頗吒娑嚩賀<lb
  n="0074a03" ed="T"/></ab>
-<ab type="prose">對大聖像前作三角壇。誦此真言一萬遍。功<lb
+<ab type='prose'>對大聖像前作三角壇。誦此真言一萬遍。功<lb
  n="0074a04" ed="T"/>行即成。然後取黑泥。揑作設覩嚧形仰臥。<lb
  n="0074a05" ed="T"/>於腹中著驢糞。又取驢骨作橛五枚長六寸。<lb
  n="0074a06" ed="T"/>一一橛各誦真言一百八遍。以二橛釘左右<lb
@@ -140,10 +140,10 @@
  n="0074b02" ed="T"/>遍。真言句中稱彼人名。其人即滅亡。<lb
  n="0074b03" ed="T"/>次說心中心法真言曰。<lb
  n="0074b04" ed="T"/></ab>
-<ab type="dharani">唵瑟致唎迦攞嚕跛吽欠娑嚩<lb
+<ab type='dharani'>唵瑟致唎迦攞嚕跛吽欠娑嚩<lb
  n="0074b05" ed="T"/>賀<lb
  n="0074b06" ed="T"/></ab>
-<ab type="prose">念誦作此法時。誦此心真言印身五處。護身<lb
+<ab type='prose'>念誦作此法時。誦此心真言印身五處。護身<lb
  n="0074b07" ed="T"/>及辟除結界用若能每日誦一千遍。一切惡<lb
  n="0074b08" ed="T"/>人怨家不得其便。令彼作惡法不成。呪詛<lb
  n="0074b09" ed="T"/>󰚏禱悉皆破壞若見惡夢誦七遍惡夢不應。<lb
@@ -172,29 +172,29 @@
  n="0074c03" ed="T"/>並青黑色。六足六首六臂。所以淨六趣滿六<lb
  n="0074c04" ed="T"/>度成六通。次誦三字明隨處一一布真言曰。<lb
  n="0074c05" ed="T"/></ab>
-<ab type="dharani">唵噁吽<lb
+<ab type='dharani'>唵噁吽<lb
  n="0074c06" ed="T"/></ab>
-<ab type="prose">作此加持成就身已即誦大威德明王讚。<lb
+<ab type='prose'>作此加持成就身已即誦大威德明王讚。<lb
  n="0074c07" ed="T"/></ab>
-<ab type="dharani">曩謨嚩囉娜嚩日囉蘖囉曼儒<lb
+<ab type='dharani'>曩謨嚩囉娜嚩日囉蘖囉曼儒<lb
  n="0074c08" ed="T"/>具灑摩賀麼攞娑賀娑囉吠遇尾惹<lb
  n="0074c09" ed="T"/>異尾覲曩囉瑟吒囉跛末娜迦<lb
  n="0074c10" ed="T"/></ab>
-<ab type="prose">次說二十三種供養能令所作之法速得成<lb
+<ab type='prose'>次說二十三種供養能令所作之法速得成<lb
  n="0074c11" ed="T"/>就。<lb
  n="0074c12" ed="T"/>次隨心真言曰。<lb
  n="0074c13" ed="T"/></ab>
-<ab type="dharani">唵瑟置哩迦攞嚕跢吽欠薩嚩<lb
+<ab type='dharani'>唵瑟置哩迦攞嚕跢吽欠薩嚩<lb
  n="0074c14" ed="T"/>賀<lb
  n="0074c15" ed="T"/></ab>
-<ab type="prose">次心頂口心真言曰。<lb
+<ab type='prose'>次心頂口心真言曰。<lb
  n="0074c16" ed="T"/></ab>
-<ab type="dharani">唵噁吽<lb
+<ab type='dharani'>唵噁吽<lb
  n="0074c18" ed="T"/></ab>
-<ab type="prose">聖閻曼德迦忿怒王念誦法<lb
+<ab type='prose'>聖閻曼德迦忿怒王念誦法<lb
  n="0074c19" ed="T"/>次說二十三種供養先攝頌曰。<lb
  n="0074c20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 初從掃地誦　　請召次閼伽　　<lb
  n="0074c21" ed="T"/>獻座澡浴鈴　　衣塗香焚花　　<pb n="0075a" id="T21.1214.0075a" ed="T"/><lb
  n="0075a01" ed="T"/>加持五色粉　　圍壇誦真言　　<lb
@@ -205,104 +205,104 @@
  n="0075a06" ed="T"/>此偈智者祕　　持誦者自知　　<lb
  n="0075a07" ed="T"/>此是真言曰　　計數二十三　　<lb
  n="0075a08" ed="T"/>今從掃地起　　
-</ab><ab type="prose">掃地真言曰。<lb
+</ab><ab type='prose'>掃地真言曰。<lb
  n="0075a09" ed="T"/></ab>
-<ab type="dharani">唵儞麼他儞麼他薩嚩步旦<lb
+<ab type='dharani'>唵儞麼他儞麼他薩嚩步旦<lb
  n="0075a10" ed="T"/><lb
  n="0075a11" ed="T"/></ab>
-<ab type="prose">請召真言曰。<lb
+<ab type='prose'>請召真言曰。<lb
  n="0075a12" ed="T"/></ab>
-<ab type="dharani">唵殺目佉殺步惹殺左囉拏阿徒<lb
+<ab type='dharani'>唵殺目佉殺步惹殺左囉拏阿徒<lb
  n="0075a13" ed="T"/>牟娑攞跛囉戍播捨訶娑多<lb
  n="0075a14" ed="T"/></ab>
-<ab type="prose">閼伽真言曰。<lb
+<ab type='prose'>閼伽真言曰。<lb
  n="0075a15" ed="T"/></ab>
-<ab type="dharani">唵摩訶尾覲曩伽多迦<lb
+<ab type='dharani'>唵摩訶尾覲曩伽多迦<lb
  n="0075a16" ed="T"/></ab>
-<ab type="prose">獻座真言曰。<lb
+<ab type='prose'>獻座真言曰。<lb
  n="0075a17" ed="T"/></ab>
-<ab type="dharani">唵吽吽蜜頗吒蜜頗<lb
+<ab type='dharani'>唵吽吽蜜頗吒蜜頗<lb
  n="0075a18" ed="T"/>吒<lb
  n="0075a19" ed="T"/></ab>
-<ab type="prose">澡浴真言曰。<lb
+<ab type='prose'>澡浴真言曰。<lb
  n="0075a20" ed="T"/></ab>
-<ab type="dharani">唵薩嚩步多婆野吒迦囉<lb
+<ab type='dharani'>唵薩嚩步多婆野吒迦囉<lb
  n="0075a21" ed="T"/></ab>
-<ab type="prose">金剛鈴真言曰。<lb
+<ab type='prose'>金剛鈴真言曰。<lb
  n="0075a22" ed="T"/></ab>
-<ab type="dharani">唵阿吒吒訶娑曩儞寧<lb
+<ab type='dharani'>唵阿吒吒訶娑曩儞寧<lb
  n="0075a23" ed="T"/></ab>
-<ab type="prose">獻衣真言曰。<lb
+<ab type='prose'>獻衣真言曰。<lb
  n="0075a24" ed="T"/></ab>
-<ab type="dharani">唵尾夜伽囉左麼儞嚩娑曩<lb
+<ab type='dharani'>唵尾夜伽囉左麼儞嚩娑曩<lb
  n="0075a25" ed="T"/></ab>
-<ab type="prose">塗香真言曰。<lb
+<ab type='prose'>塗香真言曰。<lb
  n="0075a26" ed="T"/></ab>
-<ab type="dharani">唵矩嚕矩嚕薩嚩羯麼抳<lb
+<ab type='dharani'>唵矩嚕矩嚕薩嚩羯麼抳<lb
  n="0075a27" ed="T"/></ab>
-<ab type="prose">焚香真言曰。<lb
+<ab type='prose'>焚香真言曰。<lb
  n="0075a28" ed="T"/></ab>
-<ab type="dharani">唵親娜親娜薩嚩滿怛囉<lb
+<ab type='dharani'>唵親娜親娜薩嚩滿怛囉<lb
  n="0075a29" ed="T"/></ab>
-<ab type="prose">花真言曰。<pb n="0075b" id="T21.1214.0075b" ed="T"/><lb
+<ab type='prose'>花真言曰。<pb n="0075b" id="T21.1214.0075b" ed="T"/><lb
  n="0075b01" ed="T"/></ab>
-<ab type="dharani">唵頻娜頻娜跛囉母捺囕<lb
+<ab type='dharani'>唵頻娜頻娜跛囉母捺囕<lb
  n="0075b02" ed="T"/></ab>
-<ab type="prose">加持五色粉圍壇真言曰。<lb
+<ab type='prose'>加持五色粉圍壇真言曰。<lb
  n="0075b03" ed="T"/></ab>
-<ab type="dharani">唵薩嚩訥瑟鵮鉢囉吠捨野鉢囉<lb
+<ab type='dharani'>唵薩嚩訥瑟鵮鉢囉吠捨野鉢囉<lb
  n="0075b04" ed="T"/>吠捨野曼茶羅末弟<lb
  n="0075b05" ed="T"/></ab>
-<ab type="prose">寶帳真言曰。<lb
+<ab type='prose'>寶帳真言曰。<lb
  n="0075b06" ed="T"/></ab>
-<ab type="dharani">唵麼尾覽嚩麼尾覽嚩<lb
+<ab type='dharani'>唵麼尾覽嚩麼尾覽嚩<lb
  n="0075b07" ed="T"/></ab>
-<ab type="prose">幢旛真言曰。<lb
+<ab type='prose'>幢旛真言曰。<lb
  n="0075b08" ed="T"/></ab>
-<ab type="dharani">唵吠嚩娑嚩多貳尾旦多迦囉<lb
+<ab type='dharani'>唵吠嚩娑嚩多貳尾旦多迦囉<lb
  n="0075b09" ed="T"/></ab>
-<ab type="prose">幡真言曰。<lb
+<ab type='prose'>幡真言曰。<lb
  n="0075b10" ed="T"/></ab>
-<ab type="dharani">唵矩嚕矩嚕麼麼迦哩焰<lb
+<ab type='dharani'>唵矩嚕矩嚕麼麼迦哩焰<lb
  n="0075b11" ed="T"/></ab>
-<ab type="prose">寶軒冕真言曰。<lb
+<ab type='prose'>寶軒冕真言曰。<lb
  n="0075b12" ed="T"/></ab>
-<ab type="dharani">唵薩嚩舍跛哩布囉迦<lb
+<ab type='dharani'>唵薩嚩舍跛哩布囉迦<lb
  n="0075b13" ed="T"/></ab>
-<ab type="prose">寶樓閣真言曰。<lb
+<ab type='prose'>寶樓閣真言曰。<lb
  n="0075b14" ed="T"/></ab>
-<ab type="dharani">唵三麼耶麼努娑麼囉<lb
+<ab type='dharani'>唵三麼耶麼努娑麼囉<lb
  n="0075b15" ed="T"/></ab>
-<ab type="prose">扇真言曰。<lb
+<ab type='prose'>扇真言曰。<lb
  n="0075b16" ed="T"/></ab>
-<ab type="dharani">唵塞怖吒野塞怖吒野<lb
+<ab type='dharani'>唵塞怖吒野塞怖吒野<lb
  n="0075b17" ed="T"/></ab>
-<ab type="prose">莊嚴真言曰。<lb
+<ab type='prose'>莊嚴真言曰。<lb
  n="0075b18" ed="T"/></ab>
-<ab type="dharani">唵阿羯囉灑野阿羯囉灑野<lb
+<ab type='dharani'>唵阿羯囉灑野阿羯囉灑野<lb
  n="0075b19" ed="T"/></ab>
-<ab type="prose">燈真言曰。<lb
+<ab type='prose'>燈真言曰。<lb
  n="0075b20" ed="T"/></ab>
-<ab type="dharani">唵娜訶娜訶鉢左鉢左<lb
+<ab type='dharani'>唵娜訶娜訶鉢左鉢左<lb
  n="0075b21" ed="T"/></ab>
-<ab type="prose">獻食真言曰。<lb
+<ab type='prose'>獻食真言曰。<lb
  n="0075b22" ed="T"/></ab>
-<ab type="dharani">唵佉佉佉呬佉呬訥瑟吒薩怛<lb
+<ab type='dharani'>唵佉佉佉呬佉呬訥瑟吒薩怛<lb
  n="0075b23" ed="T"/>嚩曩麼迦<lb
  n="0075b24" ed="T"/></ab>
-<ab type="prose">獻念誦遍數真言曰。<lb
+<ab type='prose'>獻念誦遍數真言曰。<lb
  n="0075b25" ed="T"/></ab>
-<ab type="dharani">唵係係婆誐梵<lb
+<ab type='dharani'>唵係係婆誐梵<lb
  n="0075b26" ed="T"/></ab>
-<ab type="prose">奉送真言曰。<lb
+<ab type='prose'>奉送真言曰。<lb
  n="0075b27" ed="T"/></ab>
-<ab type="dharani">唵緊至囉野徙<lb
+<ab type='dharani'>唵緊至囉野徙<lb
  n="0075b28" ed="T"/></ab>
-<ab type="prose">拂真言曰。<lb
+<ab type='prose'>拂真言曰。<lb
  n="0075b29" ed="T"/></ab>
-<ab type="dharani">唵尾訖哩多曩曩<pb n="0075c" id="T21.1214.0075c" ed="T"/><lb
+<ab type='dharani'>唵尾訖哩多曩曩<pb n="0075c" id="T21.1214.0075c" ed="T"/><lb
  n="0075c01" ed="T"/></ab>
-<ab type="prose">右已上真言。修行者但誦三遍或七遍。則<lb
+<ab type='prose'>右已上真言。修行者但誦三遍或七遍。則<lb
  n="0075c02" ed="T"/>具如上二十三種供養。所求悉地速得成<lb
  n="0075c03" ed="T"/>就。<lb
  n="0075c04" ed="T"/>又於上二十三種明中。加持五色粉明。應於<lb
@@ -315,7 +315,7 @@
  n="0075c11" ed="T"/>獨管之葉一百八枚苦練枝一百八枚。削<lb
  n="0075c12" ed="T"/>兩頭尖長十二指。以用搵油誦真言曰。<lb
  n="0075c13" ed="T"/></ab>
-<ab type="dharani">曩謨三滿多沒馱喃阿鉢囉底<lb
+<ab type='dharani'>曩謨三滿多沒馱喃阿鉢囉底<lb
  n="0075c14" ed="T"/>賀多舍娑曩南怛儞野他<lb
  n="0075c15" ed="T"/>係係摩賀俱嚕馱殺目佉殺部惹<lb
  n="0075c16" ed="T"/>殺者囉拏薩嚩尾覲曩伽多迦<pb n="0076a" id="T21.1214.0076a" ed="T"/><lb
@@ -325,12 +325,12 @@
  n="0076a04" ed="T"/>麼囉娑發吒娑發吒<lb
  n="0076a05" ed="T"/>娑嚩訶<lb
  n="0076a06" ed="T"/></ab>
-<ab type="prose">誦一遍已。及諸香藥一擲火中。盡一百八枚<lb
+<ab type='prose'>誦一遍已。及諸香藥一擲火中。盡一百八枚<lb
  n="0076a07" ed="T"/>已。所求之願皆得成就。是時聖者不違本誓。<lb
  n="0076a08" ed="T"/>疾至道場為作加護。若有惡夢由加持力皆<lb
  n="0076a09" ed="T"/>悉不現究竟消滅。行者作前諸法念誦畢已。<lb
  n="0076a10" ed="T"/>當出道場起慈悲心勿生怨害。經行任意轉<lb
  n="0076a11" ed="T"/>讀大乘。<lb
  n="0076a12" ed="T"/>
-</ab><ab type="juan" subtype="close">聖閻曼德迦威怒王立成大神驗念誦法</ab></div>
+</ab><ab type='juan' subtype='close'>聖閻曼德迦威怒王立成大神驗念誦法</ab></div>
 </body></text></TEI>

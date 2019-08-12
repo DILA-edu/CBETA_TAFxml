@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1374</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0890b20" ed="T"/><lb
  n="0890b21" ed="T"/><lb
- n="0890b22" ed="T"/><div type="jing" level="2"><lb
+ n="0890b22" ed="T"/><div type='jing' level='2'><lb
  n="0890b23" ed="T"/>
-<ab type="juan" subtype="open">佛說一切功德莊嚴王經一卷</ab><lb
+<ab type='juan' subtype='open'>佛說一切功德莊嚴王經一卷</ab><lb
  n="0890b24" ed="T"/><lb
  n="0890b25" ed="T"/><byline>唐三藏法師義淨奉　制譯</byline><lb
- n="0890b26" ed="T"/><ab type="prose">如是我聞。一時薄伽梵。在王舍城羯闌鐸迦<lb
+ n="0890b26" ed="T"/><ab type='prose'>如是我聞。一時薄伽梵。在王舍城羯闌鐸迦<lb
  n="0890b27" ed="T"/>池竹林園中。與大苾芻眾五百人俱。菩薩摩<lb
  n="0890b28" ed="T"/>訶薩千二百人。皆得陀羅尼辯才無滯。獲無<lb
  n="0890b29" ed="T"/>染智遊無礙境。善權方便攝引眾生。觀察世<pb n="0890c" id="T21.1374.0890c" ed="T"/><lb
@@ -171,7 +171,7 @@
  n="0892a01" ed="T"/>我等說此陀羅尼呪。爾時世尊以梵音聲。即<lb
  n="0892a02" ed="T"/>說呪曰。<lb
  n="0892a03" ed="T"/></ab>
-<ab type="dharani">怛姪他　逝也逝也　逝耶縛訶佉縛訶<lb
+<ab type='dharani'>怛姪他　逝也逝也　逝耶縛訶佉縛訶<lb
  n="0892a04" ed="T"/>　逝也縛訶　忽魯忽魯鉢頭摩薜阿婆<lb
  n="0892a05" ed="T"/>麼梵謎薩囉薩唎泥地哩地哩　地囉地哩<lb
  n="0892a06" ed="T"/>提婆䫂鉢利波唎泥瑜陀嗢多󰪯儞鉢囉<lb
@@ -179,7 +179,7 @@
  n="0892a08" ed="T"/>由佛加護一切所求咸願圓滿一切罪業皆悉<lb
  n="0892a09" ed="T"/>銷除　莎訶<lb
  n="0892a10" ed="T"/></ab>
-<ab type="prose">佛言善男子此勝妙陀羅尼呪。能除一切罪<lb
+<ab type='prose'>佛言善男子此勝妙陀羅尼呪。能除一切罪<lb
  n="0892a11" ed="T"/>障。能摧伏他軍。永無飢饉疾疫災難病苦之<lb
  n="0892a12" ed="T"/>事。常能豐饒倉廩盈溢增益壽命。此陀羅尼<lb
  n="0892a13" ed="T"/>呪是諸佛母。若有善男子善女人。信心頂禮<lb
@@ -196,7 +196,7 @@
  n="0892a24" ed="T"/>利益安樂說陀羅尼我當隨喜。爾時執金剛<lb
  n="0892a25" ed="T"/>菩薩。以佛神力所加持故。說此陀羅尼呪。<lb
  n="0892a26" ed="T"/></ab>
-<ab type="dharani">南麼薩婆勃陀　怛他揭多喃南麼阿彌多<lb
+<ab type='dharani'>南麼薩婆勃陀　怛他揭多喃南麼阿彌多<lb
  n="0892a27" ed="T"/>婆也　怛他揭多也　南麼薩婆菩提薩埵喃<lb
  n="0892a28" ed="T"/>南麼薩婆莫𠿒地雞弊怛姪他虎呼<lb
  n="0892a29" ed="T"/>謎　虎呼謎　末底莫訶末底　跋折囉末<pb n="0892b" id="T21.1374.0892b" ed="T"/><lb
@@ -208,7 +208,7 @@
  n="0892b06" ed="T"/>求皆得遂意當與我願以佛陀實語達摩實語<lb
  n="0892b07" ed="T"/>菩薩實語聲聞實語莎訶<lb
  n="0892b08" ed="T"/></ab>
-<ab type="prose">世尊若復有人欲入菩薩地願見諸如來樂生<lb
+<ab type='prose'>世尊若復有人欲入菩薩地願見諸如來樂生<lb
  n="0892b09" ed="T"/>淨土。及希富貴財寶豐盈無病延壽者。應當<lb
  n="0892b10" ed="T"/>持此微妙經典及以法師。書寫讀誦香花伎<lb
  n="0892b11" ed="T"/>樂。衣服飲食繒蓋幢幡而為供養。如是之人<lb
@@ -259,7 +259,7 @@
  n="0892c27" ed="T"/>汝。勿為放逸輕此經典。一心信受莫生誹謗。<lb
  n="0892c28" ed="T"/>爾時世尊欲重宣此義。而說頌言。<lb
  n="0892c29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 我曾宣說眾經王　　令諸眾生得正覺　　<pb n="0893a" id="T21.1374.0893a" ed="T"/><lb
  n="0893a01" ed="T"/>今更說斯真妙典　　汝聞恭敬善修行　　<lb
  n="0893a02" ed="T"/>勿受當來極苦痛　　墮在地獄經多劫　　<lb
@@ -269,7 +269,7 @@
  n="0893a06" ed="T"/>若此經王所住處　　無諸災厄能害人　　<lb
  n="0893a07" ed="T"/>所有求願悉隨心　　安樂能至菩提岸　　
 </ab><lb
- n="0893a08" ed="T"/><ab type="prose">爾時四天王聞此頌已。悲泣流淚舉身戰掉。<lb
+ n="0893a08" ed="T"/><ab type='prose'>爾時四天王聞此頌已。悲泣流淚舉身戰掉。<lb
  n="0893a09" ed="T"/>禮佛雙足白言世尊。我等四天王若見守持<lb
  n="0893a10" ed="T"/>此經法師。我當供養彼說法時。及諸聽眾皆<lb
  n="0893a11" ed="T"/>當覆護。若有國王於此經典。書寫讀誦受持<lb
@@ -292,7 +292,7 @@
  n="0893a28" ed="T"/>三者所有資生皆悉能施。四者堅持梵行無<lb
  n="0893a29" ed="T"/>所有缺。爾時世尊欲重宣此義。而說頌言。<pb n="0893b" id="T21.1374.0893b" ed="T"/><lb
  n="0893b01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 布施能有大威神　　於三惡趣拔眾苦　　<lb
  n="0893b02" ed="T"/>眾生慳貪癡所惑　　種種染欲惱其情　　<lb
  n="0893b03" ed="T"/>聞此經典不敬受　　於佛法中無信施　　<lb
@@ -306,7 +306,7 @@
  n="0893b11" ed="T"/>持前功德比此福　　此為億分不及一　　<lb
  n="0893b12" ed="T"/>是故智人於此經　　一心奉行無懈怠　　
 </ab><lb
- n="0893b13" ed="T"/><ab type="prose">爾時觀自在菩薩。白佛言世尊。當來之世若<lb
+ n="0893b13" ed="T"/><ab type='prose'>爾時觀自在菩薩。白佛言世尊。當來之世若<lb
  n="0893b14" ed="T"/>有善男子善女人。於此經典深生敬信。以妙<lb
  n="0893b15" ed="T"/>香花及諸飲食衣服臥具。咸悉供養說法之<lb
  n="0893b16" ed="T"/>師。及寫此經讀誦之者。此人現世必當獲得<lb
@@ -415,8 +415,8 @@
  n="0894c03" ed="T"/>天龍藥叉阿蘇羅乾闥婆人非人等。皆大歡<lb
  n="0894c04" ed="T"/>喜信受奉行。<lb
  n="0894c05" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說一切功德莊嚴王經</ab></div><lb
- n="0894c06" ed="T"/><div type="w" level="2"><ab type="prose">大唐神龍元年七月十五日三藏法師義淨奉制于洛州大福先寺新譯并綴文正字<lb
+</ab><ab type='juan' subtype='close'>佛說一切功德莊嚴王經</ab></div><lb
+ n="0894c06" ed="T"/><div type='w' level='2'><ab type='prose'>大唐神龍元年七月十五日三藏法師義淨奉制于洛州大福先寺新譯并綴文正字<lb
  n="0894c07" ed="T"/>翻經沙門婆羅門大德槃度讀梵文翻經沙門荊州大唐龍興寺大德弘景證文<lb
  n="0894c08" ed="T"/>翻經沙門大總持寺上座大宜證文翻經沙門大薦福寺大德勝莊證義<lb
  n="0894c09" ed="T"/>翻經沙門相州禪河寺大德玄傘筆受翻經沙門溜州大雲寺大德慧沼證義<lb

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1222b</idno>
                 </bibl>
@@ -40,14 +40,14 @@
     </teiHeader>
     <text>
         <body><lb
- n="0118c19" ed="T"/><head>No. 1222</head><div type="jing" level="1"><lb
+ n="0118c19" ed="T"/><div type='jing' level='1'><lb
  n="0118c20" ed="T"/><lb
  n="0118c21" ed="T"/>
-<ab type="juan" subtype="open">聖迦柅忿怒金剛童子菩薩成就<lb
+<ab type='juan' subtype='open'>聖迦柅忿怒金剛童子菩薩成就<lb
  n="0118c22" ed="T"/>儀軌經卷上</ab><lb
  n="0118c23" ed="T"/><lb
  n="0118c24" ed="T"/><byline>唐三藏沙門大廣智不空譯</byline><pb n="0119a" id="T21.1222b.0119a" ed="T"/><lb
- n="0119a01" ed="T"/><ab type="prose">爾時金剛手菩薩。從座而起頂禮佛足。退坐<lb
+ n="0119a01" ed="T"/><ab type='prose'>爾時金剛手菩薩。從座而起頂禮佛足。退坐<lb
  n="0119a02" ed="T"/>一面合掌向佛。而白佛言。世尊世尊哀愍加<lb
  n="0119a03" ed="T"/>持於我。已說蘇悉地諸真言軌則律儀教法。<lb
  n="0119a04" ed="T"/>我今欲為未來有情。及末法時無福德者。以<lb
@@ -220,137 +220,137 @@
  n="0120c26" ed="T"/>於中指前中節頭相拄。二小指頭相合向下<lb
  n="0120c27" ed="T"/>竪如針。真言曰。<lb
  n="0120c28" ed="T"/></ab>
-<ab type="dharani">曩謨囉怛曩怛囉夜野曩莫室<lb
+<ab type='dharani'>曩謨囉怛曩怛囉夜野曩莫室<lb
  n="0120c29" ed="T"/>戰拏嚩日囉播拏曳摩訶藥乞<pb n="0121a" id="T21.1222b.0121a" ed="T"/><lb
  n="0121a01" ed="T"/>灑細曩鉢多曳怛儞也他<lb
  n="0121a02" ed="T"/>唵迦抳度𩕳吽癹吒娑嚩賀<lb
  n="0121a03" ed="T"/></ab>
-<ab type="prose">又第二根本真言。開修羅宮用前根本印真<lb
+<ab type='prose'>又第二根本真言。開修羅宮用前根本印真<lb
  n="0121a04" ed="T"/>言曰。<lb
  n="0121a05" ed="T"/></ab>
-<ab type="dharani">曩謨囉怛曩怛囉夜野曩莫室<lb
+<ab type='dharani'>曩謨囉怛曩怛囉夜野曩莫室<lb
  n="0121a06" ed="T"/>戰拏嚩日囉播拏曳摩訶藥乞<lb
  n="0121a07" ed="T"/>灑細曩鉢多曳怛儞也他<lb
  n="0121a08" ed="T"/>唵度曩尾度曩迦抳矩嚕馱薩<lb
  n="0121a09" ed="T"/>嚩演怛囉抳吽<lb
  n="0121a10" ed="T"/></ab>
-<ab type="prose">次結獨股杵印。二手內相叉作拳。二大指互<lb
+<ab type='prose'>次結獨股杵印。二手內相叉作拳。二大指互<lb
  n="0121a11" ed="T"/>捻二小指。甲上頭指並竪合。<lb
  n="0121a12" ed="T"/>次結護身印。用前根本印印身五處。真言曰。<lb
  n="0121a13" ed="T"/></ab>
-<ab type="dharani">唵薩嚩努瑟吒嚩向羯囉迦抳<lb
+<ab type='dharani'>唵薩嚩努瑟吒嚩向羯囉迦抳<lb
  n="0121a14" ed="T"/>矩嚕馱囉乞灑𤚥娑嚩賀<lb
  n="0121a15" ed="T"/></ab>
-<ab type="prose">次結甲冑印。准前根本印。舒二頭指相拄。二<lb
+<ab type='prose'>次結甲冑印。准前根本印。舒二頭指相拄。二<lb
  n="0121a16" ed="T"/>大指捻二頭指下第一文。印身五處。真言<lb
  n="0121a17" ed="T"/>曰。<lb
  n="0121a18" ed="T"/></ab>
-<ab type="dharani">唵紇哩迦抳野摩諾賀吽癹吒娑嚩賀<lb
+<ab type='dharani'>唵紇哩迦抳野摩諾賀吽癹吒娑嚩賀<lb
  n="0121a20" ed="T"/></ab>
-<ab type="prose">次結寶山印。准前杵印。二頭指微屈頭相拄。<lb
+<ab type='prose'>次結寶山印。准前杵印。二頭指微屈頭相拄。<lb
  n="0121a21" ed="T"/>安頭上即成。真言曰。<lb
  n="0121a22" ed="T"/></ab>
-<ab type="dharani">唵阿佐羅吽<lb
+<ab type='dharani'>唵阿佐羅吽<lb
  n="0121a23" ed="T"/></ab>
-<ab type="prose">次結牆界印。准前根本印。直舒二頭指。頭相<lb
+<ab type='prose'>次結牆界印。准前根本印。直舒二頭指。頭相<lb
  n="0121a24" ed="T"/>去一寸許真言曰。<lb
  n="0121a25" ed="T"/></ab>
-<ab type="dharani">唵紇哩迦泥諾賀諾賀鉢者鉢者<lb
+<ab type='dharani'>唵紇哩迦泥諾賀諾賀鉢者鉢者<lb
  n="0121a26" ed="T"/>吽癹吒<lb
  n="0121a27" ed="T"/></ab>
-<ab type="prose">次結網印。准前根本印。印二大指向外散開。<lb
+<ab type='prose'>次結網印。准前根本印。印二大指向外散開。<lb
  n="0121a28" ed="T"/>真言曰。<lb
  n="0121a29" ed="T"/></ab>
-<ab type="dharani">唵嚩日囉半惹囉吽癹吒<pb n="0121b" id="T21.1222b.0121b" ed="T"/><lb
+<ab type='dharani'>唵嚩日囉半惹囉吽癹吒<pb n="0121b" id="T21.1222b.0121b" ed="T"/><lb
  n="0121b01" ed="T"/></ab>
-<ab type="prose">次結縛毘那夜迦印。准前根本印。二頭指二<lb
+<ab type='prose'>次結縛毘那夜迦印。准前根本印。二頭指二<lb
  n="0121b02" ed="T"/>中指屈入掌。二大指各押二中指於掌中伸<lb
  n="0121b03" ed="T"/>相背合為拳。真言曰。<lb
  n="0121b04" ed="T"/></ab>
-<ab type="dharani">唵度曩尾度曩怛囉娑野戍灑<lb
+<ab type='dharani'>唵度曩尾度曩怛囉娑野戍灑<lb
  n="0121b05" ed="T"/>野薩嚩尾曩野迦南吽娑嚩<lb
  n="0121b06" ed="T"/>賀<lb
  n="0121b07" ed="T"/></ab>
-<ab type="prose">次結迎請聖者印。准前根本。以二大指向身<lb
+<ab type='prose'>次結迎請聖者印。准前根本。以二大指向身<lb
  n="0121b08" ed="T"/>招。真言曰。<lb
  n="0121b09" ed="T"/></ab>
-<ab type="dharani">唵度𩕳癹吒<lb
+<ab type='dharani'>唵度𩕳癹吒<lb
  n="0121b10" ed="T"/></ab>
-<ab type="prose">次結請聖者眷屬。用前印真言曰。<lb
+<ab type='prose'>次結請聖者眷屬。用前印真言曰。<lb
  n="0121b11" ed="T"/></ab>
-<ab type="dharani">唵娑跛哩嚩囉麼嚩賀野婆<lb
+<ab type='dharani'>唵娑跛哩嚩囉麼嚩賀野婆<lb
  n="0121b12" ed="T"/>誐鑁迦抳矩嚕馱三麼野麼弩娑摩<lb
  n="0121b13" ed="T"/>囉娑嚩賀<lb
  n="0121b14" ed="T"/></ab>
-<ab type="prose">次結獻閼伽印。准根本印。二大指捻二頭指<lb
+<ab type='prose'>次結獻閼伽印。准根本印。二大指捻二頭指<lb
  n="0121b15" ed="T"/>下第一文真言曰。<lb
  n="0121b16" ed="T"/></ab>
-<ab type="dharani">唵嚩日嚕娜迦吽<lb
+<ab type='dharani'>唵嚩日嚕娜迦吽<lb
  n="0121b17" ed="T"/></ab>
-<ab type="prose">次結獻座印。准前獨股杵印。二大指捻二頭<lb
+<ab type='prose'>次結獻座印。准前獨股杵印。二大指捻二頭<lb
  n="0121b18" ed="T"/>指下文。頭向外出少許真言曰。<lb
  n="0121b19" ed="T"/></ab>
-<ab type="dharani">唵嚩日囉尾囉野娑嚩賀<lb
+<ab type='dharani'>唵嚩日囉尾囉野娑嚩賀<lb
  n="0121b20" ed="T"/><lb
  n="0121b21" ed="T"/></ab>
-<ab type="prose">次結獻塗香印。准前杵印。二大指微屈捻頭<lb
+<ab type='prose'>次結獻塗香印。准前杵印。二大指微屈捻頭<lb
  n="0121b22" ed="T"/>指下文。二大指相去二寸許。能滿所闕儀軌。<lb
  n="0121b23" ed="T"/>真言曰。<lb
  n="0121b24" ed="T"/></ab>
-<ab type="dharani">唵迦抳矩嚕馱薩嚩薩怛嚩娑<lb
+<ab type='dharani'>唵迦抳矩嚕馱薩嚩薩怛嚩娑<lb
  n="0121b25" ed="T"/>羯囉囉乞灑薩嚩產馱𩕳娑嚩<lb
  n="0121b26" ed="T"/>賀<lb
  n="0121b27" ed="T"/></ab>
-<ab type="prose">次結獻華印。准前杵印出右指真言曰。<lb
+<ab type='prose'>次結獻華印。准前杵印出右指真言曰。<lb
  n="0121b28" ed="T"/></ab>
-<ab type="dharani">唵迦抳捕澁波母納婆嚩吽<lb
+<ab type='dharani'>唵迦抳捕澁波母納婆嚩吽<lb
  n="0121b29" ed="T"/></ab>
-<ab type="prose">次結燒印。准前杵印二大指面相合真言曰。<pb n="0121c" id="T21.1222b.0121c" ed="T"/><lb
+<ab type='prose'>次結燒印。准前杵印二大指面相合真言曰。<pb n="0121c" id="T21.1222b.0121c" ed="T"/><lb
  n="0121c01" ed="T"/></ab>
-<ab type="dharani">唵迦抳矩嚕馱塢孽囉能<lb
+<ab type='dharani'>唵迦抳矩嚕馱塢孽囉能<lb
  n="0121c02" ed="T"/>瑟吒嚕得羯吒佩囉嚩孽囉<lb
  n="0121c03" ed="T"/>恨拏孽囉恨拏度奔娑嚩賀<lb
  n="0121c04" ed="T"/></ab>
-<ab type="prose">次結獻食印。准前杵印。出二大指二小指頭<lb
+<ab type='prose'>次結獻食印。准前杵印。出二大指二小指頭<lb
  n="0121c05" ed="T"/>相拄。餘六指內相叉作拳真言曰。<lb
  n="0121c06" ed="T"/></ab>
-<ab type="dharani">唵迦抳吽吽娑嚩賀<lb
+<ab type='dharani'>唵迦抳吽吽娑嚩賀<lb
  n="0121c07" ed="T"/></ab>
-<ab type="prose">次結燈明印。准前杵印。二大指向身並竪真<lb
+<ab type='prose'>次結燈明印。准前杵印。二大指向身並竪真<lb
  n="0121c08" ed="T"/>言曰。<lb
  n="0121c09" ed="T"/></ab>
-<ab type="dharani">唵迦抳儞跛儞跛野吽癹吒娑<lb
+<ab type='dharani'>唵迦抳儞跛儞跛野吽癹吒娑<lb
  n="0121c10" ed="T"/>嚩賀<lb
  n="0121c11" ed="T"/></ab>
-<ab type="prose">次結頭印。准前根本印。二大指捻二無名指<lb
+<ab type='prose'>次結頭印。准前根本印。二大指捻二無名指<lb
  n="0121c12" ed="T"/>甲上真言曰。<lb
  n="0121c13" ed="T"/></ab>
-<ab type="dharani">唵吽麼麼癹吒<lb
+<ab type='dharani'>唵吽麼麼癹吒<lb
  n="0121c14" ed="T"/></ab>
-<ab type="prose">次結頂印。准前根本印。二頭指直舒頭相拄<lb
+<ab type='prose'>次結頂印。准前根本印。二頭指直舒頭相拄<lb
  n="0121c15" ed="T"/>真言曰。<lb
  n="0121c16" ed="T"/></ab>
-<ab type="dharani">唵紇哩戰拏迦抳諾賀鉢者吽癹吒娑嚩賀<lb
+<ab type='dharani'>唵紇哩戰拏迦抳諾賀鉢者吽癹吒娑嚩賀<lb
  n="0121c18" ed="T"/></ab>
-<ab type="prose">次結前根本印安於心上。以心真言加持心<lb
+<ab type='prose'>次結前根本印安於心上。以心真言加持心<lb
  n="0121c19" ed="T"/>真言曰。<lb
  n="0121c20" ed="T"/></ab>
-<ab type="dharani">唵迦𩕳吽癹吒<lb
+<ab type='dharani'>唵迦𩕳吽癹吒<lb
  n="0121c21" ed="T"/></ab>
-<ab type="prose">次結甲冑印如多羅菩薩印。二頭微開。用前<lb
+<ab type='prose'>次結甲冑印如多羅菩薩印。二頭微開。用前<lb
  n="0121c22" ed="T"/>甲冑真言。<lb
  n="0121c23" ed="T"/>次結最勝印。二手內相叉作拳。二小指頭相<lb
  n="0121c24" ed="T"/>合。用前第二根本真言。次捧念珠當心。以隨<lb
  n="0121c25" ed="T"/>心真言加持七遍。隨心真言曰。<lb
  n="0121c26" ed="T"/></ab>
-<ab type="dharani">唵迦𩕳度麼吽癹吒<lb
+<ab type='dharani'>唵迦𩕳度麼吽癹吒<lb
  n="0121c27" ed="T"/></ab>
-<ab type="prose">次結奉送聖者印。准前根本印二大指向外<lb
+<ab type='prose'>次結奉送聖者印。准前根本印二大指向外<lb
  n="0121c28" ed="T"/>撥真言曰。<lb
  n="0121c29" ed="T"/></ab>
-<ab type="dharani">唵迦抳娑嚩賀<pb n="0122a" id="T21.1222b.0122a" ed="T"/><lb
+<ab type='dharani'>唵迦抳娑嚩賀<pb n="0122a" id="T21.1222b.0122a" ed="T"/><lb
  n="0122a01" ed="T"/></ab>
-<ab type="prose">今復說開阿修羅窟門立印。持誦者當迅速<lb
+<ab type='prose'>今復說開阿修羅窟門立印。持誦者當迅速<lb
  n="0122a02" ed="T"/>踏地。行步喜躍恐悚頻伸。蹙眉鼓其兩頰。二<lb
  n="0122a03" ed="T"/>手高舉曲其十指為師子爪。二目向下如師<lb
  n="0122a04" ed="T"/>子顧視。時時以兩手兩師子爪。更互上下以<lb
@@ -467,15 +467,15 @@
  n="0123a28" ed="T"/>弟子頂。灌已一切悉地皆得現前。從此已後<lb
  n="0123a29" ed="T"/>纔結契念誦。頓集無量功德。所求皆得成就。<pb n="0123b" id="T21.1222b.0123b" ed="T"/><lb
  n="0123b01" ed="T"/>
-</ab><ab type="juan" subtype="close">聖迦柅忿怒金剛童子菩薩成就儀軌經卷上</ab><lb
+</ab><ab type='juan' subtype='close'>聖迦柅忿怒金剛童子菩薩成就儀軌經卷上</ab><lb
  n="0123b02" ed="T"/><lb
  n="0123b03" ed="T"/><lb
  n="0123b04" ed="T"/>
-<ab type="juan" subtype="open">聖迦柅忿怒金剛童子菩薩成就<lb
+<ab type='juan' subtype='open'>聖迦柅忿怒金剛童子菩薩成就<lb
  n="0123b05" ed="T"/>儀軌經卷中</ab><lb
  n="0123b06" ed="T"/><lb
  n="0123b07" ed="T"/><byline>唐三藏沙門大廣智不空譯</byline><lb
- n="0123b08" ed="T"/><ab type="prose">我今復說作先行法。於舍利塔前安本尊像。<lb
+ n="0123b08" ed="T"/><ab type='prose'>我今復說作先行法。於舍利塔前安本尊像。<lb
  n="0123b09" ed="T"/>於三月十五日。塗壇隨力供養。取沈香搵酥<lb
  n="0123b10" ed="T"/>蜜酪。晝夜擲火中護摩。一誦一擲爐中。若道<lb
  n="0123b11" ed="T"/>場中旛華搖動。當知有効驗。即於晨朝供養<lb
@@ -831,15 +831,15 @@
  n="0127b15" ed="T"/>仙安怛但那成就。足離地疾行及得聞持不<lb
  n="0127b16" ed="T"/>忘。<lb
  n="0127b17" ed="T"/>
-</ab><ab type="juan" subtype="close">聖迦柅忿怒金剛童子菩薩成就儀軌經卷中</ab><lb
+</ab><ab type='juan' subtype='close'>聖迦柅忿怒金剛童子菩薩成就儀軌經卷中</ab><lb
  n="0127b18" ed="T"/><lb
  n="0127b19" ed="T"/><lb
  n="0127b20" ed="T"/>
-<ab type="juan" subtype="open">聖迦柅忿怒金剛童子菩薩成就<lb
+<ab type='juan' subtype='open'>聖迦柅忿怒金剛童子菩薩成就<lb
  n="0127b21" ed="T"/>儀軌經卷下</ab><lb
  n="0127b22" ed="T"/><lb
  n="0127b23" ed="T"/><byline>唐三藏沙門大廣智不空譯</byline><lb
- n="0127b24" ed="T"/><ab type="prose">我今說縛撲印法。先以瞿摩夷塗一圓壇一<lb
+ n="0127b24" ed="T"/><ab type='prose'>我今說縛撲印法。先以瞿摩夷塗一圓壇一<lb
  n="0127b25" ed="T"/>肘量。取七八歲童男或童女著新淨衣。先令<lb
  n="0127b26" ed="T"/>潔淨三日立於壇中。燒安息香。先加持香七<lb
  n="0127b27" ed="T"/>遍然後燒之。又取華加持七遍。置童子當中<lb
@@ -852,7 +852,7 @@
  n="0127c05" ed="T"/>印向上童子即立。問其吉凶三世之事。一一<lb
  n="0127c06" ed="T"/>皆實所作疾成。爾時金剛手菩薩以偈頌曰。<lb
  n="0127c07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 此金剛童子　　從我三昧生　　<lb
  n="0127c08" ed="T"/>成辦一切事　　忿怒王大力　　<lb
  n="0127c09" ed="T"/>即我金剛手　　調伏難調者　　<lb
@@ -864,7 +864,7 @@
  n="0127c15" ed="T"/>入忿怒王定　　威德如金剛　　<lb
  n="0127c16" ed="T"/>能伏難調者　　悉皆令順伏　　
 </ab><lb
- n="0127c17" ed="T"/><ab type="prose">又法取蓮華或有香氣華。護摩所求皆得。<lb
+ n="0127c17" ed="T"/><ab type='prose'>又法取蓮華或有香氣華。護摩所求皆得。<lb
  n="0127c18" ed="T"/>又結印誦吽字真言。即得山嶽摧倒。亦能枯<lb
  n="0127c19" ed="T"/>竭河水。亦能破阿修羅關鍵。爾時金剛手菩<lb
  n="0127c20" ed="T"/>薩告大眾言。此忿怒王有無量威德大神通<lb
@@ -954,26 +954,26 @@
  n="0128c17" ed="T"/>乳木作護摩即得息災。我今又說求悉地時<lb
  n="0128c18" ed="T"/>能成辦諸事印。加持所成就物真言曰。<lb
  n="0128c19" ed="T"/></ab>
-<ab type="dharani">唵迦抳矩嚕馱薩嚩薩怛嚩<lb
+<ab type='dharani'>唵迦抳矩嚕馱薩嚩薩怛嚩<lb
  n="0128c20" ed="T"/>婆孕羯囉囉乞灑囉乞灑薩嚩捺<lb
  n="0128c21" ed="T"/>囉尾野抳娑嚩賀<lb
  n="0128c22" ed="T"/></ab>
-<ab type="prose">澡洗印。准前獨股杵印。二大指並入掌。手腕<lb
+<ab type='prose'>澡洗印。准前獨股杵印。二大指並入掌。手腕<lb
  n="0128c23" ed="T"/>相著即成。真言曰。<lb
  n="0128c24" ed="T"/></ab>
-<ab type="dharani">唵迦抳矩嚕囉拽蹉娑嚩賀<lb
+<ab type='dharani'>唵迦抳矩嚕囉拽蹉娑嚩賀<lb
  n="0128c25" ed="T"/></ab>
-<ab type="prose">道場掃地真言曰。<lb
+<ab type='prose'>道場掃地真言曰。<lb
  n="0128c26" ed="T"/></ab>
-<ab type="dharani">迦抳麼囉野吽<lb
+<ab type='dharani'>迦抳麼囉野吽<lb
  n="0128c27" ed="T"/></ab>
-<ab type="prose">求成就時縛難調者。準前根本印。以大指於<lb
+<ab type='prose'>求成就時縛難調者。準前根本印。以大指於<lb
  n="0128c28" ed="T"/>掌中交。真言曰。<lb
  n="0128c29" ed="T"/></ab>
-<ab type="dharani">唵迦抳戍灑野薩縛努瑟鵮滿馱<pb n="0129a" id="T21.1222b.0129a" ed="T"/><lb
+<ab type='dharani'>唵迦抳戍灑野薩縛努瑟鵮滿馱<pb n="0129a" id="T21.1222b.0129a" ed="T"/><lb
  n="0129a01" ed="T"/>野滿馱野吽癹吒<lb
  n="0129a02" ed="T"/></ab>
-<ab type="prose">廣大金剛心印。準前獨股杵印。以二大指掌<lb
+<ab type='prose'>廣大金剛心印。準前獨股杵印。以二大指掌<lb
  n="0129a03" ed="T"/>中相抳。廣大金剛隨心印。準前心印以二大<lb
  n="0129a04" ed="T"/>指並竪。亦名蓮華金剛印。最勝心印。準前最<lb
  n="0129a05" ed="T"/>勝印。屈二小指頭相拄。若種種障難家中不<lb
@@ -1072,5 +1072,5 @@
  n="0130a13" ed="T"/>儀汝等助護。速令成就此法勿生疑惑。如法<lb
  n="0130a14" ed="T"/>奉行。<lb
  n="0130a15" ed="T"/>
-</ab><ab type="juan" subtype="close">聖迦柅忿怒金剛童子菩薩成就儀軌經卷下</ab></div>
+</ab><ab type='juan' subtype='close'>聖迦柅忿怒金剛童子菩薩成就儀軌經卷下</ab></div>
 </body></text></TEI>

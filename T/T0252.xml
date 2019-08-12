@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T08</biblScope>
                     <idno type="Taisho">T08n0252</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0849a02" ed="T"/><lb
  n="0849a03" ed="T"/><lb
  n="0849a04" ed="T"/>
-<ab type="juan" subtype="open">普遍智藏般若波羅蜜多心經</ab><lb
+<ab type='juan' subtype='open'>普遍智藏般若波羅蜜多心經</ab><lb
  n="0849a05" ed="T"/><lb
  n="0849a06" ed="T"/><byline>摩竭提國三藏沙門法月重譯</byline><lb
- n="0849a07" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時佛在王舍大城靈鷲山中，與<lb
+ n="0849a07" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時佛在王舍大城靈鷲山中，與<lb
  n="0849a08" ed="T"/>大比丘眾滿百千人，菩薩摩訶薩七萬七千<lb
  n="0849a09" ed="T"/>人俱，其名曰觀世音菩薩、文殊師利菩薩、彌<lb
  n="0849a10" ed="T"/>勒菩薩等，以為上首。皆得三昧總持，住不思<lb
@@ -84,12 +84,12 @@
  n="0849b12" ed="T"/>上呪，是無等等呪。能除一切苦，真實不虛。故<lb
  n="0849b13" ed="T"/>說般若波羅蜜多呪。」即說呪曰：<lb
  n="0849b14" ed="T"/></ab>
-<ab type="dharani">「揭諦　揭諦　波羅揭諦　波羅僧揭諦　菩提<lb
+<ab type='dharani'>「揭諦　揭諦　波羅揭諦　波羅僧揭諦　菩提<lb
  n="0849b15" ed="T"/>　莎婆訶」<lb
  n="0849b16" ed="T"/></ab>
-<ab type="prose">佛說是經已，諸比丘及菩薩眾，一切世間天、<lb
+<ab type='prose'>佛說是經已，諸比丘及菩薩眾，一切世間天、<lb
  n="0849b17" ed="T"/>人、阿脩羅、乾闥婆等，聞佛所說，皆大歡喜，信<lb
  n="0849b18" ed="T"/>受奉行。</ab></div><lb
  n="0849b19" ed="T"/>
-<ab type="juan" subtype="close">普遍智藏般若波羅蜜多心經</ab>
+<ab type='juan' subtype='close'>普遍智藏般若波羅蜜多心經</ab>
 </body></text></TEI>

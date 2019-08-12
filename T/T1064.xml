@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1064</idno>
                 </bibl>
@@ -39,17 +39,17 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0115b16" ed="T"/><lb
  n="0115b17" ed="T"/><lb
  n="0115b18" ed="T"/><lb
  n="0115b19" ed="T"/>
-<ab type="juan" subtype="open">千手千眼觀世音菩薩大悲心陀<lb
+<ab type='juan' subtype='open'>千手千眼觀世音菩薩大悲心陀<lb
  n="0115b20" ed="T"/>羅尼</ab><lb
  n="0115b21" ed="T"/><lb
  n="0115b22" ed="T"/><byline>大唐三藏不空譯</byline><lb
- n="0115b23" ed="T"/><div type="jing" level="2"><ab type="verse">
+ n="0115b23" ed="T"/><div type='jing' level='2'><ab type='verse'>
 稽首觀音大悲主　　願力洪深相好身　　<lb
  n="0115b24" ed="T"/>千臂莊嚴普護持　　千眼光明遍觀照　　<lb
  n="0115b25" ed="T"/>真實語中宣密語　　無為心內起悲心　　<lb
@@ -69,7 +69,7 @@
  n="0115c10" ed="T"/>南無大悲觀世音　　願我速會無為舍　　<lb
  n="0115c11" ed="T"/>南無大悲觀世音　　願我早同法性身　　
 </ab><lb
- n="0115c12" ed="T"/><ab type="verse">
+ n="0115c12" ed="T"/><ab type='verse'>
 我若向刀山　　刀山自摧折　　<lb
  n="0115c13" ed="T"/>我若向火湯　　火湯自消滅　　<lb
  n="0115c14" ed="T"/>我若向地獄　　地獄自枯竭　　<lb
@@ -77,7 +77,7 @@
  n="0115c16" ed="T"/>我若向修羅　　惡心自調伏　　<lb
  n="0115c17" ed="T"/>我若向畜生　　自得大智慧　　
 </ab><lb
- n="0115c18" ed="T"/><ab type="prose">發是願已。至心稱念我之名字。亦應專念我<lb
+ n="0115c18" ed="T"/><ab type='prose'>發是願已。至心稱念我之名字。亦應專念我<lb
  n="0115c19" ed="T"/>本師阿彌陀如來。然後即當誦此陀羅尼神<lb
  n="0115c20" ed="T"/>呪。一宿誦滿五遍。除滅身中百千萬億劫生<lb
  n="0115c21" ed="T"/>死重罪。<lb
@@ -131,7 +131,7 @@
  n="0116b11" ed="T"/>大圓滿無礙大悲心陀羅尼神妙章句。陀羅<lb
  n="0116b12" ed="T"/>尼曰。<lb
  n="0116b13" ed="T"/></ab>
-<ab type="dharani">南無喝囉怛娜哆囉夜㖿南無阿唎㖿婆盧羯<lb
+<ab type='dharani'>南無喝囉怛娜哆囉夜㖿南無阿唎㖿婆盧羯<lb
  n="0116b15" ed="T"/>帝爍鉢囉㖿菩<lb
  n="0116b16" ed="T"/>提薩埵婆㖿摩訶薩埵婆㖿摩訶迦盧尼迦㖿唵薩皤囉罰曳數怛那怛寫南無悉吉栗<lb
  n="0116b20" ed="T"/>埵伊蒙阿唎㖿婆盧吉<lb
@@ -144,7 +144,7 @@
  n="0116c06" ed="T"/>羯懞度盧度盧罰闍<lb
  n="0116c07" ed="T"/>耶帝摩訶罰闍耶帝<lb
  n="0116c08" ed="T"/>陀羅陀羅地唎尼室佛羅娜遮囉遮囉<lb
- n="0116c10" ed="T"/>摩摩罰摩囉穆帝󰳋伊醯伊醯室那室那阿囉嘇佛囉舍利罰沙罰嘇佛囉舍耶呼盧呼盧摩羅呼盧<lb
+ n="0116c10" ed="T"/>摩摩罰摩囉穆帝𭌚伊醯伊醯室那室那阿囉嘇佛囉舍利罰沙罰嘇佛囉舍耶呼盧呼盧摩羅呼盧<lb
  n="0116c15" ed="T"/>呼盧醯唎娑囉娑囉悉唎悉<lb
  n="0116c16" ed="T"/>唎蘇嚧蘇嚧菩提夜菩提夜菩馱夜菩<lb
  n="0116c18" ed="T"/>馱．夜彌帝唎夜那<lb
@@ -160,307 +160,307 @@
  n="0117a08" ed="T"/>婆訶悉殿都漫哆羅跋馱耶<lb
  n="0117a09" ed="T"/>娑婆訶<lb
  n="0117a10" ed="T"/></ab>
-<ab type="prose">（四十一）若為一切飢渴有情及<lb
+<ab type='prose'>（四十一）若為一切飢渴有情及<lb
  n="0117a11" ed="T"/>諸餓鬼得清涼者。當<lb
  n="0117a12" ed="T"/>於甘露手真言。<lb
  n="0117a13" ed="T"/></ab>
-<ab type="dharani">唵素嚕素嚕鉢羅素嚕鉢羅素嚕素嚕素嚕野薩嚩賀<lb
+<ab type='dharani'>唵素嚕素嚕鉢羅素嚕鉢羅素嚕素嚕素嚕野薩嚩賀<lb
  n="0117a16" ed="T"/></ab>
-<ab type="prose">（七）若為一切時一切處怖畏不<lb
+<ab type='prose'>（七）若為一切時一切處怖畏不<lb
  n="0117a17" ed="T"/>安者。當於施無畏手。真言。<lb
  n="0117a18" ed="T"/></ab>
-<ab type="dharani">唵嚩日羅曩野吽泮<lb
+<ab type='dharani'>唵嚩日羅曩野吽泮<lb
  n="0117a19" ed="T"/>吒<lb
  n="0117a20" ed="T"/></ab>
-<ab type="prose">（八）若為眼暗無光明者。<lb
+<ab type='prose'>（八）若為眼暗無光明者。<lb
  n="0117a21" ed="T"/>當於日精摩尼手。真言。<lb
  n="0117a22" ed="T"/></ab>
-<ab type="dharani">唵度比迦野度比鉢囉<lb
+<ab type='dharani'>唵度比迦野度比鉢囉<lb
  n="0117a23" ed="T"/>嚩哩儜薩嚩賀<lb
  n="0117a24" ed="T"/></ab>
-<ab type="prose">（九）若為患熱毒病求清涼<lb
+<ab type='prose'>（九）若為患熱毒病求清涼<lb
  n="0117a25" ed="T"/>者。當於月精摩尼手。真<lb
  n="0117a26" ed="T"/>言。<lb
  n="0117a27" ed="T"/></ab>
-<ab type="dharani">唵蘇悉地揭哩薩<pb n="0117b" id="T20.1064.0117b" ed="T"/><lb
+<ab type='dharani'>唵蘇悉地揭哩薩<pb n="0117b" id="T20.1064.0117b" ed="T"/><lb
  n="0117b01" ed="T"/>嚩賀<lb
  n="0117b02" ed="T"/></ab>
-<ab type="prose">（十）若為榮官益<lb
+<ab type='prose'>（十）若為榮官益<lb
  n="0117b03" ed="T"/>職求仕官者。<lb
  n="0117b04" ed="T"/>當於寶弓手真<lb
  n="0117b05" ed="T"/>言。<lb
  n="0117b06" ed="T"/></ab>
-<ab type="dharani">唵阿左尾㘑薩嚩賀<lb
+<ab type='dharani'>唵阿左尾㘑薩嚩賀<lb
  n="0117b07" ed="T"/></ab>
-<ab type="prose">（十一）若為諸善朋<lb
+<ab type='prose'>（十一）若為諸善朋<lb
  n="0117b08" ed="T"/>友早相逢遇<lb
  n="0117b09" ed="T"/>者。當於寶箭<lb
  n="0117b10" ed="T"/>手。真言。<lb
  n="0117b11" ed="T"/></ab>
-<ab type="dharani">唵迦摩攞薩嚩賀<lb
+<ab type='dharani'>唵迦摩攞薩嚩賀<lb
  n="0117b12" ed="T"/></ab>
-<ab type="prose">（二十四）若為求生諸梵天<lb
+<ab type='prose'>（二十四）若為求生諸梵天<lb
  n="0117b13" ed="T"/>上者。當於軍持手。真<lb
  n="0117b14" ed="T"/>言。<lb
  n="0117b15" ed="T"/></ab>
-<ab type="dharani">唵嚩日囉勢佉<lb
+<ab type='dharani'>唵嚩日囉勢佉<lb
  n="0117b16" ed="T"/>囉嚕吒𤚥吒<lb
  n="0117b17" ed="T"/></ab>
-<ab type="prose">（十二）若為身上種種病<lb
+<ab type='prose'>（十二）若為身上種種病<lb
  n="0117b18" ed="T"/>難者。當於楊柳枝<lb
  n="0117b19" ed="T"/>手。真言。<lb
  n="0117b20" ed="T"/></ab>
-<ab type="dharani">唵蘇悉地迦哩嚩<lb
+<ab type='dharani'>唵蘇悉地迦哩嚩<lb
  n="0117b21" ed="T"/>哩哆喃哆目哆曳嚩<lb
  n="0117b22" ed="T"/>日囉嚩日囉畔馱賀曩賀曩吽<lb
  n="0117b23" ed="T"/>泮吒<lb
  n="0117b24" ed="T"/></ab>
-<ab type="prose">（十三）若為除滅一切惡<lb
+<ab type='prose'>（十三）若為除滅一切惡<lb
  n="0117b25" ed="T"/>障難者。當於白拂手。<lb
  n="0117b26" ed="T"/>真言。<lb
  n="0117b27" ed="T"/></ab>
-<ab type="dharani">唵鉢娜弭儜婆誐<lb
+<ab type='dharani'>唵鉢娜弭儜婆誐<lb
  n="0117b28" ed="T"/>嚩帝謨賀野惹誐謨<lb
  n="0117b29" ed="T"/>賀儜薩嚩賀<pb n="0117c" id="T20.1064.0117c" ed="T"/><lb
  n="0117c01" ed="T"/></ab>
-<ab type="prose">（十四）若為一切善和<lb
+<ab type='prose'>（十四）若為一切善和<lb
  n="0117c02" ed="T"/>眷屬者。當於寶<lb
  n="0117c03" ed="T"/>瓶手。真言。<lb
  n="0117c04" ed="T"/></ab>
-<ab type="dharani">唵揭㘑糝<lb
+<ab type='dharani'>唵揭㘑糝<lb
  n="0117c05" ed="T"/>滿焰薩嚩賀<lb
  n="0117c06" ed="T"/></ab>
-<ab type="prose">（十五）若為辟除一切<lb
+<ab type='prose'>（十五）若為辟除一切<lb
  n="0117c07" ed="T"/>虎狼諸惡獸者。<lb
  n="0117c08" ed="T"/>當於傍牌手。真<lb
  n="0117c09" ed="T"/>言。<lb
  n="0117c10" ed="T"/></ab>
-<ab type="dharani">唵藥葛釤曩那<lb
+<ab type='dharani'>唵藥葛釤曩那<lb
  n="0117c11" ed="T"/>野戰捺羅達耨播哩野跛舍跛舍<lb
  n="0117c12" ed="T"/>薩嚩賀<lb
  n="0117c13" ed="T"/></ab>
-<ab type="prose">（十六）若為一切時<lb
+<ab type='prose'>（十六）若為一切時<lb
  n="0117c14" ed="T"/>一切處離官難<lb
  n="0117c15" ed="T"/>者。當於鉞斧<lb
  n="0117c16" ed="T"/>手。真言。<lb
  n="0117c17" ed="T"/></ab>
-<ab type="dharani">唵味囉野味囉野薩嚩賀<lb
+<ab type='dharani'>唵味囉野味囉野薩嚩賀<lb
  n="0117c18" ed="T"/></ab>
-<ab type="prose">（二十八）若為使令一切<lb
+<ab type='prose'>（二十八）若為使令一切<lb
  n="0117c19" ed="T"/>鬼神不相違拒者。<lb
  n="0117c20" ed="T"/>當於髑髏寶杖手。<lb
  n="0117c21" ed="T"/>真言。<lb
  n="0117c22" ed="T"/></ab>
-<ab type="dharani">唵度曩嚩日囉<lb
- n="0117c23" ed="T"/>󰺻<lb
+<ab type='dharani'>唵度曩嚩日囉<lb
+ n="0117c23" ed="T"/>𭉞<lb
  n="0117c24" ed="T"/></ab>
-<ab type="prose">（二十九）若為十方諸<lb
+<ab type='prose'>（二十九）若為十方諸<lb
  n="0117c25" ed="T"/>佛速來授手者。<lb
  n="0117c26" ed="T"/>當於數珠手。真<lb
  n="0117c27" ed="T"/>言。<lb
  n="0117c28" ed="T"/></ab>
-<ab type="dharani">曩謨囉怛曩怛囉夜野唵阿<lb
+<ab type='dharani'>曩謨囉怛曩怛囉夜野唵阿<lb
  n="0117c29" ed="T"/>那婆帝尼惹曳悉地悉馱㗚簪薩嚩<pb n="0118a" id="T20.1064.0118a" ed="T"/><lb
  n="0118a01" ed="T"/>賀<lb
  n="0118a02" ed="T"/></ab>
-<ab type="prose">（四）若為降伏一切<lb
+<ab type='prose'>（四）若為降伏一切<lb
  n="0118a03" ed="T"/>魍魎鬼神者。當<lb
  n="0118a04" ed="T"/>於寶劍手。真言。<lb
  n="0118a05" ed="T"/></ab>
-<ab type="dharani">唵帝勢帝惹覩尾儜覩提婆馱野吽<lb
+<ab type='dharani'>唵帝勢帝惹覩尾儜覩提婆馱野吽<lb
  n="0118a06" ed="T"/>泮吒<lb
  n="0118a07" ed="T"/></ab>
-<ab type="prose">（六）若為摧伏一<lb
+<ab type='prose'>（六）若為摧伏一<lb
  n="0118a08" ed="T"/>切怨敵者。當<lb
  n="0118a09" ed="T"/>於金剛杵手。<lb
  n="0118a10" ed="T"/>真言。<lb
  n="0118a11" ed="T"/></ab>
-<ab type="dharani">唵嚩日囉祇儜鉢囉儞鉢多野<lb
+<ab type='dharani'>唵嚩日囉祇儜鉢囉儞鉢多野<lb
  n="0118a12" ed="T"/>薩嚩賀<lb
  n="0118a13" ed="T"/></ab>
-<ab type="prose">（三十二）若為善神龍王<lb
+<ab type='prose'>（三十二）若為善神龍王<lb
  n="0118a14" ed="T"/>常來擁護者。當於<lb
  n="0118a15" ed="T"/>俱尸鐵鉤手。真言。<lb
  n="0118a16" ed="T"/></ab>
-<ab type="dharani">唵阿嗗嚕哆<lb
+<ab type='dharani'>唵阿嗗嚕哆<lb
  n="0118a17" ed="T"/>囉迦囉毘沙曳曩<lb
  n="0118a18" ed="T"/>謨薩嚩賀<lb
  n="0118a19" ed="T"/></ab>
-<ab type="prose">（三十三）若為慈悲覆<lb
+<ab type='prose'>（三十三）若為慈悲覆<lb
  n="0118a20" ed="T"/>護一切眾生者。<lb
  n="0118a21" ed="T"/>當於錫杖手。真<lb
  n="0118a22" ed="T"/>言。<lb
  n="0118a23" ed="T"/></ab>
-<ab type="dharani">唵那㗚智那㗚<lb
+<ab type='dharani'>唵那㗚智那㗚<lb
  n="0118a24" ed="T"/>智那㗚吒鉢底那㗚帝娜夜鉢儜吽泮吒<lb
  n="0118a25" ed="T"/></ab>
-<ab type="prose">（十八）若為種種功德<lb
+<ab type='prose'>（十八）若為種種功德<lb
  n="0118a26" ed="T"/>者。當於白蓮華<lb
  n="0118a27" ed="T"/>手。真言。<lb
  n="0118a28" ed="T"/></ab>
-<ab type="dharani">唵嚩日囉味囉野薩嚩賀<pb n="0118b" id="T20.1064.0118b" ed="T"/><lb
+<ab type='dharani'>唵嚩日囉味囉野薩嚩賀<pb n="0118b" id="T20.1064.0118b" ed="T"/><lb
  n="0118b01" ed="T"/></ab>
-<ab type="prose">（十九）若為求生十方淨<lb
+<ab type='prose'>（十九）若為求生十方淨<lb
  n="0118b02" ed="T"/>土者。當於青蓮華<lb
  n="0118b03" ed="T"/>手。真言。<lb
  n="0118b04" ed="T"/></ab>
-<ab type="dharani">唵枳哩枳哩嚩日囉部囉畔馱吽<lb
+<ab type='dharani'>唵枳哩枳哩嚩日囉部囉畔馱吽<lb
  n="0118b05" ed="T"/>泮吒<lb
  n="0118b06" ed="T"/></ab>
-<ab type="prose">（二十一）若為面見一切十<lb
+<ab type='prose'>（二十一）若為面見一切十<lb
  n="0118b07" ed="T"/>方諸佛者。當於紫蓮<lb
  n="0118b08" ed="T"/>華手。真言。<lb
  n="0118b09" ed="T"/></ab>
-<ab type="dharani">唵薩囉薩囉嚩日囉<lb
+<ab type='dharani'>唵薩囉薩囉嚩日囉<lb
  n="0118b10" ed="T"/>迦囉吽泮吒<lb
  n="0118b11" ed="T"/></ab>
-<ab type="prose">（二十五）若為求生諸天<lb
+<ab type='prose'>（二十五）若為求生諸天<lb
  n="0118b12" ed="T"/>宮者。當於紅蓮華手。<lb
  n="0118b13" ed="T"/>真言。<lb
  n="0118b14" ed="T"/></ab>
-<ab type="dharani">唵商揭㘑薩嚩<lb
+<ab type='dharani'>唵商揭㘑薩嚩<lb
  n="0118b15" ed="T"/>賀<lb
  n="0118b16" ed="T"/></ab>
-<ab type="prose">（二十）若為成就廣大智惠<lb
+<ab type='prose'>（二十）若為成就廣大智惠<lb
  n="0118b17" ed="T"/>者。當於寶鏡手。真言。<lb
  n="0118b18" ed="T"/></ab>
-<ab type="dharani">唵尾薩普囉那囉葛<lb
+<ab type='dharani'>唵尾薩普囉那囉葛<lb
  n="0118b19" ed="T"/>叉嚩日囉曼荼吽泮吒<lb
  n="0118b20" ed="T"/></ab>
-<ab type="prose">（三十一）若為成就口辯言辭<lb
+<ab type='prose'>（三十一）若為成就口辯言辭<lb
  n="0118b21" ed="T"/>巧妙者。當於寶印手。真<lb
  n="0118b22" ed="T"/>言。<lb
  n="0118b23" ed="T"/></ab>
-<ab type="dharani">唵嚩日囉儜擔惹<lb
+<ab type='dharani'>唵嚩日囉儜擔惹<lb
  n="0118b24" ed="T"/>曳薩嚩賀<lb
  n="0118b25" ed="T"/></ab>
-<ab type="prose">（三十九）若為十方諸佛速<lb
+<ab type='prose'>（三十九）若為十方諸佛速<lb
  n="0118b26" ed="T"/>來摩頂授記者。當於<lb
  n="0118b27" ed="T"/>頂上化佛手。真言。<lb
  n="0118b28" ed="T"/></ab>
-<ab type="dharani">唵嚩曰哩尾嚩<lb
+<ab type='dharani'>唵嚩曰哩尾嚩<lb
  n="0118b29" ed="T"/>曰藍藝薩嚩<pb n="0118c" id="T20.1064.0118c" ed="T"/><lb
  n="0118c01" ed="T"/>賀<lb
  n="0118c02" ed="T"/></ab>
-<ab type="prose">（三十四）若為令一切鬼神龍蛇<lb
+<ab type='prose'>（三十四）若為令一切鬼神龍蛇<lb
  n="0118c03" ed="T"/>虎狼師子人及非人常相<lb
  n="0118c04" ed="T"/>恭敬愛念者。當於合掌手。<lb
  n="0118c05" ed="T"/>真言。<lb
  n="0118c06" ed="T"/></ab>
-<ab type="dharani">唵尾薩囉尾薩囉吽泮吒<lb
+<ab type='dharani'>唵尾薩囉尾薩囉吽泮吒<lb
  n="0118c07" ed="T"/></ab>
-<ab type="prose">（二十二）若為求地中種種伏<lb
+<ab type='prose'>（二十二）若為求地中種種伏<lb
  n="0118c08" ed="T"/>藏者。當於寶篋手。真言。<lb
  n="0118c09" ed="T"/></ab>
-<ab type="dharani">唵嚩日囉播設迦<lb
+<ab type='dharani'>唵嚩日囉播設迦<lb
  n="0118c10" ed="T"/>哩揭曩𤚥囉吽<lb
  n="0118c11" ed="T"/></ab>
-<ab type="prose">（二十三）若為速成就佛<lb
+<ab type='prose'>（二十三）若為速成就佛<lb
  n="0118c12" ed="T"/>道者。當於五色雲手。<lb
  n="0118c13" ed="T"/>真言。<lb
  n="0118c14" ed="T"/></ab>
-<ab type="dharani">唵嚩日囉迦哩<lb
+<ab type='dharani'>唵嚩日囉迦哩<lb
  n="0118c15" ed="T"/>囉吒𤚥吒<lb
  n="0118c16" ed="T"/></ab>
-<ab type="prose">（二十六）若為辟除他方<lb
+<ab type='prose'>（二十六）若為辟除他方<lb
  n="0118c17" ed="T"/>逆賊怨敵者。當於<lb
  n="0118c18" ed="T"/>寶戟手。真言。<lb
  n="0118c19" ed="T"/></ab>
-<ab type="dharani">唵糝昧野祇儜<lb
+<ab type='dharani'>唵糝昧野祇儜<lb
  n="0118c20" ed="T"/>賀哩吽泮吒<lb
  n="0118c21" ed="T"/></ab>
-<ab type="prose">（二十七）若為呼召一切諸天<lb
+<ab type='prose'>（二十七）若為呼召一切諸天<lb
  n="0118c22" ed="T"/>善神者。當於寶螺手。真<lb
  n="0118c23" ed="T"/>言。<lb
  n="0118c24" ed="T"/></ab>
-<ab type="dharani">唵商揭㘑摩賀糝<lb
+<ab type='dharani'>唵商揭㘑摩賀糝<lb
  n="0118c25" ed="T"/>滿焰薩嚩賀<lb
  n="0118c26" ed="T"/></ab>
-<ab type="prose">（一）若為富饒種種功德<lb
+<ab type='prose'>（一）若為富饒種種功德<lb
  n="0118c27" ed="T"/>資具者。當於如意寶<lb
  n="0118c28" ed="T"/>珠手。真言。<lb
  n="0118c29" ed="T"/></ab>
-<ab type="dharani">唵嚩日囉嚩哆<pb n="0119a" id="T20.1064.0119a" ed="T"/><lb
+<ab type='dharani'>唵嚩日囉嚩哆<pb n="0119a" id="T20.1064.0119a" ed="T"/><lb
  n="0119a01" ed="T"/>囉吽泮吒<lb
  n="0119a02" ed="T"/></ab>
-<ab type="prose">（二）若為種種不安求<lb
+<ab type='prose'>（二）若為種種不安求<lb
  n="0119a03" ed="T"/>安隱者。當於羂索<lb
  n="0119a04" ed="T"/>手。真言。<lb
  n="0119a05" ed="T"/></ab>
-<ab type="dharani">唵枳哩攞囉謨捺<lb
+<ab type='dharani'>唵枳哩攞囉謨捺<lb
  n="0119a06" ed="T"/>囉吽泮吒<lb
  n="0119a07" ed="T"/></ab>
-<ab type="prose">（三）若為腹中諸病苦者。當<lb
+<ab type='prose'>（三）若為腹中諸病苦者。當<lb
  n="0119a08" ed="T"/>於寶鉢手。真言。<lb
  n="0119a09" ed="T"/></ab>
-<ab type="dharani">唵枳哩枳哩嚩日囉<lb
+<ab type='dharani'>唵枳哩枳哩嚩日囉<lb
  n="0119a10" ed="T"/>吽泮吒<lb
  n="0119a11" ed="T"/></ab>
-<ab type="prose">（十七）若為男女及諸僕<lb
+<ab type='prose'>（十七）若為男女及諸僕<lb
  n="0119a12" ed="T"/>使者。當於玉環手。<lb
  n="0119a13" ed="T"/>真言。<lb
  n="0119a14" ed="T"/></ab>
-<ab type="dharani">唵鉢娜𤚥味囉野薩嚩賀<lb
+<ab type='dharani'>唵鉢娜𤚥味囉野薩嚩賀<lb
  n="0119a15" ed="T"/></ab>
-<ab type="prose">（三十）若為成就一切上妙<lb
+<ab type='prose'>（三十）若為成就一切上妙<lb
  n="0119a16" ed="T"/>梵音聲者。當於寶鐸<lb
  n="0119a17" ed="T"/>手。真言。<lb
  n="0119a18" ed="T"/></ab>
-<ab type="dharani">曩謨鉢娜𤚥播拏曳唵阿密㗚擔儼<lb
+<ab type='dharani'>曩謨鉢娜𤚥播拏曳唵阿密㗚擔儼<lb
  n="0119a19" ed="T"/>陛室哩曳寶哩𪉜哩儜薩嚩賀<lb
  n="0119a20" ed="T"/></ab>
-<ab type="prose">（五）若為降伏一切天<lb
+<ab type='prose'>（五）若為降伏一切天<lb
  n="0119a21" ed="T"/>魔外道者。當於<lb
  n="0119a22" ed="T"/>跋折羅手。真言。<lb
  n="0119a23" ed="T"/></ab>
-<ab type="dharani">唵儞陛儞陛儞跛野摩訶室哩曳薩嚩<lb
+<ab type='dharani'>唵儞陛儞陛儞跛野摩訶室哩曳薩嚩<lb
  n="0119a24" ed="T"/>賀<lb
  n="0119a25" ed="T"/></ab>
-<ab type="prose">（三十五）若為生生之處不<lb
+<ab type='prose'>（三十五）若為生生之處不<lb
  n="0119a26" ed="T"/>離諸佛邊者。當於化<lb
  n="0119a27" ed="T"/>佛手。真言。<lb
  n="0119a28" ed="T"/></ab>
-<ab type="dharani">唵戰娜囉婆𤚥吒<pb n="0119b" id="T20.1064.0119b" ed="T"/><lb
+<ab type='dharani'>唵戰娜囉婆𤚥吒<pb n="0119b" id="T20.1064.0119b" ed="T"/><lb
  n="0119b01" ed="T"/>哩迦哩娜祇哩娜祇哩柅吽泮吒<lb
  n="0119b02" ed="T"/></ab>
-<ab type="prose">（三十六）若為生生世世常<lb
+<ab type='prose'>（三十六）若為生生世世常<lb
  n="0119b03" ed="T"/>在佛宮殿中不處胎<lb
  n="0119b04" ed="T"/>藏中受身者。當於化<lb
  n="0119b05" ed="T"/>宮殿手。真言。<lb
  n="0119b06" ed="T"/></ab>
-<ab type="dharani">唵微薩囉微薩囉吽泮吒<lb
+<ab type='dharani'>唵微薩囉微薩囉吽泮吒<lb
  n="0119b07" ed="T"/></ab>
-<ab type="prose">（三十七）若為聰明多聞廣學<lb
+<ab type='prose'>（三十七）若為聰明多聞廣學<lb
  n="0119b08" ed="T"/>不忘者。當於寶經手。真<lb
  n="0119b09" ed="T"/>言。<lb
  n="0119b10" ed="T"/></ab>
-<ab type="dharani">唵阿賀囉薩囉嚩尾<lb
+<ab type='dharani'>唵阿賀囉薩囉嚩尾<lb
  n="0119b11" ed="T"/>儞野馱囉布儞帝薩嚩賀<lb
  n="0119b12" ed="T"/></ab>
-<ab type="prose">（三十八）若為從今身至佛<lb
+<ab type='prose'>（三十八）若為從今身至佛<lb
  n="0119b13" ed="T"/>身菩提心當不退轉<lb
  n="0119b14" ed="T"/>者。當於不退轉金<lb
  n="0119b15" ed="T"/>輪手。真言。<lb
  n="0119b16" ed="T"/></ab>
-<ab type="dharani">唵設那弭左薩嚩賀<lb
+<ab type='dharani'>唵設那弭左薩嚩賀<lb
  n="0119b18" ed="T"/></ab>
-<ab type="prose">（四十）若為果蓏諸穀<lb
+<ab type='prose'>（四十）若為果蓏諸穀<lb
  n="0119b19" ed="T"/>稼者。當於蒲桃<lb
  n="0119b20" ed="T"/>手。真言。<lb
  n="0119b21" ed="T"/></ab>
-<ab type="dharani">唵阿摩攞劍帝<lb
+<ab type='dharani'>唵阿摩攞劍帝<lb
  n="0119b22" ed="T"/>儞儜薩嚩賀<lb
  n="0119b23" ed="T"/></ab>
-<ab type="prose">觀世音菩薩說此呪已。大地六變震動。天雨<lb
+<ab type='prose'>觀世音菩薩說此呪已。大地六變震動。天雨<lb
  n="0119b24" ed="T"/>寶華繽紛而下。十方諸佛悉皆歡喜。天魔外<lb
  n="0119b25" ed="T"/>道恐怖毛竪。一切眾會皆獲果證。或得須陀<lb
  n="0119b26" ed="T"/>洹果。或得斯陀含果。或得阿那含果。或得阿<lb
  n="0119b27" ed="T"/>羅漢果者。或得一地二地三四五地乃至十<lb
  n="0119b28" ed="T"/>地者。無量眾生發菩提心。<pb n="0119c" id="T20.1064.0119c" ed="T"/><lb
  n="0119c01" ed="T"/>
-</ab><ab type="juan" subtype="close">大悲心陀羅尼經并呪</ab></div><lb
+</ab><ab type='juan' subtype='close'>大悲心陀羅尼經并呪</ab></div><lb
  n="0119c02" ed="T"/><lb
- n="0119c03" ed="T"/><div type="w" level="2"><ab type="prose">八家祕錄云。千手千眼觀世音廣大圓滿<lb
+ n="0119c03" ed="T"/><div type='w' level='2'><ab type='prose'>八家祕錄云。千手千眼觀世音廣大圓滿<lb
  n="0119c04" ed="T"/>無礙大悲心大陀羅尼神妙章句一卷雖<lb
  n="0119c05" ed="T"/>名有具略。然應是此經。此中云說廣大圓<lb
  n="0119c06" ed="T"/>滿無礙大悲心陀羅尼神妙章句故。今年<lb

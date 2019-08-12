@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1409</idno>
                 </bibl>
@@ -42,13 +42,13 @@
         <body><lb
  n="0924b10" ed="T"/><lb
  n="0924b11" ed="T"/><lb
- n="0924b12" ed="T"/><div type="jing" level="1"><lb
+ n="0924b12" ed="T"/><div type='jing' level='1'><lb
  n="0924b13" ed="T"/>
-<ab type="juan" subtype="open">佛說聖最勝陀羅尼經</ab><lb
+<ab type='juan' subtype='open'>佛說聖最勝陀羅尼經</ab><lb
  n="0924b14" ed="T"/><lb
  n="0924b15" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚卿<lb
  n="0924b16" ed="T"/>傳法大師臣施護奉　詔譯</byline><lb
- n="0924b17" ed="T"/><ab type="prose">如是我聞。一時佛在波囉鉢多國星左大城<lb
+ n="0924b17" ed="T"/><ab type='prose'>如是我聞。一時佛在波囉鉢多國星左大城<lb
  n="0924b18" ed="T"/>虞彌曩精舍。過是夏已至九月二十日。有一<lb
  n="0924b19" ed="T"/>苾芻名嚩野佉曩。時彼苾芻出星左大城。往<lb
  n="0924b20" ed="T"/>支那城相去四由旬。於其路中見一大人。身<lb
@@ -72,7 +72,7 @@
  n="0924c09" ed="T"/>夜潔淨齋戒誦此陀羅尼是諸眾難即得消<lb
  n="0924c10" ed="T"/>除。陀羅尼曰。<lb
  n="0924c11" ed="T"/></ab>
-<ab type="dharani">曩謨婆誐嚩覩尾摩攞沒地儼鼻囉誐。哩𡁠<lb
+<ab type='dharani'>曩謨婆誐嚩覩尾摩攞沒地儼鼻囉誐。哩𡁠<lb
  n="0924c12" ed="T"/>多囉惹寫怛他誐多寫怛儞也他尾<lb
  n="0924c13" ed="T"/>摩羅誐哩𡁠帝尾摩羅踰儞始阿攞誐<lb
  n="0924c14" ed="T"/>帝阿羅誐帝娑嚩賀曩摩娑哩嚩儞嚩<lb
@@ -121,7 +121,7 @@
  n="0925a29" ed="T"/>賀薩哩嚩訥契波舍摩野娑嚩<pb n="0925b" id="T21.1409.0925b" ed="T"/><lb
  n="0925b01" ed="T"/>賀<lb
  n="0925b02" ed="T"/></ab>
-<ab type="prose">爾時文殊師利菩薩。說此聖最勝陀羅尼已<lb
+<ab type='prose'>爾時文殊師利菩薩。說此聖最勝陀羅尼已<lb
  n="0925b03" ed="T"/>告苾芻言。汝等依此正法儀則。每日志誠<lb
  n="0925b04" ed="T"/>發清淨心。供七比丘供養三寶及諸賢聖。於<lb
  n="0925b05" ed="T"/>初夜分作護摩然火。能除災患速得消散。若<lb
@@ -147,5 +147,5 @@
  n="0925b25" ed="T"/>忽然不現。嚩野佉曩苾芻聞其所說。心大歡<lb
  n="0925b26" ed="T"/>喜信受奉行。<lb
  n="0925b27" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說聖最勝陀羅尼經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說聖最勝陀羅尼經</ab></div>
 </body></text></TEI>

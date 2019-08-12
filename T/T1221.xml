@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1221</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0099c03" ed="T"/><lb
  n="0099c04" ed="T"/><lb
  n="0099c05" ed="T"/><lb
  n="0099c06" ed="T"/>
-<ab type="juan" subtype="open">青色大金剛藥叉辟鬼魔法</ab><lb
+<ab type='juan' subtype='open'>青色大金剛藥叉辟鬼魔法</ab><lb
  n="0099c07" ed="T"/><lb
  n="0099c08" ed="T"/><byline>鮫龍洞阿闍梨位空蜝述</byline><lb
- n="0099c09" ed="T"/><div type="jing" level="2"><ab type="prose">□根本印。二手合掌。以二受指屈入掌中。二<lb
+ n="0099c09" ed="T"/><div type='jing' level='2'><ab type='prose'>□根本印。二手合掌。以二受指屈入掌中。二<lb
  n="0099c10" ed="T"/>節相背。以右想指柱左行端。以左想指柱右<lb
  n="0099c11" ed="T"/>行端。少如輪形。隨其印處摧滅一切魔鬼<lb
  n="0099c12" ed="T"/>□害真言。<lb
@@ -73,7 +73,7 @@
  n="0100a07" ed="T"/>上品為癩兒。中品為傳死。下品為狂亂。是故<lb
  n="0100a08" ed="T"/>父母忌親□妻子等奇恩義。此傳屍病鬼亦<lb
  n="0100a09" ed="T"/>名天魔羅難室陀鬼。總持集經言。其鬼病狀<lb
- n="0100a10" ed="T"/>相似風󱂭。亦如狂人□□□□□□病□狀<lb
+ n="0100a10" ed="T"/>相似風𮨰。亦如狂人□□□□□□病□狀<lb
  n="0100a11" ed="T"/>一一如此。若四十九日內不療治□□之必<lb
  n="0100a12" ed="T"/>死。治此病時。誦前大身呪三七□□以右手<lb
  n="0100a13" ed="T"/>把白芥子。誦前身呪三七反。散□其病人頭<lb
@@ -125,10 +125,10 @@
  n="0100c01" ed="T"/>著二相背上開□右行招本尊五度亦成五藥<lb
  n="0100c02" ed="T"/>叉請印。誦前身呪五反必起請來集真言。<lb
  n="0100c03" ed="T"/></ab>
-<ab type="dharani">□□□□□□訶噌吽烏呼嗚呼□□□<lb
+<ab type='dharani'>□□□□□□訶噌吽烏呼嗚呼□□□<lb
  n="0100c04" ed="T"/>□□□□□□□□□□□<lb
  n="0100c05" ed="T"/></ab>
-<ab type="prose">□□□□□□□□□□□□□自□內造□。<lb
+<ab type='prose'>□□□□□□□□□□□□□自□內造□。<lb
  n="0100c06" ed="T"/><lb
  n="0100c07" ed="T"/><lb
  n="0100c08" ed="T"/><lb
@@ -192,12 +192,12 @@
  n="0101b08" ed="T"/>經三藏深祕不傳大日金□灌頂以後傳受此<lb
  n="0101b09" ed="T"/>文讚歎四句曰。<lb
  n="0101b10" ed="T"/></ab>
-<ab type="dharani">□□訶嚩日囉藥乞叉羅闍曩謨□都<lb
+<ab type='dharani'>□□訶嚩日囉藥乞叉羅闍曩謨□都<lb
  n="0101b11" ed="T"/>帝阿鉢囉底訶多野曩謨□□薩嚩摩<lb
  n="0101b12" ed="T"/>羅婆野尾目乞□□□率都帝嚩日囉<lb
  n="0101b13" ed="T"/>入嚩攞布日羅唅曩謨率都帝<lb
  n="0101b14" ed="T"/></ab>
-<ab type="prose">□□祕密讚妄莫傳授。<lb
+<ab type='prose'>□□祕密讚妄莫傳授。<lb
  n="0101b15" ed="T"/>□大金剛□□□別時授之。<lb
  n="0101b16" ed="T"/>以一切□□□□藏有諸財寶。是名悉地<lb
  n="0101b17" ed="T"/>□□□□□□□□□□鬼魔□□□□□日<lb
@@ -221,7 +221,7 @@
  n="0101c06" ed="T"/>□□□□□□庚□□□一申天帝記人罪<lb
  n="0101c07" ed="T"/>□過絕人生籍欲令速死魄入三泉□□時。<lb
  n="0101c08" ed="T"/>是曰鬼為人禍害心痛痓怦□□鬼病惱傳子<lb
- n="0101c09" ed="T"/>孫及兄弟姊妹等□□□□為傳屍󰢺蝶復連<lb
+ n="0101c09" ed="T"/>孫及兄弟姊妹等□□□□為傳屍𭼩蝶復連<lb
  n="0101c10" ed="T"/>骨□□□□病亦有一族內死盡莫究其由近<lb
  n="0101c11" ed="T"/>□□漸多重者不逾數月而死。所以人□□<lb
  n="0101c12" ed="T"/>極畏之父子絕親夫妻奇義□□□業病真如<lb
@@ -243,7 +243,7 @@
  n="0101c28" ed="T"/>正觀觀亦由行者於坐禪中邪念利魔現種種<lb
  n="0101c29" ed="T"/>衣服飲食七珍雜物。即領受觀□入心成病。<pb n="0102a" id="T21.1221.0102a" ed="T"/><lb
  n="0102a01" ed="T"/>此病難治。</ab></div><lb
- n="0102a02" ed="T"/><div type="w" level="2"><ab type="prose">承□□□□月二十六日。以□□房御本<lb
+ n="0102a02" ed="T"/><div type='w' level='2'><ab type='prose'>承□□□□月二十六日。以□□房御本<lb
  n="0102a03" ed="T"/>書寫□□□□□慶範記之。<lb
  n="0102a04" ed="T"/>承安二年正月十八日。奉隨乘乘房阿闍<lb
  n="0102a05" ed="T"/>梨御房奉傳受了。慶範記之。<lb

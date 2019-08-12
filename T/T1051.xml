@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1051</idno>
                 </bibl>
@@ -39,23 +39,23 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0064a13" ed="T"/><lb
  n="0064a14" ed="T"/><lb
  n="0064a15" ed="T"/><lb
  n="0064a16" ed="T"/><lb
  n="0064a17" ed="T"/>
-<ab type="juan" subtype="open">佛說一切佛攝相應大教王經聖<lb
+<ab type='juan' subtype='open'>佛說一切佛攝相應大教王經聖<lb
  n="0064a18" ed="T"/>觀自在菩薩念誦儀軌一卷</ab><lb
  n="0064a19" ed="T"/><lb
  n="0064a20" ed="T"/><byline>西天譯經三藏朝散大夫試光祿卿<lb
  n="0064a21" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
- n="0064a22" ed="T"/><div type="jing" level="2"><ab type="verse">
+ n="0064a22" ed="T"/><div type='jing' level='2'><ab type='verse'>
 我今歸命佛菩薩　　演彼相應大教王　　<lb
  n="0064a23" ed="T"/>略述觀音菩薩儀　　能成所作利群品　　
 </ab><lb
- n="0064a24" ed="T"/><ab type="prose">爾時世尊。為欲利益諸眾生故。演說諸佛相<lb
+ n="0064a24" ed="T"/><ab type='prose'>爾時世尊。為欲利益諸眾生故。演說諸佛相<lb
  n="0064a25" ed="T"/>應大教。佛言若阿闍梨及與行人。為欲修行<lb
  n="0064a26" ed="T"/>菩提分法及種種成就者。當於觀自在菩薩<lb
  n="0064a27" ed="T"/>法而修習之。若修此法先求靜處。依於儀軌<lb
@@ -64,76 +64,76 @@
  n="0064b01" ed="T"/>於彼處敷草而坐。時持誦人。將欲運心觀想<lb
  n="0064b02" ed="T"/>賢聖。先須淨其三業。即誦淨三業真言曰。<lb
  n="0064b03" ed="T"/></ab>
-<ab type="dharani">唵哥野嚩酤唧多嚩日囉莎<lb
+<ab type='dharani'>唵哥野嚩酤唧多嚩日囉莎<lb
  n="0064b04" ed="T"/>婆嚩怛囉酤㰠<lb
  n="0064b05" ed="T"/></ab>
-<ab type="prose">誦此真言已。復說譬喻伽陀曰。<lb
+<ab type='prose'>誦此真言已。復說譬喻伽陀曰。<lb
  n="0064b06" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 譬如清淨妙色蓮　　雖生泥中不可染　　<lb
  n="0064b07" ed="T"/>如是眾生處煩惱　　悉得清淨於三界　　
 </ab><lb
- n="0064b08" ed="T"/><ab type="prose">誦伽陀已。自想頂戴寶冠。內有無量壽佛。<lb
+ n="0064b08" ed="T"/><ab type='prose'>誦伽陀已。自想頂戴寶冠。內有無量壽佛。<lb
  n="0064b09" ed="T"/>次於本心想出開敷白蓮華。於彼華上想有<lb
  n="0064b10" ed="T"/>月輪。於月輪中想現􈁴唵字。體如虛空唯真<lb
  n="0064b11" ed="T"/>實大智。然後誦開慧真言曰。<lb
  n="0064b12" ed="T"/></ab>
-<ab type="dharani">唵唧多鉢囉底微鄧迦嚕彌<lb
+<ab type='dharani'>唵唧多鉢囉底微鄧迦嚕彌<lb
  n="0064b13" ed="T"/></ab>
-<ab type="prose">誦此真言已。復想眾寶化成八葉蓮華。於彼<lb
+<ab type='prose'>誦此真言已。復想眾寶化成八葉蓮華。於彼<lb
  n="0064b14" ed="T"/>華上想有月輪。於月輪中現出􇩵紇陵字。即<lb
  n="0064b15" ed="T"/>是觀自在菩薩本身。結跏趺坐其身赤色而<lb
  n="0064b16" ed="T"/>有二臂。於菩薩左邊想白衣菩薩。手持蓮華。<lb
  n="0064b17" ed="T"/>次想八方賢聖。第一於蓮華東葉位。想現尾<lb
  n="0064b18" ed="T"/>路吉儞菩薩。手持紅色蓮華。菩薩真言曰。<lb
  n="0064b19" ed="T"/></ab>
-<ab type="dharani">唵尾路吉儞阿嚩路哥野娑嚩賀<lb
+<ab type='dharani'>唵尾路吉儞阿嚩路哥野娑嚩賀<lb
  n="0064b20" ed="T"/></ab>
-<ab type="prose">於蓮華南葉位。想現多羅菩薩。手持綠色蓮<lb
+<ab type='prose'>於蓮華南葉位。想現多羅菩薩。手持綠色蓮<lb
  n="0064b21" ed="T"/>華。菩薩真言曰。<lb
  n="0064b22" ed="T"/></ab>
-<ab type="dharani">唵多哩咄多哩咄哩娑嚩<lb
+<ab type='dharani'>唵多哩咄多哩咄哩娑嚩<lb
  n="0064b23" ed="T"/>賀<lb
  n="0064b24" ed="T"/></ab>
-<ab type="prose">次於蓮華西葉位。想部哩尼菩薩。手持優鉢<lb
+<ab type='prose'>次於蓮華西葉位。想部哩尼菩薩。手持優鉢<lb
  n="0064b25" ed="T"/>羅華。花內有八輻輪。菩薩真言曰。<lb
  n="0064b26" ed="T"/></ab>
-<ab type="dharani">唵部哩尼摩賀作訖囉嚩哩底<lb
+<ab type='dharani'>唵部哩尼摩賀作訖囉嚩哩底<lb
  n="0064b27" ed="T"/>儞吽<lb
  n="0064b28" ed="T"/></ab>
-<ab type="prose">次於蓮華北葉位。想現顰眉菩薩。手持黃色<lb
+<ab type='prose'>次於蓮華北葉位。想現顰眉菩薩。手持黃色<lb
  n="0064b29" ed="T"/>蓮華。菩薩真言曰。<pb n="0064c" id="T20.1051.0064c" ed="T"/><lb
  n="0064c01" ed="T"/></ab>
-<ab type="dharani">唵㪍哩酤致怛致末吒吽<lb
+<ab type='dharani'>唵㪍哩酤致怛致末吒吽<lb
  n="0064c02" ed="T"/></ab>
-<ab type="prose">次於蓮華東北葉位。想現鉢訥摩嚩枲儞<lb
+<ab type='prose'>次於蓮華東北葉位。想現鉢訥摩嚩枲儞<lb
  n="0064c03" ed="T"/>菩薩。手持緋色蓮華。菩薩真言曰。<lb
  n="0064c04" ed="T"/></ab>
-<ab type="dharani">唵摩賀室哩曳摩尼鉢訥彌<lb
+<ab type='dharani'>唵摩賀室哩曳摩尼鉢訥彌<lb
  n="0064c05" ed="T"/>吽<lb
  n="0064c06" ed="T"/></ab>
-<ab type="prose">次於蓮華東南葉位。想現嚩日囉鉢訥摩<lb
+<ab type='prose'>次於蓮華東南葉位。想現嚩日囉鉢訥摩<lb
  n="0064c07" ed="T"/>說哩菩薩。手持白蓮華。菩薩真言曰。<lb
  n="0064c08" ed="T"/></ab>
-<ab type="dharani">唵嚩日囉鉢訥彌濕嚩哩馱囉<lb
+<ab type='dharani'>唵嚩日囉鉢訥彌濕嚩哩馱囉<lb
  n="0064c09" ed="T"/>鉢訥彌吽<lb
  n="0064c10" ed="T"/></ab>
-<ab type="prose">次於蓮華西南葉位。想現尾說鉢訥摩菩<lb
+<ab type='prose'>次於蓮華西南葉位。想現尾說鉢訥摩菩<lb
  n="0064c11" ed="T"/>薩。手持黑色蓮華。菩薩真言曰。<lb
  n="0064c12" ed="T"/></ab>
-<ab type="dharani">唵尾濕嚩鉢訥彌紇哩<lb
+<ab type='dharani'>唵尾濕嚩鉢訥彌紇哩<lb
  n="0064c13" ed="T"/></ab>
-<ab type="prose">次於蓮華西北葉位。想現尾說嚩日囉菩<lb
+<ab type='prose'>次於蓮華西北葉位。想現尾說嚩日囉菩<lb
  n="0064c14" ed="T"/>薩。手持羯磨杵。菩薩真言曰。<lb
  n="0064c15" ed="T"/></ab>
-<ab type="dharani">唵尾濕嚩嚩日哩吽<lb
+<ab type='dharani'>唵尾濕嚩嚩日哩吽<lb
  n="0064c16" ed="T"/></ab>
-<ab type="prose">次於蓮華中心。復想觀自在菩薩。現大妙色<lb
+<ab type='prose'>次於蓮華中心。復想觀自在菩薩。現大妙色<lb
  n="0064c17" ed="T"/>身。真言曰。<lb
  n="0064c18" ed="T"/></ab>
-<ab type="dharani">唵紇陵鉢訥摩那哩帝濕嚩囉吽<lb
+<ab type='dharani'>唵紇陵鉢訥摩那哩帝濕嚩囉吽<lb
  n="0064c20" ed="T"/></ab>
-<ab type="prose">如是諸大菩薩及微妙真言。若持誦人依法<lb
+<ab type='prose'>如是諸大菩薩及微妙真言。若持誦人依法<lb
  n="0064c21" ed="T"/>作其觀想。及誦真言專注不退。是人當來速<lb
  n="0064c22" ed="T"/>證佛果。設受五慾樂。亦能圓滿十波羅蜜及<lb
  n="0064c23" ed="T"/>總持門。乃至辟支佛十地菩薩佛寂靜句。速<lb
@@ -141,10 +141,10 @@
  n="0064c25" ed="T"/>復次持誦之人。亦須常服五種大乘之藥。所<lb
  n="0064c26" ed="T"/>謂。<lb
  n="0064c27" ed="T"/></ab>
-<ab type="dharani">󰂛地唧多羯哩布囉囉訖多贊捺那嚩<lb
+<ab type='dharani'>󰂛地唧多羯哩布囉囉訖多贊捺那嚩<lb
  n="0064c28" ed="T"/>日囉烏那哥等<lb
  n="0064c29" ed="T"/></ab>
-<ab type="prose">若能常服如是之藥。及持誦不輟。速離老病<pb n="0065a" id="T20.1051.0065a" ed="T"/><lb
+<ab type='prose'>若能常服如是之藥。及持誦不輟。速離老病<pb n="0065a" id="T20.1051.0065a" ed="T"/><lb
  n="0065a01" ed="T"/>苦增長壽命。變於色相見者愛敬。現世獲得<lb
  n="0065a02" ed="T"/>成最上智。<lb
  n="0065a03" ed="T"/>復次所有息災增益敬愛降伏。乃至勾召除<lb
@@ -153,10 +153,10 @@
  n="0065a06" ed="T"/>就。<lb
  n="0065a07" ed="T"/>觀自在菩薩根本真言曰。<lb
  n="0065a08" ed="T"/></ab>
-<ab type="dharani">唵紇陵鉢訥摩那哩帝濕嚩<lb
+<ab type='dharani'>唵紇陵鉢訥摩那哩帝濕嚩<lb
  n="0065a09" ed="T"/>囉吽<lb
  n="0065a10" ed="T"/></ab>
-<ab type="prose">復次若持誦人。常念此觀自在菩薩根本真<lb
+<ab type='prose'>復次若持誦人。常念此觀自在菩薩根本真<lb
  n="0065a11" ed="T"/>言。日誦一百八遍。是人晝夜所作之罪悉皆<lb
  n="0065a12" ed="T"/>銷滅。若日誦五百遍。能除一切病。若日誦<lb
  n="0065a13" ed="T"/>一千遍得壽命增長。若誦二千遍得眾人恭<lb
@@ -178,27 +178,27 @@
  n="0065a29" ed="T"/>佛身口意等。利樂眾生。爾時世尊復說白衣<pb n="0065b" id="T20.1051.0065b" ed="T"/><lb
  n="0065b01" ed="T"/>菩薩真言曰。<lb
  n="0065b02" ed="T"/></ab>
-<ab type="dharani">唵半拏囉嚩枲儞嚩囉禰吽<lb
+<ab type='dharani'>唵半拏囉嚩枲儞嚩囉禰吽<lb
  n="0065b03" ed="T"/></ab>
-<ab type="prose">此白衣菩薩微妙真言。若人常能持誦。所<lb
+<ab type='prose'>此白衣菩薩微妙真言。若人常能持誦。所<lb
  n="0065b04" ed="T"/>有一切罪業悉皆消滅。若能依法專注。持誦<lb
  n="0065b05" ed="T"/>滿一七日。所有國城之內。一切人民皆悉奉<lb
  n="0065b06" ed="T"/>重。若持誦一月獲大富貴。如是持誦至一洛<lb
  n="0065b07" ed="T"/>叉數。當得與菩薩威力無異。<lb
  n="0065b08" ed="T"/>復次說尾路吉儞菩薩真言曰。<lb
  n="0065b09" ed="T"/></ab>
-<ab type="dharani">唵尾路吉儞阿嚩路哥野娑嚩賀<lb
+<ab type='dharani'>唵尾路吉儞阿嚩路哥野娑嚩賀<lb
  n="0065b10" ed="T"/></ab>
-<ab type="prose">此菩薩微妙真言。若人依法持誦一萬遍。當<lb
+<ab type='prose'>此菩薩微妙真言。若人依法持誦一萬遍。當<lb
  n="0065b11" ed="T"/>得聖劍成就。若持誦人有所求事。當取齒木<lb
  n="0065b12" ed="T"/>加持二十一遍。揩齒而臥。所求之事夢中皆<lb
  n="0065b13" ed="T"/>說。凡所說事悉皆真實。<lb
  n="0065b14" ed="T"/>復次說多羅菩薩真言曰。<lb
  n="0065b15" ed="T"/></ab>
-<ab type="dharani">唵多哩咄多哩咄哩娑嚩<lb
+<ab type='dharani'>唵多哩咄多哩咄哩娑嚩<lb
  n="0065b16" ed="T"/>賀<lb
  n="0065b17" ed="T"/></ab>
-<ab type="prose">此菩薩微妙真言。若人依法持誦一洛叉數。<lb
+<ab type='prose'>此菩薩微妙真言。若人依法持誦一洛叉數。<lb
  n="0065b18" ed="T"/>是人能降三界一切天龍阿修羅持明天。及<lb
  n="0065b19" ed="T"/>彼等女來為僕使無不隨心。持誦人若欲作<lb
  n="0065b20" ed="T"/>勾召彼天龍及女等來者。當想彼身赤色。於<lb
@@ -207,10 +207,10 @@
  n="0065b23" ed="T"/>誦時必定速至。有所求事悉得隨心。<lb
  n="0065b24" ed="T"/>復次說部哩尼菩薩真言曰。<lb
  n="0065b25" ed="T"/></ab>
-<ab type="dharani">唵部哩尼摩賀作訖囉嚩哩底儞<lb
+<ab type='dharani'>唵部哩尼摩賀作訖囉嚩哩底儞<lb
  n="0065b26" ed="T"/>吽<lb
  n="0065b27" ed="T"/></ab>
-<ab type="prose">此菩薩微妙真言。若人持誦欲求成就者。先<lb
+<ab type='prose'>此菩薩微妙真言。若人持誦欲求成就者。先<lb
  n="0065b28" ed="T"/>當用尾拏嚩嚩日嚕那哥等藥。塗曼<lb
  n="0065b29" ed="T"/>拏羅如圓月相。然後隨力備香花等。於中而<pb n="0065c" id="T20.1051.0065c" ed="T"/><lb
  n="0065c01" ed="T"/>為供養。持誦之人然後敷座而坐。一心專注<lb
@@ -218,9 +218,9 @@
  n="0065c03" ed="T"/>終之後當得生於極樂世界。<lb
  n="0065c04" ed="T"/>復次說顰眉菩薩真言曰。<lb
  n="0065c05" ed="T"/></ab>
-<ab type="dharani">唵㪍哩酤致怛致末吒吽<lb
+<ab type='dharani'>唵㪍哩酤致怛致末吒吽<lb
  n="0065c06" ed="T"/></ab>
-<ab type="prose">此菩薩微妙真言。若人持誦欲作調伏法者。<lb
+<ab type='prose'>此菩薩微妙真言。若人持誦欲作調伏法者。<lb
  n="0065c07" ed="T"/>當取冤家足下土及河兩岸土。復用毒藥芥<lb
  n="0065c08" ed="T"/>子鹽血。及尾拏嚩嚩日嚕那哥等。同<lb
  n="0065c09" ed="T"/>和為泥作冤家像。用人骨為橛釘像身分肢<lb
@@ -228,10 +228,10 @@
  n="0065c11" ed="T"/>火炙。誦真言加持經三七晝夜決定調伏。<lb
  n="0065c12" ed="T"/>復次說鉢訥摩嚩枲儞菩薩真言曰。<lb
  n="0065c13" ed="T"/></ab>
-<ab type="dharani">唵摩賀室哩曳摩尼鉢訥彌吽<lb
+<ab type='dharani'>唵摩賀室哩曳摩尼鉢訥彌吽<lb
  n="0065c14" ed="T"/><lb
  n="0065c15" ed="T"/></ab>
-<ab type="prose">此菩薩微妙真言。若持誦時。當先以香華等<lb
+<ab type='prose'>此菩薩微妙真言。若持誦時。當先以香華等<lb
  n="0065c16" ed="T"/>五種供養已。方可持誦。能作一切處擁護。若<lb
  n="0065c17" ed="T"/>於論義決定得勝。得大自在與觀自在等。若<lb
  n="0065c18" ed="T"/>以蓮華一萬數作護摩得為地主。若用蓮華<lb
@@ -239,10 +239,10 @@
  n="0065c20" ed="T"/>復次說嚩日囉鉢訥摩說哩菩薩真言<lb
  n="0065c21" ed="T"/>曰。<lb
  n="0065c22" ed="T"/></ab>
-<ab type="dharani">唵嚩日囉鉢訥彌說哩嚩囉鉢訥<lb
+<ab type='dharani'>唵嚩日囉鉢訥彌說哩嚩囉鉢訥<lb
  n="0065c23" ed="T"/>彌吽<lb
  n="0065c24" ed="T"/></ab>
-<ab type="prose">此菩薩微妙真言。若持誦人作心念時。便能<lb
+<ab type='prose'>此菩薩微妙真言。若持誦人作心念時。便能<lb
  n="0065c25" ed="T"/>降伏句召。若持誦七遍能擁護己身。若持誦<lb
  n="0065c26" ed="T"/>千遍。能除毒藥刀劍師子象蛇火賊禁縛海<lb
  n="0065c27" ed="T"/>鬼等難。及除瘥珂哩枯那哥訥蹉哩彌多訥哩朗儗多等病。及辟除一切惡毒<lb
@@ -252,17 +252,17 @@
  n="0066a03" ed="T"/>及鹽作護摩。即降大雨一境豐稔。<lb
  n="0066a04" ed="T"/>復次說尾說鉢訥摩菩薩真言曰。<lb
  n="0066a05" ed="T"/></ab>
-<ab type="dharani">唵尾濕嚩鉢訥彌紇哩<lb
+<ab type='dharani'>唵尾濕嚩鉢訥彌紇哩<lb
  n="0066a06" ed="T"/></ab>
-<ab type="prose">此菩薩微妙真言。若人專注持誦。當得具足<lb
+<ab type='prose'>此菩薩微妙真言。若人專注持誦。當得具足<lb
  n="0066a07" ed="T"/>身口意業。能成種種之事。所謂禁伏法魑魅<lb
  n="0066a08" ed="T"/>法釘橛法。鉤他心法幻化法。乃至開修羅窟<lb
  n="0066a09" ed="T"/>及隱身。飛空自在悉能成就。<lb
  n="0066a10" ed="T"/>復次說尾說嚩日囉菩薩真言曰。<lb
  n="0066a11" ed="T"/></ab>
-<ab type="dharani">唵尾說嚩日哩吽<lb
+<ab type='dharani'>唵尾說嚩日哩吽<lb
  n="0066a12" ed="T"/></ab>
-<ab type="prose">此菩薩微妙真言。若持誦人專注不懈依法<lb
+<ab type='prose'>此菩薩微妙真言。若持誦人專注不懈依法<lb
  n="0066a13" ed="T"/>持誦。常能擁護自他。及得一切敬愛。乃至獲<lb
  n="0066a14" ed="T"/>大辯才能勝他辯。又此菩薩能於地獄餓鬼<lb
  n="0066a15" ed="T"/>畜生等趣。救度眾生發大精進。如觀自在菩<lb
@@ -348,7 +348,7 @@
  n="0067a08" ed="T"/>復此法不得傳授容易之人。是人心不恭虔<lb
  n="0067a09" ed="T"/>恐招惡報。<lb
  n="0067a10" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說一切佛攝相應大教王經聖觀自在菩薩<lb
+</ab><ab type='juan' subtype='close'>佛說一切佛攝相應大教王經聖觀自在菩薩<lb
  n="0067a11" ed="T"/>念誦儀軌一卷</ab></div><lb
- n="0067a12" ed="T"/><div type="w" level="2"><ab type="prose">乙巳歲高麗國大藏都監奉勅雕造</ab></div></div>
+ n="0067a12" ed="T"/><div type='w' level='2'><ab type='prose'>乙巳歲高麗國大藏都監奉勅雕造</ab></div></div>
 </body></text></TEI>

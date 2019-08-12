@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T02</biblScope>
                     <idno type="Taisho">T02n0144</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0867a18" ed="T"/><lb
  n="0867a19" ed="T"/><lb
- n="0867a20" ed="T"/><div type="jing" level="1"><lb
+ n="0867a20" ed="T"/><div type='jing' level='1'><lb
  n="0867a21" ed="T"/>
-<ab type="juan" subtype="open">佛說大愛道般泥洹經</ab><lb
+<ab type='juan' subtype='open'>佛說大愛道般泥洹經</ab><lb
  n="0867a22" ed="T"/><lb
  n="0867a23" ed="T"/><byline>西晉河內沙門白法祖譯</byline><lb
- n="0867a24" ed="T"/><ab type="prose">聞如是：一時，佛在墮舍利國，行在獼猴水<lb
+ n="0867a24" ed="T"/><ab type='prose'>聞如是：一時，佛在墮舍利國，行在獼猴水<lb
  n="0867a25" ed="T"/>拘羅曷講堂。是時，摩訶卑耶和題俱曇彌，行<lb
  n="0867a26" ed="T"/>在墮舍利國，與五百比丘尼俱，皆是阿羅漢，<lb
  n="0867a27" ed="T"/>皆為大神足，為諄那須、摩訶離、惟讖彌、優波<lb
@@ -234,5 +234,5 @@
  n="0869b05" ed="T"/>訶卑耶和題俱曇彌并五百比丘尼塔。佛說<lb
  n="0869b06" ed="T"/>如是，諸比丘皆歡喜，起前為佛作禮而去。<lb
  n="0869b07" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說大愛道般泥洹經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說大愛道般泥洹經</ab></div>
 </body></text></TEI>

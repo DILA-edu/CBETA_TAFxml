@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0018</idno>
                 </bibl>
@@ -41,13 +41,13 @@
     <text>
         <body><lb
  n="0255a09" ed="T"/><lb
- n="0255a10" ed="T"/><div type="jing" level="1"><lb
+ n="0255a10" ed="T"/><div type='jing' level='1'><lb
  n="0255a11" ed="T"/>
-<ab type="juan" subtype="open">佛說信佛功德經</ab><lb
+<ab type='juan' subtype='open'>佛說信佛功德經</ab><lb
  n="0255a12" ed="T"/><lb
  n="0255a13" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0255a14" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
- n="0255a15" ed="T"/><ab type="prose">如是我聞：一時，佛在阿拏迦城菴羅園中，<lb
+ n="0255a15" ed="T"/><ab type='prose'>如是我聞：一時，佛在阿拏迦城菴羅園中，<lb
  n="0255a16" ed="T"/>與大眾俱。爾時，尊者舍利弗，食時著衣持鉢，<lb
  n="0255a17" ed="T"/>入阿拏迦城，於其城中，次第乞已，復還<lb
  n="0255a18" ed="T"/>本處，收衣洗足，敷座而食。飯食訖已，往<lb
@@ -300,5 +300,5 @@
  n="0258a04" ed="T"/>而退。時，諸會眾，得聞正法，歡喜作禮，信受<lb
  n="0258a05" ed="T"/>奉行。<lb
  n="0258a06" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說信佛功德經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說信佛功德經</ab></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T18</biblScope>
                     <idno type="Taisho">T18n0855</idno>
                 </bibl>
@@ -39,15 +39,15 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0172b07" ed="T"/><lb
  n="0172b08" ed="T"/><lb
  n="0172b09" ed="T"/><lb
  n="0172b10" ed="T"/>
-<ab type="juan" subtype="open">青龍寺軌記</ab><lb
+<ab type='juan' subtype='open'>青龍寺軌記</ab><lb
  n="0172b11" ed="T"/><lb
- n="0172b12" ed="T"/><div type="jing" level="2"><ab type="prose">先瑜伽者。常可住本尊觀。行步觀想踐蓮華<lb
+ n="0172b12" ed="T"/><div type='jing' level='2'><ab type='prose'>先瑜伽者。常可住本尊觀。行步觀想踐蓮華<lb
  n="0172b13" ed="T"/>而住。次至精舍門而彈指。三稱􆿁吽。右目觀<lb
  n="0172b14" ed="T"/>􄗥摩字。左目觀􈁆吒字。摩日吒月。入戶而顧<lb
  n="0172b15" ed="T"/>視。是成五利益。所謂諸佛歡喜去垢光顯<lb
@@ -120,16 +120,16 @@
  n="0173b03" ed="T"/>密八印。次滿足智智印。次無所不至。<lb
  n="0173b04" ed="T"/>次百光遍照。次一切佛心。次優樓頻螺迦葉伽耶迦葉。次虛<lb
  n="0173b06" ed="T"/>空眼明妃。次七俱胝佛母真言曰。</ab>
-<ab type="dharani">曩莫薩嚩沒馱冒地薩怛嚩<lb
- n="0173b08" ed="T"/>喃怛儞也他唵左󰳌蘇󰳌准胝娑嚩賀</ab>
-<ab type="prose">次大<lb
+<ab type='dharani'>曩莫薩嚩沒馱冒地薩怛嚩<lb
+ n="0173b08" ed="T"/>喃怛儞也他唵左𭋺蘇𭋺准胝娑嚩賀</ab>
+<ab type='prose'>次大<lb
  n="0173b09" ed="T"/>勇猛菩薩真言曰。</ab>
-<ab type="dharani">曩莫三滿多沒馱南阿<lb
+<ab type='dharani'>曩莫三滿多沒馱南阿<lb
  n="0173b10" ed="T"/>唎耶摩賀尾羅娑嚩賀</ab>
-<ab type="prose">次大樂金剛薩埵真言曰。</ab>
-<ab type="dharani">曩莫三滿多沒馱南嚩日囉虞伽三<lb
+<ab type='prose'>次大樂金剛薩埵真言曰。</ab>
+<ab type='dharani'>曩莫三滿多沒馱南嚩日囉虞伽三<lb
  n="0173b12" ed="T"/>摩耶薩怛鑁</ab>
-<ab type="prose">次一切諸菩薩。次觀自在<lb
+<ab type='prose'>次一切諸菩薩。次觀自在<lb
  n="0173b13" ed="T"/>菩薩。次多羅菩薩印。次毘俱胝印。次大<lb
  n="0173b14" ed="T"/>勢至。次耶輸陀羅印。次白處尊印。次馬<lb
  n="0173b15" ed="T"/>頭印。次諸菩薩所說印。次地藏菩<lb
@@ -161,15 +161,15 @@
  n="0173c12" ed="T"/>空無垢。次虛空惠。次蓮華印菩薩。次清<lb
  n="0173c13" ed="T"/>淨惠。次行惠。次安住惠。次出現智。<lb
  n="0173c14" ed="T"/>次執蓮華杵。</ab>
-<ab type="dharani">歸命嚩日囉娑嚩賀<lb
+<ab type='dharani'>歸命嚩日囉娑嚩賀<lb
  n="0173c15" ed="T"/></ab>
-<ab type="prose">次自在天印。次普花天印。次光鬘天。<lb
+<ab type='prose'>次自在天印。次普花天印。次光鬘天。<lb
  n="0173c16" ed="T"/>次滿意天。次遍音天。次伊舍那天。次諸<lb
  n="0173c17" ed="T"/>步跢。次東方帝釋。次持國天印。次日天。<lb
  n="0173c18" ed="T"/>次摩利支天。次社耶毘社耶真言<lb
  n="0173c19" ed="T"/>曰。</ab>
-<ab type="dharani">歸命摩訶誐陀婆多娑嚩賀</ab>
-<ab type="prose">次九執。次<lb
+<ab type='dharani'>歸命摩訶誐陀婆多娑嚩賀</ab>
+<ab type='prose'>次九執。次<lb
  n="0173c20" ed="T"/>梵天。次明妃印。次乾闥婆印。次諸阿修<lb
  n="0173c21" ed="T"/>羅。次摩睺羅伽。次諸緊那羅。次火天。<lb
  n="0173c22" ed="T"/>次后。次嚩斯仙。次阿趺里仙。次驕答<lb
@@ -226,17 +226,17 @@
  n="0174b17" ed="T"/>印安心上誦歸命􄙈。次佛頂印於心上誦歸<lb
  n="0174b18" ed="T"/>命􆿅。次金剛掌當心曰。<lb
  n="0174b19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 諸有聞我聲　　或見或觸者　　<lb
  n="0174b20" ed="T"/>心定阿羅賀　　三藐三佛陀　　<lb
  n="0174b21" ed="T"/>一切諸功德　　與大日世尊　　<lb
  n="0174b22" ed="T"/>等無有差別　　
 </ab><lb
- n="0174b23" ed="T"/><ab type="prose">次心中觀􆿁字。􄗥字大空點是空解脫門也。<lb
+ n="0174b23" ed="T"/><ab type='prose'>次心中觀􆿁字。􄗥字大空點是空解脫門也。<lb
  n="0174b24" ed="T"/>􄚨字遠離於因緣是無相解脫門也。􇇳烏字<lb
  n="0174b25" ed="T"/>三昧畫是無願解脫門也。依此解脫觀能除<lb
  n="0174b26" ed="T"/>修行障。然後出道場隨順於學處。</ab></div><lb
- n="0174b27" ed="T"/><div type="w" level="2"><ab type="prose">慶安元年之以八幡故本寫了沙門惠範。<lb
+ n="0174b27" ed="T"/><div type='w' level='2'><ab type='prose'>慶安元年之以八幡故本寫了沙門惠範。<lb
  n="0174b28" ed="T"/>一校了淨嚴齡三十九　天明元丑年閏五<lb
  n="0174b29" ed="T"/>月寫宇治惠心院藏本慈忍。<pb n="0174c" id="T18.0855.0174c" ed="T"/><lb
  n="0174c01" ed="T"/>享和改元秋八月得右本令寫之。慈心<lb

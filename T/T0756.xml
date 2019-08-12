@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T17</biblScope>
                     <idno type="Taisho">T17n0756</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0590b09" ed="T"/><lb
  n="0590b10" ed="T"/><lb
  n="0590b11" ed="T"/>
-<ab type="juan" subtype="open">佛說八無暇有暇經</ab><lb
+<ab type='juan' subtype='open'>佛說八無暇有暇經</ab><lb
  n="0590b12" ed="T"/><lb
  n="0590b13" ed="T"/><byline>大唐三藏法師義淨奉　制譯</byline><lb
- n="0590b14" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時，薄伽梵在室羅伐城逝多林<lb
+ n="0590b14" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時，薄伽梵在室羅伐城逝多林<lb
  n="0590b15" ed="T"/>給孤獨園，與大苾芻眾及人天等俱。爾時，世<lb
  n="0590b16" ed="T"/>尊告諸苾芻曰：「汝等當知，於此世間，寡聞無<lb
  n="0590b17" ed="T"/>識、凡夫之類，常說無暇、有暇之言，然不了<lb
@@ -117,7 +117,7 @@
  n="0591a23" ed="T"/>悔，常淨三業，恒行十善，勿為無益致招後<lb
  n="0591a24" ed="T"/>悔。」爾時，世尊欲重宣此義，說伽他曰：<lb
  n="0591a25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「我已為說八無暇，　　皆願當生有暇中，　　<lb
  n="0591a26" ed="T"/>若生難處不聞經，　　汝等至心應善聽。　　<lb
  n="0591a27" ed="T"/>銅柱鐵山眾苦逼，　　煻煨糞屎刺刀林，　　<lb
@@ -157,8 +157,8 @@
  n="0591c03" ed="T"/>一切隨眠斷，　　降伏大魔怨，　　<lb
  n="0591c04" ed="T"/>永超生死流，　　得昇於彼岸。」　　
 </ab><lb
- n="0591c05" ed="T"/><ab type="prose">爾時，世尊說是經已，時諸苾芻、人天大眾，聞<lb
+ n="0591c05" ed="T"/><ab type='prose'>爾時，世尊說是經已，時諸苾芻、人天大眾，聞<lb
  n="0591c06" ed="T"/>佛所說，歡喜頂戴，信受奉行。</ab></div><lb
  n="0591c07" ed="T"/>
-<ab type="juan" subtype="close">佛說八無暇有暇經</ab>
+<ab type='juan' subtype='close'>佛說八無暇有暇經</ab>
 </body></text></TEI>

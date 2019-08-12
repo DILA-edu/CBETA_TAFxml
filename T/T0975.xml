@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n0975</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0398c" id="T19.0975.0398c" ed="T"/><lb
  n="0398c01" ed="T"/><lb
  n="0398c02" ed="T"/><lb
  n="0398c03" ed="T"/>
-<ab type="juan" subtype="open">白傘蓋大佛頂王最勝無比大<lb
+<ab type='juan' subtype='open'>白傘蓋大佛頂王最勝無比大<lb
  n="0398c04" ed="T"/>威德金剛無礙大道場陀羅尼<lb
  n="0398c05" ed="T"/>念誦法要</ab><lb
  n="0398c06" ed="T"/><lb
- n="0398c07" ed="T"/><ab type="verse">
+ n="0398c07" ed="T"/><ab type='verse'>
 歸命遍法界　　塵剎諸如來　　<lb
  n="0398c08" ed="T"/>化相奇特尊　　最勝佛頂族　　<lb
  n="0398c09" ed="T"/>敬禮大悲者　　持蓮菩薩眾　　<lb
@@ -72,29 +72,29 @@
  n="0398c27" ed="T"/>隨喜人天福　　廣利益群生　　<lb
  n="0398c28" ed="T"/>迴向以一心　　俱登薩婆若　　
 </ab><lb
- n="0398c29" ed="T"/><ab type="verse">
+ n="0398c29" ed="T"/><ab type='verse'>
 發願此世與當來　　常得廣行菩薩道　　
 </ab><pb n="0399a" id="T19.0975.0399a" ed="T"/><lb
- n="0399a01" ed="T"/><ab type="prose">淨器界真言曰。<lb
+ n="0399a01" ed="T"/><ab type='prose'>淨器界真言曰。<lb
  n="0399a02" ed="T"/></ab>
-<ab type="dharani">曩莫薩縛沒馱冒地薩怛縛唵󰡊殿努<lb
+<ab type='dharani'>曩莫薩縛沒馱冒地薩怛縛唵󰡊殿努<lb
  n="0399a03" ed="T"/>戍馱曩野娑縛賀<lb
  n="0399a04" ed="T"/></ab>
-<ab type="prose">此大清淨明。通用如來部。先以作澡灑。即<lb
+<ab type='prose'>此大清淨明。通用如來部。先以作澡灑。即<lb
  n="0399a05" ed="T"/>結念誦室。由誦七遍已。身口意三業。乃至遍<lb
  n="0399a06" ed="T"/>法界。一切悉清淨。<lb
  n="0399a07" ed="T"/>次當普禮一切如來。真言曰。<lb
  n="0399a08" ed="T"/></ab>
-<ab type="dharani">唵薩縛怛他蘖多播娜滿曩南迦盧弭<lb
+<ab type='dharani'>唵薩縛怛他蘖多播娜滿曩南迦盧弭<lb
  n="0399a09" ed="T"/></ab>
-<ab type="prose">由三誦真言。運心同法界。遍滿微塵剎。禮事<lb
+<ab type='prose'>由三誦真言。運心同法界。遍滿微塵剎。禮事<lb
  n="0399a10" ed="T"/>悉圓滿。<lb
  n="0399a11" ed="T"/>次懺無始罪障真言曰。<lb
  n="0399a12" ed="T"/></ab>
-<ab type="dharani">唵薩縛播波娜賀曩嚩日羅野娑縛<lb
+<ab type='dharani'>唵薩縛播波娜賀曩嚩日羅野娑縛<lb
  n="0399a13" ed="T"/>賀<lb
  n="0399a14" ed="T"/></ab>
-<ab type="prose">由三誦真言。懺悔一切咎。無間罪如草。焚滅<lb
+<ab type='prose'>由三誦真言。懺悔一切咎。無間罪如草。焚滅<lb
  n="0399a15" ed="T"/>盡無餘。<lb
  n="0399a16" ed="T"/>爾時釋迦牟尼佛告一切菩薩大眾善男子汝<lb
  n="0399a17" ed="T"/>等應授一切如來出生三摩地無比力超勝<lb
@@ -113,10 +113,10 @@
  n="0399b01" ed="T"/>切同一明。三部悉具足。<lb
  n="0399b02" ed="T"/>真言曰。<lb
  n="0399b03" ed="T"/></ab>
-<ab type="dharani">曩莫薩縛沒馱冒地薩怛縛南阿尾羅<lb
+<ab type='dharani'>曩莫薩縛沒馱冒地薩怛縛南阿尾羅<lb
  n="0399b04" ed="T"/>吽欠<lb
  n="0399b05" ed="T"/></ab>
-<ab type="prose">由結一切如來等大印。以大勤勇心真言一<lb
+<ab type='prose'>由結一切如來等大印。以大勤勇心真言一<lb
  n="0399b06" ed="T"/>切如來真實法加持故。悉能解脫地獄傍生<lb
  n="0399b07" ed="T"/>焰摩惡趣。能令一切有情作如來事。攝召一<lb
  n="0399b08" ed="T"/>切菩薩聖眾。能召諸天梵王帝釋夜摩水天<lb
@@ -126,10 +126,10 @@
  n="0399b12" ed="T"/>二羽結鉤拳。左橫仰臍下。右鉤摜五處。心<lb
  n="0399b13" ed="T"/>額肩喉頂。隨誦真言曰。<lb
  n="0399b14" ed="T"/></ab>
-<ab type="dharani">曩莫三滿多沒馱南唵部入縛攞帝<lb
+<ab type='dharani'>曩莫三滿多沒馱南唵部入縛攞帝<lb
  n="0399b15" ed="T"/>惹吽<lb
  n="0399b16" ed="T"/></ab>
-<ab type="prose">以此甲冑明。修行者應用。悉印於遍身。即成<lb
+<ab type='prose'>以此甲冑明。修行者應用。悉印於遍身。即成<lb
  n="0399b17" ed="T"/>大加護。一切佛頂中。是印大威德。諸魔不陵<lb
  n="0399b18" ed="T"/>逼。被甲猶如王。能成一切事。速疾得悉地。<lb
  n="0399b19" ed="T"/>次應大輪印。金剛輪。<lb
@@ -138,10 +138,10 @@
  n="0399b22" ed="T"/>心。陵身向前期剋狀。<lb
  n="0399b23" ed="T"/>真言曰。<lb
  n="0399b24" ed="T"/></ab>
-<ab type="dharani">曩莫三滿多沒馱南唵戶嚕戶嚕戰拏里摩<lb
+<ab type='dharani'>曩莫三滿多沒馱南唵戶嚕戶嚕戰拏里摩<lb
  n="0399b25" ed="T"/>鐙祇娑縛賀<lb
  n="0399b26" ed="T"/></ab>
-<ab type="prose">無能勝大明。是佛之所說。能摧一切魔。能辟<lb
+<ab type='prose'>無能勝大明。是佛之所說。能摧一切魔。能辟<lb
  n="0399b27" ed="T"/>除諸障者。大力慾自在。世間魔軍王。波旬亦<lb
  n="0399b28" ed="T"/>自在。世天大威德。無量俱低魔。若欲作障<lb
  n="0399b29" ed="T"/>難。現作種種狀。魔軍恐怖形。由結印誦明。故<pb n="0399c" id="T19.0975.0399c" ed="T"/><lb
@@ -153,24 +153,24 @@
  n="0399c06" ed="T"/>普通奉請一切佛頂王真言曰。結印已。先於<lb
  n="0399c07" ed="T"/>印上置香花。擲於壇內然誦真言。<lb
  n="0399c08" ed="T"/></ab>
-<ab type="dharani">曩莫婆誐縛都鄔瑟抳澁野翳醯曳<lb
+<ab type='dharani'>曩莫婆誐縛都鄔瑟抳澁野翳醯曳<lb
  n="0399c09" ed="T"/>呬婆誐鑁達摩羅惹鉢羅底磋曩摩<lb
  n="0399c10" ed="T"/>羅伽巘補澁波度波末隣左𤚥者擗<lb
  n="0399c11" ed="T"/>羅乞灑鉢羅底賀多麼羅跛羅訖羅麼也娑縛賀<lb
  n="0399c13" ed="T"/></ab>
-<ab type="prose">結印三誦明。警覺一切佛。迎請諸如來。悉皆<lb
+<ab type='prose'>結印三誦明。警覺一切佛。迎請諸如來。悉皆<lb
  n="0399c14" ed="T"/>而降赴。<lb
  n="0399c15" ed="T"/>次結光聚印。檀惠並申竪。戒方屈跓頭<lb
  n="0399c16" ed="T"/>忍願倒相合。禪智申並直。進力屈相跓。以押<lb
  n="0399c17" ed="T"/>禪智頭。旋轉成結界。真言誦七遍。<lb
  n="0399c18" ed="T"/></ab>
-<ab type="dharani">曩莫三滿多沒馱南阿鉢羅底賀哆捨<lb
+<ab type='dharani'>曩莫三滿多沒馱南阿鉢羅底賀哆捨<lb
  n="0399c19" ed="T"/>娑曩南唵怛他蘖妬瑟膩沙阿曩縛<lb
  n="0399c20" ed="T"/>路枳多暮㗚馱曩帝儒羅施吽入縛攞入縛攞馱迦馱迦尾馱迦尾馱迦捺<lb
  n="0399c22" ed="T"/>羅捺羅尾馱羅尾馱羅嚫娜嚫娜頻<lb
  n="0399c23" ed="T"/>娜頻娜吽吽泮吒泮吒娑縛賀<lb
  n="0399c24" ed="T"/></ab>
-<ab type="prose">若用護身。即三股金剛杵印是。若請召本尊<lb
+<ab type='prose'>若用護身。即三股金剛杵印是。若請召本尊<lb
  n="0399c25" ed="T"/>即以杵印。股二頭指為鉤來去鉤之即是。此<lb
  n="0399c26" ed="T"/>大佛頂王。號曰光明聚。猛焰熾流布。如劫火<lb
  n="0399c27" ed="T"/>洞然。威力難思議。能摧壞一切。天魔外道<lb
@@ -181,30 +181,30 @@
  n="0400a03" ed="T"/>次結辦事印。二羽內叉拳。忍願申屈合。能成<lb
  n="0400a04" ed="T"/>辦一切。左旋三匝成。辟除真言曰。<lb
  n="0400a05" ed="T"/></ab>
-<ab type="dharani">曩莫三滿多沒馱南吒嚕吽滿馱滿馱吽<lb
+<ab type='dharani'>曩莫三滿多沒馱南吒嚕吽滿馱滿馱吽<lb
  n="0400a06" ed="T"/>泮吒娑縛賀<lb
  n="0400a07" ed="T"/></ab>
-<ab type="prose">此辦事真言。一切佛頂心。由纔憶念故。水陸<lb
+<ab type='prose'>此辦事真言。一切佛頂心。由纔憶念故。水陸<lb
  n="0400a08" ed="T"/>諸障者。所有欲損害。悉皆禁其口。結印當於<lb
  n="0400a09" ed="T"/>心。加持於五處。次結蓮華印。如敷八葉蓮。諸<lb
  n="0400a10" ed="T"/>佛如來座。至心而奉獻。真言誦七遍。<lb
  n="0400a11" ed="T"/></ab>
-<ab type="dharani">曩莫薩縛沒馱冒地薩怛縛南唵吽迦<lb
+<ab type='dharani'>曩莫薩縛沒馱冒地薩怛縛南唵吽迦<lb
  n="0400a12" ed="T"/>摩攞野娑縛賀<lb
  n="0400a13" ed="T"/></ab>
-<ab type="prose">由此奉獻故。諸佛受其座。當來剋獲得。勝妙<lb
+<ab type='prose'>由此奉獻故。諸佛受其座。當來剋獲得。勝妙<lb
  n="0400a14" ed="T"/>金剛座。次結奉閼伽。廣大真實供。汎以香白<lb
  n="0400a15" ed="T"/>花。誠心而奉獻。即以金剛拳。忍願竪頭合。進<lb
  n="0400a16" ed="T"/>力屈背後。禪智捻進根。<lb
  n="0400a17" ed="T"/>真言曰。<lb
  n="0400a18" ed="T"/></ab>
-<ab type="dharani">曩莫婆誐縛覩瑟抳灑野翳𤚥巘<lb
+<ab type='dharani'>曩莫婆誐縛覩瑟抳灑野翳𤚥巘<lb
  n="0400a19" ed="T"/>談補澁波度喯末覽儞半者<lb
  n="0400a20" ed="T"/>鉢羅底瑳賀羅賀羅薩縛沒馱地<lb
  n="0400a21" ed="T"/>瑟耻帝達磨羅惹鉢囉底<lb
  n="0400a22" ed="T"/>賀哆野娑縛賀<lb
  n="0400a23" ed="T"/></ab>
-<ab type="prose">由誦此真言。奉獻如來故。遍於微塵剎。成就<lb
+<ab type='prose'>由誦此真言。奉獻如來故。遍於微塵剎。成就<lb
  n="0400a24" ed="T"/>眾妙供。次結佛眼印。一切佛頂中。應用此大<lb
  n="0400a25" ed="T"/>印。清淨而受持。最勝滅諸罪。於諸佛頂王。常<lb
  n="0400a26" ed="T"/>結於此契。決定得悉地。不久必成就。一切<lb
@@ -218,10 +218,10 @@
  n="0400b05" ed="T"/>二羽內叉拳。忍願並申合。屈上第三節。開屈<lb
  n="0400b06" ed="T"/>進力頭。平等禪智申。七遍真言曰。<lb
  n="0400b07" ed="T"/></ab>
-<ab type="dharani">􄖩曩􄗰莫􄙺三􄗥曼􆩖多􈎭沒􇧺馱􈁀南􇩂唵􈃯󰶺嚕唵三合<lb
+<ab type='dharani'>􄖩曩􄗰莫􄙺三􄗥曼􆩖多􈎭沒􇧺馱􈁀南􇩂唵􈃯𭊘嚕唵三合<lb
  n="0400b08" ed="T"/><lb
  n="0400b09" ed="T"/></ab>
-<ab type="prose">恒河沙數量。如來之所說。現在佛今說。未來<lb
+<ab type='prose'>恒河沙數量。如來之所說。現在佛今說。未來<lb
  n="0400b10" ed="T"/>佛當說。此印名大印。說為頂輪王。此印即是<lb
  n="0400b11" ed="T"/>佛。利益諸有情。由明大威德。制伏諸賢聖。於<lb
  n="0400b12" ed="T"/>五由旬內。令他尊不降。十地諸菩薩。迷悶失<lb
@@ -235,10 +235,10 @@
  n="0400b20" ed="T"/>二羽內叉拳。忍願申而竪。以屈相上節。普<lb
  n="0400b21" ed="T"/>通一切用。真言誦七遍。印於頂上散。<lb
  n="0400b22" ed="T"/></ab>
-<ab type="dharani">曩莫三滿多沒馱南唵拏嚕唵滿馱娑<lb
+<ab type='dharani'>曩莫三滿多沒馱南唵拏嚕唵滿馱娑<lb
  n="0400b23" ed="T"/>縛賀<lb
  n="0400b24" ed="T"/></ab>
-<ab type="prose">由此印。如觀覩請佛。難調諸藥叉。龍及蘇<lb
+<ab type='prose'>由此印。如觀覩請佛。難調諸藥叉。龍及蘇<lb
  n="0400b25" ed="T"/>羅眾。一切惡羅剎。并及諸魔羅。由此明威德。<lb
  n="0400b26" ed="T"/>驚怖悉消融。若得此印契。能獲諸安樂。國王<lb
  n="0400b27" ed="T"/>世間等。於彼常利益。欲求法利者。決定而獲<lb
@@ -251,12 +251,12 @@
  n="0400c05" ed="T"/>令圓。是佛傘蓋印。真言誦七遍。則於頂上散。<lb
  n="0400c06" ed="T"/>真言曰。<lb
  n="0400c07" ed="T"/></ab>
-<ab type="dharani">曩莫三滿多母馱南阿鉢羅底賀哆捨<lb
+<ab type='dharani'>曩莫三滿多母馱南阿鉢羅底賀哆捨<lb
  n="0400c08" ed="T"/>娑曩南唵怛他蘖覩瑟抳沙阿曩縛路<lb
  n="0400c09" ed="T"/>吉多母㗚馱斫訖羅縛羅底唵摩<lb
  n="0400c10" ed="T"/>摩吽䁥<lb
  n="0400c11" ed="T"/></ab>
-<ab type="prose">此大佛頂王。殊勝無與等。是佛大悲力。師子<lb
+<ab type='prose'>此大佛頂王。殊勝無與等。是佛大悲力。師子<lb
  n="0400c12" ed="T"/>吼流出。一切佛加持。大悲照憂暗。甚深知無<lb
  n="0400c13" ed="T"/>垢。令作諸吉祥。菩薩及諸天。而不能沮壞。<lb
  n="0400c14" ed="T"/>獲得不退轉。一切悉安樂。眾毒不能傷。天龍<lb
@@ -271,11 +271,11 @@
  n="0400c23" ed="T"/>上。右外竪掌。以禪而押戒甲。以進屈忍背後。<lb
  n="0400c24" ed="T"/>真言誦七遍。然入三摩地。真言曰。<lb
  n="0400c25" ed="T"/></ab>
-<ab type="dharani">曩莫三滿多沒馱南尾惹曳摩賀鑠訖底<lb
+<ab type='dharani'>曩莫三滿多沒馱南尾惹曳摩賀鑠訖底<lb
  n="0400c26" ed="T"/>訥馱哩吽泮吒尾惹以儞吽泮吒莽誐梨吽<lb
  n="0400c27" ed="T"/>泮吒娑縛賀<lb
  n="0400c28" ed="T"/></ab>
-<ab type="prose">若結此印者。不奪其威力。今世及他世。獲得<lb
+<ab type='prose'>若結此印者。不奪其威力。今世及他世。獲得<lb
  n="0400c29" ed="T"/>如來力。若誦此真言。諸佛皆加護。修持佛頂<pb n="0401a" id="T19.0975.0401a" ed="T"/><lb
  n="0401a01" ed="T"/>王。三時常憶念。速疾得成就。三界中無礙。是<lb
  n="0401a02" ed="T"/>大佛頂王。密印法無量。今為修行者。略集少<lb
@@ -285,21 +285,21 @@
  n="0401a06" ed="T"/>取成就。若擬自求悉地兼為本尊者。輒亦不<lb
  n="0401a07" ed="T"/>得傳授與人密印。大三昧耶嚴密。真言曰。<lb
  n="0401a08" ed="T"/></ab>
-<ab type="dharani">唵商羯哩摩賀三昧鹽滿馱滿馱娑縛<lb
+<ab type='dharani'>唵商羯哩摩賀三昧鹽滿馱滿馱娑縛<lb
  n="0401a09" ed="T"/>賀<lb
  n="0401a10" ed="T"/></ab>
-<ab type="prose">加持念珠真言曰。<lb
+<ab type='prose'>加持念珠真言曰。<lb
  n="0401a11" ed="T"/></ab>
-<ab type="dharani">曩莫婆誐縛帝素弟娑馱野悉馱羅挮<lb
+<ab type='dharani'>曩莫婆誐縛帝素弟娑馱野悉馱羅挮<lb
  n="0401a12" ed="T"/>娑縛賀<lb
  n="0401a13" ed="T"/></ab>
-<ab type="prose">淨念珠真言合掌捧珠。<lb
+<ab type='prose'>淨念珠真言合掌捧珠。<lb
  n="0401a14" ed="T"/></ab>
-<ab type="dharani">唵阿娜步帝尾惹曳悉地悉馱羅梯􅁥<lb
+<ab type='dharani'>唵阿娜步帝尾惹曳悉地悉馱羅梯􅁥<lb
  n="0401a15" ed="T"/>􄚩<lb
  n="0401a16" ed="T"/>
-</ab><ab type="juan" subtype="close">白傘蓋佛頂瑜伽祕要略念誦一卷</ab><lb
- n="0401a17" ed="T"/><div type="w" level="2"><ab type="prose">時延享元星舍閼逢困敦暮秋十日讎校之<lb
+</ab><ab type='juan' subtype='close'>白傘蓋佛頂瑜伽祕要略念誦一卷</ab><lb
+ n="0401a17" ed="T"/><div type='w' level='2'><ab type='prose'>時延享元星舍閼逢困敦暮秋十日讎校之<lb
  n="0401a18" ed="T"/>壽梓焉大和長谷輪下<lb
  n="0401a19" ed="T"/>　　　　　　　　　　　􄙖　􄦽　􄗱　􄖩　無等誌</ab></div></div>
 </body></text></TEI>

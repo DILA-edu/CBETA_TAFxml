@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T12</biblScope>
                     <idno type="Taisho">T12n0340</idno>
                 </bibl>
@@ -43,11 +43,11 @@
  n="0108a01" ed="T"/><lb
  n="0108a02" ed="T"/><lb
  n="0108a03" ed="T"/>
-<ab type="juan" subtype="open">文殊師利所說不思議佛境界經<lb
+<ab type='juan' subtype='open'>文殊師利所說不思議佛境界經<lb
  n="0108a04" ed="T"/>卷上</ab><lb
  n="0108a05" ed="T"/><lb
  n="0108a06" ed="T"/><byline>唐天竺三藏菩提流志奉　詔譯</byline><lb
- n="0108a07" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時佛在舍衛國祇樹給孤獨園，<lb
+ n="0108a07" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時佛在舍衛國祇樹給孤獨園，<lb
  n="0108a08" ed="T"/>與大比丘眾一千人、菩薩十千人俱。復有欲<lb
  n="0108a09" ed="T"/>界諸天子、色界諸天子及淨居天子，并其眷<lb
  n="0108a10" ed="T"/>屬無量百千周匝圍繞，供養恭敬，聽佛說法。<lb
@@ -159,7 +159,7 @@
  n="0109a28" ed="T"/>得乎？」須菩提言：「大士！汝今說法，可不將護<lb
  n="0109a29" ed="T"/>初學心耶？」文殊師利菩薩言：「大德！我今問汝，<pb n="0109b" id="T12.0340.0109b" ed="T"/><lb
  n="0109b01" ed="T"/>隨汝意答。如有良醫欲治人病，為將護病人<lb
- n="0109b02" ed="T"/>心故，不與辛酸醎苦應病之藥，能令其人病<lb
+ n="0109b02" ed="T"/>心故，不與辛酸鹹苦應病之藥，能令其人病<lb
  n="0109b03" ed="T"/>得除差至安樂不？」答言：「不也。」文殊師利菩薩<lb
  n="0109b04" ed="T"/>言：「大德！此亦如是。若說法師為將護初學心<lb
  n="0109b05" ed="T"/>故，隱甚深法而不為說，隨其意欲演麁淺義，<lb
@@ -294,7 +294,7 @@
  n="0110c18" ed="T"/>令善勝天子及此會中一切人天，皆謂在於<lb
  n="0110c19" ed="T"/>彼天之上。具見於彼種種嚴飾，園林池沼，果<lb
  n="0110c20" ed="T"/>樹行列。殿堂樓閣，棟宇交臨，繡柱承梁，彫窓<lb
- n="0110c21" ed="T"/>間戶，攢櫨疊栱，磊砢分布。稱寶為臺，莊嚴綺<lb
+ n="0110c21" ed="T"/>間戶，攢櫨疊栱，磊砢分布。積寶為臺，莊嚴綺<lb
  n="0110c22" ed="T"/>錯，其臺極小，猶有七層，或八層九層，乃至高<lb
  n="0110c23" ed="T"/>于二十層者。一一臺上，處處層級，皆有眾天<lb
  n="0110c24" ed="T"/>女，盛年好色，手足柔軟，額廣眉長，面目清淨。<lb
@@ -340,15 +340,15 @@
  n="0111b06" ed="T"/>殊師利菩薩言：「汝應自現神通之力，令此會<lb
  n="0111b07" ed="T"/>中無量眾生咸得善利。」<lb
  n="0111b08" ed="T"/>
-</ab><ab type="juan" subtype="close">文殊師利所說不思議佛境界經卷上</ab><lb
+</ab><ab type='juan' subtype='close'>文殊師利所說不思議佛境界經卷上</ab><lb
  n="0111b09" ed="T"/><lb
  n="0111b10" ed="T"/><lb
  n="0111b11" ed="T"/>
-<ab type="juan" subtype="open">文殊師利所說不思議佛境界經<lb
+<ab type='juan' subtype='open'>文殊師利所說不思議佛境界經<lb
  n="0111b12" ed="T"/>卷下</ab><lb
  n="0111b13" ed="T"/><lb
  n="0111b14" ed="T"/><byline>唐天竺三藏菩提流志奉　詔譯</byline><lb
- n="0111b15" ed="T"/><ab type="prose">爾時，文殊師利菩薩受佛教已，即時入一切法<lb
+ n="0111b15" ed="T"/><ab type='prose'>爾時，文殊師利菩薩受佛教已，即時入一切法<lb
  n="0111b16" ed="T"/>心自在神通三昧。入此三昧已，起神通力，現<lb
  n="0111b17" ed="T"/>於如上所說神變之事。顯然明著，皆悉現前，<lb
  n="0111b18" ed="T"/>如佛所言，不增不減。預斯會者，靡不咸見。是<lb
@@ -371,7 +371,7 @@
  n="0111c06" ed="T"/>若見有人修行於善，要加逼沮令其退失。我<lb
  n="0111c07" ed="T"/>今為斷如是惡事，說陀羅尼。」即說呪曰：<lb
  n="0111c08" ed="T"/></ab>
-<ab type="dharani">「怛姪他阿麼黎　毘麼黎　恥哆答鞞<lb
+<ab type='dharani'>「怛姪他阿麼黎　毘麼黎　恥哆答鞞<lb
  n="0111c09" ed="T"/>　阿羯波儞是多設咄𡀔　誓曳　誓耶末底<lb
  n="0111c10" ed="T"/>　輸婆末底　睒迷扇底　阿普迷<lb
  n="0111c11" ed="T"/>　普普迷　地𠼝　阿契　莫契　佉契　弭履羅<lb
@@ -382,7 +382,7 @@
  n="0111c16" ed="T"/>蘇怛羅寫陀路迦　阿跋羅自多伊婆蘇<lb
  n="0111c17" ed="T"/>履耶<lb
  n="0111c18" ed="T"/></ab>
-<ab type="prose">「世尊！此陀羅尼擁護法師，能令其人勇猛精<lb
+<ab type='prose'>「世尊！此陀羅尼擁護法師，能令其人勇猛精<lb
  n="0111c19" ed="T"/>進，辯才無斷。一切惡魔無能得便，更令其魔<lb
  n="0111c20" ed="T"/>心生歡喜，以衣服臥具，飲食湯藥，諸有所須<lb
  n="0111c21" ed="T"/>而為供養。世尊！若有善男子善女人受持此<lb
@@ -518,7 +518,7 @@
  n="0113b06" ed="T"/>就三十七種菩提分等所有善法，證於諸佛<lb
  n="0113b07" ed="T"/>無上菩提。云何速成菩提分法？謂諸菩薩以<lb
  n="0113b08" ed="T"/>不放逸故，修四念處不經勤苦疾得圓滿。云<lb
- n="0113b09" ed="T"/>何修耶？謂觀身處無所有；觀察處無所有；<lb
+ n="0113b09" ed="T"/>何修耶？謂觀身處無所有；觀受處無所有；<lb
  n="0113b10" ed="T"/>觀心處無所有；觀法處無所有。於一切法皆<lb
  n="0113b11" ed="T"/>無所得，如是名為修四念處。又諸菩薩以不<lb
  n="0113b12" ed="T"/>放逸故，修四正勤疾得圓滿。云何修習？謂諸<lb
@@ -683,5 +683,5 @@
  n="0115a26" ed="T"/>子、長老阿難，及一切世間天、人、阿修羅、乾闥<lb
  n="0115a27" ed="T"/>婆等，皆大歡喜，信受奉行。<lb
  n="0115a28" ed="T"/>
-</ab><ab type="juan" subtype="close">文殊師利所說不思議佛境界經卷下</ab></div>
+</ab><ab type='juan' subtype='close'>文殊師利所說不思議佛境界經卷下</ab></div>
 </body></text></TEI>

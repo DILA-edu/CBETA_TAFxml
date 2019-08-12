@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0514</idno>
                 </bibl>
@@ -43,10 +43,10 @@
  n="0785c01" ed="T"/><lb
  n="0785c02" ed="T"/><lb
  n="0785c03" ed="T"/>
-<ab type="juan" subtype="open">佛說諫王經</ab><lb
+<ab type='juan' subtype='open'>佛說諫王經</ab><lb
  n="0785c04" ed="T"/><lb
  n="0785c05" ed="T"/><byline>宋安陽侯沮渠京聲譯</byline><lb
- n="0785c06" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時，佛在舍衛國祇樹給孤獨園。<lb
+ n="0785c06" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時，佛在舍衛國祇樹給孤獨園。<lb
  n="0785c07" ed="T"/>是時，國王名不離先尼，出行國界，道過佛所，<lb
  n="0785c08" ed="T"/>身蒙塵土，解劍退蓋為佛作禮。天尊曰：「就<lb
  n="0785c09" ed="T"/>坐。」王即坐。佛問王：「王所從來，身蒙塵土。」王即<lb
@@ -131,7 +131,7 @@
  n="0786c01" ed="T"/>椎胸呼天皆云奈何，喐吚哽咽淚下交<lb
  n="0786c02" ed="T"/>流，嗚呼痛哉神靈獨逝：『捨吾如之乎！』聞<lb
  n="0786c03" ed="T"/>之者莫不傷心，覩之者莫不助哀。載之出城<lb
- n="0786c04" ed="T"/>捐於曠野，飛鳥走獸摑󰨾食之，身中有蟲<lb
+ n="0786c04" ed="T"/>捐於曠野，飛鳥走獸摑𭠧食之，身中有蟲<lb
  n="0786c05" ed="T"/>還食其肉，日炙風飄骨皆為乾，往昔諸王尊<lb
  n="0786c06" ed="T"/>榮豪貴，隱隱闐闐亦如大王，今日霍然不復<lb
  n="0786c07" ed="T"/>見之。此皆無常之明驗也。古常如此況於<lb
@@ -141,5 +141,5 @@
  n="0786c11" ed="T"/>竟，王意即解，願為弟子。即受五戒，頭面著地，<lb
  n="0786c12" ed="T"/>為佛作禮。</ab></div><lb
  n="0786c13" ed="T"/>
-<ab type="juan" subtype="close">佛說諫王經</ab>
+<ab type='juan' subtype='close'>佛說諫王經</ab>
 </body></text></TEI>

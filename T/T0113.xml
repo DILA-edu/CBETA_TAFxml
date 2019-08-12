@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T02</biblScope>
                     <idno type="Taisho">T02n0113</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0505b15" ed="T"/><lb
  n="0505b16" ed="T"/><lb
- n="0505b17" ed="T"/><div type="jing" level="1"><lb
+ n="0505b17" ed="T"/><div type='jing' level='1'><lb
  n="0505b18" ed="T"/>
-<ab type="juan" subtype="open">佛說難提釋經</ab><lb
+<ab type='juan' subtype='open'>佛說難提釋經</ab><lb
  n="0505b19" ed="T"/><lb
  n="0505b20" ed="T"/><byline>西晉沙門法炬譯</byline><lb
- n="0505b21" ed="T"/><ab type="prose">聞如是：一時，佛行在俱舍梨國，樹名尼拘類。<lb
+ n="0505b21" ed="T"/><ab type='prose'>聞如是：一時，佛行在俱舍梨國，樹名尼拘類。<lb
  n="0505b22" ed="T"/>是時，多聚會比丘在迦梨講堂，樹間會坐為<lb
  n="0505b23" ed="T"/>佛作衣，今佛不久夏竟，夏已盡佛自說：「三<lb
  n="0505b24" ed="T"/>月已竟作衣已，當到多人處。」便難提釋聞，多<lb
@@ -150,5 +150,5 @@
  n="0506c05" ed="T"/>天德。」佛說如是。難提釋大歡喜受，著意常<lb
  n="0506c06" ed="T"/>行是六念，起坐持頭面著佛足禮。<lb
  n="0506c07" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說難提釋經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說難提釋經</ab></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1230</idno>
                 </bibl>
@@ -39,15 +39,15 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0161b13" ed="T"/><lb
  n="0161b14" ed="T"/><lb
  n="0161b15" ed="T"/><lb
  n="0161b16" ed="T"/>
-<ab type="juan" subtype="open">佛說大輪金剛總持陀羅尼經</ab><lb
+<ab type='juan' subtype='open'>佛說大輪金剛總持陀羅尼經</ab><lb
  n="0161b17" ed="T"/><lb
- n="0161b18" ed="T"/><ab type="prose">如是我聞。一時佛在王舍城耆闍崛山中。與<lb
+ n="0161b18" ed="T"/><ab type='prose'>如是我聞。一時佛在王舍城耆闍崛山中。與<lb
  n="0161b19" ed="T"/>大比丘眾千二百五十人俱。復有菩薩摩訶<lb
  n="0161b20" ed="T"/>薩三萬六千而為上首。爾時世尊臨般涅槃<lb
  n="0161b21" ed="T"/>後。佛法欲滅時。比丘比丘尼優婆塞優婆夷<lb
@@ -95,21 +95,21 @@
  n="0162a05" ed="T"/>安。一切龍王皆大奔走。雲雨三十三悉不<lb
  n="0162a06" ed="T"/>安。爾時世尊即說身呪曰。<lb
  n="0162a07" ed="T"/></ab>
-<ab type="dharani">那謨娑哆梨耶地婆伽喃怛他羯哆南<lb
+<ab type='dharani'>那謨娑哆梨耶地婆伽喃怛他羯哆南<lb
  n="0162a08" ed="T"/>鳴𤙖毘羅時毘羅時摩訶斫迦羅薩<lb
  n="0162a09" ed="T"/>哆薩跢莎羅帝莎羅帝哆羅曳哆羅曳<lb
  n="0162a10" ed="T"/>毘陀摩儞三盤禪儞怛羅末儞悉陀<lb
  n="0162a11" ed="T"/>羯梨怛焰娑訶<lb
  n="0162a12" ed="T"/></ab>
-<ab type="prose">大輪金剛陀羅尼心真言曰。<lb
+<ab type='prose'>大輪金剛陀羅尼心真言曰。<lb
  n="0162a13" ed="T"/></ab>
-<ab type="dharani">南無悉咥哩耶墜尾伽南怛他伽多南<lb
+<ab type='dharani'>南無悉咥哩耶墜尾伽南怛他伽多南<lb
  n="0162a14" ed="T"/>唵尾羅時尾羅時摩訶斫羯羅伐折梨<lb
  n="0162a15" ed="T"/>伐折羅薩跢薩跢娑羅帝娑羅帝怛羅<lb
  n="0162a16" ed="T"/>曳怛羅曳毘馱末儞三盤誓儞多<lb
  n="0162a17" ed="T"/>羅末底悉陀阿羯哩底哩焰莎訶<lb
  n="0162a18" ed="T"/></ab>
-<ab type="prose">爾時世尊說此呪已。告執金剛神及持呪仙<lb
+<ab type='prose'>爾時世尊說此呪已。告執金剛神及持呪仙<lb
  n="0162a19" ed="T"/>人。比丘比丘尼等。先須著新淨衣燒香供養<lb
  n="0162a20" ed="T"/>樓至金剛。誦呪七日七夜。唯燒香及淨水誦<lb
  n="0162a21" ed="T"/>呪滿十萬遍。成就一切呪法。以後通用一切<lb
@@ -439,40 +439,40 @@
  n="0165c26" ed="T"/>拜信受奉行。<lb
  n="0165c27" ed="T"/>加持白粉真言<lb
  n="0165c28" ed="T"/></ab>
-<ab type="dharani">唵揭那曳濕閉馱夜莎訶<lb
+<ab type='dharani'>唵揭那曳濕閉馱夜莎訶<lb
  n="0165c29" ed="T"/></ab>
-<ab type="prose">加持赤粉真言<pb n="0166a" id="T21.1230.0166a" ed="T"/><lb
+<ab type='prose'>加持赤粉真言<pb n="0166a" id="T21.1230.0166a" ed="T"/><lb
  n="0166a01" ed="T"/></ab>
-<ab type="dharani">唵揭那曳阿羅馱夜莎訶<lb
+<ab type='dharani'>唵揭那曳阿羅馱夜莎訶<lb
  n="0166a02" ed="T"/></ab>
-<ab type="prose">加持黃粉真言<lb
+<ab type='prose'>加持黃粉真言<lb
  n="0166a03" ed="T"/></ab>
-<ab type="dharani">唵揭那曳卑馱夜莎訶<lb
+<ab type='dharani'>唵揭那曳卑馱夜莎訶<lb
  n="0166a04" ed="T"/></ab>
-<ab type="prose">加持青粉真言<lb
+<ab type='prose'>加持青粉真言<lb
  n="0166a05" ed="T"/></ab>
-<ab type="dharani">唵阿揭那曳可唎馱曳莎訶<lb
+<ab type='dharani'>唵阿揭那曳可唎馱曳莎訶<lb
  n="0166a06" ed="T"/></ab>
-<ab type="prose">加持黑粉真言<lb
+<ab type='prose'>加持黑粉真言<lb
  n="0166a07" ed="T"/></ab>
-<ab type="dharani">唵阿揭那曳君利瑟那夜莎訶<lb
+<ab type='dharani'>唵阿揭那曳君利瑟那夜莎訶<lb
  n="0166a08" ed="T"/></ab>
-<ab type="prose">歸命陀羅尼<lb
+<ab type='prose'>歸命陀羅尼<lb
  n="0166a09" ed="T"/>所見一切經藏功德。及見一切道場。皆誦此<lb
  n="0166a10" ed="T"/>真言七遍。功德不可思議。<lb
  n="0166a11" ed="T"/></ab>
-<ab type="dharani">南摸布哆耶俱羅尼南摸達摩耶哆以抳喃<lb
- n="0166a12" ed="T"/>摸僧訶耶摩帝達哩󱀯鞞薩怛哩曩喃<lb
+<ab type='dharani'>南摸布哆耶俱羅尼南摸達摩耶哆以抳喃<lb
+ n="0166a12" ed="T"/>摸僧訶耶摩帝達哩𮪕鞞薩怛哩曩喃<lb
  n="0166a13" ed="T"/>謨<lb
  n="0166a14" ed="T"/></ab>
-<ab type="prose">大輪印　以左右手相叉入掌中。二大母指<lb
+<ab type='prose'>大輪印　以左右手相叉入掌中。二大母指<lb
  n="0166a15" ed="T"/>亦入掌中。將中印頂戴。以左脚安右脚上。誦<lb
  n="0166a16" ed="T"/>呪二十一遍。向下放之而散。<lb
  n="0166a17" ed="T"/><lb
  n="0166a18" ed="T"/><head>大輪金剛稽首請偈</head><lb
  n="0166a19" ed="T"/><byline>南天竺三藏金剛智譯</byline><lb
  n="0166a20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 稽首珠髻大華齒　　力士密跡大輪王　　<lb
  n="0166a21" ed="T"/>烏芻沙摩不動尊　　火頭結界軍荼利　　<lb
  n="0166a22" ed="T"/>或嗔或喚作威怒　　移山轉海須臾間　　<lb
@@ -482,8 +482,8 @@
  n="0166a26" ed="T"/>願大金剛清淨眾　　跋折羅杵自隨心　　<lb
  n="0166a27" ed="T"/>於此道場禮念處　　周匝圍繞作結界　　
 </ab><lb
- n="0166a28" ed="T"/><ab type="prose">于時寬延二己巳年秋七月穀旦<lb
+ n="0166a28" ed="T"/><ab type='prose'>于時寬延二己巳年秋七月穀旦<lb
  n="0166a29" ed="T"/>　　　　　　　　　　　􄙖􄦽􄗱􄖩無等<pb n="0166b" id="T21.1230.0166b" ed="T"/><lb
  n="0166b01" ed="T"/>
-</ab><ab type="juan" subtype="close">金剛輪總持陀羅尼經</ab></div>
+</ab><ab type='juan' subtype='close'>金剛輪總持陀羅尼經</ab></div>
 </body></text></TEI>

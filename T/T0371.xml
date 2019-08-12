@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T12</biblScope>
                     <idno type="Taisho">T12n0371</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0353b04" ed="T"/><lb
  n="0353b05" ed="T"/><lb
  n="0353b06" ed="T"/>
-<ab type="juan" subtype="open">觀世音菩薩授記經</ab><lb
+<ab type='juan' subtype='open'>觀世音菩薩授記經</ab><lb
  n="0353b07" ed="T"/><lb
  n="0353b08" ed="T"/><byline>宋黃龍國沙門曇無竭譯</byline><lb
- n="0353b09" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時，佛在波羅奈仙人鹿苑中，與<lb
+ n="0353b09" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時，佛在波羅奈仙人鹿苑中，與<lb
  n="0353b10" ed="T"/>大比丘眾二萬人俱，菩薩萬二千，其名曰：師<lb
  n="0353b11" ed="T"/>子菩薩、師子意菩薩、安意菩薩、無喻意菩薩、<lb
  n="0353b12" ed="T"/>持地菩薩、般羅達菩薩、神天菩薩、實事菩<lb
@@ -120,7 +120,7 @@
  n="0354a21" ed="T"/>諸大眾圍遶說法，猶如掌中觀阿摩勒果，皆<lb
  n="0354a22" ed="T"/>生愛樂歡喜之心，唱如是言：「南無釋迦如來、<lb
  n="0354a23" ed="T"/>應供、正遍知。」於此眾會，比丘、比丘尼、優婆塞、優<lb
- n="0354a24" ed="T"/>婆夷，天龍、夜叉、乾闥婆、阿修羅、迦樓羅、緊那<lb
+ n="0354a24" ed="T"/>婆夷，天、龍、夜叉、乾闥婆、阿修羅、迦樓羅、緊那<lb
  n="0354a25" ed="T"/>羅、摩睺羅伽、人非人等，釋梵四天王，菩薩、聲<lb
  n="0354a26" ed="T"/>聞，皆見安樂世界阿彌陀佛，菩薩、聲聞眷屬<lb
  n="0354a27" ed="T"/>圍遶，晃若寶山高顯殊特，威光赫奕普照諸<lb
@@ -286,22 +286,22 @@
  n="0356a13" ed="T"/>名寶上。時威德王從禪定起，見二童子坐蓮<lb
  n="0356a14" ed="T"/>華藏，以偈問曰：<lb
  n="0356a15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『汝為天龍王，　　夜叉鳩槃荼，　　<lb
  n="0356a16" ed="T"/>為人為非人？　　願說其名號。』　　
 </ab><lb
- n="0356a17" ed="T"/><ab type="prose">「時，王右面童子以偈答曰：<lb
+ n="0356a17" ed="T"/><ab type='prose'>「時，王右面童子以偈答曰：<lb
  n="0356a18" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『一切諸法空，　　云何問名號？　　<lb
  n="0356a19" ed="T"/>過去法已滅，　　當來法未生，　　<lb
  n="0356a20" ed="T"/>現在法不住，　　仁者問誰名？　　<lb
  n="0356a21" ed="T"/>空法亦非人，　　非龍非羅剎，　　<lb
  n="0356a22" ed="T"/>人與非人等，　　一切不可得。』　　
 </ab><lb
- n="0356a23" ed="T"/><ab type="prose">「左面童子而說偈言：<lb
+ n="0356a23" ed="T"/><ab type='prose'>「左面童子而說偈言：<lb
  n="0356a24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『名名者悉空，　　名名不可得，　　<lb
  n="0356a25" ed="T"/>一切法無名，　　而欲問名字，　　<lb
  n="0356a26" ed="T"/>欲求真實名，　　未曾所見聞，　　<lb
@@ -309,19 +309,19 @@
  n="0356a28" ed="T"/>說名字語言，　　皆是假施設，　　<lb
  n="0356a29" ed="T"/>我名為寶意，　　彼名為寶上。』　　
 </ab><pb n="0356b" id="T12.0371.0356b" ed="T"/><lb
- n="0356b01" ed="T"/><ab type="prose">「華德藏！是二童子說是偈已，與威德王俱詣<lb
+ n="0356b01" ed="T"/><ab type='prose'>「華德藏！是二童子說是偈已，與威德王俱詣<lb
  n="0356b02" ed="T"/>佛所，頭面禮足，右遶七匝，合掌恭敬於一面<lb
  n="0356b03" ed="T"/>住。「時，二童子即共同聲，以偈問佛：<lb
  n="0356b04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『云何為供養？　　無上兩足尊！　　<lb
  n="0356b05" ed="T"/>願說其義趣，　　聞者當奉行。　　<lb
  n="0356b06" ed="T"/>花香眾伎樂，　　衣食藥臥具，　　<lb
  n="0356b07" ed="T"/>如是等供養，　　云何為最勝？』　　
 </ab><lb
- n="0356b08" ed="T"/><ab type="prose">「爾時，彼佛即為童子而說偈言：<lb
+ n="0356b08" ed="T"/><ab type='prose'>「爾時，彼佛即為童子而說偈言：<lb
  n="0356b09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『當發菩提心，　　廣濟諸群生，　　<lb
  n="0356b10" ed="T"/>是則供正覺，　　三十二明相。　　<lb
  n="0356b11" ed="T"/>設滿恒沙剎，　　珍妙莊嚴具，　　<lb
@@ -331,9 +331,9 @@
  n="0356b15" ed="T"/>餘供無過者，　　超踰不可計，　　<lb
  n="0356b16" ed="T"/>如是菩提心，　　必成等正覺。』　　
 </ab><lb
- n="0356b17" ed="T"/><ab type="prose">「時，二童子復說偈言：<lb
+ n="0356b17" ed="T"/><ab type='prose'>「時，二童子復說偈言：<lb
  n="0356b18" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『諸天龍鬼神，　　聽我師子吼，　　<lb
  n="0356b19" ed="T"/>今於如來前，　　弘誓發菩提。　　<lb
  n="0356b20" ed="T"/>生死無量劫，　　本際不可知，　　<lb
@@ -361,7 +361,7 @@
  n="0356c13" ed="T"/>諸天於空中，　　雨散眾末香，　　<lb
  n="0356c14" ed="T"/>其香普流熏，　　悅可眾生心。」　　
 </ab><lb
- n="0356c15" ed="T"/><ab type="prose">佛告華德藏：「於汝意云何？爾時威德王者豈<lb
+ n="0356c15" ed="T"/><ab type='prose'>佛告華德藏：「於汝意云何？爾時威德王者豈<lb
  n="0356c16" ed="T"/>異人乎？我身是也。時二童子，今觀世音及得<lb
  n="0356c17" ed="T"/>大勢菩薩摩訶薩是也。善男子！是二菩薩於<lb
  n="0356c18" ed="T"/>彼佛所，初發阿耨多羅三藐三菩提心。」爾時，<lb
@@ -447,9 +447,9 @@
  n="0357c11" ed="T"/>轉女身；轉女身已，當為授記，得阿耨多羅<lb
  n="0357c12" ed="T"/>三藐三菩提，號曰離垢多陀阿伽度阿羅呵<lb
  n="0357c13" ed="T"/>三藐三佛陀。」說是經已，華德藏菩薩摩訶薩，<lb
- n="0357c14" ed="T"/>及諸比丘、比丘尼、菩薩、聲聞、天龍、夜叉、乾闥<lb
+ n="0357c14" ed="T"/>及諸比丘、比丘尼、菩薩、聲聞、天、龍、夜叉、乾闥<lb
  n="0357c15" ed="T"/>婆、阿修羅、迦樓羅、緊那羅、摩睺羅伽、人非人<lb
  n="0357c16" ed="T"/>等，聞佛所說，皆大歡喜。</ab></div><lb
  n="0357c17" ed="T"/>
-<ab type="juan" subtype="close">觀世音菩薩授記經</ab>
+<ab type='juan' subtype='close'>觀世音菩薩授記經</ab>
 </body></text></TEI>

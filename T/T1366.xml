@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1366</idno>
                 </bibl>
@@ -41,13 +41,13 @@
     <text>
         <body><pb n="0884b" id="T21.1366.0884b" ed="T"/><lb
  n="0884b01" ed="T"/><lb
- n="0884b02" ed="T"/><div type="jing" level="1"><lb
+ n="0884b02" ed="T"/><div type='jing' level='1'><lb
  n="0884b03" ed="T"/>
-<ab type="juan" subtype="open">佛說祕密八名陀羅尼經</ab><lb
+<ab type='juan' subtype='open'>佛說祕密八名陀羅尼經</ab><lb
  n="0884b04" ed="T"/><lb
  n="0884b05" ed="T"/><byline>西天譯經三藏朝散大夫試光祿卿<lb
  n="0884b06" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
- n="0884b07" ed="T"/><ab type="prose">如是我聞。一時佛在舍衛國祇樹給孤獨園。<lb
+ n="0884b07" ed="T"/><ab type='prose'>如是我聞。一時佛在舍衛國祇樹給孤獨園。<lb
  n="0884b08" ed="T"/>與大比丘眾千二百五十人俱。復有諸菩薩<lb
  n="0884b09" ed="T"/>摩訶薩眾。金剛手而為上首。<lb
  n="0884b10" ed="T"/>爾時世尊告金剛手菩薩大祕密主言。如汝<lb
@@ -75,14 +75,14 @@
  n="0884c03" ed="T"/>雲。六名可愛色相。七名焰光。八名妙色。金<lb
  n="0884c04" ed="T"/>剛手此即是汝祕密八名。即說陀羅尼曰。<lb
  n="0884c05" ed="T"/></ab>
-<ab type="dharani">那謨沒馱野那謨達哩摩野那<lb
+<ab type='dharani'>那謨沒馱野那謨達哩摩野那<lb
  n="0884c06" ed="T"/>謨僧伽野那謨嚩日囉播拏野<lb
- n="0884c07" ed="T"/>怛󰍕他遏致渴囉致蘇摩目<lb
+ n="0884c07" ed="T"/>怛𭔞他遏致渴囉致蘇摩目<lb
  n="0884c08" ed="T"/>契薩哩囉哥哩也尼娑達野呬<lb
  n="0884c09" ed="T"/>哩彌哩咥尼悉殿覩滿怛囉鉢<lb
  n="0884c10" ed="T"/>那莎賀<lb
  n="0884c11" ed="T"/></ab>
-<ab type="prose">佛告金剛手菩薩言。如是祕密名及陀羅尼。<lb
+<ab type='prose'>佛告金剛手菩薩言。如是祕密名及陀羅尼。<lb
  n="0884c12" ed="T"/>若復有人受持讀誦者。是人於七俱胝那由<lb
  n="0884c13" ed="T"/>他百千劫不墮地獄臨命終時諸佛菩薩。現<lb
  n="0884c14" ed="T"/>身面前安慰說法。命終之後生兜率陀天。<lb
@@ -90,5 +90,5 @@
  n="0884c16" ed="T"/>世間天人阿脩羅乾闥婆人非人等。聞佛所<lb
  n="0884c17" ed="T"/>說皆大歡喜信受奉行。<lb
  n="0884c18" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說祕密八名陀羅尼經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說祕密八名陀羅尼經</ab></div>
 </body></text></TEI>

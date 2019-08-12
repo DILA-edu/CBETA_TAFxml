@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0534</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0815a03" ed="T"/><lb
  n="0815a04" ed="T"/><lb
  n="0815a05" ed="T"/>
-<ab type="juan" subtype="open">佛說月光童子經</ab><lb
+<ab type='juan' subtype='open'>佛說月光童子經</ab><lb
  n="0815a06" ed="T"/><lb
  n="0815a07" ed="T"/><byline>西晉月氏三藏竺法護譯</byline><lb
- n="0815a08" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時，佛遊王舍城靈鷲山，與大比<lb
+ n="0815a08" ed="T"/><div type='jing' level='1'><ab type='prose'>聞如是：一時，佛遊王舍城靈鷲山，與大比<lb
  n="0815a09" ed="T"/>丘眾千人俱，聖通無礙悉皆應真，漏結已<lb
  n="0815a10" ed="T"/>解生死已斷，穢冥已索慧明獨存；菩薩二萬，<lb
  n="0815a11" ed="T"/>神通聖達統都三界，總攝諸法權慧無方，逮<lb
@@ -268,5 +268,5 @@
  n="0817c15" ed="T"/>佛上，歎佛聖德至未曾有。當此之時，莫不歡<lb
  n="0817c16" ed="T"/>喜，稽首作禮而去。</ab></div><lb
  n="0817c17" ed="T"/>
-<ab type="juan" subtype="close">佛說月光童子經</ab>
+<ab type='juan' subtype='close'>佛說月光童子經</ab>
 </body></text></TEI>

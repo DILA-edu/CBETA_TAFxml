@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1356</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0874c04" ed="T"/><lb
  n="0874c05" ed="T"/><lb
- n="0874c06" ed="T"/><div type="jing" level="1"><lb
+ n="0874c06" ed="T"/><div type='jing' level='1'><lb
  n="0874c07" ed="T"/>
-<ab type="juan" subtype="open">佛說華積陀羅尼神呪經</ab><lb
+<ab type='juan' subtype='open'>佛說華積陀羅尼神呪經</ab><lb
  n="0874c08" ed="T"/><lb
  n="0874c09" ed="T"/><byline>吳月支國居士支謙譯</byline><lb
- n="0874c10" ed="T"/><ab type="prose">如是我聞。一時佛在阿耨達池龍王宮中。與<lb
+ n="0874c10" ed="T"/><ab type='prose'>如是我聞。一時佛在阿耨達池龍王宮中。與<lb
  n="0874c11" ed="T"/>大比丘五百人俱。及菩薩摩訶薩具足一千。<lb
  n="0874c12" ed="T"/>悉得一切陀羅尼。餘一生在住十住地。次當<lb
  n="0874c13" ed="T"/>作佛。如王太子。俱於十方皆成佛道。具大莊<lb
@@ -80,7 +80,7 @@
  n="0875a11" ed="T"/>量慧辯。為無量十方諸佛如來之所知見。乃<lb
  n="0875a12" ed="T"/>說呪曰。<lb
  n="0875a13" ed="T"/></ab>
-<ab type="dharani">但施他杜羅禰拖羅禰拖羅<lb
+<ab type='dharani'>但施他杜羅禰拖羅禰拖羅<lb
  n="0875a14" ed="T"/>尼拖羅尼侔尼波羅婆娑禰悉<lb
  n="0875a15" ed="T"/>諦栴禘那侔紙嫟訶囇<lb
  n="0875a16" ed="T"/>魯伽婆底佛陀婆底底囇柯<lb
@@ -90,7 +90,7 @@
  n="0875a20" ed="T"/>休多大多禰闍波底哆嫟沙摩<lb
  n="0875a21" ed="T"/>憙知蜀伽羅婆底陟沙<lb
  n="0875a22" ed="T"/>拏佛朕地耶佛地瑣訶</ab>
-<ab type="prose">師子威<lb
+<ab type='prose'>師子威<lb
  n="0875a23" ed="T"/>當知。若善男子能於此華積神呪。若讀若誦。<lb
  n="0875a24" ed="T"/>是人當於三月四月九月。從八日至十五日。<lb
  n="0875a25" ed="T"/>一心憶念如來相好。夜中三誦華積神呪。日中<lb
@@ -103,5 +103,5 @@
  n="0875b03" ed="T"/>三昧深得清淨。解四聖諦無上法輪。說是經<lb
  n="0875b04" ed="T"/>已。師子威等天龍八部。一切大眾歡喜奉行。<lb
  n="0875b05" ed="T"/>
-</ab><ab type="juan" subtype="close">華積陀羅尼神呪經</ab></div>
+</ab><ab type='juan' subtype='close'>華積陀羅尼神呪經</ab></div>
 </body></text></TEI>

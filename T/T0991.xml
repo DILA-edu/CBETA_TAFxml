@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n0991</idno>
                 </bibl>
@@ -41,12 +41,12 @@
     <text>
         <body><pb n="0493b" id="T19.0991.0493b" ed="T"/><lb
  n="0493b01" ed="T"/><lb
- n="0493b02" ed="T"/><div type="jing" level="1"><lb
+ n="0493b02" ed="T"/><div type='jing' level='1'><lb
  n="0493b03" ed="T"/>
-<ab type="juan" subtype="open">大雲輪請雨經卷上</ab><lb
+<ab type='juan' subtype='open'>大雲輪請雨經卷上</ab><lb
  n="0493b04" ed="T"/><lb
  n="0493b05" ed="T"/><byline>隋天竺三藏那連提耶舍譯</byline><lb
- n="0493b06" ed="T"/><ab type="prose">如是我聞。一時佛在難陀優婆難陀龍王宮<lb
+ n="0493b06" ed="T"/><ab type='prose'>如是我聞。一時佛在難陀優婆難陀龍王宮<lb
  n="0493b07" ed="T"/>內。住大威德摩尼之藏大雲輪殿寶樓閣中。<lb
  n="0493b08" ed="T"/>與大比丘及諸菩薩摩訶薩眾周匝圍繞。復<lb
  n="0493b09" ed="T"/>有無量諸大龍王。<lb
@@ -282,7 +282,7 @@
  n="0496a07" ed="T"/>爾時龍王復白佛言。何者名為施一切樂陀<lb
  n="0496a08" ed="T"/>羅尼句。爾時世尊即說呪曰。<lb
  n="0496a09" ed="T"/></ab>
-<ab type="dharani">怛緻咃陀囉尼陀囉<lb
+<ab type='dharani'>怛緻咃陀囉尼陀囉<lb
  n="0496a10" ed="T"/>尼優多囉尼三波囉帝師<lb
  n="0496a11" ed="T"/>郗毘闍耶跋囒那薩底夜波羅帝若<lb
  n="0496a12" ed="T"/>波囉呵若那跋帝優多波達尼毘<lb
@@ -294,7 +294,7 @@
  n="0496a19" ed="T"/>婆佛陀婆盧歌那波羅闍若闍那鞞醯<lb
  n="0496a20" ed="T"/>莎呵<lb
  n="0496a21" ed="T"/></ab>
-<ab type="prose">汝大龍王。此呪名為施一切樂陀羅尼句。諸<lb
+<ab type='prose'>汝大龍王。此呪名為施一切樂陀羅尼句。諸<lb
  n="0496a22" ed="T"/>佛所持汝等常須受持讀誦。吉事成就得入<lb
  n="0496a23" ed="T"/>法門獲安隱樂。<lb
  n="0496a24" ed="T"/>復次龍王。有大雲所生威神莊嚴功德智相<lb
@@ -362,14 +362,14 @@
  n="0496c29" ed="T"/>威德月光焰雲如來等應正遍知三藐三佛<pb n="0497a" id="T19.0991.0497a" ed="T"/><lb
  n="0497a01" ed="T"/>陀<lb
  n="0497a02" ed="T"/>
-</ab><ab type="juan" subtype="close">大雲輪請雨經卷上</ab><lb
+</ab><ab type='juan' subtype='close'>大雲輪請雨經卷上</ab><lb
  n="0497a03" ed="T"/><lb
  n="0497a04" ed="T"/><lb
  n="0497a05" ed="T"/>
-<ab type="juan" subtype="open">大雲輪請雨經卷下</ab><lb
+<ab type='juan' subtype='open'>大雲輪請雨經卷下</ab><lb
  n="0497a06" ed="T"/><lb
  n="0497a07" ed="T"/><byline>隋天竺三藏那連提耶舍譯</byline><lb
- n="0497a08" ed="T"/><ab type="prose">爾時世尊說是諸佛如來名已。告於無邊<lb
+ n="0497a08" ed="T"/><ab type='prose'>爾時世尊說是諸佛如來名已。告於無邊<lb
  n="0497a09" ed="T"/>莊嚴海雲威德輪蓋龍王作如是言。汝大龍<lb
  n="0497a10" ed="T"/>王。此諸佛名汝等一切諸龍眷屬。若能誦持<lb
  n="0497a11" ed="T"/>稱彼佛名及禮拜者。一切諸龍所有苦厄。皆<lb
@@ -403,7 +403,7 @@
  n="0497b10" ed="T"/>天歡喜踊躍。散一切魔安隱眾生。即說呪<lb
  n="0497b11" ed="T"/>曰。<lb
  n="0497b12" ed="T"/></ab>
-<ab type="dharani">怛緻他摩訶若那婆婆薩尼尼梨低<lb
+<ab type='dharani'>怛緻他摩訶若那婆婆薩尼尼梨低<lb
  n="0497b13" ed="T"/>殊洛敧彌提利茶毘迦囉摩跋闍<lb
  n="0497b14" ed="T"/>羅僧伽怛膩波羅摩毘囉闍埿摩求那<lb
  n="0497b15" ed="T"/>鷄兜修梨耶波羅鞞毘摩嵐伽耶<lb
@@ -425,7 +425,7 @@
  n="0497c04" ed="T"/>呪漏呪漏波羅遮佛陀喃摩帝<lb
  n="0497c05" ed="T"/>摩訶般利若波羅蜜帝莎呵<lb
  n="0497c06" ed="T"/></ab>
-<ab type="prose">南無智海毘盧遮那藏如來。<lb
+<ab type='prose'>南無智海毘盧遮那藏如來。<lb
  n="0497c07" ed="T"/>南無一切諸菩提薩埵。<lb
  n="0497c08" ed="T"/>爾時一切諸龍王等。為降雨故受持此呪。若<lb
  n="0497c09" ed="T"/>後末世惡災行時能令不起。<lb
@@ -433,76 +433,76 @@
  n="0497c11" ed="T"/>切龍等。於閻浮提所祈請處。降澍大雨除滅<lb
  n="0497c12" ed="T"/>五種雨之障礙。而說呪曰。<lb
  n="0497c13" ed="T"/></ab>
-<ab type="dharani">多緻他娑邏娑邏四唎四唎素漏素<lb
+<ab type='dharani'>多緻他娑邏娑邏四唎四唎素漏素<lb
  n="0497c14" ed="T"/>漏那伽喃闍婆闍婆侍毘侍毘<lb
  n="0497c15" ed="T"/>樹附樹附<lb
  n="0497c16" ed="T"/></ab>
-<ab type="prose">佛實力故。大龍王等速來在於閻浮提內。所<lb
+<ab type='prose'>佛實力故。大龍王等速來在於閻浮提內。所<lb
  n="0497c17" ed="T"/>祈請處降澍大雨而說呪曰。<lb
  n="0497c18" ed="T"/></ab>
-<ab type="dharani">遮羅遮羅至利至利朱漏朱漏<lb
+<ab type='dharani'>遮羅遮羅至利至利朱漏朱漏<lb
  n="0497c19" ed="T"/></ab>
-<ab type="prose">佛實力故。咄諸龍王於閻浮提。請雨國內降<lb
+<ab type='prose'>佛實力故。咄諸龍王於閻浮提。請雨國內降<lb
  n="0497c20" ed="T"/>澍大雨。而說呪曰。<lb
  n="0497c21" ed="T"/></ab>
-<ab type="dharani">婆邏婆邏避利避利復漏復漏<lb
+<ab type='dharani'>婆邏婆邏避利避利復漏復漏<lb
  n="0497c22" ed="T"/><lb
  n="0497c23" ed="T"/></ab>
-<ab type="prose">諸佛菩薩威神之力。大乘真實行業力故。<lb
+<ab type='prose'>諸佛菩薩威神之力。大乘真實行業力故。<lb
  n="0497c24" ed="T"/>諸龍王等速來至此。各各憶念諸如來法及<lb
  n="0497c25" ed="T"/>菩薩行。起於慈心悲心喜心及以捨心。而說<lb
  n="0497c26" ed="T"/>呪曰。<lb
  n="0497c27" ed="T"/></ab>
-<ab type="dharani">婆邏婆邏毘梨毘梨蒲盧蒲盧<lb
+<ab type='dharani'>婆邏婆邏毘梨毘梨蒲盧蒲盧<lb
  n="0497c28" ed="T"/></ab>
-<ab type="prose">大意氣龍王慈心正念妙密佛法。持大雲雨<pb n="0498a" id="T19.0991.0498a" ed="T"/><lb
+<ab type='prose'>大意氣龍王慈心正念妙密佛法。持大雲雨<pb n="0498a" id="T19.0991.0498a" ed="T"/><lb
  n="0498a01" ed="T"/>速來至此。而說呪曰。<lb
  n="0498a02" ed="T"/></ab>
-<ab type="dharani">伽茶伽茶祁墀祁墀瞿厨瞿厨<lb
+<ab type='dharani'>伽茶伽茶祁墀祁墀瞿厨瞿厨<lb
  n="0498a03" ed="T"/></ab>
-<ab type="prose">一切諸佛真實力故。大健瞋者大疾行者睒<lb
+<ab type='prose'>一切諸佛真實力故。大健瞋者大疾行者睒<lb
  n="0498a04" ed="T"/>電舌者。治諸惡毒來起慈心。於閻浮提請雨<lb
  n="0498a05" ed="T"/>國內。降澍大雨莎呵。又說呪曰。<lb
  n="0498a06" ed="T"/></ab>
-<ab type="dharani">怛吒怛吒底致底致鬪晝鬪晝<lb
+<ab type='dharani'>怛吒怛吒底致底致鬪晝鬪晝<lb
  n="0498a07" ed="T"/></ab>
-<ab type="prose">金剛密迹真實力故。頭上戴大摩尼天冠。蛇<lb
+<ab type='prose'>金剛密迹真實力故。頭上戴大摩尼天冠。蛇<lb
  n="0498a08" ed="T"/>身相者念三寶力。於閻浮提此請雨國內降<lb
  n="0498a09" ed="T"/>澍大雨莎呵。又說呪曰。<lb
  n="0498a10" ed="T"/></ab>
-<ab type="dharani">迦羅迦羅繼利繼利句漏句漏<lb
+<ab type='dharani'>迦羅迦羅繼利繼利句漏句漏<lb
  n="0498a11" ed="T"/></ab>
-<ab type="prose">佛實力故。金剛密跡勅彼一切澍大水者乘<lb
+<ab type='prose'>佛實力故。金剛密跡勅彼一切澍大水者乘<lb
  n="0498a12" ed="T"/>大雲者。起慈悲心悉來於此閻浮提中請雨<lb
  n="0498a13" ed="T"/>國內。降澍大雨又說呪曰。<lb
  n="0498a14" ed="T"/></ab>
-<ab type="dharani">何邏邏何邏羅兮利履兮利履候漏塿<lb
+<ab type='dharani'>何邏邏何邏羅兮利履兮利履候漏塿<lb
  n="0498a15" ed="T"/>候漏塿<lb
  n="0498a16" ed="T"/></ab>
-<ab type="prose">三世諸佛真實力故。能令一切諸龍眷屬捨<lb
+<ab type='prose'>三世諸佛真實力故。能令一切諸龍眷屬捨<lb
  n="0498a17" ed="T"/>於睡眠。又說呪曰。<lb
  n="0498a18" ed="T"/></ab>
-<ab type="dharani">伽磨伽磨姞寐姞寐求牟求牟莎呵<lb
+<ab type='dharani'>伽磨伽磨姞寐姞寐求牟求牟莎呵<lb
  n="0498a19" ed="T"/></ab>
-<ab type="prose">我勅一切諸龍王等。起大慈心為菩提本而<lb
+<ab type='prose'>我勅一切諸龍王等。起大慈心為菩提本而<lb
  n="0498a20" ed="T"/>說呪曰。<lb
  n="0498a21" ed="T"/></ab>
-<ab type="dharani">那囉那囉尼梨尼梨奴漏奴漏莎呵<lb
+<ab type='dharani'>那囉那囉尼梨尼梨奴漏奴漏莎呵<lb
  n="0498a22" ed="T"/></ab>
-<ab type="prose">咄咄龍等種種異形。千頭可畏赤眼大力大<lb
+<ab type='prose'>咄咄龍等種種異形。千頭可畏赤眼大力大<lb
  n="0498a23" ed="T"/>蛇身者。我今勅汝。應當憶念最上慈悲威神<lb
  n="0498a24" ed="T"/>功德滅煩惱者。一切諸佛如來名字。而說呪<lb
  n="0498a25" ed="T"/>曰。<lb
  n="0498a26" ed="T"/></ab>
-<ab type="dharani">揭茶揭茶耆穉耆穉崛住崛住<lb
+<ab type='dharani'>揭茶揭茶耆穉耆穉崛住崛住<lb
  n="0498a27" ed="T"/>莎呵<lb
  n="0498a28" ed="T"/></ab>
-<ab type="prose">無礙勇健奪於世間人色力者。於閻浮提請<pb n="0498b" id="T19.0991.0498b" ed="T"/><lb
+<ab type='prose'>無礙勇健奪於世間人色力者。於閻浮提請<pb n="0498b" id="T19.0991.0498b" ed="T"/><lb
  n="0498b01" ed="T"/>雨國內。降澍大雨而說呪曰。<lb
  n="0498b02" ed="T"/></ab>
-<ab type="dharani">舍囉舍囉尸利尸利輸嚧輸嚧莎呵<lb
+<ab type='dharani'>舍囉舍囉尸利尸利輸嚧輸嚧莎呵<lb
  n="0498b03" ed="T"/></ab>
-<ab type="prose">一切諸天真實力故。咄諸大龍念自種姓。速<lb
+<ab type='prose'>一切諸天真實力故。咄諸大龍念自種姓。速<lb
  n="0498b04" ed="T"/>來於此閻浮提中請雨國內。降澍大雨莎呵。<lb
  n="0498b05" ed="T"/>大梵天王實行力故。令諸龍王於閻浮提請<lb
  n="0498b06" ed="T"/>雨國內。降澍大雨莎呵。<lb
@@ -543,11 +543,11 @@
  n="0498c13" ed="T"/>眾生莎呵。<lb
  n="0498c14" ed="T"/>又說呪曰。<lb
  n="0498c15" ed="T"/></ab>
-<ab type="dharani">迦邏迦邏抧利抧利句嚧句嚧陀囉<lb
+<ab type='dharani'>迦邏迦邏抧利抧利句嚧句嚧陀囉<lb
  n="0498c16" ed="T"/>陀囉地利地利豆漏豆嚧那吒那吒<lb
  n="0498c17" ed="T"/>膩󰣐膩󰣐膩奴晝奴晝<lb
  n="0498c18" ed="T"/></ab>
-<ab type="prose">持大雲雨疾行之者如雲者。著雲衣者生雲<lb
+<ab type='prose'>持大雲雨疾行之者如雲者。著雲衣者生雲<lb
  n="0498c19" ed="T"/>中者。能作雲者雲雷響者。住雲中者雲天冠<lb
  n="0498c20" ed="T"/>者。雲莊嚴者乘大雲者。雲中隱者雲中藏者。<lb
  n="0498c21" ed="T"/>被雲髮者耀雲光者。雲圍遶者處大雲者。雲<lb
@@ -556,33 +556,33 @@
  n="0498c24" ed="T"/>大龍王。身體清涼持大風輪。諸佛實行力故。<lb
  n="0498c25" ed="T"/>放六味雨而說呪曰。<lb
  n="0498c26" ed="T"/></ab>
-<ab type="dharani">伽邏伽邏岐利岐利求漏求漏其利<lb
+<ab type='dharani'>伽邏伽邏岐利岐利求漏求漏其利<lb
  n="0498c27" ed="T"/>尼其利尼<lb
  n="0498c28" ed="T"/>求磨求磨求磨求磨求磨求磨求磨求磨求磨<pb n="0499a" id="T19.0991.0499a" ed="T"/><lb
  n="0499a01" ed="T"/><lb
  n="0499a02" ed="T"/></ab>
-<ab type="prose">九頭龍母。勅告首冠大雲閃電華冠之者。持<lb
+<ab type='prose'>九頭龍母。勅告首冠大雲閃電華冠之者。持<lb
  n="0499a03" ed="T"/>一切龍者服雲衣者。攝諸境界毒氣者乘雲<lb
  n="0499a04" ed="T"/>嚴者。雷聲遠震能告諸龍者大雲圍遶者。諸<lb
  n="0499a05" ed="T"/>佛實行力故。令閻浮提請雨國內。降澍大雨<lb
  n="0499a06" ed="T"/>使令充足莎呵。<lb
  n="0499a07" ed="T"/>又說呪曰。<lb
  n="0499a08" ed="T"/></ab>
-<ab type="dharani">野邏野邏逸利逸利喻屢喻屢樹屢樹<lb
+<ab type='dharani'>野邏野邏逸利逸利喻屢喻屢樹屢樹<lb
  n="0499a09" ed="T"/>屢嗜利嗜利社邏社邏社社邏求茶求<lb
  n="0499a10" ed="T"/>茶求求茶伽茶伽茶耆遲耆遲呵邏呵<lb
  n="0499a11" ed="T"/>邏醯利醯利牟漏牟漏多邏多邏帝利帝利兜漏兜漏阿那阿那陀呵陀呵鉢遮鉢遮祁利祁利<lb
  n="0499a14" ed="T"/>醯那醯那求利陀末利陀鉢囉末<lb
  n="0499a15" ed="T"/>利<lb
  n="0499a16" ed="T"/></ab>
-<ab type="prose">彌勒菩薩告勅令除一切雨障莎呵又說呪曰。<lb
+<ab type='prose'>彌勒菩薩告勅令除一切雨障莎呵又說呪曰。<lb
  n="0499a17" ed="T"/></ab>
-<ab type="dharani">佛提佛提浮佛提浮佛提<lb
+<ab type='dharani'>佛提佛提浮佛提浮佛提<lb
  n="0499a18" ed="T"/></ab>
-<ab type="prose">令諸眾生持佛功德。除滅一切障業重罪。而<lb
+<ab type='prose'>令諸眾生持佛功德。除滅一切障業重罪。而<lb
  n="0499a19" ed="T"/>說呪曰。<lb
  n="0499a20" ed="T"/></ab>
-<ab type="dharani">陀羅尼馱離輸婆摩帝求那伽囉鉢囉<lb
+<ab type='dharani'>陀羅尼馱離輸婆摩帝求那伽囉鉢囉<lb
  n="0499a21" ed="T"/>鉢泥摩呵若奴盧枳輸說羅達彌<lb
  n="0499a22" ed="T"/>薩底夜波羅底若摩訶耶那殊瑟󰣐<lb
  n="0499a23" ed="T"/>阿殊瑟󰣐盧歌㖿瑟󰣐婆伽婆帝佛陀<lb
@@ -590,7 +590,7 @@
  n="0499a25" ed="T"/>離施卑當婆離那茶羅婆私膩頭頭隷頭頭漏賒摩賒摩羶多摩<lb
  n="0499a27" ed="T"/>那賜<lb
  n="0499a28" ed="T"/></ab>
-<ab type="prose">除一切雨障莎呵。<lb
+<ab type='prose'>除一切雨障莎呵。<lb
  n="0499a29" ed="T"/>三世諸佛真實力故大慈心故。正行精進心<pb n="0499b" id="T19.0991.0499b" ed="T"/><lb
  n="0499b01" ed="T"/>故。勅召一切諸大龍王莎呵。<lb
  n="0499b02" ed="T"/>我勅無邊海莊嚴威德輪蓋龍王。於閻浮提<lb
@@ -632,7 +632,7 @@
  n="0499c09" ed="T"/>我勅是等一切龍王於閻浮提請雨國內。降<lb
  n="0499c10" ed="T"/>澍大雨訖。又說呪曰。<lb
  n="0499c11" ed="T"/></ab>
-<ab type="dharani">那祇那祇瞿羅摩柰賜那伽咥<lb
+<ab type='dharani'>那祇那祇瞿羅摩柰賜那伽咥<lb
  n="0499c12" ed="T"/>梨陀易頭摩鳩隷郁伽羅盂路曬波羅旃<lb
  n="0499c13" ed="T"/>陀低豉毘氀姞利阿尸毘師阿咥<lb
  n="0499c14" ed="T"/>瞿訖栗瑟那崩伽隷旃遮隷盧羅嗜薜摩訶頗那𠳷隷𠳷羅波<lb
@@ -650,7 +650,7 @@
  n="0499c27" ed="T"/>得迦紇唎摩訶那伽紇利陀曳瞿摩瞿摩瞿摩波耶頞悉低迦承伽<lb
  n="0500a02" ed="T"/>唎浮承伽彌毘迦吒僧迦吒瞿隷毘私孚盧闍泥毘折林婆泥<lb
  n="0500a04" ed="T"/></ab>
-<ab type="prose">我今召集此會一切諸龍王等。於閻浮提請<lb
+<ab type='prose'>我今召集此會一切諸龍王等。於閻浮提請<lb
  n="0500a05" ed="T"/>雨國內降澍大雨。一切諸佛如來力故。三世<lb
  n="0500a06" ed="T"/>諸佛真實力故。慈悲心故莎呵。<lb
  n="0500a07" ed="T"/>爾時世尊說此呪已告龍王言。若天旱時欲<lb
@@ -704,5 +704,5 @@
  n="0500b26" ed="T"/>定不虛。時諸龍王蒙佛教已。歡喜踊躍頂禮<lb
  n="0500b27" ed="T"/>奉行。<lb
  n="0500b28" ed="T"/>
-</ab><ab type="juan" subtype="close">大雲輪請雨經卷下</ab></div>
+</ab><ab type='juan' subtype='close'>大雲輪請雨經卷下</ab></div>
 </body></text></TEI>

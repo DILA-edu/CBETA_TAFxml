@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0031</idno>
                 </bibl>
@@ -41,12 +41,12 @@
     <text>
         <body><lb
  n="0813a03" ed="T"/><lb
- n="0813a04" ed="T"/><div type="jing" level="1"><lb
+ n="0813a04" ed="T"/><div type='jing' level='1'><lb
  n="0813a05" ed="T"/>
-<ab type="juan" subtype="open">佛說一切流攝守因經</ab><lb
+<ab type='juan' subtype='open'>佛說一切流攝守因經</ab><lb
  n="0813a06" ed="T"/><lb
  n="0813a07" ed="T"/><byline>後漢安息國三藏安世高譯</byline><lb
- n="0813a08" ed="T"/><ab type="prose">聞如是：一時，佛在拘留國留國聚會法議思<lb
+ n="0813a08" ed="T"/><ab type='prose'>聞如是：一時，佛在拘留國留國聚會法議思<lb
  n="0813a09" ed="T"/>惟。是時，佛告比丘：「比丘！」應：「唯然。」比丘便從<lb
  n="0813a10" ed="T"/>佛受教。佛便說是：「智者見者，比丘！為得流盡，<lb
  n="0813a11" ed="T"/>不智者不見者流不得盡。何等，比丘！智者見<lb
@@ -160,5 +160,5 @@
  n="0814b03" ed="T"/>逮得度世，捨縛結，得要離苦。」佛說是，從是聞<lb
  n="0814b04" ed="T"/>比丘，意受喜行，得度世竟得道。<lb
  n="0814b05" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說一切流攝守因經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說一切流攝守因經</ab></div>
 </body></text></TEI>

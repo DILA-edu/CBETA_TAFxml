@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1099</idno>
                 </bibl>
@@ -44,12 +44,12 @@
  n="0443b13" ed="T"/><lb
  n="0443b14" ed="T"/><lb
  n="0443b16" ed="T"/>
-<ab type="juan" subtype="open">佛說聖觀自在菩薩不空王祕密<lb
+<ab type='juan' subtype='open'>佛說聖觀自在菩薩不空王祕密<lb
  n="0443b17" ed="T"/>心陀羅尼經</ab><lb
  n="0443b18" ed="T"/><lb
  n="0443b19" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0443b20" ed="T"/>傳法大師賜紫臣施護等奉　詔譯</byline><lb
- n="0443b21" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞。一時世尊在補陀落迦山聖觀自<lb
+ n="0443b21" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞。一時世尊在補陀落迦山聖觀自<lb
  n="0443b22" ed="T"/>在菩薩宮中。彼有無數大娑羅樹。多摩羅樹<lb
  n="0443b23" ed="T"/>瞻波迦樹。阿輸迦樹阿提目多迦樹。如是等<lb
  n="0443b24" ed="T"/>種種寶樹而為嚴飾。與大苾芻眾一百八十<lb
@@ -154,7 +154,7 @@
  n="0444c07" ed="T"/>薩。歸命大智舍利子等諸阿羅漢。即說陀羅<lb
  n="0444c08" ed="T"/>尼曰。<lb
  n="0444c09" ed="T"/></ab>
-<ab type="dharani">那謨囉怛那怛囉夜野那莫<lb
+<ab type='dharani'>那謨囉怛那怛囉夜野那莫<lb
  n="0444c10" ed="T"/>阿哩也嚩路吉帝說囉野󰂛地薩<lb
  n="0444c11" ed="T"/>埵野摩賀薩埵野摩賀哥嚕尼哥<lb
  n="0444c12" ed="T"/>野伊毘踰那莫塞訖哩埵壹唐<lb
@@ -162,9 +162,9 @@
  n="0444c14" ed="T"/>蘭𧹞阿謨伽播商那摩紇哩<lb
  n="0444c15" ed="T"/>捺煬怛他誐多三目珂婆始檐摩訶怛<lb
  n="0444c16" ed="T"/>波哩沙那末提阿訶彌那泥摩嚩<lb
- n="0444c17" ed="T"/>哩多曳沙曳悉󰼌覩彌薩哩<lb
+ n="0444c17" ed="T"/>哩多曳沙曳悉𮊯覩彌薩哩<lb
  n="0444c18" ed="T"/>嚩哥哩也尼薩哩嚩婆曳數左<lb
- n="0444c19" ed="T"/>彌犖叉婆嚩覩怛󰍕他唵左囉左囉唧哩唧哩祖嚕祖嚕<lb
+ n="0444c19" ed="T"/>彌犖叉婆嚩覩怛𭔞他唵左囉左囉唧哩唧哩祖嚕祖嚕<lb
  n="0444c21" ed="T"/>摩賀哥嚕尼哥悉哩悉哩唧哩<lb
  n="0444c22" ed="T"/>唧哩尾哩尾哩摩賀鉢訥摩訶<lb
  n="0444c23" ed="T"/>薩多野葛羅葛羅枳里枳里酤<lb
@@ -203,7 +203,7 @@
  n="0445b05" ed="T"/>尾沙設塞怛囉波哩謨左<lb
  n="0445b06" ed="T"/>哥葛拏葛拏吉尼吉尼酤努<lb
  n="0445b07" ed="T"/>酤努左囉左囉印捺哩野末羅<lb
- n="0445b08" ed="T"/>謨󰼌誐左覩囉哩野薩爹三鉢<lb
+ n="0445b08" ed="T"/>謨𮊯誐左覩囉哩野薩爹三鉢<lb
  n="0445b09" ed="T"/>囉哥設哥怛摩怛摩捺摩捺<lb
  n="0445b10" ed="T"/>摩馱摩馱摩薩摩薩摩摩他<lb
  n="0445b11" ed="T"/>摩他薩摩薩摩摩賀怛謨馱哥<lb
@@ -224,38 +224,38 @@
  n="0445c05" ed="T"/>薩哩嚩設摩奴囉他波哩布囉<lb
  n="0445c06" ed="T"/>葛那謨窣覩底莎賀<lb
  n="0445c07" ed="T"/></ab>
-<ab type="prose">大心陀羅尼曰。<lb
+<ab type='prose'>大心陀羅尼曰。<lb
  n="0445c08" ed="T"/></ab>
-<ab type="dharani">阿謨伽野莎賀<lb
+<ab type='dharani'>阿謨伽野莎賀<lb
  n="0445c09" ed="T"/></ab>
-<ab type="prose">小心陀羅尼曰。<lb
+<ab type='prose'>小心陀羅尼曰。<lb
  n="0445c10" ed="T"/></ab>
-<ab type="dharani">阿𡁠多野莎賀<lb
+<ab type='dharani'>阿𡁠多野莎賀<lb
  n="0445c11" ed="T"/></ab>
-<ab type="prose">心中心陀羅尼曰。<lb
+<ab type='prose'>心中心陀羅尼曰。<lb
  n="0445c12" ed="T"/></ab>
-<ab type="dharani">嚩囉鉢囉捺野莎賀<lb
+<ab type='dharani'>嚩囉鉢囉捺野莎賀<lb
  n="0445c13" ed="T"/></ab>
-<ab type="prose">器仗陀羅尼曰。<lb
+<ab type='prose'>器仗陀羅尼曰。<lb
  n="0445c14" ed="T"/></ab>
-<ab type="dharani">阿波囉𡁠多野莎賀<lb
+<ab type='dharani'>阿波囉𡁠多野莎賀<lb
  n="0445c15" ed="T"/></ab>
-<ab type="prose">甲冑陀羅尼曰。<lb
+<ab type='prose'>甲冑陀羅尼曰。<lb
  n="0445c16" ed="T"/></ab>
-<ab type="dharani">伊唐葛哩摩酤嚕那謨窣覩底莎<lb
+<ab type='dharani'>伊唐葛哩摩酤嚕那謨窣覩底莎<lb
  n="0445c17" ed="T"/>賀<lb
  n="0445c18" ed="T"/></ab>
-<ab type="prose">頭頂陀羅尼曰。<lb
+<ab type='prose'>頭頂陀羅尼曰。<lb
  n="0445c19" ed="T"/></ab>
-<ab type="dharani">唵吽惹野莎賀<lb
+<ab type='dharani'>唵吽惹野莎賀<lb
  n="0445c20" ed="T"/></ab>
-<ab type="prose">髻陀羅尼曰。<lb
+<ab type='prose'>髻陀羅尼曰。<lb
  n="0445c21" ed="T"/></ab>
-<ab type="dharani">唵紇哩塞怛賴路吉也尾惹<lb
+<ab type='dharani'>唵紇哩塞怛賴路吉也尾惹<lb
  n="0445c22" ed="T"/>野阿謨伽播設野鉢囉底訶多<lb
  n="0445c23" ed="T"/>紇哩郝吽發吒<lb
  n="0445c24" ed="T"/></ab>
-<ab type="prose">世尊我此陀羅尼。悉能成就一切事業。若常<lb
+<ab type='prose'>世尊我此陀羅尼。悉能成就一切事業。若常<lb
  n="0445c25" ed="T"/>持誦者所作剋成。又若有人造五無間業。彼<lb
  n="0445c26" ed="T"/>人若能日三時中誦此陀羅尼。是諸業障悉得<lb
  n="0445c27" ed="T"/>清淨。若欲作結界法者。當以此陀羅尼加持<lb
@@ -325,5 +325,5 @@
  n="0446c05" ed="T"/>聲聞一切大會。聞佛所說皆大歡喜信受奉<lb
  n="0446c06" ed="T"/>行。<lb
  n="0446c07" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說聖觀自在菩薩不空王祕密心陀羅尼經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說聖觀自在菩薩不空王祕密心陀羅尼經</ab></div>
 </body></text></TEI>

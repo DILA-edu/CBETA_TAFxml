@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0567</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0939b05" ed="T"/><lb
  n="0939b06" ed="T"/><lb
  n="0939b07" ed="T"/>
-<ab type="juan" subtype="open">佛說梵志女首意經</ab><lb
+<ab type='juan' subtype='open'>佛說梵志女首意經</ab><lb
  n="0939b08" ed="T"/><lb
  n="0939b09" ed="T"/><byline>西晉月氏三藏竺法護譯</byline><lb
- n="0939b10" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時，佛遊波羅奈鹿苑仙人所止處<lb
+ n="0939b10" ed="T"/><div type='jing' level='1'><ab type='prose'>聞如是：一時，佛遊波羅奈鹿苑仙人所止處<lb
  n="0939b11" ed="T"/>而轉法輪，與大比丘眾五百人，無數菩薩俱，<lb
  n="0939b12" ed="T"/>諸異佛國各各來會。爾時世尊，晨旦整服，持<lb
  n="0939b13" ed="T"/>鉢入城而福一切。賢者阿難侍如常儀，大聖<lb
@@ -64,7 +64,7 @@
  n="0939b24" ed="T"/>佛足下，長跪白言：「善來！安住，願降聖尊屈<lb
  n="0939b25" ed="T"/>神臨眄。」佛垂慈愍入館就座。首意悅豫，重稽<lb
  n="0939b26" ed="T"/>首，而取小榻於佛前坐，進而啟曰：「唯，天中天！<lb
- n="0939b27" ed="T"/>曾聞如來遊波羅奈仙土鹿苑，為沙門、梵志、<lb
+ n="0939b27" ed="T"/>曾聞如來遊波羅奈仙士鹿苑，為沙門、梵志、<lb
  n="0939b28" ed="T"/>梵天、龍神，諸魔世人群生之疇，轉無上輪<lb
  n="0939b29" ed="T"/>興顯正法。」佛告梵女：「如是！如是！誠如所云，<pb n="0939c" ed="T" id="T14.0567.0939c"/><lb
  n="0939c01" ed="T"/>吾遊斯國轉無上輪，為諸未聞宣現正法，不<lb
@@ -79,7 +79,7 @@
  n="0939c10" ed="T"/>從六入因緣則便更習，從更習因緣則便有<lb
  n="0939c11" ed="T"/>痛，從痛因緣則便有愛，從愛因緣則便有受，<lb
  n="0939c12" ed="T"/>從受因緣則便有有，從有因緣則便致生，從<lb
- n="0939c13" ed="T"/>生從緣。致老病死，懃苦愁惱，大患集會。「如<lb
+ n="0939c13" ed="T"/>生因緣致老病死，懃苦愁惱，大患集會。「如<lb
  n="0939c14" ed="T"/>是，女！癡滅，識、行、名色，六入、更習，痛、愛、受、有、<lb
  n="0939c15" ed="T"/>生老病死滅，懃苦愁惱大患盡除。汝欲知吾<lb
  n="0939c16" ed="T"/>以是法故，於波羅奈仙士鹿苑，為諸沙門、<lb
@@ -174,5 +174,5 @@
  n="0940c18" ed="T"/>供養吾，當轉女身，然後得佛道度脫眾生。」佛<lb
  n="0940c19" ed="T"/>說如是，莫不歡喜。</ab></div><lb
  n="0940c20" ed="T"/>
-<ab type="juan" subtype="close">佛說梵志女首意經</ab>
+<ab type='juan' subtype='close'>佛說梵志女首意經</ab>
 </body></text></TEI>

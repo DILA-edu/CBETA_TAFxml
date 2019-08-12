@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T02</biblScope>
                     <idno type="Taisho">T02n0103</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0500a" ed="T" id="T02.0103.0500a"/><lb
  n="0500a01" ed="T"/><lb
  n="0500a02" ed="T"/><lb
- n="0500a03" ed="T"/><div type="jing" level="2"><lb
+ n="0500a03" ed="T"/><div type='jing' level='2'><lb
  n="0500a04" ed="T"/>
-<ab type="juan" subtype="open">佛說聖法印經</ab><lb
+<ab type='juan' subtype='open'>佛說聖法印經</ab><lb
  n="0500a05" ed="T"/><lb
  n="0500a06" ed="T"/><byline>西晉月氏國三藏竺法護譯</byline><lb
- n="0500a07" ed="T"/><ab type="prose">聞如是：一時佛在舍衛國祇樹給孤獨園。是<lb
+ n="0500a07" ed="T"/><ab type='prose'>聞如是：一時佛在舍衛國祇樹給孤獨園。是<lb
  n="0500a08" ed="T"/>時佛告諸比丘：「聽！」諸比丘：「唯諾受教。」佛言：<lb
  n="0500a09" ed="T"/>「當為汝說聖法印，所應威儀，現清淨行。諦<lb
  n="0500a10" ed="T"/>聽，善思念之。」佛言：「比丘！假使有人，說不求<lb
@@ -81,8 +81,8 @@
  n="0500b08" ed="T"/>聖法印，清淨之業，從始至終，究竟本末。」佛<lb
  n="0500b09" ed="T"/>說如是。諸比丘聞莫不歡喜，作禮而去。<lb
  n="0500b10" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說聖法印經</ab></div><lb
- n="0500b11" ed="T"/><div type="w" level="2"><ab type="prose">元康四年十二月二十五日，月支菩薩沙<lb
+</ab><ab type='juan' subtype='close'>佛說聖法印經</ab></div><lb
+ n="0500b11" ed="T"/><div type='w' level='2'><ab type='prose'>元康四年十二月二十五日，月支菩薩沙<lb
  n="0500b12" ed="T"/>門曇法護，於酒泉演出此經，弟子竺法首<lb
  n="0500b13" ed="T"/>筆受，令此深法普流十方大乘常光。</ab></div></div>
 </body></text></TEI>

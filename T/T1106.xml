@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1106</idno>
                 </bibl>
@@ -44,12 +44,12 @@
  n="0474b19" ed="T"/><lb
  n="0474b20" ed="T"/><lb
  n="0474b21" ed="T"/>
-<ab type="juan" subtype="open">讚揚聖德多羅菩薩一百八名經</ab><lb
+<ab type='juan' subtype='open'>讚揚聖德多羅菩薩一百八名經</ab><lb
  n="0474b22" ed="T"/><lb
  n="0474b23" ed="T"/><byline>西天中印度惹爛馱囉國密林寺<lb
  n="0474b24" ed="T"/>三藏明教大師賜紫沙門臣天息災<lb
  n="0474b25" ed="T"/>奉　詔譯</byline><lb
- n="0474b26" ed="T"/><div type="jing" level="1"><ab type="verse">
+ n="0474b26" ed="T"/><div type='jing' level='1'><ab type='verse'>
 一心歸命禮　　適悅最吉祥　　<lb
  n="0474b27" ed="T"/>補多羅迦山　　其界以種種　　<lb
  n="0474b28" ed="T"/>珍寶所嚴飾　　種種寶林樹　　<lb
@@ -107,7 +107,7 @@
  n="0475a22" ed="T"/>諸天等當知　　諦聽我今說　　<lb
  n="0475a23" ed="T"/>汝等深隨喜　　一百八名曰　　
 </ab><lb
- n="0475a24" ed="T"/><ab type="dharani">唵室哩迦理也抳麼賀帝惹<lb
+ n="0475a24" ed="T"/><ab type='dharani'>唵室哩迦理也抳麼賀帝惹<lb
  n="0475a25" ed="T"/>路迦馱怛哩摩賀野<lb
  n="0475a26" ed="T"/>捨薩囉娑嚩底尾娑洛乞<lb
  n="0475a27" ed="T"/>史鉢囉枳穰室哩沒地嚩<lb
@@ -153,7 +153,7 @@
  n="0475c18" ed="T"/>悉怛哩馱怛哩達難那娜阿婆野矯哆弭奔抳也室哩𤚥路計濕嚩囉麼<lb
  n="0475c21" ed="T"/>祖底<lb
  n="0475c22" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 以說此百八　　寂靜祕密名　　<lb
  n="0475c23" ed="T"/>能利諸有情　　希有祕福田　　<lb
  n="0475c24" ed="T"/>天上及人間　　亦甚難逢遇　　<lb
@@ -186,5 +186,5 @@
  n="0476a25" ed="T"/>恒親近諸佛　　
 </ab><lb
  n="0476a26" ed="T"/>
-<ab type="juan" subtype="close">讚揚聖德多羅菩薩一百八名經</ab></div>
+<ab type='juan' subtype='close'>讚揚聖德多羅菩薩一百八名經</ab></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1265</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0294a20" ed="T"/><lb
  n="0294a21" ed="T"/><lb
  n="0294a22" ed="T"/><lb
  n="0294a23" ed="T"/>
-<ab type="juan" subtype="open">佛說常瞿利毒女陀羅尼呪經</ab><lb
+<ab type='juan' subtype='open'>佛說常瞿利毒女陀羅尼呪經</ab><lb
  n="0294a24" ed="T"/><lb
  n="0294a25" ed="T"/><byline>瞿多三藏譯</byline><lb
- n="0294a26" ed="T"/><div type="jing" level="2"><ab type="prose">如是我聞。一時佛在舍衛國祇樹給孤獨園。<lb
+ n="0294a26" ed="T"/><div type='jing' level='2'><ab type='prose'>如是我聞。一時佛在舍衛國祇樹給孤獨園。<lb
  n="0294a27" ed="T"/>與大苾芻眾千二百五十人俱。及諸天龍藥<lb
  n="0294a28" ed="T"/>叉健闥婆阿脩羅迦樓羅緊那羅摩呼羅伽人<lb
  n="0294a29" ed="T"/>非人等共會說法。普為眾生開總持門。觀如<pb n="0294b" id="T21.1265.0294b" ed="T"/><lb
@@ -63,25 +63,25 @@
  n="0294b09" ed="T"/>彼女見我共相為。仁者應須聽。我常瞿利法<lb
  n="0294b10" ed="T"/>門能滅一切世間諸毒。即說呪曰。<lb
  n="0294b11" ed="T"/></ab>
-<ab type="dharani">怛姪他伊哩彌帝帝哩彌帝伊哩底里彌<lb
+<ab type='dharani'>怛姪他伊哩彌帝帝哩彌帝伊哩底里彌<lb
  n="0294b12" ed="T"/>底軟迷軟摩唎曳訥泚訥瑳唎曳吒羯囉拏縛<lb
  n="0294b13" ed="T"/>羯囉拏迦濕彌里迦濕彌羅穆吉帝惡祇儞惡<lb
  n="0294b14" ed="T"/>伽儞惡伽那伽儞伊哩曳惡伽曳惡波曳濕廢<lb
  n="0294b15" ed="T"/>帝濕廢多頓拏阿那怒洛叉鎖訶<lb
  n="0294b16" ed="T"/></ab>
-<ab type="prose">爾時常瞿利說此呪已。其雪山中有五千毒<lb
+<ab type='prose'>爾時常瞿利說此呪已。其雪山中有五千毒<lb
  n="0294b17" ed="T"/>惡龍蛇。聞此呪聲悉悶絕。一時頭破。鱗甲四<lb
  n="0294b18" ed="T"/>散。毒蛇牙落。頭皮星散。破破血流。悉皆自縛<lb
  n="0294b19" ed="T"/>不能動止。<lb
  n="0294b20" ed="T"/>爾時世尊觀此含識被呪毒故。便說心呪解<lb
  n="0294b21" ed="T"/>前毒。呪曰。<lb
  n="0294b22" ed="T"/></ab>
-<ab type="dharani">怛姪他壹哩彌哩哦囉彌哩斫俱盧斫俱崙哦<lb
+<ab type='dharani'>怛姪他壹哩彌哩哦囉彌哩斫俱盧斫俱崙哦<lb
  n="0294b23" ed="T"/>囉彌彌俱吒曳俱吒曳帝素普吒曳帝素普吒<lb
  n="0294b24" ed="T"/>曳帝那我黎那迦斫迦蘭底黎一車尾灑鷄怛<lb
  n="0294b25" ed="T"/>吒怛吒悉怛吒悉怛吒悉怛吒鎖訶<lb
  n="0294b26" ed="T"/></ab>
-<ab type="prose">爾時世尊說此呪已。一切毒龍□蝮蝎悉皆<lb
+<ab type='prose'>爾時世尊說此呪已。一切毒龍□蝮蝎悉皆<lb
  n="0294b27" ed="T"/>得活四散馳走□□□□毒不能行。是故吾<lb
  n="0294b28" ed="T"/>今告汝□□□□子。汝持此常瞿利毒女身<lb
  n="0294b29" ed="T"/>呪。不□高聲。於龍蛇前誦。其龍蛇聞必死。佛<pb n="0294c" id="T21.1265.0294c" ed="T"/><lb
@@ -165,6 +165,6 @@
  n="0295b23" ed="T"/><lb
  n="0295b24" ed="T"/>凡念誦人若出入觸處。應用觸護陀羅尼。<lb
  n="0295b25" ed="T"/></ab>
-<ab type="dharani">唵末日羅俱嚧馱吽惹</ab></div><lb
- n="0295b26" ed="T"/><div type="w" level="2"><ab type="prose">仁平二年八月三日於勸修寺書寫之</ab></div></div>
+<ab type='dharani'>唵末日羅俱嚧馱吽惹</ab></div><lb
+ n="0295b26" ed="T"/><div type='w' level='2'><ab type='prose'>仁平二年八月三日於勸修寺書寫之</ab></div></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1243</idno>
                 </bibl>
@@ -39,17 +39,17 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0207c" id="T21.1243.0207c" ed="T"/><lb
  n="0207c01" ed="T"/><lb
- n="0207c02" ed="T"/><div type="jing" level="2"><lb
+ n="0207c02" ed="T"/><div type='jing' level='2'><lb
  n="0207c03" ed="T"/>
-<ab type="juan" subtype="open">佛說出生一切如來法眼遍照大<lb
+<ab type='juan' subtype='open'>佛說出生一切如來法眼遍照大<lb
  n="0207c04" ed="T"/>力明王經卷上</ab><lb
  n="0207c05" ed="T"/><lb
  n="0207c06" ed="T"/><byline>西天中印度摩伽陀國那爛陀寺<lb
  n="0207c07" ed="T"/>三藏賜紫沙門臣法護奉　詔譯</byline><lb
- n="0207c08" ed="T"/><ab type="prose">如是我聞。一時世尊。在摩訶母質隣那山。於<lb
+ n="0207c08" ed="T"/><ab type='prose'>如是我聞。一時世尊。在摩訶母質隣那山。於<lb
  n="0207c09" ed="T"/>大寶樓閣中為眾說法。是時一切諸佛稱揚讚<lb
  n="0207c10" ed="T"/>歎。金剛手菩薩摩訶薩。於是彼眾俱來會坐。<lb
  n="0207c11" ed="T"/>彼於世尊普遍焰鬘蓮華座最初東邊而坐。<lb
@@ -76,7 +76,7 @@
  n="0208a03" ed="T"/>時世尊告金剛手祕密主言。祕密主若有持<lb
  n="0208a04" ed="T"/>此大教明王經。為說呪曰。<lb
  n="0208a05" ed="T"/></ab>
-<ab type="dharani">曩謨囉怛曩怛囉夜野曩莫室<lb
+<ab type='dharani'>曩謨囉怛曩怛囉夜野曩莫室<lb
  n="0208a06" ed="T"/>戰拏嚩日囉播拏伊摩賀藥叉細<lb
  n="0208a07" ed="T"/>曩鉢多伊唵枳離枳離嚩日囉計離枳<lb
  n="0208a08" ed="T"/>邏野　娑嚩賀唵耄㗚馱曩野<lb
@@ -152,13 +152,13 @@
  n="0208c29" ed="T"/>嬭娑嚩賀必哩體味娑嚩賀娑囉娑嚩諦娑嚩賀塢麼<lb
  n="0209a02" ed="T"/>儞味娑嚩賀<lb
  n="0209a03" ed="T"/></ab>
-<ab type="prose">如是此明呪。應於曼拏羅中安置大力明王。<lb
+<ab type='prose'>如是此明呪。應於曼拏羅中安置大力明王。<lb
  n="0209a04" ed="T"/>然後作觀密作護持。次當歸命頂禮一切佛<lb
  n="0209a05" ed="T"/>法僧。獨覺長老舍利弗聲聞眾等。歸命大牟<lb
  n="0209a06" ed="T"/>尼慈氏等一切大菩薩眾。頂禮正遍知覺者。<lb
  n="0209a07" ed="T"/>歸命持金剛并諸眷屬。復說真言曰。<lb
  n="0209a08" ed="T"/></ab>
-<ab type="dharani">怛　儞也他唵母寧摩賀母　寧摩<lb
+<ab type='dharani'>怛　儞也他唵母寧摩賀母　寧摩<lb
  n="0209a09" ed="T"/>賀母寧枳離枳離枳　攞尾計迦吒迦吒<lb
  n="0209a10" ed="T"/>三麼三麼扇哆扇哆難哆難哆地囉地囉<lb
  n="0209a11" ed="T"/>摩賀銘伽耨　㗚駄囉賀哩賀哩矩<lb
@@ -214,7 +214,7 @@
  n="0209c04" ed="T"/>曩謨嚩日囉陀囉野摩賀帝惹<lb
  n="0209c05" ed="T"/>野　娑嚩賀唵吽𠷑吒娑嚩賀<lb
  n="0209c06" ed="T"/></ab>
-<ab type="prose">此明王常以威德密為護持。一切所作悉皆<lb
+<ab type='prose'>此明王常以威德密為護持。一切所作悉皆<lb
  n="0209c07" ed="T"/>成就。爾時釋迦如來應正等覺。即於是時普<lb
  n="0209c08" ed="T"/>放焰鬘清淨光明。遍照三千大千世界。燒諸<lb
  n="0209c09" ed="T"/>魔王一切宮殿。熾焰周匝為一火聚燒盪無<lb
@@ -238,12 +238,12 @@
  n="0209c27" ed="T"/>自在無量威德勇猛大力真言。為欲利益安<lb
  n="0209c28" ed="T"/>樂天上人間一切眾生。即說呪曰。<lb
  n="0209c29" ed="T"/></ab>
-<ab type="dharani">唵嚩日囉骨嚕馱麼賀末攞賀<pb n="0210a" id="T21.1243.0210a" ed="T"/><lb
+<ab type='dharani'>唵嚩日囉骨嚕馱麼賀末攞賀<pb n="0210a" id="T21.1243.0210a" ed="T"/><lb
  n="0210a01" ed="T"/>曩那賀鉢左末他尾迦囉尾馱鑁娑野<lb
  n="0210a02" ed="T"/>惹胝攞攞耄那囉塢麁瑟麼骨嚕<lb
  n="0210a03" ed="T"/>馱吽𠷑吒娑嚩賀<lb
  n="0210a04" ed="T"/></ab>
-<ab type="prose">是時金剛手菩薩摩訶薩。白佛言世尊。若有<lb
+<ab type='prose'>是時金剛手菩薩摩訶薩。白佛言世尊。若有<lb
  n="0210a05" ed="T"/>善男子善女人。聞此正法受持讀誦廣為他<lb
  n="0210a06" ed="T"/>說。慇懃精進尊重供養。彼得一切曼拏攞中<lb
  n="0210a07" ed="T"/>灌頂得此真言。即能攝伏破壞一切呪術。<lb
@@ -262,7 +262,7 @@
  n="0210a20" ed="T"/>歡喜供養禮拜。時金剛手復說無量勇猛力<lb
  n="0210a21" ed="T"/>真。言即說呪曰。<lb
  n="0210a22" ed="T"/></ab>
-<ab type="dharani">唵吽吽吽吽𠷑𠷑𠷑𠷑屋　訖囉輸攞播抳吽吽吽吽𠷑𠷑𠷑𠷑　唵<lb
+<ab type='dharani'>唵吽吽吽吽𠷑𠷑𠷑𠷑屋　訖囉輸攞播抳吽吽吽吽𠷑𠷑𠷑𠷑　唵<lb
  n="0210a24" ed="T"/>蘇濟底寧曩那吽吽吽吽<lb
  n="0210a25" ed="T"/>唵唵唵唵𠷑𠷑𠷑𠷑曩謨麼賀嚩<lb
  n="0210a26" ed="T"/>攞野　娑嚩賀唵入嚩攞　入<lb
@@ -323,7 +323,7 @@
  n="0210c26" ed="T"/>婆誐挽尾儞也囉惹吽𠷑吒娑嚩<lb
  n="0210c27" ed="T"/>賀<lb
  n="0210c28" ed="T"/></ab>
-<ab type="prose">是諸六十二持金剛者。於一切時密為護持。<lb
+<ab type='prose'>是諸六十二持金剛者。於一切時密為護持。<lb
  n="0210c29" ed="T"/>若有受持讀誦此陀羅尼者。乃至天火彼能<pb n="0211a" id="T21.1243.0211a" ed="T"/><lb
  n="0211a01" ed="T"/>制伏。死者復蘇能敵冤魔。所求子息亦皆得<lb
  n="0211a02" ed="T"/>之。能列其地以一掬水用陀羅尼呪。能解一<lb
@@ -359,17 +359,17 @@
  n="0211b03" ed="T"/>如是言。此勝大福大威德大忿怒如是如是。<lb
  n="0211b04" ed="T"/>世尊此是大福是大威德是大忿怒。<lb
  n="0211b05" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說出生一切如來法眼遍照大力明王經卷<lb
+</ab><ab type='juan' subtype='close'>佛說出生一切如來法眼遍照大力明王經卷<lb
  n="0211b06" ed="T"/>上</ab><lb
  n="0211b07" ed="T"/><lb
  n="0211b08" ed="T"/><lb
  n="0211b09" ed="T"/>
-<ab type="juan" subtype="open">佛說出生一切如來法眼遍照大<lb
+<ab type='juan' subtype='open'>佛說出生一切如來法眼遍照大<lb
  n="0211b10" ed="T"/>力明王經卷下</ab><lb
  n="0211b11" ed="T"/><lb
  n="0211b12" ed="T"/><byline>西天中印度摩伽陀國那爛陀寺<lb
  n="0211b13" ed="T"/>三藏賜紫沙門臣法護奉　詔譯</byline><lb
- n="0211b14" ed="T"/><ab type="prose">爾時金剛手菩薩摩訶薩顧𥌊曼拏攞眾。目<lb
+ n="0211b14" ed="T"/><ab type='prose'>爾時金剛手菩薩摩訶薩顧𥌊曼拏攞眾。目<lb
  n="0211b15" ed="T"/>如師子威德自在。為伊舍那天步多主說大<lb
  n="0211b16" ed="T"/>力明王曼拏攞法。告言聖者若有入此大忿<lb
  n="0211b17" ed="T"/>怒曼拏攞中者。即能成就一切事業命無中<lb
@@ -473,7 +473,7 @@
  n="0212b28" ed="T"/>多羅三藐三菩提。爾時世尊復說此陀羅尼。<lb
  n="0212b29" ed="T"/>即說呪曰。<pb n="0212c" id="T21.1243.0212c" ed="T"/><lb
  n="0212c01" ed="T"/></ab>
-<ab type="dharani">曩謨囉怛曩怛囉夜野曩莫室<lb
+<ab type='dharani'>曩謨囉怛曩怛囉夜野曩莫室<lb
  n="0212c02" ed="T"/>戰拏嚩日囉播拏曳魔賀藥叉<lb
  n="0212c03" ed="T"/>細曩跋跢曳怛儞也他唵賀曩賀<lb
  n="0212c04" ed="T"/>曩嚩日囉那賀那賀嚩日囉末他末他<lb
@@ -495,7 +495,7 @@
  n="0212c20" ed="T"/>嚩喃佐洛　乞叉洛　乞叉娑<lb
  n="0212c21" ed="T"/>嚩悉釘婆𢱍覩<lb
  n="0212c22" ed="T"/></ab>
-<ab type="prose">佛告金剛手菩薩摩訶薩。一切魔王并諸眷<lb
+<ab type='prose'>佛告金剛手菩薩摩訶薩。一切魔王并諸眷<lb
  n="0212c23" ed="T"/>屬。聞此大力威德法時。各各心生恐怖悚慄<lb
  n="0212c24" ed="T"/>慞惶。如是以此大力忿怒明王威德力故。常<lb
  n="0212c25" ed="T"/>用護持一切眾生。作大安樂息諸災難。憐愍<lb
@@ -558,10 +558,10 @@
  n="0213b24" ed="T"/>切世間天人龍王。阿脩羅乾闥婆等。聞佛所<lb
  n="0213b25" ed="T"/>說歡喜而退。<lb
  n="0213b26" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說出生一切如來法眼遍照大力明王經卷<lb
+</ab><ab type='juan' subtype='close'>佛說出生一切如來法眼遍照大力明王經卷<lb
  n="0213b27" ed="T"/>下</ab></div><lb
- n="0213b28" ed="T"/><div type="w" level="2"><head>大力明王心真言</head><lb
- n="0213b29" ed="T"/><ab type="prose">怛　儞也他　唵　嚩日囉󱃥嚕<pb n="0213c" id="T21.1243.0213c" ed="T"/><lb
+ n="0213b28" ed="T"/><div type='w' level='2'><head>大力明王心真言</head><lb
+ n="0213b29" ed="T"/><ab type='prose'>怛　儞也他　唵　嚩日囉󱃥嚕<pb n="0213c" id="T21.1243.0213c" ed="T"/><lb
  n="0213c01" ed="T"/>馱摩賀麼攞賀曩那賀鉢左末他尾枳囉<lb
  n="0213c02" ed="T"/>尾特嚩娑野惹徵攞耄那羅塢麁澁麼󱃥嚕馱吽𠷑吒遏阿鴦惡<lb
  n="0213c04" ed="T"/>𤚥醯　娑嚩賀</ab></div></div>

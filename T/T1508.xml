@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T25</biblScope>
                     <idno type="Taisho">T25n1508</idno>
                 </bibl>
@@ -43,11 +43,11 @@
  n="0053a01" ed="T"/><lb
  n="0053a02" ed="T"/><lb
  n="0053a03" ed="T"/>
-<ab type="juan" subtype="open">阿含口解十二因緣經</ab><lb
+<ab type='juan' subtype='open'>阿含口解十二因緣經</ab><lb
  n="0053a04" ed="T"/><lb
  n="0053a05" ed="T"/><byline>後漢安息優婆塞都尉<lb
  n="0053a06" ed="T"/>安玄共沙門嚴佛調譯</byline><lb
- n="0053a07" ed="T"/><div type="jing" level="1"><ab type="prose">欲斷生死趣度世道者，當念却十二因緣。何<lb
+ n="0053a07" ed="T"/><div type='jing' level='1'><ab type='prose'>欲斷生死趣度世道者，當念却十二因緣。何<lb
  n="0053a08" ed="T"/>等為十二？一者本為癡，二者從癡為所作行，<lb
  n="0053a09" ed="T"/>三者從作行為所識，四者從所識為名色，五<lb
  n="0053a10" ed="T"/>者從名色為六衰，六者從六衰為所更，七者<lb
@@ -246,5 +246,5 @@
  n="0055a29" ed="T"/>三者多口舌；四者作姿態婬多。以是故墮地<pb n="0055b" ed="T" id="T25.1508.0055b"/><lb
  n="0055b01" ed="T"/>獄中多耳。」</ab></div><lb
  n="0055b02" ed="T"/>
-<ab type="juan" subtype="close">阿含口解十二因緣經</ab>
+<ab type='juan' subtype='close'>阿含口解十二因緣經</ab>
 </body></text></TEI>

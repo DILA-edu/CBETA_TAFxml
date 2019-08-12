@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1125</idno>
                 </bibl>
@@ -43,14 +43,14 @@
  n="0535b01" ed="T"/><lb
  n="0535b02" ed="T"/><lb
  n="0535b03" ed="T"/>
-<ab type="juan" subtype="open">金剛頂瑜伽金剛薩埵五祕密修<lb
+<ab type='juan' subtype='open'>金剛頂瑜伽金剛薩埵五祕密修<lb
  n="0535b04" ed="T"/>行念誦儀軌</ab><lb
  n="0535b05" ed="T"/><lb
  n="0535b06" ed="T"/><byline>開府儀同三司特進試鴻臚卿肅國<lb
  n="0535b07" ed="T"/>公食邑三千戶賜紫贈司空諡大鑒<lb
  n="0535b08" ed="T"/>正號大廣智大興善寺三藏沙門<lb
  n="0535b09" ed="T"/>不空奉　詔譯</byline><lb
- n="0535b10" ed="T"/><div type="jing" level="1"><ab type="prose">如金剛頂經百千頌十八會瑜伽。演頓證如<lb
+ n="0535b10" ed="T"/><div type='jing' level='1'><ab type='prose'>如金剛頂經百千頌十八會瑜伽。演頓證如<lb
  n="0535b11" ed="T"/>來內功德祕要。夫修行菩薩道。證成無上菩<lb
  n="0535b12" ed="T"/>提者。利益安樂一切有情以為妙道。一切有<lb
  n="0535b13" ed="T"/>情沈沒流轉五趣三界。若不入五部五密曼<lb
@@ -97,10 +97,10 @@
  n="0536a02" ed="T"/>押左。當結定印誦無上正等菩提心。真言<lb
  n="0536a03" ed="T"/>曰。<lb
  n="0536a04" ed="T"/></ab>
-<ab type="dharani">唵薩嚩喻誐唧多母答播<lb
+<ab type='dharani'>唵薩嚩喻誐唧多母答播<lb
  n="0536a05" ed="T"/>那野弭<lb
  n="0536a06" ed="T"/></ab>
-<ab type="prose">由誦此真言故。一切如來令瑜伽者。獲得不<lb
+<ab type='prose'>由誦此真言故。一切如來令瑜伽者。獲得不<lb
  n="0536a07" ed="T"/>退轉能摧一切魔冤。是人等同大菩薩及諸<lb
  n="0536a08" ed="T"/>如來。瑜伽者作是思惟。我應發金剛薩埵大<lb
  n="0536a09" ed="T"/>勇猛心。一切有情具如來藏性。普賢菩薩遍<lb
@@ -120,47 +120,47 @@
  n="0536a23" ed="T"/>以法界力。願一切有情速證清淨毘盧遮那<lb
  n="0536a24" ed="T"/>身誦真言曰。<lb
  n="0536a25" ed="T"/></ab>
-<ab type="dharani">唵薩嚩怛他誐多商斯跢薩<lb
+<ab type='dharani'>唵薩嚩怛他誐多商斯跢薩<lb
  n="0536a26" ed="T"/>嚩薩怛嚩南薩嚩悉馱藥三波<lb
  n="0536a27" ed="T"/>儞演怛他󰋲怛捨者地底瑟姹擔<lb
  n="0536a29" ed="T"/></ab>
-<ab type="prose">即結金剛合掌印。<pb n="0536b" id="T20.1125.0536b" ed="T"/><lb
+<ab type='prose'>即結金剛合掌印。<pb n="0536b" id="T20.1125.0536b" ed="T"/><lb
  n="0536b01" ed="T"/>二手掌合十指相交右押左誦真言曰。<lb
  n="0536b02" ed="T"/></ab>
-<ab type="dharani">唵嚩惹爛惹理<lb
+<ab type='dharani'>唵嚩惹爛惹理<lb
  n="0536b03" ed="T"/></ab>
-<ab type="prose">由結此印故。十波羅蜜圓滿。成就福德智慧<lb
+<ab type='prose'>由結此印故。十波羅蜜圓滿。成就福德智慧<lb
  n="0536b04" ed="T"/>二種資糧。<lb
  n="0536b05" ed="T"/>次結金剛縛印。准前金剛合掌。便外相叉<lb
  n="0536b06" ed="T"/>作拳誦真言曰。<lb
  n="0536b07" ed="T"/></ab>
-<ab type="dharani">唵嚩惹囉滿馱<lb
+<ab type='dharani'>唵嚩惹囉滿馱<lb
  n="0536b08" ed="T"/></ab>
-<ab type="prose">由結此印即成金剛解脫智。次結金剛縛。<lb
+<ab type='prose'>由結此印即成金剛解脫智。次結金剛縛。<lb
  n="0536b09" ed="T"/>三拍自心誦真言曰。<lb
  n="0536b10" ed="T"/></ab>
-<ab type="dharani">唵嚩惹囉滿馱怛囉吒<lb
+<ab type='dharani'>唵嚩惹囉滿馱怛囉吒<lb
  n="0536b11" ed="T"/></ab>
-<ab type="prose">由結此印故。能摧身心所覆蔽十種煩惱。則<lb
+<ab type='prose'>由結此印故。能摧身心所覆蔽十種煩惱。則<lb
  n="0536b12" ed="T"/>召一切印。處在身心。隨順行者成辦眾事。<lb
  n="0536b13" ed="T"/>一切印者。所謂大智印三昧耶智印法智印<lb
  n="0536b14" ed="T"/>羯磨智印。次結金剛阿尾舍印。二羽金剛<lb
  n="0536b15" ed="T"/>縛。屈禪智各置戒方間誦真言曰。<lb
  n="0536b16" ed="T"/></ab>
-<ab type="dharani">唵嚩惹囉吠奢惡<lb
+<ab type='dharani'>唵嚩惹囉吠奢惡<lb
  n="0536b17" ed="T"/></ab>
-<ab type="prose">由結此印。令四智印發揮。有大威力速得成<lb
+<ab type='prose'>由結此印。令四智印發揮。有大威力速得成<lb
  n="0536b18" ed="T"/>就。次結金剛拳三昧耶印。准前印屈進力捻<lb
  n="0536b19" ed="T"/>禪智背誦真言曰。<lb
  n="0536b20" ed="T"/></ab>
-<ab type="dharani">唵嚩惹囉母瑟置鑁<lb
+<ab type='dharani'>唵嚩惹囉母瑟置鑁<lb
  n="0536b21" ed="T"/></ab>
-<ab type="prose">由結此印。能縛堅固一切印常於行<lb
+<ab type='prose'>由結此印。能縛堅固一切印常於行<lb
  n="0536b22" ed="T"/>者身心之中而不散失。次結三昧耶印。二手<lb
  n="0536b23" ed="T"/>金剛縛。合竪二中指安於當心誦真言曰。<lb
  n="0536b24" ed="T"/></ab>
-<ab type="dharani">三每耶薩怛鑁</ab>
-<ab type="prose">結契誦真言<lb
+<ab type='dharani'>三每耶薩怛鑁</ab>
+<ab type='prose'>結契誦真言<lb
  n="0536b25" ed="T"/>已。於背後想有月輪以為圓光。身處其中。<lb
  n="0536b26" ed="T"/>想金剛薩埵。<lb
  n="0536b27" ed="T"/>由結此印及誦真言故。大智印等一切部中<lb
@@ -170,17 +170,17 @@
  n="0536c02" ed="T"/>願入掌相交合。檀慧禪智面相合。如獨股金<lb
  n="0536c03" ed="T"/>剛杵。以忍願觸於心上誦真言曰。<lb
  n="0536c04" ed="T"/></ab>
-<ab type="dharani">三每耶解素羅多薩怛鑁<lb
+<ab type='dharani'>三每耶解素羅多薩怛鑁<lb
  n="0536c05" ed="T"/></ab>
-<ab type="prose">由結此印觸心故。金剛薩埵遍入身心。速與<lb
+<ab type='prose'>由結此印觸心故。金剛薩埵遍入身心。速與<lb
  n="0536c06" ed="T"/>成就。意欲希望諸願皆得。次結金剛薩埵大<lb
  n="0536c07" ed="T"/>智印。即解次前印。二羽各作金剛拳。左手<lb
  n="0536c08" ed="T"/>置於胯。右手調擲金剛杵勢。置於心上。右<lb
  n="0536c09" ed="T"/>脚押左誦真言曰。<lb
  n="0536c10" ed="T"/></ab>
-<ab type="dharani">嚩惹囉薩怛舞憾<lb
+<ab type='dharani'>嚩惹囉薩怛舞憾<lb
  n="0536c11" ed="T"/></ab>
-<ab type="prose">誦已想自身為金剛薩埵。處大月輪坐大蓮<lb
+<ab type='prose'>誦已想自身為金剛薩埵。處大月輪坐大蓮<lb
  n="0536c12" ed="T"/>華。五佛寶冠。容貌熙怡身如月色。內外明<lb
  n="0536c13" ed="T"/>徹。生大悲愍拔濟無盡無餘眾生界。令得金<lb
  n="0536c14" ed="T"/>剛薩埵身。三密齊運量同虛空。<lb
@@ -193,19 +193,19 @@
  n="0536c21" ed="T"/>記。各戴五佛寶冠。瑜伽者專注身前金剛薩<lb
  n="0536c22" ed="T"/>埵。心不散動即誦真言曰。<lb
  n="0536c23" ed="T"/></ab>
-<ab type="dharani">嚩惹囉薩怛嚩惡<pb n="0537a" id="T20.1125.0537a" ed="T"/><lb
+<ab type='dharani'>嚩惹囉薩怛嚩惡<pb n="0537a" id="T20.1125.0537a" ed="T"/><lb
  n="0537a01" ed="T"/></ab>
-<ab type="prose">由誦此真言故。金剛薩埵當阿尾舍顯現。<lb
+<ab type='prose'>由誦此真言故。金剛薩埵當阿尾舍顯現。<lb
  n="0537a02" ed="T"/>次誦真言曰。<lb
  n="0537a03" ed="T"/></ab>
-<ab type="dharani">嚩惹囉薩怛嚩捺哩奢<lb
+<ab type='dharani'>嚩惹囉薩怛嚩捺哩奢<lb
  n="0537a04" ed="T"/></ab>
-<ab type="prose">由誦此真言故。令定中見金剛薩埵。了了分<lb
+<ab type='prose'>由誦此真言故。令定中見金剛薩埵。了了分<lb
  n="0537a05" ed="T"/>明。即誦四字明曰。<lb
  n="0537a06" ed="T"/></ab>
-<ab type="dharani">惹吽鑁斛<lb
+<ab type='dharani'>惹吽鑁斛<lb
  n="0537a07" ed="T"/></ab>
-<ab type="prose">由誦此真言故。金剛薩埵智身。令召令入<lb
+<ab type='prose'>由誦此真言故。金剛薩埵智身。令召令入<lb
  n="0537a08" ed="T"/>令嚩令喜。與瑜伽者定身交合一體。<lb
  n="0537a09" ed="T"/>次結素囉多印。二羽金剛縛。右大指入左虎<lb
  n="0537a10" ed="T"/>口中。乃於心額喉頂四處加持。各誦真言一<lb
@@ -218,99 +218,99 @@
  n="0537a17" ed="T"/>置頂右。次置頂後次置頂左。各誦真言一遍<lb
  n="0537a18" ed="T"/>真言曰。<lb
  n="0537a19" ed="T"/></ab>
-<ab type="dharani">唵薩嚩怛他󰋲多囉怛曩阿<lb
+<ab type='dharani'>唵薩嚩怛他󰋲多囉怛曩阿<lb
  n="0537a20" ed="T"/>毘灑迦惡<lb
  n="0537a21" ed="T"/></ab>
-<ab type="prose">由結此印故。獲得一切如來金剛薩埵灌頂<lb
+<ab type='prose'>由結此印故。獲得一切如來金剛薩埵灌頂<lb
  n="0537a22" ed="T"/>位。次結金剛鬘印。二羽金剛拳。額前相繞結。<lb
  n="0537a23" ed="T"/>二羽分。腦後又結。便從檀慧徐徐開。如垂<lb
  n="0537a24" ed="T"/>冠繒帛誦真言曰。<lb
  n="0537a25" ed="T"/></ab>
-<ab type="dharani">唵縛惹囉麼攞阿毘詵者𤚥鑁<lb
+<ab type='dharani'>唵縛惹囉麼攞阿毘詵者𤚥鑁<lb
  n="0537a26" ed="T"/></ab>
-<ab type="prose">即結甲冑印。遍身擐甲。次結歡喜印。二羽平<lb
+<ab type='prose'>即結甲冑印。遍身擐甲。次結歡喜印。二羽平<lb
  n="0537a27" ed="T"/>掌拍令歡喜誦真言曰。<lb
  n="0537a28" ed="T"/></ab>
-<ab type="dharani">嚩惹囉暏瑟耶斛<lb
+<ab type='dharani'>嚩惹囉暏瑟耶斛<lb
  n="0537a29" ed="T"/></ab>
-<ab type="prose">次結前金剛薩埵大智印誦根本真言曰。<pb n="0537b" id="T20.1125.0537b" ed="T"/><lb
+<ab type='prose'>次結前金剛薩埵大智印誦根本真言曰。<pb n="0537b" id="T20.1125.0537b" ed="T"/><lb
  n="0537b01" ed="T"/></ab>
-<ab type="dharani">唵摩賀素佉嚩惹囉薩怛嚩惹<lb
+<ab type='dharani'>唵摩賀素佉嚩惹囉薩怛嚩惹<lb
  n="0537b02" ed="T"/>吽鑁斛鑁斛素刺多薩但鑁<lb
  n="0537b03" ed="T"/></ab>
-<ab type="prose">次應結四祕密羯磨印。即誦金剛歌讚。此讚<lb
+<ab type='prose'>次應結四祕密羯磨印。即誦金剛歌讚。此讚<lb
  n="0537b04" ed="T"/>四句每結一印。當誦一句讚曰。<lb
  n="0537b05" ed="T"/></ab>
-<ab type="dharani">薩嚩弩囉誐素佉娑怛麼曩薩怛<lb
+<ab type='dharani'>薩嚩弩囉誐素佉娑怛麼曩薩怛<lb
  n="0537b06" ed="T"/>鑁嚩日囉薩怛縛鉢囉<lb
  n="0537b07" ed="T"/>莫素囉答婆嚩冥摩賀素佉涅<lb
- n="0537b08" ed="T"/>哩住掣野諾鉢囉底跛󰇄悉地<lb
+ n="0537b08" ed="T"/>哩住掣野諾鉢囉底跛𬽓悉地<lb
  n="0537b09" ed="T"/>也攞鉢曩多<lb
  n="0537b10" ed="T"/></ab>
-<ab type="prose">次作欲金剛印。二羽金剛拳。左羽想執弓。右<lb
+<ab type='prose'>次作欲金剛印。二羽金剛拳。左羽想執弓。右<lb
  n="0537b11" ed="T"/>羽持箭如射勢。即成此尊。印身稱真言曰。<lb
  n="0537b12" ed="T"/></ab>
-<ab type="dharani">薩嚩弩囉誐素佉薩怛摩曩娑<lb
+<ab type='dharani'>薩嚩弩囉誐素佉薩怛摩曩娑<lb
  n="0537b13" ed="T"/></ab>
-<ab type="prose">次結計里計羅。印准前印。二拳交抱於胸。即<lb
+<ab type='prose'>次結計里計羅。印准前印。二拳交抱於胸。即<lb
  n="0537b14" ed="T"/>成此尊。印身誦真言曰。<lb
  n="0537b15" ed="T"/></ab>
-<ab type="dharani">薩怛鑁嚩日囉薩怛嚩跛囉莫素<lb
+<ab type='dharani'>薩怛鑁嚩日囉薩怛嚩跛囉莫素<lb
  n="0537b16" ed="T"/>囉多<lb
  n="0537b17" ed="T"/></ab>
-<ab type="prose">次結愛金剛印。准前二金剛拳。左拳承右肘。<lb
+<ab type='prose'>次結愛金剛印。准前二金剛拳。左拳承右肘。<lb
  n="0537b18" ed="T"/>竪右臂如幢勢。即成此尊。印身誦真言曰。<lb
  n="0537b19" ed="T"/></ab>
-<ab type="dharani">薩嚩冥摩訶素佉涅里住掣野諾<lb
+<ab type='dharani'>薩嚩冥摩訶素佉涅里住掣野諾<lb
  n="0537b20" ed="T"/></ab>
-<ab type="prose">次結金剛慢印。二金剛拳各安𦜮。以頭向左<lb
+<ab type='prose'>次結金剛慢印。二金剛拳各安𦜮。以頭向左<lb
  n="0537b21" ed="T"/>小傾如禮勢。即成此尊。印身誦真言曰。<lb
  n="0537b22" ed="T"/></ab>
-<ab type="dharani">鉢囉底跛𠆙悉地也左攞虞鉢囉<lb
+<ab type='dharani'>鉢囉底跛𠆙悉地也左攞虞鉢囉<lb
  n="0537b23" ed="T"/>曩多<lb
  n="0537b24" ed="T"/></ab>
-<ab type="prose">次結五祕密三昧耶印。即結金剛薩埵三昧<lb
+<ab type='prose'>次結五祕密三昧耶印。即結金剛薩埵三昧<lb
  n="0537b25" ed="T"/>耶印。作金剛縛。屈忍願入掌相合如前。禪<lb
  n="0537b26" ed="T"/>智檀慧各相拄。如獨股金剛杵。誦真言曰。<lb
  n="0537b27" ed="T"/></ab>
-<ab type="dharani">素喇多薩怛鑁<lb
+<ab type='dharani'>素喇多薩怛鑁<lb
  n="0537b28" ed="T"/></ab>
-<ab type="prose">由結此印誦真言故。神通壽命威力相好。等<lb
+<ab type='prose'>由結此印誦真言故。神通壽命威力相好。等<lb
  n="0537b29" ed="T"/>同金剛薩埵。<pb n="0537c" id="T20.1125.0537c" ed="T"/><lb
  n="0537c01" ed="T"/>次結欲金剛三昧耶印。准前印屈進力上節。<lb
  n="0537c02" ed="T"/>甲背相合。以禪智並押其上誦真言曰。<lb
  n="0537c03" ed="T"/></ab>
-<ab type="dharani">惹嚩惹囉捺哩瑟致娑<lb
+<ab type='dharani'>惹嚩惹囉捺哩瑟致娑<lb
  n="0537c04" ed="T"/>野計麼吒<lb
  n="0537c05" ed="T"/></ab>
-<ab type="prose">由結此印故。能斷微細無明住地煩惱。即結<lb
+<ab type='prose'>由結此印故。能斷微細無明住地煩惱。即結<lb
  n="0537c06" ed="T"/>計里計羅三昧耶印。准前印右智押左禪相<lb
  n="0537c07" ed="T"/>交誦真言曰。<lb
  n="0537c08" ed="T"/></ab>
-<ab type="dharani">吽嚩惹囉計理抧犁吽<lb
+<ab type='dharani'>吽嚩惹囉計理抧犁吽<lb
  n="0537c09" ed="T"/></ab>
-<ab type="prose">由結此印故。能拔濟護持一切受苦眾生界。<lb
+<ab type='prose'>由結此印故。能拔濟護持一切受苦眾生界。<lb
  n="0537c10" ed="T"/>皆獲大安樂三摩地。<lb
  n="0537c11" ed="T"/>次結愛金剛三昧耶印。准前印進力互相握<lb
  n="0537c12" ed="T"/>忍願。進力並合如眼勢。竪戒方相合。檀慧亦<lb
  n="0537c13" ed="T"/>然誦真言曰。<lb
  n="0537c14" ed="T"/></ab>
-<ab type="dharani">鑁嚩惹哩抳娑麼囉喇吒<lb
+<ab type='dharani'>鑁嚩惹哩抳娑麼囉喇吒<lb
  n="0537c15" ed="T"/></ab>
-<ab type="prose">由結此印故。獲得大悲解脫。憐愍一切有情<lb
+<ab type='prose'>由結此印故。獲得大悲解脫。憐愍一切有情<lb
  n="0537c16" ed="T"/>猶如一子。皆起拔濟安樂之心。<lb
  n="0537c17" ed="T"/>次結金剛慢三昧耶印。用次准前觸其二股<pb n="0538a" id="T20.1125.0538a" ed="T"/><lb
  n="0538a01" ed="T"/>先右次左誦真言曰。<lb
  n="0538a02" ed="T"/></ab>
-<ab type="dharani">斛嚩惹囉迦迷濕拂哩怛<lb
+<ab type='dharani'>斛嚩惹囉迦迷濕拂哩怛<lb
  n="0538a03" ed="T"/>囕<lb
  n="0538a04" ed="T"/></ab>
-<ab type="prose">由結此印故。獲得大精進波羅蜜。剎那能於<lb
+<ab type='prose'>由結此印故。獲得大精進波羅蜜。剎那能於<lb
  n="0538a05" ed="T"/>無邊世界一切如來所。作廣大供養。<lb
  n="0538a06" ed="T"/>次住金剛薩埵三昧耶。誦印大乘現證百<lb
  n="0538a07" ed="T"/>字真言曰。<lb
  n="0538a08" ed="T"/></ab>
-<ab type="dharani">唵嚩日囉薩怛嚩三麼耶麼弩播攞<lb
+<ab type='dharani'>唵嚩日囉薩怛嚩三麼耶麼弩播攞<lb
  n="0538a09" ed="T"/>野嚩日囉薩怛嚩底尾弩跛底瑟<lb
  n="0538a10" ed="T"/>姹涅哩住弭婆嚩素覩史喻冥<lb
  n="0538a11" ed="T"/>婆嚩阿弩囉訖覩冥婆嚩素補史喻<lb
@@ -320,12 +320,12 @@
  n="0538a15" ed="T"/>悶左嚩日哩婆縛摩訶三摩耶薩怛<lb
  n="0538a16" ed="T"/>嚩惡<lb
  n="0538a17" ed="T"/></ab>
-<ab type="prose">即入金剛薩埵三摩地。并結大智印。誦大乘<lb
+<ab type='prose'>即入金剛薩埵三摩地。并結大智印。誦大乘<lb
  n="0538a18" ed="T"/>現證金剛薩埵真言曰。<lb
  n="0538a19" ed="T"/></ab>
-<ab type="dharani">嚩惹囉薩怛嚩<lb
+<ab type='dharani'>嚩惹囉薩怛嚩<lb
  n="0538a20" ed="T"/></ab>
-<ab type="prose">或住大智印。或持數珠無限念誦。勿令疲頓。<lb
+<ab type='prose'>或住大智印。或持數珠無限念誦。勿令疲頓。<lb
  n="0538a21" ed="T"/>由住三摩地誦此真言故。現世證得無量三<lb
  n="0538a22" ed="T"/>摩地。亦能成本尊之身。一切如來現前。證得<lb
  n="0538a23" ed="T"/>五神通。遊歷十方一切世界。廣作無邊有情<lb
@@ -335,11 +335,11 @@
  n="0538a27" ed="T"/>來菩提心。是一切如來祖師。是故一切如來。<lb
  n="0538a28" ed="T"/>禮敬金剛薩埵。如經所說。<lb
  n="0538a29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 金剛薩埵三摩地　　名為一切諸佛法　　<pb n="0538b" id="T20.1125.0538b" ed="T"/><lb
  n="0538b01" ed="T"/>此法能成諸佛道　　若離此更無有佛　　
 </ab><lb
- n="0538b02" ed="T"/><ab type="prose">欲金剛者。名為般若波羅蜜。能通達一切佛<lb
+ n="0538b02" ed="T"/><ab type='prose'>欲金剛者。名為般若波羅蜜。能通達一切佛<lb
  n="0538b03" ed="T"/>法。無滯無礙猶如金剛能出生諸佛。金剛計<lb
  n="0538b04" ed="T"/>里計羅者。是虛空藏三摩地。與無邊眾生安<lb
  n="0538b05" ed="T"/>樂。拯拔無邊眾生溺貧匱泥者。所求世出世<lb
@@ -416,6 +416,6 @@
  n="0539a18" ed="T"/>剛以為增上緣。能證毘盧遮那清淨三身果<lb
  n="0539a19" ed="T"/>位。<lb
  n="0539a20" ed="T"/>
-</ab><ab type="juan" subtype="close">金剛頂瑜伽金剛薩埵五祕密修行念誦儀<lb
+</ab><ab type='juan' subtype='close'>金剛頂瑜伽金剛薩埵五祕密修行念誦儀<lb
  n="0539a21" ed="T"/>軌</ab></div>
 </body></text></TEI>

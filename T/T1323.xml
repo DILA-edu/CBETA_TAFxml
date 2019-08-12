@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1323</idno>
                 </bibl>
@@ -42,25 +42,25 @@
         <body><lb
  n="0489c03" ed="T"/><lb
  n="0489c04" ed="T"/><lb
- n="0489c05" ed="T"/><div type="jing" level="1"><lb
+ n="0489c05" ed="T"/><div type='jing' level='1'><lb
  n="0489c06" ed="T"/>
-<ab type="juan" subtype="open">除一切疾病陀羅尼經</ab><lb
+<ab type='juan' subtype='open'>除一切疾病陀羅尼經</ab><lb
  n="0489c07" ed="T"/><lb
  n="0489c08" ed="T"/><byline>開府儀同三司特進試鴻臚卿肅國<lb
  n="0489c09" ed="T"/>公食邑三千戶賜紫贈司空諡大鑑<lb
  n="0489c10" ed="T"/>正號大廣智大興善寺三藏沙門<lb
  n="0489c11" ed="T"/>不空奉　詔譯</byline><lb
- n="0489c12" ed="T"/><ab type="prose">如是我聞。一時薄伽梵。住室羅伐城逝多<lb
+ n="0489c12" ed="T"/><ab type='prose'>如是我聞。一時薄伽梵。住室羅伐城逝多<lb
  n="0489c13" ed="T"/>林給孤長者園。與大苾芻眾千二百五十人<lb
  n="0489c14" ed="T"/>俱。眾多諸大菩薩摩訶薩。爾時世尊告阿難<lb
  n="0489c15" ed="T"/>陀言。阿難陀有陀羅尼。能除世間一切疾病。<lb
  n="0489c16" ed="T"/>汝當受持讀誦通利如理作意。即說密言曰。<lb
  n="0489c17" ed="T"/></ab>
-<ab type="dharani">怛儞也他尾摩黎尾摩黎嚩曩俱枳黎<lb
+<ab type='dharani'>怛儞也他尾摩黎尾摩黎嚩曩俱枳黎<lb
  n="0489c18" ed="T"/>室唎末底軍拏黎嫩奴鼻印<lb
  n="0489c19" ed="T"/>捺囉儗𩕳母隷娑嚩訶<lb
  n="0489c20" ed="T"/></ab>
-<ab type="prose">佛告阿難陀。此陀羅尼若誦持者。宿食不消<lb
+<ab type='prose'>佛告阿難陀。此陀羅尼若誦持者。宿食不消<lb
  n="0489c21" ed="T"/>癨亂風黃痰癊。患痔瘻淋上氣。嗽虐寒熱<lb
  n="0489c22" ed="T"/>頭痛半痛。著鬼魅者悉得除差。我以佛眼觀<lb
  n="0489c23" ed="T"/>見彼人。諸天魔梵沙門婆羅門能作障難。除<lb
@@ -73,5 +73,5 @@
  n="0490a01" ed="T"/>訶薩。一切大眾天龍八部。受持佛語歡喜奉<lb
  n="0490a02" ed="T"/>行。<lb
  n="0490a03" ed="T"/>
-</ab><ab type="juan" subtype="close">除一切疾病陀羅尼經</ab></div>
+</ab><ab type='juan' subtype='close'>除一切疾病陀羅尼經</ab></div>
 </body></text></TEI>

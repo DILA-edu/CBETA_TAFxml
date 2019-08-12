@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0038</idno>
                 </bibl>
@@ -43,13 +43,13 @@
  n="0821a14" ed="T"/><lb
  n="0821a15" ed="T"/><lb
  n="0821a16" ed="T"/><lb
- n="0821a17" ed="T"/><div type="jing" level="1"><lb
+ n="0821a17" ed="T"/><div type='jing' level='1'><lb
  n="0821a18" ed="T"/>
-<ab type="juan" subtype="open">佛說輪王七寶經</ab><lb
+<ab type='juan' subtype='open'>佛說輪王七寶經</ab><lb
  n="0821a19" ed="T"/><lb
  n="0821a20" ed="T"/><byline>西天譯經三藏朝奉大夫試鴻臚卿<lb
  n="0821a21" ed="T"/>傳法大師臣施護奉　詔譯</byline><lb
- n="0821a22" ed="T"/><ab type="prose">如是我聞：一時，佛在舍衛國，與大芻苾眾俱。<lb
+ n="0821a22" ed="T"/><ab type='prose'>如是我聞：一時，佛在舍衛國，與大芻苾眾俱。<lb
  n="0821a23" ed="T"/>是時佛告諸苾芻言：「汝等當知，有剎帝利大<lb
  n="0821a24" ed="T"/>灌頂王——已受灌頂得輪王位，威德自在人所<lb
  n="0821a25" ed="T"/>尊重——出現世間，其王出時有七寶現。何等為<lb
@@ -152,5 +152,5 @@
  n="0822b06" ed="T"/>覺支法，令諸眾生如理修行，一切皆得安樂<lb
  n="0822b07" ed="T"/>利益，汝等當勤如是修學。」<lb
  n="0822b08" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說輪王七寶經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說輪王七寶經</ab></div>
 </body></text></TEI>

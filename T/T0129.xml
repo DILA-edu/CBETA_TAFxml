@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T02</biblScope>
                     <idno type="Taisho">T02n0129</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0843a22" ed="T"/><lb
  n="0843a23" ed="T"/><lb
- n="0843a24" ed="T"/><div type="jing" level="1"><lb
+ n="0843a24" ed="T"/><div type='jing' level='1'><lb
  n="0843a25" ed="T"/>
-<ab type="juan" subtype="open">佛說三摩竭經</ab><lb
+<ab type='juan' subtype='open'>佛說三摩竭經</ab><lb
  n="0843a26" ed="T"/><lb
  n="0843a27" ed="T"/><byline>吳天竺沙門竺律炎譯</byline><lb
- n="0843a28" ed="T"/><ab type="prose">聞如是：一時，佛在舍衛國祇樹給孤獨園，與<lb
+ n="0843a28" ed="T"/><ab type='prose'>聞如是：一時，佛在舍衛國祇樹給孤獨園，與<lb
  n="0843a29" ed="T"/>千二百五十比丘、五百菩薩俱，帝王人民及<pb n="0843b" ed="T" id="T02.0129.0843b"/><lb
  n="0843b01" ed="T"/>諸天龍鬼神無復央數。爾時，有難國王名分<lb
  n="0843b02" ed="T"/>陂檀，不信佛法但好外道，日於宮中飯諸尼<lb
@@ -253,5 +253,5 @@
  n="0845b28" ed="T"/>難國王及夫人、太子、群臣、人民，皆大歡喜，悉<lb
  n="0845b29" ed="T"/>持頭著地，遙為佛作禮。<pb n="0845c" ed="T" id="T02.0129.0845c"/><lb
  n="0845c01" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說三摩竭經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說三摩竭經</ab></div>
 </body></text></TEI>

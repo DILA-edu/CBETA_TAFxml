@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0069</idno>
                 </bibl>
@@ -46,13 +46,13 @@
  n="0872a14" ed="T"/><lb
  n="0872a15" ed="T"/><lb
  n="0872a16" ed="T"/><lb
- n="0872a17" ed="T"/><div type="jing" level="1"><lb
+ n="0872a17" ed="T"/><div type='jing' level='1'><lb
  n="0872a18" ed="T"/>
-<ab type="juan" subtype="open">佛說護國經</ab><lb
+<ab type='juan' subtype='open'>佛說護國經</ab><lb
  n="0872a19" ed="T"/><lb
  n="0872a20" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0872a21" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
- n="0872a22" ed="T"/><ab type="prose">如是我聞：一時，世尊在俱盧城，出遊化利漸<lb
+ n="0872a22" ed="T"/><ab type='prose'>如是我聞：一時，世尊在俱盧城，出遊化利漸<lb
  n="0872a23" ed="T"/>漸至于覩羅聚落，與大苾芻眾安止其中。時，<lb
  n="0872a24" ed="T"/>彼聚落有婆羅門大長者等，互相議曰：「此大<lb
  n="0872a25" ed="T"/>沙門瞿曇！棄捨王位出家為道，果滿圓明名<lb
@@ -173,13 +173,13 @@
  n="0873b24" ed="T"/>正法，令起悅心而生道意，復以神通住虛空<lb
  n="0873b25" ed="T"/>中，說伽陀曰：<lb
  n="0873b26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「觀此畫色像，　　以眾寶莊嚴，　　<lb
  n="0873b27" ed="T"/>愚迷所執著，　　智者常遠離。　　<lb
  n="0873b28" ed="T"/>貪欲如繩索，　　能縛於世間，　　<lb
  n="0873b29" ed="T"/>愚者所迷惑，　　智者常遠離。」　　
 </ab><pb n="0873c" ed="T" id="T01.0069.0873c"/><lb
- n="0873c01" ed="T"/><ab type="prose">是時，尊者說伽陀已，從空而降，還大樹下安<lb
+ n="0873c01" ed="T"/><ab type='prose'>是時，尊者說伽陀已，從空而降，還大樹下安<lb
  n="0873c02" ed="T"/>止而住。<lb
  n="0873c03" ed="T"/>爾時，有王名曰俱盧，駕幸遊外將近覩羅聚<lb
  n="0873c04" ed="T"/>落之側，侍臣奏曰：「大王！當知，此聚落中有長<lb
@@ -274,7 +274,7 @@
  n="0874c06" ed="T"/>應善聽。」王言：「甚善願樂欲聞。」是時，尊者說伽<lb
  n="0874c07" ed="T"/>陀曰：<lb
  n="0874c08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「我見世間人，　　貪愛而積聚，　　<lb
  n="0874c09" ed="T"/>因財故得難，　　轉增於諸欲。　　<lb
  n="0874c10" ed="T"/>王主領國邑，　　廣闊極海邊，　　<lb
@@ -298,7 +298,7 @@
  n="0874c28" ed="T"/>欲能壞能縛，　　生苦增諸怖，　　<lb
  n="0874c29" ed="T"/>見世間幻法，　　是故我出家。」　　
 </ab><pb n="0875a" ed="T" id="T01.0069.0875a"/><lb
- n="0875a01" ed="T"/><ab type="prose">爾時，俱盧大王聞尊者說伽陀已，歡喜信受<lb
+ n="0875a01" ed="T"/><ab type='prose'>爾時，俱盧大王聞尊者說伽陀已，歡喜信受<lb
  n="0875a02" ed="T"/>而復白言：「護國尊者能善出離，是故，我今歸<lb
  n="0875a03" ed="T"/>依尊者。」護國告言：「大王！勿歸依於我，我所歸<lb
  n="0875a04" ed="T"/>依是佛世尊及法、僧眾，王當歸依。」王言：「如<lb
@@ -306,5 +306,5 @@
  n="0875a06" ed="T"/>塞戒。」是時，大王作誓願已，禮奉尊者，還復王<lb
  n="0875a07" ed="T"/>宮。<lb
  n="0875a08" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說護國經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說護國經</ab></div>
 </body></text></TEI>

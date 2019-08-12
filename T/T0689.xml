@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T16</biblScope>
                     <idno type="Taisho">T16n0689</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0782a05" ed="T"/><lb
  n="0782a06" ed="T"/><lb
  n="0782a07" ed="T"/>
-<ab type="juan" subtype="open">甚希有經</ab><lb
+<ab type='juan' subtype='open'>甚希有經</ab><lb
  n="0782a08" ed="T"/><lb
  n="0782a09" ed="T"/><byline>大唐三藏法師玄奘奉　詔譯</byline><lb
- n="0782a10" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時，薄伽梵在王舍城，住鷲峯山，<lb
+ n="0782a10" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時，薄伽梵在王舍城，住鷲峯山，<lb
  n="0782a11" ed="T"/>與大苾芻眾千二百五十人俱，及無量菩薩<lb
  n="0782a12" ed="T"/>諸天人等。爾時，尊者阿難於日初分為乞食<lb
  n="0782a13" ed="T"/>故，著衣持鉢入王舍城，次第行乞。遙見一所<lb
@@ -95,7 +95,7 @@
  n="0782b26" ed="T"/>甚多。善逝！」爾時，世尊復告阿難：「且置此方<lb
  n="0782b27" ed="T"/>南贍部洲，於此東方毘提訶洲，縱廣周匝八<lb
  n="0782b28" ed="T"/>千踰繕那，形如半月，人面亦爾。假使於中合<lb
- n="0782b29" ed="T"/>為一段，成甘蔗林，或蘆葦林，或竹林等，或復<pb n="0782c" ed="T" id="T16.0689.0782c"/><lb
+ n="0782b29" ed="T"/>為一段，或甘蔗林，或蘆葦林，或竹林等，或復<pb n="0782c" ed="T" id="T16.0689.0782c"/><lb
  n="0782c01" ed="T"/>稻田、胡麻田等，側塞充滿無有間隙。如是假<lb
  n="0782c02" ed="T"/>使遍彼東方毘提訶洲，或預流果、或一來果、<lb
  n="0782c03" ed="T"/>或不還果、或阿羅漢、或諸獨覺，側塞充滿亦<lb
@@ -136,12 +136,12 @@
  n="0783a09" ed="T"/>「甚多。世尊！甚多。善逝！」<lb
  n="0783a10" ed="T"/>爾時，世尊復告阿難：「且置北方大俱盧洲，天<lb
  n="0783a11" ed="T"/>主帝釋有大層臺，其臺依止八萬四千眾妙<lb
- n="0783a12" ed="T"/>寶柱，一一寶柱，籠以種種天青、琉璃、妙寶、珠<lb
+ n="0783a12" ed="T"/>寶柱，一一寶柱，籠以種種天青琉璃、妙寶、珠<lb
  n="0783a13" ed="T"/>網，布以金砂，灑以香水。此臺周匝八萬四<lb
- n="0783a14" ed="T"/>千妙寶窓牖，一一窓牖，垂以種種天青、琉<lb
+ n="0783a14" ed="T"/>千妙寶窓牖，一一窓牖，垂以種種天青琉<lb
  n="0783a15" ed="T"/>璃、妙寶、珠簾，布以金砂，灑以香水。此臺復有<lb
  n="0783a16" ed="T"/>八萬四千眾妙寶敵，一一寶敵覆以種種<lb
- n="0783a17" ed="T"/>天青、琉璃、妙法、珠網，布以金砂，灑以香水。假<lb
+ n="0783a17" ed="T"/>天青琉璃、妙寶、珠網，布以金砂，灑以香水。假<lb
  n="0783a18" ed="T"/>使若有諸善男子或善女人，造妙層閣高廣<lb
  n="0783a19" ed="T"/>嚴麗，似天帝釋妙寶層臺，奉施四方大德僧<lb
  n="0783a20" ed="T"/>眾。汝意云何？是善男子或善女人，由此因<lb
@@ -178,5 +178,5 @@
  n="0783b22" ed="T"/>量菩薩，及諸天、人、阿素洛等，聞佛所說，皆大<lb
  n="0783b23" ed="T"/>歡喜，信受奉行。</ab></div><lb
  n="0783b24" ed="T"/>
-<ab type="juan" subtype="close">甚希有經</ab>
+<ab type='juan' subtype='close'>甚希有經</ab>
 </body></text></TEI>

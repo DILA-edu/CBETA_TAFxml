@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0448b</idno>
                 </bibl>
@@ -39,20 +39,20 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0393c" ed="T" id="T14.0448b.0393c"/><lb
  n="0393c01" ed="T"/><lb
  n="0393c02" ed="T"/>
-<ab type="juan" subtype="open">未來星宿劫千佛名經</ab><lb
+<ab type='juan' subtype='open'>未來星宿劫千佛名經</ab><lb
  n="0393c03" ed="T"/><lb
  n="0393c04" ed="T"/><byline>開元拾遺附梁錄</byline><lb
- n="0393c05" ed="T"/><div type="jing" level="2"><ab type="prose">夫修善福臻，為惡禍徵；明理皎然，而信悟者<lb
+ n="0393c05" ed="T"/><div type='jing' level='2'><ab type='prose'>夫修善福臻，為惡禍徵；明理皎然，而信悟者<lb
  n="0393c06" ed="T"/>鮮。既共生此五濁惡世，五陰煩惱、三毒熾盛，<lb
  n="0393c07" ed="T"/>輪轉生死無有竟已。昔佛在世時，人民數如<lb
  n="0393c08" ed="T"/>恒沙，今漸凋微萬不遺一。何以故爾？為善者<lb
  n="0393c09" ed="T"/>少，作惡者多，死墮三塗，悉為魚蟲畜生，不復<lb
  n="0393c10" ed="T"/>得人身。故《法華經》云：「三惡道充滿，天人眾減<lb
- n="0393c11" ed="T"/>少，劫盡不久，長衰可悲。」是以如來，隨方教化，<lb
+ n="0393c11" ed="T"/>少。」劫盡不久，長衰可悲。是以如來，隨方教化，<lb
  n="0393c12" ed="T"/>敦慈尚善，不悋軀命，勤行精進，可得勉度。禮<lb
  n="0393c13" ed="T"/>拜俄頃之勞，能却無量劫罪。罪滅福生，以致<lb
  n="0393c14" ed="T"/>無為。此未來星宿劫中，當有千佛出世，名字<lb
@@ -513,8 +513,8 @@
  n="0399a05" ed="T"/>眾生悉生彼剎。生彼剎已，身諸相好、智慧辯<lb
  n="0399a06" ed="T"/>才，如眾世尊阿彌陀佛，所獲果報亦如世尊。</ab></div><lb
  n="0399a07" ed="T"/>
-<ab type="juan" subtype="close">未來星宿劫千佛名經</ab><lb
- n="0399a08" ed="T"/><div type="w" level="2"><ab type="prose">○存疑　第七十八紙右第七行第三佛遠<lb
+<ab type='juan' subtype='close'>未來星宿劫千佛名經</ab><lb
+ n="0399a08" ed="T"/><div type='w' level='2'><ab type='prose'>○存疑　第七十八紙右第七行第三佛遠<lb
  n="0399a09" ed="T"/>上方，并同紙左第十九行第一佛顯上方，<lb
  n="0399a10" ed="T"/>恐無誤。</ab></div></div>
 </body></text></TEI>

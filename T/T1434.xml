@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T22</biblScope>
                     <idno type="Taisho">T22n1434</idno>
                 </bibl>
@@ -39,20 +39,20 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="1065b11" ed="T"/><lb
  n="1065b12" ed="T"/><lb
  n="1065b13" ed="T"/><lb
  n="1065b14" ed="T"/>
-<ab type="juan" subtype="open">四分比丘尼羯磨法</ab><lb
+<ab type='juan' subtype='open'>四分比丘尼羯磨法</ab><lb
  n="1065b15" ed="T"/><lb
  n="1065b16" ed="T"/><byline>宋罽賓三藏求那跋摩譯</byline><lb
  n="1065b17" ed="T"/><head>結界法第一</head><lb
  n="1065b18" ed="T"/><head>受戒法第二</head><lb
- n="1065b19" ed="T"/><ab type="prose">比丘尼乞畜眾羯磨文<lb
+ n="1065b19" ed="T"/><ab type='prose'>比丘尼乞畜眾羯磨文<lb
  n="1065b21" ed="T"/>大姊僧聽！我比丘尼某甲，今從僧乞度人授<lb
- n="1065b22" ed="T"/>具足戒。願僧與我度人授具足戒。<lb
+ n="1065b22" ed="T"/>具足戒。願僧聽我度人授具足戒。<lb
  n="1065b23" ed="T"/>與畜眾羯磨文<lb
  n="1065b24" ed="T"/>大姊僧聽！此比丘尼某甲，今從僧乞度人授<lb
  n="1065b25" ed="T"/>人具足戒。若僧時到僧忍聽，僧今聽比丘尼<lb
@@ -200,7 +200,7 @@
  n="1067b13" ed="T"/>不二根不？汝字何等？和尚尼字誰？年滿二<lb
  n="1067b14" ed="T"/>十未？衣鉢具足不？父母、夫主聽汝不？汝不負<lb
  n="1067b15" ed="T"/>債不？汝非婢不？汝是女人不？女人有如是諸<lb
- n="1067b16" ed="T"/>病：癩、白癩、癲乾、痟狂、二根、二道合、道小、大小<lb
+ n="1067b16" ed="T"/>病：癩、白癩、乾痟、癲狂、二根、二道合、道小、大小<lb
  n="1067b17" ed="T"/>便常漏、涕唾常出。汝有如是諸病不？汝學戒未？清淨不？某甲學戒<lb
  n="1067b19" ed="T"/>未？清淨不？大德僧聽！此某甲，從和<lb
  n="1067b20" ed="T"/>尚尼某甲求受大戒。此某甲，今從僧乞受大<lb
@@ -265,7 +265,7 @@
  n="1068a22" ed="T"/>掃衣出家受大戒，是比丘尼法。是中盡形壽<lb
  n="1068a23" ed="T"/>能持不？<lb
  n="1068a24" ed="T"/>若得長利：若檀越施衣、若得輕衣、若得割<lb
- n="1068a25" ed="T"/>裁衣，應受。依乞食出家受大戒，是比丘尼法。<lb
+ n="1068a25" ed="T"/>截衣，應受。依乞食出家受大戒，是比丘尼法。<lb
  n="1068a26" ed="T"/>是中盡形壽能持不？<lb
  n="1068a27" ed="T"/>若得長利：僧差食、若檀越送食、月八日食、<lb
  n="1068a28" ed="T"/>十五日食、月初日食、眾僧常食、檀越請食，得<lb
@@ -478,8 +478,8 @@
  n="1070c15" ed="T"/>言，羯磨非一，備明律典，寧容具集。故各當其<lb
  n="1070c16" ed="T"/>分，唯標一羯磨，示之恒式，餘類准以可知。<lb
  n="1070c17" ed="T"/>
-</ab><ab type="juan" subtype="close">四分比丘尼羯磨法一卷</ab><lb
- n="1070c18" ed="T"/><div type="w" level="2"><ab type="prose">按此羯磨一卷，宋本與國本則同，丹本將<lb
+</ab><ab type='juan' subtype='close'>四分比丘尼羯磨法一卷</ab><lb
+ n="1070c18" ed="T"/><div type='w' level='2'><ab type='prose'>按此羯磨一卷，宋本與國本則同，丹本將<lb
  n="1070c19" ed="T"/>二本獨異。何耶？今撿丹本，與懷素所集文<lb
  n="1070c20" ed="T"/>義大同，又其起盡有倫敘可觀，知是跋摩<lb
  n="1070c21" ed="T"/>所譯正本，故取之入藏。彼國、宋二本，甚是<lb
@@ -498,7 +498,7 @@
  n="1071a05" ed="T"/>譯」。二本但云：女人出家法。六亂也。故知<lb
  n="1071a06" ed="T"/>二本是乃後代無稽之人臆度亂鈔耳，不<lb
  n="1071a07" ed="T"/>可依用，今故遆之。</ab></div><lb
- n="1071a08" ed="T"/><div type="w" level="2"><ab type="prose">不來諸比丘尼說欲及清淨？說欲及自恣。大姊僧聽！僧今何所<lb
+ n="1071a08" ed="T"/><div type='w' level='2'><ab type='prose'>不來諸比丘尼說欲及清淨？說欲及自恣。大姊僧聽！僧今何所<lb
  n="1071a10" ed="T"/>作為？某甲羯磨。<lb
  n="1071a15" ed="T"/>結大界羯磨文大姊僧聽！此住處比丘<lb
  n="1071a16" ed="T"/>尼某甲，唱四方大界相。若僧時到僧忍聽，<lb

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T12</biblScope>
                     <idno type="Taisho">T12n0359</idno>
                 </bibl>
@@ -44,12 +44,12 @@
  n="0253c20" ed="T"/><lb
  n="0253c21" ed="T"/><lb
  n="0253c22" ed="T"/>
-<ab type="juan" subtype="open">佛說大乘入諸佛境界智光明莊<lb
+<ab type='juan' subtype='open'>佛說大乘入諸佛境界智光明莊<lb
  n="0253c23" ed="T"/>嚴經卷第一</ab><lb
  n="0253c24" ed="T"/><lb
  n="0253c25" ed="T"/><byline>西天譯經三藏朝散大夫試光祿卿傳梵<lb
  n="0253c26" ed="T"/>大師賜紫沙門臣法護等奉　詔譯</byline><lb
- n="0253c27" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時，世尊在王舍城鷲峯山半月<lb
+ n="0253c27" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時，世尊在王舍城鷲峯山半月<lb
  n="0253c28" ed="T"/>妙峯法界殿中，與大苾芻眾二萬五千人俱，<lb
  n="0253c29" ed="T"/>皆阿羅漢，一切漏盡離諸煩惱，心善解脫、慧<pb n="0254a" id="T12.0359.0254a" ed="T"/><lb
  n="0254a01" ed="T"/>善解脫，如大龍王，諸所應作修作已辦，去除<lb
@@ -92,7 +92,7 @@
  n="0254b09" ed="T"/>羅、緊那羅、摩睺羅伽，帝釋、梵王、護世天等，皆<lb
  n="0254b10" ed="T"/>來集會。是中或有處寶樓閣，與不思議百千<lb
  n="0254b11" ed="T"/>俱胝那庾多天女眾等奏妙音樂；或處妙花<lb
- n="0254b12" ed="T"/>所成樓閣、或處龍堅栴檀香所成樓閣、或處<lb
+ n="0254b12" ed="T"/>所成樓閣、或處龍堅旃檀香所成樓閣、或處<lb
  n="0254b13" ed="T"/>真珠所成樓閣、或處大金剛寶所成樓閣、或<lb
  n="0254b14" ed="T"/>處金剛光明摩尼寶所成樓閣、或處渾金所<lb
  n="0254b15" ed="T"/>成樓閣、或處一切光明積集摩尼寶王所成<lb
@@ -112,7 +112,7 @@
  n="0254b29" ed="T"/>時彼大摩尼寶蓮花藏師子座中，自然有聲<pb n="0254c" id="T12.0359.0254c" ed="T"/><lb
  n="0254c01" ed="T"/>說伽陀曰：<lb
  n="0254c02" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「人中王來就此座，　　本從福力所出生，　　<lb
  n="0254c03" ed="T"/>普令眾願悉圓成，　　勝二足尊願攝受。　　<lb
  n="0254c04" ed="T"/>此我身相寶所成，　　中一寶謂蓮花座，　　<lb
@@ -124,7 +124,7 @@
  n="0254c10" ed="T"/>速就座已攝受我，　　此座數有八俱胝，　　<lb
  n="0254c11" ed="T"/>今自然智牟尼尊，　　登座普攝諸群品。」　　
 </ab><lb
- n="0254c12" ed="T"/><ab type="prose">爾時，世尊從本座起，即於寶蓮花藏師子座<lb
+ n="0254c12" ed="T"/><ab type='prose'>爾時，世尊從本座起，即於寶蓮花藏師子座<lb
  n="0254c13" ed="T"/>上加趺而坐，普遍觀察一切菩薩人天大<lb
  n="0254c14" ed="T"/>眾，為諸菩薩欲當宣說最上妙法。<lb
  n="0254c15" ed="T"/>爾時，一切大菩薩眾咸作是念：「若我今時得<lb
@@ -135,7 +135,7 @@
  n="0254c20" ed="T"/>尊，如佛所說不生、不滅，此所宣說當是世尊<lb
  n="0254c21" ed="T"/>何法增語？」即說伽陀而伸請問：<lb
  n="0254c22" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「不生與不滅，　　此是佛所說，　　<lb
  n="0254c23" ed="T"/>大慧相云何，　　於此中宣演？　　<lb
  n="0254c24" ed="T"/>若法不生滅，　　即無見無因，　　<lb
@@ -143,7 +143,7 @@
  n="0254c26" ed="T"/>此十方菩薩，　　諸佛故遣來，　　<lb
  n="0254c27" ed="T"/>求大智法門，　　願尊說正法。」　　
 </ab><lb
- n="0254c28" ed="T"/><ab type="prose">爾時，世尊讚妙吉祥童真菩薩摩訶薩言：「善<lb
+ n="0254c28" ed="T"/><ab type='prose'>爾時，世尊讚妙吉祥童真菩薩摩訶薩言：「善<lb
  n="0254c29" ed="T"/>哉善哉。妙吉祥！汝今善能請問如來如是義<pb n="0255a" id="T12.0359.0255a" ed="T"/><lb
  n="0255a01" ed="T"/>理。如汝意者，廣為多人作大利益，悲愍世<lb
  n="0255a02" ed="T"/>間令其修行普得安樂，復能利樂諸天人眾。<lb
@@ -242,16 +242,16 @@
  n="0256a08" ed="T"/>來、應供、正等正覺所說不生、不滅甚深法理，<lb
  n="0256a09" ed="T"/>應如是知。<lb
  n="0256a10" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說大乘入諸佛境界智光明莊嚴經卷第一</ab><lb
+</ab><ab type='juan' subtype='close'>佛說大乘入諸佛境界智光明莊嚴經卷第一</ab><lb
  n="0256a11" ed="T"/><lb
  n="0256a12" ed="T"/><lb
  n="0256a13" ed="T"/>
-<ab type="juan" subtype="open">佛說大乘入諸佛境界智光明莊<lb
+<ab type='juan' subtype='open'>佛說大乘入諸佛境界智光明莊<lb
  n="0256a14" ed="T"/>嚴經卷第二</ab><lb
  n="0256a15" ed="T"/><lb
  n="0256a16" ed="T"/><byline>西天譯經三藏朝散大夫試光祿卿傳梵<lb
  n="0256a17" ed="T"/>大師賜紫沙門臣法護等奉　詔譯</byline><lb
- n="0256a18" ed="T"/><ab type="prose">「復次，妙吉祥！譬如炎夏向殘雨際、初月時景<lb
+ n="0256a18" ed="T"/><ab type='prose'>「復次，妙吉祥！譬如炎夏向殘雨際、初月時景<lb
  n="0256a19" ed="T"/>方來，以諸眾生宿業報故，此大地中，一切種<lb
  n="0256a20" ed="T"/>子，禾稼、藥草、樹林而悉成長。時虛空中，大風吹<lb
  n="0256a21" ed="T"/>擊、大水流注。是時，大地而悉滋養。閻浮提中<lb
@@ -325,13 +325,13 @@
  n="0257a02" ed="T"/>方便增語。」<lb
  n="0257a03" ed="T"/>爾時，世尊說伽陀曰：<lb
  n="0257a04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「如來無生法本常，　　一切法與善逝等，　　<lb
  n="0257a05" ed="T"/>有所執相乃愚癡，　　無實法於世間轉。　　<lb
  n="0257a06" ed="T"/>如來所成如影像，　　一切善法皆無漏，　　<lb
  n="0257a07" ed="T"/>一切皆遍佛真如，　　三種影像世間現。　　
 </ab><lb
- n="0257a08" ed="T"/><ab type="prose">「復次，妙吉祥！如日光明行閻浮提，從東方出，<lb
+ n="0257a08" ed="T"/><ab type='prose'>「復次，妙吉祥！如日光明行閻浮提，從東方出，<lb
  n="0257a09" ed="T"/>先照須彌山王，次照鐵圍山、大鐵圍山，次照<lb
  n="0257a10" ed="T"/>餘諸大山，次照黑山，次照一切高顯地方，次<lb
  n="0257a11" ed="T"/>照一切此閻浮提低下地方，然彼日光悉無分<lb
@@ -447,16 +447,16 @@
  n="0258b05" ed="T"/>量、無比喻，無安立、無所取，超眼境界離心意<lb
  n="0258b06" ed="T"/>識，乃至超越諸語言道，於一切處悉無所住。<lb
  n="0258b07" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說大乘入諸佛境界智光明莊嚴經卷第二</ab><lb
+</ab><ab type='juan' subtype='close'>佛說大乘入諸佛境界智光明莊嚴經卷第二</ab><lb
  n="0258b08" ed="T"/><lb
  n="0258b09" ed="T"/><lb
  n="0258b10" ed="T"/>
-<ab type="juan" subtype="open">佛說大乘入諸佛境界智光明莊<lb
+<ab type='juan' subtype='open'>佛說大乘入諸佛境界智光明莊<lb
  n="0258b11" ed="T"/>嚴經卷第三</ab><lb
  n="0258b12" ed="T"/><lb
  n="0258b13" ed="T"/><byline>西天譯經三藏朝散大夫試光祿卿<lb
  n="0258b14" ed="T"/>傳梵大師賜紫沙門臣法護等奉詔譯</byline><lb
- n="0258b15" ed="T"/><ab type="prose">「復次，妙吉祥！眾生相狀有下中上故，乃謂虛<lb
+ n="0258b15" ed="T"/><ab type='prose'>「復次，妙吉祥！眾生相狀有下中上故，乃謂虛<lb
  n="0258b16" ed="T"/>空有下中上。如來、應供、正等正覺亦復如是，<lb
  n="0258b17" ed="T"/>一切處平等無差別分別，無生無滅，非過去、<lb
  n="0258b18" ed="T"/>未來、現在，無色相、無戲論，無表示、無施設，無<lb
@@ -679,16 +679,16 @@
  n="0261a03" ed="T"/>無相，離心意識、無文字、無音聲，如所了知亦<lb
  n="0261a04" ed="T"/>然解脫。妙吉祥！當知一切法無縛、無解。」<lb
  n="0261a05" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說大乘入諸佛境界智光明莊嚴經卷第三</ab><lb
+</ab><ab type='juan' subtype='close'>佛說大乘入諸佛境界智光明莊嚴經卷第三</ab><lb
  n="0261a06" ed="T"/><lb
  n="0261a07" ed="T"/><lb
  n="0261a08" ed="T"/>
-<ab type="juan" subtype="open">佛說大乘入諸佛境界智光明莊<lb
+<ab type='juan' subtype='open'>佛說大乘入諸佛境界智光明莊<lb
  n="0261a09" ed="T"/>嚴經卷第四</ab><lb
  n="0261a10" ed="T"/><lb
  n="0261a11" ed="T"/><byline>譯經三藏朝散大夫試光祿卿傳梵<lb
  n="0261a12" ed="T"/>大師賜紫沙門臣惟淨等奉　詔譯</byline><lb
- n="0261a13" ed="T"/><ab type="prose">佛言：「妙吉祥！菩提者與虛空等，謂以虛空無<lb
+ n="0261a13" ed="T"/><ab type='prose'>佛言：「妙吉祥！菩提者與虛空等，謂以虛空無<lb
  n="0261a14" ed="T"/>高、無下，菩提亦然無高、無下，由是如來成等<lb
  n="0261a15" ed="T"/>正覺。雖成正覺，亦無少法如微塵許若高若<lb
  n="0261a16" ed="T"/>下諸所施作，此如是法若如是，知即是實智。<lb
@@ -801,11 +801,11 @@
  n="0262b07" ed="T"/>袒右肩右膝著地向佛合掌，以妙伽陀伸讚<lb
  n="0262b08" ed="T"/>歎曰：<lb
  n="0262b09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「無形顯色無狀貌，　　是中無滅亦無生，　　<lb
  n="0262b10" ed="T"/>無住亦復根本無，　　無所緣尊今讚禮。　　<lb
  n="0262b11" ed="T"/>以無住故無出入，　　亦復無彼諸分位，　　<lb
- n="0262b12" ed="T"/>已能解脫六處長，　　無所緣尊今讚禮。　　<lb
+ n="0262b12" ed="T"/>已能解脫六處門，　　無所緣尊今讚禮。　　<lb
  n="0262b13" ed="T"/>一切法中無所住，　　有性無性皆遠離，　　<lb
  n="0262b14" ed="T"/>諸行平等得圓成，　　無所緣尊今讚禮。　　<lb
  n="0262b15" ed="T"/>已能出離於三界，　　虛空平等性中住，　　<lb
@@ -884,16 +884,16 @@
  n="0263b01" ed="T"/>於一切處正遍知，　　無所緣尊今讚禮。　　
 </ab><lb
  n="0263b02" ed="T"/>
-<ab type="juan" subtype="close">佛說大乘入諸佛境界智光明莊嚴經卷第四</ab><lb
+<ab type='juan' subtype='close'>佛說大乘入諸佛境界智光明莊嚴經卷第四</ab><lb
  n="0263b03" ed="T"/><lb
  n="0263b04" ed="T"/><lb
  n="0263b05" ed="T"/>
-<ab type="juan" subtype="open">佛說大乘入諸佛境界智光明莊<lb
+<ab type='juan' subtype='open'>佛說大乘入諸佛境界智光明莊<lb
  n="0263b06" ed="T"/>嚴經卷第五</ab><lb
  n="0263b07" ed="T"/><lb
  n="0263b08" ed="T"/><byline>譯經三藏朝散大夫試光祿卿傳梵<lb
  n="0263b09" ed="T"/>大師賜紫沙門臣惟淨等奉　詔譯</byline><lb
- n="0263b10" ed="T"/><ab type="verse">
+ n="0263b10" ed="T"/><ab type='verse'>
 「稽首十力度煩惱，　　稽首廣大施無畏，　　<lb
  n="0263b11" ed="T"/>善住不共諸法中，　　稽首世間尊勝者，　　<lb
  n="0263b12" ed="T"/>稽首能斷眾結縛，　　稽首已住於彼岸，　　<lb
@@ -905,7 +905,7 @@
  n="0263b18" ed="T"/>佛大威力不思議，　　猶如虛空無依止，　　<lb
  n="0263b19" ed="T"/>稽首廣持勝德門，　　稽首猶如妙高勝。」　　
 </ab><lb
- n="0263b20" ed="T"/><ab type="prose">爾時，世尊讚妙吉祥童真菩薩摩訶薩言：「善<lb
+ n="0263b20" ed="T"/><ab type='prose'>爾時，世尊讚妙吉祥童真菩薩摩訶薩言：「善<lb
  n="0263b21" ed="T"/>哉善哉！妙吉祥！如是如是！妙吉祥！勿於諸佛<lb
  n="0263b22" ed="T"/>起色相見，勿於諸法謂其無相，勿謂諸佛獨<lb
  n="0263b23" ed="T"/>居法界，亦勿謂佛處大眾中，當知諸佛無見<lb
@@ -1038,13 +1038,13 @@
  n="0265a05" ed="T"/>量。<lb
  n="0265a06" ed="T"/>「又，妙吉祥！正使菩薩普為一切眾生，建立皆<lb
  n="0265a07" ed="T"/>住不退轉位；若有菩薩發清淨心，於此最上<lb
- n="0265a08" ed="T"/>甚深正法正信解已，能自書寫若教人書，<lb
+ n="0265a08" ed="T"/>甚深正法生信解已，能自書寫若教人書，<lb
  n="0265a09" ed="T"/>或復為他廣大宣說，少略乃至令一眾生於<lb
  n="0265a10" ed="T"/>此最上甚深正法信解悟入者，所獲福蘊無<lb
  n="0265a11" ed="T"/>量無數不可稱計。」<lb
  n="0265a12" ed="T"/>爾時，世尊普為大眾說伽陀曰：<lb
  n="0265a13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「若有諸菩薩，　　供十俱胝佛，　　<lb
  n="0265a14" ed="T"/>受持正法門，　　極盡時邊際，　　<lb
  n="0265a15" ed="T"/>復於甚深典，　　愛樂而聽受，　　<lb
@@ -1082,10 +1082,10 @@
  n="0265b18" ed="T"/>十方一切佛，　　悉於虛空界，　　<lb
  n="0265b19" ed="T"/>普現諸佛身，　　令一切瞻仰。」　　
 </ab><lb
- n="0265b20" ed="T"/><ab type="prose">佛說此經已，妙吉祥菩薩摩訶薩，并餘無數<lb
+ n="0265b20" ed="T"/><ab type='prose'>佛說此經已，妙吉祥菩薩摩訶薩，并餘無數<lb
  n="0265b21" ed="T"/>不思議不可說諸菩薩眾，及大聲聞，一切世<lb
  n="0265b22" ed="T"/>間天、人、阿修羅、乾闥婆等，聞佛所說皆大歡<lb
  n="0265b23" ed="T"/>喜，信受奉行。<lb
  n="0265b24" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說大乘入諸佛境界智光明莊嚴經卷第五</ab></div>
+</ab><ab type='juan' subtype='close'>佛說大乘入諸佛境界智光明莊嚴經卷第五</ab></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T17</biblScope>
                     <idno type="Taisho">T17n0732</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0530a21" ed="T"/><lb
  n="0530a22" ed="T"/><lb
  n="0530a23" ed="T"/>
-<ab type="juan" subtype="open">佛說罵意經</ab><lb
+<ab type='juan' subtype='open'>佛說罵意經</ab><lb
  n="0530a24" ed="T"/><lb
  n="0530a25" ed="T"/><byline>後漢安息國三藏安世高譯</byline><lb
- n="0530a26" ed="T"/><div type="jing" level="1"><ab type="prose">佛說罵意。十方蟲蟻一切皆噉已，十方蟲蟻<lb
+ n="0530a26" ed="T"/><div type='jing' level='1'><ab type='prose'>佛說罵意。十方蟲蟻一切皆噉已，十方蟲蟻<lb
  n="0530a27" ed="T"/>一切亦噉我——何不知慚？十方蟲蟻一切我<lb
  n="0530a28" ed="T"/>為作婦，我亦一切取十方蟲蟻作婦——何不能<lb
  n="0530a29" ed="T"/>作愧？在生死大久不可數，當種習道，不當<pb n="0530b" ed="T" id="T17.0732.0530b"/><lb
@@ -449,5 +449,5 @@
  n="0534c19" ed="T"/>身亦爾，皆滅盡為空。出息、入息諦知為空，便<lb
  n="0534c20" ed="T"/>可近道。」</ab></div><lb
  n="0534c21" ed="T"/>
-<ab type="juan" subtype="close">佛說罵意經</ab>
+<ab type='juan' subtype='close'>佛說罵意經</ab>
 </body></text></TEI>

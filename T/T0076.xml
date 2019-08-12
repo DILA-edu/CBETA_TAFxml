@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0076</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0883b04" ed="T"/><lb
  n="0883b05" ed="T"/><lb
- n="0883b06" ed="T"/><div type="jing" level="1"><lb
+ n="0883b06" ed="T"/><div type='jing' level='1'><lb
  n="0883b07" ed="T"/>
-<ab type="juan" subtype="open">梵摩渝經</ab><lb
+<ab type='juan' subtype='open'>梵摩渝經</ab><lb
  n="0883b08" ed="T"/><lb
  n="0883b09" ed="T"/><byline>吳月支優婆塞支謙譯</byline><lb
- n="0883b10" ed="T"/><ab type="prose">聞如是：一時，佛在隨提國，與五百沙門俱行。<lb
+ n="0883b10" ed="T"/><ab type='prose'>聞如是：一時，佛在隨提國，與五百沙門俱行。<lb
  n="0883b11" ed="T"/>時，有逝心，名梵摩渝，彌夷國人也。年在耆<lb
  n="0883b12" ed="T"/>艾百有二十，博通眾經星宿圖書，豫覩未萠<lb
  n="0883b13" ed="T"/>一國師焉。梵摩渝遙聞佛王者之子出自<lb
@@ -204,7 +204,7 @@
  n="0885a19" ed="T"/>視佛相，即見佛三十妙相，兩相不現，瞢瞢有<lb
  n="0885a20" ed="T"/>疑，稽首于地以偈問曰：<lb
  n="0885a21" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「吾梵志經典，　　秘讖記世要，　　<lb
  n="0885a22" ed="T"/>濁世王名淨，　　后名曰清妙，　　<lb
  n="0885a23" ed="T"/>太子名悉達，　　容色紫金輝，　　<lb
@@ -218,7 +218,7 @@
  n="0885b02" ed="T"/>仙度處泥洹，　　永離三界不？　　<lb
  n="0885b03" ed="T"/>心意識魂靈，　　能滅眾苦不？」　　
 </ab><lb
- n="0885b04" ed="T"/><ab type="prose">梵志陳其心所疑，佛具知梵志心疑兩相，即<lb
+ n="0885b04" ed="T"/><ab type='prose'>梵志陳其心所疑，佛具知梵志心疑兩相，即<lb
  n="0885b05" ed="T"/>以神足現陰馬藏也，出廣長舌還自覆面，𦧪<lb
  n="0885b06" ed="T"/>左右耳，口中光明照彌夷國，繞身三匝徐還<lb
  n="0885b07" ed="T"/>入口，即報之曰：「爾之所問，大士三十二相，吾<lb
@@ -294,5 +294,5 @@
  n="0886a19" ed="T"/>不還，五蓋以盡淨若天金，於彼清淨得應真<lb
  n="0886a20" ed="T"/>無為而去。」佛說經竟，比丘歡喜。<lb
  n="0886a21" ed="T"/>
-</ab><ab type="juan" subtype="close">梵摩渝經</ab></div>
+</ab><ab type='juan' subtype='close'>梵摩渝經</ab></div>
 </body></text></TEI>

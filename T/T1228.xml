@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1228</idno>
                 </bibl>
@@ -42,14 +42,14 @@
         <body><lb
  n="0158a02" ed="T"/><lb
  n="0158a03" ed="T"/><lb
- n="0158a04" ed="T"/><div type="jing" level="1"><lb
+ n="0158a04" ed="T"/><div type='jing' level='1'><lb
  n="0158a05" ed="T"/>
-<ab type="juan" subtype="open">穢跡金剛說神通大滿陀羅尼法<lb
+<ab type='juan' subtype='open'>穢跡金剛說神通大滿陀羅尼法<lb
  n="0158a06" ed="T"/>術靈要門一卷</ab><lb
  n="0158a07" ed="T"/><lb
  n="0158a08" ed="T"/><byline>北天竺國三藏沙門阿質<lb
  n="0158a09" ed="T"/>達霰唐言無能勝將譯</byline><lb
- n="0158a10" ed="T"/><ab type="prose">如是我聞。一時佛在拘尸那國力士生處跋<lb
+ n="0158a10" ed="T"/><ab type='prose'>如是我聞。一時佛在拘尸那國力士生處跋<lb
  n="0158a11" ed="T"/>提河邊娑羅雙樹間。爾時如來臨入涅槃。是<lb
  n="0158a12" ed="T"/>時有無量百千萬眾天龍八部人非人等。啼<lb
  n="0158a13" ed="T"/>泣向佛四面哽咽悲惱而住。爾時復有諸天<lb
@@ -65,12 +65,12 @@
  n="0158a23" ed="T"/>呪而去。乃至七日無人取得。大眾見是事<lb
  n="0158a24" ed="T"/>倍復悲哀。爾時大眾同聲而說偈言。<lb
  n="0158a25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 苦哉大聖尊　　入真何太速　　<lb
  n="0158a26" ed="T"/>諸天猶決定　　天人追喚得　　<lb
  n="0158a27" ed="T"/>痛哉天中天　　入真如火滅　　
 </ab><lb
- n="0158a28" ed="T"/><ab type="prose">時諸大眾說此偈已。倍復哽咽悲啼嘷哭。是<lb
+ n="0158a28" ed="T"/><ab type='prose'>時諸大眾說此偈已。倍復哽咽悲啼嘷哭。是<lb
  n="0158a29" ed="T"/>時如來愍諸大眾。即以大遍知神力。隨左心<pb n="0158b" id="T21.1228.0158b" ed="T"/><lb
  n="0158b01" ed="T"/>化出不壞金剛。即於眾中從座而起。白大眾<lb
  n="0158b02" ed="T"/>言。我有大神呪能取彼梵王。作是語已即<lb
@@ -90,11 +90,11 @@
  n="0158b16" ed="T"/>呪。誓度群生。令佛法不滅久住於世。說是願<lb
  n="0158b17" ed="T"/>已。即說大圓滿陀羅尼神呪穢跡真言曰。<lb
  n="0158b18" ed="T"/></ab>
-<ab type="dharani">唵𠲽咶啒㖀摩訶鉢囉󰺴那𠵨吻<lb
+<ab type='dharani'>唵𠲽咶啒㖀摩訶鉢囉𭉆那𠵨吻<lb
  n="0158b19" ed="T"/>汁吻微咭微摩那栖嗚深慕<lb
  n="0158b20" ed="T"/>啒㖀𤙖𤙖泮泮泮娑訶<lb
  n="0158b21" ed="T"/></ab>
-<ab type="prose">時彼金剛說此呪已。復作是言。我於如來滅<lb
+<ab type='prose'>時彼金剛說此呪已。復作是言。我於如來滅<lb
  n="0158b22" ed="T"/>後常誦此呪。若有眾生請願受持此呪者。我<lb
  n="0158b23" ed="T"/>常為給使者令所求如願。我今於如來前說<lb
  n="0158b24" ed="T"/>此神呪。唯願如來於真中照知我等。世尊<lb
@@ -149,6 +149,6 @@
  n="0159a24" ed="T"/>鬼王不入界者。於十齋日誦我此呪一千八<lb
  n="0159a25" ed="T"/>遍。能除萬里病患。<lb
  n="0159a26" ed="T"/>
-</ab><ab type="juan" subtype="close">穢跡金剛說神通大滿陀羅尼法術靈要門<lb
+</ab><ab type='juan' subtype='close'>穢跡金剛說神通大滿陀羅尼法術靈要門<lb
  n="0159a27" ed="T"/>一卷</ab></div>
 </body></text></TEI>

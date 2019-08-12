@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n1012</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0682b07" ed="T"/><lb
  n="0682b08" ed="T"/><lb
- n="0682b09" ed="T"/><div type="jing" level="1"><lb
+ n="0682b09" ed="T"/><div type='jing' level='1'><lb
  n="0682b10" ed="T"/>
-<ab type="juan" subtype="open">佛說出生無量門持經</ab><lb
+<ab type='juan' subtype='open'>佛說出生無量門持經</ab><lb
  n="0682b11" ed="T"/><lb
  n="0682b12" ed="T"/><byline>東晉天竺三藏佛陀跋陀羅譯</byline><lb
- n="0682b13" ed="T"/><ab type="prose">如是我聞。一時佛在毘舍離大林精舍重閣<lb
+ n="0682b13" ed="T"/><ab type='prose'>如是我聞。一時佛在毘舍離大林精舍重閣<lb
  n="0682b14" ed="T"/>講堂。與大比丘眾四萬人俱。爾時世尊欲捨<lb
  n="0682b15" ed="T"/>壽行。却後三月當般涅槃。便告長老大目揵<lb
  n="0682b16" ed="T"/>連。汝行遍告三千大千世界。聲聞比丘并緣<lb
@@ -119,7 +119,7 @@
  n="0683a24" ed="T"/>悉能分別一切眾生之所行處。得無所得故。<lb
  n="0683a25" ed="T"/>名出生無量門持。爾時世尊而說偈言。<lb
  n="0683a26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 法空無疑惑　　為道不放逸　　<lb
  n="0683a27" ed="T"/>法性無忘想　　是行疲得持　　<lb
  n="0683a28" ed="T"/>是經如所說　　彼持無有盡　　<pb n="0683b" id="T19.1012.0683b" ed="T"/><lb
@@ -163,12 +163,12 @@
  n="0683c09" ed="T"/>欲安諸天人　　一切願不難　　<lb
  n="0683c10" ed="T"/>此為道心生　　但當正意行　　
 </ab><lb
- n="0683c11" ed="T"/><ab type="prose">復次舍利弗。菩薩成就四法。疾得是持。何等<lb
+ n="0683c11" ed="T"/><ab type='prose'>復次舍利弗。菩薩成就四法。疾得是持。何等<lb
  n="0683c12" ed="T"/>為四。厭離愛欲。不生疾心。於一切眾生施<lb
  n="0683c13" ed="T"/>一切有。晝夜求法心不懈惓。爾時世尊而說<lb
  n="0683c14" ed="T"/>偈言。<lb
  n="0683c15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 厭離於色欲　　魔界地獄緣　　<lb
  n="0683c16" ed="T"/>放逸造眾惡　　惡令墮惡道　　<lb
  n="0683c17" ed="T"/>於他不起妬　　不為於名稱　　<lb
@@ -178,11 +178,11 @@
  n="0683c21" ed="T"/>晝夜常樂法　　推異推道求　　<lb
  n="0683c22" ed="T"/>專精求道者　　疾得成妙持　　
 </ab><lb
- n="0683c23" ed="T"/><ab type="prose">又舍利弗。菩薩復有四法。成就疾得是持。何<lb
+ n="0683c23" ed="T"/><ab type='prose'>又舍利弗。菩薩復有四法。成就疾得是持。何<lb
  n="0683c24" ed="T"/>等為四。閑居寂志。得深法忍。不求利養。一切<lb
  n="0683c25" ed="T"/>內外盡施無遺。是為四。爾時世尊而說偈言。<lb
  n="0683c26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 閑居寂志佛所譽　　自守空靜不輕彼　　<lb
  n="0683c27" ed="T"/>常樂修習深法忍　　如救頭然不放逸　　<lb
  n="0683c28" ed="T"/>不求名譽及利養　　因斯造諸諂曲行　　<lb
@@ -193,7 +193,7 @@
  n="0684a04" ed="T"/>信戒施聞慧　　皆悉不成就　　<lb
  n="0684a05" ed="T"/>此過離佛遠　　是故捨貪利　　
 </ab><lb
- n="0684a06" ed="T"/><ab type="prose">又舍利弗。菩薩復有四法。成就疾得是持。何<lb
+ n="0684a06" ed="T"/><ab type='prose'>又舍利弗。菩薩復有四法。成就疾得是持。何<lb
  n="0684a07" ed="T"/>等為四。一曰八字是義隨義悉入其中。八字<lb
  n="0684a08" ed="T"/>者波羅婆迦闍陀賒叉。波者第一義。一切<lb
  n="0684a09" ed="T"/>諸法無我悉來入門。羅者相好無相。如如來<lb
@@ -207,22 +207,22 @@
  n="0684a17" ed="T"/>四曰帝當供給供養持此經者。爾時世尊而<lb
  n="0684a18" ed="T"/>說偈言。<lb
  n="0684a19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 當思八字義　　善書持此經　　<lb
  n="0684a20" ed="T"/>半月次來誦　　勸發行持者　　<lb
  n="0684a21" ed="T"/>一切十方恒沙國　　無量諸佛在其前　　<lb
  n="0684a22" ed="T"/>得坐道場妙相滿　　當勤修習此持行　　
 </ab><lb
- n="0684a23" ed="T"/><ab type="prose">復次舍利弗。菩薩學此持者得四功德利。何<lb
+ n="0684a23" ed="T"/><ab type='prose'>復次舍利弗。菩薩學此持者得四功德利。何<lb
  n="0684a24" ed="T"/>等為四。一者十方諸佛所念。二者離諸魔事。<lb
  n="0684a25" ed="T"/>三者惡罪業障疾得清淨。四者無礙斷辯才<lb
  n="0684a26" ed="T"/>皆悉成就。是為四。爾時世尊而說偈言。<lb
  n="0684a27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 諸佛常護念　　眾魔不得便　　<lb
  n="0684a28" ed="T"/>罪業障悉除　　得妙無量持　　
 </ab><lb
- n="0684a29" ed="T"/><ab type="prose">佛告舍利弗。乃昔過去無數劫時。有佛世尊<pb n="0684b" id="T19.1012.0684b" ed="T"/><lb
+ n="0684a29" ed="T"/><ab type='prose'>佛告舍利弗。乃昔過去無數劫時。有佛世尊<pb n="0684b" id="T19.1012.0684b" ed="T"/><lb
  n="0684b01" ed="T"/>號寶首焰王如來應供等正覺明行成善逝世<lb
  n="0684b02" ed="T"/>間解無上士調御丈夫天人師佛世尊。舍利<lb
  n="0684b03" ed="T"/>弗彼寶首焰王如來臨滅度時。有轉輪王名<lb
@@ -250,7 +250,7 @@
  n="0684b25" ed="T"/>一切人民莫能思量稱說其福。爾時世尊而<lb
  n="0684b26" ed="T"/>說偈言。<lb
  n="0684b27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 聞經心隨喜　　書持敬諷誦　　<lb
  n="0684b28" ed="T"/>天人莫能計　　福報之限量　　<lb
  n="0684b29" ed="T"/>生生常見佛　　信向不迴動　　<pb n="0684c" id="T19.1012.0684c" ed="T"/><lb
@@ -265,7 +265,7 @@
  n="0684c09" ed="T"/>如滿恒沙剎　　積寶以布施　　<lb
  n="0684c10" ed="T"/>比書持此經　　終不得為比　　
 </ab><lb
- n="0684c11" ed="T"/><ab type="prose">又舍利弗菩薩行此持者。有八大鬼是雪山<lb
+ n="0684c11" ed="T"/><ab type='prose'>又舍利弗菩薩行此持者。有八大鬼是雪山<lb
  n="0684c12" ed="T"/>之神。共護視之。其名曰勇健神強力神。自在<lb
  n="0684c13" ed="T"/>神雄猛神。知行神難勝神。鳩摩羅神善臂神。<lb
  n="0684c14" ed="T"/>是為八。彼欲令諸神來者。當澡浴其身淨其<lb
@@ -289,5 +289,5 @@
  n="0685a03" ed="T"/>眾會天與人乾闥婆阿修羅等。聞佛所說皆<lb
  n="0685a04" ed="T"/>大歡喜。<lb
  n="0685a05" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說出生無量門持經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說出生無量門持經</ab></div>
 </body></text></TEI>

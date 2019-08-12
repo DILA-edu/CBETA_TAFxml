@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T02</biblScope>
                     <idno type="Taisho">T02n0120</idno>
                 </bibl>
@@ -41,12 +41,12 @@
     <text>
         <body><lb
  n="0512b02" ed="T"/><lb
- n="0512b03" ed="T"/><div type="jing" level="1"><lb
+ n="0512b03" ed="T"/><div type='jing' level='1'><lb
  n="0512b05" ed="T"/>
-<ab type="juan" subtype="open">央掘魔羅經卷第一</ab><lb
+<ab type='juan' subtype='open'>央掘魔羅經卷第一</ab><lb
  n="0512b06" ed="T"/><lb
  n="0512b07" ed="T"/><byline>宋天竺三藏求那跋陀羅譯</byline><lb
- n="0512b08" ed="T"/><ab type="prose">如是我聞：一時，佛住舍衛國祇樹給孤獨園。爾<lb
+ n="0512b08" ed="T"/><ab type='prose'>如是我聞：一時，佛住舍衛國祇樹給孤獨園。爾<lb
  n="0512b09" ed="T"/>時，世尊與無量菩薩摩訶薩俱，及四部眾、無<lb
  n="0512b10" ed="T"/>量諸天、龍神、夜叉，乾闥婆、迦樓羅、緊那羅、摩<lb
  n="0512b11" ed="T"/>睺羅伽、毘舍遮、負多伽那阿磋羅檀那婆王，<lb
@@ -95,7 +95,7 @@
  n="0512c25" ed="T"/>念言：「我今復當殺是沙門瞿曇。」爾時，世尊示<lb
  n="0512c26" ed="T"/>現避去。時，央掘魔羅而說偈言：<lb
  n="0512c27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「住住大沙門，　　白淨王太子，　　<lb
  n="0512c28" ed="T"/>我是央掘魔，　　今當稅一指。　　<lb
  n="0512c29" ed="T"/>住住大沙門，　　無貪染衣士，　　<pb n="0513a" ed="T" id="T02.0120.0513a"/><lb
@@ -178,10 +178,10 @@
  n="0513c19" ed="T"/>住住大沙門，　　汝善持淨戒，　　<lb
  n="0513c20" ed="T"/>宜速輸一指，　　莫度我境界。」　　
 </ab><lb
- n="0513c21" ed="T"/><ab type="prose">爾時，世尊猶如鵝王，庠行七步師子顧視，為<lb
+ n="0513c21" ed="T"/><ab type='prose'>爾時，世尊猶如鵝王，庠行七步師子顧視，為<lb
  n="0513c22" ed="T"/>央掘魔羅而說偈言：<lb
  n="0513c23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「住住央掘魔，　　汝當住淨戒，　　<lb
  n="0513c24" ed="T"/>我是等正覺，　　輸汝慧劍稅，　　<lb
  n="0513c25" ed="T"/>我住無生際，　　而汝不覺知；　　<lb
@@ -739,17 +739,17 @@
  n="0520a26" ed="T"/>久受飢渴惱，　　寒暑亦備經，　　<lb
  n="0520a27" ed="T"/>逼切心狂亂，　　愁毒恒怨嗟。」　　
 </ab><lb
- n="0520a28" ed="T"/><ab type="prose">爾時，彼母見佛世尊與央掘魔羅往反苦論，<lb
+ n="0520a28" ed="T"/><ab type='prose'>爾時，彼母見佛世尊與央掘魔羅往反苦論，<lb
  n="0520a29" ed="T"/>子心降伏縱身垂臂，念其子故說偈白佛：<pb n="0520b" ed="T" id="T02.0120.0520b"/><lb
  n="0520b01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「久失寶藏今還得，　　塵穢壞眼今明淨，　　<lb
  n="0520b02" ed="T"/>哀哉我子心迷亂，　　常以人血自塗身。　　<lb
  n="0520b03" ed="T"/>極利刀劍恒在手，　　多殺人眾成屍聚，　　<lb
  n="0520b04" ed="T"/>當令此子隨順我，　　今敬稽首等正覺，　　<lb
  n="0520b05" ed="T"/>多人見罵難聽聞，　　汝子如是切責我。」　　
 </ab><lb
- n="0520b06" ed="T"/><ab type="prose">爾時，世尊告央掘魔羅：「此樹下者是汝之母，<lb
+ n="0520b06" ed="T"/><ab type='prose'>爾時，世尊告央掘魔羅：「此樹下者是汝之母，<lb
  n="0520b07" ed="T"/>生育之恩深重難報，云何欲害令其生天？央<lb
  n="0520b08" ed="T"/>掘魔羅！非法謂法，如春時焰渴鹿迷惑，汝亦<lb
  n="0520b09" ed="T"/>如是，隨惡師教而生迷惑，若諸眾生非法謂<lb
@@ -774,7 +774,7 @@
  n="0520b28" ed="T"/>宛轉腹行三十九旋，亦復如是。然後進前頂<lb
  n="0520b29" ed="T"/>禮佛足，而說偈言：<pb n="0520c" ed="T" id="T02.0120.0520c"/><lb
  n="0520c01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「奇哉正覺第一慈，　　調御人師為我來，　　<lb
  n="0520c02" ed="T"/>令我得度無知海，　　愚癡闇冥濤波惑。　　<lb
  n="0520c03" ed="T"/>奇哉正覺無上悲，　　調御人師為我來，　　<lb
@@ -786,20 +786,20 @@
  n="0520c09" ed="T"/>無依怙者為作依，　　無親厚者為作親，　　<lb
  n="0520c10" ed="T"/>集眾惡業趣大苦，　　今為我來作歸依。」　　
 </ab><lb
- n="0520c11" ed="T"/><ab type="prose">爾時，世尊告央掘魔羅：「汝今可起，速往母所，<lb
+ n="0520c11" ed="T"/><ab type='prose'>爾時，世尊告央掘魔羅：「汝今可起，速往母所，<lb
  n="0520c12" ed="T"/>至誠悔過求聽出家。」爾時，央掘魔羅從佛足<lb
  n="0520c13" ed="T"/>起往至母所，圍旋多匝五體投地，至誠懺<lb
  n="0520c14" ed="T"/>悔悲感大叫，即向其母而說偈言：<lb
  n="0520c15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「嗚呼慈母我大過，　　集諸惡業成罪積，　　<lb
  n="0520c16" ed="T"/>隨惡師教行暴害，　　殺人一千唯少一；　　<lb
  n="0520c17" ed="T"/>我於今日歸依母，　　亦復歸依佛世尊，　　<lb
  n="0520c18" ed="T"/>我今稽首禮母足，　　唯願哀愍聽出家。」　　
 </ab><lb
- n="0520c19" ed="T"/><ab type="prose">爾時，彼母說偈答言：<lb
+ n="0520c19" ed="T"/><ab type='prose'>爾時，彼母說偈答言：<lb
  n="0520c20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「我今已聽汝，　　出家為後世，　　<lb
  n="0520c21" ed="T"/>我亦求如來，　　出家受具足。　　<lb
  n="0520c22" ed="T"/>奇哉難思議，　　如來無有譬，　　<lb
@@ -807,20 +807,20 @@
  n="0520c24" ed="T"/>如來妙色身，　　功德無倫匹，　　<lb
  n="0520c25" ed="T"/>我今少稱歎，　　最勝天中天。」　　
 </ab><lb
- n="0520c26" ed="T"/><ab type="prose">爾時，世尊以偈答言：<lb
+ n="0520c26" ed="T"/><ab type='prose'>爾時，世尊以偈答言：<lb
  n="0520c27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「善哉善女人，　　當得無間樂，　　<lb
  n="0520c28" ed="T"/>今可聽汝子，　　於我前出家。　　<lb
  n="0520c29" ed="T"/>汝今年衰老，　　出家時已過，　　<pb n="0521a" ed="T" id="T02.0120.0521a"/><lb
  n="0521a01" ed="T"/>但當深信樂，　　以法自穌息。　　<lb
  n="0521a02" ed="T"/>汝今且小待，　　波斯匿王至。」　　
 </ab><lb
- n="0521a03" ed="T"/><ab type="prose">爾時，天帝釋將諸天眾、婇女眷屬，放身光明<lb
+ n="0521a03" ed="T"/><ab type='prose'>爾時，天帝釋將諸天眾、婇女眷屬，放身光明<lb
  n="0521a04" ed="T"/>照舍衛國，見央掘魔羅與佛相抗，力屈心變<lb
  n="0521a05" ed="T"/>摧伏歸悔，發大歡喜而說偈言：<lb
  n="0521a06" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「奇哉十力雄，　　調御無與等，　　<lb
  n="0521a07" ed="T"/>降伏央掘魔，　　常血塗身過，　　<lb
  n="0521a08" ed="T"/>檀那因陀羅，　　阿修羅羅剎，　　<lb
@@ -841,7 +841,7 @@
  n="0521a23" ed="T"/>今施央掘魔，　　沙門隨法服，　　<lb
  n="0521a24" ed="T"/>是大乞士王，　　世尊善觀察。」　　
 </ab><lb
- n="0521a25" ed="T"/><ab type="prose">爾時，帝釋白央掘魔羅言：「唯願大士！受此<lb
+ n="0521a25" ed="T"/><ab type='prose'>爾時，帝釋白央掘魔羅言：「唯願大士！受此<lb
  n="0521a26" ed="T"/>天衣以為法服。」時，央掘魔羅謂帝釋言：「汝是<lb
  n="0521a27" ed="T"/>何等蚊蚋小蟲！我豈當受不信之施？汝是何<lb
  n="0521a28" ed="T"/>等貪欲之驢！未度生死眾苦長流，自性羸<lb
@@ -910,18 +910,18 @@
  n="0522a04" ed="T"/>竟不入二生眾中，汝亦如是，是正法外旃陀<lb
  n="0522a05" ed="T"/>羅也，汝小蚊蚋默然無聲。」<lb
  n="0522a06" ed="T"/>
-</ab><ab type="juan" subtype="close">央掘魔羅經卷第一</ab><lb
+</ab><ab type='juan' subtype='close'>央掘魔羅經卷第一</ab><lb
  n="0522a07" ed="T"/><lb
  n="0522a08" ed="T"/><lb
  n="0522a09" ed="T"/>
-<ab type="juan" subtype="open">央掘魔羅經卷第二</ab><lb
+<ab type='juan' subtype='open'>央掘魔羅經卷第二</ab><lb
  n="0522a10" ed="T"/><lb
  n="0522a11" ed="T"/><byline>宋天竺三藏求那跋陀羅譯</byline><lb
- n="0522a12" ed="T"/><ab type="prose">爾時，娑婆世界主梵天王，放大光明照舍衛<lb
+ n="0522a12" ed="T"/><ab type='prose'>爾時，娑婆世界主梵天王，放大光明照舍衛<lb
  n="0522a13" ed="T"/>國，一心合掌頂禮佛足，供養如來及央掘魔<lb
  n="0522a14" ed="T"/>羅已，而說偈言：<lb
  n="0522a15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「奇哉我今見大戰，　　如二雄猛師子鬪，　　<lb
  n="0522a16" ed="T"/>奇哉調御天人師，　　如來善調央掘魔。　　<lb
  n="0522a17" ed="T"/>譬如毒蛇見呪師，　　吹氣放毒不怖畏，　　<lb
@@ -936,7 +936,7 @@
  n="0522a26" ed="T"/>令央掘魔服天衣，　　當令我得大菩提，　　<lb
  n="0522a27" ed="T"/>彼服此衣護梵行，　　究竟清淨心不動。」　　
 </ab><lb
- n="0522a28" ed="T"/><ab type="prose">爾時，央掘魔羅謂梵王言：「汝是何人多言、兩<lb
+ n="0522a28" ed="T"/><ab type='prose'>爾時，央掘魔羅謂梵王言：「汝是何人多言、兩<lb
  n="0522a29" ed="T"/>舌言：『央掘魔羅習近我衣久持梵行。』而見毀<pb n="0522b" ed="T" id="T02.0120.0522b"/><lb
  n="0522b01" ed="T"/>辱，汝是惡梵非梵梵像。汝蚊蚋來所言：『梵者。』<lb
  n="0522b02" ed="T"/>梵有何義？云何名為世間梵業？我豈服習蚊<lb
@@ -970,7 +970,7 @@
  n="0522c01" ed="T"/>魔。設供養已，即向如來及央掘魔羅，而說<lb
  n="0522c02" ed="T"/>偈言：<lb
  n="0522c03" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「奇哉甚希有！　　世雄今大戰，　　<lb
  n="0522c04" ed="T"/>問答第一義，　　慧光除癡冥。　　<lb
  n="0522c05" ed="T"/>奇哉善調御，　　無上天人師，　　<lb
@@ -982,7 +982,7 @@
  n="0522c11" ed="T"/>央掘魔今好，　　猶如空中月，　　<lb
  n="0522c12" ed="T"/>央掘魔莊嚴，　　淨戒光圓滿。」　　
 </ab><lb
- n="0522c13" ed="T"/><ab type="prose">爾時，央掘魔羅謂四天王言：「汝是何等蚊蚋<lb
+ n="0522c13" ed="T"/><ab type='prose'>爾時，央掘魔羅謂四天王言：「汝是何等蚊蚋<lb
  n="0522c14" ed="T"/>小蟲？護世護世而自貢高，唱言：『我當施汝天<lb
  n="0522c15" ed="T"/>鉢。』而見毀辱。汝等且待觀我難事，須臾自見<lb
  n="0522c16" ed="T"/>執持瓦器，何用如是放逸鉢為？而以護世高<lb
@@ -995,13 +995,13 @@
  n="0522c23" ed="T"/>爾時，惡魔波旬來詣佛所，供養佛已却住一<lb
  n="0522c24" ed="T"/>面，向央掘魔羅而說偈言：<lb
  n="0522c25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「汝今速出家，　　欺誑入我城，　　<lb
  n="0522c26" ed="T"/>我亦不念汝，　　且令出泥犁。」　　
 </ab><lb
- n="0522c27" ed="T"/><ab type="prose">爾時，央掘魔羅以偈答曰：<lb
+ n="0522c27" ed="T"/><ab type='prose'>爾時，央掘魔羅以偈答曰：<lb
  n="0522c28" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「遠去賊狗魔，　　蚊蚋無畏說，　　<lb
  n="0522c29" ed="T"/>及未被五繫，　　波旬宜速去，　　<pb n="0523a" ed="T" id="T02.0120.0523a"/><lb
  n="0523a01" ed="T"/>莫令我須臾，　　左脚蹴弊狗。　　<lb
@@ -1013,10 +1013,10 @@
  n="0523a07" ed="T"/>賊狗魔默然，　　諦聽甘露法，　　<lb
  n="0523a08" ed="T"/>然後還天上，　　隨意恣所欲。」　　
 </ab><lb
- n="0523a09" ed="T"/><ab type="prose">爾時，摩醯首羅神為如來及央掘魔羅，設大<lb
+ n="0523a09" ed="T"/><ab type='prose'>爾時，摩醯首羅神為如來及央掘魔羅，設大<lb
  n="0523a10" ed="T"/>供養已却住一面，欣敬交至以偈歎言：<lb
  n="0523a11" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「我今禮尊足，　　欣敬說伽陀，　　<lb
  n="0523a12" ed="T"/>如來妙色身，　　譬如優鉢羅。　　<lb
  n="0523a13" ed="T"/>齒白拘牟頭，　　目淨千葉華，　　<lb
@@ -1025,9 +1025,9 @@
  n="0523a16" ed="T"/>住在凡夫地，　　而能降伏魔，　　<lb
  n="0523a17" ed="T"/>當速成正覺，　　普救諸世間。」　　
 </ab><lb
- n="0523a18" ed="T"/><ab type="prose">爾時，央掘魔羅以偈答言：<lb
+ n="0523a18" ed="T"/><ab type='prose'>爾時，央掘魔羅以偈答言：<lb
  n="0523a19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「汝是何卑趣？　　妄稱摩醯羅，　　<lb
  n="0523a20" ed="T"/>假名為自在，　　非真自在王。　　<lb
  n="0523a21" ed="T"/>汝今云何知，　　我住凡夫地？　　<lb
@@ -1041,32 +1041,32 @@
  n="0523a29" ed="T"/>汝不應灌頂，　　副他自在王，　　<pb n="0523b" ed="T" id="T02.0120.0523b"/><lb
  n="0523b01" ed="T"/>無知且默然，　　須臾自當見。」　　
 </ab><lb
- n="0523b02" ed="T"/><ab type="prose">爾時，如來所依坐樹，其樹有神，見央掘魔羅<lb
+ n="0523b02" ed="T"/><ab type='prose'>爾時，如來所依坐樹，其樹有神，見央掘魔羅<lb
  n="0523b03" ed="T"/>心生敬信，以偈歎言：<lb
  n="0523b04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「疾來央掘魔，　　勇慧堅固士，　　<lb
  n="0523b05" ed="T"/>今請服法衣，　　供施汝初飯，　　<lb
  n="0523b06" ed="T"/>施汝及如來，　　當得第一果。」　　
 </ab><lb
- n="0523b07" ed="T"/><ab type="prose">爾時，央掘魔羅以偈答言：<lb
+ n="0523b07" ed="T"/><ab type='prose'>爾時，央掘魔羅以偈答言：<lb
  n="0523b08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「如來未曾食，　　聲聞亦復然，　　<lb
  n="0523b09" ed="T"/>汝今為施誰？　　速說決所疑。」　　
 </ab><lb
- n="0523b10" ed="T"/><ab type="prose">爾時，樹神以偈難言：<lb
+ n="0523b10" ed="T"/><ab type='prose'>爾時，樹神以偈難言：<lb
  n="0523b11" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「如來常飯食，　　聲聞亦復然，　　<lb
  n="0523b12" ed="T"/>堅固欲出家，　　不應作妄語，　　<lb
  n="0523b13" ed="T"/>應當捨虛偽，　　諂曲非清淨。　　<lb
  n="0523b14" ed="T"/>若人越一法，　　是即為妄語，　　<lb
  n="0523b15" ed="T"/>不度於他世，　　無惡而不造。」　　
 </ab><lb
- n="0523b16" ed="T"/><ab type="prose">爾時，央掘魔羅以偈答言：<lb
+ n="0523b16" ed="T"/><ab type='prose'>爾時，央掘魔羅以偈答言：<lb
  n="0523b17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「汝是卑下姓，　　今欲何所說？　　<lb
  n="0523b18" ed="T"/>汝且自觀察，　　女人佛所毀，　　<lb
  n="0523b19" ed="T"/>世間誰妄語？　　誰為真實說？　　<lb
@@ -1080,15 +1080,15 @@
  n="0523b27" ed="T"/>我不越一法，　　而汝越無量，　　<lb
  n="0523b28" ed="T"/>速向天中天，　　悔除虛妄語。」　　
 </ab><lb
- n="0523b29" ed="T"/><ab type="prose">爾時，樹神以偈難言：<pb n="0523c" ed="T" id="T02.0120.0523c"/><lb
+ n="0523b29" ed="T"/><ab type='prose'>爾時，樹神以偈難言：<pb n="0523c" ed="T" id="T02.0120.0523c"/><lb
  n="0523c01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「汝以何因緣，　　說我是卑趣？　　<lb
  n="0523c02" ed="T"/>未離毘舍遮，　　何能知男女？」　　
 </ab><lb
- n="0523c03" ed="T"/><ab type="prose">爾時，央掘魔羅以偈答言：<lb
+ n="0523c03" ed="T"/><ab type='prose'>爾時，央掘魔羅以偈答言：<lb
  n="0523c04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「譬如轉輪王，　　珍寶莊嚴座，　　<lb
  n="0523c05" ed="T"/>臭狗暫臥上，　　還至不淨處。　　<lb
  n="0523c06" ed="T"/>汝以卑陋性，　　暫遊方便法，　　<lb
@@ -1097,12 +1097,12 @@
  n="0523c09" ed="T"/>莫取男女相，　　當修空寂法，　　<lb
  n="0523c10" ed="T"/>修習空法已，　　疾得男子性。」　　
 </ab><lb
- n="0523c11" ed="T"/><ab type="prose">爾時，尊者舍利弗、大目犍連，猶如鵝王，以神<lb
+ n="0523c11" ed="T"/><ab type='prose'>爾時，尊者舍利弗、大目犍連，猶如鵝王，以神<lb
  n="0523c12" ed="T"/>通力乘虛而來，來至佛所頂禮佛足却住一<lb
  n="0523c13" ed="T"/>面，見央掘魔羅心生隨喜。時大目連以偈歎<lb
  n="0523c14" ed="T"/>言：<lb
  n="0523c15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「超哉勇慧士，　　善修殊勝業，　　<lb
  n="0523c16" ed="T"/>宜速隨佛去，　　出家修淨戒。　　<lb
  n="0523c17" ed="T"/>與諸梵行者，　　乘虛至祇園，　　<lb
@@ -1110,22 +1110,22 @@
  n="0523c19" ed="T"/>普令諸世間，　　一切共瞻仰，　　<lb
  n="0523c20" ed="T"/>陵虛猶鵝王，　　明淨如滿月。」　　
 </ab><lb
- n="0523c21" ed="T"/><ab type="prose">爾時，央掘魔羅以偈問曰：<lb
+ n="0523c21" ed="T"/><ab type='prose'>爾時，央掘魔羅以偈問曰：<lb
  n="0523c22" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「云何世神通？　　云何神通本？　　<lb
  n="0523c23" ed="T"/>神力第一尊，　　速說斷我疑。」　　
 </ab><lb
- n="0523c24" ed="T"/><ab type="prose">爾時，大目犍連以偈答言：<lb
+ n="0523c24" ed="T"/><ab type='prose'>爾時，大目犍連以偈答言：<lb
  n="0523c25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「若人修淨捨，　　常施履屣乘，　　<lb
  n="0523c26" ed="T"/>比丘持淨戒，　　遠離不習近，　　<lb
  n="0523c27" ed="T"/>如是二因緣，　　疾獲神通力。」　　
 </ab><lb
- n="0523c28" ed="T"/><ab type="prose">爾時，央掘魔羅復說偈言：<lb
+ n="0523c28" ed="T"/><ab type='prose'>爾時，央掘魔羅復說偈言：<lb
  n="0523c29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「嗚呼大目連，　　修習蚊蚋行，　　<pb n="0524a" ed="T" id="T02.0120.0524a"/><lb
  n="0524a01" ed="T"/>不能分別知，　　第一真實通，　　<lb
  n="0524a02" ed="T"/>蚊蚋乘虛來，　　無知宜默然。　　<lb
@@ -1138,138 +1138,138 @@
  n="0524a09" ed="T"/>如是無限量，　　所謂摩訶衍，　　<lb
  n="0524a10" ed="T"/>無量復無邊，　　所謂諸如來。」　　
 </ab><lb
- n="0524a11" ed="T"/><ab type="prose">爾時，央掘魔羅說此偈已，即復說偈問舍利<lb
+ n="0524a11" ed="T"/><ab type='prose'>爾時，央掘魔羅說此偈已，即復說偈問舍利<lb
  n="0524a12" ed="T"/>弗言：<lb
  n="0524a13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「云何舍利弗，　　世間大智慧，　　<lb
  n="0524a14" ed="T"/>智慧從何生？　　速說決所疑。」　　
 </ab><lb
- n="0524a15" ed="T"/><ab type="prose">爾時，舍利弗，以偈答言：<lb
+ n="0524a15" ed="T"/><ab type='prose'>爾時，舍利弗，以偈答言：<lb
  n="0524a16" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「善護持五戒，　　能成大智慧，　　<lb
  n="0524a17" ed="T"/>命終更受身，　　智慧常俱生，　　<lb
  n="0524a18" ed="T"/>名聞遠流布，　　智慧不傾動。」　　
 </ab><lb
- n="0524a19" ed="T"/><ab type="prose">爾時，央掘魔羅復說偈言：<lb
+ n="0524a19" ed="T"/><ab type='prose'>爾時，央掘魔羅復說偈言：<lb
  n="0524a20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「佛說常不滅，　　從是生大慧，　　<lb
  n="0524a21" ed="T"/>佛說大智慧，　　從是說法生。　　<lb
  n="0524a22" ed="T"/>嗚呼舍利弗，　　修習蚊蚋行，　　<lb
  n="0524a23" ed="T"/>不能分別知，　　真實智慧義，　　<lb
  n="0524a24" ed="T"/>陋哉蚊蚋慧，　　無知宜默然。」　　
 </ab><lb
- n="0524a25" ed="T"/><ab type="prose">爾時，尊者阿難來詣佛所，頂禮佛足却住一<lb
+ n="0524a25" ed="T"/><ab type='prose'>爾時，尊者阿難來詣佛所，頂禮佛足却住一<lb
  n="0524a26" ed="T"/>面，見央掘魔羅心生隨喜，以偈歎言：<lb
  n="0524a27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「善哉央掘魔！　　已修殊勝業，　　<lb
  n="0524a28" ed="T"/>我今發隨喜，　　速通九部經。」　　
 </ab><lb
- n="0524a29" ed="T"/><ab type="prose">爾時，央掘魔羅以偈問言：<pb n="0524b" ed="T" id="T02.0120.0524b"/><lb
+ n="0524a29" ed="T"/><ab type='prose'>爾時，央掘魔羅以偈問言：<pb n="0524b" ed="T" id="T02.0120.0524b"/><lb
  n="0524b01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「如來稱歎汝，　　多聞最第一。　　<lb
  n="0524b02" ed="T"/>云何世多聞，　　多聞從何生？」　　
 </ab><lb
- n="0524b03" ed="T"/><ab type="prose">爾時，阿難以偈答言：<lb
+ n="0524b03" ed="T"/><ab type='prose'>爾時，阿難以偈答言：<lb
  n="0524b04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「誦習九部經，　　離慳為人說，　　<lb
  n="0524b05" ed="T"/>從是獲多聞，　　總持不思議。」　　
 </ab><lb
- n="0524b06" ed="T"/><ab type="prose">爾時，央掘魔羅復說偈言：<lb
+ n="0524b06" ed="T"/><ab type='prose'>爾時，央掘魔羅復說偈言：<lb
  n="0524b07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「歎說諸如來，　　畢竟常不滅，　　<lb
  n="0524b08" ed="T"/>是名為世間，　　第一最多聞。　　<lb
  n="0524b09" ed="T"/>嗚呼阿難陀，　　修習蚊蚋行，　　<lb
  n="0524b10" ed="T"/>不能分別知，　　多聞所入聞，　　<lb
  n="0524b11" ed="T"/>陋哉蚊蚋持，　　無知宜默然。」　　
 </ab><lb
- n="0524b12" ed="T"/><ab type="prose">爾時，尊者羅睺羅來詣佛所，頂禮佛足却住<lb
+ n="0524b12" ed="T"/><ab type='prose'>爾時，尊者羅睺羅來詣佛所，頂禮佛足却住<lb
  n="0524b13" ed="T"/>一面，見央掘魔羅心生隨喜，以偈歎言：<lb
  n="0524b14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「善哉央掘魔！　　已修勝功德，　　<lb
  n="0524b15" ed="T"/>我今發隨喜，　　敬戒速受持。」　　
 </ab><lb
- n="0524b16" ed="T"/><ab type="prose">爾時，央掘魔羅以偈問言：<lb
+ n="0524b16" ed="T"/><ab type='prose'>爾時，央掘魔羅以偈問言：<lb
  n="0524b17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「如來稱歎汝，　　恭敬戒第一。　　<lb
  n="0524b18" ed="T"/>云何為世間，　　恭敬於淨戒？　　<lb
  n="0524b19" ed="T"/>汝是佛愛子，　　速說決我疑。」　　
 </ab><lb
- n="0524b20" ed="T"/><ab type="prose">爾時，羅睺羅以偈答言：<lb
+ n="0524b20" ed="T"/><ab type='prose'>爾時，羅睺羅以偈答言：<lb
  n="0524b21" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「一切佛所說，　　專心恭敬持，　　<lb
  n="0524b22" ed="T"/>是則為世間，　　第一恭敬戒。」　　
 </ab><lb
- n="0524b23" ed="T"/><ab type="prose">爾時，央掘魔羅復說偈言：<lb
+ n="0524b23" ed="T"/><ab type='prose'>爾時，央掘魔羅復說偈言：<lb
  n="0524b24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「若說諸如來，　　世間第一常，　　<lb
  n="0524b25" ed="T"/>是名為世間，　　最上恭敬戒。　　<lb
  n="0524b26" ed="T"/>嗚呼羅睺羅！　　修習蚊蚋行，　　<lb
  n="0524b27" ed="T"/>不能知第一，　　真實恭敬戒，　　<lb
  n="0524b28" ed="T"/>陋哉蚊蚋敬，　　無知宜默然。」　　
 </ab><lb
- n="0524b29" ed="T"/><ab type="prose">爾時，尊者阿那律來詣佛所，頂禮佛足却住<pb n="0524c" ed="T" id="T02.0120.0524c"/><lb
+ n="0524b29" ed="T"/><ab type='prose'>爾時，尊者阿那律來詣佛所，頂禮佛足却住<pb n="0524c" ed="T" id="T02.0120.0524c"/><lb
  n="0524c01" ed="T"/>一面，見央掘魔羅心生隨喜，以偈歎言：<lb
  n="0524c02" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「奇哉央掘魔！　　善修殊勝業，　　<lb
  n="0524c03" ed="T"/>我今發隨喜，　　不久得天眼。」　　
 </ab><lb
- n="0524c04" ed="T"/><ab type="prose">爾時，央掘魔羅以偈問言：<lb
+ n="0524c04" ed="T"/><ab type='prose'>爾時，央掘魔羅以偈問言：<lb
  n="0524c05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「如來稱歎汝，　　天眼最第一。　　<lb
  n="0524c06" ed="T"/>云何世天眼，　　天眼云何生？　　<lb
  n="0524c07" ed="T"/>汝今當速說，　　決斷我所疑。」　　
 </ab><lb
- n="0524c08" ed="T"/><ab type="prose">爾時，阿那律以偈答言：<lb
+ n="0524c08" ed="T"/><ab type='prose'>爾時，阿那律以偈答言：<lb
  n="0524c09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「常好施燈明，　　說法開化人，　　<lb
  n="0524c10" ed="T"/>由是獲天眼，　　洞視無障礙。」　　
 </ab><lb
- n="0524c11" ed="T"/><ab type="prose">爾時，央掘魔羅復說偈言：<lb
+ n="0524c11" ed="T"/><ab type='prose'>爾時，央掘魔羅復說偈言：<lb
  n="0524c12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「如來深法藏，　　精勤方便說，　　<lb
  n="0524c13" ed="T"/>顯示不隱覆，　　究竟最勝眼。　　<lb
  n="0524c14" ed="T"/>嗚呼阿那律，　　修習蚊蚋行，　　<lb
  n="0524c15" ed="T"/>不能知出生，　　天眼勝方便，　　<lb
  n="0524c16" ed="T"/>陋哉蚊蚋眼，　　無知宜默然。」　　
 </ab><lb
- n="0524c17" ed="T"/><ab type="prose">爾時，尊者沙門陀娑來詣佛所，頂禮佛足却<lb
+ n="0524c17" ed="T"/><ab type='prose'>爾時，尊者沙門陀娑來詣佛所，頂禮佛足却<lb
  n="0524c18" ed="T"/>住一面，見央掘魔羅心生隨喜，以偈歎言：<lb
  n="0524c19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「奇哉央掘魔！　　善修殊勝業，　　<lb
  n="0524c20" ed="T"/>我今發隨喜，　　宜應修忍辱。」　　
 </ab><lb
- n="0524c21" ed="T"/><ab type="prose">爾時，央掘魔羅以偈問言：<lb
+ n="0524c21" ed="T"/><ab type='prose'>爾時，央掘魔羅以偈問言：<lb
  n="0524c22" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「云何為世間，　　成就第一忍？　　<lb
  n="0524c23" ed="T"/>云何生忍辱？　　速說決所疑。」　　
 </ab><lb
- n="0524c24" ed="T"/><ab type="prose">爾時，沙門陀娑以偈答言：<lb
+ n="0524c24" ed="T"/><ab type='prose'>爾時，沙門陀娑以偈答言：<lb
  n="0524c25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「栴檀塗右臂，　　利刀斬左手，　　<lb
  n="0524c26" ed="T"/>等心不傾動，　　能生最上忍，　　<lb
  n="0524c27" ed="T"/>是則名世間，　　堪忍上調伏。」　　
 </ab><lb
- n="0524c28" ed="T"/><ab type="prose">爾時，央掘魔羅復說偈言：<lb
+ n="0524c28" ed="T"/><ab type='prose'>爾時，央掘魔羅復說偈言：<lb
  n="0524c29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「若說如來藏，　　顯示諸世間，　　<pb n="0525a" ed="T" id="T02.0120.0525a"/><lb
  n="0525a01" ed="T"/>無知惡邪見，　　捨我須無我，　　<lb
  n="0525a02" ed="T"/>言是佛正法，　　聞彼說不怖。　　<lb
@@ -1280,27 +1280,27 @@
  n="0525a07" ed="T"/>蚊蚋亦堪耐，　　饑渴寒熱苦，　　<lb
  n="0525a08" ed="T"/>陋哉蚊蚋忍，　　無知宜默然。」　　
 </ab><lb
- n="0525a09" ed="T"/><ab type="prose">爾時，尊者滿願子來詣佛所，頂禮佛足却住<lb
+ n="0525a09" ed="T"/><ab type='prose'>爾時，尊者滿願子來詣佛所，頂禮佛足却住<lb
  n="0525a10" ed="T"/>一面，見央掘魔羅心大歡喜，以偈歎言：<lb
  n="0525a11" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「善哉修勝業，　　我今發隨喜，　　<lb
  n="0525a12" ed="T"/>為一切眾生，　　安慰演說法。」　　
 </ab><lb
- n="0525a13" ed="T"/><ab type="prose">爾時，央掘魔羅以偈問言：<lb
+ n="0525a13" ed="T"/><ab type='prose'>爾時，央掘魔羅以偈問言：<lb
  n="0525a14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「如來稱歎汝，　　說法中第一。　　<lb
  n="0525a15" ed="T"/>云何說法者？　　云何為知義？　　<lb
  n="0525a16" ed="T"/>唯願說法上，　　時為決所疑。」　　
 </ab><lb
- n="0525a17" ed="T"/><ab type="prose">爾時，滿願子以偈答言：<lb
+ n="0525a17" ed="T"/><ab type='prose'>爾時，滿願子以偈答言：<lb
  n="0525a18" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「諸佛及聲聞，　　聖所不得法，　　<lb
  n="0525a19" ed="T"/>正覺善通達，　　廣為眾生說。　　
 </ab><lb
- n="0525a20" ed="T"/><ab type="prose">「此說有何義？謂過去一切諸佛，於一切法中<lb
+ n="0525a20" ed="T"/><ab type='prose'>「此說有何義？謂過去一切諸佛，於一切法中<lb
  n="0525a21" ed="T"/>極方便求，不得眾生界及我人壽命，現在未<lb
  n="0525a22" ed="T"/>來一切諸佛及三世一切聲聞緣覺，於一切<lb
  n="0525a23" ed="T"/>法中極方便求亦悉不得，我亦如是為眾生<lb
@@ -1433,26 +1433,26 @@
  n="0526c05" ed="T"/>爾時，孫陀羅難陀來詣佛所，稽首佛足却住<lb
  n="0526c06" ed="T"/>一面，見央掘魔羅心生隨喜，以偈歎言：<lb
  n="0526c07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「善哉央掘魔！　　已修殊勝業，　　<lb
  n="0526c08" ed="T"/>宜應方便求，　　如來妙色身。」　　
 </ab><lb
- n="0526c09" ed="T"/><ab type="prose">爾時，央掘魔羅以偈問言：<lb
+ n="0526c09" ed="T"/><ab type='prose'>爾時，央掘魔羅以偈問言：<lb
  n="0526c10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「世尊稱歎汝，　　端政最第一。　　<lb
  n="0526c11" ed="T"/>云何為世間，　　端政最殊特？　　<lb
  n="0526c12" ed="T"/>何因得端政？　　時說決所疑。」　　
 </ab><lb
- n="0526c13" ed="T"/><ab type="prose">爾時，孫陀羅難陀以偈答言：<lb
+ n="0526c13" ed="T"/><ab type='prose'>爾時，孫陀羅難陀以偈答言：<lb
  n="0526c14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「澡手合十指，　　頂禮佛舍利，　　<lb
  n="0526c15" ed="T"/>常供養病人，　　從是致端政。」　　
 </ab><lb
- n="0526c16" ed="T"/><ab type="prose">爾時，央掘魔羅復說偈言：<lb
+ n="0526c16" ed="T"/><ab type='prose'>爾時，央掘魔羅復說偈言：<lb
  n="0526c17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「佛身無筋骨，　　云何有舍利？　　<lb
  n="0526c18" ed="T"/>如來離舍利，　　勝方便法身。　　<lb
  n="0526c19" ed="T"/>如來不思議，　　未信令信樂，　　<lb
@@ -1467,28 +1467,28 @@
  n="0526c28" ed="T"/>嗚呼孫陀羅，　　不知妙色門，　　<lb
  n="0526c29" ed="T"/>蚊蚋色具足，　　無知宜默然。」　　
 </ab><pb n="0527a" ed="T" id="T02.0120.0527a"/><lb
- n="0527a01" ed="T"/><ab type="prose">爾時，尊者優波離來詣佛所，稽首佛足却住<lb
+ n="0527a01" ed="T"/><ab type='prose'>爾時，尊者優波離來詣佛所，稽首佛足却住<lb
  n="0527a02" ed="T"/>一面，見央掘魔羅心生隨喜，以偈歎言：<lb
  n="0527a03" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「奇哉央掘魔！　　已修殊勝業，　　<lb
  n="0527a04" ed="T"/>我今發隨喜，　　汝當修淨律。」　　
 </ab><lb
- n="0527a05" ed="T"/><ab type="prose">爾時，央掘魔羅以偈問言：<lb
+ n="0527a05" ed="T"/><ab type='prose'>爾時，央掘魔羅以偈問言：<lb
  n="0527a06" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「如來稱歎汝，　　持律中第一。　　<lb
  n="0527a07" ed="T"/>云何善持律？　　速說決所疑。」　　
 </ab><lb
- n="0527a08" ed="T"/><ab type="prose">爾時，優波離，以偈答言：<lb
+ n="0527a08" ed="T"/><ab type='prose'>爾時，優波離，以偈答言：<lb
  n="0527a09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「一切惡莫作，　　諸善悉奉行，　　<lb
  n="0527a10" ed="T"/>方便修淨心，　　是則善持律。」　　
 </ab><lb
- n="0527a11" ed="T"/><ab type="prose">爾時，央掘魔羅復說偈言：<lb
+ n="0527a11" ed="T"/><ab type='prose'>爾時，央掘魔羅復說偈言：<lb
  n="0527a12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「壞法毀禁戒，　　非律惡比丘，　　<lb
  n="0527a13" ed="T"/>應當奪六物，　　一切資生具，　　<lb
  n="0527a14" ed="T"/>逼迫加罰黜，　　方便令調伏，　　<lb
@@ -1505,23 +1505,23 @@
  n="0527a25" ed="T"/>嗚呼優波離，　　修習蚊蚋行，　　<lb
  n="0527a26" ed="T"/>不解善持律，　　無知宜默然。」　　
 </ab><lb
- n="0527a27" ed="T"/><ab type="prose">爾時，文殊師利法王子來詣佛所，稽首佛足<lb
+ n="0527a27" ed="T"/><ab type='prose'>爾時，文殊師利法王子來詣佛所，稽首佛足<lb
  n="0527a28" ed="T"/>却住一面，見央掘魔羅心生隨喜，以偈歎言：<lb
  n="0527a29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「善哉央掘魔！　　已修殊勝業，　　<pb n="0527b" ed="T" id="T02.0120.0527b"/><lb
  n="0527b01" ed="T"/>今當修大空，　　諸法無所有。」　　
 </ab><lb
- n="0527b02" ed="T"/><ab type="prose">爾時，央掘魔羅以偈問言：<lb
+ n="0527b02" ed="T"/><ab type='prose'>爾時，央掘魔羅以偈問言：<lb
  n="0527b03" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「文殊法王子！　　汝見空第一。　　<lb
  n="0527b04" ed="T"/>云何為世間，　　善見空寂法？　　<lb
  n="0527b05" ed="T"/>空空有何義？　　時說決所疑。」　　
 </ab><lb
- n="0527b06" ed="T"/><ab type="prose">爾時，文殊師利以偈答言：<lb
+ n="0527b06" ed="T"/><ab type='prose'>爾時，文殊師利以偈答言：<lb
  n="0527b07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「諸佛如虛空，　　虛空無有相，　　<lb
  n="0527b08" ed="T"/>諸佛如虛空，　　虛空無生相，　　<lb
  n="0527b09" ed="T"/>諸佛如虛空，　　虛空無色相。　　<lb
@@ -1532,9 +1532,9 @@
  n="0527b14" ed="T"/>解脫則如來，　　空寂無所有。　　<lb
  n="0527b15" ed="T"/>汝央掘魔羅，　　云何能了知？」　　
 </ab><lb
- n="0527b16" ed="T"/><ab type="prose">爾時，央掘魔羅復說偈言：<lb
+ n="0527b16" ed="T"/><ab type='prose'>爾時，央掘魔羅復說偈言：<lb
  n="0527b17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「譬如有愚夫，　　見雹生妄想，　　<lb
  n="0527b18" ed="T"/>謂是琉璃珠，　　取已執持歸，　　<lb
  n="0527b19" ed="T"/>置之瓶器中，　　守護如真寶，　　<lb
@@ -1564,17 +1564,17 @@
  n="0527c14" ed="T"/>嗚呼蚊蚋行，　　不知真空義，　　<lb
  n="0527c15" ed="T"/>外道亦修空，　　尼乾宜默然。」　　
 </ab><lb
- n="0527c16" ed="T"/><ab type="prose">爾時，文殊師利以偈問言：<lb
+ n="0527c16" ed="T"/><ab type='prose'>爾時，文殊師利以偈問言：<lb
  n="0527c17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「汝央掘魔羅！　　以何因緣故？　　<lb
  n="0527c18" ed="T"/>恐迫聲聞眾，　　輕蔑諸佛子，　　<lb
  n="0527c19" ed="T"/>縱意肄兇暴，　　虓譀如猛虎，　　<lb
  n="0527c20" ed="T"/>誰是蚊蚋行，　　出是惡音聲？」　　
 </ab><lb
- n="0527c21" ed="T"/><ab type="prose">爾時，央掘魔羅以偈答曰：<lb
+ n="0527c21" ed="T"/><ab type='prose'>爾時，央掘魔羅以偈答曰：<lb
  n="0527c22" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「譬如貧怯士，　　遊行曠野中，　　<lb
  n="0527c23" ed="T"/>卒聞猛虎氣，　　恐怖急馳走。　　<lb
  n="0527c24" ed="T"/>聲聞緣覺人，　　不知摩訶衍，　　<lb
@@ -1587,18 +1587,18 @@
  n="0528a02" ed="T"/>設我野干鳴，　　一切莫能報，　　<lb
  n="0528a03" ed="T"/>況復能聽聞，　　無等師子吼？」　　
 </ab><lb
- n="0528a04" ed="T"/><ab type="prose">爾時，文殊師利以偈問言：<lb
+ n="0528a04" ed="T"/><ab type='prose'>爾時，文殊師利以偈問言：<lb
  n="0528a05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「汝是小蚊蚋，　　興造諸惡行，　　<lb
  n="0528a06" ed="T"/>如汝是菩薩，　　何處更有魔？　　<lb
  n="0528a07" ed="T"/>嗚呼世間人，　　不能自覺知，　　<lb
  n="0528a08" ed="T"/>不自省己過，　　但見他人惡。　　<lb
  n="0528a09" ed="T"/>汝央掘魔羅！　　為作幾許罪？」　　
 </ab><lb
- n="0528a10" ed="T"/><ab type="prose">爾時，央掘魔羅以偈答言：<lb
+ n="0528a10" ed="T"/><ab type='prose'>爾時，央掘魔羅以偈答言：<lb
  n="0528a11" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「嗚呼今世人，　　二人壞正法，　　<lb
  n="0528a12" ed="T"/>謂說唯極空，　　或復說有我。　　<lb
  n="0528a13" ed="T"/>如是二種人，　　傾覆佛正法，　　<lb
@@ -1638,30 +1638,30 @@
  n="0528b18" ed="T"/>嗚呼汝文殊！　　修習蚊蚋行，　　<lb
  n="0528b19" ed="T"/>而不志龍象，　　世雄大智慧。」　　
 </ab><lb
- n="0528b20" ed="T"/><ab type="prose">爾時，世尊以一切智一切見，向文殊師利，以<lb
+ n="0528b20" ed="T"/><ab type='prose'>爾時，世尊以一切智一切見，向文殊師利，以<lb
  n="0528b21" ed="T"/>偈歎言：<lb
  n="0528b22" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「如央掘魔說，　　菩薩行如是，　　<lb
  n="0528b23" ed="T"/>當知彼非凡，　　為度眾生故。　　<lb
  n="0528b24" ed="T"/>彼則大菩薩，　　雄猛如汝等，　　<lb
  n="0528b25" ed="T"/>善哉汝文殊！　　當知彼功德。」　　
 </ab><lb
- n="0528b26" ed="T"/><ab type="prose">佛說是已，以偈歎言：<lb
+ n="0528b26" ed="T"/><ab type='prose'>佛說是已，以偈歎言：<lb
  n="0528b27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「善哉巧方便，　　殊勝人中雄，　　<lb
  n="0528b28" ed="T"/>安慰眾生故，　　現大精進力。　　<lb
  n="0528b29" ed="T"/>我今當演說，　　欲成阿羅漢，　　<pb n="0528c" ed="T" id="T02.0120.0528c"/><lb
  n="0528c01" ed="T"/>如是諸功德，　　善業及精進，　　<lb
  n="0528c02" ed="T"/>令一切眾生，　　究竟永安樂。」　　
 </ab><lb
- n="0528c03" ed="T"/><ab type="prose">爾時，舍利弗白佛言：「世尊！唯願哀愍一切眾<lb
+ n="0528c03" ed="T"/><ab type='prose'>爾時，舍利弗白佛言：「世尊！唯願哀愍一切眾<lb
  n="0528c04" ed="T"/>生，為我演說，將欲疾成阿羅漢者，以何功<lb
  n="0528c05" ed="T"/>德。何業。何精進，饒益安樂一切眾生？」爾時，世<lb
  n="0528c06" ed="T"/>尊以偈答言：<lb
  n="0528c07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「父母和合時，　　子來入母胎，　　<lb
  n="0528c08" ed="T"/>父母心歡喜，　　得隨順功德。　　<lb
  n="0528c09" ed="T"/>異精進光澤，　　世間極豐壤，　　<lb
@@ -1697,37 +1697,37 @@
  n="0529a10" ed="T"/>若欲發勝願，　　普濟諸世間，　　<lb
  n="0529a11" ed="T"/>而作不善行，　　則無有是處。」　　
 </ab><lb
- n="0529a12" ed="T"/><ab type="prose">爾時，世尊復說偈言：<lb
+ n="0529a12" ed="T"/><ab type='prose'>爾時，世尊復說偈言：<lb
  n="0529a13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「現作日月天，　　梵王眾生主，　　<lb
  n="0529a14" ed="T"/>地水火風空，　　如是無量德，　　<lb
  n="0529a15" ed="T"/>菩薩人中雄，　　以此度眾生。」　　
 </ab><lb
- n="0529a16" ed="T"/><ab type="prose">爾時，大目犍連以偈歎言：<lb
+ n="0529a16" ed="T"/><ab type='prose'>爾時，大目犍連以偈歎言：<lb
  n="0529a17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「奇哉央掘魔！　　如是大功德，　　<lb
  n="0529a18" ed="T"/>暫見佛世尊，　　超度一切有。」　　
 </ab><lb
- n="0529a19" ed="T"/><ab type="prose">爾時，央掘魔羅以偈答言：<lb
+ n="0529a19" ed="T"/><ab type='prose'>爾時，央掘魔羅以偈答言：<lb
  n="0529a20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「云何大目連，　　頗有諸眾生，　　<lb
  n="0529a21" ed="T"/>不見佛世尊，　　能知正法耶？」　　
 </ab><lb
- n="0529a22" ed="T"/><ab type="prose">爾時，大目犍連，以偈答言：<lb
+ n="0529a22" ed="T"/><ab type='prose'>爾時，大目犍連，以偈答言：<lb
  n="0529a23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「如佛世尊說，　　病人有三種，　　<lb
  n="0529a24" ed="T"/>云何名為三？　　邪正定不定。　　<lb
  n="0529a25" ed="T"/>云何為邪定？　　謂佛不能化。　　<lb
  n="0529a26" ed="T"/>云何為正定？　　謂大迦葉等。　　<lb
  n="0529a27" ed="T"/>如來未出世，　　依佛入實法。」　　
 </ab><lb
- n="0529a28" ed="T"/><ab type="prose">爾時，央掘魔羅復說偈言：<lb
+ n="0529a28" ed="T"/><ab type='prose'>爾時，央掘魔羅復說偈言：<lb
  n="0529a29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「汝莫作是說，　　上座大迦葉，　　<pb n="0529b" ed="T" id="T02.0120.0529b"/><lb
  n="0529b01" ed="T"/>如來未出世，　　能入真實法。　　<lb
  n="0529b02" ed="T"/>所以然者何？　　如來常住世，　　<lb
@@ -1740,15 +1740,15 @@
  n="0529b09" ed="T"/>一切諸勝法，　　斯皆從佛流，　　<lb
  n="0529b10" ed="T"/>是故大迦葉，　　依佛得出家。」　　
 </ab><lb
- n="0529b11" ed="T"/><ab type="prose">爾時，大目連以偈問言：<lb
+ n="0529b11" ed="T"/><ab type='prose'>爾時，大目連以偈問言：<lb
  n="0529b12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「若有諸如來，　　常住於世間，　　<lb
  n="0529b13" ed="T"/>我及餘眾生，　　何故此不見？」　　
 </ab><lb
- n="0529b14" ed="T"/><ab type="prose">爾時，央掘魔羅以偈答言：<lb
+ n="0529b14" ed="T"/><ab type='prose'>爾時，央掘魔羅以偈答言：<lb
  n="0529b15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「但令迦葉知，　　猶如餘處雨，　　<lb
  n="0529b16" ed="T"/>是故世無佛，　　眾生不自度，　　<lb
  n="0529b17" ed="T"/>面覩諸如來，　　然後得解脫。　　<lb
@@ -1759,28 +1759,28 @@
  n="0529b22" ed="T"/>濟度諸群生，　　出家受具足。　　<lb
  n="0529b23" ed="T"/>是故唯邪正，　　無有不定聚。」　　
 </ab><lb
- n="0529b24" ed="T"/><ab type="prose">爾時，大目連以偈問言：<lb
+ n="0529b24" ed="T"/><ab type='prose'>爾時，大目連以偈問言：<lb
  n="0529b25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「世間有五戒，　　佛出世亦然。」　　
 </ab><lb
- n="0529b26" ed="T"/><ab type="prose">爾時，央掘魔羅以偈答言：<lb
+ n="0529b26" ed="T"/><ab type='prose'>爾時，央掘魔羅以偈答言：<lb
  n="0529b27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「乃至世間有，　　隨順戒威儀，　　<lb
  n="0529b28" ed="T"/>世間出世間，　　當知皆佛說。」　　
 </ab><lb
- n="0529b29" ed="T"/><ab type="prose">爾時，大目連以偈問言：<pb n="0529c" ed="T" id="T02.0120.0529c"/><lb
+ n="0529b29" ed="T"/><ab type='prose'>爾時，大目連以偈問言：<pb n="0529c" ed="T" id="T02.0120.0529c"/><lb
  n="0529c01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「云何世間病，　　分別說三種？　　<lb
  n="0529c02" ed="T"/>或有醫治差，　　或不得醫差，　　<lb
  n="0529c03" ed="T"/>或復有病人，　　雖得醫不差，　　<lb
  n="0529c04" ed="T"/>是故諸病人，　　分別有三種。」　　
 </ab><lb
- n="0529c05" ed="T"/><ab type="prose">爾時，央掘魔羅以偈答言：<lb
+ n="0529c05" ed="T"/><ab type='prose'>爾時，央掘魔羅以偈答言：<lb
  n="0529c06" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「是義則不然，　　不應說三種，　　<lb
  n="0529c07" ed="T"/>可治不可治，　　唯二無有三。　　<lb
  n="0529c08" ed="T"/>若作三分別，　　亦是聲聞乘，　　<lb
@@ -1810,14 +1810,14 @@
  n="0530a03" ed="T"/>邪定是闡提，　　正定是如來，　　<lb
  n="0530a04" ed="T"/>住地諸菩薩，　　及聲聞緣覺。」　　
 </ab><lb
- n="0530a05" ed="T"/><ab type="prose">爾時，世尊向央掘魔羅，而說偈言：<lb
+ n="0530a05" ed="T"/><ab type='prose'>爾時，世尊向央掘魔羅，而說偈言：<lb
  n="0530a06" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「汝來央掘魔，　　出家受三歸。」　　
 </ab><lb
- n="0530a07" ed="T"/><ab type="prose">爾時，央掘魔羅以偈答言：<lb
+ n="0530a07" ed="T"/><ab type='prose'>爾時，央掘魔羅以偈答言：<lb
  n="0530a08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「此乘是大乘，　　說名無礙智，　　<lb
  n="0530a09" ed="T"/>一乘一歸依，　　佛第一義依。　　<lb
  n="0530a10" ed="T"/>佛法是一義，　　如來妙法身，　　<lb
@@ -1832,18 +1832,18 @@
  n="0530a19" ed="T"/>如是捨一依，　　修習方便依，　　<lb
  n="0530a20" ed="T"/>是則群癡眾，　　千佛不能救。」　　
 </ab><lb
- n="0530a21" ed="T"/><ab type="prose">爾時，世尊告央掘魔羅：「汝當受持童真淨戒。」<lb
+ n="0530a21" ed="T"/><ab type='prose'>爾時，世尊告央掘魔羅：「汝當受持童真淨戒。」<lb
  n="0530a22" ed="T"/><lb
  n="0530a23" ed="T"/>爾時，央掘魔羅以偈問言：<lb
  n="0530a24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「云何為童真？　　云何具足戒？　　<lb
  n="0530a25" ed="T"/>云何真沙門？　　云何為福田？」　　
 </ab><lb
- n="0530a26" ed="T"/><ab type="prose">爾時，世尊默然而住。<lb
+ n="0530a26" ed="T"/><ab type='prose'>爾時，世尊默然而住。<lb
  n="0530a27" ed="T"/>央掘魔羅復說偈言：<lb
  n="0530a28" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「若不知一依，　　是第一義依，　　<lb
  n="0530a29" ed="T"/>不能知二依，　　方便所建立，　　<pb n="0530b" ed="T" id="T02.0120.0530b"/><lb
  n="0530b01" ed="T"/>當知如是人，　　是世間童真。　　<lb
@@ -1855,19 +1855,19 @@
  n="0530b07" ed="T"/>於是二歸依，　　真實及方便，　　<lb
  n="0530b08" ed="T"/>不善知差別，　　是則世童真。」　　
 </ab><lb
- n="0530b09" ed="T"/><ab type="prose">爾時，世尊告央掘魔羅：「汝當受持不殺生戒。」<lb
+ n="0530b09" ed="T"/><ab type='prose'>爾時，世尊告央掘魔羅：「汝當受持不殺生戒。」<lb
  n="0530b10" ed="T"/>央掘魔羅以偈答言：<lb
  n="0530b11" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「我今定不能，　　受持不殺戒，　　<lb
  n="0530b12" ed="T"/>我當常受持，　　斷絕眾生命。　　<lb
  n="0530b13" ed="T"/>所言眾生者，　　無量諸煩惱，　　<lb
  n="0530b14" ed="T"/>若能常害彼，　　是名持殺戒。」　　
 </ab><lb
- n="0530b15" ed="T"/><ab type="prose">爾時，世尊復告之言：「汝當受持不妄語戒。」<lb
+ n="0530b15" ed="T"/><ab type='prose'>爾時，世尊復告之言：「汝當受持不妄語戒。」<lb
  n="0530b16" ed="T"/>央掘魔羅以偈答言：<lb
  n="0530b17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「我今定不能，　　受持不妄語，　　<lb
  n="0530b18" ed="T"/>常於一切法，　　受持妄說句，　　<lb
  n="0530b19" ed="T"/>受持虛妄說，　　是則諸佛法。　　<lb
@@ -1911,10 +1911,10 @@
  n="0530c28" ed="T"/>乃至殺眾生，　　一切虛妄際，　　<lb
  n="0530c29" ed="T"/>不受離虛妄，　　則我戒清淨。」　　
 </ab><pb n="0531a" ed="T" id="T02.0120.0531a"/><lb
- n="0531a01" ed="T"/><ab type="prose">爾時，世尊告央掘魔羅：「汝今當受不飲酒戒。」<lb
+ n="0531a01" ed="T"/><ab type='prose'>爾時，世尊告央掘魔羅：「汝今當受不飲酒戒。」<lb
  n="0531a02" ed="T"/>央掘魔羅以偈答言：<lb
  n="0531a03" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「我今亦不能，　　受持不飲酒。　　<lb
  n="0531a04" ed="T"/>常受飲酒戒，　　長夜恒縱逸，　　<lb
  n="0531a05" ed="T"/>由是大叫呼，　　宛轉遍五道，　　<lb
@@ -1924,10 +1924,10 @@
  n="0531a09" ed="T"/>常住不變易，　　歡喜歎善哉，　　<lb
  n="0531a10" ed="T"/>八聲大宣唱，　　酣醉無終極。」　　
 </ab><lb
- n="0531a11" ed="T"/><ab type="prose">爾時，世尊告央掘魔羅：「汝今當受不婬淨戒。」<lb
+ n="0531a11" ed="T"/><ab type='prose'>爾時，世尊告央掘魔羅：「汝今當受不婬淨戒。」<lb
  n="0531a12" ed="T"/>央掘魔羅以偈答言：<lb
  n="0531a13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「我今亦不能，　　受持不婬戒。　　<lb
  n="0531a14" ed="T"/>我當常受持，　　貪著他所愛，　　<lb
  n="0531a15" ed="T"/>恒遊婬女舍，　　與彼相娛樂。　　<lb
@@ -1940,11 +1940,11 @@
  n="0531a22" ed="T"/>是等名世間，　　第一勝娛樂，　　<lb
  n="0531a23" ed="T"/>慧者自性法，　　非是愚境界。」　　
 </ab><lb
- n="0531a24" ed="T"/><ab type="prose">爾時，世尊告央掘魔羅：「汝今當受離不與取<lb
+ n="0531a24" ed="T"/><ab type='prose'>爾時，世尊告央掘魔羅：「汝今當受離不與取<lb
  n="0531a25" ed="T"/>戒。」<lb
  n="0531a26" ed="T"/>央掘魔羅以偈答言：<lb
  n="0531a27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「我今亦不能，　　受持不盜戒。　　<lb
  n="0531a28" ed="T"/>常受不與取，　　劫盜他財物，　　<lb
  n="0531a29" ed="T"/>不與者菩提，　　無有授與者，　　<pb n="0531b" ed="T" id="T02.0120.0531b"/><lb
@@ -1952,10 +1952,10 @@
  n="0531b02" ed="T"/>佛坐菩提樹，　　不得亦不失，　　<lb
  n="0531b03" ed="T"/>此是自性法，　　最勝無有上。」　　
 </ab><lb
- n="0531b04" ed="T"/><ab type="prose">爾時，佛告央掘魔羅：「汝今當受不歌舞戒。」<lb
+ n="0531b04" ed="T"/><ab type='prose'>爾時，佛告央掘魔羅：「汝今當受不歌舞戒。」<lb
  n="0531b05" ed="T"/>央掘魔羅以偈答言：<lb
  n="0531b06" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「我常習舞樂，　　歌乾闥婆偈，　　<lb
  n="0531b07" ed="T"/>宣示如來藏，　　嗟歎稱善哉。　　<lb
  n="0531b08" ed="T"/>於彼諸佛所，　　聞如來常住，　　<lb
@@ -1966,17 +1966,17 @@
  n="0531b13" ed="T"/>諸佛悉受記，　　未來同一號。」　　
 </ab><lb
  n="0531b14" ed="T"/>
-<ab type="juan" subtype="close">央掘魔羅經卷第二</ab><lb
+<ab type='juan' subtype='close'>央掘魔羅經卷第二</ab><lb
  n="0531b15" ed="T"/><lb
  n="0531b16" ed="T"/><lb
  n="0531b17" ed="T"/>
-<ab type="juan" subtype="open">央掘魔羅經卷第三</ab><lb
+<ab type='juan' subtype='open'>央掘魔羅經卷第三</ab><lb
  n="0531b18" ed="T"/><lb
  n="0531b19" ed="T"/><byline>宋天竺三藏求那跋陀羅譯</byline><lb
- n="0531b20" ed="T"/><ab type="prose">爾時，佛告央掘魔羅：「云何為一學？」央掘魔羅<lb
+ n="0531b20" ed="T"/><ab type='prose'>爾時，佛告央掘魔羅：「云何為一學？」央掘魔羅<lb
  n="0531b21" ed="T"/>以偈答言：<lb
  n="0531b22" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「一切眾生命，　　皆由飲食住，　　<lb
  n="0531b23" ed="T"/>是則聲聞乘，　　斯非摩訶衍，　　<lb
  n="0531b24" ed="T"/>所謂摩訶衍，　　離食常堅固。　　<lb
@@ -2056,7 +2056,7 @@
  n="0532b11" ed="T"/>一色謂如來，　　是故說一乘，　　<lb
  n="0532b12" ed="T"/>唯一究竟乘，　　餘悉是方便。」　　
 </ab><lb
- n="0532b13" ed="T"/><ab type="prose">爾時，世尊歎言：「善哉善哉！央掘魔羅！汝來<lb
+ n="0532b13" ed="T"/><ab type='prose'>爾時，世尊歎言：「善哉善哉！央掘魔羅！汝來<lb
  n="0532b14" ed="T"/>比丘。」即成沙門，威儀具足如舊比丘。爾時，央<lb
  n="0532b15" ed="T"/>掘魔羅稽首佛足白佛言：「世尊！我今已來尋<lb
  n="0532b16" ed="T"/>聲即得阿羅漢果。」佛又告言：「汝來祇陀林廣<lb
@@ -2078,7 +2078,7 @@
  n="0532c03" ed="T"/>婆、阿修羅、緊那羅、摩睺羅伽及諸天女，設天<lb
  n="0532c04" ed="T"/>供養雨種種寶，一心同聲而說偈言：<lb
  n="0532c05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「我今稽首禮，　　四八大人相，　　<lb
  n="0532c06" ed="T"/>無量諸功德，　　如淨蓮花敷。　　<lb
  n="0532c07" ed="T"/>眉間白毫相，　　明淨踰月光，　　<lb
@@ -2114,7 +2114,7 @@
  n="0533a08" ed="T"/>南無央掘魔，　　持無量涅槃，　　<lb
  n="0533a09" ed="T"/>順世無量生，　　是故稽首禮。」　　
 </ab><lb
- n="0533a10" ed="T"/><ab type="prose">爾時，央掘魔羅白佛言：「世尊！世尊說言：『我住<lb
+ n="0533a10" ed="T"/><ab type='prose'>爾時，央掘魔羅白佛言：「世尊！世尊說言：『我住<lb
  n="0533a11" ed="T"/>無生際。』此說有何義？云何世尊住無生際住<lb
  n="0533a12" ed="T"/>解脫地，而復住此？誰能信者？願說因緣。」佛<lb
  n="0533a13" ed="T"/>告央掘魔羅：「汝今當與文殊師利俱，至北方<lb
@@ -2524,14 +2524,14 @@
  n="0537c11" ed="T"/>而復住此。央掘魔羅！涅槃即是解脫，解脫即<lb
  n="0537c12" ed="T"/>是如來。」<lb
  n="0537c13" ed="T"/>
-</ab><ab type="juan" subtype="close">央掘魔羅經卷第三</ab><lb
+</ab><ab type='juan' subtype='close'>央掘魔羅經卷第三</ab><lb
  n="0537c14" ed="T"/><lb
  n="0537c15" ed="T"/><lb
  n="0537c16" ed="T"/>
-<ab type="juan" subtype="open">央掘魔羅經卷第四</ab><lb
+<ab type='juan' subtype='open'>央掘魔羅經卷第四</ab><lb
  n="0537c17" ed="T"/><lb
  n="0537c18" ed="T"/><byline>宋天竺三藏求那跋陀羅譯</byline><lb
- n="0537c19" ed="T"/><ab type="prose">爾時，央掘魔羅白佛言：「世尊！奇哉如來！哀愍<lb
+ n="0537c19" ed="T"/><ab type='prose'>爾時，央掘魔羅白佛言：「世尊！奇哉如來！哀愍<lb
  n="0537c20" ed="T"/>一切眾生，為第一難事。」佛告央掘魔羅：「非<lb
  n="0537c21" ed="T"/>是如來為第一難事，更有第一難事。謂於未<lb
  n="0537c22" ed="T"/>來正法住世餘八十年，安慰說此摩訶衍經<lb
@@ -2690,11 +2690,11 @@
  n="0539c01" ed="T"/>但自能速除煩惱，亦復當得我所得身。文殊<lb
  n="0539c02" ed="T"/>師利！如我偈說：<lb
  n="0539c03" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『我已稱說道，　　憂悲毒刺拔，　　<lb
  n="0539c04" ed="T"/>汝等應當作，　　如來之所說。』　　
 </ab><lb
- n="0539c05" ed="T"/><ab type="prose">「我說道者，說何等道？道有二種，謂聲聞道及<lb
+ n="0539c05" ed="T"/><ab type='prose'>「我說道者，說何等道？道有二種，謂聲聞道及<lb
  n="0539c06" ed="T"/>菩薩道。彼聲聞道者，謂八聖道；菩薩道者，謂<lb
  n="0539c07" ed="T"/>一切眾生皆有如來藏。我次第斷諸煩惱得<lb
  n="0539c08" ed="T"/>佛性，不動快樂甚可愛樂，若不斷者恒輪轉<lb
@@ -2708,11 +2708,11 @@
  n="0539c16" ed="T"/>果欺誑汝等，自度一切有及一切煩惱病，是<lb
  n="0539c17" ed="T"/>故言『如來之所說』。<lb
  n="0539c18" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『精勤諸善法，　　折伏諸惡心，　　<lb
  n="0539c19" ed="T"/>修福遲緩者，　　意樂著諸惡。』　　
 </ab><lb
- n="0539c20" ed="T"/><ab type="prose">「此偈我為聲聞說。又如來藏者極為難得，世<lb
+ n="0539c20" ed="T"/><ab type='prose'>「此偈我為聲聞說。又如來藏者極為難得，世<lb
  n="0539c21" ed="T"/>間無有如是難得，譬類如來之藏，當疾觀察，<lb
  n="0539c22" ed="T"/>如是如是意樂著諸惡者，比丘自性淨心，心<lb
  n="0539c23" ed="T"/>習惡知識過，五垢為首，眾多煩惱前後圍繞。<lb
@@ -2723,22 +2723,22 @@
  n="0539c28" ed="T"/>自度。以是義故，說彼心無量客塵煩惱，應當<lb
  n="0539c29" ed="T"/>疾疾拔其根本。<pb n="0540a" ed="T" id="T02.0120.0540a"/><lb
  n="0540a01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『意法前行，　　意勝法生，　　意法淨信。　　<lb
  n="0540a02" ed="T"/>若說若作，　　快樂自追，　　如影隨形。』　　
 </ab><lb
- n="0540a03" ed="T"/><ab type="prose">「我為聲聞乘說。此偈意者，謂如來藏義若自<lb
+ n="0540a03" ed="T"/><ab type='prose'>「我為聲聞乘說。此偈意者，謂如來藏義若自<lb
  n="0540a04" ed="T"/>性清淨意，是如來藏勝一切法，一切法是如<lb
  n="0540a05" ed="T"/>來藏，所作及淨信意法，斷一切煩惱故，見<lb
  n="0540a06" ed="T"/>我界故。若自淨信有如來藏，然後若說若作，<lb
  n="0540a07" ed="T"/>得成佛時若說若作，度一切世間如人見影，<lb
  n="0540a08" ed="T"/>見如來藏亦復如是，是故說如影隨形。<lb
  n="0540a09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『意法前行，　　意勝意生，　　意法為惡。　　<lb
  n="0540a10" ed="T"/>若說若作，　　眾苦自追，　　如輪隨跡。』　　
 </ab><lb
- n="0540a11" ed="T"/><ab type="prose">「<lb
+ n="0540a11" ed="T"/><ab type='prose'>「<lb
  n="0540a12" ed="T"/>「此偈說煩惱義。意法惡者，為無量煩惱所覆<lb
  n="0540a13" ed="T"/>造作諸惡，故名為惡。不知自性心如來藏，<lb
  n="0540a14" ed="T"/>入無量煩惱義，如是躁濁不息故，若說若作，<lb
@@ -2994,11 +2994,11 @@
  n="0543a03" ed="T"/>業者，乃能方便安立正法。」爾時，世尊說偈歎<lb
  n="0543a04" ed="T"/>言：<lb
  n="0543a05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「人前放逸，　　後止不犯，　　是照世間，　　<lb
  n="0543a06" ed="T"/>如月雲消。　　
 </ab><lb
- n="0543a07" ed="T"/><ab type="prose">「若菩薩摩訶薩，先現放逸後現功德，是照世<lb
+ n="0543a07" ed="T"/><ab type='prose'>「若菩薩摩訶薩，先現放逸後現功德，是照世<lb
  n="0543a08" ed="T"/>間如月雲消，度無量眾生現如來功德。大王！<lb
  n="0543a09" ed="T"/>當知彼非惡人，是則菩薩善方便耳。」王白佛<lb
  n="0543a10" ed="T"/>言：「以何義故言非惡人？先辱師婦，受行惡<lb
@@ -3023,7 +3023,7 @@
  n="0543a29" ed="T"/>人民，承佛威神悉皆來集，稽首敬禮央掘魔<pb n="0543b" ed="T" id="T02.0120.0543b"/><lb
  n="0543b01" ed="T"/>羅足，一心同聲說偈歎言：<lb
  n="0543b02" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「南無如來無邊身，　　南無方便央掘魔，　　<lb
  n="0543b03" ed="T"/>我今頂禮聖足下，　　懺悔天尊柔軟足。　　<lb
  n="0543b04" ed="T"/>我今懺悔如來尊，　　央掘魔羅二生身，　　<lb
@@ -3033,7 +3033,7 @@
  n="0543b08" ed="T"/>奇哉二佛出于世，　　未曾有法行世間，　　<lb
  n="0543b09" ed="T"/>猶如火中生蓮華，　　世間希有見二佛。」　　
 </ab><lb
- n="0543b10" ed="T"/><ab type="prose">爾時，世尊告波斯匿王言：「北方去此過四十<lb
+ n="0543b10" ed="T"/><ab type='prose'>爾時，世尊告波斯匿王言：「北方去此過四十<lb
  n="0543b11" ed="T"/>二恒河沙剎，有國名常喜，佛名歡喜藏摩尼<lb
  n="0543b12" ed="T"/>寶積如來、應供、等正覺，在世教化。彼土無有<lb
  n="0543b13" ed="T"/>聲聞緣覺，純一大乘無餘乘名，亦無老病眾<lb
@@ -3058,18 +3058,18 @@
  n="0543c03" ed="T"/>便之所守護。」爾時，央掘魔羅母，身昇虛空高<lb
  n="0543c04" ed="T"/>七多羅樹，而說偈言：<lb
  n="0543c05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「如來所變化，　　眾生悉不知，　　<lb
  n="0543c06" ed="T"/>如來所作幻，　　眾幻中之王，　　<lb
  n="0543c07" ed="T"/>大身方便身，　　是則為如來。」　　
 </ab><lb
- n="0543c08" ed="T"/><ab type="prose">說此偈已即沒不現。爾時，波斯匿王白佛言：<lb
+ n="0543c08" ed="T"/><ab type='prose'>說此偈已即沒不現。爾時，波斯匿王白佛言：<lb
  n="0543c09" ed="T"/>「世尊！此為幻耶？」佛告大王：「此是化母，如化<lb
  n="0543c10" ed="T"/>母所說，菩薩行亦如是。」爾時，央掘魔羅師<lb
  n="0543c11" ed="T"/>摩尼跋陀羅，身昇虛空高七多羅樹，而說偈<lb
  n="0543c12" ed="T"/>言：<lb
  n="0543c13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「譬如野干獸，　　常與師子遊，　　<lb
  n="0543c14" ed="T"/>雖久相習近，　　其聲不相類，　　<lb
  n="0543c15" ed="T"/>聞彼聲怖死，　　況能師子吼？　　<lb
@@ -3084,9 +3084,9 @@
  n="0543c24" ed="T"/>眾生悉不知，　　唯佛知佛幻，　　<lb
  n="0543c25" ed="T"/>當知佛世尊，　　一切幻中王。」　　
 </ab><lb
- n="0543c26" ed="T"/><ab type="prose">爾時，彼師摩尼跋陀羅婦，而說偈言：<lb
+ n="0543c26" ed="T"/><ab type='prose'>爾時，彼師摩尼跋陀羅婦，而說偈言：<lb
  n="0543c27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「嗚呼諸眾生，　　不知佛功德，　　<lb
  n="0543c28" ed="T"/>謂實旃遮女，　　不知如來化，　　<lb
  n="0543c29" ed="T"/>示現作我身，　　幻化亦如是。　　<pb n="0544a" ed="T" id="T02.0120.0544a"/><lb
@@ -3101,7 +3101,7 @@
  n="0544a09" ed="T"/>制未來眾生，　　無量諸非法，　　<lb
  n="0544a10" ed="T"/>佛幻為大幻，　　如來方便身。」　　
 </ab><lb
- n="0544a11" ed="T"/><ab type="prose">說是語已即沒不現。爾時，波斯匿王聞見如<lb
+ n="0544a11" ed="T"/><ab type='prose'>說是語已即沒不現。爾時，波斯匿王聞見如<lb
  n="0544a12" ed="T"/>是諸希有事，歡喜踊躍白佛言：「世尊！為是幻<lb
  n="0544a13" ed="T"/>耶？」佛言：「大王！如彼師及師婦、央掘魔羅母，<lb
  n="0544a14" ed="T"/>彼三人者悉是我幻。我示幻化不可思議，因<lb
@@ -3110,7 +3110,7 @@
  n="0544a17" ed="T"/>羅如來在福田方今為福田。」佛告王言：「如是<lb
  n="0544a18" ed="T"/>如是。」爾時，諸天龍神共說偈言：<lb
  n="0544a19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「南無幻化王，　　具足大精進，　　<lb
  n="0544a20" ed="T"/>如來方便身，　　方便相具足，　　<lb
  n="0544a21" ed="T"/>方便般涅槃，　　示現捨舍利。　　<lb
@@ -3126,10 +3126,10 @@
  n="0544b02" ed="T"/>若來及不來，　　非我等所知，　　<lb
  n="0544b03" ed="T"/>如來視一切，　　猶如羅睺羅。」　　
 </ab><lb
- n="0544b04" ed="T"/><ab type="prose">爾時，世尊說是經已，諸天、龍神、聲聞、菩薩及<lb
+ n="0544b04" ed="T"/><ab type='prose'>爾時，世尊說是經已，諸天、龍神、聲聞、菩薩及<lb
  n="0544b05" ed="T"/>波斯匿王一切眾會，皆慕央掘魔羅行及文<lb
  n="0544b06" ed="T"/>殊師利菩薩行，願生彼國，皆發阿耨多羅三<lb
  n="0544b07" ed="T"/>藐三菩提心，踊躍歡喜。<lb
  n="0544b08" ed="T"/>
-</ab><ab type="juan" subtype="close">央掘魔羅經卷第四</ab></div>
+</ab><ab type='juan' subtype='close'>央掘魔羅經卷第四</ab></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T18</biblScope>
                     <idno type="Taisho">T18n0907</idno>
                 </bibl>
@@ -39,7 +39,7 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0914c17" ed="T"/><lb
  n="0914c18" ed="T"/><lb
@@ -47,11 +47,11 @@
  n="0914c20" ed="T"/><lb
  n="0914c21" ed="T"/><lb
  n="0914c22" ed="T"/>
-<ab type="juan" subtype="open">佛頂尊勝心破地獄轉業障出三<lb
+<ab type='juan' subtype='open'>佛頂尊勝心破地獄轉業障出三<lb
  n="0914c23" ed="T"/>界祕密陀羅尼</ab><lb
  n="0914c24" ed="T"/><lb
  n="0914c25" ed="T"/><byline>中天竺國三藏善無畏奉　詔譯</byline><lb
- n="0914c26" ed="T"/><div type="jing" level="2"><ab type="prose">名金剛鼓。口開舌舉震法界宮。蓮華藏<lb
+ n="0914c26" ed="T"/><div type='jing' level='2'><ab type='prose'>名金剛鼓。口開舌舉震法界宮。蓮華藏<lb
  n="0914c27" ed="T"/>諸如來出定。即以摧破地獄滅七遍之殃。起<lb
  n="0914c28" ed="T"/>教菩薩說五字祕密。執本授。如法布字。<lb
  n="0914c29" ed="T"/>人主頂戴乎冠中。萬國清泰。節度觀察。旌旗<pb n="0915a" id="T18.0907.0915a" ed="T"/><lb
@@ -61,7 +61,7 @@
  n="0915a04" ed="T"/>順。瑜迦事法約有千條。略述少分。念誦<lb
  n="0915a05" ed="T"/>加持戰鼓上書。賊軍自降一人不損焉。<lb
  n="0915a06" ed="T"/>佛言。阿字金剛部主肝。鑁字蓮華部主肺。<lb
- n="0915a07" ed="T"/>󰳂字寶部主心。唅字羯磨部主胃。欠字虛<lb
+ n="0915a07" ed="T"/>𮓔字寶部主心。唅字羯磨部主胃。欠字虛<lb
  n="0915a08" ed="T"/>空部主脾。山海大地從阿字出。江河萬流從<lb
  n="0915a09" ed="T"/>鑁字出。金玉珍寶日月星辰火珠光明從覽<lb
  n="0915a10" ed="T"/>字成。五穀五果眾花開敷因唅字結。秀香<lb
@@ -112,7 +112,7 @@
  n="0915b28" ed="T"/>就。即是三種常身正法藏。是故稽首禮毘盧<lb
  n="0915b29" ed="T"/>遮那佛。<pb n="0915c" id="T18.0907.0915c" ed="T"/><lb
  n="0915c01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 稽首毘盧遮那佛　　開敷淨眼如蓮華　　<lb
  n="0915c02" ed="T"/>三界調御天人師　　大菩提心救世者　　<lb
  n="0915c03" ed="T"/>深妙真言加持法　　流入無生阿字門　　<lb
@@ -126,9 +126,9 @@
  n="0915c11" ed="T"/>願共有緣修學者　　安住無上清淨海　　
 </ab></div><lb
  n="0915c12" ed="T"/>
-<ab type="juan" subtype="close">佛頂尊勝心破地獄法一卷</ab><lb
+<ab type='juan' subtype='close'>佛頂尊勝心破地獄法一卷</ab><lb
  n="0915c13" ed="T"/><lb
- n="0915c14" ed="T"/><div type="w" level="2"><ab type="prose">本批云。治歷二年六月一日。於肥前國。以<lb
+ n="0915c14" ed="T"/><div type='w' level='2'><ab type='prose'>本批云。治歷二年六月一日。於肥前國。以<lb
  n="0915c15" ed="T"/>但石藏聖御房本書寫畢。僧靜暹。<lb
  n="0915c16" ed="T"/>貞和二年丙戌七月十八日。自金剛王院<lb
  n="0915c17" ed="T"/>僧正御房御手下賜之畢。權少僧都文海<lb

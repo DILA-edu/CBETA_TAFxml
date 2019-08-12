@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T17</biblScope>
                     <idno type="Taisho">T17n0786</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0726a06" ed="T"/><lb
  n="0726a07" ed="T"/><lb
  n="0726a08" ed="T"/>
-<ab type="juan" subtype="open">佛說木槵子經</ab><lb
+<ab type='juan' subtype='open'>佛說木槵子經</ab><lb
  n="0726a09" ed="T"/><lb
  n="0726a10" ed="T"/><byline>失譯人今附東晉錄</byline><lb
- n="0726a11" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時佛遊羅閱祇耆闍崛山中，與<lb
+ n="0726a11" ed="T"/><div type='jing' level='1'><ab type='prose'>聞如是：一時佛遊羅閱祇耆闍崛山中，與<lb
  n="0726a12" ed="T"/>大比丘眾一千二百五十人俱，菩薩無數，名<lb
  n="0726a13" ed="T"/>稱遠聞，天、人所敬。時難國王，名波流離，遣<lb
  n="0726a14" ed="T"/>使來到佛所，頂禮佛足，白佛言：「世尊！我國<lb
@@ -78,5 +78,5 @@
  n="0726b10" ed="T"/>但能聞此人名，生一念隨喜者，未來生處，常<lb
  n="0726b11" ed="T"/>聞十善。」說是法時，大眾歡喜，皆願奉行！</ab></div><lb
  n="0726b12" ed="T"/>
-<ab type="juan" subtype="close">佛說木槵子經</ab>
+<ab type='juan' subtype='close'>佛說木槵子經</ab>
 </body></text></TEI>

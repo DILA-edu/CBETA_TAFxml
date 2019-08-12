@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0014</idno>
                 </bibl>
@@ -41,11 +41,11 @@
     <text>
         <body><lb
  n="0241c21" ed="T"/><lb
- n="0241c22" ed="T"/><div type="jing" level="1"><lb
+ n="0241c22" ed="T"/><div type='jing' level='1'><lb
  n="0241c23" ed="T"/>
-<ab type="juan" subtype="open">佛說人本欲生經</ab><lb
+<ab type='juan' subtype='open'>佛說人本欲生經</ab><lb
  n="0241c24" ed="T"/><byline>後漢安息三藏安世高譯</byline><lb
- n="0241c25" ed="T"/><ab type="prose">聞如是：一時，佛在拘類國，行拘類國法治處。<lb
+ n="0241c25" ed="T"/><ab type='prose'>聞如是：一時，佛在拘類國，行拘類國法治處。<lb
  n="0241c26" ed="T"/>是時，賢者阿難獨閑處傾猗念，如是意生：<lb
  n="0241c27" ed="T"/>「未曾有是，意是微妙本，生死亦微妙中微<lb
  n="0241c28" ed="T"/>妙，但為分明易現。」便賢者阿難，夜已竟，起<lb
@@ -425,5 +425,5 @@
  n="0246a25" ed="T"/>道無所著從兩行得解脫。」佛說如是，阿難受<lb
  n="0246a26" ed="T"/>行。<lb
  n="0246a27" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說人本欲生經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說人本欲生經</ab></div>
 </body></text></TEI>

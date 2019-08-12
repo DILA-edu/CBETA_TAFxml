@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1031</idno>
                 </bibl>
@@ -45,14 +45,14 @@
  n="0004c16" ed="T"/><lb
  n="0004c17" ed="T"/><lb
  n="0004c18" ed="T"/>
-<ab type="juan" subtype="open">聖觀自在菩薩心真言瑜伽觀行<lb
+<ab type='juan' subtype='open'>聖觀自在菩薩心真言瑜伽觀行<lb
  n="0004c19" ed="T"/>儀軌</ab><lb
  n="0004c20" ed="T"/><lb
  n="0004c21" ed="T"/><byline>開府儀同三司特進試鴻臚卿肅國<lb
  n="0004c22" ed="T"/>公食邑三千戶賜紫贈司空諡大鑒<lb
  n="0004c23" ed="T"/>正號大廣智大興善寺三藏沙門<lb
  n="0004c24" ed="T"/>不空奉　詔譯</byline><lb
- n="0004c25" ed="T"/><div type="jing" level="1"><ab type="prose">夫修瑜伽者。先於靜處建立曼荼羅。以香水<lb
+ n="0004c25" ed="T"/><div type='jing' level='1'><ab type='prose'>夫修瑜伽者。先於靜處建立曼荼羅。以香水<lb
  n="0004c26" ed="T"/>散灑。以種種時華散於壇上。行者先須澡<lb
  n="0004c27" ed="T"/>浴著新淨衣。次入道場對尊像前。五輪投地<lb
  n="0004c28" ed="T"/>發殷重心。頂禮一切如來及諸菩薩。即結跏<lb
@@ -88,9 +88,9 @@
  n="0005a29" ed="T"/>即結三昧耶印。<pb n="0005b" id="T20.1031.0005b" ed="T"/><lb
  n="0005b01" ed="T"/>以二手當心。密合掌並竪二大指。誦真言曰。<lb
  n="0005b02" ed="T"/></ab>
-<ab type="dharani">那莫三滿多母馱南阿三銘底哩三銘三麼曳娑嚩賀<lb
+<ab type='dharani'>那莫三滿多母馱南阿三銘底哩三銘三麼曳娑嚩賀<lb
  n="0005b04" ed="T"/></ab>
-<ab type="prose">誦真言三遍。以印印五處加持。所謂額右肩<lb
+<ab type='prose'>誦真言三遍。以印印五處加持。所謂額右肩<lb
  n="0005b05" ed="T"/>左肩心喉頂上散之。由結此印。即能速滿十<lb
  n="0005b06" ed="T"/>地行願十波羅蜜。能見一切如來地。能超過<lb
  n="0005b07" ed="T"/>法道界。所謂超過勝解地淨心地如來地。<lb
@@ -100,10 +100,10 @@
  n="0005b12" ed="T"/>出白色光。遍照自身及以內外。即觀自身等<lb
  n="0005b13" ed="T"/>同法界。誦真言曰。<lb
  n="0005b14" ed="T"/></ab>
-<ab type="dharani">那莫三滿多母馱南達磨馱都<lb
+<ab type='dharani'>那莫三滿多母馱南達磨馱都<lb
  n="0005b15" ed="T"/>娑嚩婆嚩句憾<lb
  n="0005b16" ed="T"/></ab>
-<ab type="prose">誦真言三遍。以印從頂上便分。二拳兩邊徐<lb
+<ab type='prose'>誦真言三遍。以印從頂上便分。二拳兩邊徐<lb
  n="0005b17" ed="T"/>徐下散。<lb
  n="0005b18" ed="T"/>次結轉法輪印。<lb
  n="0005b19" ed="T"/>以二手當心。背相附以右押左。四指互相鉤。<lb
@@ -113,10 +113,10 @@
  n="0005b23" ed="T"/>跳躑勢。身如白月色頂戴五佛冠坐月輪中。<lb
  n="0005b24" ed="T"/>誦真言曰。<lb
  n="0005b25" ed="T"/></ab>
-<ab type="dharani">娜莫三滿多嚩日囉喃嚩日囉<lb
+<ab type='dharani'>娜莫三滿多嚩日囉喃嚩日囉<lb
  n="0005b26" ed="T"/>怛麼句憾<lb
  n="0005b27" ed="T"/></ab>
-<ab type="prose">誦真言三遍已。即於頂上散印。<lb
+<ab type='prose'>誦真言三遍已。即於頂上散印。<lb
  n="0005b28" ed="T"/>次結大日如來劍印。<lb
  n="0005b29" ed="T"/>以二手當心合掌。屈二頭指中節橫相跓。以<pb n="0005c" id="T20.1031.0005c" ed="T"/><lb
  n="0005c01" ed="T"/>二大拇指。並押二頭指上節如劍形。結此印<lb
@@ -124,20 +124,20 @@
  n="0005c03" ed="T"/>字。放金色光與印相應。想彼阿字了<lb
  n="0005c04" ed="T"/>一切法本來不生。即誦真言曰。<lb
  n="0005c05" ed="T"/></ab>
-<ab type="dharani">娜莫三滿多母馱南惡尾囉吽<lb
+<ab type='dharani'>娜莫三滿多母馱南惡尾囉吽<lb
  n="0005c06" ed="T"/>欠<lb
  n="0005c07" ed="T"/></ab>
-<ab type="prose">誦真言八遍。以印如前加持自身五處。於頂<lb
+<ab type='prose'>誦真言八遍。以印如前加持自身五處。於頂<lb
  n="0005c08" ed="T"/>上散印。<lb
  n="0005c09" ed="T"/>次結普供養印。<lb
  n="0005c10" ed="T"/>以二手合掌。右押左交上節即成。誦真言<lb
  n="0005c11" ed="T"/>曰。<lb
  n="0005c12" ed="T"/></ab>
-<ab type="dharani">娜莫三滿多母馱南薩嚩他欠嗢<lb
+<ab type='dharani'>娜莫三滿多母馱南薩嚩他欠嗢<lb
  n="0005c13" ed="T"/>娜蘖帝颯頗囉呬𤚥誐誐曩劍<lb
  n="0005c14" ed="T"/>娑嚩賀<lb
  n="0005c15" ed="T"/></ab>
-<ab type="prose">結印當心。誦真言五遍。想從印流出無量無<lb
+<ab type='prose'>結印當心。誦真言五遍。想從印流出無量無<lb
  n="0005c16" ed="T"/>邊香華飲食。供養盡虛空遍法界一切賢聖。<lb
  n="0005c17" ed="T"/>於頂上散印。<lb
  n="0005c18" ed="T"/>次觀行布字法。<lb
@@ -176,9 +176,9 @@
  n="0006a22" ed="T"/>結印當心。誦觀自在菩薩心真言七遍。以印<lb
  n="0006a23" ed="T"/>加持心額喉頂。誦真言曰。<lb
  n="0006a24" ed="T"/></ab>
-<ab type="dharani">唵阿嚧力迦娑嚩賀<lb
+<ab type='dharani'>唵阿嚧力迦娑嚩賀<lb
  n="0006a25" ed="T"/></ab>
-<ab type="prose">隨誦真言。以右大拇指向身招之。即成召請<lb
+<ab type='prose'>隨誦真言。以右大拇指向身招之。即成召請<lb
  n="0006a26" ed="T"/>即觀本尊心上有圓滿寂靜月輪。於月輪中<lb
  n="0006a27" ed="T"/>右旋安布陀羅尼字。其字皆放白色光遍周<lb
  n="0006a28" ed="T"/>法界。其光還入行者頂。於修瑜伽者心月<lb
@@ -196,10 +196,10 @@
  n="0006b11" ed="T"/>作出聲念者。於真言中應作此句。誦真<lb
  n="0006b12" ed="T"/>言曰。<lb
  n="0006b13" ed="T"/></ab>
-<ab type="dharani">唵阿嚧力迦枳囉底𡀩乞灑弭尾步底銘娜娜娑嚩<lb
+<ab type='dharani'>唵阿嚧力迦枳囉底𡀩乞灑弭尾步底銘娜娜娑嚩<lb
  n="0006b15" ed="T"/>賀<lb
  n="0006b16" ed="T"/></ab>
-<ab type="prose">次應觀前阿嚧力迦等四字黃金色。誦前真<lb
+<ab type='prose'>次應觀前阿嚧力迦等四字黃金色。誦前真<lb
  n="0006b17" ed="T"/>言即得增益。法中所求皆得。前所觀心中阿<lb
  n="0006b18" ed="T"/>字及腦中暗字。體是一也。眼中囉字頂上<lb
  n="0006b19" ed="T"/>囕字。如是四字義。以成自身等覺句也。復觀<lb
@@ -209,6 +209,6 @@
  n="0006b23" ed="T"/>般若等教。及印佛印塔經行。旋遶窣堵波令<lb
  n="0006b24" ed="T"/>速成就。<lb
  n="0006b25" ed="T"/>
-</ab><ab type="juan" subtype="close">聖觀自在菩薩心真言瑜伽觀行儀軌一<lb
+</ab><ab type='juan' subtype='close'>聖觀自在菩薩心真言瑜伽觀行儀軌一<lb
  n="0006b26" ed="T"/>卷</ab></div>
 </body></text></TEI>

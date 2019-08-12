@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1217</idno>
                 </bibl>
@@ -39,19 +39,19 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0081a16" ed="T"/><lb
  n="0081a17" ed="T"/><lb
  n="0081a18" ed="T"/><lb
  n="0081a19" ed="T"/>
-<ab type="juan" subtype="open">佛說妙吉祥最勝根本大教經卷<lb
+<ab type='juan' subtype='open'>佛說妙吉祥最勝根本大教經卷<lb
  n="0081a20" ed="T"/>上</ab><lb
  n="0081a21" ed="T"/><lb
  n="0081a22" ed="T"/><byline>西天譯經三藏朝散大夫試光祿卿<lb
  n="0081a23" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
- n="0081a24" ed="T"/><div type="fen" level="2"><head>焰鬘得迦忿怒明王成就儀軌分第一</head><lb
- n="0081a25" ed="T"/><ab type="verse">
+ n="0081a24" ed="T"/><div type='fen' level='2'><head>焰鬘得迦忿怒明王成就儀軌分第一</head><lb
+ n="0081a25" ed="T"/><ab type='verse'>
 爾時妙吉祥　　化身大明王　　<lb
  n="0081a26" ed="T"/>名焰鬘得迦　　遍身熾盛光　　<lb
  n="0081a27" ed="T"/>甚惡大怖畏　　令諸大明王　　<lb
@@ -97,9 +97,9 @@
  n="0081c09" ed="T"/>如是此大教　　妙吉祥根本　　<lb
  n="0081c10" ed="T"/>清淨儀軌法　　成就第一分　　
 </ab></div><lb
- n="0081c11" ed="T"/><div type="fen" level="2"><head>焰鬘得迦必隷覩得羯吒曼拏羅成就儀軌分<lb
+ n="0081c11" ed="T"/><div type='fen' level='2'><head>焰鬘得迦必隷覩得羯吒曼拏羅成就儀軌分<lb
  n="0081c12" ed="T"/>第二</head><lb
- n="0081c13" ed="T"/><ab type="prose">復次最上曼拏羅儀軌。能於三界作大怖畏。<lb
+ n="0081c13" ed="T"/><ab type='prose'>復次最上曼拏羅儀軌。能於三界作大怖畏。<lb
  n="0081c14" ed="T"/>能施所求一切滿願。此名必隷覩得羯吒曼<lb
  n="0081c15" ed="T"/>拏羅成就法。持明行人先須揀擇所樂之地。<lb
  n="0081c16" ed="T"/>或大樹之下或尸陀林中。或空舍內或四衢<lb
@@ -175,134 +175,134 @@
  n="0082b28" ed="T"/>水。時阿闍梨即誦發送大明。發送焰鬘得迦<lb
  n="0082b29" ed="T"/>大忿怒明王歸於本位。於曼拏羅獻閼伽水。<pb n="0082c" id="T21.1217.0082c" ed="T"/><lb
  n="0082c01" ed="T"/>如是依法常作。能得世間廣大無等之福。</ab></div><lb
- n="0082c02" ed="T"/><div type="fen" level="2"><head>忿怒明王必隷覩得羯吒曼拏羅大明成<lb
+ n="0082c02" ed="T"/><div type='fen' level='2'><head>忿怒明王必隷覩得羯吒曼拏羅大明成<lb
  n="0082c03" ed="T"/>就儀軌分第三</head><lb
- n="0082c04" ed="T"/><ab type="prose">復說曼拏羅中第一必隷多大明曰。<lb
+ n="0082c04" ed="T"/><ab type='prose'>復說曼拏羅中第一必隷多大明曰。<lb
  n="0082c05" ed="T"/></ab>
-<ab type="dharani">唵薩莫薩哩嚩怛他誐帝毘藥<lb
+<ab type='dharani'>唵薩莫薩哩嚩怛他誐帝毘藥<lb
  n="0082c06" ed="T"/>必隷多目佉佉那迦娑嚩賀<lb
  n="0082c07" ed="T"/></ab>
-<ab type="prose">復說曼拏羅東門必隷多大明曰。<lb
+<ab type='prose'>復說曼拏羅東門必隷多大明曰。<lb
  n="0082c08" ed="T"/></ab>
-<ab type="dharani">唵必隷覩攞迦野吽發吒<lb
+<ab type='dharani'>唵必隷覩攞迦野吽發吒<lb
  n="0082c10" ed="T"/></ab>
-<ab type="prose">復說曼拏羅南門必隷多大明曰。<lb
+<ab type='prose'>復說曼拏羅南門必隷多大明曰。<lb
  n="0082c11" ed="T"/></ab>
-<ab type="dharani">唵必隷多鼻鬘怛迦吽發吒<lb
+<ab type='dharani'>唵必隷多鼻鬘怛迦吽發吒<lb
  n="0082c12" ed="T"/><lb
  n="0082c13" ed="T"/></ab>
-<ab type="prose">復說曼拏羅西門必隷多大明曰。<lb
+<ab type='prose'>復說曼拏羅西門必隷多大明曰。<lb
  n="0082c14" ed="T"/></ab>
-<ab type="dharani">阿唵必隷多入嚩攞發吒<lb
+<ab type='dharani'>阿唵必隷多入嚩攞發吒<lb
  n="0082c15" ed="T"/></ab>
-<ab type="prose">復說曼拏羅北門必隷多大明曰。<lb
+<ab type='prose'>復說曼拏羅北門必隷多大明曰。<lb
  n="0082c16" ed="T"/></ab>
-<ab type="dharani">唵乞叱鉢囉必隷覩得羯<lb
+<ab type='dharani'>唵乞叱鉢囉必隷覩得羯<lb
  n="0082c17" ed="T"/>吒吽發吒<lb
  n="0082c18" ed="T"/></ab>
-<ab type="prose">復說曼拏羅四隅寶杖大明曰。<lb
+<ab type='prose'>復說曼拏羅四隅寶杖大明曰。<lb
  n="0082c19" ed="T"/></ab>
-<ab type="dharani">唵曩莫沒馱達哩摩僧祇毘藥薩<lb
+<ab type='dharani'>唵曩莫沒馱達哩摩僧祇毘藥薩<lb
  n="0082c20" ed="T"/>哩嚩怛他誐帝毘藥阿骨嚕<lb
  n="0082c21" ed="T"/>馱尾惹野仡儞入嚩哩多<lb
  n="0082c22" ed="T"/>𡁠賀嚩必隷多始囉吽發吒<lb
  n="0082c23" ed="T"/></ab>
-<ab type="prose">請召焰鬘得迦明王大明曰。<lb
+<ab type='prose'>請召焰鬘得迦明王大明曰。<lb
  n="0082c24" ed="T"/></ab>
-<ab type="dharani">唵曩謨沒馱達哩摩僧祇毘藥<lb
+<ab type='dharani'>唵曩謨沒馱達哩摩僧祇毘藥<lb
  n="0082c25" ed="T"/>骨嚕達嚩囉尾囉莎三摩曳<lb
  n="0082c26" ed="T"/>曩阿誐蹉阿誐蹉唵阿吽壹難<lb
  n="0082c27" ed="T"/>必隷多娑喃必隷覩得羯吒<lb
  n="0082c28" ed="T"/>𠸪乞叉𠸪乞叉娑嚩賀<pb n="0083a" id="T21.1217.0083a" ed="T"/><lb
  n="0083a01" ed="T"/></ab>
-<ab type="prose">必隷多鬘大明曰。<lb
+<ab type='prose'>必隷多鬘大明曰。<lb
  n="0083a02" ed="T"/></ab>
-<ab type="dharani">唵曩莫薩哩嚩怛他誐帝毘藥<lb
+<ab type='dharani'>唵曩莫薩哩嚩怛他誐帝毘藥<lb
  n="0083a03" ed="T"/>必隷多摩隸尾訖哩帝虞<lb
  n="0083a04" ed="T"/>呬也閉尾迦囉目契薩哩嚩𠸪<lb
  n="0083a05" ed="T"/>乞芻鉢祖瑟胝吽發吒<lb
  n="0083a06" ed="T"/></ab>
-<ab type="prose">十七微妙字大明曰。<lb
+<ab type='prose'>十七微妙字大明曰。<lb
  n="0083a07" ed="T"/></ab>
-<ab type="dharani">阿骨嚕提迦焰鬘得迦賀曩<lb
+<ab type='dharani'>阿骨嚕提迦焰鬘得迦賀曩<lb
  n="0083a08" ed="T"/>摩他畔惹吽發吒<lb
  n="0083a09" ed="T"/></ab>
-<ab type="prose">明王心大明曰。<lb
+<ab type='prose'>明王心大明曰。<lb
  n="0083a10" ed="T"/></ab>
-<ab type="dharani">唵阿吽此明為擁護<lb
+<ab type='dharani'>唵阿吽此明為擁護<lb
  n="0083a11" ed="T"/></ab>
-<ab type="prose">觀想明王頭大明曰。<lb
+<ab type='prose'>觀想明王頭大明曰。<lb
  n="0083a12" ed="T"/></ab>
-<ab type="dharani">唵迦攞吽發吒<lb
+<ab type='dharani'>唵迦攞吽發吒<lb
  n="0083a13" ed="T"/></ab>
-<ab type="prose">觀想明王頂大明曰。<lb
+<ab type='prose'>觀想明王頂大明曰。<lb
  n="0083a14" ed="T"/></ab>
-<ab type="dharani">唵野鬘得枳羯尾囉吽發吒<lb
+<ab type='dharani'>唵野鬘得枳羯尾囉吽發吒<lb
  n="0083a15" ed="T"/></ab>
-<ab type="prose">觀想明王甲冑大明曰。<lb
+<ab type='prose'>觀想明王甲冑大明曰。<lb
  n="0083a16" ed="T"/></ab>
-<ab type="dharani">唵入嚩攞入嚩里多尾仡囉<lb
+<ab type='dharani'>唵入嚩攞入嚩里多尾仡囉<lb
  n="0083a17" ed="T"/>賀吽發吒<lb
  n="0083a18" ed="T"/></ab>
-<ab type="prose">觀想明王器仗大明曰。<lb
+<ab type='prose'>觀想明王器仗大明曰。<lb
  n="0083a19" ed="T"/></ab>
-<ab type="dharani">唵吠嚩莎旦多迦吽發吒<lb
+<ab type='dharani'>唵吠嚩莎旦多迦吽發吒<lb
  n="0083a20" ed="T"/></ab>
-<ab type="prose">如是焰鬘得迦明王大明。於身五處觀想。<lb
+<ab type='prose'>如是焰鬘得迦明王大明。於身五處觀想。<lb
  n="0083a21" ed="T"/>獻閼伽大明曰。<lb
  n="0083a22" ed="T"/></ab>
-<ab type="dharani">唵伊迦尾囉野鬘怛迦尾娑囉尾<lb
+<ab type='dharani'>唵伊迦尾囉野鬘怛迦尾娑囉尾<lb
  n="0083a23" ed="T"/>娑囉娑嚩賀<lb
  n="0083a24" ed="T"/></ab>
-<ab type="prose">獻塗香大明曰。<lb
+<ab type='prose'>獻塗香大明曰。<lb
  n="0083a25" ed="T"/></ab>
-<ab type="dharani">唵囉訖多唧底輸尼多哩捺囉蘇巘馱尾仡囉賀娑嚩賀<lb
+<ab type='dharani'>唵囉訖多唧底輸尼多哩捺囉蘇巘馱尾仡囉賀娑嚩賀<lb
  n="0083a27" ed="T"/></ab>
-<ab type="prose">獻花大明曰。<lb
+<ab type='prose'>獻花大明曰。<lb
  n="0083a28" ed="T"/></ab>
-<ab type="dharani">唵禰摩也薩囉仡摩攞也<lb
+<ab type='dharani'>唵禰摩也薩囉仡摩攞也<lb
  n="0083a29" ed="T"/>馱哩尼娑嚩賀<pb n="0083b" id="T21.1217.0083b" ed="T"/><lb
  n="0083b01" ed="T"/></ab>
-<ab type="prose">獻香大明曰。<lb
+<ab type='prose'>獻香大明曰。<lb
  n="0083b02" ed="T"/></ab>
-<ab type="dharani">唵唧底度波必哩夜野娑嚩<lb
+<ab type='dharani'>唵唧底度波必哩夜野娑嚩<lb
  n="0083b03" ed="T"/>賀<lb
  n="0083b04" ed="T"/></ab>
-<ab type="prose">獻燈大明曰。<lb
+<ab type='prose'>獻燈大明曰。<lb
  n="0083b05" ed="T"/></ab>
-<ab type="dharani">唵禰麼也𡁠踰底瑟摩帝娑嚩<lb
+<ab type='dharani'>唵禰麼也𡁠踰底瑟摩帝娑嚩<lb
  n="0083b06" ed="T"/>賀<lb
  n="0083b07" ed="T"/></ab>
-<ab type="prose">一切飲食出生大明曰。<lb
+<ab type='prose'>一切飲食出生大明曰。<lb
  n="0083b08" ed="T"/></ab>
-<ab type="dharani">唵薩哩嚩彌試阿嚩賀哩尼娑<lb
+<ab type='dharani'>唵薩哩嚩彌試阿嚩賀哩尼娑<lb
  n="0083b09" ed="T"/>嚩賀<lb
  n="0083b10" ed="T"/></ab>
-<ab type="prose">獻一切飲食及出生大明曰。<lb
+<ab type='prose'>獻一切飲食及出生大明曰。<lb
  n="0083b11" ed="T"/></ab>
-<ab type="dharani">唵禰摩焰曩部𡁠儞賀囉賀囉<lb
+<ab type='dharani'>唵禰摩焰曩部𡁠儞賀囉賀囉<lb
  n="0083b12" ed="T"/>訥凌訥凌訥凌朅娑嚩賀<lb
  n="0083b13" ed="T"/></ab>
-<ab type="prose">必隷覩得羯吒曼拏羅中獻食及出生大明曰。<lb
+<ab type='prose'>必隷覩得羯吒曼拏羅中獻食及出生大明曰。<lb
  n="0083b14" ed="T"/></ab>
-<ab type="dharani">唵窟窟儞必隷覩得羯吒必<lb
+<ab type='dharani'>唵窟窟儞必隷覩得羯吒必<lb
  n="0083b15" ed="T"/>哩多摩隷攞里儞窟朗窟朗<lb
  n="0083b16" ed="T"/>窟朗窟朗必勵必勵底始<lb
  n="0083b17" ed="T"/>吠訥凌訥凌訥凌窟窟儞<lb
  n="0083b18" ed="T"/>仡哩恨拏末凌娑嚩賀</ab></div><lb
- n="0083b19" ed="T"/><div type="fen" level="2"><head>忿怒明王必隷覩得羯吒寶杖印曼拏羅<lb
+ n="0083b19" ed="T"/><div type='fen' level='2'><head>忿怒明王必隷覩得羯吒寶杖印曼拏羅<lb
  n="0083b20" ed="T"/>祕密供養儀軌分第四</head><lb
- n="0083b21" ed="T"/><ab type="prose">復次妙吉祥化身焰鬘得迦明王大無畏身。<lb
+ n="0083b21" ed="T"/><ab type='prose'>復次妙吉祥化身焰鬘得迦明王大無畏身。<lb
  n="0083b22" ed="T"/>有無量光明。依三寶儀法以手結印。右手安<lb
  n="0083b23" ed="T"/>前而現三昧。拇指常密餘指緊作拳。此是寶<lb
  n="0083b24" ed="T"/>杖印。時持明人用心大明或別明。與此印同<lb
  n="0083b25" ed="T"/>用。不得違越此寶杖大明曰。<lb
  n="0083b26" ed="T"/></ab>
-<ab type="dharani">曩謨沒馱達哩摩僧祇毘藥阿薩哩嚩怛他誐多骨嚕達尾惹<lb
+<ab type='dharani'>曩謨沒馱達哩摩僧祇毘藥阿薩哩嚩怛他誐多骨嚕達尾惹<lb
  n="0083b28" ed="T"/>野阿仡儞入嚩里多𡁠賀嚩必<pb n="0083c" id="T21.1217.0083c" ed="T"/><lb
  n="0083c01" ed="T"/>隷多始囉吽發吒<lb
  n="0083c02" ed="T"/></ab>
-<ab type="prose">此寶杖明并印。亦名忿怒明王心明。能作清<lb
+<ab type='prose'>此寶杖明并印。亦名忿怒明王心明。能作清<lb
  n="0083c03" ed="T"/>淨能化器仗能調伏諸魔。<lb
  n="0083c04" ed="T"/>復說必隷覩得羯吒曼拏羅內寶杖印儀。時<lb
  n="0083c05" ed="T"/>持明者依法用屍灰。於寶杖尖上畫一必隷<lb
@@ -314,12 +314,12 @@
  n="0083c11" ed="T"/>杖印。如是句召供養。與此明王大明同用。而<lb
  n="0083c12" ed="T"/>為最上大明曰。<lb
  n="0083c13" ed="T"/></ab>
-<ab type="dharani">唵唵曩謨沒馱達哩摩僧祇毘藥<lb
+<ab type='dharani'>唵唵曩謨沒馱達哩摩僧祇毘藥<lb
  n="0083c14" ed="T"/>阿阿薩哩嚩怛他誐多骨<lb
  n="0083c15" ed="T"/>嚕馱尾惹野仡儞入嚩里多𡁠<lb
  n="0083c16" ed="T"/>賀嚩必隷多始囉吽吽發吒<lb
  n="0083c17" ed="T"/></ab>
-<ab type="prose">此寶杖印大明。於一切成就法中最上最勝。<lb
+<ab type='prose'>此寶杖印大明。於一切成就法中最上最勝。<lb
  n="0083c18" ed="T"/>能作廣大成就。<lb
  n="0083c19" ed="T"/>復說供養觀想法。想畫一蓮花。花作八葉為<lb
  n="0083c20" ed="T"/>四方四隅。從東方起首依法次第。於四方四<lb
@@ -329,10 +329,10 @@
  n="0083c24" ed="T"/>勝三昧。<lb
  n="0083c25" ed="T"/>大明曰。<lb
  n="0083c26" ed="T"/></ab>
-<ab type="dharani">唵曩謨沒馱達哩摩僧祇毘藥薩<lb
+<ab type='dharani'>唵曩謨沒馱達哩摩僧祇毘藥薩<lb
  n="0083c27" ed="T"/>哩嚩沒馱毘僧窣覩多<lb
  n="0083c28" ed="T"/></ab>
-<ab type="prose">先誦此明為歸命三寶。然後用一切寶杖。各<lb
+<ab type='prose'>先誦此明為歸命三寶。然後用一切寶杖。各<lb
  n="0083c29" ed="T"/>各本明及本三昧。而作忿怒顧視。於剎那間<pb n="0084a" id="T21.1217.0084a" ed="T"/><lb
  n="0084a01" ed="T"/>一切所求皆悉成就。此是如來所化。<lb
  n="0084a02" ed="T"/>復次依法各誦本大明已。誦阿字作最勝<lb
@@ -357,9 +357,9 @@
  n="0084a21" ed="T"/>以香花果子飲食等。隨力供養焰鬘得迦明<lb
  n="0084a22" ed="T"/>王。誦彼心大明滿六箇月。隨意所求皆得成<lb
  n="0084a23" ed="T"/>就。</ab></div><lb
- n="0084a24" ed="T"/><div type="fen" level="2"><head>忿怒明王必隷多曩毘寶杖印曼拏羅祕<lb
+ n="0084a24" ed="T"/><div type='fen' level='2'><head>忿怒明王必隷多曩毘寶杖印曼拏羅祕<lb
  n="0084a25" ed="T"/>密供養儀軌分第五</head><lb
- n="0084a26" ed="T"/><ab type="prose">復次持明者。於夜分往尸陀林中。以屍灰畫<lb
+ n="0084a26" ed="T"/><ab type='prose'>復次持明者。於夜分往尸陀林中。以屍灰畫<lb
  n="0084a27" ed="T"/>四方曼拏羅作四門。上用綵帛為仰塵。懸拂<lb
  n="0084a28" ed="T"/>鏡花鬘。復於八方安八髑髏。燃燈八盞。中畫<lb
  n="0084a29" ed="T"/>半屍。屍上畫寶杖印。別畫一必隷多。此名必<pb n="0084b" id="T21.1217.0084b" ed="T"/><lb
@@ -418,16 +418,16 @@
  n="0084c24" ed="T"/>行人所作成就。此是焰鬘得迦最上大無畏<lb
  n="0084c25" ed="T"/>明王心印。亦名寶杖印祕密法。</ab></div><lb
  n="0084c26" ed="T"/>
-<ab type="juan" subtype="close">佛說妙吉祥最勝根本大教經卷上</ab><pb n="0085a" id="T21.1217.0085a" ed="T"/><lb
+<ab type='juan' subtype='close'>佛說妙吉祥最勝根本大教經卷上</ab><pb n="0085a" id="T21.1217.0085a" ed="T"/><lb
  n="0085a01" ed="T"/><lb
  n="0085a02" ed="T"/>
-<ab type="juan" subtype="open">佛說妙吉祥最勝根本大教經卷<lb
+<ab type='juan' subtype='open'>佛說妙吉祥最勝根本大教經卷<lb
  n="0085a03" ed="T"/>中</ab><lb
  n="0085a04" ed="T"/><lb
  n="0085a05" ed="T"/><byline>西天譯經三藏朝散大夫試光祿卿<lb
  n="0085a06" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
- n="0085a07" ed="T"/><div type="fen" level="2"><head>吠多梨印成就句召儀軌分第六</head><lb
- n="0085a08" ed="T"/><ab type="prose">復次焰鬘得迦明王根本十七字大明。名吠<lb
+ n="0085a07" ed="T"/><div type='fen' level='2'><head>吠多梨印成就句召儀軌分第六</head><lb
+ n="0085a08" ed="T"/><ab type='prose'>復次焰鬘得迦明王根本十七字大明。名吠<lb
  n="0085a09" ed="T"/>多梨祕密心印。能於焰鬘得迦大無畏明王<lb
  n="0085a10" ed="T"/>作大歡喜。彼持明者或於禁縛之地或尸陀<lb
  n="0085a11" ed="T"/>林等。如是處所。現前持誦必得成就。此吠多<lb
@@ -462,10 +462,10 @@
  n="0085b11" ed="T"/>執利劍作大無畏相。以左足蹋薩埵心。手結<lb
  n="0085b12" ed="T"/>期剋印。即誦焰鬘得迦明王大明曰。<lb
  n="0085b13" ed="T"/></ab>
-<ab type="dharani">唵阿骨嚕提迦焰鬘怛迦賀曩摩他<lb
+<ab type='dharani'>唵阿骨嚕提迦焰鬘怛迦賀曩摩他<lb
  n="0085b14" ed="T"/>畔惹吽發吒<lb
  n="0085b15" ed="T"/></ab>
-<ab type="prose">持明者誦此大明一十七字。直至薩埵身漸<lb
+<ab type='prose'>持明者誦此大明一十七字。直至薩埵身漸<lb
  n="0085b16" ed="T"/>振動起立現大惡相不住作大惡聲。時持明<lb
  n="0085b17" ed="T"/>人以所執利劍。割截自身血肉。用為閼伽獻<lb
  n="0085b18" ed="T"/>於薩埵。時彼薩埵知持明者意。受閼伽已。立<lb
@@ -482,13 +482,13 @@
  n="0085b29" ed="T"/>具足成就。時忿怒明王決定現前。能施行人<pb n="0085c" id="T21.1217.0085c" ed="T"/><lb
  n="0085c01" ed="T"/>一切所願俱獲成就。復說大明曰。<lb
  n="0085c02" ed="T"/></ab>
-<ab type="dharani">唵曩謨沒馱達哩摩僧祇毘藥阿<lb
+<ab type='dharani'>唵曩謨沒馱達哩摩僧祇毘藥阿<lb
  n="0085c03" ed="T"/>骨嚕提迦焰鬘得迦賀曩摩<lb
  n="0085c04" ed="T"/>他畔惹吽吠多梨𠸪乞叉<lb
  n="0085c05" ed="T"/>𠸪乞叉𤚥怛他誐覩倪也鉢<lb
  n="0085c06" ed="T"/>野底娑嚩賀<lb
  n="0085c07" ed="T"/></ab>
-<ab type="prose">此是如來三昧吠多梨大明印勅。持明者於<lb
+<ab type='prose'>此是如來三昧吠多梨大明印勅。持明者於<lb
  n="0085c08" ed="T"/>曼拏羅內。結吠多梨印誦此大明。爾時明王<lb
  n="0085c09" ed="T"/>決定現前。行人作大無畏相。所欲之事隨意<lb
  n="0085c10" ed="T"/>成就。<lb
@@ -513,10 +513,10 @@
  n="0085c29" ed="T"/>養。誦十字祕密明。或十字已上。最勝求成就<pb n="0086a" id="T21.1217.0086a" ed="T"/><lb
  n="0086a01" ed="T"/>者。當誦此大明曰。<lb
  n="0086a02" ed="T"/></ab>
-<ab type="dharani">唵阿吽覩吠多梨𠸪叉𠸪叉𤚥娑<lb
+<ab type='dharani'>唵阿吽覩吠多梨𠸪叉𠸪叉𤚥娑<lb
  n="0086a03" ed="T"/>嚩賀<lb
  n="0086a04" ed="T"/></ab>
-<ab type="prose">此是吠多梨本心大明。依法持誦十𠸪叉。所<lb
+<ab type='prose'>此是吠多梨本心大明。依法持誦十𠸪叉。所<lb
  n="0086a05" ed="T"/>在處所隨意作法皆得成就。此祕密明功能<lb
  n="0086a06" ed="T"/>廣大。能作一切事。<lb
  n="0086a07" ed="T"/>復次依焰鬘得迦明王。所說大儀軌法。所有<lb
@@ -571,7 +571,7 @@
  n="0086b27" ed="T"/>此器內。復持誦八千遍。此藥法則決定成就<lb
  n="0086b28" ed="T"/>有大威力。然後行人以藥打者。剎那之間令<lb
  n="0086b29" ed="T"/>彼入悟。說種種事如彼眼見。彼入悟已。却收<pb n="0086c" id="T21.1217.0086c" ed="T"/><lb
- n="0086c01" ed="T"/>前藥入木器內。<lb
+ n="0086c01" ed="T"/>前藥入本器內。<lb
  n="0086c02" ed="T"/>復說最上敬愛成就法。時持明人須自適悅。<lb
  n="0086c03" ed="T"/>然後用𠸪訖多根奢囉半佉藥囉惹捺多涅哩<lb
  n="0086c04" ed="T"/>波藥烏勃㘓多藥葉及蜂翅。如是藥等。令一<lb
@@ -697,8 +697,8 @@
  n="0088a08" ed="T"/>意受用。若彼行人依此大明三昧而以句召。<lb
  n="0088a09" ed="T"/>在百由旬外亦令速來勿生疑惑。如是羂索<lb
  n="0088a10" ed="T"/>成就之法。</ab></div><lb
- n="0088a11" ed="T"/><div type="fen" level="2"><head>焰鬘得迦吠多梨印修行儀軌分第七</head><lb
- n="0088a12" ed="T"/><ab type="prose">復次依法次第所有焰鬘得迦吠多梨印最上<lb
+ n="0088a11" ed="T"/><div type='fen' level='2'><head>焰鬘得迦吠多梨印修行儀軌分第七</head><lb
+ n="0088a12" ed="T"/><ab type='prose'>復次依法次第所有焰鬘得迦吠多梨印最上<lb
  n="0088a13" ed="T"/>修行儀軌。於持明者能施成就。此是妙吉祥<lb
  n="0088a14" ed="T"/>所化忿怒明王親說。而此大明有大威力。或<lb
  n="0088a15" ed="T"/>誦七字至十字已上。天人聞者俱獲安樂。彼<lb
@@ -793,17 +793,17 @@
  n="0089a17" ed="T"/>沒不現。是名最上成就所求如意。持明之人<lb
  n="0089a18" ed="T"/>一心受持。</ab></div><lb
  n="0089a19" ed="T"/>
-<ab type="juan" subtype="close">佛說妙吉祥最勝根本大教經卷中</ab><lb
+<ab type='juan' subtype='close'>佛說妙吉祥最勝根本大教經卷中</ab><lb
  n="0089a20" ed="T"/><lb
  n="0089a21" ed="T"/><lb
  n="0089a22" ed="T"/>
-<ab type="juan" subtype="open">佛說妙吉祥最勝根本大教經卷<lb
+<ab type='juan' subtype='open'>佛說妙吉祥最勝根本大教經卷<lb
  n="0089a23" ed="T"/>下</ab><lb
  n="0089a24" ed="T"/><lb
  n="0089a25" ed="T"/><byline>西天譯經三藏朝散大夫試光祿卿<lb
  n="0089a26" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
- n="0089a27" ed="T"/><div type="fen" level="2"><head>焰鬘得迦明王本法儀軌分第八</head><lb
- n="0089a28" ed="T"/><ab type="prose">復說造像供養儀軌。持明者先於寂靜之處。<lb
+ n="0089a27" ed="T"/><div type='fen' level='2'><head>焰鬘得迦明王本法儀軌分第八</head><lb
+ n="0089a28" ed="T"/><ab type='prose'>復說造像供養儀軌。持明者先於寂靜之處。<lb
  n="0089a29" ed="T"/>一心正意觀想功德已。用好香華如法供養。<pb n="0089b" id="T21.1217.0089b" ed="T"/><lb
  n="0089b01" ed="T"/>於此像前求為囉惹。復用白檀沈香塗功德<lb
  n="0089b02" ed="T"/>身。以奔拏哩迦華烏怛鉢羅華。󰴔波迦華摩<lb
@@ -1027,8 +1027,8 @@
  n="0091c17" ed="T"/>鬘得迦明王儀軌。真實不虛威力廣大。但依<lb
  n="0091c18" ed="T"/>法供養日日持誦。不在修前無為行。但發菩<lb
  n="0091c19" ed="T"/>提心一切所求無不成就。</ab></div><lb
- n="0091c20" ed="T"/><div type="fen" level="2"><head>焰鬘得迦明王最上儀軌分第九</head><lb
- n="0091c21" ed="T"/><ab type="prose">復次成就最上儀軌明王自說。不修眾行依<lb
+ n="0091c20" ed="T"/><div type='fen' level='2'><head>焰鬘得迦明王最上儀軌分第九</head><lb
+ n="0091c21" ed="T"/><ab type='prose'>復次成就最上儀軌明王自說。不修眾行依<lb
  n="0091c22" ed="T"/>法持誦皆得成就。持明者受持七字至十字<lb
  n="0091c23" ed="T"/>大明。如前依法畫於㡧像如法供養。即誦<lb
  n="0091c24" ed="T"/>大明八洛叉畢。以香花飲食供養三寶及彼<lb
@@ -1143,9 +1143,9 @@
  n="0093a17" ed="T"/>忘有大勢力眾所稱讚若用一切飲食作於<lb
  n="0093a18" ed="T"/>護摩亦得有大勢力名譽流布眾人稱讚一切<lb
  n="0093a19" ed="T"/>所欲皆得成就。</ab></div><lb
- n="0093a20" ed="T"/><div type="fen" level="2"><head>妙吉祥化身焰鬘得迦明王儀軌略出分<lb
+ n="0093a20" ed="T"/><div type='fen' level='2'><head>妙吉祥化身焰鬘得迦明王儀軌略出分<lb
  n="0093a21" ed="T"/>第十</head><lb
- n="0093a22" ed="T"/><ab type="prose">爾時焰鬘得迦明王。所說大明七字至十字。<lb
+ n="0093a22" ed="T"/><ab type='prose'>爾時焰鬘得迦明王。所說大明七字至十字。<lb
  n="0093a23" ed="T"/>令持明者於寂靜處。依法持誦作無畏行。所<lb
  n="0093a24" ed="T"/>欲之事皆得成就。今說一吽字大明。持明者<lb
  n="0093a25" ed="T"/>依法持誦作無畏行。所求之法必得成就。今<lb
@@ -1176,5 +1176,5 @@
  n="0093b21" ed="T"/>諸眾生。聞此儀軌無復疑惑。依法受持一切<lb
  n="0093b22" ed="T"/>所求皆得成就。</ab></div><lb
  n="0093b23" ed="T"/>
-<ab type="juan" subtype="close">佛說妙吉祥最勝根本大教經卷下</ab></div>
+<ab type='juan' subtype='close'>佛說妙吉祥最勝根本大教經卷下</ab></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1345</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0854b11" ed="T"/><lb
  n="0854b12" ed="T"/><lb
- n="0854b13" ed="T"/><div type="jing" level="1"><lb
+ n="0854b13" ed="T"/><div type='jing' level='1'><lb
  n="0854b14" ed="T"/>
-<ab type="juan" subtype="open">金剛場陀羅尼經</ab><lb
+<ab type='juan' subtype='open'>金剛場陀羅尼經</ab><lb
  n="0854b15" ed="T"/><lb
  n="0854b16" ed="T"/><byline>隋三藏法師闍那崛多譯</byline><lb
- n="0854b17" ed="T"/><ab type="prose">如是我聞。一時婆伽婆。住在雪山妙色聚落<lb
+ n="0854b17" ed="T"/><ab type='prose'>如是我聞。一時婆伽婆。住在雪山妙色聚落<lb
  n="0854b18" ed="T"/>金莊嚴窟。與摩訶比丘僧其數滿足一千人<lb
  n="0854b19" ed="T"/>俱。爾時世尊著衣持鉢。入妙色聚落普遍乞<lb
  n="0854b20" ed="T"/>食。還至本處飯食訖。結加趺坐正念不動。<lb
@@ -423,5 +423,5 @@
  n="0858c13" ed="T"/>羅摩睺羅伽人非人等。聞佛所說。頂禮佛足。<lb
  n="0858c14" ed="T"/>歡喜奉行。<lb
  n="0858c15" ed="T"/>
-</ab><ab type="juan" subtype="close">金剛場陀羅尼經</ab></div>
+</ab><ab type='juan' subtype='close'>金剛場陀羅尼經</ab></div>
 </body></text></TEI>

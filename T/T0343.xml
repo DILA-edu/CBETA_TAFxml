@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T12</biblScope>
                     <idno type="Taisho">T12n0343</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0153c11" ed="T"/><lb
  n="0153c12" ed="T"/><lb
  n="0153c13" ed="T"/>
-<ab type="juan" subtype="open">佛說太子刷護經一卷</ab><lb
+<ab type='juan' subtype='open'>佛說太子刷護經一卷</ab><lb
  n="0153c14" ed="T"/><lb
  n="0153c15" ed="T"/><byline>西晉三藏竺法護譯</byline><lb
- n="0153c16" ed="T"/><div type="jing" level="1"><ab type="prose">佛在羅閱祇耆闍崛山中時，與千二百比丘，<lb
+ n="0153c16" ed="T"/><div type='jing' level='1'><ab type='prose'>佛在羅閱祇耆闍崛山中時，與千二百比丘，<lb
  n="0153c17" ed="T"/>菩薩萬二千人，優婆塞、優婆夷，諸天王梵釋，<lb
  n="0153c18" ed="T"/>及無央數人民、鬼神、龍皆來俱會。阿闍世王<lb
  n="0153c19" ed="T"/>太子，名為刷護，從國中與群臣長者子五百<lb
@@ -153,5 +153,5 @@
  n="0155a03" ed="T"/>優婆塞、優婆夷，諸天、人民、鬼神、龍，皆大歡喜，<lb
  n="0155a04" ed="T"/>前為佛作禮而去。</ab></div><lb
  n="0155a05" ed="T"/>
-<ab type="juan" subtype="close">太子刷護經</ab>
+<ab type='juan' subtype='close'>太子刷護經</ab>
 </body></text></TEI>

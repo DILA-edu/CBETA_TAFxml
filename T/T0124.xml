@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T02</biblScope>
                     <idno type="Taisho">T02n0124</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0547b06" ed="T"/><lb
  n="0547b07" ed="T"/><lb
- n="0547b08" ed="T"/><div type="jing" level="1"><lb
+ n="0547b08" ed="T"/><div type='jing' level='1'><lb
  n="0547b09" ed="T"/>
-<ab type="juan" subtype="open">緣起經一卷</ab><lb
+<ab type='juan' subtype='open'>緣起經一卷</ab><lb
  n="0547b10" ed="T"/><lb
  n="0547b11" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
- n="0547b12" ed="T"/><ab type="prose">如是我聞：一時，薄伽梵在室羅筏，住誓多林<lb
+ n="0547b12" ed="T"/><ab type='prose'>如是我聞：一時，薄伽梵在室羅筏，住誓多林<lb
  n="0547b13" ed="T"/>給孤獨園，與無量無數聲聞、菩薩、天人等俱。<lb
  n="0547b14" ed="T"/>爾時，世尊告苾芻眾：「吾當為汝宣說緣起初<lb
  n="0547b15" ed="T"/>差別義，汝應諦聽，極善思惟，吾今為汝分別<lb
@@ -103,5 +103,5 @@
  n="0548a07" ed="T"/>薄伽梵說是經已，聲聞、菩薩、天人等眾，聞佛<lb
  n="0548a08" ed="T"/>所說皆大歡喜，得未曾有，信受奉行。<lb
  n="0548a09" ed="T"/>
-</ab><ab type="juan" subtype="close">緣起經一卷</ab></div>
+</ab><ab type='juan' subtype='close'>緣起經一卷</ab></div>
 </body></text></TEI>

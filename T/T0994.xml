@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n0994</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0513c07" ed="T"/><lb
  n="0513c08" ed="T"/><lb
  n="0513c09" ed="T"/><lb
- n="0513c10" ed="T"/><div type="xu" level="2"><head>新譯仁王般若經陀羅尼念<lb
+ n="0513c10" ed="T"/><div type='xu' level='2'><head>新譯仁王般若經陀羅尼念<lb
  n="0513c11" ed="T"/>誦儀軌序</head><lb
  n="0513c12" ed="T"/><lb
  n="0513c13" ed="T"/><byline>大興善寺翻經沙門慧靈述</byline><lb
- n="0513c14" ed="T"/><ab type="prose">我皇帝聖德廣運。仁育群品。亦既纂曆吹大<lb
+ n="0513c14" ed="T"/><ab type='prose'>我皇帝聖德廣運。仁育群品。亦既纂曆吹大<lb
  n="0513c15" ed="T"/>法螺。刊梵言之輕重。警迷徒之耳目。偉矣<lb
  n="0513c16" ed="T"/>哉。迺辟興善寺大廣智三藏不空。與義學沙<lb
  n="0513c17" ed="T"/>門良賁等一十四人。開府魚朝恩翰林學士<lb
@@ -77,7 +77,7 @@
  n="0514a11" ed="T"/><lb
  n="0514a12" ed="T"/><lb
  n="0514a13" ed="T"/>
-<ab type="juan" subtype="open">仁王護國般若波羅蜜多經陀<lb
+<ab type='juan' subtype='open'>仁王護國般若波羅蜜多經陀<lb
  n="0514a14" ed="T"/>羅尼念誦儀軌</ab><lb
  n="0514a15" ed="T"/><lb
  n="0514a16" ed="T"/><byline>開府儀同三司特進試鴻臚卿<lb
@@ -86,7 +86,7 @@
  n="0514a19" ed="T"/>寺三藏沙門不空奉　詔譯</byline><lb
  n="0514a20" ed="T"/><head>第一明五菩薩現威德</head><lb
  n="0514a21" ed="T"/><head>第一東方金剛手菩薩</head><lb
- n="0514a22" ed="T"/><ab type="prose">經東方金剛手菩薩摩訶薩。手持金剛杵放<lb
+ n="0514a22" ed="T"/><ab type='prose'>經東方金剛手菩薩摩訶薩。手持金剛杵放<lb
  n="0514a23" ed="T"/>青色光。與四俱胝菩薩往護其國。<lb
  n="0514a24" ed="T"/>解曰金剛手者。依三藏所持梵本金剛頂瑜<lb
  n="0514a25" ed="T"/>伽經云。堅固利用具二義也。依彼經者。然<lb
@@ -173,20 +173,20 @@
  n="0515a26" ed="T"/>深一尺縱廣亦爾。以五穀種子及諸香藥。各<lb
  n="0515a27" ed="T"/>取少分置之於中。誦地天真言曰。<lb
  n="0515a28" ed="T"/></ab>
-<ab type="dharani">曩莫三漫多沒馱南畢哩恥微<lb
+<ab type='dharani'>曩莫三漫多沒馱南畢哩恥微<lb
  n="0515a29" ed="T"/>曳娑嚩訶<pb n="0515b" id="T19.0994.0515b" ed="T"/><lb
  n="0515b01" ed="T"/></ab>
-<ab type="prose">誦二十一遍加持香等。安置其中填土平滿。<lb
+<ab type='prose'>誦二十一遍加持香等。安置其中填土平滿。<lb
  n="0515b02" ed="T"/>次於壇上面向東坐。於壇中心縱廣一肘。取<lb
  n="0515b03" ed="T"/>諸香水塗一圓壇。以諸時花遍布其上。及以<lb
  n="0515b04" ed="T"/>乳粥珍菓飲食。至心供養。以右手按其壇<lb
  n="0515b05" ed="T"/>上。誦地天真言一百八遍即說偈曰。<lb
  n="0515b06" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 汝天於佛所　　親證成正覺　　<lb
  n="0515b07" ed="T"/>我建漫荼羅　　當願常加護　　
 </ab><lb
- n="0515b08" ed="T"/><ab type="prose">誦偈三遍。即取瞿摩夷不墜地者。以淨<lb
+ n="0515b08" ed="T"/><ab type='prose'>誦偈三遍。即取瞿摩夷不墜地者。以淨<lb
  n="0515b09" ed="T"/>物取和諸香水。誦前真言加持二十一遍。即<lb
  n="0515b10" ed="T"/>從壇東北角。右手漸次如法右旋塗。誦前真<lb
  n="0515b11" ed="T"/>言至塗壇畢不得間斷。勿作異語。壇既乾<lb
@@ -256,10 +256,10 @@
  n="0516b01" ed="T"/>心結清淨印。兩手當心虛心合掌如未敷蓮<lb
  n="0516b02" ed="T"/>華誦真言曰。<lb
  n="0516b03" ed="T"/></ab>
-<ab type="dharani">唵娑嚩婆嚩輸鐸薩嚩達磨<lb
+<ab type='dharani'>唵娑嚩婆嚩輸鐸薩嚩達磨<lb
  n="0516b04" ed="T"/>娑嚩婆嚩輸度撼<lb
  n="0516b05" ed="T"/></ab>
-<ab type="prose">誦此真言三遍。正誦之時運心廣布。一切諸<lb
+<ab type='prose'>誦此真言三遍。正誦之時運心廣布。一切諸<lb
  n="0516b06" ed="T"/>法本來清淨。是故我身悉亦清淨。即閉目<lb
  n="0516b07" ed="T"/>運想。遍滿虛空一切諸佛菩薩道場眾會。執<lb
  n="0516b08" ed="T"/>持種種上妙香花。三業至誠頭面禮敬。<lb
@@ -267,9 +267,9 @@
  n="0516b10" ed="T"/>兩手當心內相叉作拳。並竪二大母指誦<lb
  n="0516b11" ed="T"/>真言曰。<lb
  n="0516b12" ed="T"/></ab>
-<ab type="dharani">唵爾那爾迦娑嚩訶<lb
+<ab type='dharani'>唵爾那爾迦娑嚩訶<lb
  n="0516b13" ed="T"/></ab>
-<ab type="prose">不出聲誦此真言三遍。下皆准知。於頂上<lb
+<ab type='prose'>不出聲誦此真言三遍。下皆准知。於頂上<lb
  n="0516b14" ed="T"/>散。由結此印契誦此佛部三昧耶真言故。<lb
  n="0516b15" ed="T"/>十方法界一切諸佛。悉皆雲集遍滿虛空。加<lb
  n="0516b16" ed="T"/>持行者離諸障惱。三業清淨所修行願速得<lb
@@ -278,9 +278,9 @@
  n="0516b19" ed="T"/>兩手當心如前作拳。左大母指屈於掌中誦<lb
  n="0516b20" ed="T"/>真言曰。<lb
  n="0516b21" ed="T"/></ab>
-<ab type="dharani">唵阿嚧力迦娑嚩訶<lb
+<ab type='dharani'>唵阿嚧力迦娑嚩訶<lb
  n="0516b22" ed="T"/></ab>
-<ab type="prose">准前誦三遍於頂上散。由結此印契誦此<lb
+<ab type='prose'>准前誦三遍於頂上散。由結此印契誦此<lb
  n="0516b23" ed="T"/>諸菩薩部三昧耶真言故。即得觀自在菩薩<lb
  n="0516b24" ed="T"/>等。十方法界一切菩薩。悉皆雲集遍滿虛空。<lb
  n="0516b25" ed="T"/>加持行者三業清淨無諸災難。謂諸菩薩承<lb
@@ -289,9 +289,9 @@
  n="0516b28" ed="T"/>右如前印舒左大母指。屈右大拇指於掌<lb
  n="0516b29" ed="T"/>中誦真言曰。<pb n="0516c" id="T19.0994.0516c" ed="T"/><lb
  n="0516c01" ed="T"/></ab>
-<ab type="dharani">唵嚩日囉地力迦娑嚩訶<lb
+<ab type='dharani'>唵嚩日囉地力迦娑嚩訶<lb
  n="0516c02" ed="T"/></ab>
-<ab type="prose">准前誦三遍於頂上散。由結印契誦金剛<lb
+<ab type='prose'>准前誦三遍於頂上散。由結印契誦金剛<lb
  n="0516c03" ed="T"/>部三昧耶真言故。即得十方法界一切金剛。<lb
  n="0516c04" ed="T"/>現威怒身如雲而集。滿虛空界加持行者。三<lb
  n="0516c05" ed="T"/>業堅固猶如金剛。謂彼聖者承佛威神。以自<lb
@@ -317,9 +317,9 @@
  n="0517a09" ed="T"/>右以兩手持捧摩尼寶器。盛滿香水置於眉<lb
  n="0517a10" ed="T"/>中誦真言曰。<lb
  n="0517a11" ed="T"/></ab>
-<ab type="dharani">唵嚩日嚧娜迦吽<lb
+<ab type='dharani'>唵嚩日嚧娜迦吽<lb
  n="0517a12" ed="T"/></ab>
-<ab type="prose">准上誦三遍運心廣布。次第普浴一切聖眾。<lb
+<ab type='prose'>准上誦三遍運心廣布。次第普浴一切聖眾。<lb
  n="0517a13" ed="T"/>於頂上散。由獻閼伽故。從勝解行地乃至<lb
  n="0517a14" ed="T"/>法雲地。於地地中十方法界諸佛菩薩。皆<lb
  n="0517a15" ed="T"/>悉加護獲諸灌頂。<lb
@@ -328,20 +328,20 @@
  n="0517a18" ed="T"/>小指相附少屈。餘之六指各散微屈。如開敷<lb
  n="0517a19" ed="T"/>蓮華真言曰。<lb
  n="0517a20" ed="T"/></ab>
-<ab type="dharani">唵迦磨攞娑嚩訶<lb
+<ab type='dharani'>唵迦磨攞娑嚩訶<lb
  n="0517a21" ed="T"/></ab>
-<ab type="prose">由結印契及誦真言。所獻寶座令諸聖眾皆<lb
+<ab type='prose'>由結印契及誦真言。所獻寶座令諸聖眾皆<lb
  n="0517a22" ed="T"/>如實受用則令行者至果位中。獲得金剛堅<lb
  n="0517a23" ed="T"/>固寶座。<lb
  n="0517a24" ed="T"/><head>第九結普供養印</head><lb
  n="0517a25" ed="T"/>右以兩手合掌。五指互交以右押左。置於心<lb
  n="0517a26" ed="T"/>上誦真言曰。<lb
  n="0517a27" ed="T"/></ab>
-<ab type="dharani">那莫三曼多沒馱南薩嚩他吹<lb
+<ab type='dharani'>那莫三曼多沒馱南薩嚩他吹<lb
  n="0517a28" ed="T"/>烏娜誐諦薩頗囉呬𤚥誐誐曩<lb
  n="0517a29" ed="T"/>劍娑嚩訶<pb n="0517b" id="T19.0994.0517b" ed="T"/><lb
  n="0517b01" ed="T"/></ab>
-<ab type="prose">由結此印誦真言故。運心廣布。周遍法界諸<lb
+<ab type='prose'>由結此印誦真言故。運心廣布。周遍法界諸<lb
  n="0517b02" ed="T"/>佛菩薩道場海會。普雨一切諸供養具。初誦<lb
  n="0517b03" ed="T"/>一遍。塵沙寶器滿盛塗香普塗聖眾。誦第二<lb
  n="0517b04" ed="T"/>遍。種種花鬘普遍莊嚴。誦第三遍。燒種種香<lb
@@ -366,9 +366,9 @@
  n="0517b23" ed="T"/>作此觀已。頂上散印手。持數珠置於掌中。合<lb
  n="0517b24" ed="T"/>掌當心誦真言曰。<lb
  n="0517b25" ed="T"/></ab>
-<ab type="dharani">唵尾嚧者那麼攞娑嚩訶<lb
+<ab type='dharani'>唵尾嚧者那麼攞娑嚩訶<lb
  n="0517b26" ed="T"/></ab>
-<ab type="prose">誦此三遍。加持數珠頂上戴已。然後當心。<lb
+<ab type='prose'>誦此三遍。加持數珠頂上戴已。然後當心。<lb
  n="0517b27" ed="T"/>左手承珠右手移珠。念念相應住佛母三昧。<lb
  n="0517b28" ed="T"/>觀心莫間斷。誦一百八或二十一遍。掐數<lb
  n="0517b29" ed="T"/>足已。頂戴數珠置於本處。結三摩地印。橫舒<pb n="0517c" id="T19.0994.0517c" ed="T"/><lb
@@ -392,7 +392,7 @@
  n="0517c18" ed="T"/>誦大乘。勿散動也。<pb n="0518a" id="T19.0994.0518a" ed="T"/><lb
  n="0518a01" ed="T"/><head>第四釋陀羅尼文字觀行法</head><lb
  n="0518a02" ed="T"/></ab>
-<ab type="dharani">娜謨囉怛曩怛囉夜耶娜莫阿哩也<lb
+<ab type='dharani'>娜謨囉怛曩怛囉夜耶娜莫阿哩也<lb
  n="0518a08" ed="T"/>吠𡀔者娜野怛他蘗多野<lb
  n="0518a11" ed="T"/>囉訶諦三藐三沒馱<lb
  n="0518a12" ed="T"/>野娜莫阿哩<lb
@@ -413,7 +413,7 @@
  n="0519a10" ed="T"/>囉嬭阿囉拏迦羅嬭摩訶鉢囉枳穰播囉弭諦娑嚩訶<pb n="0519b" id="T19.0994.0519b" ed="T"/><lb
  n="0519b01" ed="T"/><head>第五陀羅尼觀想布字輪</head><lb
  n="0519b02" ed="T"/></ab>
-<ab type="prose">若行者能於此般若波羅蜜多經。修瑜伽<lb
+<ab type='prose'>若行者能於此般若波羅蜜多經。修瑜伽<lb
  n="0519b03" ed="T"/>觀智者。於此陀羅尼從初至末所有文字。一<lb
  n="0519b04" ed="T"/>一句一一字思惟觀察。於自心中清淨圓明<lb
  n="0519b05" ed="T"/>大圓鏡上。想一金輪。外第一重有十六輻。<lb
@@ -430,6 +430,6 @@
  n="0519b16" ed="T"/>念銷滅一切業障報障煩惱障。身心轉依皆<lb
  n="0519b17" ed="T"/>得自在。獲諸神通至究竟位。三身具矣。<lb
  n="0519b18" ed="T"/>
-</ab><ab type="juan" subtype="close">仁王護國般若波羅蜜多經陀羅尼念誦儀<lb
+</ab><ab type='juan' subtype='close'>仁王護國般若波羅蜜多經陀羅尼念誦儀<lb
  n="0519b19" ed="T"/>軌</ab></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1039</idno>
                 </bibl>
@@ -43,13 +43,13 @@
  n="0023b01" ed="T"/><lb
  n="0023b02" ed="T"/><lb
  n="0023b03" ed="T"/>
-<ab type="juan" subtype="open">阿唎多羅陀羅尼阿嚕力經</ab><lb
+<ab type='juan' subtype='open'>阿唎多羅陀羅尼阿嚕力經</ab><lb
  n="0023b04" ed="T"/><lb
  n="0023b05" ed="T"/><byline>開府儀同三司特進試鴻臚卿肅國<lb
  n="0023b06" ed="T"/>公食邑三千戶賜紫贈司空諡大鑒<lb
  n="0023b07" ed="T"/>正號大廣智大興善寺三藏沙門<lb
  n="0023b08" ed="T"/>不空奉　詔譯</byline><lb
- n="0023b09" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞。一時婆伽梵在悉羅跋城給孤獨<lb
+ n="0023b09" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞。一時婆伽梵在悉羅跋城給孤獨<lb
  n="0023b10" ed="T"/>園。與無量菩薩眾俱。爾時觀自在菩薩。於<lb
  n="0023b11" ed="T"/>大眾中從座而起。正衣服已偏袒右肩。右膝<lb
  n="0023b12" ed="T"/>著地合掌恭敬。頂禮佛足而白佛言。世尊我<lb
@@ -59,9 +59,9 @@
  n="0023b16" ed="T"/>今聽許任為廣說。<lb
  n="0023b17" ed="T"/>爾時觀自在菩薩即說真言曰。<lb
  n="0023b18" ed="T"/></ab>
-<ab type="dharani">唵阿嚕力迦娑嚩訶<lb
+<ab type='dharani'>唵阿嚕力迦娑嚩訶<lb
  n="0023b19" ed="T"/></ab>
-<ab type="prose">爾時觀自在菩薩說此真言已。而白佛言世<lb
+<ab type='prose'>爾時觀自在菩薩說此真言已。而白佛言世<lb
  n="0023b20" ed="T"/>尊此真言是一切蓮花部心。我今說是悉地<lb
  n="0023b21" ed="T"/>法則。若每日晨朝於我像前。作曼荼羅散種<lb
  n="0023b22" ed="T"/>種花。誦八千遍。復不與人語更誦多少。漸為<lb
@@ -687,5 +687,5 @@
  n="0030c07" ed="T"/>深法已。於是會中大菩薩眾。天龍八部一切<lb
  n="0030c08" ed="T"/>金剛。聞是法已皆大歡喜禮佛而退。<lb
  n="0030c09" ed="T"/>
-</ab><ab type="juan" subtype="close">阿唎多羅阿嚕力經</ab></div>
+</ab><ab type='juan' subtype='close'>阿唎多羅阿嚕力經</ab></div>
 </body></text></TEI>

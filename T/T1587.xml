@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T31</biblScope>
                     <idno type="Taisho">T31n1587</idno>
                 </bibl>
@@ -43,10 +43,10 @@
  n="0061c01" ed="T"/><lb
  n="0061c02" ed="T"/><lb
  n="0061c03" ed="T"/>
-<ab type="juan" subtype="open">轉識論</ab><lb
+<ab type='juan' subtype='open'>轉識論</ab><lb
  n="0061c04" ed="T"/><lb
  n="0061c05" ed="T"/><byline>陳代真諦譯</byline><lb
- n="0061c06" ed="T"/><div type="jing" level="1"><ab type="prose">識轉有二種。一轉為眾生。二轉為法。一切<lb
+ n="0061c06" ed="T"/><div type='jing' level='1'><ab type='prose'>識轉有二種。一轉為眾生。二轉為法。一切<lb
  n="0061c07" ed="T"/>所緣不出此二。此二實無。但是識轉作二相<lb
  n="0061c08" ed="T"/>貌也。次明能緣有三種。一果報識。即是阿梨<lb
  n="0061c09" ed="T"/>耶識。二執識。即阿陀那識。三塵識。即是六識。<lb
@@ -221,5 +221,5 @@
  n="0063c17" ed="T"/>亦無。故云二不顯現。此二但談二識所現前<lb
  n="0063c18" ed="T"/>境。前境先已無故。是名識轉品究竟也。<lb
  n="0063c19" ed="T"/>
-</ab><ab type="juan" subtype="close">轉識論</ab></div>
+</ab><ab type='juan' subtype='close'>轉識論</ab></div>
 </body></text></TEI>

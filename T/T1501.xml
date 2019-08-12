@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T24</biblScope>
                     <idno type="Taisho">T24n1501</idno>
                 </bibl>
@@ -43,11 +43,11 @@
  n="1110b01" ed="T"/><lb
  n="1110b02" ed="T"/><lb
  n="1110b03" ed="T"/>
-<ab type="juan" subtype="open">菩薩戒本</ab><lb
+<ab type='juan' subtype='open'>菩薩戒本</ab><lb
  n="1110b04" ed="T"/><lb
  n="1110b05" ed="T"/><byline>彌勒菩薩說</byline><lb
  n="1110b06" ed="T"/><byline>沙門玄奘奉　詔譯</byline><lb
- n="1110b07" ed="T"/><div type="jing" level="1"><ab type="prose">若諸菩薩已受菩薩所受淨戒，應自數數專<lb
+ n="1110b07" ed="T"/><div type='jing' level='1'><ab type='prose'>若諸菩薩已受菩薩所受淨戒，應自數數專<lb
  n="1110b08" ed="T"/>諦思惟，此是菩薩正所應作，此非菩薩正所<lb
  n="1110b09" ed="T"/>應作。既思惟已，然後為成正所作業，當勤修<lb
  n="1110b10" ed="T"/>學。又應專勵聽聞菩薩素呾纜藏，及以菩薩<lb
@@ -527,5 +527,5 @@
  n="1115c20" ed="T"/>益有情戒，今於此菩薩藏摩呾理迦，綜集而<lb
  n="1115c21" ed="T"/>說。菩薩於中應起尊重，住極恭敬，專精修學。</ab></div><lb
  n="1115c22" ed="T"/>
-<ab type="juan" subtype="close">菩薩戒本一卷</ab>
+<ab type='juan' subtype='close'>菩薩戒本一卷</ab>
 </body></text></TEI>

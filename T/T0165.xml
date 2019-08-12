@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T03</biblScope>
                     <idno type="Taisho">T03n0165</idno>
                 </bibl>
@@ -44,11 +44,11 @@
  n="0393a10" ed="T"/><lb
  n="0393a11" ed="T"/><lb
  n="0393a12" ed="T"/>
-<ab type="juan" subtype="open">佛說頂生王因緣經卷第一</ab><lb
+<ab type='juan' subtype='open'>佛說頂生王因緣經卷第一</ab><lb
  n="0393a13" ed="T"/><lb
  n="0393a14" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿傳<lb
  n="0393a15" ed="T"/>法大師賜紫沙門臣施護等奉　詔譯</byline><lb
- n="0393a16" ed="T"/><div type="jing" level="1"><ab type="prose">佛世尊一時在舍衛國祇樹給孤獨園，時憍<lb
+ n="0393a16" ed="T"/><div type='jing' level='1'><ab type='prose'>佛世尊一時在舍衛國祇樹給孤獨園，時憍<lb
  n="0393a17" ed="T"/>薩羅國主勝軍大王來詣佛所，到已頭面禮<lb
  n="0393a18" ed="T"/>世尊足，退坐一面，白佛言：「世尊！世尊往昔<lb
  n="0393a19" ed="T"/>為求阿耨多羅三藐三菩提時，云何行施作<lb
@@ -261,14 +261,14 @@
  n="0395b23" ed="T"/>其間。王以勝力兵眾於彼化導，又經六帝釋<lb
  n="0395b24" ed="T"/>滅。<lb
  n="0395b25" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說頂生王因緣經卷第一</ab><pb n="0395c" ed="T" id="T03.0165.0395c"/><lb
+</ab><ab type='juan' subtype='close'>佛說頂生王因緣經卷第一</ab><pb n="0395c" ed="T" id="T03.0165.0395c"/><lb
  n="0395c01" ed="T"/><lb
  n="0395c02" ed="T"/>
-<ab type="juan" subtype="open">佛說頂生王因緣經卷第二</ab><lb
+<ab type='juan' subtype='open'>佛說頂生王因緣經卷第二</ab><lb
  n="0395c03" ed="T"/><lb
  n="0395c04" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿傳<lb
  n="0395c05" ed="T"/>法大師賜紫沙門臣施護等奉　詔譯</byline><lb
- n="0395c06" ed="T"/><ab type="prose">「復次，持軸山後至持雙山，其山嚴麗殊妙可<lb
+ n="0395c06" ed="T"/><ab type='prose'>「復次，持軸山後至持雙山，其山嚴麗殊妙可<lb
  n="0395c07" ed="T"/>觀，純金所成；彼有四大王天，諸天子眾往復<lb
  n="0395c08" ed="T"/>其間。須彌山王高出眾山，此山王東有大天<lb
  n="0395c09" ed="T"/>王，名曰持國，所居宮城亦號持國；其城縱廣<lb
@@ -475,15 +475,15 @@
  n="0398a07" ed="T"/>旬。其第四層，傍出二千由旬，四寶所成；有四<lb
  n="0398a08" ed="T"/>大王天，居止其中。<lb
  n="0398a09" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說頂生王因緣經卷第二</ab><lb
+</ab><ab type='juan' subtype='close'>佛說頂生王因緣經卷第二</ab><lb
  n="0398a10" ed="T"/><lb
  n="0398a11" ed="T"/><lb
  n="0398a12" ed="T"/>
-<ab type="juan" subtype="open">佛說頂生王因緣經卷第三</ab><lb
+<ab type='juan' subtype='open'>佛說頂生王因緣經卷第三</ab><lb
  n="0398a13" ed="T"/><lb
  n="0398a14" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿傳<lb
  n="0398a15" ed="T"/>法大師賜紫沙門臣施護等奉　詔譯</byline><lb
- n="0398a16" ed="T"/><ab type="prose">「復次，大王！其上即是三十三天所居之處，彼<lb
+ n="0398a16" ed="T"/><ab type='prose'>「復次，大王！其上即是三十三天所居之處，彼<lb
  n="0398a17" ed="T"/>有龍王住於水際，所謂難陀龍王、烏波難陀<lb
  n="0398a18" ed="T"/>龍王、阿說多哩龍王、母唧隣那龍王、摩那<lb
  n="0398a19" ed="T"/>斯龍王、伊羅鉢怛羅龍王等，住壽經劫，護持<lb
@@ -685,15 +685,15 @@
  n="0400b12" ed="T"/>身若心皆悉麤猛而好鬪戰，由是緣故名麤<lb
  n="0400b13" ed="T"/>堅園。<lb
  n="0400b14" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說頂生王因緣經卷第三</ab><lb
+</ab><ab type='juan' subtype='close'>佛說頂生王因緣經卷第三</ab><lb
  n="0400b15" ed="T"/><lb
  n="0400b16" ed="T"/><lb
  n="0400b17" ed="T"/>
-<ab type="juan" subtype="open">佛說頂生王因緣經卷第四</ab><lb
+<ab type='juan' subtype='open'>佛說頂生王因緣經卷第四</ab><lb
  n="0400b18" ed="T"/><lb
  n="0400b19" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿傳<lb
  n="0400b20" ed="T"/>法大師賜紫沙門臣施護等奉　詔譯</byline><lb
- n="0400b21" ed="T"/><ab type="prose">「復次，麤堅園南二十由旬有麤堅地，縱廣正<lb
+ n="0400b21" ed="T"/><ab type='prose'>「復次，麤堅園南二十由旬有麤堅地，縱廣正<lb
  n="0400b22" ed="T"/>等二百五十由旬，周匝千由旬，有百一種采<lb
  n="0400b23" ed="T"/>繪嚴飾清淨柔軟；其地中間有四寶臺間錯<lb
  n="0400b24" ed="T"/>莊嚴，天曼陀羅華散布其地；道路長二十由<lb
@@ -854,16 +854,16 @@
  n="0402b05" ed="T"/>諸眷屬，夏四月中，五欲娛樂嬉戲自在，隨自<lb
  n="0402b06" ed="T"/>福力受斯勝果。<lb
  n="0402b07" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說頂生王因緣經卷第四</ab><lb
+</ab><ab type='juan' subtype='close'>佛說頂生王因緣經卷第四</ab><lb
  n="0402b08" ed="T"/><lb
  n="0402b09" ed="T"/><lb
  n="0402b10" ed="T"/>
-<ab type="juan" subtype="open">佛說頂生王因緣經卷第五</ab><lb
+<ab type='juan' subtype='open'>佛說頂生王因緣經卷第五</ab><lb
  n="0402b11" ed="T"/><lb
  n="0402b12" ed="T"/><byline>西天譯經三藏朝奉大夫試光<lb
  n="0402b13" ed="T"/>祿卿傳法大師賜紫沙門臣施護<lb
  n="0402b14" ed="T"/>等奉　詔譯</byline><lb
- n="0402b15" ed="T"/><ab type="prose">「復次，三十三天有大象王，名愛囉嚩拏，守衛<lb
+ n="0402b15" ed="T"/><ab type='prose'>「復次，三十三天有大象王，名愛囉嚩拏，守衛<lb
  n="0402b16" ed="T"/>園苑。身相可觀，純色絜白，如俱母陀花七支<lb
  n="0402b17" ed="T"/>拄地；象王頭相最勝妙好內赤外青，如帝青<lb
  n="0402b18" ed="T"/>色具有六牙；身長二由旬半，前後平闊各一<lb
@@ -1034,16 +1034,16 @@
  n="0404b09" ed="T"/>者兵力破散，乃從須彌山王第一層級詣第<lb
  n="0404b10" ed="T"/>二層，彼有持鬘天王止住其間。<lb
  n="0404b11" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說頂生王因緣經卷第五</ab><lb
+</ab><ab type='juan' subtype='close'>佛說頂生王因緣經卷第五</ab><lb
  n="0404b12" ed="T"/><lb
  n="0404b13" ed="T"/><lb
  n="0404b14" ed="T"/>
-<ab type="juan" subtype="open">佛說頂生王因緣經卷第六</ab><lb
+<ab type='juan' subtype='open'>佛說頂生王因緣經卷第六</ab><lb
  n="0404b15" ed="T"/><lb
  n="0404b16" ed="T"/><byline>西天譯經三藏朝奉大夫試光<lb
  n="0404b17" ed="T"/>祿卿傳法大師賜紫沙門臣施<lb
  n="0404b18" ed="T"/>護等奉　詔譯</byline><lb
- n="0404b19" ed="T"/><ab type="prose">「爾時，持鬘天王、堅首天王、水居龍王三守護<lb
+ n="0404b19" ed="T"/><ab type='prose'>「爾時，持鬘天王、堅首天王、水居龍王三守護<lb
  n="0404b20" ed="T"/>者，合集同力與阿脩羅而共鬪戰。若三守護<lb
  n="0404b21" ed="T"/>者得勝、阿脩羅眾退敗之時，即入自宮；若<lb
  n="0404b22" ed="T"/>阿脩羅得勝、三守護者退敗之時，是即三<lb
@@ -1131,7 +1131,7 @@
  n="0405b17" ed="T"/>三十三天，帝釋分其半座；具如是事。復於<lb
  n="0405b18" ed="T"/>五欲不生厭足，將謝世時說伽陀曰：<lb
  n="0405b19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『「『苦哉世間貪欲境，　　金寶雖豐無厭足；　　<lb
  n="0405b20" ed="T"/>是中樂少苦還多，　　智者如應能覺了。　　<lb
  n="0405b21" ed="T"/>乃至天中妙欲樂，　　貪愛心故不解脫；　　<lb
@@ -1141,20 +1141,20 @@
  n="0405b25" ed="T"/>若思所欲為苦因，　　彼於欲境何貪愛；　　<lb
  n="0405b26" ed="T"/>貪等是為世所憂，　　智者調伏應善學。』」』」　　
 </ab><lb
- n="0405b27" ed="T"/><ab type="prose">佛言：「大王！彼頂生王以是緣故，又作是說：<lb
+ n="0405b27" ed="T"/><ab type='prose'>佛言：「大王！彼頂生王以是緣故，又作是說：<lb
  n="0405b28" ed="T"/>『諸世間人，少能於其五欲境中覺了知足，後<lb
  n="0405b29" ed="T"/>趣命終；而世間人多於五欲境中，不能覺了、<pb n="0405c" ed="T" id="T03.0165.0405c"/><lb
  n="0405c01" ed="T"/>不生厭足，後趣命終。』<lb
  n="0405c02" ed="T"/>「復次，頂生王廣為利益於後人故，復說伽陀<lb
  n="0405c03" ed="T"/>曰：<lb
  n="0405c04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『極惡生死流轉中，　　了知壽命隨減少；　　<lb
  n="0405c05" ed="T"/>應當速脩諸福門，　　不脩福行斯為苦。　　<lb
  n="0405c06" ed="T"/>是故脩福為勝欲，　　隨應行施如法儀；　　<lb
  n="0405c07" ed="T"/>此世及於他世中，　　由脩福故生歡喜。』　　
 </ab><lb
- n="0405c08" ed="T"/><ab type="prose">「爾時，國中一切人民無數百千之眾，聞王寢<lb
+ n="0405c08" ed="T"/><ab type='prose'>「爾時，國中一切人民無數百千之眾，聞王寢<lb
  n="0405c09" ed="T"/>疾，悉來奔詣瞻仰致問。時頂生王為諸人眾，<lb
  n="0405c10" ed="T"/>以如是種貪欲等緣廣說對治，使諸人輩捨<lb
  n="0405c11" ed="T"/>家學道。是時即有無數百千人眾，聞所說已<lb
@@ -1196,13 +1196,13 @@
  n="0406a18" ed="T"/>旋空中或飄或止。時長者子起清淨心，說伽<lb
  n="0406a19" ed="T"/>陀曰：<lb
  n="0406a20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『以此布施廣大因，　　得佛世間自然智；　　<lb
  n="0406a21" ed="T"/>願我速越生死流，　　先佛未度者皆度。　　<lb
  n="0406a22" ed="T"/>一切增上佛大僊，　　我所奉上悅意華；　　<lb
  n="0406a23" ed="T"/>願我以此廣大因，　　圓滿所求無上道。』」　　
 </ab><lb
- n="0406a24" ed="T"/><ab type="prose">佛言：「大王！彼頂生王以是因故，於自宮中<lb
+ n="0406a24" ed="T"/><ab type='prose'>佛言：「大王！彼頂生王以是因故，於自宮中<lb
  n="0406a25" ed="T"/>雨金錢七日。」<lb
  n="0406a26" ed="T"/>爾時，勝軍大王復白佛言：「世尊！彼頂生王又<lb
  n="0406a27" ed="T"/>以何緣，於四大洲統輪王位，乃能至于三十<lb
@@ -1217,11 +1217,11 @@
  n="0406b07" ed="T"/>于地。時彼商主見是相已起清淨心，即以伽<lb
  n="0406b08" ed="T"/>陀發誓願言：<lb
  n="0406b09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『以此布施廣大因，　　得佛世間自然智；　　<lb
  n="0406b10" ed="T"/>願我速越生死流，　　先佛未度者皆度。』」　　
 </ab><lb
- n="0406b11" ed="T"/><ab type="prose">佛言：「大王！是時商主於毘婆尸如來所，雖<lb
+ n="0406b11" ed="T"/><ab type='prose'>佛言：「大王！是時商主於毘婆尸如來所，雖<lb
  n="0406b12" ed="T"/>以少物施佛世尊，由心清淨，彼時四豆入於<lb
  n="0406b13" ed="T"/>鉢中，後感報應於四大洲統輪王位；其有一<lb
  n="0406b14" ed="T"/>豆擊鉢振聲方墮地者，後感報應能至三十<lb
@@ -1233,5 +1233,5 @@
  n="0406b20" ed="T"/>有智者，於佛世尊隨力所應修諸施行。如其<lb
  n="0406b21" ed="T"/>所說，當如是學。」<lb
  n="0406b22" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說頂生王因緣經卷第六</ab></div>
+</ab><ab type='juan' subtype='close'>佛說頂生王因緣經卷第六</ab></div>
 </body></text></TEI>

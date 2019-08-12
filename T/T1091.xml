@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1091</idno>
                 </bibl>
@@ -39,15 +39,15 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0224b" id="T20.1091.0224b" ed="T"/><lb
  n="0224b01" ed="T"/><lb
  n="0224b02" ed="T"/><lb
  n="0224b03" ed="T"/>
-<ab type="juan" subtype="open">七星如意輪祕密要經</ab><lb
+<ab type='juan' subtype='open'>七星如意輪祕密要經</ab><lb
  n="0224b04" ed="T"/><lb
  n="0224b05" ed="T"/><byline>三藏不空譯</byline><lb
- n="0224b06" ed="T"/><div type="jing" level="2"><ab type="prose">如是我聞。一時佛在大雪山伽王那蘭陀。與<lb
+ n="0224b06" ed="T"/><div type='jing' level='2'><ab type='prose'>如是我聞。一時佛在大雪山伽王那蘭陀。與<lb
  n="0224b07" ed="T"/>大比丘眾千二百五十人俱。其名曰大目犍<lb
  n="0224b08" ed="T"/>連舍利弗。摩訶迦旃延波多。阿難陀摩訶迦<lb
  n="0224b09" ed="T"/>葉。富樓那彌多羅尼子。復又菩薩萬八千。<lb
@@ -94,15 +94,15 @@
  n="0224c21" ed="T"/>爾時神通王菩薩。承佛大神力。往彼世界。頂<lb
  n="0224c22" ed="T"/>禮如意輪王菩薩。而作是言。<lb
  n="0224c23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 我等住於娑婆界　　修學如來因地門　　<lb
  n="0224c24" ed="T"/>救度迦夷波斯王　　以此因緣禮仁者　　<lb
  n="0224c25" ed="T"/>七寶莊嚴寶輪王　　菩薩相好不思議　　<lb
  n="0224c26" ed="T"/>依正二報俱勝妙　　我今敬禮如意輪　　
 </ab><lb
- n="0224c27" ed="T"/><ab type="prose">爾時如意輪菩薩而說偈言。<lb
+ n="0224c27" ed="T"/><ab type='prose'>爾時如意輪菩薩而說偈言。<lb
  n="0224c28" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 我今所修菩薩道　　度脫眾生長夜苦　　<lb
  n="0224c29" ed="T"/>今座莊嚴如意輪　　令諸眾生亦如是　　<pb n="0225a" id="T20.1091.0225a" ed="T"/><lb
  n="0225a01" ed="T"/>世有眾生有所願　　今我如意寶輪王　　<lb
@@ -129,18 +129,18 @@
  n="0225a22" ed="T"/>增長一切諸功德　　自在能照於五道　　<lb
  n="0225a23" ed="T"/>成就一切眾生願　　
 </ab><lb
- n="0225a24" ed="T"/><ab type="prose">爾時神通王菩薩。頂禮聖輪還來本處。一心<lb
+ n="0225a24" ed="T"/><ab type='prose'>爾時神通王菩薩。頂禮聖輪還來本處。一心<lb
  n="0225a25" ed="T"/>受持此不可思議摩訶般多羅祕密法門真<lb
  n="0225a26" ed="T"/>言。<lb
  n="0225a27" ed="T"/></ab>
-<ab type="dharani">南無阿羅姪那阿阿那南阿梨耶婆嚕吉<lb
+<ab type='dharani'>南無阿羅姪那阿阿那南阿梨耶婆嚕吉<lb
  n="0225a28" ed="T"/>帝沙波訶阿耶菩提薩埵婆耶摩訶迦烏<lb
  n="0225a29" ed="T"/>尼迦耶多姪他唵折揭羅婆帝真多摩<pb n="0225b" id="T20.1091.0225b" ed="T"/><lb
  n="0225b01" ed="T"/>尼摩訶波地迷嚕嚕帝遮揭阿沙吽唎<lb
  n="0225b02" ed="T"/>婆訶唵波地迷真多摩尼摩訶遮揭阿<lb
  n="0225b03" ed="T"/>吽唵波阿多波地迷吽<lb
  n="0225b04" ed="T"/></ab>
-<ab type="prose">七星本部印　如意輪本印　長誦印　若人<lb
+<ab type='prose'>七星本部印　如意輪本印　長誦印　若人<lb
  n="0225b05" ed="T"/>心有所求。或有病難延壽求祿。乃至一切心<lb
  n="0225b06" ed="T"/>所願求。當使本星必當隨心。如來在世立大<lb
  n="0225b07" ed="T"/>誓願。為此部中當護摩。此因緣當用七星以<lb
@@ -152,8 +152,8 @@
  n="0225b13" ed="T"/>之孫蘇烏獪　亥丑波伊蘇舟尼<lb
  n="0225b14" ed="T"/>子薩波耶揭帝。<lb
  n="0225b15" ed="T"/>
-</ab><ab type="juan" subtype="close">七星如意輪祕密要經</ab></div><lb
- n="0225b16" ed="T"/><div type="w" level="2"><ab type="prose">天明五乙巳春二月十日。於洛北大報恩<lb
+</ab><ab type='juan' subtype='close'>七星如意輪祕密要經</ab></div><lb
+ n="0225b16" ed="T"/><div type='w' level='2'><ab type='prose'>天明五乙巳春二月十日。於洛北大報恩<lb
  n="0225b17" ed="T"/>寺。以上品蓮臺寺藏本寫訖。此七星如意<lb
  n="0225b18" ed="T"/>輪經。於重譽深密抄薄草子後重等證之。<lb
  n="0225b19" ed="T"/>　智積院寓學東武　慈忍　識<lb

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T18</biblScope>
                     <idno type="Taisho">T18n0917</idno>
                 </bibl>
@@ -39,15 +39,15 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0942b24" ed="T"/><lb
  n="0942b25" ed="T"/><lb
- n="0942b26" ed="T"/><div type="jing" level="2"><lb
+ n="0942b26" ed="T"/><div type='jing' level='2'><lb
  n="0942b27" ed="T"/>
-<ab type="juan" subtype="open">無畏三藏禪要</ab><lb
+<ab type='juan' subtype='open'>無畏三藏禪要</ab><lb
  n="0942b28" ed="T"/><lb
- n="0942b29" ed="T"/><ab type="prose">中天竺摩伽陀國王舍城那爛陀竹林寺三<pb n="0942c" id="T18.0917.0942c" ed="T"/><lb
+ n="0942b29" ed="T"/><ab type='prose'>中天竺摩伽陀國王舍城那爛陀竹林寺三<pb n="0942c" id="T18.0917.0942c" ed="T"/><lb
  n="0942c01" ed="T"/>藏沙門諱輸波迦羅。唐言善無畏。剎利種<lb
  n="0942c02" ed="T"/>豪貴族。共嵩岳會善寺大德禪師敬賢和<lb
  n="0942c03" ed="T"/>上。對論佛法。略敘大乘旨要。頓開眾生心<lb
@@ -61,7 +61,7 @@
  n="0942c11" ed="T"/>難門　第七請師門　第八羯磨門　第九結<lb
  n="0942c12" ed="T"/>界門　第十修四攝門　第十一十重戒門</ab></div><lb
  n="0942c13" ed="T"/><head>第一發心門</head><lb
- n="0942c14" ed="T"/><ab type="prose">弟子某甲等。歸命十方一切諸佛諸大菩薩<lb
+ n="0942c14" ed="T"/><ab type='prose'>弟子某甲等。歸命十方一切諸佛諸大菩薩<lb
  n="0942c15" ed="T"/>大菩提心。為大導師。能令我等離諸惡趣。能<lb
  n="0942c16" ed="T"/>示人天大涅槃路。是故我今至心頂禮。<lb
  n="0942c17" ed="T"/><head>第二供養門</head><lb
@@ -90,12 +90,12 @@
  n="0943a12" ed="T"/>弟子某甲。始從今身乃至當坐菩提道場。<lb
  n="0943a13" ed="T"/>誓願發無上大菩提心。<lb
  n="0943a14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 眾生無邊誓願度　　福智無邊誓願集　　<lb
  n="0943a15" ed="T"/>法門無邊誓願學　　如來無邊誓願仕　　<lb
  n="0943a16" ed="T"/>無上佛道誓願成　　
 </ab><lb
- n="0943a17" ed="T"/><ab type="prose">今所發心。復當遠離我法二相。顯明本覺真<lb
+ n="0943a17" ed="T"/><ab type='prose'>今所發心。復當遠離我法二相。顯明本覺真<lb
  n="0943a18" ed="T"/>如。平等正智現前得善巧智。具足圓滿普賢<lb
  n="0943a19" ed="T"/>之心。唯願十方一切諸佛諸大菩薩。證知我<lb
  n="0943a20" ed="T"/>等。至心懺悔。<lb
@@ -191,55 +191,55 @@
  n="0944a25" ed="T"/>法戒也。此法祕密不令輒聞。若欲聞者。先受<lb
  n="0944a26" ed="T"/>一陀羅尼曰。<lb
  n="0944a27" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄙺三去􄗥昧􄗱耶􈁁薩怛鑁<lb
+<ab type='dharani'>􇩂唵􄙺三去􄗥昧􄗱耶􈁁薩怛鑁<lb
  n="0944a28" ed="T"/><lb
  n="0944a29" ed="T"/></ab>
-<ab type="prose">此陀羅尼令誦三遍。即合聞戒及餘祕法。亦<pb n="0944b" id="T18.0917.0944b" ed="T"/><lb
+<ab type='prose'>此陀羅尼令誦三遍。即合聞戒及餘祕法。亦<pb n="0944b" id="T18.0917.0944b" ed="T"/><lb
  n="0944b01" ed="T"/>能具足一切菩薩清淨律儀。諸大功德不可<lb
  n="0944b02" ed="T"/>具說。<lb
  n="0944b03" ed="T"/>又為發心。復授一陀羅尼曰。<lb
  n="0944b04" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄗕󰂛􄕽地􄑾唧􆽕多􈁃母􈉥怛波二合􄕯娜􄗱野<lb
+<ab type='dharani'>􇩂唵􄗕󰂛􄕽地􄑾唧􆽕多􈁃母􈉥怛波二合􄕯娜􄗱野<lb
  n="0944b05" ed="T"/><lb
  n="0944b06" ed="T"/>􄗧弭<lb
  n="0944b07" ed="T"/><lb
  n="0944b08" ed="T"/></ab>
-<ab type="prose">此陀羅尼復誦三遍。即發菩提心乃至成佛。<lb
+<ab type='prose'>此陀羅尼復誦三遍。即發菩提心乃至成佛。<lb
  n="0944b09" ed="T"/>堅固不退。<lb
  n="0944b10" ed="T"/>又為證入。復受一陀羅尼曰。<lb
  n="0944b11" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄑾唧􆽕多􄪼鉢羅二合􄕙底丁以切􄙝吠尾禮切引􄖧曇去<lb
+<ab type='dharani'>􇩂唵􄑾唧􆽕多􄪼鉢羅二合􄕙底丁以切􄙝吠尾禮切引􄖧曇去<lb
  n="0944b12" ed="T"/><lb
  n="0944b13" ed="T"/>􄑀迦􄙆嚕轉舌􄗧迷<lb
  n="0944b14" ed="T"/><lb
  n="0944b15" ed="T"/></ab>
-<ab type="prose">此陀羅尼復誦三遍。即得一切甚深戒藏。及<lb
+<ab type='prose'>此陀羅尼復誦三遍。即得一切甚深戒藏。及<lb
  n="0944b16" ed="T"/>具一切種智。速證無上菩提。一切諸佛同聲<lb
  n="0944b17" ed="T"/>共說。<lb
  n="0944b18" ed="T"/>又為入菩薩行位。復授一陀羅尼曰。<lb
  n="0944b19" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄕻嚩􄦽日羅􄗥滿􆧽吒上􄙔藍􄪼鉢囉二合􄙜避<lb
+<ab type='dharani'>􇩂唵􄙖嚩􄦽日羅􄗥滿􆧽吒上􄙔藍􄪼鉢囉二合􄙜避<lb
  n="0944b20" ed="T"/><lb
  n="0944b21" ed="T"/>􄙢捨􄗥迷<lb
  n="0944b22" ed="T"/><lb
  n="0944b23" ed="T"/></ab>
-<ab type="prose">此陀羅尼若誦三遍。即證一切灌頂曼荼羅<lb
+<ab type='prose'>此陀羅尼若誦三遍。即證一切灌頂曼荼羅<lb
  n="0944b24" ed="T"/>位。於諸祕密聽無障礙。既入菩薩灌頂之位。<lb
  n="0944b25" ed="T"/>堪受禪門。已上授無漏真法戒竟。<lb
  n="0944b26" ed="T"/>又先為擁護行人。授一陀羅尼曰。<lb
  n="0944b27" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄙧戍􄕤馱􄙦戍􄕤馱<lb
+<ab type='dharani'>􇩂唵􄙧戍􄕤馱􄙦戍􄕤馱<lb
  n="0944b28" ed="T"/><lb
  n="0944b29" ed="T"/></ab>
-<ab type="prose">先誦十萬遍除一切障。三業清淨。罪垢消滅。<pb n="0944c" id="T18.0917.0944c" ed="T"/><lb
+<ab type='prose'>先誦十萬遍除一切障。三業清淨。罪垢消滅。<pb n="0944c" id="T18.0917.0944c" ed="T"/><lb
  n="0944c01" ed="T"/>魔邪不嬈。如淨白素易受染色行人亦爾。罪<lb
  n="0944c02" ed="T"/>障滅已速證三昧。<lb
  n="0944c03" ed="T"/>又為行者授一陀羅尼曰。<lb
  n="0944c04" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄙺薩􅞣婆􄙘尾􄕵提􅁥娑嚩二合􄚩賀引<lb
+<ab type='dharani'>􇩂唵􄙺薩􅞣婆􄙘尾􄕵提􅁥娑嚩二合􄚩賀引<lb
  n="0944c05" ed="T"/><lb
  n="0944c06" ed="T"/></ab>
-<ab type="prose">持誦之法。或前後兩箇陀羅尼。隨意誦一<lb
+<ab type='prose'>持誦之法。或前後兩箇陀羅尼。隨意誦一<lb
  n="0944c07" ed="T"/>箇。不可並。恐興心不專。<lb
  n="0944c08" ed="T"/>夫欲入三昧者。初學之時。事絕諸境屏除緣<lb
  n="0944c09" ed="T"/>務。獨一靜處半跏而坐已。須先作手印護持。<lb
@@ -340,26 +340,26 @@
  n="0945c17" ed="T"/>持修定法。一體與一切總持門相應。是故。<lb
  n="0945c18" ed="T"/>應須受此四陀羅尼。陀羅尼曰。<lb
  n="0945c19" ed="T"/></ab>
-<ab type="dharani">􇩂唵􈁃速􈆳乞叉摩三合􄙖嚩􄦽日囉二合<lb
+<ab type='dharani'>􇩂唵􈁃速􈆳乞叉摩三合􄙖嚩􄦽日囉二合<lb
  n="0945c20" ed="T"/><lb
  n="0945c21" ed="T"/></ab>
-<ab type="prose">。<lb
+<ab type='prose'>。<lb
  n="0945c22" ed="T"/>此陀羅尼。能令所觀成就。<lb
  n="0945c23" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄕙底􆵋瑟吒二合􄙖嚩􄦽日羅二合<lb
+<ab type='dharani'>􇩂唵􄕙底􆵋瑟吒二合􄙖嚩􄦽日羅二合<lb
  n="0945c24" ed="T"/><lb
  n="0945c25" ed="T"/></ab>
-<ab type="prose">此陀羅尼。能令所觀無失。<lb
+<ab type='prose'>此陀羅尼。能令所觀無失。<lb
  n="0945c26" ed="T"/></ab>
-<ab type="dharani">􇩂唵􈁃娑􄪼頗囉二合􄙖嚩􄦽日囉二合<lb
+<ab type='dharani'>􇩂唵􈁃娑􄪼頗囉二合􄙖嚩􄦽日囉二合<lb
  n="0945c27" ed="T"/><lb
  n="0945c28" ed="T"/></ab>
-<ab type="prose">此陀羅尼。能令所觀漸廣。<pb n="0946a" id="T18.0917.0946a" ed="T"/><lb
+<ab type='prose'>此陀羅尼。能令所觀漸廣。<pb n="0946a" id="T18.0917.0946a" ed="T"/><lb
  n="0946a01" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄚦僧􄚩賀引􄗽囉􄙖嚩􄦽日囉二合<lb
+<ab type='dharani'>􇩂唵􄚦僧􄚩賀引􄗽囉􄙖嚩􄦽日囉二合<lb
  n="0946a02" ed="T"/><lb
  n="0946a03" ed="T"/></ab>
-<ab type="prose">此陀羅尼。能令所觀廣。復令漸略如故。<lb
+<ab type='prose'>此陀羅尼。能令所觀廣。復令漸略如故。<lb
  n="0946a04" ed="T"/>如是四陀羅尼者。是婆誐梵。自證法中甚深<lb
  n="0946a05" ed="T"/>方便。開諸學人令速證入。若欲速求此三摩<lb
  n="0946a06" ed="T"/>地者。於四威儀。常誦此陀羅尼。剋念用功勿<lb
@@ -379,12 +379,12 @@
  n="0946a20" ed="T"/>傳未悟。京西明寺慧警禪師。先有撰集。今<lb
  n="0946a21" ed="T"/>再詳補。頗謂備焉。<lb
  n="0946a22" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 南無稽首十方佛　　真如海藏甘露門　　<lb
  n="0946a23" ed="T"/>三賢十聖應真僧　　願賜威神加念力　　<lb
  n="0946a24" ed="T"/>希有總持禪祕要　　能發圓明廣大心　　<lb
  n="0946a25" ed="T"/>我今隨分略稱揚　　迴施法界諸含識　　
 </ab><lb
  n="0946a26" ed="T"/>
-<ab type="juan" subtype="close">無畏三藏受戒懺悔文及禪門要法一卷</ab></div>
+<ab type='juan' subtype='close'>無畏三藏受戒懺悔文及禪門要法一卷</ab></div>
 </body></text></TEI>

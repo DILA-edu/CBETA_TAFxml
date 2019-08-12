@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1320</idno>
                 </bibl>
@@ -39,15 +39,15 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0473c16" ed="T"/><lb
  n="0473c17" ed="T"/><lb
  n="0473c18" ed="T"/><lb
  n="0473c19" ed="T"/>
-<ab type="juan" subtype="open">瑜伽集要熖口施食儀</ab><lb
+<ab type='juan' subtype='open'>瑜伽集要熖口施食儀</ab><lb
  n="0473c20" ed="T"/><lb
- n="0473c21" ed="T"/><div type="jing" level="2"><ab type="prose">夫欲遍供普濟者。虞懇至誠嚴飾道場。隨力<lb
+ n="0473c21" ed="T"/><div type='jing' level='2'><ab type='prose'>夫欲遍供普濟者。虞懇至誠嚴飾道場。隨力<lb
  n="0473c22" ed="T"/>備辦香花。供養飲食淨水等已。依位敷坐竟。<lb
  n="0473c23" ed="T"/>歸依上師三寶發菩提心云歸依上師　歸依<lb
  n="0473c24" ed="T"/>佛　歸依法　歸依僧。<lb
@@ -56,15 +56,15 @@
  n="0473c27" ed="T"/>與法界眾生。一時同得阿耨多羅三藐三菩<lb
  n="0473c28" ed="T"/>提。<pb n="0474a" id="T21.1320.0474a" ed="T"/><lb
  n="0474a01" ed="T"/></ab>
-<ab type="dharani">􇩂唵􆿅啞􄗭穆􄑤渴􄙺拶􄗽辣􄗨彌􄗥麻􄚰迎􈂼蘇􄙂嚕􈂼蘇<lb
+<ab type='dharani'>􇩂唵􆿅啞􄗭穆􄑤渴􄙺拶􄗽辣􄗨彌􄗥麻􄚰迎􈂼蘇􄙂嚕􈂼蘇<lb
  n="0474a02" ed="T"/><lb
  n="0474a03" ed="T"/>􄙂嚕􇩉莎􄚩訶<lb
  n="0474a04" ed="T"/><lb
  n="0474a05" ed="T"/></ab>
-<ab type="prose">􈅼􆿔􈁴默念大輪明王呪<lb
+<ab type='prose'>􈅼􆿔􈁴默念大輪明王呪<lb
  n="0474a06" ed="T"/>。<lb
  n="0474a10" ed="T"/></ab>
-<ab type="dharani">􄖩捺􄗰麻􈉆斯得哩三合􄗱野􈆧脫夷二合􄑁葛􈁀喃􄙺薩<lb
+<ab type='dharani'>􄖩捺􄗰麻􈉆斯得哩三合􄗱野􈆧脫夷二合􄑁葛􈁀喃􄙺薩<lb
  n="0474a11" ed="T"/><lb
  n="0474a12" ed="T"/>􇩆哩斡二合􄕗怛􄕤塔􄑘葛􄕘達􈁀喃􈆰唵􄙘微􄗽囉􄒸積<lb
  n="0474a13" ed="T"/><lb
@@ -81,7 +81,7 @@
  n="0474a24" ed="T"/>􈒻提􈆧脫夷二合􇩉莎􄚩訶<lb
  n="0474a25" ed="T"/><lb
  n="0474a26" ed="T"/></ab>
-<ab type="prose">。<pb n="0474b" id="T21.1320.0474b" ed="T"/><lb
+<ab type='prose'>。<pb n="0474b" id="T21.1320.0474b" ed="T"/><lb
  n="0474b01" ed="T"/>眾等發廣大心。<lb
  n="0474b04" ed="T"/>一心奉請十方遍法界微塵剎土中諸佛法<lb
  n="0474b05" ed="T"/>僧。金剛密跡衛法神王。天龍八部婆羅門仙<lb
@@ -89,12 +89,12 @@
  n="0474b07" ed="T"/>場。<lb
  n="0474b08" ed="T"/>􈅼􆿔􈁴印現壇儀。<lb
  n="0474b11" ed="T"/></ab>
-<ab type="dharani">􈁴唵􄙖斡􄦽資囉二合􄑼拶􄥇械囉二合<lb
+<ab type='dharani'>􈁴唵􄙖斡􄦽資囉二合􄑼拶􄥇械囉二合<lb
  n="0474b12" ed="T"/><lb
  n="0474b13" ed="T"/>􈅼吽􄓁拶􈅼吽􈆯𠳐􈁟斛<lb
  n="0474b14" ed="T"/><lb
  n="0474b15" ed="T"/></ab>
-<ab type="prose">。<lb
+<ab type='prose'>。<lb
  n="0474b17" ed="T"/>南無歸依十方盡虛空界一切諸佛<lb
  n="0474b18" ed="T"/>南無歸依十方盡虛空界一切尊法<lb
  n="0474b19" ed="T"/>南無歸依十方盡虛空界一切賢聖僧<lb
@@ -153,7 +153,7 @@
  n="0475a15" ed="T"/>皆悉回向阿耨多羅三藐三菩提。如過去未<lb
  n="0475a16" ed="T"/>來現在諸佛所作回向。我亦如是回向。<lb
  n="0475a17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 眾罪皆懺悔　　諸佛盡隨喜　　<lb
  n="0475a18" ed="T"/>及諸佛功德　　願成無上智　　<lb
  n="0475a19" ed="T"/>去來現在佛　　於眾生最勝　　<lb
@@ -191,7 +191,7 @@
  n="0475b22" ed="T"/>乃至虛空世界盡　　眾生及業煩惱盡　　<lb
  n="0475b23" ed="T"/>如是四法廣無邊　　願今回向亦如是　　
 </ab><lb
- n="0475b24" ed="T"/><ab type="prose">啟告十方一切諸佛。般若菩薩金剛天等。及<lb
+ n="0475b24" ed="T"/><ab type='prose'>啟告十方一切諸佛。般若菩薩金剛天等。及<lb
  n="0475b25" ed="T"/>諸業道無量聖賢。我今以大慈悲乘佛神<lb
  n="0475b26" ed="T"/>力。召請十方盡虛空界。三塗地獄諸惡趣中。<lb
  n="0475b27" ed="T"/>曠劫飢虛一切餓鬼。閻羅諸司天曹地府。業<lb
@@ -209,7 +209,7 @@
  n="0475c10" ed="T"/>證無上道。<lb
  n="0475c11" ed="T"/>運心供養。<lb
  n="0475c15" ed="T"/></ab>
-<ab type="dharani">􈅼􆿔􈁴􄖩那􄗰麻􄙺薩􅞣哩斡二合<lb
+<ab type='dharani'>􈅼􆿔􈁴􄖩那􄗰麻􄙺薩􅞣哩斡二合<lb
  n="0475c16" ed="T"/><lb
  n="0475c17" ed="T"/>􄕗答􄕤塔􄑘葛􄕝的<lb
  n="0475c18" ed="T"/><lb
@@ -220,29 +220,29 @@
  n="0475c23" ed="T"/>􄚮兮􄗯慢􄑘葛􄑘葛􄖩捺􄑊龕􇩉莎􄚩訶<lb
  n="0475c24" ed="T"/><lb
  n="0475c25" ed="T"/></ab>
-<ab type="prose">。<lb
+<ab type='prose'>。<lb
  n="0475c27" ed="T"/>三寶施食。<pb n="0476a" id="T21.1320.0476a" ed="T"/><lb
  n="0476a01" ed="T"/>􈅼􆿔􈁴</ab>
-<ab type="dharani">􈁴唵引􄙖斡􄦽資囉二合􄗷拽<lb
+<ab type='dharani'>􈁴唵引􄙖斡􄦽資囉二合􄗷拽<lb
  n="0476a02" ed="T"/><lb
  n="0476a03" ed="T"/>􄚴屹徹二合􈅼吽<lb
  n="0476a04" ed="T"/><lb
  n="0476a05" ed="T"/></ab>
-<ab type="prose">。<lb
+<ab type='prose'>。<lb
  n="0476a07" ed="T"/></ab>
-<ab type="dharani">􈁴唵􇩉莎􄗙發􄙖斡􄙦󰡊􇧺塔􄙺薩􅞣哩斡二合􄕻塔􇩷哩麻二合<lb
+<ab type='dharani'>􈁴唵􇩉莎􄗙發􄙖斡􄙦󰡊􇧺塔􄙺薩􅞣哩斡二合􄕻塔􇩷哩麻二合<lb
  n="0476a08" ed="T"/><lb
  n="0476a09" ed="T"/>􇩉莎􄗙發􄙖斡􄙦󰡊􈒻徒􈆻㰠<lb
  n="0476a10" ed="T"/><lb
  n="0476a11" ed="T"/></ab>
-<ab type="prose">。<lb
+<ab type='prose'>。<lb
  n="0476a12" ed="T"/></ab>
-<ab type="dharani">􈁴唵引􆿔啞􈅼吽<lb
+<ab type='dharani'>􈁴唵引􆿔啞􈅼吽<lb
  n="0476a13" ed="T"/><lb
  n="0476a14" ed="T"/></ab>
-<ab type="prose">。<lb
+<ab type='prose'>。<lb
  n="0476a16" ed="T"/>􈅼􆿔􈁴</ab>
-<ab type="dharani">􈁴唵引􆿆啞􄑘葛􄙂嚕􈁃穆<lb
+<ab type='dharani'>􈁴唵引􆿆啞􄑘葛􄙂嚕􈁃穆<lb
  n="0476a17" ed="T"/><lb
  n="0476a18" ed="T"/>􄑖看􄙺薩􅞣哩斡二合<lb
  n="0476a19" ed="T"/><lb
@@ -251,9 +251,9 @@
  n="0476a22" ed="T"/>􄖧奴􄖩忒􈁴唵􆿔啞􈅼吽􄗁發􈁆吒􅁥莎􄚩訶<lb
  n="0476a23" ed="T"/><lb
  n="0476a24" ed="T"/></ab>
-<ab type="prose">。<lb
+<ab type='prose'>。<lb
  n="0476a26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 我今奉獻甘露食　　量等須彌無過上　　<lb
  n="0476a27" ed="T"/>色香美味遍虛空　　上師三寶哀納受　　<lb
  n="0476a28" ed="T"/>次供顯密護神等　　後及法界諸有情　　<pb n="0476b" id="T21.1320.0476b" ed="T"/><lb
@@ -261,9 +261,9 @@
  n="0476b02" ed="T"/>今辰施主眷屬等　　消災集福壽延長　　<lb
  n="0476b03" ed="T"/>所求如意悉成就　　一切時中願吉祥　　
 </ab><lb
- n="0476b04" ed="T"/><ab type="prose">眾等念三寶讚。<lb
+ n="0476b04" ed="T"/><ab type='prose'>眾等念三寶讚。<lb
  n="0476b05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 世尊大慈妙莊嚴　　明解圓滿一切智　　<lb
  n="0476b06" ed="T"/>能施福慧如大海　　於諸如來我讚禮　　<lb
  n="0476b07" ed="T"/>自性本體離諸欲　　能依此行脫惡趣　　<lb
@@ -271,9 +271,9 @@
  n="0476b09" ed="T"/>解脫道中勝解脫　　持淨戒行堪恭敬　　<lb
  n="0476b10" ed="T"/>勝妙福田生勝處　　於彼大眾我讚禮　　
 </ab><lb
- n="0476b11" ed="T"/><ab type="prose">次入觀音定。􈅼􆿔􈁴。<lb
+ n="0476b11" ed="T"/><ab type='prose'>次入觀音定。􈅼􆿔􈁴。<lb
  n="0476b20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 次入觀音三摩地　　澄心閉目觀心中　　<lb
  n="0476b21" ed="T"/>圓滿皎潔淨月上　　字種放光成蓮華　　<lb
  n="0476b22" ed="T"/>華中有一觀自在　　相好具足無比對　　<lb
@@ -289,13 +289,13 @@
  n="0476c04" ed="T"/>蓮華漸收同已量　　復結自在觀音印　　<lb
  n="0476c05" ed="T"/>加持四處誦密言　　自身亦等觀自在　　
 </ab><lb
- n="0476c06" ed="T"/><ab type="dharani">􈁴唵引􄙖斡􄦽資囉二合􄕻塔􅝝囉麻二合􇩵紇哩二合<lb
+ n="0476c06" ed="T"/><ab type='dharani'>􈁴唵引􄙖斡􄦽資囉二合􄕻塔􅝝囉麻二合􇩵紇哩二合<lb
  n="0476c07" ed="T"/><lb
  n="0476c08" ed="T"/></ab>
-<ab type="prose">。<lb
+<ab type='prose'>。<lb
  n="0476c09" ed="T"/>次結破地獄印。<lb
  n="0476c10" ed="T"/>􈅼􆿔􈁴</ab>
-<ab type="dharani">􄖩那􄗰麻􆿅阿􆵌瑟吒二合<lb
+<ab type='dharani'>􄖩那􄗰麻􆿅阿􆵌瑟吒二合<lb
  n="0476c11" ed="T"/><lb
  n="0476c12" ed="T"/>􆵌瑟吒二合􄙥攝􄕚諦􈁀喃<lb
  n="0476c13" ed="T"/><lb
@@ -306,7 +306,7 @@
  n="0476c18" ed="T"/>􄙀哩􈅼吽<lb
  n="0476c19" ed="T"/><lb
  n="0476c20" ed="T"/></ab>
-<ab type="prose">。<lb
+<ab type='prose'>。<lb
  n="0476c23" ed="T"/>。<lb
  n="0476c24" ed="T"/>一心奉請。眾生度盡方證菩提。地獄未空誓<lb
  n="0476c25" ed="T"/>不成佛。大聖地藏王菩薩摩訶薩。唯願不違<lb
@@ -317,23 +317,23 @@
  n="0477a02" ed="T"/>力仗祕密言。此夜今時來臨法會。<lb
  n="0477a03" ed="T"/>次結召請餓鬼印。<lb
  n="0477a04" ed="T"/></ab>
-<ab type="dharani">􈁴唵􄒸即􄖩納􄒸即􄑀葛􆿏移􈂯希曳二合􄚪歇􇩉莎􄚩訶<lb
+<ab type='dharani'>􈁴唵􄒸即􄖩納􄒸即􄑀葛􆿏移􈂯希曳二合􄚪歇􇩉莎􄚩訶<lb
  n="0477a05" ed="T"/><lb
  n="0477a06" ed="T"/></ab>
-<ab type="prose">􈅼􆿔􈁴。<lb
+<ab type='prose'>􈅼􆿔􈁴。<lb
  n="0477a11" ed="T"/>既召請已普皆雲<lb
  n="0477a12" ed="T"/>集。以愍念心讚歎慰喻。令歡喜已渴仰於法。<lb
  n="0477a13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 善來諸佛子　　曾結勝緣故　　<lb
  n="0477a14" ed="T"/>今遇此嘉會　　勿得生憂怖　　<lb
  n="0477a15" ed="T"/>一心渴仰法　　不出於此時　　<lb
  n="0477a16" ed="T"/>戒品而霑身　　速令離苦趣　　
 </ab><lb
- n="0477a17" ed="T"/><ab type="prose">。<lb
+ n="0477a17" ed="T"/><ab type='prose'>。<lb
  n="0477a20" ed="T"/>次結召罪印。<lb
  n="0477a21" ed="T"/>􈅼􆿔􈁴</ab>
-<ab type="dharani">􈁴唵引􄙺薩􅞣哩斡二合<lb
+<ab type='dharani'>􈁴唵引􄙺薩􅞣哩斡二合<lb
  n="0477a22" ed="T"/><lb
  n="0477a23" ed="T"/>􄖶巴􄖵鉢􆮧羯哩二合<lb
  n="0477a24" ed="T"/><lb
@@ -342,10 +342,10 @@
  n="0477a27" ed="T"/>􄙺薩􄗥麻􄗱耶􈅼吽􄓁拶<lb
  n="0477a28" ed="T"/><pb n="0477b" id="T21.1320.0477b" ed="T"/><lb
  n="0477b01" ed="T"/></ab>
-<ab type="prose">。<lb
+<ab type='prose'>。<lb
  n="0477b05" ed="T"/>􈅼􆿔􈁴次結摧罪印。<lb
  n="0477b07" ed="T"/></ab>
-<ab type="dharani">􈁴唵􄙖斡􄦽資囉二合<lb
+<ab type='dharani'>􈁴唵􄙖斡􄦽資囉二合<lb
  n="0477b08" ed="T"/><lb
  n="0477b09" ed="T"/>􄖶巴􄕍尼􄗏月􆷱斯普二合􈁆吒􄗱耶􄙺薩􅞣哩斡二合􆿅阿<lb
  n="0477b10" ed="T"/><lb
@@ -359,56 +359,56 @@
  n="0477b18" ed="T"/><lb
  n="0477b19" ed="T"/><lb
  n="0477b20" ed="T"/></ab>
-<ab type="prose">。<lb
+<ab type='prose'>。<lb
  n="0477b27" ed="T"/>次結定業印。<pb n="0477c" id="T21.1320.0477c" ed="T"/><lb
  n="0477c01" ed="T"/>􈅼􆿔􈁴</ab>
-<ab type="dharani">􈁴唵􄙖斡􄦽資囉二合<lb
+<ab type='dharani'>􈁴唵􄙖斡􄦽資囉二合<lb
  n="0477c02" ed="T"/><lb
- n="0477c03" ed="T"/>􄑀葛􇩷哩麻二合􄗏月<lb
+ n="0477c03" ed="T"/>􄑀葛􇩷哩麻二合􄙘月<lb
  n="0477c04" ed="T"/><lb
  n="0477c05" ed="T"/>􄙦束􇧺塔􄗱耶􄙺薩􅞣哩斡二合􆿅阿􄙖咓􄗽囉􄕋拏􄖫儞<lb
  n="0477c06" ed="T"/><lb
  n="0477c07" ed="T"/>􈎭菩􇧺塔􄙺薩􄟝底曳二合􄖩納􄙺三􄗥麻􄗱耶􈅼吽<lb
  n="0477c08" ed="T"/><lb
  n="0477c09" ed="T"/></ab>
-<ab type="prose">。<lb
+<ab type='prose'>。<lb
  n="0477c12" ed="T"/>次結懺悔滅罪印。<lb
  n="0477c13" ed="T"/>􈅼􆿔􈁴</ab>
-<ab type="dharani">􈁴唵􄙺薩􅞣哩斡二合􄖶巴<lb
+<ab type='dharani'>􈁴唵􄙺薩􅞣哩斡二合􄖶巴<lb
  n="0477c14" ed="T"/><lb
  n="0477c15" ed="T"/>􄖵鉢􄙘月􆷱斯普二合􈁆吒<lb
  n="0477c16" ed="T"/><lb
  n="0477c17" ed="T"/>􄕗怛􄚨賀􄖩納􄙖斡􄦽資囉二合􄗱耶􇩉莎􄚩訶<lb
  n="0477c18" ed="T"/><lb
  n="0477c19" ed="T"/></ab>
-<ab type="prose">。<lb
+<ab type='prose'>。<lb
  n="0477c21" ed="T"/>諸佛子等既懺悔已。<lb
  n="0477c22" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 百劫積集罪　　一念頓蕩除　　<lb
  n="0477c23" ed="T"/>如火焚枯草　　滅盡無有餘　　
 </ab><lb
- n="0477c24" ed="T"/><ab type="prose">􈅼􆿔􈁴次結妙色身如<lb
+ n="0477c24" ed="T"/><ab type='prose'>􈅼􆿔􈁴次結妙色身如<lb
  n="0477c25" ed="T"/>來施甘露印。<pb n="0478a" id="T21.1320.0478a" ed="T"/><lb
  n="0478a01" ed="T"/></ab>
-<ab type="dharani">􄖩那􄗰麻􈂼蘇􄙂嚕􄖵巴􄗱耶􄕗答􄕤塔􄑘葛􄕘達􄗱耶􄕗怛<lb
+<ab type='dharani'>􄖩那􄗰麻􈂼蘇􄙂嚕􄖵巴􄗱耶􄕗答􄕤塔􄑘葛􄕘達􄗱耶􄕗怛<lb
  n="0478a02" ed="T"/><lb
  n="0478a03" ed="T"/>􇩊牒􄕤塔􈁴唵􈂼酥􄙂嚕􈂼酥􄙂嚕􇩄鉢羅二合􈂼酥􄙂嚕<lb
  n="0478a04" ed="T"/><lb
  n="0478a05" ed="T"/>􇩄鉢囉二合􈂼酥􄙂嚕􇩉莎􄚩訶<lb
  n="0478a06" ed="T"/><lb
  n="0478a07" ed="T"/></ab>
-<ab type="prose">。<lb
+<ab type='prose'>。<lb
  n="0478a11" ed="T"/>􈅼􆿔􈁴次結開咽喉印。<lb
  n="0478a12" ed="T"/></ab>
-<ab type="dharani">􈁴唵􄖩那􄗭謨􄗙發􄑘葛<lb
+<ab type='dharani'>􈁴唵􄖩那􄗭謨􄗙發􄑘葛<lb
  n="0478a13" ed="T"/><lb
  n="0478a14" ed="T"/>􄙖咓􄕝諦􄗏月􄖹補<lb
  n="0478a15" ed="T"/><lb
  n="0478a16" ed="T"/>􄙊辣􄑘葛􄩟得囉二合􄗱耶􄕗答􄕤塔􄑘葛􄕘達􄗱耶<lb
  n="0478a17" ed="T"/><lb
  n="0478a18" ed="T"/></ab>
-<ab type="prose">。<lb
+<ab type='prose'>。<lb
  n="0478a22" ed="T"/>語諸佛子。今為汝等作印呪已。咽喉自開。通<lb
  n="0478a23" ed="T"/>達無礙。離諸障難。諸佛子等。我今為汝稱讚<lb
  n="0478a24" ed="T"/>如來吉祥名號。能令汝等永離三塗八難之<lb
@@ -416,73 +416,73 @@
  n="0478a26" ed="T"/>南無寶勝如來<lb
  n="0478a27" ed="T"/>。<pb n="0478b" id="T21.1320.0478b" ed="T"/><lb
  n="0478b01" ed="T"/>􈅼􆿔􈁴</ab>
-<ab type="dharani">􄖩那􄗭謨􄗽囉􅑈怛訥二合<lb
+<ab type='dharani'>􄖩那􄗭謨􄗽囉􅑈怛訥二合<lb
  n="0478b02" ed="T"/><lb
  n="0478b03" ed="T"/>􇩌怛囉􄗱耶􄕗答<lb
  n="0478b04" ed="T"/><lb
  n="0478b05" ed="T"/>􄕤塔􄑘葛􄕘達􄗱耶<lb
  n="0478b06" ed="T"/><lb
  n="0478b07" ed="T"/></ab>
-<ab type="prose">諸佛子等。若聞寶勝如來名號。能令汝等塵<lb
+<ab type='prose'>諸佛子等。若聞寶勝如來名號。能令汝等塵<lb
  n="0478b08" ed="T"/>勞業火悉皆消滅。<lb
  n="0478b09" ed="T"/>􈅼􆿔􈁴南無離怖畏如來<lb
  n="0478b11" ed="T"/></ab>
-<ab type="dharani">􄖩那􄗭謨􄙘微􄑘葛􄕗怛􇩌得囉二合<lb
+<ab type='dharani'>􄖩那􄗭謨􄙘微􄑘葛􄕗怛􇩌得囉二合<lb
  n="0478b12" ed="T"/><lb
  n="0478b13" ed="T"/>􄕋納􄗱耶􄕗答􄕤塔<lb
  n="0478b14" ed="T"/><lb
  n="0478b15" ed="T"/>􄑘葛􄕘達􄗱耶<lb
  n="0478b16" ed="T"/><lb
  n="0478b17" ed="T"/></ab>
-<ab type="prose">諸佛子等。若聞離怖畏如來名號。能令汝等<lb
+<ab type='prose'>諸佛子等。若聞離怖畏如來名號。能令汝等<lb
  n="0478b18" ed="T"/>常得安樂。永離驚怖清淨快樂。<lb
  n="0478b19" ed="T"/>􈅼􆿔􈁴南無廣博身如來<lb
  n="0478b20" ed="T"/><lb
  n="0478b22" ed="T"/></ab>
-<ab type="dharani">􄖩那􄗭謨􄗙發􄑘葛􄙖咓<lb
+<ab type='dharani'>􄖩那􄗭謨􄗙發􄑘葛􄙖咓<lb
  n="0478b23" ed="T"/><lb
  n="0478b24" ed="T"/>􄕝諦􄗏月􄖹補􄗽辣􄑘葛􇩌得囉二合􄗱耶􄕗答􄕤塔􄑘葛<lb
  n="0478b25" ed="T"/><lb
  n="0478b26" ed="T"/>􄕘達􄗱耶<lb
  n="0478b27" ed="T"/><lb
  n="0478b28" ed="T"/></ab>
-<ab type="prose">諸佛子等。若聞廣博身如來名號。能令汝等<pb n="0478c" id="T21.1320.0478c" ed="T"/><lb
+<ab type='prose'>諸佛子等。若聞廣博身如來名號。能令汝等<pb n="0478c" id="T21.1320.0478c" ed="T"/><lb
  n="0478c01" ed="T"/>餓鬼針咽。業火停燒清涼通達。所受飲食得<lb
  n="0478c02" ed="T"/>甘露味。<lb
  n="0478c03" ed="T"/>􈅼􆿔􈁴南無妙色身如來<lb
  n="0478c04" ed="T"/><lb
  n="0478c06" ed="T"/></ab>
-<ab type="dharani">􄖩那􄗭謨􈂼蘇􄙂嚕􄖶八<lb
+<ab type='dharani'>􄖩那􄗭謨􈂼蘇􄙂嚕􄖶八<lb
  n="0478c07" ed="T"/><lb
  n="0478c08" ed="T"/>􄗱耶􄕗答􄕤塔􄑘葛􄕘達􄗱耶<lb
  n="0478c09" ed="T"/><lb
  n="0478c10" ed="T"/></ab>
-<ab type="prose">諸佛子等。若聞妙色身如來名號。能令汝等<lb
+<ab type='prose'>諸佛子等。若聞妙色身如來名號。能令汝等<lb
  n="0478c11" ed="T"/>不受醜陋。諸根具足相好圓滿殊勝端嚴天<lb
  n="0478c12" ed="T"/>上人間最為第一。<lb
  n="0478c13" ed="T"/>􈅼􆿔􈁴南無多寶如來<lb
  n="0478c14" ed="T"/><lb
  n="0478c15" ed="T"/></ab>
-<ab type="dharani">􄖩那􄗭謨􄙖波􄑈虎􄗽囉<lb
+<ab type='dharani'>􄖩那􄗭謨􄙖波􄑈虎􄗽囉<lb
  n="0478c16" ed="T"/><lb
  n="0478c17" ed="T"/>􅑈怛納二合􄗱耶􄕗答􄕤塔􄑘葛􄕘達􄗱耶<lb
  n="0478c18" ed="T"/><lb
  n="0478c19" ed="T"/></ab>
-<ab type="prose">諸佛子等。若聞多寶如來名號。能令汝等具<lb
+<ab type='prose'>諸佛子等。若聞多寶如來名號。能令汝等具<lb
  n="0478c20" ed="T"/>足財寶。稱意所須受用無盡。<lb
  n="0478c21" ed="T"/>􈅼􆿔􈁴南無阿彌陀如來<lb
  n="0478c23" ed="T"/></ab>
-<ab type="dharani">􄖩那􄗭謨􆿅阿􄗧彌􄕘怛􄙗婆<lb
+<ab type='dharani'>􄖩那􄗭謨􆿅阿􄗧彌􄕘怛􄙗婆<lb
  n="0478c24" ed="T"/><lb
  n="0478c25" ed="T"/>􄗱耶􄕗答􄕤塔􄑘葛􄕘達􄗱耶<lb
  n="0478c26" ed="T"/><lb
  n="0478c27" ed="T"/></ab>
-<ab type="prose">諸佛子等。若聞阿彌陀如來名號。能令汝等<lb
+<ab type='prose'>諸佛子等。若聞阿彌陀如來名號。能令汝等<lb
  n="0478c28" ed="T"/>往生西方極樂淨土。蓮華化生入不退地。<pb n="0479a" id="T21.1320.0479a" ed="T"/><lb
  n="0479a01" ed="T"/>南無世間廣大威德自在光明如來<lb
  n="0479a02" ed="T"/>􈅼􆿔􈁴。<lb
  n="0479a04" ed="T"/></ab>
-<ab type="dharani">􄖩那􄗭謨􄙒盧􄑀迦􄙙委<lb
+<ab type='dharani'>􄖩那􄗭謨􄙒盧􄑀迦􄙙委<lb
  n="0479a05" ed="T"/><lb
  n="0479a06" ed="T"/>􆶬斯諦二合􅛠呤捺二合<lb
  n="0479a07" ed="T"/><lb
@@ -491,7 +491,7 @@
  n="0479a10" ed="T"/>􄗱耶<lb
  n="0479a11" ed="T"/><lb
  n="0479a12" ed="T"/></ab>
-<ab type="prose">諸佛子等。若聞世間廣大威德自在光明如<lb
+<ab type='prose'>諸佛子等。若聞世間廣大威德自在光明如<lb
  n="0479a13" ed="T"/>來名號。能令汝等獲得五種功德。一者於諸<lb
  n="0479a14" ed="T"/>世間最為第一。二者得菩薩身端嚴殊勝。三<lb
  n="0479a15" ed="T"/>者威德廣大超過一切外道天魔。如日照世<lb
@@ -503,22 +503,22 @@
  n="0479a21" ed="T"/>離苦證無上道。<lb
  n="0479a22" ed="T"/>次與汝等歸依三寶。<lb
  n="0479a23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 歸依佛兩足尊　　歸依法離欲尊　　<lb
  n="0479a24" ed="T"/>歸依僧眾中尊　　
 </ab><lb
- n="0479a25" ed="T"/><ab type="prose">汝等佛子。歸依佛竟歸依法竟歸依僧竟。<lb
+ n="0479a25" ed="T"/><ab type='prose'>汝等佛子。歸依佛竟歸依法竟歸依僧竟。<lb
  n="0479a26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 歸依三寶故　　如法堅護持　　<lb
  n="0479a27" ed="T"/>自離邪見道　　是故志心禮　　
 </ab><pb n="0479b" id="T21.1320.0479b" ed="T"/><lb
- n="0479b01" ed="T"/><ab type="prose">􈅼􆿔􈁴次結三寶印。<lb
+ n="0479b01" ed="T"/><ab type='prose'>􈅼􆿔􈁴次結三寶印。<lb
  n="0479b03" ed="T"/></ab>
-<ab type="dharani">􈁴唵􈃉婆重呼􈆹龕<lb
+<ab type='dharani'>􈁴唵􈃉婆重呼􈆹龕<lb
  n="0479b04" ed="T"/><lb
  n="0479b05" ed="T"/></ab>
-<ab type="prose">次與汝等發菩提心。汝等諦。<lb
+<ab type='prose'>次與汝等發菩提心。汝等諦。<lb
  n="0479b06" ed="T"/>􈅼􆿔􈁴次結發菩提心印<lb
  n="0479b07" ed="T"/>。<lb
  n="0479b09" ed="T"/>南無佛南無法南<lb
@@ -527,7 +527,7 @@
  n="0479b12" ed="T"/>心。願與法界眾生。一時同得阿耨多羅三藐<lb
  n="0479b13" ed="T"/>三菩提。<lb
  n="0479b14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 今所發覺心　　遠離諸性相　　<lb
  n="0479b15" ed="T"/>蘊處及界等　　能取所取執　　<lb
  n="0479b16" ed="T"/>諸法悉無我　　平等如虛空　　<lb
@@ -535,54 +535,54 @@
  n="0479b18" ed="T"/>如諸佛菩薩　　發大菩提心　　<lb
  n="0479b19" ed="T"/>我亦如是發　　是故志心禮　　
 </ab><lb
- n="0479b20" ed="T"/><ab type="prose">。<lb
+ n="0479b20" ed="T"/><ab type='prose'>。<lb
  n="0479b21" ed="T"/></ab>
-<ab type="dharani">􈁴唵􄗕補􄕽提􄑾節􆽖答􈁃沒􈊧怛巴二合􄕯達􄗱野􄗧弭<lb
+<ab type='dharani'>􈁴唵􄗕補􄕽提􄑾節􆽖答􈁃沒􈊧怛巴二合􄕯達􄗱野􄗧弭<lb
  n="0479b22" ed="T"/><lb
  n="0479b23" ed="T"/></ab>
-<ab type="prose">。<lb
+<ab type='prose'>。<lb
  n="0479b24" ed="T"/>今與汝等發菩提心竟。諸佛子等當知菩提<lb
  n="0479b25" ed="T"/>心者從大悲起。成佛正因智慧根本。能破無<lb
  n="0479b26" ed="T"/>明煩惱惡業不被染壞。<lb
  n="0479b27" ed="T"/>次與汝等受三昧耶戒。<lb
  n="0479c13" ed="T"/>次結三昧耶印。<lb
  n="0479c14" ed="T"/>􈅼􆿔􈁴</ab>
-<ab type="dharani">􈁴唵􄙺三􄗥摩􄗱耶􄙺薩<lb
+<ab type='dharani'>􈁴唵􄙺三􄗥摩􄗱耶􄙺薩<lb
  n="0479c15" ed="T"/><lb
  n="0479c16" ed="T"/>􄕗埵􈆯鑁<lb
  n="0479c17" ed="T"/><lb
  n="0479c18" ed="T"/></ab>
-<ab type="prose">。<lb
+<ab type='prose'>。<lb
  n="0480a03" ed="T"/>今與汝等受三昧耶戒竟。從今已去能令汝<lb
  n="0480a04" ed="T"/>等入如來位。是真佛子。從法化生得佛法分。<lb
  n="0480a05" ed="T"/>􈅼􆿔􈁴次結無量威德自<lb
  n="0480a06" ed="T"/>在光明如來印。<lb
  n="0480a11" ed="T"/></ab>
-<ab type="dharani">􈁴唵􄙺薩􅞣哩斡二合􄕗答􄕤塔􄑘葛􄕘達􆿅阿􄙖咓􄙒盧<lb
+<ab type='dharani'>􈁴唵􄙺薩􅞣哩斡二合􄕗答􄕤塔􄑘葛􄕘達􆿅阿􄙖咓􄙒盧<lb
  n="0480a12" ed="T"/><lb
  n="0480a13" ed="T"/>􄑂揭􄕝諦􈆯鑁􄗙婆􄗽囉􄗙婆􄗽囉􄙺三􄗙婆􄗽囉􄙺三􄗙婆<lb
  n="0480a14" ed="T"/><lb
  n="0480a15" ed="T"/>􄗽囉􈅼吽<lb
  n="0480a16" ed="T"/><lb
  n="0480a17" ed="T"/></ab>
-<ab type="prose">語諸佛子。今為汝等作印呪已。變此一食為<lb
+<ab type='prose'>語諸佛子。今為汝等作印呪已。變此一食為<lb
  n="0480a18" ed="T"/>無量食。大如須彌量同法界終無能盡。<lb
  n="0480a19" ed="T"/>復結前印誦乳海真言。<lb
  n="0480a20" ed="T"/></ab>
-<ab type="dharani">􄖩那􄗰麻􄙺薩􄗥鬘􆩖答􈎭勃􇧺塔􈁀喃􈆯鑁<lb
+<ab type='dharani'>􄖩那􄗰麻􄙺薩􄗥鬘􆩖答􈎭勃􇧺塔􈁀喃􈆯鑁<lb
  n="0480a21" ed="T"/><lb
  n="0480a22" ed="T"/></ab>
-<ab type="prose">語諸佛子。今為汝等作印呪已由此印呪加<lb
+<ab type='prose'>語諸佛子。今為汝等作印呪已由此印呪加<lb
  n="0480a23" ed="T"/>持威力。想於印中流出甘露成於乳海。流注<lb
  n="0480a24" ed="T"/>法界普濟汝等。一切有情充足飽滿。<lb
  n="0480a28" ed="T"/>誦障施鬼真言。<pb n="0480b" id="T21.1320.0480b" ed="T"/><lb
  n="0480b01" ed="T"/></ab>
-<ab type="dharani">􈁴唵􆿔啞􈅼吽􄑼拶􄗽辣􄗫彌􄕡擔􄙺薩􅞣哩斡二合􇩄不哩二合<lb
+<ab type='dharani'>􈁴唵􆿔啞􈅼吽􄑼拶􄗽辣􄗫彌􄕡擔􄙺薩􅞣哩斡二合􇩄不哩二合<lb
  n="0480b02" ed="T"/><lb
  n="0480b03" ed="T"/>􄕝的􇧸毘牙二合􇩉莎􄚩訶<lb
  n="0480b04" ed="T"/><lb
  n="0480b05" ed="T"/></ab>
-<ab type="prose">。<lb
+<ab type='prose'>。<lb
  n="0480b11" ed="T"/>諸佛子等。雖復方以類聚物以群分。然我所<lb
  n="0480b12" ed="T"/>施一切無礙。無高無下平等普遍不擇冤親。<lb
  n="0480b13" ed="T"/>今日勿得以貴輕賤以強凌弱。擁遏孤幼令<lb
@@ -597,10 +597,10 @@
  n="0480b22" ed="T"/>方稟識陶形。悉令充足獲無生忍。<lb
  n="0480b23" ed="T"/>􈅼􆿔􈁴次結普供養印。<lb
  n="0480b27" ed="T"/></ab>
-<ab type="dharani">􈁴唵􄑘葛􄑘葛􄖩納􄙺三􄗙婆􄙖斡􄙖斡􄦽資囉二合􈁟解<lb
+<ab type='dharani'>􈁴唵􄑘葛􄑘葛􄖩納􄙺三􄗙婆􄙖斡􄙖斡􄦽資囉二合􈁟解<lb
  n="0480b28" ed="T"/><pb n="0480c" id="T21.1320.0480c" ed="T"/><lb
  n="0480c01" ed="T"/></ab>
-<ab type="prose">。<lb
+<ab type='prose'>。<lb
  n="0480c03" ed="T"/>諸佛子等從來所受飲食。皆是人間販鬻生<lb
  n="0480c04" ed="T"/>命酒脯錢財。血肉腥羶葷辛臭穢。雖復受得<lb
  n="0480c05" ed="T"/>如是飲食。譬如毒藥損壞於身。但增苦本沈<lb
@@ -615,12 +615,12 @@
  n="0480c14" ed="T"/>果。願速成佛。<lb
  n="0480c15" ed="T"/>􈅼􆿔􈁴次結奉送印。<lb
  n="0480c17" ed="T"/></ab>
-<ab type="dharani">􈁴唵􄙖斡􄦽資囉二合􈂨穆</ab></div><lb
+<ab type='dharani'>􈁴唵􄙖斡􄦽資囉二合􈂨穆</ab></div><lb
  n="0480c18" ed="T"/><lb
  n="0480c19" ed="T"/><lb
  n="0480c20" ed="T"/><lb
  n="0480c21" ed="T"/><head>佛頂尊勝陀羅尼神呪</head><lb
- n="0480c22" ed="T"/><ab type="dharani">􈁴唵􈃯普󱃐二合􇩉莎引􄚩訶引􈁴唵􄖩捺􄗭謨􄗙發􄑘葛􄙖斡<lb
+ n="0480c22" ed="T"/><ab type='dharani'>􈁴唵􈃯普󱃐二合􇩉莎引􄚩訶引􈁴唵􄖩捺􄗭謨􄗙發􄑘葛􄙖斡<lb
  n="0480c23" ed="T"/><lb
  n="0480c24" ed="T"/>􄕝諦􄙺薩􅞣哩斡二合􄩥的唻二合􄙒盧􄛀結􇩄不囉二合􄕙牒<lb
  n="0480c25" ed="T"/><lb
@@ -682,7 +682,7 @@
  n="0481b22" ed="T"/><lb
  n="0481b23" ed="T"/>􄕤塔􄕘達􄗞普􄕗怛􄑈孤􄕽宅􄖵八􄙀咧􄙦說􇧼提􄗏月􆷱斯蒲二合<lb
  n="0481b24" ed="T"/><lb
- n="0481b25" ed="T"/>􄓚吒􈎭勃􄽳鐵􄙦說􇧼提􄚮兮􄚮兮􄒶拶􄗱耶􄒶拶􄗱耶<lb
+ n="0481b25" ed="T"/>􄓚吒􈎭勃􇧻鐵􄙦說􇧼提􄚮兮􄚮兮􄒶拶􄗱耶􄒶拶􄗱耶<lb
  n="0481b26" ed="T"/><lb
  n="0481b27" ed="T"/>􄙘月􄒶拶􄗱耶􄙘月􄒶拶􄗱耶􅋌斯麻二合􄗽囉􅋌斯麻二合<lb
  n="0481b28" ed="T"/><lb
@@ -736,7 +736,7 @@
  n="0482a16" ed="T"/><lb
  n="0482a17" ed="T"/><head>六趣偈</head><lb
  n="0482a18" ed="T"/></ab>
-<ab type="prose">承斯善利。地獄受苦有情者。刀山劍樹變化<lb
+<ab type='prose'>承斯善利。地獄受苦有情者。刀山劍樹變化<lb
  n="0482a19" ed="T"/>皆成如意樹。火團鐵丸變成蓮華而為寶吉<lb
  n="0482a20" ed="T"/>祥。地獄解脫而能成正覺。<lb
  n="0482a21" ed="T"/>承斯善利。餓鬼受苦有情者。口中煙焰燒身<lb
@@ -814,7 +814,7 @@
  n="0483a06" ed="T"/>唯願法界存亡等罪。消除同生淨土。<lb
  n="0483a08" ed="T"/><head>金剛薩埵百字呪</head><lb
  n="0483a09" ed="T"/></ab>
-<ab type="dharani">􈁴唵􄙖斡􄦽資囉二合􄙺薩􄽙埵􈂼蘇􄙺薩􄗥麻􄗱耶􄖩麻􄖭納<lb
+<ab type='dharani'>􈁴唵􄙖斡􄦽資囉二合􄙺薩􄽙埵􈂼蘇􄙺薩􄗥麻􄗱耶􄖩麻􄖭納<lb
  n="0483a10" ed="T"/><lb
  n="0483a11" ed="T"/>􄖶巴􄙊辣􄗱耶􄙖斡􄦽資囉二合􄙺薩􄽙埵􇩍諦􄖪奴􄖵鉢􄕙諦<lb
  n="0483a12" ed="T"/><lb
@@ -836,7 +836,7 @@
  n="0483a28" ed="T"/><lb
  n="0483a29" ed="T"/>􈆥<pb n="0483b" id="T21.1320.0483b" ed="T"/><lb
  n="0483b01" ed="T"/></ab>
-<ab type="prose">此呪求願補闕功德無量。散在諸經。又名句<lb
+<ab type='prose'>此呪求願補闕功德無量。散在諸經。又名句<lb
  n="0483b02" ed="T"/>中隨宗迴轉。誦者知之。<lb
  n="0483b03" ed="T"/>瑜伽集要焰口施食儀竟。<lb
  n="0483b04" ed="T"/><head>十類孤魂文</head><lb

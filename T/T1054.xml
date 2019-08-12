@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1054</idno>
                 </bibl>
@@ -43,11 +43,11 @@
  n="0069b01" ed="T"/><lb
  n="0069b02" ed="T"/><lb
  n="0069b03" ed="T"/>
-<ab type="juan" subtype="open">聖觀自在菩薩一百八名經</ab><lb
+<ab type='juan' subtype='open'>聖觀自在菩薩一百八名經</ab><lb
  n="0069b04" ed="T"/><lb
  n="0069b05" ed="T"/><byline>宋西天中印度惹爛馱羅國三藏<lb
  n="0069b06" ed="T"/>明教大師天息災奉　詔譯</byline><lb
- n="0069b07" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞。一時佛在補怛落迦山聖觀自在<lb
+ n="0069b07" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞。一時佛在補怛落迦山聖觀自在<lb
  n="0069b08" ed="T"/>菩薩宮。其山峯峙眾寶所成。無垢清淨閻浮<lb
  n="0069b09" ed="T"/>檀金。摩尼寶王種種珍寶。妙色光明常普照<lb
  n="0069b10" ed="T"/>曜復有如意天劫波樹。恒時流出阿僧祇數。<lb
@@ -64,7 +64,7 @@
  n="0069b21" ed="T"/>生得宿命智。聖觀自在菩薩一百八名祕密<lb
  n="0069b22" ed="T"/>明曰。<lb
  n="0069b23" ed="T"/></ab>
-<ab type="dharani">怛儞野他呬婆嚩曩訖哩哆訖<lb
+<ab type='dharani'>怛儞野他呬婆嚩曩訖哩哆訖<lb
  n="0069b24" ed="T"/>哩怛野訖哩哆迦囉抳野賀哩<lb
  n="0069b25" ed="T"/>哆婆囉阿努鉢囉鉢哆娑嚩迦囉他波哩訖叉拏婆嚩三喻惹<lb
  n="0069b27" ed="T"/>曩娑弭野誐惹拏曩蘇尾目訖<lb
@@ -133,7 +133,7 @@
  n="0070b18" ed="T"/>舍哩囉沒囉憾摩捺囉禰曩麼<lb
  n="0070b19" ed="T"/>娑訖哩哆<lb
  n="0070b20" ed="T"/></ab>
-<ab type="prose">爾時佛告梵王及帝釋言。若有受持讀誦此<lb
+<ab type='prose'>爾時佛告梵王及帝釋言。若有受持讀誦此<lb
  n="0070b21" ed="T"/>聖觀自在菩薩一百八名祕密明者。當知是<lb
  n="0070b22" ed="T"/>人世世生生。恒得覩見聖觀自在。若恒受持<lb
  n="0070b23" ed="T"/>得大富貴。獲得聰明獲得勇猛。獲得端嚴獲<lb
@@ -151,5 +151,5 @@
  n="0070c07" ed="T"/>窮盡。爾時世尊說是語已。大梵天王及天帝<lb
  n="0070c08" ed="T"/>釋。天龍八部一切大眾。聞佛所說信受奉行。<lb
  n="0070c09" ed="T"/>
-</ab><ab type="juan" subtype="close">聖觀自在菩薩一百八名經</ab></div>
+</ab><ab type='juan' subtype='close'>聖觀自在菩薩一百八名經</ab></div>
 </body></text></TEI>

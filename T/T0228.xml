@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T08</biblScope>
                     <idno type="Taisho">T08n0228</idno>
                 </bibl>
@@ -39,18 +39,18 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0587a" ed="T" id="T08.0228.0587a"/><lb
  n="0587a01" ed="T"/><lb
  n="0587a02" ed="T"/><lb
  n="0587a03" ed="T"/>
-<ab type="juan" subtype="open">佛說佛母出生三法藏般若<lb
+<ab type='juan' subtype='open'>佛說佛母出生三法藏般若<lb
  n="0587a04" ed="T"/>波羅蜜多經卷第一</ab><lb
  n="0587a05" ed="T"/><lb
  n="0587a06" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0587a07" ed="T"/>傳法大師賜紫臣施護奉　詔譯</byline><lb
- n="0587a08" ed="T"/><div type="pin" level="2"><head>了知諸行相品第一之一</head><lb
- n="0587a09" ed="T"/><ab type="prose">如是我聞：一時，佛在王舍城鷲峯山中，與大<lb
+ n="0587a08" ed="T"/><div type='pin' level='2'><head>了知諸行相品第一之一</head><lb
+ n="0587a09" ed="T"/><ab type='prose'>如是我聞：一時，佛在王舍城鷲峯山中，與大<lb
  n="0587a10" ed="T"/>苾芻眾千二百五十人俱，皆是阿羅漢——一切<lb
  n="0587a11" ed="T"/>漏盡無餘煩惱，心善解脫、慧善解脫，如大龍<lb
  n="0587a12" ed="T"/>王，諸有所作皆悉具足；捨彼重擔得大善利，<lb
@@ -376,17 +376,17 @@
  n="0590c13" ed="T"/>須菩提！菩薩摩訶薩於大乘法如是修學，彼<lb
  n="0590c14" ed="T"/>菩薩摩訶薩即得成就一切智。」<lb
  n="0590c15" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說佛母出生三法藏般若波羅蜜多經卷<lb
+</ab><ab type='juan' subtype='close'>佛說佛母出生三法藏般若波羅蜜多經卷<lb
  n="0590c16" ed="T"/>第一</ab><lb
  n="0590c17" ed="T"/><lb
  n="0590c18" ed="T"/>
-<ab type="juan" subtype="open">佛說佛母出生三法藏般若<lb
+<ab type='juan' subtype='open'>佛說佛母出生三法藏般若<lb
  n="0590c19" ed="T"/>波羅蜜多經卷第二<lb
  n="0590c20" ed="T"/><lb
  n="0590c21" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0590c22" ed="T"/>傳法大師賜紫臣施護奉　詔譯</byline><lb
  n="0590c23" ed="T"/>了知諸行相品第一之二</ab><lb
- n="0590c24" ed="T"/><ab type="prose">爾時，尊者滿慈子白佛言：「世尊！佛令須菩提<lb
+ n="0590c24" ed="T"/><ab type='prose'>爾時，尊者滿慈子白佛言：「世尊！佛令須菩提<lb
  n="0590c25" ed="T"/>說般若波羅蜜多，何故於今說大乘法？」時，尊<lb
  n="0590c26" ed="T"/>者須菩提即白佛言：「世尊！我所說大乘，將無<lb
  n="0590c27" ed="T"/>違彼般若波羅蜜多耶？」佛言：「不也，須菩提！如<lb
@@ -494,8 +494,8 @@
  n="0592a13" ed="T"/>無心；眾生無覺了故，當知念亦無覺了；眾生<lb
  n="0592a14" ed="T"/>知如實義故，念亦知如實義。舍利子！我欲令<lb
  n="0592a15" ed="T"/>諸菩薩摩訶薩如是行般若波羅蜜多。」</ab></div><lb
- n="0592a16" ed="T"/><div type="pin" level="2"><head>帝釋天主品第二</head><lb
- n="0592a17" ed="T"/><ab type="prose">爾時，帝釋天主與四十千天眾俱來會中，四<lb
+ n="0592a16" ed="T"/><div type='pin' level='2'><head>帝釋天主品第二</head><lb
+ n="0592a17" ed="T"/><ab type='prose'>爾時，帝釋天主與四十千天眾俱來會中，四<lb
  n="0592a18" ed="T"/>大天王與二十千天眾，娑婆世界主大梵天<lb
  n="0592a19" ed="T"/>王與十千梵眾，淨居天子與千天眾，如是等<lb
  n="0592a20" ed="T"/>皆來集會。彼諸天子所有業報光明，以佛威<lb
@@ -713,8 +713,8 @@
  n="0594b29" ed="T"/>帝釋天主并諸天眾，俱白佛言：「希有，世尊！希<pb n="0594c" ed="T" id="T08.0228.0594c"/><lb
  n="0594c01" ed="T"/>有，善逝！此般若波羅蜜多能攝一切智，菩薩<lb
  n="0594c02" ed="T"/>摩訶薩當如是學。」</ab></div><lb
- n="0594c03" ed="T"/><div type="pin" level="2"><head>寶塔功德品第三之一</head><lb
- n="0594c04" ed="T"/><ab type="prose">爾時，世尊普告四眾——苾芻、苾芻尼、優婆塞、優<lb
+ n="0594c03" ed="T"/><div type='pin' level='2'><head>寶塔功德品第三之一</head><lb
+ n="0594c04" ed="T"/><ab type='prose'>爾時，世尊普告四眾——苾芻、苾芻尼、優婆塞、優<lb
  n="0594c05" ed="T"/>婆夷——帝釋天主等欲界諸天眾，大梵天王等<lb
  n="0594c06" ed="T"/>色界諸天眾，乃至色究竟天一切天子眾：<lb
  n="0594c07" ed="T"/>「汝等當知，若有善男子、善女人，於此甚深般<lb
@@ -779,18 +779,18 @@
  n="0595b08" ed="T"/>子、善女人，以受持讀誦般若波羅蜜多故，於<lb
  n="0595b09" ed="T"/>現世中獲如是功德。」<lb
  n="0595b10" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說佛母出生三法藏般若波羅蜜多經卷<lb
+</ab><ab type='juan' subtype='close'>佛說佛母出生三法藏般若波羅蜜多經卷<lb
  n="0595b11" ed="T"/>第二</ab><lb
  n="0595b12" ed="T"/><lb
  n="0595b13" ed="T"/><lb
  n="0595b14" ed="T"/>
-<ab type="juan" subtype="open">佛說佛母出生三法藏般若<lb
+<ab type='juan' subtype='open'>佛說佛母出生三法藏般若<lb
  n="0595b15" ed="T"/>波羅蜜多經卷第三<lb
  n="0595b16" ed="T"/><lb
  n="0595b17" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0595b18" ed="T"/>傳法大師賜紫臣施護奉　詔譯</byline><lb
  n="0595b19" ed="T"/>寶塔功德品第三之二</ab><lb
- n="0595b20" ed="T"/><ab type="prose">爾時，帝釋天主復白佛言：「希有，世尊！菩薩摩<lb
+ n="0595b20" ed="T"/><ab type='prose'>爾時，帝釋天主復白佛言：「希有，世尊！菩薩摩<lb
  n="0595b21" ed="T"/>訶薩為迴向故修學般若波羅蜜多，不以高<lb
  n="0595b22" ed="T"/>心而生取相。」佛言：「如是，如是！憍尸迦！若善男<lb
  n="0595b23" ed="T"/>子、善女人，於此般若波羅蜜多法門，受持讀<lb
@@ -1154,18 +1154,18 @@
  n="0599c04" ed="T"/>般若波羅蜜多大法海中勤苦而求，如是求<lb
  n="0599c05" ed="T"/>者皆得如意。」<lb
  n="0599c06" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說佛母出生三法藏般若波羅蜜多經卷<lb
+</ab><ab type='juan' subtype='close'>佛說佛母出生三法藏般若波羅蜜多經卷<lb
  n="0599c07" ed="T"/>第三</ab><lb
  n="0599c08" ed="T"/><lb
  n="0599c09" ed="T"/><lb
  n="0599c10" ed="T"/>
-<ab type="juan" subtype="open">佛說佛母出生三法藏般若<lb
+<ab type='juan' subtype='open'>佛說佛母出生三法藏般若<lb
  n="0599c11" ed="T"/>波羅蜜多經卷第四<lb
  n="0599c12" ed="T"/><lb
  n="0599c13" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0599c14" ed="T"/>傳法大師賜紫臣施護奉　詔譯</byline><lb
  n="0599c15" ed="T"/>寶塔功德品第三之三</ab><lb
- n="0599c16" ed="T"/><ab type="prose">爾時，尊者阿難白佛言：「云何，世尊！而不稱讚<lb
+ n="0599c16" ed="T"/><ab type='prose'>爾時，尊者阿難白佛言：「云何，世尊！而不稱讚<lb
  n="0599c17" ed="T"/>宣說布施波羅蜜多、持戒波羅蜜多、忍辱波<lb
  n="0599c18" ed="T"/>羅蜜多、精進波羅蜜多、禪定波羅蜜多如是<lb
  n="0599c19" ed="T"/>名字，何故唯說般若波羅蜜多稱讚功德？」<lb
@@ -1261,7 +1261,7 @@
  n="0600c22" ed="T"/>頂受已，各各還復彼彼天中。<lb
  n="0600c23" ed="T"/>「復次，憍尸迦！諸有受持讀誦般若波羅蜜多<lb
  n="0600c24" ed="T"/>者善男子、善女人，應生如是心：『所有十方無<lb
- n="0600c25" ed="T"/>量阿僧祇世界中，一切天龍、夜叉、乾闥婆、阿<lb
+ n="0600c25" ed="T"/>量阿僧祇世界中，一切天、龍、夜叉、乾闥婆、阿<lb
  n="0600c26" ed="T"/>修羅、迦樓羅、緊那羅，摩睺羅伽、人非人等，皆<lb
  n="0600c27" ed="T"/>悉為敬法故，來詣般若波羅蜜多經所，瞻禮<lb
  n="0600c28" ed="T"/>聽受。彼等若來，我當以其法施，使令得法各<lb
@@ -1275,7 +1275,7 @@
  n="0601a07" ed="T"/>「復次，憍尸迦！受持讀誦般若波羅蜜多者諸<lb
  n="0601a08" ed="T"/>善男子、善女人，隨所住處，有是經卷，若諸殿<lb
  n="0601a09" ed="T"/>堂及諸房舍，堅固安隱不能破壞，是處即有<lb
- n="0601a10" ed="T"/>大威力者——天龍、夜叉、乾闥婆、阿修羅、迦樓羅、<lb
+ n="0601a10" ed="T"/>大威力者——天、龍、夜叉、乾闥婆、阿修羅、迦樓羅、<lb
  n="0601a11" ed="T"/>緊那羅、摩睺羅伽、人非人等，常來其所聽受<lb
  n="0601a12" ed="T"/>正法。」<lb
  n="0601a13" ed="T"/>爾時，帝釋天主白佛言：「世尊！諸天龍神等眾<lb
@@ -1334,8 +1334,8 @@
  n="0601c08" ed="T"/>者，應當於此般若波羅蜜多法門，發信解心，<lb
  n="0601c09" ed="T"/>受持讀誦，記念思惟，乃至為人廣說其義，又<lb
  n="0601c10" ed="T"/>復尊重恭敬，以諸香華燈塗種種供養。」</ab></div><lb
- n="0601c11" ed="T"/><div type="pin" level="2"><head>稱讚功德品第四</head><lb
- n="0601c12" ed="T"/><ab type="prose">爾時，世尊告帝釋天主言：「憍尸迦！若以滿閻<lb
+ n="0601c11" ed="T"/><div type='pin' level='2'><head>稱讚功德品第四</head><lb
+ n="0601c12" ed="T"/><ab type='prose'>爾時，世尊告帝釋天主言：「憍尸迦！若以滿閻<lb
  n="0601c13" ed="T"/>浮提如來舍利而為一分，以此般若波羅蜜<lb
  n="0601c14" ed="T"/>多書寫經卷而為一分，汝於此二分中當取<lb
  n="0601c15" ed="T"/>何分？」帝釋天主白佛言：「世尊！若以滿閻浮提<lb
@@ -1464,8 +1464,8 @@
  n="0603a23" ed="T"/>智。」帝釋天主白佛言：「希有，世尊！般若波羅蜜<lb
  n="0603a24" ed="T"/>多具大功德，般若波羅蜜多具無量功德，般<lb
  n="0603a25" ed="T"/>若波羅蜜多具無邊功德。」</ab></div><lb
- n="0603a26" ed="T"/><div type="pin" level="2"><head>正福品第五之一</head><lb
- n="0603a27" ed="T"/><ab type="prose">爾時，帝釋天主白佛言：「世尊！若有善男子、善<lb
+ n="0603a26" ed="T"/><div type='pin' level='2'><head>正福品第五之一</head><lb
+ n="0603a27" ed="T"/><ab type='prose'>爾時，帝釋天主白佛言：「世尊！若有善男子、善<lb
  n="0603a28" ed="T"/>女人，為欲趣求大菩提故，於此般若波羅蜜<lb
  n="0603a29" ed="T"/>多法門，發信解心聽受讀誦，乃至為人解釋<pb n="0603b" ed="T" id="T08.0228.0603b"/><lb
  n="0603b01" ed="T"/>其義，使其正法久住世間。以是因緣，能令佛<lb
@@ -1529,17 +1529,17 @@
  n="0604a01" ed="T"/>令安住真如實際。』憍尸迦！是善男子、善女人，<lb
  n="0604a02" ed="T"/>得福甚多。<lb
  n="0604a03" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說佛母出生三法藏般若波羅蜜多經卷第<lb
+</ab><ab type='juan' subtype='close'>佛說佛母出生三法藏般若波羅蜜多經卷第<lb
  n="0604a04" ed="T"/>四</ab><lb
  n="0604a05" ed="T"/><lb
  n="0604a06" ed="T"/>
-<ab type="juan" subtype="open">佛說佛母出生三法藏般若<lb
+<ab type='juan' subtype='open'>佛說佛母出生三法藏般若<lb
  n="0604a07" ed="T"/>波羅蜜多經卷第五<lb
  n="0604a08" ed="T"/><lb
  n="0604a09" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0604a10" ed="T"/>傳法大師賜紫臣施護奉　詔譯</byline><lb
  n="0604a11" ed="T"/>正福品第五之二</ab><lb
- n="0604a12" ed="T"/><ab type="prose">「復次，憍尸迦！若善男子、善女人，以滿閻浮提<lb
+ n="0604a12" ed="T"/><ab type='prose'>「復次，憍尸迦！若善男子、善女人，以滿閻浮提<lb
  n="0604a13" ed="T"/>所有眾生，各各教令修四禪定。憍尸迦！於汝<lb
  n="0604a14" ed="T"/>意云何，彼人以是因緣得福多不？」帝釋天主<lb
  n="0604a15" ed="T"/>白佛言：「甚多，世尊！」佛言：「憍尸迦！是善男子、善<lb
@@ -1879,18 +1879,18 @@
  n="0608a01" ed="T"/>迦！若菩薩摩訶薩不學是六波羅蜜多，即不<lb
  n="0608a02" ed="T"/>能得阿耨多羅三藐三菩提果。」</ab></div><lb
  n="0608a03" ed="T"/>
-<ab type="juan" subtype="close">佛說佛母出生三法藏般若波羅蜜多經卷<lb
+<ab type='juan' subtype='close'>佛說佛母出生三法藏般若波羅蜜多經卷<lb
  n="0608a04" ed="T"/>第五</ab><lb
  n="0608a05" ed="T"/><lb
  n="0608a06" ed="T"/><lb
  n="0608a07" ed="T"/>
-<ab type="juan" subtype="open">佛說佛母出生三法藏般若<lb
+<ab type='juan' subtype='open'>佛說佛母出生三法藏般若<lb
  n="0608a08" ed="T"/>波羅蜜多經卷第六</ab><lb
  n="0608a09" ed="T"/><lb
  n="0608a10" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0608a11" ed="T"/>傳法大師賜紫臣施護奉　詔譯</byline><lb
- n="0608a12" ed="T"/><div type="pin" level="2"><head>隨喜迴向品第六之一</head><lb
- n="0608a13" ed="T"/><ab type="prose">爾時，慈氏菩薩摩訶薩告尊者須菩提言：「若<lb
+ n="0608a12" ed="T"/><div type='pin' level='2'><head>隨喜迴向品第六之一</head><lb
+ n="0608a13" ed="T"/><ab type='prose'>爾時，慈氏菩薩摩訶薩告尊者須菩提言：「若<lb
  n="0608a14" ed="T"/>菩薩摩訶薩，於此甚深般若波羅蜜多法門，<lb
  n="0608a15" ed="T"/>隨喜迴向所獲功德，比餘眾生布施、持戒、修<lb
  n="0608a16" ed="T"/>定功德，最上最極最勝最妙，廣大無量無等<lb
@@ -2160,17 +2160,17 @@
  n="0611a19" ed="T"/>法界所有福蘊，比前福蘊，最上最極最勝最<lb
  n="0611a20" ed="T"/>妙，廣大無量無等無等等。<lb
  n="0611a21" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說佛母出生三法藏般若波羅蜜多經卷<lb
+</ab><ab type='juan' subtype='close'>佛說佛母出生三法藏般若波羅蜜多經卷<lb
  n="0611a22" ed="T"/>第六</ab><pb n="0611b" ed="T" id="T08.0228.0611b"/><lb
  n="0611b01" ed="T"/><lb
  n="0611b02" ed="T"/>
-<ab type="juan" subtype="open">佛說佛母出生三法藏般若<lb
+<ab type='juan' subtype='open'>佛說佛母出生三法藏般若<lb
  n="0611b03" ed="T"/>波羅蜜多經卷第七<lb
  n="0611b04" ed="T"/><lb
  n="0611b05" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0611b06" ed="T"/>傳法大師賜紫臣施護奉　詔譯</byline><lb
  n="0611b07" ed="T"/>隨喜迴向品第六之二</ab><lb
- n="0611b08" ed="T"/><ab type="prose">「復次，須菩提！如前所說四無量行乃至五神<lb
+ n="0611b08" ed="T"/><ab type='prose'>「復次，須菩提！如前所說四無量行乃至五神<lb
  n="0611b09" ed="T"/>通行，皆置是數。假使三千大千世界一切眾<lb
  n="0611b10" ed="T"/>生，一一皆得須陀洹、斯陀含、阿那含、阿羅漢<lb
  n="0611b11" ed="T"/>果，如是福蘊亦置是數。假使三千大千世界<lb
@@ -2350,8 +2350,8 @@
  n="0613b11" ed="T"/>須菩提！菩薩摩訶薩於一切法如是知者，當<lb
  n="0613b12" ed="T"/>於六波羅蜜多法門如是修學、如是隨喜。以<lb
  n="0613b13" ed="T"/>此隨喜善根，如實迴向阿耨多羅三藐三菩提。」</ab></div><lb
- n="0613b14" ed="T"/><div type="pin" level="2"><head>地獄緣品第七之一</head><lb
- n="0613b15" ed="T"/><ab type="prose">爾時，尊者舍利子白佛言：「世尊！般若波羅蜜<lb
+ n="0613b14" ed="T"/><div type='pin' level='2'><head>地獄緣品第七之一</head><lb
+ n="0613b15" ed="T"/><ab type='prose'>爾時，尊者舍利子白佛言：「世尊！般若波羅蜜<lb
  n="0613b16" ed="T"/>多出生一切智智，一切智性即般若波羅蜜<lb
  n="0613b17" ed="T"/>多耶？」佛言：「舍利子！如是，如是！如汝所說。」舍利<lb
  n="0613b18" ed="T"/>子復白佛言：「世尊！般若波羅蜜多所應敬禮，<lb
@@ -2466,17 +2466,17 @@
  n="0614c11" ed="T"/>於無數佛世尊所聽受此法，久修菩薩最勝<lb
  n="0614c12" ed="T"/>妙行。如是等人，佛所稱讚。」<lb
  n="0614c13" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說佛母出生三法藏般若波羅蜜多經卷<lb
+</ab><ab type='juan' subtype='close'>佛說佛母出生三法藏般若波羅蜜多經卷<lb
  n="0614c14" ed="T"/>第七</ab><lb
  n="0614c15" ed="T"/><lb
  n="0614c16" ed="T"/>
-<ab type="juan" subtype="open">佛說佛母出生三法藏般若<lb
+<ab type='juan' subtype='open'>佛說佛母出生三法藏般若<lb
  n="0614c17" ed="T"/>波羅蜜多經卷第八<lb
  n="0614c18" ed="T"/><lb
  n="0614c19" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0614c20" ed="T"/>傳法大師賜紫臣施護奉　詔譯</byline><lb
  n="0614c21" ed="T"/>地獄緣品第七之二</ab><lb
- n="0614c22" ed="T"/><ab type="prose">爾時，尊者須菩提白佛言：「世尊！般若波羅蜜<lb
+ n="0614c22" ed="T"/><ab type='prose'>爾時，尊者須菩提白佛言：「世尊！般若波羅蜜<lb
  n="0614c23" ed="T"/>多可聞可得耶？若聲若相有所說耶？」佛言：「不<lb
  n="0614c24" ed="T"/>也，須菩提！般若波羅蜜多，無說無示、無聞無<lb
  n="0614c25" ed="T"/>得，非蘊、處、界有所見相。何以故？彼一切法離<lb
@@ -2576,8 +2576,8 @@
  n="0616a03" ed="T"/>諸善男子、善女人，當於諸佛所說正法起淨<lb
  n="0616a04" ed="T"/>信解，勿生輕謗。謗正法者是即破法，若破法<lb
  n="0616a05" ed="T"/>者斷滅壽命起無智業，當墮地獄受大苦惱。」</ab></div><lb
- n="0616a06" ed="T"/><div type="pin" level="2"><head>清淨品第八之一</head><lb
- n="0616a07" ed="T"/><ab type="prose">爾時，尊者須菩提白佛言：「世尊！若有隨順惡<lb
+ n="0616a06" ed="T"/><div type='pin' level='2'><head>清淨品第八之一</head><lb
+ n="0616a07" ed="T"/><ab type='prose'>爾時，尊者須菩提白佛言：「世尊！若有隨順惡<lb
  n="0616a08" ed="T"/>知識，遠離善根及不精進者，於此甚深般若<lb
  n="0616a09" ed="T"/>波羅蜜多法門，極難信解耶？」佛告須菩提：「如<lb
  n="0616a10" ed="T"/>是，如是！如汝所言。如是等人，少見少聞遠離<lb
@@ -2758,17 +2758,17 @@
  n="0618a11" ed="T"/>掌向佛作如是言：「般若波羅蜜多，無少法可<lb
  n="0618a12" ed="T"/>生、無少法可滅，是故我今敬禮般若波羅蜜多。」<lb
  n="0618a13" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說佛母出生三法藏般若波羅蜜多經卷<lb
+</ab><ab type='juan' subtype='close'>佛說佛母出生三法藏般若波羅蜜多經卷<lb
  n="0618a14" ed="T"/>第八</ab><lb
  n="0618a15" ed="T"/><lb
  n="0618a16" ed="T"/>
-<ab type="juan" subtype="open">佛說佛母出生三法藏般若<lb
+<ab type='juan' subtype='open'>佛說佛母出生三法藏般若<lb
  n="0618a17" ed="T"/>波羅蜜多經卷第九<lb
  n="0618a18" ed="T"/><lb
  n="0618a19" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0618a20" ed="T"/>傳法大師賜紫臣施護奉　詔譯</byline><lb
  n="0618a21" ed="T"/>清淨品第八之二</ab><lb
- n="0618a22" ed="T"/><ab type="prose">爾時，帝釋天主白佛言：「世尊！若有人受持此<lb
+ n="0618a22" ed="T"/><ab type='prose'>爾時，帝釋天主白佛言：「世尊！若有人受持此<lb
  n="0618a23" ed="T"/>般若波羅蜜多法門者，我當守護其人及此法<lb
  n="0618a24" ed="T"/>門。」時，尊者須菩提謂帝釋天主言：「憍尸迦！汝<lb
  n="0618a25" ed="T"/>見有法可守護耶？」帝釋天主言：「不也，須菩提！」<lb
@@ -2800,8 +2800,8 @@
  n="0618b23" ed="T"/>法門，所有慈氏菩薩摩訶薩，當成阿耨多羅<lb
  n="0618b24" ed="T"/>三藐三菩提果已，於此地方亦復如是宣說<lb
  n="0618b25" ed="T"/>般若波羅蜜多法門。」</ab></div><lb
- n="0618b26" ed="T"/><div type="pin" level="2"><head>歎勝品第九</head><lb
- n="0618b27" ed="T"/><ab type="prose">爾時，尊者須菩提白佛言：「世尊！般若波羅蜜<lb
+ n="0618b26" ed="T"/><div type='pin' level='2'><head>歎勝品第九</head><lb
+ n="0618b27" ed="T"/><ab type='prose'>爾時，尊者須菩提白佛言：「世尊！般若波羅蜜<lb
  n="0618b28" ed="T"/>多甚深微妙，於其名中畢竟不可得，非彼語<lb
  n="0618b29" ed="T"/>言而能宣說，如般若波羅蜜多名不可得故，<pb n="0618c" ed="T" id="T08.0228.0618c"/><lb
  n="0618c01" ed="T"/>般若波羅蜜多法亦不可得。而此般若波羅<lb
@@ -2943,8 +2943,8 @@
  n="0620a21" ed="T"/>波羅蜜多是般若波羅蜜多，一切法自性平<lb
  n="0620a22" ed="T"/>等故。一切智智波羅蜜多是般若波羅蜜多，<lb
  n="0620a23" ed="T"/>一切法性一切法相，不可得不可知故。」</ab></div><lb
- n="0620a24" ed="T"/><div type="pin" level="2"><head>讚持品第十之一</head><lb
- n="0620a25" ed="T"/><ab type="prose">爾時，帝釋天主作是念：「諸善男子、善女人，若<lb
+ n="0620a24" ed="T"/><div type='pin' level='2'><head>讚持品第十之一</head><lb
+ n="0620a25" ed="T"/><ab type='prose'>爾時，帝釋天主作是念：「諸善男子、善女人，若<lb
  n="0620a26" ed="T"/>得暫聞此般若波羅蜜多法門者，是人於諸<lb
  n="0620a27" ed="T"/>佛所已種善根，何況有人於此般若波羅蜜<lb
  n="0620a28" ed="T"/>多法門，能受持讀誦、記念思惟，為人演說，如<lb
@@ -3059,18 +3059,18 @@
  n="0621b21" ed="T"/>菩薩摩訶薩，應當於此般若波羅蜜多法門，<lb
  n="0621b22" ed="T"/>尊重恭敬如理修行。」<lb
  n="0621b23" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說佛母出生三法藏般若波羅蜜多經卷<lb
+</ab><ab type='juan' subtype='close'>佛說佛母出生三法藏般若波羅蜜多經卷<lb
  n="0621b24" ed="T"/>第九</ab><pb n="0621c" ed="T" id="T08.0228.0621c"/><lb
  n="0621c01" ed="T"/><lb
  n="0621c02" ed="T"/><lb
  n="0621c03" ed="T"/>
-<ab type="juan" subtype="open">佛說佛母出生三法藏般若<lb
+<ab type='juan' subtype='open'>佛說佛母出生三法藏般若<lb
  n="0621c04" ed="T"/>波羅蜜多經卷第十<lb
  n="0621c05" ed="T"/><lb
  n="0621c06" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0621c07" ed="T"/>傳法大師賜紫臣施護奉　詔譯</byline><lb
  n="0621c08" ed="T"/>讚持品第十之二</ab><lb
- n="0621c09" ed="T"/><ab type="prose">爾時，世尊讚尊者舍利子言：「善哉，善哉！舍利<lb
+ n="0621c09" ed="T"/><ab type='prose'>爾時，世尊讚尊者舍利子言：「善哉，善哉！舍利<lb
  n="0621c10" ed="T"/>子！如是，如是！如汝所說，善引譬喻。汝今以佛<lb
  n="0621c11" ed="T"/>神力，復說譬喻而明此義。」舍利子白佛言：「世<lb
  n="0621c12" ed="T"/>尊！又如有人欲見大海漸次而行，若見有樹<lb
@@ -3295,17 +3295,17 @@
  n="0624a28" ed="T"/>六波羅蜜多無所得相應，與一切法自性相<lb
  n="0624a29" ed="T"/>應者，是人亦復不求自得。」</ab></div><pb n="0624b" ed="T" id="T08.0228.0624b"/><lb
  n="0624b01" ed="T"/>
-<ab type="juan" subtype="close">佛說佛母出生三法藏般若波羅蜜多經卷<lb
+<ab type='juan' subtype='close'>佛說佛母出生三法藏般若波羅蜜多經卷<lb
  n="0624b02" ed="T"/>第十</ab><lb
  n="0624b03" ed="T"/><lb
  n="0624b04" ed="T"/>
-<ab type="juan" subtype="open">佛說佛母出生三法藏般若<lb
+<ab type='juan' subtype='open'>佛說佛母出生三法藏般若<lb
  n="0624b05" ed="T"/>波羅蜜多經卷第十一</ab><lb
  n="0624b06" ed="T"/><lb
  n="0624b07" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0624b08" ed="T"/>傳法大師賜紫臣施護奉　詔譯</byline><lb
- n="0624b09" ed="T"/><div type="pin" level="2"><head>惡者障法品第十一之一</head><lb
- n="0624b10" ed="T"/><ab type="prose">爾時，尊者須菩提白佛言：「世尊！佛先已說受<lb
+ n="0624b09" ed="T"/><div type='pin' level='2'><head>惡者障法品第十一之一</head><lb
+ n="0624b10" ed="T"/><ab type='prose'>爾時，尊者須菩提白佛言：「世尊！佛先已說受<lb
  n="0624b11" ed="T"/>持讀誦般若波羅蜜多法者諸善男子、善女<lb
  n="0624b12" ed="T"/>人所有功德。而彼善男子、善女人受持讀誦<lb
  n="0624b13" ed="T"/>此法門時，將無惡魔為難事耶？」<lb
@@ -3593,17 +3593,17 @@
  n="0627c06" ed="T"/>誦。是故諸修菩薩法者，於一切時常所覺知，<lb
  n="0627c07" ed="T"/>覺已遠離，令彼諸魔不得其便。」<lb
  n="0627c08" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說佛母出生三法藏般若波羅蜜多經卷<lb
+</ab><ab type='juan' subtype='close'>佛說佛母出生三法藏般若波羅蜜多經卷<lb
  n="0627c09" ed="T"/>第十一</ab><lb
  n="0627c10" ed="T"/><lb
  n="0627c11" ed="T"/>
-<ab type="juan" subtype="open">佛說佛母出生三法藏般若<lb
+<ab type='juan' subtype='open'>佛說佛母出生三法藏般若<lb
  n="0627c12" ed="T"/>波羅蜜多經卷第十二<lb
  n="0627c13" ed="T"/><lb
  n="0627c14" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0627c15" ed="T"/>傳法大師賜紫臣施護奉　詔譯</byline><lb
  n="0627c16" ed="T"/>惡者障法品第十一之二</ab><lb
- n="0627c17" ed="T"/><ab type="prose">爾時，尊者須菩提白佛言：「世尊！何故惡魔於<lb
+ n="0627c17" ed="T"/><ab type='prose'>爾時，尊者須菩提白佛言：「世尊！何故惡魔於<lb
  n="0627c18" ed="T"/>其長時勤作方便起諸障難，而令諸修菩薩<lb
  n="0627c19" ed="T"/>法者，不得般若波羅蜜多正法聽受修習書持<lb
  n="0627c20" ed="T"/>讀誦？」<lb
@@ -3651,8 +3651,8 @@
  n="0628b05" ed="T"/>便，於此法門起諸難事。如來、應供、正等正覺<lb
  n="0628b06" ed="T"/>亦復長時勤作方便，於此般若波羅蜜多法<lb
  n="0628b07" ed="T"/>門，以威神力加持護念。」</ab></div><lb
- n="0628b08" ed="T"/><div type="pin" level="2"><head>顯示世間品第十二之一</head><lb
- n="0628b09" ed="T"/><ab type="prose">佛告須菩提：「如世母人生育諸子，若一若十<lb
+ n="0628b08" ed="T"/><div type='pin' level='2'><head>顯示世間品第十二之一</head><lb
+ n="0628b09" ed="T"/><ab type='prose'>佛告須菩提：「如世母人生育諸子，若一若十<lb
  n="0628b10" ed="T"/>若百若千。忽於一時其母有疾，諸子各各勤<lb
  n="0628b11" ed="T"/>求方便，多所療治。咸作是念：『云何令母速得<lb
  n="0628b12" ed="T"/>遠離風癀痰𤸌種種病苦，眼、耳、鼻、舌、身、意諸<lb
@@ -3882,17 +3882,17 @@
  n="0631a04" ed="T"/>蜜多故，一一如實了知。以是義故，般若波<lb
  n="0631a05" ed="T"/>羅蜜多而能顯示諸世間相。」<lb
  n="0631a06" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說佛母出生三法藏般若波羅蜜多經卷<lb
+</ab><ab type='juan' subtype='close'>佛說佛母出生三法藏般若波羅蜜多經卷<lb
  n="0631a07" ed="T"/>第十二</ab><lb
  n="0631a08" ed="T"/><lb
  n="0631a09" ed="T"/>
-<ab type="juan" subtype="open">佛說佛母出生三法藏般若<lb
+<ab type='juan' subtype='open'>佛說佛母出生三法藏般若<lb
  n="0631a10" ed="T"/>波羅蜜多經卷第十三<lb
  n="0631a11" ed="T"/><lb
  n="0631a12" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0631a13" ed="T"/>傳法大師賜紫臣施護奉　詔譯</byline><lb
  n="0631a14" ed="T"/>顯示世間品第十二之二</ab><lb
- n="0631a15" ed="T"/><ab type="prose">佛告須菩提：「又復，如來因般若波羅蜜多故，<lb
+ n="0631a15" ed="T"/><ab type='prose'>佛告須菩提：「又復，如來因般若波羅蜜多故，<lb
  n="0631a16" ed="T"/>如實了知無量無數眾生，及諸異見補特伽<lb
  n="0631a17" ed="T"/>羅諸行出沒。云何如來知諸眾生，及諸異見<lb
  n="0631a18" ed="T"/>補特伽羅諸行出沒耶？須菩提！所謂了知眾<lb
@@ -4005,8 +4005,8 @@
  n="0632b10" ed="T"/>見世間耶？所謂世間空故，世間離相故，世間<lb
  n="0632b11" ed="T"/>寂靜故，世間無染故。般若波羅蜜多如是顯<lb
  n="0632b12" ed="T"/>示，如來、應供、正等正覺亦如是說。」</ab></div><lb
- n="0632b13" ed="T"/><div type="pin" level="2"><head>不思議品第十三</head><lb
- n="0632b14" ed="T"/><ab type="prose">爾時，尊者須菩提白佛言：「世尊！此般若波羅<lb
+ n="0632b13" ed="T"/><div type='pin' level='2'><head>不思議品第十三</head><lb
+ n="0632b14" ed="T"/><ab type='prose'>爾時，尊者須菩提白佛言：「世尊！此般若波羅<lb
  n="0632b15" ed="T"/>蜜多最上甚深，為大事故出，為不可思議事、<lb
  n="0632b16" ed="T"/>不可稱事、不可量事、不可數事、無等等事故出。」<lb
  n="0632b17" ed="T"/>佛言：「須菩提！如是，如是！般若波羅蜜多最上<lb
@@ -4125,17 +4125,17 @@
  n="0633c14" ed="T"/>即各頭面禮世尊足，右繞三匝出離佛會，去<lb
  n="0633c15" ed="T"/>此不遠隱身不現，各各還復彼彼天中。</ab></div><lb
  n="0633c16" ed="T"/>
-<ab type="juan" subtype="close">佛說佛母出生三法藏般若波羅蜜多經卷<lb
+<ab type='juan' subtype='close'>佛說佛母出生三法藏般若波羅蜜多經卷<lb
  n="0633c17" ed="T"/>第十三</ab><lb
  n="0633c18" ed="T"/><lb
  n="0633c19" ed="T"/>
-<ab type="juan" subtype="open">佛說佛母出生三法藏般若<lb
+<ab type='juan' subtype='open'>佛說佛母出生三法藏般若<lb
  n="0633c20" ed="T"/>波羅蜜多經卷第十四</ab><lb
  n="0633c21" ed="T"/><lb
  n="0633c22" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0633c23" ed="T"/>傳法大師賜紫臣施護奉　詔譯</byline><lb
- n="0633c24" ed="T"/><div type="pin" level="2"><head>譬喻品第十四</head><lb
- n="0633c25" ed="T"/><ab type="prose">爾時，尊者須菩提白佛言：「世尊！若菩薩摩訶<lb
+ n="0633c24" ed="T"/><div type='pin' level='2'><head>譬喻品第十四</head><lb
+ n="0633c25" ed="T"/><ab type='prose'>爾時，尊者須菩提白佛言：「世尊！若菩薩摩訶<lb
  n="0633c26" ed="T"/>薩聞此甚深般若波羅蜜多正法，不驚不怖、<lb
  n="0633c27" ed="T"/>不退不失、不疑不難、不悔不沒、心生信解者，<lb
  n="0633c28" ed="T"/>是菩薩於何處沒而來生此？」<lb
@@ -4275,8 +4275,8 @@
  n="0635b14" ed="T"/>方便所護念者，當知是菩薩決定不墮聲聞<lb
  n="0635b15" ed="T"/>緣覺之地，即能成就一切智果，皆悉以是功<lb
  n="0635b16" ed="T"/>德迴向阿耨多羅三藐三菩提。」</ab></div><lb
- n="0635b17" ed="T"/><div type="pin" level="2"><head>賢聖品第十五之一</head><lb
- n="0635b18" ed="T"/><ab type="prose">爾時，尊者須菩提白佛言：「世尊！彼初學菩薩<lb
+ n="0635b17" ed="T"/><div type='pin' level='2'><head>賢聖品第十五之一</head><lb
+ n="0635b18" ed="T"/><ab type='prose'>爾時，尊者須菩提白佛言：「世尊！彼初學菩薩<lb
  n="0635b19" ed="T"/>於此甚深般若波羅蜜多當云何學？」<lb
  n="0635b20" ed="T"/>佛告尊者須菩提言：「諸初學菩薩若欲學此<lb
  n="0635b21" ed="T"/>甚深般若波羅蜜多者，應當親近彼善知識，<lb
@@ -4421,17 +4421,17 @@
  n="0637a15" ed="T"/>眾生如是說法，是名菩薩摩訶薩能為世間<lb
  n="0637a16" ed="T"/>作真實趣。」<lb
  n="0637a17" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說佛母出生三法藏般若波羅蜜多經卷<lb
+</ab><ab type='juan' subtype='close'>佛說佛母出生三法藏般若波羅蜜多經卷<lb
  n="0637a18" ed="T"/>第十四</ab><lb
  n="0637a19" ed="T"/><lb
  n="0637a20" ed="T"/>
-<ab type="juan" subtype="open">佛說佛母出生三法藏般<lb
+<ab type='juan' subtype='open'>佛說佛母出生三法藏般<lb
  n="0637a21" ed="T"/>若波羅蜜多經卷第十五<lb
  n="0637a22" ed="T"/><lb
  n="0637a23" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0637a24" ed="T"/>傳法大師賜紫臣施護奉　詔譯</byline><lb
  n="0637a25" ed="T"/>賢聖品第十五之二</ab><lb
- n="0637a26" ed="T"/><ab type="prose">爾時，尊者須菩提白佛言：「世尊！菩薩摩訶薩<lb
+ n="0637a26" ed="T"/><ab type='prose'>爾時，尊者須菩提白佛言：「世尊！菩薩摩訶薩<lb
  n="0637a27" ed="T"/>所為甚難，為無量無數眾生故被精進鎧作<lb
  n="0637a28" ed="T"/>大莊嚴，普令眾生得大涅盤，而眾生相了不<lb
  n="0637a29" ed="T"/>可得。」佛告須菩提言：「如是，如是！須菩提！菩薩<pb n="0637b" ed="T" id="T08.0228.0637b"/><lb
@@ -4513,8 +4513,8 @@
  n="0638a18" ed="T"/>說法世間諸行，難可得信、難可得解。何以故？<lb
  n="0638a19" ed="T"/>世間行有著，佛說法無著，是故一切法離諸<lb
  n="0638a20" ed="T"/>有著。」</ab></div><lb
- n="0638a21" ed="T"/><div type="pin" level="2"><head>真如品第十六</head><lb
- n="0638a22" ed="T"/><ab type="prose">爾時，尊者須菩提白佛言：「世尊！佛所說法，隨<lb
+ n="0638a21" ed="T"/><div type='pin' level='2'><head>真如品第十六</head><lb
+ n="0638a22" ed="T"/><ab type='prose'>爾時，尊者須菩提白佛言：「世尊！佛所說法，隨<lb
  n="0638a23" ed="T"/>順一切法離諸障礙，而一切法了不可得，猶<lb
  n="0638a24" ed="T"/>如虛空離障礙相。世尊！諸法如虛空故一切<lb
  n="0638a25" ed="T"/>句不可得，諸法平等故二法不可得，諸法無<lb
@@ -4755,17 +4755,17 @@
  n="0640c28" ed="T"/>多羅三藐三菩提者，當如是住，如是修學。如<lb
  n="0640c29" ed="T"/>是學者，能為一切眾生作大依怙。」</ab></div><pb n="0641a" ed="T" id="T08.0228.0641a"/><lb
  n="0641a01" ed="T"/>
-<ab type="juan" subtype="close">佛說佛母出生三法藏般若波羅蜜多經卷<lb
+<ab type='juan' subtype='close'>佛說佛母出生三法藏般若波羅蜜多經卷<lb
  n="0641a02" ed="T"/>第十五</ab><lb
  n="0641a03" ed="T"/><lb
  n="0641a04" ed="T"/>
-<ab type="juan" subtype="open">佛說佛母出生三法藏般若<lb
+<ab type='juan' subtype='open'>佛說佛母出生三法藏般若<lb
  n="0641a05" ed="T"/>波羅蜜多經卷第十六</ab><lb
  n="0641a06" ed="T"/><lb
  n="0641a07" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0641a08" ed="T"/>傳法大師賜紫臣施護奉　詔譯</byline><lb
- n="0641a09" ed="T"/><div type="pin" level="2"><head>不退轉菩薩相品第十七</head><lb
- n="0641a10" ed="T"/><ab type="prose">爾時，尊者須菩提白佛言：「世尊！不退轉菩薩<lb
+ n="0641a09" ed="T"/><div type='pin' level='2'><head>不退轉菩薩相品第十七</head><lb
+ n="0641a10" ed="T"/><ab type='prose'>爾時，尊者須菩提白佛言：「世尊！不退轉菩薩<lb
  n="0641a11" ed="T"/>摩訶薩當有何相？我等云何而能識知是不<lb
  n="0641a12" ed="T"/>退轉者？」佛告須菩提言：「汝今當知，不退轉菩<lb
  n="0641a13" ed="T"/>薩摩訶薩有種種相。須菩提！所有異生地、聲<lb
@@ -5024,17 +5024,17 @@
  n="0644a06" ed="T"/>提！以是相故汝當識知，是為不退轉菩薩摩<lb
  n="0644a07" ed="T"/>訶薩。」</ab></div><lb
  n="0644a08" ed="T"/>
-<ab type="juan" subtype="close">佛說佛母出生三法藏般若波羅蜜多經卷<lb
+<ab type='juan' subtype='close'>佛說佛母出生三法藏般若波羅蜜多經卷<lb
  n="0644a09" ed="T"/>第十六</ab><lb
  n="0644a10" ed="T"/><lb
  n="0644a11" ed="T"/>
-<ab type="juan" subtype="open">佛說佛母出生三法藏般若<lb
+<ab type='juan' subtype='open'>佛說佛母出生三法藏般若<lb
  n="0644a12" ed="T"/>波羅蜜多經卷第十七</ab><lb
  n="0644a13" ed="T"/><lb
  n="0644a14" ed="T"/><byline>西天譯經三藏傳法大師<lb
  n="0644a15" ed="T"/>賜紫臣施護奉　詔譯</byline><lb
- n="0644a16" ed="T"/><div type="pin" level="2"><head>空性品第十八</head><lb
- n="0644a17" ed="T"/><ab type="prose">爾時，尊者須菩提復白佛言：「希有，世尊！彼不<lb
+ n="0644a16" ed="T"/><div type='pin' level='2'><head>空性品第十八</head><lb
+ n="0644a17" ed="T"/><ab type='prose'>爾時，尊者須菩提復白佛言：「希有，世尊！彼不<lb
  n="0644a18" ed="T"/>退轉菩薩摩訶薩乃能成就如是功德，又復<lb
  n="0644a19" ed="T"/>世尊能善宣說諸菩薩摩訶薩無量無邊不退<lb
  n="0644a20" ed="T"/>轉相。」佛告須菩提言：「如是，如是！何以故？彼不<lb
@@ -5210,8 +5210,8 @@
  n="0646a20" ed="T"/>薩知如是相，如是作意如是修行，即近阿耨<lb
  n="0646a21" ed="T"/>多羅三藐三菩提，即成就阿耨多羅三藐三<lb
  n="0646a22" ed="T"/>菩提。」</ab></div><lb
- n="0646a23" ed="T"/><div type="pin" level="2"><head>甚深義品第十九之一</head><lb
- n="0646a24" ed="T"/><ab type="prose">爾時，尊者須菩提白佛言：「世尊！菩薩摩訶薩<lb
+ n="0646a23" ed="T"/><div type='pin' level='2'><head>甚深義品第十九之一</head><lb
+ n="0646a24" ed="T"/><ab type='prose'>爾時，尊者須菩提白佛言：「世尊！菩薩摩訶薩<lb
  n="0646a25" ed="T"/>所得阿耨多羅三藐三菩提，為前心得耶？為<lb
  n="0646a26" ed="T"/>後心得耶？世尊！若前心得者，彼前心後心而<lb
  n="0646a27" ed="T"/>各不俱。若後心得者，後心前心亦各不俱。云<lb
@@ -5316,17 +5316,17 @@
  n="0647b14" ed="T"/>惟可得，於是義中畢竟無得。是故，舍利子！一<lb
  n="0647b15" ed="T"/>切法無性，法自性如是。」<lb
  n="0647b16" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說佛母出生三法藏般若波羅蜜多經卷第<lb
+</ab><ab type='juan' subtype='close'>佛說佛母出生三法藏般若波羅蜜多經卷第<lb
  n="0647b17" ed="T"/>十七</ab><lb
  n="0647b18" ed="T"/><lb
  n="0647b19" ed="T"/>
-<ab type="juan" subtype="open">佛說佛母出生三法藏般若<lb
+<ab type='juan' subtype='open'>佛說佛母出生三法藏般若<lb
  n="0647b20" ed="T"/>波羅蜜多經卷第十八<lb
  n="0647b21" ed="T"/><lb
  n="0647b22" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0647b23" ed="T"/>傳法大師賜紫臣施護奉　詔譯</byline><lb
  n="0647b24" ed="T"/>甚深義品第十九之二</ab><lb
- n="0647b25" ed="T"/><ab type="prose">爾時，尊者舍利子作是念：「慈氏菩薩摩訶薩<lb
+ n="0647b25" ed="T"/><ab type='prose'>爾時，尊者舍利子作是念：「慈氏菩薩摩訶薩<lb
  n="0647b26" ed="T"/>已得甚深智慧，於長夜中勤行般若波羅蜜<lb
  n="0647b27" ed="T"/>多。」爾時，世尊知舍利子心所念已，即告舍利<lb
  n="0647b28" ed="T"/>子言：「汝今何故起如是念？汝於自法中有法<pb n="0647c" ed="T" id="T08.0228.0647c"/><lb
@@ -5456,8 +5456,8 @@
  n="0649a08" ed="T"/>如是！今此女人久已修習阿耨多羅三藐三<lb
  n="0649a09" ed="T"/>菩提行，是故我今為授阿耨多羅三藐三菩<lb
  n="0649a10" ed="T"/>提記。」</ab></div><lb
- n="0649a11" ed="T"/><div type="pin" level="2"><head>善巧方便品第二十之一</head><lb
- n="0649a12" ed="T"/><ab type="prose">爾時，尊者須菩提白佛言：「世尊！若菩薩摩訶<lb
+ n="0649a11" ed="T"/><div type='pin' level='2'><head>善巧方便品第二十之一</head><lb
+ n="0649a12" ed="T"/><ab type='prose'>爾時，尊者須菩提白佛言：「世尊！若菩薩摩訶<lb
  n="0649a13" ed="T"/>薩欲行般若波羅蜜多，應云何學空？云何入<lb
  n="0649a14" ed="T"/>空三摩地？」佛言：「須菩提！若菩薩摩訶薩欲行<lb
  n="0649a15" ed="T"/>般若波羅蜜多，應觀色空，觀受、想、行、識空，應<lb
@@ -5615,17 +5615,17 @@
  n="0650c22" ed="T"/>法如夢，而於是中不證實際。須菩提！當知此<lb
  n="0650c23" ed="T"/>為不退轉菩薩摩訶薩相。」<lb
  n="0650c24" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說佛母出生三法藏般若波羅蜜多經卷<lb
+</ab><ab type='juan' subtype='close'>佛說佛母出生三法藏般若波羅蜜多經卷<lb
  n="0650c25" ed="T"/>第十八</ab><pb n="0651a" ed="T" id="T08.0228.0651a"/><lb
  n="0651a01" ed="T"/><lb
  n="0651a02" ed="T"/>
-<ab type="juan" subtype="open">佛說佛母出生三法藏般若<lb
+<ab type='juan' subtype='open'>佛說佛母出生三法藏般若<lb
  n="0651a03" ed="T"/>波羅蜜多經卷第十九<lb
  n="0651a04" ed="T"/><lb
  n="0651a05" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0651a06" ed="T"/>傳法大師賜紫臣施護奉　詔譯</byline><lb
  n="0651a07" ed="T"/>善巧方便品第二十之二</ab><lb
- n="0651a08" ed="T"/><ab type="prose">爾時，世尊告尊者須菩提言：「我今復說不退<lb
+ n="0651a08" ed="T"/><ab type='prose'>爾時，世尊告尊者須菩提言：「我今復說不退<lb
  n="0651a09" ed="T"/>轉菩薩摩訶薩種種相貌，汝當諦聽，如善作<lb
  n="0651a10" ed="T"/>意。」須菩提言：「善哉，世尊！願樂欲聞。」佛言：「須<lb
  n="0651a11" ed="T"/>菩提！若菩薩摩訶薩，乃至夢中亦不愛樂聲<lb
@@ -5696,8 +5696,8 @@
  n="0651c18" ed="T"/>遠去，其所執魅即得解脫者，當知是菩薩已<lb
  n="0651c19" ed="T"/>從先佛如來、應供、正等正覺所，得授阿耨多<lb
  n="0651c20" ed="T"/>羅三藐三菩提記，已得安住不退轉地。</ab></div><lb
- n="0651c21" ed="T"/><div type="pin" level="2"><head>辯魔相品第二十一</head><lb
- n="0651c22" ed="T"/><ab type="prose">「復次，須菩提！亦有初住大乘諸菩薩等，見是<lb
+ n="0651c21" ed="T"/><div type='pin' level='2'><head>辯魔相品第二十一</head><lb
+ n="0651c22" ed="T"/><ab type='prose'>「復次，須菩提！亦有初住大乘諸菩薩等，見是<lb
  n="0651c23" ed="T"/>男子、女人為彼非人所執魅時，即作是言：『若<lb
  n="0651c24" ed="T"/>我已於先佛如來、應供、正等正覺所，得授阿<lb
  n="0651c25" ed="T"/>耨多羅三藐三菩提記者，願我以是實語力<lb
@@ -5872,8 +5872,8 @@
  n="0653c20" ed="T"/>速令除滅。』須菩提！若菩薩摩訶薩能如是學<lb
  n="0653c21" ed="T"/>者，是菩薩摩訶薩神通智力。須菩提！當知如<lb
  n="0653c22" ed="T"/>是等皆說菩薩摩訶薩覺知魔事真遠離相。」</ab></div><lb
- n="0653c23" ed="T"/><div type="pin" level="2"><head>善知識品第二十二之一</head><lb
- n="0653c24" ed="T"/><ab type="prose">爾時，世尊告尊者須菩提言：「若菩薩摩訶薩<lb
+ n="0653c23" ed="T"/><div type='pin' level='2'><head>善知識品第二十二之一</head><lb
+ n="0653c24" ed="T"/><ab type='prose'>爾時，世尊告尊者須菩提言：「若菩薩摩訶薩<lb
  n="0653c25" ed="T"/>深心欲得阿耨多羅三藐三菩提者，應當親近<lb
  n="0653c26" ed="T"/>恭敬諸善知識。」須菩提白佛言：「世尊！有諸菩<lb
  n="0653c27" ed="T"/>薩摩訶薩，深心欲得阿耨多羅三藐三菩提，<lb
@@ -5964,17 +5964,17 @@
  n="0654c25" ed="T"/>三藐三菩提，乃至速能成就阿耨多羅三藐<lb
  n="0654c26" ed="T"/>三菩提。」<lb
  n="0654c27" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說佛母出生三法藏般若波羅蜜多經卷<lb
+</ab><ab type='juan' subtype='close'>佛說佛母出生三法藏般若波羅蜜多經卷<lb
  n="0654c28" ed="T"/>第十九</ab><pb n="0655a" ed="T" id="T08.0228.0655a"/><lb
  n="0655a01" ed="T"/><lb
  n="0655a02" ed="T"/>
-<ab type="juan" subtype="open">佛說佛母出生三法藏般若<lb
+<ab type='juan' subtype='open'>佛說佛母出生三法藏般若<lb
  n="0655a03" ed="T"/>波羅蜜多經卷第二十<lb
  n="0655a04" ed="T"/><lb
  n="0655a05" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0655a06" ed="T"/>傳法大師賜紫臣施護奉　詔譯</byline><lb
  n="0655a07" ed="T"/>善知識品第二十二之二</ab><lb
- n="0655a08" ed="T"/><ab type="prose">爾時，世尊告尊者須菩提言：「如是，如是！須菩<lb
+ n="0655a08" ed="T"/><ab type='prose'>爾時，世尊告尊者須菩提言：「如是，如是！須菩<lb
  n="0655a09" ed="T"/>提！菩薩摩訶薩行般若波羅蜜多，若如是行<lb
  n="0655a10" ed="T"/>者，是為不行色，不行受、想、行、識。如是行者，普<lb
  n="0655a11" ed="T"/>令一切世間天、人、阿修羅等所共敬伏，不為<lb
@@ -6085,8 +6085,8 @@
  n="0656a29" ed="T"/>是法有所記別，亦復不見有授記法。何以故？<pb n="0656b" ed="T" id="T08.0228.0656b"/><lb
  n="0656b01" ed="T"/>一切法無所得故。世尊！以是義故，我知一切<lb
  n="0656b02" ed="T"/>法無證、是中無證者，一切法無得、是中無所得。」</ab></div><lb
- n="0656b03" ed="T"/><div type="pin" level="2"><head>帝釋天主讚歎品第二十三</head><lb
- n="0656b04" ed="T"/><ab type="prose">爾時，帝釋天主在大會中，即從座起前白佛<lb
+ n="0656b03" ed="T"/><div type='pin' level='2'><head>帝釋天主讚歎品第二十三</head><lb
+ n="0656b04" ed="T"/><ab type='prose'>爾時，帝釋天主在大會中，即從座起前白佛<lb
  n="0656b05" ed="T"/>言：「世尊！如佛所說般若波羅蜜多最上甚深，<lb
  n="0656b06" ed="T"/>難可得見、難可得聞，亦復於中難解難入。」佛<lb
  n="0656b07" ed="T"/>告帝釋天主言：「憍尸迦！如是，如是！般若波羅<lb
@@ -6155,8 +6155,8 @@
  n="0657a12" ed="T"/>「尊者！當知如我所說，皆是世尊威神建立。」<lb
  n="0657a13" ed="T"/>爾時，世尊告尊者阿難言：「如是，如是！如帝釋<lb
  n="0657a14" ed="T"/>天主此所樂說，當知皆是佛威神力而為護念。」</ab></div><lb
- n="0657a15" ed="T"/><div type="pin" level="2"><head>增上慢品第二十四</head><lb
- n="0657a16" ed="T"/><ab type="prose">爾時，世尊復告尊者阿難言：「當知菩薩摩訶<lb
+ n="0657a15" ed="T"/><div type='pin' level='2'><head>增上慢品第二十四</head><lb
+ n="0657a16" ed="T"/><ab type='prose'>爾時，世尊復告尊者阿難言：「當知菩薩摩訶<lb
  n="0657a17" ed="T"/>薩修般若波羅蜜多時，行般若波羅蜜多時，<lb
  n="0657a18" ed="T"/>所有三千大千世界一切惡魔皆生疑念：『菩<lb
  n="0657a19" ed="T"/>薩摩訶薩修行是般若波羅蜜多，為當中道<lb
@@ -6263,18 +6263,18 @@
  n="0658b04" ed="T"/>菩薩摩訶薩能如是學者，是為同學，所應共<lb
  n="0658b05" ed="T"/>住。如是學者，必證阿耨多羅三藐三菩提。」</ab></div><lb
  n="0658b06" ed="T"/>
-<ab type="juan" subtype="close">佛說佛母出生三法藏般若波羅蜜多經卷<lb
+<ab type='juan' subtype='close'>佛說佛母出生三法藏般若波羅蜜多經卷<lb
  n="0658b07" ed="T"/>第二十</ab><lb
  n="0658b08" ed="T"/><lb
  n="0658b09" ed="T"/><lb
  n="0658b10" ed="T"/>
-<ab type="juan" subtype="open">佛說佛母出生三法藏般若<lb
+<ab type='juan' subtype='open'>佛說佛母出生三法藏般若<lb
  n="0658b11" ed="T"/>波羅蜜多經卷第二十一</ab><lb
  n="0658b12" ed="T"/><lb
  n="0658b13" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0658b14" ed="T"/>傳法大師賜紫臣施護奉　詔譯</byline><lb
- n="0658b15" ed="T"/><div type="pin" level="2"><head>學品第二十五</head><lb
- n="0658b16" ed="T"/><ab type="prose">爾時，尊者須菩提白佛言：「世尊！菩薩摩訶薩<lb
+ n="0658b15" ed="T"/><div type='pin' level='2'><head>學品第二十五</head><lb
+ n="0658b16" ed="T"/><ab type='prose'>爾時，尊者須菩提白佛言：「世尊！菩薩摩訶薩<lb
  n="0658b17" ed="T"/>欲學一切智，當云何學？」佛言：「須菩提！菩薩摩<lb
  n="0658b18" ed="T"/>訶薩若盡學則學一切智，若離學則學一切<lb
  n="0658b19" ed="T"/>智。若無生無滅無起無染無性，如虛空法界<lb
@@ -6414,8 +6414,8 @@
  n="0660a08" ed="T"/>不生分別，無知無見亦無所得，以如是不分<lb
  n="0660a09" ed="T"/>別、無知見、無所得故，是名修學般若波羅蜜<lb
  n="0660a10" ed="T"/>多。」</ab></div><lb
- n="0660a11" ed="T"/><div type="pin" level="2"><head>幻喻品第二十六</head><lb
- n="0660a12" ed="T"/><ab type="prose">爾時，帝釋天主即起是念：「若菩薩摩訶薩修<lb
+ n="0660a11" ed="T"/><div type='pin' level='2'><head>幻喻品第二十六</head><lb
+ n="0660a12" ed="T"/><ab type='prose'>爾時，帝釋天主即起是念：「若菩薩摩訶薩修<lb
  n="0660a13" ed="T"/>學是般若波羅蜜多者，尚能勝過一切眾生，<lb
  n="0660a14" ed="T"/>何況成就阿耨多羅三藐三菩提者。是故當<lb
  n="0660a15" ed="T"/>知，若有人愛樂一切智者，彼人得大善利善<lb
@@ -6573,17 +6573,17 @@
  n="0661c22" ed="T"/>所成而無分別。何以故？般若波羅蜜多無分<lb
  n="0661c23" ed="T"/>別故。」</ab></div><lb
  n="0661c24" ed="T"/>
-<ab type="juan" subtype="close">佛說佛母出生三法藏般若波羅蜜多經卷<lb
+<ab type='juan' subtype='close'>佛說佛母出生三法藏般若波羅蜜多經卷<lb
  n="0661c25" ed="T"/>第二十一</ab><pb n="0662a" ed="T" id="T08.0228.0662a"/><lb
  n="0662a01" ed="T"/><lb
  n="0662a02" ed="T"/>
-<ab type="juan" subtype="open">佛說佛母出生三法藏般若<lb
+<ab type='juan' subtype='open'>佛說佛母出生三法藏般若<lb
  n="0662a03" ed="T"/>波羅蜜多經卷第二十二</ab><lb
  n="0662a04" ed="T"/><lb
  n="0662a05" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0662a06" ed="T"/>傳法大師賜紫臣施護奉　詔譯</byline><lb
- n="0662a07" ed="T"/><div type="pin" level="2"><head>堅固義品第二十七</head><lb
- n="0662a08" ed="T"/><ab type="prose">爾時，尊者舍利子謂尊者須菩提言：「若菩薩<lb
+ n="0662a07" ed="T"/><div type='pin' level='2'><head>堅固義品第二十七</head><lb
+ n="0662a08" ed="T"/><ab type='prose'>爾時，尊者舍利子謂尊者須菩提言：「若菩薩<lb
  n="0662a09" ed="T"/>摩訶薩行此甚深般若波羅蜜多者，是行堅<lb
  n="0662a10" ed="T"/>固義。」須菩提言：「如是，如是！舍利子！菩薩摩訶<lb
  n="0662a11" ed="T"/>薩行此甚深般若波羅蜜多者是行堅固義。」<lb
@@ -6741,8 +6741,8 @@
  n="0663c18" ed="T"/>欲於一切眾生中，最上最大最勝最妙、無上<lb
  n="0663c19" ed="T"/>中無上、無等無等等者，當學菩薩摩訶薩行<lb
  n="0663c20" ed="T"/>是般若波羅蜜多。」</ab></div><lb
- n="0663c21" ed="T"/><div type="pin" level="2"><head>散華緣品第二十八之一</head><lb
- n="0663c22" ed="T"/><ab type="prose">爾時，復有三十三天諸天子眾，各各持以<lb
+ n="0663c21" ed="T"/><div type='pin' level='2'><head>散華緣品第二十八之一</head><lb
+ n="0663c22" ed="T"/><ab type='prose'>爾時，復有三十三天諸天子眾，各各持以<lb
  n="0663c23" ed="T"/>曼陀羅華、摩訶曼陀羅華，來詣佛所而散<lb
  n="0663c24" ed="T"/>是華。即時會中有六萬苾芻俱從座起，偏袒<lb
  n="0663c25" ed="T"/>右肩右膝著地，合掌恭敬住立佛前。時，諸苾<lb
@@ -6878,18 +6878,18 @@
  n="0665b10" ed="T"/>等比。何以故？是菩薩摩訶薩不退轉於阿耨<lb
  n="0665b11" ed="T"/>多羅三藐三菩提。」<lb
  n="0665b12" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說佛母出生三法藏般若波羅蜜多經卷<lb
+</ab><ab type='juan' subtype='close'>佛說佛母出生三法藏般若波羅蜜多經卷<lb
  n="0665b13" ed="T"/>第二十二</ab><lb
  n="0665b14" ed="T"/><lb
  n="0665b15" ed="T"/><lb
  n="0665b16" ed="T"/>
-<ab type="juan" subtype="open">佛說佛母出生三法藏般若<lb
+<ab type='juan' subtype='open'>佛說佛母出生三法藏般若<lb
  n="0665b17" ed="T"/>波羅蜜多經卷第二十三<lb
  n="0665b18" ed="T"/><lb
  n="0665b19" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0665b20" ed="T"/>傳法大師賜紫臣施護奉　詔譯</byline><lb
  n="0665b21" ed="T"/>散華緣品第二十八之二</ab><lb
- n="0665b22" ed="T"/><ab type="prose">爾時，世尊說是般若波羅蜜多正法時，於大<lb
+ n="0665b22" ed="T"/><ab type='prose'>爾時，世尊說是般若波羅蜜多正法時，於大<lb
  n="0665b23" ed="T"/>會中現神通相，而此眾會菩薩摩訶薩、苾芻、<lb
  n="0665b24" ed="T"/>苾芻尼、優婆塞、優婆夷、天、龍、夜叉、乾闥婆、阿修<lb
  n="0665b25" ed="T"/>羅、迦樓羅、緊那羅、摩睺羅伽、人非人等，以佛<lb
@@ -7024,8 +7024,8 @@
  n="0667a09" ed="T"/>盡法，如理出生般若波羅蜜多者，譬如香象<lb
  n="0667a10" ed="T"/>菩薩，於阿閦如來、應供、正等正覺所行般若<lb
  n="0667a11" ed="T"/>波羅蜜多及修梵行，我諸菩薩亦復如是。</ab></div><lb
- n="0667a12" ed="T"/><div type="pin" level="2"><head>隨知品第二十九</head><lb
- n="0667a13" ed="T"/><ab type="prose">「復次，須菩提！菩薩摩訶薩應隨知般若波羅<lb
+ n="0667a12" ed="T"/><div type='pin' level='2'><head>隨知品第二十九</head><lb
+ n="0667a13" ed="T"/><ab type='prose'>「復次，須菩提！菩薩摩訶薩應隨知般若波羅<lb
  n="0667a14" ed="T"/>蜜多相。所謂一切法無礙，當知般若波羅<lb
  n="0667a15" ed="T"/>蜜多亦如是。一切法無分別，當知般若波羅<lb
  n="0667a16" ed="T"/>蜜多亦如是。一切法無壞，當知般若波羅蜜<lb
@@ -7119,8 +7119,8 @@
  n="0668a17" ed="T"/>意。須菩提！菩薩摩訶薩若如是行般若波<lb
  n="0668a18" ed="T"/>羅蜜多，即於諸法中難得而得，乃能圓滿一<lb
  n="0668a19" ed="T"/>切功德，生諸佛剎成無上智。</ab></div><lb
- n="0668a20" ed="T"/><div type="pin" level="2"><head>常啼菩薩品第三十之一</head><lb
- n="0668a21" ed="T"/><ab type="prose">「復次，須菩提！諸菩薩摩訶薩欲求般若波羅<lb
+ n="0668a20" ed="T"/><div type='pin' level='2'><head>常啼菩薩品第三十之一</head><lb
+ n="0668a21" ed="T"/><ab type='prose'>「復次，須菩提！諸菩薩摩訶薩欲求般若波羅<lb
  n="0668a22" ed="T"/>蜜多者，當如常啼菩薩摩訶薩往昔於雷<lb
  n="0668a23" ed="T"/>吼音王如來、應供、正等正覺法中修習梵行，<lb
  n="0668a24" ed="T"/>勤求般若波羅蜜多。」須菩提白佛言：「世尊！常<lb
@@ -7190,18 +7190,18 @@
  n="0669a01" ed="T"/>訶薩亦復如是，當於爾時無復餘念，但念何<lb
  n="0669a02" ed="T"/>時於何方處，從誰得聞般若波羅蜜多？」<lb
  n="0669a03" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說佛母出生三法藏般若波羅蜜多經卷<lb
+</ab><ab type='juan' subtype='close'>佛說佛母出生三法藏般若波羅蜜多經卷<lb
  n="0669a04" ed="T"/>第二十三</ab><lb
  n="0669a05" ed="T"/><lb
  n="0669a06" ed="T"/><lb
  n="0669a07" ed="T"/>
-<ab type="juan" subtype="open">佛說佛母出生三法藏般若<lb
+<ab type='juan' subtype='open'>佛說佛母出生三法藏般若<lb
  n="0669a08" ed="T"/>波羅蜜多經卷第二十四<lb
  n="0669a09" ed="T"/><lb
  n="0669a10" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0669a11" ed="T"/>傳法大師賜紫臣施護奉　詔譯</byline><lb
  n="0669a12" ed="T"/>常啼菩薩品第三十之二</ab><lb
- n="0669a13" ed="T"/><ab type="prose">爾時，佛告須菩提：「彼常啼菩薩摩訶薩，如是<lb
+ n="0669a13" ed="T"/><ab type='prose'>爾時，佛告須菩提：「彼常啼菩薩摩訶薩，如是<lb
  n="0669a14" ed="T"/>憂愁啼泣時，忽然見有如來形像住立其前，作<lb
  n="0669a15" ed="T"/>是讚言：『善哉，善哉！善男子！諸佛如來、應供、正<lb
  n="0669a16" ed="T"/>等正覺本行菩薩道時求般若波羅蜜多，亦<lb
@@ -7522,18 +7522,18 @@
  n="0672c12" ed="T"/>薩。我等今時不應乘車前詣其所。』發是言已<lb
  n="0672c13" ed="T"/>即各下車，歡喜肅恭步進於前。<lb
  n="0672c14" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說佛母出生三法藏般若波羅蜜多經卷<lb
+</ab><ab type='juan' subtype='close'>佛說佛母出生三法藏般若波羅蜜多經卷<lb
  n="0672c15" ed="T"/>第二十四</ab><lb
  n="0672c16" ed="T"/><lb
  n="0672c17" ed="T"/><lb
  n="0672c18" ed="T"/>
-<ab type="juan" subtype="open">佛說佛母出生三法藏般若<lb
+<ab type='juan' subtype='open'>佛說佛母出生三法藏般若<lb
  n="0672c19" ed="T"/>波羅蜜多經卷第二十五<lb
  n="0672c20" ed="T"/><lb
  n="0672c21" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0672c22" ed="T"/>傳法大師賜紫臣施護奉　詔譯</byline><lb
  n="0672c23" ed="T"/>常啼菩薩品第三十之三</ab><lb
- n="0672c24" ed="T"/><ab type="prose">「爾時，常啼菩薩摩訶薩與長者女及諸侍女<lb
+ n="0672c24" ed="T"/><ab type='prose'>「爾時，常啼菩薩摩訶薩與長者女及諸侍女<lb
  n="0672c25" ed="T"/>父母眷屬等，導從圍繞，并持種種珍寶供具<lb
  n="0672c26" ed="T"/>入眾香城，一心渴仰欲見法上菩薩摩訶薩。<lb
  n="0672c27" ed="T"/>是時，常啼菩薩摩訶薩等既入城已，詣菩薩<lb
@@ -7618,8 +7618,8 @@
  n="0673c19" ed="T"/>三摩地中所見如來，而不知彼從何所來？去<lb
  n="0673c20" ed="T"/>至何所？唯願大士示教於我，令我常得見<lb
  n="0673c21" ed="T"/>佛世尊。』</ab></div><lb
- n="0673c22" ed="T"/><div type="pin" level="2"><head>法上菩薩品第三十一</head><lb
- n="0673c23" ed="T"/><ab type="prose">「爾時，法上菩薩摩訶薩謂常啼菩薩摩訶薩<lb
+ n="0673c22" ed="T"/><div type='pin' level='2'><head>法上菩薩品第三十一</head><lb
+ n="0673c23" ed="T"/><ab type='prose'>「爾時，法上菩薩摩訶薩謂常啼菩薩摩訶薩<lb
  n="0673c24" ed="T"/>言：『善男子！如來者，無所從來亦無所去。何以<lb
  n="0673c25" ed="T"/>故？真如無動，真如即是如來。不生法無來無<lb
  n="0673c26" ed="T"/>去，不生法即是如來。實際無來無去，實際<lb
@@ -7841,8 +7841,8 @@
  n="0676b10" ed="T"/>尊。須菩提！當知求般若波羅蜜多者，有如是<lb
  n="0676b11" ed="T"/>等功德利益。是故今我法中菩薩摩訶薩諸<lb
  n="0676b12" ed="T"/>求般若波羅蜜多者，亦應如是求。」</ab></div><lb
- n="0676b13" ed="T"/><div type="pin" level="2"><head>囑累品第三十二</head><lb
- n="0676b14" ed="T"/><ab type="prose">爾時，佛告尊者阿難言：「汝今當知，般若波羅<lb
+ n="0676b13" ed="T"/><div type='pin' level='2'><head>囑累品第三十二</head><lb
+ n="0676b14" ed="T"/><ab type='prose'>爾時，佛告尊者阿難言：「汝今當知，般若波羅<lb
  n="0676b15" ed="T"/>蜜多者是諸佛母，出生諸佛一切智智。阿難！<lb
  n="0676b16" ed="T"/>若欲行般若波羅蜜多者，應當於此甚深正<lb
  n="0676b17" ed="T"/>法受持讀誦、記念思惟、為人演說，乃至書寫<lb
@@ -7872,6 +7872,6 @@
  n="0676c12" ed="T"/>并帝釋天主等，乃至一切世間天、人、阿修羅<lb
  n="0676c13" ed="T"/>等，聞佛所說，皆大歡喜，信受奉行。</ab></div><lb
  n="0676c14" ed="T"/>
-<ab type="juan" subtype="close">佛說佛母出生三法藏般若波羅蜜多經卷<lb
+<ab type='juan' subtype='close'>佛說佛母出生三法藏般若波羅蜜多經卷<lb
  n="0676c15" ed="T"/>第二十五</ab></div>
 </body></text></TEI>

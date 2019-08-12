@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0046</idno>
                 </bibl>
@@ -43,11 +43,11 @@
  n="0835c09" ed="T"/><lb
  n="0835c10" ed="T"/><lb
  n="0835c11" ed="T"/><lb
- n="0835c12" ed="T"/><div type="jing" level="1">
-<ab type="juan" subtype="open">佛說阿那律八念經</ab><lb
+ n="0835c12" ed="T"/><div type='jing' level='1'>
+<ab type='juan' subtype='open'>佛說阿那律八念經</ab><lb
  n="0835c13" ed="T"/><lb
  n="0835c14" ed="T"/><byline>後漢西域三藏支曜譯</byline><lb
- n="0835c15" ed="T"/><ab type="prose">聞如是：一時，佛在誓牧山求師樹下。賢者<lb
+ n="0835c15" ed="T"/><ab type='prose'>聞如是：一時，佛在誓牧山求師樹下。賢者<lb
  n="0835c16" ed="T"/>阿那律，在彼禪空澤中坐思惟言：「道法少欲，<lb
  n="0835c17" ed="T"/>多欲非道；道法知足，無厭非道；道法隱處，樂<lb
  n="0835c18" ed="T"/>眾非道；道法精進，懈怠非道；道法制心，放蕩<lb
@@ -141,7 +141,7 @@
  n="0836c19" ed="T"/>說經，開導其意受行三月，漏盡意解，得三治<lb
  n="0836c20" ed="T"/>以為證已，自覺得羅漢，便說偈言：<lb
  n="0836c21" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「夫欲而無厭，　　樂眾以放意，　　<lb
  n="0836c22" ed="T"/>是行以致苦，　　修惡多所著。　　<lb
  n="0836c23" ed="T"/>少欲知道行，　　知慚不自見，　　<lb
@@ -154,5 +154,5 @@
  n="0837a01" ed="T"/>當於維沙聚，　　竹園般泥洹。」　　
 </ab><lb
  n="0837a02" ed="T"/>
-<ab type="juan" subtype="close">佛說阿那律八念經</ab></div>
+<ab type='juan' subtype='close'>佛說阿那律八念經</ab></div>
 </body></text></TEI>

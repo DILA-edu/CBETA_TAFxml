@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0071</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0876b21" ed="T"/><lb
  n="0876b22" ed="T"/><lb
- n="0876b23" ed="T"/><div type="jing" level="1"><lb
+ n="0876b23" ed="T"/><div type='jing' level='1'><lb
  n="0876b24" ed="T"/>
-<ab type="juan" subtype="open">梵志頞波羅延問種尊經</ab><lb
+<ab type='juan' subtype='open'>梵志頞波羅延問種尊經</ab><lb
  n="0876b25" ed="T"/><lb
  n="0876b26" ed="T"/><byline>東晉西域三藏竺曇無蘭譯</byline><lb
- n="0876b27" ed="T"/><ab type="prose">聞如是：一時，佛在舍衛國祇樹給孤獨園，時<lb
+ n="0876b27" ed="T"/><ab type='prose'>聞如是：一時，佛在舍衛國祇樹給孤獨園，時<lb
  n="0876b28" ed="T"/>有五百比丘俱。舍衛城中有婆羅門五百人，<lb
  n="0876b29" ed="T"/>五百人相將俱出城，自至其田廬，相與共坐<pb n="0876c" ed="T" id="T01.0071.0876c"/><lb
  n="0876c01" ed="T"/>講議言：「本初起地上人時，皆是我曹婆羅門<lb
@@ -223,5 +223,5 @@
  n="0878b26" ed="T"/>門，莫有恨心，於我曹所請，歸相撿斂。」佛言<lb
  n="0878b27" ed="T"/>「善！若曹朝來不食。」皆起，以頭面著佛足，去。<lb
  n="0878b28" ed="T"/>
-</ab><ab type="juan" subtype="close">梵志頞波羅延問種尊經</ab></div>
+</ab><ab type='juan' subtype='close'>梵志頞波羅延問種尊經</ab></div>
 </body></text></TEI>

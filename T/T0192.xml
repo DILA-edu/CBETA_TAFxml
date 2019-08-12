@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T04</biblScope>
                     <idno type="Taisho">T04n0192</idno>
                 </bibl>
@@ -39,17 +39,17 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0001a" ed="T" id="T04.0192.0001a"/><lb
  n="0001a01" ed="T"/><lb
  n="0001a02" ed="T"/><lb
  n="0001a03" ed="T"/>
-<ab type="juan" subtype="open">佛所行讚卷第一</ab><lb
+<ab type='juan' subtype='open'>佛所行讚卷第一</ab><lb
  n="0001a04" ed="T"/><lb
  n="0001a05" ed="T"/><byline>馬鳴菩薩造</byline><lb
  n="0001a06" ed="T"/><byline>北涼天竺三藏曇無讖譯</byline><lb
- n="0001a07" ed="T"/><div type="pin" level="2"><head>生品第一</head><lb
- n="0001a08" ed="T"/><ab type="verse">
+ n="0001a07" ed="T"/><div type='pin' level='2'><head>生品第一</head><lb
+ n="0001a08" ed="T"/><ab type='verse'>
 甘蔗之苗裔，　　釋迦無勝王，　　<lb
  n="0001a09" ed="T"/>淨財德純備，　　故名曰淨飯，　　<lb
  n="0001a10" ed="T"/>群生樂瞻仰，　　猶如初生月。　　<lb
@@ -303,8 +303,8 @@
  n="0003c26" ed="T"/>王今生太子，　　迦毘羅衛國，　　<lb
  n="0003c27" ed="T"/>一切諸人民，　　歡喜亦如是。　　
 </ab></div><lb
- n="0003c28" ed="T"/><div type="pin" level="2"><head>佛所行讚處宮品第二</head><lb
- n="0003c29" ed="T"/><ab type="verse">
+ n="0003c28" ed="T"/><div type='pin' level='2'><head>佛所行讚處宮品第二</head><lb
+ n="0003c29" ed="T"/><ab type='verse'>
 時白淨王家，　　以生聖子故，　　<pb n="0004a" ed="T" id="T04.0192.0004a"/><lb
  n="0004a01" ed="T"/>親族名子弟，　　群臣悉忠良。　　<lb
  n="0004a02" ed="T"/>象馬寶車輿，　　國財七寶器，　　<lb
@@ -428,8 +428,8 @@
  n="0005b04" ed="T"/>要習世榮樂，　　生子繼宗嗣，　　<lb
  n="0005b05" ed="T"/>然後入山林，　　修行寂默道。　　
 </ab></div><lb
- n="0005b06" ed="T"/><div type="pin" level="2"><head>佛所行讚厭患品第三</head><lb
- n="0005b07" ed="T"/><ab type="verse">
+ n="0005b06" ed="T"/><div type='pin' level='2'><head>佛所行讚厭患品第三</head><lb
+ n="0005b07" ed="T"/><ab type='verse'>
 外有諸園林，　　流泉清涼池，　　<lb
  n="0005b08" ed="T"/>眾雜華果樹，　　行列垂玄蔭。　　<lb
  n="0005b09" ed="T"/>異類諸奇鳥，　　奮飛戲其中，　　<lb
@@ -563,8 +563,8 @@
  n="0006c21" ed="T"/>靈禽雜奇獸，　　飛走欣和鳴，　　<lb
  n="0006c22" ed="T"/>光耀悅耳目，　　猶天難陀園。　　
 </ab></div><lb
- n="0006c23" ed="T"/><div type="pin" level="2"><head>佛所行讚離欲品第四</head><lb
- n="0006c24" ed="T"/><ab type="verse">
+ n="0006c23" ed="T"/><div type='pin' level='2'><head>佛所行讚離欲品第四</head><lb
+ n="0006c24" ed="T"/><ab type='verse'>
 太子入園林，　　眾女來奉迎，　　<lb
  n="0006c25" ed="T"/>並生希遇想，　　競媚進幽誠，　　<lb
  n="0006c26" ed="T"/>各盡伎姿態，　　供侍隨所宜。　　<lb
@@ -704,8 +704,8 @@
  n="0008b15" ed="T"/>即召諸群臣，　　問欲設何方？　　<lb
  n="0008b16" ed="T"/>咸言非五欲，　　所能留其心。　　
 </ab></div><lb
- n="0008b17" ed="T"/><div type="pin" level="2"><head>佛所行讚出城品第五</head><lb
- n="0008b18" ed="T"/><ab type="verse">
+ n="0008b17" ed="T"/><div type='pin' level='2'><head>佛所行讚出城品第五</head><lb
+ n="0008b18" ed="T"/><ab type='verse'>
 王復增種種，　　勝妙五欲具，　　<lb
  n="0008b19" ed="T"/>晝夜以娛樂，　　冀悅太子心。　　<lb
  n="0008b20" ed="T"/>太子深厭離，　　了無愛樂情，　　<lb
@@ -855,7 +855,7 @@
  n="0010a19" ed="T"/>誑惑男子心。　　我今已覺了，　　<lb
  n="0010a20" ed="T"/>決定出無疑。」　　
 </ab><lb
- n="0010a21" ed="T"/><ab type="verse">
+ n="0010a21" ed="T"/><ab type='verse'>
 爾時淨居天，　　來下為開門。　　<lb
  n="0010a22" ed="T"/>太子時徐起，　　出諸婇女間，　　<lb
  n="0010a23" ed="T"/>踟蹰於內閣，　　而告車匿言：　　<lb
@@ -901,16 +901,16 @@
  n="0010c05" ed="T"/>東方猶未曉，　　已進三由旬。　　
 </ab></div><lb
  n="0010c06" ed="T"/>
-<ab type="juan" subtype="close">佛所行讚卷第一</ab><lb
+<ab type='juan' subtype='close'>佛所行讚卷第一</ab><lb
  n="0010c07" ed="T"/><lb
  n="0010c08" ed="T"/><lb
  n="0010c09" ed="T"/>
-<ab type="juan" subtype="open">佛所行讚卷第二</ab><lb
+<ab type='juan' subtype='open'>佛所行讚卷第二</ab><lb
  n="0010c10" ed="T"/><lb
  n="0010c11" ed="T"/><byline>馬鳴菩薩造</byline><lb
  n="0010c12" ed="T"/><byline>北涼天竺三藏曇無讖譯</byline><lb
- n="0010c13" ed="T"/><div type="pin" level="2"><head>車匿還品第六</head><lb
- n="0010c14" ed="T"/><ab type="verse">
+ n="0010c13" ed="T"/><div type='pin' level='2'><head>車匿還品第六</head><lb
+ n="0010c14" ed="T"/><ab type='verse'>
 須臾夜已過，　　眾生眼光出，　　<lb
  n="0010c15" ed="T"/>顧見林樹間，　　跋伽仙人處。　　<lb
  n="0010c16" ed="T"/>林流極清曠，　　禽獸親附人，　　<lb
@@ -1066,8 +1066,8 @@
  n="0012b21" ed="T"/>或沈思失魂，　　或俯仰垂身，　　<lb
  n="0012b22" ed="T"/>或倒而復起，　　悲泣隨路還。　　
 </ab></div><lb
- n="0012b23" ed="T"/><div type="pin" level="2"><head>佛所行讚入苦行林品第七</head><lb
- n="0012b24" ed="T"/><ab type="verse">
+ n="0012b23" ed="T"/><div type='pin' level='2'><head>佛所行讚入苦行林品第七</head><lb
+ n="0012b24" ed="T"/><ab type='verse'>
 太子遣車匿，　　將入仙人處，　　<lb
  n="0012b25" ed="T"/>端嚴身光曜，　　普照苦行林。　　<lb
  n="0012b26" ed="T"/>具足一切義，　　隨義而之彼，　　<lb
@@ -1217,8 +1217,8 @@
  n="0014a25" ed="T"/>菩薩領其言，　　與諸仙人別，　　<lb
  n="0014a26" ed="T"/>彼諸仙人眾，　　右繞各辭還。　　
 </ab></div><lb
- n="0014a27" ed="T"/><div type="pin" level="2"><head>佛所行讚合宮憂悲品第八</head><lb
- n="0014a28" ed="T"/><ab type="verse">
+ n="0014a27" ed="T"/><div type='pin' level='2'><head>佛所行讚合宮憂悲品第八</head><lb
+ n="0014a28" ed="T"/><ab type='verse'>
 車匿牽馬還，　　望絕心悲塞，　　<lb
  n="0014a29" ed="T"/>隨路號泣行，　　不能自開割。　　<pb n="0014b" ed="T" id="T04.0192.0014b"/><lb
  n="0014b01" ed="T"/>先與太子俱，　　一宿之徑路，　　<lb
@@ -1410,8 +1410,8 @@
  n="0016b13" ed="T"/>二人既受命，　　王與諸眷屬，　　<lb
  n="0016b14" ed="T"/>其心小清涼，　　氣宣飡飲通。　　
 </ab></div><lb
- n="0016b15" ed="T"/><div type="pin" level="2"><head>佛所行讚推求太子品第九</head><lb
- n="0016b16" ed="T"/><ab type="verse">
+ n="0016b15" ed="T"/><div type='pin' level='2'><head>佛所行讚推求太子品第九</head><lb
+ n="0016b16" ed="T"/><ab type='verse'>
 王正以憂悲，　　感切師大臣，　　<lb
  n="0016b17" ed="T"/>如鞭策良馬，　　馳駛若迅流，　　<lb
  n="0016b18" ed="T"/>身疲不辭勞，　　逕詣苦行林。　　<lb
@@ -1639,16 +1639,16 @@
  n="0019a08" ed="T"/>隱身密伺候，　　然後捨而還。　　
 </ab></div><lb
  n="0019a09" ed="T"/>
-<ab type="juan" subtype="close">佛所行讚卷第二</ab><lb
+<ab type='juan' subtype='close'>佛所行讚卷第二</ab><lb
  n="0019a10" ed="T"/><lb
  n="0019a11" ed="T"/><lb
  n="0019a12" ed="T"/>
-<ab type="juan" subtype="open">佛所行讚卷第三</ab><lb
+<ab type='juan' subtype='open'>佛所行讚卷第三</ab><lb
  n="0019a13" ed="T"/><lb
  n="0019a14" ed="T"/><byline>馬鳴菩薩造</byline><lb
  n="0019a15" ed="T"/><byline>北涼天竺三藏曇無讖譯</byline><lb
- n="0019a16" ed="T"/><div type="pin" level="2"><head>瓶沙王詣太子品第十</head><lb
- n="0019a17" ed="T"/><ab type="verse">
+ n="0019a16" ed="T"/><div type='pin' level='2'><head>瓶沙王詣太子品第十</head><lb
+ n="0019a17" ed="T"/><ab type='verse'>
 太子辭王師，　　及正法大臣，　　<lb
  n="0019a18" ed="T"/>冒浪濟恒河，　　路由靈鷲巖。　　<lb
  n="0019a19" ed="T"/>藏根於五山，　　特秀峙中亭，　　<lb
@@ -1751,8 +1751,8 @@
  n="0020a29" ed="T"/>如是瓶沙王，　　種種方便說，　　<pb n="0020b" ed="T" id="T04.0192.0020b"/><lb
  n="0020b01" ed="T"/>太子志堅固，　　不動如須彌。　　
 </ab></div><lb
- n="0020b02" ed="T"/><div type="pin" level="2"><head>佛所行讚答瓶沙王品第十一</head><lb
- n="0020b03" ed="T"/><ab type="verse">
+ n="0020b02" ed="T"/><div type='pin' level='2'><head>佛所行讚答瓶沙王品第十一</head><lb
+ n="0020b03" ed="T"/><ab type='verse'>
 瓶沙王隨順，　　安慰勸請已，　　<lb
  n="0020b04" ed="T"/>太子敬答謝：　　「深感於來言，　　<lb
  n="0020b05" ed="T"/>善得世間宜，　　所說不乖理，　　<lb
@@ -1938,8 +1938,8 @@
  n="0022b11" ed="T"/>王與諸群屬，　　合掌自隨送，　　<lb
  n="0022b12" ed="T"/>咸起奇特想，　　而還王舍城。　　
 </ab></div><lb
- n="0022b13" ed="T"/><div type="pin" level="2"><head>佛所行讚阿羅藍欝頭藍品第十二</head><lb
- n="0022b14" ed="T"/><ab type="verse">
+ n="0022b13" ed="T"/><div type='pin' level='2'><head>佛所行讚阿羅藍欝頭藍品第十二</head><lb
+ n="0022b14" ed="T"/><ab type='verse'>
 甘蔗月光胄，　　到彼寂靜林，　　<lb
  n="0022b15" ed="T"/>敬詣於牟尼，　　大仙阿羅藍。　　<lb
  n="0022b16" ed="T"/>迦藍玄族子，　　遠見菩薩來，　　<lb
@@ -2174,8 +2174,8 @@
  n="0025a13" ed="T"/>一切諸禽獸，　　寂靜悉無聲，　　<lb
  n="0025a14" ed="T"/>斯皆是菩薩，　　必成覺道相。　　
 </ab></div><lb
- n="0025a15" ed="T"/><div type="pin" level="2"><head>佛所行讚破魔品第十三</head><lb
- n="0025a16" ed="T"/><ab type="verse">
+ n="0025a15" ed="T"/><div type='pin' level='2'><head>佛所行讚破魔品第十三</head><lb
+ n="0025a16" ed="T"/><ab type='verse'>
 仙王族大仙，　　於菩提樹下，　　<lb
  n="0025a17" ed="T"/>建立堅固誓，　　要成解脫道。　　<lb
  n="0025a18" ed="T"/>鬼龍諸天眾，　　悉皆大歡喜，　　<lb
@@ -2327,8 +2327,8 @@
  n="0026c19" ed="T"/>月明眾星朗，　　無復諸闇障，　　<lb
  n="0026c20" ed="T"/>空中雨天花，　　以供養菩薩。　　
 </ab></div><lb
- n="0026c21" ed="T"/><div type="pin" level="2"><head>佛所行讚阿惟三菩提品第十四</head><lb
- n="0026c22" ed="T"/><ab type="verse">
+ n="0026c21" ed="T"/><div type='pin' level='2'><head>佛所行讚阿惟三菩提品第十四</head><lb
+ n="0026c22" ed="T"/><ab type='verse'>
 菩薩降魔已，　　志固心安隱，　　<lb
  n="0026c23" ed="T"/>求盡第一義，　　入於深妙禪。　　<lb
  n="0026c24" ed="T"/>自在諸三昧，　　次第現在前，　　<lb
@@ -2507,8 +2507,8 @@
  n="0028c23" ed="T"/>為度眾生故，　　往詣迦尸城，　　<lb
  n="0028c24" ed="T"/>步步獸王顧，　　顧瞻菩提林。　　
 </ab></div><lb
- n="0028c25" ed="T"/><div type="pin" level="2"><head>佛所行讚轉法輪品第十五</head><lb
- n="0028c26" ed="T"/><ab type="verse">
+ n="0028c25" ed="T"/><div type='pin' level='2'><head>佛所行讚轉法輪品第十五</head><lb
+ n="0028c26" ed="T"/><ab type='verse'>
 如來善寂靜，　　光明顯照曜，　　<lb
  n="0028c27" ed="T"/>嚴儀獨遊步，　　猶若大眾隨。　　<lb
  n="0028c28" ed="T"/>道逢一梵志，　　其名憂波迦，　　<lb
@@ -2665,16 +2665,16 @@
  n="0030c05" ed="T"/>諸天奏天樂，　　嘉歎未曾有。　　
 </ab></div><lb
  n="0030c06" ed="T"/>
-<ab type="juan" subtype="close">佛所行讚卷第三</ab><lb
+<ab type='juan' subtype='close'>佛所行讚卷第三</ab><lb
  n="0030c07" ed="T"/><lb
  n="0030c08" ed="T"/><lb
  n="0030c09" ed="T"/>
-<ab type="juan" subtype="open">佛所行讚卷第四</ab><lb
+<ab type='juan' subtype='open'>佛所行讚卷第四</ab><lb
  n="0030c10" ed="T"/><lb
  n="0030c11" ed="T"/><byline>馬鳴菩薩造</byline><lb
  n="0030c12" ed="T"/><byline>北涼天竺三藏曇無讖譯</byline><lb
- n="0030c13" ed="T"/><div type="pin" level="2"><head>瓶沙王諸弟子品第十六</head><lb
- n="0030c14" ed="T"/><ab type="verse">
+ n="0030c13" ed="T"/><div type='pin' level='2'><head>瓶沙王諸弟子品第十六</head><lb
+ n="0030c14" ed="T"/><ab type='verse'>
 時彼五比丘，　　阿濕波誓等，　　<lb
  n="0030c15" ed="T"/>聞彼知法聲，　　慨然而自愧，　　<lb
  n="0030c16" ed="T"/>合掌而加敬，　　仰瞻於尊顏。　　<lb
@@ -2883,8 +2883,8 @@
  n="0033a16" ed="T"/>王眷屬人民，　　百千諸鬼神，　　<lb
  n="0033a17" ed="T"/>聞說甘露法，　　亦隨離諸塵。　　
 </ab></div><lb
- n="0033a18" ed="T"/><div type="pin" level="2"><head>佛所行讚大弟子出家品第十七</head><lb
- n="0033a19" ed="T"/><ab type="verse">
+ n="0033a18" ed="T"/><div type='pin' level='2'><head>佛所行讚大弟子出家品第十七</head><lb
+ n="0033a19" ed="T"/><ab type='verse'>
 爾時瓶沙王，　　稽首請世尊，　　<lb
  n="0033a20" ed="T"/>遷住於竹林；　　哀受故默然。　　<lb
  n="0033a21" ed="T"/>王已見真諦，　　奉拜而還宮，　　<lb
@@ -2989,8 +2989,8 @@
  n="0034b04" ed="T"/>猶三星布列，　　三十三司弟，　　<lb
  n="0034b05" ed="T"/>列侍於三五，　　三侍佛亦然。　　
 </ab></div><lb
- n="0034b06" ed="T"/><div type="pin" level="2"><head>佛所行讚化給孤獨品第十八</head><lb
- n="0034b07" ed="T"/><ab type="verse">
+ n="0034b06" ed="T"/><div type='pin' level='2'><head>佛所行讚化給孤獨品第十八</head><lb
+ n="0034b07" ed="T"/><ab type='verse'>
 時有大長者，　　名曰給孤獨，　　<lb
  n="0034b08" ed="T"/>巨富財無量，　　廣施濟貧乏。　　<lb
  n="0034b09" ed="T"/>遠從於北方，　　憍薩羅國來，　　<lb
@@ -3195,8 +3195,8 @@
  n="0036c05" ed="T"/>長者乘斯福，　　壽盡上昇天，　　<lb
  n="0036c06" ed="T"/>子孫繼其業，　　歷世種福田。　　
 </ab></div><lb
- n="0036c07" ed="T"/><div type="pin" level="2"><head>佛所行讚父子相見品第十九</head><lb
- n="0036c08" ed="T"/><ab type="verse">
+ n="0036c07" ed="T"/><div type='pin' level='2'><head>佛所行讚父子相見品第十九</head><lb
+ n="0036c08" ed="T"/><ab type='verse'>
 佛於摩竭國，　　化種種異道，　　<lb
  n="0036c09" ed="T"/>悉從一味法，　　如日映眾星。　　<lb
  n="0036c10" ed="T"/>出彼五山城，　　與千弟子俱，　　<lb
@@ -3352,8 +3352,8 @@
  n="0038b15" ed="T"/>入貧里乞食，　　精麤任所得，　　<lb
  n="0038b16" ed="T"/>巨細不擇門，　　滿鉢歸山林。　　
 </ab></div><lb
- n="0038b17" ed="T"/><div type="pin" level="2"><head>佛所行讚受祇桓精舍品第二十</head><lb
- n="0038b18" ed="T"/><ab type="verse">
+ n="0038b17" ed="T"/><div type='pin' level='2'><head>佛所行讚受祇桓精舍品第二十</head><lb
+ n="0038b18" ed="T"/><ab type='verse'>
 世尊已開化，　　迦維羅衛人，　　<lb
  n="0038b19" ed="T"/>隨緣度已畢，　　與大眾俱行，　　<lb
  n="0038b20" ed="T"/>往憍薩羅國，　　詣波斯匿王。　　<lb
@@ -3484,8 +3484,8 @@
  n="0039c29" ed="T"/>無量諸天人，　　乘宮殿隨送，　　<pb n="0040a" ed="T" id="T04.0192.0040a"/><lb
  n="0040a01" ed="T"/>閻浮提君民，　　合掌而仰瞻。　　
 </ab></div><lb
- n="0040a02" ed="T"/><div type="pin" level="2"><head>佛所行讚守財醉象調伏品第二十一</head><lb
- n="0040a03" ed="T"/><ab type="verse">
+ n="0040a02" ed="T"/><div type='pin' level='2'><head>佛所行讚守財醉象調伏品第二十一</head><lb
+ n="0040a03" ed="T"/><ab type='verse'>
 天上教化母，　　及餘諸天眾，　　<lb
  n="0040a04" ed="T"/>還遊於人中，　　隨緣而行化。　　<lb
  n="0040a05" ed="T"/>樹提迦耆婆，　　首羅輸盧那，　　<lb
@@ -3604,8 +3604,8 @@
  n="0041b02" ed="T"/>彼提婆達兜，　　為惡自纏縛，　　<lb
  n="0041b03" ed="T"/>先神力飛行，　　今墮無擇獄。　　
 </ab></div><lb
- n="0041b04" ed="T"/><div type="pin" level="2"><head>佛所行讚菴摩羅女見佛品第二十二</head><lb
- n="0041b05" ed="T"/><ab type="verse">
+ n="0041b04" ed="T"/><div type='pin' level='2'><head>佛所行讚菴摩羅女見佛品第二十二</head><lb
+ n="0041b05" ed="T"/><ab type='verse'>
 世尊廣化畢，　　而生涅槃心，　　<lb
  n="0041b06" ed="T"/>發於王舍城，　　詣巴連弗邑。　　<lb
  n="0041b07" ed="T"/>到已住於彼，　　婆吒利支提，　　<lb
@@ -3704,16 +3704,16 @@
  n="0042b13" ed="T"/>視聽轉增明，　　作禮而還家。　　
 </ab></div><lb
  n="0042b14" ed="T"/>
-<ab type="juan" subtype="close">佛所行讚卷第四</ab><lb
+<ab type='juan' subtype='close'>佛所行讚卷第四</ab><lb
  n="0042b15" ed="T"/><lb
  n="0042b16" ed="T"/><lb
  n="0042b17" ed="T"/>
-<ab type="juan" subtype="open">佛所行讚卷第五</ab><lb
+<ab type='juan' subtype='open'>佛所行讚卷第五</ab><lb
  n="0042b18" ed="T"/><lb
  n="0042b19" ed="T"/><byline>馬鳴菩薩造</byline><lb
  n="0042b20" ed="T"/><byline>北涼天竺三藏曇無讖譯</byline><lb
- n="0042b21" ed="T"/><div type="pin" level="2"><head>神力住壽品第二十三</head><lb
- n="0042b22" ed="T"/><ab type="verse">
+ n="0042b21" ed="T"/><div type='pin' level='2'><head>神力住壽品第二十三</head><lb
+ n="0042b22" ed="T"/><ab type='verse'>
 爾時鞞舍離，　　諸離車長者，　　<lb
  n="0042b23" ed="T"/>聞世尊入國，　　住菴摩羅園。　　<lb
  n="0042b24" ed="T"/>有乘素車輿，　　素蓋素衣服，　　<lb
@@ -3842,8 +3842,8 @@
  n="0044a02" ed="T"/>身如朽敗車，　　無復往來因，　　<lb
  n="0044a03" ed="T"/>已脫於三有，　　如鳥破卵生。」　　
 </ab></div><lb
- n="0044a04" ed="T"/><div type="pin" level="2"><head>佛所行讚離車辭別品第二十四</head><lb
- n="0044a05" ed="T"/><ab type="verse">
+ n="0044a04" ed="T"/><div type='pin' level='2'><head>佛所行讚離車辭別品第二十四</head><lb
+ n="0044a05" ed="T"/><ab type='verse'>
 尊者阿難陀，　　見地普大動，　　<lb
  n="0044a06" ed="T"/>心驚身毛竪，　　問佛何因緣？　　<lb
  n="0044a07" ed="T"/>佛告阿難陀：　　「我住三月壽，　　<lb
@@ -3951,8 +3951,8 @@
  n="0045a22" ed="T"/>徘徊而遲遲，　　悵怏隨路行，　　<lb
  n="0045a23" ed="T"/>如人喪其親，　　葬畢長訣還。　　
 </ab></div><lb
- n="0045a24" ed="T"/><div type="pin" level="2"><head>佛所行讚涅槃品第二十五</head><lb
- n="0045a25" ed="T"/><ab type="verse">
+ n="0045a24" ed="T"/><div type='pin' level='2'><head>佛所行讚涅槃品第二十五</head><lb
+ n="0045a25" ed="T"/><ab type='verse'>
 佛至涅槃處，　　鞞舍離空虛，　　<lb
  n="0045a26" ed="T"/>猶如夜雲冥，　　星月失光明。　　<lb
  n="0045a27" ed="T"/>國土先安樂，　　而今頓凋悴，　　<lb
@@ -4121,8 +4121,8 @@
  n="0047a16" ed="T"/>時諸力士眾，　　聞佛慈悲教，　　<lb
  n="0047a17" ed="T"/>內感而收淚，　　強自抑止歸。　　
 </ab></div><lb
- n="0047a18" ed="T"/><div type="pin" level="2"><head>佛所行讚大般涅槃品第二十六</head><lb
- n="0047a19" ed="T"/><ab type="verse">
+ n="0047a18" ed="T"/><div type='pin' level='2'><head>佛所行讚大般涅槃品第二十六</head><lb
+ n="0047a19" ed="T"/><ab type='verse'>
 爾時有梵志，　　名須跋陀羅，　　<lb
  n="0047a20" ed="T"/>賢德悉備足，　　淨戒護眾生。　　<lb
  n="0047a21" ed="T"/>少稟於邪見，　　修外道出家，　　<lb
@@ -4386,8 +4386,8 @@
  n="0050a18" ed="T"/>虛空無日月，　　蓮花遭嚴霜，　　<lb
  n="0050a19" ed="T"/>如來般涅槃，　　世間悴亦然。　　
 </ab></div><lb
- n="0050a20" ed="T"/><div type="pin" level="2"><head>佛所行讚歎涅槃品第二十七</head><lb
- n="0050a21" ed="T"/><ab type="verse">
+ n="0050a20" ed="T"/><div type='pin' level='2'><head>佛所行讚歎涅槃品第二十七</head><lb
+ n="0050a21" ed="T"/><ab type='verse'>
 時有一天子，　　乘千白鵠宮，　　<lb
  n="0050a22" ed="T"/>於上虛空中，　　觀佛般涅槃。　　<lb
  n="0050a23" ed="T"/>普為諸天眾，　　廣說無常偈：　　<lb
@@ -4594,8 +4594,8 @@
  n="0052b21" ed="T"/>持舍利入城，　　巷路普供養，　　<lb
  n="0052b22" ed="T"/>置於高樓閣，　　天人悉奉事。　　
 </ab></div><lb
- n="0052b23" ed="T"/><div type="pin" level="2"><head>佛所行讚分舍利品第二十八</head><lb
- n="0052b24" ed="T"/><ab type="verse">
+ n="0052b23" ed="T"/><div type='pin' level='2'><head>佛所行讚分舍利品第二十八</head><lb
+ n="0052b24" ed="T"/><ab type='verse'>
 彼諸力士眾，　　奉事於舍利，　　<lb
  n="0052b25" ed="T"/>以勝妙香花，　　興無上供養。　　<lb
  n="0052b26" ed="T"/>時七國諸王，　　承佛已滅度，　　<lb
@@ -4744,7 +4744,7 @@
  n="0054a24" ed="T"/>如佛說而說，　　稱如是我聞。　　<lb
  n="0054a25" ed="T"/>合坐悉涕流，　　
 </ab><lb
- n="0054a26" ed="T"/><ab type="verse">
+ n="0054a26" ed="T"/><ab type='verse'>
 感此我聞聲，　　如法如其時，　　<lb
  n="0054a27" ed="T"/>如處如其人。　　隨說而筆受，　　<lb
  n="0054a28" ed="T"/>究竟成經藏，　　勤方便修學，　　<lb
@@ -4774,7 +4774,7 @@
  n="0054b23" ed="T"/>信者亦隨安，　　是故諸天人，　　<lb
  n="0054b24" ed="T"/>悉應常供養。　　
 </ab><lb
- n="0054b25" ed="T"/><ab type="verse">
+ n="0054b25" ed="T"/><ab type='verse'>
 第一大慈悲，　　通達第一義，　　<lb
  n="0054b26" ed="T"/>度一切眾生，　　孰聞而不感。　　<lb
  n="0054b27" ed="T"/>生老病死苦，　　世間苦無過，　　<lb
@@ -4789,5 +4789,5 @@
  n="0054c07" ed="T"/>隨順佛經說，　　以濟諸世間。　　
 </ab></div><lb
  n="0054c08" ed="T"/>
-<ab type="juan" subtype="close">佛所行讚卷第五</ab></div>
+<ab type='juan' subtype='close'>佛所行讚卷第五</ab></div>
 </body></text></TEI>

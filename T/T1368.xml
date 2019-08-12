@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1368</idno>
                 </bibl>
@@ -42,18 +42,18 @@
         <body><lb
  n="0885b16" ed="T"/><lb
  n="0885b17" ed="T"/><lb
- n="0885b18" ed="T"/><div type="jing" level="1"><lb
+ n="0885b18" ed="T"/><div type='jing' level='1'><lb
  n="0885b19" ed="T"/>
-<ab type="juan" subtype="open">佛說大七寶陀羅尼經</ab><lb
+<ab type='juan' subtype='open'>佛說大七寶陀羅尼經</ab><lb
  n="0885b20" ed="T"/><lb
  n="0885b21" ed="T"/><byline>失譯人名今附梁錄</byline><lb
- n="0885b22" ed="T"/><ab type="prose">如是我聞。一時佛在祇樹給孤窮精舍。佛告<lb
+ n="0885b22" ed="T"/><ab type='prose'>如是我聞。一時佛在祇樹給孤窮精舍。佛告<lb
  n="0885b23" ed="T"/>阿難。汝受持此大七寶陀羅尼呪。爾時世尊<lb
  n="0885b24" ed="T"/>即便說之。<lb
  n="0885b25" ed="T"/></ab>
-<ab type="dharani">寫地也貸曇　坻闍律提　波羅若　波羅<lb
+<ab type='dharani'>寫地也貸曇　坻闍律提　波羅若　波羅<lb
  n="0885b26" ed="T"/>　式叉仇拏　比茶</ab>
-<ab type="prose">阿難若有受持讀誦修<lb
+<ab type='prose'>阿難若有受持讀誦修<lb
  n="0885b27" ed="T"/>行此陀羅尼呪。盡其形命一切怨仇能令歡<lb
  n="0885b28" ed="T"/>喜。火不能燒刀不能傷水不能溺。無方道鬼<lb
  n="0885b29" ed="T"/>魅所持。若天龍阿修羅乾闥婆乃至人非人<pb n="0885c" id="T21.1368.0885c" ed="T"/><lb
@@ -64,5 +64,5 @@
  n="0885c05" ed="T"/>迦牟尼精進。令一切眾生悉除怖畏。令得安<lb
  n="0885c06" ed="T"/>吉。爾時阿難聞佛所說歡喜奉行。<lb
  n="0885c07" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說大七寶陀羅尼經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說大七寶陀羅尼經</ab></div>
 </body></text></TEI>

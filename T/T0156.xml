@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T03</biblScope>
                     <idno type="Taisho">T03n0156</idno>
                 </bibl>
@@ -39,17 +39,17 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0124a15" ed="T"/><lb
  n="0124a16" ed="T"/><lb
  n="0124a17" ed="T"/><lb
  n="0124a18" ed="T"/>
-<ab type="juan" subtype="open">大方便佛報恩經卷第一</ab><lb
+<ab type='juan' subtype='open'>大方便佛報恩經卷第一</ab><lb
  n="0124a19" ed="T"/><lb
  n="0124a20" ed="T"/><byline>失譯人名在後漢錄</byline><lb
- n="0124a21" ed="T"/><div type="pin" level="2"><head>序品第一</head><lb
- n="0124a22" ed="T"/><ab type="prose">如是我聞：一時，佛住王舍城耆闍崛山中，<lb
+ n="0124a21" ed="T"/><div type='pin' level='2'><head>序品第一</head><lb
+ n="0124a22" ed="T"/><ab type='prose'>如是我聞：一時，佛住王舍城耆闍崛山中，<lb
  n="0124a23" ed="T"/>與大比丘眾二萬八千人俱——皆所作已辦，<lb
  n="0124a24" ed="T"/>梵行已立，不受後有，如摩訶那伽，心得自<lb
  n="0124a25" ed="T"/>在，其名曰：摩訶迦葉、須菩提、憍陳如、離<lb
@@ -71,7 +71,7 @@
  n="0124b12" ed="T"/>滿願菩薩、寶積菩薩、彌勒菩薩、文殊師利<lb
  n="0124b13" ed="T"/>法王子等，百千眷屬俱。復有無量百千欲界<lb
  n="0124b14" ed="T"/>諸天子等，各與眷屬俱，齎諸天上微妙香<lb
- n="0124b15" ed="T"/>華，作天伎樂，住虛空中。諸天龍、夜叉、乾闥婆<lb
+ n="0124b15" ed="T"/>華，作天伎樂，住虛空中。諸天、龍、夜叉、乾闥婆<lb
  n="0124b16" ed="T"/>阿修羅、迦樓羅、緊那羅、摩睺羅伽、人、非人等，<lb
  n="0124b17" ed="T"/>各與若干百千眷屬俱，各禮佛足，退坐一面。<lb
  n="0124b18" ed="T"/>爾時如來，大眾圍遶，供養恭敬，尊重讚歎。<lb
@@ -340,8 +340,8 @@
  n="0127b20" ed="T"/>肩，胡跪合掌，而白佛言：「世尊！阿難事佛已來，<lb
  n="0127b21" ed="T"/>未曾見佛笑。笑必有意。願佛示之，願佛說之，<lb
  n="0127b22" ed="T"/>斷除如是大眾疑網。」</ab></div><lb
- n="0127b23" ed="T"/><div type="pin" level="2"><head>大方便佛報恩經孝養品第二</head><lb
- n="0127b24" ed="T"/><ab type="prose">爾時，大眾之中，有七寶蓮華從地化生，白<lb
+ n="0127b23" ed="T"/><div type='pin' level='2'><head>大方便佛報恩經孝養品第二</head><lb
+ n="0127b24" ed="T"/><ab type='prose'>爾時，大眾之中，有七寶蓮華從地化生，白<lb
  n="0127b25" ed="T"/>銀為莖，黃金為葉，甄叔迦寶以為其臺，真<lb
  n="0127b26" ed="T"/>珠羅網次第莊嚴。爾時釋迦如來即從座<lb
  n="0127b27" ed="T"/>起，昇花臺上，結加趺坐，即現淨身。於其身<lb
@@ -528,7 +528,7 @@
  n="0129c05" ed="T"/>四散馳走，大海波動，須彌山王踊沒低昂，乃<lb
  n="0129c06" ed="T"/>至忉利諸天亦皆大動。時釋提桓因將欲界<lb
  n="0129c07" ed="T"/>諸天下閻浮提怯怖須闍提太子，化作師子<lb
- n="0129c08" ed="T"/>虎狼之屬，張目󰦯眥，咆地大吼，波踊騰躑，<lb
+ n="0129c08" ed="T"/>虎狼之屬，張目𭍷眥，咆地大吼，波踊騰躑，<lb
  n="0129c09" ed="T"/>來欲搏嚙。<lb
  n="0129c10" ed="T"/>「爾時，須闍提見諸禽獸作大威勢，微聲語<lb
  n="0129c11" ed="T"/>言：『汝欲噉我，隨意取食，何為見恐怖耶？』爾<lb
@@ -583,15 +583,15 @@
  n="0130b02" ed="T"/>體血肉供養父母。其事如是。」一切大眾聞<lb
  n="0130b03" ed="T"/>佛說法，各得勝利，歡喜作禮，右遶而去。</ab></div><lb
  n="0130b04" ed="T"/>
-<ab type="juan" subtype="close">大方便佛報恩經卷第一</ab><lb
+<ab type='juan' subtype='close'>大方便佛報恩經卷第一</ab><lb
  n="0130b05" ed="T"/><lb
  n="0130b06" ed="T"/><lb
  n="0130b07" ed="T"/>
-<ab type="juan" subtype="open">大方便佛報恩經卷第二</ab><lb
+<ab type='juan' subtype='open'>大方便佛報恩經卷第二</ab><lb
  n="0130b08" ed="T"/><lb
  n="0130b09" ed="T"/><byline>失譯人名在後漢錄</byline><lb
- n="0130b10" ed="T"/><div type="pin" level="2"><head>對治品第三</head><lb
- n="0130b11" ed="T"/><ab type="prose">爾時世尊處在大眾，猶如日輪，光明赫弈，隱<lb
+ n="0130b10" ed="T"/><div type='pin' level='2'><head>對治品第三</head><lb
+ n="0130b11" ed="T"/><ab type='prose'>爾時世尊處在大眾，猶如日輪，光明赫弈，隱<lb
  n="0130b12" ed="T"/>蔽眾星；喻如大龍，蟠蘭椿輪，蒨練粲爛，覩之<lb
  n="0130b13" ed="T"/>眼眩，思之意亂，威光晃曜，色無等喻。猶螢火<lb
  n="0130b14" ed="T"/>光，日出不現；日月雖有百千光明，方於帝釋，<lb
@@ -959,10 +959,10 @@
  n="0134b28" ed="T"/>喜。王聞是語，亦復如是。時婆羅門即便為王<lb
  n="0134b29" ed="T"/>而說半偈，謂興衰法：<pb n="0134c" ed="T" id="T03.0156.0134c"/><lb
  n="0134c01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『夫生輒死，　　此滅為樂。』　　
 </ab><lb
- n="0134c02" ed="T"/><ab type="prose">「王聞法已，心生歡喜，告諸太子及諸大臣，而<lb
+ n="0134c02" ed="T"/><ab type='prose'>「王聞法已，心生歡喜，告諸太子及諸大臣，而<lb
  n="0134c03" ed="T"/>作是言：『諸人若於我有慈愍心者，應為我憶<lb
  n="0134c04" ed="T"/>持是法。於諸國土，處處聚落，有人民處，城市<lb
  n="0134c05" ed="T"/>巷陌，宣王優命：「諸人當知！大轉輪王見諸<lb
@@ -1020,8 +1020,8 @@
  n="0135a28" ed="T"/>辟支佛心。復有無量天人及乾闥婆、阿修<lb
  n="0135a29" ed="T"/>羅、迦樓羅、緊那羅、摩睺羅伽、人、非人等，見聞<pb n="0135b" ed="T" id="T03.0156.0135b"/><lb
  n="0135b01" ed="T"/>是已，皆發道心，歡喜而去。</ab></div><lb
- n="0135b02" ed="T"/><div type="pin" level="2"><head>大方便佛報恩經發菩提心品第四</head><lb
- n="0135b03" ed="T"/><ab type="prose">爾時會中有一大菩薩摩訶薩，名曰喜王，即<lb
+ n="0135b02" ed="T"/><div type='pin' level='2'><head>大方便佛報恩經發菩提心品第四</head><lb
+ n="0135b03" ed="T"/><ab type='prose'>爾時會中有一大菩薩摩訶薩，名曰喜王，即<lb
  n="0135b04" ed="T"/>從座起，偏袒右肩，右膝著地，合掌仰白如來，<lb
  n="0135b05" ed="T"/>而作是言：「菩薩云何知恩報恩？」佛告喜王<lb
  n="0135b06" ed="T"/>菩薩：「善男子！諦聽！諦聽！菩薩摩訶薩知恩<lb
@@ -1116,15 +1116,15 @@
  n="0136b08" ed="T"/>天龍、鬼神、人及非人，亦能發聲聞、辟支佛心，<lb
  n="0136b09" ed="T"/>聞法歡喜，頭面作禮，右遶而去。</ab></div><lb
  n="0136b10" ed="T"/>
-<ab type="juan" subtype="close">大方便佛報恩經卷第二</ab><lb
+<ab type='juan' subtype='close'>大方便佛報恩經卷第二</ab><lb
  n="0136b11" ed="T"/><lb
  n="0136b12" ed="T"/><lb
  n="0136b13" ed="T"/>
-<ab type="juan" subtype="open">大方便佛報恩經卷第三</ab><lb
+<ab type='juan' subtype='open'>大方便佛報恩經卷第三</ab><lb
  n="0136b14" ed="T"/><lb
  n="0136b15" ed="T"/><byline>失譯人名在後漢錄</byline><lb
- n="0136b16" ed="T"/><div type="pin" level="2"><head>論議品第五</head><lb
- n="0136b17" ed="T"/><ab type="prose">爾時如來為母摩耶夫人并諸天眾說法九<lb
+ n="0136b16" ed="T"/><div type='pin' level='2'><head>論議品第五</head><lb
+ n="0136b17" ed="T"/><ab type='prose'>爾時如來為母摩耶夫人并諸天眾說法九<lb
  n="0136b18" ed="T"/>十日，閻浮提中亦九十日不知如來所在。<lb
  n="0136b19" ed="T"/>大目揵連神力第一，盡其神力，於十方推<lb
  n="0136b20" ed="T"/>求，亦復不知；阿那律陀天眼第一，遍觀十<lb
@@ -1620,13 +1620,13 @@
  n="0142a17" ed="T"/>先於口。」爾時，無量百千人皆立誓願，而說<lb
  n="0142a18" ed="T"/>偈言：<lb
  n="0142a19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「假使熱鐵輪，　　在我頂上旋，　　<lb
  n="0142a20" ed="T"/>終不為此苦，　　而發於惡言。　　<lb
  n="0142a21" ed="T"/>假使熱鐵輪，　　在我頂上旋，　　<lb
  n="0142a22" ed="T"/>終不為此苦，　　毀聖及善人。」　　
 </ab><lb
- n="0142a23" ed="T"/><ab type="prose">佛告阿難：「舍利弗者，於諸眾生為善知識，晝<lb
+ n="0142a23" ed="T"/><ab type='prose'>佛告阿難：「舍利弗者，於諸眾生為善知識，晝<lb
  n="0142a24" ed="T"/>夜六時，常以道眼觀五道眾生，所應度者，尋<lb
  n="0142a25" ed="T"/>往度之。<lb
  n="0142a26" ed="T"/>「爾時，摩竭提二國中間有五百賈客，經過<lb
@@ -1649,15 +1649,15 @@
  n="0142b14" ed="T"/>辟支佛心。一切大眾，聞佛說法，歡喜踊躍，<lb
  n="0142b15" ed="T"/>作禮而去。</ab></div><lb
  n="0142b16" ed="T"/>
-<ab type="juan" subtype="close">大方便佛報恩經卷第三</ab><lb
+<ab type='juan' subtype='close'>大方便佛報恩經卷第三</ab><lb
  n="0142b17" ed="T"/><lb
  n="0142b18" ed="T"/><lb
  n="0142b19" ed="T"/>
-<ab type="juan" subtype="open">大方便佛報恩經卷第四</ab><lb
+<ab type='juan' subtype='open'>大方便佛報恩經卷第四</ab><lb
  n="0142b20" ed="T"/><lb
  n="0142b21" ed="T"/><byline>失譯人名在後漢錄</byline><lb
- n="0142b22" ed="T"/><div type="pin" level="2"><head>惡友品第六</head><lb
- n="0142b23" ed="T"/><ab type="prose">爾時世尊，大眾圍遶，供養恭敬，尊重讚歎。爾<lb
+ n="0142b22" ed="T"/><div type='pin' level='2'><head>惡友品第六</head><lb
+ n="0142b23" ed="T"/><ab type='prose'>爾時世尊，大眾圍遶，供養恭敬，尊重讚歎。爾<lb
  n="0142b24" ed="T"/>時如來熙怡微笑，從其面門放大光明，青黃<lb
  n="0142b25" ed="T"/>赤白，名曰大悲，遠照十方，上至阿迦膩吒<lb
  n="0142b26" ed="T"/>天，下至十八地獄；照提婆達多身，身諸苦<lb
@@ -2185,16 +2185,16 @@
  n="0148c02" ed="T"/>言：「善哉！如來所說法，未曾有也。」一切大眾<lb
  n="0148c03" ed="T"/>聞佛說法，頭面作禮，歡喜而去。</ab></div><lb
  n="0148c04" ed="T"/>
-<ab type="juan" subtype="close">大方便佛報恩經卷第四</ab><lb
+<ab type='juan' subtype='close'>大方便佛報恩經卷第四</ab><lb
  n="0148c05" ed="T"/><lb
  n="0148c06" ed="T"/><lb
  n="0148c07" ed="T"/><lb
  n="0148c08" ed="T"/>
-<ab type="juan" subtype="open">大方便佛報恩經卷第五</ab><lb
+<ab type='juan' subtype='open'>大方便佛報恩經卷第五</ab><lb
  n="0148c09" ed="T"/><lb
  n="0148c10" ed="T"/><byline>失譯人名在後漢錄</byline><lb
- n="0148c11" ed="T"/><div type="pin" level="2"><head>慈品第七</head><lb
- n="0148c12" ed="T"/><ab type="prose">爾時世尊，大眾圍遶，供養恭敬，尊重讚歎。爾<lb
+ n="0148c11" ed="T"/><div type='pin' level='2'><head>慈品第七</head><lb
+ n="0148c12" ed="T"/><ab type='prose'>爾時世尊，大眾圍遶，供養恭敬，尊重讚歎。爾<lb
  n="0148c13" ed="T"/>時如來遊於無量甚深行處，欲拔眾生三有<lb
  n="0148c14" ed="T"/>劇苦；欲發五蓋，并解十纏；欲令一切眾生<lb
  n="0148c15" ed="T"/>俱得解脫，安處無為，即為開示二種福田：一<lb
@@ -2206,7 +2206,7 @@
  n="0148c21" ed="T"/>憂愁懊惱，悶絕躃地，以冷水灑面，良久乃穌。<lb
  n="0148c22" ed="T"/>即起合掌，以偈歎佛：<lb
  n="0148c23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「佛者譬甘露，　　聽聞無厭足。　　<lb
  n="0148c24" ed="T"/>佛當有懈怠，　　無益於一切。　　<lb
  n="0148c25" ed="T"/>五道生死海，　　譬如墮污泥，　　<lb
@@ -2216,7 +2216,7 @@
  n="0148c29" ed="T"/>其眼如月初，　　徹覩十方國，　　<pb n="0149a" ed="T" id="T03.0156.0149a"/><lb
  n="0149a01" ed="T"/>能令人心眼，　　見者大歡喜。」　　
 </ab><lb
- n="0149a02" ed="T"/><ab type="prose">爾時舍利弗說如是等百千偈，讚歎如來已，<lb
+ n="0149a02" ed="T"/><ab type='prose'>爾時舍利弗說如是等百千偈，讚歎如來已，<lb
  n="0149a03" ed="T"/>頭面禮足，遶百千匝，告諸大眾、諸天龍、鬼神、<lb
  n="0149a04" ed="T"/>人及非人：「諸善男子！世間虛空，怪哉！怪哉！<lb
  n="0149a05" ed="T"/>世間虛空，苦哉！苦哉！世間眼滅，痛哉！痛哉！妙<lb
@@ -2226,13 +2226,13 @@
  n="0149a09" ed="T"/>精光，諸山崩落，地為大動。時舍利弗於大眾<lb
  n="0149a10" ed="T"/>中，而說偈言：<lb
  n="0149a11" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「我見佛身相，　　喻如紫金山；　　<lb
  n="0149a12" ed="T"/>相好眾德滅，　　唯有名獨存。　　<lb
  n="0149a13" ed="T"/>應當勤精進，　　得出於三界；　　<lb
  n="0149a14" ed="T"/>選擇眾善業，　　涅槃最安樂。」　　
 </ab><lb
- n="0149a15" ed="T"/><ab type="prose">時舍利弗說是偈慰喻諸大眾已，現大神力，<lb
+ n="0149a15" ed="T"/><ab type='prose'>時舍利弗說是偈慰喻諸大眾已，現大神力，<lb
  n="0149a16" ed="T"/>身昇虛空，化作千頭寶象。一一象身共相<lb
  n="0149a17" ed="T"/>蟠結，千頭外向；一一象皆有七牙；一一牙<lb
  n="0149a18" ed="T"/>上有七浴池；一一浴池有七蓮花；於花臺<lb
@@ -2403,19 +2403,19 @@
  n="0151a09" ed="T"/>者，必死不疑。所以者何？而此一人，難為抗對，<lb
  n="0151a10" ed="T"/>由來未有。」即共同聲說偈問曰：<lb
  n="0151a11" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「卿是何等人，　　為是呪術力，　　<lb
  n="0151a12" ed="T"/>為是龍鬼神，　　一箭射五百？　　<lb
  n="0151a13" ed="T"/>苦痛難可陳，　　我等身歸依。　　<lb
  n="0151a14" ed="T"/>為我出毒箭，　　隨順不敢違。」　　
 </ab><lb
- n="0151a15" ed="T"/><ab type="prose">爾時化人說偈答曰：<lb
+ n="0151a15" ed="T"/><ab type='prose'>爾時化人說偈答曰：<lb
  n="0151a16" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「斫瘡無過惡，　　射箭無過怒。　　<lb
  n="0151a17" ed="T"/>是壯莫能拔，　　唯從多聞除。」　　
 </ab><lb
- n="0151a18" ed="T"/><ab type="prose">爾時化人說是偈已，即復佛身，放大光明，遍<lb
+ n="0151a18" ed="T"/><ab type='prose'>爾時化人說是偈已，即復佛身，放大光明，遍<lb
  n="0151a19" ed="T"/>照十方。一切眾生遇斯光者，盲者得覩，瘻<lb
  n="0151a20" ed="T"/>者得申，拘躄者得手足；若邪迷者得覩真<lb
  n="0151a21" ed="T"/>言。總要而言：諸不稱意皆得如願。<lb
@@ -2424,7 +2424,7 @@
  n="0151a24" ed="T"/>即發阿耨多羅三藐三菩提心，即共同聲而<lb
  n="0151a25" ed="T"/>說偈言：<lb
  n="0151a26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「我等已發心，　　廣利諸眾生；　　<lb
  n="0151a27" ed="T"/>應當常恭敬，　　隨順諸佛學。　　<lb
  n="0151a28" ed="T"/>念佛慈悲力，　　拔苦身心安；　　<lb
@@ -2432,10 +2432,10 @@
  n="0151b01" ed="T"/>師長及父母，　　及諸眾生類，　　<lb
  n="0151b02" ed="T"/>怨親心平等，　　恩德無有二。」　　
 </ab><lb
- n="0151b03" ed="T"/><ab type="prose">爾時虛空中，欲界諸天憍尸迦等雨眾天華，<lb
+ n="0151b03" ed="T"/><ab type='prose'>爾時虛空中，欲界諸天憍尸迦等雨眾天華，<lb
  n="0151b04" ed="T"/>作天伎樂，供養如來，異口同音而說偈言：<lb
  n="0151b05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「我等先世福，　　光明甚嚴飾，　　<lb
  n="0151b06" ed="T"/>眾妙供養具，　　利益於一切。　　<lb
  n="0151b07" ed="T"/>世尊甚難遇，　　妙法亦難聞，　　<lb
@@ -2444,7 +2444,7 @@
  n="0151b10" ed="T"/>我今得見佛，　　所有三業善，　　<lb
  n="0151b11" ed="T"/>為諸眾生故，　　迴向無上道。」　　
 </ab><lb
- n="0151b12" ed="T"/><ab type="prose">爾時諸天說是偈已，遶百千匝，頭面禮佛，飛<lb
+ n="0151b12" ed="T"/><ab type='prose'>爾時諸天說是偈已，遶百千匝，頭面禮佛，飛<lb
  n="0151b13" ed="T"/>空而去。<lb
  n="0151b14" ed="T"/>復次，如來方便慈善根力不可思議。爾時毘<lb
  n="0151b15" ed="T"/>舍離國有一婆羅門，執著邪見，貪著我慢。舍<lb
@@ -2707,15 +2707,15 @@
  n="0154b11" ed="T"/>力，應聲護助，如願即得。」時會大眾，聞法歡<lb
  n="0154b12" ed="T"/>喜，右遶而去。</ab></div><lb
  n="0154b13" ed="T"/>
-<ab type="juan" subtype="close">大方便佛報恩經卷第五</ab><lb
+<ab type='juan' subtype='close'>大方便佛報恩經卷第五</ab><lb
  n="0154b14" ed="T"/><lb
  n="0154b15" ed="T"/><lb
  n="0154b16" ed="T"/>
-<ab type="juan" subtype="open">大方便佛報恩經卷第六</ab><lb
+<ab type='juan' subtype='open'>大方便佛報恩經卷第六</ab><lb
  n="0154b17" ed="T"/><lb
  n="0154b18" ed="T"/><byline>失譯人名在後漢錄</byline><lb
- n="0154b19" ed="T"/><div type="pin" level="2"><head>優波離品第八</head><lb
- n="0154b20" ed="T"/><ab type="prose">爾時如來，大眾圍遶，供養恭敬，尊重讚歎。爾<lb
+ n="0154b19" ed="T"/><div type='pin' level='2'><head>優波離品第八</head><lb
+ n="0154b20" ed="T"/><ab type='prose'>爾時如來，大眾圍遶，供養恭敬，尊重讚歎。爾<lb
  n="0154b21" ed="T"/>時阿難即從座起，觀察眾心咸皆有疑：「如來<lb
  n="0154b22" ed="T"/>世尊！云何乃聽優波離下賤之人隨佛出家？<lb
  n="0154b23" ed="T"/>以聽其出家故，毀辱一切諸王剎利種，增不<lb
@@ -2738,11 +2738,11 @@
  n="0154c11" ed="T"/>如足，次第至優波離前，俛仰而立，合掌而<lb
  n="0154c12" ed="T"/>已。爾時如來即為難陀而說偈言：<lb
  n="0154c13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「難陀當應知：　　汝莫憂貧窮，　　<lb
  n="0154c14" ed="T"/>亦不失富貴。　　出家法應爾。」　　
 </ab><lb
- n="0154c15" ed="T"/><ab type="prose">難陀聞佛示教利喜，種種說法，心生歡喜，即<lb
+ n="0154c15" ed="T"/><ab type='prose'>難陀聞佛示教利喜，種種說法，心生歡喜，即<lb
  n="0154c16" ed="T"/>正衣服，頭面禮優波離足。應時天地六種震<lb
  n="0154c17" ed="T"/>動，身心柔軟，逮得己利，所作已辦。佛告優波<lb
  n="0154c18" ed="T"/>離：「汝速師子吼於三寶四諦，在家出家七眾<lb
@@ -3314,15 +3314,15 @@
  n="0161b04" ed="T"/>久近，隨意即得。所以爾者，以是惡法順生死<lb
  n="0161b05" ed="T"/>流，無勝進義，是故隨事即得，不同善律儀戒。」</ab></div><lb
  n="0161b06" ed="T"/>
-<ab type="juan" subtype="close">大方便佛報恩經卷第六</ab><lb
+<ab type='juan' subtype='close'>大方便佛報恩經卷第六</ab><lb
  n="0161b07" ed="T"/><lb
  n="0161b08" ed="T"/><lb
  n="0161b09" ed="T"/>
-<ab type="juan" subtype="open">大方便佛報恩經卷第七</ab><lb
+<ab type='juan' subtype='open'>大方便佛報恩經卷第七</ab><lb
  n="0161b10" ed="T"/><lb
  n="0161b11" ed="T"/><byline>失譯人名在後漢錄</byline><lb
- n="0161b12" ed="T"/><div type="pin" level="2"><head>親近品第九</head><lb
- n="0161b13" ed="T"/><ab type="prose">「復次，菩薩摩訶薩知恩報恩，修大方便利益<lb
+ n="0161b12" ed="T"/><div type='pin' level='2'><head>親近品第九</head><lb
+ n="0161b13" ed="T"/><ab type='prose'>「復次，菩薩摩訶薩知恩報恩，修大方便利益<lb
  n="0161b14" ed="T"/>眾生，應適隨宜顯示無方。善男子！有佛出<lb
  n="0161b15" ed="T"/>世，號無畏王如來、應供、正遍知、明行足、善逝、<lb
  n="0161b16" ed="T"/>世間解、無上士、調御丈夫、天人師、佛、世尊，應<lb
@@ -3472,12 +3472,12 @@
  n="0163a15" ed="T"/>三菩提。是故我今不應起惡。』「作是念已，即<lb
  n="0163a16" ed="T"/>說偈言：<lb
  n="0163a17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『願自喪身命，　　終不起惡心，　　<lb
  n="0163a18" ed="T"/>向於壞色服；　　願自喪身命，　　<lb
  n="0163a19" ed="T"/>終不起惡心，　　向於出家人。』　　
 </ab><lb
- n="0163a20" ed="T"/><ab type="prose">「說是偈已，即便命終。天地六反震動，驚諸禽<lb
+ n="0163a20" ed="T"/><ab type='prose'>「說是偈已，即便命終。天地六反震動，驚諸禽<lb
  n="0163a21" ed="T"/>獸，四散馳走；無雲雨血，日無精光。「爾時獵<lb
  n="0163a22" ed="T"/>師即脫被服，持刀剝之，擔負還歸。既至家已，<lb
  n="0163a23" ed="T"/>奉上國王。王見歡喜，問諸臣言：『我從生來，<lb
@@ -3745,5 +3745,5 @@
  n="0166a24" ed="T"/>那羅、摩睺羅伽、人非人等，及一切大眾，聞<lb
  n="0166a25" ed="T"/>佛所說，歡喜奉行。</ab></div><lb
  n="0166a26" ed="T"/>
-<ab type="juan" subtype="close">大方便佛報恩經卷第七</ab></div>
+<ab type='juan' subtype='close'>大方便佛報恩經卷第七</ab></div>
 </body></text></TEI>

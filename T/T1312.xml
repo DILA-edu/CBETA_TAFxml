@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1312</idno>
                 </bibl>
@@ -41,13 +41,13 @@
     <text>
         <body><pb n="0463a" id="T21.1312.0463a" ed="T"/><lb
  n="0463a01" ed="T"/><lb
- n="0463a02" ed="T"/><div type="jing" level="1"><lb
+ n="0463a02" ed="T"/><div type='jing' level='1'><lb
  n="0463a03" ed="T"/>
-<ab type="juan" subtype="open">難儞計濕嚩囉天說支輪經</ab><lb
+<ab type='juan' subtype='open'>難儞計濕嚩囉天說支輪經</ab><lb
  n="0463a04" ed="T"/><lb
  n="0463a05" ed="T"/><byline>西天譯經三藏朝散大夫試光祿卿<lb
  n="0463a06" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
- n="0463a07" ed="T"/><ab type="prose">爾時難儞計濕嚩囉天。普觀世間一切男女。<lb
+ n="0463a07" ed="T"/><ab type='prose'>爾時難儞計濕嚩囉天。普觀世間一切男女。<lb
  n="0463a08" ed="T"/>因於生時值諸宮宿所感善惡。至壽命盡於<lb
  n="0463a09" ed="T"/>其中間。或貴或賤或富或貧。有孝有忠好文<lb
  n="0463a10" ed="T"/>好武。至於端嚴醜陋愚鈍聰慧。疾病夭枉鱞<lb
@@ -173,5 +173,5 @@
  n="0464b14" ed="T"/>濕嚩囉天。為於世間一切男女。說支輪已歡<lb
  n="0464b15" ed="T"/>喜而退。<lb
  n="0464b16" ed="T"/>
-</ab><ab type="juan" subtype="close">難儞計濕嚩囉天說支輪經</ab></div>
+</ab><ab type='juan' subtype='close'>難儞計濕嚩囉天說支輪經</ab></div>
 </body></text></TEI>

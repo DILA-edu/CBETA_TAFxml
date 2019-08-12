@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0470</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0510a07" ed="T"/><lb
  n="0510a08" ed="T"/><lb
  n="0510a09" ed="T"/>
-<ab type="juan" subtype="open">佛說文殊師利巡行經</ab><lb
+<ab type='juan' subtype='open'>佛說文殊師利巡行經</ab><lb
  n="0510a10" ed="T"/><lb
  n="0510a11" ed="T"/><byline>元魏天竺三藏菩提流支譯</byline><lb
- n="0510a12" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時婆伽婆，住王舍城耆闍崛山<lb
+ n="0510a12" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時婆伽婆，住王舍城耆闍崛山<lb
  n="0510a13" ed="T"/>中，與大比丘眾五百人俱。爾時世尊於日晡<lb
  n="0510a14" ed="T"/>時，從自房出，在外寬處，大眾圍遶，恭敬供養，<lb
  n="0510a15" ed="T"/>而為說法。<lb
@@ -190,7 +190,7 @@
  n="0511c07" ed="T"/>增，法界不減、法界不增，諸眾生界不減、不增，<lb
  n="0511c08" ed="T"/>不染、不淨。」爾時世尊為顯此義，重說偈言：<lb
  n="0511c09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「說過去未來、　　現在世諸法，　　<lb
  n="0511c10" ed="T"/>言說非是義，　　此非相無相。　　<lb
  n="0511c11" ed="T"/>若相若無相，　　皆無所分別，　　<lb
@@ -213,7 +213,7 @@
  n="0511c28" ed="T"/>若知此法門，　　正遍知所說，　　<lb
  n="0511c29" ed="T"/>得聞此經已，　　一切得如來。」　　
 </ab><pb n="0512a" ed="T" id="T14.0470.0512a"/><lb
- n="0512a01" ed="T"/><ab type="prose">如來既說此法門已，十千眾生遠塵離垢，於<lb
+ n="0512a01" ed="T"/><ab type='prose'>如來既說此法門已，十千眾生遠塵離垢，於<lb
  n="0512a02" ed="T"/>諸法中得法眼淨；五百比丘發阿耨多羅三<lb
  n="0512a03" ed="T"/>藐三菩提心。爾時世尊即授五百比丘佛記，<lb
  n="0512a04" ed="T"/>作如是言：「汝諸比丘於星喻劫，皆當得成阿<lb
@@ -222,5 +222,5 @@
  n="0512a07" ed="T"/>世尊說已，文殊師利童子、長老舍利弗、天、人、<lb
  n="0512a08" ed="T"/>阿修羅、乾闥婆等，聞佛說已歡喜奉行。</ab></div><lb
  n="0512a09" ed="T"/>
-<ab type="juan" subtype="close">佛說文殊師利巡行經</ab>
+<ab type='juan' subtype='close'>佛說文殊師利巡行經</ab>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1046</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0043c03" ed="T"/><lb
  n="0043c04" ed="T"/><lb
  n="0043c05" ed="T"/>
-<ab type="juan" subtype="open">六字大陀羅尼呪經</ab><lb
+<ab type='juan' subtype='open'>六字大陀羅尼呪經</ab><lb
  n="0043c06" ed="T"/><lb
  n="0043c07" ed="T"/><byline>失譯人名今附梁錄</byline><lb
- n="0043c08" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞。一時婆伽婆。住王舍城耆闍崛山<lb
+ n="0043c08" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞。一時婆伽婆。住王舍城耆闍崛山<lb
  n="0043c09" ed="T"/>中。與大比丘眾五百人俱。爾時長老阿難。為<lb
  n="0043c10" ed="T"/>旃陀梨女呪術所收爾時長老阿難。白佛言<lb
  n="0043c11" ed="T"/>世尊。我今強為他收去。婆伽婆我今強為他<lb
@@ -56,11 +56,11 @@
  n="0043c14" ed="T"/>驚怖。阿難汝當受持六字大陀羅尼呪。為令<lb
  n="0043c15" ed="T"/>四眾利益安隱安樂吉祥行故。而說呪曰。<lb
  n="0043c16" ed="T"/></ab>
-<ab type="dharani">斯地梯曇安茶隸般茶隸葛羅馳稽由隷<lb
- n="0043c18" ed="T"/>　薩帝　婆帝　耶󰽎婆帝　底闍婆帝　頻頭<lb
+<ab type='dharani'>斯地梯曇安茶隸般茶隸葛羅馳稽由隷<lb
+ n="0043c18" ed="T"/>　薩帝　婆帝　耶𮚒婆帝　底闍婆帝　頻頭<lb
  n="0043c19" ed="T"/>摩帝<lb
  n="0043c20" ed="T"/></ab>
-<ab type="prose">阿難是呪。能令宿食不消尋得消化。能除吐<lb
+<ab type='prose'>阿難是呪。能令宿食不消尋得消化。能除吐<lb
  n="0043c21" ed="T"/>下等病。能除風病。熱病冷病雜病。能滅一切<lb
  n="0043c22" ed="T"/>諸邪呪術。能滅起屍。能滅一切形像厭蠱。阿<lb
  n="0043c23" ed="T"/>難若有人知此神呪姓名者。彼則不怖畏王<lb
@@ -74,5 +74,5 @@
  n="0044a02" ed="T"/>切形像厭蠱皆悉破壞斷滅。長老阿難聞佛<lb
  n="0044a03" ed="T"/>所說歡喜奉行。<lb
  n="0044a04" ed="T"/>
-</ab><ab type="juan" subtype="close">六字大陀羅尼呪經</ab></div>
+</ab><ab type='juan' subtype='close'>六字大陀羅尼呪經</ab></div>
 </body></text></TEI>

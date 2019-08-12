@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1398</idno>
                 </bibl>
@@ -41,14 +41,14 @@
     <text>
         <body><pb n="0914c" id="T21.1398.0914c" ed="T"/><lb
  n="0914c01" ed="T"/><lb
- n="0914c02" ed="T"/><div type="jing" level="1"><lb
+ n="0914c02" ed="T"/><div type='jing' level='1'><lb
  n="0914c03" ed="T"/>
-<ab type="juan" subtype="open">佛說智光滅一切業障陀羅尼<lb
+<ab type='juan' subtype='open'>佛說智光滅一切業障陀羅尼<lb
  n="0914c04" ed="T"/>經</ab><lb
  n="0914c05" ed="T"/><lb
  n="0914c06" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚卿<lb
  n="0914c07" ed="T"/>傳法大師臣施護奉　詔譯</byline><lb
- n="0914c08" ed="T"/><ab type="prose">如是我聞。一時世尊在日月天子宮。復有智<lb
+ n="0914c08" ed="T"/><ab type='prose'>如是我聞。一時世尊在日月天子宮。復有智<lb
  n="0914c09" ed="T"/>光如來真實如來金光聚如來。甚深聲王如<lb
  n="0914c10" ed="T"/>來忿怒如來寶月如來。及普賢菩薩摩訶薩妙<lb
  n="0914c11" ed="T"/>吉祥菩薩摩訶薩。持地王菩薩摩訶薩金剛手<lb
@@ -74,7 +74,7 @@
  n="0915a07" ed="T"/>持地王菩薩摩訶薩曩謨金剛手菩薩摩訶<lb
  n="0915a08" ed="T"/>薩。復說陀羅尼曰。<lb
  n="0915a09" ed="T"/></ab>
-<ab type="dharani">怛儞也他三野體難作芻那那作芻鉢<lb
+<ab type='dharani'>怛儞也他三野體難作芻那那作芻鉢<lb
  n="0915a10" ed="T"/>囉婆度囉彌蹉迦囉伊伊體探娑酥囉<lb
  n="0915a11" ed="T"/>那娑酥囉那阿他娑伊蹉娑吠囉吠羅<lb
  n="0915a12" ed="T"/>波里拏摩左嚕沒哩底儞阿嚩尼<lb
@@ -91,7 +91,7 @@
  n="0915a23" ed="T"/>枳哩枳哩尾普細尾普細度酥度<lb
  n="0915a24" ed="T"/>酥賀酥賀酥賀娑播尼娑嚩賀<lb
  n="0915a26" ed="T"/></ab>
-<ab type="prose">爾時世尊說是陀羅尼已。彼普賢菩薩摩訶<lb
+<ab type='prose'>爾時世尊說是陀羅尼已。彼普賢菩薩摩訶<lb
  n="0915a27" ed="T"/>薩。告宮主日月天子言。天子此陀羅尼乃是<lb
  n="0915a28" ed="T"/>過去八十八俱胝諸佛同共宣說。如來大慈大<lb
  n="0915a29" ed="T"/>悲。為欲擁護利益一切眾生今復宣說。天子<pb n="0915b" id="T21.1398.0915b" ed="T"/><lb
@@ -113,7 +113,7 @@
  n="0915b16" ed="T"/>誦此陀羅尼者。亦說陀羅尼而為擁護。當令<lb
  n="0915b17" ed="T"/>一切人非人等無能惱亂故。即說陀羅尼曰。<lb
  n="0915b18" ed="T"/></ab>
-<ab type="dharani">怛儞也他度曩致摩賀度曩致酥<lb
+<ab type='dharani'>怛儞也他度曩致摩賀度曩致酥<lb
  n="0915b19" ed="T"/>嚕酥嚕娑嚩賀戌羯囉尾戌馱儞<lb
  n="0915b20" ed="T"/>馱囉娑嚩賀祖度瑟鉢囉禰閉覩<lb
  n="0915b21" ed="T"/>嚕娑嚩賀鉢納摩麼隷儞薩<lb
@@ -126,10 +126,10 @@
  n="0915c01" ed="T"/>曩謨婆誐嚩帝惹拏曩囉迦野怛他誐哆野悉殿覩弭滿怛囉<lb
  n="0915c03" ed="T"/>播那娑嚩賀<lb
  n="0915c04" ed="T"/></ab>
-<ab type="prose">爾時日月天子。聞佛世尊及普賢菩薩摩訶<lb
+<ab type='prose'>爾時日月天子。聞佛世尊及普賢菩薩摩訶<lb
  n="0915c05" ed="T"/>薩。說是佛菩薩名及陀羅尼已。心中所疑皆<lb
  n="0915c06" ed="T"/>悉除斷。發菩提心誓不退轉歡喜踊躍作禮<lb
  n="0915c07" ed="T"/>而退。<lb
  n="0915c08" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說智光滅一切業障陀羅尼經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說智光滅一切業障陀羅尼經</ab></div>
 </body></text></TEI>

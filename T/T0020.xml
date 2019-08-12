@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0020</idno>
                 </bibl>
@@ -41,12 +41,12 @@
     <text>
         <body><lb
  n="0259c02" ed="T"/><lb
- n="0259c03" ed="T"/><div type="jing" level="1"><lb
+ n="0259c03" ed="T"/><div type='jing' level='1'><lb
  n="0259c04" ed="T"/>
-<ab type="juan" subtype="open">佛開解梵志阿颰經</ab><lb
+<ab type='juan' subtype='open'>佛開解梵志阿颰經</ab><lb
  n="0259c05" ed="T"/><lb
  n="0259c06" ed="T"/><byline>吳月支國居士支謙譯</byline><lb
- n="0259c07" ed="T"/><ab type="prose">聞如是：一時，佛與五百沙門俱，遊於越祇，<lb
+ n="0259c07" ed="T"/><ab type='prose'>聞如是：一時，佛與五百沙門俱，遊於越祇，<lb
  n="0259c08" ed="T"/>到鼓車城外樹下坐。比聚有豪賢梵志，名費<lb
  n="0259c09" ed="T"/>迦沙，明曉經書星宿運度，所問皆答。有五<lb
  n="0259c10" ed="T"/>百弟子，弟子中第一者，名阿颰。阿颰問<lb
@@ -356,8 +356,8 @@
  n="0263a24" ed="T"/>四也。」<lb
  n="0263a25" ed="T"/>佛告阿颰：「天地開闢已來，有大梵志道士二<lb
  n="0263a26" ed="T"/>十三人，名為耆屠、留耗、盡陀、迦夷、阿柔、<lb
- n="0263a27" ed="T"/>迦晨、󰩇夷、頞超、炎毛、巴蜜、監化、阿<lb
- n="0263a28" ed="T"/>倫、裘曇、耆顙、󰩇淚、迦葉、暴伏、阿般、㨙<lb
+ n="0263a27" ed="T"/>迦晨、𮘿夷、頞超、炎毛、巴蜜、監化、阿<lb
+ n="0263a28" ed="T"/>倫、裘曇、耆顙、𮘿淚、迦葉、暴伏、阿般、㨙<lb
  n="0263a29" ed="T"/>𨂠、優察、波利、僥頸、陂佉，天下城郭，皆是<pb n="0263b" ed="T" id="T01.0020.0263b"/><lb
  n="0263b01" ed="T"/>此二十三人共所造也。今費迦沙，何如此<lb
  n="0263b02" ed="T"/>輩人？」對曰：「不及。」佛言：「汝師何長，能為帝王<lb
@@ -411,15 +411,15 @@
  n="0263c21" ed="T"/>善馬知人心意。」佛呪願阿颰言：「使汝壽身無<lb
  n="0263c22" ed="T"/>病。」於是師讚佛言：<lb
  n="0263c23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「火能照於冥，　　江海百谷王，　　<lb
  n="0263c24" ed="T"/>聖人廣教授，　　如國有明君。　　<lb
  n="0263c25" ed="T"/>摩尼寶第一，　　月為星中明，　　<lb
  n="0263c26" ed="T"/>如日照天下，　　三界唯佛尊。」　　
 </ab><lb
- n="0263c27" ed="T"/><ab type="prose">佛知其心軟正無邪，為說偈言：<lb
+ n="0263c27" ed="T"/><ab type='prose'>佛知其心軟正無邪，為說偈言：<lb
  n="0263c28" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「人當仁義，　　布施作福，　　<lb
  n="0263c29" ed="T"/>覺識非當，　　守行經戒。　　<pb n="0264a" ed="T" id="T01.0020.0264a"/><lb
  n="0264a01" ed="T"/>世間危嶮，　　樂少苦多，　　<lb
@@ -429,7 +429,7 @@
  n="0264a05" ed="T"/>恩愛別離，　　一切皆苦，　　<lb
  n="0264a06" ed="T"/>是故聖人，　　求無為道。」　　
 </ab><lb
- n="0264a07" ed="T"/><ab type="prose">費迦沙意解，起禮佛足，埀淚言曰：「念我先<lb
+ n="0264a07" ed="T"/><ab type='prose'>費迦沙意解，起禮佛足，埀淚言曰：「念我先<lb
  n="0264a08" ed="T"/>祖，皆無有知佛者。願佛愍傷。我有昆弟<lb
  n="0264a09" ed="T"/>妻子諸家，今欲將來，使受佛法。」佛言：「可。」即<lb
  n="0264a10" ed="T"/>皆來禮佛足，受三自歸，與阿颰等，俱持五<lb
@@ -440,5 +440,5 @@
  n="0264a15" ed="T"/>意志已固，乃可捨家。」佛說經已，皆大歡<lb
  n="0264a16" ed="T"/>喜，作禮而去。<lb
  n="0264a17" ed="T"/>
-</ab><ab type="juan" subtype="close">佛開解梵志阿颰經</ab></div>
+</ab><ab type='juan' subtype='close'>佛開解梵志阿颰經</ab></div>
 </body></text></TEI>

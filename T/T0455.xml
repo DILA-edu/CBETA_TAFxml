@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0455</idno>
                 </bibl>
@@ -39,15 +39,15 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0426a" ed="T" id="T14.0455.0426a"/><lb
  n="0426a01" ed="T"/><lb
  n="0426a02" ed="T"/><lb
  n="0426a03" ed="T"/>
-<ab type="juan" subtype="open">佛說彌勒下生成佛經</ab><lb
+<ab type='juan' subtype='open'>佛說彌勒下生成佛經</ab><lb
  n="0426a04" ed="T"/><lb
  n="0426a05" ed="T"/><byline>唐三藏法師義淨奉　制譯</byline><lb
- n="0426a06" ed="T"/><div type="jing" level="2"><ab type="prose">如是我聞：一時，薄伽梵在王舍城鷲峯山上，<lb
+ n="0426a06" ed="T"/><div type='jing' level='2'><ab type='prose'>如是我聞：一時，薄伽梵在王舍城鷲峯山上，<lb
  n="0426a07" ed="T"/>與大苾芻眾俱。爾時，大智舍利子法將中<lb
  n="0426a08" ed="T"/>最，哀愍世間，從座而起，偏袒右肩，右膝<lb
  n="0426a09" ed="T"/>著地，合掌恭敬，而白佛言：「世尊！我今欲少<lb
@@ -55,7 +55,7 @@
  n="0426a11" ed="T"/>問，我當為說。」時，舍利子即以伽他請世尊<lb
  n="0426a12" ed="T"/>曰：<lb
  n="0426a13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「大師所授記，　　當來佛下生；　　<lb
  n="0426a14" ed="T"/>彼號為慈氏，　　如前後經說。　　<lb
  n="0426a15" ed="T"/>唯願人中尊，　　伽陀重分別；　　<lb
@@ -201,7 +201,7 @@
  n="0427c10" ed="T"/>或欝金沈水，　　香泥用塗拭；　　<lb
  n="0427c11" ed="T"/>供養牟尼塔，　　來生我法中。　　<lb
  n="0427c12" ed="T"/>或歸佛法僧，　　恭敬常親近；　　<lb
- n="0427c13" ed="T"/>當修諸善行，　　來生我法中。　　<lb
+ n="0427c13" ed="T"/>常修諸善行，　　來生我法中。　　<lb
  n="0427c14" ed="T"/>或於佛法中，　　受持諸學處；　　<lb
  n="0427c15" ed="T"/>善護無缺犯，　　來生我法中。　　<lb
  n="0427c16" ed="T"/>或於四方僧，　　施衣服飲食；　　<lb
@@ -257,7 +257,7 @@
  n="0428b08" ed="T"/>若求解脫人，　　希遇龍花會；　　<lb
  n="0428b09" ed="T"/>常供養三寶，　　當勤莫放逸。」　　
 </ab><lb
- n="0428b10" ed="T"/><ab type="prose">爾時，世尊為舍利子及諸大眾，記說當來慈<lb
+ n="0428b10" ed="T"/><ab type='prose'>爾時，世尊為舍利子及諸大眾，記說當來慈<lb
  n="0428b11" ed="T"/>氏事已，復告舍利子：「若有善男子、善女人，<lb
  n="0428b12" ed="T"/>聞此法已，受持讀誦、為他演說、如說修行、<lb
  n="0428b13" ed="T"/>香花供養、書寫經卷，是諸人等當來之世，<lb
@@ -265,8 +265,8 @@
  n="0428b15" ed="T"/>爾時，世尊說此頌已，舍利子及諸大眾，歡喜<lb
  n="0428b16" ed="T"/>信受，頂戴奉行。</ab></div><lb
  n="0428b17" ed="T"/>
-<ab type="juan" subtype="close">佛說彌勒下生成佛經</ab><lb
- n="0428b18" ed="T"/><div type="w" level="2"><ab type="prose">按《開元錄》，《彌勒下生經》前後六譯，三存三<lb
+<ab type='juan' subtype='close'>佛說彌勒下生成佛經</ab><lb
+ n="0428b18" ed="T"/><div type='w' level='2'><ab type='prose'>按《開元錄》，《彌勒下生經》前後六譯，三存三<lb
  n="0428b19" ed="T"/>失，而此本亦在三存之一也，則宋藏無<lb
  n="0428b20" ed="T"/>此經者，失之耳，今得於丹藏而編入之。</ab></div></div>
 </body></text></TEI>

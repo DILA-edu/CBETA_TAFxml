@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T16</biblScope>
                     <idno type="Taisho">T16n0710</idno>
                 </bibl>
@@ -43,14 +43,14 @@
  n="0819a01" ed="T"/><lb
  n="0819a02" ed="T"/><lb
  n="0819a03" ed="T"/>
-<ab type="juan" subtype="open">慈氏菩薩所說大乘緣生稻𦼮喻<lb
+<ab type='juan' subtype='open'>慈氏菩薩所說大乘緣生稻𦼮喻<lb
  n="0819a04" ed="T"/>經</ab><lb
  n="0819a05" ed="T"/><lb
  n="0819a06" ed="T"/><byline>開府儀同三司特進試鴻臚卿<lb
  n="0819a07" ed="T"/>肅國公食邑三千戶賜紫贈司空<lb
  n="0819a08" ed="T"/>諡大鑒正號大廣智大興善寺<lb
  n="0819a09" ed="T"/>三藏沙門不空奉　詔譯</byline><lb
- n="0819a10" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時婆伽梵住王舍城鷲峰山中，<lb
+ n="0819a10" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時婆伽梵住王舍城鷲峰山中，<lb
  n="0819a11" ed="T"/>與大苾芻僧千二百五十人俱，及大菩薩摩<lb
  n="0819a12" ed="T"/>訶薩眾。爾時慧命舍利子往至慈氏菩薩摩<lb
  n="0819a13" ed="T"/>訶薩經行處。其慈氏菩薩與舍利子俱坐盤<lb
@@ -248,5 +248,5 @@
  n="0821b02" ed="T"/>聞慈氏菩薩說是經已，心大忻悅，深生隨喜，<lb
  n="0821b03" ed="T"/>從此而起，禮慈氏菩薩足，歡喜奉行。</ab></div><lb
  n="0821b04" ed="T"/>
-<ab type="juan" subtype="close">慈氏菩薩所說大乘緣生稻𦼮喻經</ab>
+<ab type='juan' subtype='close'>慈氏菩薩所說大乘緣生稻𦼮喻經</ab>
 </body></text></TEI>

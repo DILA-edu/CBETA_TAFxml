@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1248</idno>
                 </bibl>
@@ -39,17 +39,17 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0225b22" ed="T"/><lb
  n="0225b23" ed="T"/><lb
  n="0225b24" ed="T"/><lb
  n="0225b25" ed="T"/>
-<ab type="juan" subtype="open">北方毘沙門天王隨軍護法真言</ab><lb
+<ab type='juan' subtype='open'>北方毘沙門天王隨軍護法真言</ab><lb
  n="0225b26" ed="T"/><lb
  n="0225b27" ed="T"/><byline>特進試鴻臚卿大興善寺三藏沙門<lb
  n="0225b28" ed="T"/>大廣智不空別行翻譯不入正經</byline><lb
- n="0225b29" ed="T"/><div type="dharani" level="2"><ab type="dharani">曩謨囉多曩多羅多夜耶阿馱佉路<pb n="0225c" id="T21.1248.0225c" ed="T"/><lb
+ n="0225b29" ed="T"/><div type='dharani' level='2'><ab type='dharani'>曩謨囉多曩多羅多夜耶阿馱佉路<pb n="0225c" id="T21.1248.0225c" ed="T"/><lb
  n="0225c01" ed="T"/>步多囉耶地舍耶吠室囉摩拏野<lb
  n="0225c02" ed="T"/>摩賀囉惹野藥迦灑地婆多婆娑都<lb
  n="0225c03" ed="T"/>哆娑娑室囉跛囉娑賀娜耶呬摩馱吒<lb
@@ -59,7 +59,7 @@
  n="0225c07" ed="T"/>娑娑馱耶娑那謨婆誐嚩帝悉殿都麼多囉<lb
  n="0225c08" ed="T"/>跛馱儞娑婆賀<lb
  n="0225c09" ed="T"/></ab>
-<ab type="prose">若行者受持此呪者。先須畫像。於彩色中並<lb
+<ab type='prose'>若行者受持此呪者。先須畫像。於彩色中並<lb
  n="0225c10" ed="T"/>不得和膠。於白㲲上畫一毘沙門神。七寶莊<lb
  n="0225c11" ed="T"/>嚴衣甲。左手執戟矟。右手托腰上。其神脚<lb
  n="0225c12" ed="T"/>下作二夜叉鬼。身並作黑色。其毘沙門面。作<lb
@@ -96,7 +96,7 @@
  n="0226a14" ed="T"/>立地。壇四角各安香水瓶。內著雜菓楊枝。呪<lb
  n="0226a15" ed="T"/>師洗浴著新淨衣。於像前設種種飲食供養。<lb
  n="0226a16" ed="T"/>即誦呪取呵梨勒一顆。一呪一遍投火中燒<lb
- n="0226a17" ed="T"/>之。滿一百八遍。從今已後。每日送一󱀛金<lb
+ n="0226a17" ed="T"/>之。滿一百八遍。從今已後。每日送一𮢭金<lb
  n="0226a18" ed="T"/>與呪師永無乏少。若得此物即須用盡。不得<lb
  n="0226a19" ed="T"/>留著。又法呪蘇蜜及菓子。一百八遍火中<lb
  n="0226a20" ed="T"/>燒之。一切諸天皆大歡喜擁護呪師。又法<lb
@@ -210,9 +210,9 @@
  n="0227b21" ed="T"/>食。每月取一十五日二十一日。音聲用單雙<lb
  n="0227b22" ed="T"/>絃方響鼓舞。蘇蜜乳粥真心誦念其天王即<lb
  n="0227b23" ed="T"/>見其身隨心所願。</ab></div><lb
- n="0227b24" ed="T"/><div type="w" level="2"><ab type="prose">解穢陀羅尼。</ab>
-<ab type="dharani">唵俱嚕馱唵󰽘</ab>
-<ab type="prose">讚天王頌曰。<lb
+ n="0227b24" ed="T"/><div type='w' level='2'><ab type='prose'>解穢陀羅尼。</ab>
+<ab type='dharani'>唵俱嚕馱唵󰽘</ab>
+<ab type='prose'>讚天王頌曰。<lb
  n="0227b25" ed="T"/>善利萬物兮惟彼水方　護持國界兮惟我<lb
  n="0227b26" ed="T"/>天王　良將受委兮鎮固封彊　精心奉職<lb
  n="0227b27" ed="T"/>兮宣託福祥　星宮上勝兮迴架崇岡　靈<lb
@@ -226,7 +226,7 @@
  n="0227c06" ed="T"/>　時享和辛酉八月　　長谷僧快道誌<lb
  n="0227c07" ed="T"/>　一校加筆畢　　　　　　　　慈順<lb
  n="0227c08" ed="T"/></ab>
-<ab type="dharani">􄖩􄗭􄗽􅑈􄩞􄗲􄗱􄖩􄗭􈂽􆧽􄙖􄦽􄖶<lb
+<ab type='dharani'>􄖩􄗭􄗽􅑈􄩞􄗲􄗱􄖩􄗭􈂽􆧽􄙖􄦽􄖶<lb
  n="0227c09" ed="T"/>􄕌􄗷􄗥􄚩􄗱􄚴􄚢􄖩􆻥􄗷􄖩􄗭􆿅􄖵<lb
  n="0227c10" ed="T"/>􈂪􄙆􄗞􄕗􄗾􄗱􈋮􄙢􄗱􄙝􈃡􄗥􄕋􄙖<lb
  n="0227c11" ed="T"/>􄑼􄖪􄣢􄗥􄚩􄗽􄒶􄣢􄗱􄚵􄕽􆻤􄣢􄙖<lb

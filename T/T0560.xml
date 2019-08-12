@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0560</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0912b16" ed="T"/><lb
  n="0912b17" ed="T"/><lb
  n="0912b18" ed="T"/>
-<ab type="juan" subtype="open">佛說老母女六英經</ab><lb
+<ab type='juan' subtype='open'>佛說老母女六英經</ab><lb
  n="0912b19" ed="T"/><lb
  n="0912b20" ed="T"/><byline>宋天竺三藏求那跋陀羅譯</byline><lb
- n="0912b21" ed="T"/><div type="jing" level="1"><ab type="prose">佛為世尊，功德巍巍，愍念眾生，為之傷悲。<lb
+ n="0912b21" ed="T"/><div type='jing' level='1'><ab type='prose'>佛為世尊，功德巍巍，愍念眾生，為之傷悲。<lb
  n="0912b22" ed="T"/>時與弟子、大士相追，止處樂音，廣有所開。有<lb
  n="0912b23" ed="T"/>一母人，貧老傴僂，長跪問佛：「五陰、六衰會<lb
  n="0912b24" ed="T"/>合我身，悉為是誰？來何所從？去何所歸？惟<lb
@@ -72,5 +72,5 @@
  n="0912c14" ed="T"/>皆大歡喜。八萬七千人皆得正真道意，禮<lb
  n="0912c15" ed="T"/>佛而去。</ab></div><lb
  n="0912c16" ed="T"/>
-<ab type="juan" subtype="close">佛說老母女六英經</ab>
+<ab type='juan' subtype='close'>佛說老母女六英經</ab>
 </body></text></TEI>

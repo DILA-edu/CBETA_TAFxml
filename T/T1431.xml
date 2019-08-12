@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T22</biblScope>
                     <idno type="Taisho">T22n1431</idno>
                 </bibl>
@@ -39,15 +39,15 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="1030c11" ed="T"/><lb
  n="1030c12" ed="T"/><lb
  n="1030c13" ed="T"/><lb
- n="1030c14" ed="T"/><div type="xu" level="2"><head>四分尼戒本</head><lb
+ n="1030c14" ed="T"/><div type='xu' level='2'><head>四分尼戒本</head><lb
  n="1030c15" ed="T"/><lb
  n="1030c16" ed="T"/><byline>西太原寺沙門懷素集</byline><lb
- n="1030c17" ed="T"/><ab type="prose">夫戒者，迺是定慧之宏基、聖賢之妙趾，窮<lb
+ n="1030c17" ed="T"/><ab type='prose'>夫戒者，迺是定慧之宏基、聖賢之妙趾，窮<lb
  n="1030c18" ed="T"/>八正之道、盡七覺之源。然既樹五制之良規，<lb
  n="1030c19" ed="T"/>傳須獲實；揚六和之清訓，學者知詮。竊尋流<lb
  n="1030c20" ed="T"/>行，總有四本，據其理雖復同、會其文則有異，<lb
@@ -55,13 +55,13 @@
  n="1030c22" ed="T"/>之微言、紊龍城之要旨。故今詳撿律本，參驗<lb
  n="1030c23" ed="T"/>戒心，依於正文錄之如左，庶使順菩提之沙<lb
  n="1030c24" ed="T"/>業、成實相之嘉謀，作六趣之舟航、為三乘之<lb
- n="1030c25" ed="T"/>軌躅者也。<pb n="1031a" ed="T" id="T22.1431.1031a"/></ab></div><lb
- n="1031a01" ed="T"/><div type="jing" level="2"><lb
+ n="1030c25" ed="T"/>軌躅者也。</ab></div><pb n="1031a" ed="T" id="T22.1431.1031a"/><lb
+ n="1031a01" ed="T"/><div type='jing' level='2'><lb
  n="1031a02" ed="T"/>
-<ab type="juan" subtype="open">四分比丘尼戒本</ab><lb
+<ab type='juan' subtype='open'>四分比丘尼戒本</ab><lb
  n="1031a03" ed="T"/><lb
  n="1031a04" ed="T"/><byline>後秦三藏佛陀耶舍譯</byline><lb
- n="1031a05" ed="T"/><ab type="verse">
+ n="1031a05" ed="T"/><ab type='verse'>
 稽首禮諸佛，　　及法比丘僧，　　<lb
  n="1031a06" ed="T"/>今演毘尼法，　　令正法久住。　　<lb
  n="1031a07" ed="T"/>戒如海無涯，　　如寶求無厭，　　<lb
@@ -87,7 +87,7 @@
  n="1031a27" ed="T"/>一切眾律中，　　戒經為上最，　　<lb
  n="1031a28" ed="T"/>如來立禁戒，　　半月半月說。　　
 </ab><lb
- n="1031a29" ed="T"/><ab type="prose">「僧集？」「和合？」「未受大戒者出？」「不來諸比丘尼，說欲及清淨？」「僧<lb
+ n="1031a29" ed="T"/><ab type='prose'>「僧集？」「和合？」「未受大戒者出？」「不來諸比丘尼，說欲及清淨？」「僧<lb
  n="1031b02" ed="T"/>今和合何所作為？」「大姊僧聽！今十五<lb
  n="1031b03" ed="T"/>日，眾僧說戒。若僧時到僧忍聽，和合說戒。<lb
  n="1031b04" ed="T"/>白如是。」「諸大姊！我今欲說波羅提木<lb
@@ -870,58 +870,58 @@
  n="1040b16" ed="T"/>滅諍法。此是佛所說，半月半月說，戒經中來。<lb
  n="1040b17" ed="T"/>「若更有餘佛法，是中皆共和合，應當學。<lb
  n="1040b18" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「忍辱第一道，　　佛說無為最，　　<lb
  n="1040b19" ed="T"/>出家惱他人，　　不名為沙門。　　
 </ab><lb
- n="1040b20" ed="T"/><ab type="prose">「此是毘婆尸如來、無所著、等正覺，說是戒經。<lb
+ n="1040b20" ed="T"/><ab type='prose'>「此是毘婆尸如來、無所著、等正覺，說是戒經。<lb
  n="1040b21" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「譬如明眼人，　　能避險惡道，　　<lb
  n="1040b22" ed="T"/>世有聰明人，　　能遠離諸惡。　　
 </ab><lb
- n="1040b23" ed="T"/><ab type="prose">「此是尸棄如來、無所著、等正覺，說是戒經。<lb
+ n="1040b23" ed="T"/><ab type='prose'>「此是尸棄如來、無所著、等正覺，說是戒經。<lb
  n="1040b24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「不謗亦不嫉，　　當奉持於戒，　　<lb
  n="1040b25" ed="T"/>飲食知止足，　　常樂在空閑，　　<lb
  n="1040b26" ed="T"/>心定樂精進，　　是名諸佛教。　　
 </ab><lb
- n="1040b27" ed="T"/><ab type="prose">「此是毘葉羅如來、無所著、等正覺，說是戒<lb
+ n="1040b27" ed="T"/><ab type='prose'>「此是毘葉羅如來、無所著、等正覺，說是戒<lb
  n="1040b28" ed="T"/>經。<lb
  n="1040b29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「譬如蜂採花，　　不壞色與香，　　<pb n="1040c" ed="T" id="T22.1431.1040c"/><lb
  n="1040c01" ed="T"/>但取其味去；　　比丘入聚然，　　<lb
  n="1040c02" ed="T"/>不違戾他事，　　不觀作不作，　　<lb
  n="1040c03" ed="T"/>但自觀身行，　　若正若不正。　　
 </ab><lb
- n="1040c04" ed="T"/><ab type="prose">「此是拘樓孫如來、無所著、等正覺，說是戒經。<lb
+ n="1040c04" ed="T"/><ab type='prose'>「此是拘樓孫如來、無所著、等正覺，說是戒經。<lb
  n="1040c05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「心莫作放逸，　　聖法當勤學，　　<lb
  n="1040c06" ed="T"/>如是無憂愁，　　心定入涅槃。　　
 </ab><lb
- n="1040c07" ed="T"/><ab type="prose">「此是拘那含牟尼如來、無所著、等正覺，說是<lb
+ n="1040c07" ed="T"/><ab type='prose'>「此是拘那含牟尼如來、無所著、等正覺，說是<lb
  n="1040c08" ed="T"/>戒經。<lb
  n="1040c09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「一切惡莫作，　　當奉行諸善，　　<lb
  n="1040c10" ed="T"/>自淨其志意，　　是則諸佛教。　　
 </ab><lb
- n="1040c11" ed="T"/><ab type="prose">「此是迦葉如來、無所著、等正覺，說是戒經。<lb
+ n="1040c11" ed="T"/><ab type='prose'>「此是迦葉如來、無所著、等正覺，說是戒經。<lb
  n="1040c12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「善護於口言，　　自淨其志意，　　<lb
  n="1040c13" ed="T"/>身莫作諸惡，　　此三業道淨；　　<lb
  n="1040c14" ed="T"/>能得如是行，　　是大仙人道。　　
 </ab><lb
- n="1040c15" ed="T"/><ab type="prose">「此是釋迦牟尼如來、無所著、等正覺，於十二<lb
+ n="1040c15" ed="T"/><ab type='prose'>「此是釋迦牟尼如來、無所著、等正覺，於十二<lb
  n="1040c16" ed="T"/>年中，為無事僧說是戒經。從是已後，廣分別<lb
  n="1040c17" ed="T"/>說。諸比丘尼，自為樂法、樂沙門者，有慚、有愧，<lb
  n="1040c18" ed="T"/>樂學戒者，當於中學。<lb
  n="1040c19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「明人能護戒，　　能得三種樂，　　<lb
  n="1040c20" ed="T"/>名譽及利養，　　死得生天上。　　<lb
  n="1040c21" ed="T"/>當觀如是處，　　有智勤護戒，　　<lb
@@ -952,5 +952,5 @@
  n="1041a17" ed="T"/>施一切眾生，　　皆共成佛道。」　　
 </ab><lb
  n="1041a18" ed="T"/>
-<ab type="juan" subtype="close">四分比丘尼戒本</ab></div></div>
+<ab type='juan' subtype='close'>四分比丘尼戒本</ab></div></div>
 </body></text></TEI>

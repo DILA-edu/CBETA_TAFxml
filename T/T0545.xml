@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0545</idno>
                 </bibl>
@@ -43,10 +43,10 @@
  n="0840b01" ed="T"/><lb
  n="0840b02" ed="T"/><lb
  n="0840b03" ed="T"/>
-<ab type="juan" subtype="open">佛說德護長者經卷上</ab><lb
+<ab type='juan' subtype='open'>佛說德護長者經卷上</ab><lb
  n="0840b04" ed="T"/><lb
  n="0840b05" ed="T"/><byline>隋天竺三藏那連提耶舍譯</byline><lb
- n="0840b06" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時，佛住王舍城耆闍崛山中，與<lb
+ n="0840b06" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時，佛住王舍城耆闍崛山中，與<lb
  n="0840b07" ed="T"/>大比丘眾千二百五十人；大菩薩眾五百人<lb
  n="0840b08" ed="T"/>俱，各從佛剎而來集會，得無所有無作行神<lb
  n="0840b09" ed="T"/>通，得幻生神通，得清淨離塵信心成就，得<lb
@@ -243,7 +243,7 @@
  n="0842b26" ed="T"/>功德無有厭足不得邊際。」爾時，月雲為子說<lb
  n="0842b27" ed="T"/>偈：<lb
  n="0842b28" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「無量百千萬億劫，　　佛名難聞況得見，　　<lb
  n="0842b29" ed="T"/>汝能於佛生勝信，　　如是信心實難得。　　<pb n="0842c" ed="T" id="T14.0545.0842c"/><lb
  n="0842c01" ed="T"/>我今信佛無量德，　　不可得聞況眼見，　　<lb
@@ -266,7 +266,7 @@
  n="0842c18" ed="T"/>誰今與我難得兒，　　今乃來生在我家，　　<lb
  n="0842c19" ed="T"/>我子月光甚希有，　　常能讚嘆一切佛。」　　
 </ab><lb
- n="0842c20" ed="T"/><ab type="prose">爾時，德護長者家內眷屬一千婇女，聞月<lb
+ n="0842c20" ed="T"/><ab type='prose'>爾時，德護長者家內眷屬一千婇女，聞月<lb
  n="0842c21" ed="T"/>雲夫人及月光童子說是偈已，皆大歡喜踊<lb
  n="0842c22" ed="T"/>躍無量，同聲讚言：「善哉！善哉！不可思議，不<lb
  n="0842c23" ed="T"/>可思議。月光福伽羅數生我家，此丈夫者尚<lb
@@ -415,14 +415,14 @@
  n="0844b21" ed="T"/>見月光童子故，為憐愍德護長者故，來至<lb
  n="0844b22" ed="T"/>佛所。<lb
  n="0844b23" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說德護長者經卷上</ab><lb
+</ab><ab type='juan' subtype='close'>佛說德護長者經卷上</ab><lb
  n="0844b24" ed="T"/><lb
  n="0844b25" ed="T"/><lb
  n="0844b26" ed="T"/>
-<ab type="juan" subtype="open">佛說德護長者經卷下</ab><lb
+<ab type='juan' subtype='open'>佛說德護長者經卷下</ab><lb
  n="0844b27" ed="T"/><lb
  n="0844b28" ed="T"/><byline>隋天竺三藏那連提耶舍譯</byline><lb
- n="0844b29" ed="T"/><ab type="prose">爾時，北方過三千大千世界微塵等佛剎，有<pb n="0844c" ed="T" id="T14.0545.0844c"/><lb
+ n="0844b29" ed="T"/><ab type='prose'>爾時，北方過三千大千世界微塵等佛剎，有<pb n="0844c" ed="T" id="T14.0545.0844c"/><lb
  n="0844c01" ed="T"/>佛國土名曰炎光，佛號德藏峯奮迅王如來、<lb
  n="0844c02" ed="T"/>多陀阿伽度、阿羅訶、三藐三佛陀，現在說法。<lb
  n="0844c03" ed="T"/>彼佛世界有菩薩名盧舍那放大光明，復有一<lb
@@ -543,7 +543,7 @@
  n="0846a03" ed="T"/>悅，諸根快樂遍身滿足，生歡喜已登七重樓<lb
  n="0846a04" ed="T"/>上，合十指掌而向父所，即說偈言：<lb
  n="0846a05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「佛捨加趺坐，　　引發欲來時，　　<lb
  n="0846a06" ed="T"/>無畏如師子，　　今來已至此。　　<lb
  n="0846a07" ed="T"/>此來那羅延，　　難壞兩足尊，　　<lb
@@ -589,12 +589,12 @@
  n="0846b18" ed="T"/>積劫常讚嘆，　　如來之功德，　　<lb
  n="0846b19" ed="T"/>一毛不可盡，　　何況一切身。」　　
 </ab><lb
- n="0846b20" ed="T"/><ab type="prose">爾時，月光童子妹月上，形容端正，聞月光童<lb
+ n="0846b20" ed="T"/><ab type='prose'>爾時，月光童子妹月上，形容端正，聞月光童<lb
  n="0846b21" ed="T"/>子說偈讚佛身心歡喜，又見如來光明晃曜，<lb
  n="0846b22" ed="T"/>大神通力大地震動心歡喜故，合十指掌向<lb
  n="0846b23" ed="T"/>其父前，復說偈言：<lb
  n="0846b24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「如兄月光讚，　　如來諸功德，　　<lb
  n="0846b25" ed="T"/>一切世間無，　　願父當信受。　　<lb
  n="0846b26" ed="T"/>莫信外道語，　　心常懷瞋妬，　　<lb
@@ -616,12 +616,12 @@
  n="0846c13" ed="T"/>彼彼十方來，　　難壞如師子，　　<lb
  n="0846c14" ed="T"/>諸天人龍等，　　歡喜雨眾花。」　　
 </ab><lb
- n="0846c15" ed="T"/><ab type="prose">爾時，長者女德生見地大動及大神通大光<lb
+ n="0846c15" ed="T"/><ab type='prose'>爾時，長者女德生見地大動及大神通大光<lb
  n="0846c16" ed="T"/>明炎雜色分明，見已歡喜踊躍無量，以其衣<lb
  n="0846c17" ed="T"/>裓盛滿雜華，疾至父所合十指掌，以大信心<lb
  n="0846c18" ed="T"/>大歡喜心，向父說偈：<lb
  n="0846c19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「父今信外道，　　此心最大惡，　　<lb
  n="0846c20" ed="T"/>墮在邪惡中，　　常不信佛法。　　<lb
  n="0846c21" ed="T"/>推人入惡趣，　　遮閉人善道，　　<lb
@@ -643,13 +643,13 @@
  n="0847a08" ed="T"/>勝智清淨智，　　外道不能壞，　　<lb
  n="0847a09" ed="T"/>蓋雲栴檀雲，　　種種雜莊嚴。」　　
 </ab><lb
- n="0847a10" ed="T"/><ab type="prose">爾時月光弟智堅童子，已曾過去供養諸佛<lb
+ n="0847a10" ed="T"/><ab type='prose'>爾時月光弟智堅童子，已曾過去供養諸佛<lb
  n="0847a11" ed="T"/>種諸善根，於諸佛所淨修梵行。時彼童子，夢<lb
  n="0847a12" ed="T"/>中見佛大神通力，從耆闍崛山下欲入王舍<lb
  n="0847a13" ed="T"/>城，大地震動即便覺寤，著衣整服疾至門下，<lb
  n="0847a14" ed="T"/>生大歡喜還詣父所，而說偈言：<lb
  n="0847a15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「我夢中見佛，　　於此一念間，　　<lb
  n="0847a16" ed="T"/>從於耆闍崛，　　最大山崗下，　　<lb
  n="0847a17" ed="T"/>不思議大力，　　菩薩眾圍遶，　　<lb
@@ -696,7 +696,7 @@
  n="0847b29" ed="T"/>父是人為勝，　　云何而不信？　　<pb n="0847c" ed="T" id="T14.0545.0847c"/><lb
  n="0847c01" ed="T"/>千萬那由他，　　無量諸音樂，　　<lb
  n="0847c02" ed="T"/>及寶瓔珞器，　　不鼓而自鳴。　　<lb
- n="0847c03" ed="T"/>無量種畜生，　　於無等十方，　　<lb
+ n="0847c03" ed="T"/>無量種畜生，　　於無等十力，　　<lb
  n="0847c04" ed="T"/>捨離惡毒心，　　生歡喜淨信。　　<lb
  n="0847c05" ed="T"/>能壞鬪諍魔，　　調伏大寂滅，　　<lb
  n="0847c06" ed="T"/>忍辱到彼岸，　　慈心廣憐愍，　　<lb
@@ -793,7 +793,7 @@
  n="0848c10" ed="T"/>及餘諸天等，　　合掌禮於佛，　　<lb
  n="0848c11" ed="T"/>散百種雜華，　　及赤旃檀末。　　<lb
  n="0848c12" ed="T"/>長者見佛已，　　其心大歡喜，　　<lb
- n="0848c13" ed="T"/>八千諸女人，　　得清淨諸慧；　　<lb
+ n="0848c13" ed="T"/>八千諸女人，　　得清淨智慧；　　<lb
  n="0848c14" ed="T"/>有五百童子，　　及五百童女，　　<lb
  n="0848c15" ed="T"/>見佛神通力，　　皆發菩提心；　　<lb
  n="0848c16" ed="T"/>無量百千億，　　那由他天子，　　<lb
@@ -811,7 +811,7 @@
  n="0848c28" ed="T"/>貪瞋癡三種，　　及世間毒藥，　　<lb
  n="0848c29" ed="T"/>離毒清淨僧，　　實語皆遠離。」　　
 </ab><pb n="0849a" ed="T" id="T14.0545.0849a"/><lb
- n="0849a01" ed="T"/><ab type="prose">佛說此語時，無量諸天出大聲言：「清淨大智，<lb
+ n="0849a01" ed="T"/><ab type='prose'>佛說此語時，無量諸天出大聲言：「清淨大智，<lb
  n="0849a02" ed="T"/>已離眾毒火坑皆滅，家內清淨如本無異，皆<lb
  n="0849a03" ed="T"/>是法王威神力故。」時，德護長者即於佛所生<lb
  n="0849a04" ed="T"/>大信心，以上妙衣價直百千萬億覆佛身上。<lb
@@ -914,7 +914,7 @@
  n="0850a14" ed="T"/>神力，亦見天龍八部興大供養，向佛說偈讚<lb
  n="0850a15" ed="T"/>嘆佛曰：<lb
  n="0850a16" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「南無大智佛，　　釋師子如來，　　<lb
  n="0850a17" ed="T"/>若能生信心，　　而得大利益。　　<lb
  n="0850a18" ed="T"/>先信於外道，　　而造諸惡業，　　<lb
@@ -936,12 +936,12 @@
  n="0850b05" ed="T"/>於佛生信者，　　一切信此人，　　<lb
  n="0850b06" ed="T"/>彼人福德聚，　　不可得稱量。」　　
 </ab><lb
- n="0850b07" ed="T"/><ab type="prose">爾時，長者德護，頭面禮佛及一切阿羅漢，<lb
+ n="0850b07" ed="T"/><ab type='prose'>爾時，長者德護，頭面禮佛及一切阿羅漢，<lb
  n="0850b08" ed="T"/>一切菩薩眾已，次第行百味飲食。爾時世<lb
  n="0850b09" ed="T"/>尊說此法已，離攀緣德菩薩、月光童子并長<lb
  n="0850b10" ed="T"/>者德護，一切內外眷屬大菩薩眾，及天、龍、<lb
  n="0850b11" ed="T"/>夜叉、犍闥婆等一切大眾，皆大歡喜，作禮奉<lb
  n="0850b12" ed="T"/>行。<lb
  n="0850b13" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說德護長者經卷下</ab></div>
+</ab><ab type='juan' subtype='close'>佛說德護長者經卷下</ab></div>
 </body></text></TEI>

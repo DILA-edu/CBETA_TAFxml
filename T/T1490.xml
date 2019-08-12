@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T24</biblScope>
                     <idno type="Taisho">T24n1490</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="1081a13" ed="T"/><lb
  n="1081a14" ed="T"/><lb
  n="1081a15" ed="T"/>
-<ab type="juan" subtype="open">寂調音所問經</ab><lb
+<ab type='juan' subtype='open'>寂調音所問經</ab><lb
  n="1081a16" ed="T"/><lb
  n="1081a17" ed="T"/><byline>宋三藏法師法海奉　詔譯</byline><lb
- n="1081a18" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時婆伽婆遊王舍城耆闍崛山，<lb
+ n="1081a18" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時婆伽婆遊王舍城耆闍崛山，<lb
  n="1081a19" ed="T"/>與大比丘僧八百人俱，菩薩摩訶薩萬二千<lb
  n="1081a20" ed="T"/>人，及欲界色界淨居諸天子等。爾時世尊與<lb
  n="1081a21" ed="T"/>無量百千之眾恭敬圍遶而為說法。爾時眾<lb
@@ -214,7 +214,7 @@
  n="1083a08" ed="T"/>言辭無礙，顏色端嚴善可樂見，具諸相好功<lb
  n="1083a09" ed="T"/>德莊嚴，威德難視名聞高遠，體具稱譽世<lb
  n="1083a10" ed="T"/>法不染，不為眾惱所惱、不為惡言所污，遊<lb
- n="1083a11" ed="T"/>戲諸通多聞應辯，智見誦悅滅暗冥黑，熾<lb
+ n="1083a11" ed="T"/>戲諸通多聞應辯，智見踊悅滅暗冥黑，熾<lb
  n="1083a12" ed="T"/>然智慧說法無礙，深入總持諸佛顧念。非聲<lb
  n="1083a13" ed="T"/>聞辟支佛所見，念如大海、定如須彌、堪任如<lb
  n="1083a14" ed="T"/>地、神足變現如因陀羅、心得自在喻如梵王、<lb
@@ -371,7 +371,7 @@
  n="1084c20" ed="T"/>於其中間不墮聲聞辟支佛地。復次若廢捨<lb
  n="1084c21" ed="T"/>一切所有心時，於其中間不與慳垢心俱。復<lb
  n="1084c22" ed="T"/>次我應當救一切眾生，於其中間不生下劣<lb
- n="1084c23" ed="T"/>心。復次知一切法無生已，我生法中得忍，<lb
+ n="1084c23" ed="T"/>心。復次知一切法無生已，於生法中得忍，<lb
  n="1084c24" ed="T"/>於其中間不與諸見俱。復次所應知應見應<lb
  n="1084c25" ed="T"/>證處應正覺了，如是一切悉以一心一剎那<lb
  n="1084c26" ed="T"/>勤方便慧正覺了至得一切智，於其中間終<lb
@@ -542,5 +542,5 @@
  n="1086c17" ed="T"/>眾，天、龍、夜叉、乾闥婆、阿修羅、護世等，聞佛所<lb
  n="1086c18" ed="T"/>說，歡喜奉行。</ab></div><lb
  n="1086c19" ed="T"/>
-<ab type="juan" subtype="close">寂調音所問經</ab>
+<ab type='juan' subtype='close'>寂調音所問經</ab>
 </body></text></TEI>

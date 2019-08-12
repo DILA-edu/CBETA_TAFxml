@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0487</idno>
                 </bibl>
@@ -39,15 +39,15 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0698b19" ed="T"/><lb
  n="0698b20" ed="T"/><lb
  n="0698b21" ed="T"/><lb
- n="0698b22" ed="T"/><div type="xu" level="2"><head>離垢慧菩薩所問禮佛法經序</head><lb
+ n="0698b22" ed="T"/><div type='xu' level='2'><head>離垢慧菩薩所問禮佛法經序</head><lb
  n="0698b23" ed="T"/><lb
  n="0698b24" ed="T"/><byline>終南山釋氏道宣撰</byline><lb
- n="0698b25" ed="T"/><ab type="prose">惟夫幔幢難偃，三界由此輪迴；愛水未清，四<lb
+ n="0698b25" ed="T"/><ab type='prose'>惟夫慢幢難偃，三界由此輪迴；愛水未清，四<lb
  n="0698b26" ed="T"/>惑因茲流湎。自非獨拔開士、出有至人，何能<lb
  n="0698b27" ed="T"/>裂愛網而闢重關，質深疑而啟昏趣？有離垢<lb
  n="0698b28" ed="T"/>慧菩薩者，道高初住，德跨八恒，假時俗之津<lb
@@ -66,10 +66,10 @@
  n="0698c12" ed="T"/><lb
  n="0698c13" ed="T"/><lb
  n="0698c14" ed="T"/>
-<ab type="juan" subtype="open">離垢慧菩薩所問禮佛法經</ab><lb
+<ab type='juan' subtype='open'>離垢慧菩薩所問禮佛法經</ab><lb
  n="0698c15" ed="T"/><lb
  n="0698c16" ed="T"/><byline>大唐三藏那提譯</byline><lb
- n="0698c17" ed="T"/><div type="jing" level="2"><ab type="prose">如是我聞：一時，佛在室羅栰悉帝城勝德林<lb
+ n="0698c17" ed="T"/><div type='jing' level='2'><ab type='prose'>如是我聞：一時，佛在室羅栰悉帝城勝德林<lb
  n="0698c18" ed="T"/>中給孤獨園，與大比丘眾五百人俱，菩薩無<lb
  n="0698c19" ed="T"/>央數。又與無量婆羅門、毘舍、首陀，并諸長者，<lb
  n="0698c20" ed="T"/>各各皆是大眾之首，與其同類，來至佛所。又<lb
@@ -184,25 +184,25 @@
  n="0700a13" ed="T"/>證知我行菩薩道，發興願海。』」爾時，世尊重說<lb
  n="0700a14" ed="T"/>頌曰：<lb
  n="0700a15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「願我所生處，　　隨業而受形，　　<lb
  n="0700a16" ed="T"/>成大丈夫身，　　有信諸根具。　　<lb
  n="0700a17" ed="T"/>通伎術藝能，　　廣解諸教意，　　<lb
  n="0700a18" ed="T"/>世事悉棄捨，　　諸欲皆遠離。　　<lb
  n="0700a19" ed="T"/>正語住法念，　　莊嚴菩提心，　　<lb
  n="0700a20" ed="T"/>敬事善知識，　　有情咸見重。　　<lb
- n="0700a21" ed="T"/>戒儀既具足，　　淨受念樂報，　　<lb
+ n="0700a21" ed="T"/>戒儀既具足，　　淨念受樂報，　　<lb
  n="0700a22" ed="T"/>常畏彼惡業，　　遊步於善法。　　<lb
  n="0700a23" ed="T"/>恒依十度行，　　故得成菩提，　　<lb
  n="0700a24" ed="T"/>乃至最後身，　　常與眾生樂。　　<lb
  n="0700a25" ed="T"/>珠中摩尼勝，　　能成利他事，　　<lb
  n="0700a26" ed="T"/>願我窮未來，　　利益無休息。」　　
 </ab><lb
- n="0700a27" ed="T"/><ab type="prose">佛告離垢慧菩薩摩訶薩言：「若有眾生行菩<lb
+ n="0700a27" ed="T"/><ab type='prose'>佛告離垢慧菩薩摩訶薩言：「若有眾生行菩<lb
  n="0700a28" ed="T"/>薩道，如我所說，當依修學。」說是經已，離垢慧<lb
  n="0700a29" ed="T"/>等，及諸大眾，天、龍、夜叉、乾闥婆、阿修羅、迦樓<pb n="0700b" ed="T" id="T14.0487.0700b"/><lb
  n="0700b01" ed="T"/>羅、緊那羅、摩睺羅伽，人、非人等，聞佛所說，歡<lb
  n="0700b02" ed="T"/>喜奉行。</ab></div><lb
  n="0700b03" ed="T"/>
-<ab type="juan" subtype="close">離垢慧菩薩所問禮佛法經</ab></div>
+<ab type='juan' subtype='close'>離垢慧菩薩所問禮佛法經</ab></div>
 </body></text></TEI>

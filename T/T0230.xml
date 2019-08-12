@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T08</biblScope>
                     <idno type="Taisho">T08n0230</idno>
                 </bibl>
@@ -43,18 +43,18 @@
  n="0684c01" ed="T"/><lb
  n="0684c02" ed="T"/><lb
  n="0684c03" ed="T"/>
-<ab type="juan" subtype="open">聖八千頌般若波羅蜜多一百八<lb
+<ab type='juan' subtype='open'>聖八千頌般若波羅蜜多一百八<lb
  n="0684c04" ed="T"/>名真實圓義陀羅尼經</ab><lb
  n="0684c05" ed="T"/><lb
  n="0684c06" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0684c07" ed="T"/>傳法大師賜紫臣施護等奉　詔譯</byline><lb
- n="0684c08" ed="T"/><div type="jing" level="1"><ab type="verse">
+ n="0684c08" ed="T"/><div type='jing' level='1'><ab type='verse'>
 歸命最勝諸佛母，　　般若波羅蜜多法，　　<lb
  n="0684c09" ed="T"/>過去未來及現在，　　一切諸佛從是生。　　<lb
  n="0684c10" ed="T"/>善生諸佛為佛母，　　無性自性我清淨，　　<lb
  n="0684c11" ed="T"/>佛為須菩提廣說，　　如其所說今畧集。　　
 </ab><lb
- n="0684c12" ed="T"/><ab type="prose">般若波羅蜜多有一百八名：一者最勝般若<lb
+ n="0684c12" ed="T"/><ab type='prose'>般若波羅蜜多有一百八名：一者最勝般若<lb
  n="0684c13" ed="T"/>波羅蜜多，二、一切智，三、一切相智，四、實際，五、<lb
  n="0684c14" ed="T"/>真如，六、無壞真如，七、無異真如，八、實性，九、如<lb
  n="0684c15" ed="T"/>實生，十、不顛倒，十一、空無相無願，十二、無性，<lb
@@ -100,7 +100,7 @@
  n="0685a26" ed="T"/>一切菩薩及諸賢聖，於長時中常所衛護。即<lb
  n="0685a27" ed="T"/>說般若波羅蜜多真實圓義陀羅尼曰：<lb
  n="0685a28" ed="T"/></ab>
-<ab type="dharani">怛󰍕他　唵鉢囉倪鉢囉倪　摩<lb
+<ab type='dharani'>怛𭔞他　唵鉢囉倪鉢囉倪　摩<lb
  n="0685a29" ed="T"/>賀鉢囉倪也婆西　鉢囉倪也<pb n="0685b" id="T08.0230.0685b" ed="T"/><lb
  n="0685b01" ed="T"/>路葛葛哩　阿倪也那尾䭾摩泥　悉提<lb
  n="0685b02" ed="T"/>　蘇悉提　悉奠覩彌婆誐嚩底　薩哩嚩<lb
@@ -111,9 +111,9 @@
  n="0685b07" ed="T"/>　阿誐蹉阿誐蹉　婆誐嚩底摩尾藍摩<lb
  n="0685b08" ed="T"/>莎賀　提　紇凌　室凌　率嚕底　三蜜哩底　尾惹曳莎賀<lb
  n="0685b10" ed="T"/></ab>
-<ab type="prose">此陀羅尼祕密章句，若常憶念受持讀誦者，<lb
+<ab type='prose'>此陀羅尼祕密章句，若常憶念受持讀誦者，<lb
  n="0685b11" ed="T"/>所獲功德不可稱計。</ab></div><lb
  n="0685b12" ed="T"/>
-<ab type="juan" subtype="close">聖八千頌般若波羅蜜多一百八名真實圓義<lb
+<ab type='juan' subtype='close'>聖八千頌般若波羅蜜多一百八名真實圓義<lb
  n="0685b13" ed="T"/>陀羅尼經</ab>
 </body></text></TEI>

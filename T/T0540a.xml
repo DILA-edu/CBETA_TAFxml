@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0540a</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0825a17" ed="T"/><lb
  n="0825a18" ed="T"/><lb
  n="0825a19" ed="T"/>
-<ab type="juan" subtype="open">佛說樹提伽經</ab><lb
+<ab type='juan' subtype='open'>佛說樹提伽經</ab><lb
  n="0825a20" ed="T"/><lb
  n="0825a21" ed="T"/><byline>宋于闐國三藏求那跋陀羅譯</byline><lb
- n="0825a22" ed="T"/><div type="jing" level="1"><ab type="prose">佛言：昔有一大富長者名樹提伽，倉庫盈實<lb
+ n="0825a22" ed="T"/><div type='jing' level='1'><ab type='prose'>佛言：昔有一大富長者名樹提伽，倉庫盈實<lb
  n="0825a23" ed="T"/>金銀具足，奴婢成行無所乏少。有一白㲲手<lb
  n="0825a24" ed="T"/>巾挂著池邊，遇天風起吹王殿前。王即大會<lb
  n="0825a25" ed="T"/>群臣坐共參論，羅列卜問怪其所以，諸臣皆<lb
@@ -116,5 +116,5 @@
  n="0826a01" ed="T"/>夫婦是也；于時病道人者，今我身是也；五<lb
  n="0826a02" ed="T"/>百商主及商人者，皆得阿羅漢道。」</ab></div><lb
  n="0826a03" ed="T"/>
-<ab type="juan" subtype="close">佛說樹提伽經</ab>
+<ab type='juan' subtype='close'>佛說樹提伽經</ab>
 </body></text></TEI>

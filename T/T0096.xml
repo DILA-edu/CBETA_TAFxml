@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0096</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0919a19" ed="T"/><lb
  n="0919a20" ed="T"/><lb
- n="0919a21" ed="T"/><div type="jing" level="1"><lb
+ n="0919a21" ed="T"/><div type='jing' level='1'><lb
  n="0919a22" ed="T"/>
-<ab type="juan" subtype="open">佛說治意經</ab><lb
+<ab type='juan' subtype='open'>佛說治意經</ab><lb
  n="0919a23" ed="T"/><lb
  n="0919a24" ed="T"/><byline>失譯人名今附西晉錄</byline><lb
- n="0919a25" ed="T"/><ab type="prose">佛言：「安般守意具行如法已，欲次第學，如<lb
+ n="0919a25" ed="T"/><ab type='prose'>佛言：「安般守意具行如法已，欲次第學，如<lb
  n="0919a26" ed="T"/>如佛說為在天下得明，如陰解月出立，身立<lb
  n="0919a27" ed="T"/>意立，坐臥亦爾。已比丘立意，如是前後會有<lb
  n="0919a28" ed="T"/>所益；已前後有所益，使不復見恠意；已止意<lb
@@ -70,5 +70,5 @@
  n="0919b16" ed="T"/>教人精進，當先自意行，身自守、意自守，自為<lb
  n="0919b17" ed="T"/>福中，天上福未滿故，自守福已滿便得禪。」<lb
  n="0919b18" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說治意經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說治意經</ab></div>
 </body></text></TEI>

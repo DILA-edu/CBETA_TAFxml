@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0092</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0916a14" ed="T"/><lb
  n="0916a15" ed="T"/><lb
- n="0916a16" ed="T"/><div type="jing" level="1"><lb
+ n="0916a16" ed="T"/><div type='jing' level='1'><lb
  n="0916a17" ed="T"/>
-<ab type="juan" subtype="open">佛說十支居士八城人經</ab><lb
+<ab type='juan' subtype='open'>佛說十支居士八城人經</ab><lb
  n="0916a18" ed="T"/><lb
  n="0916a19" ed="T"/><byline>後漢安息國三藏安世高譯</byline><lb
- n="0916a20" ed="T"/><ab type="prose">聞如是：一時，諸上尊比丘，在波羅梨弗都盧<lb
+ n="0916a20" ed="T"/><ab type='prose'>聞如是：一時，諸上尊比丘，在波羅梨弗都盧<lb
  n="0916a21" ed="T"/>城雞園中。世尊般涅槃不久，於是十支居士<lb
  n="0916a22" ed="T"/>八城人多有財物，詣波羅梨弗都盧治生，於<lb
  n="0916a23" ed="T"/>是十支居士八城人持錢財物盡買，盡買已<lb
@@ -118,5 +118,5 @@
  n="0917a01" ed="T"/>難施與招提僧。阿難如是說。十支居士八城<lb
  n="0917a02" ed="T"/>人聞尊者阿難所說，歡喜而樂。<lb
  n="0917a03" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說十支居士八城人經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說十支居士八城人經</ab></div>
 </body></text></TEI>

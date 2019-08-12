@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T31</biblScope>
                     <idno type="Taisho">T31n1601</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0477c" id="T31.1601.0477c" ed="T"/><lb
- n="0477c01" ed="T"/><div type="pin" level="2"><lb
+ n="0477c01" ed="T"/><div type='pin' level='2'><lb
  n="0477c02" ed="T"/>
-<ab type="juan" subtype="open">辯中邊論頌一卷</ab><lb
+<ab type='juan' subtype='open'>辯中邊論頌一卷</ab><lb
  n="0477c03" ed="T"/><lb
  n="0477c04" ed="T"/><byline>彌勒菩薩說</byline><lb
  n="0477c05" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
  n="0477c06" ed="T"/><head>辯相品第一</head><lb
- n="0477c07" ed="T"/><ab type="verse">
+ n="0477c07" ed="T"/><ab type='verse'>
 唯相障真實　　及修諸對治　　<lb
  n="0477c08" ed="T"/>即此修分位　　得果無上乘　　<lb
  n="0477c09" ed="T"/>虛妄分別有　　於此二都無　　<lb
@@ -96,8 +96,8 @@
  n="0478a22" ed="T"/>非染非不染　　非淨非不淨　　<lb
  n="0478a23" ed="T"/>心性本淨故　　由客塵所染　　
 </ab></div><lb
- n="0478a24" ed="T"/><div type="pin" level="2"><head>辯障品第二</head><lb
- n="0478a25" ed="T"/><ab type="verse">
+ n="0478a24" ed="T"/><div type='pin' level='2'><head>辯障品第二</head><lb
+ n="0478a25" ed="T"/><ab type='verse'>
 具分及一分　　增盛與平等　　<lb
  n="0478a26" ed="T"/>於生死取捨　　說障二種性　　<lb
  n="0478a27" ed="T"/>九種煩惱相　　謂愛等九結　　<lb
@@ -133,8 +133,8 @@
  n="0478b28" ed="T"/>已說諸煩惱　　及諸所知障　　<lb
  n="0478b29" ed="T"/>許此二盡故　　一切障解脫　　
 </ab></div><pb n="0478c" id="T31.1601.0478c" ed="T"/><lb
- n="0478c01" ed="T"/><div type="pin" level="2"><head>辯真實品第三</head><lb
- n="0478c02" ed="T"/><ab type="verse">
+ n="0478c01" ed="T"/><div type='pin' level='2'><head>辯真實品第三</head><lb
+ n="0478c02" ed="T"/><ab type='verse'>
 真實唯有十　　謂根本與相　　<lb
  n="0478c03" ed="T"/>無顛倒因果　　及麁細真實　　<lb
  n="0478c04" ed="T"/>極成淨所行　　攝受并差別　　<lb
@@ -182,8 +182,8 @@
  n="0479a17" ed="T"/>有為無為義　　謂若假若因　　<lb
  n="0479a18" ed="T"/>若相若寂靜　　若彼所觀義　　
 </ab></div><lb
- n="0479a19" ed="T"/><div type="pin" level="2"><head>辯修對治品第四</head><lb
- n="0479a20" ed="T"/><ab type="verse">
+ n="0479a19" ed="T"/><div type='pin' level='2'><head>辯修對治品第四</head><lb
+ n="0479a20" ed="T"/><ab type='verse'>
 以麁重愛因　　我事無迷故　　<lb
  n="0479a21" ed="T"/>為入四聖諦　　修念住應知　　<lb
  n="0479a22" ed="T"/>已遍知障治　　一切種差別　　<lb
@@ -213,8 +213,8 @@
  n="0479b17" ed="T"/>菩薩所修習　　由所緣作意　　<lb
  n="0479b18" ed="T"/>證得殊勝故　　與二乘差別　　
 </ab></div><lb
- n="0479b19" ed="T"/><div type="pin" level="2"><head>辯修分位品第五</head><lb
- n="0479b20" ed="T"/><ab type="verse">
+ n="0479b19" ed="T"/><div type='pin' level='2'><head>辯修分位品第五</head><lb
+ n="0479b20" ed="T"/><ab type='verse'>
 所說修對治　　分位有十八　　<lb
  n="0479b21" ed="T"/>謂因入行果　　作無作殊勝　　<lb
  n="0479b22" ed="T"/>上無上解行　　入出離記說　　<lb
@@ -224,15 +224,15 @@
  n="0479b26" ed="T"/>依前諸位中　　所有差別相　　<lb
  n="0479b27" ed="T"/>隨所應建立　　諸補特伽羅　　
 </ab></div><lb
- n="0479b28" ed="T"/><div type="pin" level="2"><head>辯得果品第六</head><lb
- n="0479b29" ed="T"/><ab type="verse">
+ n="0479b28" ed="T"/><div type='pin' level='2'><head>辯得果品第六</head><lb
+ n="0479b29" ed="T"/><ab type='verse'>
 器說為異熟　　力是彼增上　　<pb n="0479c" id="T31.1601.0479c" ed="T"/><lb
  n="0479c01" ed="T"/>愛樂增長淨　　如次即五果　　<lb
  n="0479c02" ed="T"/>復略說餘果　　後後初數習　　<lb
  n="0479c03" ed="T"/>究竟順障滅　　離勝上無上　　
 </ab></div><lb
- n="0479c04" ed="T"/><div type="pin" level="2"><head>辯無上乘品第七</head><lb
- n="0479c05" ed="T"/><ab type="verse">
+ n="0479c04" ed="T"/><div type='pin' level='2'><head>辯無上乘品第七</head><lb
+ n="0479c05" ed="T"/><ab type='verse'>
 總由三無上　　說為無上乘　　<lb
  n="0479c06" ed="T"/>謂正行所緣　　及修證無上　　<lb
  n="0479c07" ed="T"/>正行有六種　　謂最勝作意　　<lb
@@ -295,5 +295,5 @@
  n="0480b06" ed="T"/>廣大一切義　　除諸不吉祥　　
 </ab><lb
  n="0480b07" ed="T"/>
-<ab type="juan" subtype="close">辯中邊論頌</ab></div></div>
+<ab type='juan' subtype='close'>辯中邊論頌</ab></div></div>
 </body></text></TEI>

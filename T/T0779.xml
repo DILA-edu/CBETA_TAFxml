@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T17</biblScope>
                     <idno type="Taisho">T17n0779</idno>
                 </bibl>
@@ -43,10 +43,10 @@
  n="0715b01" ed="T"/><lb
  n="0715b02" ed="T"/><lb
  n="0715b03" ed="T"/>
-<ab type="juan" subtype="open">佛說八大人覺經</ab><lb
+<ab type='juan' subtype='open'>佛說八大人覺經</ab><lb
  n="0715b04" ed="T"/><lb
  n="0715b05" ed="T"/><byline>後漢安息國三藏安世高譯</byline><lb
- n="0715b06" ed="T"/><div type="jing" level="1"><ab type="prose">為佛弟子，常於晝夜，至心誦念，八大人覺：<lb
+ n="0715b06" ed="T"/><div type='jing' level='1'><ab type='prose'>為佛弟子，常於晝夜，至心誦念，八大人覺：<lb
  n="0715b07" ed="T"/>第一覺悟：世間無常，國土危脆；四大苦空，五<lb
  n="0715b08" ed="T"/>陰無我；生滅變異，虛偽無主；心是惡源，形為<lb
  n="0715b09" ed="T"/>罪藪。如是觀察，漸離生死。<lb
@@ -73,5 +73,5 @@
  n="0715c01" ed="T"/>誦此八事，於念念中，滅無量罪；進趣菩提，速<lb
  n="0715c02" ed="T"/>登正覺；永斷生死，常住快樂。</ab></div><lb
  n="0715c03" ed="T"/>
-<ab type="juan" subtype="close">佛說八大人覺經</ab>
+<ab type='juan' subtype='close'>佛說八大人覺經</ab>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T12</biblScope>
                     <idno type="Taisho">T12n0382</idno>
                 </bibl>
@@ -43,10 +43,10 @@
  n="0988c22" ed="T"/><lb
  n="0988c23" ed="T"/><lb
  n="0988c24" ed="T"/>
-<ab type="juan" subtype="open">集一切福德三昧經卷上</ab><lb
+<ab type='juan' subtype='open'>集一切福德三昧經卷上</ab><lb
  n="0988c25" ed="T"/><lb
  n="0988c26" ed="T"/><byline>姚秦三藏鳩摩羅什譯</byline><lb
- n="0988c27" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時佛在毘舍離菴羅樹園大法<lb
+ n="0988c27" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時佛在毘舍離菴羅樹園大法<lb
  n="0988c28" ed="T"/>講堂，與大比丘眾十千人俱——皆阿羅漢，諸漏<lb
  n="0988c29" ed="T"/>已盡，無復煩惱；心得自在、心得好解脫、慧得<pb n="0989a" id="T12.0382.0989a" ed="T"/><lb
  n="0989a01" ed="T"/>好解脫，其心調柔如大龍王；所作已辦，捨離<lb
@@ -127,7 +127,7 @@
  n="0989c18" ed="T"/>「汝取持來。」時大目連即下至彼，如大力士屈<lb
  n="0989c19" ed="T"/>伸臂頃，一切大眾皆見其去，即便持來授與<lb
  n="0989c20" ed="T"/>如來，作如是言：「世尊！是菩薩時父母生力？為<lb
- n="0989c21" ed="T"/>神通力。」佛言：「是菩薩時父母生力，非神通力。<lb
+ n="0989c21" ed="T"/>神通力？」佛言：「是菩薩時父母生力，非神通力。<lb
  n="0989c22" ed="T"/>目連！菩薩若以神通之力，是箭即過無量無<lb
  n="0989c23" ed="T"/>邊諸佛世界。」大德目連白言：「世尊！乃是菩<lb
  n="0989c24" ed="T"/>薩父母所生福德之力。」佛告目連：「如十人<lb
@@ -391,7 +391,7 @@
  n="0992c21" ed="T"/>昧。「復次，善男子！復成就十法攝此集一切福<lb
  n="0992c22" ed="T"/>德三昧。何等為十？謂解無我、忍於無命、不<lb
  n="0992c23" ed="T"/>疑無人、緣法無常、於諸生處如地獄想、觀四<lb
- n="0992c24" ed="T"/>大如毒蛇、觀入如空聚、觀陰如魁󰐸、流出<lb
+ n="0992c24" ed="T"/>大如毒蛇、觀入如空聚、觀陰如魁𮫨、流出<lb
  n="0992c25" ed="T"/>諸有想、樂修解脫。善男子！是名成就十法攝<lb
  n="0992c26" ed="T"/>此集一切福德三昧。」爾時，淨威力士白佛言：<lb
  n="0992c27" ed="T"/>「世尊！若菩薩摩訶薩欲成就一切福德莊嚴<lb
@@ -494,13 +494,13 @@
  n="0994a06" ed="T"/>大財，具足七財成大福德，持百福相為大福<lb
  n="0994a07" ed="T"/>田，養育一切諸眾生等。」<lb
  n="0994a08" ed="T"/>
-</ab><ab type="juan" subtype="close">集一切福德三昧經卷上</ab><lb
+</ab><ab type='juan' subtype='close'>集一切福德三昧經卷上</ab><lb
  n="0994a09" ed="T"/><lb
  n="0994a10" ed="T"/>
-<ab type="juan" subtype="open">集一切福德三昧經卷中</ab><lb
+<ab type='juan' subtype='open'>集一切福德三昧經卷中</ab><lb
  n="0994a11" ed="T"/><lb
  n="0994a12" ed="T"/><byline>姚秦三藏鳩摩羅什譯</byline><lb
- n="0994a13" ed="T"/><ab type="prose">爾時，佛告淨威力士：「善男子！云何菩薩摩訶<lb
+ n="0994a13" ed="T"/><ab type='prose'>爾時，佛告淨威力士：「善男子！云何菩薩摩訶<lb
  n="0994a14" ed="T"/>薩淨戒莊嚴？謂戒淨無缺、不捨學戒，愍於毀<lb
  n="0994a15" ed="T"/>禁、極敬持戒，淨身三業、淨口四過、淨意三業，<lb
  n="0994a16" ed="T"/>自成十善、教他十善，不自稱譽、不起戒慢、勤<lb
@@ -816,7 +816,7 @@
  n="0997c07" ed="T"/>佛白言：「世尊！佛不妄笑，今者世尊何緣而笑？」<lb
  n="0997c08" ed="T"/>說偈問曰：<lb
  n="0997c09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「得無上智無垢眼，　　諸根寂靜到彼岸，　　<lb
  n="0997c10" ed="T"/>大光須彌金山色，　　導師以何因緣笑？　　<lb
  n="0997c11" ed="T"/>善知眾生諸根行，　　淨慧相應知三世，　　<lb
@@ -834,7 +834,7 @@
  n="0997c23" ed="T"/>非是聲聞之境界，　　亦非緣覺之所及，　　<lb
  n="0997c24" ed="T"/>是佛大海智境界，　　願說所為之因緣。」　　
 </ab><lb
- n="0997c25" ed="T"/><ab type="prose">爾時，佛告阿難：「汝今見是淨威力士住虛空<lb
+ n="0997c25" ed="T"/><ab type='prose'>爾時，佛告阿難：「汝今見是淨威力士住虛空<lb
  n="0997c26" ed="T"/>不？阿難！是淨威力士過三百億阿僧祇劫，當<lb
  n="0997c27" ed="T"/>得作佛，號多莊嚴王出現於世如來、應供、正遍<lb
  n="0997c28" ed="T"/>覺、明行足、善逝、世間解、無上士、調御丈夫、天人<lb
@@ -954,13 +954,13 @@
  n="0999a26" ed="T"/>是見名至正位。以何因緣名為正位？我與無<lb
  n="0999a27" ed="T"/>我二俱平等，如無我等諸法等起，是名正位。」<lb
  n="0999a28" ed="T"/>
-</ab><ab type="juan" subtype="close">集一切福德經卷中</ab><pb n="0999b" id="T12.0382.0999b" ed="T"/><lb
+</ab><ab type='juan' subtype='close'>集一切福德經卷中</ab><pb n="0999b" id="T12.0382.0999b" ed="T"/><lb
  n="0999b01" ed="T"/><lb
  n="0999b02" ed="T"/>
-<ab type="juan" subtype="open">集一切福德三昧經卷下</ab><lb
+<ab type='juan' subtype='open'>集一切福德三昧經卷下</ab><lb
  n="0999b03" ed="T"/><lb
  n="0999b04" ed="T"/><byline>姚秦三藏鳩摩羅什譯</byline><lb
- n="0999b05" ed="T"/><ab type="prose">爾時，那羅延菩薩即白佛言：「希有世尊！希有<lb
+ n="0999b05" ed="T"/><ab type='prose'>爾時，那羅延菩薩即白佛言：「希有世尊！希有<lb
  n="0999b06" ed="T"/>善逝！諸法如是性常寂滅，菩薩摩訶薩能聽<lb
  n="0999b07" ed="T"/>是法、能知是法、能信是法，不中涅槃。」佛告那<lb
  n="0999b08" ed="T"/>羅延：「菩薩方便力能如是。若菩薩成就善方<lb
@@ -1399,5 +1399,5 @@
  n="1004b06" ed="T"/>龍、夜叉、乾闥婆、阿修羅、世間人民，聞佛所說，<lb
  n="1004b07" ed="T"/>皆大歡喜。<lb
  n="1004b08" ed="T"/>
-</ab><ab type="juan" subtype="close">集一切福德經卷下</ab></div>
+</ab><ab type='juan' subtype='close'>集一切福德經卷下</ab></div>
 </body></text></TEI>

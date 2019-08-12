@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T13</biblScope>
                     <idno type="Taisho">T13n0409</idno>
                 </bibl>
@@ -39,15 +39,15 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0677b" ed="T" id="T13.0409.0677b"/><lb
  n="0677b01" ed="T"/><lb
  n="0677b02" ed="T"/><lb
  n="0677b03" ed="T"/>
-<ab type="juan" subtype="open">觀虛空藏菩薩經</ab><lb
+<ab type='juan' subtype='open'>觀虛空藏菩薩經</ab><lb
  n="0677b04" ed="T"/><lb
  n="0677b05" ed="T"/><byline>宋罽賓三藏曇摩蜜多譯</byline><lb
- n="0677b06" ed="T"/><div type="jing" level="2"><ab type="prose">如是我聞：一時，佛住佉陀羅山，依正覺仙人<lb
+ n="0677b06" ed="T"/><div type='jing' level='2'><ab type='prose'>如是我聞：一時，佛住佉陀羅山，依正覺仙人<lb
  n="0677b07" ed="T"/>所住之處，與千二百五十比丘俱。賢劫千菩<lb
  n="0677b08" ed="T"/>薩彌勒為首。爾時，長老優波離，即從坐起，整<lb
  n="0677b09" ed="T"/>衣服，為佛作禮，白佛言：「世尊先於功德經<lb
@@ -103,7 +103,7 @@
  n="0678a01" ed="T"/>為一人持毘尼者，為未來世無眼目眾生，作<lb
  n="0678a02" ed="T"/>眼目故，慎莫忘失。」時，優波離聞佛所說，歡喜<lb
  n="0678a03" ed="T"/>奉行。</ab></div><lb
- n="0678a04" ed="T"/><div type="w" level="2"><ab type="prose">右觀虛空藏菩薩經，按《開元錄》，係是單<lb
+ n="0678a04" ed="T"/><div type='w' level='2'><ab type='prose'>右觀虛空藏菩薩經，按《開元錄》，係是單<lb
  n="0678a05" ed="T"/>譯，止有二紙。經後舊尚有八紙經文，准校<lb
  n="0678a06" ed="T"/>勘大藏竹堂講師批，該是後人採集虛空<lb
  n="0678a07" ed="T"/>藏經呪，并諸經中佛名及呪，以為勸世修<lb
@@ -114,7 +114,7 @@
  n="0678a12" ed="T"/>尼經》同本，餘文皆例此。然詳觀所批理，亦<lb
  n="0678a13" ed="T"/>可以意會，徒存似是，姑為刪之。<lb
  n="0678a14" ed="T"/></ab>
-<ab type="dharani">阿彌隸奢阿彌隸奢迦留尼迦　遮羅遮羅<lb
+<ab type='dharani'>阿彌隸奢阿彌隸奢迦留尼迦　遮羅遮羅<lb
  n="0678a15" ed="T"/>毘遮羅珊遮羅迦留尼迦　羅茂羅羅茂羅毘<lb
  n="0678a16" ed="T"/>伽陀隷　摩懵呿復闍摩那迦留尼迦　真陀<lb
  n="0678a17" ed="T"/>摩尼富羅栘迦留尼迦　薩婆阿奢彌咃𠱀栘<lb
@@ -123,7 +123,7 @@
  n="0678a20" ed="T"/>　薩埵波咃遮阿輸迦竭坘莎呵<lb
  n="0678a21" ed="T"/><head>三十五佛名</head><lb
  n="0678a22" ed="T"/></ab>
-<ab type="prose">釋迦牟尼佛、金剛不壞身佛、寶光佛、<lb
+<ab type='prose'>釋迦牟尼佛、金剛不壞身佛、寶光佛、<lb
  n="0678a23" ed="T"/>龍尊王佛、精進軍佛、精進憙佛、<lb
  n="0678a24" ed="T"/>寶力佛、寶月光明佛、現無愚佛、<lb
  n="0678a25" ed="T"/>寶月佛、無垢佛、離垢佛、勇施佛、<lb
@@ -139,17 +139,17 @@
  n="0678b06" ed="T"/>過去三十五佛名<lb
  n="0678b07" ed="T"/><head>虛空藏菩薩陀羅尼</head><lb
  n="0678b08" ed="T"/></ab>
-<ab type="dharani">多擲哆　阿彌闍　迦留尼迦　遮羅<lb
+<ab type='dharani'>多擲哆　阿彌闍　迦留尼迦　遮羅<lb
  n="0678b09" ed="T"/>遮羅毘遮羅　迦留尼迦　茂羅羅囉茂<lb
  n="0678b10" ed="T"/>羅毘迦陀羅　摩摩劫呿　復奢摩那<lb
  n="0678b11" ed="T"/>　迦留尼迦真多摩尼　富羅栘　迦留<lb
  n="0678b12" ed="T"/>尼迦　薩埵舍摩　哆婆蛇　阿若陀<lb
  n="0678b13" ed="T"/>梨　婆破窮窮留提　毘脾伽窮　持<lb
- n="0678b14" ed="T"/>栗𨂠毘脾加窮　迦留尼迦　富梨蛇󰫟<lb
+ n="0678b14" ed="T"/>栗𨂠毘脾加窮　迦留尼迦　富梨蛇𮍜<lb
  n="0678b15" ed="T"/>摩摩阿舍　薩埵波利波遮　阿輸迦<lb
  n="0678b16" ed="T"/>竭提　莎呵<lb
  n="0678b17" ed="T"/></ab>
-<ab type="prose">若有眾生！種種諸病逼切其身，其心散亂，聾<lb
+<ab type='prose'>若有眾生！種種諸病逼切其身，其心散亂，聾<lb
  n="0678b18" ed="T"/>盲、瘖瘂諸根不具，肢節各異，時有死相，如是<lb
  n="0678b19" ed="T"/>等事。一向稱虛空藏菩薩摩訶薩名，除諸病<lb
  n="0678b20" ed="T"/>故，欲無病故，燒沈水黑堅沈水，若多竭流香，<lb
@@ -198,7 +198,7 @@
  n="0679a05" ed="T"/>心敬禮五十三佛名者，除滅四重、五逆及謗<lb
  n="0679a06" ed="T"/>方等，皆悉清淨。<lb
  n="0679a07" ed="T"/>毘婆尸佛、尸棄佛、毘舍佉佛、拘<lb
- n="0679a08" ed="T"/>留孫佛、拘那舍牟尼佛、迦葉佛、<lb
+ n="0679a08" ed="T"/>留孫佛、拘那含牟尼佛、迦葉佛、<lb
  n="0679a09" ed="T"/>釋迦牟尼佛、東方寶光月殿妙尊音王佛、<lb
  n="0679a10" ed="T"/>南方樹根華王佛、西方造王神通炎<lb
  n="0679a11" ed="T"/>華佛、北方月殿清淨佛、下方善寂月<lb
@@ -243,7 +243,7 @@
  n="0679b21" ed="T"/>東方空無菩薩、南方善思議菩薩、西<lb
  n="0679b22" ed="T"/>方喜信淨菩薩、北方神通華菩薩。<lb
  n="0679b23" ed="T"/>念禮四菩薩，得三世福，經趣佛道。<lb
- n="0679b24" ed="T"/>跋陀和菩薩、羅隣那竭菩薩、憍曰󰫟<lb
+ n="0679b24" ed="T"/>跋陀和菩薩、羅隣那竭菩薩、憍曰𮍜<lb
  n="0679b25" ed="T"/>菩薩、那羅達菩薩、須深彌菩薩、<lb
  n="0679b26" ed="T"/>摩訶須薩和菩薩、因坘達菩薩、和倫<lb
  n="0679b27" ed="T"/>調菩薩。<lb
@@ -279,7 +279,7 @@
  n="0679c28" ed="T"/>間。人間八塔，念禮亦令人得現世福。<lb
  n="0679c29" ed="T"/><head>集法悅捨苦陀羅尼經</head><pb n="0680a" ed="T" id="T13.0409.0680a"/><lb
  n="0680a01" ed="T"/></ab>
-<ab type="dharani">南無佛陀耶　南無達摩耶　南無僧伽<lb
+<ab type='dharani'>南無佛陀耶　南無達摩耶　南無僧伽<lb
  n="0680a02" ed="T"/>耶　南無毘首陀遮耶　南無阿伽竭浮<lb
  n="0680a03" ed="T"/>遮耶　南無摩訶薩婆婆伽利耶　多擲<lb
  n="0680a04" ed="T"/>姪哆林彌利　婆簸婆彌留遮呵<lb
@@ -289,7 +289,7 @@
  n="0680a08" ed="T"/>　比林婆闍呵陀舍耶輸　薩婆娑羅　三<lb
  n="0680a09" ed="T"/>蔓鉢汦波　波波利摩訶阿那莎呵<lb
  n="0680a10" ed="T"/></ab>
-<ab type="prose">爾時，佛告諸大眾言：「吾本無數劫中，處於凡<lb
+<ab type='prose'>爾時，佛告諸大眾言：「吾本無數劫中，處於凡<lb
  n="0680a11" ed="T"/>夫時，字遮他陀，在加倫邏國，作於商客販賣<lb
  n="0680a12" ed="T"/>治業。虛妄無實，造諸惡行，不可稱計；婬荒無<lb
  n="0680a13" ed="T"/>道，不可具說。是時愚癡，害父愛母，經數年中，<lb
@@ -334,11 +334,11 @@
  n="0680b23" ed="T"/>行之。」<lb
  n="0680b24" ed="T"/><head>虛空藏菩薩陀羅尼呪</head><lb
  n="0680b25" ed="T"/></ab>
-<ab type="dharani">南無佛兜佛多　摩訶目揵連莎　多擲<lb
+<ab type='dharani'>南無佛兜佛多　摩訶目揵連莎　多擲<lb
  n="0680b26" ed="T"/>他欹利吉利彌利踟利　薩婆伽欹<lb
  n="0680b27" ed="T"/>利彌利　薩婆伽彌利莎呵<lb
  n="0680b28" ed="T"/></ab>
-<ab type="prose">此陀羅尼，要月十四日、十五日明星出時，誦<lb
+<ab type='prose'>此陀羅尼，要月十四日、十五日明星出時，誦<lb
  n="0680b29" ed="T"/>之八百遍，燒好沈水香，香烟不絕，要用黃花<pb n="0680c" ed="T" id="T13.0409.0680c"/><lb
  n="0680c01" ed="T"/>八百枚，令人得福。若善男子！現身安隱，求心<lb
  n="0680c02" ed="T"/>中所願，無不獲得。若是女人！化成男子。能至<lb
@@ -346,5 +346,5 @@
  n="0680c04" ed="T"/>之罪，永不入惡趣。要用春秋涼時三月、四月<lb
  n="0680c05" ed="T"/>八月、九月。</ab></div><lb
  n="0680c06" ed="T"/>
-<ab type="juan" subtype="close">觀虛空藏菩薩經</ab></div>
+<ab type='juan' subtype='close'>觀虛空藏菩薩經</ab></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1058</idno>
                 </bibl>
@@ -39,17 +39,17 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0096b10" ed="T"/><lb
  n="0096b11" ed="T"/><lb
  n="0096b12" ed="T"/><lb
  n="0096b13" ed="T"/>
-<ab type="juan" subtype="open">千手千眼觀世音菩薩姥陀羅尼<lb
+<ab type='juan' subtype='open'>千手千眼觀世音菩薩姥陀羅尼<lb
  n="0096b14" ed="T"/>身經</ab><lb
  n="0096b15" ed="T"/><lb
  n="0096b16" ed="T"/><byline>唐天竺三藏菩提流志譯</byline><lb
- n="0096b17" ed="T"/><div type="jing" level="2"><ab type="prose">爾時觀世音菩薩摩訶薩。合掌恭敬白言世<lb
+ n="0096b17" ed="T"/><div type='jing' level='2'><ab type='prose'>爾時觀世音菩薩摩訶薩。合掌恭敬白言世<lb
  n="0096b18" ed="T"/>尊應正遍知。是我前身不可思議福德因緣。<lb
  n="0096b19" ed="T"/>今蒙世尊與我受記。欲令我身起以大慈悲<lb
  n="0096b20" ed="T"/>拔導心。當為利益一切眾生。斷諸結縛滅八<lb
@@ -88,7 +88,7 @@
  n="0096c24" ed="T"/>為當利益安樂。諸天時世人故。即於佛前變<lb
  n="0096c25" ed="T"/>說千手千眼姥陀羅尼大身呪曰。<lb
  n="0096c26" ed="T"/></ab>
-<ab type="dharani">娜麼薩婆若耶那謨曷囉<lb
+<ab type='dharani'>娜麼薩婆若耶那謨曷囉<lb
  n="0096c27" ed="T"/>怛娜哆囉耶野娜莫阿弭陀婆<lb
  n="0096c28" ed="T"/>耶怛他揭哆耶阿囉訶羝三藐三<lb
  n="0096c29" ed="T"/>悖陀耶娜莫阿利耶嚩路枳<pb n="0097a" id="T20.1058.0097a" ed="T"/><lb
@@ -138,7 +138,7 @@
  n="0097b23" ed="T"/>娑毘灑那舍麼迦摩訶菩提薩<lb
  n="0097b24" ed="T"/>埵皤囉馳莎嚩呵<lb
  n="0097b25" ed="T"/></ab>
-<ab type="prose">爾時觀世音菩薩摩訶薩。說此薄伽梵大蓮<lb
+<ab type='prose'>爾時觀世音菩薩摩訶薩。說此薄伽梵大蓮<lb
  n="0097b26" ed="T"/>花手嚴飾寶杖姥陀羅尼時。三千大千世界<lb
  n="0097b27" ed="T"/>乃至非想非非想天。皆六返震動。天雨寶<lb
  n="0097b28" ed="T"/>花繽紛亂墜。色究竟天摩醯首羅天。戰掉不<pb n="0097c" id="T20.1058.0097c" ed="T"/><lb
@@ -208,21 +208,21 @@
  n="0098b21" ed="T"/>慧辯才無礙。并日日誦姥陀羅尼一百八遍。<lb
  n="0098b22" ed="T"/>隨結一十二印擁護身故。</ab></div><lb
  n="0098b23" ed="T"/><head>千手千眼觀世音菩薩總攝身印第一</head><lb
- n="0098b24" ed="T"/><ab type="prose">先起立端身並脚齊立。右脚微曲少許。先以<lb
+ n="0098b24" ed="T"/><ab type='prose'>先起立端身並脚齊立。右脚微曲少許。先以<lb
  n="0098b25" ed="T"/>左手舒下。其無名指中指並屈掌中。小指<lb
  n="0098b26" ed="T"/>食指大母指散舒。仰掌向上。次以右手亦<lb
  n="0098b27" ed="T"/>然。當屈肘臂而與髆齊。掌面向外。若欲降<lb
  n="0098b28" ed="T"/>伏魔怨諸輩外道邪見稠林入正道者。當作<lb
  n="0098b29" ed="T"/>此印誦姥陀羅尼二十一遍必如所願。呪曰。<pb n="0098c" id="T20.1058.0098c" ed="T"/><lb
  n="0098c01" ed="T"/></ab>
-<ab type="dharani">那謨曷囉怛那跢囉夜耶那<lb
+<ab type='dharani'>那謨曷囉怛那跢囉夜耶那<lb
  n="0098c02" ed="T"/>謨阿利耶婆路枳帝攝伐囉耶菩提薩<lb
  n="0098c03" ed="T"/>埵耶摩訶薩埵耶摩訶迦盧抳迦耶怛<lb
  n="0098c04" ed="T"/>姪他阿跋陀阿跋陀跋唎跋帝󰫎醯<lb
  n="0098c05" ed="T"/>夷醯莎訶<lb
  n="0098c06" ed="T"/><head>千手千眼觀世音菩薩總持陀羅尼印第二</head><lb
  n="0098c07" ed="T"/></ab>
-<ab type="prose">準前身印合掌當心。以中指無名指小指。<lb
+<ab type='prose'>準前身印合掌當心。以中指無名指小指。<lb
  n="0098c08" ed="T"/>相叉左押右。以二頭指直竪頭相拄。其二大<lb
  n="0098c09" ed="T"/>母指各竪押頭指第一文。令掌少開。若善<lb
  n="0098c10" ed="T"/>男子善女人等作此印者。隨得滅除無量生<lb
@@ -236,11 +236,11 @@
  n="0098c18" ed="T"/>禪定解脫三摩地故。若常結此定印而供養<lb
  n="0098c19" ed="T"/>者。速見十方一切諸佛禪定。呪曰。<lb
  n="0098c20" ed="T"/></ab>
-<ab type="dharani">哆姪他薩婆陀羅尼曼茶羅耶󰫎醯夷<lb
+<ab type='dharani'>哆姪他薩婆陀羅尼曼茶羅耶󰫎醯夷<lb
  n="0098c21" ed="T"/>醯鉢囉麼輸馱薩跢跛耶莎嚩訶<lb
  n="0098c23" ed="T"/><head>千手千眼觀世音菩薩千眼印呪第四</head><lb
  n="0098c24" ed="T"/></ab>
-<ab type="prose">起立並足。先以二中指無名指小指。各以甲<lb
+<ab type='prose'>起立並足。先以二中指無名指小指。各以甲<lb
  n="0098c25" ed="T"/>背相著。其二頭指竪頭相拄。其二大母指側<lb
  n="0098c26" ed="T"/>搏。押頭指第二文上側。開腕五寸許置於<lb
  n="0098c27" ed="T"/>眉間。若常作此印呪法門者。漸得觀見百千<lb
@@ -248,19 +248,19 @@
  n="0098c29" ed="T"/>萬四千菩薩。與其行者同為伴侶。若未逕三<pb n="0099a" id="T20.1058.0099a" ed="T"/><lb
  n="0099a01" ed="T"/>曼拏攞法門者。必勿見此印法門故。呪曰。<lb
  n="0099a02" ed="T"/></ab>
-<ab type="dharani">唵薩婆斫芻伽羅耶陀囉尼因地<lb
+<ab type='dharani'>唵薩婆斫芻伽羅耶陀囉尼因地<lb
  n="0099a03" ed="T"/>唎耶莎訶<lb
  n="0099a04" ed="T"/><head>千手千眼觀世音菩薩千臂總攝印第五</head><lb
  n="0099a05" ed="T"/></ab>
-<ab type="prose">起立並足。先仰右手掌。五指各相附。後以左<lb
+<ab type='prose'>起立並足。先仰右手掌。五指各相附。後以左<lb
  n="0099a06" ed="T"/>手掌。仰押右掌上當心著。此印力能摧伏三<lb
  n="0099a07" ed="T"/>千大千世界一切魔怨。呪曰。<lb
  n="0099a08" ed="T"/></ab>
-<ab type="dharani">怛姪他婆盧枳帝攝伐囉耶薩婆訥<lb
+<ab type='dharani'>怛姪他婆盧枳帝攝伐囉耶薩婆訥<lb
  n="0099a09" ed="T"/>瑟吒烏訶耶彌莎訶<lb
  n="0099a10" ed="T"/><head>千手千眼觀世音菩薩通達三昧印第六</head><lb
  n="0099a11" ed="T"/></ab>
-<ab type="prose">起立以脚跟相跓。先以左手竪五指相搏屈<lb
+<ab type='prose'>起立以脚跟相跓。先以左手竪五指相搏屈<lb
  n="0099a12" ed="T"/>肘向前拆。次以右手亦然。屈肘向內拆之。此<lb
  n="0099a13" ed="T"/>印能令通達一切三昧智印。莊嚴八萬四千<lb
  n="0099a14" ed="T"/>法門。是諸法門皆因此法明。見三藐三菩提<lb
@@ -272,16 +272,16 @@
  n="0099a20" ed="T"/>二小指二中指直竪頭相跓合腕相著。以<lb
  n="0099a21" ed="T"/>頭指來去。呪曰。<lb
  n="0099a22" ed="T"/></ab>
-<ab type="dharani">唵薩婆提婆那伽阿那唎莎訶<lb
+<ab type='dharani'>唵薩婆提婆那伽阿那唎莎訶<lb
  n="0099a23" ed="T"/><head>千手千眼觀世音菩薩呼召大梵天王及召<lb
  n="0099a24" ed="T"/>憍尸迦來問法印第八</head><lb
  n="0099a25" ed="T"/></ab>
-<ab type="prose">准前印開腕。以指側相拄仰掌。以頭指來<lb
+<ab type='prose'>准前印開腕。以指側相拄仰掌。以頭指來<lb
  n="0099a26" ed="T"/>去。呪曰。<lb
  n="0099a27" ed="T"/></ab>
-<ab type="dharani">唵摩訶梵摩耶󰫎醯夷醯莎訶<lb
+<ab type='dharani'>唵摩訶梵摩耶󰫎醯夷醯莎訶<lb
  n="0099a28" ed="T"/></ab>
-<ab type="prose">此印呪法。能攝無量無數陀羅尼印。諸有法<lb
+<ab type='prose'>此印呪法。能攝無量無數陀羅尼印。諸有法<lb
  n="0099a29" ed="T"/>門悉皆來集。若日月蝕時。呪酥一百八遍。以<pb n="0099b" id="T20.1058.0099b" ed="T"/><lb
  n="0099b01" ed="T"/>印印酥食者。令人障滅聰明。於當生身日誦<lb
  n="0099b02" ed="T"/>萬偈。此印法門日藏如來。授與觀世音菩薩<lb
@@ -309,11 +309,11 @@
  n="0099b24" ed="T"/><head>千手千眼觀世音菩薩請佛三昧印第十二</head><lb
  n="0099b25" ed="T"/>准前印合掌當心。頭指來去。呪曰。<lb
  n="0099b26" ed="T"/></ab>
-<ab type="dharani">唵薩婆勃陀三摩耶󰫎醯夷醯鉢囉<lb
+<ab type='dharani'>唵薩婆勃陀三摩耶󰫎醯夷醯鉢囉<lb
  n="0099b27" ed="T"/>摩輸陀薩埵莎訶<lb
  n="0099b28" ed="T"/><head>千手千眼觀世音菩薩畫壇法</head><lb
  n="0099b29" ed="T"/></ab>
-<ab type="prose">復次白言世尊。是廣大神變姥曼拏攞呪印<pb n="0099c" id="T20.1058.0099c" ed="T"/><lb
+<ab type='prose'>復次白言世尊。是廣大神變姥曼拏攞呪印<pb n="0099c" id="T20.1058.0099c" ed="T"/><lb
  n="0099c01" ed="T"/>法門。能於後末世時。與諸呪者速得明見一<lb
  n="0099c02" ed="T"/>切如來種族呪壇平等無等三昧耶故。其持<lb
  n="0099c03" ed="T"/>法人常密祕口。誡諸誂論。片勿妄演是陀羅<lb
@@ -513,13 +513,13 @@
  n="0101c23" ed="T"/>惑亂者。取石榴枝柳枝等。陰誦此呪輕打病<lb
  n="0101c24" ed="T"/>人。無病不差。呪曰。<lb
  n="0101c25" ed="T"/></ab>
-<ab type="dharani">南無薩婆勃陀達摩僧祇比耶南無阿<lb
+<ab type='dharani'>南無薩婆勃陀達摩僧祇比耶南無阿<lb
  n="0101c26" ed="T"/>利耶嘙盧枳低攝伐羅󰪺菩提薩多跛寫<lb
  n="0101c27" ed="T"/>南無跋折囉跛尼寫菩提薩多跛寫<lb
  n="0101c28" ed="T"/>怛地他徒比徙比迦耶徒比娑羅闍<lb
  n="0101c29" ed="T"/>婆羅尼馺皤訶<pb n="0102a" id="T20.1058.0102a" ed="T"/><lb
  n="0102a01" ed="T"/></ab>
-<ab type="prose">此呪印力能降伏一切邪見外道。若有善男<lb
+<ab type='prose'>此呪印力能降伏一切邪見外道。若有善男<lb
  n="0102a02" ed="T"/>子善女人。能常日初出時午時日暮時。各誦<lb
  n="0102a03" ed="T"/>二十一遍者。即當種種珍寶花香飲食。供養<lb
  n="0102a04" ed="T"/>十億諸佛無有異也。若命終後永離三塗不<lb
@@ -574,11 +574,11 @@
  n="0102b24" ed="T"/>持此呪當說護持千眼印呪。<lb
  n="0102b25" ed="T"/><head>水精菩薩印呪第十七</head><lb
  n="0102b26" ed="T"/></ab>
-<ab type="dharani">毘摩隷摩訶毘摩隷郁呵隷摩訶郁<lb
+<ab type='dharani'>毘摩隷摩訶毘摩隷郁呵隷摩訶郁<lb
  n="0102b27" ed="T"/>呵隷休摩隷摩訶休摩隷薩訶隷止<lb
  n="0102b28" ed="T"/>隷涕馺婆訶<lb
  n="0102b29" ed="T"/></ab>
-<ab type="prose">世尊若有善男子善女人。在所遊方受持此<pb n="0102c" id="T20.1058.0102c" ed="T"/><lb
+<ab type='prose'>世尊若有善男子善女人。在所遊方受持此<pb n="0102c" id="T20.1058.0102c" ed="T"/><lb
  n="0102c01" ed="T"/>千手千眼菩薩法者。我當常隨衛護是人。不<lb
  n="0102c02" ed="T"/>令諸魔眷屬而作惱亂。若人急難他國相侵<lb
  n="0102c03" ed="T"/>盜賊逆亂。當取五色縷以此呪。一呪一結滿<lb
@@ -613,10 +613,10 @@
  n="0103a03" ed="T"/>指亦如把拳。令左手大母指。在右手虎口中<lb
  n="0103a04" ed="T"/>出頭。以右手頭指來去。呪曰。<lb
  n="0103a05" ed="T"/></ab>
-<ab type="dharani">唵俱智俱智俱耶利遮利遮利遮犁<lb
+<ab type='dharani'>唵俱智俱智俱耶利遮利遮利遮犁<lb
  n="0103a06" ed="T"/>隷蘇婆訶<lb
  n="0103a07" ed="T"/></ab>
-<ab type="prose">此印呪。若善男子善女人臨欲眠時。當結此<lb
+<ab type='prose'>此印呪。若善男子善女人臨欲眠時。當結此<lb
  n="0103a08" ed="T"/>印誦以此呪。一呪一印心上滿一百八遍者。<lb
  n="0103a09" ed="T"/>心中所願於夢寐中悉得知見。若常日日結<lb
  n="0103a10" ed="T"/>印誦者。速得除滅一切罪障。不失菩提之<lb
@@ -629,11 +629,11 @@
  n="0103a17" ed="T"/>握上作拳當心上著。次以右手亦如之竪。<lb
  n="0103a18" ed="T"/>以右手在右耳邊。以頭指來去。呪曰。<lb
  n="0103a19" ed="T"/></ab>
-<ab type="dharani">南無尼乾陀南無阿利闍波陀馺婆訶<lb
+<ab type='dharani'>南無尼乾陀南無阿利闍波陀馺婆訶<lb
  n="0103a20" ed="T"/>南無阿利闍羅馺婆訶堙醯夷醯馺婆訶<lb
  n="0103a21" ed="T"/><lb
  n="0103a22" ed="T"/></ab>
-<ab type="prose">此印呪若善男子善女人受持讀誦者。速知<lb
+<ab type='prose'>此印呪若善男子善女人受持讀誦者。速知<lb
  n="0103a23" ed="T"/>七世宿命之事。蛇毒藥毒不相災害。刀不能<lb
  n="0103a24" ed="T"/>害王不生瞋。永劫不受地獄之苦。若每日日<lb
  n="0103a25" ed="T"/>誦此呪時。能令二十八部鬼神。來詣誦呪人<lb
@@ -671,8 +671,8 @@
  n="0103b28" ed="T"/>根本啟請印兩手合掌虛於掌內以二頭指<lb
  n="0103b29" ed="T"/>來去。<pb n="0103c" id="T20.1058.0103c" ed="T"/><lb
  n="0103c01" ed="T"/></ab>
-<ab type="dharani">唵阿嚕力帝囇路迦毘社耶薩婆鑠<lb
+<ab type='dharani'>唵阿嚕力帝囇路迦毘社耶薩婆鑠<lb
  n="0103c02" ed="T"/>都嚧鉢囉麼馱那迦囉耶𤙖泮莎訶<lb
  n="0103c03" ed="T"/>
-</ab><ab type="juan" subtype="close">千手千眼觀世音菩薩姥陀羅尼身經</ab></div>
+</ab><ab type='juan' subtype='close'>千手千眼觀世音菩薩姥陀羅尼身經</ab></div>
 </body></text></TEI>

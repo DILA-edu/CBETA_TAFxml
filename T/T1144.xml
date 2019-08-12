@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1144</idno>
                 </bibl>
@@ -39,17 +39,17 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0600c10" ed="T"/><lb
  n="0600c11" ed="T"/><lb
  n="0600c12" ed="T"/><lb
  n="0600c13" ed="T"/>
-<ab type="juan" subtype="open">佛說彌勒菩薩發願王偈</ab><lb
+<ab type='juan' subtype='open'>佛說彌勒菩薩發願王偈</ab><lb
  n="0600c14" ed="T"/><lb
  n="0600c15" ed="T"/><byline>內閣掌譯西番蒙古諸文西番學<lb
  n="0600c16" ed="T"/>總管儀賓工布查布譯</byline><lb
- n="0600c17" ed="T"/><div type="jing" level="2"><ab type="prose">梵語阿鴉黑喇巴呢阿納喇<lb
+ n="0600c17" ed="T"/><div type='jing' level='2'><ab type='prose'>梵語阿鴉黑喇巴呢阿納喇<lb
  n="0600c18" ed="T"/>雜。<lb
  n="0600c19" ed="T"/>華言聖彌勒願王。<lb
  n="0600c20" ed="T"/>敬禮一切諸佛菩薩摩訶薩。<lb
@@ -57,7 +57,7 @@
  n="0600c22" ed="T"/>提行時。晝夜六時。偏袒右肩。右膝著地。合掌<lb
  n="0600c23" ed="T"/>恭敬。而發如是願文。<lb
  n="0600c24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 敬禮一切佛　　及具天眼仙　　<lb
  n="0600c25" ed="T"/>菩薩摩訶薩　　并諸聲聞眾　　<lb
  n="0600c26" ed="T"/>令避惡趣𡑞　　而示涅槃路　　<lb
@@ -107,7 +107,7 @@
  n="0601b12" ed="T"/>行此菩提道　　名稱慈氏子　　<lb
  n="0601b13" ed="T"/>圓滿六度行　　超於十地位　　
 </ab><lb
- n="0601b14" ed="T"/><ab type="verse">
+ n="0601b14" ed="T"/><ab type='verse'>
 我以此善願眾生　　命終速往兜率宮　　<lb
  n="0601b15" ed="T"/>受生皆於見法閣　　即為慈氏之長子　　<lb
  n="0601b16" ed="T"/>十地自在降閻浮　　證得十力大位時　　<lb
@@ -115,10 +115,10 @@
  n="0601b18" ed="T"/>從此命終承願力　　即得上生兜率天　　<lb
  n="0601b19" ed="T"/>忻慶奉事慈氏尊　　速得承授菩提記　　
 </ab><lb
- n="0601b20" ed="T"/><ab type="prose">阿難。當知慈氏菩薩摩訶薩。如此以實善巧<lb
+ n="0601b20" ed="T"/><ab type='prose'>阿難。當知慈氏菩薩摩訶薩。如此以實善巧<lb
  n="0601b21" ed="T"/>修淨行業。道路平順。而獲無上菩提。成等正<lb
  n="0601b22" ed="T"/>覺。成就真實大方便門。</ab></div><lb
- n="0601b23" ed="T"/><div type="w" level="2"><ab type="prose">按此經於漢藏未見。而番本亦無出。然西<lb
+ n="0601b23" ed="T"/><div type='w' level='2'><ab type='prose'>按此經於漢藏未見。而番本亦無出。然西<lb
  n="0601b24" ed="T"/>國諸賢。頗有註解。且普同作為恒常功課。<lb
  n="0601b25" ed="T"/>與華嚴行願品。三十五佛行願品。稱為三<lb
  n="0601b26" ed="T"/>種大懺願。愚略擬之。蓋初自梵文譯時。或<lb

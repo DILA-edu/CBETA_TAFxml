@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T13</biblScope>
                     <idno type="Taisho">T13n0419</idno>
                 </bibl>
@@ -43,11 +43,11 @@
  n="0920a01" ed="T"/><lb
  n="0920a02" ed="T"/><lb
  n="0920a03" ed="T"/>
-<ab type="juan" subtype="open">拔陂菩薩經</ab><lb
+<ab type='juan' subtype='open'>拔陂菩薩經</ab><lb
  n="0920a04" ed="T"/><lb
  n="0920a05" ed="T"/><byline>僧祐錄云安公古典<lb
  n="0920a06" ed="T"/>是般舟三昧經初異譯</byline><lb
- n="0920a07" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：佛在羅悅祇竹園多鳥樹下，與眾<lb
+ n="0920a07" ed="T"/><div type='jing' level='1'><ab type='prose'>聞如是：佛在羅悅祇竹園多鳥樹下，與眾<lb
  n="0920a08" ed="T"/>弟子五百比丘俱，皆是阿羅漢，所著盡，無<lb
  n="0920a09" ed="T"/>餘結，所作滿，所求具，皆已下重擔，悉至所<lb
  n="0920a10" ed="T"/>願，已斷於故胎，從政化度，皆悉度八禪，除一<lb
@@ -141,7 +141,7 @@
  n="0921a11" ed="T"/>尊法，悉依諸佛行，常願法不倦解待愚，如<lb
  n="0921a12" ed="T"/>來善交無處所行，在十方世常好行一切，為<lb
  n="0921a13" ed="T"/>人棄罪成福，默為日增已得入法門，譬如天<lb
- n="0921a14" ed="T"/>法身無形故常拏內人，為菩薩一切不斷諸<lb
+ n="0921a14" ed="T"/>法身無形故常掔內人，為菩薩一切不斷諸<lb
  n="0921a15" ed="T"/>佛諸行，不住止欲，具菩薩棄已被人鎧，雖<lb
  n="0921a16" ed="T"/>多怨嫉欲勝一切，於佛數數願如來十種<lb
  n="0921a17" ed="T"/>力地，一切想去已為知悉了，工校計知世聚<lb
@@ -325,7 +325,7 @@
  n="0923a21" ed="T"/>獨尊道；常營護如來教令諦不忘。是為四法，<lb
  n="0923a22" ed="T"/>菩薩用疾得是定。」佛爾時知是義，便說偈言：<lb
  n="0923a23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「當生信於尊令，　　莫畏法所空說，　　<lb
  n="0923a24" ed="T"/>行精進斷截臥，　　滿三月當坐行，　　<lb
  n="0923a25" ed="T"/>常說法尊所言，　　偏教令演其功，　　<lb
@@ -335,7 +335,7 @@
  n="0923a29" ed="T"/>過去佛及未來，　　常當念叉手住，　　<pb n="0923b" ed="T" id="T13.0419.0923b"/><lb
  n="0923b01" ed="T"/>亦見在人天尊，　　悉恭敬善法念。　　<lb
  n="0923b02" ed="T"/>常待遇於德王，　　以華香散其形，　　<lb
- n="0923b03" ed="T"/>與飲食常淨心，　　求是定當阿難，　　<lb
+ n="0923b03" ed="T"/>與飲食常淨心，　　求是定當何難，　　<lb
  n="0923b04" ed="T"/>鼓吹增及琴瑟，　　常作樂無量象，　　<lb
  n="0923b05" ed="T"/>造喜悅無數喜，　　常願求無極定。　　<lb
  n="0923b06" ed="T"/>常造作無比形，　　好分別相具好，　　<lb
@@ -349,7 +349,7 @@
  n="0923b14" ed="T"/>如是令善可待，　　所生滅如來說，　　<lb
  n="0923b15" ed="T"/>無數佛悉所教，　　所求定莫為難。　　
 </ab><lb
- n="0923b16" ed="T"/><ab type="prose">「拔陂！菩薩當於說法比丘恭敬，常當禮遇<lb
+ n="0923b16" ed="T"/><ab type='prose'>「拔陂！菩薩當於說法比丘恭敬，常當禮遇<lb
  n="0923b17" ed="T"/>具作待如尊，於是定便為進。拔陂！菩薩有於<lb
  n="0923b18" ed="T"/>說經比丘亂意，有念嫉怨恨無清淨心。拔陂！<lb
  n="0923b19" ed="T"/>眾非義所載，令許菩薩得是定意，至德尊滿<lb
@@ -364,7 +364,7 @@
  n="0923b28" ed="T"/>意具行，黠度定具行，得脫黠具行，度無上<lb
  n="0923b29" ed="T"/>黠具行。」佛爾時解是義說偈言：<pb n="0923c" ed="T" id="T13.0419.0923c"/><lb
  n="0923c01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「有眼觀上視空，　　於淨月中夜起，　　<lb
  n="0923c02" ed="T"/>見無數億千里，　　雖曉明意在識，　　<lb
  n="0923c03" ed="T"/>定意爾菩薩得，　　見無數千佛國，　　<lb
@@ -382,7 +382,7 @@
  n="0923c15" ed="T"/>信羞慚生想愛，　　悉遠棄世所可，　　<lb
  n="0923c16" ed="T"/>何不作世法施，　　從是得淨止地。　　
 </ab><lb
- n="0923c17" ed="T"/><ab type="prose">「拔陂！菩薩得定意，當起定意生精進。譬如<lb
+ n="0923c17" ed="T"/><ab type='prose'>「拔陂！菩薩得定意，當起定意生精進。譬如<lb
  n="0923c18" ed="T"/>船滿中諸寶，已度大海粗及此岸，船近於<lb
  n="0923c19" ed="T"/>岸邊沒，於是閻浮提人，當大舉聲稱怨，稱<lb
  n="0923c20" ed="T"/>復悲哭：『我曹已貧眾不見好寶。』拔陂！於是定<lb
@@ -425,7 +425,7 @@
  n="0924a28" ed="T"/>意，已聞復言，是福獨多。」佛爾時解是義，便<lb
  n="0924a29" ed="T"/>說偈言：<pb n="0924b" ed="T" id="T13.0419.0924b"/><lb
  n="0924b01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「一切是重三千，　　悉施與滿中寶，　　<lb
  n="0924b02" ed="T"/>願作佛如是行，　　常於世無雙二；　　<lb
  n="0924b03" ed="T"/>其能有得此經，　　善定意佛所尊，　　<lb
@@ -444,5 +444,5 @@
  n="0924b16" ed="T"/>口說法如海流，　　我所說為是賢。」　　
 </ab></div><lb
  n="0924b17" ed="T"/>
-<ab type="juan" subtype="close">拔陂菩薩經</ab>
+<ab type='juan' subtype='close'>拔陂菩薩經</ab>
 </body></text></TEI>

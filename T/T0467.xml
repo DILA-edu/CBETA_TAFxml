@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0467</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0489c18" ed="T"/><lb
  n="0489c19" ed="T"/><lb
  n="0489c20" ed="T"/>
-<ab type="juan" subtype="open">大乘伽耶山頂經</ab><lb
+<ab type='juan' subtype='open'>大乘伽耶山頂經</ab><lb
  n="0489c21" ed="T"/><lb
  n="0489c22" ed="T"/><byline>大唐天竺三藏菩提流志譯</byline><lb
- n="0489c23" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時婆伽婆住伽耶城山頂精舍，<lb
+ n="0489c23" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時婆伽婆住伽耶城山頂精舍，<lb
  n="0489c24" ed="T"/>與大比丘眾一千人俱。其先悉是長髮梵志，<lb
  n="0489c25" ed="T"/>皆阿羅漢——諸漏已盡、所作已辦，捨諸重擔、逮<lb
  n="0489c26" ed="T"/>得己利，盡諸有結、正知解脫，心得自在、到於<lb
@@ -64,7 +64,7 @@
  n="0490a08" ed="T"/>木、牆壁、瓦石，從於四大父母所生，無常敗壞<lb
  n="0490a09" ed="T"/>散滅之法，必假塗、洗、衣、食等緣而得存立。若<lb
  n="0490a10" ed="T"/>心證者，心如幻化，無相、無形，無所依處、無所<lb
- n="0490a11" ed="T"/>容受。又菩薩者，隨於世間而立名字，無音響、<lb
+ n="0490a11" ed="T"/>容受。又菩提者，隨於世間而立名字，無音響、<lb
  n="0490a12" ed="T"/>無形色，無成實、無相狀，無來、無去，不出、不入。<lb
  n="0490a13" ed="T"/>過於三界無有處所，不可見聞、不可憶念；離<lb
  n="0490a14" ed="T"/>攀緣處非戲論境，無所入、無文字，不可動搖、<lb
@@ -274,5 +274,5 @@
  n="0492b15" ed="T"/>子，及餘眾會一切世間天、人、阿修羅等，皆大<lb
  n="0492b16" ed="T"/>歡喜，信受奉行。</ab></div><lb
  n="0492b17" ed="T"/>
-<ab type="juan" subtype="close">大乘伽耶山頂經</ab>
+<ab type='juan' subtype='close'>大乘伽耶山頂經</ab>
 </body></text></TEI>

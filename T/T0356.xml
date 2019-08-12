@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T12</biblScope>
                     <idno type="Taisho">T12n0356</idno>
                 </bibl>
@@ -44,11 +44,11 @@
  n="0237a17" ed="T"/><lb
  n="0237a18" ed="T"/><lb
  n="0237a19" ed="T"/>
-<ab type="juan" subtype="open">佛說寶積三昧文殊師利菩薩問<lb
+<ab type='juan' subtype='open'>佛說寶積三昧文殊師利菩薩問<lb
  n="0237a20" ed="T"/>法身經</ab><lb
  n="0237a21" ed="T"/><lb
  n="0237a22" ed="T"/><byline>後漢安息三藏安世高譯</byline><lb
- n="0237a23" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時佛至羅閱祇耆闍崛山中，與千<lb
+ n="0237a23" ed="T"/><div type='jing' level='1'><ab type='prose'>聞如是：一時佛至羅閱祇耆闍崛山中，與千<lb
  n="0237a24" ed="T"/>二百五十比丘俱。文殊菩薩往到佛所，在門<lb
  n="0237a25" ed="T"/>外住。所以者何？佛坐三昧。未久佛覺，見文<lb
  n="0237a26" ed="T"/>殊。便請入，作禮而住。佛言：「且坐。」文殊問佛：<lb
@@ -203,5 +203,5 @@
  n="0239a01" ed="T"/>師利、菩薩，諸天人、世間人民、龍、鬼神，一切歡<lb
  n="0239a02" ed="T"/>喜，作禮而去。</ab></div><lb
  n="0239a03" ed="T"/>
-<ab type="juan" subtype="close">佛說寶積三昧文殊問法身經</ab>
+<ab type='juan' subtype='close'>佛說寶積三昧文殊問法身經</ab>
 </body></text></TEI>

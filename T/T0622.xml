@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T15</biblScope>
                     <idno type="Taisho">T15n0622</idno>
                 </bibl>
@@ -45,10 +45,10 @@
  n="0343c20" ed="T"/><lb
  n="0343c21" ed="T"/><lb
  n="0343c22" ed="T"/>
-<ab type="juan" subtype="open">佛說自誓三昧經</ab><lb
+<ab type='juan' subtype='open'>佛說自誓三昧經</ab><lb
  n="0343c23" ed="T"/><lb
  n="0343c24" ed="T"/><byline>後漢安息三藏安世高譯</byline><lb
- n="0343c25" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時佛遊摩竭提界梵志精廬大叢<lb
+ n="0343c25" ed="T"/><div type='jing' level='1'><ab type='prose'>聞如是：一時佛遊摩竭提界梵志精廬大叢<lb
  n="0343c26" ed="T"/>樹間珓露精舍，所止道場名曰顯颺獨證，初<lb
  n="0343c27" ed="T"/>始得佛光影甚明，自然寶零蓮華之座，與大<lb
  n="0343c28" ed="T"/>比丘眾比丘三萬二千，皆阿羅漢諸漏已盡，<lb
@@ -99,7 +99,7 @@
  n="0344b15" ed="T"/>是座中有菩薩名曰賢儒，即於佛前以偈讚<lb
  n="0344b16" ed="T"/>曰：<lb
  n="0344b17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「妙哉大聖化，　　愍哀群萌類，　　<lb
  n="0344b18" ed="T"/>從無央數劫，　　積累功德行。　　<lb
  n="0344b19" ed="T"/>一一功德行，　　有若干百千，　　<lb
@@ -113,7 +113,7 @@
  n="0344b27" ed="T"/>惠澤隨時宜，　　善權接群生，　　<lb
  n="0344b28" ed="T"/>法橋度一切，　　願禮三界尊。」　　
 </ab><lb
- n="0344b29" ed="T"/><ab type="prose">於是聖師告賢儒曰：「諸佛法笑有三因緣。何<pb n="0344c" ed="T" id="T15.0622.0344c"/><lb
+ n="0344b29" ed="T"/><ab type='prose'>於是聖師告賢儒曰：「諸佛法笑有三因緣。何<pb n="0344c" ed="T" id="T15.0622.0344c"/><lb
  n="0344c01" ed="T"/>謂為三？薩云若智深遠微妙，明暢三世達眾<lb
  n="0344c02" ed="T"/>生原，三乘趣向各有本行根信具足，或有菩<lb
  n="0344c03" ed="T"/>薩志存弘誓，被大德鎧為眾重任，斷所趣向<lb
@@ -153,13 +153,13 @@
  n="0345a08" ed="T"/>道迹，三界諸天普得法明。於是聖師而作<lb
  n="0345a09" ed="T"/>頌曰：<lb
  n="0345a10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「法界一切空，　　色身清淨真，　　<lb
  n="0345a11" ed="T"/>總持度無極，　　三昧無有因。　　<lb
  n="0345a12" ed="T"/>佛界亦不空，　　慧淨亦不有，　　<lb
  n="0345a13" ed="T"/>哀世表微笑，　　正士宜速受。」　　
 </ab><lb
- n="0345a14" ed="T"/><ab type="prose">於是座中有菩薩，名曰明見光賢，即從座起，<lb
+ n="0345a14" ed="T"/><ab type='prose'>於是座中有菩薩，名曰明見光賢，即從座起，<lb
  n="0345a15" ed="T"/>正衣服、偏露右臂，下右膝，長跪叉手，前白聖<lb
  n="0345a16" ed="T"/>師：「願有所問，唯聖師，以無量慧照釋未聞。」<lb
  n="0345a17" ed="T"/>世尊曰：「善哉！恣汝所問，今當為汝具敷大要。」<lb
@@ -263,5 +263,5 @@
  n="0346a28" ed="T"/>知，天子！比丘僧中必有三乘。』」說是語時，淨居<lb
  n="0346a29" ed="T"/>天子及八部眾，聞經歡喜，作禮而去。</ab></div><pb n="0346b" ed="T" id="T15.0622.0346b"/><lb
  n="0346b01" ed="T"/>
-<ab type="juan" subtype="close">佛說自誓三昧經</ab>
+<ab type='juan' subtype='close'>佛說自誓三昧經</ab>
 </body></text></TEI>

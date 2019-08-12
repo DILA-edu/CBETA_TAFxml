@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1324</idno>
                 </bibl>
@@ -41,15 +41,15 @@
     <text>
         <body><lb
  n="0490a04" ed="T"/><lb
- n="0490a05" ed="T"/><div type="jing" level="1"><lb
+ n="0490a05" ed="T"/><div type='jing' level='1'><lb
  n="0490a06" ed="T"/>
-<ab type="juan" subtype="open">能淨一切眼疾病陀羅尼經</ab><lb
+<ab type='juan' subtype='open'>能淨一切眼疾病陀羅尼經</ab><lb
  n="0490a07" ed="T"/><lb
  n="0490a08" ed="T"/><byline>開府儀同三司特進試鴻臚卿肅國<lb
  n="0490a09" ed="T"/>公食邑三千戶賜紫贈司空諡大鑒<lb
  n="0490a10" ed="T"/>正號大廣智大興善寺三藏沙門<lb
  n="0490a11" ed="T"/>不空奉　詔譯</byline><lb
- n="0490a12" ed="T"/><ab type="prose">如是我聞。一時薄伽梵。住迦毘羅衛國。釋迦<lb
+ n="0490a12" ed="T"/><ab type='prose'>如是我聞。一時薄伽梵。住迦毘羅衛國。釋迦<lb
  n="0490a13" ed="T"/>種族聚落。爾時有一釋種。住車尼摩迦聚落。<lb
  n="0490a14" ed="T"/>於佛淨信於法淨信於僧淨信。歸依於佛歸<lb
  n="0490a15" ed="T"/>依於法歸依於僧。不疑於佛不疑於法不疑<lb
@@ -65,11 +65,11 @@
  n="0490a25" ed="T"/>離疾病。廣令流布四部眾苾芻苾芻尼優婆<lb
  n="0490a26" ed="T"/>塞優婆夷及餘有情。真言曰。<lb
  n="0490a27" ed="T"/></ab>
-<ab type="dharani">怛儞也他呬里弭里黎枳呬里係<lb
+<ab type='dharani'>怛儞也他呬里弭里黎枳呬里係<lb
  n="0490a28" ed="T"/>帝護庾護庾護也麼寧護魯護魯怒魯怒<lb
  n="0490a29" ed="T"/>魯娑嚩訶<pb n="0490b" id="T21.1324.0490b" ed="T"/><lb
  n="0490b01" ed="T"/></ab>
-<ab type="prose">阿難陀此陀羅尼明王。眼垢風垢黃病痰病三<lb
+<ab type='prose'>阿難陀此陀羅尼明王。眼垢風垢黃病痰病三<lb
  n="0490b02" ed="T"/>集病。我及某甲眼勿令痛勿令流淚。以羅<lb
  n="0490b03" ed="T"/>漢實語禁戒實語。以苦行實語以諸仙實語。<lb
  n="0490b04" ed="T"/>以緣生實語。苦實語集實語。滅實語道實語。<lb
@@ -84,9 +84,9 @@
  n="0490b13" ed="T"/>阿難陀汝今受此陀羅尼。將往釋種聚落。授<lb
  n="0490b14" ed="T"/>與乞曬麼迦。傳我語令晝三時夜三時誦持此<lb
  n="0490b15" ed="T"/>陀羅尼。其阿難陀至彼授與乞曬麼迦。乞<lb
- n="0490b16" ed="T"/>曬麼迦纔聞此陀羅尼已。其眼脈已淨。眼耳<lb
+ n="0490b16" ed="T"/>曬麼迦纔聞此陀羅尼已。其眼脈已淨。眼目<lb
  n="0490b17" ed="T"/>得見離一切諸垢。爾時世尊說是經已。天人<lb
  n="0490b18" ed="T"/>阿修羅乾闥婆等。聞佛所說歡喜奉行。<lb
  n="0490b19" ed="T"/>
-</ab><ab type="juan" subtype="close">能淨一切眼疾病陀羅尼經</ab></div>
+</ab><ab type='juan' subtype='close'>能淨一切眼疾病陀羅尼經</ab></div>
 </body></text></TEI>

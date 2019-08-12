@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T03</biblScope>
                     <idno type="Taisho">T03n0155</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0108c13" ed="T"/><lb
  n="0108c14" ed="T"/><lb
- n="0108c15" ed="T"/><div type="jing" level="2"><lb
+ n="0108c15" ed="T"/><div type='jing' level='2'><lb
  n="0108c16" ed="T"/>
-<ab type="juan" subtype="open">佛說菩薩本行經卷上</ab><lb
+<ab type='juan' subtype='open'>佛說菩薩本行經卷上</ab><lb
  n="0108c17" ed="T"/><lb
  n="0108c18" ed="T"/><byline>失譯人名今附東晉錄</byline><lb
- n="0108c19" ed="T"/><ab type="prose">聞如是：一時，佛在舍衛國祇樹給孤獨園。爾<lb
+ n="0108c19" ed="T"/><ab type='prose'>聞如是：一時，佛在舍衛國祇樹給孤獨園。爾<lb
  n="0108c20" ed="T"/>時，世尊見諸沙門，身心懈怠不勤精進，告<lb
  n="0108c21" ed="T"/>阿難言：「夫懈怠者眾行之累，居家懈怠，則<lb
  n="0108c22" ed="T"/>衣食不供、產業不舉；出家懈怠，不能出離生<lb
@@ -104,13 +104,13 @@
  n="0109b14" ed="T"/>釋、無數諸天，異口同音讚言：『善哉善哉！奇特<lb
  n="0109b15" ed="T"/>難及！』時，天帝釋便說偈言：<lb
  n="0109b16" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『欲求最勝道，　　不惜其軀命，　　<lb
  n="0109b17" ed="T"/>棄身如糞土，　　解了無吾我。　　<lb
  n="0109b18" ed="T"/>雖用財寶施，　　此事不為難，　　<lb
  n="0109b19" ed="T"/>勇猛如是者，　　精進得佛疾。』　　
 </ab><lb
- n="0109b20" ed="T"/><ab type="prose">「時，天帝釋語菩薩言：『汝大勇猛精進難及，過<lb
+ n="0109b20" ed="T"/><ab type='prose'>「時，天帝釋語菩薩言：『汝大勇猛精進難及，過<lb
  n="0109b21" ed="T"/>踰於此五百菩薩所施者，上百千億倍不<lb
  n="0109b22" ed="T"/>可計倍，當先在前而得作佛。』帝釋諸天以<lb
  n="0109b23" ed="T"/>天香花，而散其上歡喜而去。」佛告阿難：「爾<lb
@@ -263,7 +263,7 @@
  n="0111a25" ed="T"/>婆羅門見佛歡喜，清淨敬意遶佛一匝。以此<lb
  n="0111a26" ed="T"/>功德，從是以後二十五劫不墮三塗，天上人<lb
  n="0111a27" ed="T"/>中所生之處快樂無極；竟二十五劫當得辟<lb
- n="0111a28" ed="T"/>支佛，名特󰍺那祇梨。」阿難及一切大眾，聞<lb
+ n="0111a28" ed="T"/>支佛，名特𭣋那祇梨。」阿難及一切大眾，聞<lb
  n="0111a29" ed="T"/>佛所說，身心清淨，有得須陀洹、斯陀含、阿那<pb n="0111b" ed="T" id="T03.0155.0111b"/><lb
  n="0111b01" ed="T"/>含、阿羅漢者，或發無上正真道者。眾會歡<lb
  n="0111b02" ed="T"/>喜，為佛作禮，右遶而去。<lb
@@ -454,11 +454,11 @@
  n="0113b13" ed="T"/>言：『先說經法，然後燃燈。』而婆羅門，為王唯<lb
  n="0113b14" ed="T"/>說一偈言：<lb
  n="0113b15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『常者皆盡，　　高者亦墮，　　<lb
  n="0113b16" ed="T"/>合會有離，　　生者有死。』　　
 </ab><lb
- n="0113b17" ed="T"/><ab type="prose">「王聞偈已歡喜踊躍，告諸群臣、夫人婇女，皆悉<lb
+ n="0113b17" ed="T"/><ab type='prose'>「王聞偈已歡喜踊躍，告諸群臣、夫人婇女，皆悉<lb
  n="0113b18" ed="T"/>受誦，即便䟽偈題著諸門街陌里巷，勅諸人<lb
  n="0113b19" ed="T"/>民皆令諷誦，下閻浮提諸王臣民亦令諷誦。<lb
  n="0113b20" ed="T"/>於是大王告婆羅門：『今可燃燈。』王便立誓：<lb
@@ -491,16 +491,16 @@
  n="0113c18" ed="T"/>我身是，時婆羅門者，調達是。菩薩求習智慧，<lb
  n="0113c19" ed="T"/>精進如是。」<lb
  n="0113c20" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說菩薩本行經卷上</ab></div><lb
- n="0113c21" ed="T"/><div type="w" level="2"><ab type="prose">丹藏以此卷為下卷，以中為上，以下為中。<lb
+</ab><ab type='juan' subtype='close'>佛說菩薩本行經卷上</ab></div><lb
+ n="0113c21" ed="T"/><div type='w' level='2'><ab type='prose'>丹藏以此卷為下卷，以中為上，以下為中。<lb
  n="0113c22" ed="T"/>今詳始末，丹藏錯耳。</ab></div><lb
  n="0113c23" ed="T"/><lb
  n="0113c24" ed="T"/><lb
- n="0113c25" ed="T"/><div type="None" level="2">
-<ab type="juan" subtype="open">佛說菩薩本行經卷中</ab><lb
+ n="0113c25" ed="T"/><div type='' level='2'>
+<ab type='juan' subtype='open'>佛說菩薩本行經卷中</ab><lb
  n="0113c26" ed="T"/><lb
  n="0113c27" ed="T"/><byline>失譯人名今附東晉錄</byline><lb
- n="0113c28" ed="T"/><ab type="prose">昔佛在舍衛國祇樹給孤獨園。時，有賢者名<lb
+ n="0113c28" ed="T"/><ab type='prose'>昔佛在舍衛國祇樹給孤獨園。時，有賢者名<lb
  n="0113c29" ed="T"/>曰須達，居家貧窮無有財產，至信道德。往<pb n="0114a" ed="T" id="T03.0155.0114a"/><lb
  n="0114a01" ed="T"/>至佛所，頭面作禮稽首佛足，却坐一面聽<lb
  n="0114a02" ed="T"/>說經法。佛問須達：「在家之士當行布施、不布<lb
@@ -616,19 +616,19 @@
  n="0115a25" ed="T"/>愛欲都已永盡無復欲事，汝等若欲須夫婿<lb
  n="0115a26" ed="T"/>者各隨所好，欲在此者供給衣食令無乏少。」<lb
  n="0115a27" ed="T"/>諸婦女等各各從意隨其所樂。時，有一婦人，<lb
- n="0115a28" ed="T"/>󰥩穀作󰉓，有䍧牴來抴󰥩麥，不可奈何，捉<lb
+ n="0115a28" ed="T"/>𭴥穀作󰉓，有䍧牴來抴𭴥麥，不可奈何，捉<lb
  n="0115a29" ed="T"/>𢱦火杖用打䍧牴，杖頭有火著羊毛住，羊<pb n="0115b" ed="T" id="T03.0155.0115b"/><lb
  n="0115b01" ed="T"/>得火熱用揩象廐，象廐火然并燒王象，象<lb
  n="0115b02" ed="T"/>身爛破便殺獼猴用拍象身。天於空中而說<lb
  n="0115b03" ed="T"/>偈言：<lb
  n="0115b04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「瞋恚鬪諍邊，　　不當於中止，　　<lb
  n="0115b05" ed="T"/>羯羠共相牴，　　蠅蛾於中死。　　<lb
  n="0115b06" ed="T"/>婢共䍧牴鬪，　　獼猴而坐死，　　<lb
  n="0115b07" ed="T"/>智者遠嫌疑，　　莫與愚人止。」　　
 </ab><lb
- n="0115b08" ed="T"/><ab type="prose">波斯匿王勅臣作限：「自今以去，夜不得燃火<lb
+ n="0115b08" ed="T"/><ab type='prose'>波斯匿王勅臣作限：「自今以去，夜不得燃火<lb
  n="0115b09" ed="T"/>及於燈燭，其有犯者罰金千兩。」爾時，須達<lb
  n="0115b10" ed="T"/>得道在家晝夜坐禪，初人定時，燃燈坐禪，<lb
  n="0115b11" ed="T"/>夜半休息，鷄鳴復燃燈坐禪。伺捕得之，捉<lb
@@ -684,11 +684,11 @@
  n="0116a03" ed="T"/>所，以持禁戒而不受之實為甚難。」於是四<lb
  n="0116a04" ed="T"/>人各各自說如是，即於佛前而說頌曰：<lb
  n="0116a05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「貧窮布施難，　　豪貴忍辱難，　　<lb
  n="0116a06" ed="T"/>危嶮持戒難，　　少壯捨欲難。」　　
 </ab><lb
- n="0116a07" ed="T"/><ab type="prose">佛說偈已重說經法，王及臣民皆大歡喜，為<lb
+ n="0116a07" ed="T"/><ab type='prose'>佛說偈已重說經法，王及臣民皆大歡喜，為<lb
  n="0116a08" ed="T"/>佛作禮而去。<lb
  n="0116a09" ed="T"/>聞如是：一時，佛在羅閱祇比留畔迦蘭陀尼<lb
  n="0116a10" ed="T"/>波僧伽藍，優連聚落有一泉水，中有毒龍名<lb
@@ -953,22 +953,22 @@
  n="0119a08" ed="T"/>所。於是世尊進至毘舍離城，到門閫上，而<lb
  n="0119a09" ed="T"/>說偈言：<lb
  n="0119a10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「在地諸天神，　　虛空住諸天，　　<lb
  n="0119a11" ed="T"/>諸來在此者，　　皆當發慈心。　　<lb
  n="0119a12" ed="T"/>晝夜懷歡喜，　　當隨正法言，　　<lb
  n="0119a13" ed="T"/>勿得懷害意，　　嬈惱諸人民。」　　
 </ab><lb
  n="0119a14" ed="T"/>
-<ab type="juan" subtype="close">佛說菩薩本行經卷中</ab><lb
+<ab type='juan' subtype='close'>佛說菩薩本行經卷中</ab><lb
  n="0119a15" ed="T"/><lb
  n="0119a16" ed="T"/><lb
  n="0119a17" ed="T"/><lb
  n="0119a18" ed="T"/>
-<ab type="juan" subtype="open">佛說菩薩本行經卷下</ab><lb
+<ab type='juan' subtype='open'>佛說菩薩本行經卷下</ab><lb
  n="0119a19" ed="T"/><lb
  n="0119a20" ed="T"/><byline>失譯人名今附東晉錄</byline><lb
- n="0119a21" ed="T"/><ab type="prose">爾時，如來說是正真微妙語時，諸疫鬼輩<lb
+ n="0119a21" ed="T"/><ab type='prose'>爾時，如來說是正真微妙語時，諸疫鬼輩<lb
  n="0119a22" ed="T"/>皆走去向摩竭國，毘舍離國病盡除差。時，佛<lb
  n="0119a23" ed="T"/>復還摩竭國中，疫鬼復還毘舍離國。爾時，<lb
  n="0119a24" ed="T"/>世尊往來七返，即便說言：「我從無數劫<lb
@@ -1136,13 +1136,13 @@
  n="0121a12" ed="T"/>意視佛。」即便恭肅敬意，以踊躍心叉手而住<lb
  n="0121a13" ed="T"/>視於如來，以偈歎佛，而說頌曰：<lb
  n="0121a14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「表容紫金耀，　　三十二相明，　　<lb
  n="0121a15" ed="T"/>一切眾生類，　　覩者莫不歡。　　<lb
  n="0121a16" ed="T"/>見佛心踊躍，　　憂愁皆銷除，　　<lb
  n="0121a17" ed="T"/>永度生死海，　　稽首禮大安。」　　
 </ab><lb
- n="0121a18" ed="T"/><ab type="prose">爾時，世尊欣然而笑，五色光從口中出，有千<lb
+ n="0121a18" ed="T"/><ab type='prose'>爾時，世尊欣然而笑，五色光從口中出，有千<lb
  n="0121a19" ed="T"/>百奇，一一光頭出無數明，一一光端有七寶<lb
  n="0121a20" ed="T"/>蓮花，一一花上皆有化佛遍照十方。下至<lb
  n="0121a21" ed="T"/>諸大地獄，上至三十三天，遍照五道幽冥<lb
@@ -1202,13 +1202,13 @@
  n="0121c17" ed="T"/>得。』時，婆羅門伺王出時，在路傍住，即歎白象<lb
  n="0121c18" ed="T"/>而說偈言：<lb
  n="0121c19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『汝身甚姝好，　　猶若天帝象，　　<lb
  n="0121c20" ed="T"/>眾象相具足，　　福德甚巍巍。　　<lb
  n="0121c21" ed="T"/>形影無雙比，　　猶若白雪光，　　<lb
  n="0121c22" ed="T"/>身體甚難及，　　奇特不可量。』　　
 </ab><lb
- n="0121c23" ed="T"/><ab type="prose">「爾時，國王聞歎白象，大用歡喜，賜婆羅門金<lb
+ n="0121c23" ed="T"/><ab type='prose'>「爾時，國王聞歎白象，大用歡喜，賜婆羅門金<lb
  n="0121c24" ed="T"/>錢五百，便用致富。」佛告阿難：「爾時象幡者，<lb
  n="0121c25" ed="T"/>則我身是。時婆羅門者，今此婆羅門是。爾<lb
  n="0121c26" ed="T"/>時歎我而得益利，用濟窮乏。今我成佛而復<lb
@@ -1345,7 +1345,7 @@
  n="0123b12" ed="T"/>邪；行此諸惡死入地獄，燒炙榜笞，萬毒<lb
  n="0123b13" ed="T"/>皆更痛不可言。負債不償，借貸不歸，觝突<lb
  n="0123b14" ed="T"/>無信，憍慢自大，謗毀三寶，死墮畜生，驢馬<lb
- n="0123b15" ed="T"/>駱駝、猪羊狗犬、師子虎狼、蚖虵蝮蝎󰏍蝪及<lb
+ n="0123b15" ed="T"/>駱駝、猪羊狗犬、師子虎狼、蚖虵蝮蝎𮔋蝪及<lb
  n="0123b16" ed="T"/>餘禽獸，更相殘害毒心熾盛，宛轉受苦無<lb
  n="0123b17" ed="T"/>有出期。慳貪嫉妬，不肯布施不知衣食，不<lb
  n="0123b18" ed="T"/>信三尊，慳火所燒，死墮餓鬼形體羸瘦，骨<lb
@@ -1403,5 +1403,5 @@
  n="0124a12" ed="T"/>心亦好，至于今世其心亦好。」時，諸比丘聞<lb
  n="0124a13" ed="T"/>佛所說，皆大歡喜，為佛作禮。<lb
  n="0124a14" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說菩薩本行經卷下</ab></div></div>
+</ab><ab type='juan' subtype='close'>佛說菩薩本行經卷下</ab></div></div>
 </body></text></TEI>

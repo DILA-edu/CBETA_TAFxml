@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n0919</idno>
                 </bibl>
@@ -43,14 +43,14 @@
  n="0001c06" ed="T"/><lb
  n="0001c07" ed="T"/><lb
  n="0001c08" ed="T"/><lb
- n="0001c09" ed="T"/><div type="jing" level="1"><lb
+ n="0001c09" ed="T"/><div type='jing' level='1'><lb
  n="0001c10" ed="T"/>
-<ab type="juan" subtype="open">諸佛心印陀羅尼經</ab><lb
+<ab type='juan' subtype='open'>諸佛心印陀羅尼經</ab><lb
  n="0001c11" ed="T"/><lb
  n="0001c12" ed="T"/><byline>西天譯經三藏朝散大<lb
  n="0001c13" ed="T"/>夫試鴻臚少卿傳教大師<lb
  n="0001c14" ed="T"/>臣法天奉　詔譯</byline><lb
- n="0001c15" ed="T"/><ab type="prose">如是我聞：一時，佛在兜率陀天眾寶莊嚴菩<lb
+ n="0001c15" ed="T"/><ab type='prose'>如是我聞：一時，佛在兜率陀天眾寶莊嚴菩<lb
  n="0001c16" ed="T"/>薩宮殿曼拏羅中，無數菩薩相好莊嚴，知<lb
  n="0001c17" ed="T"/>法真際諸如來子，皆從種種佛剎土來，各禮<lb
  n="0001c18" ed="T"/>佛足退坐一面。<lb
@@ -63,16 +63,16 @@
  n="0001c25" ed="T"/>侵嬈害，千劫輪迴，不生魔界，無上菩提，速疾<lb
  n="0001c26" ed="T"/>證得。」爾時世尊即說呪曰：<lb
  n="0001c27" ed="T"/></ab>
-<ab type="dharani">「怛儞野他　沒弟沒弟　沒弟摩諦<lb
+<ab type='dharani'>「怛儞野他　沒弟沒弟　沒弟摩諦<lb
  n="0001c28" ed="T"/>　三滿多沒馱　努誐野諦　沒馱沒馱<lb
  n="0001c29" ed="T"/>　沒馱沒馱　沒馱沒馱　沒馱　阿難覩<pb n="0002a" ed="T" id="T19.0919.0002a"/><lb
  n="0002a01" ed="T"/>　沒馱尾沙野　阿難哆　達哩摩禰<lb
  n="0002a02" ed="T"/>舍曩　娑嚩賀」<lb
  n="0002a03" ed="T"/></ab>
-<ab type="prose">佛言：「此佛心印大陀羅尼，有大威力，利益眾<lb
+<ab type='prose'>佛言：「此佛心印大陀羅尼，有大威力，利益眾<lb
  n="0002a04" ed="T"/>生。「我今復說一切諸佛心印陀羅尼，曰：<lb
  n="0002a05" ed="T"/></ab>
-<ab type="dharani">「『怛儞野他　賀囉賀囉　左羅左羅　散<lb
+<ab type='dharani'>「『怛儞野他　賀囉賀囉　左羅左羅　散<lb
  n="0002a06" ed="T"/>左羅　散左羅　多羅多羅　三多羅　三多羅<lb
  n="0002a07" ed="T"/>　呬尼　哩尼　娑摩哩尼　囉拏鉢諦<lb
  n="0002a08" ed="T"/>　囉拏鉢諦　路迦馱哩　路迦馱<lb
@@ -88,11 +88,11 @@
  n="0002a18" ed="T"/>娑囉　尾娑囉　薩哩嚩努沙　波<lb
  n="0002a19" ed="T"/>誐諦　娑嚩賀』」<lb
  n="0002a20" ed="T"/></ab>
-<ab type="prose">爾時，世尊說此呪時，諸天宮殿一切大地，山<lb
+<ab type='prose'>爾時，世尊說此呪時，諸天宮殿一切大地，山<lb
  n="0002a21" ed="T"/>川林野須彌山等，六種震動，大海涌沸。魔王<lb
  n="0002a22" ed="T"/>愁怖，合掌歸依：「三世諸佛，一切菩薩，施我無<lb
  n="0002a23" ed="T"/>畏，我及眷屬誓護佛法。」爾時，世尊說是法已，<lb
  n="0002a24" ed="T"/>一切菩薩，及諸天人，聞佛所說，信受奉行。<lb
  n="0002a25" ed="T"/>
-</ab><ab type="juan" subtype="close">諸佛心印陀羅尼經</ab></div>
+</ab><ab type='juan' subtype='close'>諸佛心印陀羅尼經</ab></div>
 </body></text></TEI>

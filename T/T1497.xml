@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T24</biblScope>
                     <idno type="Taisho">T24n1497</idno>
                 </bibl>
@@ -44,11 +44,11 @@
  n="1104a10" ed="T"/><lb
  n="1104a11" ed="T"/><lb
  n="1104a12" ed="T"/>
-<ab type="juan" subtype="open">佛說大乘戒經</ab><lb
+<ab type='juan' subtype='open'>佛說大乘戒經</ab><lb
  n="1104a13" ed="T"/><lb
  n="1104a14" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚卿<lb
  n="1104a15" ed="T"/>傳法大師臣施護奉　詔譯</byline><lb
- n="1104a16" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時佛在舍衛國祇樹給孤獨園。<lb
+ n="1104a16" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時佛在舍衛國祇樹給孤獨園。<lb
  n="1104a17" ed="T"/>爾時世尊告苾芻言：「有破壞戒行壽命者、有<lb
  n="1104a18" ed="T"/>斷滅善根者，出家難值，發精進心，堅固守護。<lb
  n="1104a19" ed="T"/>若諸苾芻等，於佛法中求解脫者，遠離一切<lb
@@ -72,5 +72,5 @@
  n="1104b08" ed="T"/>不得嗜慾！」佛說是經已，時彼苾芻及諸菩<lb
  n="1104b09" ed="T"/>薩皆大歡喜，信受奉行。</ab></div><lb
  n="1104b10" ed="T"/>
-<ab type="juan" subtype="close">佛說大乘戒經</ab>
+<ab type='juan' subtype='close'>佛說大乘戒經</ab>
 </body></text></TEI>

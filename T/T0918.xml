@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n0918</idno>
                 </bibl>
@@ -41,12 +41,12 @@
     <text>
         <body><pb n="0001a" id="T19.0918.0001a" ed="T"/><lb
  n="0001a01" ed="T"/><lb
- n="0001a02" ed="T"/><div type="jing" level="1"><lb
+ n="0001a02" ed="T"/><div type='jing' level='1'><lb
  n="0001a03" ed="T"/>
-<ab type="juan" subtype="open">諸佛心陀羅尼經</ab><lb
+<ab type='juan' subtype='open'>諸佛心陀羅尼經</ab><lb
  n="0001a04" ed="T"/><lb
  n="0001a05" ed="T"/><byline>大唐三藏法師玄奘奉　詔譯</byline><lb
- n="0001a06" ed="T"/><ab type="prose">如是我聞一時薄伽梵住如來境眾寶道場。<lb
+ n="0001a06" ed="T"/><ab type='prose'>如是我聞一時薄伽梵住如來境眾寶道場。<lb
  n="0001a07" ed="T"/>諸佛所都諸佛所樂。智無疑滯菩薩妙宮。具<lb
  n="0001a08" ed="T"/>諸微妙種種嚴飾常演法音大功德殿。與無<lb
  n="0001a09" ed="T"/>央數大菩薩俱。皆是如來法身真子。從諸佛<lb
@@ -65,7 +65,7 @@
  n="0001a22" ed="T"/>共所稱揚。即是諸佛文字章句。汝應諦聽陀<lb
  n="0001a23" ed="T"/>羅尼曰。<lb
  n="0001a24" ed="T"/></ab>
-<ab type="dharani">佛睇　蘇佛睇　莫訶佛睇　壹底佛睇　呾<lb
+<ab type='dharani'>佛睇　蘇佛睇　莫訶佛睇　壹底佛睇　呾<lb
  n="0001a25" ed="T"/>呾囉佛睇　佛睇佛睇　三摩佛睇　頞鞞佛<lb
  n="0001a26" ed="T"/>睇　沒栗度佛睇　佛陀　末底　佛睇　莫<lb
  n="0001a27" ed="T"/>訶佛陀末底佛睇　薩縛佛陀　頞奴末帝<lb
@@ -94,7 +94,7 @@
  n="0001b21" ed="T"/>薩𠸪　般賴薩𠸪　般賴薩𠸪　毘薩𠸪毘<lb
  n="0001b22" ed="T"/>薩𠸪　薩縛度沙阿波揭帝　莎訶<lb
  n="0001b23" ed="T"/></ab>
-<ab type="prose">佛說如是一切佛心具大威德陀羅尼已。即<lb
+<ab type='prose'>佛說如是一切佛心具大威德陀羅尼已。即<lb
  n="0001b24" ed="T"/>時三千大千世界大地大海。妙高山王一切<lb
  n="0001b25" ed="T"/>同時十八震動。諸天宮殿皆悉傾搖。兇悖魔<lb
  n="0001b26" ed="T"/>軍威光失滅。相顧惶恐戰懼懷憂。時三千界<lb
@@ -106,5 +106,5 @@
  n="0001c03" ed="T"/>受持獲勝利樂。時諸菩薩及餘眾會。皆大歡<lb
  n="0001c04" ed="T"/>喜信受奉行。<lb
  n="0001c05" ed="T"/>
-</ab><ab type="juan" subtype="close">諸佛心陀羅尼經</ab></div>
+</ab><ab type='juan' subtype='close'>諸佛心陀羅尼經</ab></div>
 </body></text></TEI>

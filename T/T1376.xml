@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1376</idno>
                 </bibl>
@@ -42,13 +42,13 @@
         <body><lb
  n="0895c22" ed="T"/><lb
  n="0895c23" ed="T"/><lb
- n="0895c24" ed="T"/><div type="jing" level="1"><lb
+ n="0895c24" ed="T"/><div type='jing' level='1'><lb
  n="0895c25" ed="T"/>
-<ab type="juan" subtype="open">佛說聖莊嚴陀羅尼經卷上</ab><lb
+<ab type='juan' subtype='open'>佛說聖莊嚴陀羅尼經卷上</ab><lb
  n="0895c26" ed="T"/><lb
  n="0895c27" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚少卿<lb
  n="0895c28" ed="T"/>傳法大師臣施護奉　詔譯</byline><lb
- n="0895c29" ed="T"/><ab type="prose">如是我聞。一時世尊。在迦毘羅城無憂樹園。<pb n="0896a" id="T21.1376.0896a" ed="T"/><lb
+ n="0895c29" ed="T"/><ab type='prose'>如是我聞。一時世尊。在迦毘羅城無憂樹園。<pb n="0896a" id="T21.1376.0896a" ed="T"/><lb
  n="0896a01" ed="T"/>與阿難陀等大比丘眾。及慈氏菩薩摩訶薩<lb
  n="0896a02" ed="T"/>俱會一處。是時復有天眾龍眾夜叉眾。羅剎<lb
  n="0896a03" ed="T"/>眾阿修羅眾。迦樓羅眾乾闥婆眾。緊曩羅眾<lb
@@ -84,7 +84,7 @@
  n="0896b04" ed="T"/>大眾。咸各默然願佛宣說。<lb
  n="0896b05" ed="T"/>爾時世尊即說大莊嚴陀羅尼曰。<lb
  n="0896b06" ed="T"/></ab>
-<ab type="dharani">怛儞也他伽儞誐囉伽曩鉢底具<lb
+<ab type='dharani'>怛儞也他伽儞誐囉伽曩鉢底具<lb
  n="0896b07" ed="T"/>彌誐囉具摩鉢底瑟波哩迦伽哩<lb
  n="0896b08" ed="T"/>尼伽囉鉢底娑囉鉢底馱曩鉢底酥囉鉢底<lb
  n="0896b09" ed="T"/>阿隷半阿隷半鉢底摩鉢底阿鉢底嚩　護鉢<lb
@@ -95,7 +95,7 @@
  n="0896b14" ed="T"/>哩阿挽哩哆摩賀挽哩帝伽儞<lb
  n="0896b15" ed="T"/>彌佉隷賀囉娑嚩賀<lb
  n="0896b16" ed="T"/></ab>
-<ab type="prose">阿難此大莊嚴陀羅尼。乃是過去諸佛之所<lb
+<ab type='prose'>阿難此大莊嚴陀羅尼。乃是過去諸佛之所<lb
  n="0896b17" ed="T"/>宣說。我今為擁護羅睺羅童子。亦復利益末<lb
  n="0896b18" ed="T"/>世眾生。今復宣說。阿難若有眾生。被諸羅剎<lb
  n="0896b19" ed="T"/>及惡鬼神種種嬈亂者。當以此莊嚴陀羅尼<lb
@@ -123,10 +123,10 @@
  n="0896c12" ed="T"/>驚怖退散無諸障難得願圓滿。即說結界陀<lb
  n="0896c13" ed="T"/>羅尼曰。<lb
  n="0896c14" ed="T"/></ab>
-<ab type="dharani">怛儞也他儞隷儞隷尾摩隷怛摩隷護<lb
+<ab type='dharani'>怛儞也他儞隷儞隷尾摩隷怛摩隷護<lb
  n="0896c15" ed="T"/>唧護唧悉哩底哩怛哩娑儞囉普莎賀<lb
  n="0896c16" ed="T"/></ab>
-<ab type="prose">阿難若誦此結界莊嚴陀羅尼已。然後誦彼<lb
+<ab type='prose'>阿難若誦此結界莊嚴陀羅尼已。然後誦彼<lb
  n="0896c17" ed="T"/>聖大莊嚴陀羅尼。一切所作無不成就。<lb
  n="0896c18" ed="T"/>爾時慈氏菩薩摩訶薩從座而起。住立佛前<lb
  n="0896c19" ed="T"/>白言世尊。我亦為欲擁護羅睺羅童子令得<lb
@@ -137,71 +137,71 @@
  n="0896c24" ed="T"/>佛言當隨汝意。爾時慈氏菩薩即說莊嚴陀<lb
  n="0896c25" ed="T"/>羅尼曰。<lb
  n="0896c26" ed="T"/></ab>
-<ab type="dharani">怛儞也他阿嚩那底播那儞阿尾那<lb
+<ab type='dharani'>怛儞也他阿嚩那底播那儞阿尾那<lb
  n="0896c27" ed="T"/>努祖嚕祖嚕惹哩馱難尼難尼阿馱<lb
  n="0896c28" ed="T"/>難尼三滿哆難尼儞哩瞢尼儞哩弭<lb
  n="0896c29" ed="T"/>目儞扇底娑嚩悉怛也野喃<pb n="0897a" id="T21.1376.0897a" ed="T"/><lb
  n="0897a01" ed="T"/>摩摩薩哩嚩薩怛嚩喃左洛乞叉俱嚕娑嚩賀<lb
  n="0897a03" ed="T"/></ab>
-<ab type="prose">爾時娑婆世界主大梵天王。前白佛言。我亦<lb
+<ab type='prose'>爾時娑婆世界主大梵天王。前白佛言。我亦<lb
  n="0897a04" ed="T"/>為欲擁護羅睺羅童子。及擁護未來一切眾<lb
  n="0897a05" ed="T"/>生。說自莊嚴明。惟願如來許我宣說。佛言善<lb
  n="0897a06" ed="T"/>哉善哉當隨汝意。時大梵天王即說莊嚴明<lb
  n="0897a07" ed="T"/>曰。<lb
  n="0897a08" ed="T"/></ab>
-<ab type="dharani">三野體難盎虞哩半虞哩阿努哩嫩努<lb
+<ab type='dharani'>三野體難盎虞哩半虞哩阿努哩嫩努<lb
  n="0897a09" ed="T"/>哩尸契孕迦尸佉哩嫩度哩努哩努<lb
  n="0897a10" ed="T"/>囉野底阿左阿左尾目左扇底孕娑<lb
  n="0897a11" ed="T"/>嚩悉怛野野喃俱嚕摩摩薩哩嚩<lb
  n="0897a12" ed="T"/>薩怛嚩喃左娑嚩賀<lb
  n="0897a13" ed="T"/></ab>
-<ab type="prose">爾時世尊。知彼天眾龍眾夜叉等眾及諸鬼<lb
+<ab type='prose'>爾時世尊。知彼天眾龍眾夜叉等眾及諸鬼<lb
  n="0897a14" ed="T"/>神。各各為欲擁護羅睺羅童子及未來眾生。<lb
  n="0897a15" ed="T"/>皆悉欲說自明。佛言汝等天眾龍眾及諸鬼<lb
  n="0897a16" ed="T"/>神等。欲說自明為擁護諸眾生者。隨汝等意<lb
  n="0897a17" ed="T"/>各各說之。爾時善時分天。即於佛前說自明<lb
  n="0897a18" ed="T"/>曰。<lb
  n="0897a19" ed="T"/></ab>
-<ab type="dharani">三野體難囉瑟致哩波那瑟致哩<lb
+<ab type='dharani'>三野體難囉瑟致哩波那瑟致哩<lb
  n="0897a20" ed="T"/>嚕地囉迦囉尼儼鼻哩努哩努哩<lb
  n="0897a21" ed="T"/>母唧設訖哩囉濟曳扇底孕娑嚩悉怛也野喃迦嚕弭摩摩洛乞<lb
  n="0897a23" ed="T"/>叉俱嚕娑嚩賀<lb
  n="0897a24" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說聖莊嚴陀羅尼經卷上</ab><pb n="0897b" id="T21.1376.0897b" ed="T"/><lb
+</ab><ab type='juan' subtype='close'>佛說聖莊嚴陀羅尼經卷上</ab><pb n="0897b" id="T21.1376.0897b" ed="T"/><lb
  n="0897b01" ed="T"/><lb
  n="0897b02" ed="T"/>
-<ab type="juan" subtype="open">佛說聖莊嚴陀羅尼經卷下</ab><lb
+<ab type='juan' subtype='open'>佛說聖莊嚴陀羅尼經卷下</ab><lb
  n="0897b03" ed="T"/><lb
  n="0897b04" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚卿<lb
  n="0897b05" ed="T"/>傳法大師臣施護奉　詔譯</byline><lb
- n="0897b06" ed="T"/><ab type="prose">爾時帝釋天主。說自莊嚴明曰。<lb
+ n="0897b06" ed="T"/><ab type='prose'>爾時帝釋天主。說自莊嚴明曰。<lb
  n="0897b07" ed="T"/></ab>
-<ab type="dharani">三野體難難左度努𠺽穌那帝穌那<lb
+<ab type='dharani'>三野體難難左度努𠺽穌那帝穌那<lb
  n="0897b08" ed="T"/>帝帝那帝帝那帝努哩彌酥彌<lb
  n="0897b09" ed="T"/>那摩彌那彌底隷彌隷摩摩薩哩嚩<lb
  n="0897b10" ed="T"/>薩怛嚩喃洛乞叉迦嚕引扇底<lb
  n="0897b11" ed="T"/>娑嚩悉怛也野喃野嚩切摩滿鄧<lb
  n="0897b12" ed="T"/>迦嚕彌娑嚩賀<lb
  n="0897b13" ed="T"/></ab>
-<ab type="prose">爾時毘沙門天王。說自莊嚴明曰。<lb
+<ab type='prose'>爾時毘沙門天王。說自莊嚴明曰。<lb
  n="0897b14" ed="T"/></ab>
-<ab type="dharani">三野體難難尼馱努史迦儞愈哆訖哩<lb
+<ab type='dharani'>三野體難難尼馱努史迦儞愈哆訖哩<lb
  n="0897b15" ed="T"/>目枳入嚩隷那彌尾賀隷娑<lb
  n="0897b16" ed="T"/>哩娑哩嚩底扇底娑嚩悉怛也野<lb
  n="0897b17" ed="T"/>喃摩摩薩哩嚩薩怛嚩喃左夜嚩<lb
  n="0897b18" ed="T"/>切摩滿度婆挽覩娑嚩賀<lb
  n="0897b19" ed="T"/></ab>
-<ab type="prose">爾時持國天王。說自莊嚴明曰。<lb
+<ab type='prose'>爾時持國天王。說自莊嚴明曰。<lb
  n="0897b20" ed="T"/></ab>
-<ab type="dharani">三野體難馱哩難馱哩馱囉尼馱哩阿<lb
+<ab type='dharani'>三野體難馱哩難馱哩馱囉尼馱哩阿<lb
  n="0897b21" ed="T"/>左愈帝布嚕母嚕扇底孕娑嚩<lb
  n="0897b22" ed="T"/>悉怛也野喃摩摩薩哩嚩薩怛嚩<lb
  n="0897b23" ed="T"/>喃左洛羼迦嚕彌夜嚩切摩滿度婆挽<lb
  n="0897b24" ed="T"/>覩娑嚩賀<lb
  n="0897b25" ed="T"/></ab>
-<ab type="prose">爾時增長天王。說自莊嚴明曰。<lb
+<ab type='prose'>爾時增長天王。說自莊嚴明曰。<lb
  n="0897b26" ed="T"/></ab>
-<ab type="dharani">三野體難暗拏哩半多哩迦囉帝迦囉<lb
+<ab type='dharani'>三野體難暗拏哩半多哩迦囉帝迦囉<lb
  n="0897b27" ed="T"/>半帝迦囉嚕鼻迦哩馱哩迦曩迦鉢怛<lb
  n="0897b28" ed="T"/>哩嚕嚕彌乞叉乞叉彌阿乞<lb
  n="0897b29" ed="T"/>叉彌波乞叉扇底孕娑嚩<pb n="0897c" id="T21.1376.0897c" ed="T"/><lb
@@ -209,88 +209,88 @@
  n="0897c02" ed="T"/>喃左洛乞叉俱嚕夜嚩切摩滿鄧<lb
  n="0897c03" ed="T"/>婆嚩覩娑嚩賀<lb
  n="0897c04" ed="T"/></ab>
-<ab type="prose">爾時廣目天王。說自莊嚴明曰。<lb
+<ab type='prose'>爾時廣目天王。說自莊嚴明曰。<lb
  n="0897c05" ed="T"/></ab>
-<ab type="dharani">三野體難摩惹羅惹羅惹惹摩羅地哩地哩迦<lb
+<ab type='dharani'>三野體難摩惹羅惹羅惹惹摩羅地哩地哩迦<lb
  n="0897c06" ed="T"/>哩迦哩三滿哆枳哩枳哩扇底娑嚩悉<lb
  n="0897c07" ed="T"/>怛也野喃摩摩薩哩嚩薩怛嚩喃<lb
  n="0897c08" ed="T"/>左夜嚩切麼滿鄧迦嚕彌娑嚩賀<lb
  n="0897c09" ed="T"/></ab>
-<ab type="prose">爾時妙月天子。說自莊嚴明曰。<lb
+<ab type='prose'>爾時妙月天子。說自莊嚴明曰。<lb
  n="0897c10" ed="T"/></ab>
-<ab type="dharani">三野體難唵嚩禰尾摩隷鉢囉<lb
+<ab type='dharani'>三野體難唵嚩禰尾摩隷鉢囉<lb
  n="0897c11" ed="T"/>婆娑嚩哩設多囉濕彌娑賀娑囉<lb
  n="0897c12" ed="T"/>𡆆濕彌鉢囉底娑囉底娑嚩<lb
  n="0897c13" ed="T"/>底娑嚩悉怛也野喃俱嚕摩摩薩哩嚩<lb
  n="0897c14" ed="T"/>薩怛嚩喃夜嚩切摩滿鄧迦嚕<lb
  n="0897c15" ed="T"/>彌娑嚩賀<lb
  n="0897c16" ed="T"/></ab>
-<ab type="prose">爾時一切天眾異口同聲。說莊嚴明曰。<lb
+<ab type='prose'>爾時一切天眾異口同聲。說莊嚴明曰。<lb
  n="0897c17" ed="T"/></ab>
-<ab type="dharani">三野體難俱嚕俱嚕酥嚕酥嚕布嚕布嚕扇<lb
+<ab type='dharani'>三野體難俱嚕俱嚕酥嚕酥嚕布嚕布嚕扇<lb
  n="0897c18" ed="T"/>底孕娑嚩悉怛也野喃俱嚕摩摩<lb
  n="0897c19" ed="T"/>薩哩嚩薩怛嚩喃左野嚩切摩滿<lb
  n="0897c20" ed="T"/>鄧迦嚕彌娑嚩賀<lb
  n="0897c21" ed="T"/></ab>
-<ab type="prose">爾時諸星宿天異口同聲。說莊嚴明曰。<lb
+<ab type='prose'>爾時諸星宿天異口同聲。說莊嚴明曰。<lb
  n="0897c22" ed="T"/></ab>
-<ab type="dharani">三野體難哆隷哆摩隷阿隷那隷阿<lb
+<ab type='dharani'>三野體難哆隷哆摩隷阿隷那隷阿<lb
  n="0897c23" ed="T"/>迦舍尾摩隷扇底孕娑嚩悉怛<lb
  n="0897c24" ed="T"/>也野喃迦嚕彌摩摩薩哩嚩薩怛<lb
  n="0897c25" ed="T"/>嚩喃左野嚩切摩滿鄧迦嚕彌娑<lb
  n="0897c26" ed="T"/>嚩賀<lb
  n="0897c27" ed="T"/></ab>
-<ab type="prose">爾時一切龍眾異口同聲。說莊嚴明曰。<lb
+<ab type='prose'>爾時一切龍眾異口同聲。說莊嚴明曰。<lb
  n="0897c28" ed="T"/></ab>
-<ab type="dharani">三野體難嚩隷摩隷阿左隷麼地阿戍麼<lb
+<ab type='dharani'>三野體難嚩隷摩隷阿左隷麼地阿戍麼<lb
  n="0897c29" ed="T"/>地布計扇底孕娑嚩悉怛也<pb n="0898a" id="T21.1376.0898a" ed="T"/><lb
  n="0898a01" ed="T"/>野喃俱嚕摩摩薩哩嚩薩怛嚩喃左<lb
  n="0898a02" ed="T"/>野嚩切摩滿鄧迦嚕彌娑嚩賀<lb
  n="0898a03" ed="T"/></ab>
-<ab type="prose">爾時二十八大藥叉軍主眾。異口同聲說莊<lb
+<ab type='prose'>爾時二十八大藥叉軍主眾。異口同聲說莊<lb
  n="0898a04" ed="T"/>嚴明曰。<lb
  n="0898a05" ed="T"/></ab>
-<ab type="dharani">三野體難涅哩茶鉢底鉢底嚕嚕達囉達<lb
+<ab type='dharani'>三野體難涅哩茶鉢底鉢底嚕嚕達囉達<lb
  n="0898a06" ed="T"/>囉扇底孕娑嚩悉怛也野喃迦嚕<lb
  n="0898a07" ed="T"/>彌摩摩薩哩嚩薩怛嚩喃左野<lb
  n="0898a08" ed="T"/>嚩切摩滿鄧迦嚕彌娑嚩賀<lb
  n="0898a09" ed="T"/></ab>
-<ab type="prose">爾時畢隷多毘舍遮鳩槃茶等眾。異口同聲<lb
+<ab type='prose'>爾時畢隷多毘舍遮鳩槃茶等眾。異口同聲<lb
  n="0898a10" ed="T"/>說莊嚴明曰。<lb
  n="0898a11" ed="T"/></ab>
-<ab type="dharani">三野體難尾部底三挽哩哆曩尾部底扇<lb
+<ab type='dharani'>三野體難尾部底三挽哩哆曩尾部底扇<lb
  n="0898a12" ed="T"/>底孕娑嚩悉怛也野喃摩摩薩哩<lb
  n="0898a13" ed="T"/>嚩薩怛嚩喃左野嚩切摩滿鄧迦<lb
  n="0898a14" ed="T"/>嚕彌娑嚩賀<lb
  n="0898a15" ed="T"/></ab>
-<ab type="prose">爾時布單曩羯吒布單曩眾。異口同聲說莊<lb
+<ab type='prose'>爾時布單曩羯吒布單曩眾。異口同聲說莊<lb
  n="0898a16" ed="T"/>嚴明曰。<lb
  n="0898a17" ed="T"/></ab>
-<ab type="dharani">三野體難波努彌迦囉帝鳥馱野哆<lb
+<ab type='dharani'>三野體難波努彌迦囉帝鳥馱野哆<lb
  n="0898a18" ed="T"/>祖囉拏娑彌囉尼醋半底扇底孕娑<lb
  n="0898a19" ed="T"/>嚩悉怛也野喃迦嚕彌摩摩薩哩嚩<lb
  n="0898a20" ed="T"/>薩怛嚩室左野嚩切摩滿鄧迦<lb
  n="0898a21" ed="T"/>嚕彌娑嚩賀<lb
  n="0898a22" ed="T"/></ab>
-<ab type="prose">爾時一切末怛哩眾。異口同聲說莊嚴明<lb
+<ab type='prose'>爾時一切末怛哩眾。異口同聲說莊嚴明<lb
  n="0898a23" ed="T"/>曰。<lb
  n="0898a24" ed="T"/></ab>
-<ab type="dharani">三野體難迦隷摩計隷哆哩哆摩哩扇<lb
+<ab type='dharani'>三野體難迦隷摩計隷哆哩哆摩哩扇<lb
  n="0898a25" ed="T"/>底孕娑嚩悉怛也野喃迦嚕彌<lb
  n="0898a26" ed="T"/>摩摩薩哩嚩薩怛嚩喃野嚩切摩<lb
  n="0898a27" ed="T"/>滿鄧迦嚕彌娑嚩賀<lb
  n="0898a28" ed="T"/></ab>
-<ab type="prose">爾時四方四羅剎。異口同聲說莊嚴明曰。<lb
+<ab type='prose'>爾時四方四羅剎。異口同聲說莊嚴明曰。<lb
  n="0898a29" ed="T"/></ab>
-<ab type="dharani">三野體難阿儞播儞佉濟佉嚩濟<pb n="0898b" id="T21.1376.0898b" ed="T"/><lb
+<ab type='dharani'>三野體難阿儞播儞佉濟佉嚩濟<pb n="0898b" id="T21.1376.0898b" ed="T"/><lb
  n="0898b01" ed="T"/>祛祛哩隷閉波哩賀哩扇底娑嚩悉怛<lb
  n="0898b02" ed="T"/>也野喃迦嚕彌摩摩薩哩嚩薩怛嚩<lb
  n="0898b03" ed="T"/>喃左野嚩切摩滿鄧迦嚕彌娑嚩<lb
  n="0898b04" ed="T"/>賀<lb
  n="0898b05" ed="T"/></ab>
-<ab type="prose">爾時捺囉彌多羅剎女。說莊嚴明曰。<lb
+<ab type='prose'>爾時捺囉彌多羅剎女。說莊嚴明曰。<lb
  n="0898b06" ed="T"/></ab>
-<ab type="dharani">三野體難那那哩那哩賀賀賀賀呬呬呬<lb
+<ab type='dharani'>三野體難那那哩那哩賀賀賀賀呬呬呬<lb
  n="0898b07" ed="T"/>呬護護護護尸枳枳枳唧枳唧尾目契摩佉惹<lb
  n="0898b08" ed="T"/>佉喫吒彌致桉吒桉吒吒囉吒吒訖囉摩<lb
  n="0898b09" ed="T"/>惹俱儒俱儒努努努努嚕努嚕怛嚕切彌隷彌彌隷阿曩過過欠彌努努努底體<lb
@@ -298,7 +298,7 @@
  n="0898b12" ed="T"/>哩閉怛哩尼努呬儞母呬儞羅呬嚩<lb
  n="0898b13" ed="T"/>呬那姹閉曳<lb
  n="0898b14" ed="T"/></ab>
-<ab type="prose">爾時娑婆世界主大梵天王。前白佛言世尊<lb
+<ab type='prose'>爾時娑婆世界主大梵天王。前白佛言世尊<lb
  n="0898b15" ed="T"/>我等天眾龍眾夜叉眾。乃至捺囉彌帝如是<lb
  n="0898b16" ed="T"/>等眾。悉於此時對世尊前。各說自明為欲擁<lb
  n="0898b17" ed="T"/>護羅睺羅童子。不令一切惡鬼神類。侵近惱<lb
@@ -333,5 +333,5 @@
  n="0898c17" ed="T"/>氏菩薩阿難陀。乃至天龍夜叉及一切人非<lb
  n="0898c18" ed="T"/>人等。聞佛所說歡喜信受禮佛而退。<lb
  n="0898c19" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說聖莊嚴陀羅尼卷下</ab></div>
+</ab><ab type='juan' subtype='close'>佛說聖莊嚴陀羅尼卷下</ab></div>
 </body></text></TEI>

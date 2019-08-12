@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T10</biblScope>
                     <idno type="Taisho">T10n0305</idno>
                 </bibl>
@@ -43,10 +43,10 @@
  n="0928c01" ed="T"/><lb
  n="0928c02" ed="T"/><lb
  n="0928c03" ed="T"/>
-<ab type="juan" subtype="open">信力入印法門經卷第一</ab><lb
+<ab type='juan' subtype='open'>信力入印法門經卷第一</ab><lb
  n="0928c04" ed="T"/><lb
  n="0928c05" ed="T"/><byline>元魏天竺三藏曇摩流支譯</byline><lb
- n="0928c06" ed="T"/><div type="jing" level="1"><ab type="prose">歸命一切諸佛如是我聞：一時，婆伽婆住如<lb
+ n="0928c06" ed="T"/><div type='jing' level='1'><ab type='prose'>歸命一切諸佛如是我聞：一時，婆伽婆住如<lb
  n="0928c07" ed="T"/>來住持境界之處、去寂滅道場不遠普光法<lb
  n="0928c08" ed="T"/>殿大福德善根所成之處，平等普遍無可嫌<lb
  n="0928c09" ed="T"/>處，具足無量功德之處，金剛堅固所成之處，<lb
@@ -551,14 +551,14 @@
  n="0934b18" ed="T"/>得此五法故，能清淨初歡喜地，得大無畏安<lb
  n="0934b19" ed="T"/>隱之處。<lb
  n="0934b20" ed="T"/>
-</ab><ab type="juan" subtype="close">信力入印法門經卷第一</ab><lb
+</ab><ab type='juan' subtype='close'>信力入印法門經卷第一</ab><lb
  n="0934b21" ed="T"/><lb
  n="0934b22" ed="T"/><lb
  n="0934b23" ed="T"/>
-<ab type="juan" subtype="open">信力入印法門經卷第二</ab><lb
+<ab type='juan' subtype='open'>信力入印法門經卷第二</ab><lb
  n="0934b24" ed="T"/><lb
  n="0934b25" ed="T"/><byline>元魏天竺三藏曇摩流支譯</byline><lb
- n="0934b26" ed="T"/><ab type="prose">「復次，文殊師利菩薩摩訶薩！有五種法則能<lb
+ n="0934b26" ed="T"/><ab type='prose'>「復次，文殊師利菩薩摩訶薩！有五種法則能<lb
  n="0934b27" ed="T"/>清淨初歡喜地，得大無畏安隱之處。何等為<lb
  n="0934b28" ed="T"/>五？一謂菩薩生如是心：『我已得住大慈心故，<lb
  n="0934b29" ed="T"/>生安隱心；為令他住大慈心故，起安慰心。』有<pb n="0934c" ed="T" id="T10.0305.0934c"/><lb
@@ -1047,14 +1047,14 @@
  n="0940a18" ed="T"/>此五法，故能清淨初歡喜地，得大無畏安隱<lb
  n="0940a19" ed="T"/>之處。<lb
  n="0940a20" ed="T"/>
-</ab><ab type="juan" subtype="close">信力入印法門經卷第二</ab><lb
+</ab><ab type='juan' subtype='close'>信力入印法門經卷第二</ab><lb
  n="0940a21" ed="T"/><lb
  n="0940a22" ed="T"/><lb
  n="0940a23" ed="T"/>
-<ab type="juan" subtype="open">信力入印法門經卷第三</ab><lb
+<ab type='juan' subtype='open'>信力入印法門經卷第三</ab><lb
  n="0940a24" ed="T"/><lb
  n="0940a25" ed="T"/><byline>元魏天竺三藏曇摩流支譯</byline><lb
- n="0940a26" ed="T"/><ab type="prose">「復次，文殊師利菩薩摩訶薩！有五種法則能<lb
+ n="0940a26" ed="T"/><ab type='prose'>「復次，文殊師利菩薩摩訶薩！有五種法則能<lb
  n="0940a27" ed="T"/>清淨初歡喜地，得大無畏安隱之處。何等為<lb
  n="0940a28" ed="T"/>五？一謂菩薩生如是心：『我已得住布施故，生<lb
  n="0940a29" ed="T"/>安隱心；為令他住布施故，起安慰心。』有言布<pb n="0940b" ed="T" id="T10.0305.0940b"/><lb
@@ -1569,14 +1569,14 @@
  n="0946a16" ed="T"/>名五法，諸菩薩摩訶薩得此五法故，能清淨<lb
  n="0946a17" ed="T"/>初歡喜地，得大無畏安隱之處。」<lb
  n="0946a18" ed="T"/>
-</ab><ab type="juan" subtype="close">信力入印法門經卷第三</ab><lb
+</ab><ab type='juan' subtype='close'>信力入印法門經卷第三</ab><lb
  n="0946a19" ed="T"/><lb
  n="0946a20" ed="T"/><lb
  n="0946a21" ed="T"/>
-<ab type="juan" subtype="open">信力入印法門經卷第四</ab><lb
+<ab type='juan' subtype='open'>信力入印法門經卷第四</ab><lb
  n="0946a22" ed="T"/><lb
  n="0946a23" ed="T"/><byline>元魏天竺三藏曇摩流支譯</byline><lb
- n="0946a24" ed="T"/><ab type="prose">爾時，文殊師利法王子知如來說法竟，而問<lb
+ n="0946a24" ed="T"/><ab type='prose'>爾時，文殊師利法王子知如來說法竟，而問<lb
  n="0946a25" ed="T"/>普賢菩薩摩訶薩言：「佛子！云何諸佛如來無<lb
  n="0946a26" ed="T"/>障礙智？云何諸佛如來教化眾生力？云何諸<lb
  n="0946a27" ed="T"/>佛如來自然智普門現前？云何諸佛如來不<lb
@@ -1869,7 +1869,7 @@
  n="0949b24" ed="T"/>彌山，大須彌山，斫迦羅山，摩訶斫迦羅山，城<lb
  n="0949b25" ed="T"/>邑聚落，諸國土等，大河大池，無所妨礙，如本<lb
  n="0949b26" ed="T"/>不異，而有是事。何以故？以得不共法相應故，<lb
- n="0949b27" ed="T"/>而隨眾生心，隨眾生可化，天龍、夜叉、乾闥<lb
+ n="0949b27" ed="T"/>而隨眾生心，隨眾生可化，天、龍、夜叉、乾闥<lb
  n="0949b28" ed="T"/>婆、阿修羅、迦樓羅、緊那羅、摩睺羅伽、帝釋<lb
  n="0949b29" ed="T"/>梵天、人及非人、諸菩薩等，各各皆見諸佛如<pb n="0949c" ed="T" id="T10.0305.0949c"/><lb
  n="0949c01" ed="T"/>來普現其前。何以故？以得不共法相應故。「文<lb
@@ -2153,7 +2153,7 @@
  n="0952c18" ed="T"/>不生。何以故？以得不共法相應故。「文殊師<lb
  n="0952c19" ed="T"/>利！如是何處出生諸佛如來光明，彼處不生<lb
  n="0952c20" ed="T"/>火之光明，及電光明、日月光明，不生種種如<lb
- n="0952c21" ed="T"/>意摩尼寶王光明，不生天龍、夜叉、乾闥婆、阿<lb
+ n="0952c21" ed="T"/>意摩尼寶王光明，不生天、龍、夜叉、乾闥婆、阿<lb
  n="0952c22" ed="T"/>修羅、伽樓羅、緊那羅、摩睺羅伽、天帝釋王、<lb
  n="0952c23" ed="T"/>大梵天王、護世四王等諸光明。彼處天子詔<lb
  n="0952c24" ed="T"/>勅不行，彼處不生四種姓氏，彼處不生八種<lb
@@ -2166,14 +2166,14 @@
  n="0953a02" ed="T"/>議境界，若廣說者，盡未來際劫數住持，不可<lb
  n="0953a03" ed="T"/>說盡。<lb
  n="0953a04" ed="T"/>
-</ab><ab type="juan" subtype="close">信力入印法門經卷第四</ab><lb
+</ab><ab type='juan' subtype='close'>信力入印法門經卷第四</ab><lb
  n="0953a05" ed="T"/><lb
  n="0953a06" ed="T"/><lb
  n="0953a07" ed="T"/>
-<ab type="juan" subtype="open">信力入印法門經卷第五</ab><lb
+<ab type='juan' subtype='open'>信力入印法門經卷第五</ab><lb
  n="0953a08" ed="T"/><lb
  n="0953a09" ed="T"/><byline>元魏天竺三藏曇摩流支譯</byline><lb
- n="0953a10" ed="T"/><ab type="prose">「文殊師利！云何諸佛如來自然智？「文殊師利！<lb
+ n="0953a10" ed="T"/><ab type='prose'>「文殊師利！云何諸佛如來自然智？「文殊師利！<lb
  n="0953a11" ed="T"/>譬如十方各過五十世界微塵數世界微塵大<lb
  n="0953a12" ed="T"/>海，阿僧祇百千萬億那由他微塵數世界，一<lb
  n="0953a13" ed="T"/>切世界，一一世界，一一閻浮提，於念念間，見<lb
@@ -2688,9 +2688,9 @@
  n="0958c29" ed="T"/>應墮地獄、畜生、餓鬼滿一劫住，而即消滅。何<pb n="0959a" ed="T" id="T10.0305.0959a"/><lb
  n="0959a01" ed="T"/>以故？信此法門，有大功德無量無邊故。」佛<lb
  n="0959a02" ed="T"/>說此法門已，十方世界，阿僧祇諸來菩薩摩<lb
- n="0959a03" ed="T"/>訶薩，大會之眾，及諸天龍、夜叉、乾闥婆、阿修<lb
+ n="0959a03" ed="T"/>訶薩，大會之眾，及諸天、龍、夜叉、乾闥婆、阿修<lb
  n="0959a04" ed="T"/>羅、迦樓羅、緊那羅、摩睺羅伽等，聞佛所說，歡<lb
  n="0959a05" ed="T"/>喜奉行。</ab></div><lb
  n="0959a06" ed="T"/>
-<ab type="juan" subtype="close">信力入印法門經卷第五</ab>
+<ab type='juan' subtype='close'>信力入印法門經卷第五</ab>
 </body></text></TEI>

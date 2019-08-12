@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0552</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0895c16" ed="T"/><lb
  n="0895c17" ed="T"/><lb
  n="0895c18" ed="T"/>
-<ab type="juan" subtype="open">佛說摩登女解形中六事經</ab><lb
+<ab type='juan' subtype='open'>佛說摩登女解形中六事經</ab><lb
  n="0895c19" ed="T"/><lb
  n="0895c20" ed="T"/><byline>失譯附東晉錄</byline><lb
- n="0895c21" ed="T"/><div type="jing" level="1"><ab type="prose">佛在舍衛祗阿難邠坻阿藍。時阿難持鉢行<lb
+ n="0895c21" ed="T"/><div type='jing' level='1'><ab type='prose'>佛在舍衛祇阿難邠坻阿藍。時阿難持鉢行<lb
  n="0895c22" ed="T"/>乞食，以隨水行，見一女人在水邊持水去，<lb
  n="0895c23" ed="T"/>阿難從乞水，女則與之。女便隨阿難，至居<lb
  n="0895c24" ed="T"/>所處。女歸告其母，母名摩登。女於家委臥<lb
@@ -111,5 +111,5 @@
  n="0896b24" ed="T"/>兄弟狀，是經令諸沙門知女意如是。」諸沙<lb
  n="0896b25" ed="T"/>門則起前，為佛作禮。</ab></div><lb
  n="0896b26" ed="T"/>
-<ab type="juan" subtype="close">佛說摩登女解形中六事經</ab>
+<ab type='juan' subtype='close'>佛說摩登女解形中六事經</ab>
 </body></text></TEI>

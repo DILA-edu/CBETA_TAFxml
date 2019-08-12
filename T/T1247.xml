@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1247</idno>
                 </bibl>
@@ -43,13 +43,13 @@
  n="0224c04" ed="T"/><lb
  n="0224c05" ed="T"/><lb
  n="0224c06" ed="T"/><lb
- n="0224c07" ed="T"/><div type="jing" level="1"><lb
+ n="0224c07" ed="T"/><div type='jing' level='1'><lb
  n="0224c08" ed="T"/>
-<ab type="juan" subtype="open">北方毘沙門天王隨軍護法儀軌</ab><lb
+<ab type='juan' subtype='open'>北方毘沙門天王隨軍護法儀軌</ab><lb
  n="0224c09" ed="T"/><lb
  n="0224c10" ed="T"/><byline>特進試鴻臚卿大興善寺三藏<lb
  n="0224c11" ed="T"/>沙門大廣智不空奉　詔譯</byline><lb
- n="0224c12" ed="T"/><ab type="prose">爾時那吒太子。手捧戟。以惡眼見四方白佛<lb
+ n="0224c12" ed="T"/><ab type='prose'>爾時那吒太子。手捧戟。以惡眼見四方白佛<lb
  n="0224c13" ed="T"/>言。我是北方天王吠室羅摩那羅闍第三王<lb
  n="0224c14" ed="T"/>子其第二之孫。我祖父天王。及我那吒同共<lb
  n="0224c15" ed="T"/>每日三度。白佛言。我護持佛法。欲攝縛惡人<lb
@@ -64,11 +64,11 @@
  n="0225a07" ed="T"/>汝為降伏一切國王大臣百寮殺淩者。亦法<lb
  n="0225a08" ed="T"/>佛相違者。為降伏故恣汝意說真言曰。<lb
  n="0225a09" ed="T"/></ab>
-<ab type="dharani">唵地舍那吠室羅摩拏野摩賀羅惹野藥<lb
+<ab type='dharani'>唵地舍那吠室羅摩拏野摩賀羅惹野藥<lb
  n="0225a10" ed="T"/>迦灑地婆哆那謨婆誐縛帝摩多羅跋馱<lb
  n="0225a11" ed="T"/>儞娑嚩賀<lb
  n="0225a12" ed="T"/></ab>
-<ab type="prose">若行者受持此呪者。先須書像。於彩色中並<lb
+<ab type='prose'>若行者受持此呪者。先須書像。於彩色中並<lb
  n="0225a13" ed="T"/>不得和膠。於白㲲上畫一毘沙門神其孫那<lb
  n="0225a14" ed="T"/>吒天神七寶莊嚴。左手令執口齒。右手詫腰<lb
  n="0225a15" ed="T"/>上令執三戟矟。其神足下作一藥叉女住趺<lb
@@ -107,5 +107,5 @@
  n="0225b19" ed="T"/>驗。行此法降伏五國五萬軍自平安故。是名<lb
  n="0225b20" ed="T"/>隨軍護法。<lb
  n="0225b21" ed="T"/>
-</ab><ab type="juan" subtype="close">毘沙門天隨軍護法儀軌</ab></div>
+</ab><ab type='juan' subtype='close'>毘沙門天隨軍護法儀軌</ab></div>
 </body></text></TEI>

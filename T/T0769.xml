@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T17</biblScope>
                     <idno type="Taisho">T17n0769</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0705b06" ed="T"/><lb
  n="0705b07" ed="T"/><lb
  n="0705b08" ed="T"/>
-<ab type="juan" subtype="open">佛說四輩經</ab><lb
+<ab type='juan' subtype='open'>佛說四輩經</ab><lb
  n="0705b09" ed="T"/><lb
  n="0705b10" ed="T"/><byline>西晉月氏國三藏竺法護譯</byline><lb
- n="0705b11" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時佛在舍衛國祇樹給孤獨園。爾<lb
+ n="0705b11" ed="T"/><div type='jing' level='1'><ab type='prose'>聞如是：一時佛在舍衛國祇樹給孤獨園。爾<lb
  n="0705b12" ed="T"/>時諸四輩弟子、天帝、龍、鬼神、質諒神，皆詣祇<lb
  n="0705b13" ed="T"/>樹，稽首佛足，却就常位坐。佛告諸弟子：「吾今<lb
  n="0705b14" ed="T"/>所出經法，所可教誡，皆自各守其意念。末<lb
@@ -119,5 +119,5 @@
  n="0706a22" ed="T"/>必得度世！」弟子諸來會者，聞佛說經，歡喜奉<lb
  n="0706a23" ed="T"/>行，作禮而去。</ab></div><lb
  n="0706a24" ed="T"/>
-<ab type="juan" subtype="close">佛說四輩經</ab>
+<ab type='juan' subtype='close'>佛說四輩經</ab>
 </body></text></TEI>

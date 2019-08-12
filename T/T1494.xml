@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T24</biblScope>
                     <idno type="Taisho">T24n1494</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="1095b13" ed="T"/><lb
  n="1095b14" ed="T"/><lb
  n="1095b15" ed="T"/>
-<ab type="juan" subtype="open">佛說淨業障經</ab><lb
+<ab type='juan' subtype='open'>佛說淨業障經</ab><lb
  n="1095b16" ed="T"/><lb
  n="1095b17" ed="T"/><byline>失譯人名今附秦錄</byline><lb
- n="1095b18" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時佛住毘舍離菴羅樹園，與大<lb
+ n="1095b18" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時佛住毘舍離菴羅樹園，與大<lb
  n="1095b19" ed="T"/>比丘眾五百人俱，菩薩摩訶薩三萬二千，其<lb
  n="1095b20" ed="T"/>名曰壞魔菩薩、神通遊戲光焰菩薩、蓮花身<lb
  n="1095b21" ed="T"/>菩薩、放光王菩薩、常調身菩薩、滿眾願菩<lb
@@ -146,7 +146,7 @@
  n="1096b27" ed="T"/>爾時無垢光聞說是法，心懷踊躍悲喜交集，<lb
  n="1096b28" ed="T"/>即時雨淚叉手合掌一心觀佛，即說偈言：<lb
  n="1096b29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「快哉世尊大功德，　　諸天世人所歸仰，　　<pb n="1096c" ed="T" id="T24.1494.1096c"/><lb
  n="1096c01" ed="T"/>善覺一切妙勝行，　　稽首能斷諸苦行。　　<lb
  n="1096c02" ed="T"/>無所依者為作依，　　無有導者為獎導，　　<lb
@@ -182,7 +182,7 @@
  n="1097a03" ed="T"/>若人欲求大乘道，　　當應常發如是心，　　<lb
  n="1097a04" ed="T"/>利益世間斷眾苦，　　不應同彼諸聲聞。」　　
 </ab><lb
- n="1097a05" ed="T"/><ab type="prose">爾時眾會聞無垢光所說偈已，四萬二千天<lb
+ n="1097a05" ed="T"/><ab type='prose'>爾時眾會聞無垢光所說偈已，四萬二千天<lb
  n="1097a06" ed="T"/>子發阿耨多羅三藐三菩提心，即散摩訶曼<lb
  n="1097a07" ed="T"/>陀羅華拘茂陀等供養世尊、文殊師利，讚無<lb
  n="1097a08" ed="T"/>垢光作如是言：「善哉善哉！無垢！能報佛恩，<lb
@@ -377,7 +377,7 @@
  n="1099a23" ed="T"/>量佛身，皆金色三十二相遍林樹間。爾時諸<lb
  n="1099a24" ed="T"/>佛即時同聲說是偈言：<lb
  n="1099a25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『諸法同鏡像，　　亦如水中月，　　<lb
  n="1099a26" ed="T"/>凡夫愚惑心，　　分別癡恚愛。　　<lb
  n="1099a27" ed="T"/>法無作無處，　　如虛空清淨，　　<lb
@@ -421,7 +421,7 @@
  n="1099c07" ed="T"/>諸法性解脫，　　寂靜無處所，　　<lb
  n="1099c08" ed="T"/>無能悕取者，　　解此名為智。』　　
 </ab><lb
- n="1099c09" ed="T"/><ab type="prose">「爾時林中萬二千天子，詣鼻揉多羅菩薩來<lb
+ n="1099c09" ed="T"/><ab type='prose'>「爾時林中萬二千天子，詣鼻揉多羅菩薩來<lb
  n="1099c10" ed="T"/>聽法者，聞說是偈即時皆得無生法忍。勇施<lb
  n="1099c11" ed="T"/>比丘見諸化佛神通變現，於諸法中思惟選<lb
  n="1099c12" ed="T"/>擇，離諸蓋纏得無生忍。「文殊師利！汝莫生<lb
@@ -482,5 +482,5 @@
  n="1100b09" ed="T"/>阿難，文殊師利法王子，及諸天、世人、乾闥婆、<lb
  n="1100b10" ed="T"/>阿修羅等，聞佛所說皆大歡喜，信受奉行。</ab></div><lb
  n="1100b11" ed="T"/>
-<ab type="juan" subtype="close">佛說淨業障經</ab>
+<ab type='juan' subtype='close'>佛說淨業障經</ab>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T11</biblScope>
                     <idno type="Taisho">T11n0318</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0890c03" ed="T"/><lb
  n="0890c04" ed="T"/><lb
  n="0890c05" ed="T"/>
-<ab type="juan" subtype="open">文殊師利佛土嚴淨經卷上</ab><lb
+<ab type='juan' subtype='open'>文殊師利佛土嚴淨經卷上</ab><lb
  n="0890c06" ed="T"/><lb
  n="0890c07" ed="T"/><byline>西晉月氏國三藏竺法護譯</byline><lb
- n="0890c08" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時佛遊王舍城靈鷲山，與大比丘<lb
+ n="0890c08" ed="T"/><div type='jing' level='1'><ab type='prose'>聞如是：一時佛遊王舍城靈鷲山，與大比丘<lb
  n="0890c09" ed="T"/>十萬眾俱；及諸菩薩八萬四千，皆不退轉無<lb
  n="0890c10" ed="T"/>所從生，逮得權慧神通無極，隨時而化救濟<lb
  n="0890c11" ed="T"/>三界，其名曰：文殊師利、光世音、大勢至諸菩<lb
@@ -71,7 +71,7 @@
  n="0890c29" ed="T"/>生。有化菩薩皆坐其上，光像分明不可稱<pb n="0891a" ed="T" id="T11.0318.0891a"/><lb
  n="0891a01" ed="T"/>紀，遶城七匝而歎頌曰：<lb
  n="0891a02" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「其導師至神，　　所愍哀無量，　　<lb
  n="0891a03" ed="T"/>方便護眾生，　　消病愈諸瘡。　　<lb
  n="0891a04" ed="T"/>能仁無所著，　　心寂善調和，　　<lb
@@ -133,7 +133,7 @@
  n="0891c02" ed="T"/>以聞甘露句，　　寂然無憂患，　　<lb
  n="0891c03" ed="T"/>人中之尊導，　　音聲甚難值。」　　
 </ab><lb
- n="0891c04" ed="T"/><ab type="prose">於時王舍城中無央數眾，聞此歎頌勸訓之<lb
+ n="0891c04" ed="T"/><ab type='prose'>於時王舍城中無央數眾，聞此歎頌勸訓之<lb
  n="0891c05" ed="T"/>音，莫不欣悅皆發道心，各齎眾華諸雜妙香，<lb
  n="0891c06" ed="T"/>幢幡寶蓋伎樂百千，出城迎佛，稽首足下退<lb
  n="0891c07" ed="T"/>從佛後。世尊入城足蹈門閫，地則尋時六反<lb
@@ -145,7 +145,7 @@
  n="0891c13" ed="T"/>疑，和悅相向如父如母，如兄如弟如身如子，<lb
  n="0891c14" ed="T"/>各各欣喜而歎頌曰：<lb
  n="0891c15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「人中之上如月盛滿，　　<lb
  n="0891c16" ed="T"/>為正導師丈夫師子。　　<lb
  n="0891c17" ed="T"/>世尊入城利益眾生，　　<lb
@@ -163,7 +163,7 @@
  n="0891c29" ed="T"/>功勳如是所現難量，　　<pb n="0892a" ed="T" id="T11.0318.0892a"/><lb
  n="0892a01" ed="T"/>十方威德班宣三藏。」　　
 </ab><lb
- n="0892a02" ed="T"/><ab type="prose">於時城中，有貴姓子名棄惡，遙覩世尊行步<lb
+ n="0892a02" ed="T"/><ab type='prose'>於時城中，有貴姓子名棄惡，遙覩世尊行步<lb
  n="0892a03" ed="T"/>正齊，容儀端正威神光曜，諸根寂定恬淡玄<lb
  n="0892a04" ed="T"/>默，和雅其性如水澄渟，中表清淨猶猛師子<lb
  n="0892a05" ed="T"/>獸中之王，如日初出照于朝陽，譬月盛滿眾<lb
@@ -198,7 +198,7 @@
  n="0892b05" ed="T"/>從頂上入。賢者阿難即從坐起，偏袒右肩長<lb
  n="0892b06" ed="T"/>跪叉手，以偈讚佛：<lb
  n="0892b07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「遊於諸法度無極，　　最勝至真導以力，　　<lb
  n="0892b08" ed="T"/>皆了眾生化上智，　　唯願宣現是笑義。　　<lb
  n="0892b09" ed="T"/>十力已達往過世，　　愍哀亦暢將來業，　　<lb
@@ -208,7 +208,7 @@
  n="0892b13" ed="T"/>諸天億姟普來集，　　咸共叉手禮至聖，　　<lb
  n="0892b14" ed="T"/>願演第一妙光音，　　無數眾會觀法器。　　
 </ab><lb
- n="0892b15" ed="T"/><ab type="verse">
+ n="0892b15" ed="T"/><ab type='verse'>
 「其慧度無極，　　世俗無疇匹，　　<lb
  n="0892b16" ed="T"/>皆知一切人，　　善惡行所趣。　　<lb
  n="0892b17" ed="T"/>至仁今所笑，　　願為分別義，　　<lb
@@ -218,7 +218,7 @@
  n="0892b21" ed="T"/>加敬修供養，　　百千伎樂音，　　<lb
  n="0892b22" ed="T"/>奉行靖心聽，　　唯願決眾疑。」　　
 </ab><lb
- n="0892b23" ed="T"/><ab type="prose">佛告阿難：「汝乃見此棄惡菩薩住空中不？」對<lb
+ n="0892b23" ed="T"/><ab type='prose'>佛告阿難：「汝乃見此棄惡菩薩住空中不？」對<lb
  n="0892b24" ed="T"/>曰：「已見。」佛言：「阿難！是棄惡菩薩，却後六百二<lb
  n="0892b25" ed="T"/>十萬劫當成為佛，號曰寂化音如來、至真、等<lb
  n="0892b26" ed="T"/>正覺、明行成為、善逝、世間解、無上士、道法御、<lb
@@ -277,7 +277,7 @@
  n="0893a21" ed="T"/>要言。」於是彌勒菩薩即從坐起偏袒右臂，長<lb
  n="0893a22" ed="T"/>跪叉手前詣佛所，以偈歎曰：<lb
  n="0893a23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「無量威德聞十方，　　光照上下恒沙界，　　<lb
  n="0893a24" ed="T"/>一切眾生無能稱，　　人中聖慧不可議。　　<lb
  n="0893a25" ed="T"/>十方世界恒沙國，　　菩薩大眾為法會，　　<lb
@@ -299,7 +299,7 @@
  n="0893b12" ed="T"/>從何奉行深妙業？　　何因志行度世法？　　<lb
  n="0893b13" ed="T"/>何緣伏魔及兵眾，　　以降化之即成佛？」　　
 </ab><lb
- n="0893b14" ed="T"/><ab type="prose">於時世尊告彌勒曰：「布法高座，如來今當普<lb
+ n="0893b14" ed="T"/><ab type='prose'>於時世尊告彌勒曰：「布法高座，如來今當普<lb
  n="0893b15" ed="T"/>為十方諸菩薩眾，敷演往古性和佛國功勳<lb
  n="0893b16" ed="T"/>嚴淨願行法典。」彌勒受教，即心念言：「如來何<lb
  n="0893b17" ed="T"/>故使我施座？不令阿難、目連等乎？」文殊師利<lb
@@ -567,14 +567,14 @@
  n="0896b18" ed="T"/>以來未發道心，皆發無上正真道意，四萬二<lb
  n="0896b19" ed="T"/>千人逮得無所從生法忍。<lb
  n="0896b20" ed="T"/>
-</ab><ab type="juan" subtype="close">文殊師利佛土嚴淨經卷上</ab><lb
+</ab><ab type='juan' subtype='close'>文殊師利佛土嚴淨經卷上</ab><lb
  n="0896b21" ed="T"/><lb
  n="0896b22" ed="T"/><lb
  n="0896b23" ed="T"/>
-<ab type="juan" subtype="open">文殊師利佛土嚴淨經卷下</ab><lb
+<ab type='juan' subtype='open'>文殊師利佛土嚴淨經卷下</ab><lb
  n="0896b24" ed="T"/><lb
  n="0896b25" ed="T"/><byline>西晉月氏國三藏竺法護譯</byline><lb
- n="0896b26" ed="T"/><ab type="prose">於時師子步雷音菩薩復問文殊師利：「發意<lb
+ n="0896b26" ed="T"/><ab type='prose'>於時師子步雷音菩薩復問文殊師利：「發意<lb
  n="0896b27" ed="T"/>久如應發道心。」文殊答曰：「止！族姓子！勿懷<lb
  n="0896b28" ed="T"/>妄想。一切諸法皆無所生，假使有說：『我發道<lb
  n="0896b29" ed="T"/>心，吾當行道。』墮大邪見。所以者何？今觀察心<pb n="0896c" ed="T" id="T11.0318.0896c"/><lb
@@ -617,7 +617,7 @@
  n="0897a08" ed="T"/>人，往詣雷音響如來稽首足下，右遶七匝退<lb
  n="0897a09" ed="T"/>住一面。以偈歎曰：<lb
  n="0897a10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『欲問殊勝法，　　以奇雅答我：　　<lb
  n="0897a11" ed="T"/>「云何人在世，　　而致最超異？　　<lb
  n="0897a12" ed="T"/>以普俱供養，　　自歸於世護，　　<lb
@@ -679,7 +679,7 @@
  n="0897c10" ed="T"/>二十億眾等，　　一切建佛道，　　<lb
  n="0897c11" ed="T"/>見王發大道，　　亦效學洪業。』」　　
 </ab><lb
- n="0897c12" ed="T"/><ab type="prose">佛語師子步雷音菩薩：「欲知爾時安拔王乎？」<lb
+ n="0897c12" ed="T"/><ab type='prose'>佛語師子步雷音菩薩：「欲知爾時安拔王乎？」<lb
  n="0897c13" ed="T"/>答曰：「不及也。」佛言：「則今文殊師利身是也！發<lb
  n="0897c14" ed="T"/>道心已來，如七千阿僧祇江河沙劫佛土滿<lb
  n="0897c15" ed="T"/>中塵，逮無所從生法忍已，過六十四江河沙<lb
@@ -1073,5 +1073,5 @@
  n="0902a26" ed="T"/>諸天龍神、阿須倫、世間人，皆大歡喜，稽首佛<lb
  n="0902a27" ed="T"/>足，作禮而去。<lb
  n="0902a28" ed="T"/>
-</ab><ab type="juan" subtype="close">文殊師利佛土嚴淨經卷下</ab></div>
+</ab><ab type='juan' subtype='close'>文殊師利佛土嚴淨經卷下</ab></div>
 </body></text></TEI>

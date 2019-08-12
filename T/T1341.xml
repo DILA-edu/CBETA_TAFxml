@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1341</idno>
                 </bibl>
@@ -41,12 +41,12 @@
     <text>
         <body><pb n="0755a" id="T21.1341.0755a" ed="T"/><lb
  n="0755a01" ed="T"/><lb
- n="0755a02" ed="T"/><div type="jing" level="1"><lb
+ n="0755a02" ed="T"/><div type='jing' level='1'><lb
  n="0755a03" ed="T"/>
-<ab type="juan" subtype="open">大威德陀羅尼經卷第一</ab><lb
+<ab type='juan' subtype='open'>大威德陀羅尼經卷第一</ab><lb
  n="0755a04" ed="T"/><lb
  n="0755a05" ed="T"/><byline>隋北印度三藏闍那崛多譯</byline><lb
- n="0755a06" ed="T"/><ab type="prose">如是我聞。一時婆伽婆在舍婆提大城祇樹<lb
+ n="0755a06" ed="T"/><ab type='prose'>如是我聞。一時婆伽婆在舍婆提大城祇樹<lb
  n="0755a07" ed="T"/>給孤獨園。與大比丘眾千二百五十人俱。復<lb
  n="0755a08" ed="T"/>有無量天龍夜叉乾闥婆阿修羅緊那羅摩<lb
  n="0755a09" ed="T"/>睺羅伽人非人等。四部大眾左右圍遶。爾時<lb
@@ -236,7 +236,7 @@
  n="0757a19" ed="T"/>法中。得阿那含果。又復阿難。時彼眾生說此<lb
  n="0757a20" ed="T"/>偈言。<lb
  n="0757a21" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 前際及後際　　現在不知故　　<lb
  n="0757a22" ed="T"/>造作於惡業　　亦不知諸法　　<lb
  n="0757a23" ed="T"/>前際及後際　　現亦無所有　　<lb
@@ -264,7 +264,7 @@
  n="0757b16" ed="T"/>諸想皆滅已　　法想亦復然　　<lb
  n="0757b17" ed="T"/>不取亦不捨　　是上丈夫說　　
 </ab><lb
- n="0757b18" ed="T"/><ab type="prose">阿難。此等六十眾生舍婆提住者。皆於往昔<lb
+ n="0757b18" ed="T"/><ab type='prose'>阿難。此等六十眾生舍婆提住者。皆於往昔<lb
  n="0757b19" ed="T"/>迦葉佛所。諸聲聞人供養佛已。於後復作非<lb
  n="0757b20" ed="T"/>法事業。非阿羅漢。數為利養因緣自稱自舉。<lb
  n="0757b21" ed="T"/>而不自知不得法味。造惡業已諸根毀減。復<lb
@@ -511,14 +511,14 @@
  n="0760a28" ed="T"/>彼最在後出入息時。如是根相智者當知。如<lb
  n="0760a29" ed="T"/>此眾生捨是身已得生人間。<pb n="0760b" id="T21.1341.0760b" ed="T"/><lb
  n="0760b01" ed="T"/>
-</ab><ab type="juan" subtype="close">大威德陀羅尼經卷第一</ab><lb
+</ab><ab type='juan' subtype='close'>大威德陀羅尼經卷第一</ab><lb
  n="0760b02" ed="T"/><lb
  n="0760b03" ed="T"/><lb
  n="0760b04" ed="T"/>
-<ab type="juan" subtype="open">大威德陀羅尼經卷第二</ab><lb
+<ab type='juan' subtype='open'>大威德陀羅尼經卷第二</ab><lb
  n="0760b05" ed="T"/><lb
  n="0760b06" ed="T"/><byline>隋北印度三藏闍那崛多譯</byline><lb
- n="0760b07" ed="T"/><ab type="prose">阿難。有根名為勝。復有根名為堅勝。宮根生<lb
+ n="0760b07" ed="T"/><ab type='prose'>阿難。有根名為勝。復有根名為堅勝。宮根生<lb
  n="0760b08" ed="T"/>已。當發十心。所謂一離慢心。二生愛念心。三<lb
  n="0760b09" ed="T"/>生歡喜心。四生作業心。五生踊躍心。六彼現<lb
  n="0760b10" ed="T"/>前念心。七彼惡色不入鼻不喎曲。八臨命<lb
@@ -843,14 +843,14 @@
  n="0764a10" ed="T"/>中。於樂說辯中。而作勝因。當得好色形體端<lb
  n="0764a11" ed="T"/>嚴。他不能伏。<lb
  n="0764a12" ed="T"/>
-</ab><ab type="juan" subtype="close">大威德陀羅尼經卷第二</ab><lb
+</ab><ab type='juan' subtype='close'>大威德陀羅尼經卷第二</ab><lb
  n="0764a13" ed="T"/><lb
  n="0764a14" ed="T"/><lb
  n="0764a15" ed="T"/>
-<ab type="juan" subtype="open">大威德陀羅尼經卷第三</ab><lb
+<ab type='juan' subtype='open'>大威德陀羅尼經卷第三</ab><lb
  n="0764a16" ed="T"/><lb
  n="0764a17" ed="T"/><byline>隋北印度三藏闍那崛多譯</byline><lb
- n="0764a18" ed="T"/><ab type="prose">於中何者名為一。其一者。非二非三。此是<lb
+ n="0764a18" ed="T"/><ab type='prose'>於中何者名為一。其一者。非二非三。此是<lb
  n="0764a19" ed="T"/>閻浮提人。一作因緣。又言一者無續。此是<lb
  n="0764a20" ed="T"/>欝單越人一作因緣。又言一者。非此作。此是<lb
  n="0764a21" ed="T"/>弗婆提人一作因緣。又言一者。二種作相此<lb
@@ -945,9 +945,9 @@
  n="0765a23" ed="T"/>等入此。<lb
  n="0765a24" ed="T"/>阿摸馱奴　三摸馱奴　鼻地輸　鼻地婆<lb
  n="0765a25" ed="T"/>蒲　阿伽輸瞿　毘娑輸　伽娑囉　阿娑<lb
- n="0765a26" ed="T"/>伽多󰾢泥咩泥多簸多荼簸阿盧婆　遮盧婆<lb
+ n="0765a26" ed="T"/>伽多𭋡泥咩泥多簸多荼簸阿盧婆　遮盧婆<lb
  n="0765a27" ed="T"/>　阿邏磨　多邏磨　阿犁奢　奢犁奢<lb
- n="0765a28" ed="T"/>　阿嘍舍利　摩嘍舍利　󰾢邏婆　地伽邏<lb
+ n="0765a28" ed="T"/>　阿嘍舍利　摩嘍舍利　𭋡邏婆　地伽邏<lb
  n="0765a29" ed="T"/>　伽帝伽　尼侈馱　拔陀邏　阿嗚啼　娑<pb n="0765b" id="T21.1341.0765b" ed="T"/><lb
  n="0765b01" ed="T"/>嗚邏　那多車地　摩阿頭摩　阿奚妬<lb
  n="0765b02" ed="T"/>　三摩陀嘙迦邏　簸邏阿哆　阿馱舍首奚<lb
@@ -1234,13 +1234,13 @@
  n="0768b22" ed="T"/>益者。一向不得受持誦習外道經典。如是比<lb
  n="0768b23" ed="T"/>丘。亦應一向不得親近。<lb
  n="0768b24" ed="T"/>
-</ab><ab type="juan" subtype="close">大威德陀羅尼經卷第三</ab><pb n="0768c" id="T21.1341.0768c" ed="T"/><lb
+</ab><ab type='juan' subtype='close'>大威德陀羅尼經卷第三</ab><pb n="0768c" id="T21.1341.0768c" ed="T"/><lb
  n="0768c01" ed="T"/><lb
  n="0768c02" ed="T"/>
-<ab type="juan" subtype="open">大威德陀羅尼經卷第四</ab><lb
+<ab type='juan' subtype='open'>大威德陀羅尼經卷第四</ab><lb
  n="0768c03" ed="T"/><lb
  n="0768c04" ed="T"/><byline>隋北印度三藏闍那崛多譯</byline><lb
- n="0768c05" ed="T"/><ab type="prose">阿難。於中應知一入。應知二入。應知三入。應<lb
+ n="0768c05" ed="T"/><ab type='prose'>阿難。於中應知一入。應知二入。應知三入。應<lb
  n="0768c06" ed="T"/>知四入。應知四聖諦。應知眼四聖諦。乃至意<lb
  n="0768c07" ed="T"/>證知四聖諦。阿難。以此因緣。汝應證知如<lb
  n="0768c08" ed="T"/>知眼故。應當證知四聖諦義。如我告憍陳如<lb
@@ -1711,14 +1711,14 @@
  n="0774a10" ed="T"/>中。汝今莫作如是分別言。我當成阿耨多羅<lb
  n="0774a11" ed="T"/>三藐三菩提也。<lb
  n="0774a12" ed="T"/>
-</ab><ab type="juan" subtype="close">大威德陀羅尼經卷第四</ab><lb
+</ab><ab type='juan' subtype='close'>大威德陀羅尼經卷第四</ab><lb
  n="0774a13" ed="T"/><lb
  n="0774a14" ed="T"/><lb
  n="0774a15" ed="T"/>
-<ab type="juan" subtype="open">大威德陀羅尼經卷第五</ab><lb
+<ab type='juan' subtype='open'>大威德陀羅尼經卷第五</ab><lb
  n="0774a16" ed="T"/><lb
  n="0774a17" ed="T"/><byline>隋北印度三藏闍那崛多譯</byline><lb
- n="0774a18" ed="T"/><ab type="prose">此大神呪。能令眾生出生辯才。若有受持此<lb
+ n="0774a18" ed="T"/><ab type='prose'>此大神呪。能令眾生出生辯才。若有受持此<lb
  n="0774a19" ed="T"/>大神呪。彼於此處最為殊勝。當令歡喜決定<lb
  n="0774a20" ed="T"/>生力為自為他。復當得於四處無所缺減。何<lb
  n="0774a21" ed="T"/>等為四。一者口業清淨。二者意念清淨。三者<lb
@@ -1738,10 +1738,10 @@
  n="0774b06" ed="T"/>為說法。戒及三昧有四根本。彼等知已生於<lb
  n="0774b07" ed="T"/>梵行。苦苦集苦滅苦滅道聖諦。<lb
  n="0774b08" ed="T"/></ab>
-<ab type="dharani">闍茶地阿泥奚囉婆婆哆毘逾伊曇破<lb
+<ab type='dharani'>闍茶地阿泥奚囉婆婆哆毘逾伊曇破<lb
  n="0774b09" ed="T"/>盧尼耶摩破盧三目陀逾毘蒲伽<lb
  n="0774b10" ed="T"/></ab>
-<ab type="prose">復次阿難。有非世辯之所和雜。如來世尊知<lb
+<ab type='prose'>復次阿難。有非世辯之所和雜。如來世尊知<lb
  n="0774b11" ed="T"/>彼言說。如來入已示現諸事。比丘學已知言<lb
  n="0774b12" ed="T"/>說處。知所攝處。知破戒聚。知語過失。知過去<lb
  n="0774b13" ed="T"/>世增上語。知未來世增上語。知現在世增上<lb
@@ -1795,12 +1795,12 @@
  n="0775a03" ed="T"/>中不取外道之所語論。以是因緣。應如是知<lb
  n="0775a04" ed="T"/>如是遮斷。<lb
  n="0775a05" ed="T"/></ab>
-<ab type="dharani">閻那施蘇摩都阿奴摩都阿句蔓都<lb
+<ab type='dharani'>閻那施蘇摩都阿奴摩都阿句蔓都<lb
  n="0775a06" ed="T"/>掣陀婆句漫陀囉娑他陀舍羅毘波羅<lb
  n="0775a07" ed="T"/>伏娑多伊舍私鬢多蘇尼口嚤帝叉<lb
  n="0775a08" ed="T"/>那摩啼阿盧句阿提兒沙那<lb
  n="0775a09" ed="T"/></ab>
-<ab type="prose">復次阿難。復有呪名曰三摸提多。復有名毘<lb
+<ab type='prose'>復次阿難。復有呪名曰三摸提多。復有名毘<lb
  n="0775a10" ed="T"/>舍荼伽。名梨丘摩。名籌憂裟羅。名彌多羅裟<lb
  n="0775a11" ed="T"/>他。名三拔陀。名夜叉童女。阿難。彼等有守<lb
  n="0775a12" ed="T"/>護夜叉五萬七千。善守護彼。彼等守覆護<lb
@@ -1930,7 +1930,7 @@
  n="0776b20" ed="T"/>諸族姓子故。難降伏者為降伏故。為不羞慚<lb
  n="0776b21" ed="T"/>者。捔治罰故。而說呪曰。<lb
  n="0776b22" ed="T"/></ab>
-<ab type="dharani">寫地夜梯曇冊地末帝比盧迦婆帝波<lb
+<ab type='dharani'>寫地夜梯曇冊地末帝比盧迦婆帝波<lb
  n="0776b23" ed="T"/>羅呵哆迦吒㮈哆捺哆末帝比伽比蒱<lb
  n="0776b24" ed="T"/>哆婆帝野荼計邏帝比利哂提訢<lb
  n="0776b25" ed="T"/>具虱嚌佛提佛陀末帝壹都彌脯利婆簸囉呵梨阿知多佛陀阿<lb
@@ -1944,7 +1944,7 @@
  n="0776c05" ed="T"/>躬槃荼阿地鉢多夜卑離多晡多那阿<lb
  n="0776c06" ed="T"/>地鉢多夜佛陀馱利賒比那<lb
  n="0776c07" ed="T"/></ab>
-<ab type="prose">阿難。我不見若天若龍若夜叉。於此佛功德<lb
+<ab type='prose'>阿難。我不見若天若龍若夜叉。於此佛功德<lb
  n="0776c08" ed="T"/>變化所說實化說已。具足語言。若有比丘能<lb
  n="0776c09" ed="T"/>受持此陀羅尼。若阿蘭若空閑處若露處。欲<lb
  n="0776c10" ed="T"/>作惡者。彼時當有帝釋天王梵天王娑婆世<lb
@@ -2028,25 +2028,25 @@
  n="0777c01" ed="T"/>癡中。彼知作業差別無雜。彼知種種語言名<lb
  n="0777c02" ed="T"/>字。<lb
  n="0777c03" ed="T"/></ab>
-<ab type="dharani">度鉢闍那帝候帝闍那帝鼻邏婆帝闍那<lb
- n="0777c04" ed="T"/>帝󱂋那闍那帝味那闍那帝吒簸闍那<lb
+<ab type='dharani'>度鉢闍那帝候帝闍那帝鼻邏婆帝闍那<lb
+ n="0777c04" ed="T"/>帝𭼗那闍那帝味那闍那帝吒簸闍那<lb
  n="0777c05" ed="T"/>帝哆茶簸闍那帝<lb
  n="0777c06" ed="T"/></ab>
-<ab type="prose">所有此四聖諦。如來知苦苦集苦滅苦滅道<lb
+<ab type='prose'>所有此四聖諦。如來知苦苦集苦滅苦滅道<lb
  n="0777c07" ed="T"/>聖諦。彼等名奧毱虱吒。名鼻毱瑟吒。名三<lb
  n="0777c08" ed="T"/>菩多。名為鼻浮多。如是辯知種種言音。知身<lb
  n="0777c09" ed="T"/>逼切。知顛倒意道。知生疑惑處。知渴愛名。<lb
  n="0777c10" ed="T"/></ab>
-<ab type="dharani">鼻鉢羅婆寫鼻娑婆鼻薩利鬚迦陀捨<lb
+<ab type='dharani'>鼻鉢羅婆寫鼻娑婆鼻薩利鬚迦陀捨<lb
  n="0777c11" ed="T"/>訢訢摩<lb
  n="0777c12" ed="T"/></ab>
-<ab type="prose">當知如此所說智辯。<lb
+<ab type='prose'>當知如此所說智辯。<lb
  n="0777c13" ed="T"/></ab>
-<ab type="dharani">奧迦世羅叉魔跌利瑟吒鉢邏欝邏<lb
+<ab type='dharani'>奧迦世羅叉魔跌利瑟吒鉢邏欝邏<lb
  n="0777c14" ed="T"/>那娑鼻地喻帝嘻那盧夜羅哆邏魔<lb
  n="0777c15" ed="T"/>豆曼娑那陀<lb
  n="0777c16" ed="T"/></ab>
-<ab type="prose">當知如此智辯名字。阿難。若有比丘能知如<lb
+<ab type='prose'>當知如此智辯名字。阿難。若有比丘能知如<lb
  n="0777c17" ed="T"/>是處。彼第二四天下大洲世界中。能知智轉。<lb
  n="0777c18" ed="T"/>善知書印。巧知行行。如是名字滿足。法式滿<lb
  n="0777c19" ed="T"/>足。受記滿足。憶念智慧法手具足。凡所有物<lb
@@ -2129,7 +2129,7 @@
  n="0778c09" ed="T"/>故。名分別故。不定處見。如是義雜語雜物雜<lb
  n="0778c10" ed="T"/>言雜。<lb
  n="0778c11" ed="T"/></ab>
-<ab type="dharani">阿黎耶鼻摩帝摩頭姿鉢羅首陀阿<lb
+<ab type='dharani'>阿黎耶鼻摩帝摩頭姿鉢羅首陀阿<lb
  n="0778c12" ed="T"/>木叉帝嘻那鼻婆劬欝盧妬盧卑伽<lb
  n="0778c13" ed="T"/>羅姿馱瞿姿阿奴絁失吒鼻摩帝鉢<lb
  n="0778c14" ed="T"/>頭物陀儞迦沙欝豆留度除<lb
@@ -2138,14 +2138,14 @@
  n="0778c17" ed="T"/>帝耶黎婆蘇蘇囉阿奴摩那<lb
  n="0778c18" ed="T"/>提鼻呵咄阿那咄<lb
  n="0778c19" ed="T"/></ab>
-<ab type="prose">如是等文字句味。誦持受已。<lb
+<ab type='prose'>如是等文字句味。誦持受已。<lb
  n="0778c20" ed="T"/></ab>
-<ab type="dharani">儞失毘虱吒婆囉摩泥波囉若鞞提夜阿<lb
+<ab type='dharani'>儞失毘虱吒婆囉摩泥波囉若鞞提夜阿<lb
  n="0778c21" ed="T"/>那摩醯哆泥阿伽哆蘇尸黎虱吒鼻浮哆泥<lb
  n="0778c22" ed="T"/>娑羅叉阿伽囉婆哆婆提那鼻書地波<lb
  n="0778c23" ed="T"/>囉阿伽囉娑囉鉢囉婆囉拏<lb
  n="0778c24" ed="T"/></ab>
-<ab type="prose">復次說此傳受門月三十句之處。身輪言輪<lb
+<ab type='prose'>復次說此傳受門月三十句之處。身輪言輪<lb
  n="0778c25" ed="T"/>意輪。婦女輪丈夫輪。天輪人輪。剎那輪。行輪<lb
  n="0778c26" ed="T"/>意念輪。聞生信淨。聽受有力。不諂曲心斷<lb
  n="0778c27" ed="T"/>顛倒。超出疑海增未來果。不分別行。波若<lb
@@ -2185,14 +2185,14 @@
  n="0779b03" ed="T"/>足。畜生滿足。閻摩羅世滿足。違背閑處至不<lb
  n="0779b04" ed="T"/>閑處。如是此一智當言無智。<lb
  n="0779b05" ed="T"/>
-</ab><ab type="juan" subtype="close">大威德陀羅尼經卷第五</ab><lb
+</ab><ab type='juan' subtype='close'>大威德陀羅尼經卷第五</ab><lb
  n="0779b06" ed="T"/><lb
  n="0779b07" ed="T"/><lb
  n="0779b08" ed="T"/>
-<ab type="juan" subtype="open">大威德陀羅尼經卷第六</ab><lb
+<ab type='juan' subtype='open'>大威德陀羅尼經卷第六</ab><lb
  n="0779b09" ed="T"/><lb
  n="0779b10" ed="T"/><byline>隋北印度三藏闍那崛多譯</byline><lb
- n="0779b11" ed="T"/><ab type="prose">爾時彼眾中波斯匿高薩羅王。有一算師大<lb
+ n="0779b11" ed="T"/><ab type='prose'>爾時彼眾中波斯匿高薩羅王。有一算師大<lb
  n="0779b12" ed="T"/>臣。名曰財主而來會坐。即從坐起整理衣服。<lb
  n="0779b13" ed="T"/>偏袒右肩右膝著地。合掌向佛而白佛言。世<lb
  n="0779b14" ed="T"/>尊。我以一錢為初入於百千算數。於彼一錢<lb
@@ -2245,7 +2245,7 @@
  n="0780a03" ed="T"/>光明能滅闇障。如是一切諸論義師。既覆障<lb
  n="0780a04" ed="T"/>已威光獨耀。於彼之中有此呪句。<lb
  n="0780a05" ed="T"/></ab>
-<ab type="dharani">多遲他遮多憂婆耶陀𪏭婆阿浮薩𪏭<lb
+<ab type='dharani'>多遲他遮多憂婆耶陀𪏭婆阿浮薩𪏭<lb
  n="0780a06" ed="T"/>鼻帝底雞迷帝婆步荼婆那伽烏瞿<lb
  n="0780a07" ed="T"/>盧鼻步瞿阿囉他阿那囉他㕹帝<lb
  n="0780a08" ed="T"/>阿羅耶鼻薩囉婆伽那阿那呵<lb
@@ -2253,7 +2253,7 @@
  n="0780a10" ed="T"/>耶多哆囉多伊呵伊舍伊苦制婆多哆多哆制婆娑婆帝婆盧<lb
  n="0780a12" ed="T"/>婆帝婆盧<lb
  n="0780a13" ed="T"/></ab>
-<ab type="prose">說此守護之時。有八萬四千諸夜叉眾。同時<lb
+<ab type='prose'>說此守護之時。有八萬四千諸夜叉眾。同時<lb
  n="0780a14" ed="T"/>驚懼。爾時彼八萬四千諸夜叉眾樂斷殺生。<lb
  n="0780a15" ed="T"/>於彼等邊付囑言教。彼等攝受如是三種護<lb
  n="0780a16" ed="T"/>地三品覆護地。歡喜信樂勤斷貪愛。阿難。如<lb
@@ -2683,14 +2683,14 @@
  n="0785a14" ed="T"/>來為我作親近者。世尊。我等當受此陀羅尼<lb
  n="0785a15" ed="T"/>法本。復為他人建立安置。<lb
  n="0785a16" ed="T"/>
-</ab><ab type="juan" subtype="close">大威德陀羅尼經卷第六</ab><lb
+</ab><ab type='juan' subtype='close'>大威德陀羅尼經卷第六</ab><lb
  n="0785a17" ed="T"/><lb
  n="0785a18" ed="T"/><lb
  n="0785a19" ed="T"/>
-<ab type="juan" subtype="open">大威德陀羅尼經卷第七</ab><lb
+<ab type='juan' subtype='open'>大威德陀羅尼經卷第七</ab><lb
  n="0785a20" ed="T"/><lb
  n="0785a21" ed="T"/><byline>隋北印度三藏闍那崛多譯</byline><lb
- n="0785a22" ed="T"/><ab type="prose">阿難。何者是一不欲。為一切世間廣宣說故。<lb
+ n="0785a22" ed="T"/><ab type='prose'>阿難。何者是一不欲。為一切世間廣宣說故。<lb
  n="0785a23" ed="T"/>是一不欲。何者是一切世間。眼耳鼻舌身意<lb
  n="0785a24" ed="T"/>色聲香味觸法。此名一切世間言說法。此中<lb
  n="0785a25" ed="T"/>無有法可別離者。於彼之中所有樹名皆入<lb
@@ -2777,14 +2777,14 @@
  n="0786a19" ed="T"/>入者。已取訖竟。<lb
  n="0786a20" ed="T"/>阿難。自餘復有飲血眾類名字。所謂。<lb
  n="0786a21" ed="T"/></ab>
-<ab type="dharani">摩舍迦奚邏涕夜　臂茶娑　臂夜多嘔馱<lb
+<ab type='dharani'>摩舍迦奚邏涕夜　臂茶娑　臂夜多嘔馱<lb
  n="0786a22" ed="T"/>　吒舍　富帝夜　跋詫　那磨婆那呵囉<lb
  n="0786a23" ed="T"/>　鉢履婆囉婆底　野囉吒底梨富婆<lb
  n="0786a24" ed="T"/>磨器夜摩徒迦利夜拔囉摩囉蜱梨<lb
  n="0786a25" ed="T"/>輸婆鳩馱　侯帝夜娑婆那婆妬婆醯波利<lb
  n="0786a26" ed="T"/>娑囉鷄利茶多都彌夜臂卑履也<lb
  n="0786a27" ed="T"/></ab>
-<ab type="prose">此等是彼飲血眾類。所生義中之所攝入。於<lb
+<ab type='prose'>此等是彼飲血眾類。所生義中之所攝入。於<lb
  n="0786a28" ed="T"/>彼中有如是等句味。有呪方便名曰一切移<lb
  n="0786a29" ed="T"/>行。於此之中皆悉攝入。普平等入一切總入。<pb n="0786b" id="T21.1341.0786b" ed="T"/><lb
  n="0786b01" ed="T"/>多緻他系涕　臂利涕　薩帝涕　尼羅涕<lb
@@ -3080,14 +3080,14 @@
  n="0789c02" ed="T"/>住之眼。所有疑行當令除斷。所說聖喻應當<lb
  n="0789c03" ed="T"/>證知。當善受持。<lb
  n="0789c04" ed="T"/>
-</ab><ab type="juan" subtype="close">大威德陀羅尼經卷第七</ab><lb
+</ab><ab type='juan' subtype='close'>大威德陀羅尼經卷第七</ab><lb
  n="0789c05" ed="T"/><lb
  n="0789c06" ed="T"/><lb
  n="0789c07" ed="T"/>
-<ab type="juan" subtype="open">大威德陀羅尼經卷第八</ab><lb
+<ab type='juan' subtype='open'>大威德陀羅尼經卷第八</ab><lb
  n="0789c08" ed="T"/><lb
  n="0789c09" ed="T"/><byline>隋北印度三藏闍那崛多譯</byline><lb
- n="0789c10" ed="T"/><ab type="prose">阿難。何者一猛健。從凡夫地來。一切眾生<lb
+ n="0789c10" ed="T"/><ab type='prose'>阿難。何者一猛健。從凡夫地來。一切眾生<lb
  n="0789c11" ed="T"/>中。若能迴向發菩提心。彼名為猛健。為一切<lb
  n="0789c12" ed="T"/>眾生所歸依處。為一切眾生於中當觀菩薩<lb
  n="0789c13" ed="T"/>之行於中應觀。菩薩之智於中應觀。以何事<lb
@@ -3490,14 +3490,14 @@
  n="0794b03" ed="T"/>得無量無邊辯才。當得無等辯才。於此品中<lb
  n="0794b04" ed="T"/>若一聞時。彼應當受滿足百偈。<lb
  n="0794b05" ed="T"/>
-</ab><ab type="juan" subtype="close">大威德陀羅尼經卷第八</ab><lb
+</ab><ab type='juan' subtype='close'>大威德陀羅尼經卷第八</ab><lb
  n="0794b06" ed="T"/><lb
  n="0794b07" ed="T"/><lb
  n="0794b08" ed="T"/>
-<ab type="juan" subtype="open">大威德陀羅尼經卷第九</ab><lb
+<ab type='juan' subtype='open'>大威德陀羅尼經卷第九</ab><lb
  n="0794b09" ed="T"/><lb
  n="0794b10" ed="T"/><byline>隋北印度三藏闍那崛多譯</byline><lb
- n="0794b11" ed="T"/><ab type="prose">阿難。於中何者是五入。入地獄入畜生入閻<lb
+ n="0794b11" ed="T"/><ab type='prose'>阿難。於中何者是五入。入地獄入畜生入閻<lb
  n="0794b12" ed="T"/>羅世入天入人。是名五種入。於中所有地獄<lb
  n="0794b13" ed="T"/>畜生閻羅世入。是惡行眾生入。若言天人等<lb
  n="0794b14" ed="T"/>入。是善行眾生入。何故名入耶。彼受諸生<lb
@@ -3739,7 +3739,7 @@
  n="0797a18" ed="T"/>彼即問言。云何名為比丘也。尊者婆難陀即<lb
  n="0797a19" ed="T"/>以偈告言。<lb
  n="0797a20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若斷欲悕望　　復斷諸漏已　　<lb
  n="0797a21" ed="T"/>諸法無悕望　　不可說有法　　<lb
  n="0797a22" ed="T"/>隨順向涅槃　　隨順趣厭離　　<lb
@@ -3747,7 +3747,7 @@
  n="0797a24" ed="T"/>若順於毘尼　　入於境界處　　<lb
  n="0797a25" ed="T"/>能住戒聚中　　當得脫諸縛　　
 </ab><lb
- n="0797a26" ed="T"/><ab type="prose">爾時世尊為彼長者比丘。廣說苦聖諦令得<lb
+ n="0797a26" ed="T"/><ab type='prose'>爾時世尊為彼長者比丘。廣說苦聖諦令得<lb
  n="0797a27" ed="T"/>安住。開示顯揚分別廣演言教。正說苦諦苦<lb
  n="0797a28" ed="T"/>集苦滅苦滅道聖諦。向說名字令得安住。開<lb
  n="0797a29" ed="T"/>示分別宣揚顯說。爾時彼比丘聞說勝法已。<pb n="0797b" id="T21.1341.0797b" ed="T"/><lb
@@ -3826,14 +3826,14 @@
  n="0798a15" ed="T"/>名阿波荼婆娑那。阿難。是等諸根名者。如來<lb
  n="0798a16" ed="T"/>所知種種言辭應分別演說。<lb
  n="0798a17" ed="T"/>
-</ab><ab type="juan" subtype="close">大威德陀羅尼經卷第九</ab><lb
+</ab><ab type='juan' subtype='close'>大威德陀羅尼經卷第九</ab><lb
  n="0798a18" ed="T"/><lb
  n="0798a19" ed="T"/><lb
  n="0798a20" ed="T"/>
-<ab type="juan" subtype="open">大威德陀羅尼經卷第十</ab><lb
+<ab type='juan' subtype='open'>大威德陀羅尼經卷第十</ab><lb
  n="0798a21" ed="T"/><lb
  n="0798a22" ed="T"/><byline>隋北印度三藏闍那崛那譯</byline><lb
- n="0798a23" ed="T"/><ab type="prose">阿難。若有比丘比丘尼優婆塞優婆夷。知此<lb
+ n="0798a23" ed="T"/><ab type='prose'>阿難。若有比丘比丘尼優婆塞優婆夷。知此<lb
  n="0798a24" ed="T"/>言辭者。彼則名曰不隨他智。以何義故。名不<lb
  n="0798a25" ed="T"/>隨他智。如是諸法聞已誦習。如是受持現在<lb
  n="0798a26" ed="T"/>諸法。當得諸天龍神夜叉卑梨多及富單那<lb
@@ -4130,13 +4130,13 @@
  n="0801b27" ed="T"/>五種痛。如來所說。何等為五。生死流轉煩惱<lb
  n="0801b28" ed="T"/>中。地獄畜生閻羅世天人。此為五痛。<lb
  n="0801b29" ed="T"/>
-</ab><ab type="juan" subtype="close">大威德陀羅尼經卷第十</ab><pb n="0801c" id="T21.1341.0801c" ed="T"/><lb
+</ab><ab type='juan' subtype='close'>大威德陀羅尼經卷第十</ab><pb n="0801c" id="T21.1341.0801c" ed="T"/><lb
  n="0801c01" ed="T"/><lb
  n="0801c02" ed="T"/>
-<ab type="juan" subtype="open">大威德陀羅尼經卷第十一</ab><lb
+<ab type='juan' subtype='open'>大威德陀羅尼經卷第十一</ab><lb
  n="0801c03" ed="T"/><lb
  n="0801c04" ed="T"/><byline>隋天竺三藏闍那崛多譯</byline><lb
- n="0801c05" ed="T"/><ab type="prose">於中何者是五種痛斷。見佛痛斷。聞法痛斷。<lb
+ n="0801c05" ed="T"/><ab type='prose'>於中何者是五種痛斷。見佛痛斷。聞法痛斷。<lb
  n="0801c06" ed="T"/>見僧痛斷。法中順行痛斷。一切法寂滅痛斷。<lb
  n="0801c07" ed="T"/>是為五痛斷。復有餘五斷諸痛。何等為五。<lb
  n="0801c08" ed="T"/>善知識者斷諸痛。不生煩惱處者斷諸痛。勸<lb
@@ -4486,14 +4486,14 @@
  n="0805c04" ed="T"/>諸佛所知。於中何者為所知也。謂不證也。<lb
  n="0805c05" ed="T"/>何者為不證也。謂佛諸法也。<lb
  n="0805c06" ed="T"/>
-</ab><ab type="juan" subtype="close">大威德陀羅尼經卷第十一</ab><lb
+</ab><ab type='juan' subtype='close'>大威德陀羅尼經卷第十一</ab><lb
  n="0805c07" ed="T"/><lb
  n="0805c08" ed="T"/><lb
  n="0805c09" ed="T"/>
-<ab type="juan" subtype="open">大威德陀羅尼經卷第十二</ab><lb
+<ab type='juan' subtype='open'>大威德陀羅尼經卷第十二</ab><lb
  n="0805c10" ed="T"/><lb
  n="0805c11" ed="T"/><byline>隋天竺三藏闍那崛多譯</byline><lb
- n="0805c12" ed="T"/><ab type="prose">阿難。其佛諸法。阿難。譬如駃流河中畫諸<lb
+ n="0805c12" ed="T"/><ab type='prose'>阿難。其佛諸法。阿難。譬如駃流河中畫諸<lb
  n="0805c13" ed="T"/>綵色。阿難。或時有人百由旬至而覺知不。阿<lb
  n="0805c14" ed="T"/>難言。世尊。而彼自下筆畫。畫師猶尚不知。況<lb
  n="0805c15" ed="T"/>遠來者。佛復告言。如是如是阿難。諸佛之<lb
@@ -4742,13 +4742,13 @@
  n="0808b26" ed="T"/>者色性唯有音聲。何者為聲謂言道分。但如<lb
  n="0808b27" ed="T"/>來說色如世語言。<lb
  n="0808b28" ed="T"/>
-</ab><ab type="juan" subtype="close">大威德陀羅尼經卷第十二</ab><pb n="0808c" id="T21.1341.0808c" ed="T"/><lb
+</ab><ab type='juan' subtype='close'>大威德陀羅尼經卷第十二</ab><pb n="0808c" id="T21.1341.0808c" ed="T"/><lb
  n="0808c01" ed="T"/><lb
  n="0808c02" ed="T"/>
-<ab type="juan" subtype="open">大威德陀羅尼經卷第十三</ab><lb
+<ab type='juan' subtype='open'>大威德陀羅尼經卷第十三</ab><lb
  n="0808c03" ed="T"/><lb
  n="0808c04" ed="T"/><byline>隋天竺三藏闍那崛多譯</byline><lb
- n="0808c05" ed="T"/><ab type="prose">何者世間語言。謂色色處及色生處。是故名<lb
+ n="0808c05" ed="T"/><ab type='prose'>何者世間語言。謂色色處及色生處。是故名<lb
  n="0808c06" ed="T"/>色。為老死生故。若作色及色處。所有作處彼<lb
  n="0808c07" ed="T"/>無有物。言無物者彼無有性。是義不可說言<lb
  n="0808c08" ed="T"/>如來有色。受想行識亦復如是。以盡色故。諸<lb
@@ -4816,11 +4816,11 @@
  n="0809b12" ed="T"/>拔彼白髮著摩訶提婆王右手中。爾<lb
  n="0809b13" ed="T"/>時摩訶提婆王。說此偈言。<lb
  n="0809b14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 今我頭上分　　如是生白髮　　<lb
  n="0809b15" ed="T"/>故名為天使　　出家時到也　　
 </ab><lb
- n="0809b16" ed="T"/><ab type="prose">阿難。於汝意云何。豈可一人頭上生天使已。<lb
+ n="0809b16" ed="T"/><ab type='prose'>阿難。於汝意云何。豈可一人頭上生天使已。<lb
  n="0809b17" ed="T"/>餘人頭上亦天使乎。阿難。汝莫作是見。阿<lb
  n="0809b18" ed="T"/>難。所言天使者謂渴愛也。阿難。若以頭生<lb
  n="0809b19" ed="T"/>白髮為天使者。所有諸人以被衰老故而取<lb
@@ -5041,14 +5041,14 @@
  n="0812a02" ed="T"/>因緣。我應當得涅槃。涅槃因緣。此等五相以<lb
  n="0812a03" ed="T"/>湛足故當生邪見。<lb
  n="0812a04" ed="T"/>
-</ab><ab type="juan" subtype="close">大威德陀羅尼經卷第十三</ab><lb
+</ab><ab type='juan' subtype='close'>大威德陀羅尼經卷第十三</ab><lb
  n="0812a05" ed="T"/><lb
  n="0812a06" ed="T"/><lb
  n="0812a07" ed="T"/>
-<ab type="juan" subtype="open">大威德陀羅尼經卷第十四</ab><lb
+<ab type='juan' subtype='open'>大威德陀羅尼經卷第十四</ab><lb
  n="0812a08" ed="T"/><lb
  n="0812a09" ed="T"/><byline>隋天竺三藏闍那崛多譯</byline><lb
- n="0812a10" ed="T"/><ab type="prose">若初相行我遊行我相故若干出出入息。此<lb
+ n="0812a10" ed="T"/><ab type='prose'>若初相行我遊行我相故若干出出入息。此<lb
  n="0812a11" ed="T"/>等五相當有七十七患。何者七十七。瞋者相。<lb
  n="0812a12" ed="T"/>烏居摩相不曲相。不受果報相。身相。色<lb
  n="0812a13" ed="T"/>聲香味觸法相語言相。捨相。滅相。治罰攝取<lb
@@ -5310,7 +5310,7 @@
  n="0815a08" ed="T"/>地獄中。彼等如是似像者。何所似像。無似<lb
  n="0815a09" ed="T"/>像者。言不似像者。阿遲瞿流伽摩故<lb
  n="0815a10" ed="T"/>言阿遲瞿流伽摩。亦名調伏也。亦名白羊也。<lb
- n="0815a11" ed="T"/>亦名泥沙鋪沙也。復名頭羅浮羅也。復名呵梨翅摩也。復名恒河牟󰳍<lb
+ n="0815a11" ed="T"/>亦名泥沙鋪沙也。復名頭羅浮羅也。復名呵梨翅摩也。復名恒河牟𭇿<lb
  n="0815a13" ed="T"/>也。復名浮耶娑他也。復名那盧奢<lb
  n="0815a14" ed="T"/>耶也。復名阿俱不多叉也。復名<lb
  n="0815a15" ed="T"/>何荼輸伽也。復名婆羅跋那也。復<lb
@@ -5350,14 +5350,14 @@
  n="0815b20" ed="T"/>羅阿娑羅耶娑摩娑羅耶娑牟後何<lb
  n="0815b21" ed="T"/>囉邏耶婆頭婆那故言為食也。<lb
  n="0815b22" ed="T"/>
-</ab><ab type="juan" subtype="close">大威德陀羅尼經卷第十四</ab><lb
+</ab><ab type='juan' subtype='close'>大威德陀羅尼經卷第十四</ab><lb
  n="0815b23" ed="T"/><lb
  n="0815b24" ed="T"/><lb
  n="0815b25" ed="T"/>
-<ab type="juan" subtype="open">大威德陀羅尼經卷第十五</ab><lb
+<ab type='juan' subtype='open'>大威德陀羅尼經卷第十五</ab><lb
  n="0815b26" ed="T"/><lb
  n="0815b27" ed="T"/><byline>隋天竺三藏闍那崛多譯</byline><lb
- n="0815b28" ed="T"/><ab type="prose">復有別四種食。行住處為食。穢相為食。行步<lb
+ n="0815b28" ed="T"/><ab type='prose'>復有別四種食。行住處為食。穢相為食。行步<lb
  n="0815b29" ed="T"/>為食。行淨為食。於中何者行淨而為食。若初<pb n="0815c" id="T21.1341.0815c" ed="T"/><lb
  n="0815c01" ed="T"/>覓食求善根果。願我得是處所。願我得如是<lb
  n="0815c02" ed="T"/>行。願我得如是發處。願我得有如是時。願我<lb
@@ -5633,7 +5633,7 @@
  n="0818c11" ed="T"/>有諸風。名曰富吒避陀那。略說如上應<lb
  n="0818c12" ed="T"/>知。復有諸風。名伽帝尼避奢伽伽那揭波。復<lb
  n="0818c13" ed="T"/>有諸風。名遏顛多悉洟帝迦。復有諸風。名阿<lb
- n="0818c14" ed="T"/>迦奢毘奢毘迦多復有諸風。名阿住󰿶囉。復<lb
+ n="0818c14" ed="T"/>迦奢毘奢毘迦多復有諸風。名阿住𮁦囉。復<lb
  n="0818c15" ed="T"/>有諸風。名避多博叉。復有諸風。名施利伽<lb
  n="0818c16" ed="T"/>摩。復有諸風。名迦多婁惡。復有諸風。名娑那<lb
  n="0818c17" ed="T"/>帝囉那。復有諸風。名阿㝹呵伽。復有諸風。名<lb
@@ -5664,14 +5664,14 @@
  n="0819a13" ed="T"/>得者應令得之。以未至者當令得至。以未證<lb
  n="0819a14" ed="T"/>者當令證故。<lb
  n="0819a15" ed="T"/>
-</ab><ab type="juan" subtype="close">大威德陀羅尼經卷第十五</ab><lb
+</ab><ab type='juan' subtype='close'>大威德陀羅尼經卷第十五</ab><lb
  n="0819a16" ed="T"/><lb
  n="0819a17" ed="T"/><lb
  n="0819a18" ed="T"/>
-<ab type="juan" subtype="open">大威德陀羅尼經卷第十六</ab><lb
+<ab type='juan' subtype='open'>大威德陀羅尼經卷第十六</ab><lb
  n="0819a19" ed="T"/><lb
  n="0819a20" ed="T"/><byline>隋天竺三藏闍那崛多譯</byline><lb
- n="0819a21" ed="T"/><ab type="prose">阿難。彼佛世尊有一大智比丘。於聲聞眾中<lb
+ n="0819a21" ed="T"/><ab type='prose'>阿難。彼佛世尊有一大智比丘。於聲聞眾中<lb
  n="0819a22" ed="T"/>最為第一。名曰降勝。猶如我今上座舍利弗。<lb
  n="0819a23" ed="T"/>彼佛世尊有一神通比丘。名曰寂行。譬如我<lb
  n="0819a24" ed="T"/>今上座目揵連。彼佛世尊有一侍者比丘。名<lb
@@ -6106,14 +6106,14 @@
  n="0824a18" ed="T"/>一向行處。阿難。如彼之食攝出家者。必應至<lb
  n="0824a19" ed="T"/>彼阿鼻地獄。<lb
  n="0824a20" ed="T"/>
-</ab><ab type="juan" subtype="close">大威德陀羅尼經卷第十六</ab><lb
+</ab><ab type='juan' subtype='close'>大威德陀羅尼經卷第十六</ab><lb
  n="0824a21" ed="T"/><lb
  n="0824a22" ed="T"/><lb
  n="0824a23" ed="T"/>
-<ab type="juan" subtype="open">大威德陀羅尼經卷第十七</ab><lb
+<ab type='juan' subtype='open'>大威德陀羅尼經卷第十七</ab><lb
  n="0824a24" ed="T"/><lb
  n="0824a25" ed="T"/><byline>隋天竺三藏闍那崛多譯</byline><lb
- n="0824a26" ed="T"/><ab type="prose">阿難。復有四種食。承事尊重者是為食。摩訶<lb
+ n="0824a26" ed="T"/><ab type='prose'>阿難。復有四種食。承事尊重者是為食。摩訶<lb
  n="0824a27" ed="T"/>羅所作業者是為食。調戲是為食。覆藏者是<lb
  n="0824a28" ed="T"/>為食。於中所有作摩訶羅業者。是名為毒。何<lb
  n="0824a29" ed="T"/>者名毒。所謂不自在自在。何者名不自在。<pb n="0824b" id="T21.1341.0824b" ed="T"/><lb
@@ -6514,14 +6514,14 @@
  n="0828c19" ed="T"/>沙門等。諸比丘等當還向彼持叉尸羅大城<lb
  n="0828c20" ed="T"/>。<lb
  n="0828c21" ed="T"/>
-</ab><ab type="juan" subtype="close">大威德陀羅尼經卷第十七</ab><lb
+</ab><ab type='juan' subtype='close'>大威德陀羅尼經卷第十七</ab><lb
  n="0828c22" ed="T"/><lb
  n="0828c23" ed="T"/><lb
  n="0828c24" ed="T"/>
-<ab type="juan" subtype="open">大威德陀羅尼經卷第十八</ab><lb
+<ab type='juan' subtype='open'>大威德陀羅尼經卷第十八</ab><lb
  n="0828c25" ed="T"/><lb
  n="0828c26" ed="T"/><byline>隋天竺三藏闍那崛多譯</byline><lb
- n="0828c27" ed="T"/><ab type="prose">時彼城中所有人民。皆悉聚集而作誓言。今<lb
+ n="0828c27" ed="T"/><ab type='prose'>時彼城中所有人民。皆悉聚集而作誓言。今<lb
  n="0828c28" ed="T"/>者不聽沙門釋種弟子入城。爾時彼中。復有<lb
  n="0828c29" ed="T"/>於佛教中信行之者。有淨心者。作如是言。佛<pb n="0829a" id="T21.1341.0829a" ed="T"/><lb
  n="0829a01" ed="T"/>出世難。但令沙門釋種弟子入城。還共此沙<lb
@@ -6903,14 +6903,14 @@
  n="0833a28" ed="T"/>者何。以有欲火燒然其身。阿難復言。世尊。豈<lb
  n="0833a29" ed="T"/>可婦人。多諸煩惱非丈夫也。<pb n="0833b" id="T21.1341.0833b" ed="T"/><lb
  n="0833b01" ed="T"/>
-</ab><ab type="juan" subtype="close">大威德陀羅尼經卷第十八</ab><lb
+</ab><ab type='juan' subtype='close'>大威德陀羅尼經卷第十八</ab><lb
  n="0833b02" ed="T"/><lb
  n="0833b03" ed="T"/><lb
  n="0833b04" ed="T"/>
-<ab type="juan" subtype="open">大威德陀羅尼經卷第十九</ab><lb
+<ab type='juan' subtype='open'>大威德陀羅尼經卷第十九</ab><lb
  n="0833b05" ed="T"/><lb
  n="0833b06" ed="T"/><byline>隋天竺三藏闍那崛多譯</byline><lb
- n="0833b07" ed="T"/><ab type="prose">佛告阿難。此非正問。雖然阿難。我今為汝而<lb
+ n="0833b07" ed="T"/><ab type='prose'>佛告阿難。此非正問。雖然阿難。我今為汝而<lb
  n="0833b08" ed="T"/>作譬喻。為明此義令汝知故。阿難。於汝意云<lb
  n="0833b09" ed="T"/>何。若於春末月中正熱惱時。大火坑內鐵鍱<lb
  n="0833b10" ed="T"/>擲中。柝一毛道以為百分。取一渧水置彼鍱<lb
@@ -7155,14 +7155,14 @@
  n="0836a17" ed="T"/>第二樓觀臺中。眾香所覆重更覆彼牛頭栴<lb
  n="0836a18" ed="T"/>檀。然彼牛頭栴檀有如是色。<lb
  n="0836a19" ed="T"/>
-</ab><ab type="juan" subtype="close">大威德陀羅尼經卷第十九</ab><lb
+</ab><ab type='juan' subtype='close'>大威德陀羅尼經卷第十九</ab><lb
  n="0836a20" ed="T"/><lb
  n="0836a21" ed="T"/><lb
  n="0836a22" ed="T"/>
-<ab type="juan" subtype="open">大威德陀羅尼經卷第二十</ab><lb
+<ab type='juan' subtype='open'>大威德陀羅尼經卷第二十</ab><lb
  n="0836a23" ed="T"/><lb
  n="0836a24" ed="T"/><byline>隋天竺三藏闍那崛多譯</byline><lb
- n="0836a25" ed="T"/><ab type="prose">如青琉璃最勝最妙。彼香臺閣周匝。所有<lb
+ n="0836a25" ed="T"/><ab type='prose'>如青琉璃最勝最妙。彼香臺閣周匝。所有<lb
  n="0836a26" ed="T"/>最勝天花彼等不種。以菩薩業報力故。自然<lb
  n="0836a27" ed="T"/>出生彼臺閣中。復有最勝最上妙鬘。間錯圍<lb
  n="0836a28" ed="T"/>繞周匝四邊。彼等一切於彼處所皆現出生。<lb
@@ -7369,5 +7369,5 @@
  n="0838b26" ed="T"/>汝等邊我有如是教勅。爾時世尊說此經時。<lb
  n="0838b27" ed="T"/>彼等諸比丘聞佛所說歡喜奉行。<lb
  n="0838b28" ed="T"/>
-</ab><ab type="juan" subtype="close">大威德陀羅尼經卷第二十</ab></div>
+</ab><ab type='juan' subtype='close'>大威德陀羅尼經卷第二十</ab></div>
 </body></text></TEI>

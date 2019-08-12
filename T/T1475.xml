@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T24</biblScope>
                     <idno type="Taisho">T24n1475</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0938b10" ed="T"/><lb
  n="0938b11" ed="T"/><lb
  n="0938b12" ed="T"/><lb
  n="0938b13" ed="T"/>
-<ab type="juan" subtype="open">沙彌尼離戒文</ab><lb
+<ab type='juan' subtype='open'>沙彌尼離戒文</ab><lb
  n="0938b14" ed="T"/><lb
  n="0938b15" ed="T"/><byline>東晉失譯</byline><lb
- n="0938b16" ed="T"/><div type="jing" level="2"><ab type="prose">善女人字某言：某所受穢惡之身，充弊人流<lb
+ n="0938b16" ed="T"/><div type='jing' level='2'><ab type='prose'>善女人字某言：某所受穢惡之身，充弊人流<lb
  n="0938b17" ed="T"/>不堪下行。剋己自悔，願為弟子，受持正戒終<lb
  n="0938b18" ed="T"/>身奉行。<lb
  n="0938b19" ed="T"/>用何等故作沙彌離？用歸命佛、歸命法、歸命<lb
@@ -69,11 +69,11 @@
  n="0938c05" ed="T"/>十、盡形壽過日中不得復食，不得教人食。<lb
  n="0938c06" ed="T"/>威儀七十事。<lb
  n="0938c07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 不得著繒綵衣，　　不得作綵衣與人，　　<lb
  n="0938c08" ed="T"/>不得惡口相調，　　不得教人作不急語。　　
 </ab><lb
- n="0938c09" ed="T"/><ab type="prose">不得與優婆夷相看形體大笑。<lb
+ n="0938c09" ed="T"/><ab type='prose'>不得與優婆夷相看形體大笑。<lb
  n="0938c10" ed="T"/>不得於避處裸形自弄身體。<lb
  n="0938c11" ed="T"/>不得照鏡摩抆面目畫眉。<lb
  n="0938c12" ed="T"/>不得瞋恨羞慚恚語。<lb
@@ -88,7 +88,7 @@
  n="0938c21" ed="T"/>笑。不得臥沙彌離衣被中。不得錯法衣共器<lb
  n="0938c22" ed="T"/>誤著僧衣。不得手授男子物。設欲與物，當置<lb
  n="0938c23" ed="T"/>著地却使取之。不得與優婆夷露浴。不得獨<lb
- n="0938c24" ed="T"/>至僧房問義。不得說浴事。不得笑經語。不<lb
+ n="0938c24" ed="T"/>至僧房問義。不得說俗事。不得笑經語。不<lb
  n="0938c25" ed="T"/>得左右顧視。不得手據机上。<lb
  n="0938c26" ed="T"/>受經有五事：當與長老尼共行；去坐六尺；長<lb
  n="0938c27" ed="T"/>跪；但得問義；當識句逗。<lb
@@ -121,7 +121,7 @@
  n="0939a25" ed="T"/>衣。師云：「女人受性，大出雜態姿則憙好婬<lb
  n="0939a26" ed="T"/>泆無禮，故為女人。今以自覺，得蒙釋迦文<lb
  n="0939a27" ed="T"/>佛大恩，普三界開視道地得值法，其有自識<lb
- n="0939a28" ed="T"/>本行，歸念佛者少。<lb
+ n="0939a28" ed="T"/>本行，歸命佛者少。<lb
  n="0939a29" ed="T"/>「佛言：『觀見人間，上至二十八天、下至十八地<pb n="0939b" ed="T" id="T24.1475.0939b"/><lb
  n="0939b01" ed="T"/>獄，皆苦無樂。』故結戒以訓後生。佛告諸弟子：<lb
  n="0939b02" ed="T"/>『為道至難，尠能去家斷絕六情。受佛重戒捐<lb
@@ -133,7 +133,7 @@
  n="0939b08" ed="T"/>菩薩阿羅漢，不可度尼。』」<lb
  n="0939b09" ed="T"/>除覲說戒節度。<lb
  n="0939b10" ed="T"/>維那先具舍羅籌、香火、戒文。淨掃除精舍，却<lb
- n="0939b11" ed="T"/>鳴揵槌，燒香禮佛唄呪願意，呪願鬼子母。<lb
+ n="0939b11" ed="T"/>鳴揵槌，燒香禮佛唄呪願竟，呪願鬼子母。<lb
  n="0939b12" ed="T"/>各便就坐，整法服叉手靜默。維那便行香火<lb
  n="0939b13" ed="T"/>人。各說一偈。維那在戶裏三唱：「白衣出，除覲<lb
  n="0939b14" ed="T"/>布薩竟。」三彈指令白衣遠去，莫令聞說戒。音<lb
@@ -154,8 +154,8 @@
  n="0939b29" ed="T"/>禮大尼訖，便維那長跪唱言：「隨所安。」<pb n="0939c" ed="T" id="T24.1475.0939c"/><lb
  n="0939c01" ed="T"/>請說戒、讀經人共別坐一床上。</ab></div><lb
  n="0939c02" ed="T"/>
-<ab type="juan" subtype="close">沙彌尼離戒文</ab><lb
- n="0939c03" ed="T"/><div type="w" level="2"><ab type="prose">按此戒名，國本、宋本及《開元錄》皆云沙彌<lb
+<ab type='juan' subtype='close'>沙彌尼離戒文</ab><lb
+ n="0939c03" ed="T"/><div type='w' level='2'><ab type='prose'>按此戒名，國本、宋本及《開元錄》皆云沙彌<lb
  n="0939c04" ed="T"/>尼離戒文。丹本即云「沙彌尼雜戒文」。今撿<lb
  n="0939c05" ed="T"/>正文，諸本皆非。何則？按此譯之「離」字，與他<lb
  n="0939c06" ed="T"/>譯之「尼」字，但梵音楚夏耳。曾不是沙彌尼<lb

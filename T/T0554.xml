@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0554</idno>
                 </bibl>
@@ -43,10 +43,10 @@
  n="0902b01" ed="T"/><lb
  n="0902b02" ed="T"/><lb
  n="0902b03" ed="T"/>
-<ab type="juan" subtype="open">佛說奈女耆婆經</ab><lb
+<ab type='juan' subtype='open'>佛說奈女耆婆經</ab><lb
  n="0902b04" ed="T"/><lb
  n="0902b05" ed="T"/><byline>後漢安世高譯</byline><lb
- n="0902b06" ed="T"/><div type="jing" level="1"><ab type="prose">佛在世時，維耶離國王苑中，自然生一奈樹，<lb
+ n="0902b06" ed="T"/><div type='jing' level='1'><ab type='prose'>佛在世時，維耶離國王苑中，自然生一奈樹，<lb
  n="0902b07" ed="T"/>枝葉繁茂，實又加大，既有光色，香美非凡。<lb
  n="0902b08" ed="T"/>王實愛此奈，自非宮中尊貴美人，不得噉此<lb
  n="0902b09" ed="T"/>奈果。其國中有梵志居士，財富無數，一國<lb
@@ -411,5 +411,5 @@
  n="0906b20" ed="T"/>邪見家生，恒值惡王，身不具足。汝當修行，<lb
  n="0906b21" ed="T"/>受持讀誦，盡未來際，常使不絕。」</ab></div><lb
  n="0906b22" ed="T"/>
-<ab type="juan" subtype="close">佛說奈女耆婆經</ab>
+<ab type='juan' subtype='close'>佛說奈女耆婆經</ab>
 </body></text></TEI>

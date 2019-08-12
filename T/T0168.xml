@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T03</biblScope>
                     <idno type="Taisho">T03n0168</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0410a06" ed="T"/><lb
  n="0410a07" ed="T"/><lb
  n="0410a08" ed="T"/>
-<ab type="juan" subtype="open">佛說太子墓魄經</ab><lb
+<ab type='juan' subtype='open'>佛說太子墓魄經</ab><lb
  n="0410a09" ed="T"/><lb
  n="0410a10" ed="T"/><byline>西晉月氏三藏竺法護譯</byline><lb
- n="0410a11" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時，佛在舍衛國祇樹給孤獨園，告<lb
+ n="0410a11" ed="T"/><div type='jing' level='1'><ab type='prose'>聞如是：一時，佛在舍衛國祇樹給孤獨園，告<lb
  n="0410a12" ed="T"/>諸比丘：「昔者有王名波羅㮈。王有一太子，<lb
  n="0410a13" ed="T"/>字名墓魄，生有無窮之明，端正妙潔，無有<lb
  n="0410a14" ed="T"/>雙比。父母奇之，供養瞻視，須其長大，當為立<lb
@@ -121,5 +121,5 @@
  n="0411a02" ed="T"/>子、諸天龍、鬼神、帝王、人民皆大歡喜，為佛作<lb
  n="0411a03" ed="T"/>禮。<lb
  n="0411a04" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說太子墓魄經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說太子墓魄經</ab></div>
 </body></text></TEI>

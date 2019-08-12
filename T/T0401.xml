@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T13</biblScope>
                     <idno type="Taisho">T13n0401</idno>
                 </bibl>
@@ -41,12 +41,12 @@
     <text>
         <body><lb
  n="0522c15" ed="T"/><lb
- n="0522c16" ed="T"/><div type="jing" level="1"><lb
+ n="0522c16" ed="T"/><div type='jing' level='1'><lb
  n="0522c17" ed="T"/>
-<ab type="juan" subtype="open">佛說無言童子經卷上</ab><lb
+<ab type='juan' subtype='open'>佛說無言童子經卷上</ab><lb
  n="0522c18" ed="T"/><lb
  n="0522c19" ed="T"/><byline>西晉月支三藏竺法護譯</byline><lb
- n="0522c20" ed="T"/><ab type="prose">聞如是：一時佛遊羅閱祇耆闍崛山中，與大<lb
+ n="0522c20" ed="T"/><ab type='prose'>聞如是：一時佛遊羅閱祇耆闍崛山中，與大<lb
  n="0522c21" ed="T"/>比丘眾千二百五十人俱，摩訶菩薩無央數。<lb
  n="0522c22" ed="T"/>爾時城中，師子將軍第一夫人孕有德男，<lb
  n="0522c23" ed="T"/>天虛空唱大音聲而告之曰：「童子！汝當懷抱<lb
@@ -98,7 +98,7 @@
  n="0523b11" ed="T"/>大菩薩眾亦復如是。無言大士而於中與<lb
  n="0523b12" ed="T"/>菩薩異口同音，以偈讚佛：<lb
  n="0523b13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「無形而現形，　　亦不住於色，　　<lb
  n="0523b14" ed="T"/>欲以開化眾，　　現身而有教。　　<lb
  n="0523b15" ed="T"/>佛者無色會，　　亦不著有為，　　<lb
@@ -130,7 +130,7 @@
  n="0523c12" ed="T"/>道心不可獲，　　無言無相念，　　<lb
  n="0523c13" ed="T"/>是故曰道空，　　解結成暉曜。」　　
 </ab><lb
- n="0523c14" ed="T"/><ab type="prose">於是童子謂諸眾會：「道與言教等無有異，不<lb
+ n="0523c14" ed="T"/><ab type='prose'>於是童子謂諸眾會：「道與言教等無有異，不<lb
  n="0523c15" ed="T"/>可見！不可持！所可說無能覩，口說志道，人<lb
  n="0523c16" ed="T"/>計於道而有所求，其所處願斯無所有，不可<lb
  n="0523c17" ed="T"/>得處則無所住，如是住者道之所立也！諸度<lb
@@ -157,7 +157,7 @@
  n="0524a09" ed="T"/>侶，入平等覺，亹亹深妙難及之道。」於是讚<lb
  n="0524a10" ed="T"/>曰：<lb
  n="0524a11" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「如言道亦然，　　無持不可見，　　<lb
  n="0524a12" ed="T"/>所說無所覩，　　我宣者佛道。　　<lb
  n="0524a13" ed="T"/>誓願求於道，　　所願無所住，　　<lb
@@ -189,7 +189,7 @@
  n="0524b10" ed="T"/>若曉了此者，　　獨步普入戒，　　<lb
  n="0524b11" ed="T"/>則遊居於道，　　深妙難解句。」　　
 </ab><lb
- n="0524b12" ed="T"/><ab type="prose">童子又謂諸來會者：「所可謂言忍辱教者亦<lb
+ n="0524b12" ed="T"/><ab type='prose'>童子又謂諸來會者：「所可謂言忍辱教者亦<lb
  n="0524b13" ed="T"/>是言辭，解空空義乃為忍辱。忍如平等三界<lb
  n="0524b14" ed="T"/>亦如，說忍形類無像無見，等心於此乃名曰<lb
  n="0524b15" ed="T"/>忍。若能虛靜為忍辱根，音聲香味因緣合成，<lb
@@ -209,7 +209,7 @@
  n="0524b29" ed="T"/>上通大精進猛勇菩薩仁義備悉。」於是童子<pb n="0524c" ed="T" id="T13.0401.0524c"/><lb
  n="0524c01" ed="T"/>重頌曰：<lb
  n="0524c02" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「可所謂忍辱，　　口之所宣暢，　　<lb
  n="0524c03" ed="T"/>空空義故忍，　　如忍等三世。　　<lb
  n="0524c04" ed="T"/>說於忍色像，　　不貌不可見，　　<lb
@@ -233,7 +233,7 @@
  n="0524c22" ed="T"/>若勤力行此，　　無怯不懷難，　　<lb
  n="0524c23" ed="T"/>彼則大精進，　　為猛勇菩薩。」　　
 </ab><lb
- n="0524c24" ed="T"/><ab type="prose">童子復謂諸來會者：「所謂禪思亦不有念，計<lb
+ n="0524c24" ed="T"/><ab type='prose'>童子復謂諸來會者：「所謂禪思亦不有念，計<lb
  n="0524c25" ed="T"/>於禪者亦無所住，棄一切想，是乃名曰寂度<lb
  n="0524c26" ed="T"/>無極。則能寂然澹泊無言，無放逸，離諸漏而<lb
  n="0524c27" ed="T"/>燒滅一切塵，是名曰寂度無極。心於諸法不<lb
@@ -254,7 +254,7 @@
  n="0525a13" ed="T"/>無極智慧。若能順從此教命者，則順法眼不<lb
  n="0525a14" ed="T"/>可思議。」於是童子以偈頌曰：<lb
  n="0525a15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「禪行無所思，　　專心不有住，　　<lb
  n="0525a16" ed="T"/>斷一切諸想，　　名寂度無極。　　<lb
  n="0525a17" ed="T"/>寂然而澹泊，　　不逸無諸漏，　　<lb
@@ -276,7 +276,7 @@
  n="0525b04" ed="T"/>是故大智慧，　　菩薩其勇猛，　　<lb
  n="0525b05" ed="T"/>能隨此教令，　　法眼不可議。」　　
 </ab><lb
- n="0525b06" ed="T"/><ab type="prose">彼諸正士，說此章句分別所趣，以千二百人<lb
+ n="0525b06" ed="T"/><ab type='prose'>彼諸正士，說此章句分別所趣，以千二百人<lb
  n="0525b07" ed="T"/>皆發無上正真道意，六萬菩薩得無所從生<lb
  n="0525b08" ed="T"/>法忍。時蓮華上諸坐菩薩，尋即退下稽首佛<lb
  n="0525b09" ed="T"/>足，及復禮於無言菩薩，俱共啟白無言菩<lb
@@ -631,14 +631,14 @@
  n="0529b10" ed="T"/>所從生法忍，四萬二千人皆發無上正真道<lb
  n="0529b11" ed="T"/>意。<lb
  n="0529b12" ed="T"/>
-</ab><ab type="juan" subtype="close">無言童子經卷上</ab><lb
+</ab><ab type='juan' subtype='close'>無言童子經卷上</ab><lb
  n="0529b13" ed="T"/><lb
  n="0529b14" ed="T"/><lb
  n="0529b15" ed="T"/>
-<ab type="juan" subtype="open">佛說無言童子經卷下</ab><lb
+<ab type='juan' subtype='open'>佛說無言童子經卷下</ab><lb
  n="0529b16" ed="T"/><lb
  n="0529b17" ed="T"/><byline>西晉月支三藏竺法護譯</byline><lb
- n="0529b18" ed="T"/><ab type="prose">爾時會中有一菩薩，名蓮華淨，問無言菩薩：<lb
+ n="0529b18" ed="T"/><ab type='prose'>爾時會中有一菩薩，名蓮華淨，問無言菩薩：<lb
  n="0529b19" ed="T"/>「如族姓子屬者興意，白問如來，寧見答解及<lb
  n="0529b20" ed="T"/>微妙行，如受法染，可悅心乎？」無言答曰：「唯<lb
  n="0529b21" ed="T"/>族姓子！吾始以來未曾問法，亦無所受，當<lb
@@ -1238,5 +1238,5 @@
  n="0536b06" ed="T"/>目揵連、阿難，諸天、世人、阿須倫，聞佛所說，莫<lb
  n="0536b07" ed="T"/>不歡喜。<lb
  n="0536b08" ed="T"/>
-</ab><ab type="juan" subtype="close">無言童子經卷下</ab></div>
+</ab><ab type='juan' subtype='close'>無言童子經卷下</ab></div>
 </body></text></TEI>

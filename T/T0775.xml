@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T17</biblScope>
                     <idno type="Taisho">T17n0775</idno>
                 </bibl>
@@ -44,11 +44,11 @@
  n="0711c13" ed="T"/><lb
  n="0711c14" ed="T"/><lb
  n="0711c15" ed="T"/>
-<ab type="juan" subtype="open">佛說四無所畏經</ab><lb
+<ab type='juan' subtype='open'>佛說四無所畏經</ab><lb
  n="0711c16" ed="T"/><lb
  n="0711c17" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚卿<lb
  n="0711c18" ed="T"/>傳法大師臣施護奉　詔譯</byline><lb
- n="0711c19" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時，佛在舍衛國祇樹給孤獨園。<lb
+ n="0711c19" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時，佛在舍衛國祇樹給孤獨園。<lb
  n="0711c20" ed="T"/>爾時，世尊告諸苾芻：「汝等諦聽！如來、應、正等<lb
  n="0711c21" ed="T"/>覺，成就四無所畏，於大眾中，轉大法輪，如<lb
  n="0711c22" ed="T"/>師子吼，自在無畏。」時諸苾芻，聞是語已，五體<lb
@@ -89,13 +89,13 @@
  n="0712a28" ed="T"/>在無畏，如山不動。」佛言：「苾芻！是名八部大眾<lb
  n="0712a29" ed="T"/>之中，得無所畏。」即說頌曰：<pb n="0712b" ed="T" id="T17.0775.0712b"/><lb
  n="0712b01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「如來自在轉法輪，　　昔能成就四無畏，　　<lb
  n="0712b02" ed="T"/>天人魔梵及沙門，　　聞師章句懷猶豫，　　<lb
  n="0712b03" ed="T"/>身心不動得無畏，　　利樂一切諸有情，　　<lb
  n="0712b04" ed="T"/>令發無上菩提心，　　恭敬修行到彼岸。」　　
 </ab><lb
- n="0712b05" ed="T"/><ab type="prose">爾時，諸大苾芻聞佛所說，信受奉行。</ab></div><lb
+ n="0712b05" ed="T"/><ab type='prose'>爾時，諸大苾芻聞佛所說，信受奉行。</ab></div><lb
  n="0712b06" ed="T"/>
-<ab type="juan" subtype="close">佛說四無所畏經</ab>
+<ab type='juan' subtype='close'>佛說四無所畏經</ab>
 </body></text></TEI>

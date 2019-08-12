@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T17</biblScope>
                     <idno type="Taisho">T17n0801</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0745b04" ed="T"/><lb
  n="0745b05" ed="T"/><lb
  n="0745b06" ed="T"/><lb
  n="0745b07" ed="T"/>
-<ab type="juan" subtype="open">佛說無常經</ab><lb
+<ab type='juan' subtype='open'>佛說無常經</ab><lb
  n="0745b08" ed="T"/><lb
  n="0745b09" ed="T"/><byline>大唐三藏法師義靜奉　制譯</byline><lb
- n="0745b10" ed="T"/><div type="jing" level="2"><ab type="verse">
+ n="0745b10" ed="T"/><div type='jing' level='2'><ab type='verse'>
 稽首歸依無上士，　　常起弘誓大悲心，　　<lb
  n="0745b11" ed="T"/>為濟有情生死流，　　令得涅槃安隱處。　　<lb
  n="0745b12" ed="T"/>大捨防非忍無倦，　　一心方便正慧力，　　<lb
@@ -64,7 +64,7 @@
  n="0745b22" ed="T"/>稽首總敬三寶尊，　　是謂正因能普濟，　　<lb
  n="0745b23" ed="T"/>生死迷愚鎮沈溺，　　咸令出離至菩提。　　
 </ab><lb
- n="0745b24" ed="T"/><ab type="verse">
+ n="0745b24" ed="T"/><ab type='verse'>
 生者皆歸死，　　容顏盡變衰，　　<lb
  n="0745b25" ed="T"/>強力病所侵，　　無能免斯者。　　<lb
  n="0745b26" ed="T"/>假使妙高山，　　劫盡皆壞散，　　<lb
@@ -86,7 +86,7 @@
  n="0745c13" ed="T"/>佛法如甘露，　　除熱得清涼，　　<lb
  n="0745c14" ed="T"/>一心應善聽，　　能滅諸煩惱。　　
 </ab><lb
- n="0745c15" ed="T"/><ab type="prose">如是我聞：一時薄伽梵在室羅伐城逝多林<lb
+ n="0745c15" ed="T"/><ab type='prose'>如是我聞：一時薄伽梵在室羅伐城逝多林<lb
  n="0745c16" ed="T"/>給孤獨園。爾時佛告諸苾芻：「有三種法，於諸<lb
  n="0745c17" ed="T"/>世間是不可愛、是不光澤、是不可念、是不稱<lb
  n="0745c18" ed="T"/>意。何者為三？謂老、病、死。汝諸苾芻，此老病<lb
@@ -98,7 +98,7 @@
  n="0745c24" ed="T"/>事，如來、應、正等覺出現於世，為諸眾生說所<lb
  n="0745c25" ed="T"/>證法及調伏事。」爾時世尊重說頌曰：<lb
  n="0745c26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「外事莊彩咸歸壞，　　內身衰變亦同然，　　<lb
  n="0745c27" ed="T"/>唯有勝法不滅亡，　　諸有智人應善察。　　<lb
  n="0745c28" ed="T"/>此老病死皆共嫌，　　形儀醜惡極可厭，　　<lb
@@ -106,10 +106,10 @@
  n="0746a01" ed="T"/>假使壽命滿百年，　　終歸不免無常逼，　　<lb
  n="0746a02" ed="T"/>老病死苦常隨逐，　　恒與眾生作無利。」　　
 </ab><lb
- n="0746a03" ed="T"/><ab type="prose">爾時世尊說是經已，諸苾芻眾、天、龍、藥叉、<lb
+ n="0746a03" ed="T"/><ab type='prose'>爾時世尊說是經已，諸苾芻眾、天、龍、藥叉、<lb
  n="0746a04" ed="T"/>揵闥婆、阿蘇羅等，皆大歡喜，信受奉行。<lb
  n="0746a05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 常求諸欲境，　　不行於善事，　　<lb
  n="0746a06" ed="T"/>云何保形命，　　不見死來侵？　　<lb
  n="0746a07" ed="T"/>命根氣欲盡，　　支節悉分離，　　<lb
@@ -144,8 +144,8 @@
  n="0746b07" ed="T"/>菩提妙華遍莊嚴，　　隨所住處常安樂。　　
 </ab></div><lb
  n="0746b08" ed="T"/>
-<ab type="juan" subtype="close">佛說無常經</ab><lb
- n="0746b09" ed="T"/><div type="w" level="2"><ab type="prose">若苾芻、苾芻尼，若鄔波索迦、鄔波斯迦，若<lb
+<ab type='juan' subtype='close'>佛說無常經</ab><lb
+ n="0746b09" ed="T"/><div type='w' level='2'><ab type='prose'>若苾芻、苾芻尼，若鄔波索迦、鄔波斯迦，若<lb
  n="0746b10" ed="T"/>見有人將欲命終，身心苦痛。應起慈心，拔<lb
  n="0746b11" ed="T"/>濟饒益。教使香湯澡浴清淨，著新淨衣，安<lb
  n="0746b12" ed="T"/>詳而坐，正念思惟。若病之人自無力者，餘<lb

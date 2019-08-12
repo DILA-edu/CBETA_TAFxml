@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1271</idno>
                 </bibl>
@@ -39,18 +39,18 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0305c" id="T21.1271.0305c" ed="T"/><lb
  n="0305c01" ed="T"/><lb
  n="0305c02" ed="T"/><lb
- n="0305c03" ed="T"/><div type="jing" level="2"><lb
+ n="0305c03" ed="T"/><div type='jing' level='2'><lb
  n="0305c04" ed="T"/>
-<ab type="juan" subtype="open">摩訶毘盧遮那如來定惠均等入<lb
+<ab type='juan' subtype='open'>摩訶毘盧遮那如來定惠均等入<lb
  n="0305c05" ed="T"/>三昧耶身雙身大聖歡喜天菩薩<lb
  n="0305c06" ed="T"/>修行祕密法儀軌</ab><lb
  n="0305c07" ed="T"/><lb
  n="0305c08" ed="T"/><byline>鴻盧卿大廣智不空三藏奉　勅譯</byline><lb
- n="0305c09" ed="T"/><ab type="prose">若有佛弟子。比丘比丘尼優婆塞優婆夷四<lb
+ n="0305c09" ed="T"/><ab type='prose'>若有佛弟子。比丘比丘尼優婆塞優婆夷四<lb
  n="0305c10" ed="T"/>種弟子。若善男子善女人等。欲得修行此聖<lb
  n="0305c11" ed="T"/>天菩薩法。令成就所求所願隨心如意者。先<lb
  n="0305c12" ed="T"/>須盡珍寶入勞傳法師並阿闍梨。為令得歡<lb
@@ -65,25 +65,25 @@
  n="0305c21" ed="T"/>八返。且溫且加持。但印三股鉾也。<lb
  n="0305c22" ed="T"/>根本大真言曰　身呪。<lb
  n="0305c23" ed="T"/></ab>
-<ab type="dharani">曩謨尾那翼迦瀉賀悉底母佉瀉怛儞<lb
+<ab type='dharani'>曩謨尾那翼迦瀉賀悉底母佉瀉怛儞<lb
  n="0305c24" ed="T"/>也他唵娜翼迦娜翼迦尾娜<lb
  n="0305c25" ed="T"/>翼迦尾娜翼迦怛囉翼迦簸<lb
  n="0305c26" ed="T"/>哩怛囉翼迦餉佉賀悉底餉<lb
  n="0305c27" ed="T"/>佉迦只多扇底迦囉娑嚩賀<lb
  n="0305c28" ed="T"/></ab>
-<ab type="prose">灌沐日中三返。平日旦四返。灌沐限七日為<lb
+<ab type='prose'>灌沐日中三返。平日旦四返。灌沐限七日為<lb
  n="0305c29" ed="T"/>期。乞得成就悉地。以少心呪加持供物。其<pb n="0306a" id="T21.1271.0306a" ed="T"/><lb
  n="0306a01" ed="T"/>供物數蘿福根歡喜團餅時菓子等。唯現身<lb
  n="0306a02" ed="T"/>賢聖供養奉。七日之內必驗得。少心呪曰。<lb
  n="0306a03" ed="T"/></ab>
-<ab type="dharani">唵只里虐娑婆賀<lb
+<ab type='dharani'>唵只里虐娑婆賀<lb
  n="0306a04" ed="T"/></ab>
-<ab type="prose">每供養奉畢。誦讚歎頌曰。<lb
+<ab type='prose'>每供養奉畢。誦讚歎頌曰。<lb
  n="0306a05" ed="T"/></ab>
-<ab type="dharani">唵誐娜婆底洲底娑婆悉底摩訶誐馱轉底洲<lb
+<ab type='dharani'>唵誐娜婆底洲底娑婆悉底摩訶誐馱轉底洲<lb
  n="0306a06" ed="T"/>底迦羅耶娑婆賀<lb
  n="0306a07" ed="T"/></ab>
-<ab type="prose">成就所求所願如意圓滿具足故。可令傳法<lb
+<ab type='prose'>成就所求所願如意圓滿具足故。可令傳法<lb
  n="0306a08" ed="T"/>阿闍梨歡喜。然後一七日可修行。得四種成<lb
  n="0306a09" ed="T"/>就悉地。息增愛調。此謂四種成就悉地法也。<lb
  n="0306a10" ed="T"/>毘那夜經說。謂此聖天菩薩供養奉。有三種<lb
@@ -120,8 +120,8 @@
  n="0306b12" ed="T"/>儀軌文能次第法受習覺悟供養修行信受奉<lb
  n="0306b13" ed="T"/>行皆大歡喜。<lb
  n="0306b14" ed="T"/>
-</ab><ab type="juan" subtype="close">雙身大聖天菩薩修行祕密法儀軌</ab></div><lb
- n="0306b15" ed="T"/><div type="w" level="2"><ab type="prose">永曆元年十月八日書了<lb
+</ab><ab type='juan' subtype='close'>雙身大聖天菩薩修行祕密法儀軌</ab></div><lb
+ n="0306b15" ed="T"/><div type='w' level='2'><ab type='prose'>永曆元年十月八日書了<lb
  n="0306b16" ed="T"/>東寺之本也　　　　　　　俊乘記之<lb
  n="0306b17" ed="T"/>建久四年四月廿九日書之了<lb
  n="0306b18" ed="T"/>　　　　　　　　　　　　　寬　俊<lb

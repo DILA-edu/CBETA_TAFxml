@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n0962</idno>
                 </bibl>
@@ -41,13 +41,13 @@
     <text>
         <body><pb n="0335a" id="T19.0962.0335a" ed="T"/><lb
  n="0335a01" ed="T"/><lb
- n="0335a02" ed="T"/><div type="jing" level="1"><lb
+ n="0335a02" ed="T"/><div type='jing' level='1'><lb
  n="0335a03" ed="T"/>
-<ab type="juan" subtype="open">寶悉地成佛陀羅尼經</ab><lb
+<ab type='juan' subtype='open'>寶悉地成佛陀羅尼經</ab><lb
  n="0335a04" ed="T"/><lb
  n="0335a05" ed="T"/><byline>特進試鴻臚卿大興善寺沙門<lb
  n="0335a06" ed="T"/>大廣智不空奉　詔譯</byline><lb
- n="0335a07" ed="T"/><ab type="prose">如是我聞。一時薄伽梵。在摩伽陀國清淨薗<lb
+ n="0335a07" ed="T"/><ab type='prose'>如是我聞。一時薄伽梵。在摩伽陀國清淨薗<lb
  n="0335a08" ed="T"/>白蓮池側七寶如意樹王下與金剛手等諸大<lb
  n="0335a09" ed="T"/>菩薩及以無量大聲聞眾無數恒沙諸天龍王<lb
  n="0335a10" ed="T"/>藥叉羅剎異類大眾前後圍遶。各禮佛足退<lb
@@ -82,7 +82,7 @@
  n="0335b10" ed="T"/>次位差別。猶如乳水。爾時金剛手菩薩。以伽<lb
  n="0335b11" ed="T"/>陀讚曰。<lb
  n="0335b12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 善哉善哉大導師　　放光利益諸有情　　<lb
  n="0335b13" ed="T"/>善哉善哉大調御　　雨寶利益諸有情　　<lb
  n="0335b14" ed="T"/>善哉善哉大丈夫　　演說祕密利群生　　<lb
@@ -90,7 +90,7 @@
  n="0335b16" ed="T"/>善哉世尊大龍王　　起大雲雨潤世間　　<lb
  n="0335b17" ed="T"/>唯願大日遍照尊　　開示般若入阿字　　
 </ab><lb
- n="0335b18" ed="T"/><ab type="prose">爾時金剛手菩薩說是偈已。右手所持五峯<lb
+ n="0335b18" ed="T"/><ab type='prose'>爾時金剛手菩薩說是偈已。右手所持五峯<lb
  n="0335b19" ed="T"/>金剛擲於空中還住手中。歸住本座而觀佛<lb
  n="0335b20" ed="T"/>意。目不暫捨。爾時佛告金剛手及虛空藏等<lb
  n="0335b21" ed="T"/>大菩薩言。一切有情與諸如來同俱一法平等<lb
@@ -163,7 +163,7 @@
  n="0336b01" ed="T"/>悉令當生即入菩提初門。令得菩薩初位。爾<lb
  n="0336b02" ed="T"/>時世尊即說馱都根本陀羅尼曰。<lb
  n="0336b03" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄙺薩􅞣縳􄕗怛􄕤他􄑘蘖􄕗多􆿉塢􈃇瑟抳二合􄙯沙<lb
+<ab type='dharani'>􇩂唵􄙺薩􅞣縳􄕗怛􄕤他􄑘蘖􄕗多􆿉塢􈃇瑟抳二合􄙯沙<lb
  n="0336b04" ed="T"/><lb
  n="0336b05" ed="T"/>􄕼馱􄕛都􈁃畝􄩶陀羅二合􄕍抳􄙺薩􅞣嚩􄕗怛􄕤他􄑘蘖<lb
  n="0336b06" ed="T"/><lb
@@ -174,7 +174,7 @@
  n="0336b11" ed="T"/>􄚩訶<lb
  n="0336b12" ed="T"/><lb
  n="0336b13" ed="T"/></ab>
-<ab type="prose">佛告金剛藥叉菩薩言。若諸有情欲見十方<lb
+<ab type='prose'>佛告金剛藥叉菩薩言。若諸有情欲見十方<lb
  n="0336b14" ed="T"/>諸佛大菩薩者。欲求最勝悉地者。對設利塔<lb
  n="0336b15" ed="T"/>結如來大鉢印。可誦真言二萬三千遍。必得<lb
  n="0336b16" ed="T"/>見我常住全身。一切悉地決定成就不作小<lb
@@ -185,12 +185,12 @@
  n="0336b21" ed="T"/>成一切事業。一切心中所念無不成就。唯除<lb
  n="0336b22" ed="T"/>不信不至心者輕法要者。即說呪曰。<lb
  n="0336b23" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄑾振􆩖多􄗥摩􄕍抳􄗽阿囉􅑈怛那􄙖縳引􄑂枳􄗷曳<lb
+<ab type='dharani'>􇩂唵􄑾振􆩖多􄗥摩􄕍抳􄗽阿囉􅑈怛那􄙖縳引􄑂枳􄗷曳<lb
  n="0336b24" ed="T"/><lb
  n="0336b25" ed="T"/>􄖩娜􄖩曩􄗭謨􄙢扇􄕙底􄑀迦􄗽羅􈅼吽􈅼吽􅁥娑婆􄚩訶<lb
  n="0336b26" ed="T"/><lb
  n="0336b27" ed="T"/></ab>
-<ab type="prose">若有人誦此真言二遍三遍乃至七遍。一切<lb
+<ab type='prose'>若有人誦此真言二遍三遍乃至七遍。一切<lb
  n="0336b28" ed="T"/>罪滅一切福生。日日常誦二十一遍。必得諸<pb n="0336c" id="T19.0962.0336c" ed="T"/><lb
  n="0336c01" ed="T"/>佛真身設利。大海龍王收藏。七佛頂輪王設<lb
  n="0336c02" ed="T"/>利。神變寶珠。無上悉地皆能成就。<lb
@@ -201,21 +201,21 @@
  n="0336c07" ed="T"/>此名真性摩尼寶印。亦名大精進峯如來頂<lb
  n="0336c08" ed="T"/>珠印。即說神呪曰。<lb
  n="0336c09" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄑾振􆩖多􄗥摩􄕍尼􄕼馱􄕛都􈅼吽􅁥娑婆􄚩訶<lb
+<ab type='dharani'>􇩂唵􄑾振􆩖多􄗥摩􄕍尼􄕼馱􄕛都􈅼吽􅁥娑婆􄚩訶<lb
  n="0336c10" ed="T"/><lb
  n="0336c11" ed="T"/></ab>
-<ab type="prose">每日誦持一百八遍。五部悉地三部如意寶。<lb
+<ab type='prose'>每日誦持一百八遍。五部悉地三部如意寶。<lb
  n="0336c12" ed="T"/>皆悉圓滿。復有神呪名曰能滿。所願大滿虛<lb
  n="0336c13" ed="T"/>空藏寶。若能持者一切意願速得圓滿。其印<lb
  n="0336c14" ed="T"/>相者。二輪外縛。二頭寶形二大並立。即說呪<lb
  n="0336c15" ed="T"/>曰。<lb
  n="0336c16" ed="T"/></ab>
-<ab type="dharani">􇩂唵􈎭謨􇧺馱􄙢設􄙀利􄗽羅􄙖嚩􄦽日羅􄗽囉􅑈怛曩􇩂唵<lb
+<ab type='dharani'>􇩂唵􈎭謨􇧺馱􄙢設􄙀利􄗽羅􄙖嚩􄦽日羅􄗽囉􅑈怛曩􇩂唵<lb
  n="0336c17" ed="T"/><lb
  n="0336c18" ed="T"/>􄓁󰸒􈅼吽􄙠鑁􈁟斛<lb
  n="0336c19" ed="T"/><lb
  n="0336c20" ed="T"/></ab>
-<ab type="prose">若得佛設利者。不論淨穢隨身供養。不離臆<lb
+<ab type='prose'>若得佛設利者。不論淨穢隨身供養。不離臆<lb
  n="0336c21" ed="T"/>胸訶栗多妙蓮華間。常念佛德晝夜不息。現<lb
  n="0336c22" ed="T"/>身證得佛清淨身住金剛頂。是人名曰持佛<lb
  n="0336c23" ed="T"/>身者持金剛者持寶法者。是大菩薩摩訶薩。<lb
@@ -244,10 +244,10 @@
  n="0337a18" ed="T"/>切大悉地印。亦有大陀羅尼名金輪王一字<lb
  n="0337a19" ed="T"/>馱都明。即說呪曰。<lb
  n="0337a20" ed="T"/></ab>
-<ab type="dharani">􈃯母嚕唵三合急呼<lb
+<ab type='dharani'>􈃯母嚕唵三合急呼<lb
  n="0337a21" ed="T"/><lb
  n="0337a22" ed="T"/></ab>
-<ab type="prose">善男子等。此呪即是設利寶珠祕密神呪。復<lb
+<ab type='prose'>善男子等。此呪即是設利寶珠祕密神呪。復<lb
  n="0337a23" ed="T"/>持誦者隱密此呪。無智人中輕莫演說。見其<lb
  n="0337a24" ed="T"/>法器說此祕密最上乘法不令斷絕。利益世<lb
  n="0337a25" ed="T"/>間皆得成就。金剛不壞馱都法身。一切悉地<lb
@@ -269,5 +269,5 @@
  n="0337b12" ed="T"/>龍王善如龍王女等。一切大眾聞持祕法。皆<lb
  n="0337b13" ed="T"/>大歡喜信受奉行。<lb
  n="0337b14" ed="T"/>
-</ab><ab type="juan" subtype="close">寶悉地成佛陀羅尼經</ab></div>
+</ab><ab type='juan' subtype='close'>寶悉地成佛陀羅尼經</ab></div>
 </body></text></TEI>

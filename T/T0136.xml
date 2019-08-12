@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T02</biblScope>
                     <idno type="Taisho">T02n0136</idno>
                 </bibl>
@@ -39,15 +39,15 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0859b17" ed="T"/><lb
- n="0859b18" ed="T"/><div type="jing" level="2"><lb
+ n="0859b18" ed="T"/><div type='jing' level='2'><lb
  n="0859b19" ed="T"/>
-<ab type="juan" subtype="open">佛說四未曾有法經</ab><lb
+<ab type='juan' subtype='open'>佛說四未曾有法經</ab><lb
  n="0859b20" ed="T"/><lb
  n="0859b21" ed="T"/><byline>西晉三藏竺法護譯</byline><lb
- n="0859b22" ed="T"/><ab type="prose">聞如是：一時，婆伽婆在舍衛城祇樹給孤獨<lb
+ n="0859b22" ed="T"/><ab type='prose'>聞如是：一時，婆伽婆在舍衛城祇樹給孤獨<lb
  n="0859b23" ed="T"/>園。爾時，世尊告諸比丘：「轉輪聖王有此四未<lb
  n="0859b24" ed="T"/>曾有法。云何為四？於是，轉輪聖王為人民類<lb
  n="0859b25" ed="T"/>皆悉愛念，未曾傷害，譬如父子；轉輪聖王亦<lb
@@ -81,8 +81,8 @@
  n="0859c24" ed="T"/>比丘四未曾有法。」爾時，諸比丘聞佛所說，歡<lb
  n="0859c25" ed="T"/>喜奉行。<lb
  n="0859c26" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說四未曾有經</ab></div><lb
- n="0859c27" ed="T"/><div type="w" level="2"><ab type="prose">右一經，經名、譯主諸藏皆同，而國、宋兩本<lb
+</ab><ab type='juan' subtype='close'>佛說四未曾有經</ab></div><lb
+ n="0859c27" ed="T"/><div type='w' level='2'><ab type='prose'>右一經，經名、譯主諸藏皆同，而國、宋兩本<lb
  n="0859c28" ed="T"/>文義全同，始終唯說造塔功德，末雖結名<lb
  n="0859c29" ed="T"/>未曾有法，然一經始末無四字之義，此丹<pb n="0860a" ed="T" id="T02.0136.0860a"/><lb
  n="0860a01" ed="T"/>本經，說轉輪聖王有四未曾有法，以喻阿<lb

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T07</biblScope>
                     <idno type="Taisho">T07n0220j</idno>
                 </bibl>
@@ -39,14 +39,15 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><lb
+        <body><div level='1'>
+<lb
  n="0991b10" ed="T"/><lb
  n="0991b11" ed="T"/><lb
- n="0991b12" ed="T"/><div type="hui" level="1"><head>大般若經第十一會施波羅蜜多<lb
- n="0991b13" ed="T"/>分</head><div type="xu" level="2"><head>序</head><lb
+ n="0991b12" ed="T"/><div type='hui' level='2'><head>大般若經第十一會施波羅蜜多<lb
+ n="0991b13" ed="T"/>分</head><div type='xu' level='3'><head>序</head><lb
  n="0991b14" ed="T"/><lb
  n="0991b15" ed="T"/><byline>西明寺沙門玄則撰</byline><lb
- n="0991b16" ed="T"/><ab type="prose">蓋萬德相照，統之者三身；萬行相資，都之者<lb
+ n="0991b16" ed="T"/><ab type='prose'>蓋萬德相照，統之者三身；萬行相資，都之者<lb
  n="0991b17" ed="T"/>六度。若沖虛之六翮、伺塵之六情矣。故每因<lb
  n="0991b18" ed="T"/>別會，各彰其分焉。至如利物之基、捨著之<lb
  n="0991b19" ed="T"/>漸，詳其要也，無出施乎。但施有淪昇，良資誘<lb
@@ -69,15 +70,15 @@
  n="0991c07" ed="T"/>慈音漸染、鄙悋推移，自此而還，孰能無變！其<lb
  n="0991c08" ed="T"/>文句贍溢，誨喻殷明，凡勒成五卷，非重譯<lb
  n="0991c09" ed="T"/>矣。</ab></div><lb
- n="0991c10" ed="T"/><div type="fen" level="2"><lb
+ n="0991c10" ed="T"/><div type='fen' level='3'><lb
  n="0991c11" ed="T"/><lb
  n="0991c12" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百七<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百七<lb
  n="0991c13" ed="T"/>十九</ab><lb
  n="0991c14" ed="T"/><lb
  n="0991c15" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
  n="0991c16" ed="T"/><head>第十一布施波羅蜜多分之一</head><lb
- n="0991c17" ed="T"/><ab type="prose">如是我聞：一時，薄伽梵在室羅筏住誓多林<lb
+ n="0991c17" ed="T"/><ab type='prose'>如是我聞：一時，薄伽梵在室羅筏住誓多林<lb
  n="0991c18" ed="T"/>給孤獨園，與大苾芻眾千三百人俱。爾時，世<lb
  n="0991c19" ed="T"/>尊告舍利子：「諸菩薩摩訶薩修行布施波羅<lb
  n="0991c20" ed="T"/>蜜多時，經久如方得圓滿？」時，舍利子便白佛<lb
@@ -542,16 +543,16 @@
  n="0997a15" ed="T"/>中常勤修習方便善巧，迴向無上正等菩提，<lb
  n="0997a16" ed="T"/>願與有情作大饒益。<lb
  n="0997a17" ed="T"/>
-</ab><ab type="juan" subtype="close">大般若波羅蜜多經卷第五百七十九</ab><lb
+</ab><ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百七十九</ab><lb
  n="0997a18" ed="T"/><lb
  n="0997a19" ed="T"/><lb
  n="0997a20" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百<lb
  n="0997a21" ed="T"/>八十<lb
  n="0997a22" ed="T"/><lb
  n="0997a23" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
  n="0997a24" ed="T"/>第十一布施波羅蜜多分之二</ab><lb
- n="0997a25" ed="T"/><ab type="prose">「復次，滿慈子！菩薩摩訶薩欲證無上正等菩<lb
+ n="0997a25" ed="T"/><ab type='prose'>「復次，滿慈子！菩薩摩訶薩欲證無上正等菩<lb
  n="0997a26" ed="T"/>提，一切行中最初應學無染布施波羅蜜多。<lb
  n="0997a27" ed="T"/>何以故？滿慈子！若學布施波羅蜜多，無始世<lb
  n="0997a28" ed="T"/>來所習慳垢即便遠離，身心相續漸能親近<lb
@@ -998,15 +999,15 @@
  n="1002b05" ed="T"/>阿難陀言：「今舍利子諸有所說皆佛神力，汝<lb
  n="1002b06" ed="T"/>應受持，我涅槃後當廣流布。」<lb
  n="1002b07" ed="T"/>
-</ab><ab type="juan" subtype="close">大般若波羅蜜多經卷第五百八十</ab><pb n="1003a" ed="T" id="T07.0220j.1003a"/><lb
+</ab><ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百八十</ab><pb n="1003a" ed="T" id="T07.0220j.1003a"/><lb
  n="1003a01" ed="T"/><lb
  n="1003a02" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百八<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百八<lb
  n="1003a03" ed="T"/>十一<lb
  n="1003a04" ed="T"/><lb
  n="1003a05" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
  n="1003a06" ed="T"/>第十一布施波羅蜜多分之三</ab><lb
- n="1003a07" ed="T"/><ab type="prose">爾時，滿慈子白佛言：「世尊！若一切法皆非實<lb
+ n="1003a07" ed="T"/><ab type='prose'>爾時，滿慈子白佛言：「世尊！若一切法皆非實<lb
  n="1003a08" ed="T"/>有，諸菩薩眾行布施時為何所捨？」佛言：「菩薩<lb
  n="1003a09" ed="T"/>行布施時都無所捨。」時，滿慈子復白佛言：「若<lb
  n="1003a10" ed="T"/>諸菩薩行布施時都無所捨，是諸菩薩當證<lb
@@ -1458,15 +1459,15 @@
  n="1008a21" ed="T"/>已發無上菩提心者，令永不退；若於無上正<lb
  n="1008a22" ed="T"/>等菩提已不退者，令速圓滿一切智智。』」<lb
  n="1008a23" ed="T"/>
-</ab><ab type="juan" subtype="close">大般若波羅蜜多經卷第五百八十一</ab><pb n="1008b" ed="T" id="T07.0220j.1008b"/><lb
+</ab><ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百八十一</ab><pb n="1008b" ed="T" id="T07.0220j.1008b"/><lb
  n="1008b01" ed="T"/><lb
  n="1008b02" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百八<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百八<lb
  n="1008b03" ed="T"/>十二<lb
  n="1008b04" ed="T"/><lb
  n="1008b05" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
  n="1008b06" ed="T"/>第十一布施波羅蜜多分之四</ab><lb
- n="1008b07" ed="T"/><ab type="prose">爾時，舍利子白佛言：「世尊！云何菩薩最初發<lb
+ n="1008b07" ed="T"/><ab type='prose'>爾時，舍利子白佛言：「世尊！云何菩薩最初發<lb
  n="1008b08" ed="T"/>心？云何菩薩第二發心？云何菩薩住不退地？<lb
  n="1008b09" ed="T"/>云何菩薩坐菩提座？唯願世尊哀愍為說！」爾<lb
  n="1008b10" ed="T"/>時，佛告舍利子言：「若諸菩薩最初發心，超阿<lb
@@ -1963,16 +1964,16 @@
  n="1014a07" ed="T"/>福田，及作三千大千世界最大法師，亦作如<lb
  n="1014a08" ed="T"/>來、應、正等覺，利益安樂一切有情。」<lb
  n="1014a09" ed="T"/>
-</ab><ab type="juan" subtype="close">大般若波羅蜜多經卷第五百八十二</ab><lb
+</ab><ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百八十二</ab><lb
  n="1014a10" ed="T"/><lb
  n="1014a11" ed="T"/><lb
  n="1014a12" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百八<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百八<lb
  n="1014a13" ed="T"/>十三<lb
  n="1014a14" ed="T"/><lb
  n="1014a15" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
  n="1014a16" ed="T"/>第十一布施波羅蜜多分之五</ab><lb
- n="1014a17" ed="T"/><ab type="prose">爾時，舍利子白佛言：「世尊！頗有初心勝後心<lb
+ n="1014a17" ed="T"/><ab type='prose'>爾時，舍利子白佛言：「世尊！頗有初心勝後心<lb
  n="1014a18" ed="T"/>不？」世尊告曰：「善哉！善哉！能問如來如是深<lb
  n="1014a19" ed="T"/>義。汝應諦聽，當為汝說，亦有初心勝後心義，<lb
  n="1014a20" ed="T"/>謂阿羅漢諸無漏心，雖離自身一切煩惱，而<lb
@@ -2407,5 +2408,5 @@
  n="1019a14" ed="T"/>荼、緊捺洛、莫呼洛伽、人非人等一切大眾，聞<lb
  n="1019a15" ed="T"/>佛所說皆大歡喜、信受奉行。<lb
  n="1019a16" ed="T"/>
-</ab><ab type="juan" subtype="close">大般若波羅蜜多經卷第五百八十三</ab></div></div>
+</ab><ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百八十三</ab></div></div></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T18</biblScope>
                     <idno type="Taisho">T18n0895a</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0719a" id="T18.0895a.0719a" ed="T"/><lb
  n="0719a01" ed="T"/><lb
  n="0719a02" ed="T"/><lb
  n="0719a03" ed="T"/>
-<ab type="juan" subtype="open">蘇婆呼童子請問經卷上</ab><lb
+<ab type='juan' subtype='open'>蘇婆呼童子請問經卷上</ab><lb
  n="0719a04" ed="T"/><lb
  n="0719a05" ed="T"/><byline>唐天竺三藏輸波迦羅奉　制譯</byline><lb
- n="0719a06" ed="T"/><div type="pin" level="2"><head>律分品第一</head><lb
- n="0719a07" ed="T"/><ab type="prose">爾時執金剛菩薩大藥叉將。威力難思。光超<lb
+ n="0719a06" ed="T"/><div type='pin' level='2'><head>律分品第一</head><lb
+ n="0719a07" ed="T"/><ab type='prose'>爾時執金剛菩薩大藥叉將。威力難思。光超<lb
  n="0719a08" ed="T"/>千日。一心而住。於大會中。有一童子。名曰蘇<lb
  n="0719a09" ed="T"/>婆呼。大悲淳厚。即從座起。虔誠頂禮執金剛<lb
  n="0719a10" ed="T"/>足已曲躬合掌白言。大威尊者。我今抱疑日<lb
@@ -181,8 +181,8 @@
  n="0720b21" ed="T"/>深心恭敬。如是等行人甚難值遇。若具如是<lb
  n="0720b22" ed="T"/>等伴。或一二三四五。唯多更甚。持真言者<lb
  n="0720b23" ed="T"/>畢獲成福。當須覓如是等伴。</ab></div><lb
- n="0720b24" ed="T"/><div type="pin" level="2"><head>蘇婆呼童子請問經分別處所分品第二</head><lb
- n="0720b25" ed="T"/><ab type="prose">復次蘇婆呼童子。念誦人若求速成就者。應<lb
+ n="0720b24" ed="T"/><div type='pin' level='2'><head>蘇婆呼童子請問經分別處所分品第二</head><lb
+ n="0720b25" ed="T"/><ab type='prose'>復次蘇婆呼童子。念誦人若求速成就者。應<lb
  n="0720b26" ed="T"/>覓諸佛曾經所住處。或菩薩住處。或緣覺聲<lb
  n="0720b27" ed="T"/>聞所住之處。如是等地。諸天龍等常為供養。<lb
  n="0720b28" ed="T"/>及以衛護。是故念誦人。先洗身心。當具律儀<lb
@@ -313,8 +313,8 @@
  n="0722a08" ed="T"/>住坐立通許念誦唯除臥時不許持誦。念誦<lb
  n="0722a09" ed="T"/>已訖。恒思六念。觀察彼等種種功德勿令散<lb
  n="0722a10" ed="T"/>亂。</ab></div><lb
- n="0722a11" ed="T"/><div type="pin" level="2"><head>蘇婆呼童子請問經除障分品第三</head><lb
- n="0722a12" ed="T"/><ab type="prose">復次蘇婆呼童子。念誦人若起一念。貪瞋癡<lb
+ n="0722a11" ed="T"/><div type='pin' level='2'><head>蘇婆呼童子請問經除障分品第三</head><lb
+ n="0722a12" ed="T"/><ab type='prose'>復次蘇婆呼童子。念誦人若起一念。貪瞋癡<lb
  n="0722a13" ed="T"/>等一切煩惱。與心相合者。名為生死煩惱。<lb
  n="0722a14" ed="T"/>若除此心即得清淨。諸佛常讚是法。名為解<lb
  n="0722a15" ed="T"/>脫。譬如淨水必無垢穢。以塵坌故令水渾濁。<lb
@@ -396,9 +396,9 @@
  n="0723a04" ed="T"/>根果乳酪及酥。大麥麵餅油滓酪漿。相和食<lb
  n="0723a05" ed="T"/>之。種種糜粥亦爾。若欲成就者。麻滓和酪<lb
  n="0723a06" ed="T"/>漿食之。依法作必得證驗。</ab></div><lb
- n="0723a07" ed="T"/><div type="pin" level="2"><head>蘇婆呼童子請問經分別金剛杵及藥證<lb
+ n="0723a07" ed="T"/><div type='pin' level='2'><head>蘇婆呼童子請問經分別金剛杵及藥證<lb
  n="0723a08" ed="T"/>驗分品第四</head><lb
- n="0723a09" ed="T"/><ab type="prose">復次蘇婆呼童子。為汝及為未來善男子。發<lb
+ n="0723a09" ed="T"/><ab type='prose'>復次蘇婆呼童子。為汝及為未來善男子。發<lb
  n="0723a10" ed="T"/>心念誦祕密真言門者。說持跋折囉。汝當諦<lb
  n="0723a11" ed="T"/>聽聞已。廣為人說。欲作跋折囉者。量長八<lb
  n="0723a12" ed="T"/>指。或長十指。或長十二指。或長十六指。其量<lb
@@ -462,11 +462,11 @@
  n="0723c12" ed="T"/>便智慧善分別知。魔黨合有幾部。總而言之。<lb
  n="0723c13" ed="T"/>都有四部。何等為四。<lb
  n="0723c14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 一者摧壞部　　二者野干部　　<lb
  n="0723c15" ed="T"/>三者一牙部　　四者龍象部　　
 </ab><lb
- n="0723c16" ed="T"/><ab type="prose">從此四部。流出無量毘那夜迦眷屬。如後具<lb
+ n="0723c16" ed="T"/><ab type='prose'>從此四部。流出無量毘那夜迦眷屬。如後具<lb
  n="0723c17" ed="T"/>列。<lb
  n="0723c18" ed="T"/>摧壞部主名曰大將其部之中有雜類形狀。<lb
  n="0723c19" ed="T"/>有七阿僧祇以為眷屬。護世四天王所說真<lb
@@ -541,7 +541,7 @@
  n="0724c01" ed="T"/>自不樂者彼即愛樂。既不順意臥而不睡。欲<lb
  n="0724c02" ed="T"/>往侵他婦兒。意盧不眠。設若得睡。夢見大<lb
  n="0724c03" ed="T"/>蟲師子虎狼猪狗所趁。駝驢猫兒及鬼野干。<lb
- n="0724c04" ed="T"/>鷲鳥鷺鸞鳥及󰵶胡。或時夢見著故破衣不<lb
+ n="0724c04" ed="T"/>鷲鳥鷺鸞鳥及𮭌胡。或時夢見著故破衣不<lb
  n="0724c05" ed="T"/>淨之人。或時夢見裸形禿髮黑體之人。或夢<lb
  n="0724c06" ed="T"/>見裸形外道。或見枯池及以枯井。或見髑髏<lb
  n="0724c07" ed="T"/>或見骨聚。或見壞棄舍屋宅。或見石磓。或見<lb
@@ -581,15 +581,15 @@
  n="0725a12" ed="T"/>類。悉皆獲利。所求窺者。並皆滿足。諸餘病<lb
  n="0725a13" ed="T"/>疾亦復能差。又復能消滅無量罪障。</ab></div><lb
  n="0725a14" ed="T"/>
-<ab type="juan" subtype="close">蘇婆呼童子請問經卷上</ab><lb
+<ab type='juan' subtype='close'>蘇婆呼童子請問經卷上</ab><lb
  n="0725a15" ed="T"/><lb
  n="0725a16" ed="T"/><lb
  n="0725a17" ed="T"/>
-<ab type="juan" subtype="open">蘇婆呼童子請問經卷中</ab><lb
+<ab type='juan' subtype='open'>蘇婆呼童子請問經卷中</ab><lb
  n="0725a18" ed="T"/><lb
  n="0725a19" ed="T"/><byline>唐天竺三藏輸波迦羅奉　制譯</byline><lb
- n="0725a20" ed="T"/><div type="pin" level="2"><head>分別成就相分品第五</head><lb
- n="0725a21" ed="T"/><ab type="prose">復次蘇婆呼童子。時彼行者於諸障難。得解<lb
+ n="0725a20" ed="T"/><div type='pin' level='2'><head>分別成就相分品第五</head><lb
+ n="0725a21" ed="T"/><ab type='prose'>復次蘇婆呼童子。時彼行者於諸障難。得解<lb
  n="0725a22" ed="T"/>脫已。身心清淨無諸垢穢。譬如明月而埋於<lb
  n="0725a23" ed="T"/>雲。雲除散滅麗乎光天。於虛空中朗然顯現。<lb
  n="0725a24" ed="T"/>念誦人所修種種功德。除斷毘那夜迦所作<lb
@@ -674,9 +674,9 @@
  n="0726a16" ed="T"/>逢境心即散亂不定。一念退心。還從切始善<lb
  n="0726a17" ed="T"/>行方便。覓時觀節勿以執愚。惡人惡魔得其<lb
  n="0726a18" ed="T"/>便耶莫令癡人獲罪苦果。</ab></div><lb
- n="0726a19" ed="T"/><div type="pin" level="2"><head>蘇婆呼童子請問經念誦真言軌則觀像<lb
+ n="0726a19" ed="T"/><div type='pin' level='2'><head>蘇婆呼童子請問經念誦真言軌則觀像<lb
  n="0726a20" ed="T"/>印等夢證分品第六</head><lb
- n="0726a21" ed="T"/><ab type="prose">復次蘇婆呼童子。念誦之人不應太緩。不應<lb
+ n="0726a21" ed="T"/><ab type='prose'>復次蘇婆呼童子。念誦之人不應太緩。不應<lb
  n="0726a22" ed="T"/>太急。聲亦如此。不大不小。不應間斷。勿共人<lb
  n="0726a23" ed="T"/>語。令心緣於異境。名某字體。不應訛錯。譬<lb
  n="0726a24" ed="T"/>如大河日夜流注。恒無休息。持誦之人所修<lb
@@ -742,8 +742,8 @@
  n="0726c26" ed="T"/>如是等殊特夢已。應知一月及半月。當獲大<lb
  n="0726c27" ed="T"/>悉地。若論持誦真言夢相境界。不可說盡。<lb
  n="0726c28" ed="T"/>略粗知耳。精進不退即獲如是上上境界。</ab></div><lb
- n="0726c29" ed="T"/><div type="pin" level="2"><head>蘇婆呼童子請問經悉地相分品第七</head><pb n="0727a" id="T18.0895a.0727a" ed="T"/><lb
- n="0727a01" ed="T"/><ab type="prose">復次蘇婆呼童子。我今說成就轉近悉地法<lb
+ n="0726c29" ed="T"/><div type='pin' level='2'><head>蘇婆呼童子請問經悉地相分品第七</head><pb n="0727a" id="T18.0895a.0727a" ed="T"/><lb
+ n="0727a01" ed="T"/><ab type='prose'>復次蘇婆呼童子。我今說成就轉近悉地法<lb
  n="0727a02" ed="T"/>者。其念誦人當生發愛樂心。不得攀緣雜染<lb
  n="0727a03" ed="T"/>之境。亦不辭飢渴寒熱等苦。於諸違法外相<lb
  n="0727a04" ed="T"/>之境。心不動搖。逢境不亂。一切蚊虻及蛇等。<lb
@@ -844,8 +844,8 @@
  n="0728a12" ed="T"/>伽如法供養。所持真言對彼尊前誦之。然後<lb
  n="0728a13" ed="T"/>即應如法發遣。一切持真言者法皆如是。勿<lb
  n="0728a14" ed="T"/>使錯誤枉棄功夫。</ab></div><lb
- n="0728a15" ed="T"/><div type="pin" level="2"><head>蘇婆呼童子請問經下鉢私那分品第八</head><lb
- n="0728a16" ed="T"/><ab type="prose">復次蘇婆呼童子。若念誦人問下鉢私那者。<lb
+ n="0728a15" ed="T"/><div type='pin' level='2'><head>蘇婆呼童子請問經下鉢私那分品第八</head><lb
+ n="0728a16" ed="T"/><ab type='prose'>復次蘇婆呼童子。若念誦人問下鉢私那者。<lb
  n="0728a17" ed="T"/>應當如法請召。所謂手指或銅鏡。及清水橫<lb
  n="0728a18" ed="T"/>刀燈焰寶等。虛空尊像童子真珠火聚石等。<lb
  n="0728a19" ed="T"/>於如是處。鉢私那下者。請召來已。當即自<lb
@@ -878,7 +878,7 @@
  n="0728b17" ed="T"/>端嚴像前。取部母真言。或取部主真言作如<lb
  n="0728b18" ed="T"/>是。復誦念法。極須專心。不得搖身及眠。坐於<lb
  n="0728b19" ed="T"/>茅草。持前部母部主真言等。任誦一道。數滿<lb
- n="0728b20" ed="T"/>落叉或二落叉。意將足。若此法者呼我󰓎<lb
+ n="0728b20" ed="T"/>落叉或二落叉。意將足。若此法者呼我𭊭<lb
  n="0728b21" ed="T"/>字。枯木尚入其中令遣下語何況人耶。<lb
  n="0728b22" ed="T"/>又若欲童子所下。即簡取十箇　或八　或<lb
  n="0728b23" ed="T"/>七　或六　或五　或四　或三　或二。<lb
@@ -916,8 +916,8 @@
  n="0728c26" ed="T"/>摩百遍。最後以軍荼利真言呼摩七遍或三<lb
  n="0728c27" ed="T"/>遍。即便捨去。智者善解如是妙法。復能一一<lb
  n="0728c28" ed="T"/>如法修行。不久勞苦而獲成就。</ab></div><lb
- n="0728c29" ed="T"/><div type="pin" level="2"><head>蘇婆呼童子請問經分別遮難分品第九</head><pb n="0729a" id="T18.0895a.0729a" ed="T"/><lb
- n="0729a01" ed="T"/><ab type="prose">復次蘇婆呼童子。有念誦人。過去殺阿羅漢。<lb
+ n="0728c29" ed="T"/><div type='pin' level='2'><head>蘇婆呼童子請問經分別遮難分品第九</head><pb n="0729a" id="T18.0895a.0729a" ed="T"/><lb
+ n="0729a01" ed="T"/><ab type='prose'>復次蘇婆呼童子。有念誦人。過去殺阿羅漢。<lb
  n="0729a02" ed="T"/>今世反逆父母。并破和合僧。以懷瞋心出佛<lb
  n="0729a03" ed="T"/>身血。惡習氣故。今生求人過自心。觸事不<lb
  n="0729a04" ed="T"/>閑詐作解相。如是等人不值善友。善友惡故<lb
@@ -959,7 +959,7 @@
  n="0729b11" ed="T"/>坐其上。以聽妙法得以奉行。不生退轉求佛<lb
  n="0729b12" ed="T"/>常身。何況凡夫一無所解福無毫分。輕慢一<lb
  n="0729b13" ed="T"/>切而事高心。不遵智者行檀果業。今說罪福<lb
- n="0729b14" ed="T"/>二等粗略言。有罪之人先求讖悔。對首發露<lb
+ n="0729b14" ed="T"/>二等粗略言。有罪之人先求懺悔。對首發露<lb
  n="0729b15" ed="T"/>其過。一一具述。覆藏不述罪亦難滅。然後尋<lb
  n="0729b16" ed="T"/>好明師。遵承供養珍重看仰。請求入三昧耶<lb
  n="0729b17" ed="T"/>法。蒙許。得入壇已。於後漸漸諮問真言法<lb
@@ -1016,15 +1016,15 @@
  n="0730a10" ed="T"/>薩。以行種種真言法則。隨類能滿諸眾生願<lb
  n="0730a11" ed="T"/>故。復能了知一切業果。是故應禮尊師。</ab></div><lb
  n="0730a12" ed="T"/>
-<ab type="juan" subtype="close">蘇婆呼童子請問經卷中</ab><lb
+<ab type='juan' subtype='close'>蘇婆呼童子請問經卷中</ab><lb
  n="0730a13" ed="T"/><lb
  n="0730a14" ed="T"/><lb
  n="0730a15" ed="T"/>
-<ab type="juan" subtype="open">蘇婆呼童子請問經卷下</ab><lb
+<ab type='juan' subtype='open'>蘇婆呼童子請問經卷下</ab><lb
  n="0730a16" ed="T"/><lb
  n="0730a17" ed="T"/><byline>唐天竺三藏輸波迦羅奉　制譯</byline><lb
- n="0730a18" ed="T"/><div type="pin" level="2"><head>分別道分品第十</head><lb
- n="0730a19" ed="T"/><ab type="prose">復次蘇婆呼童子。我今為念誦人。說八聖道<lb
+ n="0730a18" ed="T"/><div type='pin' level='2'><head>分別道分品第十</head><lb
+ n="0730a19" ed="T"/><ab type='prose'>復次蘇婆呼童子。我今為念誦人。說八聖道<lb
  n="0730a20" ed="T"/>法為正見正分別正語正業正命正勤正定<lb
  n="0730a21" ed="T"/>正念。此是諸佛所行之道。念誦之人行此道<lb
  n="0730a22" ed="T"/>者。真言乃成。於此報盡。復生人天勝上妙處。<lb
@@ -1147,8 +1147,8 @@
  n="0731b23" ed="T"/>道場。各住本方所辦供養願垂納受。復願常<lb
  n="0731b24" ed="T"/>時衛護於我。如是供養諸鬼神等及護方神<lb
  n="0731b25" ed="T"/>王。行者無諸難事。意所求願皆悉滿足。</ab></div><lb
- n="0731b26" ed="T"/><div type="pin" level="2"><head>蘇婆呼請問分別諸部分品第十一</head><lb
- n="0731b27" ed="T"/><ab type="prose">復次蘇婆呼童子。世尊為利益未來一切眾<lb
+ n="0731b26" ed="T"/><div type='pin' level='2'><head>蘇婆呼請問分別諸部分品第十一</head><lb
+ n="0731b27" ed="T"/><ab type='prose'>復次蘇婆呼童子。世尊為利益未來一切眾<lb
  n="0731b28" ed="T"/>生故。說三俱胝五落叉真言及明。名曰持明<lb
  n="0731b29" ed="T"/>藏。<pb n="0731c" id="T18.0895a.0731c" ed="T"/><lb
  n="0731c01" ed="T"/>又聖觀自在說三俱胝五落叉真言。於此部<lb
@@ -1214,8 +1214,8 @@
  n="0732b03" ed="T"/>忉利天王說三十萬真言。<lb
  n="0732b04" ed="T"/>各各俱說真言手印及曼荼羅。依法受持。若<lb
  n="0732b05" ed="T"/>為此教。非真不誠亦當自害。</ab></div><lb
- n="0732b06" ed="T"/><div type="pin" level="2"><head>蘇婆呼童子請問分別八法分品第十二</head><lb
- n="0732b07" ed="T"/><ab type="prose">復次蘇婆呼童子。念誦人所有成就之法。總<lb
+ n="0732b06" ed="T"/><div type='pin' level='2'><head>蘇婆呼童子請問分別八法分品第十二</head><lb
+ n="0732b07" ed="T"/><ab type='prose'>復次蘇婆呼童子。念誦人所有成就之法。總<lb
  n="0732b08" ed="T"/>有八種。何等為八。謂成真言法。成金水法<lb
  n="0732b09" ed="T"/>　成長年法　出伏藏法　入修羅宮法　合成<lb
  n="0732b10" ed="T"/>金法　土成金法　成無價寶法。<lb
@@ -1352,12 +1352,12 @@
  n="0733c25" ed="T"/>或以毒惽醉而放猛毒。<lb
  n="0733c26" ed="T"/>或以大瞋而放猛毒。<lb
  n="0733c27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 或恐怖而放猛毒　　或飢餓而放猛毒　　<lb
  n="0733c28" ed="T"/>或懷怨而放猛毒　　或死時至而放猛毒　　<lb
  n="0733c29" ed="T"/>其嚙毒復有四種　　
 </ab><pb n="0734a" id="T18.0895a.0734a" ed="T"/><lb
- n="0734a01" ed="T"/><ab type="prose">一者傷　二者血塗　三者極損　四者命終<lb
+ n="0734a01" ed="T"/><ab type='prose'>一者傷　二者血塗　三者極損　四者命終<lb
  n="0734a02" ed="T"/>其嚙毒者云何知耶。所嚙之處有一齒痕。其<lb
  n="0734a03" ed="T"/>毒微少。為是名傷。<lb
  n="0734a04" ed="T"/>血塗之毒其狀云何。有二齒痕。致使有血。<lb
@@ -1475,5 +1475,5 @@
  n="0735a29" ed="T"/>頂禮執金剛主足已。各乘本座。辭退還宮忽<pb n="0735b" id="T18.0895a.0735b" ed="T"/><lb
  n="0735b01" ed="T"/>然不現。</ab></div><lb
  n="0735b02" ed="T"/>
-<ab type="juan" subtype="close">蘇婆呼童子請問經卷下</ab></div>
+<ab type='juan' subtype='close'>蘇婆呼童子請問經卷下</ab></div>
 </body></text></TEI>

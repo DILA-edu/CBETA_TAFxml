@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T24</biblScope>
                     <idno type="Taisho">T24n1461</idno>
                 </bibl>
@@ -39,17 +39,17 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0665b10" ed="T"/><lb
  n="0665b11" ed="T"/><lb
  n="0665b12" ed="T"/><lb
  n="0665b13" ed="T"/>
-<ab type="juan" subtype="open">律二十二明了論一卷</ab><lb
+<ab type='juan' subtype='open'>律二十二明了論一卷</ab><lb
  n="0665b14" ed="T"/><lb
  n="0665b15" ed="T"/><byline>正量部弗陀多羅多法師造</byline><lb
  n="0665b16" ed="T"/><byline>陳天竺三藏真諦譯</byline><lb
- n="0665b17" ed="T"/><div type="jing" level="2"><ab type="prose">如本二十二明了論，能分別解釋律所立名。<lb
+ n="0665b17" ed="T"/><div type='jing' level='2'><ab type='prose'>如本二十二明了論，能分別解釋律所立名。<lb
  n="0665b18" ed="T"/>我今當說。偈曰：毘尼毘曇文所顯，與戒<lb
  n="0665b19" ed="T"/>及護相應人。釋曰：由對治上心惑，應說<lb
  n="0665b20" ed="T"/>諸護數量。三界上心惑有二百九十四，是彼<lb
@@ -391,7 +391,7 @@
  n="0669b08" ed="T"/>中說殘食有十種：一病人殘、二非病人殘、三<lb
  n="0669b09" ed="T"/>等分殘、四非等分殘、五加行所作、六非加行<lb
  n="0669b10" ed="T"/>所作、七遮食人所作、八非遮食人所作、九自<lb
- n="0669b11" ed="T"/>所作、十使比丘所作。此義如廣說當應知。<lb
+ n="0669b11" ed="T"/>所作、十使比丘所作。此義如廣說道應知。<lb
  n="0669b12" ed="T"/>若人能解此義，此人於律則明了。偈曰：<lb
  n="0669b13" ed="T"/>能解七種失受因。釋曰：佛法中物有二<lb
  n="0669b14" ed="T"/>種，謂淨、不淨。失受攝因緣有七種：一決意棄<lb
@@ -456,7 +456,7 @@
  n="0670a15" ed="T"/>若作亦得成。此五羯磨有五種過失：一羯磨<lb
  n="0670a16" ed="T"/>過失、二眾過失、三人過失、四作者過失、五<lb
  n="0670a17" ed="T"/>別住過失。翻此五成五德。此義於制羯磨相<lb
- n="0670a18" ed="T"/>應戒中應說應知。偈曰：於遮四種學處<lb
+ n="0670a18" ed="T"/>應戒中廣說應知。偈曰：於遮四種學處<lb
  n="0670a19" ed="T"/>中，善解佛意為立戒。釋曰：律中說遮有<lb
  n="0670a20" ed="T"/>四種：一永遮。如四波羅夷。所餘諸戒，若一<lb
  n="0670a21" ed="T"/>向無開者，彼亦是永遮。二、遮所對治。如律文，<lb
@@ -486,7 +486,7 @@
  n="0670b16" ed="T"/>及物主，財物能成尼薩耆，如此一切如次第，<lb
  n="0670b17" ed="T"/>能解三十所學處。釋曰：於三十中初三：<lb
  n="0670b18" ed="T"/>一、過十日衣；二、轉車衣；三、待一月衣，是人於<lb
- n="0670b19" ed="T"/>中作次第方法，自得畜用。若不用，應舍與僧。<lb
+ n="0670b19" ed="T"/>中作次第方法，自得畜用。若不用，應捨與僧。<lb
  n="0670b20" ed="T"/>若受非親比丘尼衣，如前作方便，更捨還比<lb
  n="0670b21" ed="T"/>丘。比丘尼所浣染打衣，應捨與僧。從非親<lb
  n="0670b22" ed="T"/>乞得衣所送衣直，直主若一人若二人，應捨<lb
@@ -675,8 +675,8 @@
  n="0672c02" ed="T"/>法師所造，為憐愍怖畏廣文句人故略攝律<lb
  n="0672c03" ed="T"/>義。</ab></div><lb
  n="0672c04" ed="T"/>
-<ab type="juan" subtype="close">律二十二明了論一卷</ab><lb
- n="0672c05" ed="T"/><div type="w" level="2"><ab type="prose">陳光大二年，歲次戊子，正月二十日，都下<lb
+<ab type='juan' subtype='close'>律二十二明了論一卷</ab><lb
+ n="0672c05" ed="T"/><div type='w' level='2'><ab type='prose'>陳光大二年，歲次戊子，正月二十日，都下<lb
  n="0672c06" ed="T"/>定林寺律師法泰，於廣州南海郡內，請三<lb
  n="0672c07" ed="T"/>藏法師俱那羅陀翻出此論。都下阿育王<lb
  n="0672c08" ed="T"/>寺慧愷，謹為筆受。翻論本得一卷，註記解<lb
@@ -685,7 +685,7 @@
  n="0672c11" ed="T"/>相屬著。今謹別鈔二十二偈，置於卷末，<lb
  n="0672c12" ed="T"/>庶披文者見其起盡也。<lb
  n="0672c13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 毘曇毘尼文所顯，　　與戒及護相應人，　　<lb
  n="0672c14" ed="T"/>諸佛所讚修三學，　　不看他面我當說。　　<lb
  n="0672c15" ed="T"/>明八戒護九十六，　　分別差別義相應，　　<lb
@@ -714,7 +714,7 @@
  n="0673a09" ed="T"/>於遮四種學處中，　　善解佛意為立戒。　　<lb
  n="0673a10" ed="T"/>善解鉢衣三種量，　　傳傳受持及依願，　　<lb
  n="0673a11" ed="T"/>決鉢衣量於二處，　　如時如罪間隔方。　　<lb
- n="0673a12" ed="T"/>是處方便及物主，　　財物能成已薩耆，　　<lb
+ n="0673a12" ed="T"/>是處方便及物主，　　財物能成尼薩耆，　　<lb
  n="0673a13" ed="T"/>如此一切如次第，　　能解三十所學處。　　<lb
  n="0673a14" ed="T"/>善能了別八尊法，　　解正教相次第方，　　<lb
  n="0673a15" ed="T"/>於宿住等四地中，　　解方及五依羯磨。　　<lb
@@ -731,5 +731,5 @@
  n="0673a26" ed="T"/>於此等義心決了，　　由讀誦文事行師，　　<lb
  n="0673a27" ed="T"/>此人於律則明了，　　佛說此人不依他。　　
 </ab><lb
- n="0673a28" ed="T"/><ab type="prose">律二十二明了論一卷</ab></div></div>
+ n="0673a28" ed="T"/><ab type='prose'>律二十二明了論一卷</ab></div></div>
 </body></text></TEI>

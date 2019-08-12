@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1253</idno>
                 </bibl>
@@ -39,20 +39,20 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0253b" id="T21.1253.0253b" ed="T"/><lb
  n="0253b01" ed="T"/><lb
  n="0253b02" ed="T"/><lb
  n="0253b03" ed="T"/><lb
  n="0253b04" ed="T"/>
-<ab type="juan" subtype="open">大吉祥天女十二契一百八名無<lb
+<ab type='juan' subtype='open'>大吉祥天女十二契一百八名無<lb
  n="0253b05" ed="T"/>垢大乘經</ab><lb
  n="0253b06" ed="T"/><lb
  n="0253b07" ed="T"/><byline>開府儀同三司特進試鴻臚卿肅國<lb
  n="0253b08" ed="T"/>公食邑三千戶賜紫贈司空諡大鑒<lb
  n="0253b09" ed="T"/>正號大廣智大興善寺三藏沙門<lb
  n="0253b10" ed="T"/>不空奉　詔譯</byline><lb
- n="0253b11" ed="T"/><div type="jing" level="2"><ab type="prose">如是我聞。一時薄伽梵。住安樂世界。與大菩<lb
+ n="0253b11" ed="T"/><div type='jing' level='2'><ab type='prose'>如是我聞。一時薄伽梵。住安樂世界。與大菩<lb
  n="0253b12" ed="T"/>薩眾。所謂觀自在菩薩。得大勢菩薩。除一切<lb
  n="0253b13" ed="T"/>蓋障菩薩。地藏菩薩。普光菩薩。虛空藏菩<lb
  n="0253b14" ed="T"/>薩。金剛手菩薩除一切怖畏菩薩。持一切清<lb
@@ -60,7 +60,7 @@
  n="0253b16" ed="T"/>菩薩。文殊師利菩薩。如是等菩薩摩訶薩而<lb
  n="0253b17" ed="T"/>為上首。爾時觀自在菩薩摩訶薩。往詣世尊<lb
  n="0253b18" ed="T"/>所頭面禮足退坐一面。時大吉祥天女亦往<lb
- n="0253b19" ed="T"/>諸佛所頭面禮足。圍繞。無量百千匝及禮<lb
+ n="0253b19" ed="T"/>詣佛所頭面禮足。圍繞。無量百千匝及禮<lb
  n="0253b20" ed="T"/>一切安樂世界所住菩薩退坐一面。<lb
  n="0253b21" ed="T"/>爾時世尊見吉祥天女。有無量百千福莊嚴。<lb
  n="0253b22" ed="T"/>俱胝如來圍繞。一切釋梵護世讚揚稱歎。以<lb
@@ -85,7 +85,7 @@
  n="0253c12" ed="T"/>祥天女。能脫一切罪。除滅一切煩惱。令一切<lb
  n="0253c13" ed="T"/>身作無垢。召集增益一切財穀。能除貧窮。能<lb
  n="0253c14" ed="T"/>攝召一切天龍藥叉羅剎乾闥婆阿脩羅迦樓<lb
- n="0253c15" ed="T"/>羅緊那羅摩󰿰羅伽。能息一切逼惱諍訟鬪<lb
+ n="0253c15" ed="T"/>羅緊那羅摩睺羅伽。能息一切逼惱諍訟鬪<lb
  n="0253c16" ed="T"/>戰。能成辦六波羅蜜所謂。<lb
  n="0253c17" ed="T"/>南無吉祥密如來<lb
  n="0253c18" ed="T"/>南無恒河一切津口吉慶吉祥如來<lb
@@ -140,7 +140,7 @@
  n="0254b09" ed="T"/>　一切天上首吉祥　一切處到吉祥　一切天<lb
  n="0254b10" ed="T"/>龍藥叉羅剎乾闥婆阿脩羅迦樓羅緊那羅摩<lb
  n="0254b11" ed="T"/>睺羅伽吉祥　一切持金剛手持金剛吉祥<lb
- n="0254b12" ed="T"/>　四五護世吉祥　八曜二十八宿吉祥<lb
+ n="0254b12" ed="T"/>　四王護世吉祥　八曜二十八宿吉祥<lb
  n="0254b13" ed="T"/>　唵娑尾怛哩　馱怛哩摩多　四明吉<lb
  n="0254b14" ed="T"/>祥　吉祥鬼母　勝　最勝　恒河<lb
  n="0254b15" ed="T"/>　一切津　一切吉慶　無垢吉祥　一切<lb
@@ -172,7 +172,7 @@
  n="0254c17" ed="T"/>　愛者　法王吉祥<lb
  n="0254c18" ed="T"/>如上一百八名真言曰。<lb
  n="0254c19" ed="T"/></ab>
-<ab type="dharani">唵微路迦耶多羅耶慕者耶薩嚩耨契毘<lb
+<ab type='dharani'>唵微路迦耶多羅耶慕者耶薩嚩耨契毘<lb
  n="0254c20" ed="T"/>藥薩嚩補尼耶三婆囉那摩目企<lb
  n="0254c21" ed="T"/>俱嚕娑嚩訶唵凝哦薩嚩底<lb
  n="0254c22" ed="T"/>㗚他目企娑嚩訶唵娑尾怛哩娑嚩訶<lb
@@ -196,7 +196,7 @@
  n="0255a14" ed="T"/>娑嚩訶薩嚩吉哩爹迦區㗚娜尾娜尸<lb
  n="0255a15" ed="T"/>尼曳娑嚩訶<lb
  n="0255a16" ed="T"/></ab>
-<ab type="prose">無畏觀自在菩薩。此大吉祥真言及以一百<lb
+<ab type='prose'>無畏觀自在菩薩。此大吉祥真言及以一百<lb
  n="0255a17" ed="T"/>八名號。能除一切煩惱。能摧一切罪。能鉤召<lb
  n="0255a18" ed="T"/>一切福。能除一切不祥。能鉤召一切福德。若<lb
  n="0255a19" ed="T"/>有人受持讀誦及諸如來名號者。彼當早起<lb
@@ -206,8 +206,8 @@
  n="0255a23" ed="T"/>就。佛說是經已。觀自在菩薩摩訶薩及大吉<lb
  n="0255a24" ed="T"/>祥天女。一切大眾聞佛所說。皆大歡喜信受<lb
  n="0255a25" ed="T"/>奉行。</ab></div><lb
- n="0255a26" ed="T"/><div type="w" level="2"><head>大吉祥天女十二契一百八名無垢大乘經</head><lb
- n="0255a27" ed="T"/><ab type="dharani">唵怛儞也他尾路迦野跢囉野<lb
+ n="0255a26" ed="T"/><div type='w' level='2'><head>大吉祥天女十二契一百八名無垢大乘經</head><lb
+ n="0255a27" ed="T"/><ab type='dharani'>唵怛儞也他尾路迦野跢囉野<lb
  n="0255a28" ed="T"/>謨者野薩嚩耨契毘藥薩嚩補尼<lb
  n="0255a29" ed="T"/>野糂婆囉曩麼目契矩<pb n="0255b" id="T21.1253.0255b" ed="T"/><lb
  n="0255b01" ed="T"/>嚕娑嚩訶唵凝誐薩嚩<lb

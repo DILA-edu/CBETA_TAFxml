@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T18</biblScope>
                     <idno type="Taisho">T18n0870</idno>
                 </bibl>
@@ -39,14 +39,14 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0287c15" ed="T"/><lb
- n="0287c16" ed="T"/><div type="xu" level="2"><lb
+ n="0287c16" ed="T"/><div type='xu' level='2'><lb
  n="0287c17" ed="T"/><head>略述金剛頂瑜伽分別聖位修證<lb
  n="0287c18" ed="T"/>法門序</head><lb
  n="0287c19" ed="T"/><lb
- n="0287c20" ed="T"/><ab type="prose">夫真言陀羅尼宗者。是一切如來祕奧之教。<lb
+ n="0287c20" ed="T"/><ab type='prose'>夫真言陀羅尼宗者。是一切如來祕奧之教。<lb
  n="0287c21" ed="T"/>自覺聖智頓證法門。亦是菩薩。具受淨戒無<lb
  n="0287c22" ed="T"/>量威儀。入一切如來海會壇。受菩薩職位。超<lb
  n="0287c23" ed="T"/>過三界。受佛教勅三摩地門。具足因緣。頓<lb
@@ -79,16 +79,16 @@
  n="0288a26" ed="T"/>各住本三昧。住自解脫。皆住大悲願力。廣利<lb
  n="0288a27" ed="T"/>有情。若見若聞。悉證三昧。功德智慧頓集成<lb
  n="0288a28" ed="T"/>就矣。</ab></div><pb n="0288b" id="T18.0870.0288b" ed="T"/><lb
- n="0288b01" ed="T"/><div type="jing" level="2"><lb
+ n="0288b01" ed="T"/><div type='jing' level='2'><lb
  n="0288b02" ed="T"/>
-<ab type="juan" subtype="open">略述金剛頂瑜伽分別聖位修證<lb
+<ab type='juan' subtype='open'>略述金剛頂瑜伽分別聖位修證<lb
  n="0288b03" ed="T"/>法門</ab><lb
  n="0288b04" ed="T"/><lb
  n="0288b05" ed="T"/><byline>開府儀同三司特進試鴻臚卿肅國<lb
  n="0288b06" ed="T"/>公食邑三千戶賜紫贈司空諡大鑒<lb
  n="0288b07" ed="T"/>正號大廣智大興善寺三藏沙門<lb
  n="0288b08" ed="T"/>不空奉　詔譯</byline><lb
- n="0288b09" ed="T"/><ab type="prose">爾時金剛界毘盧遮那佛。在色界頂阿迦<lb
+ n="0288b09" ed="T"/><ab type='prose'>爾時金剛界毘盧遮那佛。在色界頂阿迦<lb
  n="0288b10" ed="T"/>尼吒天宮。初受用身成等正覺。證得一切如<lb
  n="0288b11" ed="T"/>來平等智。即入一切如來金剛平等智印三<lb
  n="0288b12" ed="T"/>昧耶。即證一切如來法平等自性光明智藏。<lb
@@ -387,5 +387,5 @@
  n="0291c15" ed="T"/>宮殿。成為相輪令身。現證金剛界如來毘盧<lb
  n="0291c16" ed="T"/>遮那遍照之身也。<lb
  n="0291c17" ed="T"/>
-</ab><ab type="juan" subtype="close">略述金剛頂瑜伽分別聖位修證法門</ab></div></div>
+</ab><ab type='juan' subtype='close'>略述金剛頂瑜伽分別聖位修證法門</ab></div></div>
 </body></text></TEI>

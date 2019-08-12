@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0562</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0913b13" ed="T"/><lb
  n="0913b14" ed="T"/><lb
  n="0913b15" ed="T"/>
-<ab type="juan" subtype="open">佛說無垢賢女經</ab><lb
+<ab type='juan' subtype='open'>佛說無垢賢女經</ab><lb
  n="0913b16" ed="T"/><lb
  n="0913b17" ed="T"/><byline>西晉月氏三藏竺法護譯</byline><lb
- n="0913b18" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時佛在羅閱祇耆闍崛山中，與諸<lb
+ n="0913b18" ed="T"/><div type='jing' level='1'><ab type='prose'>聞如是：一時佛在羅閱祇耆闍崛山中，與諸<lb
  n="0913b19" ed="T"/>菩薩、大弟子、學士、學女，諸天人民、阿須倫、鬼<lb
  n="0913b20" ed="T"/>神、龍無央數共會，時佛說經。爾時會中，有<lb
  n="0913b21" ed="T"/>長者梵志，名曰須檀，有婦名捭樓延，與九<lb
@@ -105,7 +105,7 @@
  n="0914a15" ed="T"/>佛言：「是女從東南方捭樓延法習佛所來，<lb
  n="0914a16" ed="T"/>剎名閻浮檀國，去此十萬佛剎，女從本國來<lb
  n="0914a17" ed="T"/>欲見佛，自當有衣從本國來。」衣便自然在空<lb
- n="0914a18" ed="T"/>中來肅蕭有聲，空中有音則語女言：「可著此<lb
+ n="0914a18" ed="T"/>中來肅肅有聲，空中有音則語女言：「可著此<lb
  n="0914a19" ed="T"/>衣，當得五通。」又女本國盡得五通，女得衣<lb
  n="0914a20" ed="T"/>著，便從華上下至佛所，女一舉足，天地即<lb
  n="0914a21" ed="T"/>為六反震動，一切母人，皆發無上平等度意，<lb
@@ -125,5 +125,5 @@
  n="0914b06" ed="T"/>如來等正覺亦於五道，為一切眾生作唱導。」<lb
  n="0914b07" ed="T"/>佛說經已，一切眾會，皆大歡喜，稽首而退。</ab></div><lb
  n="0914b08" ed="T"/>
-<ab type="juan" subtype="close">佛說無垢賢女經</ab>
+<ab type='juan' subtype='close'>佛說無垢賢女經</ab>
 </body></text></TEI>

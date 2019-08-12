@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1311</idno>
                 </bibl>
@@ -39,25 +39,25 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0459b" id="T21.1311.0459b" ed="T"/><lb
  n="0459b01" ed="T"/><lb
  n="0459b02" ed="T"/><lb
  n="0459b03" ed="T"/>
-<ab type="juan" subtype="open">梵天火羅九曜</ab><lb
+<ab type='juan' subtype='open'>梵天火羅九曜</ab><lb
  n="0459b04" ed="T"/><lb
- n="0459b05" ed="T"/><div type="w" level="2"><ab type="prose">一行禪師修述。二十八宿在天左轉。數知<lb
+ n="0459b05" ed="T"/><div type='w' level='2'><ab type='prose'>一行禪師修述。二十八宿在天左轉。數知<lb
  n="0459b06" ed="T"/>人犯觸之位。大唐武德元年起戊寅。至咸<lb
  n="0459b07" ed="T"/>通十五年甲午。都得二百五十七年矣。梵<lb
  n="0459b08" ed="T"/>天火羅九曜及暗虛二星圖在此。但諸星<lb
  n="0459b09" ed="T"/>都所在。看之決定。一生吉凶萬不失一神<lb
  n="0459b10" ed="T"/>妙之極云云。</ab></div><lb
- n="0459b11" ed="T"/><ab type="prose">一羅睺蝕神星明曰。<lb
+ n="0459b11" ed="T"/><ab type='prose'>一羅睺蝕神星明曰。<lb
  n="0459b12" ed="T"/></ab>
-<ab type="dharani">唵囉戶曩阿素囉邏惹野塞麻捨覩野曩<lb
+<ab type='dharani'>唵囉戶曩阿素囉邏惹野塞麻捨覩野曩<lb
  n="0459b13" ed="T"/>扇底伽哩莎婆訶<lb
  n="0459b14" ed="T"/></ab>
-<ab type="prose">羅睺星以錢供養口決云向丑寅供之。年一<lb
+<ab type='prose'>羅睺星以錢供養口決云向丑寅供之。年一<lb
  n="0459b15" ed="T"/>十十九二十八三十七四十六五十五六十四<lb
  n="0459b16" ed="T"/>七十三八十二九十一并大凶。<lb
  n="0459b17" ed="T"/><lb
@@ -76,18 +76,18 @@
  n="0459c01" ed="T"/>犯神形供養大吉云云。<lb
  n="0459c03" ed="T"/>二中宮土宿星鷄緩　真言。<lb
  n="0459c04" ed="T"/></ab>
-<ab type="dharani">歸命唵贊日利曳娑婆賀</ab>
-<ab type="prose">又真言曰。<lb
+<ab type='dharani'>歸命唵贊日利曳娑婆賀</ab>
+<ab type='prose'>又真言曰。<lb
  n="0459c05" ed="T"/></ab>
-<ab type="dharani">唵捨泥殺作羅曩乞殺怛囉跛羅<lb
+<ab type='dharani'>唵捨泥殺作羅曩乞殺怛囉跛羅<lb
  n="0459c06" ed="T"/>訶曩嚕娑野普瑟底迦哩娑縛賀<lb
  n="0459c08" ed="T"/></ab>
-<ab type="prose">又真言。<lb
+<ab type='prose'>又真言。<lb
  n="0459c09" ed="T"/></ab>
-<ab type="dharani">唵戍戍羯囉誐馱嚩囉嚩邏嚩邏<lb
+<ab type='dharani'>唵戍戍羯囉誐馱嚩囉嚩邏嚩邏<lb
  n="0459c10" ed="T"/>若室哩娑婆賀<lb
  n="0459c11" ed="T"/></ab>
-<ab type="prose">春巽夏坤秋乾冬艮　季夏月菓子一盤祭之<lb
+<ab type='prose'>春巽夏坤秋乾冬艮　季夏月菓子一盤祭之<lb
  n="0459c12" ed="T"/>　口決云其方不定。春季向巽餘以次知之。<lb
  n="0459c13" ed="T"/>年二十一二十二十九三十八四十七五十六<lb
  n="0459c14" ed="T"/>六十五七十四八十三九十二并大凶。<lb
@@ -114,18 +114,18 @@
  n="0460a06" ed="T"/>庚辛日。<lb
  n="0460a07" ed="T"/>三嘀北辰星明曰。<lb
  n="0460a08" ed="T"/></ab>
-<ab type="dharani">唵俱悉陀他姪佗利多崖崖紫紫儞帝莎婆<lb
+<ab type='dharani'>唵俱悉陀他姪佗利多崖崖紫紫儞帝莎婆<lb
  n="0460a09" ed="T"/>訶<lb
  n="0460a10" ed="T"/></ab>
-<ab type="prose">又明曰。<lb
+<ab type='prose'>又明曰。<lb
  n="0460a11" ed="T"/></ab>
-<ab type="dharani">唵母馱曩乞殺娑嚩弭曩契努摩莎縛賀<lb
+<ab type='dharani'>唵母馱曩乞殺娑嚩弭曩契努摩莎縛賀<lb
  n="0460a13" ed="T"/></ab>
-<ab type="prose">又心呪曰。<lb
+<ab type='prose'>又心呪曰。<lb
  n="0460a14" ed="T"/></ab>
-<ab type="dharani">唵蘇底哩瑟吒莎婆訶<lb
+<ab type='dharani'>唵蘇底哩瑟吒莎婆訶<lb
  n="0460a15" ed="T"/></ab>
-<ab type="prose">以中夏之月用油祭向北方供之年三十二二<lb
+<ab type='prose'>以中夏之月用油祭向北方供之年三十二二<lb
  n="0460a16" ed="T"/>十一三十三十九四十八五十七六十六七十<lb
  n="0460a17" ed="T"/>五八十四九十三少吉。<lb
  n="0460a18" ed="T"/><lb
@@ -143,14 +143,14 @@
  n="0460b01" ed="T"/>四月丙戌日。<lb
  n="0460b02" ed="T"/>四西方大白星明曰。<lb
  n="0460b03" ed="T"/></ab>
-<ab type="dharani">歸命唵吠尾毘娑婆訶<lb
+<ab type='dharani'>歸命唵吠尾毘娑婆訶<lb
  n="0460b04" ed="T"/></ab>
-<ab type="prose">又真言曰。<lb
+<ab type='prose'>又真言曰。<lb
  n="0460b05" ed="T"/></ab>
-<ab type="dharani">唵戍羯囉誐馱嚩馱嚩邏若室<lb
+<ab type='dharani'>唵戍羯囉誐馱嚩馱嚩邏若室<lb
  n="0460b06" ed="T"/>哩娑婆訶<lb
  n="0460b07" ed="T"/></ab>
-<ab type="prose">常以仲秋之月用生錢祭之向。西方供之年<lb
+<ab type='prose'>常以仲秋之月用生錢祭之向。西方供之年<lb
  n="0460b08" ed="T"/>四十三二十二三十一四十四十九五十八六<lb
  n="0460b09" ed="T"/>十七七十六八十五九十四少凶。<lb
  n="0460b10" ed="T"/><lb
@@ -169,11 +169,11 @@
  n="0460b23" ed="T"/>憂解患。男財宜官婦子相係。治生萬倍。<lb
  n="0460b24" ed="T"/>五大陽密日星真言曰。<lb
  n="0460b25" ed="T"/></ab>
-<ab type="dharani">曩謨羅怛曩怛羅夜野曩莫素哩野薩<lb
+<ab type='dharani'>曩謨羅怛曩怛羅夜野曩莫素哩野薩<lb
  n="0460b26" ed="T"/>縛曩乞羅怛囉羅惹野唵阿謨伽寫<lb
  n="0460b27" ed="T"/>設底莎婆訶<lb
  n="0460b28" ed="T"/></ab>
-<ab type="prose">以冬至之日用眾寶祭之。向卯辰供之年五<lb
+<ab type='prose'>以冬至之日用眾寶祭之。向卯辰供之年五<lb
  n="0460b29" ed="T"/>十四二十三三十二四十一五十五十九六十<pb n="0460c" id="T21.1311.0460c" ed="T"/><lb
  n="0460c01" ed="T"/>八七十七八十六九十五大吉。<lb
  n="0460c02" ed="T"/>行年至此宿者。主大陽屬日。其星周迴一千<lb
@@ -193,13 +193,13 @@
  n="0460c16" ed="T"/><lb
  n="0460c17" ed="T"/>六南方火熒惑星火星真言曰。<lb
  n="0460c18" ed="T"/></ab>
-<ab type="dharani">歸命唵摩訶利多莎婆訶<lb
+<ab type='dharani'>歸命唵摩訶利多莎婆訶<lb
  n="0460c19" ed="T"/></ab>
-<ab type="prose">又真言曰。<lb
+<ab type='prose'>又真言曰。<lb
  n="0460c20" ed="T"/></ab>
-<ab type="dharani">唵阿誐羅迦嚕儗野娑婆賀<lb
+<ab type='dharani'>唵阿誐羅迦嚕儗野娑婆賀<lb
  n="0460c21" ed="T"/></ab>
-<ab type="prose">以仲夏之月火祭之。向南方供之。年六十五<lb
+<ab type='prose'>以仲夏之月火祭之。向南方供之。年六十五<lb
  n="0460c22" ed="T"/>二十四三十三四十二五十一六十六十九七<lb
  n="0460c23" ed="T"/>十八八十七九十六並是凶年也。<lb
  n="0460c24" ed="T"/>行年至此星。一名南方熒惑星。一名四利<lb
@@ -217,10 +217,10 @@
  n="0461a07" ed="T"/><lb
  n="0461a08" ed="T"/>七計都蝕神星明曰。<lb
  n="0461a09" ed="T"/></ab>
-<ab type="dharani">唵縛日羅計都曩曩乞殺怛羅<lb
+<ab type='dharani'>唵縛日羅計都曩曩乞殺怛羅<lb
  n="0461a10" ed="T"/>邏惹野吽<lb
  n="0461a11" ed="T"/></ab>
-<ab type="prose">畫此形深室供養禳之。迴禍為福。向未申供<lb
+<ab type='prose'>畫此形深室供養禳之。迴禍為福。向未申供<lb
  n="0461a12" ed="T"/>之。羅睺帶珠寶。並日月計都著錦繡衣。年<lb
  n="0461a13" ed="T"/>七十六二十五三十四四十三五十二六十<lb
  n="0461a14" ed="T"/>一七十九八十八九十七並凶也。<lb
@@ -243,9 +243,9 @@
  n="0461b02" ed="T"/>月甲乙日。<lb
  n="0461b03" ed="T"/>八暮大陰明曰。<lb
  n="0461b04" ed="T"/></ab>
-<ab type="dharani">唵戰怛羅曩乞灑怛羅邏惹野設底娑婆賀<lb
+<ab type='dharani'>唵戰怛羅曩乞灑怛羅邏惹野設底娑婆賀<lb
  n="0461b06" ed="T"/></ab>
-<ab type="prose">常以夏至之日。眾寶玉及水祭之向申酉供<lb
+<ab type='prose'>常以夏至之日。眾寶玉及水祭之向申酉供<lb
  n="0461b07" ed="T"/>之。年八十七二十六三十五四十四五十三<lb
  n="0461b08" ed="T"/>六十二七十一八十八十九九十八。<lb
  n="0461b09" ed="T"/><lb
@@ -266,14 +266,14 @@
  n="0461b24" ed="T"/>蠶不收憂縣官事。忌正月九月丙丁日。<lb
  n="0461b25" ed="T"/>九東方歲星木星明曰。<lb
  n="0461b26" ed="T"/></ab>
-<ab type="dharani">曩謨三曼多沒馱喃唵印那羅野娑婆訶</ab>
-<ab type="prose">又<lb
+<ab type='dharani'>曩謨三曼多沒馱喃唵印那羅野娑婆訶</ab>
+<ab type='prose'>又<lb
  n="0461b27" ed="T"/>真言曰。<lb
  n="0461b28" ed="T"/></ab>
-<ab type="dharani">唵婆羅訶薩鉢底曩摩地比跢縛曩<lb
+<ab type='dharani'>唵婆羅訶薩鉢底曩摩地比跢縛曩<lb
  n="0461b29" ed="T"/>野摩攞縛馱寧婆縛賀<pb n="0461c" id="T21.1311.0461c" ed="T"/><lb
  n="0461c01" ed="T"/></ab>
-<ab type="prose">常以仲春月用眾寶祭之。向東供之。年九十<lb
+<ab type='prose'>常以仲春月用眾寶祭之。向東供之。年九十<lb
  n="0461c02" ed="T"/>八二十七三十六四十五五十四六十三七十<lb
  n="0461c03" ed="T"/>二八十一九十九十九並是大吉。<lb
  n="0461c04" ed="T"/>行年至嗢沒斯者是歲星。東方木精。一名攝<lb
@@ -291,14 +291,14 @@
  n="0461c16" ed="T"/>所向如意往來有利。居為平安子孫熾昌。<lb
  n="0461c17" ed="T"/>北斗七星明曰。<lb
  n="0461c18" ed="T"/></ab>
-<ab type="dharani">曩莫三曼多那羅那羅破左邏吽<lb
+<ab type='dharani'>曩莫三曼多那羅那羅破左邏吽<lb
  n="0461c19" ed="T"/></ab>
-<ab type="prose">九執明曰。<lb
+<ab type='prose'>九執明曰。<lb
  n="0461c20" ed="T"/></ab>
-<ab type="dharani">歸命唵蘖羅醯涅嚩哩也鉢囉鉢多<lb
- n="0461c21" ed="T"/>󰿙底囉摩野娑婆賀<lb
+<ab type='dharani'>歸命唵蘖羅醯涅嚩哩也鉢囉鉢多<lb
+ n="0461c21" ed="T"/>𭮥底囉摩野娑婆賀<lb
  n="0461c22" ed="T"/></ab>
-<ab type="prose">蝕神頭從正月至年終常居二宿<lb
+<ab type='prose'>蝕神頭從正月至年終常居二宿<lb
  n="0461c23" ed="T"/><lb
  n="0461c24" ed="T"/>翼宿張<lb
  n="0461c25" ed="T"/>宿尾宿<lb
@@ -354,10 +354,10 @@
  n="0462b17" ed="T"/>年男女字司希神子。<lb
  n="0462b18" ed="T"/>一切如來說破一切宿曜障吉祥真言<lb
  n="0462b19" ed="T"/></ab>
-<ab type="dharani">唵薩縛諾剎怛羅三磨曳室哩曳扇底迦<lb
+<ab type='dharani'>唵薩縛諾剎怛羅三磨曳室哩曳扇底迦<lb
  n="0462b20" ed="T"/>俱嚕娑婆賀<lb
  n="0462b21" ed="T"/></ab>
-<ab type="prose">男忌天羅女忌地網欲知衰禍但在行年所犯<lb
+<ab type='prose'>男忌天羅女忌地網欲知衰禍但在行年所犯<lb
  n="0462b22" ed="T"/>無不知也　夫人行年吉少凶多乍可知而迴<lb
  n="0462b23" ed="T"/>避不可坐受其災云若莫日　■■。<lb
  n="0462b24" ed="T"/><head>梵天火羅圖一帖</head><lb
@@ -376,8 +376,8 @@
  n="0462c08" ed="T"/>名一切少天呪法。<lb
  n="0462c10" ed="T"/>諸天通用呪<lb
  n="0462c11" ed="T"/></ab>
-<ab type="dharani">　唵路迦　迦路野曳　娑婆賀<lb
- n="0462c12" ed="T"/></ab><div type="w" level="2"><ab type="prose">文治五年八月書寫。以四本挍之。玄證正<lb
+<ab type='dharani'>　唵路迦　迦路野曳　娑婆賀<lb
+ n="0462c12" ed="T"/></ab><div type='w' level='2'><ab type='prose'>文治五年八月書寫。以四本挍之。玄證正<lb
  n="0462c13" ed="T"/>德三巳年。以栂尾本寫之。慧旭寬延四年<lb
  n="0462c14" ed="T"/>書之宥證　明和四亥年以御室真乘院<lb
  n="0462c15" ed="T"/>法務前大僧正宥證大和尚本寫挍。智積<lb

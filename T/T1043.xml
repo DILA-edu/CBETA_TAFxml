@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1043</idno>
                 </bibl>
@@ -44,11 +44,11 @@
  n="0034b05" ed="T"/><lb
  n="0034b06" ed="T"/><lb
  n="0034b07" ed="T"/>
-<ab type="juan" subtype="open">請觀世音菩薩消伏毒害陀羅尼<lb
+<ab type='juan' subtype='open'>請觀世音菩薩消伏毒害陀羅尼<lb
  n="0034b08" ed="T"/>呪經</ab><lb
  n="0034b09" ed="T"/><lb
  n="0034b10" ed="T"/><byline>東晉天竺居士竺難提晉言法喜譯</byline><lb
- n="0034b11" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞。一時佛住毘舍離菴羅樹園大林<lb
+ n="0034b11" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞。一時佛住毘舍離菴羅樹園大林<lb
  n="0034b12" ed="T"/>精舍重閣講堂。與千二百五十比丘。皆阿羅<lb
  n="0034b13" ed="T"/>漢諸漏已盡。不受後有如鍊真金。身心澄靜<lb
  n="0034b14" ed="T"/>六通無礙。其名曰大智舍利弗摩訶目揵連。<lb
@@ -89,7 +89,7 @@
  n="0034c20" ed="T"/>地。向於西方一心一意令氣息定。為免苦<lb
  n="0034c21" ed="T"/>厄請觀世音。合十指掌而說偈言。<lb
  n="0034c22" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 願救我苦厄　　大悲覆一切　　<lb
  n="0034c23" ed="T"/>普放淨光明　　滅除癡暗冥　　<lb
  n="0034c24" ed="T"/>為免殺害苦　　煩惱及眾病　　<lb
@@ -99,13 +99,13 @@
  n="0034c28" ed="T"/>唯願必定來　　免我三毒苦　　<lb
  n="0034c29" ed="T"/>施我今世樂　　及與大涅槃　　
 </ab><pb n="0035a" id="T20.1043.0035a" ed="T"/><lb
- n="0035a01" ed="T"/><ab type="prose">白佛言世尊。如是神呪必定吉祥。乃是過去<lb
+ n="0035a01" ed="T"/><ab type='prose'>白佛言世尊。如是神呪必定吉祥。乃是過去<lb
  n="0035a02" ed="T"/>現在未來十方諸佛大慈大悲陀羅尼印。聞<lb
  n="0035a03" ed="T"/>此呪者眾苦永盡。常得安樂遠離八難。得念<lb
  n="0035a04" ed="T"/>佛定現前見佛。我今當說十方諸佛救護眾<lb
  n="0035a05" ed="T"/>生神呪。<lb
  n="0035a06" ed="T"/></ab>
-<ab type="dharani">多耶咃嗚呼膩摸呼膩𨵁<lb
+<ab type='dharani'>多耶咃嗚呼膩摸呼膩𨵁<lb
  n="0035a07" ed="T"/>婆膩耽婆膩安茶詈般茶<lb
  n="0035a08" ed="T"/>詈首埤帝般般茶茶囉囉<lb
  n="0035a09" ed="T"/>婆私膩多姪咃伊梨寐梨提梨首<lb
@@ -116,7 +116,7 @@
  n="0035a14" ed="T"/>留毘修留毘勒叉勒叉薩婆婆<lb
  n="0035a15" ed="T"/>耶埤𦀟訶<lb
  n="0035a16" ed="T"/></ab>
-<ab type="prose">白佛言世尊如此神呪。乃是十方三世無量<lb
+<ab type='prose'>白佛言世尊如此神呪。乃是十方三世無量<lb
  n="0035a17" ed="T"/>諸佛之所宣說。誦持此呪者。常為諸佛諸大<lb
  n="0035a18" ed="T"/>菩薩之所護持免離怖畏刀杖毒害。及與疾<lb
  n="0035a19" ed="T"/>病令得無患。說是語時毘舍離人平復如本。<lb
@@ -128,7 +128,7 @@
  n="0035a25" ed="T"/>觀世音菩提薩埵摩訶薩埵大慈大悲唯願愍<lb
  n="0035a26" ed="T"/>我救護苦惱亦救一切怖畏眾生令得大護。<lb
  n="0035a27" ed="T"/></ab>
-<ab type="dharani">多姪咃　陀呼膩摸呼膩閻婆<lb
+<ab type='dharani'>多姪咃　陀呼膩摸呼膩閻婆<lb
  n="0035a28" ed="T"/>膩躭婆膩阿婆凞摸呼膩安茶梨般茶梨輸鞞<lb
  n="0035b02" ed="T"/>帝般茶囉婆私膩休休樓樓安<lb
  n="0035b03" ed="T"/>茶梨兜兜樓樓般茶梨周周<lb
@@ -137,7 +137,7 @@
  n="0035b06" ed="T"/>矧墀跈墀膩跈墀薩<lb
  n="0035b07" ed="T"/>婆阿婆耶羯多薩婆涅婆婆陀伽阿婆<lb
  n="0035b08" ed="T"/>耶卑離陀閉殿娑訶</ab>
-<ab type="prose">一切怖<lb
+<ab type='prose'>一切怖<lb
  n="0035b09" ed="T"/>畏一切毒害一切惡鬼虎狼師子聞此呪時口<lb
  n="0035b10" ed="T"/>即閉塞不能為害。破梵行人作十惡業。聞此<lb
  n="0035b11" ed="T"/>呪時蕩除糞穢還得清淨。設有業障濁惡不<lb
@@ -182,10 +182,10 @@
  n="0036a06" ed="T"/>薩歸依三寶。三稱我名誦大吉祥六字章句<lb
  n="0036a07" ed="T"/>救苦神呪。而說呪曰。<lb
  n="0036a08" ed="T"/></ab>
-<ab type="dharani">多姪咃　安陀詈　般茶詈　枳由詈檀陀詈羶陀詈底耶婆陀耶賒婆陀頗羅膩祇難多詈<lb
+<ab type='dharani'>多姪咃　安陀詈　般茶詈　枳由詈檀陀詈羶陀詈底耶婆陀耶賒婆陀頗羅膩祇難多詈<lb
  n="0036a11" ed="T"/>婆伽詈阿盧禰薄鳩詈摸鳩隷兜毘隷𦀟呵<lb
  n="0036a13" ed="T"/></ab>
-<ab type="prose">爾時世尊說是神呪已。告阿難言。若善男子<lb
+<ab type='prose'>爾時世尊說是神呪已。告阿難言。若善男子<lb
  n="0036a14" ed="T"/>善女人四部弟子。得聞觀世音菩薩名號。并<lb
  n="0036a15" ed="T"/>受持讀誦六字章句。若行曠野迷失道徑。誦<lb
  n="0036a16" ed="T"/>此呪故觀世音菩薩。大悲熏心化為人像。示<lb
@@ -216,7 +216,7 @@
  n="0036b12" ed="T"/>者功德神力并六字章句。以見佛故即得無<lb
  n="0036b13" ed="T"/>忘旋陀羅尼。爾時世尊而說偈言。<lb
  n="0036b14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 大悲大名稱　　吉祥安樂人　　<lb
  n="0036b15" ed="T"/>恒說吉祥句　　救濟極苦者　　<lb
  n="0036b16" ed="T"/>眾生若聞名　　離苦得解脫　　<lb
@@ -232,7 +232,7 @@
  n="0036b26" ed="T"/>無上勝方便　　令離生死苦　　<lb
  n="0036b27" ed="T"/>常得安樂處　　到大涅槃岸　　
 </ab><lb
- n="0036b28" ed="T"/><ab type="prose">爾時世尊說是語已。告阿難言。是六字章句<lb
+ n="0036b28" ed="T"/><ab type='prose'>爾時世尊說是語已。告阿難言。是六字章句<lb
  n="0036b29" ed="T"/>畢定吉祥真實不虛。若有聞者獲大善利得<pb n="0036c" id="T20.1043.0036c" ed="T"/><lb
  n="0036c01" ed="T"/>無量功德。說是語已。王舍大城有一比丘名<lb
  n="0036c02" ed="T"/>優波斯那。精進勇猛勤行難行苦行。如救頭<lb
@@ -300,7 +300,7 @@
  n="0037b06" ed="T"/>持觀世音菩薩名號。消伏毒害無上章句。說<lb
  n="0037b07" ed="T"/>偈讚歎。<lb
  n="0037b08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 我勅提頭賴吒等　　慈心擁護受持經　　<lb
  n="0037b09" ed="T"/>令聞大悲名號人　　譬如天子法臣護　　<lb
  n="0037b10" ed="T"/>我勅海龍伊羅鉢　　慈心擁護受持經　　<lb
@@ -340,17 +340,17 @@
  n="0037c15" ed="T"/>護世觀世音　　畢定消毒害　　<lb
  n="0037c16" ed="T"/>淨於三毒根　　成佛道無疑　　
 </ab><lb
- n="0037c17" ed="T"/><ab type="prose">爾時世尊說此偈已。為受持觀世音菩薩名<lb
+ n="0037c17" ed="T"/><ab type='prose'>爾時世尊說此偈已。為受持觀世音菩薩名<lb
  n="0037c18" ed="T"/>者擁護此經故。說灌頂吉祥陀羅尼而說呪<lb
  n="0037c19" ed="T"/>曰。<lb
  n="0037c20" ed="T"/></ab>
-<ab type="dharani">多姪咃　烏耽毘詈兜毘詈耽<lb
+<ab type='dharani'>多姪咃　烏耽毘詈兜毘詈耽<lb
  n="0037c21" ed="T"/>𡌹波羅耽𡌹捺吒修捺<lb
  n="0037c22" ed="T"/>吒枳跋吒牟那耶三摩耶<lb
  n="0037c23" ed="T"/>檀提膩羅枳尸婆羅鳩卑<lb
  n="0037c24" ed="T"/>烏詈欀瞿詈𦀟訶<lb
  n="0037c25" ed="T"/></ab>
-<ab type="prose">佛告舍利弗如此灌頂陀羅尼章句畢定吉祥<lb
+<ab type='prose'>佛告舍利弗如此灌頂陀羅尼章句畢定吉祥<lb
  n="0037c26" ed="T"/>若有得聞受持讀誦。破惡業障終不橫死。舍<lb
  n="0037c27" ed="T"/>利弗白佛言世尊。如此神呪大吉祥句。普施<lb
  n="0037c28" ed="T"/>一切無所怖畏。世尊往昔從何佛所得聞此<lb
@@ -375,5 +375,5 @@
  n="0038a18" ed="T"/>女及龍鬼神。皆悉歡喜發菩提心。舍利弗阿<lb
  n="0038a19" ed="T"/>難等。聞佛所說禮佛而退。<lb
  n="0038a20" ed="T"/>
-</ab><ab type="juan" subtype="close">請觀世音菩薩消伏毒害陀羅尼呪經</ab></div>
+</ab><ab type='juan' subtype='close'>請觀世音菩薩消伏毒害陀羅尼呪經</ab></div>
 </body></text></TEI>

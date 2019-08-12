@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1308</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0426b17" ed="T"/><lb
  n="0426b18" ed="T"/><lb
  n="0426b19" ed="T"/><lb
  n="0426b20" ed="T"/>
-<ab type="juan" subtype="open">七曜攘災決卷上</ab><lb
+<ab type='juan' subtype='open'>七曜攘災決卷上</ab><lb
  n="0426b21" ed="T"/><lb
  n="0426b22" ed="T"/><byline>西天竺國婆羅門僧金俱吒撰集之</byline><lb
- n="0426b23" ed="T"/><ab type="prose">夫周天三百六十五度四分度之一。每日日<lb
+ n="0426b23" ed="T"/><ab type='prose'>夫周天三百六十五度四分度之一。每日日<lb
  n="0426b24" ed="T"/>行一度。月每日行十三度四分度之一。一月<lb
  n="0426b25" ed="T"/>月行三百九十七度四分度之二。日行三十<lb
  n="0426b26" ed="T"/>度。一遍與月合會。其宿四世界眾生所生之<lb
@@ -159,7 +159,7 @@
  n="0427c16" ed="T"/>田宅　平平平動搖平移動平　計都雲漢女<lb
  n="0427c17" ed="T"/>重男輕過此辰。<lb
  n="0427c18" ed="T"/>男女　吉吉平吉平平平。<lb
- n="0427c20" ed="T"/>僮僕　吉吉吉吉吉吉吉　󱀀女正因之三平<lb
+ n="0427c20" ed="T"/>僮僕　吉吉吉吉吉吉吉　𮇝女正因之三平<lb
  n="0427c21" ed="T"/>餘是災祿九折。<lb
  n="0427c22" ed="T"/>妻妾　吉吉吉吉平凶　外去六九出入<lb
  n="0427c23" ed="T"/>為壽限中取為。<lb
@@ -167,7 +167,7 @@
  n="0427c25" ed="T"/>發。<lb
  n="0427c26" ed="T"/>遷移　凶平平平平平平　火愛熱味辛便膩<lb
  n="0427c27" ed="T"/>官位喜平平吉平移動平　水愛醋苦金愛熱<lb
- n="0427c28" ed="T"/>便󱄘醋。<pb n="0428a" id="T21.1308.0428a" ed="T"/><lb
+ n="0427c28" ed="T"/>便𬿨醋。<pb n="0428a" id="T21.1308.0428a" ed="T"/><lb
  n="0428a01" ed="T"/>福相　平平平平平平平　木愛香羔便生菓<lb
  n="0428a02" ed="T"/>子及便生茱。<lb
  n="0428a03" ed="T"/>困窮　平平平平平平平　土愛鹹苦酸。<lb
@@ -217,68 +217,68 @@
  n="0428b21" ed="T"/>九曜息災大白衣觀音陀羅尼。<lb
  n="0428b23" ed="T"/>一切曜不吉祥誦此真言　能吉祥真言。<lb
  n="0428b24" ed="T"/></ab>
-<ab type="dharani">曩謨囉怛曩怛囉夜野曩莫素麼薩<lb
+<ab type='dharani'>曩謨囉怛曩怛囉夜野曩莫素麼薩<lb
  n="0428b25" ed="T"/>囉嚩諾訖灑怛囉邏惹野者<lb
  n="0428b26" ed="T"/>覩地波阿路迦羅野怛儞也他努摩底<lb
  n="0428b27" ed="T"/>跛努摩底薩賓儞佉細娑嚩賀<lb
  n="0428b28" ed="T"/></ab>
-<ab type="prose">北斗七星真言。<lb
+<ab type='prose'>北斗七星真言。<lb
  n="0428c02" ed="T"/></ab>
-<ab type="dharani">唵颯跢曩而曩野伴惹蜜惹野野<lb
+<ab type='dharani'>唵颯跢曩而曩野伴惹蜜惹野野<lb
  n="0428c03" ed="T"/>染普咃摩娑嚩弭曩囉訖仙婆嚩<lb
  n="0428c04" ed="T"/>都娑嚩賀<lb
  n="0428c05" ed="T"/></ab>
-<ab type="prose">日天真言<lb
+<ab type='prose'>日天真言<lb
  n="0428c06" ed="T"/></ab>
-<ab type="dharani">曩謨囉怛曩他囉夜野曩莫素哩野薩<lb
+<ab type='dharani'>曩謨囉怛曩他囉夜野曩莫素哩野薩<lb
  n="0428c07" ed="T"/>嚩曩乞灑乞灑怛囉囉惹野唵阿<lb
  n="0428c08" ed="T"/>謨伽寫野設底娑嚩賀<lb
  n="0428c09" ed="T"/></ab>
-<ab type="prose">月天真言<lb
+<ab type='prose'>月天真言<lb
  n="0428c10" ed="T"/></ab>
-<ab type="dharani">唵戰怛囉曩乞灑怛羅囉惹野<lb
+<ab type='dharani'>唵戰怛囉曩乞灑怛羅囉惹野<lb
  n="0428c11" ed="T"/>設底娑嚩賀<lb
  n="0428c12" ed="T"/></ab>
-<ab type="prose">南方火星真言<lb
+<ab type='prose'>南方火星真言<lb
  n="0428c13" ed="T"/></ab>
-<ab type="dharani">唵阿誐囉迦嚕儗野娑嚩賀<lb
+<ab type='dharani'>唵阿誐囉迦嚕儗野娑嚩賀<lb
  n="0428c14" ed="T"/></ab>
-<ab type="prose">北方水星真言<lb
+<ab type='prose'>北方水星真言<lb
  n="0428c15" ed="T"/></ab>
-<ab type="dharani">唵母馱曩乞赦怛羅娑嚩弭曩契<lb
+<ab type='dharani'>唵母馱曩乞赦怛羅娑嚩弭曩契<lb
  n="0428c16" ed="T"/>努摩莎縛賀<lb
  n="0428c17" ed="T"/></ab>
-<ab type="prose">東方木星真言<lb
+<ab type='prose'>東方木星真言<lb
  n="0428c18" ed="T"/></ab>
-<ab type="dharani">唵婆囉訶薩鉢底曩摩比跢嚩曩<lb
+<ab type='dharani'>唵婆囉訶薩鉢底曩摩比跢嚩曩<lb
  n="0428c19" ed="T"/>野摩囉嚩囉馱寧娑嚩賀<lb
  n="0428c20" ed="T"/></ab>
-<ab type="prose">西方金星真言<lb
+<ab type='prose'>西方金星真言<lb
  n="0428c21" ed="T"/></ab>
-<ab type="dharani">唵戍羯羅誐馱嚩囉嚩囉惹野室哩迦哩莎嚩賀<lb
+<ab type='dharani'>唵戍羯羅誐馱嚩囉嚩囉惹野室哩迦哩莎嚩賀<lb
  n="0428c23" ed="T"/></ab>
-<ab type="prose">中方土星真言<lb
+<ab type='prose'>中方土星真言<lb
  n="0428c24" ed="T"/></ab>
-<ab type="dharani">唵捨泥吃赦作囉曩乞赦怛囉<lb
+<ab type='dharani'>唵捨泥吃赦作囉曩乞赦怛囉<lb
  n="0428c25" ed="T"/>跛囉訶摩曩嚕婆野普瑟底迦<lb
  n="0428c26" ed="T"/>哩莎嚩賀<lb
  n="0428c27" ed="T"/></ab>
-<ab type="prose">羅睺星真言<lb
+<ab type='prose'>羅睺星真言<lb
  n="0428c28" ed="T"/></ab>
-<ab type="dharani">唵囉睺曩阿素羅邏惹野塞摩捨都曩野<lb
+<ab type='dharani'>唵囉睺曩阿素羅邏惹野塞摩捨都曩野<lb
  n="0428c29" ed="T"/>扇底迦哩娑嚩賀<pb n="0429a" id="T21.1308.0429a" ed="T"/><lb
  n="0429a01" ed="T"/></ab>
-<ab type="prose">計都星真言<lb
+<ab type='prose'>計都星真言<lb
  n="0429a02" ed="T"/></ab>
-<ab type="dharani">唵嚩日羅計都曩曩乞赦怛羅<lb
+<ab type='dharani'>唵嚩日羅計都曩曩乞赦怛羅<lb
  n="0429a03" ed="T"/>邏惹野吽娑嚩賀<lb
  n="0429a04" ed="T"/></ab>
-<ab type="prose">一切如來說破一切宿曜障吉祥真言<lb
+<ab type='prose'>一切如來說破一切宿曜障吉祥真言<lb
  n="0429a05" ed="T"/></ab>
-<ab type="dharani">唵薩嚩諾剎怛羅三麼曳室哩曳扇底<lb
+<ab type='dharani'>唵薩嚩諾剎怛羅三麼曳室哩曳扇底<lb
  n="0429a06" ed="T"/>迦俱嚕娑嚩賀<pb n="0429b" id="T21.1308.0429b" ed="T"/><lb
  n="0429b01" ed="T"/></ab>
-<ab type="prose">歲星東方木之精一名攝提。徑一百里其色<lb
+<ab type='prose'>歲星東方木之精一名攝提。徑一百里其色<lb
  n="0429b02" ed="T"/>青。而光明所在有福。與太白合宿有喪。其行<lb
  n="0429b03" ed="T"/>十三年一周天。強三百九十九日一伏見。初<lb
  n="0429b04" ed="T"/>晨見東方六日行一度。一百一十四日順行<lb
@@ -538,7 +538,7 @@
  n="0440b01" ed="T"/>大白西方金之精一名長庚。徑一百里。其色<lb
  n="0440b02" ed="T"/>白而光明。一年一周天。晨皆之見。二百四十<lb
  n="0440b03" ed="T"/>四日。初夕見西方。稍行急。日行一度小半<lb
- n="0440b04" ed="T"/>󱂬遲。二百二十六日行二百四十九度。乃留<pb n="0440c" id="T21.1308.0440c" ed="T"/><lb
+ n="0440b04" ed="T"/>𭱤遲。二百二十六日行二百四十九度。乃留<pb n="0440c" id="T21.1308.0440c" ed="T"/><lb
  n="0440c01" ed="T"/>八日。則逆行十日退一度。亦留八日乃順行。<lb
  n="0440c02" ed="T"/>初日行半度。漸疾二百二十六日行二百四<lb
  n="0440c03" ed="T"/>十九度。而夕伏東方。伏經八十四日。又夕見<lb
@@ -555,7 +555,7 @@
  n="0440e07" ed="T"/>　六　　斗虛危室奎井柳伏虛<pb n="0441a" id="T21.1308.0441a" ed="T"/><lb
  n="0441a01" ed="T"/>　　　　　　七　　壁胃井星張翼軫尾<lb
  n="0441a02" ed="T"/>　　　　　　八　　伏伏翼軫角亢斗虛危室壁<pb n="0441b" id="T21.1308.0441b" ed="T"/><lb
- n="0441b01" ed="T"/>辰星北方水之精一名󱃛星。徑一百里其色<lb
+ n="0441b01" ed="T"/>辰星北方水之精一名𭔑星。徑一百里其色<lb
  n="0441b02" ed="T"/>黑。所在之位主大憂。一年一周天。去日極遠。<lb
  n="0441b03" ed="T"/>不過二十六度。初夕見日行一度半。漸遲二<pb n="0441c" id="T21.1308.0441c" ed="T"/><lb
  n="0441c01" ed="T"/>十七日行三十度。乃留三日而夕伏之。二十<lb
@@ -599,10 +599,10 @@
  n="0442a17" ed="T"/>　　　　三十二　伏伏<lb
  n="0442a18" ed="T"/>　　　　三十三　伏翼伏斗五伏<pb n="0442b" id="T21.1308.0442b" ed="T"/><lb
  n="0442b01" ed="T"/>
-</ab><ab type="juan" subtype="close">攘災決卷上</ab><lb
+</ab><ab type='juan' subtype='close'>攘災決卷上</ab><lb
  n="0442b02" ed="T"/>
-<ab type="juan" subtype="open">攘災決卷中</ab><lb
- n="0442b03" ed="T"/><ab type="prose">羅睺遏羅師者。一名黃幡。一名蝕神頭。一名<lb
+<ab type='juan' subtype='open'>攘災決卷中</ab><lb
+ n="0442b03" ed="T"/><ab type='prose'>羅睺遏羅師者。一名黃幡。一名蝕神頭。一名<lb
  n="0442b04" ed="T"/>複。一名太陽首。常隱行不見。逢日月則蝕。朔<pb n="0442c" id="T21.1308.0442c" ed="T"/><lb
  n="0442c01" ed="T"/>望逢之必蝕。與日月相對亦蝕。謹按天竺婆<lb
  n="0442c02" ed="T"/>毘磨步之云爾。漢說云日月同道。月掩日而<lb
@@ -796,13 +796,13 @@
  n="0448d04" ed="T"/>自大梁　戌元降婁　亥飛鶉尾　子衝鶉<lb
  n="0448d05" ed="T"/>火　丑位星紀<lb
  n="0448d06" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 寅名折木　　卯名大火　　辰名壽星　　<lb
  n="0448d07" ed="T"/>已名鶉尾　　午名鶉火　　未名鶉首　　<pb n="0449a" id="T21.1308.0449a" ed="T"/><lb
  n="0449a01" ed="T"/>申名實況　　酉名大梁　　戌名降婁　　<lb
  n="0449a02" ed="T"/>亥名諏訾　　子名玄枵　　丑名星紀　　
 </ab><lb
- n="0449a03" ed="T"/><ab type="prose">金其神是女人著黃衣。頭戴鷄冠手彈琵琶。<lb
+ n="0449a03" ed="T"/><ab type='prose'>金其神是女人著黃衣。頭戴鷄冠手彈琵琶。<lb
  n="0449a04" ed="T"/>到人命宿。宜轉大般涅槃經般若經大集經<lb
  n="0449a05" ed="T"/>思益經共九卷或九十卷。持大隨求真言九<lb
  n="0449a06" ed="T"/>十遍文殊真言九百遍。宜燒龍腦欝金蘇合<lb
@@ -900,16 +900,16 @@
  n="0450b03" ed="T"/>術有學問。高交友得人欽仰　那頡日生者。<lb
  n="0450b04" ed="T"/>合足語詞舌多色好遊。吏性沈審為事堅剛。<lb
  n="0450b05" ed="T"/>不伏弱有信義　鷄緩日生者。合敦重好事<lb
- n="0450b06" ed="T"/>愛藝術多智謀。質直毒惡矜󰾳貪乏。官祿晚<lb
+ n="0450b06" ed="T"/>愛藝術多智謀。質直毒惡矜𭎹貪乏。官祿晚<lb
  n="0450b07" ed="T"/>成。<lb
  n="0450b08" ed="T"/>右七直日與所生宿。相依和叶則吉相惡則<pb n="0450c" id="T21.1308.0450c" ed="T"/><lb
  n="0450c01" ed="T"/>凶。當推算之事無不應。<lb
  n="0450c02" ed="T"/>招北斗真言<lb
  n="0450c03" ed="T"/></ab>
-<ab type="dharani">曩謨三曼多他羅那噎呬波伊賀伊多伊迦<lb
+<ab type='dharani'>曩謨三曼多他羅那噎呬波伊賀伊多伊迦<lb
  n="0450c04" ed="T"/>伊羅伊保朗多羅伽可含娑波訶<lb
  n="0450c05" ed="T"/></ab>
-<ab type="prose">大陽之精凡行背以定氣為準。若依此即差<lb
+<ab type='prose'>大陽之精凡行背以定氣為準。若依此即差<lb
  n="0450c06" ed="T"/>一兩度。從開元十二年向後計。滿八十三年<lb
  n="0450c07" ed="T"/>即差一度。<lb
  n="0450c08" ed="T"/>黃道曰躔定氣。<pb n="0450d" id="T21.1308.0450d" ed="T"/><lb
@@ -1026,7 +1026,7 @@
  n="0452a25" ed="T"/>破軍星武曲星廉貞星文曲星<lb
  n="0452a26" ed="T"/>祿存星巨門星貪狼星。<lb
  n="0452a27" ed="T"/>正二三四五六七八九十十一十二。<lb
- n="0452a29" ed="T"/></ab><div type="w" level="2"><ab type="prose">長保元年三月五日<pb n="0452b" id="T21.1308.0452b" ed="T"/><lb
+ n="0452a29" ed="T"/></ab><div type='w' level='2'><ab type='prose'>長保元年三月五日<pb n="0452b" id="T21.1308.0452b" ed="T"/><lb
  n="0452b01" ed="T"/>統云春分奎三度月定白羊宮內。<lb
  n="0452b02" ed="T"/>而有差三度有餘。早分仍圖新可造<lb
  n="0452b03" ed="T"/>圖者十二宮七分二十八宿分度也。作圖<lb

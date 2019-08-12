@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0543</idno>
                 </bibl>
@@ -44,11 +44,11 @@
  n="0829c03" ed="T"/><lb
  n="0829c04" ed="T"/><lb
  n="0829c05" ed="T"/>
-<ab type="juan" subtype="open">佛說巨力長者所問大乘經卷上</ab><lb
+<ab type='juan' subtype='open'>佛說巨力長者所問大乘經卷上</ab><lb
  n="0829c06" ed="T"/><lb
  n="0829c07" ed="T"/><byline>宋西天同譯經寶法大師賜紫<lb
  n="0829c08" ed="T"/>沙門智吉祥等奉　詔譯</byline><lb
- n="0829c09" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時，世尊在舍衛國祇陀園林給<lb
+ n="0829c09" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時，世尊在舍衛國祇陀園林給<lb
  n="0829c10" ed="T"/>孤獨舍，與大比丘眾千二百五十人俱，皆<lb
  n="0829c11" ed="T"/>是阿羅漢。一切漏盡離煩惱縛，心善解脫慧<lb
  n="0829c12" ed="T"/>善解脫，如大龍王神用變化，諸所應作無所<lb
@@ -254,15 +254,15 @@
  n="0832a09" ed="T"/>不堅，求於無上最勝大乘，漸次修習諸波羅<lb
  n="0832a10" ed="T"/>蜜，欲證解脫甚為難得。」<lb
  n="0832a11" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說巨力長者所問大乘經卷上</ab><lb
+</ab><ab type='juan' subtype='close'>佛說巨力長者所問大乘經卷上</ab><lb
  n="0832a12" ed="T"/><lb
  n="0832a13" ed="T"/><lb
  n="0832a14" ed="T"/>
-<ab type="juan" subtype="open">佛說巨力長者所問大乘經卷中</ab><lb
+<ab type='juan' subtype='open'>佛說巨力長者所問大乘經卷中</ab><lb
  n="0832a15" ed="T"/><lb
  n="0832a16" ed="T"/><byline>宋西天同譯經寶法大師賜紫<lb
  n="0832a17" ed="T"/>沙門智吉祥等奉　詔譯</byline><lb
- n="0832a18" ed="T"/><ab type="prose">爾時，世尊復告巨力長者及諸長者言：「汝等<lb
+ n="0832a18" ed="T"/><ab type='prose'>爾時，世尊復告巨力長者及諸長者言：「汝等<lb
  n="0832a19" ed="T"/>宿植善本信根堅固，欲學菩薩摩訶薩所修<lb
  n="0832a20" ed="T"/>之行，伏斷障染求證菩提，應當觀彼諸有情<lb
  n="0832a21" ed="T"/>類，從無始來輪迴流轉，持苦報身經歷多生<lb
@@ -367,7 +367,7 @@
  n="0833b04" ed="T"/>等菩提，永契真常心無退轉。」爾時，世尊為諸<lb
  n="0833b05" ed="T"/>長者，重宣此義而說偈言：<lb
  n="0833b06" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「善哉長者，　　汝等當知，　　是菩薩人，　　<lb
  n="0833b07" ed="T"/>於生滅法，　　種種身相，　　種種壽命；　　<lb
  n="0833b08" ed="T"/>嚴飾之具，　　婇女眷屬，　　為欲圓滿，　　<lb
@@ -489,15 +489,15 @@
  n="0834c08" ed="T"/>燒煮眾生，　　甚可怖畏，　　不應戀著。」　　
 </ab><lb
  n="0834c09" ed="T"/>
-<ab type="juan" subtype="close">佛說巨力長者所問大乘經卷中</ab><lb
+<ab type='juan' subtype='close'>佛說巨力長者所問大乘經卷中</ab><lb
  n="0834c10" ed="T"/><lb
  n="0834c11" ed="T"/><lb
  n="0834c12" ed="T"/>
-<ab type="juan" subtype="open">佛說巨力長者所問大乘經卷下</ab><lb
+<ab type='juan' subtype='open'>佛說巨力長者所問大乘經卷下</ab><lb
  n="0834c13" ed="T"/><lb
  n="0834c14" ed="T"/><byline>宋西天同譯經寶法大師賜紫<lb
  n="0834c15" ed="T"/>沙門智吉祥等奉　詔譯</byline><lb
- n="0834c16" ed="T"/><ab type="verse">
+ n="0834c16" ed="T"/><ab type='verse'>
 佛告長者：　　「是諸眾生，　　於多劫中，　　<lb
  n="0834c17" ed="T"/>積集諸法，　　謂貪瞋癡，　　見慢疑悔，　　<lb
  n="0834c18" ed="T"/>於諸欲境，　　觸向迷著，　　於晝夜時，　　<lb
@@ -608,7 +608,7 @@
  n="0836a07" ed="T"/>以善巧智，　　攝受眾生，　　稱彼機宜，　　<lb
  n="0836a08" ed="T"/>方便演說，　　各令悟入，　　解脫法門。」　　
 </ab><lb
- n="0836a09" ed="T"/><ab type="prose">時，巨力長者與五百長者，聞是法已，心大<lb
+ n="0836a09" ed="T"/><ab type='prose'>時，巨力長者與五百長者，聞是法已，心大<lb
  n="0836a10" ed="T"/>歡喜踊躍無量，於所聞法得深法忍、得最大<lb
  n="0836a11" ed="T"/>忍、得無上忍，即從坐起繞佛三匝，頭面禮<lb
  n="0836a12" ed="T"/>足，却住一面。爾時，巨力長者與五百長者等，<lb
@@ -623,7 +623,7 @@
  n="0836a21" ed="T"/>今者樂欲說偈讚歎如來，惟願聽許。」即於佛<lb
  n="0836a22" ed="T"/>前而說偈言：<lb
  n="0836a23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「金色微妙相，　　最勝無與等，　　<lb
  n="0836a24" ed="T"/>能以柔軟音，　　演暢真實義，　　<lb
  n="0836a25" ed="T"/>久修菩薩行，　　壽命不可量，　　<lb
@@ -649,11 +649,11 @@
  n="0836b16" ed="T"/>當願一切眾，　　盡悟此法門，　　<lb
  n="0836b17" ed="T"/>不著世間樂，　　速成菩提道。」　　
 </ab><lb
- n="0836b18" ed="T"/><ab type="prose">爾時，巨力長者等說此偈已，各各虔誠投佛<lb
+ n="0836b18" ed="T"/><ab type='prose'>爾時，巨力長者等說此偈已，各各虔誠投佛<lb
  n="0836b19" ed="T"/>出家，佛乃聽許。于時世尊，即於座上熙怡微<lb
  n="0836b20" ed="T"/>笑，以威德力現大神通，即於面門放無數光，<lb
  n="0836b21" ed="T"/>其光雜色猶如眾寶之所間錯，所謂青色、黃<lb
- n="0836b22" ed="T"/>色、赤色、綠色、紫色、玻󰃠色、黃金色，所放之光，<lb
+ n="0836b22" ed="T"/>色、赤色、綠色、紫色、玻𭹳色、黃金色，所放之光，<lb
  n="0836b23" ed="T"/>遍照無量無邊不可思議阿僧祇世界，上至<lb
  n="0836b24" ed="T"/>梵世——所有諸天身光及日月光，悉皆掩蔽不<lb
  n="0836b25" ed="T"/>得顯現——如是光明照燭之處，一切眾生觸是<lb

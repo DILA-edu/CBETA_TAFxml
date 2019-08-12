@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n1017</idno>
                 </bibl>
@@ -41,12 +41,12 @@
     <text>
         <body><pb n="0698b" id="T19.1017.0698b" ed="T"/><lb
  n="0698b01" ed="T"/><lb
- n="0698b02" ed="T"/><div type="jing" level="1"><lb
+ n="0698b02" ed="T"/><div type='jing' level='1'><lb
  n="0698b03" ed="T"/>
-<ab type="juan" subtype="open">佛說一向出生菩薩經</ab><lb
+<ab type='juan' subtype='open'>佛說一向出生菩薩經</ab><lb
  n="0698b04" ed="T"/><lb
  n="0698b05" ed="T"/><byline>隋天竺三藏闍那崛多譯</byline><lb
- n="0698b06" ed="T"/><ab type="prose">如是我聞。一時婆伽婆。在毘耶離城大林精<lb
+ n="0698b06" ed="T"/><ab type='prose'>如是我聞。一時婆伽婆。在毘耶離城大林精<lb
  n="0698b07" ed="T"/>舍重閣講堂。與大比丘眾千二百五十人俱。<lb
  n="0698b08" ed="T"/>皆是阿羅漢。心得自在無復煩惱。盡諸有結<lb
  n="0698b09" ed="T"/>六通無礙。心得好解脫慧得好解脫。人中象<lb
@@ -144,7 +144,7 @@
  n="0699b14" ed="T"/>是之行我能行之。善哉世尊唯願說之。佛言<lb
  n="0699b15" ed="T"/>諦聽諦聽即說呪曰。<lb
  n="0699b16" ed="T"/></ab>
-<ab type="dharani">阿嬭莫嬭阿企莫企娑蔓多慕企薩<lb
+<ab type='dharani'>阿嬭莫嬭阿企莫企娑蔓多慕企薩<lb
  n="0699b17" ed="T"/>知耶囉米蘇米喻吉帝尼嚧吉帝尼盧<lb
  n="0699b18" ed="T"/>吉帝百羅陛伊隷迷隷醯隷脚落弊脚<lb
  n="0699b19" ed="T"/>洛波弟脚洛波細娑隷娑囉活帝<lb
@@ -172,7 +172,7 @@
  n="0699c12" ed="T"/>膩慕佉奴散地佛陀題熙啅帝<lb
  n="0699c13" ed="T"/>膩陀那瞿多利蘇婆呵<lb
  n="0699c14" ed="T"/></ab>
-<ab type="prose">爾時世尊。說是入無邊門陀羅尼已。為欲令<lb
+<ab type='prose'>爾時世尊。說是入無邊門陀羅尼已。為欲令<lb
  n="0699c15" ed="T"/>諸菩薩一切大眾知修行利故。告舍利弗。汝<lb
  n="0699c16" ed="T"/>當知之如是神呪。若諸菩薩摩訶薩欲修學<lb
  n="0699c17" ed="T"/>者。當於諸法知非有為。亦非無為無想無得。<lb
@@ -204,7 +204,7 @@
  n="0700a18" ed="T"/>無得實者。爾時世尊即為諸菩薩一切大眾。<lb
  n="0700a19" ed="T"/>而說偈言。<lb
  n="0700a20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 莫疑於空法　　於佛莫作異　　<lb
  n="0700a21" ed="T"/>復不動法界　　速獲陀羅尼　　<lb
  n="0700a22" ed="T"/>應聽如是經　　決定陀羅尼　　<lb
@@ -248,7 +248,7 @@
  n="0700c02" ed="T"/>親近菩提者　　當應力精進　　<lb
  n="0700c03" ed="T"/>若得寂定處　　當亦得菩提　　
 </ab><lb
- n="0700c04" ed="T"/><ab type="prose">爾時世尊說此偈已。復告舍利弗言。我今復<lb
+ n="0700c04" ed="T"/><ab type='prose'>爾時世尊說此偈已。復告舍利弗言。我今復<lb
  n="0700c05" ed="T"/>有四種修陀羅尼法。若諸菩薩能於是中具<lb
  n="0700c06" ed="T"/>足修行者。決定當得入是入門陀羅尼。何等<lb
  n="0700c07" ed="T"/>為四。所謂捨除貪欲斷嫉妬心。於一切眾生<lb
@@ -257,7 +257,7 @@
  n="0700c10" ed="T"/>定得入如是入門陀羅尼。爾時世尊欲重明<lb
  n="0700c11" ed="T"/>此義。如說頌曰。<lb
  n="0700c12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 欲為臭穢魔所行　　亦是地獄之因緣　　<lb
  n="0700c13" ed="T"/>既知罪業惡道本　　於他一切除嫉心　　<lb
  n="0700c14" ed="T"/>名利恭敬親友捨　　愛目平視諸眾生　　<lb
@@ -267,7 +267,7 @@
  n="0700c18" ed="T"/>慇懃日夜求諸法　　專心正直樂菩提　　<lb
  n="0700c19" ed="T"/>如是常能親近法　　心門畢現陀羅尼　　
 </ab><lb
- n="0700c20" ed="T"/><ab type="prose">爾時世尊說是頌已。復告舍利弗。更有四法<lb
+ n="0700c20" ed="T"/><ab type='prose'>爾時世尊說是頌已。復告舍利弗。更有四法<lb
  n="0700c21" ed="T"/>能具一切菩薩行故。得入如是入門陀羅尼。<lb
  n="0700c22" ed="T"/>何等為四。所謂親近山林阿蘭若處得深法<lb
  n="0700c23" ed="T"/>忍。名聞利養一切恭敬。所愛之處一切捨離。<lb
@@ -275,7 +275,7 @@
  n="0700c25" ed="T"/>菩薩所有諸行。得入如是入門陀羅尼。爾時<lb
  n="0700c26" ed="T"/>世尊欲重宣此義。以偈頌曰。<lb
  n="0700c27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 山林阿練若　　正行之所歎　　<lb
  n="0700c28" ed="T"/>雖復住彼處　　慎不毀於他　　<lb
  n="0700c29" ed="T"/>修忍不放逸　　常如救頭然　　<pb n="0701a" id="T19.1017.0701a" ed="T"/><lb
@@ -290,7 +290,7 @@
  n="0701a09" ed="T"/>是故修行者　　故須捨名利　　<lb
  n="0701a10" ed="T"/>如是真妙行　　賢聖之所讚　　
 </ab><lb
- n="0701a11" ed="T"/><ab type="prose">復次舍利弗。復有四法善能具足菩薩行故。<lb
+ n="0701a11" ed="T"/><ab type='prose'>復次舍利弗。復有四法善能具足菩薩行故。<lb
  n="0701a12" ed="T"/>得入如是入門陀羅尼。何等為四。所謂八種<lb
  n="0701a13" ed="T"/>字門。若能善入此字義者。得入如是入門陀<lb
  n="0701a14" ed="T"/>羅尼。何等為八。所謂跛字邏字。莽字惹<lb
@@ -311,7 +311,7 @@
  n="0701a29" ed="T"/>弗言。如是四法能成菩薩行故。得入陀羅尼<pb n="0701b" id="T19.1017.0701b" ed="T"/><lb
  n="0701b01" ed="T"/>門爾時世尊欲重宣此義。以偈頌曰。<lb
  n="0701b02" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 當思八字意　　經及陀羅尼　　<lb
  n="0701b03" ed="T"/>書寫持讀誦　　一月若半月　　<lb
  n="0701b04" ed="T"/>復化諸眾生　　歡喜令策進　　<lb
@@ -319,7 +319,7 @@
  n="0701b06" ed="T"/>現見一切佛　　住在於十方　　<lb
  n="0701b07" ed="T"/>學行得增長　　是故應精勤　　
 </ab><lb
- n="0701b08" ed="T"/><ab type="prose">舍利弗復有四法。能成菩薩諸福德故。於此<lb
+ n="0701b08" ed="T"/><ab type='prose'>舍利弗復有四法。能成菩薩諸福德故。於此<lb
  n="0701b09" ed="T"/>陀羅尼中精勤不退。何等為四。所謂十方一<lb
  n="0701b10" ed="T"/>切諸佛常當護念。無有一切諸魔惡業。能轉<lb
  n="0701b11" ed="T"/>一切諸惡業障。速令清淨得無斷辯才。舍利<lb
@@ -327,11 +327,11 @@
  n="0701b13" ed="T"/>故。於此陀羅尼中精心不退。爾時世尊欲重<lb
  n="0701b14" ed="T"/>宣此義。以偈頌曰。<lb
  n="0701b15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 十方一切佛憶念　　若魔魔業不得便　　<lb
  n="0701b16" ed="T"/>能轉業障令清淨　　速獲無上勝辯才　　
 </ab><lb
- n="0701b17" ed="T"/><ab type="prose">舍利弗我念過去世時。廣大無量無邊阿僧<lb
+ n="0701b17" ed="T"/><ab type='prose'>舍利弗我念過去世時。廣大無量無邊阿僧<lb
  n="0701b18" ed="T"/>祇劫。復過是數。是時有佛號曰寶功德威宿<lb
  n="0701b19" ed="T"/>劫王如來應供等正覺明行足善逝世間解無<lb
  n="0701b20" ed="T"/>上士調御丈夫天人師佛婆伽婆。爾時彼佛<lb
@@ -378,7 +378,7 @@
  n="0702a03" ed="T"/>計挍思量所能知者。爾時世尊說是語已。欲<lb
  n="0702a04" ed="T"/>重宣此義以偈頌曰。<lb
  n="0702a05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 聞經心隨喜　　書寫并讀誦　　<lb
  n="0702a06" ed="T"/>自持教人持　　是諸功德聚　　<lb
  n="0702a07" ed="T"/>一切諸眾生　　不能測量者　　<lb
@@ -400,7 +400,7 @@
  n="0702a23" ed="T"/>直以書持福　　能過是功德　　<lb
  n="0702a24" ed="T"/>是經勢力故　　必得佛不難　　
 </ab><lb
- n="0702a25" ed="T"/><ab type="prose">復次舍利弗。若菩薩於此入無邊陀羅尼。精<lb
+ n="0702a25" ed="T"/><ab type='prose'>復次舍利弗。若菩薩於此入無邊陀羅尼。精<lb
  n="0702a26" ed="T"/>勤用意者。於彼雪山之中有八夜叉。日夜常<lb
  n="0702a27" ed="T"/>來衛護此人。以其威力遍入彼人身諸毛孔。<lb
  n="0702a28" ed="T"/>何等為八。其名曰勇健夜叉堅固夜叉。眾多<lb
@@ -435,5 +435,5 @@
  n="0702b28" ed="T"/>薩大會天龍八部。一切大眾聞佛所說歡喜<lb
  n="0702b29" ed="T"/>奉行。<pb n="0702c" id="T19.1017.0702c" ed="T"/><lb
  n="0702c01" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說一向出生菩薩經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說一向出生菩薩經</ab></div>
 </body></text></TEI>

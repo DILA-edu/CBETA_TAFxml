@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T24</biblScope>
                     <idno type="Taisho">T24n1473</idno>
                 </bibl>
@@ -43,11 +43,11 @@
  n="0935b01" ed="T"/><lb
  n="0935b02" ed="T"/><lb
  n="0935b03" ed="T"/>
-<ab type="juan" subtype="open">佛說沙彌十戒儀則經</ab><lb
+<ab type='juan' subtype='open'>佛說沙彌十戒儀則經</ab><lb
  n="0935b04" ed="T"/><lb
- n="0935b05" ed="T"/><byline>西天譯經朝散大夫試鴻臚少卿<lb
+ n="0935b05" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚少卿<lb
  n="0935b06" ed="T"/>傳法大師臣施護奉　詔譯</byline><lb
- n="0935b07" ed="T"/><div type="jing" level="1"><ab type="verse">
+ n="0935b07" ed="T"/><div type='jing' level='1'><ab type='verse'>
 頂禮一切智，　　妙法及聖眾，　　<lb
  n="0935b08" ed="T"/>略說沙彌行，　　令發出家心。　　<lb
  n="0935b09" ed="T"/>於彼釋迦教，　　堅持於禁戒，　　<lb
@@ -57,7 +57,7 @@
  n="0935b13" ed="T"/>參近於師房，　　以手輕擊門，　　<lb
  n="0935b14" ed="T"/>入已問訊師，　　身體安樂不？　　<lb
  n="0935b15" ed="T"/>如是所作已，　　復作曼拏羅，　　<lb
- n="0935b16" ed="T"/>供養而恭敬，　　早晨觀水內，　　<lb
+ n="0935b16" ed="T"/>供養而恭敬，　　早辰觀水內，　　<lb
  n="0935b17" ed="T"/>中後時亦然，　　甕器盂鉢等。　　<lb
  n="0935b18" ed="T"/>水蟲有大小，　　志心恒觀照，　　<lb
  n="0935b19" ed="T"/>以羅淨濾水，　　審觀而可用。　　<lb
@@ -99,7 +99,7 @@
  n="0935c26" ed="T"/>如是破戒因，　　而成最重罪。　　<lb
  n="0935c27" ed="T"/>飲食穀米等，　　花菓草木類，　　<lb
  n="0935c28" ed="T"/>地生或水生，　　而行於偷竊，　　<lb
- n="0935c29" ed="T"/>或偷官稅利，　　私過於關律，　　<pb n="0936a" ed="T" id="T24.1473.0936a"/><lb
+ n="0935c29" ed="T"/>或偷官稅利，　　私過於關津，　　<pb n="0936a" ed="T" id="T24.1473.0936a"/><lb
  n="0936a01" ed="T"/>及盜於有情，　　二足與多足。　　<lb
  n="0936a02" ed="T"/>或彼出家人，　　受用雖具足，　　<lb
  n="0936a03" ed="T"/>貪心復盜財，　　俱獲於重罪。　　<lb
@@ -194,5 +194,5 @@
  n="0937a05" ed="T"/>煩惱自斷除，　　速成無上覺。　　
 </ab></div><lb
  n="0937a06" ed="T"/>
-<ab type="juan" subtype="close">佛說沙彌十戒儀則經</ab>
+<ab type='juan' subtype='close'>佛說沙彌十戒儀則經</ab>
 </body></text></TEI>

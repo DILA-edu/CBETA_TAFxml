@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T24</biblScope>
                     <idno type="Taisho">T24n1460</idno>
                 </bibl>
@@ -39,20 +39,20 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0659a" ed="T" id="T24.1460.0659a"/><lb
  n="0659a01" ed="T"/><lb
  n="0659a02" ed="T"/><lb
- n="0659a03" ed="T"/><div type="xu" level="2"><head>解脫戒經</head><lb
+ n="0659a03" ed="T"/><div type='xu' level='2'><head>解脫戒經</head><lb
  n="0659a04" ed="T"/><lb
  n="0659a05" ed="T"/><byline>僧昉述</byline><lb
- n="0659a06" ed="T"/><ab type="prose">譯經緣起<lb
+ n="0659a06" ed="T"/><ab type='prose'>譯經緣起<lb
  n="0659a07" ed="T"/>戒律者，建定慧之妙幢、殄闇惑之明燈，度<lb
  n="0659a08" ed="T"/>危嶮之蹊徑、開憺怕之梁津。寶殿之功罔<lb
  n="0659a09" ed="T"/>初弗起、踰越重閣非梯靡昇，正法住滅驗<lb
  n="0659a10" ed="T"/>之常典，大聖泯暉邁餘千紀，法澤遐流猶未<lb
  n="0659a11" ed="T"/>周備，令文學之徒異論競興、薄俗之士訕音<lb
- n="0659a12" ed="T"/>滿世。余聽斯談輒𨶳慈範，昧攬玄言乃囑大<lb
+ n="0659a12" ed="T"/>滿世。余聽斯談輒𨶳慈範，昧攬玄言乃矚大<lb
  n="0659a13" ed="T"/>集，聖所嗟歎言迦葉毘，妙觀我人善摧惱結、<lb
  n="0659a14" ed="T"/>閑邪辯正極聖冲典。每尋斯文慨五數闕，敢<lb
  n="0659a15" ed="T"/>以追訪獲斯戒本，雖未廣具，敬以洗心，剪<lb
@@ -62,16 +62,16 @@
  n="0659a20" ed="T"/><lb
  n="0659a21" ed="T"/><lb
  n="0659a22" ed="T"/>
-<ab type="juan" subtype="open">解脫戒經</ab><lb
+<ab type='juan' subtype='open'>解脫戒經</ab><lb
  n="0659a23" ed="T"/><lb
  n="0659a24" ed="T"/><byline>元魏婆羅門瞿曇般若流支譯</byline><lb
- n="0659a25" ed="T"/><div type="jing" level="2"><ab type="verse">
+ n="0659a25" ed="T"/><div type='jing' level='2'><ab type='verse'>
 是解脫戒經，　　億劫難得聞，　　<lb
  n="0659a26" ed="T"/>攝受正修行，　　斯事倍復難。　　<lb
  n="0659a27" ed="T"/>有佛興世樂，　　興世說法樂，　　<lb
  n="0659a28" ed="T"/>眾僧和合樂，　　和合持戒樂。　　
 </ab><lb
- n="0659a29" ed="T"/><ab type="prose">「諸大德！時分一月過三月在，老死欲至，佛法<pb n="0659b" ed="T" id="T24.1460.0659b"/><lb
+ n="0659a29" ed="T"/><ab type='prose'>「諸大德！時分一月過三月在，老死欲至，佛法<pb n="0659b" ed="T" id="T24.1460.0659b"/><lb
  n="0659b01" ed="T"/>漸滅，當一心精進，莫行放逸。所以者何？如來<lb
  n="0659b02" ed="T"/>勤精進故，得阿耨多羅三藐三菩提，及餘<lb
  n="0659b03" ed="T"/>善法菩提分法。眾僧和合坐。未受具戒者<lb
@@ -79,7 +79,7 @@
  n="0659b05" ed="T"/>「眾僧和合先作何事？不來諸比丘說欲清淨。<lb
  n="0659b06" ed="T"/>比丘尼遣誰來受教？」<lb
  n="0659b07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「毘婆尸如來，　　六十八百千，　　<lb
  n="0659b08" ed="T"/>阿羅漢眾中，　　說此解脫戒：　　<lb
  n="0659b09" ed="T"/>忍辱第一義，　　佛說涅槃最，　　<lb
@@ -113,7 +113,7 @@
  n="0659c08" ed="T"/>僧眾甚廣大，　　說法亦無量，　　<lb
  n="0659c09" ed="T"/>名聞大供養，　　說此解脫戒。」　　
 </ab><lb
- n="0659c10" ed="T"/><ab type="prose">「大德僧聽！僧今十五日布薩說解脫戒。若僧<lb
+ n="0659c10" ed="T"/><ab type='prose'>「大德僧聽！僧今十五日布薩說解脫戒。若僧<lb
  n="0659c11" ed="T"/>到時僧忍聽，僧作布薩說解脫戒。白如是。」<lb
  n="0659c12" ed="T"/>「諸大德！今說解脫戒，眾集默然聽，善思念之。<lb
  n="0659c13" ed="T"/>若有犯者當發露，無犯者默然。默然故，知眾<lb
@@ -132,7 +132,7 @@
  n="0659c26" ed="T"/>羅夷不應共住。「若比丘，若在聚落、若空<lb
  n="0659c27" ed="T"/>靜地，他物、不與，以盜心取。若王、若大臣，若捉、<lb
  n="0659c28" ed="T"/>若害、若縛、若罰財、若驅出國、若與種種苦：『咄！<lb
- n="0659c29" ed="T"/>如是賊、汝無所知、汝癡、汝不與取。』是比丘得<pb n="0660a" ed="T" id="T24.1460.0660a"/><lb
+ n="0659c29" ed="T"/>汝是賊、汝無所知、汝癡、汝不與取。』是比丘得<pb n="0660a" ed="T" id="T24.1460.0660a"/><lb
  n="0660a01" ed="T"/>波羅夷不應共住。「若比丘，若人、若似人，<lb
  n="0660a02" ed="T"/>故自手斷其命，若自持刀、或求持刀，教死讚<lb
  n="0660a03" ed="T"/>死，如是說：『咄男子！用此不善惡活為？死勝<lb
@@ -238,7 +238,7 @@
  n="0661a16" ed="T"/>說欲事。有信優婆夷，三法中一一法說，若<lb
  n="0661a17" ed="T"/>波羅夷、若僧伽婆尸沙、若波逸提。是坐處<lb
  n="0661a18" ed="T"/>比丘自言：『我犯是罪。』於三法中應一一治，<lb
- n="0661a19" ed="T"/>若婆羅夷、若僧伽婆尸沙、若波夜提。如有<lb
+ n="0661a19" ed="T"/>若波羅夷、若僧伽婆尸沙、若波夜提。如有<lb
  n="0661a20" ed="T"/>信優婆夷所說，應如法治是比丘。是名不定<lb
  n="0661a21" ed="T"/>法。「若比丘，共一女人不覆處坐。有信優<lb
  n="0661a22" ed="T"/>婆夷，二法中一一法說，若僧伽婆尸沙、若<lb
@@ -523,7 +523,7 @@
  n="0664b11" ed="T"/>當學。「不偃臥，應當學。「觀床而坐，應<lb
  n="0664b12" ed="T"/>當學。「不縱身重坐，應當學。「不荷髀<lb
  n="0664b13" ed="T"/>坐，應當學。「不懸脚坐，應當學。「不<lb
- n="0664b14" ed="T"/>寬脚坐，應當學。「不󰝯脚坐，應當<lb
+ n="0664b14" ed="T"/>寬脚坐，應當學。「不𮠃脚坐，應當<lb
  n="0664b15" ed="T"/>學。「正意受食，應當學。「不溢鉢食，應<lb
  n="0664b16" ed="T"/>當學。「食未至不舒手索，應當學。「不<lb
  n="0664b17" ed="T"/>以飯覆羹更望得，應當學。「不以羹覆飯，<lb
@@ -588,7 +588,7 @@
  n="0665a18" ed="T"/>半月說解脫戒經中來。若更有餘佛法，皆共<lb
  n="0665a19" ed="T"/>隨順，和合歡喜無諍，應當學。」<lb
  n="0665a20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「東北方世界，　　最勝兩足尊，　　<lb
  n="0665a21" ed="T"/>難見難遇值，　　說此解脫戒：　　<lb
  n="0665a22" ed="T"/>財富非久伴，　　愚者所喜樂；　　<lb
@@ -609,5 +609,5 @@
  n="0665b08" ed="T"/>若為眾請者，　　疾辯為宣說。」　　
 </ab></div><lb
  n="0665b09" ed="T"/>
-<ab type="juan" subtype="close">解脫戒經</ab></div>
+<ab type='juan' subtype='close'>解脫戒經</ab></div>
 </body></text></TEI>

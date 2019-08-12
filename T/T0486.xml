@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0486</idno>
                 </bibl>
@@ -39,25 +39,25 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0697a16" ed="T"/><lb
  n="0697a17" ed="T"/><lb
  n="0697a18" ed="T"/><lb
- n="0697a19" ed="T"/><div type="xu" level="2"><head>師子莊嚴王菩薩請問經序</head><lb
+ n="0697a19" ed="T"/><div type='xu' level='2'><head>師子莊嚴王菩薩請問經序</head><lb
  n="0697a20" ed="T"/><lb
  n="0697a21" ed="T"/><byline>終南山豐德寺律師道宣撰</byline><lb
- n="0697a22" ed="T"/><ab type="prose">觀夫法王利見，權巧殊途，或聲光動人、或開<lb
+ n="0697a22" ed="T"/><ab type='prose'>觀夫法王利見，權巧殊途，或聲光動人、或開<lb
  n="0697a23" ed="T"/>智攝物，立儀列相興像，設之機緣，聚砂塗<lb
  n="0697a24" ed="T"/>香表乘，時之淨養。斯德有歸，可略言也。有<lb
- n="0697a25" ed="T"/>師子莊嚴王菩薩者，學周八藏、智越五乘，籍<lb
+ n="0697a25" ed="T"/>師子莊嚴王菩薩者，學周八藏、智越五乘，藉<lb
  n="0697a26" ed="T"/>勝報而開教端，寄善權而行圖範。故使方壇<lb
  n="0697a27" ed="T"/>外啟、圓場內羅，列八座而延八聖，陳四報而<lb
  n="0697a28" ed="T"/>成四德。空有兩業自此脩明，大小諸乘因茲<lb
  n="0697a29" ed="T"/>增長，可謂總攝六度之玄略，統陳願行之明<pb n="0697b" ed="T" id="T14.0486.0697b"/><lb
  n="0697b01" ed="T"/>規。其道易而可修，其儀約而難隱。智有通塞，<lb
  n="0697b02" ed="T"/>道涉窊隆。時運所歸，近聞東夏。逮龍朔三年<lb
- n="0697b03" ed="T"/>冬十月，有天竺三藏厥號那提，挾道間萌來<lb
+ n="0697b03" ed="T"/>冬十月，有天竺三藏厥號那提，挾道開萌來<lb
  n="0697b04" ed="T"/>遊天府。皇上重法，降禮真人，厚供駢羅，祈<lb
  n="0697b05" ed="T"/>誠甘露。南海諸蕃，遠陳貢職，備述神藥，惟提<lb
  n="0697b06" ed="T"/>能致。具表上聞，霈然下遣，將事道途，出斯<lb
@@ -66,10 +66,10 @@
  n="0697b09" ed="T"/><lb
  n="0697b10" ed="T"/><lb
  n="0697b11" ed="T"/>
-<ab type="juan" subtype="open">師子莊嚴王菩薩請問經</ab><lb
+<ab type='juan' subtype='open'>師子莊嚴王菩薩請問經</ab><lb
  n="0697b12" ed="T"/><lb
  n="0697b13" ed="T"/><byline>大唐中印度三藏那提譯</byline><lb
- n="0697b14" ed="T"/><div type="jing" level="2"><ab type="prose">如是我聞：一時佛在王舍城耆闍崛山中，與<lb
+ n="0697b14" ed="T"/><div type='jing' level='2'><ab type='prose'>如是我聞：一時佛在王舍城耆闍崛山中，與<lb
  n="0697b15" ed="T"/>大比丘眾千二百五十人俱，菩薩摩訶薩五<lb
  n="0697b16" ed="T"/>百人，天、龍、夜叉、乾闥婆、阿修羅、迦樓羅、緊那<lb
  n="0697b17" ed="T"/>羅、摩睺羅伽、人非人等，無量八部前後圍遶<lb
@@ -161,5 +161,5 @@
  n="0698b16" ed="T"/>薩，及諸天、龍、夜叉、乾闥婆、阿修羅、迦樓羅、緊<lb
  n="0698b17" ed="T"/>那羅、摩睺羅伽、人非人等，皆大歡喜，信受奉行。</ab></div><lb
  n="0698b18" ed="T"/>
-<ab type="juan" subtype="close">師子莊嚴王菩薩請問經</ab></div>
+<ab type='juan' subtype='close'>師子莊嚴王菩薩請問經</ab></div>
 </body></text></TEI>

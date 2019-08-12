@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0460</idno>
                 </bibl>
@@ -39,17 +39,17 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0448a22" ed="T"/><lb
  n="0448a23" ed="T"/><lb
  n="0448a24" ed="T"/><lb
  n="0448a25" ed="T"/>
-<ab type="juan" subtype="open">佛說文殊師利淨律經</ab><lb
+<ab type='juan' subtype='open'>佛說文殊師利淨律經</ab><lb
  n="0448a26" ed="T"/><lb
  n="0448a27" ed="T"/><byline>西晉月氏國三藏竺法護譯</byline><lb
- n="0448a28" ed="T"/><div type="pin" level="2"><head>真諦義品第一</head><lb
- n="0448a29" ed="T"/><ab type="prose">聞如是：一時，佛遊羅閱祇耆闍崛山中，與大<pb n="0448b" ed="T" id="T14.0460.0448b"/><lb
+ n="0448a28" ed="T"/><div type='pin' level='2'><head>真諦義品第一</head><lb
+ n="0448a29" ed="T"/><ab type='prose'>聞如是：一時，佛遊羅閱祇耆闍崛山中，與大<pb n="0448b" ed="T" id="T14.0460.0448b"/><lb
  n="0448b01" ed="T"/>比丘眾俱，比丘千二百五十，菩薩三萬二千。<lb
  n="0448b02" ed="T"/>彼時，世尊與無央數百千之眾眷屬圍繞而為<lb
  n="0448b03" ed="T"/>說經。時有天子，名曰寂順律音，在於會坐，即<lb
@@ -127,8 +127,8 @@
  n="0449a17" ed="T"/>義時，五百比丘漏盡意解，無數千人遠塵離<lb
  n="0449a18" ed="T"/>垢，於諸法法眼淨，萬二千菩薩逮得無所從<lb
  n="0449a19" ed="T"/>生法忍。</ab></div><lb
- n="0449a20" ed="T"/><div type="pin" level="2"><head>聖諦品第二</head><lb
- n="0449a21" ed="T"/><ab type="prose">寂順律音問文殊師利：「其真諦義，甚為難解。」<lb
+ n="0449a20" ed="T"/><div type='pin' level='2'><head>聖諦品第二</head><lb
+ n="0449a21" ed="T"/><ab type='prose'>寂順律音問文殊師利：「其真諦義，甚為難解。」<lb
  n="0449a22" ed="T"/>文殊答曰：「如是，天子！其懈怠者，於真諦義甚<lb
  n="0449a23" ed="T"/>為難解。」又問：「何謂比丘精進？」答曰：「無所斷滅<lb
  n="0449a24" ed="T"/>亦無所除，而不修行亦不取證，是為比丘奉<lb
@@ -232,8 +232,8 @@
  n="0450b06" ed="T"/>以懷聲聞之心生彼佛土；汝等當發大道之<lb
  n="0450b07" ed="T"/>心乃致彼土，應時受教，皆發無上正真道意。」<lb
  n="0450b08" ed="T"/>佛悉記說：「當生彼土。」</ab></div><lb
- n="0450b09" ed="T"/><div type="pin" level="2"><head>解律品第三</head><lb
- n="0450b10" ed="T"/><ab type="prose">寂順律音天子復問文殊：「何謂聲聞律？何謂<lb
+ n="0450b09" ed="T"/><div type='pin' level='2'><head>解律品第三</head><lb
+ n="0450b10" ed="T"/><ab type='prose'>寂順律音天子復問文殊：「何謂聲聞律？何謂<lb
  n="0450b11" ed="T"/>菩薩律？」答曰：「受教畏三界難厭患󰍄者，聲<lb
  n="0450b12" ed="T"/>聞之律；護於無量生死周旋，勸安一切人民<lb
  n="0450b13" ed="T"/>蚑行喘息蠕動之類，開導三界決其疑網眾<lb
@@ -291,8 +291,8 @@
  n="0451a07" ed="T"/>「眾念思想計有吾我，處于諸見不棄顛倒，不<lb
  n="0451a08" ed="T"/>捨不明愚癡之本，行于二事興發塵勞；分別<lb
  n="0451a09" ed="T"/>此者，是謂曉了貪欲也。彼若修行無貪思<lb
- n="0451a10" ed="T"/>想，淨導隨順不計吾我，不住諸見捐捨顛倒<lb
- n="0451a11" ed="T"/>棄，捨無明愚癡之冥，不為二行塵勞不興亦<lb
+ n="0451a10" ed="T"/>想，淨導隨順不計吾我，不住諸見捐捨顛倒，<lb
+ n="0451a11" ed="T"/>棄捨無明愚癡之冥，不為二行塵勞不興亦<lb
  n="0451a12" ed="T"/>無諍亂，無諍亂已究竟永安，是謂開化塵勞<lb
  n="0451a13" ed="T"/>之律。「譬如，天子！其有術師，明識能知毒虺<lb
  n="0451a14" ed="T"/>種類，便以呪術除去毒害；學者若斯，設能<lb
@@ -329,8 +329,8 @@
  n="0451b16" ed="T"/>無所著故，諸法無來從無住故，諸法無住<lb
  n="0451b17" ed="T"/>無所受故，諸法無受無所著故。是故，天子！究<lb
  n="0451b18" ed="T"/>竟蒙化，成為法律亦無所化。」</ab></div><lb
- n="0451b19" ed="T"/><div type="pin" level="2"><head>道門品第四</head><lb
- n="0451b20" ed="T"/><ab type="prose">天子又問：「一切諸法，以何為門之元首也？」答<lb
+ n="0451b19" ed="T"/><div type='pin' level='2'><head>道門品第四</head><lb
+ n="0451b20" ed="T"/><ab type='prose'>天子又問：「一切諸法，以何為門之元首也？」答<lb
  n="0451b21" ed="T"/>曰：「無順之念，以為門首；周旋生死順義之念，<lb
  n="0451b22" ed="T"/>為泥洹矣。不行精進為罣礙門，精進之行<lb
  n="0451b23" ed="T"/>為道品門；狐疑之行為陰蓋門，勤修解脫無<lb
@@ -408,5 +408,5 @@
  n="0452b08" ed="T"/>使合者不可復別，水及泥土尚不俱合，況<lb
  n="0452b09" ed="T"/>于心本清淨，無形與形，合乎？」</ab></div><lb
  n="0452b10" ed="T"/>
-<ab type="juan" subtype="close">佛說文殊師利淨律經</ab></div>
+<ab type='juan' subtype='close'>佛說文殊師利淨律經</ab></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0063</idno>
                 </bibl>
@@ -41,13 +41,13 @@
     <text>
         <body><lb
  n="0861b07" ed="T"/><lb
- n="0861b08" ed="T"/><div type="jing" level="1"><lb
+ n="0861b08" ed="T"/><div type='jing' level='1'><lb
  n="0861b10" ed="T"/>
-<ab type="juan" subtype="open">佛說解夏經</ab><lb
+<ab type='juan' subtype='open'>佛說解夏經</ab><lb
  n="0861b11" ed="T"/><lb
  n="0861b12" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0861b13" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
- n="0861b14" ed="T"/><ab type="prose">如是我聞：一時，佛在王舍城迦蘭陀竹林精<lb
+ n="0861b14" ed="T"/><ab type='prose'>如是我聞：一時，佛在王舍城迦蘭陀竹林精<lb
  n="0861b15" ed="T"/>舍，與五百苾芻眾俱，皆是阿羅漢，諸漏已盡<lb
  n="0861b16" ed="T"/>所作已辦，除諸重擔逮得己利，盡諸有結心<lb
  n="0861b17" ed="T"/>善解脫。唯一苾芻現居學位，世尊已為授記，<lb
@@ -103,7 +103,7 @@
  n="0862a09" ed="T"/>時尊者嚩儗舍，作是念已，從座而起，偏袒右<lb
  n="0862a10" ed="T"/>肩右膝著地，合掌恭肅，說伽陀曰：<lb
  n="0862a11" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「解夏十五日，　　清淨行律儀，　　<lb
  n="0862a12" ed="T"/>五百苾芻眾，　　悉斷煩惱縛。　　<lb
  n="0862a13" ed="T"/>皆盡諸漏法，　　而證聖果位，　　<lb
@@ -121,9 +121,9 @@
  n="0862a25" ed="T"/>佛子皆如是，　　證滅不復生，　　<lb
  n="0862a26" ed="T"/>我今禮法王，　　無上大日尊。」　　
 </ab><lb
- n="0862a27" ed="T"/><ab type="prose">是時嚩儗舍苾芻說此伽陀已，復還本座。<lb
+ n="0862a27" ed="T"/><ab type='prose'>是時嚩儗舍苾芻說此伽陀已，復還本座。<lb
  n="0862a28" ed="T"/>爾時尊者舍利弗與諸苾芻，聞佛宣說解夏<lb
  n="0862a29" ed="T"/>之法，心生快利，踊躍歡喜，信受奉行。<pb n="0862b" ed="T" id="T01.0063.0862b"/><lb
  n="0862b01" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說解夏經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說解夏經</ab></div>
 </body></text></TEI>

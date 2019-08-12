@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1313</idno>
                 </bibl>
@@ -42,15 +42,15 @@
         <body><lb
  n="0464b17" ed="T"/><lb
  n="0464b18" ed="T"/><lb
- n="0464b19" ed="T"/><div type="jing" level="1"><lb
+ n="0464b19" ed="T"/><div type='jing' level='1'><lb
  n="0464b20" ed="T"/>
-<ab type="juan" subtype="open">佛說救拔熖口餓鬼陀羅尼經</ab><lb
+<ab type='juan' subtype='open'>佛說救拔熖口餓鬼陀羅尼經</ab><lb
  n="0464b21" ed="T"/><lb
  n="0464b22" ed="T"/><byline>開府儀同三司特進試鴻臚卿肅國<lb
  n="0464b23" ed="T"/>公食邑三千戶賜紫贈司空謚大鑒<lb
  n="0464b24" ed="T"/>正號大廣智大興善寺三藏沙門<lb
  n="0464b25" ed="T"/>不空奉　詔譯</byline><lb
- n="0464b26" ed="T"/><ab type="prose">爾時，世尊在迦毘羅城尼俱律那僧伽藍所，<lb
+ n="0464b26" ed="T"/><ab type='prose'>爾時，世尊在迦毘羅城尼俱律那僧伽藍所，<lb
  n="0464b27" ed="T"/>與諸比丘，并諸菩薩，無數眾會，前後圍遶，而<lb
  n="0464b28" ed="T"/>為說法。爾時，阿難獨居靜處，念所受法。即於<lb
  n="0464b29" ed="T"/>其夜三更已後，見一餓鬼，名曰「焰口」，其形醜<pb n="0464c" ed="T" id="T21.1313.0464c"/><lb
@@ -88,37 +88,37 @@
  n="0465a03" ed="T"/>得生天上。阿難！汝今受持，福德、壽命皆得增<lb
  n="0465a04" ed="T"/>長。」爾時，世尊即為阿難說陀羅尼曰：<lb
  n="0465a05" ed="T"/></ab>
-<ab type="dharani">「那謨　薩嚩　怛他蘖多　嚩盧枳帝　唵<lb
+<ab type='dharani'>「那謨　薩嚩　怛他蘖多　嚩盧枳帝　唵<lb
  n="0465a06" ed="T"/>　參婆囉　參婆囉　吽」<lb
  n="0465a07" ed="T"/></ab>
-<ab type="prose">佛告阿難：「若有善男子、善女人，欲求長壽、福<lb
+<ab type='prose'>佛告阿難：「若有善男子、善女人，欲求長壽、福<lb
  n="0465a08" ed="T"/>德增榮，速能滿足檀波羅蜜，每於晨朝、及一<lb
  n="0465a09" ed="T"/>切時，悉無障礙，取一淨器，盛以淨水，置少飯<lb
  n="0465a10" ed="T"/>󰉓及諸餅食等，以右手加器，誦前陀羅尼<lb
  n="0465a11" ed="T"/>滿七遍，然後稱四如來名號：<lb
  n="0465a12" ed="T"/></ab>
-<ab type="dharani">「曩謨　婆誐嚩帝　鉢囉枳孃部<lb
+<ab type='dharani'>「曩謨　婆誐嚩帝　鉢囉枳孃部<lb
  n="0465a13" ed="T"/>多囉怛曩　怛他孽多也<lb
  n="0465a14" ed="T"/></ab>
-<ab type="prose">「由稱多寶如來名號加持故，能破一切諸鬼<lb
+<ab type='prose'>「由稱多寶如來名號加持故，能破一切諸鬼<lb
  n="0465a15" ed="T"/>多生已來慳悋惡業，即得福德圓滿。<lb
  n="0465a16" ed="T"/></ab>
-<ab type="dharani">「那謨　婆誐嚩帝　素嚕波耶　怛他誐哆<lb
+<ab type='dharani'>「那謨　婆誐嚩帝　素嚕波耶　怛他誐哆<lb
  n="0465a17" ed="T"/>野<lb
  n="0465a18" ed="T"/></ab>
-<ab type="prose">「由稱妙色身如來名號加持故，能破諸鬼醜<lb
+<ab type='prose'>「由稱妙色身如來名號加持故，能破諸鬼醜<lb
  n="0465a19" ed="T"/>陋惡形，即得色相具足。<lb
  n="0465a20" ed="T"/></ab>
-<ab type="dharani">「曩謨　婆誐嚩帝　尾鉢囉誐攞孽多怛<lb
+<ab type='dharani'>「曩謨　婆誐嚩帝　尾鉢囉誐攞孽多怛<lb
  n="0465a21" ed="T"/>囉也　怛他孽多也<lb
  n="0465a22" ed="T"/></ab>
-<ab type="prose">「由稱廣博身如來名號加持故，能令諸鬼咽<lb
+<ab type='prose'>「由稱廣博身如來名號加持故，能令諸鬼咽<lb
  n="0465a23" ed="T"/>喉寬大，所施之食，恣意充飽。<lb
  n="0465a24" ed="T"/></ab>
-<ab type="dharani">「曩謨　婆誐嚩帝　阿婆孕迦囉也　怛<lb
+<ab type='dharani'>「曩謨　婆誐嚩帝　阿婆孕迦囉也　怛<lb
  n="0465a25" ed="T"/>他蘖多也<lb
  n="0465a26" ed="T"/></ab>
-<ab type="prose">「由稱離怖畏如來名號加持故，能令諸鬼一<lb
+<ab type='prose'>「由稱離怖畏如來名號加持故，能令諸鬼一<lb
  n="0465a27" ed="T"/>切恐怖悉皆除滅，離餓鬼趣。」佛告阿難：「若族<lb
  n="0465a28" ed="T"/>姓善男子等，既稱四如來名號加持已，彈指<lb
  n="0465a29" ed="T"/>七遍，取於食器，於淨地上，展臂瀉之。作此施<pb n="0465b" ed="T" id="T21.1313.0465b"/><lb
@@ -151,5 +151,5 @@
  n="0465b27" ed="T"/>尼經』，以是名字，汝當奉持。」一切大眾及阿難<lb
  n="0465b28" ed="T"/>等，聞佛說已，一心信受，歡喜奉行。<lb
  n="0465b29" ed="T"/>
-</ab><ab type="juan" subtype="close">救拔焰口餓鬼陀羅尼經</ab></div>
+</ab><ab type='juan' subtype='close'>救拔焰口餓鬼陀羅尼經</ab></div>
 </body></text></TEI>

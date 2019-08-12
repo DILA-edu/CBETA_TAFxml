@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T02</biblScope>
                     <idno type="Taisho">T02n0128a</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0835c13" ed="T"/><lb
  n="0835c14" ed="T"/><lb
- n="0835c15" ed="T"/><div type="jing" level="1"><lb
+ n="0835c15" ed="T"/><div type='jing' level='1'><lb
  n="0835c16" ed="T"/>
-<ab type="juan" subtype="open">須摩提女經</ab><lb
+<ab type='juan' subtype='open'>須摩提女經</ab><lb
  n="0835c17" ed="T"/><lb
  n="0835c18" ed="T"/><byline>吳月氏優婆塞支謙譯</byline><lb
- n="0835c19" ed="T"/><ab type="prose">聞如是：一時，佛在舍衛國王舍城中。有一長<lb
+ n="0835c19" ed="T"/><ab type='prose'>聞如是：一時，佛在舍衛國王舍城中。有一長<lb
  n="0835c20" ed="T"/>者，名阿那邠池，有一女名曰須摩提，此女久<lb
  n="0835c21" ed="T"/>殖妙因，天殊奇特，受佛高行靜心玄室。爾時，<lb
  n="0835c22" ed="T"/>滿富城中有滿財長者，遠涉諸國募求精婇，<lb
@@ -79,7 +79,7 @@
  n="0836a19" ed="T"/>於中，引車萬乘，龍馬俠從，憧麾絙雲，聲鍾地<lb
  n="0836a20" ed="T"/>震，婇女扶輪僮奴侍隔。<lb
  n="0836a21" ed="T"/>爾時，阿那邠池，先與女造十二種寶車，先以<lb
- n="0836a22" ed="T"/>赤蓮華󰪟內、摩尼覆外，黃金重布，白銀羅絡，<lb
+ n="0836a22" ed="T"/>赤蓮華𮆕內、摩尼覆外，黃金重布，白銀羅絡，<lb
  n="0836a23" ed="T"/>琥珀揚班，珊瑚、琉璃、車𤦲，合雜馬瑙交間水<lb
  n="0836a24" ed="T"/>精，鱗暉琉璃采飾，復以紫磨徘徊懸灑疊起，<lb
  n="0836a25" ed="T"/>於是明明相發，光光相照，遠瞻者不覺東影<lb
@@ -170,11 +170,11 @@
  n="0837a23" ed="T"/>我師，此是如來弟子上座大迦葉。」爾時，須摩<lb
  n="0837a24" ed="T"/>提女即為長者，而說偈言：<lb
  n="0837a25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「我師今當來，　　光明非此比，　　<lb
  n="0837a26" ed="T"/>長者一心念，　　莫懷餘異想。」　　
 </ab><lb
- n="0837a27" ed="T"/><ab type="prose">爾時，如來知眾生心至時運將會，身披僧伽<lb
+ n="0837a27" ed="T"/><ab type='prose'>爾時，如來知眾生心至時運將會，身披僧伽<lb
  n="0837a28" ed="T"/>梨，於虛空之中去地七多羅樹，身色紫金艶<lb
  n="0837a29" ed="T"/>光騰赫。阿若車隣在如來左，舍利弗在如來<pb n="0837b" ed="T" id="T02.0128a.0837b"/><lb
  n="0837b01" ed="T"/>右，阿難承佛威神復在如來左，自餘比丘或<lb
@@ -213,5 +213,5 @@
  n="0837c05" ed="T"/>萬四千人是。」比丘僧、比丘尼、優婆塞、優婆夷，<lb
  n="0837c06" ed="T"/>諸天龍王八部等，聞經歡喜，奉行作禮。<lb
  n="0837c07" ed="T"/>
-</ab><ab type="juan" subtype="close">須摩提女經</ab></div>
+</ab><ab type='juan' subtype='close'>須摩提女經</ab></div>
 </body></text></TEI>

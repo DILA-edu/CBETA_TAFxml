@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1255a</idno>
                 </bibl>
@@ -43,12 +43,12 @@
  n="0259b10" ed="T"/><lb
  n="0259b11" ed="T"/><lb
  n="0259b12" ed="T"/><lb
- n="0259b13" ed="T"/><div type="jing" level="1"><lb
+ n="0259b13" ed="T"/><div type='jing' level='1'><lb
  n="0259b14" ed="T"/>
-<ab type="juan" subtype="open">佛說摩利支天菩薩陀羅尼經</ab><lb
+<ab type='juan' subtype='open'>佛說摩利支天菩薩陀羅尼經</ab><lb
  n="0259b15" ed="T"/><lb
  n="0259b16" ed="T"/><byline>大興善寺三藏沙門不空奉　詔譯</byline><lb
- n="0259b17" ed="T"/><ab type="prose">如是我聞。一時佛在舍衛國祇樹給孤獨園。<lb
+ n="0259b17" ed="T"/><ab type='prose'>如是我聞。一時佛在舍衛國祇樹給孤獨園。<lb
  n="0259b18" ed="T"/>與大阿羅漢千二百五十人俱。復有無量大<lb
  n="0259b19" ed="T"/>菩薩眾。彌勒菩薩。曼殊室利菩薩。觀世音<lb
  n="0259b20" ed="T"/>菩薩。而為上首。及摩利支等諸天。龍八部前<lb
@@ -76,32 +76,32 @@
  n="0259c13" ed="T"/>切惡。若用結界百由旬內一切諸惡無敢入<lb
  n="0259c14" ed="T"/>者。爾時世尊即說呪曰。<lb
  n="0259c15" ed="T"/></ab>
-<ab type="dharani">南無佛陀耶南無達摩耶南無僧伽耶<lb
+<ab type='dharani'>南無佛陀耶南無達摩耶南無僧伽耶<lb
  n="0259c16" ed="T"/>怛姪他遏囉迦末斯摩囉迦末斯蘇途<lb
  n="0259c17" ed="T"/>末斯支鉢囉末斯摩訶支鉢囉末斯摩<lb
  n="0259c18" ed="T"/>利支夜末斯安怛陀那夜末斯那謨粹<lb
  n="0259c19" ed="T"/>都底莎訶<lb
  n="0259c20" ed="T"/></ab>
-<ab type="prose">王難中護我。賊難中護我。行路中護我。失於<lb
+<ab type='prose'>王難中護我。賊難中護我。行路中護我。失於<lb
  n="0259c21" ed="T"/>道路曠野中護我。晝日護我。夜中護我。水難<lb
  n="0259c22" ed="T"/>中護我。火難中護我。羅剎難中護我。茶枳儞<lb
  n="0259c23" ed="T"/>鬼難中護我。毒藥難中護我。佛實語護我。法<lb
  n="0259c24" ed="T"/>實語護我。僧實語護我。天實語護我。仙人實<lb
  n="0259c25" ed="T"/>語護我。<lb
  n="0259c26" ed="T"/></ab>
-<ab type="dharani">怛姪他阿羅拘隷阿囉拘隷雞栗底<lb
+<ab type='dharani'>怛姪他阿羅拘隷阿囉拘隷雞栗底<lb
  n="0259c27" ed="T"/>薩婆迦囉醯蔽薩蒲跛突瑟䶩蔽<lb
  n="0259c28" ed="T"/>薩婆伊都波達羅鞞蔽囉叉囉叉莎呵<pb n="0260a" id="T21.1255a.0260a" ed="T"/><lb
  n="0260a01" ed="T"/></ab>
-<ab type="prose">奉請摩利支天呪。一名摩利支天身呪。呪<lb
+<ab type='prose'>奉請摩利支天呪。一名摩利支天身呪。呪<lb
  n="0260a02" ed="T"/>曰。<lb
  n="0260a03" ed="T"/></ab>
-<ab type="dharani">娜謨囉跢那跢囉夜耶摩唎支唎馱<lb
+<ab type='dharani'>娜謨囉跢那跢囉夜耶摩唎支唎馱<lb
  n="0260a04" ed="T"/>耶摩婆帝移沙彌跢姪他婆<lb
  n="0260a05" ed="T"/>囉梨婆馱梨婆囉呵目溪薩婆徒瑟<lb
  n="0260a06" ed="T"/>誓槃馱槃馱娑婆呵<lb
  n="0260a07" ed="T"/></ab>
-<ab type="prose">佛告諸比丘。若有人識彼摩利支天菩薩者。<lb
+<ab type='prose'>佛告諸比丘。若有人識彼摩利支天菩薩者。<lb
  n="0260a08" ed="T"/>除一切障難王難賊難。猛獸毒蟲之難。水火<lb
  n="0260a09" ed="T"/>等難。若人欲行此法者。一切法中此法最勝。<lb
  n="0260a10" ed="T"/>持此呪者面向百踰闍那。一切鬼神惡人無<lb
@@ -118,5 +118,5 @@
  n="0260a21" ed="T"/>悉皆退散無敢當者。是諸四眾天龍八部禮<lb
  n="0260a22" ed="T"/>佛而退。歡喜奉行。<lb
  n="0260a23" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說摩利支天菩薩陀羅尼經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說摩利支天菩薩陀羅尼經</ab></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T08</biblScope>
                     <idno type="Taisho">T08n0260</idno>
                 </bibl>
@@ -43,13 +43,13 @@
  n="0854c01" ed="T"/><lb
  n="0854c02" ed="T"/><lb
  n="0854c03" ed="T"/><lb
- n="0854c04" ed="T"/><div type="jing" level="1">
-<ab type="juan" subtype="open">佛說開覺自性般若波羅蜜多<lb
+ n="0854c04" ed="T"/><div type='jing' level='1'>
+<ab type='juan' subtype='open'>佛說開覺自性般若波羅蜜多<lb
  n="0854c05" ed="T"/>經卷第一</ab><lb
  n="0854c06" ed="T"/><lb
  n="0854c07" ed="T"/><byline>譯經三藏朝散大夫試鴻臚卿光梵<lb
  n="0854c08" ed="T"/>大師賜紫沙門臣惟淨等奉　詔譯</byline><lb
- n="0854c09" ed="T"/><ab type="prose">如是我聞：一時，世尊在王舍城鷲峯山中，與<lb
+ n="0854c09" ed="T"/><ab type='prose'>如是我聞：一時，世尊在王舍城鷲峯山中，與<lb
  n="0854c10" ed="T"/>大苾芻眾并菩薩摩訶薩眾俱。是時，佛告尊<lb
  n="0854c11" ed="T"/>者須菩提言：「須菩提！色，無性、假性、實性；受、想、<lb
  n="0854c12" ed="T"/>行、識，無性、假性、實性。須菩提！如是，乃至眼、色、<lb
@@ -64,11 +64,11 @@
  n="0854c21" ed="T"/>薩速疾證得阿耨多羅三藐三菩提果。」<lb
  n="0854c22" ed="T"/>爾時，世尊重說頌曰：<lb
  n="0854c23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「若解無相法，　　諸苦自止息，　　<lb
  n="0854c24" ed="T"/>眾相皆寂靜，　　是菩薩所行。　　
 </ab><lb
- n="0854c25" ed="T"/><ab type="prose">「復次，須菩提！於諸色中，闇之與明平等依止。<lb
+ n="0854c25" ed="T"/><ab type='prose'>「復次，須菩提！於諸色中，闇之與明平等依止。<lb
  n="0854c26" ed="T"/>菩薩若能如實了知，解入此者，諸法亦然。是<lb
  n="0854c27" ed="T"/>菩薩速疾證得阿耨多羅三藐三菩提果。<lb
  n="0854c28" ed="T"/>「須菩提！受、想、行、識亦復如是。於諸識中，闇之<lb
@@ -77,11 +77,11 @@
  n="0855a02" ed="T"/>藐三菩提果。」<lb
  n="0855a03" ed="T"/>爾時，世尊重說頌曰：<lb
  n="0855a04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「若法闇與明，　　平等性如是，　　<lb
  n="0855a05" ed="T"/>依止及解入，　　知已得菩提。　　
 </ab><lb
- n="0855a06" ed="T"/><ab type="prose">「復次，須菩提！若菩薩摩訶薩於諸色須菩提，<lb
+ n="0855a06" ed="T"/><ab type='prose'>「復次，須菩提！若菩薩摩訶薩於諸色須菩提，<lb
  n="0855a07" ed="T"/>受、想、行、識於三性轉，若有智者如實了知，即<lb
  n="0855a08" ed="T"/>於識中不生取著亦不現轉，其心開明。由彼<lb
  n="0855a09" ed="T"/>於識不生取著、心開明已，即於大乘法中而<lb
@@ -212,16 +212,16 @@
  n="0856b18" ed="T"/>相而有依止，是故於彼聲聞、緣覺乘中不能<lb
  n="0856b19" ed="T"/>出離，何況大乘。<lb
  n="0856b20" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說開覺自性般若波羅蜜多經卷第一</ab><lb
+</ab><ab type='juan' subtype='close'>佛說開覺自性般若波羅蜜多經卷第一</ab><lb
  n="0856b21" ed="T"/><lb
  n="0856b22" ed="T"/><lb
  n="0856b23" ed="T"/>
-<ab type="juan" subtype="open">佛說開覺自性般若波羅蜜多<lb
+<ab type='juan' subtype='open'>佛說開覺自性般若波羅蜜多<lb
  n="0856b24" ed="T"/>經卷第二</ab><lb
  n="0856b25" ed="T"/><lb
  n="0856b26" ed="T"/><byline>譯經三藏朝散大夫試鴻臚卿光梵<lb
  n="0856b27" ed="T"/>大師賜紫沙門臣惟淨等奉　詔譯</byline><lb
- n="0856b28" ed="T"/><ab type="prose">「復次，須菩提！若人於色中所有不實分別分<lb
+ n="0856b28" ed="T"/><ab type='prose'>「復次，須菩提！若人於色中所有不實分別分<lb
  n="0856b29" ed="T"/>量及疑動分量，而能如實平等觀者，即於色<pb n="0856c" id="T08.0260.0856c" ed="T"/><lb
  n="0856c01" ed="T"/>中色而無所得；若於色中色無所得時，即於<lb
  n="0856c02" ed="T"/>色中色見無所得；若於色中色見無所得，即<lb
@@ -328,11 +328,11 @@
  n="0857c16" ed="T"/>提果。」<lb
  n="0857c17" ed="T"/>爾時，世尊重說頌曰：<lb
  n="0857c18" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「推求無異法，　　物境無照心，　　<lb
  n="0857c19" ed="T"/>智了於法性，　　此即得菩提。　　
 </ab><lb
- n="0857c20" ed="T"/><ab type="prose">「復次，須菩提！菩薩摩訶薩若於色中善解無<lb
+ n="0857c20" ed="T"/><ab type='prose'>「復次，須菩提！菩薩摩訶薩若於色中善解無<lb
  n="0857c21" ed="T"/>性法者，即於色中色修作具足，而於色界亦<lb
  n="0857c22" ed="T"/>無所動，是菩薩速疾證得阿耨多羅三藐三<lb
  n="0857c23" ed="T"/>菩提果。<lb
@@ -342,11 +342,11 @@
  n="0857c27" ed="T"/>耨多羅三藐三菩提果。」<lb
  n="0857c28" ed="T"/>爾時，世尊重說頌曰：<lb
  n="0857c29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「智善解無性，　　修作悉具足，　　<pb n="0858a" id="T08.0260.0858a" ed="T"/><lb
  n="0858a01" ed="T"/>亦不動法界，　　即得一切智。　　
 </ab><lb
- n="0858a02" ed="T"/><ab type="prose">「復次，須菩提！色中無義、無句義、大義，菩薩摩<lb
+ n="0858a02" ed="T"/><ab type='prose'>「復次，須菩提！色中無義、無句義、大義，菩薩摩<lb
  n="0858a03" ed="T"/>訶薩若能如實正了知者，是菩薩速疾證得<lb
  n="0858a04" ed="T"/>阿耨多羅三藐三菩提果。<lb
  n="0858a05" ed="T"/>「須菩提！受、想、行、識亦復如是。識中無義、無句<lb
@@ -354,11 +354,11 @@
  n="0858a07" ed="T"/>菩薩速疾證得阿耨多羅三藐三菩提果。」<lb
  n="0858a08" ed="T"/>爾時，世尊重說頌曰：<lb
  n="0858a09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「無義無句義，　　大義亦復然，　　<lb
  n="0858a10" ed="T"/>菩薩善了知，　　速得菩提果。　　
 </ab><lb
- n="0858a11" ed="T"/><ab type="prose">「復次，須菩提！菩薩摩訶薩於諸色中，應當了<lb
+ n="0858a11" ed="T"/><ab type='prose'>「復次，須菩提！菩薩摩訶薩於諸色中，應當了<lb
  n="0858a12" ed="T"/>知五種貪法，知已捨離。何等為五？一、尋求貪，<lb
  n="0858a13" ed="T"/>二、遍尋求貪，三、分別貪，四、貪，五、大貪。<lb
  n="0858a14" ed="T"/>「須菩提！受、想、行、識亦復如是。菩薩摩訶薩於<lb
@@ -447,17 +447,17 @@
  n="0859a10" ed="T"/>諸種類識而悉超越，即能出離，成就阿耨多<lb
  n="0859a11" ed="T"/>羅三藐三菩提果。<lb
  n="0859a12" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說開覺自性般若波羅蜜多經卷第二</ab><lb
+</ab><ab type='juan' subtype='close'>佛說開覺自性般若波羅蜜多經卷第二</ab><lb
  n="0859a13" ed="T"/><lb
  n="0859a14" ed="T"/><lb
  n="0859a15" ed="T"/><lb
  n="0859a16" ed="T"/>
-<ab type="juan" subtype="open">佛說開覺自性般若波羅蜜多<lb
+<ab type='juan' subtype='open'>佛說開覺自性般若波羅蜜多<lb
  n="0859a17" ed="T"/>經卷第三</ab><lb
  n="0859a18" ed="T"/><byline>西天譯經三藏朝散大夫試光祿<lb
  n="0859a19" ed="T"/>卿傳梵大師賜紫沙門臣法護等<lb
  n="0859a20" ed="T"/>奉　詔譯</byline><lb
- n="0859a21" ed="T"/><ab type="prose">「復次，須菩提！菩薩摩訶薩於色法中，應當了<lb
+ n="0859a21" ed="T"/><ab type='prose'>「復次，須菩提！菩薩摩訶薩於色法中，應當了<lb
  n="0859a22" ed="T"/>知五種見法，知已捨離。何等為五？一、自性顛<lb
  n="0859a23" ed="T"/>倒見，二、有見，三、誣謗見，四、見，五、大見。「須菩<lb
  n="0859a24" ed="T"/>提！受、想、行、識亦復如是。菩薩摩訶薩於識法<lb
@@ -675,17 +675,17 @@
  n="0861c04" ed="T"/>清淨世間定所依止慧，三、出世間定所依止<lb
  n="0861c05" ed="T"/>慧，四、慧，五、大慧。<lb
  n="0861c06" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說開覺自性般若波羅蜜多經卷第三</ab><lb
+</ab><ab type='juan' subtype='close'>佛說開覺自性般若波羅蜜多經卷第三</ab><lb
  n="0861c07" ed="T"/><lb
  n="0861c08" ed="T"/><lb
  n="0861c09" ed="T"/>
-<ab type="juan" subtype="open">佛說開覺自性般若波羅蜜多<lb
+<ab type='juan' subtype='open'>佛說開覺自性般若波羅蜜多<lb
  n="0861c10" ed="T"/>經卷第四</ab><lb
  n="0861c11" ed="T"/><lb
  n="0861c12" ed="T"/><byline>西天譯經三藏朝散大夫試光祿卿<lb
  n="0861c13" ed="T"/>傳梵大師賜紫沙門臣法護等<lb
  n="0861c14" ed="T"/>奉　詔譯</byline><lb
- n="0861c15" ed="T"/><ab type="prose">「復次，須菩提！菩薩摩訶薩於色法中，應當了<lb
+ n="0861c15" ed="T"/><ab type='prose'>「復次，須菩提！菩薩摩訶薩於色法中，應當了<lb
  n="0861c16" ed="T"/>知有五種相，親近善知識。何等為五？一、聽受<lb
  n="0861c17" ed="T"/>親近，二、承事作用學法親近，三、修行進向親<lb
  n="0861c18" ed="T"/>近，四、親近，五、大親近。「須菩提！受、想、行、識亦復<lb
@@ -925,5 +925,5 @@
  n="0864b20" ed="T"/>阿修羅、乾闥婆等，聞佛所說，皆大歡喜，信受<lb
  n="0864b21" ed="T"/>奉行。<lb
  n="0864b22" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說開覺自性般若波羅蜜多經卷第四</ab></div>
+</ab><ab type='juan' subtype='close'>佛說開覺自性般若波羅蜜多經卷第四</ab></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0072</idno>
                 </bibl>
@@ -44,12 +44,12 @@
  n="0878c02" ed="T"/><lb
  n="0878c03" ed="T"/><lb
  n="0878c04" ed="T"/><lb
- n="0878c05" ed="T"/><div type="jing" level="1"><lb
+ n="0878c05" ed="T"/><div type='jing' level='1'><lb
  n="0878c07" ed="T"/>
-<ab type="juan" subtype="open">佛說三歸五戒慈心厭離功德經</ab><lb
+<ab type='juan' subtype='open'>佛說三歸五戒慈心厭離功德經</ab><lb
  n="0878c08" ed="T"/><lb
  n="0878c09" ed="T"/><byline>失譯人名今附東晉錄</byline><lb
- n="0878c10" ed="T"/><ab type="prose">聞如是：一時，佛在舍衛國祇樹給孤獨園。佛<lb
+ n="0878c10" ed="T"/><ab type='prose'>聞如是：一時，佛在舍衛國祇樹給孤獨園。佛<lb
  n="0878c11" ed="T"/>為阿那邠邸長者說：「過去久遠，有梵志名毗羅<lb
  n="0878c12" ed="T"/>摩，饒財多寶。若布施時，用八萬四千金鉢盛<lb
  n="0878c13" ed="T"/>滿碎銀，八萬四千銀鉢盛滿碎金，復以八萬<lb
@@ -70,5 +70,5 @@
  n="0878c28" ed="T"/>苦，終成佛道，故其福最勝也。」爾時長者聞佛<pb n="0879a" ed="T" id="T01.0072.0879a"/><lb
  n="0879a01" ed="T"/>所說，歡喜奉行。<lb
  n="0879a02" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說三歸五戒慈心厭離功德經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說三歸五戒慈心厭離功德經</ab></div>
 </body></text></TEI>

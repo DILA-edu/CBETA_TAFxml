@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T04</biblScope>
                     <idno type="Taisho">T04n0205</idno>
                 </bibl>
@@ -39,15 +39,15 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0502a23" ed="T"/><lb
  n="0502a24" ed="T"/><lb
  n="0502a25" ed="T"/>
-<ab type="juan" subtype="open">雜譬喻經卷上</ab><lb
+<ab type='juan' subtype='open'>雜譬喻經卷上</ab><lb
  n="0502a26" ed="T"/><lb
  n="0502a27" ed="T"/><byline>失譯人名附後漢錄</byline><lb
- n="0502a28" ed="T"/><head>（一）</head><ab type="prose">菩薩度人，譬若巧乳母養子，有四事：一<lb
+ n="0502a28" ed="T"/><head>（一）</head><ab type='prose'>菩薩度人，譬若巧乳母養子，有四事：一<lb
  n="0502a29" ed="T"/>者洗浴使淨、二者乳哺令飽、三者臥寐安穩、<pb n="0502b" ed="T" id="T04.0205.0502b"/><lb
  n="0502b01" ed="T"/>四者抱持出入恒使歡喜。以此四事長養其<lb
  n="0502b02" ed="T"/>子令得成就。菩薩亦復如是，有四事育養<lb
@@ -373,14 +373,14 @@
  n="0506a03" ed="T"/>於是母子至佛所，佛為說法，子作沙門得羅<lb
  n="0506a04" ed="T"/>漢道，還為母說法，復得須陀洹道。<lb
  n="0506a05" ed="T"/>
-</ab><ab type="juan" subtype="close">雜譬喻經卷上</ab><lb
+</ab><ab type='juan' subtype='close'>雜譬喻經卷上</ab><lb
  n="0506a06" ed="T"/><lb
  n="0506a07" ed="T"/><lb
  n="0506a08" ed="T"/>
-<ab type="juan" subtype="open">雜譬喻經卷下</ab><lb
+<ab type='juan' subtype='open'>雜譬喻經卷下</ab><lb
  n="0506a09" ed="T"/><lb
  n="0506a10" ed="T"/><byline>失譯人名附後漢錄</byline><lb
- n="0506a11" ed="T"/><head>（一五）</head><ab type="prose">昔罽賓國中有一比丘，廣訓門徒數百餘<lb
+ n="0506a11" ed="T"/><head>（一五）</head><ab type='prose'>昔罽賓國中有一比丘，廣訓門徒數百餘<lb
  n="0506a12" ed="T"/>人，中有得四禪者、得五通者、得須陀洹者、<lb
  n="0506a13" ed="T"/>得阿羅漢者。時有安息人到罽賓國，見比丘<lb
  n="0506a14" ed="T"/>教化如是，有信樂心，為作弟子。未久之間成<lb
@@ -749,5 +749,5 @@
  n="0510a29" ed="T"/>者仰視不見日月者，謂受罪之處窈窈冥冥<pb n="0510b" ed="T" id="T04.0205.0510b"/><lb
  n="0510b01" ed="T"/>無有出期。」佛語諸弟子：「當識是言，莫與此<lb
  n="0510b02" ed="T"/>會，勤行六事可得解脫。」
-</ab><ab type="juan" subtype="close">雜譬喻經卷下</ab></div>
+</ab><ab type='juan' subtype='close'>雜譬喻經卷下</ab></div>
 </body></text></TEI>

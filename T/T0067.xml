@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0067</idno>
                 </bibl>
@@ -40,12 +40,12 @@
     </teiHeader>
     <text>
         <body><pb n="0867a" ed="T" id="T01.0067.0867a"/><lb
- n="0867a01" ed="T"/><div type="jing" level="1"><lb
+ n="0867a01" ed="T"/><div type='jing' level='1'><lb
  n="0867a02" ed="T"/>
-<ab type="juan" subtype="open">弊魔試目連經</ab><lb
+<ab type='juan' subtype='open'>弊魔試目連經</ab><lb
  n="0867a03" ed="T"/><lb
  n="0867a04" ed="T"/><byline>吳月支國居士支謙譯</byline><lb
- n="0867a05" ed="T"/><ab type="prose">聞如是：一時，佛遊於焚祇國妙華山恐懼聚鹿<lb
+ n="0867a05" ed="T"/><ab type='prose'>聞如是：一時，佛遊於焚祇國妙華山恐懼聚鹿<lb
  n="0867a06" ed="T"/>苑中。爾時，賢者大目乾連，夜於冥中經行，<lb
  n="0867a07" ed="T"/>由於平路經行往返。於時，弊魔往詣佛所，<lb
  n="0867a08" ed="T"/>自化徹景入目連腹中。賢者大目乾連：「吾<lb
@@ -154,7 +154,7 @@
  n="0868a24" ed="T"/>二萬餘歲。』爾時，弊魔甚大愁毒。」佛為目連說<lb
  n="0868a25" ed="T"/>此偈言：<lb
  n="0868a26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「瞋魔所受罪，　　其地獄何類？　　<lb
  n="0868a27" ed="T"/>拘樓秦佛時，　　化眾及弟子。　　<lb
  n="0868a28" ed="T"/>所可受患惱，　　一切見考治。　　<lb
@@ -206,7 +206,7 @@
  n="0868c16" ed="T"/>於時魔降伏，　　坐恐比丘故，　　<lb
  n="0868c17" ed="T"/>彼聞此憂愁，　　應時忽不現。　　
 </ab><lb
- n="0868c18" ed="T"/><ab type="prose">佛說如是，諸天龍神莫不歡喜。<lb
+ n="0868c18" ed="T"/><ab type='prose'>佛說如是，諸天龍神莫不歡喜。<lb
  n="0868c19" ed="T"/>
-</ab><ab type="juan" subtype="close">弊魔試目連經</ab></div>
+</ab><ab type='juan' subtype='close'>弊魔試目連經</ab></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T15</biblScope>
                     <idno type="Taisho">T15n0645</idno>
                 </bibl>
@@ -39,13 +39,13 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0699b07" ed="T"/><lb
  n="0699b08" ed="T"/><lb
- n="0699b09" ed="T"/><div type="xu" level="2"><head>不必定入定入印經翻譯之記</head><lb
+ n="0699b09" ed="T"/><div type='xu' level='2'><head>不必定入定入印經翻譯之記</head><lb
  n="0699b10" ed="T"/><lb
- n="0699b11" ed="T"/><ab type="prose">出世智道，亦名為印。此經印義，或然不然，<lb
+ n="0699b11" ed="T"/><ab type='prose'>出世智道，亦名為印。此經印義，或然不然，<lb
  n="0699b12" ed="T"/>私情有指，未許官用。何者私情？今且當向發<lb
  n="0699b13" ed="T"/>心修行，證會名入。所乘強劣，有定不定，聖說<lb
  n="0699b14" ed="T"/>定入、說不定入，言義如是！決定名印。說如是<lb
@@ -58,10 +58,10 @@
  n="0699b21" ed="T"/><lb
  n="0699b22" ed="T"/><lb
  n="0699b23" ed="T"/>
-<ab type="juan" subtype="open">不必定入定入印經</ab><lb
+<ab type='juan' subtype='open'>不必定入定入印經</ab><lb
  n="0699b24" ed="T"/><lb
  n="0699b25" ed="T"/><byline>元魏婆羅門瞿曇般若流支譯</byline><lb
- n="0699b26" ed="T"/><div type="jing" level="2"><ab type="prose">如是我聞：一時婆伽婆住王舍城耆闍崛山<lb
+ n="0699b26" ed="T"/><div type='jing' level='2'><ab type='prose'>如是我聞：一時婆伽婆住王舍城耆闍崛山<lb
  n="0699b27" ed="T"/>中，與大比丘眾一千二百五十人俱，六十億<lb
  n="0699b28" ed="T"/>百千那由他菩薩，其名曰：文殊師利童子、觀<lb
  n="0699b29" ed="T"/>世自在菩薩摩訶薩、得大勢菩薩、藥王菩薩、<pb n="0699c" ed="T" id="T15.0645.0699c"/><lb
@@ -180,7 +180,7 @@
  n="0700c26" ed="T"/>說大乘乃至一偈。文殊師利！此是月日神<lb
  n="0700c27" ed="T"/>通乘行菩薩應知。「文殊師利！譬如有大迦<lb
  n="0700c28" ed="T"/>樓羅王大力少壯，隨意所念須彌山頂能到異<lb
- n="0700c29" ed="T"/>處。如是如是。文殊師則！月日神通乘行<pb n="0701a" ed="T" id="T15.0645.0701a"/><lb
+ n="0700c29" ed="T"/>處。如是如是。文殊師利！月日神通乘行<pb n="0701a" ed="T" id="T15.0645.0701a"/><lb
  n="0701a01" ed="T"/>菩薩，戒聞深心大力少壯，勇健能得，隨心所<lb
  n="0701a02" ed="T"/>念佛佛世界皆能過到，於諸如來眾會輪中<lb
  n="0701a03" ed="T"/>皆能示身。「文殊師利！應云何知聲聞神通乘<lb
@@ -520,7 +520,7 @@
  n="0704c18" ed="T"/>廣增上寬大。如是，如是。文殊師利！極細微<lb
  n="0704c19" ed="T"/>少如來善根，諸餘一切善根中勝，有多光明<lb
  n="0704c20" ed="T"/>其體圓滿，所謂高廣增上寬大。文殊師利！<lb
- n="0704c21" ed="T"/>如是如來、正遍知不可思議功德成就。「文殊<lb
+ n="0704c21" ed="T"/>如是如來、應、正遍知不可思議功德成就。「文殊<lb
  n="0704c22" ed="T"/>師利！若善男子若善女人，能以天衣、天百<lb
  n="0704c23" ed="T"/>味食，於日日中施與十方一切世界微塵等<lb
  n="0704c24" ed="T"/>數，一切諸佛、一切菩薩、一切聲聞，如是乃至<lb
@@ -610,5 +610,5 @@
  n="0705c21" ed="T"/>菩薩、諸大聲聞，諸天及人并阿修羅、乾闥婆<lb
  n="0705c22" ed="T"/>等，聞世尊說，歡喜奉行。</ab></div><lb
  n="0705c23" ed="T"/>
-<ab type="juan" subtype="close">不必定入定入印經</ab></div>
+<ab type='juan' subtype='close'>不必定入定入印經</ab></div>
 </body></text></TEI>

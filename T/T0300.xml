@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T10</biblScope>
                     <idno type="Taisho">T10n0300</idno>
                 </bibl>
@@ -44,11 +44,11 @@
  n="0905a22" ed="T"/><lb
  n="0905a23" ed="T"/><lb
  n="0905a24" ed="T"/>
-<ab type="juan" subtype="open">大方廣佛華嚴經不思議佛境界<lb
+<ab type='juan' subtype='open'>大方廣佛華嚴經不思議佛境界<lb
  n="0905a25" ed="T"/>分一卷</ab><lb
  n="0905a26" ed="T"/><lb
  n="0905a27" ed="T"/><byline>唐于闐三藏提雲般若譯</byline><lb
- n="0905a28" ed="T"/><div type="None" level="1"><ab type="prose">如是我聞：一時薄伽梵，在摩揭陀國，於菩<lb
+ n="0905a28" ed="T"/><div type='' level='1'><ab type='prose'>如是我聞：一時薄伽梵，在摩揭陀國，於菩<lb
  n="0905a29" ed="T"/>提樹下，得阿耨多羅三藐三菩提，成等正覺。<pb n="0905b" ed="T" id="T10.0300.0905b"/><lb
  n="0905b01" ed="T"/>其菩提樹，根深堅固，善植於地，如栴檀柱。<lb
  n="0905b02" ed="T"/>樹身傭長，傍無枝葉，堅實圓滿，名阿濕波<lb
@@ -353,7 +353,7 @@
  n="0908c11" ed="T"/>自鳴，出微妙音，令心悅豫。是時大地，微細搖<lb
  n="0908c12" ed="T"/>動，從光明中，演出無量妙伽陀曰：<lb
  n="0908c13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「若聞此法心清淨，　　獲諸地定陀羅尼，　　<lb
  n="0908c14" ed="T"/>及忍自在妙神通，　　速證無上菩提果。　　<lb
  n="0908c15" ed="T"/>當來能轉於法輪，　　還如過去大仙人，　　<lb
@@ -361,12 +361,12 @@
  n="0908c17" ed="T"/>無量眾生滿三界，　　其中放逸受諸苦，　　<lb
  n="0908c18" ed="T"/>惡見繫縛失正道，　　念念度脫無空過。」　　
 </ab><lb
- n="0908c19" ed="T"/><ab type="prose">普賢菩薩說此法門時，千俱胝天人所有苦<lb
+ n="0908c19" ed="T"/><ab type='prose'>普賢菩薩說此法門時，千俱胝天人所有苦<lb
  n="0908c20" ed="T"/>惱，皆得解脫，於阿耨多羅三藐三菩提，得不<lb
  n="0908c21" ed="T"/>退轉。普賢菩薩摩訶薩於此法門，已善通達，<lb
  n="0908c22" ed="T"/>現前證得。說此經已，時德藏菩薩摩訶薩及<lb
  n="0908c23" ed="T"/>諸菩薩、天、人、健達婆、阿素羅等，一切世間，聞<lb
  n="0908c24" ed="T"/>佛所說，皆大歡喜，信受奉行。</ab></div><lb
  n="0908c25" ed="T"/>
-<ab type="juan" subtype="close">大方廣佛華嚴經不思議佛境界分</ab>
+<ab type='juan' subtype='close'>大方廣佛華嚴經不思議佛境界分</ab>
 </body></text></TEI>

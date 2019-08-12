@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n0967</idno>
                 </bibl>
@@ -39,13 +39,13 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0349a" id="T19.0967.0349a" ed="T"/><lb
  n="0349a01" ed="T"/><lb
  n="0349a02" ed="T"/><lb
- n="0349a03" ed="T"/><div type="xu" level="2"><head>御製佛頂尊勝總持經呪序</head><lb
+ n="0349a03" ed="T"/><div type='xu' level='2'><head>御製佛頂尊勝總持經呪序</head><lb
  n="0349a04" ed="T"/><lb
- n="0349a05" ed="T"/><ab type="prose">朕惟如來演大乘教。開方便門。千經萬法。無<lb
+ n="0349a05" ed="T"/><ab type='prose'>朕惟如來演大乘教。開方便門。千經萬法。無<lb
  n="0349a06" ed="T"/>非為濟度群生。使不淪業報。佛頂尊勝總持<lb
  n="0349a07" ed="T"/>經呪者。一切如來智印。廣大慈悲。甚深希有。<lb
  n="0349a08" ed="T"/>普利昏迷。實巨海之津梁。幽暗之日月。飢渴<lb
@@ -67,9 +67,9 @@
  n="0349a24" ed="T"/>心向善。即此一路。可超出劫塵也。<lb
  n="0349a25" ed="T"/>永樂九年六月　日</ab></div><pb n="0349b" id="T19.0967.0349b" ed="T"/><lb
  n="0349b01" ed="T"/><lb
- n="0349b02" ed="T"/><div type="xu" level="2"><head>佛頂尊勝陀羅尼經序</head><lb
+ n="0349b02" ed="T"/><div type='xu' level='2'><head>佛頂尊勝陀羅尼經序</head><lb
  n="0349b03" ed="T"/><lb
- n="0349b04" ed="T"/><ab type="prose">佛頂尊勝陀羅尼經者。婆羅門僧佛陀波利。<lb
+ n="0349b04" ed="T"/><ab type='prose'>佛頂尊勝陀羅尼經者。婆羅門僧佛陀波利。<lb
  n="0349b05" ed="T"/>儀鳳元年從西國來至此漢土到五臺山次。<lb
  n="0349b06" ed="T"/>遂五體投地向山頂禮曰。如來滅後眾聖潛<lb
  n="0349b07" ed="T"/>靈。唯有大士文殊師利。於此山中汲引蒼生<lb
@@ -118,10 +118,10 @@
  n="0349c21" ed="T"/><lb
  n="0349c22" ed="T"/><lb
  n="0349c23" ed="T"/>
-<ab type="juan" subtype="open">佛頂尊勝陀羅尼經</ab><lb
+<ab type='juan' subtype='open'>佛頂尊勝陀羅尼經</ab><lb
  n="0349c24" ed="T"/><lb
  n="0349c25" ed="T"/><byline>罽賓國沙門佛陀波利奉　詔譯</byline><lb
- n="0349c26" ed="T"/><div type="jing" level="2"><ab type="prose">如是我聞。一時薄伽梵在室羅筏。住誓多林<lb
+ n="0349c26" ed="T"/><div type='jing' level='2'><ab type='prose'>如是我聞。一時薄伽梵在室羅筏。住誓多林<lb
  n="0349c27" ed="T"/>給孤獨園。與大苾芻眾千二百五十人俱。又<lb
  n="0349c28" ed="T"/>與諸大菩薩僧萬二千人俱。爾時三十三天<lb
  n="0349c29" ed="T"/>於善法堂會。有一天子名曰善住。與諸大天<pb n="0350a" id="T19.0967.0350a" ed="T"/><lb
@@ -179,7 +179,7 @@
  n="0350b23" ed="T"/>爾時世尊知帝釋意心之所念。樂聞佛說是<lb
  n="0350b24" ed="T"/>陀羅尼法。即說呪曰。<lb
  n="0350b25" ed="T"/></ab>
-<ab type="dharani">曩謨婆誐嚩帝怛喇路枳也鉢<lb
+<ab type='dharani'>曩謨婆誐嚩帝怛喇路枳也鉢<lb
  n="0350b26" ed="T"/>囉底尾始瑟吒野沒馱野婆誐縛帝<lb
  n="0350b27" ed="T"/>怛儞也他唵尾戌馱野娑麼娑麼<lb
  n="0350b28" ed="T"/>三滿哆嚩婆娑娑頗囉拏蘖<lb
@@ -188,7 +188,7 @@
  n="0350c02" ed="T"/>蜜㗚哆鼻矖罽摩賀曼怛囉<lb
  n="0350c03" ed="T"/>橎乃阿賀囉阿賀囉阿庾散馱囉柅戌馱野戌馱野誐誐曩尾󰡊弟鄔瑟<lb
  n="0350c05" ed="T"/>膩灑尾惹野尾󰡊弟娑賀娑囉<lb
- n="0350c06" ed="T"/>囉濕銘散󰳮儞帝薩嚩怛他蘖哆嚩路迦𩕳殺橎囉弭哆跛哩布囉<lb
+ n="0350c06" ed="T"/>囉濕銘散𭉷儞帝薩嚩怛他蘖哆嚩路迦𩕳殺橎囉弭哆跛哩布囉<lb
  n="0350c08" ed="T"/>抳薩嚩怛他蘖哆紇哩娜野地瑟姹曩地瑟耻跢摩賀<lb
  n="0350c10" ed="T"/>母捺哩嚩日囉迦野僧賀跢曩<lb
  n="0350c11" ed="T"/>尾󰡊弟薩嚩嚩囉拏跛野訥蘖帝<lb
@@ -206,7 +206,7 @@
  n="0350c27" ed="T"/>地瑟姹曩地瑟耻哆摩賀母捺<lb
  n="0350c28" ed="T"/>㘑娑嚩賀<pb n="0351a" id="T19.0967.0351a" ed="T"/><lb
  n="0351a01" ed="T"/></ab>
-<ab type="prose">佛告帝釋言。此呪名淨除一切惡道佛頂尊<lb
+<ab type='prose'>佛告帝釋言。此呪名淨除一切惡道佛頂尊<lb
  n="0351a02" ed="T"/>勝陀羅尼。能除一切罪業等障。能破一切穢<lb
  n="0351a03" ed="T"/>惡道苦。天帝此大陀羅尼。八十八殑伽沙俱<lb
  n="0351a04" ed="T"/>胝百千諸佛同共宣說。隨喜受持。大日如來<lb
@@ -319,9 +319,9 @@
  n="0352a24" ed="T"/>佛頂尊勝陀羅尼。汝當受持。爾時大眾聞法<lb
  n="0352a25" ed="T"/>歡喜信受奉行。</ab></div><lb
  n="0352a26" ed="T"/>
-<ab type="juan" subtype="close">佛頂尊勝陀羅尼經</ab><lb
+<ab type='juan' subtype='close'>佛頂尊勝陀羅尼經</ab><lb
  n="0352a27" ed="T"/><lb
- n="0352a28" ed="T"/><div type="w" level="2"><ab type="dharani">那莫薄伽跋帝　啼隷路迦鉢囉底<lb
+ n="0352a28" ed="T"/><div type='w' level='2'><ab type='dharani'>那莫薄伽跋帝　啼隷路迦鉢囉底<lb
  n="0352a29" ed="T"/>毘失瑟咤㖿勃陀耶　薄伽跋底　怛姪他　唵　毘輸陀耶娑摩三漫多皤婆娑　娑破囉拏揭底<lb
  n="0352b03" ed="T"/>伽訶那娑婆皤輸󰡊地阿鼻詵者<lb
  n="0352b04" ed="T"/>蘇揭多伐折那　阿󰪹㗚多毘曬罽<lb
@@ -329,7 +329,7 @@
  n="0352b06" ed="T"/>羅尼　輸馱耶輸馱耶　伽伽那毘<lb
  n="0352b07" ed="T"/>󰡊提　烏瑟尼沙毘逝耶󰡊提　娑訶<lb
  n="0352b08" ed="T"/>娑囉喝囉濕弭珊珠地帝　薩婆怛他<lb
- n="0352b09" ed="T"/>揭多地瑟咤那頞地瑟恥帝慕󰮟<lb
+ n="0352b09" ed="T"/>揭多地瑟咤那頞地瑟恥帝慕𭉐<lb
  n="0352b10" ed="T"/>󰺚　跋折囉迦耶僧訶多那󰡊<lb
  n="0352b11" ed="T"/>提　薩婆伐羅拏毘󰡊提　鉢羅底<lb
  n="0352b12" ed="T"/>儞伐怛耶阿瑜󰡊提　薩末耶阿地瑟恥<lb
@@ -352,7 +352,7 @@
  n="0352c05" ed="T"/>尼　輸馱耶輸馱耶　伽伽那<lb
  n="0352c06" ed="T"/>毘󰡊提　烏瑟尼沙毘逝耶󰡊提<lb
  n="0352c07" ed="T"/>　娑訶娑囉喝囉濕弭珊珠地帝　薩婆怛<lb
- n="0352c08" ed="T"/>他揭多地瑟咤那頞地瑟恥帝慕󰮟隷　跋折囉迦耶僧訶多那󰡊提<lb
+ n="0352c08" ed="T"/>他揭多地瑟咤那頞地瑟恥帝慕𭉐隷　跋折囉迦耶僧訶多那󰡊提<lb
  n="0352c10" ed="T"/>　薩婆伐羅拏毘󰡊提　鉢羅底儞<lb
  n="0352c11" ed="T"/>伐怛耶阿瑜󰡊提　薩末那阿地瑟恥帝<lb
  n="0352c12" ed="T"/>　末禰末禰　怛闥多部多俱胝鉢唎󰡊<lb

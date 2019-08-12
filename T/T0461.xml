@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0461</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0452b12" ed="T"/><lb
  n="0452b13" ed="T"/><lb
  n="0452b14" ed="T"/>
-<ab type="juan" subtype="open">佛說文殊師利現寶藏經卷上</ab><lb
+<ab type='juan' subtype='open'>佛說文殊師利現寶藏經卷上</ab><lb
  n="0452b15" ed="T"/><lb
  n="0452b16" ed="T"/><byline>西晉月氏三藏竺法護譯</byline><lb
- n="0452b17" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時，佛遊舍衛祇樹給孤獨精舍，與<lb
+ n="0452b17" ed="T"/><div type='jing' level='1'><ab type='prose'>聞如是：一時，佛遊舍衛祇樹給孤獨精舍，與<lb
  n="0452b18" ed="T"/>大比丘眾俱，比丘千二百五十，菩薩萬人。爾<lb
  n="0452b19" ed="T"/>時，佛於迦利羅講堂上坐，與無央數百千之<lb
  n="0452b20" ed="T"/>眾周匝圍繞而為說經。於是，文殊師利與五<lb
@@ -608,13 +608,13 @@
  n="0458c24" ed="T"/>皆以供養諸比丘眾及諸菩薩，悉得充滿，其<lb
  n="0458c25" ed="T"/>鉢之饌如故不盡。<lb
  n="0458c26" ed="T"/>
-</ab><ab type="juan" subtype="close">文殊師利現寶藏經卷上</ab><pb n="0459a" ed="T" id="T14.0461.0459a"/><lb
+</ab><ab type='juan' subtype='close'>文殊師利現寶藏經卷上</ab><pb n="0459a" ed="T" id="T14.0461.0459a"/><lb
  n="0459a01" ed="T"/><lb
  n="0459a02" ed="T"/>
-<ab type="juan" subtype="open">佛說文殊師利現寶藏經卷下</ab><lb
+<ab type='juan' subtype='open'>佛說文殊師利現寶藏經卷下</ab><lb
  n="0459a03" ed="T"/><lb
  n="0459a04" ed="T"/><byline>西晉月氏三藏竺法護譯</byline><lb
- n="0459a05" ed="T"/><ab type="prose">「於是，天魔波旬念欲嬈固文殊師利所饌供<lb
+ n="0459a05" ed="T"/><ab type='prose'>「於是，天魔波旬念欲嬈固文殊師利所饌供<lb
  n="0459a06" ed="T"/>饍，化作四萬比丘，著弊壞裂衣、垢穢臭處<lb
  n="0459a07" ed="T"/>持破鉢住、胸背悉露、面貌醜惡、跛蹇禿僂，心<lb
  n="0459a08" ed="T"/>懷遑懅而坐眾中，亦復持鉢受種種供，其鉢<lb
@@ -1158,7 +1158,7 @@
  n="0465a25" ed="T"/>賢者阿難整衣服從坐起，右膝著地，長跪<lb
  n="0465a26" ed="T"/>叉手，以偈嗟歎，而問佛曰：<lb
  n="0465a27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「智慧力吉祥明，　　導師光七尺華，　　<lb
  n="0465a28" ed="T"/>微妙相三十二，　　諸種好為具足。　　<lb
  n="0465a29" ed="T"/>如師子在眾中，　　行步威猛勢至，　　<pb n="0465b" ed="T" id="T14.0461.0465b"/><lb
@@ -1188,7 +1188,7 @@
  n="0465b24" ed="T"/>斷六會諸狐疑，　　今正覺何緣笑？　　<lb
  n="0465b25" ed="T"/>聞佛語歡喜悅，　　無數人悉踊躍。」　　
 </ab><lb
- n="0465b26" ed="T"/><ab type="prose">佛告賢者阿難：「汝為見闍耶末族姓子，踊在<lb
+ n="0465b26" ed="T"/><ab type='prose'>佛告賢者阿難：「汝為見闍耶末族姓子，踊在<lb
  n="0465b27" ed="T"/>虛空，去地四丈九尺，住於空中已得法忍，叉<lb
  n="0465b28" ed="T"/>手如立稽首禮我，百千諸天來共供養。」阿難<lb
  n="0465b29" ed="T"/>言：「唯然已見，世尊！」佛告阿難：「是闍耶末族<pb n="0465c" ed="T" id="T14.0461.0465c"/><lb
@@ -1220,7 +1220,7 @@
  n="0465c26" ed="T"/>首佛足，住世尊前說法界無所壞，以偈而讚<lb
  n="0465c27" ed="T"/>佛曰：<lb
  n="0465c28" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「我種及法界，　　人土亦俱等，　　<lb
  n="0465c29" ed="T"/>是界為慧壃，　　以此授吾決。　　<pb n="0466a" ed="T" id="T14.0461.0466a"/><lb
  n="0466a01" ed="T"/>法界及塵勞，　　空種亦平等，　　<lb
@@ -1244,7 +1244,7 @@
  n="0466a19" ed="T"/>等覺諸天人，　　正立於正法，　　<lb
  n="0466a20" ed="T"/>寂然如虛空，　　權慧善具足。」　　
 </ab><lb
- n="0466a21" ed="T"/><ab type="prose">爾時，闍耶末族姓子，以此偈讚佛已，遶三匝<lb
+ n="0466a21" ed="T"/><ab type='prose'>爾時，闍耶末族姓子，以此偈讚佛已，遶三匝<lb
  n="0466a22" ed="T"/>却坐一面。於是，佛告賢者阿難：「受是經，諷誦<lb
  n="0466a23" ed="T"/>讚，廣為他人說之。」阿難白佛：「唯然受已，是<lb
  n="0466a24" ed="T"/>經名曰何等？云何奉行？」佛言：「是經名曰『文殊<lb
@@ -1254,5 +1254,5 @@
  n="0466a28" ed="T"/>人、阿須倫、世間人民，聞經歡喜，皆前為佛稽<lb
  n="0466a29" ed="T"/>首作禮而退。<pb n="0466b" ed="T" id="T14.0461.0466b"/><lb
  n="0466b01" ed="T"/>
-</ab><ab type="juan" subtype="close">文殊師利現寶藏經卷下</ab></div>
+</ab><ab type='juan' subtype='close'>文殊師利現寶藏經卷下</ab></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n0978</idno>
                 </bibl>
@@ -42,14 +42,14 @@
         <body><lb
  n="0407b11" ed="T"/><lb
  n="0407b12" ed="T"/><lb
- n="0407b13" ed="T"/><div type="jing" level="1"><lb
+ n="0407b13" ed="T"/><div type='jing' level='1'><lb
  n="0407b14" ed="T"/>
-<ab type="juan" subtype="open">佛說一切如來烏瑟膩沙最勝總<lb
+<ab type='juan' subtype='open'>佛說一切如來烏瑟膩沙最勝總<lb
  n="0407b15" ed="T"/>持經</ab><lb
  n="0407b16" ed="T"/><lb
  n="0407b17" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚卿<lb
  n="0407b18" ed="T"/>傳教大師臣法天奉　詔譯</byline><lb
- n="0407b19" ed="T"/><ab type="prose">如是我聞。一時佛在極樂佛剎大善法堂中。<lb
+ n="0407b19" ed="T"/><ab type='prose'>如是我聞。一時佛在極樂佛剎大善法堂中。<lb
  n="0407b20" ed="T"/>安庠而坐。爾時無量壽如來應正等覺。告聖<lb
  n="0407b21" ed="T"/>觀自在菩薩摩訶薩言。善男子所有一切眾<lb
  n="0407b22" ed="T"/>生。疾病苦惱及短壽者。為利益彼故。所有一<lb
@@ -62,7 +62,7 @@
  n="0407b29" ed="T"/>三摩地。從定出已。說此一切如來烏瑟膩沙<pb n="0407c" id="T19.0978.0407c" ed="T"/><lb
  n="0407c01" ed="T"/>最勝總持法門曰。<lb
  n="0407c02" ed="T"/></ab>
-<ab type="dharani">唵曩謨婆誐嚩帝薩哩嚩怛󰪯路枳<lb
+<ab type='dharani'>唵曩謨婆誐嚩帝薩哩嚩怛󰪯路枳<lb
  n="0407c03" ed="T"/>也鉢囉底尾始瑟吒野沒馱野<lb
  n="0407c04" ed="T"/>帝曩莫怛儞也他唵部隴部隴部隴輸達野輸達野尾輸達野尾輸達<lb
  n="0407c06" ed="T"/>野阿三摩三滿多嚩婆娑薩頗囉拏誐<lb
@@ -97,7 +97,7 @@
  n="0408a06" ed="T"/>嚩日覽婆嚩覩摩摩舍哩覽薩哩嚩薩埵難左迦野波哩戍提哩婆嚩覩<lb
  n="0408a08" ed="T"/>彌薩那薩哩嚩誐底波哩戍提室左<lb
  n="0408a09" ed="T"/>薩哩嚩怛他誐多室左𤚥三摩濕<lb
- n="0408a10" ed="T"/>嚩娑演覩沒󰇄沒󰇄悉󰇄󰂛達野󰂛達<lb
+ n="0408a10" ed="T"/>嚩娑演覩沒𬽓沒𬽓悉𬽓󰂛達野󰂛達<lb
  n="0408a11" ed="T"/>野尾󰂛達野尾󰂛達野謨左野謨左野尾謨左<lb
  n="0408a12" ed="T"/>野尾謨左野輸達野輸達野尾輸達野尾輸達<lb
  n="0408a13" ed="T"/>野三滿多哩謨左野三滿多囉濕彌<lb
@@ -105,7 +105,7 @@
  n="0408a15" ed="T"/>那野地瑟吒曩地瑟致帝母捺<lb
  n="0408a16" ed="T"/>哩母捺哩摩賀母捺哩滿怛囉波禰娑嚩賀<lb
  n="0408a18" ed="T"/></ab>
-<ab type="prose">善男子此一切如來烏瑟膩沙最勝總持法<lb
+<ab type='prose'>善男子此一切如來烏瑟膩沙最勝總持法<lb
  n="0408a19" ed="T"/>門。能延壽命消除罪業速得清淨。若以素帛<lb
  n="0408a20" ed="T"/>或樺皮上。書寫此總持法門。安置塔中作廣<lb
  n="0408a21" ed="T"/>大供養。作供養已右繞千匝恭敬禮拜。隨力<lb
@@ -148,12 +148,12 @@
  n="0408b29" ed="T"/>亦入普照吉祥三摩地。從定出已。即說一切<pb n="0408c" id="T19.0978.0408c" ed="T"/><lb
  n="0408c01" ed="T"/>如來無量壽總持法門曰。<lb
  n="0408c02" ed="T"/></ab>
-<ab type="dharani">唵阿密哩帝阿密哩帝阿密哩覩捺婆吠阿密哩多尾訖㘓帝<lb
+<ab type='dharani'>唵阿密哩帝阿密哩帝阿密哩覩捺婆吠阿密哩多尾訖㘓帝<lb
  n="0408c04" ed="T"/>阿密哩多誐彌儞阿密哩多喻<lb
  n="0408c05" ed="T"/>哩那禰誐誐曩計哩帝羯哩薩哩嚩<lb
  n="0408c06" ed="T"/>吉梨舍叉演羯哩曳娑嚩賀<lb
  n="0408c07" ed="T"/></ab>
-<ab type="prose">時無量壽如來說此法門已。告菩薩言。若善<lb
+<ab type='prose'>時無量壽如來說此法門已。告菩薩言。若善<lb
  n="0408c08" ed="T"/>男子善女人。用此法門加持淨土。以水和泥<lb
  n="0408c09" ed="T"/>復更加持。以泥作塔乃至相輪。次第加持及<lb
  n="0408c10" ed="T"/>獻供養。能得廣大殊勝利益。<lb
@@ -230,9 +230,9 @@
  n="0409b23" ed="T"/>復誦烏瑟膩沙最勝總持法門。又如前作法。<lb
  n="0409b24" ed="T"/>用酥三合傾入爐內。誦此真言曰。<lb
  n="0409b25" ed="T"/></ab>
-<ab type="dharani">唵阿彌多喻哩捺那娑嚩賀<lb
+<ab type='dharani'>唵阿彌多喻哩捺那娑嚩賀<lb
  n="0409b26" ed="T"/></ab>
-<ab type="prose">當用五穀。以三指撮穀搵酥。稱所求之願誦<lb
+<ab type='prose'>當用五穀。以三指撮穀搵酥。稱所求之願誦<lb
  n="0409b27" ed="T"/>真言一遍。拋向爐內。如是至八百遍。一日<lb
  n="0409b28" ed="T"/>三時作法亦然。復誦一切如來烏瑟膩沙最<lb
  n="0409b29" ed="T"/>勝總持。離一切病聰明長壽。隨所願求無不<pb n="0409c" id="T19.0978.0409c" ed="T"/><lb
@@ -265,5 +265,5 @@
  n="0409c27" ed="T"/>人阿修羅乾闥婆等。聞佛所說皆大歡喜信<lb
  n="0409c28" ed="T"/>受奉行。<lb
  n="0409c29" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說一切如來烏瑟膩沙最勝總持經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說一切如來烏瑟膩沙最勝總持經</ab></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0483</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0666c" ed="T" id="T14.0483.0666c"/><lb
  n="0666c01" ed="T"/><lb
  n="0666c02" ed="T"/><lb
  n="0666c03" ed="T"/>
-<ab type="juan" subtype="open">三曼陀跋陀羅菩薩經</ab><lb
+<ab type='juan' subtype='open'>三曼陀跋陀羅菩薩經</ab><lb
  n="0666c04" ed="T"/><lb
  n="0666c05" ed="T"/><byline>西晉居士聶道真譯</byline><lb
- n="0666c06" ed="T"/><div type="pin" level="2"><head>五蓋品第一</head><lb
- n="0666c07" ed="T"/><ab type="prose">聞如是：一時，佛在摩竭提國清淨法處，自然<lb
+ n="0666c06" ed="T"/><div type='pin' level='2'><head>五蓋品第一</head><lb
+ n="0666c07" ed="T"/><ab type='prose'>聞如是：一時，佛在摩竭提國清淨法處，自然<lb
  n="0666c08" ed="T"/>金剛座，光影甚明，無所不遍照，與眾摩訶薩<lb
  n="0666c09" ed="T"/>等無央數菩薩共會坐，三曼陀跋陀羅菩薩、<lb
  n="0666c10" ed="T"/>文殊師利菩薩最第一。文殊師利菩薩問三<lb
@@ -64,8 +64,8 @@
  n="0666c20" ed="T"/>陀比羅經，一切三昧，一切諸陀隣尼，一切漚<lb
  n="0666c21" ed="T"/>惒拘舍羅，是為諸經中尊將，如是者為已得<lb
  n="0666c22" ed="T"/>禮一切諸佛，其意至心也。」</ab></div><lb
- n="0666c23" ed="T"/><div type="pin" level="2"><head>悔過品第二</head><lb
- n="0666c24" ed="T"/><ab type="prose">三曼陀跋陀羅菩薩言：「一切人身所行，口所<lb
+ n="0666c23" ed="T"/><div type='pin' level='2'><head>悔過品第二</head><lb
+ n="0666c24" ed="T"/><ab type='prose'>三曼陀跋陀羅菩薩言：「一切人身所行，口所<lb
  n="0666c25" ed="T"/>犯，心所念惡，一切諸佛剎其中塵等起意念，<lb
  n="0666c26" ed="T"/>一切諸惡，某皆為其悔過：『某從本所作為，有<lb
  n="0666c27" ed="T"/>惡於諸佛、諸菩薩、諸迦羅蜜、父母、阿羅漢、辟<lb
@@ -82,7 +82,7 @@
  n="0667a09" ed="T"/>某皆為悔一切罪過。<lb
  n="0667a10" ed="T"/>「『某從阿僧祇劫，起惡意於佛、若鬪亂比丘僧、<lb
  n="0667a11" ed="T"/>若害阿羅漢、若害父母、若見正法言非法、若<lb
- n="0667a12" ed="T"/>見非法言是法、若󰬲㗛一切人、所思念常與<lb
+ n="0667a12" ed="T"/>見非法言是法、若𮘉㗛一切人、所思念常與<lb
  n="0667a13" ed="T"/>非法之事；若他所犯過、若欲犯、若已犯；其<lb
  n="0667a14" ed="T"/>多沙竭所教誡若犯之，今世若前世不知佛<lb
  n="0667a15" ed="T"/>法比丘僧時，諸所犯過惡。今某皆為悔一切<lb
@@ -100,7 +100,7 @@
  n="0667a27" ed="T"/>能及值是聖賢身。今某皆為悔一切罪過。「『某<lb
  n="0667a28" ed="T"/>諸所作罪，不能及逮聞法；或聞法，其心不能<lb
  n="0667a29" ed="T"/>受法；若已受而復忘失，不能堅持法、不能諦<pb n="0667b" ed="T" id="T14.0483.0667b"/><lb
- n="0667b01" ed="T"/>持法，而怯劣無瞻；其形色不能致得端政；<lb
+ n="0667b01" ed="T"/>持法，而怯劣無膽；其形色不能致得端政；<lb
  n="0667b02" ed="T"/>所生常少財寶，不能得陀隣尼行，不能得三<lb
  n="0667b03" ed="T"/>昧行，不能得般若波羅蜜行，不能得無念慧<lb
  n="0667b04" ed="T"/>行，不能得漚惒拘舍羅所入慧，不能得兜沙<lb
@@ -119,11 +119,11 @@
  n="0667b17" ed="T"/>作罪，不能及逮是也。今某皆為悔一切罪過。<lb
  n="0667b18" ed="T"/>「『若他人起惡意向某，若有眾兵，若某起慈心<lb
  n="0667b19" ed="T"/>向他人；若有眾兵，若致一切諸蓋所畏。某合<lb
- n="0667b20" ed="T"/>會於諸佛前，諸眼諦，慧遍諦，所言則受諦。某<lb
+ n="0667b20" ed="T"/>會於諸佛前，諸眼諦，慧遍諦，所言即受諦。某<lb
  n="0667b21" ed="T"/>於是諦前自歸悔，復自發舉，自發竟自悔<lb
  n="0667b22" ed="T"/>責，不敢覆藏，從今已後不敢復犯。』」</ab></div><lb
- n="0667b23" ed="T"/><div type="pin" level="2"><head>願樂品第三</head><lb
- n="0667b24" ed="T"/><ab type="prose">三曼陀跋陀羅菩薩言：「善男子、善女人，求菩<lb
+ n="0667b23" ed="T"/><div type='pin' level='2'><head>願樂品第三</head><lb
+ n="0667b24" ed="T"/><ab type='prose'>三曼陀跋陀羅菩薩言：「善男子、善女人，求菩<lb
  n="0667b25" ed="T"/>薩道者，當作是願樂：『今某自歸曉一切，於諸<lb
  n="0667b26" ed="T"/>佛諸菩薩、迦羅蜜及父母、諸阿羅漢、辟支佛<lb
  n="0667b27" ed="T"/>及一切人，至心求哀，不可曉者，今皆曉之，如<lb
@@ -141,8 +141,8 @@
  n="0667c10" ed="T"/>已願樂也。其未作功德者，今作功德，某皆<lb
  n="0667c11" ed="T"/>願樂。其有尊，復尊所作功德，某亦願樂。持某<lb
  n="0667c12" ed="T"/>所作願樂功德，令十方一切皆悉得也。』」</ab></div><lb
- n="0667c13" ed="T"/><div type="pin" level="2"><head>請勸品第四</head><lb
- n="0667c14" ed="T"/><ab type="prose">三曼陀跋陀羅菩薩言：「善男子、善女人，求菩<lb
+ n="0667c13" ed="T"/><div type='pin' level='2'><head>請勸品第四</head><lb
+ n="0667c14" ed="T"/><ab type='prose'>三曼陀跋陀羅菩薩言：「善男子、善女人，求菩<lb
  n="0667c15" ed="T"/>薩道者，當作是請勸：『某至心請勸一切諸<lb
  n="0667c16" ed="T"/>佛，今現在佛、阿耨多羅三耶三菩及至阿<lb
  n="0667c17" ed="T"/>惟三佛，其已成悉等知、未轉法輪者，某請<lb
@@ -209,8 +209,8 @@
  n="0668b20" ed="T"/>疑。持是功德令某具足願，如三曼陀跋陀羅<lb
  n="0668b21" ed="T"/>菩薩法行，十種力地皆悉逮。以是為證。持是<lb
  n="0668b22" ed="T"/>功德，願令一切人及某皆令得福。』」</ab></div><lb
- n="0668b23" ed="T"/><div type="pin" level="2"><head>譬福品第五</head><lb
- n="0668b24" ed="T"/><ab type="prose">文殊師利菩薩問三曼陀跋陀羅菩薩言：「若<lb
+ n="0668b23" ed="T"/><div type='pin' level='2'><head>譬福品第五</head><lb
+ n="0668b24" ed="T"/><ab type='prose'>文殊師利菩薩問三曼陀跋陀羅菩薩言：「若<lb
  n="0668b25" ed="T"/>有善男子、善女人，欲求菩薩道者，晝夜各三<lb
  n="0668b26" ed="T"/>悔過、勸樂法行如上說，其福者云何？」三曼陀<lb
  n="0668b27" ed="T"/>跋陀羅菩薩報文殊師利菩薩言：「若有善男<lb
@@ -228,5 +228,5 @@
  n="0668c10" ed="T"/>鬼神、阿須倫、人、非人，聞經大歡喜，前為佛作<lb
  n="0668c11" ed="T"/>禮而去。</ab></div><lb
  n="0668c12" ed="T"/>
-<ab type="juan" subtype="close">三曼陀跋陀羅菩薩經</ab></div>
+<ab type='juan' subtype='close'>三曼陀跋陀羅菩薩經</ab></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0498</idno>
                 </bibl>
@@ -44,11 +44,11 @@
  n="0763a13" ed="T"/><lb
  n="0763a14" ed="T"/><lb
  n="0763a15" ed="T"/>
-<ab type="juan" subtype="open">佛說初分說經卷上</ab><lb
+<ab type='juan' subtype='open'>佛說初分說經卷上</ab><lb
  n="0763a16" ed="T"/><lb
  n="0763a17" ed="T"/><byline>西天譯經三藏傳法大師<lb
  n="0763a18" ed="T"/>賜紫臣施護奉　詔譯</byline><lb
- n="0763a19" ed="T"/><div type="jing" level="1"><ab type="prose">爾時，世尊往詣優樓頻螺耆年迦葉所，到彼<lb
+ n="0763a19" ed="T"/><div type='jing' level='1'><ab type='prose'>爾時，世尊往詣優樓頻螺耆年迦葉所，到彼<lb
  n="0763a20" ed="T"/>處已。時彼迦葉見佛世尊自遠而來，即白佛<lb
  n="0763a21" ed="T"/>言：「善來，大沙門！諸有所須衣服飲食，我悉供<lb
  n="0763a22" ed="T"/>給。」是時，世尊即謂迦葉言：「我今於汝此舍之<lb
@@ -269,15 +269,15 @@
  n="0765c05" ed="T"/>輕利心，我等諸人豈不出家？是故今時，亦<lb
  n="0765c06" ed="T"/>各樂欲，歸佛出家。」<lb
  n="0765c07" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說初分說經卷上</ab><lb
+</ab><ab type='juan' subtype='close'>佛說初分說經卷上</ab><lb
  n="0765c08" ed="T"/><lb
  n="0765c09" ed="T"/><lb
  n="0765c10" ed="T"/>
-<ab type="juan" subtype="open">佛說初分說經卷下</ab><lb
+<ab type='juan' subtype='open'>佛說初分說經卷下</ab><lb
  n="0765c11" ed="T"/><lb
  n="0765c12" ed="T"/><byline>西天譯經三藏傳法大師<lb
  n="0765c13" ed="T"/>賜紫臣施護奉　詔譯</byline><lb
- n="0765c14" ed="T"/><ab type="prose">爾時，優樓頻螺耆年迦葉，與五百眷屬，還詣<lb
+ n="0765c14" ed="T"/><ab type='prose'>爾時，優樓頻螺耆年迦葉，與五百眷屬，還詣<lb
  n="0765c15" ed="T"/>佛所。到已，偏袒右肩，右膝著地，合掌頂禮，<lb
  n="0765c16" ed="T"/>而白佛言：「世尊！我今歸佛出家，奉持戒律，<lb
  n="0765c17" ed="T"/>願佛攝受。」佛言：「善來，汝今於我法中，修持<lb
@@ -374,11 +374,11 @@
  n="0766c21" ed="T"/>種神通等事，而悉見聞，示利喜已，會中有<lb
  n="0766c22" ed="T"/>得心解脫者，說是伽陀曰：<lb
  n="0766c23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「象頭山與杖林山，　　世尊說法現神變，　　<lb
  n="0766c24" ed="T"/>攝伏外道歸正真，　　使彼邪心皆解脫。」　　
 </ab><lb
- n="0766c25" ed="T"/><ab type="prose">爾時，世尊謂苾芻眾言：「我今欲入王舍大城。」<lb
+ n="0766c25" ed="T"/><ab type='prose'>爾時，世尊謂苾芻眾言：「我今欲入王舍大城。」<lb
  n="0766c26" ed="T"/>時頻婆娑羅王，初聞有如來、應供、正等正覺、<lb
  n="0766c27" ed="T"/>明行足、善逝、世間解、無上士、調御丈夫、天人師、<lb
  n="0766c28" ed="T"/>佛、世尊十號具足，出興於世。於諸天人、梵<lb
@@ -399,11 +399,11 @@
  n="0767a14" ed="T"/>王及眷屬，見佛遠至，肅恭前迎，從佛入城。<lb
  n="0767a15" ed="T"/>佛入城時，城中人民，異口同音，說伽陀曰：<lb
  n="0767a16" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「世尊入此王舍城，　　出現師子光明相，　　<lb
  n="0767a17" ed="T"/>解脫耆年清淨眾，　　彼彼恭敬而圍遶。」　　
 </ab><lb
- n="0767a18" ed="T"/><ab type="prose">爾時，頻婆娑羅王前導，世尊往迦蘭陀竹林<lb
+ n="0767a18" ed="T"/><ab type='prose'>爾時，頻婆娑羅王前導，世尊往迦蘭陀竹林<lb
  n="0767a19" ed="T"/>園中。到已，世尊周遍觀察，王乃為佛敷設其<lb
  n="0767a20" ed="T"/>座，佛處座已諸苾芻眾，各居佛後。是時王及<lb
  n="0767a21" ed="T"/>眷屬眾中，有禮佛足者，有但合掌頂禮者，有<lb
@@ -451,7 +451,7 @@
  n="0767c05" ed="T"/>而汝迦葉，亦能善說。」<lb
  n="0767c06" ed="T"/>爾時，尊者伽耶迦葉為頻婆娑羅王說伽陀曰：<lb
  n="0767c07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「善來大王聽我說，　　我大居止伽耶山，　　<lb
  n="0767c08" ed="T"/>正等正覺出世間，　　說涅槃句我得利。　　<lb
  n="0767c09" ed="T"/>佛最勝者大象龍，　　無上調伏最上尊，　　<lb
@@ -459,7 +459,7 @@
  n="0767c11" ed="T"/>我昔長夜心染污，　　起諸邪見不解脫，　　<lb
  n="0767c12" ed="T"/>佛今破我邪見心，　　一切纏結皆消散。」　　
 </ab><lb
- n="0767c13" ed="T"/><ab type="prose">是時，眾會疑念皆息，乃知尊者優樓頻螺迦<lb
+ n="0767c13" ed="T"/><ab type='prose'>是時，眾會疑念皆息，乃知尊者優樓頻螺迦<lb
  n="0767c14" ed="T"/>葉，并諸眷屬，歸佛出家，修持梵行，甚為希有。<lb
  n="0767c15" ed="T"/>爾時，世尊知彼眾會已息疑心，乃為頻婆娑<lb
  n="0767c16" ed="T"/>羅王等，宣說法要，如先佛世尊所說法式，謂<lb
@@ -481,11 +481,11 @@
  n="0768a03" ed="T"/>通，有大威力，能作種種神變等事。」即說伽<lb
  n="0768a04" ed="T"/>陀曰：<lb
  n="0768a05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「今日頻婆娑羅王，　　并諸眷屬歸依佛，　　<lb
  n="0768a06" ed="T"/>聞法獲利竹林中，　　我等諸神亦歸佛。」　　
 </ab><lb
- n="0768a07" ed="T"/><ab type="prose">爾時，頻婆娑羅王并諸眷屬，右遶世尊，出<lb
+ n="0768a07" ed="T"/><ab type='prose'>爾時，頻婆娑羅王并諸眷屬，右遶世尊，出<lb
  n="0768a08" ed="T"/>離眾會。復次，王舍城有一外道，名刪闍夜，與<lb
  n="0768a09" ed="T"/>自眷屬，居止其中。而刪闍夜，後亡歿已，彼<lb
  n="0768a10" ed="T"/>二弟子，一名舍利子，一名大目乾連。是二<lb
@@ -502,18 +502,18 @@
  n="0768a21" ed="T"/>緣生法者，謂一切法從因緣生、從因緣滅。」復<lb
  n="0768a22" ed="T"/>以是義，說伽陀曰：<lb
  n="0768a23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「若法因緣生，　　法亦因緣滅，　　<lb
  n="0768a24" ed="T"/>是生滅因緣，　　佛大沙門說。」　　
 </ab><lb
- n="0768a25" ed="T"/><ab type="prose">時，舍利子聞是法已，遠塵離垢，得法眼淨，即<lb
+ n="0768a25" ed="T"/><ab type='prose'>時，舍利子聞是法已，遠塵離垢，得法眼淨，即<lb
  n="0768a26" ed="T"/>說伽陀曰：<lb
  n="0768a27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「如是緣生妙章句，　　尊者為我善開示，　　<lb
  n="0768a28" ed="T"/>我於那庾多劫中，　　不見不聞今得遇。」　　
 </ab><lb
- n="0768a29" ed="T"/><ab type="prose">說是伽陀已，又言：「尊者！世尊今在何處？」烏<pb n="0768b" ed="T" id="T14.0498.0768b"/><lb
+ n="0768a29" ed="T"/><ab type='prose'>說是伽陀已，又言：「尊者！世尊今在何處？」烏<pb n="0768b" ed="T" id="T14.0498.0768b"/><lb
  n="0768b01" ed="T"/>波西那答言：「世尊今在迦蘭陀竹林精舍。」又<lb
  n="0768b02" ed="T"/>言：「我今得詣世尊處不？」彼答言：「汝當隨意。」<lb
  n="0768b03" ed="T"/>時舍利子憶念大目乾連先所言約，今應往<lb
@@ -523,14 +523,14 @@
  n="0768b07" ed="T"/>波西那為我略說，我已證悟，如彼所說伽陀<lb
  n="0768b08" ed="T"/>曰：<lb
  n="0768b09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『若法因緣生，　　法亦因緣滅，　　<lb
  n="0768b10" ed="T"/>是生滅因緣，　　佛大沙門說。』」　　
 </ab><lb
- n="0768b11" ed="T"/><ab type="prose">大目乾連聞是法已，遠塵離垢，得法眼淨。<lb
+ n="0768b11" ed="T"/><ab type='prose'>大目乾連聞是法已，遠塵離垢，得法眼淨。<lb
  n="0768b12" ed="T"/>佛說此經已，迦葉等諸大聲聞，及一切世間<lb
  n="0768b13" ed="T"/>天人、阿修羅、乾闥婆等，聞佛所說，歡喜信<lb
  n="0768b14" ed="T"/>受。<lb
  n="0768b15" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說初分說經卷下</ab></div>
+</ab><ab type='juan' subtype='close'>佛說初分說經卷下</ab></div>
 </body></text></TEI>

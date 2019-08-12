@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1288</idno>
                 </bibl>
@@ -39,18 +39,18 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0358a07" ed="T"/><lb
  n="0358a08" ed="T"/><lb
  n="0358a09" ed="T"/><lb
  n="0358a10" ed="T"/>
-<ab type="juan" subtype="open">佛說最上祕密那拏天經卷上</ab><lb
+<ab type='juan' subtype='open'>佛說最上祕密那拏天經卷上</ab><lb
  n="0358a11" ed="T"/><lb
  n="0358a12" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0358a13" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
- n="0358a14" ed="T"/><div type="fen" level="2"><head>最上成就儀軌分第一</head><lb
- n="0358a15" ed="T"/><ab type="prose">如是我聞。一時佛在毘沙門宮。與大菩薩摩<lb
+ n="0358a14" ed="T"/><div type='fen' level='2'><head>最上成就儀軌分第一</head><lb
+ n="0358a15" ed="T"/><ab type='prose'>如是我聞。一時佛在毘沙門宮。與大菩薩摩<lb
  n="0358a16" ed="T"/>訶薩眾俱。大祕密主金剛手菩薩而為上首。<lb
  n="0358a17" ed="T"/>及無數天龍夜叉乾闥婆阿脩羅迦樓羅緊那<lb
  n="0358a18" ed="T"/>羅摩睺羅伽。及釋梵護世那羅延天大自在<lb
@@ -128,7 +128,7 @@
  n="0359a03" ed="T"/>為利益故遶佛三匝。住立佛前即說心大明<lb
  n="0359a04" ed="T"/>曰。<lb
  n="0359a05" ed="T"/></ab>
-<ab type="dharani">阿他都入嚩里多忽跢嚩呼必怛鉢<lb
+<ab type='dharani'>阿他都入嚩里多忽跢嚩呼必怛鉢<lb
  n="0359a06" ed="T"/>多葛那葛末尼室攞翳呬曳呬酤必<lb
  n="0359a07" ed="T"/>多阿吒吒賀娑末尼鉢囉朗嚩賀囉<lb
  n="0359a08" ed="T"/>嘌馱賀囉囉唧當󱃟栗跢羅贊<lb
@@ -163,7 +163,7 @@
  n="0359b11" ed="T"/>拏酤鉢囕嚩囉酤鉢囕蘇微商蘇儞<lb
  n="0359b12" ed="T"/>怛囕蘇嚩葛怛囕蘇虞呬也<lb
  n="0359b13" ed="T"/>剛悉馱細那鉢釘那拏酤鉢囕<lb
- n="0359b14" ed="T"/>摩嚩㗚怛拽設也蜜怛󰍕他<lb
+ n="0359b14" ed="T"/>摩嚩㗚怛拽設也蜜怛𭔞他<lb
  n="0359b15" ed="T"/>唵翳呬曳呬婆誐鑁那拏酤鉢囉󱃟娑󱃟娑末娑末娑酤嚕酤嚕<lb
  n="0359b17" ed="T"/>咄嚕咄嚕祖嚕祖嚕尾哩尾哩唧<lb
  n="0359b18" ed="T"/>致唧致尾唧致尾唧致嚩日朗嚩<lb
@@ -202,7 +202,7 @@
  n="0360a06" ed="T"/>尸伽囕悉殿覩滿怛囉鉢捺娑嚩<lb
  n="0360a07" ed="T"/>賀<lb
  n="0360a08" ed="T"/></ab>
-<ab type="prose">爾時那拏天說此明已。復白佛言。世尊我此<lb
+<ab type='prose'>爾時那拏天說此明已。復白佛言。世尊我此<lb
  n="0360a09" ed="T"/>心明。若有行人依法持誦得精熟已。悉能成<lb
  n="0360a10" ed="T"/>就千種之事。若有行人欲止雷雹者。當用刀<lb
  n="0360a11" ed="T"/>劍或石榴枝。或羯囉尾囉枝或水或灰。如是<lb
@@ -317,18 +317,18 @@
  n="0361b04" ed="T"/>心明。加持已拂於彼身毒即解除。如上諸法<lb
  n="0361b05" ed="T"/>皆用安悉香。誦心明加持悉得成就。</ab></div><lb
  n="0361b06" ed="T"/>
-<ab type="juan" subtype="close">佛說最上祕密那拏天經卷上</ab><lb
+<ab type='juan' subtype='close'>佛說最上祕密那拏天經卷上</ab><lb
  n="0361b07" ed="T"/><lb
  n="0361b08" ed="T"/><lb
  n="0361b09" ed="T"/>
-<ab type="juan" subtype="open">佛說最上祕密那拏天經卷中</ab><lb
+<ab type='juan' subtype='open'>佛說最上祕密那拏天經卷中</ab><lb
  n="0361b10" ed="T"/><lb
  n="0361b11" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0361b12" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
- n="0361b13" ed="T"/><div type="fen" level="2"><head>成就儀軌分第二</head><lb
- n="0361b14" ed="T"/><ab type="prose">爾時那拏天復說大明曰。<lb
+ n="0361b13" ed="T"/><div type='fen' level='2'><head>成就儀軌分第二</head><lb
+ n="0361b14" ed="T"/><ab type='prose'>爾時那拏天復說大明曰。<lb
  n="0361b15" ed="T"/></ab>
-<ab type="dharani">那謨囉怛那怛囉夜野那謨吠<lb
+<ab type='dharani'>那謨囉怛那怛囉夜野那謨吠<lb
  n="0361b16" ed="T"/>設囉嚩拏寫摩賀囉惹寫那謨那<lb
  n="0361b17" ed="T"/>拏酤鉢囉寫虞呬也哥地鉢帝那拏酤<lb
  n="0361b18" ed="T"/>鉢囉摩嚩㗚多拽沙也蜜嚕半阿<lb
@@ -339,7 +339,7 @@
  n="0361b24" ed="T"/>布盧母布盧酤鉢囉那拏酤鉢囉娑嚩<lb
  n="0361b25" ed="T"/>賀<lb
  n="0361b26" ed="T"/></ab>
-<ab type="prose">是時那拏天說大明已。復白佛言。世尊我此<lb
+<ab type='prose'>是時那拏天說大明已。復白佛言。世尊我此<lb
  n="0361b27" ed="T"/>大明是最上大無畏。善能調伏諸夜叉所作<lb
  n="0361b28" ed="T"/>成就法。決定悉皆成一念此大明圓滿最上<lb
  n="0361b29" ed="T"/>事。若有行人誦此大明得精熟已。然後乃作<pb n="0361c" id="T21.1288.0361c" ed="T"/><lb
@@ -418,20 +418,20 @@
  n="0362b15" ed="T"/>得隨意。<lb
  n="0362b16" ed="T"/>如是大明所作成就法。皆須燒安悉香加持<lb
  n="0362b17" ed="T"/>悉得成就。</ab></div><lb
- n="0362b18" ed="T"/><div type="fen" level="2"><head>最上成就儀軌分第三</head><lb
- n="0362b19" ed="T"/><ab type="prose">爾時那拏天復說大明曰。<lb
+ n="0362b18" ed="T"/><div type='fen' level='2'><head>最上成就儀軌分第三</head><lb
+ n="0362b19" ed="T"/><ab type='prose'>爾時那拏天復說大明曰。<lb
  n="0362b20" ed="T"/></ab>
-<ab type="dharani">那謨吠設囉嚩拏蘇跢野那拏酤鉢囉<lb
+<ab type='dharani'>那謨吠設囉嚩拏蘇跢野那拏酤鉢囉<lb
  n="0362b21" ed="T"/>野儞尾也尾摩那拶哩跢野呬末摩<lb
  n="0362b22" ed="T"/>攞毘拏羅設利囉野藥叉囉叉娑曼<lb
  n="0362b23" ed="T"/>儞跢野怛網婆誐鑁阿嚩㗚多拽<lb
- n="0362b24" ed="T"/>沙也蜜怛󰍕他末尼末尼骨吒<lb
+ n="0362b24" ed="T"/>沙也蜜怛𭔞他末尼末尼骨吒<lb
  n="0362b25" ed="T"/>骨吒骨吒骨吒骨骨骨骨鉢囉鉢囉<lb
  n="0362b26" ed="T"/>布囉布囉酤鉢囉酤鉢囉那拏酤鉢囉<lb
  n="0362b27" ed="T"/>儞尾也尾摩那昆拏梨咄致咄<lb
  n="0362b28" ed="T"/>致娑嚩賀<lb
  n="0362b29" ed="T"/></ab>
-<ab type="prose">是時那拏天說此大明已。復說成就法若有<pb n="0362c" id="T21.1288.0362c" ed="T"/><lb
+<ab type='prose'>是時那拏天說此大明已。復說成就法若有<pb n="0362c" id="T21.1288.0362c" ed="T"/><lb
  n="0362c01" ed="T"/>行人欲求諸夜叉成就者。當用尼拘陀樹木<lb
  n="0362c02" ed="T"/>作板。用上好彩色。於板上畫彼所求夜叉<lb
  n="0362c03" ed="T"/>像。如菉豆色面大惡相。利牙出口眾寶嚴身。<lb
@@ -488,8 +488,8 @@
  n="0363a25" ed="T"/>釘處當降雷雹。若欲止者出橛即止。<lb
  n="0363a26" ed="T"/>如是諸法皆用安悉香加持焚燒。即一切法<lb
  n="0363a27" ed="T"/>皆得成就。</ab></div><lb
- n="0363a28" ed="T"/><div type="fen" level="2"><head>最上曼拏羅儀軌成就法分第四</head><lb
- n="0363a29" ed="T"/><ab type="prose">爾時那拏天復說最上大曼拏羅法。此曼拏<pb n="0363b" id="T21.1288.0363b" ed="T"/><lb
+ n="0363a28" ed="T"/><div type='fen' level='2'><head>最上曼拏羅儀軌成就法分第四</head><lb
+ n="0363a29" ed="T"/><ab type='prose'>爾時那拏天復說最上大曼拏羅法。此曼拏<pb n="0363b" id="T21.1288.0363b" ed="T"/><lb
  n="0363b01" ed="T"/>羅能成一切天。乃至梵王那羅延天大自在<lb
  n="0363b02" ed="T"/>天常來歸依。乃至諸仙亦常稱讚。諸佛菩<lb
  n="0363b03" ed="T"/>薩皆為攝受。所有夜叉羅剎等皆得三昧。所<lb
@@ -539,16 +539,16 @@
  n="0363c18" ed="T"/>得願滿已。即虔至勞謝一切賢聖已。即誦大<lb
  n="0363c19" ed="T"/>明發送那拏天迴還本處。大明曰。<lb
  n="0363c20" ed="T"/></ab>
-<ab type="dharani">那謨吠設囉嚩拏蘇多野那拏酤鉢<lb
+<ab type='dharani'>那謨吠設囉嚩拏蘇多野那拏酤鉢<lb
  n="0363c21" ed="T"/>囉野唵娑囉娑囉尾娑囉尾娑囉那吒<lb
  n="0363c22" ed="T"/>那吒㜸蹉㜸蹉莎婆嚩曩那拏酤鉢囉<lb
  n="0363c23" ed="T"/>野他蘇珂薩怛網藥偁捺囉莎賀<lb
  n="0363c24" ed="T"/><lb
  n="0363c25" ed="T"/></ab>
-<ab type="prose">行人用花誦此大明加持一遍。焚燒安悉香<lb
+<ab type='prose'>行人用花誦此大明加持一遍。焚燒安悉香<lb
  n="0363c26" ed="T"/>熏花獻。那拏天即隱身不現。</ab></div><lb
- n="0363c27" ed="T"/><div type="fen" level="2"><head>最上成就畫像儀軌分第五</head><lb
- n="0363c28" ed="T"/><ab type="prose">爾時那拏天復說畫像法。若行人欲畫那拏<lb
+ n="0363c27" ed="T"/><div type='fen' level='2'><head>最上成就畫像儀軌分第五</head><lb
+ n="0363c28" ed="T"/><ab type='prose'>爾時那拏天復說畫像法。若行人欲畫那拏<lb
  n="0363c29" ed="T"/>天像者。當用新好素帛具茸頭者。量方四肘。<pb n="0364a" id="T21.1288.0364a" ed="T"/><lb
  n="0364a01" ed="T"/>得此帛已。復依法選擇殊勝處所。當令畫人<lb
  n="0364a02" ed="T"/>齋戒清淨。然可作㡧起首。當用新淨器內調<lb
@@ -560,108 +560,108 @@
  n="0364a08" ed="T"/>法種種供養。行人欲作諸成就法者。於此像<lb
  n="0364a09" ed="T"/>前誦大明一千遍。所作皆得成就。</ab></div><lb
  n="0364a10" ed="T"/>
-<ab type="juan" subtype="close">佛說最上祕密那拏天經卷中</ab><lb
+<ab type='juan' subtype='close'>佛說最上祕密那拏天經卷中</ab><lb
  n="0364a11" ed="T"/><lb
  n="0364a12" ed="T"/><lb
  n="0364a13" ed="T"/>
-<ab type="juan" subtype="open">佛說最上祕密那拏天經卷下</ab><lb
+<ab type='juan' subtype='open'>佛說最上祕密那拏天經卷下</ab><lb
  n="0364a14" ed="T"/><lb
  n="0364a15" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0364a16" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
- n="0364a17" ed="T"/><div type="fen" level="2"><head>最上成就供養大明分第六</head><lb
- n="0364a18" ed="T"/><ab type="prose">爾時那拏天。說獻閼伽大明曰。<lb
+ n="0364a17" ed="T"/><div type='fen' level='2'><head>最上成就供養大明分第六</head><lb
+ n="0364a18" ed="T"/><ab type='prose'>爾時那拏天。說獻閼伽大明曰。<lb
  n="0364a19" ed="T"/></ab>
-<ab type="dharani">那謨吠設囉嚩拏蘇多野那拏酤鉢囉<lb
+<ab type='dharani'>那謨吠設囉嚩拏蘇多野那拏酤鉢囉<lb
  n="0364a20" ed="T"/>野唵那拏酤鉢囉坌惹莎賀<lb
  n="0364a21" ed="T"/></ab>
-<ab type="prose">以此大明加持閼伽水七遍用獻賢聖。<lb
+<ab type='prose'>以此大明加持閼伽水七遍用獻賢聖。<lb
  n="0364a22" ed="T"/>復說結界大明曰。<lb
  n="0364a23" ed="T"/></ab>
-<ab type="dharani">那謨婆誐嚩覩那拏酤鉢囉野吠設囉嚩那蘇多野布哩網儞商囉偁覩野<lb
+<ab type='dharani'>那謨婆誐嚩覩那拏酤鉢囉野吠設囉嚩那蘇多野布哩網儞商囉偁覩野<lb
  n="0364a25" ed="T"/>摩捺嗤那嚩蘇儞嚩鉢室唧摩嚩<lb
  n="0364a26" ed="T"/>嚕妓嗢怛囉酤尾囉阿度那誐嗢<lb
  n="0364a27" ed="T"/>㗚特網儒底尾儞輸嚩踰必哩瑟吒多薩哩微虞呬也哥<lb
- n="0364a29" ed="T"/>犖叉酤哩網覩曼拏朗怛󰍕他阿<pb n="0364b" id="T21.1288.0364b" ed="T"/><lb
+ n="0364a29" ed="T"/>犖叉酤哩網覩曼拏朗怛𭔞他阿<pb n="0364b" id="T21.1288.0364b" ed="T"/><lb
  n="0364b01" ed="T"/>悉致梨鉢囉悉致梨覩致覩致覩泥覩泥那拏那拏酤鉢囉酤鉢囉<lb
  n="0364b03" ed="T"/>那拏酤鉢嚕倪也鉢野底底瑟鵮<lb
  n="0364b04" ed="T"/>覩摩底訖囉忙曼拏羅莎賀<lb
  n="0364b05" ed="T"/></ab>
-<ab type="prose">誦此大明。加持白芥子水七遍已當作結界。<lb
+<ab type='prose'>誦此大明。加持白芥子水七遍已當作結界。<lb
  n="0364b06" ed="T"/>復說獻香大明曰。<lb
  n="0364b07" ed="T"/></ab>
-<ab type="dharani">那謨吠設囉嚩那蘇多野那拏酤鉢囉<lb
+<ab type='dharani'>那謨吠設囉嚩那蘇多野那拏酤鉢囉<lb
  n="0364b08" ed="T"/>野多寫那莫塞訖哩埵唵薩囉薩<lb
  n="0364b09" ed="T"/>囉那吒那吒拏拏拏拏度致度致那拏<lb
  n="0364b10" ed="T"/>酤鉢嚕倪也鉢野底莎賀<lb
  n="0364b11" ed="T"/></ab>
-<ab type="prose">誦此大明七遍。加持香焚燒。<lb
+<ab type='prose'>誦此大明七遍。加持香焚燒。<lb
  n="0364b12" ed="T"/>復說護摩大明曰。<lb
  n="0364b13" ed="T"/></ab>
-<ab type="dharani">那謨婆誐嚩覩那拏酤鉢囉野吠室囉<lb
+<ab type='dharani'>那謨婆誐嚩覩那拏酤鉢囉野吠室囉<lb
  n="0364b14" ed="T"/>嚩那蘇覩野唵󱃟那󱃟那入嚩羅入嚩<lb
  n="0364b15" ed="T"/>羅呬那拏酤鉢囉酤鉢囉入嚩<lb
  n="0364b16" ed="T"/>羅酤鉢囉莎賀<lb
  n="0364b17" ed="T"/></ab>
-<ab type="prose">誦此大明。加持護摩物七遍作護摩。<lb
+<ab type='prose'>誦此大明。加持護摩物七遍作護摩。<lb
  n="0364b18" ed="T"/>復說沐浴大明曰。<lb
  n="0364b19" ed="T"/></ab>
-<ab type="dharani">那謨那拏酤鉢囉野唵契梨契梨契契<lb
+<ab type='dharani'>那謨那拏酤鉢囉野唵契梨契梨契契<lb
  n="0364b20" ed="T"/>梨入嚩梨儞莎賀<lb
  n="0364b21" ed="T"/></ab>
-<ab type="prose">誦此大明七遍加持白芥子水當作沐浴。<lb
+<ab type='prose'>誦此大明七遍加持白芥子水當作沐浴。<lb
  n="0364b22" ed="T"/>復說潔淨大明曰。<lb
  n="0364b23" ed="T"/></ab>
-<ab type="dharani">那謨那拏酤鉢囉野唵󱃟那儗哩嚩嚕拏<lb
+<ab type='dharani'>那謨那拏酤鉢囉野唵󱃟那儗哩嚩嚕拏<lb
  n="0364b24" ed="T"/>嚩底藥叉酤鉢囉莎賀<lb
  n="0364b25" ed="T"/></ab>
-<ab type="prose">誦此大明。加持水七遍當作潔淨。<lb
+<ab type='prose'>誦此大明。加持水七遍當作潔淨。<lb
  n="0364b26" ed="T"/>復說花大明曰。<lb
  n="0364b27" ed="T"/></ab>
-<ab type="dharani">那謨吠室囉摩那蘇多野那拏酤鉢囉<lb
+<ab type='dharani'>那謨吠室囉摩那蘇多野那拏酤鉢囉<lb
  n="0364b28" ed="T"/>野唵咄嚕咄嚕布瑟波嚩底母嚕<lb
  n="0364b29" ed="T"/>母嚕鉢囉摩虞呬也那拏酤鉢囉莎賀<pb n="0364c" id="T21.1288.0364c" ed="T"/><lb
  n="0364c01" ed="T"/><lb
  n="0364c02" ed="T"/></ab>
-<ab type="prose">誦此大明七遍。加持花當用供養。<lb
+<ab type='prose'>誦此大明七遍。加持花當用供養。<lb
  n="0364c03" ed="T"/>復說塗香大明曰。<lb
  n="0364c04" ed="T"/></ab>
-<ab type="dharani">那謨那拏酤鉢囉野儞尾也尾摩那<lb
+<ab type='dharani'>那謨那拏酤鉢囉野儞尾也尾摩那<lb
  n="0364c05" ed="T"/>拶囉野吉哩吉哩三滿多巘提唵尾戍<lb
  n="0364c06" ed="T"/>地莎賀<lb
  n="0364c07" ed="T"/></ab>
-<ab type="prose">誦此大明七遍。加持塗香當獻。<lb
+<ab type='prose'>誦此大明七遍。加持塗香當獻。<lb
  n="0364c08" ed="T"/>復說燈大明曰。<lb
  n="0364c09" ed="T"/></ab>
-<ab type="dharani">那謨那拏酤鉢囉寫入嚩梨多帝惹馱<lb
+<ab type='dharani'>那謨那拏酤鉢囉寫入嚩梨多帝惹馱<lb
  n="0364c10" ed="T"/>囉寫入嚩羅覩唵咄致莎賀<lb
  n="0364c11" ed="T"/></ab>
-<ab type="prose">誦此大明七遍。加持燈當獻。<lb
+<ab type='prose'>誦此大明七遍。加持燈當獻。<lb
  n="0364c12" ed="T"/>復說出生大明曰。<lb
  n="0364c13" ed="T"/></ab>
-<ab type="dharani">那謨那拏酤鉢囉寫吠室囉摩拏蘇多<lb
+<ab type='dharani'>那謨那拏酤鉢囉寫吠室囉摩拏蘇多<lb
  n="0364c14" ed="T"/>寫唵尾葛吒野尾惹野鉢囉嚩囉酤<lb
  n="0364c15" ed="T"/>鉢囉野莎賀<lb
  n="0364c16" ed="T"/></ab>
-<ab type="prose">誦此大明七遍。加持出生食。<lb
+<ab type='prose'>誦此大明七遍。加持出生食。<lb
  n="0364c17" ed="T"/>復說室珂嚩馱大明曰。<lb
  n="0364c18" ed="T"/></ab>
-<ab type="dharani">那謨那拏酤鉢囉野薩哩嚩儞嚩多滿<lb
+<ab type='dharani'>那謨那拏酤鉢囉野薩哩嚩儞嚩多滿<lb
  n="0364c19" ed="T"/>儞多野唵吉哩吉哩酤鉢囉酤鉢囉底<lb
  n="0364c20" ed="T"/>瑟致底瑟致室契莎賀<lb
  n="0364c21" ed="T"/></ab>
-<ab type="prose">誦此大明七遍已。當作室珂嚩馱。<lb
+<ab type='prose'>誦此大明七遍已。當作室珂嚩馱。<lb
  n="0364c22" ed="T"/>復說擁護大明曰。<lb
  n="0364c23" ed="T"/></ab>
-<ab type="dharani">那謨那拏酤鉢囉寫唵祖嚕祖嚕嚕嚕嚕<lb
+<ab type='dharani'>那謨那拏酤鉢囉寫唵祖嚕祖嚕嚕嚕嚕<lb
  n="0364c24" ed="T"/>酤鉢囉酤鉢囉阿訖囉摩設利囕<lb
  n="0364c25" ed="T"/>囉叉囉叉摩摩薩哩嚩哥朗度致度致<lb
  n="0364c26" ed="T"/>莎賀<lb
  n="0364c27" ed="T"/></ab>
-<ab type="prose">誦此大明。擁護己身及與他身。或用線或用<lb
+<ab type='prose'>誦此大明。擁護己身及與他身。或用線或用<lb
  n="0364c28" ed="T"/>水。或白芥子或灰或燒安悉香。以如是等物<lb
  n="0364c29" ed="T"/>加持二十一遍當作擁護。</ab></div><pb n="0365a" id="T21.1288.0365a" ed="T"/><lb
- n="0365a01" ed="T"/><div type="fen" level="2"><head>最上成就印相大明分第七</head><lb
- n="0365a02" ed="T"/><ab type="prose">爾時那拏天復說印相法。此印相乃是最上<lb
+ n="0365a01" ed="T"/><div type='fen' level='2'><head>最上成就印相大明分第七</head><lb
+ n="0365a02" ed="T"/><ab type='prose'>爾時那拏天復說印相法。此印相乃是最上<lb
  n="0365a03" ed="T"/>成就之法。行人將欲作法結。印先須潔淨兩<lb
  n="0365a04" ed="T"/>手。復用塗香已方可結印。<lb
  n="0365a05" ed="T"/>那拏天根本印<lb
@@ -672,68 +672,68 @@
  n="0365a10" ed="T"/>得成就。亦能成就一切法。結此印時誦大明<lb
  n="0365a11" ed="T"/>曰。<lb
  n="0365a12" ed="T"/></ab>
-<ab type="dharani">唵咄致咄致酤鉢囉莎賀<lb
+<ab type='dharani'>唵咄致咄致酤鉢囉莎賀<lb
  n="0365a13" ed="T"/></ab>
-<ab type="prose">母捺誐囉印<lb
+<ab type='prose'>母捺誐囉印<lb
  n="0365a14" ed="T"/>又復前印以拇指頭屈。中指如金剛安於頂<lb
  n="0365a15" ed="T"/>上。結此印時誦大明曰。<lb
  n="0365a16" ed="T"/></ab>
-<ab type="dharani">唵唧致唧致唧唧致母捺誐囉吽<lb
+<ab type='dharani'>唵唧致唧致唧唧致母捺誐囉吽<lb
  n="0365a17" ed="T"/></ab>
-<ab type="prose">此印及大明能成一切事。<lb
+<ab type='prose'>此印及大明能成一切事。<lb
  n="0365a18" ed="T"/>那拏天心印<lb
  n="0365a19" ed="T"/>不改前印。以二手如金剛。頭指屈如月。結此<lb
  n="0365a20" ed="T"/>印時誦大明曰。<lb
  n="0365a21" ed="T"/></ab>
-<ab type="dharani">唵咄嚕致咄嚕致莎賀<lb
+<ab type='dharani'>唵咄嚕致咄嚕致莎賀<lb
  n="0365a22" ed="T"/></ab>
-<ab type="prose">此印及大明。能調伏一切夜叉羅剎。及諸龍<lb
+<ab type='prose'>此印及大明。能調伏一切夜叉羅剎。及諸龍<lb
  n="0365a23" ed="T"/>乃至諸惡等。<lb
  n="0365a24" ed="T"/>諸天心印<lb
  n="0365a25" ed="T"/>不改前印。屈二頭指竪二拇指成印。結此印<lb
  n="0365a26" ed="T"/>時誦大明曰。<lb
  n="0365a27" ed="T"/></ab>
-<ab type="dharani">唵那拏哩尼儞嚩惹野吽發吒<lb
+<ab type='dharani'>唵那拏哩尼儞嚩惹野吽發吒<lb
  n="0365a28" ed="T"/></ab>
-<ab type="prose">此印及大明。能作一切成就法。<lb
+<ab type='prose'>此印及大明。能作一切成就法。<lb
  n="0365a29" ed="T"/>一切夜叉羅剎心印<pb n="0365b" id="T21.1288.0365b" ed="T"/><lb
  n="0365b01" ed="T"/>以二手平掌。頭指中指拇指緊相著成印。結<lb
  n="0365b02" ed="T"/>此印時誦大明曰。<lb
  n="0365b03" ed="T"/></ab>
-<ab type="dharani">唵那謨窣覩帝部帝說囉野那拏酤鉢<lb
+<ab type='dharani'>唵那謨窣覩帝部帝說囉野那拏酤鉢<lb
  n="0365b04" ed="T"/>囉寫努摩覩摩賀㜸那地鉢底曩吠<lb
  n="0365b05" ed="T"/>設囉嚩𧹞蘇多吽唧致莎賀<lb
  n="0365b06" ed="T"/></ab>
-<ab type="prose">此印及大明。善調諸曜及一切夜叉羅剎部<lb
+<ab type='prose'>此印及大明。善調諸曜及一切夜叉羅剎部<lb
  n="0365b07" ed="T"/>多等。結此印及誦明時。彼夜叉等咸悉潰<lb
  n="0365b08" ed="T"/>散。若不爾者頭裂七分。<lb
  n="0365b09" ed="T"/>諸天印<lb
  n="0365b10" ed="T"/>不改前印。開二頭指舒二小指。結此印時誦<lb
  n="0365b11" ed="T"/>大明曰。<lb
  n="0365b12" ed="T"/></ab>
-<ab type="dharani">唵鉢囉摩虞呬也葛入嚩囉入嚩囉鉢囉入嚩囉吽<lb
+<ab type='dharani'>唵鉢囉摩虞呬也葛入嚩囉入嚩囉鉢囉入嚩囉吽<lb
  n="0365b14" ed="T"/></ab>
-<ab type="prose">此印及大明。亦能作一切成就法。<lb
+<ab type='prose'>此印及大明。亦能作一切成就法。<lb
  n="0365b15" ed="T"/>那拏天心印<lb
  n="0365b16" ed="T"/>不改前印。以二頭指如環。二中指如鉤。磔開<lb
  n="0365b17" ed="T"/>二小指成印。結此印時誦心明曰。<lb
  n="0365b18" ed="T"/></ab>
-<ab type="dharani">唵󱃟囉󱃟囉鉢囉󱃟囉莎賀<lb
+<ab type='dharani'>唵󱃟囉󱃟囉鉢囉󱃟囉莎賀<lb
  n="0365b19" ed="T"/></ab>
-<ab type="prose">爾時那拏天說是印明已。復言若有行人作<lb
+<ab type='prose'>爾時那拏天說是印明已。復言若有行人作<lb
  n="0365b20" ed="T"/>諸成就法者。當須常行三密。所謂三昧及印<lb
  n="0365b21" ed="T"/>相大明等。然可依法。作諸成就事所作皆<lb
  n="0365b22" ed="T"/>成。</ab></div><lb
- n="0365b23" ed="T"/><div type="fen" level="2"><head>最上成就敬愛護摩法分第八</head><lb
- n="0365b24" ed="T"/><ab type="prose">爾時那拏天復說大明曰。<lb
+ n="0365b23" ed="T"/><div type='fen' level='2'><head>最上成就敬愛護摩法分第八</head><lb
+ n="0365b24" ed="T"/><ab type='prose'>爾時那拏天復說大明曰。<lb
  n="0365b25" ed="T"/></ab>
-<ab type="dharani">那謨那拏酤鉢囉野吠設囉嚩那蘇多<lb
- n="0365b26" ed="T"/>野怛󰍕他誐囉悉摩賀誐囉<lb
+<ab type='dharani'>那謨那拏酤鉢囉野吠設囉嚩那蘇多<lb
+ n="0365b26" ed="T"/>野怛𭔞他誐囉悉摩賀誐囉<lb
  n="0365b27" ed="T"/>悉儞呬梨呬梨呬梨彌梨彌梨莎賀阿母剛迷薩呬囉撚薩蘇嚩蘭𧹞薩契<lb
  n="0365b29" ed="T"/>儞也普𡁠閉野嚩薩怛囉朗哥<lb
  n="0365b30" ed="T"/>囉𧹞嚩設摩那野莎賀<pb n="0365c" id="T21.1288.0365c" ed="T"/><lb
  n="0365c01" ed="T"/></ab>
-<ab type="prose">若行人欲作護摩。當用嗢摩多木柴。及白芥<lb
+<ab type='prose'>若行人欲作護摩。當用嗢摩多木柴。及白芥<lb
  n="0365c02" ed="T"/>子阿怛摩嚕地囉等。誦大明同作護摩。一切<lb
  n="0365c03" ed="T"/>所作皆得成就。<lb
  n="0365c04" ed="T"/>又法若人欲得一切敬愛者。當用安悉香誦<lb
@@ -746,16 +746,16 @@
  n="0365c11" ed="T"/>此大明。加持二十一遍焚燒熏身。所向得勝。<lb
  n="0365c12" ed="T"/>復說大明曰。<lb
  n="0365c13" ed="T"/></ab>
-<ab type="dharani">阿嚩娑囉阿嚩娑囉㜸蹉㜸蹉說婆嚩曩莎<lb
+<ab type='dharani'>阿嚩娑囉阿嚩娑囉㜸蹉㜸蹉說婆嚩曩莎<lb
  n="0365c14" ed="T"/>賀<lb
  n="0365c15" ed="T"/></ab>
-<ab type="prose">若欲發送那拏天歸還本處者。先誦前大明<lb
+<ab type='prose'>若欲發送那拏天歸還本處者。先誦前大明<lb
  n="0365c16" ed="T"/>作護摩已復誦此大明七遍。時那拏天即還<lb
  n="0365c17" ed="T"/>本處。</ab></div><lb
- n="0365c18" ed="T"/><div type="fen" level="2"><head>大明曼拏羅成就儀軌分第九</head><lb
- n="0365c19" ed="T"/><ab type="prose">爾時那拏天復說大明曰。<lb
+ n="0365c18" ed="T"/><div type='fen' level='2'><head>大明曼拏羅成就儀軌分第九</head><lb
+ n="0365c19" ed="T"/><ab type='prose'>爾時那拏天復說大明曰。<lb
  n="0365c20" ed="T"/></ab>
-<ab type="dharani">那謨那拏酤鉢囉寫吠設囉嚩拏蘇多<lb
+<ab type='dharani'>那謨那拏酤鉢囉寫吠設囉嚩拏蘇多<lb
  n="0365c21" ed="T"/>寫摩賀虞呬也緊捺囉寫彌尾<lb
  n="0365c22" ed="T"/>也尾摩那嚩悉那寫阿他覩那拏<lb
  n="0365c23" ed="T"/>酤鉢囉寫摩賀虞呬也緊捺囉寫<lb
@@ -803,7 +803,7 @@
  n="0366b15" ed="T"/>儞尼儞尼儞尼吽吽多致多致覩<lb
  n="0366b16" ed="T"/>致覩致唧致唧致唧鉢致莎賀<lb
  n="0366b17" ed="T"/></ab>
-<ab type="prose">此大明有大威力。若以此大明加持安悉香<lb
+<ab type='prose'>此大明有大威力。若以此大明加持安悉香<lb
  n="0366b18" ed="T"/>焚燒。作諸宿曜事皆得成就。<lb
  n="0366b19" ed="T"/>又復行人先自潔淨。然後誦此大明。加持安<lb
  n="0366b20" ed="T"/>悉香二十一遍。以此香於那拏天晝像前燒<lb
@@ -876,5 +876,5 @@
  n="0367a29" ed="T"/>及用安悉香。所作皆成此法於諸法中最為<pb n="0367b" id="T21.1288.0367b" ed="T"/><lb
  n="0367b01" ed="T"/>殊勝。</ab></div><lb
  n="0367b02" ed="T"/>
-<ab type="juan" subtype="close">佛說最上祕密那拏天經卷下</ab></div>
+<ab type='juan' subtype='close'>佛說最上祕密那拏天經卷下</ab></div>
 </body></text></TEI>

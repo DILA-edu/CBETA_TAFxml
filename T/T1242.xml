@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1242</idno>
                 </bibl>
@@ -39,18 +39,18 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0203b" id="T21.1242.0203b" ed="T"/><lb
  n="0203b01" ed="T"/><lb
- n="0203b02" ed="T"/><div type="fen" level="2"><lb
+ n="0203b02" ed="T"/><div type='fen' level='2'><lb
  n="0203b03" ed="T"/>
-<ab type="juan" subtype="open">佛說妙吉祥瑜伽大教金剛陪囉<lb
+<ab type='juan' subtype='open'>佛說妙吉祥瑜伽大教金剛陪囉<lb
  n="0203b04" ed="T"/>嚩輪觀想成就儀軌經</ab><lb
  n="0203b05" ed="T"/><lb
  n="0203b06" ed="T"/><byline>西天譯經三藏朝散大夫試光祿卿<lb
  n="0203b07" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
  n="0203b08" ed="T"/><head>曼拏羅分第一</head><lb
- n="0203b09" ed="T"/><ab type="prose">爾時金剛陪囉嚩。白佛言世尊。我今為欲利<lb
+ n="0203b09" ed="T"/><ab type='prose'>爾時金剛陪囉嚩。白佛言世尊。我今為欲利<lb
  n="0203b10" ed="T"/>益諸眾生故。演說一切成就之法。願佛大慈<lb
  n="0203b11" ed="T"/>賜我無畏。佛言善哉陪囉嚩。為利益者恣汝<lb
  n="0203b12" ed="T"/>宣說。時陪囉嚩受佛勅已。即於一切人天之<lb
@@ -123,9 +123,9 @@
  n="0204a21" ed="T"/>或無福德。於如是上品法不獲成就者。於中<lb
  n="0204a22" ed="T"/>下品事亦獲成就。</ab></div><lb
  n="0204a23" ed="T"/><head>一切成就法分第二</head><lb
- n="0204a24" ed="T"/><ab type="prose">持明之人欲作調伏設咄嚕者。先想自身如<lb
+ n="0204a24" ed="T"/><ab type='prose'>持明之人欲作調伏設咄嚕者。先想自身如<lb
  n="0204a25" ed="T"/>金剛陪囉嚩大忿怒相。或遜婆曩。依摩呬沙<lb
- n="0204a26" ed="T"/>目佉法。取屍衣用毒藥及血鹽芥子。苦揀<lb
+ n="0204a26" ed="T"/>目佉法。取屍衣用毒藥及血鹽芥子。苦楝<lb
  n="0204a27" ed="T"/>木汁曼陀羅花汁合和為彩色。以烏翅為筆。<lb
  n="0204a28" ed="T"/>於前屍衣上畫金剛陪囉嚩曼拏羅。於中分<lb
  n="0204a29" ed="T"/>十六位中位。畫陪囉嚩像。面南裸形被髮。於<pb n="0204b" id="T21.1242.0204b" ed="T"/><lb
@@ -418,6 +418,6 @@
  n="0207b26" ed="T"/>殃咎。後受地獄無量之報。陪囉嚩說是語<lb
  n="0207b27" ed="T"/>已。禮佛而退。<lb
  n="0207b28" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說妙吉祥瑜伽大教大金剛陪囉嚩輪觀<lb
+</ab><ab type='juan' subtype='close'>佛說妙吉祥瑜伽大教大金剛陪囉嚩輪觀<lb
  n="0207b29" ed="T"/>想成就儀軌經</ab></div>
 </body></text></TEI>

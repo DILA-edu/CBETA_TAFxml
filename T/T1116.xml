@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1116</idno>
                 </bibl>
@@ -44,12 +44,12 @@
  n="0503a21" ed="T"/><lb
  n="0503a22" ed="T"/><lb
  n="0503a23" ed="T"/>
-<ab type="juan" subtype="open">廣大蓮華莊嚴曼拏羅滅一切罪<lb
+<ab type='juan' subtype='open'>廣大蓮華莊嚴曼拏羅滅一切罪<lb
  n="0503a24" ed="T"/>陀羅尼經</ab><lb
  n="0503a25" ed="T"/><lb
  n="0503a26" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚少卿<lb
  n="0503a27" ed="T"/>傳法大師臣施護奉　詔譯</byline><lb
- n="0503a28" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞。一時佛在波羅奈國鹿野苑中瞻<lb
+ n="0503a28" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞。一時佛在波羅奈國鹿野苑中瞻<lb
  n="0503a29" ed="T"/>波無憂樹下。與大比丘眾萬二千五十人俱。<pb n="0503b" id="T20.1116.0503b" ed="T"/><lb
  n="0503b01" ed="T"/>并慈氏菩薩等諸菩薩摩訶薩。及天龍夜叉<lb
  n="0503b02" ed="T"/>羅剎阿修羅乾闥婆迦樓羅緊那羅摩睺羅伽<lb
@@ -190,7 +190,7 @@
  n="0504c21" ed="T"/>佛世尊第二第三作如是請。頭面禮足住立<lb
  n="0504c22" ed="T"/>佛前。說此大悲心陀羅尼。<lb
  n="0504c23" ed="T"/></ab>
-<ab type="dharani">曩謨囉怛曩怛囉夜野曩麼阿<lb
+<ab type='dharani'>曩謨囉怛曩怛囉夜野曩麼阿<lb
  n="0504c24" ed="T"/>哩也嚩路吉帝濕嚩囉野冒地<lb
  n="0504c25" ed="T"/>薩怛嚩野摩賀薩怛嚩野摩賀迦<lb
  n="0504c26" ed="T"/>嚕尼迦野怛儞也他鉢納彌鉢納<lb
@@ -203,7 +203,7 @@
  n="0505a04" ed="T"/>馱也摩賀惹拏曩鉢囉禰閉娑<lb
  n="0505a05" ed="T"/>嚩賀<lb
  n="0505a06" ed="T"/></ab>
-<ab type="prose">爾時觀自在菩薩。說此大悲大明陀羅尼已。<lb
+<ab type='prose'>爾時觀自在菩薩。說此大悲大明陀羅尼已。<lb
  n="0505a07" ed="T"/>一切大地六種震動。一切天宮龍宮。及一切<lb
  n="0505a08" ed="T"/>藥叉健達嚩阿修羅迦樓羅緊那羅摩睺羅伽<lb
  n="0505a09" ed="T"/>等。所居宮殿皆大震動。一切魔王得大驚怖<lb
@@ -304,5 +304,5 @@
  n="0506a17" ed="T"/>及天人阿修羅乾闥婆人非人等。皆大歡喜<lb
  n="0506a18" ed="T"/>信受而去。<lb
  n="0506a19" ed="T"/>
-</ab><ab type="juan" subtype="close">廣大蓮華莊嚴曼拏羅滅一切罪陀羅尼經</ab></div>
+</ab><ab type='juan' subtype='close'>廣大蓮華莊嚴曼拏羅滅一切罪陀羅尼經</ab></div>
 </body></text></TEI>

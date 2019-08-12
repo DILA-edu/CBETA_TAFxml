@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1417</idno>
                 </bibl>
@@ -42,13 +42,13 @@
         <body><lb
  n="0932a13" ed="T"/><lb
  n="0932a14" ed="T"/><lb
- n="0932a15" ed="T"/><div type="jing" level="1"><lb
+ n="0932a15" ed="T"/><div type='jing' level='1'><lb
  n="0932a16" ed="T"/>
-<ab type="juan" subtype="open">佛說壞相金剛陀羅尼經</ab><lb
+<ab type='juan' subtype='open'>佛說壞相金剛陀羅尼經</ab><lb
  n="0932a17" ed="T"/><lb
  n="0932a18" ed="T"/><byline>光祿大夫大司徒三藏法師<lb
  n="0932a19" ed="T"/>沙囉巴奉　詔譯</byline><lb
- n="0932a20" ed="T"/><ab type="prose">如是我聞。一時婆伽梵在金剛場。爾時如來<lb
+ n="0932a20" ed="T"/><ab type='prose'>如是我聞。一時婆伽梵在金剛場。爾時如來<lb
  n="0932a21" ed="T"/>神力如持。金剛手身成金剛已。即日入金剛<lb
  n="0932a22" ed="T"/>三摩地。是時金剛手。承佛神力及一切如來<lb
  n="0932a23" ed="T"/>諸菩薩等加持力故。金剛忿怒說此最妙金<lb
@@ -61,7 +61,7 @@
  n="0932b01" ed="T"/>能祐護一切眾生息災增益。復能禁止迷悶<lb
  n="0932b02" ed="T"/>諸惡有情。皆是陀羅尼神呪之力。金剛手承<lb
  n="0932b03" ed="T"/>佛神力即說呪曰。</ab>
-<ab type="dharani">那謨　囉拏吒夜耶那<lb
+<ab type='dharani'>那謨　囉拏吒夜耶那<lb
  n="0932b04" ed="T"/>謨贊吒嚩日囉拔拏曳摩訶夜伽悉拏<lb
  n="0932b05" ed="T"/>拔怛曳怛姪他　唵怛囉吒怛囉吒覩<lb
  n="0932b06" ed="T"/>邏吒耶覩邏吒耶室菩吒　室菩吒<lb
@@ -116,7 +116,7 @@
  n="0933a01" ed="T"/>　班陀訶拏訶拏　阿彌哩帝<lb
  n="0933a02" ed="T"/>吽發吒<lb
  n="0933a03" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 罪業咸清淨　　盡除一切苦　　<lb
  n="0933a04" ed="T"/>諸經之根本　　莊嚴妙德相　　<lb
  n="0933a05" ed="T"/>有情諸損根　　命盡及夭橫　　<lb
@@ -139,5 +139,5 @@
  n="0933a22" ed="T"/>壞相金剛呪　　國王常沐浴　　
 </ab><lb
  n="0933a23" ed="T"/>
-<ab type="juan" subtype="close">佛說壞相金剛陀羅尼經</ab></div>
+<ab type='juan' subtype='close'>佛說壞相金剛陀羅尼經</ab></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0085</idno>
                 </bibl>
@@ -42,13 +42,13 @@
         <body><lb
  n="0904b24" ed="T"/><lb
  n="0904b25" ed="T"/><lb
- n="0904b26" ed="T"/><div type="jing" level="1"><lb
+ n="0904b26" ed="T"/><div type='jing' level='1'><lb
  n="0904b27" ed="T"/>
-<ab type="juan" subtype="open">佛說息諍因緣經</ab><lb
+<ab type='juan' subtype='open'>佛說息諍因緣經</ab><lb
  n="0904b28" ed="T"/><lb
  n="0904b29" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<pb n="0904c" ed="T" id="T01.0085.0904c"/><lb
  n="0904c01" ed="T"/>傳法大師賜紫臣施護奉　詔譯</byline><lb
- n="0904c02" ed="T"/><ab type="prose">如是我聞：一時，世尊在舍摩迦子聚落之中，<lb
+ n="0904c02" ed="T"/><ab type='prose'>如是我聞：一時，世尊在舍摩迦子聚落之中，<lb
  n="0904c03" ed="T"/>坐夏安居，諸苾芻眾去佛不遠亦各安居。時，<lb
  n="0904c04" ed="T"/>有沙門名曰尊那，在惹盧迦林中坐夏安居。<lb
  n="0904c05" ed="T"/>彼有外道尼乾陀惹提子，是極惡者忽爾命<lb
@@ -256,5 +256,5 @@
  n="0907a04" ed="T"/>一切處常得安樂，如我現在住世說法教化<lb
  n="0907a05" ed="T"/>眾生等無有異。」<lb
  n="0907a06" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說息諍因緣經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說息諍因緣經</ab></div>
 </body></text></TEI>

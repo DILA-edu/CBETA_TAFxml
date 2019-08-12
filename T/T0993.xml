@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n0993</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0506c06" ed="T"/><lb
  n="0506c07" ed="T"/><lb
- n="0506c08" ed="T"/><div type="jing" level="1"><lb
+ n="0506c08" ed="T"/><div type='jing' level='1'><lb
  n="0506c09" ed="T"/>
-<ab type="juan" subtype="open">大雲經請雨品第六十四</ab><lb
+<ab type='juan' subtype='open'>大雲經請雨品第六十四</ab><lb
  n="0506c10" ed="T"/><lb
  n="0506c11" ed="T"/><byline>周宇文氏天竺三藏闍那耶舍譯</byline><lb
- n="0506c12" ed="T"/><ab type="prose">如是我聞。一時佛住難陀跋難陀龍王宮。於<lb
+ n="0506c12" ed="T"/><ab type='prose'>如是我聞。一時佛住難陀跋難陀龍王宮。於<lb
  n="0506c13" ed="T"/>摩尼德大雲輪藏寶樓閣中。與大比丘及大菩<lb
  n="0506c14" ed="T"/>薩并諸大龍一切眾等。其名曰難陀龍王優<lb
  n="0506c15" ed="T"/>鉢難陀龍王。娑伽羅龍王阿那婆達多龍王。<lb
@@ -274,7 +274,7 @@
  n="0509b04" ed="T"/>王白佛。何者名為施一切樂陀羅尼句。爾時<lb
  n="0509b05" ed="T"/>世尊即說呪曰。<lb
  n="0509b06" ed="T"/></ab>
-<ab type="dharani">怛地也他陀呵囉尼<lb
+<ab type='dharani'>怛地也他陀呵囉尼<lb
  n="0509b07" ed="T"/>陀呵囉尼欝多囉尼三波囉帝師<lb
  n="0509b08" ed="T"/>尿毘闍耶跋唎拏薩帝夜波羅帝闍<lb
  n="0509b09" ed="T"/>若長那跋坻欝多波達儞比那漢儞<lb
@@ -287,7 +287,7 @@
  n="0509b16" ed="T"/>盧迦那地師恥坻波羅闍若闍若<lb
  n="0509b17" ed="T"/>那擗醯莎呵<lb
  n="0509b18" ed="T"/></ab>
-<ab type="prose">佛言。大龍王。此陀羅尼。名施一切諸龍安樂。<lb
+<ab type='prose'>佛言。大龍王。此陀羅尼。名施一切諸龍安樂。<lb
  n="0509b19" ed="T"/>是諸龍等應常誦持。一切資生恒得自在入<lb
  n="0509b20" ed="T"/>自在門。為諸如來威神所護。與一切龍身心<lb
  n="0509b21" ed="T"/>安樂。復次大龍王有佛世尊。號曰雲生建大<lb
@@ -377,7 +377,7 @@
  n="0510b18" ed="T"/>集諸龍能令龍天歡喜踊躍。能壞一切諸魔<lb
  n="0510b19" ed="T"/>境界。能令眾生具足安樂。而說呪曰。<lb
  n="0510b20" ed="T"/></ab>
-<ab type="dharani">怛姪他摩訶若那婆婆呵薩尼失梨<lb
+<ab type='dharani'>怛姪他摩訶若那婆婆呵薩尼失梨<lb
  n="0510b21" ed="T"/>帝殊羅欹彌地履荼毘伽囉尛鉢耶囉僧<lb
  n="0510b22" ed="T"/>呵怛禰波羅摩避囉闍尼摩羅求那鷄鬪<lb
  n="0510b23" ed="T"/>蘇栗耶波羅毘毘摩嵐伽耶師󰣐婆呵囉<lb
@@ -400,10 +400,10 @@
  n="0510c11" ed="T"/>遮那耶多他竭多耶南無薩婆佛陀菩<lb
  n="0510c12" ed="T"/>提薩坻毘呵<lb
  n="0510c13" ed="T"/></ab>
-<ab type="prose">爾時一切諸龍為閻浮提降甘雨故受持此<lb
+<ab type='prose'>爾時一切諸龍為閻浮提降甘雨故受持此<lb
  n="0510c14" ed="T"/>呪。若後末世惡災行時能令不起。諸佛菩薩<lb
  n="0510c15" ed="T"/>發真實語重說呪曰。</ab>
-<ab type="dharani">三耶挮淡娑羅娑<lb
+<ab type='dharani'>三耶挮淡娑羅娑<lb
  n="0510c16" ed="T"/>羅斯利斯利蘇留蘇留那伽男闍婆闍<lb
  n="0510c17" ed="T"/>婆時毘時毘殊復殊復摩呵那伽男阿<lb
  n="0510c18" ed="T"/>伽車咃佛陀薩禰呵闍浮提坻婆羅<lb
@@ -427,11 +427,11 @@
  n="0511a09" ed="T"/>羅質多婆利沙馱簸伊呵閻浮提卑薩<lb
  n="0511a10" ed="T"/>婆多他竭多薩坻那蘇和呵<lb
  n="0511a11" ed="T"/></ab>
-<ab type="prose">若誦此呪。閻浮提內一切諸龍。皆來集聚悲<lb
+<ab type='prose'>若誦此呪。閻浮提內一切諸龍。皆來集聚悲<lb
  n="0511a12" ed="T"/>喜捨心。又以慈心降注甘雨。諸佛如來威神<lb
  n="0511a13" ed="T"/>所加真實不虛。<lb
  n="0511a14" ed="T"/></ab>
-<ab type="dharani">怛吒怛吒帝致帝致鬪晝鬪晝摩呵摩<lb
+<ab type='dharani'>怛吒怛吒帝致帝致鬪晝鬪晝摩呵摩<lb
  n="0511a15" ed="T"/>尼摩俱吒毛林達羅尼比沙于留必那<lb
  n="0511a16" ed="T"/>三摩羅他帝利曷囉怛那地師吒南跋折<lb
  n="0511a17" ed="T"/>囉陀羅薩坻那跋利沙他伊呵閻浮地卑莎<lb
@@ -618,7 +618,7 @@
  n="0513b06" ed="T"/>多囉折坻娜鉢婆囉波利沙坻呵閻浮<lb
  n="0513b07" ed="T"/>提卑莎呵<lb
  n="0513b08" ed="T"/></ab>
-<ab type="prose">若請大雨及止雨法。汝今諦聽。其請雨主於<lb
+<ab type='prose'>若請大雨及止雨法。汝今諦聽。其請雨主於<lb
  n="0513b09" ed="T"/>一切眾生。起慈悲心受八戒齋。於空露地應<lb
  n="0513b10" ed="T"/>張青帳懸十青幡。淨治其地牛糞塗場。請誦<lb
  n="0513b11" ed="T"/>呪師坐青座上。若在家人受八戒齋。若比丘<lb
@@ -645,5 +645,5 @@
  n="0513c04" ed="T"/>能具足依此修行。不降雨者無有是處。唯除<lb
  n="0513c05" ed="T"/>不信不至心者。<lb
  n="0513c06" ed="T"/>
-</ab><ab type="juan" subtype="close">大雲經請雨品第六十四</ab></div>
+</ab><ab type='juan' subtype='close'>大雲經請雨品第六十四</ab></div>
 </body></text></TEI>

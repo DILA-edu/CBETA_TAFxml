@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T24</biblScope>
                     <idno type="Taisho">T24n1470</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0912c21" ed="T"/><lb
  n="0912c22" ed="T"/><lb
  n="0912c23" ed="T"/>
-<ab type="juan" subtype="open">大比丘三千威儀卷上</ab><lb
+<ab type='juan' subtype='open'>大比丘三千威儀卷上</ab><lb
  n="0912c24" ed="T"/><lb
  n="0912c25" ed="T"/><byline>後漢安息國三藏安世高譯</byline><lb
- n="0912c26" ed="T"/><div type="jing" level="1"><ab type="prose">佛弟子者，有二種：一者在家，二者出家。在家<lb
+ n="0912c26" ed="T"/><div type='jing' level='1'><ab type='prose'>佛弟子者，有二種：一者在家，二者出家。在家<lb
  n="0912c27" ed="T"/>者，初受五戒為本，遮三惡趣、求人天福。以未<lb
  n="0912c28" ed="T"/>能永捨家眷屬緣累故，更加三戒助前五戒，<lb
  n="0912c29" ed="T"/>一日一夜種未來世永出因緣。出家者，行有<pb n="0913a" ed="T" id="T24.1470.0913a"/><lb
@@ -489,7 +489,7 @@
  n="0918a13" ed="T"/>癡。」若無有，不得還語。師教去，即起作禮，還<lb
  n="0918a14" ed="T"/>向出戶。<lb
  n="0918a15" ed="T"/>復有五事：一者當為師取賓揵澡槃出淨洗，<lb
- n="0918a16" ed="T"/>著水持還。二者當拂拭床席次襞被杭。三者<lb
+ n="0918a16" ed="T"/>著水持還。二者當拂拭床席次襞被枕。三者<lb
  n="0918a17" ed="T"/>當為師襞袈裟著常處。四者自却住，師教坐<lb
  n="0918a18" ed="T"/>不得便坐，師三言坐乃應坐。若問：「卿經利不？」<lb
  n="0918a19" ed="T"/>若不教誦不應便誦。五者若自問經戒，視時<lb
@@ -588,14 +588,14 @@
  n="0919a25" ed="T"/>經，隨時因緣應問。人身不安隱不應問；若不<lb
  n="0919a26" ed="T"/>歡喜不應問；人說他事不應問。<lb
  n="0919a27" ed="T"/>
-</ab><ab type="juan" subtype="close">大比丘三千威儀卷上</ab><pb n="0919b" ed="T" id="T24.1470.0919b"/><lb
+</ab><ab type='juan' subtype='close'>大比丘三千威儀卷上</ab><pb n="0919b" ed="T" id="T24.1470.0919b"/><lb
  n="0919b01" ed="T"/><lb
  n="0919b02" ed="T"/><lb
  n="0919b03" ed="T"/>
-<ab type="juan" subtype="open">大比丘三千威儀卷下</ab><lb
+<ab type='juan' subtype='open'>大比丘三千威儀卷下</ab><lb
  n="0919b04" ed="T"/><lb
  n="0919b05" ed="T"/><byline>後漢安息國三藏安世高譯</byline><lb
- n="0919b06" ed="T"/><ab type="prose">十二頭陀者：一者不受人請，日行乞食，亦不<lb
+ n="0919b06" ed="T"/><ab type='prose'>十二頭陀者：一者不受人請，日行乞食，亦不<lb
  n="0919b07" ed="T"/>受比丘僧一飯食分錢財。二者止宿山上，不<lb
  n="0919b08" ed="T"/>宿人舍郡縣聚落。三者不得從人乞衣被，人<lb
  n="0919b09" ed="T"/>與衣被亦不受，但取丘塚間死人所棄衣補<lb
@@ -760,7 +760,7 @@
  n="0921a23" ed="T"/>持手巾拭膩手。<lb
  n="0921a24" ed="T"/>復有五事：一者前杯著設橫當正之，不正者<lb
  n="0921a25" ed="T"/>不得食；二者食具已墮不應復食；三者若人<lb
- n="0921a26" ed="T"/>來有所益，常當以指墮柱之；四者不見來時<lb
+ n="0921a26" ed="T"/>來有所益，常當以指隨柱之；四者不見來時<lb
  n="0921a27" ed="T"/>不應食；五者飯食在前不得甞味。<lb
  n="0921a28" ed="T"/>復有五事：一者飯時不得於坐上失風；二者<lb
  n="0921a29" ed="T"/>飯未已不得中唾前地；三者急欲唾，唾履下；<pb n="0921b" ed="T" id="T24.1470.0921b"/><lb
@@ -775,7 +775,7 @@
  n="0921b09" ed="T"/>手；二者不得奮濕取燥；三者不得以手拭面<lb
  n="0921b10" ed="T"/>目鼻口；四者不得言我自有，不取持去；五者<lb
  n="0921b11" ed="T"/>當如法用之。<lb
- n="0921b12" ed="T"/>復有五事：一者以拭手燥即當藏棄膝上巾；<lb
+ n="0921b12" ed="T"/>復有五事：一者以拭手燥即當藏弆膝上巾；<lb
  n="0921b13" ed="T"/>二者已即當正袈裟，不得羅左右人；三者下<lb
  n="0921b14" ed="T"/>座澡未已，不得呵令使來；四者日達嚫不得<lb
  n="0921b15" ed="T"/>亂語；五者達嚫未竟不得妄起。<lb
@@ -880,7 +880,7 @@
  n="0922b27" ed="T"/>作，不得使物器大有聲。八者一切當可眾人<lb
  n="0922b28" ed="T"/>意，不得自在直行強。九者若人持飯來、若餘<lb
  n="0922b29" ed="T"/>物多少，即當白眾人使達嚫，不得獨受便遣<pb n="0922c" ed="T" id="T24.1470.0922c"/><lb
- n="0922c01" ed="T"/>令去。十者即分布令遍，設使過時當藏棄，不<lb
+ n="0922c01" ed="T"/>令去。十者即分布令遍，設使過時當藏弆，不<lb
  n="0922c02" ed="T"/>得便先當視。十一者若檀越來言欲作飯，<lb
  n="0922c03" ed="T"/>未見所有，不得即對人說；若主人持錢來<lb
  n="0922c04" ed="T"/>作比丘僧飯，若鉢泥僧與主人，若白賢者，共<lb
@@ -979,7 +979,7 @@
  n="0923c10" ed="T"/>當更淨掃地。<lb
  n="0923c11" ed="T"/>有五事灑地：一者當却行、二者當輕手、三者<lb
  n="0923c12" ed="T"/>當令遍、四者當待燥、五者不得濺人衣。掃<lb
- n="0923c13" ed="T"/>塔地有五事：一者不得背佛；二者不得不掉<lb
+ n="0923c13" ed="T"/>塔地有五事：一者不得背佛；二者大得不掉<lb
  n="0923c14" ed="T"/>手污人足；三者不得掃去墡土；四者當自手<lb
  n="0923c15" ed="T"/>除出棄之；五者不得當人道，亦莫棄水中及<lb
  n="0923c16" ed="T"/>圊中。<lb
@@ -1142,7 +1142,7 @@
  n="0925b28" ed="T"/>者已有人彈指，不得逼。六者已止住，三彈指<lb
  n="0925b29" ed="T"/>乃踞。七者正踞中。八者不得一足前一足却。<pb n="0925c" ed="T" id="T24.1470.0925c"/><lb
  n="0925c01" ed="T"/>九者不得令身倚。十者斂衣不得使垂圊中。<lb
- n="0925c02" ed="T"/>十一者不得大咽使而赤。十二者當直視前<lb
+ n="0925c02" ed="T"/>十一者不得大咽使面赤。十二者當直視前<lb
  n="0925c03" ed="T"/>不得顧聽。十三者不得唾污四壁。十四者不<lb
  n="0925c04" ed="T"/>得低頭視圊中。十五者不得視陰。十六者不<lb
  n="0925c05" ed="T"/>得以手持陰。十七者不得持草畫地作字。<lb
@@ -1188,5 +1188,5 @@
  n="0926a16" ed="T"/>僧會，以共專精平等結界，已說禁戒。眾僧可<lb
  n="0926a17" ed="T"/>之，便默然持。</ab></div><lb
  n="0926a18" ed="T"/>
-<ab type="juan" subtype="close">大比丘三千威儀卷下</ab>
+<ab type='juan' subtype='close'>大比丘三千威儀卷下</ab>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n1009</idno>
                 </bibl>
@@ -39,19 +39,19 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0675c02" ed="T"/><lb
  n="0675c03" ed="T"/><lb
- n="0675c04" ed="T"/><div type="jing" level="2"><lb
+ n="0675c04" ed="T"/><div type='jing' level='2'><lb
  n="0675c05" ed="T"/>
-<ab type="juan" subtype="open">出生無邊門陀羅尼經</ab><lb
+<ab type='juan' subtype='open'>出生無邊門陀羅尼經</ab><lb
  n="0675c06" ed="T"/><lb
  n="0675c07" ed="T"/><byline>開府儀同三司特進試鴻臚卿<lb
  n="0675c08" ed="T"/>肅國公食邑三千戶賜紫贈司<lb
  n="0675c09" ed="T"/>空諡大鑒正號大廣智大興善<lb
  n="0675c10" ed="T"/>寺三藏沙門不空奉　詔譯</byline><lb
- n="0675c11" ed="T"/><ab type="prose">如是我聞。一時薄伽梵住毘舍離大林重樓<lb
+ n="0675c11" ed="T"/><ab type='prose'>如是我聞。一時薄伽梵住毘舍離大林重樓<lb
  n="0675c12" ed="T"/>閣。與大苾芻眾八千人俱。眾多菩薩摩訶薩。<lb
  n="0675c13" ed="T"/>爾時世尊以念具慧知我棄捨壽行。却後三<lb
  n="0675c14" ed="T"/>月當般涅槃。時世尊即命具壽大目揵連。往<lb
@@ -60,11 +60,11 @@
  n="0675c17" ed="T"/>頃以自神足力。到須彌頂以大音聲。宣告大<lb
  n="0675c18" ed="T"/>千世界。<lb
  n="0675c19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 汝等咸聽此世界　　其中有情佛弟子　　<lb
  n="0675c20" ed="T"/>大師今當降法雨　　願樂聽者咸來集　　
 </ab><lb
- n="0675c21" ed="T"/><ab type="prose">爾時即四萬苾芻。皆來集會於大林重樓閣。<lb
+ n="0675c21" ed="T"/><ab type='prose'>爾時即四萬苾芻。皆來集會於大林重樓閣。<lb
  n="0675c22" ed="T"/>是諸苾芻既見世尊。頂禮佛足却坐一面。<lb
  n="0675c23" ed="T"/>爾時舍利弗承佛威力作是念。我當應作如<lb
  n="0675c24" ed="T"/>是色類神通現行。由此神通現行作已。乃至<pb n="0676a" id="T19.1009.0676a" ed="T"/><lb
@@ -118,7 +118,7 @@
  n="0676b19" ed="T"/>時世尊告舍利弗。菩薩摩訶薩於諸一切法。<lb
  n="0676b20" ed="T"/>不取不著應當受持此真言陀羅尼句。<lb
  n="0676b21" ed="T"/></ab>
-<ab type="dharani">怛儞也他阿寧阿嵠麼嵠目嵠<lb
+<ab type='dharani'>怛儞也他阿寧阿嵠麼嵠目嵠<lb
  n="0676b22" ed="T"/>三曼多目嵠素迷婆底也囉迷<lb
  n="0676b23" ed="T"/>掃底欲訖低儞嚕訖諦儞儞嚕訖底<lb
  n="0676b24" ed="T"/>鉢囉陛呬黎呬里迦󰺢鞞󰺢<lb
@@ -143,7 +143,7 @@
  n="0676c18" ed="T"/>抳達磨儞馱那愚怛嚟三<lb
  n="0676c19" ed="T"/>曼多皤捺黎薩嚩怛他蘖多地瑟咤那地瑟恥諦娑嚩訶<lb
  n="0676c21" ed="T"/></ab>
-<ab type="prose">說是陀羅尼已。告舍利弗。當受持此陀羅尼<lb
+<ab type='prose'>說是陀羅尼已。告舍利弗。當受持此陀羅尼<lb
  n="0676c22" ed="T"/>時。菩薩摩訶薩不思惟有為無為法。無所得<lb
  n="0676c23" ed="T"/>不誹謗不棄捨。不執受不開發。彼所得於斷<lb
  n="0676c24" ed="T"/>於修不生增益。不作不非作不現行。不見法<lb
@@ -173,7 +173,7 @@
  n="0677a19" ed="T"/>菩薩行。差別由無相陀羅尼獲得。爾時世尊<lb
  n="0677a20" ed="T"/>說伽他曰。<lb
  n="0677a21" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 不求於空法　　不戲論菩提　　<lb
  n="0677a22" ed="T"/>不傾動法界　　則得陀羅尼　　<lb
  n="0677a23" ed="T"/>應當聽此經　　無盡陀羅尼　　<lb
@@ -217,14 +217,14 @@
  n="0677c03" ed="T"/>得近於正覺　　是故汝當習　　<lb
  n="0677c04" ed="T"/>獲得寂靜句　　即得三菩提　　
 </ab><lb
- n="0677c05" ed="T"/><ab type="prose">爾時世尊復告舍利弗。菩薩有四法成就。得<lb
+ n="0677c05" ed="T"/><ab type='prose'>爾時世尊復告舍利弗。菩薩有四法成就。得<lb
  n="0677c06" ed="T"/>此陀羅尼。何者為四。所謂不著貪欲。於諸有<lb
  n="0677c07" ed="T"/>情不生嫉妬。一切自己財物捨施心無追悔。<lb
  n="0677c08" ed="T"/>晝夜愛法與法自娛。舍利弗菩薩摩訶薩。由<lb
  n="0677c09" ed="T"/>成就四法得陀羅尼。<lb
  n="0677c10" ed="T"/>爾時世尊復說伽他曰。<lb
  n="0677c11" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 應棄臭穢欲　　弊惡魔之境　　<lb
  n="0677c12" ed="T"/>由此為地獄　　亦為惡趣因　　<lb
  n="0677c13" ed="T"/>於他勿嫉妬　　為親名利故　　<lb
@@ -234,14 +234,14 @@
  n="0677c17" ed="T"/>晝夜專求法　　一心求菩提　　<lb
  n="0677c18" ed="T"/>陀羅尼現前　　由習如是經　　
 </ab><lb
- n="0677c19" ed="T"/><ab type="prose">復次舍利弗菩薩摩訶薩。成就四法得陀羅<lb
+ n="0677c19" ed="T"/><ab type='prose'>復次舍利弗菩薩摩訶薩。成就四法得陀羅<lb
  n="0677c20" ed="T"/>尼。云何為四。所謂習阿蘭若極無諍處。住深<lb
  n="0677c21" ed="T"/>法忍辱力。不著利養恭敬名聞。於諸所愛物。<lb
  n="0677c22" ed="T"/>捨施而不顧戀。乃至於身命。舍利弗由成就<lb
  n="0677c23" ed="T"/>此四法。即得陀羅尼。<lb
  n="0677c24" ed="T"/>爾時世尊復說伽他曰。<lb
  n="0677c25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 應住蘭若佛稱讚　　住彼勿應輕他人　　<lb
  n="0677c26" ed="T"/>當樂甚深之法忍　　精勤由如救頭燃　　<lb
  n="0677c27" ed="T"/>勿於利養生貪著　　由此因緣成矯行　　<lb
@@ -251,7 +251,7 @@
  n="0678a02" ed="T"/>貪利之人無念慧　　無信無戒無思法　　<lb
  n="0678a03" ed="T"/>菩提遙遠如空地　　是故遠離貪愛心　　
 </ab><lb
- n="0678a04" ed="T"/><ab type="prose">復次舍利弗菩薩摩訶薩。成就四法得此陀<lb
+ n="0678a04" ed="T"/><ab type='prose'>復次舍利弗菩薩摩訶薩。成就四法得此陀<lb
  n="0678a05" ed="T"/>羅尼。云何為四。所謂入八字義。何者為八。謂。<lb
  n="0678a06" ed="T"/>􄖵跛字者勝義。隨入一切法無我。<lb
  n="0678a07" ed="T"/>􄙊攞字者相隨形好無相隨形好故。隨入一<lb
@@ -275,24 +275,24 @@
  n="0678a25" ed="T"/>四法成就。得是陀羅尼。<lb
  n="0678a26" ed="T"/>爾時世尊復說伽他曰。<lb
  n="0678a27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 思惟八字義　　書寫持此經　　<lb
  n="0678a28" ed="T"/>半月當讀習　　亦勸他有情　　<lb
  n="0678a29" ed="T"/>近菩提廣慧　　現見一切佛　　<pb n="0678b" id="T19.1009.0678b" ed="T"/><lb
  n="0678b01" ed="T"/>所住十方界　　從彼學生信　　
 </ab><lb
- n="0678b02" ed="T"/><ab type="prose">舍利弗菩薩摩訶薩。修習此陀羅尼者。得四<lb
+ n="0678b02" ed="T"/><ab type='prose'>舍利弗菩薩摩訶薩。修習此陀羅尼者。得四<lb
  n="0678b03" ed="T"/>種功德。何者為四。所謂十方一切諸佛如來<lb
  n="0678b04" ed="T"/>咸皆攝受。無諸魔障。業障速得遠離。獲得無<lb
  n="0678b05" ed="T"/>礙辯才。舍利弗菩薩摩訶薩。由習此陀羅尼。<lb
  n="0678b06" ed="T"/>得四種功德。<lb
  n="0678b07" ed="T"/>爾時世尊復說伽他曰。<lb
  n="0678b08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 諸佛皆攝受　　魔眾不得便　　<lb
  n="0678b09" ed="T"/>業障速遠離　　得無礙辯才　　
 </ab><lb
- n="0678b10" ed="T"/><ab type="prose">舍利弗古往過去無數過無數廣大高遠無量<lb
+ n="0678b10" ed="T"/><ab type='prose'>舍利弗古往過去無數過無數廣大高遠無量<lb
  n="0678b11" ed="T"/>劫。是時有佛。名寶吉祥威光王劫如來應供<lb
  n="0678b12" ed="T"/>正遍知。出興於世。明行足善逝世間解無上<lb
  n="0678b13" ed="T"/>士調御丈夫天人師佛世尊。復次舍利弗彼<lb
@@ -331,7 +331,7 @@
  n="0678c17" ed="T"/>如來。一切有情不知其量。不可知不可思。爾<lb
  n="0678c18" ed="T"/>時世尊復說伽他曰。<lb
  n="0678c19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 聞此經已生隨喜　　書寫受持及讀誦　　<lb
  n="0678c20" ed="T"/>一切眾生不能測　　福德流注生不絕　　<lb
  n="0678c21" ed="T"/>一切生中見諸佛　　獲得淨信不思議　　<lb
@@ -349,7 +349,7 @@
  n="0679a04" ed="T"/>是故聞已專精勤　　智慧菩薩受持此　　<lb
  n="0679a05" ed="T"/>書寫總持思惟者　　我說菩提得不難　　
 </ab><lb
- n="0679a06" ed="T"/><ab type="prose">復次舍利弗於此出生無邊門陀羅尼。加行<lb
+ n="0679a06" ed="T"/><ab type='prose'>復次舍利弗於此出生無邊門陀羅尼。加行<lb
  n="0679a07" ed="T"/>菩薩摩訶薩。有八大藥叉住雪山中。皆來增<lb
  n="0679a08" ed="T"/>加修行者身。威力晝夜加持擁護。何者為八。<lb
  n="0679a09" ed="T"/>所謂初名戍囉藥叉。次名涅哩荼藥<lb
@@ -381,8 +381,8 @@
  n="0679b06" ed="T"/>菩薩天人阿修羅乾闥婆等。皆大歡喜。信受<lb
  n="0679b07" ed="T"/>奉行。<lb
  n="0679b08" ed="T"/>
-</ab><ab type="juan" subtype="close">出生無邊門陀羅尼經</ab></div><lb
- n="0679b09" ed="T"/><div type="w" level="2"><ab type="dharani">􄕗􄟯􄕤􆿅􄖯􆿅􄑒􄗥􄑒􈁃􄑒􄙺􄗥􆩖<lb
+</ab><ab type='juan' subtype='close'>出生無邊門陀羅尼經</ab></div><lb
+ n="0679b09" ed="T"/><div type='w' level='2'><ab type='dharani'>􄕗􄟯􄕤􆿅􄖯􆿅􄑒􄗥􄑒􈁃􄑒􄙺􄗥􆩖<lb
  n="0679b10" ed="T"/>􈁃􄑒􈂼􄗫􄙺􄟗􄗽􄗫􄚥􄕙􄗵􈁍􄕱􄙂<lb
  n="0679b11" ed="T"/>􈅯􄕱􄙂􈁍􄪼􄗟􄚪􄙐􄚪􄙌􄑀􅛲􄑀􅛬<lb
  n="0679b12" ed="T"/>􄙰􄙻􄙐􄙺􄙖􄙖􄕙􄚪􄙐􇥗􇥗􇥗􇥗􇥗<lb

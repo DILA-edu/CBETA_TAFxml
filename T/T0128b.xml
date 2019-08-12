@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T02</biblScope>
                     <idno type="Taisho">T02n0128b</idno>
                 </bibl>
@@ -42,10 +42,10 @@
         <body><lb
  n="0837c08" ed="T"/><lb
  n="0837c09" ed="T"/>
-<ab type="juan" subtype="open">須摩提女經</ab><lb
+<ab type='juan' subtype='open'>須摩提女經</ab><lb
  n="0837c10" ed="T"/><lb
  n="0837c11" ed="T"/><byline>吳月支優婆塞支謙譯</byline><lb
- n="0837c12" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時，佛在舍衛國祇樹給孤獨園，<lb
+ n="0837c12" ed="T"/><div type='jing' level='1'><ab type='prose'>聞如是：一時，佛在舍衛國祇樹給孤獨園，<lb
  n="0837c13" ed="T"/>爾時，世尊與大比丘眾千二百五十人俱。<lb
  n="0837c14" ed="T"/>爾時，有長者名阿那邠邸，饒財多寶金銀<lb
  n="0837c15" ed="T"/>珍寶，硨磲、碼碯、真珠、琥珀、水精、瑠璃，象、馬、<lb
@@ -207,7 +207,7 @@
  n="0839b26" ed="T"/>在此困厄，唯世尊當善察。」又以此偈而頌<lb
  n="0839b27" ed="T"/>曰：<lb
  n="0839b28" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「觀世靡不周，　　佛眼之所察，　　<lb
  n="0839b29" ed="T"/>降鬼諸神王，　　及降鬼子母。　　<pb n="0839c" ed="T" id="T02.0128b.0839c"/><lb
  n="0839c01" ed="T"/>如彼噉人鬼，　　取人指作鬘，　　<lb
@@ -225,7 +225,7 @@
  n="0839c13" ed="T"/>雨諸種種華，　　而不可稱量，　　<lb
  n="0839c14" ed="T"/>悉滿祇洹林，　　如來笑放光。　　
 </ab><lb
- n="0839c15" ed="T"/><ab type="prose">爾時，阿難見祇洹中有此妙香，見已至世<lb
+ n="0839c15" ed="T"/><ab type='prose'>爾時，阿難見祇洹中有此妙香，見已至世<lb
  n="0839c16" ed="T"/>尊所，到已頭面禮足在一面立。爾時，阿難<lb
  n="0839c17" ed="T"/>白世尊言：「唯願世尊！此是何等香遍滿祇<lb
  n="0839c18" ed="T"/>洹精舍中？」世尊告曰：「此香是佛使，滿富城<lb
@@ -255,184 +255,184 @@
  n="0840a13" ed="T"/>諸人民，上高樓上欲覲世尊，遙見使人負<lb
  n="0840a14" ed="T"/>釜而來。時長者與女便說此偈：<lb
  n="0840a15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「白衣而長髮，　　露身如疾風，　　<lb
  n="0840a16" ed="T"/>又復負大釜，　　此是汝師耶？」　　
 </ab><lb
- n="0840a17" ed="T"/><ab type="prose">是時女復以偈報曰：<lb
+ n="0840a17" ed="T"/><ab type='prose'>是時女復以偈報曰：<lb
  n="0840a18" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「此非尊弟子，　　如來之使人，　　<lb
  n="0840a19" ed="T"/>三道具五通，　　此人名乾荼。」　　
 </ab><lb
- n="0840a20" ed="T"/><ab type="prose">爾時，乾荼使人繞城三匝往詣長者家。是<lb
+ n="0840a20" ed="T"/><ab type='prose'>爾時，乾荼使人繞城三匝往詣長者家。是<lb
  n="0840a21" ed="T"/>時，均頭沙彌化作五百華樹，色若干種皆<lb
  n="0840a22" ed="T"/>悉敷析，其色甚好優鉢蓮華，如是之華不<lb
  n="0840a23" ed="T"/>可計限，往詣彼城。是時，長者遙見沙彌來，<lb
  n="0840a24" ed="T"/>復以此偈問曰：<lb
  n="0840a25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「此華若干種，　　盡在虛空中，　　<lb
  n="0840a26" ed="T"/>又有神足人，　　為是汝師乎？」　　
 </ab><lb
- n="0840a27" ed="T"/><ab type="prose">是時女復以偈報曰：<lb
+ n="0840a27" ed="T"/><ab type='prose'>是時女復以偈報曰：<lb
  n="0840a28" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「須跋前所說，　　泉上沙彌者，　　<lb
  n="0840a29" ed="T"/>師名舍利弗，　　是彼之弟子。」　　
 </ab><pb n="0840b" ed="T" id="T02.0128b.0840b"/><lb
- n="0840b01" ed="T"/><ab type="prose">是時均頭沙彌繞城三匝，往詣長者家。是<lb
+ n="0840b01" ed="T"/><ab type='prose'>是時均頭沙彌繞城三匝，往詣長者家。是<lb
  n="0840b02" ed="T"/>時，尊者般特化作五百頭牛，衣毛皆青，在<lb
  n="0840b03" ed="T"/>牛上結跏趺坐往詣彼城。是時長者遙見，<lb
  n="0840b04" ed="T"/>復以此偈問女曰：<lb
  n="0840b05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「此諸大群牛，　　衣毛皆青色，　　<lb
  n="0840b06" ed="T"/>在上而獨坐，　　此是汝師耶？」　　
 </ab><lb
- n="0840b07" ed="T"/><ab type="prose">女復以偈報曰：<lb
+ n="0840b07" ed="T"/><ab type='prose'>女復以偈報曰：<lb
  n="0840b08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「能化千比丘，　　在耆城園中，　　<lb
  n="0840b09" ed="T"/>心神極為明，　　此名為般特。」　　
 </ab><lb
- n="0840b10" ed="T"/><ab type="prose">爾時，尊者周利般特繞彼城三匝已往詣<lb
+ n="0840b10" ed="T"/><ab type='prose'>爾時，尊者周利般特繞彼城三匝已往詣<lb
  n="0840b11" ed="T"/>長者家。爾時，羅云復化作五百孔雀，色若<lb
  n="0840b12" ed="T"/>干種，在上結跏趺坐往詣彼城。長者見已，<lb
  n="0840b13" ed="T"/>復以此偈問女曰：<lb
  n="0840b14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「此五百孔雀，　　其色甚為妙，　　<lb
  n="0840b15" ed="T"/>如彼軍大將，　　此是汝師耶？」　　
 </ab><lb
- n="0840b16" ed="T"/><ab type="prose">時女復以此偈報曰：<lb
+ n="0840b16" ed="T"/><ab type='prose'>時女復以此偈報曰：<lb
  n="0840b17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「如來說禁戒，　　一切無所犯，　　<lb
  n="0840b18" ed="T"/>於戒能護戒，　　佛子羅云者。」　　
 </ab><lb
- n="0840b19" ed="T"/><ab type="prose">是時羅云繞城三匝往詣長者家。是時，尊<lb
+ n="0840b19" ed="T"/><ab type='prose'>是時羅云繞城三匝往詣長者家。是時，尊<lb
  n="0840b20" ed="T"/>者迦匹那化作五百金翅鳥極為勇猛，在<lb
  n="0840b21" ed="T"/>上結跏趺坐往詣彼城。時長者遙見已，復<lb
  n="0840b22" ed="T"/>以此偈問女曰：<lb
  n="0840b23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「五百金翅鳥，　　極為盛勇猛，　　<lb
  n="0840b24" ed="T"/>在上無所畏，　　此是汝師耶？」　　
 </ab><lb
- n="0840b25" ed="T"/><ab type="prose">時女以偈報曰：<lb
+ n="0840b25" ed="T"/><ab type='prose'>時女以偈報曰：<lb
  n="0840b26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「能行出入息，　　迴轉心善行，　　<lb
  n="0840b27" ed="T"/>慧力極勇盛，　　此名迦匹那。」　　
 </ab><lb
- n="0840b28" ed="T"/><ab type="prose">時尊者迦匹那繞城三匝往詣長者家。爾<lb
+ n="0840b28" ed="T"/><ab type='prose'>時尊者迦匹那繞城三匝往詣長者家。爾<lb
  n="0840b29" ed="T"/>時，優毘迦葉化作五百龍皆有七頭，在上<pb n="0840c" ed="T" id="T02.0128b.0840c"/><lb
  n="0840c01" ed="T"/>結跏趺坐往詣彼城。長者遙見已，復以此<lb
  n="0840c02" ed="T"/>偈問女曰：<lb
  n="0840c03" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「今此七頭龍，　　威顏甚可畏，　　<lb
  n="0840c04" ed="T"/>來者不可計，　　此是汝師耶？」　　
 </ab><lb
- n="0840c05" ed="T"/><ab type="prose">時女報曰：<lb
+ n="0840c05" ed="T"/><ab type='prose'>時女報曰：<lb
  n="0840c06" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「恒有千弟子，　　神足化毘沙，　　<lb
  n="0840c07" ed="T"/>優毘迦葉者，　　可謂此人是。」　　
 </ab><lb
- n="0840c08" ed="T"/><ab type="prose">時優毘迦葉繞城三匝往詣長者家。是時，<lb
+ n="0840c08" ed="T"/><ab type='prose'>時優毘迦葉繞城三匝往詣長者家。是時，<lb
  n="0840c09" ed="T"/>尊者須菩提化作瑠璃山，入中結跏趺坐<lb
  n="0840c10" ed="T"/>往詣彼城。爾時，長者遙見已，以偈問女曰：<lb
  n="0840c11" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「此山極為妙，　　盡作瑠璃色，　　<lb
  n="0840c12" ed="T"/>今在窟中坐，　　此是汝師耶？」　　
 </ab><lb
- n="0840c13" ed="T"/><ab type="prose">時女復以此偈報曰：<lb
+ n="0840c13" ed="T"/><ab type='prose'>時女復以此偈報曰：<lb
  n="0840c14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「由本一施報，　　今獲此功德，　　<lb
  n="0840c15" ed="T"/>已成良福田，　　解空須菩提。」　　
 </ab><lb
- n="0840c16" ed="T"/><ab type="prose">爾時，須菩提繞城三匝往詣長者家。時尊<lb
+ n="0840c16" ed="T"/><ab type='prose'>爾時，須菩提繞城三匝往詣長者家。時尊<lb
  n="0840c17" ed="T"/>者大迦旃延，復化作五百鵠，色皆純白，往<lb
  n="0840c18" ed="T"/>詣彼城。是時長者遙見已，以此偈問女曰：<lb
  n="0840c19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「今此五百鵠，　　諸色皆純白，　　<lb
  n="0840c20" ed="T"/>盡滿虛空中，　　此是汝師耶？」　　
 </ab><lb
- n="0840c21" ed="T"/><ab type="prose">時，女復以此偈報曰：<lb
+ n="0840c21" ed="T"/><ab type='prose'>時，女復以此偈報曰：<lb
  n="0840c22" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「佛經之所說，　　分別其義句，　　<lb
  n="0840c23" ed="T"/>又演結使聚，　　此名迦旃延。」　　
 </ab><lb
- n="0840c24" ed="T"/><ab type="prose">是時，尊者大迦旃延繞彼城三匝往詣長者<lb
+ n="0840c24" ed="T"/><ab type='prose'>是時，尊者大迦旃延繞彼城三匝往詣長者<lb
  n="0840c25" ed="T"/>家。是時，離越化作五百虎，在上坐而往詣<lb
  n="0840c26" ed="T"/>彼城。長者見已，以此偈問女曰：<lb
  n="0840c27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「今此五百虎，　　衣毛甚悅懌，　　<lb
  n="0840c28" ed="T"/>又在上坐者，　　此是汝師耶？」　　
 </ab><lb
- n="0840c29" ed="T"/><ab type="prose">時，女以偈報曰：<pb n="0841a" ed="T" id="T02.0128b.0841a"/><lb
+ n="0840c29" ed="T"/><ab type='prose'>時，女以偈報曰：<pb n="0841a" ed="T" id="T02.0128b.0841a"/><lb
  n="0841a01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「昔在祇洹樹，　　六年不移動，　　<lb
  n="0841a02" ed="T"/>坐禪最第一，　　此名離越者。」　　
 </ab><lb
- n="0841a03" ed="T"/><ab type="prose">是時，尊者離越繞城三匝往詣長者家。是<lb
+ n="0841a03" ed="T"/><ab type='prose'>是時，尊者離越繞城三匝往詣長者家。是<lb
  n="0841a04" ed="T"/>時，尊者阿那律，化作五百師子極為勇猛，<lb
  n="0841a05" ed="T"/>在上坐往詣彼城。是時長者見已，以偈問<lb
  n="0841a06" ed="T"/>女曰：<lb
  n="0841a07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「此五百師子，　　勇猛甚可畏，　　<lb
  n="0841a08" ed="T"/>在上而坐者，　　此是汝師耶？」　　
 </ab><lb
- n="0841a09" ed="T"/><ab type="prose">時女以偈報曰：<lb
+ n="0841a09" ed="T"/><ab type='prose'>時女以偈報曰：<lb
  n="0841a10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「生時地大動，　　珍寶出於地，　　<lb
  n="0841a11" ed="T"/>清淨眼無垢，　　佛弟阿那律。」　　
 </ab><lb
- n="0841a12" ed="T"/><ab type="prose">是時，阿那律繞城三匝往詣長者家。是時，<lb
+ n="0841a12" ed="T"/><ab type='prose'>是時，阿那律繞城三匝往詣長者家。是時，<lb
  n="0841a13" ed="T"/>尊者大迦葉，化作五百匹馬，皆朱毛尾金<lb
  n="0841a14" ed="T"/>銀交飾，在上坐並雨天華往詣彼城。長者<lb
  n="0841a15" ed="T"/>遙見已，以偈問女曰：<lb
  n="0841a16" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「金馬朱毛尾，　　其數有五百，　　<lb
  n="0841a17" ed="T"/>為是轉輪王？　　為是汝師耶？」　　
 </ab><lb
- n="0841a18" ed="T"/><ab type="prose">女復以偈報曰：<lb
+ n="0841a18" ed="T"/><ab type='prose'>女復以偈報曰：<lb
  n="0841a19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「頭陀行第一，　　恒愍貧窮者，　　<lb
  n="0841a20" ed="T"/>如來與半坐，　　最大迦葉是。」　　
 </ab><lb
- n="0841a21" ed="T"/><ab type="prose">是時，大迦葉繞城三匝往詣長者家。是時，尊<lb
+ n="0841a21" ed="T"/><ab type='prose'>是時，大迦葉繞城三匝往詣長者家。是時，尊<lb
  n="0841a22" ed="T"/>者大目犍連，化作五百象，皆有六牙，七處<lb
  n="0841a23" ed="T"/>平整金銀交飾，在上坐而來放大光明悉<lb
  n="0841a24" ed="T"/>滿世界，詣城在虛空之中，作倡妓樂不可<lb
  n="0841a25" ed="T"/>稱計，雨種種雜華，又虛空之中懸繒幡蓋<lb
  n="0841a26" ed="T"/>極為奇妙。爾時，長者遙見已，以偈問女曰：<lb
  n="0841a27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「白象有六牙，　　在上如天王，　　<lb
  n="0841a28" ed="T"/>今聞妓樂音，　　是釋迦文耶？」　　
 </ab><lb
- n="0841a29" ed="T"/><ab type="prose">時女以偈報曰：<pb n="0841b" ed="T" id="T02.0128b.0841b"/><lb
+ n="0841a29" ed="T"/><ab type='prose'>時女以偈報曰：<pb n="0841b" ed="T" id="T02.0128b.0841b"/><lb
  n="0841b01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「在彼大山上，　　降伏難陀龍，　　<lb
  n="0841b02" ed="T"/>神足第一者，　　名曰大目連。　　<lb
  n="0841b03" ed="T"/>我師故未來，　　此是弟子眾，　　<lb
  n="0841b04" ed="T"/>聖師今當來，　　光明靡不照。」　　
 </ab><lb
- n="0841b05" ed="T"/><ab type="prose">是時，尊者大目犍連繞城三匝往詣長者<lb
+ n="0841b05" ed="T"/><ab type='prose'>是時，尊者大目犍連繞城三匝往詣長者<lb
  n="0841b06" ed="T"/>家。是時，世尊已知時到，披僧伽梨在虛空<lb
  n="0841b07" ed="T"/>中去地七仞。是時，尊者阿若拘隣在如來<lb
  n="0841b08" ed="T"/>右，舍利弗在如來左，爾時，阿難承佛威神，<lb
@@ -455,16 +455,16 @@
  n="0841b25" ed="T"/>空中去地七仞，見已皆懷歡喜踊躍不能<lb
  n="0841b26" ed="T"/>自勝。是時，阿那邠邸長者，便說此偈：<lb
  n="0841b27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「如來實神妙，　　愛民如赤子，　　<lb
  n="0841b28" ed="T"/>快哉須摩提，　　當受如來法。」　　
 </ab><lb
- n="0841b29" ed="T"/><ab type="prose">爾時，波斯匿王及阿那邠邸長者，散種種<pb n="0841c" ed="T" id="T02.0128b.0841c"/><lb
+ n="0841b29" ed="T"/><ab type='prose'>爾時，波斯匿王及阿那邠邸長者，散種種<pb n="0841c" ed="T" id="T02.0128b.0841c"/><lb
  n="0841c01" ed="T"/>名香雜華，是時世尊將諸比丘眾前後圍<lb
  n="0841c02" ed="T"/>遶，及諸神天不可稱計，如似鴈王在虛空<lb
  n="0841c03" ed="T"/>中往詣彼城。是時，般遮旬以偈歎佛：<lb
  n="0841c04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「諸生結永盡，　　意念不錯亂，　　<lb
  n="0841c05" ed="T"/>以無塵垢足，　　入彼舊邦土。　　<lb
  n="0841c06" ed="T"/>心性極清淨，　　斷魔邪惡念，　　<lb
@@ -474,28 +474,28 @@
  n="0841c10" ed="T"/>以度四流淵，　　脫於生老死，　　<lb
  n="0841c11" ed="T"/>以斷有根源，　　今入彼邦土。」　　
 </ab><lb
- n="0841c12" ed="T"/><ab type="prose">是時滿財長者，遙見世尊從遠而來，諸根<lb
+ n="0841c12" ed="T"/><ab type='prose'>是時滿財長者，遙見世尊從遠而來，諸根<lb
  n="0841c13" ed="T"/>憺怕世之希有，淨如天金，有三十二相八<lb
  n="0841c14" ed="T"/>十種好莊嚴其身，猶須彌山出眾山上，亦<lb
  n="0841c15" ed="T"/>如金聚放大光明。是時，長者，以偈問須摩<lb
  n="0841c16" ed="T"/>提曰：<lb
  n="0841c17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「此是日光耶，　　未曾見此容，　　<lb
  n="0841c18" ed="T"/>數千萬億光，　　未敢能熟視。」　　
 </ab><lb
- n="0841c19" ed="T"/><ab type="prose">是時須摩提女長跪叉手向如來，以此偈<lb
+ n="0841c19" ed="T"/><ab type='prose'>是時須摩提女長跪叉手向如來，以此偈<lb
  n="0841c20" ed="T"/>報長者曰：<lb
  n="0841c21" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「非日非有日，　　而放千種光，　　<lb
  n="0841c22" ed="T"/>為一切眾生，　　亦復是我師。　　<lb
  n="0841c23" ed="T"/>皆共歎如來，　　如前之所說，　　<lb
  n="0841c24" ed="T"/>今當獲大果，　　勤加供養之。」　　
 </ab><lb
- n="0841c25" ed="T"/><ab type="prose">是時，滿財長者右膝著地，復以偈歎如來曰：<lb
+ n="0841c25" ed="T"/><ab type='prose'>是時，滿財長者右膝著地，復以偈歎如來曰：<lb
  n="0841c26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「自歸十力尊，　　圓光金色體，　　<lb
  n="0841c27" ed="T"/>天人所歎敬，　　今日自歸命。　　<lb
  n="0841c28" ed="T"/>尊今是日王，　　如月星中明，　　<lb
@@ -505,9 +505,9 @@
  n="0842a03" ed="T"/>天世人中尊，　　諸鬼神王上，　　<lb
  n="0842a04" ed="T"/>降伏諸外道，　　今日自歸命。」　　
 </ab><lb
- n="0842a05" ed="T"/><ab type="prose">是時，須摩提女長跪叉手，歎世尊曰：<lb
+ n="0842a05" ed="T"/><ab type='prose'>是時，須摩提女長跪叉手，歎世尊曰：<lb
  n="0842a06" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「自降能降他，　　自止復止人，　　<lb
  n="0842a07" ed="T"/>以度度人民，　　已解復脫人，　　<lb
  n="0842a08" ed="T"/>度岸使度岸，　　自照照群萌，　　<lb
@@ -515,7 +515,7 @@
  n="0842a10" ed="T"/>極自淨潔住，　　心意不傾動，　　<lb
  n="0842a11" ed="T"/>十力哀愍世，　　重自頂禮敬。　　
 </ab><lb
- n="0842a12" ed="T"/><ab type="prose">「有慈悲喜護之心，具空無相願，於欲界中<lb
+ n="0842a12" ed="T"/><ab type='prose'>「有慈悲喜護之心，具空無相願，於欲界中<lb
  n="0842a13" ed="T"/>最尊第一，天中之上七財具足，擁護天人<lb
  n="0842a14" ed="T"/>自然梵生，亦無與等亦可不像貌，我今日<lb
  n="0842a15" ed="T"/>歸命。」是時六千梵志，見世尊作如此神變，<lb
@@ -534,11 +534,11 @@
  n="0842a28" ed="T"/>是時，人民見世尊容貌諸根寂靜，有三十二<lb
  n="0842a29" ed="T"/>相、八十種好，而自莊嚴。人民之類便說此偈：<pb n="0842b" ed="T" id="T02.0128b.0842b"/><lb
  n="0842b01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「二足尊極妙，　　梵志不敢當，　　<lb
  n="0842b02" ed="T"/>無故事梵志，　　失此人中尊。」　　
 </ab><lb
- n="0842b03" ed="T"/><ab type="prose">是時，世尊往詣長者家，就座而坐。爾時，彼<lb
+ n="0842b03" ed="T"/><ab type='prose'>是時，世尊往詣長者家，就座而坐。爾時，彼<lb
  n="0842b04" ed="T"/>國人民極為熾盛，時長者家有八萬四千<lb
  n="0842b05" ed="T"/>人民之類，皆悉雲集，欲壞長者坊舍，方見<lb
  n="0842b06" ed="T"/>世尊及比丘僧，爾時，世尊便作是念：「此人<lb
@@ -548,7 +548,7 @@
  n="0842b10" ed="T"/>時，須摩提女前至佛所，頭面禮足悲喜交<lb
  n="0842b11" ed="T"/>集，便說此偈：<lb
  n="0842b12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「一切智慧具，　　盡度一切法，　　<lb
  n="0842b13" ed="T"/>復斷欲愛網，　　我今自歸命。　　<lb
  n="0842b14" ed="T"/>寧使我父母，　　而毀我雙目，　　<lb
@@ -556,9 +556,9 @@
  n="0842b16" ed="T"/>宿作何惡緣，　　得來至此處，　　<lb
  n="0842b17" ed="T"/>如鳥入羅網，　　願斷此疑結。」　　
 </ab><lb
- n="0842b18" ed="T"/><ab type="prose">爾時，世尊復以偈報女曰：<lb
+ n="0842b18" ed="T"/><ab type='prose'>爾時，世尊復以偈報女曰：<lb
  n="0842b19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「汝今快勿慮，　　憺怕自開意，　　<lb
  n="0842b20" ed="T"/>亦莫起想著，　　如來今當演。　　<lb
  n="0842b21" ed="T"/>汝本無罪緣，　　得來至此間，　　<lb
@@ -568,7 +568,7 @@
  n="0842b25" ed="T"/>今日當淨除，　　使得智慧眼，　　<lb
  n="0842b26" ed="T"/>使天人民類，　　汝見如觀珠。」　　
 </ab><lb
- n="0842b27" ed="T"/><ab type="prose">是時須摩提女聞此語已，歡喜踊躍不能<lb
+ n="0842b27" ed="T"/><ab type='prose'>是時須摩提女聞此語已，歡喜踊躍不能<lb
  n="0842b28" ed="T"/>自勝。是時，長者將已僕從，供給飲食種種<lb
  n="0842b29" ed="T"/>甘饌，見世尊食已訖，行清淨水更取一小<pb n="0842c" ed="T" id="T02.0128b.0842c"/><lb
  n="0842c01" ed="T"/>座，在如來前坐，及諸營從及八萬四千眾<lb
@@ -585,11 +585,11 @@
  n="0842c12" ed="T"/>所畏，皆歸三尊受持五戒。是時，須摩提女<lb
  n="0842c13" ed="T"/>即於佛前，而說此偈：<lb
  n="0842c14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「如來耳清徹，　　聞我遇此苦，　　<lb
  n="0842c15" ed="T"/>降神至此化，　　諸人得法眼。」　　
 </ab><lb
- n="0842c16" ed="T"/><ab type="prose">爾時，世尊已說法訖，即從座起還詣所在。<lb
+ n="0842c16" ed="T"/><ab type='prose'>爾時，世尊已說法訖，即從座起還詣所在。<lb
  n="0842c17" ed="T"/>是時，諸比丘白佛言：「須摩提女本作何因<lb
  n="0842c18" ed="T"/>緣生富貴家？復作何因緣墮此邪見之家？<lb
  n="0842c19" ed="T"/>復作何善功德今得法眼淨？復作何功德<lb
@@ -624,5 +624,5 @@
  n="0843a19" ed="T"/>法。如是諸比丘！當作是學。」爾時，諸比丘聞<lb
  n="0843a20" ed="T"/>佛所說，歡喜奉行。<lb
  n="0843a21" ed="T"/>
-</ab><ab type="juan" subtype="close">須摩提女經</ab></div>
+</ab><ab type='juan' subtype='close'>須摩提女經</ab></div>
 </body></text></TEI>

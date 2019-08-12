@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n0956</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0315c13" ed="T"/><lb
  n="0315c14" ed="T"/><lb
- n="0315c15" ed="T"/><div type="jing" level="1"><lb
+ n="0315c15" ed="T"/><div type='jing' level='1'><lb
  n="0315c16" ed="T"/>
-<ab type="juan" subtype="open">大陀羅尼末法中一字心呪經</ab><lb
+<ab type='juan' subtype='open'>大陀羅尼末法中一字心呪經</ab><lb
  n="0315c17" ed="T"/><lb
  n="0315c18" ed="T"/><byline>大唐天竺三藏寶思惟奉　詔譯</byline><lb
- n="0315c19" ed="T"/><ab type="prose">如是我聞。一時佛在淨居天宮不可思議種<lb
+ n="0315c19" ed="T"/><ab type='prose'>如是我聞。一時佛在淨居天宮不可思議種<lb
  n="0315c20" ed="T"/>種莊嚴一切菩薩眾會中住。及諸天龍藥叉<lb
  n="0315c21" ed="T"/>健達縛阿素洛等星宿天仙。皆是十地菩薩<lb
  n="0315c22" ed="T"/>方便化現。在於此會。爾時世尊坐蓮華藏界。<lb
@@ -68,10 +68,10 @@
  n="0316a08" ed="T"/>見聞斯已。告諸大眾。汝等當知云何名為一<lb
  n="0316a09" ed="T"/>字轉輪王呪。即說呪曰。<lb
  n="0316a10" ed="T"/></ab>
-<ab type="dharani">􈃯部上聲林去聲此是唐音彈舌呼之<lb
+<ab type='dharani'>􈃯部上聲林去聲此是唐音彈舌呼之<lb
  n="0316a11" ed="T"/><lb
  n="0316a12" ed="T"/></ab>
-<ab type="prose">爾時釋迦牟尼佛。復告諸天仙眾。汝等諦聽。<lb
+<ab type='prose'>爾時釋迦牟尼佛。復告諸天仙眾。汝等諦聽。<lb
  n="0316a13" ed="T"/>妙吉祥童子此陀羅尼。我今欲說曼陀羅法<lb
  n="0316a14" ed="T"/>及念誦法設火食法速令成就。若有人能持<lb
  n="0316a15" ed="T"/>此陀羅尼最勝妙法。若不知吉祥之日及諸<lb
@@ -84,7 +84,7 @@
  n="0316a22" ed="T"/>察如來在清淨天宮。一一皆來集會。各請釋<lb
  n="0316a23" ed="T"/>迦牟尼佛說呪而說頌曰。<lb
  n="0316a25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 佛說大威德　　為利諸有情　　<lb
  n="0316a26" ed="T"/>能成一切呪　　願者皆滿足　　<lb
  n="0316a27" ed="T"/>一切佛已說　　此呪王威德　　<lb
@@ -96,14 +96,14 @@
  n="0316b04" ed="T"/>當來濁世中　　誦持得安樂　　<lb
  n="0316b05" ed="T"/>善哉天人師　　願為眾生說　　
 </ab><lb
- n="0316b06" ed="T"/><ab type="prose">爾時十方諸佛。說此頌已默然而住。當爾之<lb
+ n="0316b06" ed="T"/><ab type='prose'>爾時十方諸佛。說此頌已默然而住。當爾之<lb
  n="0316b07" ed="T"/>時三千大千世界一切有情所住之處。忽然之<lb
  n="0316b08" ed="T"/>間放大火焰威光赫耀。而皆不損一有情類。<lb
  n="0316b09" ed="T"/>爾時釋迦牟尼如來觀察一切清淨天宮。告<lb
  n="0316b10" ed="T"/>諸菩薩摩訶薩及諸緣覺聲聞天仙諸大眾<lb
  n="0316b11" ed="T"/>言。汝等諦聽即說頌曰。<lb
  n="0316b12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 告諸佛子等　　汝等今善聽　　<lb
  n="0316b13" ed="T"/>我今說此呪　　具足諸功德　　<lb
  n="0316b14" ed="T"/>當來惡世時　　我法將欲滅　　<lb
@@ -120,7 +120,7 @@
  n="0316b25" ed="T"/>所得諸功德　　如我身無異　　<lb
  n="0316b26" ed="T"/>此呪王功德　　我今但略說　　
 </ab><lb
- n="0316b27" ed="T"/><ab type="prose">爾時世尊說此頌已。為諸眾會說斯轉輪王<lb
+ n="0316b27" ed="T"/><ab type='prose'>爾時世尊說此頌已。為諸眾會說斯轉輪王<lb
  n="0316b28" ed="T"/>如來頂髻之法。能令他法速即毀壞。能令自<lb
  n="0316b29" ed="T"/>法速得成就。一切菩薩所共讚歎。誦念之處。<pb n="0316c" id="T19.0956.0316c" ed="T"/><lb
  n="0316c01" ed="T"/>於四方面五百驛內。一切惡鬼皆自馳散。一<lb
@@ -209,7 +209,7 @@
  n="0317b26" ed="T"/>得。若在天中若在人間。手持此寶即作轉輪<lb
  n="0317b27" ed="T"/>王。於彼像前誦呪萬萬遍。即騰虛空壽命一<lb
  n="0317b28" ed="T"/>大劫。若欲成就金剛杵法者。以紫檀為金剛<lb
- n="0317b29" ed="T"/>杵一枚。若無紫檀鐵󰹮亦得。以五牛物洗之。<pb n="0317c" id="T19.0956.0317c" ed="T"/><lb
+ n="0317b29" ed="T"/>杵一枚。若無紫檀鐵𮡻亦得。以五牛物洗之。<pb n="0317c" id="T19.0956.0317c" ed="T"/><lb
  n="0317c01" ed="T"/>五牛物者所謂乳酥酪糞尿。常以臘月十五<lb
  n="0317c02" ed="T"/>日。於其像前清淨廣設供養。然一百盞牛酥<lb
  n="0317c03" ed="T"/>為燈。又以香湯洗金剛杵。其持法人以身布<lb
@@ -337,7 +337,7 @@
  n="0319a09" ed="T"/>供養其像散眾生食。護淨自身左手執刀誦<lb
  n="0319a10" ed="T"/>呪至刀聲出當即騰空所願隨意。又若火出。<lb
  n="0319a11" ed="T"/>所同伴人得見火者並悉騰空。與一切騰空<lb
- n="0319a12" ed="T"/>人為主。若欲成就金剛杵者取好󰹮鐵。長<lb
+ n="0319a12" ed="T"/>人為主。若欲成就金剛杵者取好𮡻鐵。長<lb
  n="0319a13" ed="T"/>十六指打作三稜。上下各作三頭。磨以紫<lb
  n="0319a14" ed="T"/>檀用塗其上。從十二月一日供養其像。始從<lb
  n="0319a15" ed="T"/>一日設四僧齋。日漸加一僧。自須持呪至十<lb
@@ -358,7 +358,7 @@
  n="0319b02" ed="T"/>淨潔食誦呪。總滿三十滿遍。至月盡日。二日<lb
  n="0319b03" ed="T"/>已前不喫食。取黑牛乳一升。誦呪滿得一百<lb
  n="0319b04" ed="T"/>八遍。須以香花供養於佛。其乳自服即得長<lb
- n="0319b05" ed="T"/>命。若十日內其酥酪蜜燒之。及󰹽󰹤草即<lb
+ n="0319b05" ed="T"/>命。若十日內其酥酪蜜燒之。及󰹽𮒢草即<lb
  n="0319b06" ed="T"/>得長命。若求降伏逆賊。取獨頭及婆邏迴。<lb
  n="0319b07" ed="T"/>呪一千八遍。令賊見聞婆邏迴聲及見獨頭。<lb
  n="0319b08" ed="T"/>即便自縛。若取一切草子少少。盛滿一新瓶<lb
@@ -446,5 +446,5 @@
  n="0320b04" ed="T"/>擁衛。佛說經已諸菩薩眾天龍八部。皆大歡<lb
  n="0320b05" ed="T"/>喜信受奉行。<lb
  n="0320b06" ed="T"/>
-</ab><ab type="juan" subtype="close">大陀羅尼末法中一字心呪經</ab></div>
+</ab><ab type='juan' subtype='close'>大陀羅尼末法中一字心呪經</ab></div>
 </body></text></TEI>

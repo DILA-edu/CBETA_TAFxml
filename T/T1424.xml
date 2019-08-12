@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T22</biblScope>
                     <idno type="Taisho">T22n1424</idno>
                 </bibl>
@@ -42,23 +42,23 @@
         <body><lb
  n="0214a14" ed="T"/><lb
  n="0214a15" ed="T"/><lb
- n="0214a16" ed="T"/><div type="jing" level="1"><lb
+ n="0214a16" ed="T"/><div type='jing' level='1'><lb
  n="0214a17" ed="T"/>
-<ab type="juan" subtype="open">彌沙塞羯磨本</ab><lb
+<ab type='juan' subtype='open'>彌沙塞羯磨本</ab><lb
  n="0214a18" ed="T"/><lb
  n="0214a19" ed="T"/><byline>大開業寺沙門愛同錄五分羯磨</byline><lb
- n="0214a20" ed="T"/><ab type="prose">夫羯磨眾軌，溥應聖凡，秉告詳唱，稱為辦事。<lb
+ n="0214a20" ed="T"/><ab type='prose'>夫羯磨眾軌，溥應聖凡，秉告詳唱，稱為辦事。<lb
  n="0214a21" ed="T"/>事既塵沙，法寧限局？規猷浩博，豈可勝言？<lb
  n="0214a22" ed="T"/>且開十法以總諸務，各依其位具列軌儀。<lb
  n="0214a23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 第一作法緣起，　　第二諸界結解，　　<lb
  n="0214a24" ed="T"/>第三諸戒受捨，　　第四衣藥受淨，　　<lb
  n="0214a25" ed="T"/>第五布薩儀軌，　　第六安居法則，　　<lb
  n="0214a26" ed="T"/>第七自恣清淨，　　第八受施分衣，　　<lb
  n="0214a27" ed="T"/>第九懺悔諸犯，　　第十住持雜法。　　
 </ab><lb
- n="0214a28" ed="T"/><ab type="prose">第一作法緣起。<lb
+ n="0214a28" ed="T"/><ab type='prose'>第一作法緣起。<lb
  n="0214a29" ed="T"/>一、量事如非。<lb
  n="0214b03" ed="T"/>二、法起假處<lb
  n="0214b05" ed="T"/>三、集僧分限。<lb
@@ -724,8 +724,8 @@
  n="0225c14" ed="T"/>德知。」白非時入聚落法。「長老！我非時入聚落<lb
  n="0225c15" ed="T"/>至某城邑聚落某甲舍。」「可爾。防護。」販賣<lb
  n="0225c16" ed="T"/>求利法。<lb
- n="0225c17" ed="T"/>「為我以此物貨易之。」「寧使彼得我利，我不<lb
- n="0225c18" ed="T"/>得我利。」<lb
+ n="0225c17" ed="T"/>「為我以此物貿易之。」「寧使彼得我利，我不<lb
+ n="0225c18" ed="T"/>得彼利。」<lb
  n="0225c19" ed="T"/>弟子欲辭行和上量宜法。<lb
  n="0225c22" ed="T"/>持律比丘來承迎祇供法。<lb
  n="0225c25" ed="T"/>持律比丘有七種宜。<pb n="0226a" ed="T" id="T22.1424.0226a"/><lb
@@ -742,5 +742,5 @@
  n="0226a20" ed="T"/>佛告諸離車：「世有五寶，甚為難遇。」<lb
  n="0226a22" ed="T"/>供養父母法。<lb
  n="0226a24" ed="T"/>
-</ab><ab type="juan" subtype="close">彌沙塞羯磨本</ab></div>
+</ab><ab type='juan' subtype='close'>彌沙塞羯磨本</ab></div>
 </body></text></TEI>

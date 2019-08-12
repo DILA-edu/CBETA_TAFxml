@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T18</biblScope>
                     <idno type="Taisho">T18n0912</idno>
                 </bibl>
@@ -39,15 +39,15 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0929a11" ed="T"/><lb
  n="0929a12" ed="T"/><lb
  n="0929a13" ed="T"/><lb
  n="0929a14" ed="T"/>
-<ab type="juan" subtype="open">建立曼荼羅護摩儀軌</ab><lb
+<ab type='juan' subtype='open'>建立曼荼羅護摩儀軌</ab><lb
  n="0929a15" ed="T"/><lb
- n="0929a16" ed="T"/><div type="jing" level="2"><ab type="prose">初日以如來性加持自身。及供養警地神。擇<lb
+ n="0929a16" ed="T"/><div type='jing' level='2'><ab type='prose'>初日以如來性加持自身。及供養警地神。擇<lb
  n="0929a17" ed="T"/>地中諸惡物。築令堅實。第二日於壇內掘一<lb
  n="0929a18" ed="T"/>肘。不動明加持五寶等。定聖尊位。五佛四菩<lb
  n="0929a19" ed="T"/>薩白檀點位。第三日置瓶不動明加持一百<lb
@@ -58,7 +58,7 @@
  n="0929a24" ed="T"/>一遍一按乃至七遍。諸尊位亦準。第七日次<lb
  n="0929a25" ed="T"/>教弟子。三歸懺悔發菩提心。<lb
  n="0929a26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 稽首歸命禮　　一切薄伽梵　　<lb
  n="0929a27" ed="T"/>及法諸菩薩　　密跡大忿怒　　<lb
  n="0929a28" ed="T"/>為利修瑜伽　　速成大悉地　　<lb
@@ -87,25 +87,25 @@
  n="0929b22" ed="T"/>及地神眷屬　　灑以淨香水　　<lb
  n="0929b23" ed="T"/>然復治其地　　地神持次第　　
 </ab><lb
- n="0929b24" ed="T"/><ab type="prose">真言曰。<lb
+ n="0929b24" ed="T"/><ab type='prose'>真言曰。<lb
  n="0929b25" ed="T"/></ab>
-<ab type="dharani">􇩂唵􈃉部引入􈆹欠<lb
+<ab type='dharani'>􇩂唵􈃉部引入􈆹欠<lb
  n="0929b26" ed="T"/><lb
  n="0929b27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 金剛縛開掌　　仰按習三七　　<lb
  n="0929b28" ed="T"/>覆按亦復然　　即成堅牢地　　<lb
  n="0929b29" ed="T"/>掃灑及塗拭　　　　<pb n="0929c" id="T18.0912.0929c" ed="T"/><lb
  n="0929c01" ed="T"/>日暮持香華　　獨入置壇處　　<lb
  n="0929c02" ed="T"/>面東執香爐　　誦啟請地偈　　
 </ab><lb
- n="0929c03" ed="T"/><ab type="verse">
+ n="0929c03" ed="T"/><ab type='verse'>
 諸佛慈愍有情者　　唯願存念於我等　　<lb
  n="0929c04" ed="T"/>我今請白諸賢聖　　堅牢地天并眷屬　　<lb
  n="0929c05" ed="T"/>一切如來及佛子　　不捨悲願悉降臨　　<lb
  n="0929c06" ed="T"/>我授此地求成就　　為作證明加護我　　
 </ab><lb
- n="0929c07" ed="T"/><ab type="verse">
+ n="0929c07" ed="T"/><ab type='verse'>
 慇懃奉請已　　聖眾普雲集　　<lb
  n="0929c08" ed="T"/>大日清淨身　　周遍於法界　　<lb
  n="0929c09" ed="T"/>十方佛亦然　　三業至誠禮　　<lb
@@ -140,11 +140,11 @@
  n="0930a09" ed="T"/>百八護其地　　然後應總掘　　<lb
  n="0930a10" ed="T"/>鍬印金剛縛　　禪智進力竪　　
 </ab><lb
- n="0930a11" ed="T"/><ab type="prose">真言曰<lb
+ n="0930a11" ed="T"/><ab type='prose'>真言曰<lb
  n="0930a12" ed="T"/></ab>
-<ab type="dharani">唵儞佉那嚩蘇提娑嚩賀<lb
+<ab type='dharani'>唵儞佉那嚩蘇提娑嚩賀<lb
  n="0930a13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 揀去諸穢惡　　不堪淨土替　　<lb
  n="0930a14" ed="T"/>重重灑香水　　平實如淨鏡　　<lb
  n="0930a15" ed="T"/>心壇置五寶　　謂金銀真珠　　<lb
@@ -155,16 +155,16 @@
  n="0930a20" ed="T"/>盛於金銀器　　地天以結護　　<lb
  n="0930a21" ed="T"/>香水和瞿夷　　無能勝加持　　
 </ab><lb
- n="0930a22" ed="T"/><ab type="prose">塗地真言曰<lb
+ n="0930a22" ed="T"/><ab type='prose'>塗地真言曰<lb
  n="0930a23" ed="T"/><lb
  n="0930a24" ed="T"/></ab>
-<ab type="dharani">唵迦羅黎摩訶迦囉黎娑嚩賀<lb
+<ab type='dharani'>唵迦羅黎摩訶迦囉黎娑嚩賀<lb
  n="0930a25" ed="T"/></ab>
-<ab type="prose">掃地真言曰<lb
+<ab type='prose'>掃地真言曰<lb
  n="0930a26" ed="T"/></ab>
-<ab type="dharani">唵賀囉賀囉祖仡囉賀拏野娑嚩賀<lb
+<ab type='dharani'>唵賀囉賀囉祖仡囉賀拏野娑嚩賀<lb
  n="0930a27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 白檀塗尊位　　辦事明千遍　　<lb
  n="0930a28" ed="T"/>次以慈悲眼　　觀念諸眾生　　<lb
  n="0930a29" ed="T"/>習於甘露明　　想其自心位　　<pb n="0930b" id="T18.0912.0930b" ed="T"/><lb
@@ -262,9 +262,9 @@
  n="0931b05" ed="T"/>十名羯攞尾　　其尊側右手　　<lb
  n="0931b06" ed="T"/>淨行唵印聲　　
 </ab><lb
- n="0931b07" ed="T"/><ab type="prose">第十一<lb
+ n="0931b07" ed="T"/><ab type='prose'>第十一<lb
  n="0931b08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 十二謨賀娜　　尊形劫災火　　<lb
  n="0931b09" ed="T"/>道場降伏魔　　若諸有情類　　<lb
  n="0931b10" ed="T"/>造惡不可止　　勸導轉更增　　<lb
@@ -321,11 +321,11 @@
  n="0932a03" ed="T"/>以吉理明王　　結護加諸物　　<lb
  n="0932a04" ed="T"/>慧羽空押地　　舒餘波羅蜜　　<lb
  n="0932a05" ed="T"/>遍灑以香水　　
-</ab><ab type="prose">真言曰<lb
+</ab><ab type='prose'>真言曰<lb
  n="0932a06" ed="T"/></ab>
-<ab type="dharani">唵吉哩吉哩嚩日羅吽泮吒<lb
+<ab type='dharani'>唵吉哩吉哩嚩日羅吽泮吒<lb
  n="0932a07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 欲作諸事業　　成就結壇法　　<lb
  n="0932a08" ed="T"/>護身及弟子　　辟除諸障難　　<lb
  n="0932a09" ed="T"/>由此印明故　　淨居諸天子　　<lb
@@ -337,9 +337,9 @@
  n="0932a15" ed="T"/>扇用非口吹　　即灑淨香水　　<lb
  n="0932a16" ed="T"/>燃爐誦後明　　
 </ab><lb
- n="0932a17" ed="T"/><ab type="dharani">唵步入嚩攞吽<lb
+ n="0932a17" ed="T"/><ab type='dharani'>唵步入嚩攞吽<lb
  n="0932a18" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 火既發光焰　　忿怒王去垢　　<lb
  n="0932a19" ed="T"/>契明遍加物　　每觸皆稱明　　<lb
  n="0932a20" ed="T"/>便於火焰中　　<lb
@@ -351,30 +351,30 @@
  n="0932a26" ed="T"/>火天上首尊　　天中之大仙　　<lb
  n="0932a27" ed="T"/>梵行所崇敬　　唯願降臨此　　<lb
  n="0932a28" ed="T"/>納受護摩供　　
-</ab><ab type="prose">奉請真言曰<lb
+</ab><ab type='prose'>奉請真言曰<lb
  n="0932a29" ed="T"/></ab>
-<ab type="dharani">唵翳係曳呬摩賀步多抳嚩哩使<pb n="0932b" id="T18.0912.0932b" ed="T"/><lb
+<ab type='dharani'>唵翳係曳呬摩賀步多抳嚩哩使<pb n="0932b" id="T18.0912.0932b" ed="T"/><lb
  n="0932b01" ed="T"/>持尾惹娑多摩仡哩呬怛嚩護底<lb
  n="0932b02" ed="T"/>摩賀㘕摩阿悉弭散儞呬覩婆嚩阿<lb
  n="0932b03" ed="T"/>仡曩曳賀尾野迦尾野嚩賀曩野娑嚩賀<lb
  n="0932b05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 火天來赴坐　　印灑淨於火　　<lb
  n="0932b06" ed="T"/>
-</ab><ab type="prose">真言曰<lb
+</ab><ab type='prose'>真言曰<lb
  n="0932b07" ed="T"/></ab>
-<ab type="dharani">唵阿蜜哩帝賀曩賀曩吽泮吒<lb
+<ab type='dharani'>唵阿蜜哩帝賀曩賀曩吽泮吒<lb
  n="0932b08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 散華於軍荼　　獻閼伽香水　　<lb
  n="0932b09" ed="T"/>金剛拳舒風　　用攪閼伽水　　<lb
  n="0932b10" ed="T"/>右轉灑爐中　　想漱火天口　　
 </ab><lb
- n="0932b11" ed="T"/><ab type="prose">吉祥真言曰<lb
+ n="0932b11" ed="T"/><ab type='prose'>吉祥真言曰<lb
  n="0932b12" ed="T"/></ab>
-<ab type="dharani">唵嚩囉娜縛日羅曇<lb
+<ab type='dharani'>唵嚩囉娜縛日羅曇<lb
  n="0932b13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 護摩諸支分　　備在於右邊　　<lb
  n="0932b14" ed="T"/>二杓空器物　　蘇蜜油柴等　　<lb
  n="0932b15" ed="T"/>安在於其左　　當以護摩儀　　<lb
@@ -394,24 +394,24 @@
  n="0932b29" ed="T"/>半末半為丸　　丸以蘇蜜和　　<pb n="0932c" id="T18.0912.0932c" ed="T"/><lb
  n="0932c01" ed="T"/>準前投於火　　三度皆如此　　<lb
  n="0932c02" ed="T"/>
-</ab><ab type="prose">真言曰。<lb
+</ab><ab type='prose'>真言曰。<lb
  n="0932c03" ed="T"/></ab>
-<ab type="dharani">阿仡曩曳賀尾野賀尾野嚩賀曩野地<lb
+<ab type='dharani'>阿仡曩曳賀尾野賀尾野嚩賀曩野地<lb
  n="0932c04" ed="T"/>比野地比野俱嚕娑嚩賀<lb
  n="0932c05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 賀字引其聲　　却按聲齊果　　<lb
  n="0932c06" ed="T"/>行人在其左　　師以慧執杵　　<lb
  n="0932c07" ed="T"/>地鉤彼空輪　　令施火天食　　
 </ab><lb
- n="0932c08" ed="T"/><ab type="prose">寂災護摩真言曰。<lb
+ n="0932c08" ed="T"/><ab type='prose'>寂災護摩真言曰。<lb
  n="0932c09" ed="T"/></ab>
-<ab type="dharani">曩莫三曼多沒馱喃阿摩賀扇底蘖多<lb
+<ab type='dharani'>曩莫三曼多沒馱喃阿摩賀扇底蘖多<lb
  n="0932c10" ed="T"/>扇底迦羅鉢羅睒摩達摩儞惹多阿<lb
  n="0932c11" ed="T"/>婆嚩娑嚩婆嚩達摩三摩多鉢羅<lb
  n="0932c12" ed="T"/>鉢多娑嚩賀<lb
  n="0932c13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 請火天出爐　　東南方就位　　<lb
  n="0932c14" ed="T"/>次應執香爐　　請於本宮曜　　<lb
  n="0932c15" ed="T"/>及命業胎宿　　拳印風火鉤　　<lb
@@ -439,11 +439,11 @@
  n="0933a08" ed="T"/>令所求者願皆成　　<lb
  n="0933a09" ed="T"/>稽首諸天歸本宮　　後有至誠哀請時　　<lb
  n="0933a10" ed="T"/>唯願來此受供養　　
-</ab><ab type="prose">真言曰<lb
+</ab><ab type='prose'>真言曰<lb
  n="0933a11" ed="T"/></ab>
-<ab type="dharani">吉理吉理嚩日囉目賀<lb
+<ab type='dharani'>吉理吉理嚩日囉目賀<lb
  n="0933a12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若求增長者　　名布瑟置迦　　<lb
  n="0933a13" ed="T"/>喜悅心相應　　月九至十五　　<lb
  n="0933a14" ed="T"/>五通及寶藏　　劍輪杵財物　　<lb
@@ -514,12 +514,12 @@
  n="0933c21" ed="T"/>燒香用安悉　　芥子油為炷　　<lb
  n="0933c22" ed="T"/>牛脂嚕地羅　　供養於聖尊　　<lb
  n="0933c23" ed="T"/>忿怒遍加護　　
-</ab><ab type="prose">真言曰<lb
+</ab><ab type='prose'>真言曰<lb
  n="0933c24" ed="T"/></ab>
-<ab type="dharani">吽吉理吉理縛日囉吽吽吽泮吒泮吒泮<lb
+<ab type='dharani'>吽吉理吉理縛日囉吽吽吽泮吒泮吒泮<lb
  n="0933c25" ed="T"/>吒<lb
  n="0933c26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 次第遶軍荼　　鋪臭惡刺草　　<lb
  n="0933c27" ed="T"/>苦參炷爐中　　火著灑淨水　　<lb
  n="0933c28" ed="T"/>囉字成火天　　赤黑遍烟焰　　<lb
@@ -530,18 +530,18 @@
  n="0934a04" ed="T"/>指示本方位　　啟請鎮熒惑　　<lb
  n="0934a05" ed="T"/>參星與柳宿　　發願歌讚詠　　
 </ab><lb
- n="0934a06" ed="T"/><ab type="verse">
+ n="0934a06" ed="T"/><ab type='verse'>
 大天忿怒威神力　　能滿眾生滅怨敵　　<lb
  n="0934a07" ed="T"/>今求破敵滅怨讐　　稽首諸天歸本宮　　<lb
  n="0934a08" ed="T"/>後有至誠哀請時　　唯願來降受供養　　
 </ab><lb
- n="0934a09" ed="T"/><ab type="prose">奉送真言曰。<lb
+ n="0934a09" ed="T"/><ab type='prose'>奉送真言曰。<lb
  n="0934a10" ed="T"/></ab>
-<ab type="dharani">布爾都徒麼野薄底也蘖蹉阿仡甯<lb
- n="0934a11" ed="T"/>娑縛婆縛南補曩羅󰔰誐麼那野娑嚩<lb
+<ab type='dharani'>布爾都徒麼野薄底也蘖蹉阿仡甯<lb
+ n="0934a11" ed="T"/>娑縛婆縛南補曩羅𭅤誐麼那野娑嚩<lb
  n="0934a12" ed="T"/>賀<lb
  n="0934a13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 解界如儀則　　政對於尊前　　<lb
  n="0934a14" ed="T"/>頻申動支節　　滿唾及嗚聲　　<lb
  n="0934a15" ed="T"/>如是之等事　　制之勿憍慢　　<lb
@@ -595,8 +595,8 @@
  n="0934c05" ed="T"/>所求皆滿足　　
 </ab></div><lb
  n="0934c06" ed="T"/>
-<ab type="juan" subtype="close">建立曼荼羅護摩儀軌</ab><lb
- n="0934c07" ed="T"/><div type="w" level="2"><ab type="prose">此軌法全􆿅􄑼􅝩集。􄚰􄗥之要路矣。是慈<lb
+<ab type='juan' subtype='close'>建立曼荼羅護摩儀軌</ab><lb
+ n="0934c07" ed="T"/><div type='w' level='2'><ab type='prose'>此軌法全􆿅􄑼􅝩集。􄚰􄗥之要路矣。是慈<lb
  n="0934c08" ed="T"/>覺大師之請來也。然轉寫而誤多。今<lb
  n="0934c09" ed="T"/>挍所欠以壽于。梓。負識賢者庶更正之。維<lb
  n="0934c10" ed="T"/>時元文星舍強圉大荒落季夏之日。炎旱<lb

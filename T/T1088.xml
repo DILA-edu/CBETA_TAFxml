@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1088</idno>
                 </bibl>
@@ -39,15 +39,15 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0215c24" ed="T"/><lb
  n="0215c25" ed="T"/><lb
  n="0215c26" ed="T"/><lb
  n="0215c27" ed="T"/>
-<ab type="juan" subtype="open">如意輪菩薩觀門義注祕訣</ab><lb
+<ab type='juan' subtype='open'>如意輪菩薩觀門義注祕訣</ab><lb
  n="0215c28" ed="T"/><lb
- n="0215c29" ed="T"/><div type="jing" level="2"><ab type="prose">􈁴唵字。一切法流注義。無所得以為方便。<pb n="0216a" id="T20.1088.0216a" ed="T"/><lb
+ n="0215c29" ed="T"/><div type='jing' level='2'><ab type='prose'>􈁴唵字。一切法流注義。無所得以為方便。<pb n="0216a" id="T20.1088.0216a" ed="T"/><lb
  n="0216a01" ed="T"/>覺不可得。<lb
  n="0216a02" ed="T"/>􄙖嚩字。一切法超越之義。言語道不可得。<lb
  n="0216a03" ed="T"/>􄗽囉字。一切法離塵義。了亦不可得。<lb
@@ -62,20 +62,20 @@
  n="0216a12" ed="T"/>復於字上分明觀照。如日初出。光明赫奕廣<lb
  n="0216a13" ed="T"/>極無邊。如斯觀照。不久當證法身三昧。<lb
  n="0216a14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 唵字安於頂　　囉字置於額　　<lb
  n="0216a15" ed="T"/>囉字布兩目　　娜字觀於口　　<lb
  n="0216a16" ed="T"/>跛字安於心　　娜麼字置二膊　　<lb
  n="0216a17" ed="T"/>吽字安臍輪　　
 </ab><lb
- n="0216a18" ed="T"/><ab type="verse">
+ n="0216a18" ed="T"/><ab type='verse'>
 以前觀字門　　速悟無生理　　<lb
  n="0216a19" ed="T"/>不久當成就　　獲得如來智　　
 </ab><lb
- n="0216a20" ed="T"/><ab type="prose">如意輪心真言。布列梵字菩提心月輪。<lb
+ n="0216a20" ed="T"/><ab type='prose'>如意輪心真言。布列梵字菩提心月輪。<lb
  n="0216a21" ed="T"/>如意輪真言注義。<lb
  n="0216a22" ed="T"/></ab>
-<ab type="dharani">􄖩曩􄗭謨􄗽囉􅑈怛曩􄩞怛囉二合􄗲夜􄗱野<lb
+<ab type='dharani'>􄖩曩􄗭謨􄗽囉􅑈怛曩􄩞怛囉二合􄗲夜􄗱野<lb
  n="0216a23" ed="T"/><lb
  n="0216a24" ed="T"/>􄖩曩􄗰莫􆿆阿􅝩哩野二合􄙖嚩􄙒路􄑂枳􄕝諦<lb
  n="0216a25" ed="T"/><lb
@@ -86,7 +86,7 @@
  n="0216b01" ed="T"/>􄑀迦􄗱野􄕗怛􄟯儞也二合􄕤他<lb
  n="0216b02" ed="T"/><lb
  n="0216b03" ed="T"/></ab>
-<ab type="prose">唵􈁴其字成於三身義也。唵􈁴之一字。所<lb
+<ab type='prose'>唵􈁴其字成於三身義也。唵􈁴之一字。所<lb
  n="0216b04" ed="T"/>謂唵阿摩􈁴􆿅􄗥等三字共成。唵􇩂字者<lb
  n="0216b05" ed="T"/>一切法生不可得義。阿􆿅字者一切法本不<lb
  n="0216b06" ed="T"/>生義。摩􄗥字者一切法我無所得義。又釋云。<lb
@@ -94,17 +94,17 @@
  n="0216b08" ed="T"/>字者法身義。由此三字契實相理。則成稽首<lb
  n="0216b09" ed="T"/>禮一切如來。亦如來無觀頂義。<lb
  n="0216b10" ed="T"/></ab>
-<ab type="dharani">􄑼斫􄥇羯囉二合􄙖靺􈃪哩底<lb
+<ab type='dharani'>􄑼斫􄥇羯囉二合􄙖靺􈃪哩底<lb
  n="0216b11" ed="T"/><lb
  n="0216b12" ed="T"/>􄑾震􆩖跢􄗥末􄕍抳<lb
  n="0216b13" ed="T"/></ab>
-<ab type="prose">思惟義。亦如來寶義。寶有<lb
+<ab type='prose'>思惟義。亦如來寶義。寶有<lb
  n="0216b14" ed="T"/>六種。能滿眾生願故。<lb
  n="0216b15" ed="T"/></ab>
-<ab type="dharani">􄗥摩􄚩訶􄖵鉢􇪯那麼<lb
+<ab type='dharani'>􄗥摩􄚩訶􄖵鉢􇪯那麼<lb
  n="0216b16" ed="T"/><lb
  n="0216b17" ed="T"/></ab>
-<ab type="prose">嚕嚕􄙆􄗾􄙆。離塵垢義。塵有二種。故重稱<lb
+<ab type='prose'>嚕嚕􄙆􄗾􄙆。離塵垢義。塵有二種。故重稱<lb
  n="0216b18" ed="T"/>也。二塵者。所謂內塵外塵。內塵即是五根。<lb
  n="0216b19" ed="T"/>眼耳鼻舌身。外塵色聲香味觸。於二種塵。<lb
  n="0216b20" ed="T"/>皆無所得以為方便。成瑜伽觀智。<lb
@@ -150,7 +150,7 @@
  n="0217a02" ed="T"/>壽佛。聽聞正法頓證無上菩提如意輪菩薩<lb
  n="0217a03" ed="T"/>六臂相頌。<lb
  n="0217a04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 手持如意寶　　六臂身金色　　<lb
  n="0217a05" ed="T"/>頂髻寶莊嚴　　自在王說法　　<lb
  n="0217a06" ed="T"/>第一手思惟　　愍念有情故　　<lb
@@ -167,14 +167,14 @@
  n="0217a17" ed="T"/>猶如於明鏡　　能現於萬像　　<lb
  n="0217a18" ed="T"/>自心本不生　　法性圓寂故　　
 </ab><lb
- n="0217a19" ed="T"/><ab type="prose">　　出金剛頂瑜伽經說。</ab></div><lb
+ n="0217a19" ed="T"/><ab type='prose'>　　出金剛頂瑜伽經說。</ab></div><lb
  n="0217a20" ed="T"/><head>心中心真言</head><lb
- n="0217a21" ed="T"/><ab type="prose">唵字。嚩字。<lb
+ n="0217a21" ed="T"/><ab type='prose'>唵字。嚩字。<lb
  n="0217a22" ed="T"/>囉字。娜字。<lb
  n="0217a23" ed="T"/>跛字。娜麼字。<lb
  n="0217a24" ed="T"/>吽字。<lb
  n="0217a25" ed="T"/>右如上布列諸字。畫作欝金之色。<lb
- n="0217a26" ed="T"/></ab><div type="w" level="2"><ab type="prose">貞享三年十月二十一日點校了<lb
+ n="0217a26" ed="T"/></ab><div type='w' level='2'><ab type='prose'>貞享三年十月二十一日點校了<lb
  n="0217a27" ed="T"/>　　　　　　　　　　　淨嚴<lb
  n="0217a28" ed="T"/>元祿十六年正月十七日以淨嚴和上之本<pb n="0217b" id="T20.1088.0217b" ed="T"/><lb
  n="0217b01" ed="T"/>　再校了　　　　　　　　　　尊教<lb

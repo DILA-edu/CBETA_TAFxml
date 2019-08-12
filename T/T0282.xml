@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T10</biblScope>
                     <idno type="Taisho">T10n0282</idno>
                 </bibl>
@@ -43,10 +43,10 @@
  n="0451a01" ed="T"/><lb
  n="0451a02" ed="T"/><lb
  n="0451a03" ed="T"/>
-<ab type="juan" subtype="open">諸菩薩求佛本業經一卷</ab><lb
+<ab type='juan' subtype='open'>諸菩薩求佛本業經一卷</ab><lb
  n="0451a04" ed="T"/><lb
  n="0451a05" ed="T"/><byline>西晉優婆塞聶道真譯</byline><lb
- n="0451a06" ed="T"/><div type="jing" level="1"><ab type="prose">若那師利菩薩問文殊師利菩薩：「菩薩何因，<lb
+ n="0451a06" ed="T"/><div type='jing' level='1'><ab type='prose'>若那師利菩薩問文殊師利菩薩：「菩薩何因，<lb
  n="0451a07" ed="T"/>身有所行不令他人得長短、口所言不令他<lb
  n="0451a08" ed="T"/>人得長短、心所念不令他人得長短？何緣身<lb
  n="0451a09" ed="T"/>不法他人長短、口不說他人長短、心不念他<lb
@@ -329,5 +329,5 @@
  n="0454a25" ed="T"/>阿迦摩提菩薩、沙羅摩提菩薩、薩和摩提菩<lb
  n="0454a26" ed="T"/>薩。</ab></div><lb
  n="0454a27" ed="T"/>
-<ab type="juan" subtype="close">諸菩薩求佛本業經</ab>
+<ab type='juan' subtype='close'>諸菩薩求佛本業經</ab>
 </body></text></TEI>

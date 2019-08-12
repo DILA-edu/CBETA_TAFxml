@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T12</biblScope>
                     <idno type="Taisho">T12n0348</idno>
                 </bibl>
@@ -43,10 +43,10 @@
  n="0186b09" ed="T"/><lb
  n="0186b10" ed="T"/><lb
  n="0186b11" ed="T"/>
-<ab type="juan" subtype="open">佛說大乘方等要慧經</ab><lb
+<ab type='juan' subtype='open'>佛說大乘方等要慧經</ab><lb
  n="0186b12" ed="T"/><lb
  n="0186b13" ed="T"/><byline>後漢安息國三藏安世高譯</byline><lb
- n="0186b14" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時佛遊於舍衛國，爾時彌勒菩薩<lb
+ n="0186b14" ed="T"/><div type='jing' level='1'><ab type='prose'>聞如是：一時佛遊於舍衛國，爾時彌勒菩薩<lb
  n="0186b15" ed="T"/>叉手白佛言：<lb
  n="0186b16" ed="T"/>「世尊！我欲小有所問，若世尊聽所問者乃敢<lb
  n="0186b17" ed="T"/>陳之。」佛言：「若有所疑便問，吾當為汝解說，使<lb
@@ -64,5 +64,5 @@
  n="0186b29" ed="T"/>成就。是為八事。菩薩疾逮得無上一切智。」<pb n="0186c" id="T12.0348.0186c" ed="T"/><lb
  n="0186c01" ed="T"/>彌勒菩薩及諸眾會皆歡喜。</ab></div><lb
  n="0186c02" ed="T"/>
-<ab type="juan" subtype="close">大乘方等要慧經</ab>
+<ab type='juan' subtype='close'>大乘方等要慧經</ab>
 </body></text></TEI>

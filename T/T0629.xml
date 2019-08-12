@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T15</biblScope>
                     <idno type="Taisho">T15n0629</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0449a22" ed="T"/><lb
  n="0449a23" ed="T"/><lb
  n="0449a24" ed="T"/>
-<ab type="juan" subtype="open">佛說放鉢經</ab><lb
+<ab type='juan' subtype='open'>佛說放鉢經</ab><lb
  n="0449a25" ed="T"/><lb
  n="0449a26" ed="T"/><byline>安公云元闕譯人今附西晉錄</byline><lb
- n="0449a27" ed="T"/><div type="jing" level="1"><ab type="prose">佛在舍衛祇洹精舍，時與諸菩薩，無央數比<lb
+ n="0449a27" ed="T"/><div type='jing' level='1'><ab type='prose'>佛在舍衛祇洹精舍，時與諸菩薩，無央數比<lb
  n="0449a28" ed="T"/>丘、比丘尼、優婆塞、優婆夷，諸天王、釋、梵，及阿<lb
  n="0449a29" ed="T"/>須倫鬼、神龍、諸人非人，無央數悉會坐。佛說<pb n="0449b" ed="T" id="T15.0629.0449b"/><lb
  n="0449b01" ed="T"/>菩薩法，無央劫勤苦，泥犁，禽獸、薜荔，一切憂<lb
@@ -59,7 +59,7 @@
  n="0449b07" ed="T"/>人，端正無比，令持百味飯至佛所，前長跪叉<lb
  n="0449b08" ed="T"/>手作禮，白佛言：「願佛哀我，受此飯。」佛便受之。<lb
  n="0449b09" ed="T"/>坐中有菩薩在佛前坐，字文殊師利，白佛言：<lb
- n="0449b10" ed="T"/>「當念故恩。」座中諸菩薩悉聞，展轉相問：「文殊<lb
+ n="0449b10" ed="T"/>「當念故恩。」坐中諸菩薩悉聞，展轉相問：「文殊<lb
  n="0449b11" ed="T"/>師利！前世有何等恩施於佛，而復欲得佛飯？」<lb
  n="0449b12" ed="T"/>佛即捨鉢于地，便下入地中，乃至賴毘羅耶<lb
  n="0449b13" ed="T"/>佛剎，剎名波陀沙，鉢懸止空中現。彼剎中諸<lb
@@ -150,7 +150,7 @@
  n="0450b11" ed="T"/>除宿命之殃惡。若復遙聞遠方有師高明智<lb
  n="0450b12" ed="T"/>慧通達，欲往從受經學，身體病瘦手足拘攣<lb
  n="0450b13" ed="T"/>不可動搖，錢用乏少又無伴侶便不可行，念<lb
- n="0450b14" ed="T"/>之愁憂，用是故復除宿命之殃惡。若有人行<lb
+ n="0450b14" ed="T"/>之憂愁，用是故復除宿命之殃惡。若有人行<lb
  n="0450b15" ed="T"/>求善師，欲從學受經，道師大明達皆知道要，<lb
  n="0450b16" ed="T"/>弟子愚癡無慧意不開解，便自愁憂，用是故<lb
  n="0450b17" ed="T"/>復除宿命之殃惡。若有善師欲教弟子世間<lb
@@ -223,5 +223,5 @@
  n="0451a26" ed="T"/>諸天、人、阿須倫、鬼神、龍，皆大歡喜，起為佛作<lb
  n="0451a27" ed="T"/>禮。</ab></div><lb
  n="0451a28" ed="T"/>
-<ab type="juan" subtype="close">佛說放鉢經</ab>
+<ab type='juan' subtype='close'>佛說放鉢經</ab>
 </body></text></TEI>

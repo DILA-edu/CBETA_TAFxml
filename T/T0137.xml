@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T02</biblScope>
                     <idno type="Taisho">T02n0137</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0860a15" ed="T"/><lb
  n="0860a16" ed="T"/><lb
- n="0860a17" ed="T"/><div type="jing" level="1"><lb
+ n="0860a17" ed="T"/><div type='jing' level='1'><lb
  n="0860a18" ed="T"/>
-<ab type="juan" subtype="open">舍利弗摩訶目連遊四衢經</ab><lb
+<ab type='juan' subtype='open'>舍利弗摩訶目連遊四衢經</ab><lb
  n="0860a19" ed="T"/><lb
  n="0860a20" ed="T"/><byline>後漢外國三藏康孟詳譯</byline><lb
- n="0860a21" ed="T"/><ab type="prose">聞如是：一時，釋氏舍夷阿摩勒藥樹園。爾時，<lb
+ n="0860a21" ed="T"/><ab type='prose'>聞如是：一時，釋氏舍夷阿摩勒藥樹園。爾時，<lb
  n="0860a22" ed="T"/>賢者舍利弗、摩訶目乾連比丘，遊行諸國經<lb
  n="0860a23" ed="T"/>歷一年，與大比丘眾俱，比丘五百，還至藥<lb
  n="0860a24" ed="T"/>樹，欲見世尊。是等來還，比丘眾多各共語言，<lb
@@ -116,13 +116,13 @@
  n="0860c29" ed="T"/>念。所以者何？於是目連，誰能堪任去諸重擔？<pb n="0861a" ed="T" id="T02.0137.0861a"/><lb
  n="0861a01" ed="T"/>唯如來耳，及舍利弗、大目乾連。<lb
  n="0861a02" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「以信渡流氾，　　無放逸為船，　　<lb
  n="0861a03" ed="T"/>聖諦濟苦患，　　智慧究竟渡。」　　
 </ab><lb
- n="0861a04" ed="T"/><ab type="prose">佛分別是語時，六十比丘漏盡意解，無數比<lb
+ n="0861a04" ed="T"/><ab type='prose'>佛分別是語時，六十比丘漏盡意解，無數比<lb
  n="0861a05" ed="T"/>丘遠塵離垢，諸法眼生。佛說如是，諸比丘、清<lb
  n="0861a06" ed="T"/>信士、天、龍、鬼神，莫不歡喜。<lb
  n="0861a07" ed="T"/>
-</ab><ab type="juan" subtype="close">舍利弗摩訶目連遊四衢經</ab></div>
+</ab><ab type='juan' subtype='close'>舍利弗摩訶目連遊四衢經</ab></div>
 </body></text></TEI>

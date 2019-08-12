@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1157</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0651b12" ed="T"/><lb
  n="0651b13" ed="T"/><lb
  n="0651b14" ed="T"/>
-<ab type="juan" subtype="open">香王菩薩陀羅尼呪經一卷</ab><lb
+<ab type='juan' subtype='open'>香王菩薩陀羅尼呪經一卷</ab><lb
  n="0651b15" ed="T"/><lb
  n="0651b16" ed="T"/><byline>三藏法師沙門義淨譯</byline><lb
- n="0651b17" ed="T"/><div type="dharani" level="1"><ab type="dharani">南謨曷喇怛娜怛喇夜也南謨阿離耶<lb
+ n="0651b17" ed="T"/><div type='dharani' level='1'><ab type='dharani'>南謨曷喇怛娜怛喇夜也南謨阿離耶<lb
  n="0651b18" ed="T"/>跋盧吉羝說囉也菩提薩埵也莫訶薩<lb
  n="0651b19" ed="T"/>埵也南謨健陀羅曷囉社也菩提薩<lb
  n="0651b20" ed="T"/>埵也莫訶薩埵也伊只㨖彌只㨖<lb
@@ -55,7 +55,7 @@
  n="0651b22" ed="T"/>儞迦利沙般拏地鉢謎鉢唎拽<lb
  n="0651b23" ed="T"/>叱莎訶<lb
  n="0651b24" ed="T"/></ab>
-<ab type="prose">此陀羅尼先。須志心誦十萬遍。然於觀世<lb
+<ab type='prose'>此陀羅尼先。須志心誦十萬遍。然於觀世<lb
  n="0651b25" ed="T"/>音像前。作四肘方壇。取花等名香供養。夜用<lb
  n="0651b26" ed="T"/>淨牛蘇然燈。莫令斷明。其夜半呪師須起。著<lb
  n="0651b27" ed="T"/>淨潔衣應好莊束。像前誦此陀羅尼一千八<lb
@@ -96,5 +96,5 @@
  n="0652a04" ed="T"/>之法不得破戒。身亦不得近觸著女人觸著<lb
  n="0652a05" ed="T"/>女人者即無驗。<lb
  n="0652a06" ed="T"/>
-</ab><ab type="juan" subtype="close">香王菩薩陀羅尼呪經</ab></div>
+</ab><ab type='juan' subtype='close'>香王菩薩陀羅尼呪經</ab></div>
 </body></text></TEI>

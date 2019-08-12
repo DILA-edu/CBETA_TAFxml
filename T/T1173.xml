@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1173</idno>
                 </bibl>
@@ -43,12 +43,12 @@
  n="0710a01" ed="T"/><lb
  n="0710a02" ed="T"/><lb
  n="0710a03" ed="T"/>
-<ab type="juan" subtype="open">金剛頂經曼殊室利菩薩五字<lb
+<ab type='juan' subtype='open'>金剛頂經曼殊室利菩薩五字<lb
  n="0710a04" ed="T"/>心陀羅尼品</ab><lb
  n="0710a05" ed="T"/><lb
  n="0710a06" ed="T"/><byline>大唐南印度摩賴耶國三藏<lb
  n="0710a07" ed="T"/>金剛智奉　制譯</byline><lb
- n="0710a08" ed="T"/><div type="jing" level="1"><ab type="prose">爾時執金剛菩薩摩訶薩等一切菩薩。皆於<lb
+ n="0710a08" ed="T"/><div type='jing' level='1'><ab type='prose'>爾時執金剛菩薩摩訶薩等一切菩薩。皆於<lb
  n="0710a09" ed="T"/>毘盧遮那佛前。各各自說心陀羅尼印。於是<lb
  n="0710a10" ed="T"/>曼殊室利菩薩摩訶薩。從座而起白佛言世<lb
  n="0710a11" ed="T"/>尊我亦為欲利益未來一切有情。速得成就<lb
@@ -57,9 +57,9 @@
  n="0710a14" ed="T"/>子今正是時。汝應宣說。爾時曼殊室利菩薩。<lb
  n="0710a15" ed="T"/>承佛告旨即說陀羅尼曰。<lb
  n="0710a16" ed="T"/></ab>
-<ab type="dharani">阿囉跛者娜<lb
+<ab type='dharani'>阿囉跛者娜<lb
  n="0710a17" ed="T"/></ab>
-<ab type="prose">若善男子善女人。有能受持此陀羅尼者。即<lb
+<ab type='prose'>若善男子善女人。有能受持此陀羅尼者。即<lb
  n="0710a18" ed="T"/>入如來一切法平等。一切文字亦皆平等。速<lb
  n="0710a19" ed="T"/>得成就摩訶般若。纔誦一遍。如持一切八萬<lb
  n="0710a20" ed="T"/>四千修多羅藏。欲受持者。應先請入灌頂曼<lb
@@ -114,43 +114,43 @@
  n="0710c11" ed="T"/>如釘橛。誦陀羅尼三遍。想如獨股金剛。火<lb
  n="0710c12" ed="T"/>焰杵徹金剛際。陀羅尼曰。<lb
  n="0710c13" ed="T"/></ab>
-<ab type="dharani">唵枳里　枳里　跋日囉跋日𠼝<lb
+<ab type='dharani'>唵枳里　枳里　跋日囉跋日𠼝<lb
  n="0710c14" ed="T"/>部𠷈滿陀　滿陀　吽泮<lb
  n="0710c15" ed="T"/></ab>
-<ab type="prose">金剛火焰院界陀羅尼印<lb
+<ab type='prose'>金剛火焰院界陀羅尼印<lb
  n="0710c16" ed="T"/>准前地印。豁開禪智。右旋八方誦陀羅尼三<lb
  n="0710c17" ed="T"/>遍。遠近隨意。想金剛火城飛焰電旋。陀羅<lb
  n="0710c18" ed="T"/>尼曰。<lb
  n="0710c19" ed="T"/></ab>
-<ab type="dharani">唵薩囉　薩囉　跋日囉　鉢囉迦囉<lb
+<ab type='dharani'>唵薩囉　薩囉　跋日囉　鉢囉迦囉<lb
  n="0710c20" ed="T"/>吽泮<lb
  n="0710c21" ed="T"/></ab>
-<ab type="prose">金剛火焰網界陀羅尼印<lb
+<ab type='prose'>金剛火焰網界陀羅尼印<lb
  n="0710c22" ed="T"/>亦准前印。以禪智捏進力下文側。頂上右旋<lb
  n="0710c23" ed="T"/>誦陀羅尼三遍。想金剛火焰網上至有頂。陀<lb
  n="0710c24" ed="T"/>羅尼曰。<lb
  n="0710c25" ed="T"/></ab>
-<ab type="dharani">唵尾薩　普囉　捺𠸪　訖灑　跋<lb
+<ab type='dharani'>唵尾薩　普囉　捺𠸪　訖灑　跋<lb
  n="0710c26" ed="T"/>日囉半惹囉吽泮<lb
  n="0710c27" ed="T"/></ab>
-<ab type="prose">作此結界者。六欲魔羅及一切毘那夜迦。惶<lb
+<ab type='prose'>作此結界者。六欲魔羅及一切毘那夜迦。惶<lb
  n="0710c28" ed="T"/>怖遁走無所容竄。<lb
  n="0710c29" ed="T"/>次說瑜伽三昧耶陀羅尼印。<pb n="0711a" id="T20.1173.0711a" ed="T"/><lb
  n="0711a01" ed="T"/>福智圓滿十波羅蜜和合堅固。建立忍願安<lb
  n="0711a02" ed="T"/>於心上。陀羅尼曰。<lb
  n="0711a03" ed="T"/></ab>
-<ab type="dharani">唵　三摩耶　薩　怛梵<lb
+<ab type='dharani'>唵　三摩耶　薩　怛梵<lb
  n="0711a04" ed="T"/></ab>
-<ab type="prose">作此法已。一切諸佛憶昔本願。觀察護念開<lb
+<ab type='prose'>作此法已。一切諸佛憶昔本願。觀察護念開<lb
  n="0711a05" ed="T"/>心地門陀羅尼印。<lb
  n="0711a06" ed="T"/>堅固縛已。於右乳上想怛囉字。於左乳上想<lb
  n="0711a07" ed="T"/>有吒字。心口相應誦陀羅尼。齊散十度彈於<lb
  n="0711a08" ed="T"/>心上。擘開兩字如啟戶扇。以開其心。陀羅<lb
  n="0711a09" ed="T"/>尼曰。<lb
  n="0711a10" ed="T"/></ab>
-<ab type="dharani">唵　跋日囉滿馱　怛囉吒<lb
+<ab type='dharani'>唵　跋日囉滿馱　怛囉吒<lb
  n="0711a11" ed="T"/></ab>
-<ab type="prose">作此法者。即能開悟心地法門。不久當證一<lb
+<ab type='prose'>作此法者。即能開悟心地法門。不久當證一<lb
  n="0711a12" ed="T"/>切三昧。<lb
  n="0711a13" ed="T"/>入智字陀羅尼印<lb
  n="0711a14" ed="T"/>又於其前。觀一蓮華紅頗梨色。中有阿字。<lb
@@ -158,9 +158,9 @@
  n="0711a16" ed="T"/>智入中。進力如環其最相合。想捻其字內於<lb
  n="0711a17" ed="T"/>心中。陀羅尼曰。<lb
  n="0711a18" ed="T"/></ab>
-<ab type="dharani">唵　跋日囉　微　舍惡<lb
+<ab type='dharani'>唵　跋日囉　微　舍惡<lb
  n="0711a19" ed="T"/></ab>
-<ab type="prose">所以者何。即此惡字是一切如來寂靜智義。<lb
+<ab type='prose'>所以者何。即此惡字是一切如來寂靜智義。<lb
  n="0711a20" ed="T"/>亦在一切眾生心行之中而未顯現。今以如<lb
  n="0711a21" ed="T"/>來智慧方便加持之故。照於其中。故修行者<lb
  n="0711a22" ed="T"/>應當殷重生難遭想。如法修習。<lb
@@ -168,9 +168,9 @@
  n="0711a24" ed="T"/>准前入印。唯屈進力拄禪智背。誦陀羅尼。以<lb
  n="0711a25" ed="T"/>印當心作閉戶想。陀羅尼曰。<lb
  n="0711a26" ed="T"/></ab>
-<ab type="dharani">唵　跋日囉　母瑟致　鑁<lb
+<ab type='dharani'>唵　跋日囉　母瑟致　鑁<lb
  n="0711a27" ed="T"/></ab>
-<ab type="prose">作此法者。以得如來寂靜智故。心生殷重而<lb
+<ab type='prose'>作此法者。以得如來寂靜智故。心生殷重而<lb
  n="0711a28" ed="T"/>祕密之。當知行人速證寂靜菩提之道。<lb
  n="0711a29" ed="T"/>三摩地門陀羅尼印<pb n="0711b" id="T20.1173.0711b" ed="T"/><lb
  n="0711b01" ed="T"/>二羽外相叉仰於臍下。端身正意息諸攀緣。<lb
@@ -179,16 +179,16 @@
  n="0711b04" ed="T"/>一一於諸佛前。五體投地一心歸命。陀羅尼<lb
  n="0711b05" ed="T"/>曰。<lb
  n="0711b06" ed="T"/></ab>
-<ab type="dharani">唵　薩婆怛他𦽆多播娜曼娜能迦𡀔<lb
+<ab type='dharani'>唵　薩婆怛他𦽆多播娜曼娜能迦𡀔<lb
  n="0711b07" ed="T"/>弭<lb
  n="0711b08" ed="T"/></ab>
-<ab type="prose">爾時佛於行人前。一時彈指警悟行者而告<lb
+<ab type='prose'>爾時佛於行人前。一時彈指警悟行者而告<lb
  n="0711b09" ed="T"/>之言。善男子汝發菩提心者。當觀自心。而<lb
  n="0711b10" ed="T"/>說陀羅尼曰。<lb
  n="0711b11" ed="T"/></ab>
-<ab type="dharani">唵　止多鉢囉帝微能迦𡀔弭<lb
+<ab type='dharani'>唵　止多鉢囉帝微能迦𡀔弭<lb
  n="0711b12" ed="T"/></ab>
-<ab type="prose">時修行者得是教已。踊躍歡喜頂禮諸佛。即<lb
+<ab type='prose'>時修行者得是教已。踊躍歡喜頂禮諸佛。即<lb
  n="0711b13" ed="T"/>誦密語。觀於心中所內惡字猶如滿月。未全<lb
  n="0711b14" ed="T"/>顯現如翳輕霧。於一念頃作是觀已。白諸佛<lb
  n="0711b15" ed="T"/>言我已見心。猶如於月而未分明。唯願世尊<lb
@@ -196,31 +196,31 @@
  n="0711b17" ed="T"/>男子。如是如是我當復以此陀羅尼。加持於<lb
  n="0711b18" ed="T"/>汝令得顯現。<lb
  n="0711b19" ed="T"/></ab>
-<ab type="dharani">唵　菩提止多母怛麼娜夜弭<lb
+<ab type='dharani'>唵　菩提止多母怛麼娜夜弭<lb
  n="0711b20" ed="T"/></ab>
-<ab type="prose">誦是密語。復觀心月極明淨已。於其月中觀<lb
+<ab type='prose'>誦是密語。復觀心月極明淨已。於其月中觀<lb
  n="0711b21" ed="T"/>曼殊室利一字陀羅尼。<lb
  n="0711b22" ed="T"/>𤚥字如黃金色。化為猛利金剛寶劍。<lb
  n="0711b23" ed="T"/>光明照耀遍於十方。入是三昧復誦陀羅尼<lb
  n="0711b24" ed="T"/>曰。<lb
  n="0711b25" ed="T"/></ab>
-<ab type="dharani">唵　底　瑟奼跋日囉底<lb
+<ab type='dharani'>唵　底　瑟奼跋日囉底<lb
  n="0711b26" ed="T"/>乞瑟拏曇<lb
  n="0711b27" ed="T"/></ab>
-<ab type="prose">其月與劍極分明已。漸令廣大周遍法界。量<lb
+<ab type='prose'>其月與劍極分明已。漸令廣大周遍法界。量<lb
  n="0711b28" ed="T"/>同虛空純一無雜。無有自他一切諸相。即此<lb
  n="0711b29" ed="T"/>劍者為於己身。能觀之心在於劍中。亦為一<pb n="0711c" id="T20.1173.0711c" ed="T"/><lb
  n="0711c01" ed="T"/>體。入此三昧時陀羅尼曰。<lb
  n="0711c02" ed="T"/></ab>
-<ab type="dharani">唵　薩頗囉　跋日囉底乞瑟拏<lb
+<ab type='dharani'>唵　薩頗囉　跋日囉底乞瑟拏<lb
  n="0711c03" ed="T"/></ab>
-<ab type="prose">隨力而住已。復觀其劍漸漸而𣫍。虛空諸佛<lb
+<ab type='prose'>隨力而住已。復觀其劍漸漸而𣫍。虛空諸佛<lb
  n="0711c04" ed="T"/>隨入其中。量同本身晃然而止。入是三昧時<lb
  n="0711c05" ed="T"/>陀羅尼曰。<lb
  n="0711c06" ed="T"/></ab>
-<ab type="dharani">唵僧訶囉　跋日囉底乞瑟拏<lb
+<ab type='dharani'>唵僧訶囉　跋日囉底乞瑟拏<lb
  n="0711c07" ed="T"/></ab>
-<ab type="prose">以一切如來入身劍已加持力故。即變己身<lb
+<ab type='prose'>以一切如來入身劍已加持力故。即變己身<lb
  n="0711c08" ed="T"/>為曼殊室利菩薩。身紫金色頂有五髻。項背<lb
  n="0711c09" ed="T"/>圓光。左手執青蓮華。右手執金剛藏梵夾行<lb
  n="0711c10" ed="T"/>者己身為菩薩已。恐復散亂而有退失。復以<lb
@@ -228,9 +228,9 @@
  n="0711c12" ed="T"/>菩薩三業陀羅尼印<lb
  n="0711c13" ed="T"/>堅固縛已。直竪忍願屈其上節。陀羅尼曰。<lb
  n="0711c14" ed="T"/></ab>
-<ab type="dharani">唵　耨佉泚娜曇<lb
+<ab type='dharani'>唵　耨佉泚娜曇<lb
  n="0711c15" ed="T"/></ab>
-<ab type="prose">以印心上次額及喉安於頂上。各誦一遍。此<lb
+<ab type='prose'>以印心上次額及喉安於頂上。各誦一遍。此<lb
  n="0711c16" ed="T"/>加持已。設心散亂本相不易。一切非人見修<lb
  n="0711c17" ed="T"/>行者。與曼殊室利菩薩等無有異。<lb
  n="0711c18" ed="T"/>五髻陀羅尼印<lb
@@ -239,23 +239,23 @@
  n="0711c21" ed="T"/>於頂上。各誦一遍作此法已。五方如來皆在<lb
  n="0711c22" ed="T"/>於頂五髻之上。陀羅尼曰。<lb
  n="0711c23" ed="T"/></ab>
-<ab type="dharani">娜麼三曼多勃陀南　阿鉢囉低訶多沙<lb
+<ab type='dharani'>娜麼三曼多勃陀南　阿鉢囉低訶多沙<lb
  n="0711c24" ed="T"/>娑娜南　怛姪他　唵囉囉娑麼囉阿鉢<lb
  n="0711c25" ed="T"/>囉底訶多沙娑那　俱麼囉𡀔跛陀哩<lb
- n="0711c26" ed="T"/>󰻟吽吽薩泮吒莎縛訶<lb
+ n="0711c26" ed="T"/>𭕱吽吽薩泮吒莎縛訶<lb
  n="0711c27" ed="T"/></ab>
-<ab type="prose">曼殊室利菩薩灌頂陀羅尼印<lb
+<ab type='prose'>曼殊室利菩薩灌頂陀羅尼印<lb
  n="0711c28" ed="T"/>福智圓滿。禪智入中。進力相蹙如摩尼寶。安<lb
  n="0711c29" ed="T"/>於額上。陀羅尼曰。<pb n="0712a" id="T20.1173.0712a" ed="T"/><lb
  n="0712a01" ed="T"/></ab>
-<ab type="dharani">唵　囉怛娜句捨阿䞘哩也吽<lb
+<ab type='dharani'>唵　囉怛娜句捨阿䞘哩也吽<lb
  n="0712a02" ed="T"/></ab>
-<ab type="prose">繫寶鬘陀羅尼印<lb
+<ab type='prose'>繫寶鬘陀羅尼印<lb
  n="0712a03" ed="T"/>結灌頂已。開印二分誦陀羅尼曰。<lb
  n="0712a04" ed="T"/></ab>
-<ab type="dharani">唵　囉怛娜　句捨䞘哩也麼隷<lb
+<ab type='dharani'>唵　囉怛娜　句捨䞘哩也麼隷<lb
  n="0712a05" ed="T"/></ab>
-<ab type="prose">額上三繞如繫寶鬘。分手頂後。亦復三繞。向<lb
+<ab type='prose'>額上三繞如繫寶鬘。分手頂後。亦復三繞。向<lb
  n="0712a06" ed="T"/>前而下。從檀慧散如垂帶勢。慈悲金剛甲陀<lb
  n="0712a07" ed="T"/>羅尼印。<lb
  n="0712a08" ed="T"/>二慧固已。進力側交。進面想唵字。力面<lb
@@ -270,43 +270,43 @@
  n="0712a17" ed="T"/>二慧固已。以其觀羽置止羽上。檀慧相鉤。<lb
  n="0712a18" ed="T"/>力度直竪進度如鉤。陀羅尼曰。<lb
  n="0712a19" ed="T"/></ab>
-<ab type="dharani">唵　跋日啢句捨若<lb
+<ab type='dharani'>唵　跋日啢句捨若<lb
  n="0712a20" ed="T"/></ab>
-<ab type="prose">誦此三遍。進度三招。真身菩薩應念而至。<lb
+<ab type='prose'>誦此三遍。進度三招。真身菩薩應念而至。<lb
  n="0712a21" ed="T"/>金剛索陀羅尼印<lb
  n="0712a22" ed="T"/>准前請印。唯㧙進力相拄如環。陀羅尼曰。<lb
  n="0712a23" ed="T"/></ab>
-<ab type="dharani">唵　跋日囉　跛捨吽<lb
+<ab type='dharani'>唵　跋日囉　跛捨吽<lb
  n="0712a24" ed="T"/></ab>
-<ab type="prose">當心結已誦陀羅尼三遍。想菩薩法身來入<lb
+<ab type='prose'>當心結已誦陀羅尼三遍。想菩薩法身來入<lb
  n="0712a25" ed="T"/>畫像。<lb
  n="0712a26" ed="T"/>金剛鎖陀羅尼印<lb
  n="0712a27" ed="T"/>二慧固已。進力右押左相鉤。拄禪智背中<lb
  n="0712a28" ed="T"/>節。陀羅尼曰。<lb
  n="0712a29" ed="T"/></ab>
-<ab type="dharani">唵　跋日囉　薩怖吒𤚥<pb n="0712b" id="T20.1173.0712b" ed="T"/><lb
+<ab type='dharani'>唵　跋日囉　薩怖吒𤚥<pb n="0712b" id="T20.1173.0712b" ed="T"/><lb
  n="0712b01" ed="T"/></ab>
-<ab type="prose">作此法者聖者本身加持不散。<lb
+<ab type='prose'>作此法者聖者本身加持不散。<lb
  n="0712b02" ed="T"/>金剛鈴陀羅尼印<lb
  n="0712b03" ed="T"/>准前鎖印。進力檀慧各反相鉤。陀羅尼曰。<lb
  n="0712b04" ed="T"/></ab>
-<ab type="dharani">唵　跋日囉　健茶呼<lb
+<ab type='dharani'>唵　跋日囉　健茶呼<lb
  n="0712b05" ed="T"/></ab>
-<ab type="prose">作此法者。一切諸佛菩薩及本聖者皆悉歡<lb
+<ab type='prose'>作此法者。一切諸佛菩薩及本聖者皆悉歡<lb
  n="0712b06" ed="T"/>喜。<lb
  n="0712b07" ed="T"/>獻遏伽水陀羅尼印<lb
  n="0712b08" ed="T"/>以欝金龍腦白檀香水。盛遏伽器。開佛部印<lb
  n="0712b09" ed="T"/>捧而供養。陀羅尼曰。<lb
  n="0712b10" ed="T"/></ab>
-<ab type="dharani">唵　跋日𡀔娜迦侘<lb
+<ab type='dharani'>唵　跋日𡀔娜迦侘<lb
  n="0712b11" ed="T"/></ab>
-<ab type="prose">作此供養者。如以一切如來金剛甘露。灌一<lb
+<ab type='prose'>作此供養者。如以一切如來金剛甘露。灌一<lb
  n="0712b12" ed="T"/>切眾生頂。除滅有情無量業障。飲此水者除<lb
  n="0712b13" ed="T"/>諸災患。<lb
  n="0712b14" ed="T"/>百字陀羅尼印<lb
  n="0712b15" ed="T"/>結前劍印陀羅尼曰。<lb
  n="0712b16" ed="T"/></ab>
-<ab type="dharani">唵渴伽薩怛嚩三麼也麼奴<lb
+<ab type='dharani'>唵渴伽薩怛嚩三麼也麼奴<lb
  n="0712b17" ed="T"/>播羅也渴伽薩怛嚩底尾<lb
  n="0712b18" ed="T"/>怒跛底瑟咤𡬗㗚擢迷<lb
  n="0712b19" ed="T"/>皤縛素覩數迷皤嚩阿努𡀩訖<lb
@@ -318,64 +318,64 @@
  n="0712b25" ed="T"/>霓迷皤嚩麼訶三麼耶薩怛嚩<lb
  n="0712b26" ed="T"/>惡<lb
  n="0712b27" ed="T"/></ab>
-<ab type="prose">誦此陀羅尼。能令聖者歡喜。堅固菩提所求<lb
+<ab type='prose'>誦此陀羅尼。能令聖者歡喜。堅固菩提所求<lb
  n="0712b28" ed="T"/>勝願能速成就。<lb
  n="0712b29" ed="T"/>金剛嬉戲內供養陀羅尼印<pb n="0712c" id="T20.1173.0712c" ed="T"/><lb
  n="0712c01" ed="T"/>堅固縛已。直竪禪智以印當心。陀羅尼曰。<lb
  n="0712c02" ed="T"/></ab>
-<ab type="dharani">唵　磨訶囉底<lb
+<ab type='dharani'>唵　磨訶囉底<lb
  n="0712c03" ed="T"/></ab>
-<ab type="prose">作此法者。如以一切如來智慧。供養諸佛以<lb
+<ab type='prose'>作此法者。如以一切如來智慧。供養諸佛以<lb
  n="0712c04" ed="T"/>為遊戲。<lb
  n="0712c05" ed="T"/>金剛鬘內供養陀羅尼印<lb
  n="0712c06" ed="T"/>即以前印向前申臂。如捧鬘供養勢。陀羅尼<lb
  n="0712c07" ed="T"/>曰。<lb
  n="0712c08" ed="T"/></ab>
-<ab type="dharani">唵　𡀔　跛輸鞞<lb
+<ab type='dharani'>唵　𡀔　跛輸鞞<lb
  n="0712c09" ed="T"/></ab>
-<ab type="prose">作此法者。如以菩提花鬘而為供養。<lb
+<ab type='prose'>作此法者。如以菩提花鬘而為供養。<lb
  n="0712c10" ed="T"/>金剛歌內供養陀羅尼印<lb
  n="0712c11" ed="T"/>准前印。從臍而上至口方散。如歌發想。陀<lb
  n="0712c12" ed="T"/>羅尼曰。<lb
  n="0712c13" ed="T"/></ab>
-<ab type="dharani">唵　輸嚧怛囉譟企曳<lb
+<ab type='dharani'>唵　輸嚧怛囉譟企曳<lb
  n="0712c14" ed="T"/></ab>
-<ab type="prose">作此法者。如以一切如來密言歌詠。而為供<lb
+<ab type='prose'>作此法者。如以一切如來密言歌詠。而為供<lb
  n="0712c15" ed="T"/>養。<lb
  n="0712c16" ed="T"/>金剛舞內供養陀羅尼印<lb
  n="0712c17" ed="T"/>准前印。如歌詠想。至口便散。右旋合掌於<lb
  n="0712c18" ed="T"/>頂上散。陀羅尼曰。<lb
  n="0712c19" ed="T"/></ab>
-<ab type="dharani">唵　薩婆　補而曳<lb
+<ab type='dharani'>唵　薩婆　補而曳<lb
  n="0712c20" ed="T"/></ab>
-<ab type="prose">作此法者。如以一切如來辯才而為供養。<lb
+<ab type='prose'>作此法者。如以一切如來辯才而為供養。<lb
  n="0712c21" ed="T"/>金剛香陀羅尼印<lb
  n="0712c22" ed="T"/>以堅固縛。向地而散。想如焚香。陀羅尼曰。<lb
  n="0712c23" ed="T"/></ab>
-<ab type="dharani">唵　跋日囉度豍<lb
+<ab type='dharani'>唵　跋日囉度豍<lb
  n="0712c24" ed="T"/></ab>
-<ab type="prose">作此法者。如焚世間一切妙香而為供養。能<lb
+<ab type='prose'>作此法者。如焚世間一切妙香而為供養。能<lb
  n="0712c25" ed="T"/>令一切有情得清涼果。<lb
  n="0712c26" ed="T"/>金剛花陀羅尼印<lb
  n="0712c27" ed="T"/>以堅固縛向上散之。如散花勢。陀羅尼曰。<lb
  n="0712c28" ed="T"/></ab>
-<ab type="dharani">唵　跋日囉補澁豍<lb
+<ab type='dharani'>唵　跋日囉補澁豍<lb
  n="0712c29" ed="T"/></ab>
-<ab type="prose">作此法者。同以世間一切妙花而為供養。能<pb n="0713a" id="T20.1173.0713a" ed="T"/><lb
+<ab type='prose'>作此法者。同以世間一切妙花而為供養。能<pb n="0713a" id="T20.1173.0713a" ed="T"/><lb
  n="0713a01" ed="T"/>令一切有情速得具足三十二相。<lb
  n="0713a02" ed="T"/>金剛燈陀羅尼印<lb
  n="0713a03" ed="T"/>如嘻戲印禪智急捏。陀羅尼曰。<lb
  n="0713a04" ed="T"/></ab>
-<ab type="dharani">唵　跋日囉嚕計<lb
+<ab type='dharani'>唵　跋日囉嚕計<lb
  n="0713a05" ed="T"/></ab>
-<ab type="prose">作此法者如以一切如來智燈而為供養。能<lb
+<ab type='prose'>作此法者如以一切如來智燈而為供養。能<lb
  n="0713a06" ed="T"/>令有情速得成就如來智慧。<lb
  n="0713a07" ed="T"/>金剛塗香陀羅尼印<lb
  n="0713a08" ed="T"/>以堅固縛向心而散。陀羅尼曰。<lb
  n="0713a09" ed="T"/></ab>
-<ab type="dharani">唵　跋日囉巘提<lb
+<ab type='dharani'>唵　跋日囉巘提<lb
  n="0713a10" ed="T"/></ab>
-<ab type="prose">作此法者。如以尸羅智香而為供養。令諸有<lb
+<ab type='prose'>作此法者。如以尸羅智香而為供養。令諸有<lb
  n="0713a11" ed="T"/>情速得清淨戒身。<lb
  n="0713a12" ed="T"/>八供養已。二羽相叉仰於臍下。諦觀菩薩演<lb
  n="0713a13" ed="T"/>五字陀羅尼。五色光明從口而出。入於行者<lb
@@ -396,9 +396,9 @@
  n="0713a28" ed="T"/>遣。二者召菩薩入於己身。若發遣者。一一依<lb
  n="0713a29" ed="T"/>前八供養已。即以劍印誦陀羅尼。<pb n="0713b" id="T20.1173.0713b" ed="T"/><lb
  n="0713b01" ed="T"/></ab>
-<ab type="dharani">唵　跋日囉底乞瑟拏穆<lb
+<ab type='dharani'>唵　跋日囉底乞瑟拏穆<lb
  n="0713b02" ed="T"/></ab>
-<ab type="prose">即名發遣。若召菩薩者。依前四攝入自身已。<lb
+<ab type='prose'>即名發遣。若召菩薩者。依前四攝入自身已。<lb
  n="0713b03" ed="T"/>復以八印而為供養。被金剛甲。復誦三昧耶<lb
  n="0713b04" ed="T"/>陀羅尼。住四威儀任其所適。一切有情人非<lb
  n="0713b05" ed="T"/>人等。親近行者聞音見形。如親奉曼殊所得<lb
@@ -408,5 +408,5 @@
  n="0713b09" ed="T"/>三昧耶禁。若入觸處欲散身者。復想菩薩入<lb
  n="0713b10" ed="T"/>旃娜囉。<lb
  n="0713b11" ed="T"/>
-</ab><ab type="juan" subtype="close">金剛頂經曼殊室利菩薩五字心陀羅尼品</ab></div>
+</ab><ab type='juan' subtype='close'>金剛頂經曼殊室利菩薩五字心陀羅尼品</ab></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T13</biblScope>
                     <idno type="Taisho">T13n0420</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0924b19" ed="T"/><lb
  n="0924b20" ed="T"/><lb
  n="0924b21" ed="T"/>
-<ab type="juan" subtype="open">自在王菩薩經卷上</ab><lb
+<ab type='juan' subtype='open'>自在王菩薩經卷上</ab><lb
  n="0924b22" ed="T"/><lb
  n="0924b23" ed="T"/><byline>姚秦三藏鳩摩羅什譯</byline><lb
- n="0924b24" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時，佛在舍衛城祇陀樹林給孤<lb
+ n="0924b24" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時，佛在舍衛城祇陀樹林給孤<lb
  n="0924b25" ed="T"/>獨園，與大比丘眾二萬人俱，菩薩摩訶薩<lb
  n="0924b26" ed="T"/>皆是一生補處，其名曰：彌勒菩薩、得大勢<lb
  n="0924b27" ed="T"/>菩薩、師子意菩薩、師子相菩薩、大相菩薩，<lb
@@ -379,7 +379,7 @@
  n="0928b05" ed="T"/>梵天王身而為說法；若有眾生樂魔王形者，<lb
  n="0928b06" ed="T"/>以魔王身而為說法；若有眾生樂見佛身者，<lb
  n="0928b07" ed="T"/>則現佛身而為說法；菩薩或為眾生住於空<lb
- n="0928b08" ed="T"/>中結跏趺坐，身放光明而為說法；或有眾生<lb
+ n="0928b08" ed="T"/>中結加趺坐，身放光明而為說法；或有眾生<lb
  n="0928b09" ed="T"/>樂嚴淨世界者，則為莊嚴三千大千世界，懸<lb
  n="0928b10" ed="T"/>繒幡蓋竪諸幢幡，以寶羅網遍覆其上，燒諸<lb
  n="0928b11" ed="T"/>名香作眾伎樂，然後說法；或為眾生現三千<lb
@@ -522,7 +522,7 @@
  n="0930a03" ed="T"/>自在王菩薩白佛言：「世尊！頗有所緣，菩薩見<lb
  n="0930a04" ed="T"/>如是諸法，而能見佛耶？」佛言：「有！何以故？色<lb
  n="0930a05" ed="T"/>是盡相，性無生故，能見色如是，是名見如<lb
- n="0930a06" ed="T"/>來；受想行色是盡相，性無生故，能見識如<lb
+ n="0930a06" ed="T"/>來；受想行識是盡相，性無生故，能見識如<lb
  n="0930a07" ed="T"/>是，是名見如來；戒是無為無作無起相，能<lb
  n="0930a08" ed="T"/>見戒如是，是名見如來；定慧解脫知見等<lb
  n="0930a09" ed="T"/>亦如是，是名見如來。自在王！我於過去燃<lb
@@ -540,14 +540,14 @@
  n="0930a21" ed="T"/>實滅，生死不可得而以方便智故示，是名菩<lb
  n="0930a22" ed="T"/>薩智自在。<lb
  n="0930a23" ed="T"/>
-</ab><ab type="juan" subtype="close">自在王菩薩經卷上</ab><lb
+</ab><ab type='juan' subtype='close'>自在王菩薩經卷上</ab><lb
  n="0930a24" ed="T"/><lb
  n="0930a25" ed="T"/><lb
  n="0930a26" ed="T"/>
-<ab type="juan" subtype="open">自在王菩薩經卷下</ab><lb
+<ab type='juan' subtype='open'>自在王菩薩經卷下</ab><lb
  n="0930a27" ed="T"/><lb
  n="0930a28" ed="T"/><byline>姚秦三藏鳩摩羅什譯</byline><lb
- n="0930a29" ed="T"/><ab type="prose">「自在王！何謂菩薩摩訶薩諦智？求聲聞者，以<pb n="0930b" ed="T" id="T13.0420.0930b"/><lb
+ n="0930a29" ed="T"/><ab type='prose'>「自在王！何謂菩薩摩訶薩諦智？求聲聞者，以<pb n="0930b" ed="T" id="T13.0420.0930b"/><lb
  n="0930b01" ed="T"/>諦法證聲聞解脫，菩薩得此諦而不證解脫，<lb
  n="0930b02" ed="T"/>是名自在。求辟支佛者，以諦法證辟支佛解<lb
  n="0930b03" ed="T"/>脫，菩薩得此諦而不證解脫，是名自在。諦<lb
@@ -730,7 +730,7 @@
  n="0932b06" ed="T"/>是經心歡悅者，當知是人得四自在，以是自<lb
  n="0932b07" ed="T"/>在現自在力。何以故？自在王！是諸自在，一<lb
  n="0932b08" ed="T"/>切聲聞辟支佛之所無有。」爾時自在王菩薩，<lb
- n="0932b09" ed="T"/>聞佛所說心大喜悅，合掌禮敬，瞻仰尊願<lb
+ n="0932b09" ed="T"/>聞佛所說心大喜悅，合掌禮敬，瞻仰尊顏<lb
  n="0932b10" ed="T"/>目不暫捨。作如是言：「世尊！佛今以是四自<lb
  n="0932b11" ed="T"/>在力，一切眾生亦當得是四自在力。」佛以<lb
  n="0932b12" ed="T"/>神力，使自在王菩薩以種種好色香華滿其<lb
@@ -990,5 +990,5 @@
  n="0935b05" ed="T"/>已，自在王菩薩及阿難、一切天人，聞佛所說，<lb
  n="0935b06" ed="T"/>歡喜受持。<lb
  n="0935b07" ed="T"/>
-</ab><ab type="juan" subtype="close">自在王菩薩經卷下</ab></div>
+</ab><ab type='juan' subtype='close'>自在王菩薩經卷下</ab></div>
 </body></text></TEI>

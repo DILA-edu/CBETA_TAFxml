@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T15</biblScope>
                     <idno type="Taisho">T15n0602</idno>
                 </bibl>
@@ -39,14 +39,14 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0163a" ed="T" id="T15.0602.0163a"/><lb
  n="0163a01" ed="T"/><lb
- n="0163a02" ed="T"/><div type="xu" level="2"><lb
+ n="0163a02" ed="T"/><div type='xu' level='2'><lb
  n="0163a03" ed="T"/><head>佛說大安般守意經卷上</head><lb
  n="0163a04" ed="T"/><lb
  n="0163a05" ed="T"/><byline>康僧會序</byline><lb
- n="0163a06" ed="T"/><ab type="prose">夫安般者，諸佛之大乘，以濟眾生之漂流<lb
+ n="0163a06" ed="T"/><ab type='prose'>夫安般者，諸佛之大乘，以濟眾生之漂流<lb
  n="0163a07" ed="T"/>也。其事有六，以治六情。情有內外：眼、耳、鼻、舌、<lb
  n="0163a08" ed="T"/>身、心，謂之內矣；色、聲、香、味、細滑、邪念，謂之外<lb
  n="0163a09" ed="T"/>也。經曰諸海十二事，謂內外六情之受邪行，<lb
@@ -107,14 +107,14 @@
  n="0163c06" ed="T"/>非師所傳，不敢自由也。言多鄙拙，不究佛意，<lb
  n="0163c07" ed="T"/>明哲眾賢，願共臨察；義有肬腨，加聖刪定，共<lb
  n="0163c08" ed="T"/>顯神融矣。</ab></div><lb
- n="0163c09" ed="T"/><div type="jing" level="2"><lb
+ n="0163c09" ed="T"/><div type='jing' level='2'><lb
  n="0163c10" ed="T"/><lb
  n="0163c11" ed="T"/>
-<ab type="juan" subtype="open">佛說大安般守意經卷上<lb
+<ab type='juan' subtype='open'>佛說大安般守意經卷上<lb
  n="0163c12" ed="T"/></ab><lb
  n="0163c13" ed="T"/><lb
  n="0163c14" ed="T"/><byline>後漢安息三藏安世高譯</byline><lb
- n="0163c15" ed="T"/><ab type="prose">佛在越祇國舍羈瘦國，亦說一名遮匿迦羅<lb
+ n="0163c15" ed="T"/><ab type='prose'>佛在越祇國舍羈瘦國，亦說一名遮匿迦羅<lb
  n="0163c16" ed="T"/>國。時佛坐行安般守意九十日，佛復獨坐九<lb
  n="0163c17" ed="T"/>十日者，思惟校計，欲度脫十方人及蜎飛蠕<lb
  n="0163c18" ed="T"/>動之類。復言我行安般守意九十日者，安般<lb
@@ -360,7 +360,7 @@
  n="0166b26" ed="T"/>佛有六潔意，謂數息、相隨、止、觀、還、淨，是六事<lb
  n="0166b27" ed="T"/>能制無形也。息亦是意，亦非意。何以故？數時，<lb
  n="0166b28" ed="T"/>意在息為是；不數時，意息各自行，是為非意。<lb
- n="0166b29" ed="T"/>從息生意已，止無有意也。人不使意，意使<pb n="0166c" ed="T" id="T15.0602.0166c"/><lb
+ n="0166b29" ed="T"/>從意生息已，止無有意也。人不使意，意使<pb n="0166c" ed="T" id="T15.0602.0166c"/><lb
  n="0166c01" ed="T"/>人。使意者，謂數息、相隨、止、觀、還、淨。念《三十<lb
  n="0166c02" ed="T"/>七品經》，是為使意；人不行道，貪求隨欲，是<lb
  n="0166c03" ed="T"/>為意使人也。息有垢，息垢不去，不得息。何等<lb
@@ -463,7 +463,7 @@
  n="0167c13" ed="T"/>種，栽為癡，為有生物也。內外身體所以重出<lb
  n="0167c14" ed="T"/>者何？謂人貪求，有大小，有前後。謂所欲得當<lb
  n="0167c15" ed="T"/>分別觀，觀者見為念，念因見觀者為知也。身<lb
- n="0167c16" ed="T"/>體止者，坐念起，起念意不離，在所行意所著<lb
+ n="0167c16" ed="T"/>觀止者，坐念起，起念意不離，在所行意所著<lb
  n="0167c17" ed="T"/>為識，是為身觀止也。出息、入息念滅時，何等<lb
  n="0167c18" ed="T"/>為念滅時？謂念出入氣盡時，意息滅。出息、入<lb
  n="0167c19" ed="T"/>息念滅時，譬如畫空中，無有處生死，意道意<lb
@@ -514,17 +514,17 @@
  n="0168b06" ed="T"/>亦謂不念惡為止。念惡為不止，何以故？意行<lb
  n="0168b07" ed="T"/>故也。<lb
  n="0168b08" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說大安般守意經卷上</ab><lb
+</ab><ab type='juan' subtype='close'>佛說大安般守意經卷上</ab><lb
  n="0168b09" ed="T"/><lb
  n="0168b10" ed="T"/><lb
  n="0168b11" ed="T"/>
-<ab type="juan" subtype="open">佛說大安般守意經卷下</ab><lb
+<ab type='juan' subtype='open'>佛說大安般守意經卷下</ab><lb
  n="0168b12" ed="T"/><lb
  n="0168b13" ed="T"/><byline>後漢安息三藏安世高譯</byline><lb
- n="0168b14" ed="T"/><ab type="prose">出息入息自覺，出息入息自知；當時為覺，以<lb
+ n="0168b14" ed="T"/><ab type='prose'>出息入息自覺，出息入息自知；當時為覺，以<lb
  n="0168b15" ed="T"/>後為知；覺者謂覺息長短，知者謂知息生滅、<lb
  n="0168b16" ed="T"/>麁細、遲疾也。出息入息覺盡止者，謂覺出<lb
- n="0168b17" ed="T"/>入息欲報時為盡，亦計萬物身生復滅。心者，<lb
+ n="0168b17" ed="T"/>入息欲報時為盡，亦計萬物身生復滅。止者，<lb
  n="0168b18" ed="T"/>謂意止也。見觀空者，行道得觀，不復見身。<lb
  n="0168b19" ed="T"/>便墮空無所有者，謂意無所著；意有所著因，<lb
  n="0168b20" ed="T"/>為有斷六入，便得賢明。賢謂身，明謂道也。知<lb
@@ -617,7 +617,7 @@
  n="0169b20" ed="T"/>經，以亂不起，是為強制意也。精進為黠，走是<lb
  n="0169b21" ed="T"/>六事中，謂數息、相隨、止、觀、還、淨，是為六也。何<lb
  n="0169b22" ed="T"/>等為喘？何等為息？何等為氣？何等為力？何等<lb
- n="0169b23" ed="T"/>為風？制者，為意息，為命守，為氣，為視聽風，<lb
+ n="0169b23" ed="T"/>為風？喘者，為意息，為命守，為氣，為視聽風，<lb
  n="0169b24" ed="T"/>為能言語，從道屈伸力，為能舉重瞋恚也。要<lb
  n="0169b25" ed="T"/>從守意得道，何緣得守意？從數轉得息，息<lb
  n="0169b26" ed="T"/>轉得相隨，止觀還淨亦爾也。行道欲得止意，<lb
@@ -863,7 +863,7 @@
  n="0172b05" ed="T"/>從諦身意持報？謂身持七戒，意持三戒，是為<lb
  n="0172b06" ed="T"/>身意持也。從諦意得休息，從四諦意因緣休；<lb
  n="0172b07" ed="T"/>休者為止，息為思，得道為受思也。貪樂道法，<lb
- n="0172b08" ed="T"/>當行道為愛覺意，持道不失為力覺意，已得<lb
+ n="0172b08" ed="T"/>常行道為愛覺意，持道不失為力覺意，已得<lb
  n="0172b09" ed="T"/>十息身安隱為息覺意，自知已安為定覺意。<lb
  n="0172b10" ed="T"/>身意持，意不走為持，從諦自在，意在所行，<lb
  n="0172b11" ed="T"/>謂得四諦。亦可念四意止，亦可四意斷，亦可<lb
@@ -938,8 +938,8 @@
  n="0173a22" ed="T"/>知本所從來，五為知往生何所，六為知索<lb
  n="0173a23" ed="T"/>漏盡，是為六也。<lb
  n="0173a24" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說大安般守意經卷下</ab></div><lb
- n="0173a25" ed="T"/><div type="w" level="2"><ab type="prose">此經按經首序及見經文，似是書者之錯，<lb
+</ab><ab type='juan' subtype='close'>佛說大安般守意經卷下</ab></div><lb
+ n="0173a25" ed="T"/><div type='w' level='2'><ab type='prose'>此經按經首序及見經文，似是書者之錯，<lb
  n="0173a26" ed="T"/>經注不分而連書者也。義當節而注之，然<lb
  n="0173a27" ed="T"/>往往多有不可分處，故不敢擅節，以遺後<lb
  n="0173a28" ed="T"/>賢焉。</ab></div></div>

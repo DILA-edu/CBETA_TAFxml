@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T16</biblScope>
                     <idno type="Taisho">T16n0715</idno>
                 </bibl>
@@ -44,11 +44,11 @@
  n="0829a02" ed="T"/><lb
  n="0829a03" ed="T"/><lb
  n="0829a04" ed="T"/>
-<ab type="juan" subtype="open">佛說舊城喻經</ab><lb
+<ab type='juan' subtype='open'>佛說舊城喻經</ab><lb
  n="0829a05" ed="T"/><lb
  n="0829a06" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0829a07" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
- n="0829a08" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時佛在舍衛國祇樹給孤獨園，<lb
+ n="0829a08" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時佛在舍衛國祇樹給孤獨園，<lb
  n="0829a09" ed="T"/>與大眾俱。<lb
  n="0829a10" ed="T"/>爾時佛告諸苾芻言：「苾芻！我於往昔未證阿<lb
  n="0829a11" ed="T"/>耨多羅三藐三菩提時，獨止一處，心生疑念：<lb
@@ -169,5 +169,5 @@
  n="0830b10" ed="T"/>修習、宣布，廣為眾生作大利益。」爾時世尊說<lb
  n="0830b11" ed="T"/>是經已，一切大眾聞佛所說，信受奉行。</ab></div><lb
  n="0830b12" ed="T"/>
-<ab type="juan" subtype="close">佛說舊城喻經</ab>
+<ab type='juan' subtype='close'>佛說舊城喻經</ab>
 </body></text></TEI>

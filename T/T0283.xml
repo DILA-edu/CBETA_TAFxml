@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T10</biblScope>
                     <idno type="Taisho">T10n0283</idno>
                 </bibl>
@@ -43,10 +43,10 @@
  n="0454b01" ed="T"/><lb
  n="0454b02" ed="T"/><lb
  n="0454b03" ed="T"/>
-<ab type="juan" subtype="open">菩薩十住行道品一卷</ab><lb
+<ab type='juan' subtype='open'>菩薩十住行道品一卷</ab><lb
  n="0454b04" ed="T"/><lb
  n="0454b05" ed="T"/><byline>西晉三藏竺法護譯</byline><lb
- n="0454b06" ed="T"/><div type="None" level="1"><ab type="prose">曇昧摩提菩薩持佛威神，便於佛前入是<lb
+ n="0454b06" ed="T"/><div type='' level='1'><ab type='prose'>曇昧摩提菩薩持佛威神，便於佛前入是<lb
  n="0454b07" ed="T"/>阿難波渝迦三昧，悉見十方諸佛——十方諸佛<lb
  n="0454b08" ed="T"/>者，其數如千佛剎塵等；一塵者為一佛剎，一<lb
  n="0454b09" ed="T"/>佛剎如是十方四面——見十方諸佛皆悉言：「善<lb
@@ -249,5 +249,5 @@
  n="0456c03" ed="T"/>所復從誰學道，是為阿惟顏以十法菩薩行<lb
  n="0456c04" ed="T"/>道如是。」</ab></div><lb
  n="0456c05" ed="T"/>
-<ab type="juan" subtype="close">菩薩十住行道經</ab>
+<ab type='juan' subtype='close'>菩薩十住行道經</ab>
 </body></text></TEI>

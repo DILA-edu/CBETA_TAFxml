@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T09</biblScope>
                     <idno type="Taisho">T09n0274</idno>
                 </bibl>
@@ -41,12 +41,12 @@
     <text>
         <body><pb n="0374c" ed="T" id="T09.0274.0374c"/><lb
  n="0374c01" ed="T"/><lb
- n="0374c02" ed="T"/><div type="pin" level="1"><lb
+ n="0374c02" ed="T"/><div type='pin' level='1'><lb
  n="0374c03" ed="T"/>
-<ab type="juan" subtype="open">佛說濟諸方等學經一卷</ab><lb
+<ab type='juan' subtype='open'>佛說濟諸方等學經一卷</ab><lb
  n="0374c04" ed="T"/><lb
  n="0374c05" ed="T"/><byline>西晉月氏三藏竺法護譯</byline><lb
- n="0374c06" ed="T"/><ab type="prose">聞如是：一時佛遊王舍城靈鷲山，與大比丘<lb
+ n="0374c06" ed="T"/><ab type='prose'>聞如是：一時佛遊王舍城靈鷲山，與大比丘<lb
  n="0374c07" ed="T"/>眾俱，比丘六萬、菩薩八十億、摩竭國中眾優<lb
  n="0374c08" ed="T"/>婆塞六百萬。臨滅度時最後末年至羅閱祇，<lb
  n="0374c09" ed="T"/>初首新歲。於時，世尊即如其像三昧正受，莊<lb
@@ -431,5 +431,5 @@
  n="0379a11" ed="T"/>鬼神、犍沓惒、阿須倫、世間人民——聞佛所說，莫<lb
  n="0379a12" ed="T"/>不歡喜，作禮而去。<lb
  n="0379a13" ed="T"/>
-</ab><ab type="juan" subtype="close">濟諸方等學經</ab></div>
+</ab><ab type='juan' subtype='close'>濟諸方等學經</ab></div>
 </body></text></TEI>

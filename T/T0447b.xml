@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0447b</idno>
                 </bibl>
@@ -43,10 +43,10 @@
  n="0383b22" ed="T"/><lb
  n="0383b23" ed="T"/><lb
  n="0383b24" ed="T"/>
-<ab type="juan" subtype="open">現在賢劫千佛名經</ab><lb
+<ab type='juan' subtype='open'>現在賢劫千佛名經</ab><lb
  n="0383b25" ed="T"/><lb
  n="0383b26" ed="T"/><byline>開元拾遺附梁錄</byline><lb
- n="0383b27" ed="T"/><div type="jing" level="1"><ab type="prose">爾時喜王菩薩白佛言：「世尊，今此眾中，頗有<lb
+ n="0383b27" ed="T"/><div type='jing' level='1'><ab type='prose'>爾時喜王菩薩白佛言：「世尊，今此眾中，頗有<lb
  n="0383b28" ed="T"/>菩薩摩訶薩得是三昧，亦得八萬四千波羅<lb
  n="0383b29" ed="T"/>蜜門、諸三昧門、陀羅尼門者不？」佛告喜王：「今<pb n="0383c" ed="T" id="T14.0447b.0383c"/><lb
  n="0383c01" ed="T"/>此會中有菩薩大士，得是三昧，亦能入八萬<lb
@@ -440,5 +440,5 @@
  n="0388a12" ed="T"/>當行淨行，勿生欺誑離於名利，勿懷嫉妬，行<lb
  n="0388a13" ed="T"/>六和敬，如是行者，疾得三昧法。</ab></div><lb
  n="0388a14" ed="T"/>
-<ab type="juan" subtype="close">現在賢劫千佛名經</ab>
+<ab type='juan' subtype='close'>現在賢劫千佛名經</ab>
 </body></text></TEI>

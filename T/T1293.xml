@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1293</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0378a08" ed="T"/><lb
  n="0378a09" ed="T"/><lb
  n="0378a10" ed="T"/><lb
  n="0378a11" ed="T"/>
-<ab type="juan" subtype="open">般若守護十六善神王形體</ab><lb
+<ab type='juan' subtype='open'>般若守護十六善神王形體</ab><lb
  n="0378a12" ed="T"/><lb
  n="0378a13" ed="T"/><byline>金剛智三藏譯</byline><lb
- n="0378a14" ed="T"/><div type="jing" level="2"><ab type="prose">提頭攞宅善神　綠青色。開口現忿怒相貌。<lb
+ n="0378a14" ed="T"/><div type='jing' level='2'><ab type='prose'>提頭攞宅善神　綠青色。開口現忿怒相貌。<lb
  n="0378a15" ed="T"/>被甲冑著赤衣。右手持大刀。左手捧鉾。髮紫<lb
  n="0378a16" ed="T"/>色也。<lb
  n="0378a17" ed="T"/>毘盧勒叉善神　赤紫色。忿怒相現閉唇之<lb
@@ -99,7 +99,7 @@
  n="0378c04" ed="T"/>極惡忿怒也。<lb
  n="0378c05" ed="T"/>勇猛心地善神　被甲冑綠色。如能救諸有。<lb
  n="0378c06" ed="T"/>二手外縛當胸。微笑之相也。</ab></div><lb
- n="0378c07" ed="T"/><div type="w" level="2"><ab type="prose">本奧云。又陀羅尼集經第三卷說十六善<lb
+ n="0378c07" ed="T"/><div type='w' level='2'><ab type='prose'>本奧云。又陀羅尼集經第三卷說十六善<lb
  n="0378c08" ed="T"/>神名字并總呪。又如空比丘夢感自塔院<lb
  n="0378c09" ed="T"/>律師之。<lb
  n="0378c10" ed="T"/>谷響集八云。世有金剛智所譯般若守護<lb

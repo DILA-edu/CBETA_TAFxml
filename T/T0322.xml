@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T12</biblScope>
                     <idno type="Taisho">T12n0322</idno>
                 </bibl>
@@ -39,13 +39,13 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0015a" id="T12.0322.0015a" ed="T"/><lb
  n="0015a01" ed="T"/><lb
  n="0015a02" ed="T"/><lb
- n="0015a03" ed="T"/><div type="xu" level="2"><head>法鏡經序</head><lb
+ n="0015a03" ed="T"/><div type='xu' level='2'><head>法鏡經序</head><lb
  n="0015a04" ed="T"/><lb
- n="0015a05" ed="T"/><ab type="prose">夫心者，眾法之原、臧否之根，同出異名，禍<lb
+ n="0015a05" ed="T"/><ab type='prose'>夫心者，眾法之原、臧否之根，同出異名，禍<lb
  n="0015a06" ed="T"/>福分流。以身為車，以家為國，周旋十方，稟無<lb
  n="0015a07" ed="T"/>勌息。家欲難足，由海吞流、火之獲薪，六邪<lb
  n="0015a08" ed="T"/>之殘，已甚於蒺䔧田之賊魚矣！女人佞等三<lb
@@ -69,10 +69,10 @@
  n="0015a26" ed="T"/>記識闕疑，俟後明哲，庶有暢成，以顯三寶矣。</ab></div><pb n="0015b" id="T12.0322.0015b" ed="T"/><lb
  n="0015b01" ed="T"/><lb
  n="0015b02" ed="T"/>
-<ab type="juan" subtype="open">法鏡經</ab><lb
+<ab type='juan' subtype='open'>法鏡經</ab><lb
  n="0015b03" ed="T"/><lb
  n="0015b04" ed="T"/><byline>後漢安息國騎都尉安玄譯</byline><lb
- n="0015b05" ed="T"/><div type="jing" level="2"><ab type="prose">聞如是：一時，眾祐遊於聞物國勝氏之樹給<lb
+ n="0015b05" ed="T"/><div type='jing' level='2'><ab type='prose'>聞如是：一時，眾祐遊於聞物國勝氏之樹給<lb
  n="0015b06" ed="T"/>孤獨聚園，與大眾除饉千二百五十人俱，<lb
  n="0015b07" ed="T"/>及五百開士，慈氏、敬首、始棄、闚音，開士<lb
  n="0015b08" ed="T"/>之上首者也。彼時若干百眾圍累側塞眾<lb
@@ -460,7 +460,7 @@
  n="0019c18" ed="T"/>欲以見息心形狀故，身服法衣；亦是法衣<lb
  n="0019c19" ed="T"/>之神為十方之神故，身以服法衣；以患離<lb
  n="0019c20" ed="T"/>婬樂，是以不樂婬之樂；以樂安得淨，是以<lb
- n="0019c21" ed="T"/>除斷眾勞之樂；不以肥󰣘，為是道行；行在<lb
+ n="0019c21" ed="T"/>除斷眾勞之樂；不以肥𫆚，為是道行；行在<lb
  n="0019c22" ed="T"/>聖道重任，我亦以自修；如以一時有法衣，<lb
  n="0019c23" ed="T"/>如被服法衣故。以是十德自觀，至于壽終，<pb n="0020a" id="T12.0322.0020a" ed="T"/><lb
  n="0020a01" ed="T"/>閑居靜處，以不行匃。何等為十？我自以我<lb
@@ -680,11 +680,11 @@
  n="0022b25" ed="T"/>歡喜，及甚理家、天與人，亦質諒王，眾祐說<lb
  n="0022b26" ed="T"/>已，皆思惟也。</ab></div><lb
  n="0022b27" ed="T"/>
-<ab type="juan" subtype="close">法鏡經</ab><pb n="0022c" id="T12.0322.0022c" ed="T"/><lb
+<ab type='juan' subtype='close'>法鏡經</ab><pb n="0022c" id="T12.0322.0022c" ed="T"/><lb
  n="0022c01" ed="T"/><lb
- n="0022c02" ed="T"/><div type="xu" level="2"><head>法鏡經後序</head><lb
+ n="0022c02" ed="T"/><div type='xu' level='2'><head>法鏡經後序</head><lb
  n="0022c03" ed="T"/><lb
- n="0022c04" ed="T"/><ab type="prose">序曰：夫不照明鏡，不見己之形，不讚聖經，不<lb
+ n="0022c04" ed="T"/><ab type='prose'>序曰：夫不照明鏡，不見己之形，不讚聖經，不<lb
  n="0022c05" ed="T"/>見己之情。情有真偽，性有柔剛，志有純猛，意<lb
  n="0022c06" ed="T"/>有闇明，識有淺深，不能一同。不覩聖典，無以<lb
  n="0022c07" ed="T"/>自明，佛故著經，名曰《法鏡》，以授某等。開士之<lb

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T18</biblScope>
                     <idno type="Taisho">T18n0911</idno>
                 </bibl>
@@ -39,17 +39,17 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0926a12" ed="T"/><lb
  n="0926a13" ed="T"/><lb
  n="0926a14" ed="T"/><lb
  n="0926a15" ed="T"/>
-<ab type="juan" subtype="open">建立曼荼羅及揀擇地法</ab><lb
+<ab type='juan' subtype='open'>建立曼荼羅及揀擇地法</ab><lb
  n="0926a16" ed="T"/><lb
  n="0926a17" ed="T"/><byline>上都大興善寺沙門</byline><lb
  n="0926a18" ed="T"/><byline>慧琳依諸大乘經集</byline><lb
- n="0926a19" ed="T"/><div type="jing" level="2"><ab type="prose">謹案。蘇悉地。蘇婆呼。玉呬耶。大毘盧遮那成<lb
+ n="0926a19" ed="T"/><div type='jing' level='2'><ab type='prose'>謹案。蘇悉地。蘇婆呼。玉呬耶。大毘盧遮那成<lb
  n="0926a20" ed="T"/>佛等經。略集揀擇地建立曼荼羅法。修真言<lb
  n="0926a21" ed="T"/>者依祕密教。持誦諸尊真言。求世間出世間<lb
  n="0926a22" ed="T"/>二種成就者。先發不退大菩提心。求入諸佛<lb
@@ -133,13 +133,13 @@
  n="0927a13" ed="T"/>時值吉祥相。先為一切如來作禮。以如是偈<lb
  n="0927a14" ed="T"/>驚發地神偈曰。<lb
  n="0927a15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 汝天親護者　　於諸佛導師　　<lb
  n="0927a16" ed="T"/>修行殊勝行　　淨地波羅蜜　　<lb
  n="0927a17" ed="T"/>如破魔軍眾　　釋師子救世　　<lb
  n="0927a18" ed="T"/>我亦降伏魔　　我畫曼荼羅　　
 </ab><lb
- n="0927a19" ed="T"/><ab type="prose">阿闍梨應誦梵本。彼應長跪舒右手按地頻<lb
+ n="0927a19" ed="T"/><ab type='prose'>阿闍梨應誦梵本。彼應長跪舒右手按地頻<lb
  n="0927a20" ed="T"/>誦此偈。以塗香花等。供養諸佛菩薩及以地<lb
  n="0927a21" ed="T"/>神。如是供養已。修行者須應歸命一切如來<lb
  n="0927a22" ed="T"/>然後治地。如其次第當具眾德。<lb
@@ -147,11 +147,11 @@
  n="0927a24" ed="T"/>令堅固。取未至地瞿摩夷及瞿模怛羅和<lb
  n="0927a25" ed="T"/>合塗之。次以香水真言灑淨。即說真言曰。<lb
  n="0927a26" ed="T"/></ab>
-<ab type="dharani">􄖩􄗰􄙺􄗥􆩖􈎭􇧺􄖳􇟄􆿅􄪼􄕙􄙺􅝣􇟄􄑘􄑘<lb
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􄖳􇟄􆿅􄪼􄕙􄙺􅝣􇟄􄑘􄑘<lb
  n="0927a27" ed="T"/>􄖩􄙺􄗫􇟄􄙺􄗥􆩗􄖭􄑘􄕝􄪼􄛀􄕙􄙘􄙧􇧼􇟄<lb
  n="0927a28" ed="T"/>􄕻􅝝􄕼􄕛􄙘􄙧􄕻􄖫􇟄􅁥􄚩􇧆<lb
  n="0927a29" ed="T"/></ab>
-<ab type="prose">此真言加持香水。始終用。按諸經說。次第如<pb n="0927b" id="T18.0911.0927b" ed="T"/><lb
+<ab type='prose'>此真言加持香水。始終用。按諸經說。次第如<pb n="0927b" id="T18.0911.0927b" ed="T"/><lb
  n="0927b01" ed="T"/>上。今修行者師受相傳不無委細。凡欲建立<lb
  n="0927b02" ed="T"/>曼荼羅。先擇其地。自量本所求願。擇取相應<lb
  n="0927b03" ed="T"/>之處。先須從師稟受加持之法心無疑滯。然<lb
@@ -165,22 +165,22 @@
  n="0927b11" ed="T"/>第。密加持自身。面向東方。手執香爐誦啟請<lb
  n="0927b12" ed="T"/>偈曰。<lb
  n="0927b13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 出毘盧舍那經文　　<lb
  n="0927b14" ed="T"/>諸佛慈悲者　　存念我等故　　<lb
  n="0927b15" ed="T"/>明日受持地　　并佛子當降　　
 </ab><lb
- n="0927b16" ed="T"/><ab type="prose">經文雖爾。言約義隱。闕請地神句。今以後偈<lb
+ n="0927b16" ed="T"/><ab type='prose'>經文雖爾。言約義隱。闕請地神句。今以後偈<lb
  n="0927b17" ed="T"/>相傳與前意不異。文備義顯。二偈總通。取捨<lb
  n="0927b18" ed="T"/>隨意。偈曰。<lb
  n="0927b19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 諸佛慈悲有情者　　唯願存念於我等　　<lb
  n="0927b20" ed="T"/>我今請白諸賢聖　　堅牢地天并眷屬　　<lb
  n="0927b21" ed="T"/>一切如來及佛子　　不捨悲願悉降臨　　<lb
  n="0927b22" ed="T"/>我受此地求成就　　為作證明加護我　　
 </ab><lb
- n="0927b23" ed="T"/><ab type="prose">誦三遍或七遍。若能誦得梵本最善。梵云云<lb
+ n="0927b23" ed="T"/><ab type='prose'>誦三遍或七遍。若能誦得梵本最善。梵云云<lb
  n="0927b24" ed="T"/>如是慇懃奉請已。心想聖眾悉皆雲集。即觀<lb
  n="0927b25" ed="T"/>大日如來自性清淨身。周遍法界。十方三世一<lb
  n="0927b26" ed="T"/>切如來亦復如是。想自身如金剛薩埵菩薩。<lb
@@ -190,19 +190,19 @@
  n="0927c01" ed="T"/>發地神偈七遍。每誦一遍一按於地。又誦地<lb
  n="0927c02" ed="T"/>天真言百八遍。真言曰。<lb
  n="0927c03" ed="T"/></ab>
-<ab type="dharani">􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􆯷􄕥􄣅􅁥􄚩􇧆<lb
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􈎭􇧺􈁀􇟄􆯷􄕥􄣅􅁥􄚩􇧆<lb
  n="0927c04" ed="T"/></ab>
-<ab type="prose">心想地神猶如天女。眾寶莊嚴。與無量眷屬<lb
+<ab type='prose'>心想地神猶如天女。眾寶莊嚴。與無量眷屬<lb
  n="0927c05" ed="T"/>各捧寶瓶。及持香花從地涌出憶本誓願。不<lb
  n="0927c06" ed="T"/>敢違佛教命來此證明。又誦如來慈護真言<lb
  n="0927c07" ed="T"/>一百八遍。饒益地神。慈護真言曰。<lb
  n="0927c08" ed="T"/></ab>
-<ab type="dharani">􇩂唵􈎭沒􇧹馱􄗬每引􄩠怛哩二合􄙖縛􄦽日羅二合􄗽羅<lb
+<ab type='dharani'>􇩂唵􈎭沒􇧹馱􄗬每引􄩠怛哩二合􄙖縛􄦽日羅二合􄗽羅<lb
  n="0927c09" ed="T"/><lb
  n="0927c10" ed="T"/>􄚴乞灑二合􆿁憾􅁥娑婆􄚩訶<lb
  n="0927c11" ed="T"/><lb
  n="0927c12" ed="T"/></ab>
-<ab type="prose">修行者至誠焚香。啟告賢聖及以地神言。仰<lb
+<ab type='prose'>修行者至誠焚香。啟告賢聖及以地神言。仰<lb
  n="0927c13" ed="T"/>啟一切如來諸大菩薩緣覺聲聞五類諸天堅<lb
  n="0927c14" ed="T"/>牢地神及此處靈祇等。我某甲依持明藏教<lb
  n="0927c15" ed="T"/>受持某尊真言。為求無上菩提欲於<lb
@@ -246,10 +246,10 @@
  n="0928a24" ed="T"/>即以不動尊母捺羅真言一百八遍加護<lb
  n="0928a25" ed="T"/>其地。然後總掘。不動尊真言曰。<lb
  n="0928a26" ed="T"/></ab>
-<ab type="dharani">􄖩􄗰􄙺􄗥􆩖􄙖􄦽􄕕􇟄􄑼􆧽􄗥􄚩􄙆􄙮􄕋􇟄<lb
+<ab type='dharani'>􄖩􄗰􄙺􄗥􆩖􄙖􄦽􄕕􇟄􄑼􆧽􄗥􄚩􄙆􄙮􄕋􇟄<lb
  n="0928a27" ed="T"/>􆷱􈁆􄗱􆿁􄩞􈁆􇟄􈁅􄩞􈁆<lb
  n="0928a28" ed="T"/></ab>
-<ab type="prose">掘地意者。恐地中有穢物。如前所說灰炭髑<lb
+<ab type='prose'>掘地意者。恐地中有穢物。如前所說灰炭髑<lb
  n="0928a29" ed="T"/>髏蟲窠樹根毒螫之類。或有古墓伏屍。若惡<pb n="0928b" id="T18.0911.0928b" ed="T"/><lb
  n="0928b01" ed="T"/>物苦多不堪建立。應當捨棄更求勝處。若無<lb
  n="0928b02" ed="T"/>此過但掘深一肘二肘或深三肘。其土運出<lb
@@ -287,22 +287,22 @@
  n="0928c05" ed="T"/>以大輪金剛真言加持一百八遍。無能勝真<lb
  n="0928c06" ed="T"/>言曰。<lb
  n="0928c07" ed="T"/></ab>
-<ab type="dharani">那莫三滿多母馱南唵戶嚕戶嚕戰拏哩<lb
+<ab type='dharani'>那莫三滿多母馱南唵戶嚕戶嚕戰拏哩<lb
  n="0928c08" ed="T"/>麼蹬儗娑嚩賀<lb
  n="0928c09" ed="T"/></ab>
-<ab type="prose">先塗壇上。次塗四邊。皆從東北角右旋塗拭。<lb
+<ab type='prose'>先塗壇上。次塗四邊。皆從東北角右旋塗拭。<lb
  n="0928c10" ed="T"/>又即以塗地真言加持隨塗。誦塗地真言曰。<lb
  n="0928c11" ed="T"/></ab>
-<ab type="dharani">唵迦囉黎摩賀迦羅黎娑嚩賀<lb
+<ab type='dharani'>唵迦囉黎摩賀迦羅黎娑嚩賀<lb
  n="0928c12" ed="T"/></ab>
-<ab type="prose">如是數數頻塗三五遍。即用蓮子草揩摩。或<lb
+<ab type='prose'>如是數數頻塗三五遍。即用蓮子草揩摩。或<lb
  n="0928c13" ed="T"/>取蜀葵葉和小許墨汁。并擣香茅草相和。如<lb
  n="0928c14" ed="T"/>法揩摩一兩遍已。承濕掃令光淨。如法正掃<lb
  n="0928c15" ed="T"/>之時。誦掃地真言曰。</ab>
-<ab type="dharani">唵賀羅賀羅羅祖<lb
+<ab type='dharani'>唵賀羅賀羅羅祖<lb
  n="0928c16" ed="T"/>仡羅賀羅拏野娑嚩賀<lb
  n="0928c17" ed="T"/></ab>
-<ab type="prose">既塗拭已燒香散花。誦無動明王真言千遍。<lb
+<ab type='prose'>既塗拭已燒香散花。誦無動明王真言千遍。<lb
  n="0928c18" ed="T"/>辟除障者加護其處。手捧香爐至誠啟告。即<lb
  n="0928c19" ed="T"/>住大日如來觀。觀菩提心分明顯現。於心月<lb
  n="0928c20" ed="T"/>輪中觀阿字。白色放大光明照無邊界。便連<lb
@@ -323,7 +323,7 @@
  n="0929a06" ed="T"/>雖不才略陳小分大意。萬不書一。惟達學通<lb
  n="0929a07" ed="T"/>人照見其事也。</ab></div><lb
  n="0929a08" ed="T"/>
-<ab type="juan" subtype="close">建立壇法</ab><lb
- n="0929a09" ed="T"/><div type="w" level="2"><ab type="prose">靈雲校本云　貞享四年中春廿夕一校了。<lb
+<ab type='juan' subtype='close'>建立壇法</ab><lb
+ n="0929a09" ed="T"/><div type='w' level='2'><ab type='prose'>靈雲校本云　貞享四年中春廿夕一校了。<lb
  n="0929a10" ed="T"/>　　　　　　　　　　　淨嚴</ab></div></div>
 </body></text></TEI>

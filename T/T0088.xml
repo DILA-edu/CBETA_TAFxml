@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0088</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0912a12" ed="T"/><lb
  n="0912a13" ed="T"/><lb
- n="0912a14" ed="T"/><div type="jing" level="1"><lb
+ n="0912a14" ed="T"/><div type='jing' level='1'><lb
  n="0912a15" ed="T"/>
-<ab type="juan" subtype="open">優陂夷墮舍迦經</ab><lb
+<ab type='juan' subtype='open'>優陂夷墮舍迦經</ab><lb
  n="0912a16" ed="T"/><lb
  n="0912a17" ed="T"/><byline>失譯人名今附宋錄</byline><lb
- n="0912a18" ed="T"/><ab type="prose">聞如是：一時，佛在舍衛國止。城東出，有女人<lb
+ n="0912a18" ed="T"/><ab type='prose'>聞如是：一時，佛在舍衛國止。城東出，有女人<lb
  n="0912a19" ed="T"/>子字蕪耶樓，人呼為蕪耶樓母，佛在蕪耶樓<lb
  n="0912a20" ed="T"/>母家殿上坐。有一女人奉持教戒，字墮舍迦，<lb
  n="0912a21" ed="T"/>以月十五日朝起沐浴，有七子婦皆使沐浴<lb
@@ -130,5 +130,5 @@
  n="0913a11" ed="T"/>婦歸，誦念是正齋法八戒也。」優陂夷墮舍<lb
  n="0913a12" ed="T"/>迦，前為佛作禮而去。<lb
  n="0913a13" ed="T"/>
-</ab><ab type="juan" subtype="close">優陂夷墮舍迦經</ab></div>
+</ab><ab type='juan' subtype='close'>優陂夷墮舍迦經</ab></div>
 </body></text></TEI>

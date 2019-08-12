@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0445</idno>
                 </bibl>
@@ -44,11 +44,11 @@
  n="0356a08" ed="T"/><lb
  n="0356a09" ed="T"/><lb
  n="0356a10" ed="T"/>
-<ab type="juan" subtype="open">佛說不思議功德諸佛所護念經<lb
+<ab type='juan' subtype='open'>佛說不思議功德諸佛所護念經<lb
  n="0356a11" ed="T"/>卷上</ab><lb
  n="0356a12" ed="T"/><lb
  n="0356a13" ed="T"/><byline>曹魏代失譯人名</byline><lb
- n="0356a14" ed="T"/><div type="jing" level="1"><ab type="prose">東方去是百千萬億江河沙諸佛土，解君世界<lb
+ n="0356a14" ed="T"/><div type='jing' level='1'><ab type='prose'>東方去是百千萬億江河沙諸佛土，解君世界<lb
  n="0356a15" ed="T"/>寶光月殿妙尊音王如來。東方去是百八萬<lb
  n="0356a16" ed="T"/>億江河沙諸佛土，淨光莊嚴世界淨華宿王智<lb
  n="0356a17" ed="T"/>如來。東方去是百億江河沙諸佛土，超立願<lb
@@ -57,7 +57,7 @@
  n="0356a20" ed="T"/>來。東方普光世界天王如來。東方多樂世<lb
  n="0356a21" ed="T"/>界虛空等如來。東方寶積世界寶揚威神超<lb
  n="0356a22" ed="T"/>王如來。東方常名聞世界離聞首如來。東<lb
- n="0356a23" ed="T"/>方寶嚴世界喻日光王如來。東方蓮華浮世<lb
+ n="0356a23" ed="T"/>方寶嚴世界喻日光王如來。東方蓮華淨世<lb
  n="0356a24" ed="T"/>界淨教如來。東方寂寞世界一億諸佛普集<lb
  n="0356a25" ed="T"/>如來。東方清淨世界日月光如來。東方拔<lb
  n="0356a26" ed="T"/>眾塵勞世界等行如來。東方阿毘羅提世界<lb
@@ -73,7 +73,7 @@
  n="0356b07" ed="T"/>界解散一切縛具足王如來。東方滿香名聞<lb
  n="0356b08" ed="T"/>世界蓮華具足王如來。東方滿一切珍寶世<lb
  n="0356b09" ed="T"/>界藥師具足王如來。東方樂入世界無憂德<lb
- n="0356b10" ed="T"/>首具足王如來。東方歡喜世界勸助眾善具<lb
+ n="0356b10" ed="T"/>首具足王如來。東方歡喜樂世界勸助眾善具<lb
  n="0356b11" ed="T"/>足王如來。東方慈哀光明世界紺琉璃髮勇<lb
  n="0356b12" ed="T"/>猛具足王如來。東方滿所願聚世界安隱囑<lb
  n="0356b13" ed="T"/>累滿具足王如來。東方不退音世界最選光<lb
@@ -108,7 +108,7 @@
  n="0356c12" ed="T"/>量寶如來。東方蓮華光世界蓮華最尊如來。<lb
  n="0356c13" ed="T"/>東方普度眾難世界身尊如來。東方堅<lb
  n="0356c14" ed="T"/>固世界金光如來。東方無際世界梵自在如<lb
- n="0356c15" ed="T"/>來。東方月世界紫金香如來。東方火<lb
+ n="0356c15" ed="T"/>來。東方月世界紫金光如來。東方火<lb
  n="0356c16" ed="T"/>光世界金海如來。東方正覺世界龍自在王<lb
  n="0356c17" ed="T"/>如來。東方喻月世界一切華香自在王如來。<lb
  n="0356c18" ed="T"/>東方星王世界樹王如來。東方勇猛執持<lb
@@ -223,7 +223,7 @@
  n="0358a11" ed="T"/>世界離垢如來。東方無漏世界醫王如來。<lb
  n="0358a12" ed="T"/>東方普讚世界無邊智讚如來。東方眾堅<lb
  n="0358a13" ed="T"/>世界栴檀香德如來。東方具威德世界具佛<lb
- n="0358a14" ed="T"/>華生如來。東方眾寶世界婆羅王安立如來。<lb
+ n="0358a14" ed="T"/>華生如來。東方眾寶世界娑羅王安立如來。<lb
  n="0358a15" ed="T"/>東方方主世界月出光如來。東方安住<lb
  n="0358a16" ed="T"/>世界須彌肩如來。東方無怖畏世界施名聞<lb
  n="0358a17" ed="T"/>如來。東方諸功德住世界名親如來。東方<lb
@@ -318,7 +318,7 @@
  n="0359a18" ed="T"/>東方德積世界不思議德生如來。東方大安<lb
  n="0359a19" ed="T"/>世界喜生德如來。東方散赤蓮華世界流香<lb
  n="0359a20" ed="T"/>如來。東方阿竭流光世界無礙香光如來。<lb
- n="0359a21" ed="T"/>東方眾歸世界雲鼓王如來。東方功德積世<lb
+ n="0359a21" ed="T"/>東方眾歸世界雲鼓音王如來。東方功德積世<lb
  n="0359a22" ed="T"/>界功德生德如來。東方純樂世界無邊行自<lb
  n="0359a23" ed="T"/>在如來。東方妙音世界須彌肩如來。東方<lb
  n="0359a24" ed="T"/>香相世界上香彌樓如來。東方助香世界無<lb
@@ -374,15 +374,15 @@
  n="0359c16" ed="T"/>無盡幢如來。東方因陀羅世界不變動月如<lb
  n="0359c17" ed="T"/>來<lb
  n="0359c18" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說不思議功德諸佛所護念經卷上</ab><lb
+</ab><ab type='juan' subtype='close'>佛說不思議功德諸佛所護念經卷上</ab><lb
  n="0359c19" ed="T"/><lb
  n="0359c20" ed="T"/><lb
  n="0359c21" ed="T"/>
-<ab type="juan" subtype="open">佛說不思議功德諸佛所護念經<lb
+<ab type='juan' subtype='open'>佛說不思議功德諸佛所護念經<lb
  n="0359c22" ed="T"/>卷下</ab><lb
  n="0359c23" ed="T"/><lb
  n="0359c24" ed="T"/><byline>曹魏代失譯人名</byline><lb
- n="0359c25" ed="T"/><ab type="prose">南方去是百千萬億江河沙諸佛土，雜種寶錦<lb
+ n="0359c25" ed="T"/><ab type='prose'>南方去是百千萬億江河沙諸佛土，雜種寶錦<lb
  n="0359c26" ed="T"/>世界樹根華王如來。南方去是無數百千諸<lb
  n="0359c27" ed="T"/>佛土，諸好莊飾世界德寶尊如來。南方去是<lb
  n="0359c28" ed="T"/>百千萬億諸佛土，消冥等世界初發心離恐<lb
@@ -788,5 +788,5 @@
  n="0364b24" ed="T"/>行精進如來。未來賢劫千佛如來。未來<lb
  n="0364b25" ed="T"/>留油如來。<lb
  n="0364b26" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說不思議功德諸佛所護念經卷下</ab></div>
+</ab><ab type='juan' subtype='close'>佛說不思議功德諸佛所護念經卷下</ab></div>
 </body></text></TEI>

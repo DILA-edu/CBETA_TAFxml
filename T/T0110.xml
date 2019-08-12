@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T02</biblScope>
                     <idno type="Taisho">T02n0110</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><pb n="0504a" ed="T" id="T02.0110.0504a"/><lb
  n="0504a01" ed="T"/><lb
  n="0504a02" ed="T"/><lb
- n="0504a03" ed="T"/><div type="jing" level="1"><lb
+ n="0504a03" ed="T"/><div type='jing' level='1'><lb
  n="0504a04" ed="T"/>
-<ab type="juan" subtype="open">佛說三轉法輪經</ab><lb
+<ab type='juan' subtype='open'>佛說三轉法輪經</ab><lb
  n="0504a05" ed="T"/><lb
  n="0504a06" ed="T"/><byline>三藏法師義淨奉　制譯</byline><lb
- n="0504a07" ed="T"/><ab type="prose">如是我聞：一時，薄伽梵在婆羅痆斯仙人墮<lb
+ n="0504a07" ed="T"/><ab type='prose'>如是我聞：一時，薄伽梵在婆羅痆斯仙人墮<lb
  n="0504a08" ed="T"/>處施鹿林中。爾時，世尊告五苾芻曰：「汝等苾<lb
  n="0504a09" ed="T"/>芻！此苦聖諦，於所聞法如理作意，能生眼智<lb
  n="0504a10" ed="T"/>明覺，汝等苾芻！此苦集、苦滅、順苦滅道聖諦<lb
@@ -92,5 +92,5 @@
  n="0504b20" ed="T"/>已復皆遍告廣說如前，因名此經為三轉法<lb
  n="0504b21" ed="T"/>輪。時五苾芻及人天等，聞佛說已，歡喜奉行。<lb
  n="0504b22" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說三轉法輪經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說三轉法輪經</ab></div>
 </body></text></TEI>

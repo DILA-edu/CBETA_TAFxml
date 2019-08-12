@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T15</biblScope>
                     <idno type="Taisho">T15n0603</idno>
                 </bibl>
@@ -39,14 +39,14 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0173b" ed="T" id="T15.0603.0173b"/><lb
- n="0173b01" ed="T"/><div type="jing" level="2"><lb
+ n="0173b01" ed="T"/><div type='jing' level='2'><lb
  n="0173b02" ed="T"/>
-<ab type="juan" subtype="open">陰持入經卷上</ab><lb
+<ab type='juan' subtype='open'>陰持入經卷上</ab><lb
  n="0173b03" ed="T"/><lb
  n="0173b04" ed="T"/><byline>後漢安息國三藏安世高譯</byline><lb
- n="0173b05" ed="T"/><ab type="prose">佛經所𧗪，亦教誡，皆在三部，為合𧗪。何等<lb
+ n="0173b05" ed="T"/><ab type='prose'>佛經所𧗪，亦教誡，皆在三部，為合𧗪。何等<lb
  n="0173b06" ed="T"/>為三？一為五陰，二為六本，三為所入。五陰<lb
  n="0173b07" ed="T"/>為何等？一為色，二為痛，三為想，四為𧗪，五為<lb
  n="0173b08" ed="T"/>識；是為五陰。色陰名為十現色入，十現色入<lb
@@ -79,7 +79,7 @@
  n="0173c06" ed="T"/>等？愛欲已斷是為從斷知。彼為具足，具足為<lb
  n="0173c07" ed="T"/>何等？或言無有餘具足，已無有餘，令眼明見<lb
  n="0173c08" ed="T"/>明。一𧗪者，說是已為斷眼本、耳本，遍說如是，<lb
- n="0173c09" ed="T"/>為本持；譬是人為多熱，如是名遍，譬喻是為<lb
+ n="0173c09" ed="T"/>卒名為本持；譬是人為多熱，如是名遍，譬喻是為<lb
  n="0173c10" ed="T"/>具足。亦有十二入，何等為十二？自身六，外有<lb
  n="0173c11" ed="T"/>六。自身六，為何等？一為眼、耳、鼻、舌、身、心，<lb
  n="0173c12" ed="T"/>是為自身六入。外有六，為何等？色、聲、香、味、更、<lb
@@ -304,14 +304,14 @@
  n="0176a29" ed="T"/>二病，令自證。貪愛欲，不復貪念，意得解脫，癡<pb n="0176b" ed="T" id="T15.0603.0176b"/><lb
  n="0176b01" ed="T"/>已解，令從慧得解脫。<lb
  n="0176b02" ed="T"/>
-</ab><ab type="juan" subtype="close">陰持入經卷上</ab><lb
+</ab><ab type='juan' subtype='close'>陰持入經卷上</ab><lb
  n="0176b03" ed="T"/><lb
  n="0176b04" ed="T"/><lb
  n="0176b05" ed="T"/>
-<ab type="juan" subtype="open">陰持入經卷下</ab><lb
+<ab type='juan' subtype='open'>陰持入經卷下</ab><lb
  n="0176b06" ed="T"/><lb
  n="0176b07" ed="T"/><byline>後漢安息國三藏安世高譯</byline><lb
- n="0176b08" ed="T"/><ab type="prose">彼愛欲藥為何等？為止。愛已解，意亦解，<lb
+ n="0176b08" ed="T"/><ab type='prose'>彼愛欲藥為何等？為止。愛已解，意亦解，<lb
  n="0176b09" ed="T"/>意已解，病便愈。彼癡藥為何等？為觀。癡已却<lb
  n="0176b10" ed="T"/>解，從慧解脫為病愈。如是佛說，如是二法，當<lb
  n="0176b11" ed="T"/>知一為字，二為色。二法當捨：一為癡，二<lb
@@ -438,7 +438,7 @@
  n="0178a03" ed="T"/>令致如有慧處不惑；如有相隨相，是為寂然<lb
  n="0178a04" ed="T"/>處。若知非身是為寂然相，令從是致相別離<lb
  n="0178a05" ed="T"/>處。不近會為相別離，為從是致解脫。已為非<lb
- n="0178a06" ed="T"/>行法不受殃，是為解脫相，令致解脫慧見。<lb
+ n="0178a06" ed="T"/>法𧗪不受殃，是為解脫相，令致解脫慧見。<lb
  n="0178a07" ed="T"/>為有四道德地，何等為四？為四行者福。彼<lb
  n="0178a08" ed="T"/>若如有知智，是為見地；為得道迹，是為得道<lb
  n="0178a09" ed="T"/>福；彼如有如有知是為惡却離，是名為薄<lb
@@ -486,7 +486,7 @@
  n="0178b22" ed="T"/>學聚，正受𧗪為如應受。戒已立，定已定，慧<lb
  n="0178b23" ed="T"/>已得解脫，已成解脫慧，已現已致，是為<lb
  n="0178b24" ed="T"/>佛弟子𧗪者。聚為四人，從𧗪四雙，名為八人<lb
- n="0178b25" ed="T"/>道𧗪。為世間所重所尊，為無所比，可祠可<lb
+ n="0178b25" ed="T"/>道𧗪。為世間所重所尊，為無有比，可祠可<lb
  n="0178b26" ed="T"/>事可恭，為福地無過，是天亦人所事，是為<lb
  n="0178b27" ed="T"/>第三。已為無疑法，隨法𧗪一切𧗪為苦。已<lb
  n="0178b28" ed="T"/>無疑結，已受已喜，從愛為習，苦亦從愛習。<lb
@@ -609,9 +609,9 @@
  n="0180b07" ed="T"/>止，瞑為却精進，五樂為却𧗪亦止，結為<lb
  n="0180b08" ed="T"/>却不悔，疑為却慧，不知本從起，為却解明。<lb
  n="0180b09" ed="T"/>
-</ab><ab type="juan" subtype="close">陰持入經卷下</ab></div><lb
- n="0180b10" ed="T"/><div type="w" level="2"><head>佛說慧印百六十三定解</head><lb
- n="0180b11" ed="T"/><ab type="prose">當知舍利弗！如來之身為無身、無作、無起、無滅、<lb
+</ab><ab type='juan' subtype='close'>陰持入經卷下</ab></div><lb
+ n="0180b10" ed="T"/><div type='w' level='2'><head>佛說慧印百六十三定解</head><lb
+ n="0180b11" ed="T"/><ab type='prose'>當知舍利弗！如來之身為無身、無作、無起、無滅、<lb
  n="0180b12" ed="T"/>無從有、未曾造、無合、無遊、無至、無知、無習、都清<lb
  n="0180b13" ed="T"/>淨、無畜、無憎、無行、無止、無生、無報、無見、無間、無<lb
  n="0180b14" ed="T"/>臭、無甞、無更、無識、無曉、無喻、無知忍、無志、無思。<lb

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1343</idno>
                 </bibl>
@@ -39,17 +39,17 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0843c06" ed="T"/><lb
  n="0843c07" ed="T"/><lb
- n="0843c08" ed="T"/><div type="jing" level="2"><lb
+ n="0843c08" ed="T"/><div type='jing' level='2'><lb
  n="0843c09" ed="T"/>
-<ab type="juan" subtype="open">尊勝菩薩所問一切諸法入無<lb
+<ab type='juan' subtype='open'>尊勝菩薩所問一切諸法入無<lb
  n="0843c10" ed="T"/>量門陀羅尼經</ab><lb
  n="0843c11" ed="T"/><lb
  n="0843c12" ed="T"/><byline>北齊居士萬天懿譯</byline><lb
- n="0843c13" ed="T"/><ab type="prose">如是我聞。一時佛在舍衛國祇樹給孤獨園。<lb
+ n="0843c13" ed="T"/><ab type='prose'>如是我聞。一時佛在舍衛國祇樹給孤獨園。<lb
  n="0843c14" ed="T"/>與大比丘千二百五十人。菩薩摩訶薩萬二<lb
  n="0843c15" ed="T"/>千人。悉是一生補處。從餘世界而來集會。得<lb
  n="0843c16" ed="T"/>陀羅尼具無盡辯。成就念慧具足慚愧。於諸<lb
@@ -141,7 +141,7 @@
  n="0844c15" ed="T"/>告尊勝。何者一切諸法入無量門陀羅尼經。<lb
  n="0844c16" ed="T"/>爾時世尊即便說之。<lb
  n="0844c17" ed="T"/></ab>
-<ab type="dharani">寫犾汦曇　阿難多耶施　阿難多耶舍目<lb
+<ab type='dharani'>寫犾汦曇　阿難多耶施　阿難多耶舍目<lb
  n="0844c18" ed="T"/>呿波利簸𠼝　阿難多仇拏　阿難多仇拏<lb
  n="0844c19" ed="T"/>目呿波利簸梨　阿摩吟阿摩羅目呿波利<lb
  n="0844c20" ed="T"/>簸梨　扇泯　扇多目呿波利簸梨　修那<lb
@@ -153,11 +153,11 @@
  n="0844c26" ed="T"/>目呿波利簸梨　修檀泯修檀多目呿波利<lb
  n="0844c27" ed="T"/>簸梨　喻尼施喻尼奢目呿波利簸梨　迦<lb
  n="0844c28" ed="T"/>摩吟迦摩羅目呿波利簸梨　修那移修那<lb
- n="0844c29" ed="T"/>蛇目呿波利簸梨　阿竭󱂂阿竭多目呿波<pb n="0845a" id="T21.1343.0845a" ed="T"/><lb
+ n="0844c29" ed="T"/>蛇目呿波利簸梨　阿竭𭵆阿竭多目呿波<pb n="0845a" id="T21.1343.0845a" ed="T"/><lb
  n="0845a01" ed="T"/>利簸梨　阿囊羅移阿囊羅蛇目呿波利簸梨<lb
  n="0845a02" ed="T"/>　尼羅蛇肥竭泯尼羅蛇肥竭多目呿波利<lb
  n="0845a03" ed="T"/>簸梨　僧都沙竭泯僧都沙竭多目呿波利<lb
- n="0845a04" ed="T"/>簸梨　修竭󱂂修竭多目呿波利簸梨　阿<lb
+ n="0845a04" ed="T"/>簸梨　修竭𭵆修竭多目呿波利簸梨　阿<lb
  n="0845a05" ed="T"/>摩吟阿摩羅目呿波利簸梨　肥竭泯肥<lb
  n="0845a06" ed="T"/>竭多目呿波利簸梨　阿能伽濘阿能伽囊目<lb
  n="0845a07" ed="T"/>呿波利簸梨　肥濕波脾肥濕波脾目呿波利<lb
@@ -349,7 +349,7 @@
  n="0847a19" ed="T"/>　仇那㝹扇娑多咃竭多　浮彌阿㝹菩陀㝹<lb
  n="0847a20" ed="T"/>竭汦<lb
  n="0847a21" ed="T"/></ab>
-<ab type="prose">如是尊勝。此是一切諸法入無量門陀羅尼。<lb
+<ab type='prose'>如是尊勝。此是一切諸法入無量門陀羅尼。<lb
  n="0847a22" ed="T"/>若得此陀羅尼菩薩。能持一切諸佛所說。能<lb
  n="0847a23" ed="T"/>遊一切諸佛世界。能持一切聲聞緣覺所說。<lb
  n="0847a24" ed="T"/>一切世間經書醫方呪術圍陀經典悉能持<lb
@@ -483,9 +483,9 @@
  n="0848c06" ed="T"/>夜叉王。并一切大眾諸天世人。及乾闥婆阿<lb
  n="0848c07" ed="T"/>修羅等。聞佛所說。歡喜奉行。<lb
  n="0848c08" ed="T"/>
-</ab><ab type="juan" subtype="close">尊勝菩薩所問一切諸法入無量陀羅尼門<lb
+</ab><ab type='juan' subtype='close'>尊勝菩薩所問一切諸法入無量陀羅尼門<lb
  n="0848c09" ed="T"/>經</ab></div><lb
- n="0848c10" ed="T"/><div type="w" level="2"><ab type="prose">爾時三千日月諸天王。諸龍王。諸阿須倫<lb
+ n="0848c10" ed="T"/><div type='w' level='2'><ab type='prose'>爾時三千日月諸天王。諸龍王。諸阿須倫<lb
  n="0848c11" ed="T"/>王。主天地大鬼神及天魔王。火神王山神王<lb
  n="0848c12" ed="T"/>樹神王諸神王。即於佛前叉手作禮。奉行誦<lb
  n="0848c13" ed="T"/>此呪者。我日日往供養。便不橫死。一切諸惡<lb
@@ -493,26 +493,26 @@
  n="0848c15" ed="T"/>諸大鬼將軍。皆共敬護承事之。學是呪者自<lb
  n="0848c16" ed="T"/>致作佛。<lb
  n="0848c17" ed="T"/></ab>
-<ab type="dharani">闍梨　摩訶闍梨　闍羅尼　優佉目佉　沙<lb
+<ab type='dharani'>闍梨　摩訶闍梨　闍羅尼　優佉目佉　沙<lb
  n="0848c18" ed="T"/>波提　摩訶沙波提<lb
  n="0848c19" ed="T"/></ab>
-<ab type="prose">受持是句呪諷讀誦。識七世生宿命。受持者。<lb
+<ab type='prose'>受持是句呪諷讀誦。識七世生宿命。受持者。<lb
  n="0848c20" ed="T"/>一切浮陀鬼神若人非人不得嬈近。毒蛇不<lb
  n="0848c21" ed="T"/>敢螫。毒藥自然除。刀亦不能傷。王亦不敢害。<lb
  n="0848c22" ed="T"/>梵亦不嗔之。七十億佛所說。犯是呪者當犯<lb
  n="0848c23" ed="T"/>重罪。復有菩薩彌勒等八十人。我亦當說是<lb
  n="0848c24" ed="T"/>持句呪。<lb
  n="0848c25" ed="T"/></ab>
-<ab type="dharani">阿知和知　吒佉吒羅　羅理彌　驢留彌<lb
+<ab type='dharani'>阿知和知　吒佉吒羅　羅理彌　驢留彌<lb
  n="0848c26" ed="T"/>　善梨　提梨<lb
  n="0848c27" ed="T"/></ab>
-<ab type="prose">受是持句呪諷誦讀。識十四世宿命。是持句<lb
+<ab type='prose'>受是持句呪諷誦讀。識十四世宿命。是持句<lb
  n="0848c28" ed="T"/>呪八十四億佛所說。犯是呪當獲重罪。<lb
  n="0848c29" ed="T"/></ab>
-<ab type="dharani">阿知和知　那知鳩那　知提梨　沙羅波提<pb n="0849a" id="T21.1343.0849a" ed="T"/><lb
+<ab type='dharani'>阿知和知　那知鳩那　知提梨　沙羅波提<pb n="0849a" id="T21.1343.0849a" ed="T"/><lb
  n="0849a01" ed="T"/>阿那波提　波那提　迦和尼　摩訶迦和尼<lb
  n="0849a02" ed="T"/></ab>
-<ab type="prose">受是持句呪諷誦讀。識無數世宿命。受持者。<lb
+<ab type='prose'>受是持句呪諷誦讀。識無數世宿命。受持者。<lb
  n="0849a03" ed="T"/>一切浮陀鬼神若人非人不敢嬈近。毒蛇不<lb
  n="0849a04" ed="T"/>敢螫。毒藥自然除。刀亦不能傷。王亦不敢害。<lb
  n="0849a05" ed="T"/>梵亦不瞋之。是持句呪無數億佛所說。犯是<lb
@@ -522,53 +522,53 @@
  n="0849a09" ed="T"/>願。佛說陀隣尼鉢。<lb
  n="0849a10" ed="T"/>聞如是。一時佛在舍衛祇桓給飯孤獨精舍。<lb
  n="0849a11" ed="T"/></ab>
-<ab type="dharani">闍離　摩訶闍離　闍蘭尼　惰綺目低　三<lb
+<ab type='dharani'>闍離　摩訶闍離　闍蘭尼　惰綺目低　三<lb
  n="0849a12" ed="T"/>波提　摩訶三波提<lb
  n="0849a13" ed="T"/></ab>
-<ab type="prose">受持諷誦讀。識七世生宿命。是陀隣尼鉢。七<lb
+<ab type='prose'>受持諷誦讀。識七世生宿命。是陀隣尼鉢。七<lb
  n="0849a14" ed="T"/>十七億佛所說。<lb
  n="0849a15" ed="T"/></ab>
-<ab type="dharani">頞䩚　拔䩚　𢴧吒吱　扠離勒吱　羅嵐彌<lb
+<ab type='dharani'>頞䩚　拔䩚　𢴧吒吱　扠離勒吱　羅嵐彌<lb
  n="0849a16" ed="T"/>　樓嵐彌　醯離　彌離鞮離<lb
  n="0849a17" ed="T"/></ab>
-<ab type="prose">是陀隣尼鉢。奉持諷誦讀。識十四世先死宿<lb
+<ab type='prose'>是陀隣尼鉢。奉持諷誦讀。識十四世先死宿<lb
  n="0849a18" ed="T"/>命。是陀隣尼鉢。八萬四千億佛所說。<lb
  n="0849a19" ed="T"/></ab>
-<ab type="dharani">頞鞮　拔鞮涅䩚　鳩涅鞮　鐵離　莎羅波<lb
+<ab type='dharani'>頞鞮　拔鞮涅䩚　鳩涅鞮　鐵離　莎羅波<lb
  n="0849a20" ed="T"/>提　安那波提　那那波提　迦偷呢　摩訶<lb
  n="0849a21" ed="T"/>迦偷呢<lb
  n="0849a22" ed="T"/></ab>
-<ab type="prose">受是陀隣尼鉢。持諷誦讀。識無央數世生宿<lb
+<ab type='prose'>受是陀隣尼鉢。持諷誦讀。識無央數世生宿<lb
  n="0849a23" ed="T"/>命。不可稱計億佛所說。<lb
  n="0849a24" ed="T"/></ab>
-<ab type="dharani">闍離　摩訶闍離　闍利泥　阿踦摩踦　婆<lb
+<ab type='dharani'>闍離　摩訶闍離　闍利泥　阿踦摩踦　婆<lb
  n="0849a25" ed="T"/>婆帝　摩訶娑婆帝　娑慢帝　摩訶娑慢帝<lb
  n="0849a26" ed="T"/></ab>
-<ab type="prose">能自憶念七世生事。此陀羅尼句。七十七億<lb
+<ab type='prose'>能自憶念七世生事。此陀羅尼句。七十七億<lb
  n="0849a27" ed="T"/>諸佛所說。<lb
  n="0849a28" ed="T"/></ab>
-<ab type="dharani">阿智　婆智　那智　究那智　阿㝹婆帝婆<lb
+<ab type='dharani'>阿智　婆智　那智　究那智　阿㝹婆帝婆<lb
  n="0849a29" ed="T"/>帝婆帝　迦賜　摩訶迦賜　赴陀摩訶赴陀<pb n="0849b" id="T21.1343.0849b" ed="T"/><lb
  n="0849b01" ed="T"/>　赴赴陀　赴奢婆帝<lb
  n="0849b02" ed="T"/></ab>
-<ab type="prose">能自億念十二世生事。阿難。此呪是八十二<lb
+<ab type='prose'>能自憶念十二世生事。阿難。此呪是八十二<lb
  n="0849b03" ed="T"/>億諸佛所說。<lb
  n="0849b04" ed="T"/></ab>
-<ab type="dharani">阿踦　摩踦　那踦　那祈尼　那伽娑離<lb
+<ab type='dharani'>阿踦　摩踦　那踦　那祈尼　那伽娑離<lb
  n="0849b05" ed="T"/>　娑羅尼離　闍醯離闍醯羅婆帝禪帝離禪<lb
  n="0849b06" ed="T"/>帝羅婆帝<lb
  n="0849b07" ed="T"/></ab>
-<ab type="prose">能自憶念十三世事。阿難。此陀羅尼句。九十<lb
+<ab type='prose'>能自憶念十三世事。阿難。此陀羅尼句。九十<lb
  n="0849b08" ed="T"/>九億諸佛所說。<lb
  n="0849b09" ed="T"/></ab>
-<ab type="dharani">阿智　那智　仇那智　踔踦　踔茶踦　樓<lb
+<ab type='dharani'>阿智　那智　仇那智　踔踦　踔茶踦　樓<lb
  n="0849b10" ed="T"/>樓彌　醯離　毘離　疋離<lb
  n="0849b11" ed="T"/></ab>
-<ab type="prose">能自憶念十四世事。阿難。此呪是九十九億<lb
+<ab type='prose'>能自憶念十四世事。阿難。此呪是九十九億<lb
  n="0849b12" ed="T"/>諸佛所說。是陀羅尼句者。我等常當守護是<lb
  n="0849b13" ed="T"/>人。爾時世尊便說偈言。<lb
  n="0849b14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 是陀羅尼經　　諸佛先已說　　<lb
  n="0849b15" ed="T"/>我今亦演暢　　饒益眾生故　　<lb
  n="0849b16" ed="T"/>若人聞此呪　　廣生信樂心　　<lb
@@ -592,18 +592,18 @@
  n="0849c05" ed="T"/>大臣諸眷屬　　歡喜而稱讚　　<lb
  n="0849c06" ed="T"/>恭敬常守護　　誦持此呪故　　
 </ab><lb
- n="0849c07" ed="T"/><ab type="prose">安隱囑累滿具足王如來　　紺琉璃具足王如<lb
+ n="0849c07" ed="T"/><ab type='prose'>安隱囑累滿具足王如來　　紺琉璃具足王如<lb
  n="0849c08" ed="T"/>來　勸助眾善具足王如來　無憂德具足王<lb
  n="0849c09" ed="T"/>如來　藥師具足王如來　蓮華具足王如來<lb
  n="0849c10" ed="T"/>　算擇合會具足王如來　解散一切縛具足王<lb
  n="0849c11" ed="T"/>如來　持八佛名<lb
  n="0849c12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 疾得無上道　　億劫阿僧祇　　<lb
  n="0849c13" ed="T"/>行惡悉消除　　速得明解教　　<lb
  n="0849c14" ed="T"/>飛行到諸剎　　疾得泥洹道　　
 </ab><lb
- n="0849c15" ed="T"/><ab type="dharani">南無佛陀　南無達　摩南無僧伽　南無摩<lb
+ n="0849c15" ed="T"/><ab type='dharani'>南無佛陀　南無達　摩南無僧伽　南無摩<lb
  n="0849c16" ed="T"/>呵梨師　毘闍羅闍　譪屈陀　建陀　娑<lb
  n="0849c17" ed="T"/>滿馱跋闍　邏翅陀建崛茶誓茶　遮利遮利<lb
  n="0849c18" ed="T"/>摩訶遮利哹摩利哹摩勒翅　悉耽鞞闍鞞<lb
@@ -611,12 +611,12 @@
  n="0849c20" ed="T"/>提　摩俱梨摩詣　呼彌呼彌呼摩呼摩娑禍<lb
  n="0849c21" ed="T"/>呵<lb
  n="0849c22" ed="T"/></ab>
-<ab type="prose">過去無量諸佛所說。未來彌勒賢劫菩薩亦<lb
+<ab type='prose'>過去無量諸佛所說。未來彌勒賢劫菩薩亦<lb
  n="0849c23" ed="T"/>當宣說。善治四大增損。亦治心內四百四病。<lb
  n="0849c24" ed="T"/>亦治業障犯戒諸惡永盡。尊勝菩薩陀羅尼經<lb
  n="0849c25" ed="T"/>一卷。</ab></div><lb
- n="0849c26" ed="T"/><div type="w" level="2"><head>尊勝菩薩所問經譯師傳</head><lb
- n="0849c27" ed="T"/><ab type="prose">開元錄云。高齊之代。有居士萬天懿。本姓<lb
+ n="0849c26" ed="T"/><div type='w' level='2'><head>尊勝菩薩所問經譯師傳</head><lb
+ n="0849c27" ed="T"/><ab type='prose'>開元錄云。高齊之代。有居士萬天懿。本姓<lb
  n="0849c28" ed="T"/>拓跋氏。北岱雲中人也。魏分十姓。因<lb
  n="0849c29" ed="T"/>為萬俟氏。世居洛陽。故復為河南<pb n="0850a" id="T21.1343.0850a" ed="T"/><lb
  n="0850a01" ed="T"/>人。後單稱萬氏焉。懿少曾出家。師婆<lb

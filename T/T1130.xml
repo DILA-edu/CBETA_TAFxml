@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1130</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0563c06" ed="T"/><lb
  n="0563c07" ed="T"/><lb
  n="0563c08" ed="T"/>
-<ab type="juan" subtype="open">大乘金剛髻珠菩薩修行分一卷</ab><lb
+<ab type='juan' subtype='open'>大乘金剛髻珠菩薩修行分一卷</ab><lb
  n="0563c09" ed="T"/><lb
  n="0563c10" ed="T"/><byline>大唐天竺三藏菩提流志譯</byline><lb
- n="0563c11" ed="T"/><div type="jing" level="1"><ab type="prose">爾時普思義菩薩摩訶薩。白佛言世尊。云何<lb
+ n="0563c11" ed="T"/><div type='jing' level='1'><ab type='prose'>爾時普思義菩薩摩訶薩。白佛言世尊。云何<lb
  n="0563c12" ed="T"/>菩薩修行悟入此三摩地。佛言善男子。如無<lb
  n="0563c13" ed="T"/>悟入是名悟入。亦當如我修菩提時之所悟<lb
  n="0563c14" ed="T"/>入。普思義菩薩白佛言。世尊云何如來所修<lb
@@ -100,7 +100,7 @@
  n="0564b03" ed="T"/>髻與金剛如來心品法門。未曾忘失。爾時世<lb
  n="0564b04" ed="T"/>尊欲重宣此義。而說偈言。<lb
  n="0564b05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 我念過去世　　無量無數劫　　<lb
  n="0564b06" ed="T"/>見諸清淨剎　　金寶海莊嚴　　<lb
  n="0564b07" ed="T"/>摩尼淨土王　　號曰金剛髻　　<lb
@@ -144,7 +144,7 @@
  n="0564c16" ed="T"/>次有天王佛　　次有大乘佛　　<lb
  n="0564c17" ed="T"/>次有最勝佛　　
 </ab><lb
- n="0564c18" ed="T"/><ab type="prose">佛子如是等如來名號。各於一劫中出現於<lb
+ n="0564c18" ed="T"/><ab type='prose'>佛子如是等如來名號。各於一劫中出現於<lb
  n="0564c19" ed="T"/>世。我皆承事如供塔廟。皆為希求此三摩地。<lb
  n="0564c20" ed="T"/>佛子次復彼諸劫過。復過十不可說不可說<lb
  n="0564c21" ed="T"/>諸佛剎土微塵等量。於大劫中有佛。號摩尼<lb
@@ -390,7 +390,7 @@
  n="0567b29" ed="T"/>爾時普思義菩薩摩訶薩。於世尊前欲重宣<pb n="0567c" id="T20.1130.0567c" ed="T"/><lb
  n="0567c01" ed="T"/>其義。以偈頌曰。<lb
  n="0567c02" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 善現色相具成就　　持呪無畏大仙王　　<lb
  n="0567c03" ed="T"/>最初惱習巧斷除　　如月破闇我稽首　　<lb
  n="0567c04" ed="T"/>人天中主眾所依　　自在堅固金剛力　　<lb
@@ -569,5 +569,5 @@
  n="0569c03" ed="T"/>應請大乘妙勝經　　作法能獲大饒益　　
 </ab><lb
  n="0569c04" ed="T"/>
-<ab type="juan" subtype="close">大乘金剛髻珠菩薩修行分</ab></div>
+<ab type='juan' subtype='close'>大乘金剛髻珠菩薩修行分</ab></div>
 </body></text></TEI>

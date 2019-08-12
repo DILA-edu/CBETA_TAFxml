@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T02</biblScope>
                     <idno type="Taisho">T02n0104</idno>
                 </bibl>
@@ -42,13 +42,13 @@
         <body><lb
  n="0500b14" ed="T"/><lb
  n="0500b15" ed="T"/><lb
- n="0500b16" ed="T"/><div type="jing" level="1"><lb
+ n="0500b16" ed="T"/><div type='jing' level='1'><lb
  n="0500b17" ed="T"/>
-<ab type="juan" subtype="open">佛說法印經</ab><lb
+<ab type='juan' subtype='open'>佛說法印經</ab><lb
  n="0500b18" ed="T"/><lb
  n="0500b19" ed="T"/><byline>西天譯經三藏朝奉大夫試鴻臚卿<lb
  n="0500b20" ed="T"/>傳法大師臣施護奉　詔譯</byline><lb
- n="0500b21" ed="T"/><ab type="prose">爾時，佛在舍衛國，與苾芻眾俱。是時，佛告苾<lb
+ n="0500b21" ed="T"/><ab type='prose'>爾時，佛在舍衛國，與苾芻眾俱。是時，佛告苾<lb
  n="0500b22" ed="T"/>芻眾言：「汝等當知，有聖法印，我今為汝分<lb
  n="0500b23" ed="T"/>別演說。汝等應起清淨知見，諦聽諦受，如<lb
  n="0500b24" ed="T"/>善作意，記念思惟。」時，諸苾芻即白佛言：「善<lb
@@ -85,5 +85,5 @@
  n="0500c26" ed="T"/>門。汝諸苾芻，若修學者，即得知見清淨。」時，<lb
  n="0500c27" ed="T"/>諸苾芻，聞是法已，皆大歡喜，頂禮信受。<lb
  n="0500c28" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說法印經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說法印經</ab></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n0935</idno>
                 </bibl>
@@ -42,19 +42,19 @@
         <body><lb
  n="0080b20" ed="T"/><lb
  n="0080b21" ed="T"/><lb
- n="0080b22" ed="T"/><div type="jing" level="1"><lb
+ n="0080b22" ed="T"/><div type='jing' level='1'><lb
  n="0080b23" ed="T"/>
-<ab type="juan" subtype="open">極樂願文</ab><lb
+<ab type='juan' subtype='open'>極樂願文</ab><lb
  n="0080b24" ed="T"/><lb
  n="0080b25" ed="T"/><byline>清字經館行走福佑寺達喇嘛<lb
  n="0080b26" ed="T"/>嘠卜楚薩木丹達爾吉譯</byline><lb
- n="0080b27" ed="T"/><ab type="verse">
+ n="0080b27" ed="T"/><ab type='verse'>
 希有為眾施行無盡德　　<lb
  n="0080b28" ed="T"/>略念能令死主難遠離　　<lb
  n="0080b29" ed="T"/>恒觀有情如憶獨子者　　<pb n="0080c" id="T19.0935.0080c" ed="T"/><lb
  n="0080c01" ed="T"/>世尊無量壽佛前敬禮　　
 </ab><lb
- n="0080c02" ed="T"/><ab type="verse">
+ n="0080c02" ed="T"/><ab type='verse'>
 釋迦牟尼歷次中　　善所稱讚之勝境　　<lb
  n="0080c03" ed="T"/>往生極樂願文詞　　由慈悲故盡力說　　<lb
  n="0080c04" ed="T"/>善惡被重無明障　　天人命為嗔械殘　　<lb
@@ -66,7 +66,7 @@
  n="0080c10" ed="T"/>為我等故與多劫　　曾發勝誓願莫忘　　<lb
  n="0080c11" ed="T"/>如妙翅尊行虛空　　以慈神力而降臨　　
 </ab><lb
- n="0080c12" ed="T"/><ab type="prose">伏願自他三世。所緣二資糧海。普合一力為<lb
+ n="0080c12" ed="T"/><ab type='prose'>伏願自他三世。所緣二資糧海。普合一力為<lb
  n="0080c13" ed="T"/>倚。我等臨命終時。親見接引彌陀。二大菩薩。<lb
  n="0080c14" ed="T"/>並諸眷屬圍繞現前。爾時於佛眷屬生極專<lb
  n="0080c15" ed="T"/>之至誠。而無斷命之苦。仍不失其信誠。並所<lb
@@ -85,13 +85,13 @@
  n="0080c28" ed="T"/>行。皆速圓滿。利益無邊眾生。願皆易得佛<lb
  n="0080c29" ed="T"/>果。<pb n="0081a" id="T19.0935.0081a" ed="T"/><lb
  n="0081a01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 願臨命終時　　海會繞彌陀　　<lb
  n="0081a02" ed="T"/>眼前明顯見　　慈信盈我心　　<lb
  n="0081a03" ed="T"/>將見中陰兆　　佛子即指教　　<lb
  n="0081a04" ed="T"/>既生淨土已　　來化穢土眾　　
 </ab><lb
- n="0081a05" ed="T"/><ab type="prose">如此勝境。或未得生。惟願生生世世。常遇佛<lb
+ n="0081a05" ed="T"/><ab type='prose'>如此勝境。或未得生。惟願生生世世。常遇佛<lb
  n="0081a06" ed="T"/>教。在諸經論中。契悟聞思修。願得清淨之<lb
  n="0081a07" ed="T"/>身。<lb
  n="0081a08" ed="T"/>既得其身。於高類七德莊嚴。願不遠離。<lb
@@ -158,7 +158,7 @@
  n="0081c11" ed="T"/>生一切處。從身語意所修諸善根。普皆全為<lb
  n="0081c12" ed="T"/>利他。蓋願成清淨菩提之因矣。<lb
  n="0081c13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 惟彼世尊妙勝果　　現今我若未證時　　<lb
  n="0081c14" ed="T"/>願得清淨修道身　　世世憶念恒出家　　<lb
  n="0081c15" ed="T"/>辯才禪定神通呪　　持無邊諸功德藏　　<lb
@@ -177,5 +177,5 @@
  n="0081c28" ed="T"/>善逝眷屬實因緣　　是願不虛速圓成　　
 </ab><lb
  n="0081c29" ed="T"/>
-<ab type="juan" subtype="close">極樂願文竟</ab></div>
+<ab type='juan' subtype='close'>極樂願文竟</ab></div>
 </body></text></TEI>

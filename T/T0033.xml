@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0033</idno>
                 </bibl>
@@ -41,12 +41,12 @@
     <text>
         <body><pb n="0817a" ed="T" id="T01.0033.0817a"/><lb
  n="0817a01" ed="T"/><lb
- n="0817a02" ed="T"/><div type="jing" level="1"><lb
+ n="0817a02" ed="T"/><div type='jing' level='1'><lb
  n="0817a03" ed="T"/>
-<ab type="juan" subtype="open">佛說恒水經</ab><lb
+<ab type='juan' subtype='open'>佛說恒水經</ab><lb
  n="0817a04" ed="T"/><lb
  n="0817a05" ed="T"/><byline>西晉三藏法師法炬譯</byline><lb
- n="0817a06" ed="T"/><ab type="prose">聞如是：一時，佛與大比丘僧、諸弟子、菩薩俱行<lb
+ n="0817a06" ed="T"/><ab type='prose'>聞如是：一時，佛與大比丘僧、諸弟子、菩薩俱行<lb
  n="0817a07" ed="T"/>到恒水。諸天人民、鬼神、龍、人非人，及初發道<lb
  n="0817a08" ed="T"/>意者無央數，各持華香伎樂皆追從佛，已到<lb
  n="0817a09" ed="T"/>恒水，施座而坐，眾會皆定。月十五日說戒時，<lb
@@ -132,5 +132,5 @@
  n="0818a02" ed="T"/>皆一心重持戒法，諸天人民、鬼神、龍皆起前，<lb
  n="0818a03" ed="T"/>以頭面著地，為佛作禮而去。<lb
  n="0818a04" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說恒水經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說恒水經</ab></div>
 </body></text></TEI>

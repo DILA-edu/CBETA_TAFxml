@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1260</idno>
                 </bibl>
@@ -42,16 +42,16 @@
         <body><pb n="0286a" id="T21.1260.0286a" ed="T"/><lb
  n="0286a01" ed="T"/><lb
  n="0286a02" ed="T"/><lb
- n="0286a03" ed="T"/><div type="jing" level="1"><lb
+ n="0286a03" ed="T"/><div type='jing' level='1'><lb
  n="0286a04" ed="T"/>
-<ab type="juan" subtype="open">大藥叉女歡喜母并愛子成就法<lb
+<ab type='juan' subtype='open'>大藥叉女歡喜母并愛子成就法<lb
  n="0286a05" ed="T"/></ab><lb
  n="0286a06" ed="T"/><lb
  n="0286a07" ed="T"/><byline>開府儀同三司特進試鴻臚卿肅國<lb
  n="0286a08" ed="T"/>公食邑三千戶賜紫贈司空諡大鑒<lb
  n="0286a09" ed="T"/>正號大廣智大興善寺三藏沙門<lb
  n="0286a10" ed="T"/>不空奉　詔譯</byline><lb
- n="0286a11" ed="T"/><ab type="prose">爾時佛住王舍城竹林精舍。為諸人天演說<lb
+ n="0286a11" ed="T"/><ab type='prose'>爾時佛住王舍城竹林精舍。為諸人天演說<lb
  n="0286a12" ed="T"/>法要。時有大藥叉女名曰歡喜。容貌端嚴。有<lb
  n="0286a13" ed="T"/>五千眷屬。常住支那國護持世界。是娑多<lb
  n="0286a14" ed="T"/>大藥叉將之女。娉半支迦大藥叉將<lb
@@ -79,7 +79,7 @@
  n="0286b07" ed="T"/>佛言恣汝意說。時歡喜母即於佛前說陀羅<lb
  n="0286b08" ed="T"/>尼曰。<lb
  n="0286b09" ed="T"/></ab>
-<ab type="dharani">曩謨囉怛曩怛囉夜耶娜莫賀<lb
+<ab type='dharani'>曩謨囉怛曩怛囉夜耶娜莫賀<lb
  n="0286b10" ed="T"/>哩底曳摩賀藥乞史抳訶謨伽<lb
  n="0286b11" ed="T"/>曳薩底曳嚩儞𩕳沒馱鉢<lb
  n="0286b12" ed="T"/>哩野曳惹多賀哩抳曳半左補<lb
@@ -95,7 +95,7 @@
  n="0286b24" ed="T"/>寗怛囉曷底薩嚩羯麼迦囉<lb
  n="0286b25" ed="T"/>拏曳娑嚩賀<lb
  n="0286b26" ed="T"/></ab>
-<ab type="prose">世尊我此陀羅尼有大威力。猶如真多摩尼<lb
+<ab type='prose'>世尊我此陀羅尼有大威力。猶如真多摩尼<lb
  n="0286b27" ed="T"/>寶。能滿一切諸有意願。唯有如來及諸菩<lb
  n="0286b28" ed="T"/>薩當證知我。佛言歡喜母汝能饒益有情。護<lb
  n="0286b29" ed="T"/>持我法說此陀羅尼。未來世中我諸弟子。付<pb n="0286c" id="T21.1260.0286c" ed="T"/><lb
@@ -141,10 +141,10 @@
  n="0287a11" ed="T"/>分淨食。以心真言加持七遍。食了持於淨處<lb
  n="0287a12" ed="T"/>瀉之。常得擁護不離左右誦心真言曰。<lb
  n="0287a13" ed="T"/></ab>
-<ab type="dharani">唵弩弩麼里迦呬諦娑嚩賀<lb
+<ab type='dharani'>唵弩弩麼里迦呬諦娑嚩賀<lb
  n="0287a14" ed="T"/><lb
  n="0287a15" ed="T"/></ab>
-<ab type="prose">持誦者既先行功滿。擇吉宿日或日月蝕時<lb
+<ab type='prose'>持誦者既先行功滿。擇吉宿日或日月蝕時<lb
  n="0287a16" ed="T"/>如法供養取好沈香搵酥。護摩一千八十遍<lb
  n="0287a17" ed="T"/>必獲成就。或現本身。或即加持數珠或供養<lb
  n="0287a18" ed="T"/>具。祈上中下等成就。或得所居處地動。或<lb
@@ -271,9 +271,9 @@
  n="0288b23" ed="T"/>哩孕迦陀羅尼法。為利益護持諸有求者<lb
  n="0288b24" ed="T"/>真言曰。<lb
  n="0288b25" ed="T"/></ab>
-<ab type="dharani">唵致尾致𩕳娑嚩賀<lb
+<ab type='dharani'>唵致尾致𩕳娑嚩賀<lb
  n="0288b26" ed="T"/></ab>
-<ab type="prose">其印以二手合掌。二大指並屈入掌中即成。<lb
+<ab type='prose'>其印以二手合掌。二大指並屈入掌中即成。<lb
  n="0288b27" ed="T"/>此印一切處用。獲身請召奉送並皆用之。以<lb
  n="0288b28" ed="T"/>印加持自身五處。所謂頂右左肩心喉等即<lb
  n="0288b29" ed="T"/>成護身。以二大指招之名請召。開出之名奉<pb n="0288c" id="T21.1260.0288c" ed="T"/><lb
@@ -336,11 +336,11 @@
  n="0289a28" ed="T"/>頃夢見畢哩孕迦所有疑事問之皆說乞<lb
  n="0289a29" ed="T"/>夢真言曰。<pb n="0289b" id="T21.1260.0289b" ed="T"/><lb
  n="0289b01" ed="T"/></ab>
-<ab type="dharani">唵馱囉馱囉昝婆昝婆𪾼醯呬畢<lb
+<ab type='dharani'>唵馱囉馱囉昝婆昝婆𪾼醯呬畢<lb
  n="0289b02" ed="T"/>哩孕迦囉薩嚩薩怛嚩𩕳嚩囉野<lb
  n="0289b03" ed="T"/>賀賀呬呬護護娑嚩賀<lb
  n="0289b04" ed="T"/></ab>
-<ab type="prose">爾時歡喜母。說此自心陀羅尼并愛子畢哩<lb
+<ab type='prose'>爾時歡喜母。說此自心陀羅尼并愛子畢哩<lb
  n="0289b05" ed="T"/>孕迦成就法已。五體投地禮佛雙足。白<lb
  n="0289b06" ed="T"/>言世尊我今以此陀羅尼及成就法饒益有<lb
  n="0289b07" ed="T"/>情。唯願如來及諸聖眾當證知我。佛言善哉<lb
@@ -351,5 +351,5 @@
  n="0289b12" ed="T"/>洲應如是行。時歡喜母及五百子。并諸眷屬<lb
  n="0289b13" ed="T"/>藥叉等眾。聞佛教勅皆大歡喜作禮而去。<lb
  n="0289b14" ed="T"/>
-</ab><ab type="juan" subtype="close">大藥叉女歡喜母并愛子成就法一卷</ab></div>
+</ab><ab type='juan' subtype='close'>大藥叉女歡喜母并愛子成就法一卷</ab></div>
 </body></text></TEI>

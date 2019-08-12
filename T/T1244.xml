@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1244</idno>
                 </bibl>
@@ -39,18 +39,18 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0215a" id="T21.1244.0215a" ed="T"/><lb
  n="0215a01" ed="T"/><lb
- n="0215a02" ed="T"/><div type="jing" level="2"><lb
+ n="0215a02" ed="T"/><div type='jing' level='2'><lb
  n="0215a03" ed="T"/>
-<ab type="juan" subtype="open">毘沙門天王經</ab><lb
+<ab type='juan' subtype='open'>毘沙門天王經</ab><lb
  n="0215a04" ed="T"/><lb
  n="0215a05" ed="T"/><byline>開府儀同三司特進試鴻臚卿肅<lb
  n="0215a06" ed="T"/>國公食邑三千戶贈司空諡大鑒<lb
  n="0215a07" ed="T"/>正號大廣智大興善寺三藏法師<lb
  n="0215a08" ed="T"/>不空奉　詔譯</byline><lb
- n="0215a09" ed="T"/><ab type="prose">爾時毘沙門天王。在於佛前合掌。白佛言世<lb
+ n="0215a09" ed="T"/><ab type='prose'>爾時毘沙門天王。在於佛前合掌。白佛言世<lb
  n="0215a10" ed="T"/>尊。我為未來諸有情等利益安樂。豐饒財寶<lb
  n="0215a11" ed="T"/>護持國界故。說自真言。我此真言。如真多摩<lb
  n="0215a12" ed="T"/>尼寶王能滿眾願。世尊聽許我說。佛言善哉<lb
@@ -58,7 +58,7 @@
  n="0215a14" ed="T"/>爾時毘沙門天王歡喜無量即於佛前說心真<lb
  n="0215a15" ed="T"/>言曰。<lb
  n="0215a16" ed="T"/></ab>
-<ab type="dharani">曩謨囉怛曩怛囉夜野曩謨吠室<lb
+<ab type='dharani'>曩謨囉怛曩怛囉夜野曩謨吠室<lb
  n="0215a17" ed="T"/>囉麼拏野摩賀囉惹野薩<lb
  n="0215a18" ed="T"/>嚩薩怛嚩曩麼舍跛哩布囉<lb
  n="0215a19" ed="T"/>拏野悉地迦囉野蘇騫娜娜野<lb
@@ -75,13 +75,13 @@
  n="0215b01" ed="T"/>野娑嚩賀麼拏囉他跛<lb
  n="0215b02" ed="T"/>哩布囉迦野娑嚩賀<lb
  n="0215b03" ed="T"/></ab>
-<ab type="prose">爾時毘沙門天王說此真言已。白佛言世尊。<lb
+<ab type='prose'>爾時毘沙門天王說此真言已。白佛言世尊。<lb
  n="0215b04" ed="T"/>我今說受持真言法。先取安悉香白檀香<lb
  n="0215b05" ed="T"/>龍腦香多󰋲囉香薰陸香蘇合香。和合此香。<lb
  n="0215b06" ed="T"/>供養我毘沙門天王。若迎請時結根本印。以<lb
  n="0215b07" ed="T"/>二頭指向身三招。即誦真言七遍頂上散印。<lb
  n="0215b08" ed="T"/></ab>
-<ab type="dharani">怛儞也他曩謨吠室囉麼<lb
+<ab type='dharani'>怛儞也他曩謨吠室囉麼<lb
  n="0215b09" ed="T"/>拏野曩謨馱曩娜野馱寗濕嚩囉野阿󰋲蹉󰋲<lb
  n="0215b11" ed="T"/>蹉阿跛哩弭多馱甯濕嚩囉鉢囉麼<lb
  n="0215b12" ed="T"/>迦嚕抳迦薩嚩薩答嚩呬多<lb
@@ -89,7 +89,7 @@
  n="0215b14" ed="T"/>蹉娑嚩琰麼蘗嗟娑嚩<lb
  n="0215b15" ed="T"/>賀<lb
  n="0215b16" ed="T"/></ab>
-<ab type="prose">行者念誦常無間斷。乃至毘沙門天王子赦<lb
+<ab type='prose'>行者念誦常無間斷。乃至毘沙門天王子赦<lb
  n="0215b17" ed="T"/>儞娑。現童子形告持誦者言。汝有何事請召<lb
  n="0215b18" ed="T"/>我父。持誦者言。我為供養三寶受與我財<lb
  n="0215b19" ed="T"/>寶。童子赦儞娑於須臾頃。還至毘沙門天王<lb
@@ -127,7 +127,7 @@
  n="0215c21" ed="T"/>吉祥天女。受持者不應以下劣心而生恐怖。應<lb
  n="0215c22" ed="T"/>以決定心。如法念誦此吉祥天女真言曰。<lb
  n="0215c23" ed="T"/></ab>
-<ab type="dharani">曩莫室哩伽曩野曩謨吠室囉<lb
+<ab type='dharani'>曩莫室哩伽曩野曩謨吠室囉<lb
  n="0215c24" ed="T"/>摩拏野摩賀藥乞灑囉惹地囉<lb
  n="0215c25" ed="T"/>惹野曩莫室哩夜󰥂摩賀禰<pb n="0216a" id="T21.1244.0216a" ed="T"/><lb
  n="0216a01" ed="T"/>吠怛儞也他唵怛囉怛囉咄<lb
@@ -141,7 +141,7 @@
  n="0216a10" ed="T"/>捨南鉢囉賀攞賀攞娜野<lb
  n="0216a11" ed="T"/>麼諾娑縛賀<lb
  n="0216a12" ed="T"/></ab>
-<ab type="prose">爾時毘沙門天王。見持誦此真言及供養如<lb
+<ab type='prose'>爾時毘沙門天王。見持誦此真言及供養如<lb
  n="0216a13" ed="T"/>來。愍念行者。則為現身作童子形或居士形。<lb
  n="0216a14" ed="T"/>右手持如意寶左手持金篋。顏貌寂靜來至<lb
  n="0216a15" ed="T"/>像前。禮佛像已告行者言。汝今於我欲求何<lb
@@ -154,7 +154,7 @@
  n="0216a22" ed="T"/>化種種瑜伽自在。毘沙門言隨汝所願。爾時<lb
  n="0216a23" ed="T"/>毘沙門天王。欲重明其義而說偈言。<lb
  n="0216a24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 假使有日月　　從空墮於地　　<lb
  n="0216a25" ed="T"/>或大地傾覆　　寧有如是事　　<lb
  n="0216a26" ed="T"/>不應生少疑　　此法易成就　　<lb
@@ -175,14 +175,14 @@
  n="0216b12" ed="T"/>由此加持故　　真言上悉地　　<lb
  n="0216b13" ed="T"/>即誦護身明　　
 </ab><lb
- n="0216b14" ed="T"/><ab type="dharani">曩謨囉怛曩怛囉野野曩謨<lb
+ n="0216b14" ed="T"/><ab type='dharani'>曩謨囉怛曩怛囉野野曩謨<lb
  n="0216b15" ed="T"/>吠室囉麼拏野摩賀囉<lb
  n="0216b16" ed="T"/>惹野怛儞也他唵𠻴誐𠻴<lb
  n="0216b17" ed="T"/>誐赦拏赦拏齲拏<lb
  n="0216b18" ed="T"/>齲弩摩賀囉惹灑乞灑灑乞灑𤚥薩冒鉢捺囉<lb
  n="0216b20" ed="T"/>吠毘藥娑嚩賀<lb
  n="0216b21" ed="T"/></ab>
-<ab type="prose">我今說根本印。以二手右押左內相叉。竪二<lb
+<ab type='prose'>我今說根本印。以二手右押左內相叉。竪二<lb
  n="0216b22" ed="T"/>名指頭相合。屈二頭指如鉤。若迎請時向身<lb
  n="0216b23" ed="T"/>招。若發遣時向外撥。念誦時結印當心誦七<lb
  n="0216b24" ed="T"/>遍即頂上散。然後取念珠專注念誦。次說吉<lb
@@ -191,19 +191,19 @@
  n="0216b27" ed="T"/>合。若念誦時當心結誦真言七遍頂上散。<lb
  n="0216b28" ed="T"/>毘沙門天王呪曰。<lb
  n="0216b29" ed="T"/></ab>
-<ab type="dharani">那謨裴鑠囉皤拏寫摩訶曷囉闍寫施鞞<pb n="0216c" id="T21.1244.0216c" ed="T"/><lb
+<ab type='dharani'>那謨裴鑠囉皤拏寫摩訶曷囉闍寫施鞞<pb n="0216c" id="T21.1244.0216c" ed="T"/><lb
  n="0216c01" ed="T"/>娑婆呵施皤𧿡跌犁娑婆訶<lb
  n="0216c02" ed="T"/></ab>
-<ab type="prose">若呪淨油七遍用塗臥所。乞財物等得如<lb
+<ab type='prose'>若呪淨油七遍用塗臥所。乞財物等得如<lb
  n="0216c03" ed="T"/>所願。<lb
  n="0216c04" ed="T"/>
-</ab><ab type="juan" subtype="close">毘沙門天王經</ab></div><lb
- n="0216c05" ed="T"/><div type="w" level="2"><ab type="dharani">􄖩􄗭􄗽􅑈􄩞􄗲􄗱􄖩􄗭􄙝􈃡􄗥􄕌􄗱<lb
+</ab><ab type='juan' subtype='close'>毘沙門天王經</ab></div><lb
+ n="0216c05" ed="T"/><div type='w' level='2'><ab type='dharani'>􄖩􄗭􄗽􅑈􄩞􄗲􄗱􄖩􄗭􄙝􈃡􄗥􄕌􄗱<lb
  n="0216c06" ed="T"/>􄗥􄚩􄗾􄒷􄗱􄙺􅞣􄙺􄽙􄖪􄗦􄙣􄖵􄙀<lb
- n="0216c07" ed="T"/>􈁂􄗽􄕌􄗱􄙼􄽳􄑀􄗾􄗱􈂼􄑀􆩮􄖪􄗱<lb
+ n="0216c07" ed="T"/>􈁂􄗽􄕌􄗱􄙼􇧻􄑀􄗾􄗱􈂼􄑀􆩮􄖪􄗱<lb
  n="0216c08" ed="T"/>􄕗􅋓􄖩􄗰􈃎􄽙􆿇􈁝􄙝􈃡􄗥􄕌􆱨􄕯<lb
  n="0216c09" ed="T"/>􄗱􄗦􄙖􇪱􆿇􄙮􄗧􄙺􅞣􄙺􄽙􈂼􄑍􄙖<lb
- n="0216c10" ed="T"/>􄚲􄕗􇩊􄕤􇩂􄙼􄽳􇥗􈂼􈂼􇥗􄑼􄑼􄑼<lb
+ n="0216c10" ed="T"/>􄚲􄕗􇩊􄕤􇩂􄙼􇧻􇥗􈂼􈂼􇥗􄑼􄑼􄑼<lb
  n="0216c11" ed="T"/>􄑼􄑼􄗽􇥗􄙺􄗽􇥗􄑀􄗽􇥗􄑂􄙀􇥗􄑄<lb
  n="0216c12" ed="T"/>􄙂􇥗􈁃􄙂􇥗􈇓􄙂􇥗􄙻􄕻􄗱􆿅􅛆􄗥<lb
  n="0216c13" ed="T"/>􄗥􄖫􄟗􄗥􄕣􄖱􄗚􄙖􅁥􄚩􄙝􈃡􄗥􄕌<lb
@@ -215,7 +215,7 @@
  n="0216c19" ed="T"/>􈂼􈇒􇥗􄗥􄕍􄑀􄖩􄑀􄙖􄦽􄙝􄗞􅝩􈁃<lb
  n="0216c20" ed="T"/>􈁍􄖪􄗦􈅞􆮧􄕗􈆥􄙺􅞣􄙺􄽙􄚪􄕗􄑁<lb
  n="0216c21" ed="T"/>􄗥􄙝􈃡􄗥􄕋􄭠􄗱􄕵􄙙􄗥􄙔􄙙􆿏􈂯<lb
- n="0216c22" ed="T"/>􄚪􄑜􅚤􇥗􄗥􄙺􇥗􄩶􄙢􄗱􄙼􄽳􄕰􄕰<lb
+ n="0216c22" ed="T"/>􄚪􄑜􅚤􇥗􄗥􄙺􇥗􄩶􄙢􄗱􄙼􇧻􄕰􄕰<lb
  n="0216c23" ed="T"/>􄚪􄗫􄩶􄙢􄖩􄑁􄗥􄣢􄩶􄙢􄖳􄪼􄷪􄕯<lb
  n="0216c24" ed="T"/>􄗱􄗥􄕖􅁥􄚩</ab></div></div>
 </body></text></TEI>

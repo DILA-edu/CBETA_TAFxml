@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1352</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0865b03" ed="T"/><lb
  n="0865b04" ed="T"/><lb
- n="0865b05" ed="T"/><div type="jing" level="1"><lb
+ n="0865b05" ed="T"/><div type='jing' level='1'><lb
  n="0865b06" ed="T"/>
-<ab type="juan" subtype="open">佛說陀隣尼鉢經</ab><lb
+<ab type='juan' subtype='open'>佛說陀隣尼鉢經</ab><lb
  n="0865b07" ed="T"/><lb
  n="0865b08" ed="T"/><byline>東晉西域沙門竺曇無蘭譯</byline><lb
- n="0865b09" ed="T"/><ab type="prose">聞如是。一時佛在舍衛國祇樹給孤獨園。與<lb
+ n="0865b09" ed="T"/><ab type='prose'>聞如是。一時佛在舍衛國祇樹給孤獨園。與<lb
  n="0865b10" ed="T"/>大比丘眾千二百五十人菩薩萬人俱。爾時<lb
  n="0865b11" ed="T"/>去是佛剎百千億拘利佛剎。過爾所佛土。其<lb
  n="0865b12" ed="T"/>剎世界名阿難陀拘蠶彼佛號伊迦波提<lb
@@ -64,10 +64,10 @@
  n="0865b23" ed="T"/>隱。得名聲遠聞色貌端政。有氣力有筋力強<lb
  n="0865b24" ed="T"/>如是。<lb
  n="0865b25" ed="T"/></ab>
-<ab type="dharani">闍離　摩訶闍離　闍蘭尼　郁奇目󰫂<lb
+<ab type='dharani'>闍離　摩訶闍離　闍蘭尼　郁奇目𬽾<lb
  n="0865b26" ed="T"/>　三波提　摩訶三波提<lb
  n="0865b27" ed="T"/></ab>
-<ab type="prose">是時佛告阿難陀言。汝受是陀隣尼鉢持諷<lb
+<ab type='prose'>是時佛告阿難陀言。汝受是陀隣尼鉢持諷<lb
  n="0865b28" ed="T"/>誦讀。有佛世尊甚難得值。陀隣尼鉢亦難得<lb
  n="0865b29" ed="T"/>聞。若善男子善女人。受持誦讀識七世生宿<pb n="0865c" id="T21.1352.0865c" ed="T"/><lb
  n="0865c01" ed="T"/>命。若善男子善女人。受持諷誦讀。一切鬼神<lb
@@ -80,10 +80,10 @@
  n="0865c08" ed="T"/>安隱。有名聲德遠聞。色貌端政饒益力。其<lb
  n="0865c09" ed="T"/>筋力強如是。<lb
  n="0865c10" ed="T"/></ab>
-<ab type="dharani">頞䩚　跋䩚　滅支叉離　勒支　羅嵐彌<lb
+<ab type='dharani'>頞䩚　跋䩚　滅支叉離　勒支　羅嵐彌<lb
  n="0865c11" ed="T"/>　漏嵐彌　醯離　彌離　提離　爾時佛告<lb
  n="0865c12" ed="T"/></ab>
-<ab type="prose">阿難陀言。汝受是陀隣尼鉢持諷誦讀。有佛<lb
+<ab type='prose'>阿難陀言。汝受是陀隣尼鉢持諷誦讀。有佛<lb
  n="0865c13" ed="T"/>世尊甚難得值。是陀隣尼鉢亦難得聞。若善<lb
  n="0865c14" ed="T"/>男子善女人。受是陀隣尼鉢奉持諷誦讀。識<lb
  n="0865c15" ed="T"/>十四生宿命。若善男子善女人。奉持陀隣尼<lb
@@ -95,11 +95,11 @@
  n="0865c21" ed="T"/>欲復說陀隣尼鉢。欲令一切安隱。有名聲德<lb
  n="0865c22" ed="T"/>遠聞。色貌端正饒氣力。其筋力強如是。<lb
  n="0865c23" ed="T"/></ab>
-<ab type="dharani">頞䩚　跋䩚　涅䩚　鳩涅䩚　鐵離　抄羅<lb
+<ab type='dharani'>頞䩚　跋䩚　涅䩚　鳩涅䩚　鐵離　抄羅<lb
  n="0865c24" ed="T"/>波提　安那波提　般那波提　迦前尼摩<lb
  n="0865c25" ed="T"/>訶前尼<lb
  n="0865c26" ed="T"/></ab>
-<ab type="prose">是時佛告賢者阿難陀言。受是陀隣尼鉢。持<lb
+<ab type='prose'>是時佛告賢者阿難陀言。受是陀隣尼鉢。持<lb
  n="0865c27" ed="T"/>諷誦讀為一切廣說。若善男子善女人。受是<lb
  n="0865c28" ed="T"/>陀隣尼鉢持諷誦讀。識無央數生宿命。是陀<lb
  n="0865c29" ed="T"/>隣尼鉢。阿難陀不可稱計億佛所說。如是阿<pb n="0866a" id="T21.1352.0866a" ed="T"/><lb
@@ -110,5 +110,5 @@
  n="0866a05" ed="T"/>病人呪。佛說經已。賢者阿難陀及諸會者。皆<lb
  n="0866a06" ed="T"/>歡喜受行。<lb
  n="0866a07" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說陀隣尼鉢經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說陀隣尼鉢經</ab></div>
 </body></text></TEI>

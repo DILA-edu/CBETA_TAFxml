@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T12</biblScope>
                     <idno type="Taisho">T12n0344</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0155a07" ed="T"/><lb
  n="0155a08" ed="T"/><lb
  n="0155a09" ed="T"/>
-<ab type="juan" subtype="open">佛說太子和休經一卷</ab><lb
+<ab type='juan' subtype='open'>佛說太子和休經一卷</ab><lb
  n="0155a10" ed="T"/><lb
  n="0155a11" ed="T"/><byline>僧祐錄云失譯今附西晉錄</byline><lb
- n="0155a12" ed="T"/><div type="jing" level="1"><ab type="prose">佛在羅閱祇國耆闍崛山中，與菩薩萬人俱，<lb
+ n="0155a12" ed="T"/><div type='jing' level='1'><ab type='prose'>佛在羅閱祇國耆闍崛山中，與菩薩萬人俱，<lb
  n="0155a13" ed="T"/>比丘僧千二百五十人，諸優婆塞、優婆夷，諸<lb
  n="0155a14" ed="T"/>天王、梵釋及人民、鬼神、龍，無央數共坐。阿闍<lb
  n="0155a15" ed="T"/>世王太子，名為和休，與長者子五百人，各持<lb
@@ -132,5 +132,5 @@
  n="0156a07" ed="T"/>菩薩比丘僧、比丘尼、優婆塞、優婆夷，諸天梵人<lb
  n="0156a08" ed="T"/>民、鬼神龍，皆大歡喜，前為佛作禮而去。</ab></div><lb
  n="0156a09" ed="T"/>
-<ab type="juan" subtype="close">佛說太子和休經</ab>
+<ab type='juan' subtype='close'>佛說太子和休經</ab>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0474</idno>
                 </bibl>
@@ -39,18 +39,18 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0519a" ed="T" id="T14.0474.0519a"/><lb
  n="0519a01" ed="T"/><lb
  n="0519a02" ed="T"/><lb
- n="0519a03" ed="T"/><div type="pin" level="2"><lb
+ n="0519a03" ed="T"/><div type='pin' level='2'><lb
  n="0519a04" ed="T"/>
-<ab type="juan" subtype="open">佛說維摩詰經卷上<lb
+<ab type='juan' subtype='open'>佛說維摩詰經卷上<lb
  n="0519a05" ed="T"/></ab><lb
  n="0519a06" ed="T"/><lb
  n="0519a07" ed="T"/><byline>吳月氏優婆塞支謙譯</byline><lb
  n="0519a08" ed="T"/><head>佛國品第一</head><lb
- n="0519a09" ed="T"/><ab type="prose">聞如是：一時，佛遊於維耶離奈氏樹園，與大<lb
+ n="0519a09" ed="T"/><ab type='prose'>聞如是：一時，佛遊於維耶離奈氏樹園，與大<lb
  n="0519a10" ed="T"/>比丘眾俱，比丘八千。菩薩三萬二千，皆神通<lb
  n="0519a11" ed="T"/>菩薩，一切大聖能隨俗化，佛所住者皆已得<lb
  n="0519a12" ed="T"/>住，為法城塹護持正法，為師子吼十方聞<lb
@@ -112,7 +112,7 @@
  n="0519c10" ed="T"/>魔眾得未曾有，禮佛而立。國界若干，莫不目<lb
  n="0519c11" ed="T"/>見。童子寶事，即於佛前以偈讚曰：<lb
  n="0519c12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「清淨金華眼明好，　　淨教滅意度無極，　　<lb
  n="0519c13" ed="T"/>淨除欲疑稱無量，　　願禮沙門寂然迹。　　<lb
  n="0519c14" ed="T"/>既見大聖三界將，　　現我佛國特清明，　　<lb
@@ -134,7 +134,7 @@
  n="0520a01" ed="T"/>以知世間諸所有，　　十力哀現是變化，　　<lb
  n="0520a02" ed="T"/>眾覩希有皆歎佛，　　稽首極尊大智現。」　　
 </ab><lb
- n="0520a03" ed="T"/><ab type="prose">童子寶事說此偈讚佛已，以恭肅敬意，長跪<lb
+ n="0520a03" ed="T"/><ab type='prose'>童子寶事說此偈讚佛已，以恭肅敬意，長跪<lb
  n="0520a04" ed="T"/>叉手，白佛言：「此五百童子，皆有決於無上正<lb
  n="0520a05" ed="T"/>真之道，願聞得佛國土清淨。佛惟解說如來<lb
  n="0520a06" ed="T"/>佛國清淨之行。」於是佛告寶事曰：「童子！諦聽！<lb
@@ -212,8 +212,8 @@
  n="0520c20" ed="T"/>國土莫不欣然，各得其所。弟子行者，天與人<lb
  n="0520c21" ed="T"/>三萬二千，遠塵離垢，諸法法眼生；其八千人<lb
  n="0520c22" ed="T"/>漏盡意解。</ab></div><lb
- n="0520c23" ed="T"/><div type="pin" level="2"><head>維摩詰所說經善權品第二</head><lb
- n="0520c24" ed="T"/><ab type="prose">是時，維耶離大城中有長者名曰維摩詰，在先佛已造行修善，本得法忍，已得辯才，<lb
+ n="0520c23" ed="T"/><div type='pin' level='2'><head>維摩詰所說經善權品第二</head><lb
+ n="0520c24" ed="T"/><ab type='prose'>是時，維耶離大城中有長者名曰維摩詰，在先佛已造行修善，本得法忍，已得辯才，<lb
  n="0520c26" ed="T"/>神通不戲，得無所畏，降魔勞怨，深入微妙，出<lb
  n="0520c27" ed="T"/>於智度無極，善權方便，博入諸道，令得所願。<lb
  n="0520c28" ed="T"/>人根名德，生而具足，造成大道，所作事勝，佛<lb
@@ -274,8 +274,8 @@
  n="0521b25" ed="T"/>是，仁者！當自勗勉，欲除一切病者，當發行大<lb
  n="0521b26" ed="T"/>道。」如是，維摩詰為諸問疾者如應說法，令無<lb
  n="0521b27" ed="T"/>數千人發無上正真道意。</ab></div><lb
- n="0521b28" ed="T"/><div type="pin" level="2"><head>維摩詰所說經弟子品第三</head><lb
- n="0521b29" ed="T"/><ab type="prose">於是，長者維摩詰自念：「寢疾于床，念佛在心。」<pb n="0521c" ed="T" id="T14.0474.0521c"/><lb
+ n="0521b28" ed="T"/><div type='pin' level='2'><head>維摩詰所說經弟子品第三</head><lb
+ n="0521b29" ed="T"/><ab type='prose'>於是，長者維摩詰自念：「寢疾于床，念佛在心。」<pb n="0521c" ed="T" id="T14.0474.0521c"/><lb
  n="0521c01" ed="T"/>佛亦悅可是長者，便告賢者舍利弗：「汝行詣<lb
  n="0521c02" ed="T"/>維摩詰問疾。」舍利弗白佛言：「我不堪任詣彼<lb
  n="0521c03" ed="T"/>問疾。所以者何？憶念我昔常宴坐他樹下，時<lb
@@ -463,8 +463,8 @@
  n="0523c11" ed="T"/>切貪貧之行。便行，阿難！取湩莫慚。』故我不任<lb
  n="0523c12" ed="T"/>詣彼問疾。」如是上首五百弟子，皆說本所作<lb
  n="0523c13" ed="T"/>一切，向佛稱述維摩詰之美言。</ab></div><lb
- n="0523c14" ed="T"/><div type="pin" level="2"><head>維摩詰所說經菩薩品第四</head><lb
- n="0523c15" ed="T"/><ab type="prose">於是，佛告彌勒菩薩：「汝行詣維摩詰問疾。」彌<lb
+ n="0523c14" ed="T"/><div type='pin' level='2'><head>維摩詰所說經菩薩品第四</head><lb
+ n="0523c15" ed="T"/><ab type='prose'>於是，佛告彌勒菩薩：「汝行詣維摩詰問疾。」彌<lb
  n="0523c16" ed="T"/>勒白佛言：「我不堪任詣彼問疾。所以者何？憶<lb
  n="0523c17" ed="T"/>念我昔於兜術天上，為諸天人講法語，說菩<lb
  n="0523c18" ed="T"/>薩大人不退轉地之行。時維摩詰來謂我言：<lb
@@ -611,8 +611,8 @@
  n="0525b14" ed="T"/>變化，聞彼佛語，皆發無上正真道意，故我不<lb
  n="0525b15" ed="T"/>任詣彼問疾。」如是，一切菩薩各稱其所說不<lb
  n="0525b16" ed="T"/>任詣彼。</ab></div><lb
- n="0525b17" ed="T"/><div type="pin" level="2"><head>維摩詰所說經諸法言品第五</head><lb
- n="0525b18" ed="T"/><ab type="prose">佛復告文殊師利：「汝詣維摩詰問疾。」文殊<lb
+ n="0525b17" ed="T"/><div type='pin' level='2'><head>維摩詰所說經諸法言品第五</head><lb
+ n="0525b18" ed="T"/><ab type='prose'>佛復告文殊師利：「汝詣維摩詰問疾。」文殊<lb
  n="0525b19" ed="T"/>師利白佛言：「世尊！彼維摩詰雖優婆塞，入深<lb
  n="0525b20" ed="T"/>法要，其德至淳，以辯才立智不可稱，一切菩<lb
  n="0525b21" ed="T"/>薩法式悉聞，諸佛藏處無不得入，進御眾魔<lb
@@ -630,7 +630,7 @@
  n="0525c04" ed="T"/>何，居士！忍斯種作疾，寧有損不至增乎？世尊<lb
  n="0525c05" ed="T"/>慇懃致問無量，興起輕利遊步強耶？居士！是<lb
  n="0525c06" ed="T"/>病何所正立？其生久如，當何時滅？」維摩詰言：<lb
- n="0525c07" ed="T"/>「是生久矣。從癡、有愛，則我病生。用一切人病，<lb
+ n="0525c07" ed="T"/>「是生久矣。從癡有愛，則我病生。用一切人病，<lb
  n="0525c08" ed="T"/>是故我病；若一切人得不病者，則我病滅。所<lb
  n="0525c09" ed="T"/>以者何？欲建立眾人故，菩薩入生死為之病，<lb
  n="0525c10" ed="T"/>使一切人皆得離病，則菩薩無復病。譬如長<lb
@@ -754,8 +754,8 @@
  n="0527a12" ed="T"/>念知者，則為已別；斯求法者，為無見聞之求<lb
  n="0527a13" ed="T"/>也。是故，舍利弗！求法者，一切法唯無求也。」說<lb
  n="0527a14" ed="T"/>是語時，五百天人諸法法眼生。</ab></div><lb
- n="0527a15" ed="T"/><div type="pin" level="2"><head>維摩詰所說經不思議品第六</head><lb
- n="0527a16" ed="T"/><ab type="prose">於是，維摩詰問文殊師利：「仁者遊於無量無<lb
+ n="0527a15" ed="T"/><div type='pin' level='2'><head>維摩詰所說經不思議品第六</head><lb
+ n="0527a16" ed="T"/><ab type='prose'>於是，維摩詰問文殊師利：「仁者遊於無量無<lb
  n="0527a17" ed="T"/>數佛國億百那術，何等佛土為一切持一切<lb
  n="0527a18" ed="T"/>有好師子之座？」文殊師利言：「有，族姓子！東方<lb
  n="0527a19" ed="T"/>去此佛國度如三十六恒沙等剎，其世界名<lb
@@ -831,15 +831,15 @@
  n="0528a02" ed="T"/>菩薩莫能為。菩薩忍逼猶如此，立不思議<lb
  n="0528a03" ed="T"/>門菩薩入權慧力者也。」<lb
  n="0528a04" ed="T"/>
-</ab><ab type="juan" subtype="close">維摩詰經卷上</ab></div><lb
+</ab><ab type='juan' subtype='close'>維摩詰經卷上</ab></div><lb
  n="0528a05" ed="T"/><lb
- n="0528a06" ed="T"/><div type="pin" level="2"><lb
+ n="0528a06" ed="T"/><div type='pin' level='2'><lb
  n="0528a07" ed="T"/>
-<ab type="juan" subtype="open">維摩詰經卷下</ab><lb
+<ab type='juan' subtype='open'>維摩詰經卷下</ab><lb
  n="0528a08" ed="T"/><lb
  n="0528a09" ed="T"/><byline>吳月氏優婆塞支謙譯</byline><lb
  n="0528a10" ed="T"/><head>觀人物品第七</head><lb
- n="0528a11" ed="T"/><ab type="prose">於是文殊師利問維摩詰言：「菩薩何以觀察<lb
+ n="0528a11" ed="T"/><ab type='prose'>於是文殊師利問維摩詰言：「菩薩何以觀察<lb
  n="0528a12" ed="T"/>人物？」答曰：「譬如幻者見幻事相，菩薩觀人物<lb
  n="0528a13" ed="T"/>為若此。譬如達士見水中月，菩薩觀人物為<lb
  n="0528a14" ed="T"/>若此。譬如明鏡見其面像，菩薩觀人物為若<lb
@@ -959,8 +959,8 @@
  n="0529b12" ed="T"/>故。」爾時，維摩詰謂賢者舍利弗言：「是天已奉<lb
  n="0529b13" ed="T"/>事九十二億佛，神通之智已解了，所願普具，<lb
  n="0529b14" ed="T"/>法忍已得，已不退轉，願行如言所欲能現。」</ab></div><lb
- n="0529b15" ed="T"/><div type="pin" level="2"><head>維摩詰經如來種品第八</head><lb
- n="0529b16" ed="T"/><ab type="prose">文殊師利問曰：「何謂，族姓子！菩薩所至到處<lb
+ n="0529b15" ed="T"/><div type='pin' level='2'><head>維摩詰經如來種品第八</head><lb
+ n="0529b16" ed="T"/><ab type='prose'>文殊師利問曰：「何謂，族姓子！菩薩所至到處<lb
  n="0529b17" ed="T"/>興有佛法？」維摩詰言：「其來往周旋，有智慧興<lb
  n="0529b18" ed="T"/>有佛法。」「菩薩來往，為之奈何？」「其至五無間處，<lb
  n="0529b19" ed="T"/>能使無諍怒；至地獄處，能使除冥塵；至於畜<lb
@@ -1004,7 +1004,7 @@
  n="0529c28" ed="T"/>群從？所有象馬、車乘，皆何所在？」爾時，長者維<lb
  n="0529c29" ed="T"/>摩詰答眾像見，而說頌曰：<pb n="0530a" ed="T" id="T14.0474.0530a"/><lb
  n="0530a01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「母智度無極，　　父為權方便，　　<lb
  n="0530a02" ed="T"/>菩薩由是生，　　得佛一切見。　　<lb
  n="0530a03" ed="T"/>樂法以為妻，　　悲慈為男女，　　<lb
@@ -1086,8 +1086,8 @@
  n="0530c21" ed="T"/>無際行謂此，　　是以遊無疆，　　<lb
  n="0530c22" ed="T"/>合會無邊慧，　　說法無有量。」　　
 </ab></div><lb
- n="0530c23" ed="T"/><div type="pin" level="2"><head>維摩詰經不二入品第九</head><lb
- n="0530c24" ed="T"/><ab type="prose">於是，維摩詰問眾菩薩曰：「諸正士！所樂菩薩<lb
+ n="0530c23" ed="T"/><div type='pin' level='2'><head>維摩詰經不二入品第九</head><lb
+ n="0530c24" ed="T"/><ab type='prose'>於是，維摩詰問眾菩薩曰：「諸正士！所樂菩薩<lb
  n="0530c25" ed="T"/>不二入法門者，為何謂也？」座中有名法作菩<lb
  n="0530c26" ed="T"/>薩，答曰：「族姓子！起分為二，不起、不生則無有<lb
  n="0530c27" ed="T"/>二，得不起法忍者，是不二入。」<lb
@@ -1182,8 +1182,8 @@
  n="0531c29" ed="T"/>菩薩不二入法門者？」文殊師利曰：「如彼所言，<pb n="0532a" ed="T" id="T14.0474.0532a"/><lb
  n="0532a01" ed="T"/>皆各建行，於一切法如，無所取、無度、無得、無<lb
  n="0532a02" ed="T"/>思、無知、無見、無聞，是謂不二入。」</ab></div><lb
- n="0532a03" ed="T"/><div type="pin" level="2"><head>維摩詰經香積佛品第十</head><lb
- n="0532a04" ed="T"/><ab type="prose">於是賢者舍利弗心念：「日時欲過，此諸大人<lb
+ n="0532a03" ed="T"/><div type='pin' level='2'><head>維摩詰經香積佛品第十</head><lb
+ n="0532a04" ed="T"/><ab type='prose'>於是賢者舍利弗心念：「日時欲過，此諸大人<lb
  n="0532a05" ed="T"/>當於何食？」維摩詰知其意而應曰：「唯然，賢者！<lb
  n="0532a06" ed="T"/>若如來說八解之行，豈雜欲食而聞法乎？要<lb
  n="0532a07" ed="T"/>聞法者當為先食。」是時維摩詰即如其像正<lb
@@ -1278,8 +1278,8 @@
  n="0533a09" ed="T"/>當此維摩詰與眾會及文殊師利說法時，滿<lb
  n="0533a10" ed="T"/>百千人發無上正真道意，十千菩薩逮得法<lb
  n="0533a11" ed="T"/>忍。</ab></div><lb
- n="0533a12" ed="T"/><div type="pin" level="2"><head>維摩詰經菩薩行品第十一</head><lb
- n="0533a13" ed="T"/><ab type="prose">是時，佛說法於奈氏之園，其場忽然廣博嚴<lb
+ n="0533a12" ed="T"/><div type='pin' level='2'><head>維摩詰經菩薩行品第十一</head><lb
+ n="0533a13" ed="T"/><ab type='prose'>是時，佛說法於奈氏之園，其場忽然廣博嚴<lb
  n="0533a14" ed="T"/>事，一切眾會皆見金色。賢者阿難問佛言：<lb
  n="0533a15" ed="T"/>「世尊！是為誰先瑞應，而此場地廣博嚴事，一<lb
  n="0533a16" ed="T"/>切眾會皆見金色？」佛告阿難：「是維摩詰、文殊<lb
@@ -1399,8 +1399,8 @@
  n="0534b14" ed="T"/>好華，積至于膝，以供養佛。稽首佛足，右遶三<lb
  n="0534b15" ed="T"/>匝，以次合聚。於是佛土忽然不現，須臾之間<lb
  n="0534b16" ed="T"/>已還彼國，近香積佛。</ab></div><lb
- n="0534b17" ed="T"/><div type="pin" level="2"><head>維摩詰經見阿閦佛品第十二</head><lb
- n="0534b18" ed="T"/><ab type="prose">於是，世尊問維摩詰：「汝族姓子！欲見如來，為<lb
+ n="0534b17" ed="T"/><div type='pin' level='2'><head>維摩詰經見阿閦佛品第十二</head><lb
+ n="0534b18" ed="T"/><ab type='prose'>於是，世尊問維摩詰：「汝族姓子！欲見如來，為<lb
  n="0534b19" ed="T"/>以何等觀如來乎？」維摩詰曰：「始不以生，終不<lb
  n="0534b20" ed="T"/>以數，今則不住。空種是同，入無所積，眼耳鼻<lb
  n="0534b21" ed="T"/>口身心已離三界。不疲懈三脫門，得三達<lb
@@ -1481,8 +1481,8 @@
  n="0535b08" ed="T"/>暢書，隨是法說而敬事者，是為得佛福施得<lb
  n="0535b09" ed="T"/>大法智。其以是經四句頌教，為同學說，是為<lb
  n="0535b10" ed="T"/>已得記莂，為得法樂已甚解矣。」</ab></div><lb
- n="0535b11" ed="T"/><div type="pin" level="2"><head>維摩詰經法供養品第十三</head><lb
- n="0535b12" ed="T"/><ab type="prose">於是，天帝釋白佛言：「多福哉！世尊！得近如來、<lb
+ n="0535b11" ed="T"/><div type='pin' level='2'><head>維摩詰經法供養品第十三</head><lb
+ n="0535b12" ed="T"/><ab type='prose'>於是，天帝釋白佛言：「多福哉！世尊！得近如來、<lb
  n="0535b13" ed="T"/>文殊師利者，雖百千聞，未有若此純法化者<lb
  n="0535b14" ed="T"/>也。以宿曾聞是法不疑故，使其人得此法乘，<lb
  n="0535b15" ed="T"/>能受持誦，況我面值應心與合。諸愛此者，吾<lb
@@ -1567,8 +1567,8 @@
  n="0536b07" ed="T"/>此要，昔者我身於諸如來行法供養，得為上<lb
  n="0536b08" ed="T"/>化，為長化、為願化、為無上無比之化。是故，天<lb
  n="0536b09" ed="T"/>帝！當以知此法之供養，供養於佛。」</ab></div><lb
- n="0536b10" ed="T"/><div type="pin" level="2"><head>維摩詰經囑累彌勒品第十四</head><lb
- n="0536b11" ed="T"/><ab type="prose">彼時，佛語彌勒菩薩言：「彌勒！是名為無數億<lb
+ n="0536b10" ed="T"/><div type='pin' level='2'><head>維摩詰經囑累彌勒品第十四</head><lb
+ n="0536b11" ed="T"/><ab type='prose'>彼時，佛語彌勒菩薩言：「彌勒！是名為無數億<lb
  n="0536b12" ed="T"/>劫習佛道品，汝隨分布，受是像經，佛所建立，<lb
  n="0536b13" ed="T"/>如來滅後，廣博此道。所以者何？後世得者，<lb
  n="0536b14" ed="T"/>族姓子族姓女、天龍神、揵沓和，當下德本，<lb
@@ -1611,5 +1611,5 @@
  n="0536c22" ed="T"/>者維摩詰、文殊師利為上首，眾菩薩、大弟子，<lb
  n="0536c23" ed="T"/>一切魔眾，聞佛所說，皆大歡喜。<lb
  n="0536c24" ed="T"/>
-</ab><ab type="juan" subtype="close">維摩詰經卷下</ab></div></div>
+</ab><ab type='juan' subtype='close'>維摩詰經卷下</ab></div></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1202</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0023a" id="T21.1202.0023a" ed="T"/><lb
  n="0023a01" ed="T"/><lb
- n="0023a02" ed="T"/><div type="jing" level="2"><lb
+ n="0023a02" ed="T"/><div type='jing' level='2'><lb
  n="0023a03" ed="T"/>
-<ab type="juan" subtype="open">不動使者陀羅尼祕密法一卷</ab><lb
+<ab type='juan' subtype='open'>不動使者陀羅尼祕密法一卷</ab><lb
  n="0023a04" ed="T"/><lb
  n="0023a05" ed="T"/><byline>大唐贈開府儀同三司諡大弘教<lb
  n="0023a06" ed="T"/>三藏沙門金剛智奉　詔譯</byline><lb
- n="0023a07" ed="T"/><ab type="prose">如是無量力不動聖者毘盧遮那使者心。一<lb
+ n="0023a07" ed="T"/><ab type='prose'>如是無量力不動聖者毘盧遮那使者心。一<lb
  n="0023a08" ed="T"/>切利益成就法。欲受持者。先當行四種精進<lb
  n="0023a09" ed="T"/>行。自約身心令念不散。一志堅固速得證驗<lb
  n="0023a10" ed="T"/>令滿所願。云何四種行自約。一者斷食二<lb
@@ -106,7 +106,7 @@
  n="0023c04" ed="T"/>寸大如指擘之。燒大麥呪之得大丈夫富貴<lb
  n="0023c05" ed="T"/>自在。大麥馬麥也有皮者是也。</ab></div><lb
  n="0023c06" ed="T"/><head>畫像法摧伏第一</head><lb
- n="0023c07" ed="T"/><ab type="prose">若欲作法。應對像前。心有所像神應像感。<lb
+ n="0023c07" ed="T"/><ab type='prose'>若欲作法。應對像前。心有所像神應像感。<lb
  n="0023c08" ed="T"/>於好絹上畫不動使者。著赤色衣斜帔。腰褌<lb
  n="0023c09" ed="T"/>子亦赤色。左邊一髻下垂至耳。左眼微斜<lb
  n="0023c10" ed="T"/>看。左手把羂索右手把劍直竪。劍首如蓮花<lb
@@ -200,14 +200,14 @@
  n="0025a12" ed="T"/>其形作人形狀。常相隨逐任所驅使。<lb
  n="0025a13" ed="T"/>不動使者根本呪曰。<lb
  n="0025a14" ed="T"/></ab>
-<ab type="dharani">那謨三漫多嚩日囉喃尾迦吒微吃哩<lb
+<ab type='dharani'>那謨三漫多嚩日囉喃尾迦吒微吃哩<lb
  n="0025a15" ed="T"/>多羯邏摩訶閉㘑多蜜瑟咤契註<lb
  n="0025a16" ed="T"/>叱瑟吒訶囉按怛囉摩囉達囉<lb
  n="0025a17" ed="T"/>折覩嚕木佉濕嚩囉那囉迦迦比嚕<lb
  n="0025a18" ed="T"/>𠷈持嚩計舍吽跋折囉跋折<lb
  n="0025a19" ed="T"/>𡀔𦽆囉吽泮莎訶<lb
  n="0025a20" ed="T"/></ab>
-<ab type="prose">持此呪者。於六月中每日三時誦念不絕。<lb
+<ab type='prose'>持此呪者。於六月中每日三時誦念不絕。<lb
  n="0025a21" ed="T"/>每日清淨飲食。每欲食時先出一分安淨<lb
  n="0025a22" ed="T"/>器中。呪二十一遍待身食了。將此器食<lb
  n="0025a23" ed="T"/>寫著淨處。月滿已後不動使者滿種種願。三<lb
@@ -221,10 +221,10 @@
  n="0025b02" ed="T"/>世習未斷。雖千度觸犯種種重業。使者皆許<lb
  n="0025b03" ed="T"/>其懺悔。不即捨離。<lb
  n="0025b04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 結界護身法　　先作海䗍印　　
 </ab><lb
- n="0025b05" ed="T"/><ab type="prose">以左手中指已下三指。握右手中指已下三<lb
+ n="0025b05" ed="T"/><ab type='prose'>以左手中指已下三指。握右手中指已下三<lb
  n="0025b06" ed="T"/>指。各以當手大母指。捻無名指。相捉訖。直<lb
  n="0025b07" ed="T"/>竪右手頭指。屈左手頭指。捻右手頭指第二<lb
  n="0025b08" ed="T"/>節文。安口上誦根本呪七遍。於頂上右旋三<lb
@@ -244,11 +244,11 @@
  n="0025b22" ed="T"/>使者辟一切惡毒呪。呪七遍訖。移安頂上呪<lb
  n="0025b23" ed="T"/>曰。<lb
  n="0025b24" ed="T"/></ab>
-<ab type="dharani">唵　阿者囉迦那步陀制吒迦吽吽可<lb
+<ab type='dharani'>唵　阿者囉迦那步陀制吒迦吽吽可<lb
  n="0025b25" ed="T"/>伊可伊一譚蘖哩醯摩訶哩毘<lb
  n="0025b26" ed="T"/>沙颯多惡紇哩鴆泮<lb
  n="0025b27" ed="T"/></ab>
-<ab type="prose">若有人服毒欲死。作此印呪七遍。即可。若<lb
+<ab type='prose'>若有人服毒欲死。作此印呪七遍。即可。若<lb
  n="0025b28" ed="T"/>欲結界辟鬼神開惡雲等。即安左膝上。如拔<lb
  n="0025b29" ed="T"/>刀劍狀。用力拔之。於頂上右旋三匝隨意遠<pb n="0025c" id="T21.1202.0025c" ed="T"/><lb
  n="0025c01" ed="T"/>近。以劍竪安眉間少時而止。一切無敢犯<lb
@@ -262,30 +262,30 @@
  n="0025c09" ed="T"/>遍。呪訖前人即不復怖。名無畏清淨印。<lb
  n="0025c10" ed="T"/>次誦不動迎請呪。<lb
  n="0025c11" ed="T"/></ab>
-<ab type="dharani">那麼　三曼多　跋折囉喃阿哩夜<pb n="0026a" id="T21.1202.0026a" ed="T"/><lb
+<ab type='dharani'>那麼　三曼多　跋折囉喃阿哩夜<pb n="0026a" id="T21.1202.0026a" ed="T"/><lb
  n="0026a01" ed="T"/>跋折囉摩訶俱𡀔陀阿蘖瑳阿蘖瑳緊<lb
  n="0026a02" ed="T"/>之囉斯一鄧迦哩蠅俱嚧那摩莎訶<lb
  n="0026a03" ed="T"/></ab>
-<ab type="prose">用前劍印安頂上。左手中指頭三屈。三遍<lb
+<ab type='prose'>用前劍印安頂上。左手中指頭三屈。三遍<lb
  n="0026a04" ed="T"/>誦呪招召之即來赴也。<lb
  n="0026a05" ed="T"/>次作索印。<lb
  n="0026a06" ed="T"/>以右手大母指。捻中指已下三指甲。直竪頭<lb
  n="0026a07" ed="T"/>指。以左手中指已下三指。握右手頭指。屈左<lb
  n="0026a08" ed="T"/>手頭指。押左手大母指甲上。誦索呪曰。<lb
  n="0026a09" ed="T"/></ab>
-<ab type="dharani">那摩三曼多未實囉喃阿播捨判者那吽<lb
+<ab type='dharani'>那摩三曼多未實囉喃阿播捨判者那吽<lb
  n="0026a10" ed="T"/>泮<lb
  n="0026a11" ed="T"/></ab>
-<ab type="prose">呪七遍已。用伏一切鬼神。令一千二千<lb
+<ab type='prose'>呪七遍已。用伏一切鬼神。令一千二千<lb
  n="0026a12" ed="T"/>里。追人及天龍八部等。用此印呪。<lb
  n="0026a13" ed="T"/>次作師子奮迅印如前甲印申。二頭指開直<lb
  n="0026a14" ed="T"/>竪之。身立如金剛勢。以印或左或右麾之。<lb
  n="0026a15" ed="T"/>怒目瞋意吽聲誦師子呪曰。<lb
  n="0026a16" ed="T"/></ab>
-<ab type="dharani">那摩三曼多末實囉喃<lb
+<ab type='dharani'>那摩三曼多末實囉喃<lb
  n="0026a17" ed="T"/>唵阿者羅迦那戰拏娑太耶吽泮<lb
  n="0026a18" ed="T"/></ab>
-<ab type="prose">誦七遍。能降伏一切惡魔等。以印魔惡雲<lb
+<ab type='prose'>誦七遍。能降伏一切惡魔等。以印魔惡雲<lb
  n="0026a19" ed="T"/>雨。應時皆散。散已解印。<lb
  n="0026a20" ed="T"/>若惡風雨不止者。取棘針和白芥子。燒呪一<lb
  n="0026a21" ed="T"/>百八遍。更誦根本呪一百八遍。非但風雨散<lb
@@ -295,10 +295,10 @@
  n="0026a25" ed="T"/>直申頭指中指。於額上兩眉間。垂頭指中<lb
  n="0026a26" ed="T"/>指。向下漸向髮際。引之向上。名不動使者<lb
  n="0026a27" ed="T"/>天眼印誦心中呪呪之。</ab>
-<ab type="dharani">唵質路<lb
+<ab type='dharani'>唵質路<lb
  n="0026a28" ed="T"/>古婆皤耶莎訶<lb
  n="0026a29" ed="T"/></ab>
-<ab type="prose">作瞋怒意。吽字作聲誦。稱怨家名字。大鬼<pb n="0026b" id="T21.1202.0026b" ed="T"/><lb
+<ab type='prose'>作瞋怒意。吽字作聲誦。稱怨家名字。大鬼<pb n="0026b" id="T21.1202.0026b" ed="T"/><lb
  n="0026b01" ed="T"/>神捉彼人心令其降伏。若常依此誦不斷絕。<lb
  n="0026b02" ed="T"/>必得眼通見三千大千世界。及三界中事。如<lb
  n="0026b03" ed="T"/>對目前等無有異。<lb
@@ -307,19 +307,19 @@
  n="0026b06" ed="T"/>直申二頭指頭相拄。二大母指拘取二無名<lb
  n="0026b07" ed="T"/>指甲。名根本印誦心呪曰。<lb
  n="0026b08" ed="T"/></ab>
-<ab type="dharani">那摩三曼多　末實囉喃　怛囉<lb
+<ab type='dharani'>那摩三曼多　末實囉喃　怛囉<lb
  n="0026b09" ed="T"/>吒阿目伽戰拏摩訶嚧灑拏娑𩑼<lb
  n="0026b10" ed="T"/>吒耶吽怛囉跛耶怛囉跛<lb
  n="0026b11" ed="T"/>耶吽怛囉吒怛囉吒鴆忙<lb
  n="0026b12" ed="T"/></ab>
-<ab type="prose">每日自食先出種種飲食一分。於一盞中著。<lb
+<ab type='prose'>每日自食先出種種飲食一分。於一盞中著。<lb
  n="0026b13" ed="T"/>待食了誦呪七遍。呪之瀉淨處著。日別如此<lb
  n="0026b14" ed="T"/>所去處常得擁護逐後。<lb
  n="0026b15" ed="T"/>復有一字呪。<lb
  n="0026b16" ed="T"/></ab>
-<ab type="dharani">那摩三曼多　末實囉喃鴆<lb
+<ab type='dharani'>那摩三曼多　末實囉喃鴆<lb
  n="0026b17" ed="T"/></ab>
-<ab type="prose">用前根本印呪之。常誦結印不斷絕。亦常不<lb
+<ab type='prose'>用前根本印呪之。常誦結印不斷絕。亦常不<lb
  n="0026b18" ed="T"/>離左右也。<lb
  n="0026b19" ed="T"/>不動寶山印<lb
  n="0026b20" ed="T"/>兩手十指向內相叉。急握成拳。名不動寶山<lb
@@ -350,10 +350,10 @@
  n="0026c16" ed="T"/>用有驗。更亦不須受持。<pb n="0027a" id="T21.1202.0027a" ed="T"/><lb
  n="0027a01" ed="T"/>總攝慈救不動呪曰。<lb
  n="0027a02" ed="T"/></ab>
-<ab type="dharani">那麼三曼多嚩日囉赦戰拏摩訶<lb
+<ab type='dharani'>那麼三曼多嚩日囉赦戰拏摩訶<lb
  n="0027a03" ed="T"/>盧灑拏馺頗吒也吽怛剌吒鴆忙<lb
  n="0027a05" ed="T"/></ab>
-<ab type="prose">此呪出毘盧遮那經。能攝諸印法。作前法了。<lb
+<ab type='prose'>此呪出毘盧遮那經。能攝諸印法。作前法了。<lb
  n="0027a06" ed="T"/>即誦此呪一七遍已。心念不動尊。亦作前劍<lb
  n="0027a07" ed="T"/>印。印額。<lb
  n="0027a08" ed="T"/>左右肩心上及喉上五處。誦此呪呪一百八<lb
@@ -387,13 +387,13 @@
  n="0027b07" ed="T"/>願。則多人同念。令速得共滿前數亦得滿願<lb
  n="0027b08" ed="T"/>呪曰。<lb
  n="0027b09" ed="T"/></ab>
-<ab type="dharani">　迴光菩薩　迴喜菩薩　阿耨大天　志德<lb
+<ab type='dharani'>　迴光菩薩　迴喜菩薩　阿耨大天　志德<lb
  n="0027b10" ed="T"/>菩薩　憂丘婆丘　清淨比丘　唯願某甲<lb
  n="0027b11" ed="T"/>　官事得了　死事<lb
  n="0027b12" ed="T"/>即休　諸天菩薩　外國羅漢　救濟某甲<lb
  n="0027b13" ed="T"/>　過災度難<lb
  n="0027b15" ed="T"/></ab>
-<ab type="prose">唯願慈悲滿弟子願。<lb
+<ab type='prose'>唯願慈悲滿弟子願。<lb
  n="0027b16" ed="T"/>持法先誦令熟念之。口不出聲。滿十萬遍數<lb
  n="0027b17" ed="T"/>訖。即獲所願。若求速効行住不得間斷。事大<lb
  n="0027b18" ed="T"/>者眾誦。行出即不須燒香。若在家坐念必須<lb
@@ -401,5 +401,5 @@
  n="0027b20" ed="T"/>若無沈香以白檀代之亦得。必不得闕安悉<lb
  n="0027b21" ed="T"/>香及零陵霍香也。<lb
  n="0027b22" ed="T"/>
-</ab><ab type="juan" subtype="close">不動使者陀羅尼祕密法一卷</ab></div>
+</ab><ab type='juan' subtype='close'>不動使者陀羅尼祕密法一卷</ab></div>
 </body></text></TEI>

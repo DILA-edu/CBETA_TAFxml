@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T12</biblScope>
                     <idno type="Taisho">T12n0346</idno>
                 </bibl>
@@ -43,11 +43,11 @@
  n="0166a01" ed="T"/><lb
  n="0166a02" ed="T"/><lb
  n="0166a03" ed="T"/>
-<ab type="juan" subtype="open">佛說大方廣善巧方便經卷第一</ab><lb
+<ab type='juan' subtype='open'>佛說大方廣善巧方便經卷第一</ab><lb
  n="0166a04" ed="T"/><lb
  n="0166a05" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0166a06" ed="T"/>傳法大師賜紫臣施護奉　詔譯</byline><lb
- n="0166a07" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時佛在舍衛國祇樹給孤獨園，<lb
+ n="0166a07" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時佛在舍衛國祇樹給孤獨園，<lb
  n="0166a08" ed="T"/>與大苾芻眾八千人、菩薩一萬六千人俱——是<lb
  n="0166a09" ed="T"/>諸菩薩智慧、方便、神通具足，辯才無礙，得大<lb
  n="0166a10" ed="T"/>總持。<lb
@@ -55,7 +55,7 @@
  n="0166a12" ed="T"/>眾恭敬圍繞，聽受說法。彼時會中有一菩薩<lb
  n="0166a13" ed="T"/>摩訶薩名曰智上，從座而起，偏袒右肩，右膝<lb
  n="0166a14" ed="T"/>著地，禮佛雙足。禮已合掌，前白佛言：「世尊！我<lb
- n="0166a15" ed="T"/>有少法欲伸請問如來、應供、正等正覺，非愍<lb
+ n="0166a15" ed="T"/>有少法欲伸請問如來、應供、正等正覺，悲愍<lb
  n="0166a16" ed="T"/>我故，願賜聽許。」佛告智上菩薩摩訶薩言：「善<lb
  n="0166a17" ed="T"/>男子！恣汝所問，今正是時。諸佛如來隨有問<lb
  n="0166a18" ed="T"/>者，各各為其如應演說，令彼聞已心生歡喜。」<lb
@@ -216,25 +216,25 @@
  n="0167c28" ed="T"/>王菩薩既同坐已，即復執彼女人右手說伽<lb
  n="0167c29" ed="T"/>陀曰：<pb n="0168a" id="T12.0346.0168a" ed="T"/><lb
  n="0168a01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『佛不稱讚染欲法，　　愚癡迷著而所行。　　<lb
  n="0168a02" ed="T"/>若能斷除欲愛心，　　佛說斯人為最上。』　　
 </ab><lb
- n="0168a03" ed="T"/><ab type="prose">「阿難！時彼女人聞是伽陀已心大歡喜，即從<lb
+ n="0168a03" ed="T"/><ab type='prose'>「阿難！時彼女人聞是伽陀已心大歡喜，即從<lb
  n="0168a04" ed="T"/>座起，合掌恭敬禮彼光聚王菩薩足，說伽陀<lb
  n="0168a05" ed="T"/>曰：<lb
  n="0168a06" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『我本無心實求欲，　　我知欲法佛不讚，　　<lb
  n="0168a07" ed="T"/>若能斷除欲愛心，　　佛說斯人為最上。』　　
 </ab><lb
- n="0168a08" ed="T"/><ab type="prose">「說是伽陀已，復說伽陀曰：<lb
+ n="0168a08" ed="T"/><ab type='prose'>「說是伽陀已，復說伽陀曰：<lb
  n="0168a09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『當知如我心所思，　　所說真實而無異，　　<lb
  n="0168a10" ed="T"/>若人樂求佛菩提，　　一切眾生獲利樂。』　　
 </ab><lb
- n="0168a11" ed="T"/><ab type="prose">「阿難！時彼女人得光聚王菩薩善巧方便為<lb
+ n="0168a11" ed="T"/><ab type='prose'>「阿難！時彼女人得光聚王菩薩善巧方便為<lb
  n="0168a12" ed="T"/>開導故，即時女人發阿耨多羅三藐三菩提<lb
  n="0168a13" ed="T"/>心。時彼菩薩即從座起，出離彼舍。「阿難！汝今<lb
  n="0168a14" ed="T"/>當知，我觀彼女人深心清淨，勇猛最勝，我今<lb
@@ -331,15 +331,15 @@
  n="0169a18" ed="T"/>所護，畢竟不墮生死泥中，隨彼彼處滅此身<lb
  n="0169a19" ed="T"/>已生梵天界。<lb
  n="0169a20" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說大方廣善巧方便經卷第一</ab><lb
+</ab><ab type='juan' subtype='close'>佛說大方廣善巧方便經卷第一</ab><lb
  n="0169a21" ed="T"/><lb
  n="0169a22" ed="T"/><lb
  n="0169a23" ed="T"/>
-<ab type="juan" subtype="open">佛說大方廣善巧方便經卷第二</ab><lb
+<ab type='juan' subtype='open'>佛說大方廣善巧方便經卷第二</ab><lb
  n="0169a24" ed="T"/><lb
  n="0169a25" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0169a26" ed="T"/>傳法大師賜紫臣施護奉　詔譯</byline><lb
- n="0169a27" ed="T"/><ab type="prose">「復次，光聚王！又如持明人善修瑜伽悉地法<lb
+ n="0169a27" ed="T"/><ab type='prose'>「復次，光聚王！又如持明人善修瑜伽悉地法<lb
  n="0169a28" ed="T"/>門，於祕密五種縛中而受繫縛，隨所作法不<lb
  n="0169a29" ed="T"/>越三昧。是人以一大明句力悉能斷除彼一切<pb n="0169b" id="T12.0346.0169b" ed="T"/><lb
  n="0169b01" ed="T"/>縛，而獲安住祕密行門。雖在繫縛中，常不離<lb
@@ -415,7 +415,7 @@
  n="0170a13" ed="T"/>重恭敬供養世尊。作供養已，右繞三匝，合掌<lb
  n="0170a14" ed="T"/>向佛說伽陀曰：<lb
  n="0170a15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「不可思議人中尊！　　不可思議大菩提！　　<lb
  n="0170a16" ed="T"/>不可思議諸佛行！　　不可思議諸佛法！　　<lb
  n="0170a17" ed="T"/>我舍衛城長者女，　　父本立名為上財，　　<lb
@@ -475,7 +475,7 @@
  n="0170c13" ed="T"/>多劫已曾供養佛，　　於諸佛所種善根，　　<lb
  n="0170c14" ed="T"/>堅固安住菩提心，　　決定當得菩提果。」　　
 </ab><lb
- n="0170c15" ed="T"/><ab type="prose">爾時，尊者阿難白佛言：「世尊！如我意者，譬如<lb
+ n="0170c15" ed="T"/><ab type='prose'>爾時，尊者阿難白佛言：「世尊！如我意者，譬如<lb
  n="0170c16" ed="T"/>須彌山王眾寶所成，雖種種寶有種種色，彼<lb
  n="0170c17" ed="T"/>黃金色而為最上。菩薩摩訶薩亦復如是，若<lb
  n="0170c18" ed="T"/>清淨心、若染污心、若住法心、若隱法心，雖種<lb
@@ -644,15 +644,15 @@
  n="0172c07" ed="T"/>掌恭敬，隨喜稱讚。以是因緣，乃唱是言：『我於<lb
  n="0172c08" ed="T"/>世間最尊、最勝。』<lb
  n="0172c09" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說大方廣善巧方便經卷第二</ab><lb
+</ab><ab type='juan' subtype='close'>佛說大方廣善巧方便經卷第二</ab><lb
  n="0172c10" ed="T"/><lb
  n="0172c11" ed="T"/><lb
  n="0172c12" ed="T"/>
-<ab type="juan" subtype="open">佛說大方廣善巧方便經卷第三</ab><lb
+<ab type='juan' subtype='open'>佛說大方廣善巧方便經卷第三</ab><lb
  n="0172c13" ed="T"/><lb
  n="0172c14" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0172c15" ed="T"/>傳法大師賜紫臣施護奉　詔譯</byline><lb
- n="0172c16" ed="T"/><ab type="prose">「復次，善男子！何緣菩薩生已現大笑相？豈非<lb
+ n="0172c16" ed="T"/><ab type='prose'>「復次，善男子！何緣菩薩生已現大笑相？豈非<lb
  n="0172c17" ed="T"/>菩薩以掉舉故現是相耶？所謂：菩薩生已，作<lb
  n="0172c18" ed="T"/>是思惟：『我欲普令一切眾生悉能同我發菩<lb
  n="0172c19" ed="T"/>提心。我當得菩提已，廣度眾生出輪迴苦，我<lb
@@ -898,14 +898,14 @@
  n="0175b27" ed="T"/>善巧方便而為救度，令得解脫。智上！如是所<lb
  n="0175b28" ed="T"/>說，當知是為善巧方便。<lb
  n="0175b29" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說大方廣善巧方便經卷第三</ab><pb n="0175c" id="T12.0346.0175c" ed="T"/><lb
+</ab><ab type='juan' subtype='close'>佛說大方廣善巧方便經卷第三</ab><pb n="0175c" id="T12.0346.0175c" ed="T"/><lb
  n="0175c01" ed="T"/><lb
  n="0175c02" ed="T"/>
-<ab type="juan" subtype="open">佛說大方廣善巧方便經卷第四</ab><lb
+<ab type='juan' subtype='open'>佛說大方廣善巧方便經卷第四</ab><lb
  n="0175c03" ed="T"/><lb
  n="0175c04" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0175c05" ed="T"/>傳法大師賜紫臣施護奉　詔譯</byline><lb
- n="0175c06" ed="T"/><ab type="prose">「復次，智上！我念過去世時有五百商人入海<lb
+ n="0175c06" ed="T"/><ab type='prose'>「復次，智上！我念過去世時有五百商人入海<lb
  n="0175c07" ed="T"/>求寶。是時，別有一商人其性剛強，猛利暴惡，<lb
  n="0175c08" ed="T"/>於海中路而忽相逢。彼一商人即生惡心，欲謀<lb
  n="0175c09" ed="T"/>珍寶。彼自思惟：『我今宜應設其方便，悉斷彼<lb
@@ -971,11 +971,11 @@
  n="0176b11" ed="T"/>其命。昔因緣故，今有是相。」爾時，世尊說伽陀<lb
  n="0176b12" ed="T"/>曰：<lb
  n="0176b13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「今此所現如是相，　　不住虛空及山、海，　　<lb
  n="0176b14" ed="T"/>乃至不住諸地方，　　以宿因故如是住。」　　
 </ab><lb
- n="0176b15" ed="T"/><ab type="prose">爾時，彼四十人咸作是念：「如來是大法王，無<lb
+ n="0176b15" ed="T"/><ab type='prose'>爾時，彼四十人咸作是念：「如來是大法王，無<lb
  n="0176b16" ed="T"/>實業障可得。我等互起惡心自相謀害，今對<lb
  n="0176b17" ed="T"/>佛前宜應懺悔。」作是念已，俱白佛言：「世尊！我<lb
  n="0176b18" ed="T"/>等先起惡心互欲殺害。是故，今時各各懺悔。」<lb
@@ -1160,5 +1160,5 @@
  n="0178b23" ed="T"/>摩訶薩，乃至世間天、人、阿修羅、乾闥婆等一<lb
  n="0178b24" ed="T"/>切大眾，聞佛所說，皆大歡喜，信受奉行。</ab></div><lb
  n="0178b25" ed="T"/>
-<ab type="juan" subtype="close">佛說大方廣善巧方便經卷第四</ab>
+<ab type='juan' subtype='close'>佛說大方廣善巧方便經卷第四</ab>
 </body></text></TEI>

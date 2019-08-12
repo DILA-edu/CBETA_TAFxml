@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1358</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0876a15" ed="T"/><lb
  n="0876a16" ed="T"/><lb
- n="0876a17" ed="T"/><div type="jing" level="1"><lb
+ n="0876a17" ed="T"/><div type='jing' level='1'><lb
  n="0876a18" ed="T"/>
-<ab type="juan" subtype="open">佛說花聚陀羅尼呪經</ab><lb
+<ab type='juan' subtype='open'>佛說花聚陀羅尼呪經</ab><lb
  n="0876a19" ed="T"/><lb
  n="0876a20" ed="T"/><byline>失譯人名今附東晉錄</byline><lb
- n="0876a21" ed="T"/><ab type="prose">如是我聞。一時佛在阿耨達多龍王宮中。與<lb
+ n="0876a21" ed="T"/><ab type='prose'>如是我聞。一時佛在阿耨達多龍王宮中。與<lb
  n="0876a22" ed="T"/>諸比丘五百人俱。菩薩摩訶薩滿足一千。盡<lb
  n="0876a23" ed="T"/>是一生補處。皆得陀羅尼位階十地。猶如王<lb
  n="0876a24" ed="T"/>子不久當得紹繼王位。此諸菩薩亦復如是。<lb
@@ -92,7 +92,7 @@
  n="0876c05" ed="T"/>十方諸佛世界。諮受妙法教化眾生。爾時世<lb
  n="0876c06" ed="T"/>尊即說呪曰。<lb
  n="0876c07" ed="T"/></ab>
-<ab type="dharani">多狄他　度羅尼　陀羅尼　陀羅尼　磨禰<lb
+<ab type='dharani'>多狄他　度羅尼　陀羅尼　陀羅尼　磨禰<lb
  n="0876c08" ed="T"/>波　步婆散尼　悉題　旃題　涅目脂　涅<lb
  n="0876c09" ed="T"/>呵梨　慮伽鉢帝　佛陀鉢帝　帝梨　烏迦<lb
  n="0876c10" ed="T"/>囉󰭡佉伽羅󰭡　囉殊波伽帝　帝闍和帝<lb
@@ -101,7 +101,7 @@
  n="0876c13" ed="T"/>帝　泥句婆摩一唏帝　帝闍伽呵和帝<lb
  n="0876c14" ed="T"/>　因題夜佛題　咥拏佛　提　莎訶<lb
  n="0876c15" ed="T"/></ab>
-<ab type="prose">佛言有善男子善女人。欲行此陀羅尼者。若<lb
+<ab type='prose'>佛言有善男子善女人。欲行此陀羅尼者。若<lb
  n="0876c16" ed="T"/>二月三月若八月中。從白月八日至十五日。<lb
  n="0876c17" ed="T"/>淨自澡浴著新淨衣。當於靜處坐佛形像。懸<lb
  n="0876c18" ed="T"/>繒幡蓋。花香供養禮拜懺悔。晝夜六時誦此<lb
@@ -115,5 +115,5 @@
  n="0876c26" ed="T"/>忘失。除其四諦。爾時師子奮迅菩薩。諸天人<lb
  n="0876c27" ed="T"/>民及阿修羅諸比丘眾。聞佛所說歡喜奉行。<lb
  n="0876c28" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說花聚陀羅尼呪經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說花聚陀羅尼呪經</ab></div>
 </body></text></TEI>

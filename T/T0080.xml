@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0080</idno>
                 </bibl>
@@ -43,11 +43,11 @@
  n="0891a14" ed="T"/><lb
  n="0891a15" ed="T"/><lb
  n="0891a16" ed="T"/><lb
- n="0891a17" ed="T"/><div type="jing" level="1">
-<ab type="juan" subtype="open">佛為首迦長者說業報差別經</ab><lb
+ n="0891a17" ed="T"/><div type='jing' level='1'>
+<ab type='juan' subtype='open'>佛為首迦長者說業報差別經</ab><lb
  n="0891a18" ed="T"/><lb
  n="0891a19" ed="T"/><byline>隋洋川郡守瞿曇法智譯</byline><lb
- n="0891a20" ed="T"/><ab type="prose">如是我聞：一時佛住舍衛國祇樹給孤獨園。<lb
+ n="0891a20" ed="T"/><ab type='prose'>如是我聞：一時佛住舍衛國祇樹給孤獨園。<lb
  n="0891a21" ed="T"/>爾時佛告忉提耶子首迦長者言：「首迦長<lb
  n="0891a22" ed="T"/>者！我當為汝說善惡業報差別法門。汝當諦<lb
  n="0891a23" ed="T"/>聽，善思念之！」是時首迦即白佛言：「唯然，世<lb
@@ -272,11 +272,11 @@
  n="0893c10" ed="T"/>等罪，暫入地獄，即得解脫。」於是世尊即說偈<lb
  n="0893c11" ed="T"/>言：<lb
  n="0893c12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「若人造重罪，　　作已深自責，　　<lb
  n="0893c13" ed="T"/>懺悔更不造，　　能拔根本業。　　
 </ab><lb
- n="0893c14" ed="T"/><ab type="prose">「復有業作而不集：若有眾生身、口、意等造諸<lb
+ n="0893c14" ed="T"/><ab type='prose'>「復有業作而不集：若有眾生身、口、意等造諸<lb
  n="0893c15" ed="T"/>惡業，造已怖畏，慙愧遠離，深自悔責，更不重<lb
  n="0893c16" ed="T"/>造，是名作而不集。「復有業集而不作：若有眾<lb
  n="0893c17" ed="T"/>生自不作業，以惡心故，勸人行惡，是名集而<lb
@@ -429,5 +429,5 @@
  n="0895b19" ed="T"/>故，默然受請。爾時首迦聞佛所說，心大歡<lb
  n="0895b20" ed="T"/>喜，頂禮而退。<lb
  n="0895b21" ed="T"/>
-</ab><ab type="juan" subtype="close">佛為首迦長者說業報差別經</ab></div>
+</ab><ab type='juan' subtype='close'>佛為首迦長者說業報差別經</ab></div>
 </body></text></TEI>

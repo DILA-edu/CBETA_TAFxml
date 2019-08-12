@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T13</biblScope>
                     <idno type="Taisho">T13n0423</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0959b15" ed="T"/><lb
  n="0959b16" ed="T"/><lb
  n="0959b17" ed="T"/>
-<ab type="juan" subtype="open">僧伽吒經卷第一</ab><lb
+<ab type='juan' subtype='open'>僧伽吒經卷第一</ab><lb
  n="0959b18" ed="T"/><lb
  n="0959b19" ed="T"/><byline>元魏優禪尼國王子月婆首那譯</byline><lb
- n="0959b20" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時婆伽婆，在王舍城靈鷲山中，<lb
+ n="0959b20" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時婆伽婆，在王舍城靈鷲山中，<lb
  n="0959b21" ed="T"/>共摩訶比丘僧二萬二千人俱，其名曰：慧命<lb
  n="0959b22" ed="T"/>阿若憍陳如、慧命摩訶謨伽略、慧命舍利子、<lb
  n="0959b23" ed="T"/>慧命摩訶迦葉、慧命羅睺羅、慧命婆俱羅、<lb
@@ -194,7 +194,7 @@
  n="0961a19" ed="T"/>勇菩提薩埵摩訶薩埵白佛言：「世尊！大苦，大<lb
  n="0961a20" ed="T"/>苦！我不能聞。」爾時世尊而說頌曰：<lb
  n="0961a21" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「何故不能聞？　　此語甚可怖！　　<lb
  n="0961a22" ed="T"/>地獄為大苦，　　眾生受苦痛。　　<lb
  n="0961a23" ed="T"/>若造善業者，　　則有樂果報；　　<lb
@@ -214,7 +214,7 @@
  n="0961b08" ed="T"/>隨所受生處，　　常念行布施；　　<lb
  n="0961b09" ed="T"/>如是，一切勇！　　施佛得福深。」　　
 </ab><lb
- n="0961b10" ed="T"/><ab type="prose">爾時，一切勇菩提薩埵摩訶薩埵白佛陀言：<lb
+ n="0961b10" ed="T"/><ab type='prose'>爾時，一切勇菩提薩埵摩訶薩埵白佛陀言：<lb
  n="0961b11" ed="T"/>「世尊！云何修佛智慧？云何聞此法門增長善<lb
  n="0961b12" ed="T"/>根？」佛告一切勇菩提薩埵：「若有人供養六十<lb
  n="0961b13" ed="T"/>二億恒河沙諸佛，施諸樂具；若復聞此法門<lb
@@ -236,7 +236,7 @@
  n="0961b29" ed="T"/>一切勇菩提薩埵問佛言：「世尊！若讀誦者得<pb n="0961c" ed="T" id="T13.0423.0961c"/><lb
  n="0961c01" ed="T"/>幾所福？」爾時世尊說頌答曰：<lb
  n="0961c02" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「讀誦四句偈，　　得此最勝福；　　<lb
  n="0961c03" ed="T"/>如八十四恒，　　諸佛所說法。　　<lb
  n="0961c04" ed="T"/>讀誦此法門，　　得如是福德；　　<lb
@@ -246,31 +246,31 @@
  n="0961c08" ed="T"/>善說此法門，　　而無有窮盡；　　<lb
  n="0961c09" ed="T"/>諸佛難值遇，　　此法亦如是。」　　
 </ab><lb
- n="0961c10" ed="T"/><ab type="prose">爾時，八十四億天子至於佛所，合掌頂禮白<lb
+ n="0961c10" ed="T"/><ab type='prose'>爾時，八十四億天子至於佛所，合掌頂禮白<lb
  n="0961c11" ed="T"/>佛言：「善哉！世尊！如是法藏願住閻浮提。」爾<lb
  n="0961c12" ed="T"/>時，復有十八千億尼揵子，來詣佛所白佛言：<lb
  n="0961c13" ed="T"/>「勝也！沙門瞿曇！」佛告尼揵：「如來常勝；汝等<lb
  n="0961c14" ed="T"/>住顛倒，云何見汝等勝？汝無勝也！汝等善<lb
  n="0961c15" ed="T"/>聽！今為利益汝等，為汝等說。」<lb
  n="0961c16" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「凡夫無慧樂，　　何處得有勝？　　<lb
  n="0961c17" ed="T"/>不知於正道，　　云何得有勝？　　<lb
  n="0961c18" ed="T"/>我視眾生道，　　以甚深佛眼。」　　
 </ab><lb
- n="0961c19" ed="T"/><ab type="prose">爾時，尼揵子於世尊所心生瞋恚。爾時，帝釋<lb
+ n="0961c19" ed="T"/><ab type='prose'>爾時，尼揵子於世尊所心生瞋恚。爾時，帝釋<lb
  n="0961c20" ed="T"/>捉金剛杵，以手摩之用擬尼犍。時十八千億<lb
  n="0961c21" ed="T"/>諸尼犍子，惶怖苦惱悲泣啼哭；如來隱形令<lb
  n="0961c22" ed="T"/>其不見。爾時，諸尼揵子不見如來，悲泣頌曰：<lb
  n="0961c23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「父母及兄弟，　　無能救濟者。　　<lb
  n="0961c24" ed="T"/>見曠野大澤，　　空無人行路；　　<lb
  n="0961c25" ed="T"/>彼處不見水，　　亦不見樹陰，　　<lb
  n="0961c26" ed="T"/>亦不見人眾，　　無伴獨受苦；　　<lb
  n="0961c27" ed="T"/>彼受諸苦惱，　　由不見如來。」　　
 </ab><lb
- n="0961c28" ed="T"/><ab type="prose">時諸尼犍從座而起，右膝著地出大聲言：「如<lb
+ n="0961c28" ed="T"/><ab type='prose'>時諸尼犍從座而起，右膝著地出大聲言：「如<lb
  n="0961c29" ed="T"/>來哀愍願見救濟，我等歸依佛。」爾時，世尊即<pb n="0962a" ed="T" id="T13.0423.0962a"/><lb
  n="0962a01" ed="T"/>時微笑，告一切勇菩提薩埵摩訶薩埵言：「善<lb
  n="0962a02" ed="T"/>男子！汝往外道尼犍子所，為其說法。」爾時，一<lb
@@ -448,7 +448,7 @@
  n="0963c29" ed="T"/>能救我？』作如是念：『我當入山自滅其身，無<pb n="0964a" ed="T" id="T13.0423.0964a"/><lb
  n="0964a01" ed="T"/>人救我。』爾時彼人而說偈言：<lb
  n="0964a02" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『我造不善業，　　猶如燋木柱；　　<lb
  n="0964a03" ed="T"/>今世不莊嚴，　　他世亦如是。　　<lb
  n="0964a04" ed="T"/>室內不莊嚴，　　在外亦如是；　　<lb
@@ -473,7 +473,7 @@
  n="0964a23" ed="T"/>仙人聞告言：　　『汝坐暫時聽，　　<lb
  n="0964a24" ed="T"/>驚怖苦不安，　　當悔眾惡業。』　　
 </ab><lb
- n="0964a25" ed="T"/><ab type="prose">「仙人告言：『我為施汝食，汝可食之。愁憂、苦<lb
+ n="0964a25" ed="T"/><ab type='prose'>「仙人告言：『我為施汝食，汝可食之。愁憂、苦<lb
  n="0964a26" ed="T"/>惱、飢渴、恐怖世間無歸，我施汝食，汝當食之，<lb
  n="0964a27" ed="T"/>然後我當為汝說法，令汝罪業悉得消滅。』彼<lb
  n="0964a28" ed="T"/>食訖已須臾澡手，繞仙人已前面𧿟跪。仙人<lb
@@ -491,14 +491,14 @@
  n="0964b11" ed="T"/>言：『火燒之人誰能為其說法？唯大悲者乃能<lb
  n="0964b12" ed="T"/>說耳！』<lb
  n="0964b13" ed="T"/>
-</ab><ab type="juan" subtype="close">僧伽吒經卷第一</ab><lb
+</ab><ab type='juan' subtype='close'>僧伽吒經卷第一</ab><lb
  n="0964b14" ed="T"/><lb
  n="0964b15" ed="T"/><lb
  n="0964b16" ed="T"/>
-<ab type="juan" subtype="open">僧伽吒經卷第二</ab><lb
+<ab type='juan' subtype='open'>僧伽吒經卷第二</ab><lb
  n="0964b17" ed="T"/><lb
  n="0964b18" ed="T"/><byline>元魏優禪尼國王子月婆首那譯</byline><lb
- n="0964b19" ed="T"/><ab type="prose">「爾時，仙人告彼人言：『乃往古昔無數阿僧祇<lb
+ n="0964b19" ed="T"/><ab type='prose'>「爾時，仙人告彼人言：『乃往古昔無數阿僧祇<lb
  n="0964b20" ed="T"/>劫，時有國王名曰淨月，如法治世。善男子！<lb
  n="0964b21" ed="T"/>時淨月王，生一太子。時淨月王，召諸占相<lb
  n="0964b22" ed="T"/>婆羅門等，而問之言：「今此童子有何等相？」<lb
@@ -901,14 +901,14 @@
  n="0969a13" ed="T"/>藏。」佛讚藥上菩提薩埵言：「善哉，善哉！善男<lb
  n="0969a14" ed="T"/>子！佛問此義，汝善解說。」<lb
  n="0969a15" ed="T"/>
-</ab><ab type="juan" subtype="close">僧伽吒經卷第二</ab><lb
+</ab><ab type='juan' subtype='close'>僧伽吒經卷第二</ab><lb
  n="0969a16" ed="T"/><lb
  n="0969a17" ed="T"/><lb
  n="0969a18" ed="T"/>
-<ab type="juan" subtype="open">僧伽吒經卷第三</ab><lb
+<ab type='juan' subtype='open'>僧伽吒經卷第三</ab><lb
  n="0969a19" ed="T"/><lb
  n="0969a20" ed="T"/><byline>元魏優禪尼國王子月婆首那譯</byline><lb
- n="0969a21" ed="T"/><ab type="prose">爾時，藥上菩提薩埵摩訶薩埵白佛言：「世尊！<lb
+ n="0969a21" ed="T"/><ab type='prose'>爾時，藥上菩提薩埵摩訶薩埵白佛言：「世尊！<lb
  n="0969a22" ed="T"/>何因緣故如來出世？」佛告藥上菩提薩埵言：<lb
  n="0969a23" ed="T"/>「善男子！為令眾生多聞具足，是故如來出現<lb
  n="0969a24" ed="T"/>於世。如來出世開甘露法，若如來出世則知<lb
@@ -1026,7 +1026,7 @@
  n="0970b20" ed="T"/>言：『汝可治國而居王位。』爾時其人，為諸臣<lb
  n="0970b21" ed="T"/>眾，而說偈言：<lb
  n="0970b22" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『我不求王位，　　不求世財寶；　　<lb
  n="0970b23" ed="T"/>心懷無上願，　　願成二足尊。　　<lb
  n="0970b24" ed="T"/>得寂滅涅槃，　　至彼成如來；　　<lb
@@ -1034,7 +1034,7 @@
  n="0970b26" ed="T"/>往昔作不善，　　令我入王獄；　　<lb
  n="0970b27" ed="T"/>獄縛受諸苦，　　罪報悉已盡。』　　
 </ab><lb
- n="0970b28" ed="T"/><ab type="prose">「爾時，有三萬三千高座，一一高座高二十五<lb
+ n="0970b28" ed="T"/><ab type='prose'>「爾時，有三萬三千高座，一一高座高二十五<lb
  n="0970b29" ed="T"/>由旬，一高座上有二十五億雞而在其上，以<pb n="0970c" ed="T" id="T13.0423.0970c"/><lb
  n="0970c01" ed="T"/>金為嘴，七寶羽翼，出人音聲告彼王言：『大<lb
  n="0970c02" ed="T"/>王不善，不善斫伐諸樹，以此罪業必入惡道。<lb
@@ -1155,7 +1155,7 @@
  n="0972a01" ed="T"/>眾生拔令解脫。」<lb
  n="0972a02" ed="T"/>爾時諸天，於虛空中，而說偈言：<lb
  n="0972a03" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「最勝好福田，　　一切田中勝，　　<lb
  n="0972a04" ed="T"/>世間無上尊。　　增長諸佛子，　　<lb
  n="0972a05" ed="T"/>佛田最勝田，　　能除諸怖畏。　　<lb
@@ -1167,14 +1167,14 @@
  n="0972a11" ed="T"/>閉諸地獄門，　　及畜生、餓鬼；　　<lb
  n="0972a12" ed="T"/>此世得安樂，　　他世亦安樂。」　　
 </ab><lb
- n="0972a13" ed="T"/><ab type="prose">爾時如來，即時微笑而說偈言：<lb
+ n="0972a13" ed="T"/><ab type='prose'>爾時如來，即時微笑而說偈言：<lb
  n="0972a14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「善哉！見善人，　　善哉！見佛陀，　　<lb
  n="0972a15" ed="T"/>善哉！聞法者，　　善哉！能敬僧，　　<lb
  n="0972a16" ed="T"/>善哉！此法門，　　滅除一切惡。」　　
 </ab><lb
- n="0972a17" ed="T"/><ab type="prose">爾時，藥上菩提薩埵摩訶薩埵白佛言：「世尊！<lb
+ n="0972a17" ed="T"/><ab type='prose'>爾時，藥上菩提薩埵摩訶薩埵白佛言：「世尊！<lb
  n="0972a18" ed="T"/>何因緣故如來微笑？若無因緣，如來終不現<lb
  n="0972a19" ed="T"/>希有相。」佛告藥上：「善男子！汝見此等少眾<lb
  n="0972a20" ed="T"/>生不？」藥上白佛言：「世尊！唯然已見。」佛告<lb
@@ -1203,14 +1203,14 @@
  n="0972b14" ed="T"/>已見。」佛告藥上：「此諸眾生離邪婬故，必得<lb
  n="0972b15" ed="T"/>諸陀羅尼，必得具足一切諸法。」<lb
  n="0972b16" ed="T"/>
-</ab><ab type="juan" subtype="close">僧伽吒經卷第三</ab><lb
+</ab><ab type='juan' subtype='close'>僧伽吒經卷第三</ab><lb
  n="0972b17" ed="T"/><lb
  n="0972b18" ed="T"/><lb
  n="0972b19" ed="T"/>
-<ab type="juan" subtype="open">僧伽吒經卷第四</ab><lb
+<ab type='juan' subtype='open'>僧伽吒經卷第四</ab><lb
  n="0972b20" ed="T"/><lb
  n="0972b21" ed="T"/><byline>元魏優禪尼國王子月婆首那譯</byline><lb
- n="0972b22" ed="T"/><ab type="prose">爾時，藥上菩提薩埵摩訶薩埵白佛言：「世尊！<lb
+ n="0972b22" ed="T"/><ab type='prose'>爾時，藥上菩提薩埵摩訶薩埵白佛言：「世尊！<lb
  n="0972b23" ed="T"/>以何方便，令諸眾生悉聞正法？」佛告藥上菩<lb
  n="0972b24" ed="T"/>提薩埵摩訶薩埵言：「善男子！有諸眾生我說<lb
  n="0972b25" ed="T"/>生苦，而不聽受老苦、病苦、憂悲之苦、怨憎<lb
@@ -1254,15 +1254,15 @@
  n="0973a05" ed="T"/>丈夫造作如是不善之業』「爾時法王說偈告<lb
  n="0973a06" ed="T"/>曰：<lb
  n="0973a07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『見如來出世，　　聞擊法鼓音；　　<lb
  n="0973a08" ed="T"/>見演說法時，　　寂滅至涅槃。　　<lb
  n="0973a09" ed="T"/>見於多眾生，　　作福者甚少；　　<lb
  n="0973a10" ed="T"/>福能後世樂，　　何故而不作？』　　
 </ab><lb
- n="0973a11" ed="T"/><ab type="prose">「爾時，彼人以偈答法王言：<lb
+ n="0973a11" ed="T"/><ab type='prose'>「爾時，彼人以偈答法王言：<lb
  n="0973a12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『我愚癡無智，　　親近惡知識；　　<lb
  n="0973a13" ed="T"/>造作不善業，　　由欲迷於心；　　<lb
  n="0973a14" ed="T"/>我以多習欲，　　今受苦痛報。　　<lb
@@ -1360,11 +1360,11 @@
  n="0974a19" ed="T"/>世尊轉法輪；　　如來淨音聲，　　<lb
  n="0974a20" ed="T"/>說戒定智慧。』」　　
 </ab><lb
- n="0974a21" ed="T"/><ab type="prose">爾時，世尊復告藥上菩提薩埵摩訶薩埵言：<lb
+ n="0974a21" ed="T"/><ab type='prose'>爾時，世尊復告藥上菩提薩埵摩訶薩埵言：<lb
  n="0974a22" ed="T"/>「如是，如是！惡行眾生命終之後，受諸苦惱，無<lb
  n="0974a23" ed="T"/>救濟者、善果報者。今說伽他：<lb
  n="0974a24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「造惡不善業，　　必入於地獄，　　<lb
  n="0974a25" ed="T"/>吞噉熱鐵丸，　　飲於沸融銅；　　<lb
  n="0974a26" ed="T"/>雨火灑其身，　　遍身體火燒；　　<lb
@@ -1382,7 +1382,7 @@
  n="0974b09" ed="T"/>聽此法門者，　　必作無上尊；　　<lb
  n="0974b10" ed="T"/>具世尊十號，　　寂滅心相應。」　　
 </ab><lb
- n="0974b11" ed="T"/><ab type="prose">爾時，藥上菩提薩埵摩訶薩埵白佛言：「世尊！<lb
+ n="0974b11" ed="T"/><ab type='prose'>爾時，藥上菩提薩埵摩訶薩埵白佛言：「世尊！<lb
  n="0974b12" ed="T"/>何因緣故大地震動？」爾時，世尊告藥上菩提<lb
  n="0974b13" ed="T"/>薩埵言：「汝觀何故大地震動？」爾時藥上觀四<lb
  n="0974b14" ed="T"/>方時，見下方界有二十億眾生從地踊出，見<lb
@@ -1579,5 +1579,5 @@
  n="0976c04" ed="T"/>生，一切天人世間，阿修羅、揵闥婆，聞佛所<lb
  n="0976c05" ed="T"/>說皆大歡喜。<lb
  n="0976c06" ed="T"/>
-</ab><ab type="juan" subtype="close">僧伽吒經卷第四</ab></div>
+</ab><ab type='juan' subtype='close'>僧伽吒經卷第四</ab></div>
 </body></text></TEI>

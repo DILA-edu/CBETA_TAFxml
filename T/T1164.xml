@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1164</idno>
                 </bibl>
@@ -44,12 +44,12 @@
  n="0669c11" ed="T"/><lb
  n="0669c12" ed="T"/><lb
  n="0669c13" ed="T"/>
-<ab type="juan" subtype="open">佛說大乘聖吉祥持世陀羅尼經</ab><lb
+<ab type='juan' subtype='open'>佛說大乘聖吉祥持世陀羅尼經</ab><lb
  n="0669c14" ed="T"/><lb
  n="0669c15" ed="T"/><byline>西天中印度摩揭陀國那爛陀寺<lb
  n="0669c16" ed="T"/>傳教大師三藏賜紫沙門臣法天<lb
  n="0669c17" ed="T"/>奉　詔譯</byline><lb
- n="0669c18" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞。一時世尊。在憍睒彌國大棘林中。<lb
+ n="0669c18" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞。一時世尊。在憍睒彌國大棘林中。<lb
  n="0669c19" ed="T"/>與大比丘眾四百五十人俱。皆是眾所知識<lb
  n="0669c20" ed="T"/>大阿羅漢。并諸菩薩摩訶薩。諸佛法眾悉來<lb
  n="0669c21" ed="T"/>集會。恭敬圍遶聽佛說法。<lb
@@ -108,7 +108,7 @@
  n="0670b16" ed="T"/>者言。我今為汝及未來世一切眾生。令得廣<lb
  n="0670b17" ed="T"/>大利益安樂。說是吉祥持世陀羅尼曰。<lb
  n="0670b18" ed="T"/></ab>
-<ab type="dharani">曩謨囉怛曩怛囉夜野曩謨<lb
+<ab type='dharani'>曩謨囉怛曩怛囉夜野曩謨<lb
  n="0670b19" ed="T"/>婆誐嚩帝嚩日囉馱囉<lb
  n="0670b20" ed="T"/>娑誐囉𡫸㗚喖灑野<lb
  n="0670b21" ed="T"/>怛他誐跢野㗚賀帝三<lb
@@ -162,24 +162,24 @@
  n="0671a23" ed="T"/>薩怛嚩麼努娑麼囉娑嚩賀<lb
  n="0671a24" ed="T"/><lb
  n="0671a25" ed="T"/></ab>
-<ab type="prose">復說吉祥持世根本明曰。<pb n="0671b" id="T20.1164.0671b" ed="T"/><lb
+<ab type='prose'>復說吉祥持世根本明曰。<pb n="0671b" id="T20.1164.0671b" ed="T"/><lb
  n="0671b01" ed="T"/></ab>
-<ab type="dharani">曩謨囉怛曩怛囉夜野唵嚩素馱嚟娑嚩賀唵<lb
+<ab type='dharani'>曩謨囉怛曩怛囉夜野唵嚩素馱嚟娑嚩賀唵<lb
  n="0671b03" ed="T"/>室哩嚩素母𡫸娑嚩賀<lb
  n="0671b04" ed="T"/></ab>
-<ab type="prose">心明曰。<lb
+<ab type='prose'>心明曰。<lb
  n="0671b05" ed="T"/></ab>
-<ab type="dharani">曩謨囉怛曩怛囉夜野唵<lb
+<ab type='dharani'>曩謨囉怛曩怛囉夜野唵<lb
  n="0671b06" ed="T"/>嚩素室哩󰽘娑縛賀<lb
  n="0671b07" ed="T"/>唵室哩嚩素麼底室里<lb
  n="0671b08" ed="T"/>󰽘娑嚩賀唵嚩素<lb
  n="0671b09" ed="T"/>娑嚩賀唵𠸪乞芻弭𠽾哆𠸪<lb
  n="0671b10" ed="T"/>𡫸嚩悉寧󰽘娑嚩賀曩謨<lb
  n="0671b11" ed="T"/>嚩日囉播拏󰽘室哩󰽘室<lb
- n="0671b12" ed="T"/>哩迦哩馱曩迦哩馱󰍕<lb
+ n="0671b12" ed="T"/>哩迦哩馱曩迦哩馱𭔞<lb
  n="0671b13" ed="T"/>迦哩娑嚩賀<lb
  n="0671b14" ed="T"/></ab>
-<ab type="prose">佛復告妙月長者言。此吉祥持世陀羅尼有<lb
+<ab type='prose'>佛復告妙月長者言。此吉祥持世陀羅尼有<lb
  n="0671b15" ed="T"/>大威德。汝等若能隨時持。誦所有一切疾病<lb
  n="0671b16" ed="T"/>饑饉夭壽之難皆不能侵。若復有人於自舍宅<lb
  n="0671b17" ed="T"/>或他人舍隨所在處。供養持金剛海大音聲<lb
@@ -243,13 +243,13 @@
  n="0672a18" ed="T"/>阿難陀敬禮佛已發。至誠心說是誐他而讚<lb
  n="0672a19" ed="T"/>歎曰。<lb
  n="0672a20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 不可思議佛世尊　　佛所說法不思議　　<lb
  n="0672a21" ed="T"/>不思議發歡喜心　　順現受報不思議　　<lb
  n="0672a22" ed="T"/>天人師智一切智　　到彼岸故離生死　　<lb
  n="0672a23" ed="T"/>證無上果成法王　　我今稱讚佛無畏　　
 </ab><lb
- n="0672a24" ed="T"/><ab type="prose">是時阿難陀說是讚已。歡喜踊躍而白佛言。<lb
+ n="0672a24" ed="T"/><ab type='prose'>是時阿難陀說是讚已。歡喜踊躍而白佛言。<lb
  n="0672a25" ed="T"/>世尊經名云何。令我云何受持。世尊告阿難<lb
  n="0672a26" ed="T"/>陀言。如汝前問。妙月長者所。得一切財寶庫<lb
  n="0672a27" ed="T"/>藏受持之法經。名依一切如來所說。名吉祥<lb
@@ -258,5 +258,5 @@
  n="0672b01" ed="T"/>一切世間天人阿素囉彥達嚩等。皆大歡喜<lb
  n="0672b02" ed="T"/>信受奉行作禮而退。<lb
  n="0672b03" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說大乘聖吉祥持世陀羅尼經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說大乘聖吉祥持世陀羅尼經</ab></div>
 </body></text></TEI>

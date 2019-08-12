@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1172</idno>
                 </bibl>
@@ -44,14 +44,14 @@
  n="0709a05" ed="T"/><lb
  n="0709a06" ed="T"/><lb
  n="0709a07" ed="T"/>
-<ab type="juan" subtype="open">金剛頂超勝三界經說文殊五<lb
+<ab type='juan' subtype='open'>金剛頂超勝三界經說文殊五<lb
  n="0709a08" ed="T"/>字真言勝相一卷</ab><lb
  n="0709a09" ed="T"/><lb
  n="0709a10" ed="T"/><byline>開府儀同三司特進試鴻臚卿肅國<lb
  n="0709a11" ed="T"/>公食邑三千戶賜紫贈司空諡大鑒<lb
  n="0709a12" ed="T"/>正號大廣智大興善寺三藏沙門<lb
  n="0709a13" ed="T"/>不空奉　詔譯</byline><lb
- n="0709a14" ed="T"/><div type="jing" level="1"><ab type="prose">爾時金剛手菩薩摩訶薩等一切菩薩。皆於<lb
+ n="0709a14" ed="T"/><div type='jing' level='1'><ab type='prose'>爾時金剛手菩薩摩訶薩等一切菩薩。皆於<lb
  n="0709a15" ed="T"/>毘盧遮那佛前。各自說心真言印。於是曼殊<lb
  n="0709a16" ed="T"/>室唎菩薩摩訶薩。從座而起白佛言。世尊我<lb
  n="0709a17" ed="T"/>今為欲利益未來一切諸有情故。速得成就<lb
@@ -74,9 +74,9 @@
  n="0709b05" ed="T"/>地三昧。我今略說少耳。知其功德無量。即說<lb
  n="0709b06" ed="T"/>五字真言曰。<lb
  n="0709b07" ed="T"/></ab>
-<ab type="dharani">阿囉跛左曩<lb
+<ab type='dharani'>阿囉跛左曩<lb
  n="0709b08" ed="T"/></ab>
-<ab type="prose">若善男子善女人。有能持此真言。纔誦一遍<lb
+<ab type='prose'>若善男子善女人。有能持此真言。纔誦一遍<lb
  n="0709b09" ed="T"/>即入如來一切法平等。一切文字亦皆平等。<lb
  n="0709b10" ed="T"/>速得成就摩訶般若。為諸弟子受此心真言<lb
  n="0709b11" ed="T"/>時。令結密印。以二手金剛縛。並建忍願屈上<lb
@@ -111,6 +111,6 @@
  n="0709c11" ed="T"/>護念速滿諸願。疾證菩提。廣如金剛頂經<lb
  n="0709c12" ed="T"/>說。<lb
  n="0709c13" ed="T"/>
-</ab><ab type="juan" subtype="close">金剛頂超勝三界經說文殊五字真言勝<lb
+</ab><ab type='juan' subtype='close'>金剛頂超勝三界經說文殊五字真言勝<lb
  n="0709c14" ed="T"/>相一卷</ab></div>
 </body></text></TEI>

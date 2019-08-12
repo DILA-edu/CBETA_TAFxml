@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n0929</idno>
                 </bibl>
@@ -39,15 +39,15 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0066b23" ed="T"/><lb
  n="0066b24" ed="T"/><lb
  n="0066b25" ed="T"/><lb
  n="0066b26" ed="T"/>
-<ab type="juan" subtype="open">淨瑠璃淨土摽</ab><lb
+<ab type='juan' subtype='open'>淨瑠璃淨土摽</ab><lb
  n="0066b27" ed="T"/><lb
- n="0066b28" ed="T"/><div type="jing" level="2"><ab type="prose">藥師瑠璃光如來。通身淺碧色。寶窟中百寶<lb
+ n="0066b28" ed="T"/><div type='jing' level='2'><ab type='prose'>藥師瑠璃光如來。通身淺碧色。寶窟中百寶<lb
  n="0066b29" ed="T"/>蓮華。師座上大空三昧。放無數光明。一一光<pb n="0066c" id="T19.0929.0066c" ed="T"/><lb
  n="0066c01" ed="T"/>中。無量分身諸佛。悉大空三昧相。右臂揚掌<lb
  n="0066c02" ed="T"/>調手開葉。左安臍下勾小指。號大寶瑠璃藥。<lb
@@ -104,7 +104,7 @@
  n="0067a24" ed="T"/>赤作羅剎像駕羊。左執鏡右執戰荼劍。或執<lb
  n="0067a25" ed="T"/>代只哩也。或云作西方。<lb
  n="0067a26" ed="T"/>第七因達羅涅哩底方帝使大將。其色黃色<lb
- n="0067a27" ed="T"/>駕󰹒。左執白拂。右執鈴令瞻也。或云作西<lb
+ n="0067a27" ed="T"/>駕𮐴。左執白拂。右執鈴令瞻也。或云作西<lb
  n="0067a28" ed="T"/>方北方。<lb
  n="0067a29" ed="T"/>第八跋伊羅傳瞢荼方狼龍大將。其色白錯<pb n="0067b" id="T19.0929.0067b" ed="T"/><lb
  n="0067b01" ed="T"/>駕金翅鳥。左執如意珠。右執金剛鐸。或云作<lb
@@ -123,7 +123,7 @@
  n="0067b14" ed="T"/>佛前內護作迦陵頻伽白鵠。此鳥諸上首五<lb
  n="0067b15" ed="T"/>之所說法音悉同音惕說。故號共命鳥也。淨<lb
  n="0067b16" ed="T"/>瑠璃土可作消息已也。</ab></div><lb
- n="0067b17" ed="T"/><div type="w" level="2"><ab type="prose">端題下云　元睿山本<lb
+ n="0067b17" ed="T"/><div type='w' level='2'><ab type='prose'>端題下云　元睿山本<lb
  n="0067b18" ed="T"/>　　　　　　　　二校了<lb
  n="0067b19" ed="T"/>　　長治二秊六月二十五日奉寫畢</ab></div></div>
 </body></text></TEI>

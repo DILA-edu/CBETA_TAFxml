@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n1010</idno>
                 </bibl>
@@ -39,18 +39,18 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0679c02" ed="T"/><lb
  n="0679c03" ed="T"/><lb
  n="0679c04" ed="T"/><lb
  n="0679c05" ed="T"/>
-<ab type="juan" subtype="open">佛說出生無邊門陀羅尼儀軌</ab><lb
+<ab type='juan' subtype='open'>佛說出生無邊門陀羅尼儀軌</ab><lb
  n="0679c06" ed="T"/><lb
  n="0679c07" ed="T"/><byline>不空三藏譯</byline><lb
- n="0679c08" ed="T"/><div type="jing" level="2"><ab type="prose">真言如經。<lb
+ n="0679c08" ed="T"/><div type='jing' level='2'><ab type='prose'>真言如經。<lb
  n="0679c09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 修行此出生　　無邊門總持　　<lb
  n="0679c10" ed="T"/>轉目三種業　　依三祕密門　　<lb
  n="0679c11" ed="T"/>所謂三金剛　　身印語真言　　<lb
@@ -73,7 +73,7 @@
  n="0679c28" ed="T"/>遍身草綠色　　復於身支分　　<lb
  n="0679c29" ed="T"/>安布八字門　　
 </ab><pb n="0680a" id="T19.1010.0680a" ed="T"/><lb
- n="0680a01" ed="T"/><ab type="verse">
+ n="0680a01" ed="T"/><ab type='verse'>
 􄖵跛字住於心　　􄙊攞字成毫相　　<lb
  n="0680a02" ed="T"/>􄙖嚩字置舌端　　􄒶惹字置於頭　　<lb
  n="0680a03" ed="T"/>碧色成頂相　　􄑀迦字置慧掌　　<lb
@@ -92,8 +92,8 @@
  n="0680a16" ed="T"/>結集決擇竟　　
 </ab></div><lb
  n="0680a17" ed="T"/>
-<ab type="juan" subtype="close">出生無邊門陀羅尼儀軌</ab><lb
- n="0680a18" ed="T"/><div type="w" level="2"><ab type="prose">􄖵􄙊􄙖􄒶􄑀􄕻􄙢􄚴<lb
+<ab type='juan' subtype='close'>出生無邊門陀羅尼儀軌</ab><lb
+ n="0680a18" ed="T"/><div type='w' level='2'><ab type='prose'>􄖵􄙊􄙖􄒶􄑀􄕻􄙢􄚴<lb
  n="0680a21" ed="T"/>元祿十六年正月二十九日以淨嚴上人<lb
  n="0680a22" ed="T"/>之本再校了　　　　　　　　　尊教</ab></div></div>
 </body></text></TEI>

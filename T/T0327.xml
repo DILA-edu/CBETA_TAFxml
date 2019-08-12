@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T12</biblScope>
                     <idno type="Taisho">T12n0327</idno>
                 </bibl>
@@ -43,11 +43,11 @@
  n="0043b07" ed="T"/><lb
  n="0043b08" ed="T"/><lb
  n="0043b09" ed="T"/>
-<ab type="juan" subtype="open">發覺淨心經卷上</ab><lb
+<ab type='juan' subtype='open'>發覺淨心經卷上</ab><lb
  n="0043b10" ed="T"/><lb
  n="0043b11" ed="T"/><byline>隋北印度健陀羅國三藏<lb
  n="0043b12" ed="T"/>闍那崛多隋言志德　譯</byline><lb
- n="0043b13" ed="T"/><div type="jing" level="1"><ab type="prose">爾時婆伽婆，復於一時遊波羅㮈城諸仙住<lb
+ n="0043b13" ed="T"/><div type='jing' level='1'><ab type='prose'>爾時婆伽婆，復於一時遊波羅㮈城諸仙住<lb
  n="0043b14" ed="T"/>處鹿野苑中，與大比丘眾足滿千人，復有五<lb
  n="0043b15" ed="T"/>百諸菩薩眾，於其眾中，多有諸根未成熟者，<lb
  n="0043b16" ed="T"/>有減少善根者，有諸業障者。爾時彼處諸菩<lb
@@ -172,11 +172,11 @@
  n="0044c19" ed="T"/>百歲時，不損不害當得免脫。」爾時世尊欲重<lb
  n="0044c20" ed="T"/>宣此義，而說偈言：<lb
  n="0044c21" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「莫於他邊見過失，　　勿說他人是與非，　　<lb
  n="0044c22" ed="T"/>不著他家淨活命，　　諸所惡言當棄捨。　　
 </ab><lb
- n="0044c23" ed="T"/><ab type="prose">「復有四法，行菩薩乘富伽羅等，後五百歲法<lb
+ n="0044c23" ed="T"/><ab type='prose'>「復有四法，行菩薩乘富伽羅等，後五百歲法<lb
  n="0044c24" ed="T"/>欲壞時、比丘壞時，無損無害而得免脫。何<lb
  n="0044c25" ed="T"/>等為四？所謂不相應眾生應當棄捨；遠離大<lb
  n="0044c26" ed="T"/>眾；常修蘭若；降伏己身與此相應。彌勒！行菩<lb
@@ -184,11 +184,11 @@
  n="0044c28" ed="T"/>中法欲滅時，能於自身不損不害，安隱解脫。」<lb
  n="0044c29" ed="T"/>爾時世尊而說偈言：<pb n="0045a" id="T12.0327.0045a" ed="T"/><lb
  n="0045a01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「棄捨眾閙極遠離，　　無法比丘勿親近，　　<lb
  n="0045a02" ed="T"/>當修蘭若佛所讚，　　不著利故得涅槃。　　
 </ab><lb
- n="0045a03" ed="T"/><ab type="prose">「是故，彌勒！菩薩於後五百歲時，欲自不損不<lb
+ n="0045a03" ed="T"/><ab type='prose'>「是故，彌勒！菩薩於後五百歲時，欲自不損不<lb
  n="0045a04" ed="T"/>害而得解脫，一切業障欲得免者，勿親穢閙，<lb
  n="0045a05" ed="T"/>應住蘭若空閑園林，離不相應諸眾生等，常<lb
  n="0045a06" ed="T"/>自省察莫求他過，愛樂默然，當與般若波羅<lb
@@ -471,7 +471,7 @@
  n="0048a22" ed="T"/>世間言說，若菩薩觀如是等已，樂獨行而不<lb
  n="0048a23" ed="T"/>疲倦。」爾時世尊，欲重宣此義，而說偈言：<lb
  n="0048a24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「捨戒遠離於寂靜，　　若有喜樂世間話，　　<lb
  n="0048a25" ed="T"/>彼雜染著向破戒。　　復有如是諸過患，　　<lb
  n="0048a26" ed="T"/>調戲多笑及分別。　　彼有如是世間話，　　<lb
@@ -516,14 +516,14 @@
  n="0048c07" ed="T"/>勤劬歡喜踊躍已，　　猶如犀牛住空閑。」　　
 </ab><lb
  n="0048c08" ed="T"/>
-<ab type="juan" subtype="close">發覺淨心經卷上</ab><lb
+<ab type='juan' subtype='close'>發覺淨心經卷上</ab><lb
  n="0048c09" ed="T"/><lb
  n="0048c10" ed="T"/><lb
  n="0048c11" ed="T"/>
-<ab type="juan" subtype="open">發覺淨心經卷下</ab><lb
+<ab type='juan' subtype='open'>發覺淨心經卷下</ab><lb
  n="0048c12" ed="T"/><lb
  n="0048c13" ed="T"/><byline>隋北印度健陀羅國三藏闍那崛多譯</byline><lb
- n="0048c14" ed="T"/><ab type="prose">爾時彌勒菩薩白佛言：「希有，世尊！世間人聚<lb
+ n="0048c14" ed="T"/><ab type='prose'>爾時彌勒菩薩白佛言：「希有，世尊！世間人聚<lb
  n="0048c15" ed="T"/>集言話，乃有如此多濁過患，無有功德和合。<lb
  n="0048c16" ed="T"/>此世間言話者，但增長諸煩惱，於白法中<lb
  n="0048c17" ed="T"/>當作虛妄。世尊！何有智者菩薩求功德者，<lb
@@ -547,7 +547,7 @@
  n="0049a06" ed="T"/>等二十諸患，唯信知音聲，不觀正義者。」爾時<lb
  n="0049a07" ed="T"/>世尊，欲重宣此義，而說偈言：<lb
  n="0049a08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「多聞如醉無敬心，　　勞亂言語依倚住，　　<lb
  n="0049a09" ed="T"/>忘失正念無正智，　　樂於多言如是患。　　<lb
  n="0049a10" ed="T"/>於內思惟甚為遠，　　身無寂定心亦然，　　<lb
@@ -589,7 +589,7 @@
  n="0049b17" ed="T"/>是故遠離無利言，　　欲求真如勝義者，　　<lb
  n="0049b18" ed="T"/>應須親近最勝法，　　當住於此證勝道。」　　
 </ab><lb
- n="0049b19" ed="T"/><ab type="prose">爾時彌勒菩薩白佛言：「希有，世尊！乃能善說<lb
+ n="0049b19" ed="T"/><ab type='prose'>爾時彌勒菩薩白佛言：「希有，世尊！乃能善說<lb
  n="0049b20" ed="T"/>多言過患。世尊！思惟正義有大功德。世尊！若<lb
  n="0049b21" ed="T"/>欲求堅義者，菩薩欲著刀鎧甲仗，於虛偽<lb
  n="0049b22" ed="T"/>語言應不樂習。世尊！菩薩云何樂於睡眠？當<lb
@@ -607,7 +607,7 @@
  n="0049c05" ed="T"/>二十諸患。若菩薩觀時，當樂發精進。」爾時世<lb
  n="0049c06" ed="T"/>尊，欲重宣此義，而說偈言：<lb
  n="0049c07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「身體沈重無寂定，　　懶墮懈怠形不端，　　<lb
  n="0049c08" ed="T"/>皮膚穢惡不清淨，　　若樂睡眠隨順行。　　<lb
  n="0049c09" ed="T"/>涕唾風等及黃癊，　　彼於身體多饒有，　　<lb
@@ -649,7 +649,7 @@
  n="0050a16" ed="T"/>故無放逸與恐怖，　　發於精進禪定心，　　<lb
  n="0050a17" ed="T"/>捨於諸患離睡眠，　　守護菩提及種子。」　　
 </ab><lb
- n="0050a18" ed="T"/><ab type="prose">爾時彌勒菩薩白佛言：「世尊！如來為諸菩薩<lb
+ n="0050a18" ed="T"/><ab type='prose'>爾時彌勒菩薩白佛言：「世尊！如來為諸菩薩<lb
  n="0050a19" ed="T"/>應當見，若聞如是多睡眠諸患已，然當不能<lb
  n="0050a20" ed="T"/>斷，亦不能生厭離心。世尊！何者菩薩欲當學<lb
  n="0050a21" ed="T"/>信心，當欲成阿耨多羅三藐三菩提而生懈<lb
@@ -674,7 +674,7 @@
  n="0050b11" ed="T"/>菩薩樂造諸業者，當有如是等二十諸惡過<lb
  n="0050b12" ed="T"/>患。」爾時世尊，欲重宣此義，而說偈言：<lb
  n="0050b13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「恒常住於下賤業，　　勝上之業彼最遠，　　<lb
  n="0050b14" ed="T"/>此教法中無廣大，　　營事業者有斯患。　　<lb
  n="0050b15" ed="T"/>好樂讀誦諸比丘，　　為彼輕賤不欣仰，　　<lb
@@ -716,7 +716,7 @@
  n="0050c22" ed="T"/>是故智者有方便，　　下賤之業棄捨已，　　<lb
  n="0050c23" ed="T"/>智者知已作上業，　　一切諸佛所讚歎。」　　
 </ab><lb
- n="0050c24" ed="T"/><ab type="prose">爾時彌勒菩薩白佛言：「世尊！彼諸菩薩，缺<lb
+ n="0050c24" ed="T"/><ab type='prose'>爾時彌勒菩薩白佛言：「世尊！彼諸菩薩，缺<lb
  n="0050c25" ed="T"/>少智慧心意狹劣，正等勤勞，捨最勝法，而作<lb
  n="0050c26" ed="T"/>小業。」佛言：「彌勒！我今告汝，我今勅汝。彼等<lb
  n="0050c27" ed="T"/>菩薩不依佛教出家故，即不能滅，無禪定，無<lb
@@ -759,7 +759,7 @@
  n="0051b06" ed="T"/>彌勒！如是等比說二十種諸患，為多戲論菩<lb
  n="0051b07" ed="T"/>薩。」爾時世尊，欲重宣此義，而說偈言：<lb
  n="0051b08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「現法得苦心不樂，　　遠於忍辱助瞋恚，　　<lb
  n="0051b09" ed="T"/>彼彼怨家常歡欣，　　行戲論者有斯患。　　<lb
  n="0051b10" ed="T"/>惡黑魔羅為彼喜，　　魔家眷屬亦復然，　　<lb
@@ -797,7 +797,7 @@
  n="0051c13" ed="T"/>若有戲論多諸患，　　無戲論者德難量，　　<lb
  n="0051c14" ed="T"/>我能示現如是等，　　欲得菩提當生忍。」　　
 </ab><lb
- n="0051c15" ed="T"/><ab type="prose">爾時彌勒菩薩白佛言：「希有，世尊！乃至如來<lb
+ n="0051c15" ed="T"/><ab type='prose'>爾時彌勒菩薩白佛言：「希有，世尊！乃至如來<lb
  n="0051c16" ed="T"/>說此發覺諸煩惱。世尊！頗有此等諸菩薩，<lb
  n="0051c17" ed="T"/>於後聞此如是發覺諸煩惱，當作厭以不？於<lb
  n="0051c18" ed="T"/>煩惱行中當能斷以不？」佛告彌勒菩薩言：「彌<lb
@@ -836,5 +836,5 @@
  n="0052a22" ed="T"/>行諸善男子等，皆悉滅彼業障，歡喜奉行作<lb
  n="0052a23" ed="T"/>禮而去。</ab></div><lb
  n="0052a24" ed="T"/>
-<ab type="juan" subtype="close">發覺淨心經卷下</ab>
+<ab type='juan' subtype='close'>發覺淨心經卷下</ab>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1078</idno>
                 </bibl>
@@ -39,25 +39,25 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0186b04" ed="T"/><lb
- n="0186b05" ed="T"/><div type="jing" level="2"><lb
+ n="0186b05" ed="T"/><div type='jing' level='2'><lb
  n="0186b06" ed="T"/>
-<ab type="juan" subtype="open">七佛俱胝佛母心大准提陀羅尼<lb
+<ab type='juan' subtype='open'>七佛俱胝佛母心大准提陀羅尼<lb
  n="0186b07" ed="T"/>法</ab><lb
  n="0186b08" ed="T"/><lb
  n="0186b09" ed="T"/><byline>唐善無畏奉　詔譯</byline><lb
- n="0186b10" ed="T"/><ab type="prose">　　獨部別行<lb
+ n="0186b10" ed="T"/><ab type='prose'>　　獨部別行<lb
  n="0186b11" ed="T"/></ab>
-<ab type="dharani">􄖩那􄗰麼􄙺颯􆻤哆􈁀喃去聲􄙺三􄢦藐􇩀三􈎭勃􇧺佗􄑈俱<lb
+<ab type='dharani'>􄖩那􄗰麼􄙺颯􆻤哆􈁀喃去聲􄙺三􄢦藐􇩀三􈎭勃􇧺佗􄑈俱<lb
  n="0186b12" ed="T"/><lb
  n="0186b13" ed="T"/>􄓜胝􈁀喃去聲􄕗怛􇩊姪也二合􄕤他􇩂唵􄑼折􄙐戾􈇓主<lb
  n="0186b14" ed="T"/><lb
  n="0186b15" ed="T"/>􄙐戾􄑽准􇧼提􅁥娑嚩二合􄚩訶<lb
  n="0186b16" ed="T"/><lb
  n="0186b17" ed="T"/></ab>
-<ab type="prose">總攝二十五部大曼荼羅尼印。以二手無名<lb
+<ab type='prose'>總攝二十五部大曼荼羅尼印。以二手無名<lb
  n="0186b18" ed="T"/>指小指。相叉於內。二中指直竪相拄。二頭指<lb
  n="0186b19" ed="T"/>屈。附二中指第一節。二母指捻左右手無名<lb
  n="0186b20" ed="T"/>指中節。若有召請。二頭指來去。佛言此呪<lb
@@ -110,6 +110,6 @@
  n="0187a14" ed="T"/>密之此法不可說自當證知。隨意所求速得<lb
  n="0187a15" ed="T"/>成就受勝妙樂。<lb
  n="0187a16" ed="T"/>
-</ab><ab type="juan" subtype="close">七佛俱胝佛母心大準提陀羅尼法</ab></div><lb
- n="0187a17" ed="T"/><div type="w" level="2"><ab type="prose">　一校畢　　　　　　　　　　慈順</ab></div></div>
+</ab><ab type='juan' subtype='close'>七佛俱胝佛母心大準提陀羅尼法</ab></div><lb
+ n="0187a17" ed="T"/><div type='w' level='2'><ab type='prose'>　一校畢　　　　　　　　　　慈順</ab></div></div>
 </body></text></TEI>

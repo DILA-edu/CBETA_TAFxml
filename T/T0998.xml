@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n0998</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0577a17" ed="T"/><lb
  n="0577a18" ed="T"/><lb
- n="0577a19" ed="T"/><div type="jing" level="1"><lb
+ n="0577a19" ed="T"/><div type='jing' level='1'><lb
  n="0577a20" ed="T"/>
-<ab type="juan" subtype="open">佛說迴向輪經一卷</ab><lb
+<ab type='juan' subtype='open'>佛說迴向輪經一卷</ab><lb
  n="0577a21" ed="T"/><lb
  n="0577a22" ed="T"/><byline>于闐三藏尸羅達摩於北庭龍興寺譯</byline><lb
- n="0577a23" ed="T"/><ab type="prose">如是我聞。一時佛在大摩尼金剛寶山峯中。<lb
+ n="0577a23" ed="T"/><ab type='prose'>如是我聞。一時佛在大摩尼金剛寶山峯中。<lb
  n="0577a24" ed="T"/>與大菩薩眾俱。爾時世尊告金剛摩尼菩薩<lb
  n="0577a25" ed="T"/>言。佛子若有菩薩求大菩提。為欲救度一切<lb
  n="0577a26" ed="T"/>有情。已受菩薩律儀戒。學已曾發起大菩提<lb
@@ -131,10 +131,10 @@
  n="0578a17" ed="T"/>諸佛菩薩。對佛像前誦此密言滿足八遍密<lb
  n="0578a18" ed="T"/>言曰。<lb
  n="0578a19" ed="T"/></ab>
-<ab type="dharani">唵娑頗羅裟頗羅微摩那娑囉摩<lb
+<ab type='dharani'>唵娑頗羅裟頗羅微摩那娑囉摩<lb
  n="0578a20" ed="T"/>訶若縛吽<lb
  n="0578a21" ed="T"/></ab>
-<ab type="prose">誦密言已。即便隨欲。成就天妙大供養雲。一<lb
+<ab type='prose'>誦密言已。即便隨欲。成就天妙大供養雲。一<lb
  n="0578a22" ed="T"/>切佛所而得現前。若善男子或善女人。繫念<lb
  n="0578a23" ed="T"/>於佛或晝或夜。轉誦如是大迴向輪。此善男<lb
  n="0578a24" ed="T"/>子或善女人。諸罪銷滅一切煩惱漸得微薄。<lb
@@ -142,5 +142,5 @@
  n="0578a26" ed="T"/>常見佛。命終之後得生淨土。佛說是經已諸<lb
  n="0578a27" ed="T"/>菩薩眾歡喜奉行。<lb
  n="0578a28" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說迴向輪經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說迴向輪經</ab></div>
 </body></text></TEI>

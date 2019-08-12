@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T17</biblScope>
                     <idno type="Taisho">T17n0778</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0714b05" ed="T"/><lb
  n="0714b06" ed="T"/><lb
  n="0714b07" ed="T"/>
-<ab type="juan" subtype="open">佛說菩薩內習六波羅蜜經</ab><lb
+<ab type='juan' subtype='open'>佛說菩薩內習六波羅蜜經</ab><lb
  n="0714b08" ed="T"/><lb
  n="0714b09" ed="T"/><byline>後漢臨淮沙門嚴佛調譯</byline><lb
- n="0714b10" ed="T"/><div type="jing" level="1"><ab type="prose">佛言：「欲學菩薩道者，當從此始：一、數，二、隨，三、<lb
+ n="0714b10" ed="T"/><div type='jing' level='1'><ab type='prose'>佛言：「欲學菩薩道者，當從此始：一、數，二、隨，三、<lb
  n="0714b11" ed="T"/>止，四、觀，五、還，六、淨。」佛言：「一、數，為檀波羅蜜。數<lb
  n="0714b12" ed="T"/>息者，神得上天，為布施身中神，自致得須陀<lb
  n="0714b13" ed="T"/>洹、斯陀含、阿那含、阿羅漢、辟支佛，得作佛，是<lb
@@ -116,7 +116,7 @@
  n="0715a18" ed="T"/>故為有；於無而不無，是為無；於得而無所得，<lb
  n="0715a19" ed="T"/>是為得也。」<lb
  n="0715a20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 第一發意菩薩、　　第二持地菩薩、　　<lb
  n="0715a21" ed="T"/>第三應行菩薩、　　第四生貴菩薩、　　<lb
  n="0715a22" ed="T"/>第五修成菩薩、　　第六行登菩薩、　　<lb
@@ -124,5 +124,5 @@
  n="0715a24" ed="T"/>第九了生菩薩、　　第十補處菩薩。　　
 </ab></div><lb
  n="0715a25" ed="T"/>
-<ab type="juan" subtype="close">佛說菩薩內習六波羅蜜經</ab>
+<ab type='juan' subtype='close'>佛說菩薩內習六波羅蜜經</ab>
 </body></text></TEI>

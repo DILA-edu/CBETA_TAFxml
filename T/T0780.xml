@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T17</biblScope>
                     <idno type="Taisho">T17n0780</idno>
                 </bibl>
@@ -39,15 +39,15 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0715c04" ed="T"/><lb
  n="0715c05" ed="T"/><lb
  n="0715c06" ed="T"/><lb
- n="0715c07" ed="T"/><div type="xu" level="2"><head>佛說十力經<lb
+ n="0715c07" ed="T"/><div type='xu' level='2'><head>佛說十力經<lb
  n="0715c08" ed="T"/><lb
  n="0715c09" ed="T"/>大唐貞元新譯十地等經記</head><lb
- n="0715c10" ed="T"/><ab type="prose">新譯《十地經》及《迴向輪經》、《十力經等》者，即上<lb
+ n="0715c10" ed="T"/><ab type='prose'>新譯《十地經》及《迴向輪經》、《十力經等》者，即上<lb
  n="0715c11" ed="T"/>都章敬寺沙門悟空本名法界，因使罽賓，於<lb
  n="0715c12" ed="T"/>中天竺國之所得也。師本京兆雲陽人也，鄉<lb
  n="0715c13" ed="T"/>號青龍，里名嚮義，俗姓車氏，字曰奉朝，後<lb
@@ -61,7 +61,7 @@
  n="0715c21" ed="T"/>帝勅中使內侍省內寺伯賜緋魚袋張韜光，<lb
  n="0715c22" ed="T"/>將國信物，行官奉傔四十餘人，蒙恩授奉朝<lb
  n="0715c23" ed="T"/>左衛涇州四門府別將員外置同正員令，隨<lb
- n="0715c24" ed="T"/>使臣取安西路，次疎勒國，次度葱山，至楊<lb
+ n="0715c24" ed="T"/>使臣取安西路，次踈勒國，次度葱山，至楊<lb
  n="0715c25" ed="T"/>興嶺及播蜜川五赤匿國。次護蜜國，次拘<lb
  n="0715c26" ed="T"/>緯國，次葛藍國，次藍婆國，次孽和國，次烏<lb
  n="0715c27" ed="T"/>仗那國，茫誐勃國，及高頭城。<lb
@@ -77,7 +77,7 @@
  n="0716a08" ed="T"/>云達摩䭾都，唐言以翻名為法界。時年二十<lb
  n="0716a09" ed="T"/>有七方得出家，即當肅宗文明武德大聖大<lb
  n="0716a10" ed="T"/>宣孝皇帝至德二載丁酉歲也。洎二十九於<lb
- n="0716a11" ed="T"/>迦溼彌羅國進受近圓，請文殊矢涅地，為鄔波󰇄耶鄔不羼提為<lb
+ n="0716a11" ed="T"/>迦溼彌羅國進受近圓，請文殊矢涅地，為鄔波𬽓耶鄔不羼提為<lb
  n="0716a13" ed="T"/>羯磨阿遮利耶，䭾里魏<lb
  n="0716a14" ed="T"/>地為教授阿遮利耶，三師七證授以<lb
  n="0716a15" ed="T"/>律儀。於蒙鞮寺諷聲聞戒，諷畢聽習根本律<lb
@@ -108,7 +108,7 @@
  n="0716b11" ed="T"/>天竺國親禮八塔，往迦毘羅伐窣覩城，佛降<lb
  n="0716b12" ed="T"/>生處塔。次摩揭提國，菩提道場成佛處塔，於<lb
  n="0716b13" ed="T"/>菩提寺夏坐安居。次波羅痆斯城仙人鹿野<lb
- n="0716b14" ed="T"/>苑中轉法輪處塔，次鷲峰山說法華等經處<lb
+ n="0716b14" ed="T"/>苑中轉法輪處塔，次鷲峯山說法華等經處<lb
  n="0716b15" ed="T"/>塔，次廣嚴城，現不思議處塔。次泥嚩󰣿多城，<lb
  n="0716b16" ed="T"/>從天降下三道寶階塔。次室羅伐城逝多<lb
  n="0716b17" ed="T"/>林給孤獨園，說摩訶般若波羅蜜多度諸外<lb
@@ -188,9 +188,9 @@
  n="0717b04" ed="T"/>衛大將軍員外置同正員牛昕等，並越自流<lb
  n="0717b05" ed="T"/>沙涉于陰國，奉三軍向化之慕，申萬里戀闕<lb
  n="0717b06" ed="T"/>之誠，雨雪載霏行邁無已，方貢善達，復命言<lb
- n="0717b07" ed="T"/>旋，舉范羗入計之勞，慰斑超出遠之思，俾昇<lb
+ n="0717b07" ed="T"/>旋，舉范羗入計之勞，慰班超出遠之思，俾昇<lb
  n="0717b08" ed="T"/>崇祑，以勸使臣可依前件。是歲也，天恩正名、<lb
- n="0717b09" ed="T"/>冠冕兼履，昔名法界今字悟空，捧戴漸惶不<lb
+ n="0717b09" ed="T"/>冠冕兼履，昔名法界今字悟空，捧戴慚惶不<lb
  n="0717b10" ed="T"/>任感懼，乃歸章敬次及鄉園，訪問二親，墳<lb
  n="0717b11" ed="T"/>樹已拱，兄弟子姪家無一人，踈遠諸房少得<lb
  n="0717b12" ed="T"/>聞見，凡所來往經四十年。辛卯西征于今庚<lb
@@ -217,11 +217,11 @@
  n="0717c04" ed="T"/><lb
  n="0717c05" ed="T"/><lb
  n="0717c06" ed="T"/>
-<ab type="juan" subtype="open">佛說十力經</ab><lb
+<ab type='juan' subtype='open'>佛說十力經</ab><lb
  n="0717c07" ed="T"/><lb
  n="0717c08" ed="T"/><byline>三藏沙門勿提提犀魚於<lb
  n="0717c09" ed="T"/>安西蓮花寺譯畢進上</byline><lb
- n="0717c10" ed="T"/><div type="jing" level="2"><ab type="prose">如是我聞：一時，佛在舍衛國祇樹給孤獨園。<lb
+ n="0717c10" ed="T"/><div type='jing' level='2'><ab type='prose'>如是我聞：一時，佛在舍衛國祇樹給孤獨園。<lb
  n="0717c11" ed="T"/>爾時，世尊告諸苾芻：「汝等當知諸佛、如來、應<lb
  n="0717c12" ed="T"/>正等覺具足十力，具十力故得名如來、應、正<lb
  n="0717c13" ed="T"/>等覺，尊勝殊特雄猛自在，能轉無上清淨梵<lb
@@ -304,5 +304,5 @@
  n="0718c03" ed="T"/>爾時，世尊說是經已，諸苾芻眾，天、龍、藥叉、乾<lb
  n="0718c04" ed="T"/>闥婆、阿素洛等，皆大歡喜，信受奉行。</ab></div><lb
  n="0718c05" ed="T"/>
-<ab type="juan" subtype="close">佛說十力經</ab></div>
+<ab type='juan' subtype='close'>佛說十力經</ab></div>
 </body></text></TEI>

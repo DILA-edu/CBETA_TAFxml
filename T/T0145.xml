@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T02</biblScope>
                     <idno type="Taisho">T02n0145</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0869b08" ed="T"/><lb
  n="0869b09" ed="T"/><lb
- n="0869b10" ed="T"/><div type="jing" level="2"><lb
+ n="0869b10" ed="T"/><div type='jing' level='2'><lb
  n="0869b11" ed="T"/>
-<ab type="juan" subtype="open">佛母般泥洹經</ab><lb
+<ab type='juan' subtype='open'>佛母般泥洹經</ab><lb
  n="0869b12" ed="T"/><lb
  n="0869b13" ed="T"/><byline>宋沙門慧簡譯</byline><lb
- n="0869b14" ed="T"/><ab type="prose">聞如是：一時，佛在維耶離國，行在獼猴水邊<lb
+ n="0869b14" ed="T"/><ab type='prose'>聞如是：一時，佛在維耶離國，行在獼猴水邊<lb
  n="0869b15" ed="T"/>拘羅曷講堂上。大愛道比丘尼者，即從佛母<lb
  n="0869b16" ed="T"/>也，時在維耶離國，與女除饉五百人俱，皆<lb
  n="0869b17" ed="T"/>是應真，獲六通四達神足變化，年耆德尊神<lb
@@ -149,9 +149,9 @@
  n="0870b25" ed="T"/>者震國，詣佛敬信，輒說：「生死為苦，三界無安。」<lb
  n="0870b26" ed="T"/>以釋來者，莫不歡喜，稽首而去。<lb
  n="0870b27" ed="T"/>
-</ab><ab type="juan" subtype="close">佛母般泥洹經</ab></div><lb
- n="0870b28" ed="T"/><div type="w" level="2"><head>佛般泥洹後變記</head><lb
- n="0870b29" ed="T"/><ab type="prose">我般泥洹後百歲，我諸弟子沙門，聰明智<pb n="0870c" ed="T" id="T02.0145.0870c"/><lb
+</ab><ab type='juan' subtype='close'>佛母般泥洹經</ab></div><lb
+ n="0870b28" ed="T"/><div type='w' level='2'><head>佛般泥洹後變記</head><lb
+ n="0870b29" ed="T"/><ab type='prose'>我般泥洹後百歲，我諸弟子沙門，聰明智<pb n="0870c" ed="T" id="T02.0145.0870c"/><lb
  n="0870c01" ed="T"/>慧如我無異。我般泥洹後二百歲時，阿育<lb
  n="0870c02" ed="T"/>王從八王索八斛四斗舍利，一日中作八<lb
  n="0870c03" ed="T"/>萬四千佛圖。三百歲時，若有出家作沙門，<lb

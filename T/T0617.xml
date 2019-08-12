@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T15</biblScope>
                     <idno type="Taisho">T15n0617</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0297c14" ed="T"/><lb
  n="0297c15" ed="T"/><lb
  n="0297c16" ed="T"/><lb
  n="0297c17" ed="T"/>
-<ab type="juan" subtype="open">思惟畧要法</ab><lb
+<ab type='juan' subtype='open'>思惟畧要法</ab><lb
  n="0297c18" ed="T"/><lb
  n="0297c19" ed="T"/><byline>姚秦三藏羅什法師譯</byline><lb
- n="0297c20" ed="T"/><div type="jing" level="2"><ab type="prose">形疾有三：風、寒、熱病，為患輕微。心有三病，患<lb
+ n="0297c20" ed="T"/><div type='jing' level='2'><ab type='prose'>形疾有三：風、寒、熱病，為患輕微。心有三病，患<lb
  n="0297c21" ed="T"/>禍深重，動有劫數受諸苦惱，唯佛良醫能為<lb
  n="0297c22" ed="T"/>制藥。行者無量世界長嬰此疾，今始造行，當<lb
  n="0297c23" ed="T"/>令其心決定專精不惜身命，如人入賊，心不<lb
@@ -73,7 +73,7 @@
  n="0298a13" ed="T"/>以指洗，雖多無用也。」行者當勤精進，用智定<lb
  n="0298a14" ed="T"/>指洗除心垢，若不如是，不能離法也。</ab></div><lb
  n="0298a15" ed="T"/><head>四無量觀法：</head><lb
- n="0298a16" ed="T"/><ab type="prose">求佛道者，當先行四無量心。其心無量，功德<lb
+ n="0298a16" ed="T"/><ab type='prose'>求佛道者，當先行四無量心。其心無量，功德<lb
  n="0298a17" ed="T"/>亦無量。於一切眾生中，凡有三分：一者父母<lb
  n="0298a18" ed="T"/>親里善知識等，二者怨賊嫌人常欲惱害<lb
  n="0298a19" ed="T"/>者，三者中人不親不怨。行者於此三品人中，<lb
@@ -117,7 +117,7 @@
  n="0298b28" ed="T"/>則三十六，廣說則無量。譬如農夫開倉，種種<lb
  n="0298b29" ed="T"/>別知麻米豆麥等。行者以心眼開是身倉，<pb n="0298c" ed="T" id="T15.0617.0298c"/><lb
  n="0298c01" ed="T"/>見種種惡露肝肺腸胃諸蟲動食，九孔流出<lb
- n="0298c02" ed="T"/>不淨，常無休止。眼流眵淚、耳出結矃、鼻中<lb
+ n="0298c02" ed="T"/>不淨，常無休止。眼流眵淚、耳出結𦡲、鼻中<lb
  n="0298c03" ed="T"/>涕流、口出唌吐、大小便孔常出屎尿，雖復衣<lb
  n="0298c04" ed="T"/>食障覆，實是行廁。身狀如此，何由是淨？又觀<lb
  n="0298c05" ed="T"/>此身假名為人，四大和合譬之如屋，脊骨如<lb
@@ -261,7 +261,7 @@
  n="0300a27" ed="T"/>觀察。若心難攝當呵責心：「汝無數劫來常應<lb
  n="0300a28" ed="T"/>雜業無有厭足，馳逐世樂不覺為苦，一切世<lb
  n="0300a29" ed="T"/>間貪樂致患，隨業因緣受生五道，皆心所為，<pb n="0300b" ed="T" id="T15.0617.0300b"/><lb
- n="0300b01" ed="T"/>誰使爾者？汝如狂象，蹈籍殘害無有物制，<lb
+ n="0300b01" ed="T"/>誰使爾者？汝如狂象，蹈藉殘害無有物制，<lb
  n="0300b02" ed="T"/>誰調汝者？若得善調則離世患。當知處胎不<lb
  n="0300b03" ed="T"/>淨，苦厄逼迮切身猶如地獄。既生在世，老病<lb
  n="0300b04" ed="T"/>死苦憂悲萬端不得自在；若生天上，當復墮<lb
@@ -304,5 +304,5 @@
  n="0300c12" ed="T"/>合令心堅固，如是三七日中，則普賢菩薩乘<lb
  n="0300c13" ed="T"/>六牙白象來至其所，如經中說。<lb
  n="0300c14" ed="T"/>
-</ab><ab type="juan" subtype="close">思惟略要法</ab></div>
+</ab><ab type='juan' subtype='close'>思惟略要法</ab></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T23</biblScope>
                     <idno type="Taisho">T23n1438</idno>
                 </bibl>
@@ -39,15 +39,15 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0489a" ed="T" id="T23.1438.0489a"/><lb
  n="0489a01" ed="T"/><lb
  n="0489a02" ed="T"/><lb
  n="0489a03" ed="T"/>
-<ab type="juan" subtype="open">大沙門百一羯磨法一卷</ab><lb
+<ab type='juan' subtype='open'>大沙門百一羯磨法一卷</ab><lb
  n="0489a04" ed="T"/><lb
  n="0489a05" ed="T"/><head>捨界羯磨</head><lb
- n="0489a07" ed="T"/><ab type="prose">「大德僧聽！僧本結內界，一住處一說戒故。若<lb
+ n="0489a07" ed="T"/><ab type='prose'>「大德僧聽！僧本結內界，一住處一說戒故。若<lb
  n="0489a08" ed="T"/>僧時到僧忍聽，僧一住處一說戒中捨本界。<lb
  n="0489a09" ed="T"/>如是白。」<lb
  n="0489a10" ed="T"/>「大德僧聽！僧本結內界，一住處一說戒故。今<lb
@@ -641,5 +641,5 @@
  n="0495c24" ed="T"/>「長老一心念！我某甲比丘，是夜分漿受。」如<lb
  n="0495c25" ed="T"/>是第二、第三說。<lb
  n="0495c26" ed="T"/>
-</ab><ab type="juan" subtype="close">大沙門百一羯磨法一卷</ab></div>
+</ab><ab type='juan' subtype='close'>大沙門百一羯磨法一卷</ab></div>
 </body></text></TEI>

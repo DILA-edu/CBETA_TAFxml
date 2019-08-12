@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T11</biblScope>
                     <idno type="Taisho">T11n0319</idno>
                 </bibl>
@@ -43,7 +43,7 @@
  n="0902b01" ed="T"/><lb
  n="0902b02" ed="T"/><lb
  n="0902b03" ed="T"/>
-<ab type="juan" subtype="open">大聖文殊師利菩薩佛剎功德莊<lb
+<ab type='juan' subtype='open'>大聖文殊師利菩薩佛剎功德莊<lb
  n="0902b04" ed="T"/>嚴經卷上</ab><lb
  n="0902b05" ed="T"/><lb
  n="0902b06" ed="T"/><lb
@@ -51,7 +51,7 @@
  n="0902b08" ed="T"/>公食邑三千戶賜紫贈司空諡大鑒<lb
  n="0902b09" ed="T"/>正號大廣智大興善寺三藏沙門<lb
  n="0902b10" ed="T"/>不空奉　詔譯</byline><lb
- n="0902b11" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時薄伽梵，住王舍城鷲峯山中，<lb
+ n="0902b11" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時薄伽梵，住王舍城鷲峯山中，<lb
  n="0902b12" ed="T"/>與大苾芻眾一千人俱；菩薩八萬四千，皆於<lb
  n="0902b13" ed="T"/>無上正等菩提得不退轉，所謂慈氏菩薩、文<lb
  n="0902b14" ed="T"/>殊師利菩薩、觀自在菩薩、得大勢菩薩而為<lb
@@ -85,7 +85,7 @@
  n="0902c13" ed="T"/>加趺坐。是諸菩薩，與寶蓮華俱遶王舍城，右<lb
  n="0902c14" ed="T"/>旋七匝而說頌言：<lb
  n="0902c15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「商主利益世間者，　　拔濟有情為福田，　　<lb
  n="0902c16" ed="T"/>釋雄寂靜大威德，　　世尊今當入此城。　　<lb
  n="0902c17" ed="T"/>若有樂求生天眾，　　解脫生老病死苦，　　<lb
@@ -117,7 +117,7 @@
  n="0903a14" ed="T"/>若有修行解脫者，　　樂聞殊勝大仙法，　　<lb
  n="0903a15" ed="T"/>是故汝當速往聽，　　於此難聞今得聞。」　　
 </ab><lb
- n="0903a16" ed="T"/><ab type="prose">爾時王舍大城及百千村邑聚落，聞此頌警<lb
+ n="0903a16" ed="T"/><ab type='prose'>爾時王舍大城及百千村邑聚落，聞此頌警<lb
  n="0903a17" ed="T"/>覺已，其中男女童男童女，各齎華香燒香塗<lb
  n="0903a18" ed="T"/>香末香華鬘，并金銀花幢幡商佉鼓角絃管<lb
  n="0903a19" ed="T"/>種種音樂，一心思惟願佛攝受，踊躍歡喜恭<lb
@@ -129,7 +129,7 @@
  n="0903a25" ed="T"/>瞋恚愚癡慳悋嫉妬忿慢之所逼惱，慈心相<lb
  n="0903a26" ed="T"/>向猶如父子。彼樂音中而說頌曰：<lb
  n="0903a27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「世尊十力入於城，　　是大丈夫釋師子，　　<lb
  n="0903a28" ed="T"/>剎那皆獲大安樂，　　盲者得視聾得聞，　　<lb
  n="0903a29" ed="T"/>狂者復心無散亂，　　裸露之者獲衣服，　　<pb n="0903b" ed="T" id="T11.0319.0903b"/><lb
@@ -145,7 +145,7 @@
  n="0903b10" ed="T"/>如是多種俱時現，　　奇特殊勝不思議，　　<lb
  n="0903b11" ed="T"/>當於世尊入城時，　　廣作多人利益事。」　　
 </ab><lb
- n="0903b12" ed="T"/><ab type="prose">爾時世尊入王舍城，時有居家菩薩摩訶薩，<lb
+ n="0903b12" ed="T"/><ab type='prose'>爾時世尊入王舍城，時有居家菩薩摩訶薩，<lb
  n="0903b13" ed="T"/>是豪姓長者之子，名摧過咎，於里巷中遙覩<lb
  n="0903b14" ed="T"/>世尊，相好奇特端嚴澄睟，諸根寂靜觀者無<lb
  n="0903b15" ed="T"/>厭，住奢摩他最上調伏，防護諸根如善調象，<lb
@@ -187,7 +187,7 @@
  n="0903c22" ed="T"/>起整理衣服，偏袒右肩，右膝著地，於世尊前<lb
  n="0903c23" ed="T"/>說伽陀曰：<lb
  n="0903c24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「諸法自在到彼岸，　　十力導師最勝尊，　　<lb
  n="0903c25" ed="T"/>一切智者世普聞，　　唯願今說現微笑。　　<lb
  n="0903c26" ed="T"/>牟尼云何覺過去？　　云何未來悉覺悟？　　<lb
@@ -197,7 +197,7 @@
  n="0904a01" ed="T"/>億那庾多諸天來，　　禮敬世尊而合掌，　　<lb
  n="0904a02" ed="T"/>於大眾中生渴仰，　　唯願牟尼說妙法。　　
 </ab><lb
- n="0904a03" ed="T"/><ab type="verse">
+ n="0904a03" ed="T"/><ab type='verse'>
 「智到於彼岸，　　愆過不可得，　　<lb
  n="0904a04" ed="T"/>知一切勝行，　　何緣而現笑？　　<lb
  n="0904a05" ed="T"/>如是億俱胝，　　求法諸天眾，　　<lb
@@ -205,7 +205,7 @@
  n="0904a07" ed="T"/>供養發願故，　　無量種音聲，　　<lb
  n="0904a08" ed="T"/>一切皆渴仰，　　願佛除疑惑。」　　
 </ab><lb
- n="0904a09" ed="T"/><ab type="prose">佛告具壽阿難陀：「汝今見此摧過咎菩薩摩<lb
+ n="0904a09" ed="T"/><ab type='prose'>佛告具壽阿難陀：「汝今見此摧過咎菩薩摩<lb
  n="0904a10" ed="T"/>訶薩上昇虛空，高七多羅樹不？」阿難陀白佛<lb
  n="0904a11" ed="T"/>言：「世尊！已見。修伽陀！已見。」佛言：「阿難陀！此摧<lb
  n="0904a12" ed="T"/>過咎菩薩，却後過於六十二阿僧企耶百千<lb
@@ -478,7 +478,7 @@
  n="0907a18" ed="T"/>菩薩即從座起，整理衣服，偏袒右肩右膝著<lb
  n="0907a19" ed="T"/>地，合掌向佛而說頌言：<lb
  n="0907a20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「無邊智慧十方聞，　　大光普照人天界，　　<lb
  n="0907a21" ed="T"/>一切有情共度量，　　無有能測於佛智。　　<lb
  n="0907a22" ed="T"/>十方無量諸菩薩，　　為求法故咸來集，　　<lb
@@ -501,18 +501,18 @@
  n="0907b10" ed="T"/>云何降伏魔羅軍，　　究竟證於無上覺？」　　
 </ab><lb
  n="0907b11" ed="T"/>
-<ab type="juan" subtype="close">大聖文殊師利菩薩佛剎功德莊嚴經卷上</ab><lb
+<ab type='juan' subtype='close'>大聖文殊師利菩薩佛剎功德莊嚴經卷上</ab><lb
  n="0907b12" ed="T"/><lb
  n="0907b13" ed="T"/><lb
  n="0907b14" ed="T"/>
-<ab type="juan" subtype="open">大聖文殊師利菩薩佛剎功德莊<lb
+<ab type='juan' subtype='open'>大聖文殊師利菩薩佛剎功德莊<lb
  n="0907b15" ed="T"/>嚴經卷中</ab><lb
  n="0907b16" ed="T"/><lb
  n="0907b17" ed="T"/><byline>開府儀同三司特進試鴻臚卿肅國<lb
  n="0907b18" ed="T"/>公食邑三千戶賜紫贈司空諡大鑒<lb
  n="0907b19" ed="T"/>正號大廣智大興善寺三藏沙門<lb
  n="0907b20" ed="T"/>不空奉　詔譯</byline><lb
- n="0907b21" ed="T"/><ab type="prose">爾時如來，告慈氏菩薩摩訶薩言：「汝今為佛<lb
+ n="0907b21" ed="T"/><ab type='prose'>爾時如來，告慈氏菩薩摩訶薩言：「汝今為佛<lb
  n="0907b22" ed="T"/>嚴辦法座，我當昇已，說往昔意樂所修諸行，<lb
  n="0907b23" ed="T"/>善巧出生諸佛剎土功德莊嚴，趣向正行法<lb
  n="0907b24" ed="T"/>門。」時慈氏菩薩，即作是念：「今者世尊以何義<lb
@@ -967,7 +967,7 @@
  n="0912c09" ed="T"/>坐一面。又，善男子！彼虛空王向雷音如來合<lb
  n="0912c10" ed="T"/>掌說伽他曰：<lb
  n="0912c11" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『我問最勝法，　　唯願人尊說。　　<lb
  n="0912c12" ed="T"/>云何得最勝，　　丈夫人中尊？　　<lb
  n="0912c13" ed="T"/>對於世尊前，　　我以廣供養，　　<lb
@@ -1029,7 +1029,7 @@
  n="0913b11" ed="T"/>『我等當成佛。』　　如二十俱胝，　　<lb
  n="0913b12" ed="T"/>一切人亦爾，　　學王求正覺。　　
 </ab><lb
- n="0913b13" ed="T"/><ab type="prose">「善男子！彼時虛空王者莫作異觀，今文殊師<lb
+ n="0913b13" ed="T"/><ab type='prose'>「善男子！彼時虛空王者莫作異觀，今文殊師<lb
  n="0913b14" ed="T"/>利童真菩薩是也！童真菩薩當彼之時為虛<lb
  n="0913b15" ed="T"/>空王，過七十萬阿僧企耶百千殑伽沙劫，最<lb
  n="0913b16" ed="T"/>初發於菩提之心，又過六十殑伽沙劫，得無<lb
@@ -1047,18 +1047,18 @@
  n="0913b28" ed="T"/>圍繞。」說此文殊師利往昔事，時眾中七千有<lb
  n="0913b29" ed="T"/>情，皆發無上正等大菩提心。<pb n="0913c" ed="T" id="T11.0319.0913c"/><lb
  n="0913c01" ed="T"/>
-</ab><ab type="juan" subtype="close">大聖文殊師利菩薩佛剎功德莊嚴經卷中</ab><lb
+</ab><ab type='juan' subtype='close'>大聖文殊師利菩薩佛剎功德莊嚴經卷中</ab><lb
  n="0913c02" ed="T"/><lb
  n="0913c03" ed="T"/><lb
  n="0913c04" ed="T"/>
-<ab type="juan" subtype="open">大聖文殊師利菩薩佛剎功德莊<lb
+<ab type='juan' subtype='open'>大聖文殊師利菩薩佛剎功德莊<lb
  n="0913c05" ed="T"/>嚴經卷下</ab><lb
  n="0913c06" ed="T"/><lb
  n="0913c07" ed="T"/><byline>開府儀同三司特進試鴻臚卿肅<lb
  n="0913c08" ed="T"/>國公食邑三千戶賜紫贈司空諡<lb
  n="0913c09" ed="T"/>大鑑正號大廣智大興善寺三藏<lb
  n="0913c10" ed="T"/>沙門不空奉　詔譯</byline><lb
- n="0913c11" ed="T"/><ab type="prose">爾時師子勇猛雷音菩薩，白文殊師利言：「仁<lb
+ n="0913c11" ed="T"/><ab type='prose'>爾時師子勇猛雷音菩薩，白文殊師利言：「仁<lb
  n="0913c12" ed="T"/>者已滿足如來十力及以十地，一切佛法悉<lb
  n="0913c13" ed="T"/>皆圓滿，何故不證無上菩提？」文殊師利言：<lb
  n="0913c14" ed="T"/>「善男子！豈有圓滿諸佛法已，更證菩提？何以<lb
@@ -1511,5 +1511,5 @@
  n="0918c26" ed="T"/>藥叉、健達嚩、阿蘇羅、蘖路荼、緊那羅、摩呼羅伽、<lb
  n="0918c27" ed="T"/>人非人等，皆大歡喜信受奉行。<lb
  n="0918c28" ed="T"/>
-</ab><ab type="juan" subtype="close">大聖文殊師利菩薩佛剎功德莊嚴經卷下</ab></div>
+</ab><ab type='juan' subtype='close'>大聖文殊師利菩薩佛剎功德莊嚴經卷下</ab></div>
 </body></text></TEI>

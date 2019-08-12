@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0086</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0907a07" ed="T"/><lb
  n="0907a08" ed="T"/><lb
- n="0907a09" ed="T"/><div type="jing" level="1"><lb
+ n="0907a09" ed="T"/><div type='jing' level='1'><lb
  n="0907a10" ed="T"/>
-<ab type="juan" subtype="open">佛說泥犁經</ab><lb
+<ab type='juan' subtype='open'>佛說泥犁經</ab><lb
  n="0907a11" ed="T"/><lb
  n="0907a12" ed="T"/><byline>東晉西域沙門竺曇無蘭譯</byline><lb
- n="0907a13" ed="T"/><ab type="prose">聞如是：一時，佛在舍衛國祇樹給孤獨園。佛<lb
+ n="0907a13" ed="T"/><ab type='prose'>聞如是：一時，佛在舍衛國祇樹給孤獨園。佛<lb
  n="0907a14" ed="T"/>告諸比丘言：「凡有人有三事，愚癡不足人所<lb
  n="0907a15" ed="T"/>平相。何等為三事？癡人所念惡、所言惡、所行<lb
  n="0907a16" ed="T"/>惡，今世即得其殃，用身苦、用念苦、用憂苦。何<lb
@@ -103,7 +103,7 @@
  n="0907c08" ed="T"/>悉盡，毒痛不可忍，過惡未解故不死，泥犁勤<lb
  n="0907c09" ed="T"/>苦如是。泥犁中有鳥，喙如鐵主，啄人頭噉<lb
  n="0907c10" ed="T"/>人腦，毒痛不可忍，過惡未解故不死也，泥犁<lb
- n="0907c11" ed="T"/>勤苦如是。泥犁中復有群駱獸，共取人󰨾食<lb
+ n="0907c11" ed="T"/>勤苦如是。泥犁中復有群駱獸，共取人𭠧食<lb
  n="0907c12" ed="T"/>齘齧，毒痛不可忍，過惡未解故不死，泥犁勤<lb
  n="0907c13" ed="T"/>苦如是。泥犁中鬼復取人，以刀剝之，從兩膀<lb
  n="0907c14" ed="T"/>腸上至兩脅，持駕鐵車，持兩脅肉為被，令挽<lb
@@ -191,10 +191,10 @@
  n="0908c09" ed="T"/>屬，如是眾多。其人平生在世間時，心念惡、口<lb
  n="0908c10" ed="T"/>言惡、身行惡，死後以展轉化來作是鱗虫，勤<lb
  n="0908c11" ed="T"/>苦如是。」<lb
- n="0908c12" ed="T"/>佛言：「有虫󰩷，生於臭中、死於臭中、長於臭<lb
+ n="0908c12" ed="T"/>佛言：「有虫𮙥，生於臭中、死於臭中、長於臭<lb
  n="0908c13" ed="T"/>中。何等為生於臭中？濕地虫、溝邊虫、溷中<lb
  n="0908c14" ed="T"/>虫，如是之屬眾多。其人平生在世間時，心念<lb
- n="0908c15" ed="T"/>惡、口言惡、身行惡，死後以來作是虫󰩷，勤苦<lb
+ n="0908c15" ed="T"/>惡、口言惡、身行惡，死後以來作是虫𮙥，勤苦<lb
  n="0908c16" ed="T"/>如是。」<lb
  n="0908c17" ed="T"/>佛言：「有虫畜主食不淨，人更衣，遙聞其臭，走<lb
  n="0908c18" ed="T"/>行趣之，言我得食。何等為主食不淨者？犬猪<lb
@@ -376,5 +376,5 @@
  n="0910c20" ed="T"/>痛苦，亦可自思念亦可為善。」佛說教如是，比<lb
  n="0910c21" ed="T"/>丘皆歡喜。<lb
  n="0910c22" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說泥犁經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說泥犁經</ab></div>
 </body></text></TEI>

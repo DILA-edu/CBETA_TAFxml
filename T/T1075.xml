@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1075</idno>
                 </bibl>
@@ -39,26 +39,26 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0173a" id="T20.1075.0173a" ed="T"/><lb
  n="0173a01" ed="T"/><lb
  n="0173a02" ed="T"/><lb
  n="0173a03" ed="T"/><lb
  n="0173a04" ed="T"/>
-<ab type="juan" subtype="open">佛說七俱胝佛母准提大明陀<lb
+<ab type='juan' subtype='open'>佛說七俱胝佛母准提大明陀<lb
  n="0173a05" ed="T"/>羅尼經</ab><lb
  n="0173a06" ed="T"/><lb
  n="0173a07" ed="T"/><byline>唐天竺三藏金剛智譯</byline><lb
- n="0173a08" ed="T"/><div type="jing" level="2"><ab type="prose">如是我聞。一時薄伽梵。在名稱大城祇樹給<lb
+ n="0173a08" ed="T"/><div type='jing' level='2'><ab type='prose'>如是我聞。一時薄伽梵。在名稱大城祇樹給<lb
  n="0173a09" ed="T"/>孤獨園。爾時世尊。思惟觀察愍念未來諸眾<lb
  n="0173a10" ed="T"/>生故。說過去七俱胝准提如來等佛母准提<lb
  n="0173a11" ed="T"/>陀羅尼。乃至我今同說。即說大明曰。<lb
  n="0173a12" ed="T"/></ab>
-<ab type="dharani">娜麼颯哆南三藐三勃陀俱<lb
+<ab type='dharani'>娜麼颯哆南三藐三勃陀俱<lb
  n="0173a13" ed="T"/>胝南怛姪他唵<lb
  n="0173a14" ed="T"/>折隷主隷准提莎嚩訶<lb
  n="0173a15" ed="T"/></ab>
-<ab type="prose">若有苾芻苾芻尼鄔波索迦鄔波斯迦。<lb
+<ab type='prose'>若有苾芻苾芻尼鄔波索迦鄔波斯迦。<lb
  n="0173a16" ed="T"/>受持讀誦此陀羅尼。滿九十萬遍。無量劫來<lb
  n="0173a17" ed="T"/>五無間等一切諸罪。悉滅無餘。所在生處。<lb
  n="0173a18" ed="T"/>皆得值遇諸佛菩薩。所有資具隨意充足。無<lb
@@ -249,29 +249,29 @@
  n="0175b09" ed="T"/>塗香摩手而結手契。結契時以衣覆手勿令<lb
  n="0175b10" ed="T"/>人見。先結三部三麼耶契次結諸契。</ab></div><lb
  n="0175b11" ed="T"/><head>佛部三麼耶契第一</head><lb
- n="0175b12" ed="T"/><ab type="prose">其契相福智手並仰。檀戒忍辱般若方便願<lb
+ n="0175b12" ed="T"/><ab type='prose'>其契相福智手並仰。檀戒忍辱般若方便願<lb
  n="0175b13" ed="T"/>微屈相拄。進力押忍願上節。禪智附進力<lb
  n="0175b14" ed="T"/>側。即成。<lb
  n="0175b15" ed="T"/>誦妙言曰。<lb
  n="0175b16" ed="T"/></ab>
-<ab type="dharani">唵怛他孽覩嚩皤耶莎嚩訶<lb
+<ab type='dharani'>唵怛他孽覩嚩皤耶莎嚩訶<lb
  n="0175b18" ed="T"/><head>蓮華部三麼耶契第二</head><lb
  n="0175b19" ed="T"/></ab>
-<ab type="prose">二福智相合。戒忍進方便願力。各各散開微<lb
+<ab type='prose'>二福智相合。戒忍進方便願力。各各散開微<lb
  n="0175b20" ed="T"/>屈。六波羅蜜開如蓮花。檀般若禪智頭相<lb
  n="0175b21" ed="T"/>著。亦微屈即成。<lb
  n="0175b22" ed="T"/>誦妙言曰。<lb
  n="0175b23" ed="T"/></ab>
-<ab type="dharani">唵鉢頭牟嚩皤耶莎嚩訶<lb
+<ab type='dharani'>唵鉢頭牟嚩皤耶莎嚩訶<lb
  n="0175b24" ed="T"/><head>金剛部三麼耶契第三</head><lb
  n="0175b25" ed="T"/></ab>
-<ab type="prose">福覆智仰。禪般若檀智相交即成。<lb
+<ab type='prose'>福覆智仰。禪般若檀智相交即成。<lb
  n="0175b26" ed="T"/>即誦妙言曰。<lb
  n="0175b27" ed="T"/></ab>
-<ab type="dharani">唵嚩折嚕婆皤耶莎嚩訶<lb
+<ab type='dharani'>唵嚩折嚕婆皤耶莎嚩訶<lb
  n="0175b28" ed="T"/><head>准提佛母根本身契第四</head><lb
  n="0175b29" ed="T"/></ab>
-<ab type="prose">其契相先以二手小指二無名指。相叉入掌。<pb n="0175c" id="T20.1075.0175c" ed="T"/><lb
+<ab type='prose'>其契相先以二手小指二無名指。相叉入掌。<pb n="0175c" id="T20.1075.0175c" ed="T"/><lb
  n="0175c01" ed="T"/>二中指直竪頭相著。二頭指頭附二中指上<lb
  n="0175c02" ed="T"/>節側。二大指各附二頭指側即成。<lb
  n="0175c03" ed="T"/>妙言誦根本陀羅尼。<lb
@@ -282,108 +282,108 @@
  n="0175c09" ed="T"/>即成。<lb
  n="0175c10" ed="T"/>妙言曰。<lb
  n="0175c11" ed="T"/></ab>
-<ab type="dharani">唵俱嚕憚那吽惹<lb
+<ab type='dharani'>唵俱嚕憚那吽惹<lb
  n="0175c12" ed="T"/><head>結地界橛契第六</head><lb
  n="0175c13" ed="T"/></ab>
-<ab type="prose">其契相以左右二中指二無名指。相叉入掌。<lb
+<ab type='prose'>其契相以左右二中指二無名指。相叉入掌。<lb
  n="0175c14" ed="T"/>右押左。左頭指屈如鉤。右頭指直竪。二<lb
  n="0175c15" ed="T"/>大指二小指令面相著即成。<lb
  n="0175c16" ed="T"/>妙言曰。<lb
  n="0175c17" ed="T"/></ab>
-<ab type="dharani">唵准儞泥枳邏耶莎嚩訶<lb
+<ab type='dharani'>唵准儞泥枳邏耶莎嚩訶<lb
  n="0175c19" ed="T"/><head>結牆界契第七</head><lb
  n="0175c20" ed="T"/></ab>
-<ab type="prose">其契准前橛契。以右手頭指。屈如鉤。左頭指<lb
+<ab type='prose'>其契准前橛契。以右手頭指。屈如鉤。左頭指<lb
  n="0175c21" ed="T"/>直竪即成。<lb
  n="0175c22" ed="T"/>妙言曰。<pb n="0176a" id="T20.1075.0176a" ed="T"/><lb
  n="0176a01" ed="T"/></ab>
-<ab type="dharani">唵准儞泥鉢囉迦邏耶莎嚩訶<lb
+<ab type='dharani'>唵准儞泥鉢囉迦邏耶莎嚩訶<lb
  n="0176a02" ed="T"/><head>結網契第八</head><lb
  n="0176a03" ed="T"/></ab>
-<ab type="prose">其契准牆契。開仰著。右大指捻左頭指頭。左<lb
+<ab type='prose'>其契准牆契。開仰著。右大指捻左頭指頭。左<lb
  n="0176a04" ed="T"/>大指捻右頭指頭。小指依舊相拄即成。<lb
  n="0176a05" ed="T"/>妙言曰。<lb
  n="0176a06" ed="T"/></ab>
-<ab type="dharani">唵准儞半惹邏莎嚩訶<lb
+<ab type='dharani'>唵准儞半惹邏莎嚩訶<lb
  n="0176a07" ed="T"/><head>結外火院大界契第九</head><lb
  n="0176a08" ed="T"/></ab>
-<ab type="prose">其契以左手密掩右手背。相重。直竪二大指。<lb
+<ab type='prose'>其契以左手密掩右手背。相重。直竪二大指。<lb
  n="0176a09" ed="T"/>相去二寸許即成。<lb
  n="0176a10" ed="T"/>妙言曰。<lb
  n="0176a11" ed="T"/></ab>
-<ab type="dharani">唵阿三麼󰺺儞𤙖莎嚩訶<lb
+<ab type='dharani'>唵阿三麼𭉸儞𤙖莎嚩訶<lb
  n="0176a12" ed="T"/><head>結車輅契第十</head><lb
  n="0176a13" ed="T"/></ab>
-<ab type="prose">其契相先以二手向內相叉。右押左。即仰開<lb
+<ab type='prose'>其契相先以二手向內相叉。右押左。即仰開<lb
  n="0176a14" ed="T"/>掌。二頭指直申頭相拄。以二大指撥二中指<lb
  n="0176a15" ed="T"/>頭。來去即成。<lb
  n="0176a16" ed="T"/>妙言曰。<lb
  n="0176a17" ed="T"/></ab>
-<ab type="dharani">唵覩嚧覩嚧莎嚩訶<lb
+<ab type='dharani'>唵覩嚧覩嚧莎嚩訶<lb
  n="0176a20" ed="T"/><head>結迎請聖者契第十一</head><lb
  n="0176a21" ed="T"/></ab>
-<ab type="prose">准前第一根本契。以二大指來去。招之三度<lb
+<ab type='prose'>准前第一根本契。以二大指來去。招之三度<lb
  n="0176a22" ed="T"/>即成。<lb
  n="0176a23" ed="T"/>妙言曰。<lb
  n="0176a24" ed="T"/></ab>
-<ab type="dharani">唵折隷主隷准提噎醯薄伽嚩底莎嚩訶<lb
+<ab type='dharani'>唵折隷主隷准提噎醯薄伽嚩底莎嚩訶<lb
  n="0176a25" ed="T"/><lb
  n="0176a26" ed="T"/><head>結蓮花座契第十二</head><lb
  n="0176a27" ed="T"/></ab>
-<ab type="prose">准前根本契。並二大指向身開竪之。即成。<lb
+<ab type='prose'>准前根本契。並二大指向身開竪之。即成。<lb
  n="0176a28" ed="T"/>妙言曰。<pb n="0176b" id="T20.1075.0176b" ed="T"/><lb
  n="0176b01" ed="T"/></ab>
-<ab type="dharani">唵迦麼邏莎嚩訶<lb
+<ab type='dharani'>唵迦麼邏莎嚩訶<lb
  n="0176b03" ed="T"/><head>結遏迦契第十三</head><lb
  n="0176b04" ed="T"/></ab>
-<ab type="prose">准前根本契。以二大指。各捻頭指根第一節<lb
+<ab type='prose'>准前根本契。以二大指。各捻頭指根第一節<lb
  n="0176b05" ed="T"/>側下即成。<lb
  n="0176b06" ed="T"/>妙言曰。<lb
  n="0176b07" ed="T"/></ab>
-<ab type="dharani">唵折隷主隷准提遏紺薄伽嚩帝鉢囉底<lb
+<ab type='dharani'>唵折隷主隷准提遏紺薄伽嚩帝鉢囉底<lb
  n="0176b08" ed="T"/>搓莎嚩訶<lb
  n="0176b09" ed="T"/><head>結洗浴契第十四</head><lb
  n="0176b10" ed="T"/></ab>
-<ab type="prose">准前遏迦契。以二大指。各並捻二中指中<lb
+<ab type='prose'>准前遏迦契。以二大指。各並捻二中指中<lb
  n="0176b11" ed="T"/>節側即成。<lb
  n="0176b12" ed="T"/>妙言曰。<lb
  n="0176b13" ed="T"/></ab>
-<ab type="dharani">唵折莎嚩訶<lb
+<ab type='dharani'>唵折莎嚩訶<lb
  n="0176b14" ed="T"/><head>結塗香契第十五</head><lb
  n="0176b15" ed="T"/></ab>
-<ab type="prose">准前根本契。以二大指。博著右頭指下節即<lb
+<ab type='prose'>准前根本契。以二大指。博著右頭指下節即<lb
  n="0176b16" ed="T"/>成。<lb
  n="0176b17" ed="T"/>妙言曰。<lb
  n="0176b18" ed="T"/></ab>
-<ab type="dharani">唵隷莎嚩訶<lb
+<ab type='dharani'>唵隷莎嚩訶<lb
  n="0176b19" ed="T"/><head>結花鬘契第十六</head><lb
  n="0176b20" ed="T"/></ab>
-<ab type="prose">准前根本契。以二大指。安著左頭指下節側<lb
+<ab type='prose'>准前根本契。以二大指。安著左頭指下節側<lb
  n="0176b21" ed="T"/>即成。<lb
  n="0176b22" ed="T"/>妙言曰。<lb
  n="0176b23" ed="T"/></ab>
-<ab type="dharani">唵主莎嚩訶<lb
+<ab type='dharani'>唵主莎嚩訶<lb
  n="0176b24" ed="T"/><head>結燒香契第十七</head><lb
  n="0176b25" ed="T"/></ab>
-<ab type="prose">准前根本契屈右頭指。捻二大指頭即成。<lb
+<ab type='prose'>准前根本契屈右頭指。捻二大指頭即成。<lb
  n="0176b26" ed="T"/>妙言曰。<lb
  n="0176b27" ed="T"/></ab>
-<ab type="dharani">唵隷莎嚩訶<lb
+<ab type='dharani'>唵隷莎嚩訶<lb
  n="0176b28" ed="T"/><head>結供養飲食契第十八</head><lb
  n="0176b29" ed="T"/></ab>
-<ab type="prose">准前根本契。以左頭指。捻二大指頭即成。<pb n="0176c" id="T20.1075.0176c" ed="T"/><lb
+<ab type='prose'>准前根本契。以左頭指。捻二大指頭即成。<pb n="0176c" id="T20.1075.0176c" ed="T"/><lb
  n="0176c01" ed="T"/>妙言曰。<lb
  n="0176c02" ed="T"/></ab>
-<ab type="dharani">唵准莎嚩訶<lb
+<ab type='dharani'>唵准莎嚩訶<lb
  n="0176c03" ed="T"/><head>結燈契第十九</head><lb
  n="0176c04" ed="T"/></ab>
-<ab type="prose">准前根本契。以二頭指。各捻二大指頭即成。<lb
+<ab type='prose'>准前根本契。以二頭指。各捻二大指頭即成。<lb
  n="0176c05" ed="T"/>妙言曰。<lb
  n="0176c06" ed="T"/></ab>
-<ab type="dharani">唵提莎嚩訶<lb
+<ab type='dharani'>唵提莎嚩訶<lb
  n="0176c07" ed="T"/><head>結布字契第二十</head><lb
  n="0176c08" ed="T"/></ab>
-<ab type="prose">其契相以二中指二無名指。向內相叉。二大<lb
+<ab type='prose'>其契相以二中指二無名指。向內相叉。二大<lb
  n="0176c09" ed="T"/>指二頭指二小指。並直竪頭相著即成。<lb
  n="0176c10" ed="T"/>結此手契成。即想自身猶若釋迦如來。三十<lb
  n="0176c11" ed="T"/>二相八十種好紫磨金色圓滿身光。想已以<lb
@@ -391,57 +391,57 @@
  n="0176c13" ed="T"/>依字次第。乃至兩足皆以契觸布之。<lb
  n="0176c14" ed="T"/>說陀羅尼字想布於身法。<lb
  n="0176c15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 唵想安頭上　　其色白如月　　放於無量光　　<lb
  n="0176c16" ed="T"/>除滅一切障　　即同佛菩薩　　摩是人頂上　　<lb
  n="0176c17" ed="T"/>折字安兩目　　其色如日月　　為照諸愚<lb
  n="0176c18" ed="T"/>暗　　能發深慧明　　
 </ab><lb
- n="0176c19" ed="T"/><ab type="verse">
+ n="0176c19" ed="T"/><ab type='verse'>
 隷字安頸上　　色如紺琉璃　　能顯諸色<lb
  n="0176c20" ed="T"/>相　　漸具如來智　　
 </ab><lb
- n="0176c21" ed="T"/><ab type="verse">
+ n="0176c21" ed="T"/><ab type='verse'>
 主字想安心　　其色如皎素　　猶心清淨<lb
  n="0176c22" ed="T"/>故　　速達菩提路　　
 </ab><lb
- n="0176c23" ed="T"/><ab type="verse">
+ n="0176c23" ed="T"/><ab type='verse'>
 隷字安兩肩　　色黃如金色　　猶觀是色<lb
  n="0176c24" ed="T"/>相　　能被精進甲　　
 </ab><lb
- n="0176c25" ed="T"/><ab type="verse">
+ n="0176c25" ed="T"/><ab type='verse'>
 准字想齊中　　其色妙黃白　　速令登道<lb
  n="0176c26" ed="T"/>場　　不退菩提故　　
 </ab><lb
- n="0176c27" ed="T"/><ab type="verse">
+ n="0176c27" ed="T"/><ab type='verse'>
 提字安兩髀　　其色如淺黃　　速證菩提<lb
  n="0176c28" ed="T"/>道　　得坐金剛座　　
 </ab><lb
- n="0176c29" ed="T"/><ab type="verse">
+ n="0176c29" ed="T"/><ab type='verse'>
 莎嚩字兩脛　　其狀作赤黃　　常能想<pb n="0177a" id="T20.1075.0177a" ed="T"/><lb
  n="0177a01" ed="T"/>是字　　速得轉法輪　　
 </ab><lb
- n="0177a02" ed="T"/><ab type="verse">
+ n="0177a02" ed="T"/><ab type='verse'>
 訶字置兩足　　其色猶滿月　　行者作是想　　<lb
  n="0177a03" ed="T"/>速得達圓寂　　
 </ab><lb
- n="0177a04" ed="T"/><ab type="verse">
+ n="0177a04" ed="T"/><ab type='verse'>
 如是布字想念色　　便成准提勝法門　　<lb
  n="0177a05" ed="T"/>亦名本尊真實相　　能滅諸罪得吉祥　　<lb
  n="0177a06" ed="T"/>猶如金剛堅固聚　　是名准提勝上法　　<lb
  n="0177a07" ed="T"/>若常如是修行者　　當知是人速悉地　　
 </ab><lb
  n="0177a08" ed="T"/><head>第二根本契第二十一</head><lb
- n="0177a09" ed="T"/><ab type="prose">其契相以二手向內相叉。二頭指二大母指。<lb
+ n="0177a09" ed="T"/><ab type='prose'>其契相以二手向內相叉。二頭指二大母指。<lb
  n="0177a10" ed="T"/>並直竪即成。<lb
  n="0177a11" ed="T"/>妙言曰。<lb
  n="0177a12" ed="T"/></ab>
-<ab type="dharani">南無颯哆喃三藐三勃陀俱胝南怛<lb
+<ab type='dharani'>南無颯哆喃三藐三勃陀俱胝南怛<lb
  n="0177a13" ed="T"/>姪他唵折隷主隷准<lb
  n="0177a14" ed="T"/>提莎嚩<lb
  n="0177a15" ed="T"/><head>結捧數珠契第二十二</head><lb
  n="0177a16" ed="T"/></ab>
-<ab type="prose">其契相先取數珠安二手掌中。即當心合掌。<lb
+<ab type='prose'>其契相先取數珠安二手掌中。即當心合掌。<lb
  n="0177a17" ed="T"/>誦前根本陀羅尼三遍。以珠頂戴。便作把數<lb
  n="0177a18" ed="T"/>珠契。淨珠。<lb
  n="0177a19" ed="T"/><head>把數珠契第二十三</head><lb
@@ -449,9 +449,9 @@
  n="0177a21" ed="T"/>二手相去一寸許。餘指散開微屈即成。<lb
  n="0177a22" ed="T"/>誦淨數珠妙言曰。<lb
  n="0177a23" ed="T"/></ab>
-<ab type="dharani">唵微嚧遮那阿麼羅莎嚩訶<lb
+<ab type='dharani'>唵微嚧遮那阿麼羅莎嚩訶<lb
  n="0177a24" ed="T"/></ab>
-<ab type="prose">淨數珠已。以自心想七俱胝佛母口中。出<lb
+<ab type='prose'>淨數珠已。以自心想七俱胝佛母口中。出<lb
  n="0177a25" ed="T"/>七俱胝陀羅尼文字。一一字放五色光。入行<lb
  n="0177a26" ed="T"/>者口裏。安自心月中。右旋布置即誦本尊陀<lb
  n="0177a27" ed="T"/>羅尼一遍。以右手無名指。捻一顆珠過。周而<lb
@@ -505,15 +505,15 @@
  n="0177c17" ed="T"/>散之。復結前車輅契。以二大母指向外。三度<lb
  n="0177c18" ed="T"/>撥中指頭。誦妙言曰。<lb
  n="0177c19" ed="T"/></ab>
-<ab type="dharani">唵覩嚧覩嚧莎嚩訶<lb
+<ab type='dharani'>唵覩嚧覩嚧莎嚩訶<lb
  n="0177c20" ed="T"/></ab>
-<ab type="prose">復結前迎請契。以二大母指向外三度開。即<lb
+<ab type='prose'>復結前迎請契。以二大母指向外三度開。即<lb
  n="0177c21" ed="T"/>成送聖者還本宮。妙言曰。<lb
  n="0177c22" ed="T"/></ab>
-<ab type="dharani">唵折隷主隷准提孽車孽車婆伽嚩底<lb
+<ab type='dharani'>唵折隷主隷准提孽車孽車婆伽嚩底<lb
  n="0177c23" ed="T"/>莎嚩皤喃布娜囉哦麼那耶莎嚩訶<lb
  n="0177c24" ed="T"/></ab>
-<ab type="prose">復結前外火院大界契。誦阿三麼祁入儞<pb n="0178a" id="T20.1075.0178a" ed="T"/><lb
+<ab type='prose'>復結前外火院大界契。誦阿三麼祁入儞<pb n="0178a" id="T20.1075.0178a" ed="T"/><lb
  n="0178a01" ed="T"/>妙言。左轉三遍即成。<lb
  n="0178a02" ed="T"/>復更結三部三麼耶契。各誦妙言一遍即了。<lb
  n="0178a03" ed="T"/>任出道場隨意經行。讀誦大般若或華嚴或<lb
@@ -531,10 +531,10 @@
  n="0178a15" ed="T"/>先誦根本陀羅尼三七遍已。然後但從唵字<lb
  n="0178a16" ed="T"/>誦之。妙言曰。<lb
  n="0178a17" ed="T"/></ab>
-<ab type="dharani">唵折隷主隷准提與彼某甲除災難莎嚩<lb
+<ab type='dharani'>唵折隷主隷准提與彼某甲除災難莎嚩<lb
  n="0178a18" ed="T"/>訶<lb
  n="0178a19" ed="T"/></ab>
-<ab type="prose">說布瑟置迦法。<lb
+<ab type='prose'>說布瑟置迦法。<lb
  n="0178a20" ed="T"/>若欲求增長。五通轉輪種種寶藏布奢輪劍<lb
  n="0178a21" ed="T"/>賢瓶如意寶。安善那。虞里迦。鏡及越斧羂<lb
  n="0178a22" ed="T"/>索三叉等一切財寶藥草等求成就法者。身<lb
@@ -542,20 +542,20 @@
  n="0178a24" ed="T"/>子燈燭地等。並用黃色。從月八日至十五日。<lb
  n="0178a25" ed="T"/>日三時念誦護摩等事。念誦如前。妙言曰。<lb
  n="0178a26" ed="T"/></ab>
-<ab type="dharani">唵折隷主隷准提與彼某甲所求如意莎<lb
+<ab type='dharani'>唵折隷主隷准提與彼某甲所求如意莎<lb
  n="0178a27" ed="T"/>嚩訶<lb
  n="0178a28" ed="T"/></ab>
-<ab type="prose">說伐施迦羅拏法。<lb
+<ab type='prose'>說伐施迦羅拏法。<lb
  n="0178a29" ed="T"/>若欲呼召一切天龍鬼神人非人等。應作此<pb n="0178b" id="T20.1075.0178b" ed="T"/><lb
  n="0178b01" ed="T"/>法者。身著赤衣面向西結賢坐。香花飲食果<lb
  n="0178b02" ed="T"/>子燈燭地等。並用赤色。從十六日至二十三<lb
  n="0178b03" ed="T"/>日。日三時念誦。護摩等法。<lb
  n="0178b04" ed="T"/>妙言曰。<lb
  n="0178b05" ed="T"/></ab>
-<ab type="dharani">唵折隷主隷准提為彼攝召某神成就我<lb
+<ab type='dharani'>唵折隷主隷准提為彼攝召某神成就我<lb
  n="0178b06" ed="T"/>願莎嚩訶<lb
  n="0178b07" ed="T"/></ab>
-<ab type="prose">說阿毘遮嚕迦法。<lb
+<ab type='prose'>說阿毘遮嚕迦法。<lb
  n="0178b08" ed="T"/>若欲降伏一切惡神鬼。及損三寶人天者。有<lb
  n="0178b09" ed="T"/>多罪業障重眾生調伏難者。能令發菩提心<lb
  n="0178b10" ed="T"/>修諸善業者。應起慈悲心而作此法。身著青<lb
@@ -563,9 +563,9 @@
  n="0178b12" ed="T"/>花。食果地等皆用青黑色。從二十三日至月<lb
  n="0178b13" ed="T"/>盡日。日三時念誦護摩等法。妙言曰。<lb
  n="0178b14" ed="T"/></ab>
-<ab type="dharani">吽折隷主隷准提吽發吒<lb
+<ab type='dharani'>吽折隷主隷准提吽發吒<lb
  n="0178b15" ed="T"/></ab>
-<ab type="prose">作法已即如常念誦。<lb
+<ab type='prose'>作法已即如常念誦。<lb
  n="0178b16" ed="T"/>說七俱胝佛母准提畫像法。<lb
  n="0178b17" ed="T"/>取不截白㲲清淨者。擇去人髮。畫師受八戒<lb
  n="0178b18" ed="T"/>齋。不用膠和色。用新椀成綵色而用畫之。<lb
@@ -586,5 +586,5 @@
  n="0178c04" ed="T"/>行者在下坐。手執香鑪。面向上看菩薩。於<lb
  n="0178c05" ed="T"/>菩薩上畫二淨居天。像法如是。<lb
  n="0178c06" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說七俱胝佛母准提陀羅尼經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說七俱胝佛母准提陀羅尼經</ab></div>
 </body></text></TEI>

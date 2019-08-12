@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T18</biblScope>
                     <idno type="Taisho">T18n0863</idno>
                 </bibl>
@@ -39,18 +39,18 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0193a11" ed="T"/><lb
  n="0193a12" ed="T"/><lb
  n="0193a13" ed="T"/><lb
  n="0193a14" ed="T"/>
-<ab type="juan" subtype="open">大毘盧遮那經阿闍梨真實智品<lb
+<ab type='juan' subtype='open'>大毘盧遮那經阿闍梨真實智品<lb
  n="0193a15" ed="T"/>中阿闍梨住阿字觀門</ab><lb
  n="0193a17" ed="T"/><lb
  n="0193a18" ed="T"/><byline>淨影寺比綺院五部持念僧惟謹述</byline><lb
  n="0193a19" ed="T"/><head>成入理軌儀一卷</head><lb
- n="0193a20" ed="T"/><ab type="prose">夫言阿闍梨者，解祕中最祕，真言智大心。阿<lb
+ n="0193a20" ed="T"/><ab type='prose'>夫言阿闍梨者，解祕中最祕，真言智大心。阿<lb
  n="0193a21" ed="T"/>字名種子，故一切如是，依法皆遍受。若於此<lb
  n="0193a22" ed="T"/>教法，解斯廣大智，正覺大功德，說名阿闍梨，<lb
  n="0193a23" ed="T"/>是即為如來，亦即名為佛。梵云「汗㗚馱」，汗<lb
@@ -99,7 +99,7 @@
  n="0193c08" ed="T"/>字音者，從字音表而得有聲生，以有聲生，以<lb
  n="0193c09" ed="T"/>有聲故遍於支分，能表一切世間、出世間之<lb
  n="0193c10" ed="T"/>法。若但見其字音則能詮表於理，又要音<lb
- n="0193c11" ed="T"/>韻、語言、牙齒、𩫋󰵙得有所表，謂：青黃赤白、東<lb
+ n="0193c11" ed="T"/>韻、語言、牙齒、𩫋𮂕得有所表，謂：青黃赤白、東<lb
  n="0193c12" ed="T"/>西南北、方圓大小、上下尊卑，一切事類方可<lb
  n="0193c13" ed="T"/>領解，故經云：「祕密主！此是遍一切處法門」。又<lb
  n="0193c14" ed="T"/>《華嚴經》云：「如是字母能於一切世、出世間善<lb
@@ -135,7 +135,7 @@
  n="0194a15" ed="T"/>有三種歸命。頭為初分；咽為二分；心為三分；<lb
  n="0194a16" ed="T"/>臍為四分。<lb
  n="0194a17" ed="T"/></ab>
-<ab type="dharani">􆿅阿􆿆阿􆿓暗􆿔噁􄑀迦􄑁迦<lb
+<ab type='dharani'>􆿅阿􆿆阿􆿓暗􆿔噁􄑀迦􄑁迦<lb
  n="0194a18" ed="T"/><lb
  n="0194a19" ed="T"/>􄑊劍􄑋脚􄑌佉􄑍佉􄑖欠􄑗却<lb
  n="0194a20" ed="T"/><lb
@@ -149,7 +149,7 @@
  n="0194a28" ed="T"/><lb
  n="0194a29" ed="T"/>􄓚吒􄓛吒􈋑𪉜􄓥磔􄓦𡛥􄓧𡛥<lb
  n="0194a30" ed="T"/><pb n="0194b" ed="T" id="T18.0863.0194b"/><lb
- n="0194b01" ed="T"/>􄓰󰳹􄓱坼􄓲拏􄓳拏􄓼喃􄓽搦<lb
+ n="0194b01" ed="T"/>􄓰𭌂􄓱坼􄓲拏􄓳拏􄓼喃􄓽搦<lb
  n="0194b02" ed="T"/><lb
  n="0194b03" ed="T"/>􄓾荼􄕀荼􄕉湛􄕊釋􄕗哆􄕘多<lb
  n="0194b04" ed="T"/><lb
@@ -159,9 +159,9 @@
  n="0194b08" ed="T"/><lb
  n="0194b09" ed="T"/>􄖧淡􄖨鐸􄖵跛􄖶波􄖿啶􄗀博<lb
  n="0194b10" ed="T"/><lb
- n="0194b11" ed="T"/>􄗁頗􄗂頗􄗋󰳧􄗌泊􄙖摩􄙗摩<lb
+ n="0194b11" ed="T"/>􄗁頗􄗂頗􄗋𭈠􄗌泊􄙖摩􄙗摩<lb
  n="0194b12" ed="T"/><lb
- n="0194b13" ed="T"/>􄙠𤚥􄙡莫􄗙婆􄗚婆􄗣󰓋􄗤薄<lb
+ n="0194b13" ed="T"/>􄙠𤚥􄙡莫􄗙婆􄗚婆􄗣𭊃􄗤薄<lb
  n="0194b14" ed="T"/><lb
  n="0194b15" ed="T"/>􄗱野􄗲野􄗻閻􄗼藥􄙊欏􄙋邏<lb
  n="0194b16" ed="T"/><lb
@@ -175,18 +175,18 @@
  n="0194b24" ed="T"/><lb
  n="0194b25" ed="T"/>􄚾乞懺􄚿乞嗦􆿇伊􆿈縊􇇳𢞬􇇴烏<lb
  n="0194b26" ed="T"/><lb
- n="0194b27" ed="T"/>􆿋哩􆿌󰳤􆿍里􆿎󰳤􆿏翳􆿐藹<lb
+ n="0194b27" ed="T"/>􆿋哩􆿌𭊂􆿍里􆿎𭊂􆿏翳􆿐藹<lb
  n="0194b28" ed="T"/><lb
  n="0194b29" ed="T"/>􆿑污􆿊奧􄑰仰􄓈攘􄕋拏􄖩曩<lb
  n="0194b30" ed="T"/><pb n="0194c" ed="T" id="T18.0863.0194c"/><lb
  n="0194c01" ed="T"/>􄗥莽􄑱𠵫􈉪攘􄕌儜􄖪囊􄗦忙<lb
  n="0194c02" ed="T"/><lb
- n="0194c03" ed="T"/>􄑺噞􄓘󰵬􄕕喃􄖳南􄗯鑁􄑻󰴉<lb
+ n="0194c03" ed="T"/>􄑺噞􄓘𮣾􄕕喃􄖳南􄗯鑁􄑻󰴉<lb
  n="0194c04" ed="T"/><lb
  n="0194c05" ed="T"/>􄓙弱􄕖搦􄖴諾􄗰莫<lb
  n="0194c06" ed="T"/><lb
  n="0194c07" ed="T"/></ab>
-<ab type="prose">凡布字之法，當從行者眉間白毫而觀迦字，<lb
+<ab type='prose'>凡布字之法，當從行者眉間白毫而觀迦字，<lb
  n="0194c08" ed="T"/>右旋逐曰而轉，令環相接；四重亦復如是，一<lb
  n="0194c09" ed="T"/>一合集成身。所以經云：「迦、左、吒、哆、跛初中後<lb
  n="0194c10" ed="T"/>相，加以等持品類相入，自然獲得菩提心行，<lb
@@ -207,7 +207,7 @@
  n="0194c25" ed="T"/>之行，堪傳授者方以意想傳之，不可文載，故<lb
  n="0194c26" ed="T"/>師已口相授。其伊、伊至污、奧凡十二<lb
  n="0194c27" ed="T"/>字，皆在字輪外散布由<lb
- n="0194c28" ed="T"/>光焰。又仰、壤、𠸎、曩、莽　噞、󰵬、喃、南、鑁　㖸、弱、搦、<lb
+ n="0194c28" ed="T"/>光焰。又仰、壤、𠸎、曩、莽　噞、𮣾、喃、南、鑁　㖸、弱、搦、<lb
  n="0194c29" ed="T"/>謨、莫，<pb n="0195a" ed="T" id="T18.0863.0195a"/><lb
  n="0195a01" ed="T"/>凡五字隨三輪而轉，相入自然，今此輪者即<lb
  n="0195a02" ed="T"/>是三轉法輪之義。行者相應如是，布字持念<lb
@@ -261,7 +261,7 @@
  n="0195b21" ed="T"/>得名阿闍梨。故應具方便，了知佛所說，故經<lb
  n="0195b22" ed="T"/>云：<lb
  n="0195b23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「復次祕密主！　　諸佛所宣說；　　<lb
  n="0195b24" ed="T"/>安布諸字門，　　佛子一心聽。　　<lb
  n="0195b25" ed="T"/>迦字在咽下，　　佉字在𥈭上；　　<lb
@@ -283,7 +283,7 @@
  n="0195c12" ed="T"/>一切智資財，　　常在於其心；　　<lb
  n="0195c13" ed="T"/>世號一切智，　　是為薩婆若。」　　
 </ab><lb
- n="0195c14" ed="T"/><div type="w" level="2"><ab type="prose">依《胎藏毘盧遮那經》略集《字母觀行儀》一本。<lb
+ n="0195c14" ed="T"/><div type='w' level='2'><ab type='prose'>依《胎藏毘盧遮那經》略集《字母觀行儀》一本。<lb
  n="0195c15" ed="T"/>巨唐開元年三月中旬，五部持念惟謹集<lb
  n="0195c16" ed="T"/>應德二年十一月二日，於南勝房以前唐院<lb
  n="0195c17" ed="T"/>本書　　　　　　　　　仁豪<lb

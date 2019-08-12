@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T08</biblScope>
                     <idno type="Taisho">T08n0246</idno>
                 </bibl>
@@ -39,15 +39,15 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0834a09" ed="T"/><lb
  n="0834a10" ed="T"/><lb
  n="0834a11" ed="T"/><lb
- n="0834a12" ed="T"/><div type="xu" level="2"><head>大唐新翻護國仁王般若經序</head><lb
+ n="0834a12" ed="T"/><div type='xu' level='2'><head>大唐新翻護國仁王般若經序</head><lb
  n="0834a13" ed="T"/><lb
  n="0834a14" ed="T"/><byline>代宗皇帝製</byline><lb
- n="0834a15" ed="T"/><ab type="prose">皇矣至覺，子于元元。截有海以般若之舟，剪<lb
+ n="0834a15" ed="T"/><ab type='prose'>皇矣至覺，子于元元。截有海以般若之舟，剪<lb
  n="0834a16" ed="T"/>稠林以智慧之劍。綿絡六合，羅󰋪十方。弘宣<lb
  n="0834a17" ed="T"/>也深，志應也大。自權輿天竺，泳沫漢庭，行無<lb
  n="0834a18" ed="T"/>緣之慈，納常樂之域。信其博施，傾芥城而逾<lb
@@ -90,14 +90,14 @@
  n="0834c01" ed="T"/><lb
  n="0834c02" ed="T"/><lb
  n="0834c03" ed="T"/>
-<ab type="juan" subtype="open">仁王護國般若波羅蜜多經卷上</ab><lb
+<ab type='juan' subtype='open'>仁王護國般若波羅蜜多經卷上</ab><lb
  n="0834c04" ed="T"/><lb
  n="0834c05" ed="T"/><byline>開府儀同三司特進試鴻臚卿肅國公<lb
  n="0834c06" ed="T"/>食邑三千戶賜紫贈司空謚大鑒正號<lb
  n="0834c07" ed="T"/>大廣智大興善寺三藏沙門不空<lb
  n="0834c08" ed="T"/>奉　詔譯</byline><lb
- n="0834c09" ed="T"/><div type="pin" level="2"><head>序品第一</head><lb
- n="0834c10" ed="T"/><ab type="prose">如是我聞：一時，佛住王舍城鷲峰山中，與大<lb
+ n="0834c09" ed="T"/><div type='pin' level='2'><head>序品第一</head><lb
+ n="0834c10" ed="T"/><ab type='prose'>如是我聞：一時，佛住王舍城鷲峰山中，與大<lb
  n="0834c11" ed="T"/>比丘眾千八百人俱——皆阿羅漢，諸漏已盡無<lb
  n="0834c12" ed="T"/>復煩惱，心善解脫、慧善解脫，九智十智所作<lb
  n="0834c13" ed="T"/>已辦，三假實觀三空門觀，有為功德、無為功<lb
@@ -154,8 +154,8 @@
  n="0835b06" ed="T"/>菩薩摩訶薩皆來至此，持種種香、散種種華，<lb
  n="0835b07" ed="T"/>作無量音樂供養如來，頂禮佛足，默然退坐，<lb
  n="0835b08" ed="T"/>合掌恭敬，一心觀佛。</ab></div><lb
- n="0835b09" ed="T"/><div type="None" level="2"><head>仁王護國般若波羅蜜多經觀如來品第二</head><lb
- n="0835b10" ed="T"/><ab type="prose">爾時世尊從三昧起，坐師子座，告大眾言：「吾<lb
+ n="0835b09" ed="T"/><div type='' level='2'><head>仁王護國般若波羅蜜多經觀如來品第二</head><lb
+ n="0835b10" ed="T"/><ab type='prose'>爾時世尊從三昧起，坐師子座，告大眾言：「吾<lb
  n="0835b11" ed="T"/>知十六諸國王等咸作是念：『世尊大慈，普皆<lb
  n="0835b12" ed="T"/>利樂。我等諸王，云何護國？』善男子！吾今先為<lb
  n="0835b13" ed="T"/>諸菩薩摩訶薩，說護佛果、護十地行。汝等皆<lb
@@ -241,9 +241,9 @@
  n="0836b06" ed="T"/>力、無畏等恒沙功德，諸不共法悉皆如是。修<lb
  n="0836b07" ed="T"/>般若波羅蜜多者應如是觀，若他觀者名為<lb
  n="0836b08" ed="T"/>邪觀。」說是法時，無量大眾得法眼淨。</ab></div><lb
- n="0836b09" ed="T"/><div type="None" level="2"><head>仁王護國般若波羅蜜多經菩薩行品<lb
+ n="0836b09" ed="T"/><div type='' level='2'><head>仁王護國般若波羅蜜多經菩薩行品<lb
  n="0836b10" ed="T"/>第三</head><lb
- n="0836b11" ed="T"/><ab type="prose">爾時，波斯匿王白佛言：「世尊！護十地行菩薩<lb
+ n="0836b11" ed="T"/><ab type='prose'>爾時，波斯匿王白佛言：「世尊！護十地行菩薩<lb
  n="0836b12" ed="T"/>摩訶薩，應云何修行？云何化眾生？復以何相<lb
  n="0836b13" ed="T"/>而住觀察？」<lb
  n="0836b14" ed="T"/>佛告大王：「諸菩薩摩訶薩依五忍法以為修<lb
@@ -327,7 +327,7 @@
  n="0837b05" ed="T"/>可說香，供養、恭敬、稱讚如來。時波斯匿王即<lb
  n="0837b06" ed="T"/>於佛前以偈讚曰：<lb
  n="0837b07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「世尊導師金剛體，　　心行寂滅轉法輪，　　<lb
  n="0837b08" ed="T"/>八辯圓音為開演，　　時眾得道百萬億。　　<lb
  n="0837b09" ed="T"/>天人俱修出離行，　　能習一切菩薩道，　　<lb
@@ -389,7 +389,7 @@
  n="0838a07" ed="T"/>塵沙剎土悉震動，　　大眾歡喜皆蒙益，　　<lb
  n="0838a08" ed="T"/>世尊善說十四王，　　是故我今頭面禮。」　　
 </ab><lb
- n="0838a09" ed="T"/><ab type="prose">爾時，百萬億恒河沙大眾，聞佛世尊及波斯<lb
+ n="0838a09" ed="T"/><ab type='prose'>爾時，百萬億恒河沙大眾，聞佛世尊及波斯<lb
  n="0838a10" ed="T"/>匿王說十四忍無量功德，獲大法利，聞法悟<lb
  n="0838a11" ed="T"/>解，得無生忍，入於正位。<lb
  n="0838a12" ed="T"/>爾時，世尊告大眾言：「是波斯匿王，已於過去<lb
@@ -469,9 +469,9 @@
  n="0838c28" ed="T"/>自他如實觀察。」說是法時，會中無量人、天大<lb
  n="0838c29" ed="T"/>眾，有得伏忍、空無生忍，一地、二地乃至十地，<lb
  n="0838c30" ed="T"/>無量菩薩得一生補處。</ab></div><pb n="0839a" id="T08.0246.0839a" ed="T"/><lb
- n="0839a01" ed="T"/><div type="None" level="2"><head>仁王護國般若波羅蜜多經二諦品<lb
+ n="0839a01" ed="T"/><div type='' level='2'><head>仁王護國般若波羅蜜多經二諦品<lb
  n="0839a02" ed="T"/>第四</head><lb
- n="0839a03" ed="T"/><ab type="prose">爾時，波斯匿王白佛言：「世尊！勝義諦中有世<lb
+ n="0839a03" ed="T"/><ab type='prose'>爾時，波斯匿王白佛言：「世尊！勝義諦中有世<lb
  n="0839a04" ed="T"/>俗諦不？若言無者，智不應二；若言有者；智不<lb
  n="0839a05" ed="T"/>應一。一二之義，其事云何？」佛言：「大王！汝於過<lb
  n="0839a06" ed="T"/>去龍光王佛法中已問此義，我今無說，汝今<lb
@@ -479,7 +479,7 @@
  n="0839a08" ed="T"/>聽，當為汝說。」<lb
  n="0839a09" ed="T"/>爾時，世尊即說偈言：<lb
  n="0839a10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「無相勝義諦，　　體非自他作，　　<lb
  n="0839a11" ed="T"/>因緣如幻有，　　亦非自他作。　　<lb
  n="0839a12" ed="T"/>法性本無性。　　勝義諦空如。　　<lb
@@ -499,7 +499,7 @@
  n="0839a26" ed="T"/>若了如是法，　　即解一二義，　　<lb
  n="0839a27" ed="T"/>遍於一切法，　　應作如是觀。　　
 </ab><lb
- n="0839a28" ed="T"/><ab type="prose">「大王！菩薩摩訶薩住勝義諦化諸有情，佛及<lb
+ n="0839a28" ed="T"/><ab type='prose'>「大王！菩薩摩訶薩住勝義諦化諸有情，佛及<lb
  n="0839a29" ed="T"/>有情一而無二。何以故？有情、菩提此二皆空。<pb n="0839b" id="T08.0246.0839b" ed="T"/><lb
  n="0839b01" ed="T"/>以有情空得置菩提空，以菩提空得置有情<lb
  n="0839b02" ed="T"/>空，以一切法空空故空。何以故？般若無相，二<lb
@@ -551,18 +551,18 @@
  n="0839c19" ed="T"/>是法時，有十億人得三空忍，百萬億人得<lb
  n="0839c20" ed="T"/>大空忍，無量菩薩得住十地。</ab></div><lb
  n="0839c21" ed="T"/>
-<ab type="juan" subtype="close">仁王護國般若波羅蜜多經卷上</ab><pb n="0840a" id="T08.0246.0840a" ed="T"/><lb
+<ab type='juan' subtype='close'>仁王護國般若波羅蜜多經卷上</ab><pb n="0840a" id="T08.0246.0840a" ed="T"/><lb
  n="0840a01" ed="T"/><lb
  n="0840a02" ed="T"/><lb
  n="0840a03" ed="T"/>
-<ab type="juan" subtype="open">仁王護國般若波羅蜜多經卷下</ab><lb
+<ab type='juan' subtype='open'>仁王護國般若波羅蜜多經卷下</ab><lb
  n="0840a04" ed="T"/><lb
  n="0840a05" ed="T"/><byline>開府儀同三司特進試鴻臚卿肅國公<lb
  n="0840a06" ed="T"/>食邑三千戶賜紫贈司空諡大鑒正號<lb
  n="0840a07" ed="T"/>大廣智大興善寺三藏沙門不空奉<lb
  n="0840a08" ed="T"/>詔譯</byline><lb
- n="0840a09" ed="T"/><div type="None" level="2"><head>護國品第五</head><lb
- n="0840a10" ed="T"/><ab type="prose">爾時，世尊告波斯匿王等諸大國王：「諦聽，諦<lb
+ n="0840a09" ed="T"/><div type='' level='2'><head>護國品第五</head><lb
+ n="0840a10" ed="T"/><ab type='prose'>爾時，世尊告波斯匿王等諸大國王：「諦聽，諦<lb
  n="0840a11" ed="T"/>聽！我為汝等說護國法。一切國土若欲亂時，<lb
  n="0840a12" ed="T"/>有諸災難，賊來破壞。汝等諸王，應當受持，讀<lb
  n="0840a13" ed="T"/>誦此般若波羅蜜多，嚴飾道場，置百佛像、百<lb
@@ -597,7 +597,7 @@
  n="0840b13" ed="T"/>羅蜜多八千億偈。時彼眾中第一法師，為普<lb
  n="0840b14" ed="T"/>明王而說偈言：<lb
  n="0840b15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『劫火洞然，　　大千俱壞，　　須彌巨海，　　<lb
  n="0840b16" ed="T"/>磨滅無餘。　　梵釋天龍，　　諸有情等，　　<lb
  n="0840b17" ed="T"/>尚皆殄滅，　　何況此身。　　生老病死，　　<lb
@@ -610,7 +610,7 @@
  n="0840b24" ed="T"/>我我所生。　　識隨業遷，　　身即無主；　　<lb
  n="0840b25" ed="T"/>應知國土，　　幻化亦然。』　　
 </ab><lb
- n="0840b26" ed="T"/><ab type="prose">「爾時法師說此偈已，時普明王聞法悟解，證<lb
+ n="0840b26" ed="T"/><ab type='prose'>「爾時法師說此偈已，時普明王聞法悟解，證<lb
  n="0840b27" ed="T"/>空三昧，王諸眷屬得法眼空。其王即便詣<lb
  n="0840b28" ed="T"/>天羅國，諸王眾中而作是言：『仁等！今者就<lb
  n="0840b29" ed="T"/>命時到。悉應誦持過去諸佛所說般若波羅<pb n="0840c" id="T08.0246.0840c" ed="T"/><lb
@@ -629,9 +629,9 @@
  n="0840c13" ed="T"/>此經。」說是法時，無量人眾得不退轉，阿修<lb
  n="0840c14" ed="T"/>羅等得生天上，無量無數欲、色諸天得無生<lb
  n="0840c15" ed="T"/>忍。</ab></div><lb
- n="0840c16" ed="T"/><div type="None" level="2"><head>仁王護國般若波羅蜜多經不思議品<lb
+ n="0840c16" ed="T"/><div type='' level='2'><head>仁王護國般若波羅蜜多經不思議品<lb
  n="0840c17" ed="T"/>第六</head><lb
- n="0840c18" ed="T"/><ab type="prose">爾時十六國王及諸大眾，聞佛說此般若波<lb
+ n="0840c18" ed="T"/><ab type='prose'>爾時十六國王及諸大眾，聞佛說此般若波<lb
  n="0840c19" ed="T"/>羅蜜多甚深句義，歡喜踊躍，散百萬億眾寶<lb
  n="0840c20" ed="T"/>蓮花，於虛空中成寶花座；十方諸佛無量大<lb
  n="0840c21" ed="T"/>眾，共坐此座，說般若波羅蜜多。是諸大眾持<lb
@@ -663,9 +663,9 @@
  n="0841a18" ed="T"/>當佛現此神變之時，十千女人現轉女身得<lb
  n="0841a19" ed="T"/>神通三昧，無量天人得無生法忍，無量阿修<lb
  n="0841a20" ed="T"/>羅等成菩薩道，恒河沙菩薩現身成佛。</ab></div><lb
- n="0841a21" ed="T"/><div type="None" level="2"><head>仁王護國般若波羅蜜多經奉持品<lb
+ n="0841a21" ed="T"/><div type='' level='2'><head>仁王護國般若波羅蜜多經奉持品<lb
  n="0841a22" ed="T"/>第七</head><lb
- n="0841a23" ed="T"/><ab type="prose">爾時，波斯匿王覩佛神變——見千花臺上遍照<lb
+ n="0841a23" ed="T"/><ab type='prose'>爾時，波斯匿王覩佛神變——見千花臺上遍照<lb
  n="0841a24" ed="T"/>如來，千華葉上千化身佛，千花葉中無量諸<lb
  n="0841a25" ed="T"/>佛，各說般若波羅蜜多——白佛言：「世尊！如是無<lb
  n="0841a26" ed="T"/>量般若波羅蜜多，不可識識、不可智知。云何<lb
@@ -799,7 +799,7 @@
  n="0842c09" ed="T"/>所說，非是佛說。是故汝等應如是知，如是見，<lb
  n="0842c10" ed="T"/>如是信解。」爾時，世尊欲重宣此義，而說偈言：<lb
  n="0842c11" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「彼伏忍菩薩，　　於佛法長養，　　<lb
  n="0842c12" ed="T"/>堅固三十心，　　名為不退轉。　　<lb
  n="0842c13" ed="T"/>初證平等性，　　而生諸佛家，　　<lb
@@ -825,7 +825,7 @@
  n="0843a04" ed="T"/>滿足無漏界，　　常淨解脫身，　　<lb
  n="0843a05" ed="T"/>寂滅不思議，　　名為一切智。」　　
 </ab><lb
- n="0843a06" ed="T"/><ab type="prose">佛告波斯匿王：「我滅度後，法欲滅時，一切有<lb
+ n="0843a06" ed="T"/><ab type='prose'>佛告波斯匿王：「我滅度後，法欲滅時，一切有<lb
  n="0843a07" ed="T"/>情造惡業故，令諸國土種種災起。諸國王等，<lb
  n="0843a08" ed="T"/>為護自身、太子、王子、后妃、眷屬、百官、百姓、一切<lb
  n="0843a09" ed="T"/>國土，即當受持此般若波羅蜜多，皆得安樂。<lb
@@ -939,9 +939,9 @@
  n="0844b01" ed="T"/>昧門，真俗平等，具無礙解，常起大悲，於百<lb
  n="0844b02" ed="T"/>萬億阿僧祇佛剎微塵數世界，廣利眾生，現<lb
  n="0844b03" ed="T"/>身成佛。</ab></div><lb
- n="0844b04" ed="T"/><div type="None" level="2"><head>仁王護國般若波羅蜜多經囑累品<lb
+ n="0844b04" ed="T"/><div type='' level='2'><head>仁王護國般若波羅蜜多經囑累品<lb
  n="0844b05" ed="T"/>第八</head><lb
- n="0844b06" ed="T"/><ab type="prose">佛告波斯匿王：「今誡汝等！吾滅度後，正法欲<lb
+ n="0844b06" ed="T"/><ab type='prose'>佛告波斯匿王：「今誡汝等！吾滅度後，正法欲<lb
  n="0844b07" ed="T"/>滅，後五十年、後五百年、後五千年，無佛、法、僧。<lb
  n="0844b08" ed="T"/>此經、三寶，付諸國王建立守護，令我四部諸<lb
  n="0844b09" ed="T"/>弟子等，受持、讀誦，解其義理，廣為眾生宣說<lb
@@ -996,5 +996,5 @@
  n="0844c29" ed="T"/>羅等，一切大眾，聞佛所說，皆大歡喜，信受奉<pb n="0845a" id="T08.0246.0845a" ed="T"/><lb
  n="0845a01" ed="T"/>行。</ab></div><lb
  n="0845a02" ed="T"/>
-<ab type="juan" subtype="close">仁王護國般若波羅蜜多經卷下</ab></div>
+<ab type='juan' subtype='close'>仁王護國般若波羅蜜多經卷下</ab></div>
 </body></text></TEI>

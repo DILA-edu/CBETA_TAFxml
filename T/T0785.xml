@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T17</biblScope>
                     <idno type="Taisho">T17n0785</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0724a19" ed="T"/><lb
  n="0724a20" ed="T"/><lb
  n="0724a21" ed="T"/><lb
  n="0724a22" ed="T"/>
-<ab type="juan" subtype="open">得道梯橙錫杖經</ab><lb
+<ab type='juan' subtype='open'>得道梯橙錫杖經</ab><lb
  n="0724a23" ed="T"/><lb
  n="0724a24" ed="T"/><byline>失譯人名今附東晉錄</byline><lb
- n="0724a25" ed="T"/><div type="jing" level="2"><ab type="prose">爾時世尊告諸比丘：「汝等皆應受持錫杖。所<lb
+ n="0724a25" ed="T"/><div type='jing' level='2'><ab type='prose'>爾時世尊告諸比丘：「汝等皆應受持錫杖。所<lb
  n="0724a26" ed="T"/>以者何？過去諸佛執持錫杖，未來諸佛執持<lb
  n="0724a27" ed="T"/>錫杖，現在諸佛亦執是杖。如我今日成佛世<lb
  n="0724a28" ed="T"/>尊，亦執如是應持之杖。過去、未來、現在諸佛，<lb
@@ -58,8 +58,8 @@
  n="0724b03" ed="T"/>聖智，故名智杖；行功德本，故曰德杖。如是<lb
  n="0724b04" ed="T"/>杖者，聖人之表式、賢士之明記、趣道法之正<lb
  n="0724b05" ed="T"/>幢、建念義之志，是故汝等咸持如法。」爾時尊<lb
- n="0724b06" ed="T"/>者迦葉從坐而起，整衣服偏袒右肩，合掌䠒跪<lb
- n="0724b07" ed="T"/>而白佛言：「世尊！云何名錫杖？云何而受<lb
+ n="0724b06" ed="T"/>者迦葉從坐而起，整衣服偏袒右肩，合掌䠒<lb
+ n="0724b07" ed="T"/>跪而白佛言：「世尊！云何名錫杖？云何而受<lb
  n="0724b08" ed="T"/>持？唯然世尊！願敷演說，我等奉行。」佛告迦<lb
  n="0724b09" ed="T"/>葉：「諦聽善思！當為汝說。「所言錫杖者，錫者<lb
  n="0724b10" ed="T"/>輕也。依倚是杖，得除煩惱，出於三界，故曰輕<lb
@@ -101,7 +101,7 @@
  n="0724c17" ed="T"/>念三界之無常，則信重於三寶、除三惡、斷三<lb
  n="0724c18" ed="T"/>漏、淨三業，欲具三明、入三解脫、得三念<lb
  n="0724c19" ed="T"/>處、通三達智，故立三鬲，以相重也。「復有四<lb
- n="0724c20" ed="T"/>鉆者，用斷四生、念四諦、修四等、入四禪、淨<lb
+ n="0724c20" ed="T"/>鈷者，用斷四生、念四諦、修四等、入四禪、淨<lb
  n="0724c21" ed="T"/>四空、明四念處、堅四正勤、得四神足，故立<lb
  n="0724c22" ed="T"/>四楞。「通中鬲五，用斷五道苦惱輪迴，修<pb n="0725a" ed="T" id="T17.0785.0725a"/><lb
  n="0725a01" ed="T"/>五根、具五力、除五蓋、散五陰，得五分法身，<lb
@@ -160,20 +160,20 @@
  n="0725b25" ed="T"/>日日須好磨拭。五者、杖欲出時當從沙彌邊<lb
  n="0725b26" ed="T"/>受，若無沙彌白衣亦得。<lb
  n="0725b27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 錫杖四鈷應四諦，　　環應十二因緣，　　<lb
  n="0725b28" ed="T"/>中召明中道義。　　上頭應須彌頂，　　<lb
  n="0725b29" ed="T"/>第二應須彌山，　　中央木應於空，　　<pb n="0725c" ed="T" id="T17.0785.0725c"/><lb
  n="0725c01" ed="T"/>下錯應須彌根。　　
 </ab><lb
- n="0725c02" ed="T"/><ab type="prose">沙門之法，解空得道，執此惺𥧝世間一切<lb
+ n="0725c02" ed="T"/><ab type='prose'>沙門之法，解空得道，執此惺𡩺世間一切<lb
  n="0725c03" ed="T"/>眾生。諸比丘等！至心奉行。</ab></div><lb
  n="0725c04" ed="T"/>
-<ab type="juan" subtype="close">得道梯橙錫杖經</ab><lb
+<ab type='juan' subtype='close'>得道梯橙錫杖經</ab><lb
  n="0725c05" ed="T"/><lb
- n="0725c06" ed="T"/><div type="w" level="2"><head>又持錫杖法</head><lb
+ n="0725c06" ed="T"/><div type='w' level='2'><head>又持錫杖法</head><lb
  n="0725c07" ed="T"/><lb
- n="0725c08" ed="T"/><ab type="prose">錫杖有二十五事威儀。持錫杖有二十五<lb
+ n="0725c08" ed="T"/><ab type='prose'>錫杖有二十五事威儀。持錫杖有二十五<lb
  n="0725c09" ed="T"/>事者：一者、為蛇蟲故。二者、為年老故。三者、<lb
  n="0725c10" ed="T"/>為分衛故。四者、為出入見佛像不得使頭<lb
  n="0725c11" ed="T"/>有聲。五者、不得持杖入眾。六者、中後不得<lb

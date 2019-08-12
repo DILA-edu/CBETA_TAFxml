@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T02</biblScope>
                     <idno type="Taisho">T02n0116</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0507b07" ed="T"/><lb
  n="0507b08" ed="T"/><lb
- n="0507b09" ed="T"/><div type="jing" level="1"><lb
+ n="0507b09" ed="T"/><div type='jing' level='1'><lb
  n="0507b11" ed="T"/>
-<ab type="juan" subtype="open">佛說戒德香經</ab><lb
+<ab type='juan' subtype='open'>佛說戒德香經</ab><lb
  n="0507b12" ed="T"/><lb
  n="0507b13" ed="T"/><byline>東晉天竺三藏竺曇無蘭譯</byline><lb
- n="0507b14" ed="T"/><ab type="prose">聞如是：一時，佛遊舍衛國祇樹給孤獨園。時，<lb
+ n="0507b14" ed="T"/><ab type='prose'>聞如是：一時，佛遊舍衛國祇樹給孤獨園。時，<lb
  n="0507b15" ed="T"/>賢者阿難閑居獨思：「世有三香，一曰根香，<lb
  n="0507b16" ed="T"/>二曰枝香，三曰華香，是三品香唯隨風香不<lb
  n="0507b17" ed="T"/>能逆風，寧有雅香隨風逆風者乎？」賢者阿難<lb
@@ -67,7 +67,7 @@
  n="0507c02" ed="T"/>道德恩義不失禮節。』是香名曰隨風逆風靡<lb
  n="0507c03" ed="T"/>不周照，十方宣德一切蒙賴。」佛時頌曰：<lb
  n="0507c04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「雖有美香花，　　不能逆風熏，　　<lb
  n="0507c05" ed="T"/>不息名栴檀，　　眾雨一切香。　　<lb
  n="0507c06" ed="T"/>志性能和雅，　　爾乃逆風香，　　<lb
@@ -81,7 +81,7 @@
  n="0507c14" ed="T"/>用上佛道堂，　　昇無窮之慧，　　<lb
  n="0507c15" ed="T"/>以此宣經義，　　除去一切弊。」　　
 </ab><lb
- n="0507c16" ed="T"/><ab type="prose">佛告阿難：「是香所布，不礙須彌山川天地，不<lb
+ n="0507c16" ed="T"/><ab type='prose'>佛告阿難：「是香所布，不礙須彌山川天地，不<lb
  n="0507c17" ed="T"/>礙四種地水火風，通達八極上下亦然，無窮<lb
  n="0507c18" ed="T"/>之界咸歌其德。一身不殺生，世世長壽，其<lb
  n="0507c19" ed="T"/>命無橫。不盜竊者，世世富饒又不妄遺財<lb
@@ -96,5 +96,5 @@
  n="0507c28" ed="T"/>從其真妙。」佛說如是。時，諸比丘聞之歡喜，作<lb
  n="0507c29" ed="T"/>禮而去。<pb n="0508a" ed="T" id="T02.0116.0508a"/><lb
  n="0508a01" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說戒德香經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說戒德香經</ab></div>
 </body></text></TEI>

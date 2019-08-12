@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T04</biblScope>
                     <idno type="Taisho">T04n0213</idno>
                 </bibl>
@@ -39,23 +39,23 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0777a" ed="T" id="T04.0213.0777a"/><lb
- n="0777a01" ed="T"/><div type="pin" level="2"><lb
+ n="0777a01" ed="T"/><div type='pin' level='2'><lb
  n="0777a02" ed="T"/>
-<ab type="juan" subtype="open">法集要頌經有為品第一</ab><lb
+<ab type='juan' subtype='open'>法集要頌經有為品第一</ab><lb
  n="0777a03" ed="T"/><lb
  n="0777a04" ed="T"/><byline>尊者法救集</byline><lb
  n="0777a05" ed="T"/><byline>西天中印度惹爛駄<lb
  n="0777a06" ed="T"/>囉國密林寺三藏明教大師賜紫<lb
  n="0777a07" ed="T"/>沙門臣天息災奉　詔譯</byline><lb
- n="0777a08" ed="T"/><ab type="verse">
+ n="0777a08" ed="T"/><ab type='verse'>
 能覺悟煩惱，　　宜發歡喜心，　　<lb
  n="0777a09" ed="T"/>今聽我所集，　　佛所宣法頌。　　<lb
  n="0777a10" ed="T"/>如是佛世尊，　　一切智中師，　　<lb
  n="0777a11" ed="T"/>慈悲為有情，　　廣說真實語。　　
 </ab><lb
- n="0777a12" ed="T"/><ab type="verse">
+ n="0777a12" ed="T"/><ab type='verse'>
 一切行非常，　　皆是興衰法，　　<lb
  n="0777a13" ed="T"/>夫生輒還終，　　寂滅最安樂。　　<lb
  n="0777a14" ed="T"/>如燭熾焰時，　　擲物在暗處，　　<lb
@@ -103,7 +103,7 @@
  n="0777b27" ed="T"/>行惡入地獄，　　修善則生天，　　<lb
  n="0777b28" ed="T"/>若能修善者，　　漏盡得涅槃。　　
 </ab><lb
- n="0777b29" ed="T"/><ab type="verse">
+ n="0777b29" ed="T"/><ab type='verse'>
 諸佛與菩薩，　　緣覺及聲聞，　　<pb n="0777c" ed="T" id="T04.0213.0777c"/><lb
  n="0777c01" ed="T"/>尚捨有為身，　　何況諸有情？　　<lb
  n="0777c02" ed="T"/>非空非海中，　　非入山窟間，　　<lb
@@ -135,8 +135,8 @@
  n="0777c28" ed="T"/>剃髮為苾芻，　　宜應修止觀，　　<lb
  n="0777c29" ed="T"/>魔羅不能伺，　　度生到彼岸。　　
 </ab></div><pb n="0778a" ed="T" id="T04.0213.0778a"/><lb
- n="0778a01" ed="T"/><div type="pin" level="2"><head>法集要頌經愛欲品第二</head><lb
- n="0778a02" ed="T"/><ab type="verse">
+ n="0778a01" ed="T"/><div type='pin' level='2'><head>法集要頌經愛欲品第二</head><lb
+ n="0778a02" ed="T"/><ab type='verse'>
 慾我知汝根，　　意以思想生，　　<lb
  n="0778a03" ed="T"/>我不思惟汝，　　則汝慾不有。　　<lb
  n="0778a04" ed="T"/>因慾生煩惱，　　因慾生怖畏，　　<lb
@@ -180,8 +180,8 @@
  n="0778b13" ed="T"/>世間苦果報，　　皆因於貪欲，　　<lb
  n="0778b14" ed="T"/>智者善調伏，　　應依此中學。　　
 </ab></div><lb
- n="0778b15" ed="T"/><div type="pin" level="2"><head>法集要頌經貪品第三</head><lb
- n="0778b16" ed="T"/><ab type="verse">
+ n="0778b15" ed="T"/><div type='pin' level='2'><head>法集要頌經貪品第三</head><lb
+ n="0778b16" ed="T"/><ab type='verse'>
 極貪善顯現，　　有情懷疑慮，　　<lb
  n="0778b17" ed="T"/>若復增貪意，　　自作堅固縛。　　<lb
  n="0778b18" ed="T"/>離貪善觀察，　　疑慮得消除，　　<lb
@@ -225,8 +225,8 @@
  n="0778c27" ed="T"/>能覺知是者，　　愛苦共生有，　　<lb
  n="0778c28" ed="T"/>無欲無有想，　　苾芻真度世。　　
 </ab></div><lb
- n="0778c29" ed="T"/><div type="pin" level="2"><head>法集要頌經放逸品第四</head><pb n="0779a" ed="T" id="T04.0213.0779a"/><lb
- n="0779a01" ed="T"/><ab type="verse">
+ n="0778c29" ed="T"/><div type='pin' level='2'><head>法集要頌經放逸品第四</head><pb n="0779a" ed="T" id="T04.0213.0779a"/><lb
+ n="0779a01" ed="T"/><ab type='verse'>
 戒為甘露道，　　放逸為死徑，　　<lb
  n="0779a02" ed="T"/>不貪則不死，　　失道乃自喪。　　<lb
  n="0779a03" ed="T"/>智者守道勝，　　終不為迷醉，　　<lb
@@ -259,7 +259,7 @@
  n="0779b01" ed="T"/>本情不自造，　　情知不自為，　　<lb
  n="0779b02" ed="T"/>不慮邪徑路，　　愚者念力求。　　
 </ab><lb
- n="0779b03" ed="T"/><ab type="verse">
+ n="0779b03" ed="T"/><ab type='verse'>
 智者喻明燈，　　闇者從得燭，　　<lb
  n="0779b04" ed="T"/>示導世間人，　　如目將無目。　　<lb
  n="0779b05" ed="T"/>若所作不善，　　如彼無目人，　　<lb
@@ -283,7 +283,7 @@
  n="0779b23" ed="T"/>苾芻懷謹慎，　　放逸多憂愆，　　<lb
  n="0779b24" ed="T"/>如象拔淤泥，　　難救深海苦。　　
 </ab><lb
- n="0779b25" ed="T"/><ab type="verse">
+ n="0779b25" ed="T"/><ab type='verse'>
 苾芻懷謹慎，　　放逸多憂愆，　　<lb
  n="0779b26" ed="T"/>抖擻諸罪塵，　　如風飄落葉。　　<lb
  n="0779b27" ed="T"/>苾芻懷謹慎，　　放逸多憂愆，　　<lb
@@ -305,7 +305,7 @@
  n="0779c14" ed="T"/>常離不相應，　　使不壞其念，　　<lb
  n="0779c15" ed="T"/>猶念恒調伏，　　塵垢得消除。　　
 </ab><lb
- n="0779c16" ed="T"/><ab type="verse">
+ n="0779c16" ed="T"/><ab type='verse'>
 苾芻懷謹慎，　　持戒勿破壞，　　<lb
  n="0779c17" ed="T"/>善守護自心，　　今世及後世。　　<lb
  n="0779c18" ed="T"/>苾芻勿放逸，　　捨家順佛教，　　<lb
@@ -313,8 +313,8 @@
  n="0779c20" ed="T"/>依此毘尼法，　　不懷放逸行，　　<lb
  n="0779c21" ed="T"/>消除生死輪，　　永得盡苦惱。　　
 </ab></div><lb
- n="0779c22" ed="T"/><div type="pin" level="2"><head>法集要頌經愛樂品第五</head><lb
- n="0779c23" ed="T"/><ab type="verse">
+ n="0779c22" ed="T"/><div type='pin' level='2'><head>法集要頌經愛樂品第五</head><lb
+ n="0779c23" ed="T"/><ab type='verse'>
 愛處生憂愁，　　愛處生怖畏，　　<lb
  n="0779c24" ed="T"/>若無所愛樂，　　何愁何怖畏？　　<lb
  n="0779c25" ed="T"/>由愛生憂愁，　　由愛生怖畏，　　<lb
@@ -329,7 +329,7 @@
  n="0780a05" ed="T"/>念愛不見苦，　　不愛念憂慼，　　<lb
  n="0780a06" ed="T"/>於中生愁慼，　　消滅人善根。　　
 </ab><lb
- n="0780a07" ed="T"/><ab type="verse">
+ n="0780a07" ed="T"/><ab type='verse'>
 愛念就後世，　　朋友多親眷，　　<lb
  n="0780a08" ed="T"/>長夜憂愁恨，　　念離為甚苦。　　<lb
  n="0780a09" ed="T"/>念色金色容，　　天身而別住，　　<lb
@@ -350,7 +350,7 @@
  n="0780a24" ed="T"/>頗有斯等類，　　不愛乃愛彼。　　<lb
  n="0780a25" ed="T"/>以己喻彼命，　　是故不害人，　　
 </ab><lb
- n="0780a26" ed="T"/><ab type="verse">
+ n="0780a26" ed="T"/><ab type='verse'>
 一切皆懼死，　　莫不畏刀杖，　　<lb
  n="0780a27" ed="T"/>恕己可為喻，　　勿殺勿行杖。　　<lb
  n="0780a28" ed="T"/>譬如久行人，　　從遠吉却還，　　<lb
@@ -362,7 +362,7 @@
  n="0780b05" ed="T"/>近者與不近，　　所往皆有異，　　<lb
  n="0780b06" ed="T"/>近道則生天，　　不近墮地獄。　　
 </ab><lb
- n="0780b07" ed="T"/><ab type="verse">
+ n="0780b07" ed="T"/><ab type='verse'>
 樂法戒成就，　　成信樂而習，　　<lb
  n="0780b08" ed="T"/>能誡自身者，　　為人所愛敬。　　<lb
  n="0780b09" ed="T"/>為人所敬故，　　皆由己所造，　　<lb
@@ -372,8 +372,8 @@
  n="0780b13" ed="T"/>善與不善者，　　此二俱不別，　　<lb
  n="0780b14" ed="T"/>善者生天上，　　不善墮地獄。　　
 </ab></div><lb
- n="0780b15" ed="T"/><div type="pin" level="2"><head>法集要頌經持戒品第六</head><lb
- n="0780b16" ed="T"/><ab type="verse">
+ n="0780b15" ed="T"/><div type='pin' level='2'><head>法集要頌經持戒品第六</head><lb
+ n="0780b16" ed="T"/><ab type='verse'>
 智者能護戒，　　福致三種報，　　<lb
  n="0780b17" ed="T"/>現名聞得利，　　終後生天上。　　<lb
  n="0780b18" ed="T"/>當見持戒者，　　護之為明智，　　<lb
@@ -397,7 +397,7 @@
  n="0780c07" ed="T"/>以戒常伏心，　　守護正定意，　　<lb
  n="0780c08" ed="T"/>內學修止觀，　　無忘為正智。　　
 </ab><lb
- n="0780c09" ed="T"/><ab type="verse">
+ n="0780c09" ed="T"/><ab type='verse'>
 蠲除諸罪垢，　　盡慢勿生疑，　　<lb
  n="0780c10" ed="T"/>終身求法戒，　　勿遠離聖念。　　<lb
  n="0780c11" ed="T"/>戒定慧解脫，　　應當善觀察，　　<lb
@@ -419,8 +419,8 @@
  n="0780c27" ed="T"/>此道無有上，　　消除禪定魔，　　<lb
  n="0780c28" ed="T"/>賢聖德難量，　　得達八正路。　　
 </ab></div><lb
- n="0780c29" ed="T"/><div type="pin" level="2"><head>法集要頌經善行品第七</head><pb n="0781a" ed="T" id="T04.0213.0781a"/><lb
- n="0781a01" ed="T"/><ab type="verse">
+ n="0780c29" ed="T"/><div type='pin' level='2'><head>法集要頌經善行品第七</head><pb n="0781a" ed="T" id="T04.0213.0781a"/><lb
+ n="0781a01" ed="T"/><ab type='verse'>
 守護身惡行，　　自正護身行，　　<lb
  n="0781a02" ed="T"/>守護身惡者，　　常修身善行。　　<lb
  n="0781a03" ed="T"/>守護口惡行，　　自正護口行，　　<lb
@@ -438,7 +438,7 @@
  n="0781a15" ed="T"/>不行殺為仁，　　常能慎過言，　　<lb
  n="0781a16" ed="T"/>彼得無盡位，　　所適皆無患。　　
 </ab><lb
- n="0781a17" ed="T"/><ab type="verse">
+ n="0781a17" ed="T"/><ab type='verse'>
 過去身惡業，　　應當自悔恨，　　<lb
  n="0781a18" ed="T"/>今身不放逸，　　智生罪除滅。　　<lb
  n="0781a19" ed="T"/>過去口惡業，　　應當自悔恨，　　<lb
@@ -454,8 +454,8 @@
  n="0781a29" ed="T"/>護口意清淨，　　身終不為惡，　　<pb n="0781b" ed="T" id="T04.0213.0781b"/><lb
  n="0781b01" ed="T"/>能淨此三業，　　是道大仙說。　　
 </ab></div><lb
- n="0781b02" ed="T"/><div type="pin" level="2"><head>法集要頌經語言品第八</head><lb
- n="0781b03" ed="T"/><ab type="verse">
+ n="0781b02" ed="T"/><div type='pin' level='2'><head>法集要頌經語言品第八</head><lb
+ n="0781b03" ed="T"/><ab type='verse'>
 妄語入地獄，　　作之言不作，　　<lb
  n="0781b04" ed="T"/>二罪後俱受，　　是行自牽去。　　<lb
  n="0781b05" ed="T"/>恒懷暴惡人，　　斧在口中出，　　<lb
@@ -465,7 +465,7 @@
  n="0781b09" ed="T"/>譽惡惡還譽，　　是二俱為惡，　　<lb
  n="0781b10" ed="T"/>好以口快鬪，　　彼後皆無安。　　
 </ab><lb
- n="0781b11" ed="T"/><ab type="verse">
+ n="0781b11" ed="T"/><ab type='verse'>
 爭為微少利，　　如掩失財寶，　　<lb
  n="0781b12" ed="T"/>從彼致鬪諍，　　合意向惡道。　　<lb
  n="0781b13" ed="T"/>百千尼羅浮，　　三十六五獄，　　<lb
@@ -494,8 +494,8 @@
  n="0781c07" ed="T"/>如說佛言者，　　是吉得滅度，　　<lb
  n="0781c08" ed="T"/>為能斷苦際，　　是謂言中上。　　
 </ab></div><lb
- n="0781c09" ed="T"/><div type="pin" level="2"><head>法集要頌經業品第九</head><lb
- n="0781c10" ed="T"/><ab type="verse">
+ n="0781c09" ed="T"/><div type='pin' level='2'><head>法集要頌經業品第九</head><lb
+ n="0781c10" ed="T"/><ab type='verse'>
 應遠離一法，　　所謂妄語人，　　<lb
  n="0781c11" ed="T"/>無惡不經歷，　　不免後世苦。　　<lb
  n="0781c12" ed="T"/>寧吞熱鐵丸，　　渴飲洋銅汁，　　<lb
@@ -511,7 +511,7 @@
  n="0781c22" ed="T"/>眾生有苦惱，　　不免於老死，　　<lb
  n="0781c23" ed="T"/>唯有仁智者，　　能免纏縛罪。　　
 </ab><lb
- n="0781c24" ed="T"/><ab type="verse">
+ n="0781c24" ed="T"/><ab type='verse'>
 妄語求賄賂，　　自所行不正，　　<lb
  n="0781c25" ed="T"/>怨譖良善人，　　以枉治善士，　　<lb
  n="0781c26" ed="T"/>罪纏斯等人，　　沒溺深險坑。　　<lb
@@ -536,14 +536,14 @@
  n="0782a16" ed="T"/>如鐵生翳垢，　　反食其自身，　　<lb
  n="0782a17" ed="T"/>惡生於自心，　　還當壞其體。　　
 </ab></div><lb
- n="0782a18" ed="T"/><div type="pin" level="2"><head>法集要頌經正信品第十</head><lb
- n="0782a19" ed="T"/><ab type="verse">
+ n="0782a18" ed="T"/><div type='pin' level='2'><head>法集要頌經正信品第十</head><lb
+ n="0782a19" ed="T"/><ab type='verse'>
 信慚戒布施，　　上士譽此法，　　<lb
  n="0782a20" ed="T"/>斯道明智說，　　得生於天界。　　<lb
  n="0782a21" ed="T"/>愚不修天行，　　亦不讚布施，　　<lb
  n="0782a22" ed="T"/>正直隨喜施，　　彼得後世樂。　　
 </ab><lb
- n="0782a23" ed="T"/><ab type="verse">
+ n="0782a23" ed="T"/><ab type='verse'>
 信者真人長，　　念法所安住，　　<lb
  n="0782a24" ed="T"/>近者應得上，　　智壽中中賢。　　<lb
  n="0782a25" ed="T"/>人業何者上？　　何行致歡樂？　　<lb
@@ -579,12 +579,12 @@
  n="0782b26" ed="T"/>樂信與不樂，　　寂默自應思，　　<lb
  n="0782b27" ed="T"/>遠離無信者，　　信仁應行之。　　
 </ab><lb
- n="0782b28" ed="T"/><ab type="verse">
+ n="0782b28" ed="T"/><ab type='verse'>
 無常及欲、貪　　放逸與愛樂　　<lb
  n="0782b29" ed="T"/>戒善、行、語言　　業、信為第十　　
 </ab></div><pb n="0782c" ed="T" id="T04.0213.0782c"/><lb
- n="0782c01" ed="T"/><div type="pin" level="2"><head>法集要頌經沙門品第十一</head><lb
- n="0782c02" ed="T"/><ab type="verse">
+ n="0782c01" ed="T"/><div type='pin' level='2'><head>法集要頌經沙門品第十一</head><lb
+ n="0782c02" ed="T"/><ab type='verse'>
 斷漏降伏他，　　離欲名梵行，　　<lb
  n="0782c03" ed="T"/>不犯牟尼戒，　　無一願不滿。　　<lb
  n="0782c04" ed="T"/>行力若緩慢，　　作善與不善，　　<lb
@@ -621,17 +621,17 @@
  n="0783a06" ed="T"/>穢垢盡消除，　　故說為出家。　　
 </ab><lb
  n="0783a07" ed="T"/>
-<ab type="juan" subtype="close">法集要頌經卷第一</ab></div><lb
- n="0783a08" ed="T"/><div type="pin" level="2"><lb
+<ab type='juan' subtype='close'>法集要頌經卷第一</ab></div><lb
+ n="0783a08" ed="T"/><div type='pin' level='2'><lb
  n="0783a09" ed="T"/>
-<ab type="juan" subtype="open">法集要頌經卷第二</ab><lb
+<ab type='juan' subtype='open'>法集要頌經卷第二</ab><lb
  n="0783a10" ed="T"/><lb
  n="0783a11" ed="T"/><byline>尊者法救集</byline><lb
  n="0783a12" ed="T"/><byline>西天中印度惹爛駄囉國密林寺<lb
  n="0783a13" ed="T"/>三藏明教大師賜紫沙門臣<lb
  n="0783a14" ed="T"/>天息災奉　詔譯</byline><lb
  n="0783a15" ed="T"/><head>法集要頌經正道品第十二</head><lb
- n="0783a16" ed="T"/><ab type="verse">
+ n="0783a16" ed="T"/><ab type='verse'>
 正道四聖諦，　　智慧所觀察，　　<lb
  n="0783a17" ed="T"/>破壞愛輪迴，　　如風吹塵散。　　<lb
  n="0783a18" ed="T"/>能見聖諦者，　　寂靜應觀察，　　<lb
@@ -643,7 +643,7 @@
  n="0783a24" ed="T"/>智為出世長，　　快樂證無為，　　<lb
  n="0783a25" ed="T"/>知受正教者，　　永盡生老死。　　
 </ab><lb
- n="0783a26" ed="T"/><ab type="verse">
+ n="0783a26" ed="T"/><ab type='verse'>
 一切行無常，　　如慧所觀察，　　<lb
  n="0783a27" ed="T"/>若能覺此苦，　　行道淨其迹。　　<lb
  n="0783a28" ed="T"/>一切諸行苦，　　如慧之所見，　　<lb
@@ -680,8 +680,8 @@
  n="0783c01" ed="T"/>讚歎得名譽，　　逮賢聖八品，　　<lb
  n="0783c02" ed="T"/>修道甘露果。　　
 </ab></div><lb
- n="0783c03" ed="T"/><div type="pin" level="2"><head>法集要頌經利養品第十三</head><lb
- n="0783c04" ed="T"/><ab type="verse">
+ n="0783c03" ed="T"/><div type='pin' level='2'><head>法集要頌經利養品第十三</head><lb
+ n="0783c04" ed="T"/><ab type='verse'>
 芭蕉以實死，　　竹蘆實亦然，　　<lb
  n="0783c05" ed="T"/>駏驉坐妊終，　　人為貪利喪。　　<lb
  n="0783c06" ed="T"/>如是貪無利，　　當知從癡生，　　<lb
@@ -699,7 +699,7 @@
  n="0783c18" ed="T"/>自利尚無貪，　　豈貴他名譽？　　<lb
  n="0783c19" ed="T"/>百味如膏車，　　支形得行道。　　
 </ab><lb
- n="0783c20" ed="T"/><ab type="verse">
+ n="0783c20" ed="T"/><ab type='verse'>
 苾芻貪利養，　　不得三摩地，　　<lb
  n="0783c21" ed="T"/>知足常寂靜，　　止觀可成就。　　<lb
  n="0783c22" ed="T"/>苾芻遠利譽，　　常足不貪求，　　<lb
@@ -723,14 +723,14 @@
  n="0784a11" ed="T"/>微細病難忍，　　利養最難離，　　<lb
  n="0784a12" ed="T"/>供養心不動，　　天龍致禮拜。　　
 </ab></div><lb
- n="0784a13" ed="T"/><div type="pin" level="2"><head>法集要頌經怨家品第十四</head><lb
- n="0784a14" ed="T"/><ab type="verse">
+ n="0784a13" ed="T"/><div type='pin' level='2'><head>法集要頌經怨家品第十四</head><lb
+ n="0784a14" ed="T"/><ab type='verse'>
 不怨而興怨，　　不謗而造業，　　<lb
  n="0784a15" ed="T"/>愚迷受輪迴，　　今世及後世。　　<lb
  n="0784a16" ed="T"/>先自作漏業，　　然後害他人，　　<lb
  n="0784a17" ed="T"/>彼此相興害，　　如鳥墮羅網。　　
 </ab><lb
- n="0784a18" ed="T"/><ab type="verse">
+ n="0784a18" ed="T"/><ab type='verse'>
 破他還自破，　　冤家遇冤家，　　<lb
  n="0784a19" ed="T"/>毀他還自毀，　　瞋他還自瞋。　　<lb
  n="0784a20" ed="T"/>斯何沙門行，　　不知正法本，　　<lb
@@ -756,14 +756,14 @@
  n="0784b11" ed="T"/>樂戒學法行，　　奚用伴侶為？　　<lb
  n="0784b12" ed="T"/>如龍好深淵，　　如象樂曠野。　　
 </ab></div><lb
- n="0784b13" ed="T"/><div type="pin" level="2"><head>法集要頌經憶念品第十五</head><lb
- n="0784b14" ed="T"/><ab type="verse">
+ n="0784b13" ed="T"/><div type='pin' level='2'><head>法集要頌經憶念品第十五</head><lb
+ n="0784b14" ed="T"/><ab type='verse'>
 入息出息念，　　具滿諦思惟，　　<lb
  n="0784b15" ed="T"/>常依次第行，　　按如佛所說。　　<lb
  n="0784b16" ed="T"/>是則照世間，　　如雲開月現，　　<lb
  n="0784b17" ed="T"/>起止覺思惟，　　坐臥不廢忘。　　
 </ab><lb
- n="0784b18" ed="T"/><ab type="verse">
+ n="0784b18" ed="T"/><ab type='verse'>
 苾芻立是念，　　現利未來勝，　　<lb
  n="0784b19" ed="T"/>始得終最勝，　　逝不覩生死。　　<lb
  n="0784b20" ed="T"/>若見身所住，　　六觸以為最，　　<lb
@@ -781,7 +781,7 @@
  n="0784c03" ed="T"/>以覺意得應，　　晝夜慕習學，　　<lb
  n="0784c04" ed="T"/>解脫甘露要，　　決定得無漏。　　
 </ab><lb
- n="0784c05" ed="T"/><ab type="verse">
+ n="0784c05" ed="T"/><ab type='verse'>
 若人得善利，　　而來自歸佛，　　<lb
  n="0784c06" ed="T"/>是故當晝夜，　　一心常念佛。　　<lb
  n="0784c07" ed="T"/>若人得善利，　　而來自歸法，　　<lb
@@ -821,8 +821,8 @@
  n="0785a12" ed="T"/>善知自覺者，　　是能仁弟子，　　<lb
  n="0785a13" ed="T"/>應當於晝夜，　　一心念圓寂。　　
 </ab></div><lb
- n="0785a14" ed="T"/><div type="pin" level="2"><head>法集要頌經清淨品第十六</head><lb
- n="0785a15" ed="T"/><ab type="verse">
+ n="0785a14" ed="T"/><div type='pin' level='2'><head>法集要頌經清淨品第十六</head><lb
+ n="0785a15" ed="T"/><ab type='verse'>
 當念自覺悟，　　作時勿虛妄，　　<lb
  n="0785a16" ed="T"/>行要修亦安，　　所造時真實。　　<lb
  n="0785a17" ed="T"/>人當求方便，　　自致獲財寶，　　<lb
@@ -831,7 +831,7 @@
  n="0785a20" ed="T"/>如工鍊真金，　　除其塵垢冥。　　<lb
  n="0785a21" ed="T"/>不為闇所蔽，　　永離老死患，　　
 </ab><lb
- n="0785a22" ed="T"/><ab type="verse">
+ n="0785a22" ed="T"/><ab type='verse'>
 不羞而反羞，　　反羞而不羞。　　<lb
  n="0785a23" ed="T"/>不畏而現畏，　　畏現而不畏，　　<lb
  n="0785a24" ed="T"/>生為人邪見，　　死定入地獄。　　<lb
@@ -870,8 +870,8 @@
  n="0785b28" ed="T"/>有緣則增苦，　　觀彼二因緣，　　<lb
  n="0785b29" ed="T"/>滅之由賢眾，　　不從外愚除。　　
 </ab></div><pb n="0785c" ed="T" id="T04.0213.0785c"/><lb
- n="0785c01" ed="T"/><div type="pin" level="2"><head>法集要頌經水喻品第十七</head><lb
- n="0785c02" ed="T"/><ab type="verse">
+ n="0785c01" ed="T"/><div type='pin' level='2'><head>法集要頌經水喻品第十七</head><lb
+ n="0785c02" ed="T"/><ab type='verse'>
 淨心常憶念，　　無所有貪愛，　　<lb
  n="0785c03" ed="T"/>已度愚癡淵，　　如鵝守枯池。　　<lb
  n="0785c04" ed="T"/>彼心既棄捨，　　翱翔昇虛空，　　<lb
@@ -889,13 +889,13 @@
  n="0785c16" ed="T"/>猶如人渡河，　　縛栰而牢固，　　<lb
  n="0785c17" ed="T"/>彼謂度不度，　　聰叡乃謂度。　　
 </ab><lb
- n="0785c18" ed="T"/><ab type="verse">
+ n="0785c18" ed="T"/><ab type='verse'>
 佛世尊已度，　　梵志度當度，　　<lb
  n="0785c19" ed="T"/>苾芻入淵池，　　聲聞縛牢固。　　<lb
  n="0785c20" ed="T"/>是泉而何用，　　水恒而停滿，　　<lb
  n="0785c21" ed="T"/>拔愛根本除，　　復欲何所望？　　
 </ab><lb
- n="0785c22" ed="T"/><ab type="verse">
+ n="0785c22" ed="T"/><ab type='verse'>
 水工調舟船，　　弓師能調角，　　<lb
  n="0785c23" ed="T"/>巧匠樂調木，　　智者能調身。　　<lb
  n="0785c24" ed="T"/>猶如深淨泉，　　表裏甚清徹，　　<lb
@@ -905,32 +905,32 @@
  n="0785c28" ed="T"/>忍心如大地，　　不動如虛空，　　<lb
  n="0785c29" ed="T"/>聞法喻金剛，　　獲味免輪迴。　　
 </ab></div><pb n="0786a" ed="T" id="T04.0213.0786a"/><lb
- n="0786a01" ed="T"/><div type="pin" level="2"><head>法集要頌經華喻品第十八</head><lb
- n="0786a02" ed="T"/><ab type="verse">
+ n="0786a01" ed="T"/><div type='pin' level='2'><head>法集要頌經華喻品第十八</head><lb
+ n="0786a02" ed="T"/><ab type='verse'>
 何人能擇地？　　捨地獄取天，　　<lb
  n="0786a03" ed="T"/>惟說善法句，　　如採善妙華。　　<lb
  n="0786a04" ed="T"/>學人能擇地，　　捨地獄取天，　　<lb
  n="0786a05" ed="T"/>善說妙法句，　　能採眾妙華。　　
 </ab><lb
- n="0786a06" ed="T"/><ab type="verse">
+ n="0786a06" ed="T"/><ab type='verse'>
 截林勿截樹，　　因林生怖畏，　　<lb
  n="0786a07" ed="T"/>截林而滅已，　　苾芻得圓寂。　　<lb
  n="0786a08" ed="T"/>截林不斷根，　　因林生怖畏，　　<lb
  n="0786a09" ed="T"/>未斷分毫間，　　令意生纏縛。　　
 </ab><lb
- n="0786a10" ed="T"/><ab type="verse">
+ n="0786a10" ed="T"/><ab type='verse'>
 截林勿斷根，　　因林生怖畏，　　<lb
  n="0786a11" ed="T"/>心纏最難離，　　如犢戀愛母。　　<lb
  n="0786a12" ed="T"/>當自斷愛戀，　　猶如枯蓮池，　　<lb
  n="0786a13" ed="T"/>息跡受正教，　　佛說圓寂樂。　　
 </ab><lb
- n="0786a14" ed="T"/><ab type="verse">
+ n="0786a14" ed="T"/><ab type='verse'>
 猶如可意華，　　色好而無香，　　<lb
  n="0786a15" ed="T"/>巧言華如是，　　無果不獲報。　　<lb
  n="0786a16" ed="T"/>猶如可意華，　　色好而香潔，　　<lb
  n="0786a17" ed="T"/>巧言善如是，　　必獲其好報。　　
 </ab><lb
- n="0786a18" ed="T"/><ab type="verse">
+ n="0786a18" ed="T"/><ab type='verse'>
 猶如蜂採華，　　不壞色與香，　　<lb
  n="0786a19" ed="T"/>但取味飛去，　　苾芻入聚然。　　<lb
  n="0786a20" ed="T"/>不違他好惡，　　勿觀作不作，　　<lb
@@ -964,7 +964,7 @@
  n="0786b19" ed="T"/>觀身如坏器，　　幻法如野馬，　　<lb
  n="0786b20" ed="T"/>斷魔華開敷，　　不覩死王路。　　
 </ab><lb
- n="0786b21" ed="T"/><ab type="verse">
+ n="0786b21" ed="T"/><ab type='verse'>
 是身如聚沫，　　知此幻化法，　　<lb
  n="0786b22" ed="T"/>斷魔華開敷，　　不覩死王路。　　<lb
  n="0786b23" ed="T"/>我慢根除斷，　　如華水上浮，　　<lb
@@ -976,26 +976,26 @@
  n="0786b29" ed="T"/>若無煩惱根，　　獲報善因果，　　<pb n="0786c" ed="T" id="T04.0213.0786c"/><lb
  n="0786c01" ed="T"/>苾芻到彼岸，　　如蛇脫故皮。　　
 </ab></div><lb
- n="0786c02" ed="T"/><div type="pin" level="2"><head>法集要頌經馬喻品第十九</head><lb
- n="0786c03" ed="T"/><ab type="verse">
+ n="0786c02" ed="T"/><div type='pin' level='2'><head>法集要頌經馬喻品第十九</head><lb
+ n="0786c03" ed="T"/><ab type='verse'>
 譬馬調能軟，　　隨意如所行，　　<lb
  n="0786c04" ed="T"/>信戒及精進，　　定法要具足。　　<lb
  n="0786c05" ed="T"/>獲法第一義，　　利用故無窮，　　<lb
  n="0786c06" ed="T"/>一心行和忍，　　得免輪迴苦。　　
 </ab><lb
- n="0786c07" ed="T"/><ab type="verse">
+ n="0786c07" ed="T"/><ab type='verse'>
 忍和意得定，　　能斷諸苦惱，　　<lb
  n="0786c08" ed="T"/>從是得住定，　　如馬善調御。　　<lb
  n="0786c09" ed="T"/>斷恚獲無漏，　　如馬能自調，　　<lb
  n="0786c10" ed="T"/>棄惡至平坦，　　後受生天樂。　　
 </ab><lb
- n="0786c11" ed="T"/><ab type="verse">
+ n="0786c11" ed="T"/><ab type='verse'>
 不恣在放恣，　　於眠多覺悟，　　<lb
  n="0786c12" ed="T"/>如羸馬比良，　　棄惡乃為賢。　　<lb
  n="0786c13" ed="T"/>若人有慚愧，　　智慧可成就，　　<lb
  n="0786c14" ed="T"/>是故易誘進，　　如策於良馬。　　
 </ab><lb
- n="0786c15" ed="T"/><ab type="verse">
+ n="0786c15" ed="T"/><ab type='verse'>
 譬馬若調平，　　可堪王乘騎，　　<lb
  n="0786c16" ed="T"/>能調為人賢，　　乃受誠信語。　　<lb
  n="0786c17" ed="T"/>雖為常調伏，　　如彼新馳馬，　　<lb
@@ -1019,8 +1019,8 @@
  n="0787a06" ed="T"/>自師自衛護，　　自歸求自度，　　<lb
  n="0787a07" ed="T"/>是故躬謹慎，　　如商賈智馬。　　
 </ab></div><lb
- n="0787a08" ed="T"/><div type="pin" level="2"><head>法集要頌經瞋恚品第二十</head><lb
- n="0787a09" ed="T"/><ab type="verse">
+ n="0787a08" ed="T"/><div type='pin' level='2'><head>法集要頌經瞋恚品第二十</head><lb
+ n="0787a09" ed="T"/><ab type='verse'>
 除瞋去我慢，　　遠離諸煩惱，　　<lb
  n="0787a10" ed="T"/>不染彼名色，　　冤家無有伴。　　<lb
  n="0787a11" ed="T"/>除恚得善眠，　　恚盡不懷憂，　　<lb
@@ -1029,7 +1029,7 @@
  n="0787a14" ed="T"/>人興恚怒心，　　作諸不善業。　　<lb
  n="0787a15" ed="T"/>後恚若得除，　　智火漸熾盛。　　
 </ab><lb
- n="0787a16" ed="T"/><ab type="verse">
+ n="0787a16" ed="T"/><ab type='verse'>
 無慚復無愧，　　復好生瞋怒，　　<lb
  n="0787a17" ed="T"/>為瞋所纏縛，　　如闇失明燈。　　<lb
  n="0787a18" ed="T"/>彼力非為力，　　以恚為力者，　　<lb
@@ -1065,8 +1065,8 @@
  n="0787b19" ed="T"/>沙門及正道　　利養、怨、憶念　　<lb
  n="0787b20" ed="T"/>清淨、水兼華　　馬、恚為第十　　
 </ab></div><lb
- n="0787b21" ed="T"/><div type="pin" level="2"><head>法集要頌經如來品第二十一</head><lb
- n="0787b22" ed="T"/><ab type="verse">
+ n="0787b21" ed="T"/><div type='pin' level='2'><head>法集要頌經如來品第二十一</head><lb
+ n="0787b22" ed="T"/><ab type='verse'>
 自獲正覺最無等，　　一染世間一切法，　　<lb
  n="0787b23" ed="T"/>具一切智力無畏，　　自然無師亦無證。　　<lb
  n="0787b24" ed="T"/>自獲正覺最無等，　　不染一切世間法，　　<lb
@@ -1074,7 +1074,7 @@
  n="0787b26" ed="T"/>善逝獨證無等倫，　　應現世間成正道，　　<lb
  n="0787b27" ed="T"/>如來諸天世中尊，　　一切神通智圓滿。　　
 </ab><lb
- n="0787b28" ed="T"/><ab type="verse">
+ n="0787b28" ed="T"/><ab type='verse'>
 我為佛世尊，　　斷漏無婬欲，　　<lb
  n="0787b29" ed="T"/>諸天及世人，　　一切從吾心。　　<pb n="0787c" ed="T" id="T04.0213.0787c"/><lb
  n="0787c01" ed="T"/>我既無師保，　　亦獨無伴侶，　　<lb
@@ -1086,13 +1086,13 @@
  n="0787c07" ed="T"/>智人不處愚，　　觀世而隨化，　　<lb
  n="0787c08" ed="T"/>說於無垢迹，　　永息無有上。　　
 </ab><lb
- n="0787c09" ed="T"/><ab type="verse">
+ n="0787c09" ed="T"/><ab type='verse'>
 勇猛師子吼，　　正法名如來，　　<lb
  n="0787c10" ed="T"/>法說及義說，　　覺者永安寧。　　<lb
  n="0787c11" ed="T"/>勇健立靜慮，　　出家日夜滅，　　<lb
  n="0787c12" ed="T"/>諸天常衛護，　　為佛所稱記。　　
 </ab><lb
- n="0787c13" ed="T"/><ab type="verse">
+ n="0787c13" ed="T"/><ab type='verse'>
 於彼天人中，　　歎說正等覺，　　<lb
  n="0787c14" ed="T"/>速修而自覺，　　最後離胎身。　　<lb
  n="0787c15" ed="T"/>說諸過去佛，　　及以當來者，　　<lb
@@ -1110,20 +1110,20 @@
  n="0787c27" ed="T"/>思惟二觀行，　　善觀二閑靜，　　<lb
  n="0787c28" ed="T"/>除冥超神仙，　　善獲得自在。　　
 </ab><lb
- n="0787c29" ed="T"/><ab type="verse">
+ n="0787c29" ed="T"/><ab type='verse'>
 譬人立山頂，　　徧見村落人，　　<pb n="0788a" ed="T" id="T04.0213.0788a"/><lb
  n="0788a01" ed="T"/>審觀法如是，　　如登樓觀園。　　<lb
  n="0788a02" ed="T"/>若人恒觀察，　　煩惱永不生，　　<lb
  n="0788a03" ed="T"/>降甘露法雨，　　連注無窮盡。　　
 </ab></div><lb
- n="0788a04" ed="T"/><div type="pin" level="2"><head>法集要頌經多聞品第二十二</head><lb
- n="0788a05" ed="T"/><ab type="verse">
+ n="0788a04" ed="T"/><div type='pin' level='2'><head>法集要頌經多聞品第二十二</head><lb
+ n="0788a05" ed="T"/><ab type='verse'>
 多聞善能行，　　修善無煩惱，　　<lb
  n="0788a06" ed="T"/>所行業障消，　　沙門獲妙果。　　<lb
  n="0788a07" ed="T"/>愚迷不覺知，　　好行不死法，　　<lb
  n="0788a08" ed="T"/>善解知法者，　　病如芭蕉樹。　　
 </ab><lb
- n="0788a09" ed="T"/><ab type="verse">
+ n="0788a09" ed="T"/><ab type='verse'>
 猶如蓋屋密，　　闇冥無所見，　　<lb
  n="0788a10" ed="T"/>雖有眾妙色，　　有目不見明。　　<lb
  n="0788a11" ed="T"/>猶如有一人，　　智達廣博學，　　<lb
@@ -1141,7 +1141,7 @@
  n="0788a23" ed="T"/>多聞能奉法，　　智慧常定意，　　<lb
  n="0788a24" ed="T"/>如彼閻浮金，　　孰能說有瑕。　　
 </ab><lb
- n="0788a25" ed="T"/><ab type="verse">
+ n="0788a25" ed="T"/><ab type='verse'>
 智博為多聞，　　持戒悉完具，　　<lb
  n="0788a26" ed="T"/>二俱得稱譽，　　所聞而盡獲。　　<lb
  n="0788a27" ed="T"/>多聞如寶鏡，　　照法盡無餘，　　<lb
@@ -1165,8 +1165,8 @@
  n="0788b16" ed="T"/>賢聖樂於法，　　所行應於口，　　<lb
  n="0788b17" ed="T"/>以忍思惟空，　　聞意則牢固。　　
 </ab></div><lb
- n="0788b18" ed="T"/><div type="pin" level="2"><head>法集要頌經己身品第二十三</head><lb
- n="0788b19" ed="T"/><ab type="verse">
+ n="0788b18" ed="T"/><div type='pin' level='2'><head>法集要頌經己身品第二十三</head><lb
+ n="0788b19" ed="T"/><ab type='verse'>
 常習善語言，　　沙門思坐起，　　<lb
  n="0788b20" ed="T"/>一坐而所樂，　　欲求於息心。　　<lb
  n="0788b21" ed="T"/>一坐而一臥，　　獨步而無伴，　　<lb
@@ -1184,7 +1184,7 @@
  n="0788c04" ed="T"/>當自而修剋，　　隨其教訓之，　　<lb
  n="0788c05" ed="T"/>己不被教訓，　　焉能教訓他？　　
 </ab><lb
- n="0788c06" ed="T"/><ab type="verse">
+ n="0788c06" ed="T"/><ab type='verse'>
 念自而修剋，　　使彼而信解，　　<lb
  n="0788c07" ed="T"/>我己意專心，　　智者所習學。　　<lb
  n="0788c08" ed="T"/>為己或為彼，　　多有不成就，　　<lb
@@ -1215,17 +1215,17 @@
  n="0789a04" ed="T"/>自己為師者，　　速證圓寂果。　　
 </ab><lb
  n="0789a05" ed="T"/>
-<ab type="juan" subtype="close">法集要頌經卷第二</ab></div><lb
+<ab type='juan' subtype='close'>法集要頌經卷第二</ab></div><lb
  n="0789a06" ed="T"/><lb
- n="0789a07" ed="T"/><div type="pin" level="2"><lb
+ n="0789a07" ed="T"/><div type='pin' level='2'><lb
  n="0789a08" ed="T"/>
-<ab type="juan" subtype="open">法集要頌經卷第三</ab><lb
+<ab type='juan' subtype='open'>法集要頌經卷第三</ab><lb
  n="0789a09" ed="T"/><byline>尊者法救集</byline><lb
  n="0789a10" ed="T"/><byline>西天中印度惹爛駄囉國密<lb
  n="0789a11" ed="T"/>林寺三藏明教大師賜紫沙<lb
  n="0789a12" ed="T"/>門臣天息災奉　詔譯</byline><lb
  n="0789a13" ed="T"/><head>法集要頌經廣說品第二十四</head><lb
- n="0789a14" ed="T"/><ab type="verse">
+ n="0789a14" ed="T"/><ab type='verse'>
 雖說百伽陀，　　句義不周正，　　<lb
  n="0789a15" ed="T"/>不如解一句，　　聞乃得解脫。　　<lb
  n="0789a16" ed="T"/>雖說百伽陀，　　不明有何益？　　<lb
@@ -1295,14 +1295,14 @@
  n="0789c22" ed="T"/>不如須臾間，　　供養佛法僧，　　<lb
  n="0789c23" ed="T"/>一念供養福，　　勝彼終身祀。　　
 </ab></div><lb
- n="0789c24" ed="T"/><div type="pin" level="2"><head>法集要頌經善友品第二十五</head><lb
- n="0789c25" ed="T"/><ab type="verse">
+ n="0789c24" ed="T"/><div type='pin' level='2'><head>法集要頌經善友品第二十五</head><lb
+ n="0789c25" ed="T"/><ab type='verse'>
 無信懷憎嫉，　　鬪亂彼此人，　　<lb
  n="0789c26" ed="T"/>智者所棄嫌，　　愚習以為樂。　　<lb
  n="0789c27" ed="T"/>有信無憎嫉，　　精進信多聞，　　<lb
  n="0789c28" ed="T"/>智者所敬待，　　賢聖以為樂。　　
 </ab><lb
- n="0789c29" ed="T"/><ab type="verse">
+ n="0789c29" ed="T"/><ab type='verse'>
 不親惡知識，　　不與非法會，　　<pb n="0790a" ed="T" id="T04.0213.0790a"/><lb
  n="0790a01" ed="T"/>親近善知識，　　恒與正法會。　　<lb
  n="0790a02" ed="T"/>行路念防慮，　　持戒多聞人，　　<lb
@@ -1313,13 +1313,13 @@
  n="0790a07" ed="T"/>斯由親近善。　　智慧為最上，　　<lb
  n="0790a08" ed="T"/>持戒永寂滅。　　
 </ab><lb
- n="0790a09" ed="T"/><ab type="verse">
+ n="0790a09" ed="T"/><ab type='verse'>
 如魚湊臭爛，　　人貪競取之，　　<lb
  n="0790a10" ed="T"/>意者不覺臭，　　習惡亦如是。　　<lb
  n="0790a11" ed="T"/>多誐波羅葉，　　眾生往採取，　　<lb
  n="0790a12" ed="T"/>葉薰香遠布，　　習善亦如是。　　
 </ab><lb
- n="0790a13" ed="T"/><ab type="verse">
+ n="0790a13" ed="T"/><ab type='verse'>
 親近惡知識，　　罪垢日夜增，　　<lb
  n="0790a14" ed="T"/>如猪身不淨，　　自污兼污他。　　<lb
  n="0790a15" ed="T"/>己自不習惡，　　親近習惡者，　　<lb
@@ -1331,7 +1331,7 @@
  n="0790a21" ed="T"/>非親慎莫習，　　習當近於賢，　　<lb
  n="0790a22" ed="T"/>苾芻修行道，　　忍苦盡諸漏。　　
 </ab><lb
- n="0790a23" ed="T"/><ab type="verse">
+ n="0790a23" ed="T"/><ab type='verse'>
 愚人盡形壽，　　承事明智人，　　<lb
  n="0790a24" ed="T"/>亦不知真法，　　如杓斟酌食。　　<lb
  n="0790a25" ed="T"/>智者須臾間，　　承事賢聖人，　　<lb
@@ -1343,7 +1343,7 @@
  n="0790b02" ed="T"/>怨憎有智勝，　　不隨親友義，　　<lb
  n="0790b03" ed="T"/>愚者訓非道，　　漸趣地獄徑。　　
 </ab><lb
- n="0790b04" ed="T"/><ab type="verse">
+ n="0790b04" ed="T"/><ab type='verse'>
 愚者自稱愚，　　當知善黠慧，　　<lb
  n="0790b05" ed="T"/>愚人自稱智，　　是謂愚中甚。　　<lb
  n="0790b06" ed="T"/>若復歎譽愚，　　毀訾智者身，　　<lb
@@ -1356,8 +1356,8 @@
  n="0790b13" ed="T"/>是故事多聞，　　并及持戒者。　　<lb
  n="0790b14" ed="T"/>如是人中上，　　如月在眾星。　　
 </ab></div><lb
- n="0790b15" ed="T"/><div type="pin" level="2"><head>法集要頌經圓寂品第二十六</head><lb
- n="0790b16" ed="T"/><ab type="verse">
+ n="0790b15" ed="T"/><div type='pin' level='2'><head>法集要頌經圓寂品第二十六</head><lb
+ n="0790b16" ed="T"/><ab type='verse'>
 如龜藏其六，　　苾芻攝意想，　　<lb
  n="0790b17" ed="T"/>無倚無害彼，　　圓寂無言說。　　<lb
  n="0790b18" ed="T"/>忍辱第一道，　　佛說圓寂最，　　<lb
@@ -1369,25 +1369,25 @@
  n="0790b24" ed="T"/>若不自煩惱，　　猶器完牢具，　　<lb
  n="0790b25" ed="T"/>如是至圓寂，　　永無諸塵翳。　　
 </ab><lb
- n="0790b26" ed="T"/><ab type="verse">
+ n="0790b26" ed="T"/><ab type='verse'>
 無病第一利，　　知足第一富，　　<lb
  n="0790b27" ed="T"/>知親第一友，　　圓寂第一樂。　　<lb
  n="0790b28" ed="T"/>飢為第一患，　　行為第一苦，　　<lb
  n="0790b29" ed="T"/>如實知此者，　　圓寂第一樂。　　
 </ab><pb n="0790c" ed="T" id="T04.0213.0790c"/><lb
- n="0790c01" ed="T"/><ab type="verse">
+ n="0790c01" ed="T"/><ab type='verse'>
 最妙聖言教，　　流布無窮際，　　<lb
  n="0790c02" ed="T"/>世共傳習者，　　實無有厭時。　　<lb
  n="0790c03" ed="T"/>如是無等倫，　　所說善言教，　　<lb
  n="0790c04" ed="T"/>身苦所逼迫，　　何過飢患苦？　　
 </ab><lb
- n="0790c05" ed="T"/><ab type="verse">
+ n="0790c05" ed="T"/><ab type='verse'>
 趣善之徒少，　　趣惡之徒多，　　<lb
  n="0790c06" ed="T"/>如實知此者，　　速求於圓寂。　　<lb
  n="0790c07" ed="T"/>有緣生善處，　　有緣生惡趣，　　<lb
  n="0790c08" ed="T"/>有緣般涅槃，　　如斯皆有緣。　　
 </ab><lb
- n="0790c09" ed="T"/><ab type="verse">
+ n="0790c09" ed="T"/><ab type='verse'>
 鹿歸於田野，　　鳥歸於虛空，　　<lb
  n="0790c10" ed="T"/>義歸於分別，　　真人歸寂滅。　　<lb
  n="0790c11" ed="T"/>不以懈怠意，　　怯弱有所至，　　<lb
@@ -1399,7 +1399,7 @@
  n="0790c17" ed="T"/>難見諦不動，　　善觀而不動，　　<lb
  n="0790c18" ed="T"/>當察愛盡源，　　是謂名業際。　　
 </ab><lb
- n="0790c19" ed="T"/><ab type="verse">
+ n="0790c19" ed="T"/><ab type='verse'>
 斷愛除其欲，　　竭河無流兆，　　<lb
  n="0790c20" ed="T"/>能明此愛本，　　是謂名苦際。　　<lb
  n="0790c21" ed="T"/>無身滅其想，　　諸痛得清涼，　　<lb
@@ -1408,7 +1408,7 @@
  n="0790c24" ed="T"/>住動虛則靜，　　非近非有樂。　　<lb
  n="0790c25" ed="T"/>無動得輕安，　　靜乃獲圓寂，　　
 </ab><lb
- n="0790c26" ed="T"/><ab type="verse">
+ n="0790c26" ed="T"/><ab type='verse'>
 亦不由往來，　　往來絕生滅。　　<lb
  n="0790c27" ed="T"/>老死煩惱除，　　斷苦獲圓寂，　　<lb
  n="0790c28" ed="T"/>吾已無往來，　　不去而不來，　　<lb
@@ -1420,7 +1420,7 @@
  n="0791a05" ed="T"/>諸法無往來，　　往來恒生滅，　　<lb
  n="0791a06" ed="T"/>老病死遷流，　　無漏獲圓寂。　　
 </ab><lb
- n="0791a07" ed="T"/><ab type="verse">
+ n="0791a07" ed="T"/><ab type='verse'>
 苾芻有世生，　　有造無作行，　　<lb
  n="0791a08" ed="T"/>有無生無有，　　無作無所行。　　<lb
  n="0791a09" ed="T"/>苾芻吾已知，　　無復諸地入，　　<lb
@@ -1446,8 +1446,8 @@
  n="0791a29" ed="T"/>眾施法施勝，　　眾樂法樂上，　　<pb n="0791b" ed="T" id="T04.0213.0791b"/><lb
  n="0791b01" ed="T"/>眾力忍力最，　　愛盡圓寂樂。　　
 </ab></div><lb
- n="0791b02" ed="T"/><div type="pin" level="2"><head>法集要頌經觀察品第二十七</head><lb
- n="0791b03" ed="T"/><ab type="verse">
+ n="0791b02" ed="T"/><div type='pin' level='2'><head>法集要頌經觀察品第二十七</head><lb
+ n="0791b03" ed="T"/><ab type='verse'>
 善觀己瑕隙，　　使己不露外，　　<lb
  n="0791b04" ed="T"/>彼彼自有隙，　　如彼飛輕塵。　　<lb
  n="0791b05" ed="T"/>若己稱無瑕，　　罪福俱并至，　　<lb
@@ -1462,13 +1462,13 @@
  n="0791b14" ed="T"/>愚者自繫縛，　　為闇所纏繞，　　<lb
  n="0791b15" ed="T"/>亦不見於行，　　觀而無所有。　　
 </ab><lb
- n="0791b16" ed="T"/><ab type="verse">
+ n="0791b16" ed="T"/><ab type='verse'>
 眾生皆有我，　　為彼而生患，　　<lb
  n="0791b17" ed="T"/>一一不相見，　　不覩邪見刺。　　<lb
  n="0791b18" ed="T"/>觀此刺因緣，　　眾生多染著，　　<lb
  n="0791b19" ed="T"/>我造彼非有，　　彼造非我有。　　
 </ab><lb
- n="0791b20" ed="T"/><ab type="verse">
+ n="0791b20" ed="T"/><ab type='verse'>
 眾生為慢纏，　　染著於憍慢，　　<lb
  n="0791b21" ed="T"/>為見所迷惑，　　不免生死際。　　<lb
  n="0791b22" ed="T"/>已得與當得，　　二俱受塵垢，　　<lb
@@ -1480,13 +1480,13 @@
  n="0791b28" ed="T"/>當觀水上泡，　　亦觀幻野馬，　　<lb
  n="0791b29" ed="T"/>如是不觀世，　　亦不見死王。　　
 </ab><pb n="0791c" ed="T" id="T04.0213.0791c"/><lb
- n="0791c01" ed="T"/><ab type="verse">
+ n="0791c01" ed="T"/><ab type='verse'>
 如是當觀身，　　如王雜色車，　　<lb
  n="0791c02" ed="T"/>愚者所染著，　　善求遠離彼。　　<lb
  n="0791c03" ed="T"/>如是當觀身，　　如王雜色車，　　<lb
  n="0791c04" ed="T"/>愚者所染著，　　智者遠離之。　　
 </ab><lb
- n="0791c05" ed="T"/><ab type="verse">
+ n="0791c05" ed="T"/><ab type='verse'>
 如是當觀身，　　眾病之所因，　　<lb
  n="0791c06" ed="T"/>病與愚合會，　　焉能可恃怙？　　<lb
  n="0791c07" ed="T"/>當觀畫形像，　　摩尼紺青髮，　　<lb
@@ -1502,7 +1502,7 @@
  n="0791c17" ed="T"/>非園脫於園，　　脫園復就園，　　<lb
  n="0791c18" ed="T"/>當復觀此人，　　脫縛復就縛。　　
 </ab><lb
- n="0791c19" ed="T"/><ab type="verse">
+ n="0791c19" ed="T"/><ab type='verse'>
 今捨天王位，　　不造生死本，　　<lb
  n="0791c20" ed="T"/>求離地獄苦，　　願說圓寂樂。　　<lb
  n="0791c21" ed="T"/>青衣白蓋身，　　御者御一輪，　　<lb
@@ -1526,14 +1526,14 @@
  n="0792a10" ed="T"/>云何見不見？　　何說見不見？　　<lb
  n="0792a11" ed="T"/>因何見不見？　　因為出何見。　　
 </ab><lb
- n="0792a12" ed="T"/><ab type="verse">
+ n="0792a12" ed="T"/><ab type='verse'>
 猶若不觀苦，　　常當深自觀，　　<lb
  n="0792a13" ed="T"/>以解苦根原，　　是為明妙觀。　　<lb
  n="0792a14" ed="T"/>誰令凡夫人，　　不觀眾行本？　　<lb
  n="0792a15" ed="T"/>因彼而觀察，　　去冥見大明。　　
 </ab></div><lb
- n="0792a16" ed="T"/><div type="pin" level="2"><head>法集要頌經罪障品第二十八</head><lb
- n="0792a17" ed="T"/><ab type="verse">
+ n="0792a16" ed="T"/><div type='pin' level='2'><head>法集要頌經罪障品第二十八</head><lb
+ n="0792a17" ed="T"/><ab type='verse'>
 諸惡業莫作，　　諸善業奉行，　　<lb
  n="0792a18" ed="T"/>自淨其意行，　　是名諸佛教。　　<lb
  n="0792a19" ed="T"/>惠施獲福報，　　不藏恚怒懷，　　<lb
@@ -1545,7 +1545,7 @@
  n="0792a25" ed="T"/>解知念待味，　　思惟休息義，　　<lb
  n="0792a26" ed="T"/>無熱無飢想，　　當服於法味。　　
 </ab><lb
- n="0792a27" ed="T"/><ab type="verse">
+ n="0792a27" ed="T"/><ab type='verse'>
 人不損其心，　　亦不毀其意，　　<lb
  n="0792a28" ed="T"/>以善永滅惡，　　不憂隨惡道。　　<lb
  n="0792a29" ed="T"/>人欲鍊其神，　　要當數修琢，　　<pb n="0792b" ed="T" id="T04.0213.0792b"/><lb
@@ -1554,7 +1554,7 @@
  n="0792b03" ed="T"/>永息無過者，　　柔和不卒暴，　　<lb
  n="0792b04" ed="T"/>吹棄諸惡法，　　如風落其葉。　　
 </ab><lb
- n="0792b05" ed="T"/><ab type="verse">
+ n="0792b05" ed="T"/><ab type='verse'>
 無故畏彼人，　　謗毀清淨者，　　<lb
  n="0792b06" ed="T"/>尋惡獲其力，　　煙雲風所吹。　　<lb
  n="0792b07" ed="T"/>人之為善惡，　　各各自知之，　　<lb
@@ -1566,7 +1566,7 @@
  n="0792b13" ed="T"/>商人在路懼，　　伴少而貨多，　　<lb
  n="0792b14" ed="T"/>經過險難處，　　然有折軸憂。　　
 </ab><lb
- n="0792b15" ed="T"/><ab type="verse">
+ n="0792b15" ed="T"/><ab type='verse'>
 有身無瘡疣，　　不為毒所害，　　<lb
  n="0792b16" ed="T"/>毒無奈瘡何？　　無惡無所造。　　<lb
  n="0792b17" ed="T"/>多有行眾惡，　　必為身作累，　　<lb
@@ -1578,7 +1578,7 @@
  n="0792b23" ed="T"/>賢者見於惡，　　不為惡所熟，　　<lb
  n="0792b24" ed="T"/>如惡以不熟，　　惡者觀其惡。　　
 </ab><lb
- n="0792b25" ed="T"/><ab type="verse">
+ n="0792b25" ed="T"/><ab type='verse'>
 賢者觀其惡，　　乃至賢不熟，　　<lb
  n="0792b26" ed="T"/>設以賢熟者，　　賢賢自相觀。　　<lb
  n="0792b27" ed="T"/>人雖為惡行，　　亦不數數行，　　<lb
@@ -1588,13 +1588,13 @@
  n="0792c02" ed="T"/>先當制善心，　　攝持惡根本，　　<lb
  n="0792c03" ed="T"/>由是興福業，　　心由樂於惡。　　
 </ab><lb
- n="0792c04" ed="T"/><ab type="verse">
+ n="0792c04" ed="T"/><ab type='verse'>
 為惡雖復少，　　後世受苦深，　　<lb
  n="0792c05" ed="T"/>當獲無邊福，　　如毒在心腹。　　<lb
  n="0792c06" ed="T"/>為福雖微少，　　後受大福德，　　<lb
  n="0792c07" ed="T"/>當獲大果報，　　如種獲真實。　　
 </ab><lb
- n="0792c08" ed="T"/><ab type="verse">
+ n="0792c08" ed="T"/><ab type='verse'>
 無過而強輕，　　無恚而強侵，　　<lb
  n="0792c09" ed="T"/>當於十品處，　　便當趣於彼。　　<lb
  n="0792c10" ed="T"/>痛癢語麤獷，　　此形必壞敗，　　<lb
@@ -1606,13 +1606,13 @@
  n="0792c16" ed="T"/>作惡勿言無，　　人作言無罪，　　<lb
  n="0792c17" ed="T"/>屏隈言無罪，　　斯皆有證驗。　　
 </ab><lb
- n="0792c18" ed="T"/><ab type="verse">
+ n="0792c18" ed="T"/><ab type='verse'>
 作惡言有憂，　　久作亦言憂，　　<lb
  n="0792c19" ed="T"/>憂屏隈亦言，　　憂彼報亦憂。　　<lb
  n="0792c20" ed="T"/>此憂彼亦憂，　　惡行二俱憂，　　<lb
  n="0792c21" ed="T"/>彼憂彼受報，　　見行乃審知。　　
 </ab><lb
- n="0792c22" ed="T"/><ab type="verse">
+ n="0792c22" ed="T"/><ab type='verse'>
 此喜彼亦喜，　　福行二俱喜，　　<lb
  n="0792c23" ed="T"/>彼行彼受報，　　見行自清淨。　　<lb
  n="0792c24" ed="T"/>此煮彼亦煮，　　罪行二俱煮，　　<lb
@@ -1620,20 +1620,20 @@
  n="0792c26" ed="T"/>作福不作惡，　　皆由宿行法，　　<lb
  n="0792c27" ed="T"/>終不畏死徑，　　如船截流渡。　　
 </ab></div><lb
- n="0792c28" ed="T"/><div type="pin" level="2"><head>法集要頌經相應品第二十九</head><lb
- n="0792c29" ed="T"/><ab type="verse">
+ n="0792c28" ed="T"/><div type='pin' level='2'><head>法集要頌經相應品第二十九</head><lb
+ n="0792c29" ed="T"/><ab type='verse'>
 夜光照于冥，　　至日未出間，　　<pb n="0793a" ed="T" id="T04.0213.0793a"/><lb
  n="0793a01" ed="T"/>日光布大明，　　夜光便黤黮。　　<lb
  n="0793a02" ed="T"/>察者布光明，　　如來未出頃，　　<lb
  n="0793a03" ed="T"/>佛出放大明，　　無察無聲聞。　　
 </ab><lb
- n="0793a04" ed="T"/><ab type="verse">
+ n="0793a04" ed="T"/><ab type='verse'>
 不堅起堅想，　　堅起不堅想，　　<lb
  n="0793a05" ed="T"/>後不至於堅，　　由起邪見故。　　<lb
  n="0793a06" ed="T"/>堅而知堅者，　　不堅知不堅，　　<lb
  n="0793a07" ed="T"/>彼人求於堅，　　正治以為本。　　
 </ab><lb
- n="0793a08" ed="T"/><ab type="verse">
+ n="0793a08" ed="T"/><ab type='verse'>
 愚者以為堅，　　反被九結縛，　　<lb
  n="0793a09" ed="T"/>如鳥墮羅網，　　斯由愛深固。　　<lb
  n="0793a10" ed="T"/>諸有懷狐疑，　　今世及後世，　　<lb
@@ -1641,7 +1641,7 @@
  n="0793a12" ed="T"/>無塵離於塵，　　能持此服者，　　<lb
  n="0793a13" ed="T"/>無御無所至，　　
 </ab><lb
- n="0793a14" ed="T"/><ab type="verse">
+ n="0793a14" ed="T"/><ab type='verse'>
 此不應法服。　　若能除垢穢，　　<lb
  n="0793a15" ed="T"/>修戒等慧定，　　彼應思惟業，　　<lb
  n="0793a16" ed="T"/>此應服袈裟。　　不以柔和言，　　<lb
@@ -1649,7 +1649,7 @@
  n="0793a18" ed="T"/>乃懷巧偽心，　　有能斷是者，　　<lb
  n="0793a19" ed="T"/>永拔其根本。　　
 </ab><lb
- n="0793a20" ed="T"/><ab type="verse">
+ n="0793a20" ed="T"/><ab type='verse'>
 智者除諸穢，　　乃名為善色，　　<lb
  n="0793a21" ed="T"/>不以色縱容，　　暫覩知人意。　　<lb
  n="0793a22" ed="T"/>世多違行人，　　遊蕩在世界，　　<lb
@@ -1662,7 +1662,7 @@
  n="0793a29" ed="T"/>觀淨而自淨。　　諸根不具足，　　<pb n="0793b" ed="T" id="T04.0213.0793b"/><lb
  n="0793b01" ed="T"/>於食無厭足，　　斯等凡品行，　　
 </ab><lb
- n="0793b02" ed="T"/><ab type="verse">
+ n="0793b02" ed="T"/><ab type='verse'>
 轉增於欲意。　　如屋壞穿漏，　　<lb
  n="0793b03" ed="T"/>當觀不淨行，　　諸根無缺漏，　　<lb
  n="0793b04" ed="T"/>於食知止足。　　有信執精進，　　<lb
@@ -1674,31 +1674,31 @@
  n="0793b10" ed="T"/>賢者有千數，　　智者在叢林，　　<lb
  n="0793b11" ed="T"/>義理極深邃，　　智者所分別。　　
 </ab><lb
- n="0793b12" ed="T"/><ab type="verse">
+ n="0793b12" ed="T"/><ab type='verse'>
 多有眾生類，　　非射而不值，　　<lb
  n="0793b13" ed="T"/>今觀此義理，　　無戒人所恥。　　<lb
  n="0793b14" ed="T"/>觀有知恐怖，　　變易知有無，　　<lb
  n="0793b15" ed="T"/>是故不樂有，　　當念遠離有。　　
 </ab><lb
- n="0793b16" ed="T"/><ab type="verse">
+ n="0793b16" ed="T"/><ab type='verse'>
 無信無反復，　　穿牆而盜竊，　　<lb
  n="0793b17" ed="T"/>斷彼希望思，　　是名為勇士。　　<lb
  n="0793b18" ed="T"/>除其父母緣，　　王家及二種，　　<lb
  n="0793b19" ed="T"/>徧滅其境界，　　無垢為梵行。　　
 </ab><lb
- n="0793b20" ed="T"/><ab type="verse">
+ n="0793b20" ed="T"/><ab type='verse'>
 若人無所依，　　知彼所貴食，　　<lb
  n="0793b21" ed="T"/>空及無相願，　　思惟以為行。　　<lb
  n="0793b22" ed="T"/>鳥飛於虛空，　　而無足跡現，　　<lb
  n="0793b23" ed="T"/>如彼行行人，　　言說無所趣。　　
 </ab><lb
- n="0793b24" ed="T"/><ab type="verse">
+ n="0793b24" ed="T"/><ab type='verse'>
 諸能斷有本，　　不依於未然，　　<lb
  n="0793b25" ed="T"/>空及無相願，　　思惟以為行。　　<lb
  n="0793b26" ed="T"/>希有諸眾生，　　多不順其性，　　<lb
  n="0793b27" ed="T"/>有度不度者，　　為滅甚為難。　　
 </ab><lb
- n="0793b28" ed="T"/><ab type="verse">
+ n="0793b28" ed="T"/><ab type='verse'>
 諸有平等說，　　法法共相觀，　　<lb
  n="0793b29" ed="T"/>盡斷諸結使，　　無復有熱惱。　　<pb n="0793c" ed="T" id="T04.0213.0793c"/><lb
  n="0793c01" ed="T"/>行路無復憂，　　終日得解脫，　　<lb
@@ -1708,31 +1708,31 @@
  n="0793c05" ed="T"/>如鳥飛虛空，　　而無有所礙，　　<lb
  n="0793c06" ed="T"/>行人到彼岸，　　空無相願定。　　
 </ab><lb
- n="0793c07" ed="T"/><ab type="verse">
+ n="0793c07" ed="T"/><ab type='verse'>
 無造無有造，　　造者受煩惱，　　<lb
  n="0793c08" ed="T"/>非造非無造，　　前憂後亦憂。　　<lb
  n="0793c09" ed="T"/>造者為善妙，　　以作不懷憂，　　<lb
  n="0793c10" ed="T"/>造而樂而造，　　生天受歡樂。　　
 </ab><lb
- n="0793c11" ed="T"/><ab type="verse">
+ n="0793c11" ed="T"/><ab type='verse'>
 虛空無轍迹，　　沙門無外意，　　<lb
  n="0793c12" ed="T"/>眾人盡樂惡，　　唯佛淨無穢。　　<lb
  n="0793c13" ed="T"/>虛空無轍迹，　　沙門無外意，　　<lb
  n="0793c14" ed="T"/>世間皆無常，　　佛無我所有。　　
 </ab><lb
- n="0793c15" ed="T"/><ab type="verse">
+ n="0793c15" ed="T"/><ab type='verse'>
 諸天及世人，　　一切行相應，　　<lb
  n="0793c16" ed="T"/>得脫一切苦，　　離愛免輪迴。　　<lb
  n="0793c17" ed="T"/>諸天及世人，　　一切行相應，　　<lb
  n="0793c18" ed="T"/>能遠諸惡業，　　不墮於惡趣。　　
 </ab><lb
- n="0793c19" ed="T"/><ab type="verse">
+ n="0793c19" ed="T"/><ab type='verse'>
 亦復不知論，　　賢愚無差別，　　<lb
  n="0793c20" ed="T"/>若復知論義，　　所說無垢跡。　　<lb
  n="0793c21" ed="T"/>說應法議論，　　當豎仙人幢，　　<lb
  n="0793c22" ed="T"/>法幢為仙人，　　仙人為法幢。　　
 </ab><lb
- n="0793c23" ed="T"/><ab type="verse">
+ n="0793c23" ed="T"/><ab type='verse'>
 或有寂然罵，　　或有在眾罵，　　<lb
  n="0793c24" ed="T"/>或有未聲罵，　　世無不罵者。　　<lb
  n="0793c25" ed="T"/>一毀及一譽，　　但利養其名，　　<lb
@@ -1756,16 +1756,16 @@
  n="0794a14" ed="T"/>一切盡皆捨，　　不復受生老。　　
 </ab><lb
  n="0794a15" ed="T"/>
-<ab type="juan" subtype="close">法集要頌經卷第三</ab><lb
+<ab type='juan' subtype='close'>法集要頌經卷第三</ab><lb
  n="0794a16" ed="T"/><lb
  n="0794a17" ed="T"/><lb
  n="0794a18" ed="T"/>
-<ab type="juan" subtype="open">法集要頌經卷第四</ab><lb
+<ab type='juan' subtype='open'>法集要頌經卷第四</ab><lb
  n="0794a19" ed="T"/><byline>尊者法救集</byline><lb
  n="0794a20" ed="T"/><byline>西天中印度惹爛駄囉國密<lb
  n="0794a21" ed="T"/>林寺三藏明教大師賜紫沙<lb
  n="0794a22" ed="T"/>門臣天息災奉　詔譯</byline><lb
- n="0794a23" ed="T"/><head>法集要頌經樂品第三十</head><ab type="verse">
+ n="0794a23" ed="T"/><head>法集要頌經樂品第三十</head><ab type='verse'>
 忍勝則怨賊，　　自負則自鄙，　　<lb
  n="0794a24" ed="T"/>息意則快樂，　　無勝無負心。　　<lb
  n="0794a25" ed="T"/>若人擾亂彼，　　自求安樂世，　　<lb
@@ -1817,7 +1817,7 @@
  n="0794c13" ed="T"/>覩見真人樂，　　解脫行跡樂，　　<lb
  n="0794c14" ed="T"/>德水清涼樂，　　法財自集快。　　
 </ab><lb
- n="0794c15" ed="T"/><ab type="verse">
+ n="0794c15" ed="T"/><ab type='verse'>
 得智明慧快，　　滅慢無邪快，　　<lb
  n="0794c16" ed="T"/>得覩諸賢樂，　　同會亦復樂。　　<lb
  n="0794c17" ed="T"/>不與愚從事，　　畢固永已樂，　　<lb
@@ -1867,44 +1867,44 @@
  n="0795b03" ed="T"/>如來與多聞　　己身、廣、善友　　<lb
  n="0795b04" ed="T"/>圓寂、觀、罪障　　相應、樂第十　　
 </ab></div><lb
- n="0795b05" ed="T"/><div type="pin" level="2"><head>法集要頌經護心品第三十一</head><lb
- n="0795b06" ed="T"/><ab type="verse">
+ n="0795b05" ed="T"/><div type='pin' level='2'><head>法集要頌經護心品第三十一</head><lb
+ n="0795b06" ed="T"/><ab type='verse'>
 心輕難調伏，　　為欲所居懷，　　<lb
  n="0795b07" ed="T"/>降心則為善，　　以降便輕安。　　<lb
  n="0795b08" ed="T"/>如魚在旱地，　　以離於深淵，　　<lb
  n="0795b09" ed="T"/>心識極惶懼，　　魔眾而奔馳。　　
 </ab><lb
- n="0795b10" ed="T"/><ab type="verse">
+ n="0795b10" ed="T"/><ab type='verse'>
 心走非一處，　　猶如日光明，　　<lb
  n="0795b11" ed="T"/>智者所能制，　　如鉤止惡象。　　<lb
  n="0795b12" ed="T"/>今我論此心，　　無堅不可見，　　<lb
  n="0795b13" ed="T"/>我今欲訓誨，　　慎莫生瑕隟。　　
 </ab><lb
- n="0795b14" ed="T"/><ab type="verse">
+ n="0795b14" ed="T"/><ab type='verse'>
 汝心莫遊行，　　恣意而放逸，　　<lb
  n="0795b15" ed="T"/>我今還攝汝，　　如御暴逸象。　　<lb
  n="0795b16" ed="T"/>生死無有量，　　往來無端緒，　　<lb
  n="0795b17" ed="T"/>求於屋舍者，　　數數受胞胎。　　
 </ab><lb
- n="0795b18" ed="T"/><ab type="verse">
+ n="0795b18" ed="T"/><ab type='verse'>
 以觀此居屋，　　更不造諸舍，　　<lb
  n="0795b19" ed="T"/>梁棧看已壞，　　臺閣則摧折。　　<lb
  n="0795b20" ed="T"/>心已離諸行，　　中間是己心，　　<lb
  n="0795b21" ed="T"/>心多為輕躁，　　難持難調護。　　
 </ab><lb
- n="0795b22" ed="T"/><ab type="verse">
+ n="0795b22" ed="T"/><ab type='verse'>
 智者能自正，　　如匠搦箭直，　　<lb
  n="0795b23" ed="T"/>有恚則知恚，　　有恚知有恚。　　<lb
  n="0795b24" ed="T"/>是意皆自造，　　非干父母為，　　<lb
  n="0795b25" ed="T"/>除邪就正定，　　為福勿迴復。　　
 </ab><lb
- n="0795b26" ed="T"/><ab type="verse">
+ n="0795b26" ed="T"/><ab type='verse'>
 蓋屋若不密，　　天雨則常漏，　　<lb
  n="0795b27" ed="T"/>人不思惟行，　　恒歷婬怒癡。　　<lb
  n="0795b28" ed="T"/>蓋屋若不密，　　天雨則常漏，　　<lb
  n="0795b29" ed="T"/>人自思惟行，　　永無婬怒癡。　　
 </ab><pb n="0795c" ed="T" id="T04.0213.0795c"/><lb
- n="0795c01" ed="T"/><ab type="verse">
+ n="0795c01" ed="T"/><ab type='verse'>
 心為諸法本，　　心尊是心使，　　<lb
  n="0795c02" ed="T"/>心若念惡行，　　即言即惡行，　　<lb
  n="0795c03" ed="T"/>罪苦自追隨，　　車轢終于轍，　　<lb
@@ -1922,25 +1922,25 @@
  n="0795c15" ed="T"/>捨意放其根，　　人隨意迴轉，　　<lb
  n="0795c16" ed="T"/>為少滅名稱，　　如鳥捨空林。　　
 </ab><lb
- n="0795c17" ed="T"/><ab type="verse">
+ n="0795c17" ed="T"/><ab type='verse'>
 在靜自修學，　　慎勿逐欲跡，　　<lb
  n="0795c18" ed="T"/>莫吞熱鐵丸，　　嘷哭受其報。　　<lb
  n="0795c19" ed="T"/>應修而不修，　　恃力不精勤，　　<lb
  n="0795c20" ed="T"/>自陷人形卑，　　懈怠不解慧。　　
 </ab><lb
- n="0795c21" ed="T"/><ab type="verse">
+ n="0795c21" ed="T"/><ab type='verse'>
 亂觀及正觀，　　皆由意所生，　　<lb
  n="0795c22" ed="T"/>能覺知心觀，　　愚心數數亂。　　<lb
  n="0795c23" ed="T"/>智者如是觀，　　念者專為行，　　<lb
  n="0795c24" ed="T"/>咄嗟意無著，　　惟佛能滅此。　　
 </ab><lb
- n="0795c25" ed="T"/><ab type="verse">
+ n="0795c25" ed="T"/><ab type='verse'>
 觀身如空瓶，　　安心如丘城，　　<lb
  n="0795c26" ed="T"/>以慧與魔戰，　　守勝勿復失。　　<lb
  n="0795c27" ed="T"/>觀身如聚沫，　　如陽焰野馬，　　<lb
  n="0795c28" ed="T"/>以慧與魔戰，　　守勝勿復失。　　
 </ab><lb
- n="0795c29" ed="T"/><ab type="verse">
+ n="0795c29" ed="T"/><ab type='verse'>
 心念七覺意，　　等意不差違，　　<pb n="0796a" ed="T" id="T04.0213.0796a"/><lb
  n="0796a01" ed="T"/>當捨愚惑意，　　樂於不起忍。　　<lb
  n="0796a02" ed="T"/>盡漏無有漏，　　於世取滅度，　　<lb
@@ -1949,19 +1949,19 @@
  n="0796a05" ed="T"/>一龍出眾龍，　　龍中六牙者。　　<lb
  n="0796a06" ed="T"/>心心自平等，　　獨樂於曠野，　　
 </ab><lb
- n="0796a07" ed="T"/><ab type="verse">
+ n="0796a07" ed="T"/><ab type='verse'>
 不以能害心，　　盡為一切人，　　<lb
  n="0796a08" ed="T"/>慈心為眾生，　　彼無有怨恨。　　<lb
  n="0796a09" ed="T"/>慈心為一人，　　便護諸善本，　　<lb
  n="0796a10" ed="T"/>盡當為一切，　　賢聖福稱上。　　
 </ab><lb
- n="0796a11" ed="T"/><ab type="verse">
+ n="0796a11" ed="T"/><ab type='verse'>
 普慈於一切，　　愍念眾生類，　　<lb
  n="0796a12" ed="T"/>修行於慈心，　　後受無極樂。　　<lb
  n="0796a13" ed="T"/>若以踊躍意，　　歡喜不懈怠，　　<lb
  n="0796a14" ed="T"/>修於諸善法，　　獲致安隱處。　　
 </ab><lb
- n="0796a15" ed="T"/><ab type="verse">
+ n="0796a15" ed="T"/><ab type='verse'>
 自則致歡喜，　　身口意相應，　　<lb
  n="0796a16" ed="T"/>以得等解脫，　　苾芻息意快。　　<lb
  n="0796a17" ed="T"/>一切諸結盡，　　無復有塵勞，　　<lb
@@ -1976,7 +1976,7 @@
  n="0796a26" ed="T"/>諸有如此心，　　焉知苦蹤跡？　　<lb
  n="0796a27" ed="T"/>無害無所染，　　具足於戒律，　　
 </ab><lb
- n="0796a28" ed="T"/><ab type="verse">
+ n="0796a28" ed="T"/><ab type='verse'>
 於食知止足，　　及諸床臥具，　　<lb
  n="0796a29" ed="T"/>修意求方便，　　是謂諸佛教。　　<pb n="0796b" ed="T" id="T04.0213.0796b"/><lb
  n="0796b01" ed="T"/>行人觀心相，　　分別念待意，　　<lb
@@ -1990,14 +1990,14 @@
  n="0796b09" ed="T"/>苾芻降睡眠，　　盡苦更不造，　　<lb
  n="0796b10" ed="T"/>降心復於樂，　　護心勿復調。　　
 </ab><lb
- n="0796b11" ed="T"/><ab type="verse">
+ n="0796b11" ed="T"/><ab type='verse'>
 有情心所誤，　　盡受地獄苦，　　<lb
  n="0796b12" ed="T"/>降心則致樂，　　護心勿復調。　　<lb
  n="0796b13" ed="T"/>護心勿復調，　　心為眾妙門，　　<lb
  n="0796b14" ed="T"/>護而不漏失，　　便在圓寂道。　　
 </ab></div><lb
- n="0796b15" ed="T"/><div type="pin" level="2"><head>法集要頌經苾芻品第三十二</head><lb
- n="0796b16" ed="T"/><ab type="verse">
+ n="0796b15" ed="T"/><div type='pin' level='2'><head>法集要頌經苾芻品第三十二</head><lb
+ n="0796b16" ed="T"/><ab type='verse'>
 苾芻若乞食，　　以得勿積聚，　　<lb
  n="0796b17" ed="T"/>天人所歎譽，　　生淨無瑕穢。　　<lb
  n="0796b18" ed="T"/>苾芻為慈愍，　　愛敬於佛教，　　<lb
@@ -2007,7 +2007,7 @@
  n="0796b22" ed="T"/>當知是法行，　　身之出要徑，　　<lb
  n="0796b23" ed="T"/>如象御強敵，　　苾芻恒習行。　　
 </ab><lb
- n="0796b24" ed="T"/><ab type="verse">
+ n="0796b24" ed="T"/><ab type='verse'>
 人不壽劫盡，　　內與自心諍，　　<lb
  n="0796b25" ed="T"/>護身念道諦，　　苾芻惟淨安。　　<lb
  n="0796b26" ed="T"/>念親同朋友，　　正命無雜糅，　　<lb
@@ -2022,7 +2022,7 @@
  n="0796c06" ed="T"/>如彼極峻山，　　不為風所動，　　<lb
  n="0796c07" ed="T"/>苾芻盡愚癡，　　所在不傾動。　　
 </ab><lb
- n="0796c08" ed="T"/><ab type="verse">
+ n="0796c08" ed="T"/><ab type='verse'>
 一切諸名色，　　非有莫生惑，　　<lb
  n="0796c09" ed="T"/>不近則不愛，　　乃名真苾芻。　　<lb
  n="0796c10" ed="T"/>苾芻非剃髮，　　慢誕無戒律，　　<lb
@@ -2034,7 +2034,7 @@
  n="0796c16" ed="T"/>心喜極歡悅，　　加以受念者，　　<lb
  n="0796c17" ed="T"/>苾芻多熙怡，　　盡空無根源。　　
 </ab><lb
- n="0796c18" ed="T"/><ab type="verse">
+ n="0796c18" ed="T"/><ab type='verse'>
 息身而息意，　　攝口亦乃善，　　<lb
  n="0796c19" ed="T"/>捨世為苾芻，　　度苦無有礙。　　<lb
  n="0796c20" ed="T"/>無禪則無智，　　無智則無禪，　　<lb
@@ -2044,13 +2044,13 @@
  n="0796c24" ed="T"/>能自護身口，　　護意無有惡，　　<lb
  n="0796c25" ed="T"/>後獲禁戒法，　　故號為苾芻。　　
 </ab><lb
- n="0796c26" ed="T"/><ab type="verse">
+ n="0796c26" ed="T"/><ab type='verse'>
 諸有修善法，　　七覺意為本，　　<lb
  n="0796c27" ed="T"/>此名為妙法，　　故名定苾芻。　　<lb
  n="0796c28" ed="T"/>如今現所說，　　自知苦盡源，　　<lb
  n="0796c29" ed="T"/>此名為善本，　　是無漏苾芻。　　
 </ab><pb n="0797a" ed="T" id="T04.0213.0797a"/><lb
- n="0797a01" ed="T"/><ab type="verse">
+ n="0797a01" ed="T"/><ab type='verse'>
 不以持戒力，　　及以多聞義，　　<lb
  n="0797a02" ed="T"/>正使得定意，　　不著於文飾。　　<lb
  n="0797a03" ed="T"/>苾芻有所倚，　　盡於無漏行，　　<lb
@@ -2059,13 +2059,13 @@
  n="0797a06" ed="T"/>修行勿作惡，　　必強自制心。　　<lb
  n="0797a07" ed="T"/>捨家而得解，　　意猶復染著，　　
 </ab><lb
- n="0797a08" ed="T"/><ab type="verse">
+ n="0797a08" ed="T"/><ab type='verse'>
 習行懈緩者，　　勞意勿除之，　　<lb
  n="0797a09" ed="T"/>非淨則梵行，　　焉致大財寶？　　<lb
  n="0797a10" ed="T"/>心得永休息，　　苾芻攝意行，　　<lb
  n="0797a11" ed="T"/>以盡老病死，　　便脫魔羅縛。　　
 </ab><lb
- n="0797a12" ed="T"/><ab type="verse">
+ n="0797a12" ed="T"/><ab type='verse'>
 心已得永寂，　　苾芻攝意行，　　<lb
  n="0797a13" ed="T"/>以盡老病死，　　更不復受有。　　<lb
  n="0797a14" ed="T"/>以斷於愛相，　　苾芻攝意行，　　<lb
@@ -2073,7 +2073,7 @@
  n="0797a16" ed="T"/>無有結使心，　　苾芻攝意行，　　<lb
  n="0797a17" ed="T"/>以盡老病死，　　更不復受有。　　
 </ab><lb
- n="0797a18" ed="T"/><ab type="verse">
+ n="0797a18" ed="T"/><ab type='verse'>
 不能斷有根，　　苾芻攝意行，　　<lb
  n="0797a19" ed="T"/>以盡老病死，　　更不復受有。　　<lb
  n="0797a20" ed="T"/>能斷三毒根，　　苾芻攝意行，　　<lb
@@ -2144,8 +2144,8 @@
  n="0797c27" ed="T"/>分別床臥具，　　當習無放逸，　　<lb
  n="0797c28" ed="T"/>斷有愛無餘。　　
 </ab></div><lb
- n="0797c29" ed="T"/><div type="pin" level="2"><head>法集要頌經梵志品第三十三</head><pb n="0798a" ed="T" id="T04.0213.0798a"/><lb
- n="0798a01" ed="T"/><ab type="verse">
+ n="0797c29" ed="T"/><div type='pin' level='2'><head>法集要頌經梵志品第三十三</head><pb n="0798a" ed="T" id="T04.0213.0798a"/><lb
+ n="0798a01" ed="T"/><ab type='verse'>
 所謂梵志者，　　不但在裸形，　　<lb
  n="0798a02" ed="T"/>居險臥荊棘，　　而名為梵志。　　<lb
  n="0798a03" ed="T"/>棄身無依倚，　　不誦異法言，　　<lb
@@ -2295,7 +2295,7 @@
  n="0799c02" ed="T"/>護心及苾芻　　梵志品在末　　<lb
  n="0799c03" ed="T"/>依次品而說，　　具足三十二。　　
 </ab><lb
- n="0799c04" ed="T"/><ab type="prose">聖尊者法救集諸佛法頌偈竟。<lb
+ n="0799c04" ed="T"/><ab type='prose'>聖尊者法救集諸佛法頌偈竟。<lb
  n="0799c05" ed="T"/>
-</ab><ab type="juan" subtype="close">法集要頌經卷第四</ab></div></div>
+</ab><ab type='juan' subtype='close'>法集要頌經卷第四</ab></div></div>
 </body></text></TEI>

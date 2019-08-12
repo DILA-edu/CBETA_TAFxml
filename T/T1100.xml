@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1100</idno>
                 </bibl>
@@ -43,13 +43,13 @@
  n="0447a01" ed="T"/><lb
  n="0447a02" ed="T"/><lb
  n="0447a03" ed="T"/>
-<ab type="juan" subtype="open">葉衣觀自在菩薩經</ab><lb
+<ab type='juan' subtype='open'>葉衣觀自在菩薩經</ab><lb
  n="0447a04" ed="T"/><lb
  n="0447a05" ed="T"/><byline>開府儀同三司特進試鴻臚卿肅國<lb
  n="0447a06" ed="T"/>公食邑三千戶賜紫贈司空諡大鑒<lb
  n="0447a07" ed="T"/>正號大廣智大興善寺三藏沙門<lb
  n="0447a08" ed="T"/>不空奉　詔譯</byline><lb
- n="0447a09" ed="T"/><div type="jing" level="1"><ab type="prose">爾時婆伽梵住極樂世界。與諸大眾宣說妙<lb
+ n="0447a09" ed="T"/><div type='jing' level='1'><ab type='prose'>爾時婆伽梵住極樂世界。與諸大眾宣說妙<lb
  n="0447a10" ed="T"/>法。時金剛手菩薩。從座而起偏袒右肩。雙膝<lb
  n="0447a11" ed="T"/>著地頂禮觀自在菩薩摩訶薩足。白觀自在<lb
  n="0447a12" ed="T"/>菩薩言。聖者住大悲解脫如幻三昧。能除一<lb
@@ -75,7 +75,7 @@
  n="0447b03" ed="T"/>許。佛言善哉善哉隨汝意說。爾時觀自在菩<lb
  n="0447b04" ed="T"/>薩。承佛威神而說陀羅尼曰。<lb
  n="0447b05" ed="T"/></ab>
-<ab type="dharani">曩謨囉怛曩怛囉夜野曩謨阿<lb
+<ab type='dharani'>曩謨囉怛曩怛囉夜野曩謨阿<lb
  n="0447b06" ed="T"/>弭跢婆野怛他蘖跢夜囉<lb
  n="0447b07" ed="T"/>賀帝三藐三沒馱野曩謨阿<lb
  n="0447b08" ed="T"/>哩野嚩路枳帝濕嚩囉野󰂛<lb
@@ -115,11 +115,11 @@
  n="0448a01" ed="T"/>麼覩奴尾覩奴覩黎覩母黎<lb
  n="0448a02" ed="T"/>娑嚩賀<lb
  n="0448a03" ed="T"/></ab>
-<ab type="prose">心真言曰。<lb
+<ab type='prose'>心真言曰。<lb
  n="0448a04" ed="T"/></ab>
-<ab type="dharani">唵鉢囉拏捨嚩哩吽發吒<lb
+<ab type='dharani'>唵鉢囉拏捨嚩哩吽發吒<lb
  n="0448a05" ed="T"/></ab>
-<ab type="prose">時觀自在菩薩。說此陀羅尼已。白佛言世尊。<lb
+<ab type='prose'>時觀自在菩薩。說此陀羅尼已。白佛言世尊。<lb
  n="0448a06" ed="T"/>若善男子善女人。誦此陀羅尼一遍。即護自<lb
  n="0448a07" ed="T"/>身。若誦兩遍即護伴侶。若誦三遍能護一<lb
  n="0448a08" ed="T"/>家。若誦四遍護一聚落。若誦五遍護一國<lb
@@ -135,9 +135,9 @@
  n="0448a18" ed="T"/>自在菩薩陀羅尼。聲鼓鳴磬。所擊之杖用樀<lb
  n="0448a19" ed="T"/>枳王真言。加持二十一遍方乃擊之。真言曰。<lb
  n="0448a20" ed="T"/></ab>
-<ab type="dharani">唵樀枳吽弱<lb
+<ab type='dharani'>唵樀枳吽弱<lb
  n="0448a21" ed="T"/></ab>
-<ab type="prose">又令二人誦讚。一人誦吉慶讚。一人誦吉祥<lb
+<ab type='prose'>又令二人誦讚。一人誦吉慶讚。一人誦吉祥<lb
  n="0448a22" ed="T"/>讚。令知法弟子三五人。一人持香爐燒安悉<lb
  n="0448a23" ed="T"/>香。其香以葉衣觀自在菩薩心真言。加持一<lb
  n="0448a24" ed="T"/>百八遍。然後取燒香煙勿令斷絕。一人持<lb
@@ -164,123 +164,123 @@
  n="0448b16" ed="T"/>叉將真言。從東北角起首。所謂第一藥叉將<lb
  n="0448b17" ed="T"/>真言曰。<lb
  n="0448b18" ed="T"/></ab>
-<ab type="dharani">唵儞囉伽吒抧吽弱娑嚩訶<lb
+<ab type='dharani'>唵儞囉伽吒抧吽弱娑嚩訶<lb
  n="0448b19" ed="T"/></ab>
-<ab type="prose">第二藥叉將真言曰。<lb
+<ab type='prose'>第二藥叉將真言曰。<lb
  n="0448b20" ed="T"/></ab>
-<ab type="dharani">唵蘇寗怛囉吒抧吽弱娑嚩訶<lb
+<ab type='dharani'>唵蘇寗怛囉吒抧吽弱娑嚩訶<lb
  n="0448b21" ed="T"/></ab>
-<ab type="prose">第三藥叉將真言曰。<lb
+<ab type='prose'>第三藥叉將真言曰。<lb
  n="0448b22" ed="T"/></ab>
-<ab type="dharani">唵布囉拏迦吒抧吽弱娑嚩訶<lb
+<ab type='dharani'>唵布囉拏迦吒抧吽弱娑嚩訶<lb
  n="0448b23" ed="T"/></ab>
-<ab type="prose">第四藥叉將真言曰。<lb
+<ab type='prose'>第四藥叉將真言曰。<lb
  n="0448b24" ed="T"/></ab>
-<ab type="dharani">唵迦比攞吒抧吽弱娑嚩訶<lb
+<ab type='dharani'>唵迦比攞吒抧吽弱娑嚩訶<lb
  n="0448b25" ed="T"/></ab>
-<ab type="prose">次於南方壁上。貼四大藥叉將真言。<lb
+<ab type='prose'>次於南方壁上。貼四大藥叉將真言。<lb
  n="0448b26" ed="T"/>第一藥叉將真言曰。<lb
  n="0448b27" ed="T"/></ab>
-<ab type="dharani">唵僧伽吒抧吽弱娑嚩訶<lb
+<ab type='dharani'>唵僧伽吒抧吽弱娑嚩訶<lb
  n="0448b28" ed="T"/></ab>
-<ab type="prose">第二藥叉將真言曰。<lb
+<ab type='prose'>第二藥叉將真言曰。<lb
  n="0448b29" ed="T"/></ab>
-<ab type="dharani">唵塢波僧伽吒抧吽弱娑嚩訶<pb n="0448c" id="T20.1100.0448c" ed="T"/><lb
+<ab type='dharani'>唵塢波僧伽吒抧吽弱娑嚩訶<pb n="0448c" id="T20.1100.0448c" ed="T"/><lb
  n="0448c01" ed="T"/></ab>
-<ab type="prose">第三藥叉將真言曰。<lb
+<ab type='prose'>第三藥叉將真言曰。<lb
  n="0448c02" ed="T"/></ab>
-<ab type="dharani">唵啇企羅吒抧吽弱娑嚩訶<lb
+<ab type='dharani'>唵啇企羅吒抧吽弱娑嚩訶<lb
  n="0448c03" ed="T"/></ab>
-<ab type="prose">第四藥叉將真言曰。<lb
+<ab type='prose'>第四藥叉將真言曰。<lb
  n="0448c04" ed="T"/></ab>
-<ab type="dharani">唵難娜吒抧吽弱娑嚩訶<lb
+<ab type='dharani'>唵難娜吒抧吽弱娑嚩訶<lb
  n="0448c05" ed="T"/></ab>
-<ab type="prose">次於西方壁上。帖四大藥叉將真言。<lb
+<ab type='prose'>次於西方壁上。帖四大藥叉將真言。<lb
  n="0448c06" ed="T"/>第一藥叉將真言曰。<lb
  n="0448c07" ed="T"/></ab>
-<ab type="dharani">唵訶哩吒抧吽弱娑嚩訶<lb
+<ab type='dharani'>唵訶哩吒抧吽弱娑嚩訶<lb
  n="0448c08" ed="T"/></ab>
-<ab type="prose">第二藥叉將真言曰。<lb
+<ab type='prose'>第二藥叉將真言曰。<lb
  n="0448c09" ed="T"/></ab>
-<ab type="dharani">唵訶哩計奢吒抧吽弱娑嚩訶<lb
+<ab type='dharani'>唵訶哩計奢吒抧吽弱娑嚩訶<lb
  n="0448c10" ed="T"/></ab>
-<ab type="prose">第三藥叉將真言曰。<lb
+<ab type='prose'>第三藥叉將真言曰。<lb
  n="0448c11" ed="T"/></ab>
-<ab type="dharani">唵鉢囉僕吒抧吽弱娑嚩訶<lb
+<ab type='dharani'>唵鉢囉僕吒抧吽弱娑嚩訶<lb
  n="0448c12" ed="T"/></ab>
-<ab type="prose">第四藥叉將真言曰。<lb
+<ab type='prose'>第四藥叉將真言曰。<lb
  n="0448c13" ed="T"/></ab>
-<ab type="dharani">唵迦比羅吒抧吽弱娑嚩訶<lb
+<ab type='dharani'>唵迦比羅吒抧吽弱娑嚩訶<lb
  n="0448c14" ed="T"/></ab>
-<ab type="prose">次於北方壁上。帖四大藥叉將真言。<lb
+<ab type='prose'>次於北方壁上。帖四大藥叉將真言。<lb
  n="0448c15" ed="T"/>第一藥叉將真言曰。<lb
  n="0448c16" ed="T"/></ab>
-<ab type="dharani">唵馱邏拏吒抧吽弱娑嚩訶<lb
+<ab type='dharani'>唵馱邏拏吒抧吽弱娑嚩訶<lb
  n="0448c17" ed="T"/></ab>
-<ab type="prose">第二藥叉將真言曰。<lb
+<ab type='prose'>第二藥叉將真言曰。<lb
  n="0448c18" ed="T"/></ab>
-<ab type="dharani">唵馱邏難那吒抧吽弱娑嚩訶<lb
+<ab type='dharani'>唵馱邏難那吒抧吽弱娑嚩訶<lb
  n="0448c19" ed="T"/></ab>
-<ab type="prose">第三藥叉將真言曰。<lb
+<ab type='prose'>第三藥叉將真言曰。<lb
  n="0448c20" ed="T"/></ab>
-<ab type="dharani">唵塢儞庾誐跛羅吒抧吽弱娑嚩訶<lb
+<ab type='dharani'>唵塢儞庾誐跛羅吒抧吽弱娑嚩訶<lb
  n="0448c21" ed="T"/></ab>
-<ab type="prose">第四藥叉將真言曰。<lb
+<ab type='prose'>第四藥叉將真言曰。<lb
  n="0448c22" ed="T"/></ab>
-<ab type="dharani">唵尾灑弩吒抧吽弱娑嚩訶<pb n="0449a" id="T20.1100.0449a" ed="T"/><lb
+<ab type='dharani'>唵尾灑弩吒抧吽弱娑嚩訶<pb n="0449a" id="T20.1100.0449a" ed="T"/><lb
  n="0449a01" ed="T"/></ab>
-<ab type="prose">次於東北隅。帖一大藥叉將真言曰。<lb
+<ab type='prose'>次於東北隅。帖一大藥叉將真言曰。<lb
  n="0449a02" ed="T"/></ab>
-<ab type="dharani">唵半支迦吒抧吽弱娑嚩訶<lb
+<ab type='dharani'>唵半支迦吒抧吽弱娑嚩訶<lb
  n="0449a03" ed="T"/></ab>
-<ab type="prose">次於東南隅。帖一大藥叉將真言曰。<lb
+<ab type='prose'>次於東南隅。帖一大藥叉將真言曰。<lb
  n="0449a04" ed="T"/></ab>
-<ab type="dharani">唵半左羅巘拏吒抧吽弱娑嚩訶<lb
+<ab type='dharani'>唵半左羅巘拏吒抧吽弱娑嚩訶<lb
  n="0449a05" ed="T"/></ab>
-<ab type="prose">次於西南隅。帖一大藥叉將真言曰。<lb
+<ab type='prose'>次於西南隅。帖一大藥叉將真言曰。<lb
  n="0449a06" ed="T"/></ab>
-<ab type="dharani">唵娑跢儗哩吒抧吽弱娑嚩訶<lb
+<ab type='dharani'>唵娑跢儗哩吒抧吽弱娑嚩訶<lb
  n="0449a07" ed="T"/></ab>
-<ab type="prose">次於西北隅。帖一大藥叉將真言曰。<lb
+<ab type='prose'>次於西北隅。帖一大藥叉將真言曰。<lb
  n="0449a08" ed="T"/></ab>
-<ab type="dharani">唵害麼嚩多吒抧吽弱娑嚩訶<lb
+<ab type='dharani'>唵害麼嚩多吒抧吽弱娑嚩訶<lb
  n="0449a09" ed="T"/></ab>
-<ab type="prose">次於下方足不踏處石上。鐫四大藥叉將真<lb
+<ab type='prose'>次於下方足不踏處石上。鐫四大藥叉將真<lb
  n="0449a10" ed="T"/>言。置於四方地下。<lb
  n="0449a11" ed="T"/>東方地下一大藥叉將真言曰。<lb
  n="0449a12" ed="T"/></ab>
-<ab type="dharani">唵步莫吒抧吽弱娑嚩訶<lb
+<ab type='dharani'>唵步莫吒抧吽弱娑嚩訶<lb
  n="0449a13" ed="T"/></ab>
-<ab type="prose">南方地下一大藥叉將真言曰。<lb
+<ab type='prose'>南方地下一大藥叉將真言曰。<lb
  n="0449a14" ed="T"/></ab>
-<ab type="dharani">唵蘇步莫吒抧吽弱娑嚩訶<lb
+<ab type='dharani'>唵蘇步莫吒抧吽弱娑嚩訶<lb
  n="0449a15" ed="T"/></ab>
-<ab type="prose">西方地下一大藥叉將真言曰。<lb
+<ab type='prose'>西方地下一大藥叉將真言曰。<lb
  n="0449a16" ed="T"/></ab>
-<ab type="dharani">唵迦羅吒抧吽弱娑嚩訶<lb
+<ab type='dharani'>唵迦羅吒抧吽弱娑嚩訶<lb
  n="0449a17" ed="T"/></ab>
-<ab type="prose">北方地下一大藥叉將真言曰。<lb
+<ab type='prose'>北方地下一大藥叉將真言曰。<lb
  n="0449a18" ed="T"/></ab>
-<ab type="dharani">唵塢波迦羅吒抧吽弱娑嚩訶<lb
+<ab type='dharani'>唵塢波迦羅吒抧吽弱娑嚩訶<lb
  n="0449a19" ed="T"/></ab>
-<ab type="prose">次於上方四隅舍上。各帖一大藥叉將真言。<lb
+<ab type='prose'>次於上方四隅舍上。各帖一大藥叉將真言。<lb
  n="0449a20" ed="T"/>東北隅舍上一大藥叉將真言曰。<lb
  n="0449a21" ed="T"/></ab>
-<ab type="dharani">唵蘇哩也吒抧吽弱娑嚩訶<lb
+<ab type='dharani'>唵蘇哩也吒抧吽弱娑嚩訶<lb
  n="0449a22" ed="T"/></ab>
-<ab type="prose">東南隅舍上一大藥叉將真言曰。<lb
+<ab type='prose'>東南隅舍上一大藥叉將真言曰。<lb
  n="0449a23" ed="T"/></ab>
-<ab type="dharani">唵阿銀儞吒抧吽弱娑嚩訶<lb
+<ab type='dharani'>唵阿銀儞吒抧吽弱娑嚩訶<lb
  n="0449a24" ed="T"/></ab>
-<ab type="prose">西南隅舍上一大藥叉將真言曰。<lb
+<ab type='prose'>西南隅舍上一大藥叉將真言曰。<lb
  n="0449a25" ed="T"/></ab>
-<ab type="dharani">唵蘇摩吒抧吽弱娑嚩訶<lb
+<ab type='dharani'>唵蘇摩吒抧吽弱娑嚩訶<lb
  n="0449a26" ed="T"/></ab>
-<ab type="prose">西北隅舍上一大藥叉將真言曰。<lb
+<ab type='prose'>西北隅舍上一大藥叉將真言曰。<lb
  n="0449a27" ed="T"/></ab>
-<ab type="dharani">唵嚩庾吒抧吽弱娑嚩訶<lb
+<ab type='dharani'>唵嚩庾吒抧吽弱娑嚩訶<lb
  n="0449a28" ed="T"/></ab>
-<ab type="prose">帖真言已。於二十八大藥叉將位。各各以<lb
+<ab type='prose'>帖真言已。於二十八大藥叉將位。各各以<lb
  n="0449a29" ed="T"/>香塗一小壇。壇上燒香雜華。飲食燈燭閼<pb n="0449b" id="T20.1100.0449b" ed="T"/><lb
  n="0449b01" ed="T"/>伽虔誠啟告。唯願二十八大藥叉將并諸眷<lb
  n="0449b02" ed="T"/>屬。各住本方護持守護某甲令除災禍不<lb
@@ -327,5 +327,5 @@
  n="0449c14" ed="T"/>又法若虫食苗稼。取砂以真言加持一百八<lb
  n="0449c15" ed="T"/>遍。散於田中虫自遠去五穀豐熟。<lb
  n="0449c16" ed="T"/>
-</ab><ab type="juan" subtype="close">葉衣觀自在菩薩經</ab></div>
+</ab><ab type='juan' subtype='close'>葉衣觀自在菩薩經</ab></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T16</biblScope>
                     <idno type="Taisho">T16n0688</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0781a08" ed="T"/><lb
  n="0781a09" ed="T"/><lb
  n="0781a10" ed="T"/>
-<ab type="juan" subtype="open">佛說未曾有經</ab><lb
+<ab type='juan' subtype='open'>佛說未曾有經</ab><lb
  n="0781a11" ed="T"/><lb
  n="0781a12" ed="T"/><byline>後漢失譯人名出古舊錄</byline><lb
- n="0781a13" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時，佛住王舍城耆闍崛山，與<lb
+ n="0781a13" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時，佛住王舍城耆闍崛山，與<lb
  n="0781a14" ed="T"/>大比丘眾千二百五十人俱。爾時，尊者阿難<lb
  n="0781a15" ed="T"/>晨朝著衣持鉢，入王舍城，正念乞食。見有一<lb
  n="0781a16" ed="T"/>處新作大舍，重閣高顯、戶牖彫飾、牆壁嚴整，<lb
@@ -125,5 +125,5 @@
  n="0782a01" ed="T"/>藥王佛　藥王菩薩　藥上菩薩　最上天<lb
  n="0782a02" ed="T"/>王佛</ab></div><lb
  n="0782a03" ed="T"/>
-<ab type="juan" subtype="close">佛說未曾有經</ab>
+<ab type='juan' subtype='close'>佛說未曾有經</ab>
 </body></text></TEI>

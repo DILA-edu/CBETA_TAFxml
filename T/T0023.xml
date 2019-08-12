@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0023</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0277a" ed="T" id="T01.0023.0277a"/><lb
  n="0277a01" ed="T"/><lb
  n="0277a02" ed="T"/><lb
  n="0277a03" ed="T"/>
-<ab type="juan" subtype="open">大樓炭經卷第一</ab><lb
+<ab type='juan' subtype='open'>大樓炭經卷第一</ab><lb
  n="0277a04" ed="T"/><lb
  n="0277a05" ed="T"/><byline>西晉沙門法立共法炬譯</byline><lb
- n="0277a06" ed="T"/><div type="pin" level="2"><head>閻浮利品第一</head><lb
- n="0277a07" ed="T"/><ab type="prose">聞如是：一時，佛遊於舍衛祇樹給孤獨園，與<lb
+ n="0277a06" ed="T"/><div type='pin' level='2'><head>閻浮利品第一</head><lb
+ n="0277a07" ed="T"/><ab type='prose'>聞如是：一時，佛遊於舍衛祇樹給孤獨園，與<lb
  n="0277a08" ed="T"/>大比丘眾千二百五十人俱。爾時，眾比丘飯<lb
  n="0277a09" ed="T"/>已後，會於講堂上，坐共議言：「可恠未曾有，<lb
  n="0277a10" ed="T"/>是天地云何破壞？云何成就？」佛徹聽遙聞，<lb
@@ -290,8 +290,8 @@
  n="0279c22" ed="T"/>諸鬼神皆除著外。」佛言：「比丘！善住象王<lb
  n="0279c23" ed="T"/>威神尊巍巍乃如是，畜生含血之類，乃有<lb
  n="0279c24" ed="T"/>此。」</ab></div><lb
- n="0279c25" ed="T"/><div type="pin" level="2"><head>大樓炭經欝單曰品第二</head><lb
- n="0279c26" ed="T"/><ab type="prose">佛語比丘：「欝單曰天下，周匝廣長各四十萬<lb
+ n="0279c25" ed="T"/><div type='pin' level='2'><head>大樓炭經欝單曰品第二</head><lb
+ n="0279c26" ed="T"/><ab type='prose'>佛語比丘：「欝單曰天下，周匝廣長各四十萬<lb
  n="0279c27" ed="T"/>里。北方天下有種種山無央數，其河兩邊，<lb
  n="0279c28" ed="T"/>有種種樹，河水徐行，有種種華，水中叢流，<lb
  n="0279c29" ed="T"/>河兩邊有船，彩畫姝好，以四寶金銀琉璃水<pb n="0280a" ed="T" id="T01.0023.0280a"/><lb
@@ -381,8 +381,8 @@
  n="0281a01" ed="T"/>粳米，無有盜賊，無有惡者。無言我婦、無言<lb
  n="0281a02" ed="T"/>我子。顏色甚好有威神，無短命者，死已後<lb
  n="0281a03" ed="T"/>生善處。是故名鬱單曰。」</ab></div><lb
- n="0281a04" ed="T"/><div type="pin" level="2"><head>大樓炭經轉輪王品第三之一</head><lb
- n="0281a05" ed="T"/><ab type="prose">佛語比丘：「世間有轉輪王時，自然生七寶、有<lb
+ n="0281a04" ed="T"/><div type='pin' level='2'><head>大樓炭經轉輪王品第三之一</head><lb
+ n="0281a05" ed="T"/><ab type='prose'>佛語比丘：「世間有轉輪王時，自然生七寶、有<lb
  n="0281a06" ed="T"/>四德。何等為七？一者金輪寶、二者白象寶、三<lb
  n="0281a07" ed="T"/>者紺色馬寶、四者明月珠寶、五者玉女寶、六<lb
  n="0281a08" ed="T"/>者藏聖臣寶、七者導道聖臣寶。轉輪王其金<lb
@@ -496,16 +496,16 @@
  n="0282a29" ed="T"/>我自然明月珠寶今已作轉輪王。』轉輪王有<pb n="0282b" ed="T" id="T01.0023.0282b"/><lb
  n="0282b01" ed="T"/>明月珠寶如是。<lb
  n="0282b02" ed="T"/>
-</ab><ab type="juan" subtype="close">大樓炭經卷第一</ab><lb
+</ab><ab type='juan' subtype='close'>大樓炭經卷第一</ab><lb
  n="0282b03" ed="T"/><lb
  n="0282b04" ed="T"/><lb
  n="0282b05" ed="T"/><lb
  n="0282b06" ed="T"/>
-<ab type="juan" subtype="open">大樓炭經卷第二</ab><lb
+<ab type='juan' subtype='open'>大樓炭經卷第二</ab><lb
  n="0282b07" ed="T"/><lb
  n="0282b08" ed="T"/><byline>西晉沙門法立共法炬譯</byline><lb
  n="0282b09" ed="T"/><head>轉輪王品第三</head><lb
- n="0282b10" ed="T"/><ab type="prose">「轉輪王有玉女寶者，何等類？轉輪王明旦與<lb
+ n="0282b10" ed="T"/><ab type='prose'>「轉輪王有玉女寶者，何等類？轉輪王明旦與<lb
  n="0282b11" ed="T"/>諸大臣共坐參議，時有自然玉女寶在前<lb
  n="0282b12" ed="T"/>現，端正姝好面色無比，亦不長不短，不肥不<lb
  n="0282b13" ed="T"/>瘦，不白不黑。冬時身則溫，夏時身則凉，身<lb
@@ -593,8 +593,8 @@
  n="0283b08" ed="T"/>者與衣，欲得香熏華者與香熏華，欲得財<lb
  n="0283b09" ed="T"/>物牛羊者與之。其後玉女寶、主藏聖臣寶、<lb
  n="0283b10" ed="T"/>導道聖臣寶乃命過。」</ab></div><lb
- n="0283b11" ed="T"/><div type="pin" level="2"><head>大樓炭經泥犁品第四</head><lb
- n="0283b12" ed="T"/><ab type="prose">佛告比丘：「有大鐵圍山，更復有第二大鐵圍<lb
+ n="0283b11" ed="T"/><div type='pin' level='2'><head>大樓炭經泥犁品第四</head><lb
+ n="0283b12" ed="T"/><ab type='prose'>佛告比丘：「有大鐵圍山，更復有第二大鐵圍<lb
  n="0283b13" ed="T"/>山，中間窈窈冥冥，其日月大尊神光明不能<lb
  n="0283b14" ed="T"/>及照。其中有八大泥犁，一泥犁者，有十六部。<lb
  n="0283b15" ed="T"/>第一大泥犁名想、第二大泥犁名黑耳、第三<lb
@@ -868,12 +868,12 @@
  n="0286c01" ed="T"/>即各各取人倒著泥犁，泥犁城廣長，各四萬<lb
  n="0286c02" ed="T"/>里，窈窈冥冥。」佛爾時說偈言：<lb
  n="0286c03" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「四方有四門，　　諸角治甚堅，　　<lb
  n="0286c04" ed="T"/>垣壁以鐵作，　　上亦用鐵覆，　　<lb
  n="0286c05" ed="T"/>其地悉布鐵，　　火悉自然出。　　
 </ab><lb
- n="0286c06" ed="T"/><ab type="prose">「其界有十大泥犁：第一名阿浮、第二名尼羅<lb
+ n="0286c06" ed="T"/><ab type='prose'>「其界有十大泥犁：第一名阿浮、第二名尼羅<lb
  n="0286c07" ed="T"/>浮、第三名阿呵不、第四名阿波浮、第五名阿<lb
  n="0286c08" ed="T"/>羅留、第六名優鉢、第七名修揵、第八名蓮<lb
  n="0286c09" ed="T"/>花、第九名拘文、第十名分陀利。」佛言：「何故名<lb
@@ -916,7 +916,7 @@
  n="0287a17" ed="T"/>中，坐誹謗舍利弗、摩訶目揵連。」佛於是說偈<lb
  n="0287a18" ed="T"/>言：<lb
  n="0287a19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「若有人發起者，　　從口語出刀刃，　　<lb
  n="0287a20" ed="T"/>坐語說惡之事，　　便還而自截傷。　　<lb
  n="0287a21" ed="T"/>若有誹反歎譽，　　可歎者反誹謗，　　<lb
@@ -925,7 +925,7 @@
  n="0287a24" ed="T"/>有惡意向賢者，　　是過為最重大。　　<lb
  n="0287a25" ed="T"/>泥犁浮有百千，　　阿浮有三十五。　　
 </ab><lb
- n="0287a26" ed="T"/><ab type="prose">「閻羅王晝夜各三過燒熱銅，自然火在前宮<lb
+ n="0287a26" ed="T"/><ab type='prose'>「閻羅王晝夜各三過燒熱銅，自然火在前宮<lb
  n="0287a27" ed="T"/>中，王即恐畏，衣毛起竪，即出宮舍外，外亦自<lb
  n="0287a28" ed="T"/>然有，大王大怖懅還入宮，泥犁旁便各各<lb
  n="0287a29" ed="T"/>取閻羅王，擿燒鐵地，持鐵鉤鈎其口皆開，<pb n="0287b" ed="T" id="T01.0023.0287b"/><lb
@@ -936,7 +936,7 @@
  n="0287b05" ed="T"/>人其有身行善、口言善、心念善，死後皆生天<lb
  n="0287b06" ed="T"/>上。」佛於是說偈言：<lb
  n="0287b07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「王使神呼問之，　　人民所作惡過，　　<lb
  n="0287b08" ed="T"/>其人常而憂毒，　　人用是身勤苦。　　<lb
  n="0287b09" ed="T"/>知當問不作惡，　　即奉行賢善法，　　<lb
@@ -945,8 +945,8 @@
  n="0287b12" ed="T"/>得安隱甚快樂，　　即見在得滅度。　　<lb
  n="0287b13" ed="T"/>一切恐怖畏懅，　　度無為獨有常。」　　
 </ab></div><lb
- n="0287b14" ed="T"/><div type="pin" level="2"><head>大樓炭經阿須倫品第五</head><lb
- n="0287b15" ed="T"/><ab type="prose">佛言：「須彌山下深四十萬里中，有阿須倫，<lb
+ n="0287b14" ed="T"/><div type='pin' level='2'><head>大樓炭經阿須倫品第五</head><lb
+ n="0287b15" ed="T"/><ab type='prose'>佛言：「須彌山下深四十萬里中，有阿須倫，<lb
  n="0287b16" ed="T"/>名抄多尸利。其城郭廣長各三百三十六萬<lb
  n="0287b17" ed="T"/>里，以七寶作之，甚姝好，金銀水精琉璃赤真<lb
  n="0287b18" ed="T"/>珠車𤦲馬瑙，周匝圍繞。有七重壁欄楯、七重<lb
@@ -1007,16 +1007,16 @@
  n="0288a15" ed="T"/>四者上風。是為四品風，主持水在上如浮雲<lb
  n="0288a16" ed="T"/>矣。」</ab></div><lb
  n="0288a17" ed="T"/>
-<ab type="juan" subtype="close">大樓炭經卷第二</ab><lb
- n="0288a18" ed="T"/><div type="w" level="2"><ab type="prose"></ab></div><lb
+<ab type='juan' subtype='close'>大樓炭經卷第二</ab><lb
+ n="0288a18" ed="T"/><div type='w' level='2'><ab type='prose'></ab></div><lb
  n="0288a19" ed="T"/><lb
  n="0288a20" ed="T"/><lb
  n="0288a21" ed="T"/>
-<ab type="juan" subtype="open">大樓炭經卷第三</ab><lb
+<ab type='juan' subtype='open'>大樓炭經卷第三</ab><lb
  n="0288a22" ed="T"/><lb
  n="0288a23" ed="T"/><byline>西晉沙門法立共法炬譯</byline><lb
- n="0288a24" ed="T"/><div type="pin" level="2"><head>龍鳥品第六</head><lb
- n="0288a25" ed="T"/><ab type="prose">佛告比丘言：「有四種龍。何等為四？一者卵生<lb
+ n="0288a24" ed="T"/><div type='pin' level='2'><head>龍鳥品第六</head><lb
+ n="0288a25" ed="T"/><ab type='prose'>佛告比丘言：「有四種龍。何等為四？一者卵生<lb
  n="0288a26" ed="T"/>種龍、二者水生種龍、三者胎生種龍、四者化<lb
  n="0288a27" ed="T"/>生種龍，是為四種龍。」佛語比丘：「金翅鳥有四<lb
  n="0288a28" ed="T"/>種：一者卵生種鳥、二者水生種鳥、三者胎生<lb
@@ -1175,8 +1175,8 @@
  n="0290a07" ed="T"/>沙門道人，知苦習盡滅道諦所從起，便共和<lb
  n="0290a08" ed="T"/>合同。譬如乳，一合無亂，但說佛教，行安隱。」<lb
  n="0290a09" ed="T"/>佛言：「比丘！當諦行是苦諦，習、盡、道諦。」</ab></div><lb
- n="0290a10" ed="T"/><div type="pin" level="2"><head>大樓炭經高善士品第七之一</head><lb
- n="0290a11" ed="T"/><ab type="prose">佛言：「凡夫有三事，覺知高事，知其行所念。<lb
+ n="0290a10" ed="T"/><div type='pin' level='2'><head>大樓炭經高善士品第七之一</head><lb
+ n="0290a11" ed="T"/><ab type='prose'>佛言：「凡夫有三事，覺知高事，知其行所念。<lb
  n="0290a12" ed="T"/>何等為三事？一者人心念善、口言善、至誠身<lb
  n="0290a13" ed="T"/>行善。假令惡人，心念不善、口言不善、身行<lb
  n="0290a14" ed="T"/>不善，高人知為不善也。所以言高者何？人<lb
@@ -1463,8 +1463,8 @@
  n="0293b09" ed="T"/>塚間、水所、唐突處，自念五內，早索泥洹之<lb
  n="0293b10" ed="T"/>道。」佛言：「是我教也。」諸沙門皆叉手，受教言<lb
  n="0293b11" ed="T"/>語，各前為佛作禮。</ab></div><lb
- n="0293b12" ed="T"/><div type="pin" level="2"><head>大樓炭經四天王品第八</head><lb
- n="0293b13" ed="T"/><ab type="prose">佛語比丘：「須彌山王東，去須彌山四萬里，有<lb
+ n="0293b12" ed="T"/><div type='pin' level='2'><head>大樓炭經四天王品第八</head><lb
+ n="0293b13" ed="T"/><ab type='prose'>佛語比丘：「須彌山王東，去須彌山四萬里，有<lb
  n="0293b14" ed="T"/>提頭賴天王城郭，名賢上王處。廣長二十四<lb
  n="0293b15" ed="T"/>萬里，以七寶作七重壁、七重欄楯、七重交露、<lb
  n="0293b16" ed="T"/>七重行樹姝好，周匝圍繞。金壁銀門，銀壁<lb
@@ -1531,15 +1531,15 @@
  n="0294a19" ed="T"/>入迦比延山，相娛樂，快共飲食，一日二日<lb
  n="0294a20" ed="T"/>至七日，以後各自罷去。」</ab></div><lb
  n="0294a21" ed="T"/>
-<ab type="juan" subtype="close">大樓炭經卷第三</ab><lb
+<ab type='juan' subtype='close'>大樓炭經卷第三</ab><lb
  n="0294a22" ed="T"/><lb
  n="0294a23" ed="T"/><lb
  n="0294a24" ed="T"/>
-<ab type="juan" subtype="open">大樓炭經卷第四</ab><lb
+<ab type='juan' subtype='open'>大樓炭經卷第四</ab><lb
  n="0294a25" ed="T"/><lb
  n="0294a26" ed="T"/><byline>西晉沙門法立共法炬譯</byline><lb
- n="0294a27" ed="T"/><div type="pin" level="2"><head>忉利天品第九</head><lb
- n="0294a28" ed="T"/><ab type="prose">佛語比丘：「須彌山王頂上，有忉利天，廣長<lb
+ n="0294a27" ed="T"/><div type='pin' level='2'><head>忉利天品第九</head><lb
+ n="0294a28" ed="T"/><ab type='prose'>佛語比丘：「須彌山王頂上，有忉利天，廣長<lb
  n="0294a29" ed="T"/>各三百二十萬里。上有釋提桓因城郭，名須<pb n="0294b" ed="T" id="T01.0023.0294b"/><lb
  n="0294b01" ed="T"/>陀延，廣長各二百四十萬里，七重壁、七重欄<lb
  n="0294b02" ed="T"/>楯、七重交露、七重行樹，周匝圍遶姝好，皆以<lb
@@ -2054,15 +2054,15 @@
  n="0300a18" ed="T"/>節，是為四事失雨。復次，國君行非法、奉癡法、<lb
  n="0300a19" ed="T"/>多瞋恚惡，天雨便不時節，是為五事失雨。」</ab></div><lb
  n="0300a20" ed="T"/>
-<ab type="juan" subtype="close">大樓炭經卷第四</ab><lb
+<ab type='juan' subtype='close'>大樓炭經卷第四</ab><lb
  n="0300a21" ed="T"/><lb
  n="0300a22" ed="T"/><lb
  n="0300a23" ed="T"/>
-<ab type="juan" subtype="open">大樓炭經卷第五</ab><lb
+<ab type='juan' subtype='open'>大樓炭經卷第五</ab><lb
  n="0300a24" ed="T"/><lb
  n="0300a25" ed="T"/><byline>西晉沙門法立共法炬譯</byline><lb
- n="0300a26" ed="T"/><div type="pin" level="2"><head>戰鬪品第十</head><lb
- n="0300a27" ed="T"/><ab type="prose">佛告比丘：「昔者諸天，欲與阿須倫共戲戰<lb
+ n="0300a26" ed="T"/><div type='pin' level='2'><head>戰鬪品第十</head><lb
+ n="0300a27" ed="T"/><ab type='prose'>佛告比丘：「昔者諸天，欲與阿須倫共戲戰<lb
  n="0300a28" ed="T"/>鬪，諸天便在一面住舍營。時，天帝釋告忉利<lb
  n="0300a29" ed="T"/>諸天言：『若使我諸天得勝、阿須倫壞者，當以<pb n="0300b" ed="T" id="T01.0023.0300b"/><lb
  n="0300b01" ed="T"/>五繫，縛維摩質阿須倫。』天帝釋勅諸樂天等，<lb
@@ -2098,47 +2098,47 @@
  n="0300c02" ed="T"/>所見者，便罵詈惡口。爾時侍者，於天帝釋前，<lb
  n="0300c03" ed="T"/>便說偈言：<lb
  n="0300c04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『天帝釋為恐耶？　　無有力而寂寞？　　<lb
  n="0300c05" ed="T"/>目前聞維摩質，　　口所出麤惡語。』　　
 </ab><lb
- n="0300c06" ed="T"/><ab type="prose">「爾時，天帝釋報侍者說偈言：<lb
+ n="0300c06" ed="T"/><ab type='prose'>「爾時，天帝釋報侍者說偈言：<lb
  n="0300c07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『我不用恐故寂，　　力不少於維摩。　　<lb
  n="0300c08" ed="T"/>云何人智慧者，　　寧當與愚癡諍？』　　
 </ab><lb
- n="0300c09" ed="T"/><ab type="prose">「爾時，侍者於天帝釋前，說偈言：<lb
+ n="0300c09" ed="T"/><ab type='prose'>「爾時，侍者於天帝釋前，說偈言：<lb
  n="0300c10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『若愚癡來鬪時，　　不當應忍此事，　　<lb
  n="0300c11" ed="T"/>於彼當以撾杖，　　便撾擊是愚癡。』　　
 </ab><lb
- n="0300c12" ed="T"/><ab type="prose">「爾時，天帝釋報侍者說偈言：<lb
+ n="0300c12" ed="T"/><ab type='prose'>「爾時，天帝釋報侍者說偈言：<lb
  n="0300c13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『我已為了知是，　　不當與愚癡語，　　<lb
  n="0300c14" ed="T"/>若愚者有瞋恚，　　智慧者不欲諍。』　　
 </ab><lb
- n="0300c15" ed="T"/><ab type="prose">「爾時，侍者於天帝釋前，說偈言：<lb
+ n="0300c15" ed="T"/><ab type='prose'>「爾時，侍者於天帝釋前，說偈言：<lb
  n="0300c16" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『當知是如是寂，　　天帝釋當見因，　　<lb
  n="0300c17" ed="T"/>用愚癡謂智為，　　以恐畏故寂寞。　　<lb
  n="0300c18" ed="T"/>其愚癡自謂為，　　用恐畏故默聲，　　<lb
  n="0300c19" ed="T"/>用是故復來鬪，　　王恐捨如牛走。』　　
 </ab><lb
- n="0300c20" ed="T"/><ab type="prose">「爾時，釋提桓因報侍者說偈言：<lb
+ n="0300c20" ed="T"/><ab type='prose'>「爾時，釋提桓因報侍者說偈言：<lb
  n="0300c21" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『念來嬈輕易我，　　謂為恐故默然，　　<lb
  n="0300c22" ed="T"/>身之利第一義，　　無有與忍辱等。　　<lb
  n="0300c23" ed="T"/>其是者弊惡人，　　身有起瞋恚意，　　<lb
  n="0300c24" ed="T"/>不當發瞋恚向，　　瞋恚者便共諍。』　　
 </ab><lb
- n="0300c25" ed="T"/><ab type="prose">「爾時，釋提桓因重復報侍者，說偈言：<lb
+ n="0300c25" ed="T"/><ab type='prose'>「爾時，釋提桓因重復報侍者，說偈言：<lb
  n="0300c26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『所作有二因緣，　　為身故及他人，　　<lb
  n="0300c27" ed="T"/>若有起諍鬪者，　　智慧者不與鬪。　　<lb
  n="0300c28" ed="T"/>若有作是二事，　　為己身及他人，　　<lb
@@ -2148,17 +2148,17 @@
  n="0301a03" ed="T"/>其有是筋力者，　　於劣人其寂寞，　　<lb
  n="0301a04" ed="T"/>我知忍為最上，　　涕忍辱於劣人。』」　　
 </ab><lb
- n="0301a05" ed="T"/><ab type="prose">佛告比丘：「欲知爾時天帝釋，是我身。我忍辱<lb
+ n="0301a05" ed="T"/><ab type='prose'>佛告比丘：「欲知爾時天帝釋，是我身。我忍辱<lb
  n="0301a06" ed="T"/>如是，我今亦復忍辱。」佛語比丘：「昔者阿須<lb
  n="0301a07" ed="T"/>倫，與天共鬪得勝，諸天即壞，天帝釋便坐<lb
  n="0301a08" ed="T"/>千馬車走還。見睒披大樹上有鳥，諸巢<lb
  n="0301a09" ed="T"/>中有二卵，便自說偈言：<lb
  n="0301a10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『語御者鳥睒披，　　迴馬車當避去，　　<lb
  n="0301a11" ed="T"/>寧阿須破壞我，　　莫令壞是兩卵。』　　
 </ab><lb
- n="0301a12" ed="T"/><ab type="prose">「御者即受天帝釋教，迴千疋馬車避去。諸阿<lb
+ n="0301a12" ed="T"/><ab type='prose'>「御者即受天帝釋教，迴千疋馬車避去。諸阿<lb
  n="0301a13" ed="T"/>須倫見天帝釋千疋馬車迴還，便言：『欲來與<lb
  n="0301a14" ed="T"/>我戰鬪。』以阿須倫即恐怖忙走，諸天即得<lb
  n="0301a15" ed="T"/>勝。」佛告比丘：「欲知爾時天帝釋不？則我身<lb
@@ -2252,8 +2252,8 @@
  n="0302a20" ed="T"/>如是，用七寶刀刃矛箭弓弩，以刺傷諸天身，<lb
  n="0302a21" ed="T"/>毒痛不可言，以因緣故亦不死。欲行天亦如<lb
  n="0302a22" ed="T"/>是，與諸阿須倫戰鬪，因欲藏故，欲因緣故<lb
- n="0302a23" ed="T"/>乃如是。」</ab></div><div type="pin" level="2"><head>大樓炭經三小劫品第十一</head><lb
- n="0302a24" ed="T"/><ab type="prose">佛告比丘：「有三小劫。何等為三？一者刀劒劫、<lb
+ n="0302a23" ed="T"/>乃如是。」</ab></div><div type='pin' level='2'><head>大樓炭經三小劫品第十一</head><lb
+ n="0302a24" ed="T"/><ab type='prose'>佛告比丘：「有三小劫。何等為三？一者刀劒劫、<lb
  n="0302a25" ed="T"/>二者穀貴劫、三者疫病劫，是為三小劫。刀<lb
  n="0302a26" ed="T"/>劒劫者，云何刀劒劫？時，人多非法，愚癡邪見<lb
  n="0302a27" ed="T"/>行十惡事。用人行是惡事故，諸所有美味，<lb
@@ -2304,8 +2304,8 @@
  n="0302c14" ed="T"/>死者皆生天上。所以者何？疾病劫時，人民<lb
  n="0302c15" ed="T"/>轉相勞問言：『云何？為安隱不？為差未？』是為疾<lb
  n="0302c16" ed="T"/>病劫時。是為三小劫也。」</ab></div><lb
- n="0302c17" ed="T"/><div type="pin" level="2"><head>大樓炭經災變品第十二</head><lb
- n="0302c18" ed="T"/><ab type="prose">佛語比丘：「天地有三災變。何等為三？一者火<lb
+ n="0302c17" ed="T"/><div type='pin' level='2'><head>大樓炭經災變品第十二</head><lb
+ n="0302c18" ed="T"/><ab type='prose'>佛語比丘：「天地有三災變。何等為三？一者火<lb
  n="0302c19" ed="T"/>災變、二者水災變、三者風災變，是為三災變。<lb
  n="0302c20" ed="T"/>災變時人會三處。何等為三？遭火災變時，人<lb
  n="0302c21" ed="T"/>悉上第十五阿衛貨羅天上，聚會眾多；遭水<lb
@@ -2516,14 +2516,14 @@
  n="0305a23" ed="T"/>阿須倫天，在須彌山四面，本故所居處，悉<lb
  n="0305a24" ed="T"/>皆充滿。」</ab></div><lb
  n="0305a25" ed="T"/>
-<ab type="juan" subtype="close">大樓炭經卷第五</ab><lb
+<ab type='juan' subtype='close'>大樓炭經卷第五</ab><lb
  n="0305a26" ed="T"/><lb
  n="0305a27" ed="T"/>
-<ab type="juan" subtype="open">大樓炭經卷第六</ab><lb
+<ab type='juan' subtype='open'>大樓炭經卷第六</ab><lb
  n="0305a28" ed="T"/><pb n="0305b" ed="T" id="T01.0023.0305b"/><lb
  n="0305b01" ed="T"/><byline>西晉沙門法立共法炬譯</byline><lb
- n="0305b02" ed="T"/><div type="pin" level="2"><head>天地成品第十三</head><lb
- n="0305b03" ed="T"/><ab type="prose">佛語比丘：「天地破壞，更始成之後，人皆在<lb
+ n="0305b02" ed="T"/><div type='pin' level='2'><head>天地成品第十三</head><lb
+ n="0305b03" ed="T"/><ab type='prose'>佛語比丘：「天地破壞，更始成之後，人皆在<lb
  n="0305b04" ed="T"/>第十五阿衛貨羅天上，其天上人，以好喜作<lb
  n="0305b05" ed="T"/>食，各自有光明神足，其壽甚久長。」佛告比丘：<lb
  n="0305b06" ed="T"/>「時，其水滿天下地。爾時，無有日月亦無星宿，<lb
@@ -2779,11 +2779,11 @@
  n="0308a21" ed="T"/>爾時，人非法著婬欲，行非法婬欲之後，便造<lb
  n="0308a22" ed="T"/>舍宅。用是非法故，初起舍宅。」佛於是說偈言：<lb
  n="0308a23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「初時造瞻波國，　　次起波羅奈城，　　<lb
  n="0308a24" ed="T"/>用是日出光明，　　然後乃作羅閱。　　
 </ab><lb
- n="0308a25" ed="T"/><ab type="prose">「爾時，人民遂非法著婬欲，彼從第十五阿衛<lb
+ n="0308a25" ed="T"/><ab type='prose'>「爾時，人民遂非法著婬欲，彼從第十五阿衛<lb
  n="0308a26" ed="T"/>貨羅天上人，其福德薄祿命盡，身死來下人<lb
  n="0308a27" ed="T"/>間，入母腹中成胞胎，用是故女人始懷妊生<lb
  n="0308a28" ed="T"/>男女。時，人民共食是清淨粳米，以晡時往<lb
@@ -2836,7 +2836,7 @@
  n="0308c15" ed="T"/>罰之。人所種粳米，各各共輸入典主。一切<lb
  n="0308c16" ed="T"/>教令，人民號曰大王，以法取租故名為剎利。<lb
  n="0308c17" ed="T"/>用是故天下始起剎利種，天下所有國，皆屬<lb
- n="0308c18" ed="T"/>大王。時，是閻浮利地，地平正無山陵󰨩谷，<lb
+ n="0308c18" ed="T"/>大王。時，是閻浮利地，地平正無山陵𭗄谷，<lb
  n="0308c19" ed="T"/>無有荊棘，亦無蚊虻蚤虱，亦無礫石，地棄捐<lb
  n="0308c20" ed="T"/>明月珠玉琉璃金銀。「大王治閻浮利天下時，<lb
  n="0308c21" ed="T"/>天下富樂，熾盛安隱，五穀豐熟，人民眾多，地<lb
@@ -2912,19 +2912,19 @@
  n="0309c01" ed="T"/>有起成惠之行者，得尊無所著阿羅漢也。」<lb
  n="0309c02" ed="T"/>梵三鉢天，爾時說偈言：<lb
  n="0309c03" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「剎利種為人尊，　　諸人民行種姓，　　<lb
  n="0309c04" ed="T"/>從起信成惠行，　　彼天上人中尊。」　　
 </ab><lb
- n="0309c05" ed="T"/><ab type="prose">「彼梵三鉢天，受是偈不受惡，說善事不說惡<lb
+ n="0309c05" ed="T"/><ab type='prose'>「彼梵三鉢天，受是偈不受惡，說善事不說惡<lb
  n="0309c06" ed="T"/>言，勸助是。」佛言：「我如來、無所著、等正覺亦說<lb
  n="0309c07" ed="T"/>是義偈：<lb
  n="0309c08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「諸人民行種姓，　　剎利種為人尊，　　<lb
  n="0309c09" ed="T"/>從起得成惠行，　　彼天上人中尊。」　　
 </ab><lb
- n="0309c10" ed="T"/><ab type="prose">佛說是經時，八萬四千天人，遠塵離垢，諸<lb
+ n="0309c10" ed="T"/><ab type='prose'>佛說是經時，八萬四千天人，遠塵離垢，諸<lb
  n="0309c11" ed="T"/>法法眼生；無央數比丘起無餘，不受生死，<lb
  n="0309c12" ed="T"/>意得解脫；佛說如是，比丘歡喜，前為佛作禮<lb
  n="0309c13" ed="T"/>而去。地深二十億萬里，從是已下；復有地<lb
@@ -2945,5 +2945,5 @@
  n="0309c28" ed="T"/>故？盡水起故。何以故？盡風起故。何以故？盡<lb
  n="0309c29" ed="T"/>地起故。」</ab></div><lb
  n="0309c30" ed="T"/>
-<ab type="juan" subtype="close">大樓炭經卷第六</ab></div>
+<ab type='juan' subtype='close'>大樓炭經卷第六</ab></div>
 </body></text></TEI>

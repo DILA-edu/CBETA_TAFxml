@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T07</biblScope>
                     <idno type="Taisho">T07n0220d</idno>
                 </bibl>
@@ -39,13 +39,13 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0763a" ed="T" id="T07.0220d.0763a"/><lb
  n="0763a01" ed="T"/><lb
- n="0763a02" ed="T"/><div type="hui" level="2"><head>大般若經第四會</head><div type="xu" level="3"><head>序</head><lb
+ n="0763a02" ed="T"/><div type='hui' level='2'><head>大般若經第四會</head><div type='xu' level='3'><head>序</head><lb
  n="0763a03" ed="T"/><lb
  n="0763a04" ed="T"/><byline>西明寺沙門玄則撰</byline><lb
- n="0763a05" ed="T"/><ab type="prose">若夫識之所識曷嘗非識、如之所如未始不<lb
+ n="0763a05" ed="T"/><ab type='prose'>若夫識之所識曷嘗非識、如之所如未始不<lb
  n="0763a06" ed="T"/>如，是故能行與所行兼空，則攝受之理廢；自<lb
  n="0763a07" ed="T"/>性與無性不異，則執取之念忘。若忘執而有<lb
  n="0763a08" ed="T"/>恃，或存概以墮業，知盛修而不行，乃虛己而<lb
@@ -66,12 +66,12 @@
  n="0763a23" ed="T"/>圓，鴻規允布，心術之要可復道哉！</ab></div><pb n="0763b" ed="T" id="T07.0220d.0763b"/><lb
  n="0763b01" ed="T"/><lb
  n="0763b02" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百三<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百三<lb
  n="0763b03" ed="T"/>十八</ab><lb
  n="0763b04" ed="T"/><lb
  n="0763b05" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
- n="0763b06" ed="T"/><div type="pin" level="3"><head>第四分妙行品第一之一</head><lb
- n="0763b07" ed="T"/><ab type="prose">如是我聞：一時，薄伽梵住王舍城鷲峯山中，<lb
+ n="0763b06" ed="T"/><div type='pin' level='3'><head>第四分妙行品第一之一</head><lb
+ n="0763b07" ed="T"/><ab type='prose'>如是我聞：一時，薄伽梵住王舍城鷲峯山中，<lb
  n="0763b08" ed="T"/>與大苾芻眾千二百五十人俱，皆阿羅漢，諸<lb
  n="0763b09" ed="T"/>漏已盡無復煩惱，得真自在心善解脫、慧善<lb
  n="0763b10" ed="T"/>解脫，如調慧馬亦如大龍，已作所作已辦所<lb
@@ -522,15 +522,15 @@
  n="0768b21" ed="T"/>有難行苦行，由此能為無量無數無邊有情，<lb
  n="0768b22" ed="T"/>修多百千難行苦行，作大饒益。」<lb
  n="0768b23" ed="T"/>
-</ab><ab type="juan" subtype="close">大般若波羅蜜多經卷第五百三十八</ab><pb n="0768c" ed="T" id="T07.0220d.0768c"/><lb
+</ab><ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百三十八</ab><pb n="0768c" ed="T" id="T07.0220d.0768c"/><lb
  n="0768c01" ed="T"/><lb
  n="0768c02" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百三<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百三<lb
  n="0768c03" ed="T"/>十九<lb
  n="0768c04" ed="T"/><lb
  n="0768c05" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
  n="0768c06" ed="T"/>第四分妙行品第一之二</ab><lb
- n="0768c07" ed="T"/><ab type="prose">時，舍利子問善現言：「是諸菩薩實無生不？」善<lb
+ n="0768c07" ed="T"/><ab type='prose'>時，舍利子問善現言：「是諸菩薩實無生不？」善<lb
  n="0768c08" ed="T"/>現答言：「是諸菩薩皆實無生。」舍利子言：「為但<lb
  n="0768c09" ed="T"/>菩薩是實無生，為菩薩法亦實無生？」善現答<lb
  n="0768c10" ed="T"/>言：「諸菩薩法亦實無生。」舍利子言：「為但菩薩<lb
@@ -611,8 +611,8 @@
  n="0769b27" ed="T"/>等菩提，能盡未來利樂一切。是故菩薩摩訶<lb
  n="0769b28" ed="T"/>薩眾欲證無上正等菩提，當勤修學甚深般<lb
  n="0769b29" ed="T"/>若波羅蜜多。」</ab></div><pb n="0769c" ed="T" id="T07.0220d.0769c"/><lb
- n="0769c01" ed="T"/><div type="pin" level="3"><head>第四分帝釋品第二</head><lb
- n="0769c02" ed="T"/><ab type="prose">爾時，天帝釋與三十三天四萬天子俱來會坐，<lb
+ n="0769c01" ed="T"/><div type='pin' level='3'><head>第四分帝釋品第二</head><lb
+ n="0769c02" ed="T"/><ab type='prose'>爾時，天帝釋與三十三天四萬天子俱來會坐，<lb
  n="0769c03" ed="T"/>護世四天王與四大王眾天二萬天子俱來會<lb
  n="0769c04" ed="T"/>坐，索訶界主大梵天王與萬梵眾俱來會坐，如<lb
  n="0769c05" ed="T"/>是乃至五淨居天各與無量百千天子俱來會<lb
@@ -881,8 +881,8 @@
  n="0772c06" ed="T"/>時，諸天等俱白佛言：「如是般若波羅蜜多甚<lb
  n="0772c07" ed="T"/>為希有，令諸菩薩摩訶薩眾，速能引攝一切<lb
  n="0772c08" ed="T"/>智智，盡未來際利樂有情。」</ab></div><lb
- n="0772c09" ed="T"/><div type="pin" level="3"><head>第四分供養窣堵波品第三之一</head><lb
- n="0772c10" ed="T"/><ab type="prose">爾時，世尊知欲、色界諸天神眾及諸苾芻、苾<lb
+ n="0772c09" ed="T"/><div type='pin' level='3'><head>第四分供養窣堵波品第三之一</head><lb
+ n="0772c10" ed="T"/><ab type='prose'>爾時，世尊知欲、色界諸天神眾及諸苾芻、苾<lb
  n="0772c11" ed="T"/>芻尼等四眾雲集，恭敬信受同為明證，即便<lb
  n="0772c12" ed="T"/>顧命天帝釋言：「憍尸迦！若善男子、善女人等<lb
  n="0772c13" ed="T"/>於深般若波羅蜜多，至心聽聞、受持、讀誦、精<lb
@@ -988,15 +988,15 @@
  n="0773c26" ed="T"/>如理思惟、書寫、解說、廣令流布，獲如是等功<lb
  n="0773c27" ed="T"/>德勝利。」<lb
  n="0773c28" ed="T"/>
-</ab><ab type="juan" subtype="close">大般若波羅蜜多經卷第五百三十九</ab><pb n="0774a" ed="T" id="T07.0220d.0774a"/><lb
+</ab><ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百三十九</ab><pb n="0774a" ed="T" id="T07.0220d.0774a"/><lb
  n="0774a01" ed="T"/><lb
  n="0774a02" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百四<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百四<lb
  n="0774a03" ed="T"/>十<lb
  n="0774a04" ed="T"/><lb
  n="0774a05" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
  n="0774a06" ed="T"/>第四分供養窣堵波品第三之二</ab><lb
- n="0774a07" ed="T"/><ab type="prose">爾時，天帝釋白佛言：「世尊！如是般若波羅蜜<lb
+ n="0774a07" ed="T"/><ab type='prose'>爾時，天帝釋白佛言：「世尊！如是般若波羅蜜<lb
  n="0774a08" ed="T"/>多甚奇希有，能調菩薩摩訶薩眾令離高心，<lb
  n="0774a09" ed="T"/>迴向所求一切智智。」爾時，佛告天帝釋言：「云<lb
  n="0774a10" ed="T"/>何般若波羅蜜多甚奇希有，能調菩薩摩訶<lb
@@ -1470,16 +1470,16 @@
  n="0779b14" ed="T"/>偏讚甚深般若波羅蜜多非餘功德，若讚般<lb
  n="0779b15" ed="T"/>若即讚餘故。」<lb
  n="0779b16" ed="T"/>
-</ab><ab type="juan" subtype="close">大般若波羅蜜多經卷第五百四十</ab><lb
+</ab><ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百四十</ab><lb
  n="0779b17" ed="T"/><lb
  n="0779b18" ed="T"/><lb
  n="0779b19" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百四<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百四<lb
  n="0779b20" ed="T"/>十一<lb
  n="0779b21" ed="T"/><lb
  n="0779b22" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
  n="0779b23" ed="T"/>第四分供養窣堵波品第三之三</ab><lb
- n="0779b24" ed="T"/><ab type="prose">時，天帝釋便白佛言：「今者如來、應、正等覺，於<lb
+ n="0779b24" ed="T"/><ab type='prose'>時，天帝釋便白佛言：「今者如來、應、正等覺，於<lb
  n="0779b25" ed="T"/>深般若波羅蜜多功德勝利說猶未盡。何以<lb
  n="0779b26" ed="T"/>故？我從世尊所受般若波羅蜜多功德勝利，<lb
  n="0779b27" ed="T"/>甚深、甚廣、量無邊際。諸善男子、善女人等於<lb
@@ -1652,8 +1652,8 @@
  n="0781b20" ed="T"/>持如是甚深般若波羅蜜多眾寶嚴飾，復以<lb
  n="0781b21" ed="T"/>種種上妙華鬘乃至燈明供養恭敬、尊重讚<lb
  n="0781b22" ed="T"/>歎。若能如是，定獲無邊現在、未來功德勝利。」</ab></div><lb
- n="0781b23" ed="T"/><div type="pin" level="3"><head>第四分稱揚功德品第四</head><lb
- n="0781b24" ed="T"/><ab type="prose">「復次，憍尸迦！假使充滿此贍部洲佛設利羅<lb
+ n="0781b23" ed="T"/><div type='pin' level='3'><head>第四分稱揚功德品第四</head><lb
+ n="0781b24" ed="T"/><ab type='prose'>「復次，憍尸迦！假使充滿此贍部洲佛設利羅<lb
  n="0781b25" ed="T"/>以為一分，有書般若波羅蜜多甚深法門復<lb
  n="0781b26" ed="T"/>為一分，於此二分，汝取何者？」天帝釋言：「我意<lb
  n="0781b27" ed="T"/>寧取甚深般若波羅蜜多。所以者何？我於諸<lb
@@ -1792,8 +1792,8 @@
  n="0783a15" ed="T"/>德，成就無等殊勝功德，成就無盡殊勝功<lb
  n="0783a16" ed="T"/>德。」爾時，佛告天帝釋言：「如是！如是！如汝所<lb
  n="0783a17" ed="T"/>說。」</ab></div><lb
- n="0783a18" ed="T"/><div type="pin" level="3"><head>第四分福門品第五之一</head><lb
- n="0783a19" ed="T"/><ab type="prose">爾時，天帝釋白佛言：「世尊！若善男子、善女人<lb
+ n="0783a18" ed="T"/><div type='pin' level='3'><head>第四分福門品第五之一</head><lb
+ n="0783a19" ed="T"/><ab type='prose'>爾時，天帝釋白佛言：「世尊！若善男子、善女人<lb
  n="0783a20" ed="T"/>等於深般若波羅蜜多，以清淨心恭敬信<lb
  n="0783a21" ed="T"/>受，為求無上正等菩提，至心聽聞、受持、讀誦、<lb
  n="0783a22" ed="T"/>精勤修學、如理思惟、廣為有情宣說開示，以<lb
@@ -1981,16 +1981,16 @@
  n="0785b01" ed="T"/>若波羅蜜多真實義趣，所獲福聚無量無邊，<lb
  n="0785b02" ed="T"/>能作有情利益安樂。<lb
  n="0785b03" ed="T"/>
-</ab><ab type="juan" subtype="close">大般若波羅蜜多經卷第五百四十一</ab><lb
+</ab><ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百四十一</ab><lb
  n="0785b04" ed="T"/><lb
  n="0785b05" ed="T"/><lb
  n="0785b06" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百四<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百四<lb
  n="0785b07" ed="T"/>十二<lb
  n="0785b08" ed="T"/><lb
  n="0785b09" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
  n="0785b10" ed="T"/>第四分福門品第五之二</ab><lb
- n="0785b11" ed="T"/><ab type="prose">「復次，憍尸迦！若善男子、善女人等教贍部洲<lb
+ n="0785b11" ed="T"/><ab type='prose'>「復次，憍尸迦！若善男子、善女人等教贍部洲<lb
  n="0785b12" ed="T"/>一切有情，皆令住預流果、或一來果、或不還<lb
  n="0785b13" ed="T"/>果、或阿羅漢果。於意云何？是善男子、善女人<lb
  n="0785b14" ed="T"/>等由此因緣得福多不？」天帝釋言：「甚多！世尊！<lb
@@ -2456,16 +2456,16 @@
  n="0790c10" ed="T"/>種波羅蜜多究竟圓滿，疾證無上正等菩提，<lb
  n="0790c11" ed="T"/>轉妙法輪度有情眾。」</ab></div><lb
  n="0790c12" ed="T"/>
-<ab type="juan" subtype="close">大般若波羅蜜多經卷第五百四十二</ab><lb
+<ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百四十二</ab><lb
  n="0790c13" ed="T"/><lb
  n="0790c14" ed="T"/><lb
  n="0790c15" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百四<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百四<lb
  n="0790c16" ed="T"/>十三</ab><lb
  n="0790c17" ed="T"/><lb
  n="0790c18" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
- n="0790c19" ed="T"/><div type="pin" level="3"><head>第四分隨喜迴向品第六之一</head><lb
- n="0790c20" ed="T"/><ab type="prose">爾時，慈氏菩薩摩訶薩謂具壽善現言：「大德！<lb
+ n="0790c19" ed="T"/><div type='pin' level='3'><head>第四分隨喜迴向品第六之一</head><lb
+ n="0790c20" ed="T"/><ab type='prose'>爾時，慈氏菩薩摩訶薩謂具壽善現言：「大德！<lb
  n="0790c21" ed="T"/>諸菩薩摩訶薩所有隨喜迴向俱行諸福業<lb
  n="0790c22" ed="T"/>事於餘有情施、戒、修等諸福業事為最為勝、<lb
  n="0790c23" ed="T"/>為尊為高、為妙為微妙、為上為無上、無等無<lb
@@ -2931,16 +2931,16 @@
  n="0796a19" ed="T"/>稱真法界，疾能證得一切智智，勝前所說有<lb
  n="0796a20" ed="T"/>所得施，無量倍數不可為比。」<lb
  n="0796a21" ed="T"/>
-</ab><ab type="juan" subtype="close">大般若波羅蜜多經卷第五百四十三</ab><lb
+</ab><ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百四十三</ab><lb
  n="0796a22" ed="T"/><lb
  n="0796a23" ed="T"/><lb
  n="0796a24" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百四<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百四<lb
  n="0796a25" ed="T"/>十四<lb
  n="0796a26" ed="T"/><lb
  n="0796a27" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
  n="0796a28" ed="T"/>第四分隨喜迴向品第六之二</ab><lb
- n="0796a29" ed="T"/><ab type="prose">爾時，佛告淨居天等諸天眾言：「且置十方殑<pb n="0796b" ed="T" id="T07.0220d.0796b"/><lb
+ n="0796a29" ed="T"/><ab type='prose'>爾時，佛告淨居天等諸天眾言：「且置十方殑<pb n="0796b" ed="T" id="T07.0220d.0796b"/><lb
  n="0796b01" ed="T"/>伽沙數三千大千世界有情皆發無上正等<lb
  n="0796b02" ed="T"/>覺心。假使十方無邊世界一切有情皆發無<lb
  n="0796b03" ed="T"/>上正等覺心，設有十方無邊世界一切有情，<lb
@@ -3159,8 +3159,8 @@
  n="0798c13" ed="T"/>尼殺曇倍。所以者何？彼諸菩薩般若及餘善<lb
  n="0798c14" ed="T"/>根俱行諸福業事，以有所得而為方便，如是<lb
  n="0798c15" ed="T"/>菩薩隨喜迴向，以無所得為方便故。」</ab></div><lb
- n="0798c16" ed="T"/><div type="pin" level="3"><head>第四分地獄品第七</head><lb
- n="0798c17" ed="T"/><ab type="prose">爾時，舍利子白佛言：「世尊！甚深般若波羅蜜<lb
+ n="0798c16" ed="T"/><div type='pin' level='3'><head>第四分地獄品第七</head><lb
+ n="0798c17" ed="T"/><ab type='prose'>爾時，舍利子白佛言：「世尊！甚深般若波羅蜜<lb
  n="0798c18" ed="T"/>多，當知即是一切智性，善能成辦一切智智。」<lb
  n="0798c19" ed="T"/>爾時，佛告舍利子言：「如是！如是！如汝所說。」時，<lb
  n="0798c20" ed="T"/>舍利子復白佛言：「甚深般若波羅蜜多能作<lb
@@ -3411,16 +3411,16 @@
  n="0801c04" ed="T"/>如是四因緣故，毀謗般若波羅蜜多，由此當<lb
  n="0801c05" ed="T"/>來受諸劇苦。」</ab></div><lb
  n="0801c06" ed="T"/>
-<ab type="juan" subtype="close">大般若波羅蜜多經卷第五百四十四</ab><lb
+<ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百四十四</ab><lb
  n="0801c07" ed="T"/><lb
  n="0801c08" ed="T"/><lb
  n="0801c09" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百四<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百四<lb
  n="0801c10" ed="T"/>十五</ab><lb
  n="0801c11" ed="T"/><lb
  n="0801c12" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
- n="0801c13" ed="T"/><div type="pin" level="3"><head>第四分清淨品第八</head><lb
- n="0801c14" ed="T"/><ab type="prose">爾時，具壽善現復白佛言：「世尊！諸愚癡人不<lb
+ n="0801c13" ed="T"/><div type='pin' level='3'><head>第四分清淨品第八</head><lb
+ n="0801c14" ed="T"/><ab type='prose'>爾時，具壽善現復白佛言：「世尊！諸愚癡人不<lb
  n="0801c15" ed="T"/>勤精進，具諸惡行薄少善根，暗鈍無求少聞<lb
  n="0801c16" ed="T"/>劣慧，為惡知識之所攝受，不事善友，不樂請<lb
  n="0801c17" ed="T"/>問於諸勝善，不勤修學，聞佛所說甚深般若<lb
@@ -3624,8 +3624,8 @@
  n="0804a12" ed="T"/>此名，亦於此處宣說般若波羅蜜多。此賢劫<lb
  n="0804a13" ed="T"/>中當來諸佛即以此名，亦於此處宣說般若<lb
  n="0804a14" ed="T"/>波羅蜜多。」</ab></div><lb
- n="0804a15" ed="T"/><div type="pin" level="3"><head>第四分讚歎品第九</head><lb
- n="0804a16" ed="T"/><ab type="prose">爾時，具壽善現便白佛言：「世尊！如是般若波<lb
+ n="0804a15" ed="T"/><div type='pin' level='3'><head>第四分讚歎品第九</head><lb
+ n="0804a16" ed="T"/><ab type='prose'>爾時，具壽善現便白佛言：「世尊！如是般若波<lb
  n="0804a17" ed="T"/>羅蜜多但有名字，如是名字亦不可得，但依<lb
  n="0804a18" ed="T"/>語言假施設有，是故般若波羅蜜多亦無所<lb
  n="0804a19" ed="T"/>有、實不可得。名字、般若波羅蜜多，如是二法<lb
@@ -3753,8 +3753,8 @@
  n="0805b25" ed="T"/>羅蜜多，以一切法無自性故；是一切智智波<lb
  n="0805b26" ed="T"/>羅蜜多，知一切法無自性故。」佛言：「善現！如是！<lb
  n="0805b27" ed="T"/>如是！如汝所說。」</ab></div><lb
- n="0805b28" ed="T"/><div type="pin" level="3"><head>第四分總持品第十之一</head><lb
- n="0805b29" ed="T"/><ab type="prose">時，天帝釋作是念言：「若善男子、善女人等，但<pb n="0805c" ed="T" id="T07.0220d.0805c"/><lb
+ n="0805b28" ed="T"/><div type='pin' level='3'><head>第四分總持品第十之一</head><lb
+ n="0805b29" ed="T"/><ab type='prose'>時，天帝釋作是念言：「若善男子、善女人等，但<pb n="0805c" ed="T" id="T07.0220d.0805c"/><lb
  n="0805c01" ed="T"/>聞如是甚深般若波羅蜜多功德名號，當知<lb
  n="0805c02" ed="T"/>過去已曾供養無量如來、應、正等覺，發弘誓願、<lb
  n="0805c03" ed="T"/>多種善根，況能受持、讀誦、書寫、如理思惟、為<lb
@@ -3897,15 +3897,15 @@
  n="0807a24" ed="T"/>善哉！汝能善說菩薩譬喻，當知皆是如來神<lb
  n="0807a25" ed="T"/>力。」<lb
  n="0807a26" ed="T"/>
-</ab><ab type="juan" subtype="close">大般若波羅蜜多經卷第五百四十五</ab><pb n="0807b" ed="T" id="T07.0220d.0807b"/><lb
+</ab><ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百四十五</ab><pb n="0807b" ed="T" id="T07.0220d.0807b"/><lb
  n="0807b01" ed="T"/><lb
  n="0807b02" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百四<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百四<lb
  n="0807b03" ed="T"/>十六<lb
  n="0807b04" ed="T"/><lb
  n="0807b05" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
  n="0807b06" ed="T"/>第四分總持品第十之二</ab><lb
- n="0807b07" ed="T"/><ab type="prose">爾時，具壽善現便白佛言：「世尊！希有如來、應、<lb
+ n="0807b07" ed="T"/><ab type='prose'>爾時，具壽善現便白佛言：「世尊！希有如來、應、<lb
  n="0807b08" ed="T"/>正等覺，善分別說諸菩薩事。」佛告善現：「如是！<lb
  n="0807b09" ed="T"/>如是！所以者何？諸菩薩摩訶薩為欲利樂多<lb
  n="0807b10" ed="T"/>眾生故，哀愍世間大眾生故，憐愍人、天令獲<lb
@@ -4141,8 +4141,8 @@
  n="0810a08" ed="T"/>應經典及餘經典受持、讀誦、思惟、修學；由此<lb
  n="0810a09" ed="T"/>善根，隨所生處，法爾常得甚深般若波羅蜜<lb
  n="0810a10" ed="T"/>多空相應經及餘經典受持、讀誦。」</ab></div><lb
- n="0810a11" ed="T"/><div type="pin" level="3"><head>第四分魔事品第十一之一</head><lb
- n="0810a12" ed="T"/><ab type="prose">爾時，善現便白佛言：「世尊！已說住菩薩乘善<lb
+ n="0810a11" ed="T"/><div type='pin' level='3'><head>第四分魔事品第十一之一</head><lb
+ n="0810a12" ed="T"/><ab type='prose'>爾時，善現便白佛言：「世尊！已說住菩薩乘善<lb
  n="0810a13" ed="T"/>男子等修功德時多有留難，何等名為諸留難<lb
  n="0810a14" ed="T"/>事？」佛告善現：「留難事者謂諸魔事。」具壽善現<lb
  n="0810a15" ed="T"/>復白佛言：「云何名為菩薩魔事？」佛告善現：「若<lb
@@ -4420,15 +4420,15 @@
  n="0813a26" ed="T"/>讀誦、修習甚深般若波羅蜜多，當知是為菩<lb
  n="0813a27" ed="T"/>薩魔事。<lb
  n="0813a28" ed="T"/>
-</ab><ab type="juan" subtype="close">大般若波羅蜜多經卷第五百四十六</ab><pb n="0813b" ed="T" id="T07.0220d.0813b"/><lb
+</ab><ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百四十六</ab><pb n="0813b" ed="T" id="T07.0220d.0813b"/><lb
  n="0813b01" ed="T"/><lb
  n="0813b02" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百四<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百四<lb
  n="0813b03" ed="T"/>十七<lb
  n="0813b04" ed="T"/><lb
  n="0813b05" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
  n="0813b06" ed="T"/>第四分魔事品第十一之二</ab><lb
- n="0813b07" ed="T"/><ab type="prose">「復次，善現！能說法者欲往他方安隱豐樂無<lb
+ n="0813b07" ed="T"/><ab type='prose'>「復次，善現！能說法者欲往他方安隱豐樂無<lb
  n="0813b08" ed="T"/>難之處，能聽法者欲隨其去，能說法者方便<lb
  n="0813b09" ed="T"/>試言：『汝雖為利欲隨我往，而汝至彼豈必遂<lb
  n="0813b10" ed="T"/>心？宜善審思勿後憂悔。』時，聽法者聞已念言：<lb
@@ -4513,8 +4513,8 @@
  n="0814b02" ed="T"/>便慈悲護念，令菩薩乘善男子等於深般若<lb
  n="0814b03" ed="T"/>波羅蜜多書寫等時無諸留難，速證無上正<lb
  n="0814b04" ed="T"/>等菩提。」</ab></div><lb
- n="0814b05" ed="T"/><div type="pin" level="3"><head>第四分現世間品第十二</head><lb
- n="0814b06" ed="T"/><ab type="prose">「復次，善現！譬如女人多有諸子，或五、或十、二<lb
+ n="0814b05" ed="T"/><div type='pin' level='3'><head>第四分現世間品第十二</head><lb
+ n="0814b06" ed="T"/><ab type='prose'>「復次，善現！譬如女人多有諸子，或五、或十、二<lb
  n="0814b07" ed="T"/>十、三十、四十、五十、若百、若千。其母得病諸子各<lb
  n="0814b08" ed="T"/>別勤求醫藥，咸作是念：『云何令我母病除愈，<lb
  n="0814b09" ed="T"/>令無障難身名不滅，久住安樂苦受不生，諸<lb
@@ -4831,8 +4831,8 @@
  n="0818a01" ed="T"/>世間遠離故、世間清淨故、世間寂靜故，說名<lb
  n="0818a02" ed="T"/>能示世間實相。何以故？以空、遠離、清淨、寂靜，<lb
  n="0818a03" ed="T"/>是諸世間如實相故。」</ab></div><lb
- n="0818a04" ed="T"/><div type="pin" level="3"><head>第四分不思議等品第十三</head><lb
- n="0818a05" ed="T"/><ab type="prose">爾時，具壽善現便白佛言：「世尊！甚深般若波<lb
+ n="0818a04" ed="T"/><div type='pin' level='3'><head>第四分不思議等品第十三</head><lb
+ n="0818a05" ed="T"/><ab type='prose'>爾時，具壽善現便白佛言：「世尊！甚深般若波<lb
  n="0818a06" ed="T"/>羅蜜多為大事故出現世間，為不可思議事<lb
  n="0818a07" ed="T"/>故出現世間，為不可稱量事故出現世間，為<lb
  n="0818a08" ed="T"/>無數量事故出現世間，為無等等事故出現<lb
@@ -4896,16 +4896,16 @@
  n="0818c08" ed="T"/>遠塵離垢生淨法眼者，佛亦記彼不久當證<lb
  n="0818c09" ed="T"/>永盡諸漏心慧解脫。</ab></div><lb
  n="0818c10" ed="T"/>
-<ab type="juan" subtype="close">大般若波羅蜜多經卷第五百四十七</ab><lb
+<ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百四十七</ab><lb
  n="0818c11" ed="T"/><lb
  n="0818c12" ed="T"/><lb
  n="0818c13" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百四<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百四<lb
  n="0818c14" ed="T"/>十八</ab><lb
  n="0818c15" ed="T"/><lb
  n="0818c16" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
- n="0818c17" ed="T"/><div type="pin" level="3"><head>第四分譬喻品第十四</head><lb
- n="0818c18" ed="T"/><ab type="prose">爾時，具壽善現復白佛言：「世尊！甚深般若波<lb
+ n="0818c17" ed="T"/><div type='pin' level='3'><head>第四分譬喻品第十四</head><lb
+ n="0818c18" ed="T"/><ab type='prose'>爾時，具壽善現復白佛言：「世尊！甚深般若波<lb
  n="0818c19" ed="T"/>羅蜜多實為大事現世間不？」佛告善現：「如是！<lb
  n="0818c20" ed="T"/>如是！甚深般若波羅蜜多實為大事出現世<lb
  n="0818c21" ed="T"/>間。所以者何？甚深般若波羅蜜多實能成辦<lb
@@ -5073,8 +5073,8 @@
  n="0820c09" ed="T"/>能攝受甚深般若波羅蜜多方便善巧，當知<lb
  n="0820c10" ed="T"/>此類終不中道退墮聲聞或獨覺地，定證無<lb
  n="0820c11" ed="T"/>上正等菩提，轉妙法輪度有情眾。」</ab></div><lb
- n="0820c12" ed="T"/><div type="pin" level="3"><head>第四分天讚品第十五</head><lb
- n="0820c13" ed="T"/><ab type="prose">爾時，具壽善現便白佛言：「世尊！新學大乘諸<lb
+ n="0820c12" ed="T"/><div type='pin' level='3'><head>第四分天讚品第十五</head><lb
+ n="0820c13" ed="T"/><ab type='prose'>爾時，具壽善現便白佛言：「世尊！新學大乘諸<lb
  n="0820c14" ed="T"/>菩薩摩訶薩云何應住甚深般若波羅蜜多？云<lb
  n="0820c15" ed="T"/>何應學甚深般若波羅蜜多？」佛告善現：「新學<lb
  n="0820c16" ed="T"/>大乘諸菩薩摩訶薩欲住、欲學甚深般若波羅<lb
@@ -5284,8 +5284,8 @@
  n="0823a17" ed="T"/>捨，世間有情多行攝受或行棄捨，是故世間<lb
  n="0823a18" ed="T"/>於佛所說不能信解。」爾時，佛告諸天子言：「如<lb
  n="0823a19" ed="T"/>是！如是！如汝所說。」</ab></div><lb
- n="0823a20" ed="T"/><div type="pin" level="3"><head>第四分真如品第十六之一</head><lb
- n="0823a21" ed="T"/><ab type="prose">爾時，具壽善現便白佛言：「世尊！佛所說法微<lb
+ n="0823a20" ed="T"/><div type='pin' level='3'><head>第四分真如品第十六之一</head><lb
+ n="0823a21" ed="T"/><ab type='prose'>爾時，具壽善現便白佛言：「世尊！佛所說法微<lb
  n="0823a22" ed="T"/>妙甚深，於一切法皆能隨順無所障礙；佛所<lb
  n="0823a23" ed="T"/>說法無障礙相，與虛空等都無足跡；佛所說<lb
  n="0823a24" ed="T"/>法無待對相，無第二故；佛所說法無與等相，<lb
@@ -5390,16 +5390,16 @@
  n="0824b07" ed="T"/>羅蜜多方便善巧。」爾時，佛告舍利子言：「如是！<lb
  n="0824b08" ed="T"/>如是！如汝所說。」<lb
  n="0824b09" ed="T"/>
-</ab><ab type="juan" subtype="close">大般若波羅蜜多經卷第五百四十八</ab><lb
+</ab><ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百四十八</ab><lb
  n="0824b10" ed="T"/><lb
  n="0824b11" ed="T"/><lb
  n="0824b12" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百四<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百四<lb
  n="0824b13" ed="T"/>十九<lb
  n="0824b14" ed="T"/><lb
  n="0824b15" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
  n="0824b16" ed="T"/>第四分真如品第十六之二</ab><lb
- n="0824b17" ed="T"/><ab type="prose">爾時，欲界、色界天子恭敬合掌，俱白佛言：「世<lb
+ n="0824b17" ed="T"/><ab type='prose'>爾時，欲界、色界天子恭敬合掌，俱白佛言：「世<lb
  n="0824b18" ed="T"/>尊！般若波羅蜜多最為甚深極難信解。世尊！<lb
  n="0824b19" ed="T"/>無上正等菩提亦最甚深極難信解。世尊！無<lb
  n="0824b20" ed="T"/>上正等菩提既難信解亦難證得。」爾時，佛告<lb
@@ -5515,8 +5515,8 @@
  n="0825c14" ed="T"/>心，亦以此心應與其語。善現當知！若菩薩摩<lb
  n="0825c15" ed="T"/>訶薩欲疾證得所求無上正等菩提，於諸有<lb
  n="0825c16" ed="T"/>情應如是住、應如是學。」</ab></div><lb
- n="0825c17" ed="T"/><div type="pin" level="3"><head>第四分不退相品第十七</head><lb
- n="0825c18" ed="T"/><ab type="prose">爾時，善現復白佛言：「我等當以何行、狀、相，知<lb
+ n="0825c17" ed="T"/><div type='pin' level='3'><head>第四分不退相品第十七</head><lb
+ n="0825c18" ed="T"/><ab type='prose'>爾時，善現復白佛言：「我等當以何行、狀、相，知<lb
  n="0825c19" ed="T"/>是不退轉菩薩摩訶薩？」佛告善現：「若菩薩摩<lb
  n="0825c20" ed="T"/>訶薩能如實知若異生地、若聲聞地、若獨覺<lb
  n="0825c21" ed="T"/>地、若菩薩地、若如來地，如是諸地雖說有異，<lb
@@ -5788,9 +5788,9 @@
  n="0828c26" ed="T"/>惑。又得聞持陀羅尼故，常能憶念終無忘失。<lb
  n="0828c27" ed="T"/>若菩薩摩訶薩成就如是諸行、狀、相，定於無<lb
  n="0828c28" ed="T"/>上正等菩提不復退轉。「善現當知！是為不退<lb
- n="0828c29" ed="T"/>轉菩薩摩訶薩諸行、狀、相。」<pb n="0829a" ed="T" id="T07.0220d.0829a"/></ab></div><lb
- n="0829a01" ed="T"/><div type="pin" level="3"><head>第四分空相品第十八之一</head><lb
- n="0829a02" ed="T"/><ab type="prose">爾時，具壽善現復白佛言：「世尊！如是不退轉<lb
+ n="0828c29" ed="T"/>轉菩薩摩訶薩諸行、狀、相。」</ab></div><pb n="0829a" ed="T" id="T07.0220d.0829a"/><lb
+ n="0829a01" ed="T"/><div type='pin' level='3'><head>第四分空相品第十八之一</head><lb
+ n="0829a02" ed="T"/><ab type='prose'>爾時，具壽善現復白佛言：「世尊！如是不退轉<lb
  n="0829a03" ed="T"/>菩薩摩訶薩，成就希有廣大功德。世尊能如<lb
  n="0829a04" ed="T"/>殑伽沙劫宣說不退轉菩薩摩訶薩諸行、狀、<lb
  n="0829a05" ed="T"/>相，由佛所說諸行、狀、相，顯示不退轉菩薩摩<lb
@@ -5884,16 +5884,16 @@
  n="0830a06" ed="T"/>和合稱量現前隨喜，與諸有情平等共有迴向<lb
  n="0830a07" ed="T"/>無上正等菩提，所獲功德無量無邊。」<lb
  n="0830a08" ed="T"/>
-</ab><ab type="juan" subtype="close">大般若波羅蜜多經卷第五百四十九</ab><lb
+</ab><ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百四十九</ab><lb
  n="0830a09" ed="T"/><lb
  n="0830a10" ed="T"/><lb
  n="0830a11" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百五<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百五<lb
  n="0830a12" ed="T"/>十<lb
  n="0830a13" ed="T"/><lb
  n="0830a14" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
  n="0830a15" ed="T"/>第四分空相品第十八之二</ab><lb
- n="0830a16" ed="T"/><ab type="prose">爾時，善現便白佛言：「如世尊說：諸行皆是分別<lb
+ n="0830a16" ed="T"/><ab type='prose'>爾時，善現便白佛言：「如世尊說：諸行皆是分別<lb
  n="0830a17" ed="T"/>所作，從妄想生都非實有。以何因緣，此諸菩<lb
  n="0830a18" ed="T"/>薩所獲功德無量無邊？」佛告善現：「如是！如是！<lb
  n="0830a19" ed="T"/>如汝所說。然諸菩薩行深般若波羅蜜多，亦<lb
@@ -5966,8 +5966,8 @@
  n="0830c28" ed="T"/>提。若菩薩摩訶薩安住如是真如作意，修行<lb
  n="0830c29" ed="T"/>布施乃至般若波羅蜜多，便近無上正等菩<pb n="0831a" ed="T" id="T07.0220d.0831a"/><lb
  n="0831a01" ed="T"/>提。」</ab></div><lb
- n="0831a02" ed="T"/><div type="pin" level="3"><head>第四分深功德品第十九</head><lb
- n="0831a03" ed="T"/><ab type="prose">爾時，善現便白佛言：「是菩薩摩訶薩為初心<lb
+ n="0831a02" ed="T"/><div type='pin' level='3'><head>第四分深功德品第十九</head><lb
+ n="0831a03" ed="T"/><ab type='prose'>爾時，善現便白佛言：「是菩薩摩訶薩為初心<lb
  n="0831a04" ed="T"/>起能證無上正等菩提，為後心起能證無上<lb
  n="0831a05" ed="T"/>正等菩提？若初心起能證無上正等菩提，初<lb
  n="0831a06" ed="T"/>心起時後心未起無和合義；若後心起能證<lb
@@ -6185,8 +6185,8 @@
  n="0833b15" ed="T"/>故，舍利子！菩薩摩訶薩欲疾證得所求無上<lb
  n="0833b16" ed="T"/>正等菩提，應隨如來真淨空教，被功德鎧精<lb
  n="0833b17" ed="T"/>勤修學，於一切法不應怖畏。」</ab></div><lb
- n="0833b18" ed="T"/><div type="pin" level="3"><head>第四分殑伽天品第二十</head><lb
- n="0833b19" ed="T"/><ab type="prose">爾時，會中有一天女名殑伽天，從座而起稽<lb
+ n="0833b18" ed="T"/><div type='pin' level='3'><head>第四分殑伽天品第二十</head><lb
+ n="0833b19" ed="T"/><ab type='prose'>爾時，會中有一天女名殑伽天，從座而起稽<lb
  n="0833b20" ed="T"/>首佛足，偏覆左肩右膝著地，合掌向佛白言：<lb
  n="0833b21" ed="T"/>「世尊！我於是處亦無怖畏，於諸法中亦無疑<lb
  n="0833b22" ed="T"/>惑，我未來世亦為有情說無怖畏、無疑惑法。」<lb
@@ -6239,8 +6239,8 @@
  n="0834a11" ed="T"/>正等覺心，種諸善根迴向發願今得成熟，是<lb
  n="0834a12" ed="T"/>故如來授與彼記。」佛告慶喜：「如是！如是！如汝<lb
  n="0834a13" ed="T"/>所說。彼善根熟故，我授彼大菩提記。」</ab></div><lb
- n="0834a14" ed="T"/><div type="pin" level="3"><head>第四分覺魔事品第二十一之一</head><lb
- n="0834a15" ed="T"/><ab type="prose">爾時，善現便白佛言：「行深般若波羅蜜多諸<lb
+ n="0834a14" ed="T"/><div type='pin' level='3'><head>第四分覺魔事品第二十一之一</head><lb
+ n="0834a15" ed="T"/><ab type='prose'>爾時，善現便白佛言：「行深般若波羅蜜多諸<lb
  n="0834a16" ed="T"/>菩薩摩訶薩云何習空？云何現入空三摩地？」<lb
  n="0834a17" ed="T"/>佛告善現：「若菩薩摩訶薩行深般若波羅蜜<lb
  n="0834a18" ed="T"/>多，應觀色空，應觀受、想、行、識空，作此觀時不<lb
@@ -6389,16 +6389,16 @@
  n="0835c16" ed="T"/>勝功德，捨諸有情而趣圓寂，不證無上正等<lb
  n="0835c17" ed="T"/>菩提饒益有情，定無是處。<lb
  n="0835c18" ed="T"/>
-</ab><ab type="juan" subtype="close">大般若波羅蜜多經卷第五百五十</ab><lb
+</ab><ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百五十</ab><lb
  n="0835c19" ed="T"/><lb
  n="0835c20" ed="T"/><lb
  n="0835c21" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百五<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百五<lb
  n="0835c22" ed="T"/>十一<lb
  n="0835c23" ed="T"/><lb
  n="0835c24" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
  n="0835c25" ed="T"/>第四分覺魔事品第二十一之二</ab><lb
- n="0835c26" ed="T"/><ab type="prose">「復次，善現！若諸菩薩欲證無上正等菩提，應<lb
+ n="0835c26" ed="T"/><ab type='prose'>「復次，善現！若諸菩薩欲證無上正等菩提，應<lb
  n="0835c27" ed="T"/>審請問諸餘菩薩：『云何菩薩修習一切菩提<lb
  n="0835c28" ed="T"/>分法，引發何心，能令菩薩習空、無相、無願、無<lb
  n="0835c29" ed="T"/>作、無生、無滅、無起、無盡、無性、實際而不作證，<pb n="0836a" ed="T" id="T07.0220d.0836a"/><lb
@@ -6709,8 +6709,8 @@
  n="0839b15" ed="T"/>起過患，勤求無上正等菩提。「善現當知！如<lb
  n="0839b16" ed="T"/>是學者，是為菩薩方便善巧，如實覺知諸惡<lb
  n="0839b17" ed="T"/>魔事。」</ab></div><lb
- n="0839b18" ed="T"/><div type="pin" level="3"><head>第四分善友品第二十二之一</head><lb
- n="0839b19" ed="T"/><ab type="prose">爾時，世尊復告善現：「若菩薩摩訶薩深心欲<lb
+ n="0839b18" ed="T"/><div type='pin' level='3'><head>第四分善友品第二十二之一</head><lb
+ n="0839b19" ed="T"/><ab type='prose'>爾時，世尊復告善現：「若菩薩摩訶薩深心欲<lb
  n="0839b20" ed="T"/>證無上菩提，常應親近、供養恭敬、尊重讚歎<lb
  n="0839b21" ed="T"/>真淨善友。」具壽善現便白佛言：「何等名為諸<lb
  n="0839b22" ed="T"/>菩薩摩訶薩真淨善友？」佛告善現：「一切如來、<lb
@@ -6902,16 +6902,16 @@
  n="0841c05" ed="T"/>羅蜜多已到究竟，安住菩薩不退轉地，疾證<lb
  n="0841c06" ed="T"/>無上正等菩提，能盡未來度有情眾。」<lb
  n="0841c07" ed="T"/>
-</ab><ab type="juan" subtype="close">大般若波羅蜜多經卷第五百五十一</ab><lb
+</ab><ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百五十一</ab><lb
  n="0841c08" ed="T"/><lb
  n="0841c09" ed="T"/><lb
  n="0841c10" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百五<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百五<lb
  n="0841c11" ed="T"/>十二<lb
  n="0841c12" ed="T"/><lb
  n="0841c13" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
  n="0841c14" ed="T"/>第四分善友品第二十二之二</ab><lb
- n="0841c15" ed="T"/><ab type="prose">爾時，具壽善現復白佛言：「世尊！為即般若波<lb
+ n="0841c15" ed="T"/><ab type='prose'>爾時，具壽善現復白佛言：「世尊！為即般若波<lb
  n="0841c16" ed="T"/>羅蜜多，能行般若波羅蜜多不？」「不爾！善現！」「世<lb
  n="0841c17" ed="T"/>尊！為離般若波羅蜜多有法可得，能行般若<lb
  n="0841c18" ed="T"/>波羅蜜多不？」「不爾！善現！」「世尊！為即般若波羅<lb
@@ -6990,8 +6990,8 @@
  n="0842c04" ed="T"/>若菩薩摩訶薩於一切法無所得時，不作是<lb
  n="0842c05" ed="T"/>念：『我於無上正等菩提當能證得，我用是法<lb
  n="0842c06" ed="T"/>於如是時、於如是處證得無上正等菩提。』」</ab></div><lb
- n="0842c07" ed="T"/><div type="pin" level="3"><head>第四分天主品第二十三</head><lb
- n="0842c08" ed="T"/><ab type="prose">爾時，天帝釋白佛言：「世尊！如是般若波羅蜜<lb
+ n="0842c07" ed="T"/><div type='pin' level='3'><head>第四分天主品第二十三</head><lb
+ n="0842c08" ed="T"/><ab type='prose'>爾時，天帝釋白佛言：「世尊！如是般若波羅蜜<lb
  n="0842c09" ed="T"/>多最為甚深難見難覺。」爾時，佛告天帝釋言：<lb
  n="0842c10" ed="T"/>「如是！如是！如汝所說。憍尸迦！如是般若波羅<lb
  n="0842c11" ed="T"/>蜜多最為甚深，如是般若波羅蜜多難見難<lb
@@ -7093,8 +7093,8 @@
  n="0843c20" ed="T"/>以者何？甚深般若波羅蜜多及諸菩薩摩訶<lb
  n="0843c21" ed="T"/>薩眾功德勝利，定非一切世間天、人、阿素洛<lb
  n="0843c22" ed="T"/>等所能讚說。」</ab></div><lb
- n="0843c23" ed="T"/><div type="pin" level="3"><head>第四分無雜無異品第二十四</head><lb
- n="0843c24" ed="T"/><ab type="prose">爾時，佛告阿難陀言：「若時菩薩摩訶薩思惟<lb
+ n="0843c23" ed="T"/><div type='pin' level='3'><head>第四分無雜無異品第二十四</head><lb
+ n="0843c24" ed="T"/><ab type='prose'>爾時，佛告阿難陀言：「若時菩薩摩訶薩思惟<lb
  n="0843c25" ed="T"/>般若波羅蜜多，習學般若波羅蜜多，修行般<lb
  n="0843c26" ed="T"/>若波羅蜜多。是時，三千大千世界一切惡魔<lb
  n="0843c27" ed="T"/>皆生猶豫，咸作是念：『此菩薩摩訶薩為於中<lb
@@ -7296,8 +7296,8 @@
  n="0846a20" ed="T"/>於中常同彼學。』慶喜當知！若菩薩摩訶薩能<lb
  n="0846a21" ed="T"/>如是學，菩提資糧疾得圓滿，速證無上正等<lb
  n="0846a22" ed="T"/>菩提，於其中間無障無難。」</ab></div><lb
- n="0846a23" ed="T"/><div type="pin" level="3"><head>第四分迅速品第二十五之一</head><lb
- n="0846a24" ed="T"/><ab type="prose">爾時，具壽善現便白佛言：「世尊！若菩薩摩訶<lb
+ n="0846a23" ed="T"/><div type='pin' level='3'><head>第四分迅速品第二十五之一</head><lb
+ n="0846a24" ed="T"/><ab type='prose'>爾時，具壽善現便白佛言：「世尊！若菩薩摩訶<lb
  n="0846a25" ed="T"/>薩為盡故學，是學一切智智不？若菩薩摩訶<lb
  n="0846a26" ed="T"/>薩為不生故學，是學一切智智不？若菩薩摩<lb
  n="0846a27" ed="T"/>訶薩為滅故學，是學一切智智不？若菩薩摩<lb
@@ -7396,16 +7396,16 @@
  n="0847b04" ed="T"/>有情知一切法本性清淨，證得畢竟清涼涅<lb
  n="0847b05" ed="T"/>槃。<lb
  n="0847b06" ed="T"/>
-</ab><ab type="juan" subtype="close">大般若波羅蜜多經卷第五百五十二</ab><lb
+</ab><ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百五十二</ab><lb
  n="0847b07" ed="T"/><lb
  n="0847b08" ed="T"/><lb
  n="0847b09" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百五<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百五<lb
  n="0847b10" ed="T"/>十三<lb
  n="0847b11" ed="T"/><lb
  n="0847b12" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
  n="0847b13" ed="T"/>第四分迅速品第二十五之二</ab><lb
- n="0847b14" ed="T"/><ab type="prose">「善現當知！譬如大地少處出生金銀等寶，多<lb
+ n="0847b14" ed="T"/><ab type='prose'>「善現當知！譬如大地少處出生金銀等寶，多<lb
  n="0847b15" ed="T"/>處出生鹹鹵等物，諸有情類亦復如是，少學<lb
  n="0847b16" ed="T"/>般若波羅蜜多，多學聲聞、獨覺地法。善現當<lb
  n="0847b17" ed="T"/>知！譬如人趣少分能作轉輪王業，多分能作<lb
@@ -7426,7 +7426,7 @@
  n="0847c03" ed="T"/>若波羅蜜多方便善巧，令於無上正等菩提<lb
  n="0847c04" ed="T"/>得不退轉，疾證無上正等菩提。「復次，善現！若<lb
  n="0847c05" ed="T"/>菩薩摩訶薩如是修學甚深般若波羅蜜多方<lb
- n="0847c06" ed="T"/>便善巧，不起栽蘗俱行之心，不起疑惑俱行<lb
+ n="0847c06" ed="T"/>便善巧，不起栽蘖俱行之心，不起疑惑俱行<lb
  n="0847c07" ed="T"/>之心，不起慳悋俱行之心，不起犯戒俱行之<lb
  n="0847c08" ed="T"/>心，不起忿恚俱行之心，不起懈怠俱行之心，<lb
  n="0847c09" ed="T"/>不起散亂俱行之心，不起惡慧俱行之心。「復<lb
@@ -7529,8 +7529,8 @@
  n="0848c19" ed="T"/>以者何？以一切法皆住真如無差別故。』善現<lb
  n="0848c20" ed="T"/>當知！若菩薩摩訶薩於一切法都無分別、無<lb
  n="0848c21" ed="T"/>所覺了，是行般若波羅蜜多。」</ab></div><lb
- n="0848c22" ed="T"/><div type="pin" level="3"><head>第四分幻喻品第二十六</head><lb
- n="0848c23" ed="T"/><ab type="prose">時，天帝釋作是念言：「若菩薩摩訶薩修行般<lb
+ n="0848c22" ed="T"/><div type='pin' level='3'><head>第四分幻喻品第二十六</head><lb
+ n="0848c23" ed="T"/><ab type='prose'>時，天帝釋作是念言：「若菩薩摩訶薩修行般<lb
  n="0848c24" ed="T"/>若波羅蜜多，尚勝一切有情之類，況得無上<lb
  n="0848c25" ed="T"/>正等菩提！若諸有情聞說一切智智名字深<lb
  n="0848c26" ed="T"/>生信解，尚為獲得人中善利，及得世間最勝<lb
@@ -7726,8 +7726,8 @@
  n="0851a13" ed="T"/>為故而成立之，既成立已雖能成辦種種事<lb
  n="0851a14" ed="T"/>業，而於其中都無分別。所以者何？甚深般<lb
  n="0851a15" ed="T"/>若波羅蜜多法爾於法無分別故。」</ab></div><lb
- n="0851a16" ed="T"/><div type="pin" level="3"><head>第四分堅固品第二十七之一</head><lb
- n="0851a17" ed="T"/><ab type="prose">時，舍利子問善現言：「諸菩薩摩訶薩行深般<lb
+ n="0851a16" ed="T"/><div type='pin' level='3'><head>第四分堅固品第二十七之一</head><lb
+ n="0851a17" ed="T"/><ab type='prose'>時，舍利子問善現言：「諸菩薩摩訶薩行深般<lb
  n="0851a18" ed="T"/>若波羅蜜多時，為行堅固法，為行不堅固法？」<lb
  n="0851a19" ed="T"/>善現答言：「諸菩薩摩訶薩行深般若波羅蜜<lb
  n="0851a20" ed="T"/>多時，行不堅固法，不行堅固法。何以故？舍<lb
@@ -7885,15 +7885,15 @@
  n="0852c27" ed="T"/>男子！若能安住甚深般若波羅蜜多方便善<lb
  n="0852c28" ed="T"/>巧，疾證無上正等菩提，一切惡魔不能留難。』<lb
  n="0852c29" ed="T"/>
-</ab><ab type="juan" subtype="close">大般若波羅蜜多經卷第五百五十三</ab><pb n="0853a" ed="T" id="T07.0220d.0853a"/><lb
+</ab><ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百五十三</ab><pb n="0853a" ed="T" id="T07.0220d.0853a"/><lb
  n="0853a01" ed="T"/><lb
  n="0853a02" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百五<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百五<lb
  n="0853a03" ed="T"/>十四<lb
  n="0853a04" ed="T"/><lb
  n="0853a05" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
  n="0853a06" ed="T"/>第四分堅固品第二十七之二</ab><lb
- n="0853a07" ed="T"/><ab type="prose">「善現當知！若菩薩摩訶薩能如是住甚深般<lb
+ n="0853a07" ed="T"/><ab type='prose'>「善現當知！若菩薩摩訶薩能如是住甚深般<lb
  n="0853a08" ed="T"/>若波羅蜜多，則為十方無量、無數、無邊世界<lb
  n="0853a09" ed="T"/>現在如來、應、正等覺，苾芻等眾前後圍繞，宣<lb
  n="0853a10" ed="T"/>說般若波羅蜜多。處大眾中自然歡喜稱揚讚<lb
@@ -8035,8 +8035,8 @@
  n="0854c01" ed="T"/>尸迦！若菩薩摩訶薩欲於一切有情眾中為<lb
  n="0854c02" ed="T"/>最為勝、為尊為高、為妙為微妙、為上為無上<lb
  n="0854c03" ed="T"/>者，當住般若波羅蜜多微妙行住無得暫捨。」</ab></div><lb
- n="0854c04" ed="T"/><div type="pin" level="3"><head>第四分散花品第二十八</head><lb
- n="0854c05" ed="T"/><ab type="prose">爾時，會中無量無數三十三天歡喜踊躍，各取<lb
+ n="0854c04" ed="T"/><div type='pin' level='3'><head>第四分散花品第二十八</head><lb
+ n="0854c05" ed="T"/><ab type='prose'>爾時，會中無量無數三十三天歡喜踊躍，各取<lb
  n="0854c06" ed="T"/>天上微妙音花，奉散如來及諸菩薩。是時，眾<lb
  n="0854c07" ed="T"/>內六千苾芻俱從座起頂禮佛足，偏覆左肩，<lb
  n="0854c08" ed="T"/>右膝著地，向薄伽梵曲躬合掌。佛神力故，各<lb
@@ -8473,15 +8473,15 @@
  n="0859c04" ed="T"/>念思惟諸佛功德常不捨離，是菩薩摩訶薩<lb
  n="0859c05" ed="T"/>今在不動如來、應、正等覺所修行梵行。</ab></div><lb
  n="0859c06" ed="T"/>
-<ab type="juan" subtype="close">大般若波羅蜜多經卷第五百五十四</ab><lb
+<ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百五十四</ab><lb
  n="0859c07" ed="T"/><lb
  n="0859c08" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百五<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百五<lb
  n="0859c09" ed="T"/>十五</ab><lb
  n="0859c10" ed="T"/><lb
  n="0859c11" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
- n="0859c12" ed="T"/><div type="pin" level="3"><head>第四分隨順品第二十九</head><lb
- n="0859c13" ed="T"/><ab type="prose">「復次，善現！諸菩薩摩訶薩應觀諸法不和合<lb
+ n="0859c12" ed="T"/><div type='pin' level='3'><head>第四分隨順品第二十九</head><lb
+ n="0859c13" ed="T"/><ab type='prose'>「復次，善現！諸菩薩摩訶薩應觀諸法不和合<lb
  n="0859c14" ed="T"/>故，隨順般若波羅蜜多；應觀諸法無分別故，<lb
  n="0859c15" ed="T"/>隨順般若波羅蜜多；應觀諸法無雜壞故，隨<lb
  n="0859c16" ed="T"/>順般若波羅蜜多；應觀諸法無變異故，隨順<lb
@@ -8960,12 +8960,12 @@
  n="0865a25" ed="T"/>阿素洛等，一切大眾聞佛所說皆大歡喜、信<lb
  n="0865a26" ed="T"/>受奉行。</ab></div></div><lb
  n="0865a27" ed="T"/>
-<ab type="juan" subtype="close">大般若波羅蜜多經卷第五百五十五</ab><pb n="0865b" ed="T" id="T07.0220d.0865b"/><lb
+<ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百五十五</ab><pb n="0865b" ed="T" id="T07.0220d.0865b"/><lb
  n="0865b01" ed="T"/><lb
- n="0865b02" ed="T"/><div type="hui" level="2"><head>大般若經第五會</head><div type="xu" level="3"><head>序</head><lb
+ n="0865b02" ed="T"/><div type='hui' level='2'><head>大般若經第五會</head><div type='xu' level='3'><head>序</head><lb
  n="0865b03" ed="T"/><lb
  n="0865b04" ed="T"/><byline>西明寺沙門玄則撰</byline><lb
- n="0865b05" ed="T"/><ab type="prose">蓋聞申申夭夭，宴居而欲流誨；憤憤悱悱，<lb
+ n="0865b05" ed="T"/><ab type='prose'>蓋聞申申夭夭，宴居而欲流誨；憤憤悱悱，<lb
  n="0865b06" ed="T"/>離座而思請益。況深慈之遠鞠、遍知之委<lb
  n="0865b07" ed="T"/>照，妙感之潛通、玄機之盛扣，其於說也，何<lb
  n="0865b08" ed="T"/>能已乎！神運之來，亟諧景集，靈山之上，復<lb
@@ -8989,12 +8989,12 @@
  n="0865b26" ed="T"/>積珍矣！</ab></div><pb n="0865c" ed="T" id="T07.0220d.0865c"/><lb
  n="0865c01" ed="T"/><lb
  n="0865c02" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百五<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百五<lb
  n="0865c03" ed="T"/>十六</ab><lb
  n="0865c04" ed="T"/><lb
  n="0865c05" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
- n="0865c06" ed="T"/><div type="pin" level="3"><head>第五分善現品第一</head><lb
- n="0865c07" ed="T"/><ab type="prose">如是我聞：一時，薄伽梵住王舍城鷲峯山頂，<lb
+ n="0865c06" ed="T"/><div type='pin' level='3'><head>第五分善現品第一</head><lb
+ n="0865c07" ed="T"/><ab type='prose'>如是我聞：一時，薄伽梵住王舍城鷲峯山頂，<lb
  n="0865c08" ed="T"/>與大苾芻眾萬二千人俱，皆阿羅漢，具壽善<lb
  n="0865c09" ed="T"/>現、舍利子等而為上首，除阿難陀獨居學地。<lb
  n="0865c10" ed="T"/>復有無量無數菩薩摩訶薩得無礙辯，慈氏<lb
@@ -9391,8 +9391,8 @@
  n="0870a25" ed="T"/>情亦無差別。若諸菩薩能如是知無所滯礙，<lb
  n="0870a26" ed="T"/>是行般若波羅蜜多，我意欲令一切菩薩以<lb
  n="0870a27" ed="T"/>此作意，行深般若波羅蜜多。」</ab></div><lb
- n="0870a28" ed="T"/><div type="pin" level="3"><head>第五分天帝品第二</head><lb
- n="0870a29" ed="T"/><ab type="prose">爾時，天帝釋與四萬天子俱來集會，護世四<pb n="0870b" ed="T" id="T07.0220d.0870b"/><lb
+ n="0870a28" ed="T"/><div type='pin' level='3'><head>第五分天帝品第二</head><lb
+ n="0870a29" ed="T"/><ab type='prose'>爾時，天帝釋與四萬天子俱來集會，護世四<pb n="0870b" ed="T" id="T07.0220d.0870b"/><lb
  n="0870b01" ed="T"/>天王與二萬天子俱來集會，索訶界主大梵<lb
  n="0870b02" ed="T"/>天王與萬梵眾俱來集會，復有五千淨居天<lb
  n="0870b03" ed="T"/>眾俱來集會，是諸天眾業果身光，對佛威光<lb
@@ -9552,16 +9552,16 @@
  n="0872a12" ed="T"/>告言：「由此故說：有情無邊故，當知般若波羅<lb
  n="0872a13" ed="T"/>蜜多亦無邊。無性甚深，俱無邊故。」</ab></div><lb
  n="0872a14" ed="T"/>
-<ab type="juan" subtype="close">大般若波羅蜜多經卷第五百五十六</ab><lb
+<ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百五十六</ab><lb
  n="0872a15" ed="T"/><lb
  n="0872a16" ed="T"/><lb
  n="0872a17" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百五<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百五<lb
  n="0872a18" ed="T"/>十七</ab><lb
  n="0872a19" ed="T"/><lb
  n="0872a20" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
- n="0872a21" ed="T"/><div type="pin" level="3"><head>第五分窣堵波品第三</head><lb
- n="0872a22" ed="T"/><ab type="prose">爾時，眾中天帝釋等，欲界諸天大梵王等，色<lb
+ n="0872a21" ed="T"/><div type='pin' level='3'><head>第五分窣堵波品第三</head><lb
+ n="0872a22" ed="T"/><ab type='prose'>爾時，眾中天帝釋等，欲界諸天大梵王等，色<lb
  n="0872a23" ed="T"/>界諸天及餘神仙，歡喜踊躍，同時三返高聲<lb
  n="0872a24" ed="T"/>唱言：「奇哉！奇哉！法性深妙。如來出世以神通<lb
  n="0872a25" ed="T"/>力加善現等宣說開示，若諸菩薩不離般若<lb
@@ -9790,8 +9790,8 @@
  n="0874c16" ed="T"/>所獲功德，於前所造諸窣堵波及供養福，百<lb
  n="0874c17" ed="T"/>倍為勝，千倍為勝，乃至鄔波尼殺曇倍亦復<lb
  n="0874c18" ed="T"/>為勝。」</ab></div><lb
- n="0874c19" ed="T"/><div type="pin" level="3"><head>第五分神呪品第四</head><lb
- n="0874c20" ed="T"/><ab type="prose">爾時，眾中四萬天子同聲共白天帝釋言：「大<lb
+ n="0874c19" ed="T"/><div type='pin' level='3'><head>第五分神呪品第四</head><lb
+ n="0874c20" ed="T"/><ab type='prose'>爾時，眾中四萬天子同聲共白天帝釋言：「大<lb
  n="0874c21" ed="T"/>仙！於此甚深般若波羅蜜多，常應聽聞、受持、<lb
  n="0874c22" ed="T"/>讀誦、供養恭敬、尊重讚歎。所以者何？若能於<lb
  n="0874c23" ed="T"/>此甚深般若波羅蜜多，至心聽聞、受持、讀誦、<lb
@@ -10034,16 +10034,16 @@
  n="0877b28" ed="T"/>燈明，供養恭敬、尊重讚歎，亦得如前所說勝<lb
  n="0877b29" ed="T"/>利。</ab></div><pb n="0877c" ed="T" id="T07.0220d.0877c"/><lb
  n="0877c01" ed="T"/>
-<ab type="juan" subtype="close">大般若波羅蜜多經卷第五百五十七</ab><lb
+<ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百五十七</ab><lb
  n="0877c02" ed="T"/><lb
  n="0877c03" ed="T"/><lb
  n="0877c04" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百五<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百五<lb
  n="0877c05" ed="T"/>十八</ab><lb
  n="0877c06" ed="T"/><lb
  n="0877c07" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
- n="0877c08" ed="T"/><div type="pin" level="3"><head>第五分設利羅品第五</head><lb
- n="0877c09" ed="T"/><ab type="prose">「復次，憍尸迦！假使充滿此贍部洲佛設利羅<lb
+ n="0877c08" ed="T"/><div type='pin' level='3'><head>第五分設利羅品第五</head><lb
+ n="0877c09" ed="T"/><ab type='prose'>「復次，憍尸迦！假使充滿此贍部洲佛設利羅<lb
  n="0877c10" ed="T"/>以為一分，有書般若波羅蜜多深妙法門復<lb
  n="0877c11" ed="T"/>為一分，於斯二分，汝取何者？」天帝釋言：「我意<lb
  n="0877c12" ed="T"/>寧取深妙般若波羅蜜多。所以者何？我於諸<lb
@@ -10158,8 +10158,8 @@
  n="0879a05" ed="T"/>以般若波羅蜜多甚深義趣，如實為他分別<lb
  n="0879a06" ed="T"/>解說，所獲福聚復勝施他多百千倍，敬此法<lb
  n="0879a07" ed="T"/>師應如敬佛。」</ab></div><lb
- n="0879a08" ed="T"/><div type="pin" level="3"><head>第五分經典品第六</head><lb
- n="0879a09" ed="T"/><ab type="prose">「復次，憍尸迦！若善男子、善女人等教贍部洲<lb
+ n="0879a08" ed="T"/><div type='pin' level='3'><head>第五分經典品第六</head><lb
+ n="0879a09" ed="T"/><ab type='prose'>「復次，憍尸迦！若善男子、善女人等教贍部洲<lb
  n="0879a10" ed="T"/>諸有情類，皆令安住十善業道，展轉乃至普<lb
  n="0879a11" ed="T"/>教十方殑伽沙等諸佛世界諸有情類，皆令<lb
  n="0879a12" ed="T"/>安住十善業道。於意云何？是善男子、善女人<lb
@@ -10288,8 +10288,8 @@
  n="0880b19" ed="T"/>情故，法應攝受、勸勵、護助諸菩薩眾，令學六<lb
  n="0880b20" ed="T"/>種波羅蜜多，能疾證得一切智智，盡未來際<lb
  n="0880b21" ed="T"/>利樂有情。」</ab></div><lb
- n="0880b22" ed="T"/><div type="pin" level="3"><head>第五分迴向品第七</head><lb
- n="0880b23" ed="T"/><ab type="prose">爾時，慈氏菩薩謂善現言：「菩薩隨喜迴向俱<lb
+ n="0880b22" ed="T"/><div type='pin' level='3'><head>第五分迴向品第七</head><lb
+ n="0880b23" ed="T"/><ab type='prose'>爾時，慈氏菩薩謂善現言：「菩薩隨喜迴向俱<lb
  n="0880b24" ed="T"/>行諸福業事，於餘有情施、戒、修等諸福業事<lb
  n="0880b25" ed="T"/>為最為勝、為尊為高、為妙為微妙、為上為無<lb
  n="0880b26" ed="T"/>上。」爾時，善現問慈氏菩薩言：「若諸菩薩所起<lb
@@ -10531,16 +10531,16 @@
  n="0883b01" ed="T"/>淨戒、安忍、精進、靜慮、般若相應善根，百倍為<lb
  n="0883b02" ed="T"/>勝，千倍為勝，乃至鄔波尼殺曇倍亦復為勝。」</ab></div><lb
  n="0883b03" ed="T"/>
-<ab type="juan" subtype="close">大般若波羅蜜多經卷第五百五十八</ab><lb
+<ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百五十八</ab><lb
  n="0883b04" ed="T"/><lb
  n="0883b05" ed="T"/><lb
  n="0883b06" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百五<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百五<lb
  n="0883b07" ed="T"/>十九</ab><lb
  n="0883b08" ed="T"/><lb
  n="0883b09" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
- n="0883b10" ed="T"/><div type="pin" level="3"><head>第五分地獄品第八</head><lb
- n="0883b11" ed="T"/><ab type="prose">時，舍利子便白佛言：「如是無倒隨喜迴向，皆<lb
+ n="0883b10" ed="T"/><div type='pin' level='3'><head>第五分地獄品第八</head><lb
+ n="0883b11" ed="T"/><ab type='prose'>時，舍利子便白佛言：「如是無倒隨喜迴向，皆<lb
  n="0883b12" ed="T"/>由般若波羅蜜多威力成辦。」爾時，佛告舍利<lb
  n="0883b13" ed="T"/>子言：「如是！如是！」時，舍利子復白佛言：「如是般<lb
  n="0883b14" ed="T"/>若波羅蜜多能作照明皆應敬禮，世間諸法<lb
@@ -10717,8 +10717,8 @@
  n="0885b11" ed="T"/>想、行、識清淨即一切智清淨，一切智清淨故<lb
  n="0885b12" ed="T"/>受、想、行、識亦清淨，是受、想、行、識清淨與一切智<lb
  n="0885b13" ed="T"/>清淨，從本已來無二、無別、無斷、無壞。」</ab></div><lb
- n="0885b14" ed="T"/><div type="pin" level="3"><head>第五分清淨品第九</head><lb
- n="0885b15" ed="T"/><ab type="prose">爾時，舍利子白佛言：「世尊！如是清淨最為甚<lb
+ n="0885b14" ed="T"/><div type='pin' level='3'><head>第五分清淨品第九</head><lb
+ n="0885b15" ed="T"/><ab type='prose'>爾時，舍利子白佛言：「世尊！如是清淨最為甚<lb
  n="0885b16" ed="T"/>深。」佛言：「如是！極清淨故。」舍利子言：「如是清淨<lb
  n="0885b17" ed="T"/>是大光明。」佛言：「如是！極清淨故。」舍利子言：「如<lb
  n="0885b18" ed="T"/>是清淨無得、無現觀。」佛言：「如是！極清淨故。」舍<lb
@@ -10918,8 +10918,8 @@
  n="0887c09" ed="T"/>波羅蜜多，以一切法不虛妄故；是為自然波<lb
  n="0887c10" ed="T"/>羅蜜多，以一切法無自性故。」佛告善現：「如是！<lb
  n="0887c11" ed="T"/>如是！如汝所說。」</ab></div><lb
- n="0887c12" ed="T"/><div type="pin" level="3"><head>第五分不思議品第十之一</head><lb
- n="0887c13" ed="T"/><ab type="prose">時，天帝釋作是念言：「若有但聞甚深般若波<lb
+ n="0887c12" ed="T"/><div type='pin' level='3'><head>第五分不思議品第十之一</head><lb
+ n="0887c13" ed="T"/><ab type='prose'>時，天帝釋作是念言：「若有但聞甚深般若波<lb
  n="0887c14" ed="T"/>羅蜜多，當知已曾供養諸佛、發弘誓願，況能<lb
  n="0887c15" ed="T"/>受持、讀誦、書寫、為他演說、如教修行！當知是<lb
  n="0887c16" ed="T"/>人已於過去無量佛所，親近供養、多種善根，<lb
@@ -11026,16 +11026,16 @@
  n="0889a01" ed="T"/>讚舍利子言：「善哉！善哉！汝今善說菩薩譬喻，<lb
  n="0889a02" ed="T"/>皆是如來威神之力。」<lb
  n="0889a03" ed="T"/>
-</ab><ab type="juan" subtype="close">大般若波羅蜜多經卷第五百五十九</ab><lb
+</ab><ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百五十九</ab><lb
  n="0889a04" ed="T"/><lb
  n="0889a05" ed="T"/><lb
  n="0889a06" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百六<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百六<lb
  n="0889a07" ed="T"/>十<lb
  n="0889a08" ed="T"/><lb
  n="0889a09" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
  n="0889a10" ed="T"/>第五分不思議品第十之二</ab><lb
- n="0889a11" ed="T"/><ab type="prose">爾時，善現便白佛言：「甚奇！世尊！於諸菩薩善<lb
+ n="0889a11" ed="T"/><ab type='prose'>爾時，善現便白佛言：「甚奇！世尊！於諸菩薩善<lb
  n="0889a12" ed="T"/>能付囑、善能護念。」佛言：「善現！如是！如是！所以<lb
  n="0889a13" ed="T"/>者何？諸菩薩眾為欲長夜利樂多生哀愍世<lb
  n="0889a14" ed="T"/>間諸眾生故，欲令天、人獲大義利安樂事故，<lb
@@ -11186,8 +11186,8 @@
  n="0890c14" ed="T"/>學，由斯福力，隨所生處，法爾常遇甚深般若<lb
  n="0890c15" ed="T"/>波羅蜜多相應經典，及餘六種波羅蜜多相<lb
  n="0890c16" ed="T"/>應經典恒不捨離。」</ab></div><lb
- n="0890c17" ed="T"/><div type="pin" level="3"><head>第五分魔事品第十一</head><lb
- n="0890c18" ed="T"/><ab type="prose">爾時，具壽善現便白佛言：「世尊！所說住菩薩<lb
+ n="0890c17" ed="T"/><div type='pin' level='3'><head>第五分魔事品第十一</head><lb
+ n="0890c18" ed="T"/><ab type='prose'>爾時，具壽善現便白佛言：「世尊！所說住菩薩<lb
  n="0890c19" ed="T"/>乘善男子等修善法時有諸魔事，云何名為菩<lb
  n="0890c20" ed="T"/>薩魔事？」佛告善現：「若諸菩薩欲說法要辯久<lb
  n="0890c21" ed="T"/>乃生，菩薩當知是為魔事；或說法要辯乃卒<lb
@@ -11361,8 +11361,8 @@
  n="0892c15" ed="T"/>聲聞果，或能證得獨覺菩提，決定不能證得<lb
  n="0892c16" ed="T"/>佛果，何緣於此唐設劬勞？』菩薩當知是為魔<lb
  n="0892c17" ed="T"/>事。」</ab></div><lb
- n="0892c18" ed="T"/><div type="pin" level="3"><head>第五分真如品第十二</head><lb
- n="0892c19" ed="T"/><ab type="prose">「復次，善現！甚深般若波羅蜜多書寫等時，多<lb
+ n="0892c18" ed="T"/><div type='pin' level='3'><head>第五分真如品第十二</head><lb
+ n="0892c19" ed="T"/><ab type='prose'>「復次，善現！甚深般若波羅蜜多書寫等時，多<lb
  n="0892c20" ed="T"/>諸魔事為作留難。菩薩應覺，覺已精勤，正念<lb
  n="0892c21" ed="T"/>正知，方便遠離。」爾時，善現便白佛言：「如是！世<lb
  n="0892c22" ed="T"/>尊！如是！善逝！甚深般若波羅蜜多書寫等時<lb
@@ -11507,16 +11507,16 @@
  n="0894b16" ed="T"/>真如無盡，一切法甚深故真如甚深，一切法<lb
  n="0894b17" ed="T"/>與真如無差別故，是故真如極難信解。」</ab></div><lb
  n="0894b18" ed="T"/>
-<ab type="juan" subtype="close">大般若波羅蜜多經卷第五百六十</ab><lb
+<ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百六十</ab><lb
  n="0894b19" ed="T"/><lb
  n="0894b20" ed="T"/><lb
  n="0894b21" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百六<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百六<lb
  n="0894b22" ed="T"/>十一</ab><lb
  n="0894b23" ed="T"/><lb
  n="0894b24" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
- n="0894b25" ed="T"/><div type="pin" level="3"><head>第五分甚深相品第十三</head><lb
- n="0894b26" ed="T"/><ab type="prose">爾時，欲界十千天子，天主帝釋而為上首，復<lb
+ n="0894b25" ed="T"/><div type='pin' level='3'><head>第五分甚深相品第十三</head><lb
+ n="0894b26" ed="T"/><ab type='prose'>爾時，欲界十千天子，天主帝釋而為上首，復<lb
  n="0894b27" ed="T"/>有梵世二萬天子，大梵天王而為上首。俱詣<lb
  n="0894b28" ed="T"/>佛所頂禮雙足，却住一面同白佛言：「世尊！所<lb
  n="0894b29" ed="T"/>說諸甚深法以何為相？」爾時，佛告諸天眾言：<pb n="0894c" ed="T" id="T07.0220d.0894c"/><lb
@@ -11721,8 +11721,8 @@
  n="0896c25" ed="T"/>新學大乘，雖有信心而不堅淨，於深般若波<lb
  n="0896c26" ed="T"/>羅蜜多不能長時信樂隨轉，於二乘地或當<lb
  n="0896c27" ed="T"/>墮一。</ab></div><lb
- n="0896c28" ed="T"/><div type="pin" level="3"><head>第五分船等喻品第十四</head><lb
- n="0896c29" ed="T"/><ab type="prose">「復次，善現！譬如商侶遊泛大海，其船卒破，於<pb n="0897a" ed="T" id="T07.0220d.0897a"/><lb
+ n="0896c28" ed="T"/><div type='pin' level='3'><head>第五分船等喻品第十四</head><lb
+ n="0896c29" ed="T"/><ab type='prose'>「復次，善現！譬如商侶遊泛大海，其船卒破，於<pb n="0897a" ed="T" id="T07.0220d.0897a"/><lb
  n="0897a01" ed="T"/>中諸人若能取木器物、浮囊、板片、死屍為所依<lb
  n="0897a02" ed="T"/>附，當知彼類終不沒死，得至安隱大海彼岸，<lb
  n="0897a03" ed="T"/>無損無害受諸快樂。諸菩薩眾亦復如是，若<lb
@@ -11760,8 +11760,8 @@
  n="0897b06" ed="T"/>善巧，當知此類終不中道退入聲聞或獨覺<lb
  n="0897b07" ed="T"/>地，定證無上正等菩提。與上相違是名黑<lb
  n="0897b08" ed="T"/>品。」</ab></div><lb
- n="0897b09" ed="T"/><div type="pin" level="3"><head>第五分如來品第十五之一</head><lb
- n="0897b10" ed="T"/><ab type="prose">爾時，善現便白佛言：「新學菩薩云何應學甚<lb
+ n="0897b09" ed="T"/><div type='pin' level='3'><head>第五分如來品第十五之一</head><lb
+ n="0897b10" ed="T"/><ab type='prose'>爾時，善現便白佛言：「新學菩薩云何應學甚<lb
  n="0897b11" ed="T"/>深般若波羅蜜多？」佛告善現：「新學菩薩欲學<lb
  n="0897b12" ed="T"/>般若波羅蜜多，先應親近承事善友。若能宣<lb
  n="0897b13" ed="T"/>說甚深般若波羅蜜多，教誡教授諸菩薩者，<lb
@@ -11979,15 +11979,15 @@
  n="0899c22" ed="T"/>若波羅蜜多方便善巧。」爾時，佛告舍利子言：<lb
  n="0899c23" ed="T"/>「如是！如是！如汝所說。」<lb
  n="0899c24" ed="T"/>
-</ab><ab type="juan" subtype="close">大般若波羅蜜多經卷第五百六十一</ab><pb n="0900a" ed="T" id="T07.0220d.0900a"/><lb
+</ab><ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百六十一</ab><pb n="0900a" ed="T" id="T07.0220d.0900a"/><lb
  n="0900a01" ed="T"/><lb
  n="0900a02" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百六<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百六<lb
  n="0900a03" ed="T"/>十二<lb
  n="0900a04" ed="T"/><lb
  n="0900a05" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
  n="0900a06" ed="T"/>第五分如來品第十五之二</ab><lb
- n="0900a07" ed="T"/><ab type="prose">爾時，欲界梵世天子，恭敬合掌俱白佛言：「如<lb
+ n="0900a07" ed="T"/><ab type='prose'>爾時，欲界梵世天子，恭敬合掌俱白佛言：「如<lb
  n="0900a08" ed="T"/>是般若波羅蜜多最為甚深極難信解，諸佛<lb
  n="0900a09" ed="T"/>無上正等菩提，亦最甚深極難信得。」爾時，佛<lb
  n="0900a10" ed="T"/>告諸天子言：「如是！如是！如汝所說。」具壽善現<lb
@@ -12051,8 +12051,8 @@
  n="0900c10" ed="T"/>心、不異心、謙下心、利益心、安樂心、無瞋惱<lb
  n="0900c11" ed="T"/>心、如父母心，亦以此心應與其語。善現當知！<lb
  n="0900c12" ed="T"/>若諸菩薩欲證菩提，應如是住、應如是學。」</ab></div><lb
- n="0900c13" ed="T"/><div type="pin" level="3"><head>第五分不退品第十六</head><lb
- n="0900c14" ed="T"/><ab type="prose">爾時，善現便白佛言：「我等當以何行、狀、相知<lb
+ n="0900c13" ed="T"/><div type='pin' level='3'><head>第五分不退品第十六</head><lb
+ n="0900c14" ed="T"/><ab type='prose'>爾時，善現便白佛言：「我等當以何行、狀、相知<lb
  n="0900c15" ed="T"/>是不退轉菩薩摩訶薩？」佛告善現：「若諸菩薩<lb
  n="0900c16" ed="T"/>能如實知異生、聲聞、獨覺、菩薩及如來地，雖說<lb
  n="0900c17" ed="T"/>有異，而於諸法真如性中，無變異、無分別，皆<lb
@@ -12256,8 +12256,8 @@
  n="0903a12" ed="T"/>並無疑惑，又得聞持陀羅尼故，常能憶念終<lb
  n="0903a13" ed="T"/>不忘失。善現當知！是為不退轉菩薩摩訶薩<lb
  n="0903a14" ed="T"/>諸行、狀、相。」</ab></div><lb
- n="0903a15" ed="T"/><div type="pin" level="3"><head>第五分貪行品第十七之一</head><lb
- n="0903a16" ed="T"/><ab type="prose">爾時，善現便白佛言：「希有！世尊！是諸菩薩成<lb
+ n="0903a15" ed="T"/><div type='pin' level='3'><head>第五分貪行品第十七之一</head><lb
+ n="0903a16" ed="T"/><ab type='prose'>爾時，善現便白佛言：「希有！世尊！是諸菩薩成<lb
  n="0903a17" ed="T"/>就如是大功德聚。世尊能如殑伽沙劫說不<lb
  n="0903a18" ed="T"/>退轉諸行、狀、相，唯願如來、應、正等覺復為宣<lb
  n="0903a19" ed="T"/>說甚深般若波羅蜜多相應義處，令諸菩薩<lb
@@ -12436,15 +12436,15 @@
  n="0905a18" ed="T"/>不？」「如是！世尊！若諸菩薩能如是行，是行深般<lb
  n="0905a19" ed="T"/>若波羅蜜多。」<lb
  n="0905a20" ed="T"/>
-</ab><ab type="juan" subtype="close">大般若波羅蜜多經卷第五百六十二</ab><lb
+</ab><ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百六十二</ab><lb
  n="0905a21" ed="T"/><lb
  n="0905a22" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百六<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百六<lb
  n="0905a23" ed="T"/>十三<lb
  n="0905a24" ed="T"/><lb
  n="0905a25" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
  n="0905a26" ed="T"/>第五分貪行品第十七之二</ab><lb
- n="0905a27" ed="T"/><ab type="prose">佛告善現：「若諸菩薩能如是行，為行何處？」善<lb
+ n="0905a27" ed="T"/><ab type='prose'>佛告善現：「若諸菩薩能如是行，為行何處？」善<lb
  n="0905a28" ed="T"/>現白言：「若諸菩薩能如是行，都無行處。所以<lb
  n="0905a29" ed="T"/>者何？諸現行法皆不轉故。」佛告善現：「若諸菩<pb n="0905b" ed="T" id="T07.0220d.0905b"/><lb
  n="0905b01" ed="T"/>薩行深般若波羅蜜多，為行何義諦？」善現<lb
@@ -12562,8 +12562,8 @@
  n="0906b26" ed="T"/>想而生怖畏。何以故？前際、後際劫數短長，皆<lb
  n="0906b27" ed="T"/>一剎那心相應故。如是菩薩於可畏事，能審<lb
  n="0906b28" ed="T"/>思惟不生怖者，疾證無上正等菩提。」</ab></div><lb
- n="0906b29" ed="T"/><div type="pin" level="3"><head>第五分姊妹品第十八</head><pb n="0906c" ed="T" id="T07.0220d.0906c"/><lb
- n="0906c01" ed="T"/><ab type="prose">爾時，會中有一天女，從座而起頂禮佛足，偏<lb
+ n="0906b29" ed="T"/><div type='pin' level='3'><head>第五分姊妹品第十八</head><pb n="0906c" ed="T" id="T07.0220d.0906c"/><lb
+ n="0906c01" ed="T"/><ab type='prose'>爾時，會中有一天女，從座而起頂禮佛足，偏<lb
  n="0906c02" ed="T"/>覆左肩右膝著地，合掌恭敬白言：「世尊！我於<lb
  n="0906c03" ed="T"/>此中亦無怖畏，願當來世得作佛時，亦為有<lb
  n="0906c04" ed="T"/>情說如斯法。」作是語已，取妙金花，恭敬至誠<lb
@@ -12728,8 +12728,8 @@
  n="0908b18" ed="T"/>是記者，皆於此中能如實答。善現當知！是諸<lb
  n="0908b19" ed="T"/>菩薩善根明利智慧深廣，世間天、人、阿素洛<lb
  n="0908b20" ed="T"/>等皆不能壞大菩提心。」</ab></div><lb
- n="0908b21" ed="T"/><div type="pin" level="3"><head>第五分夢行品第十九</head><lb
- n="0908b22" ed="T"/><ab type="prose">「復次，善現！若諸菩薩乃至夢中不著三界及<lb
+ n="0908b21" ed="T"/><div type='pin' level='3'><head>第五分夢行品第十九</head><lb
+ n="0908b22" ed="T"/><ab type='prose'>「復次，善現！若諸菩薩乃至夢中不著三界及<lb
  n="0908b23" ed="T"/>二乘地亦不稱譽，雖觀諸法如夢所見，而於<lb
  n="0908b24" ed="T"/>實際能不證受，是不退轉諸菩薩相。「復次，善<lb
  n="0908b25" ed="T"/>現！若諸菩薩夢中見佛，無量百千大眾圍遶<lb
@@ -12877,15 +12877,15 @@
  n="0910a22" ed="T"/>無上正等菩提。若諸菩薩如是學者，是為善<lb
  n="0910a23" ed="T"/>巧覺知魔事。</ab></div><lb
  n="0910a24" ed="T"/>
-<ab type="juan" subtype="close">大般若波羅蜜多經卷第五百六十三</ab><pb n="0910b" ed="T" id="T07.0220d.0910b"/><lb
+<ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百六十三</ab><pb n="0910b" ed="T" id="T07.0220d.0910b"/><lb
  n="0910b01" ed="T"/><lb
  n="0910b02" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百六<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百六<lb
  n="0910b03" ed="T"/>十四</ab><lb
  n="0910b04" ed="T"/><lb
  n="0910b05" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
- n="0910b06" ed="T"/><div type="pin" level="3"><head>第五分勝意樂品第二十</head><lb
- n="0910b07" ed="T"/><ab type="prose">「復次，善現！若諸菩薩以勝意樂，欲證無上正<lb
+ n="0910b06" ed="T"/><div type='pin' level='3'><head>第五分勝意樂品第二十</head><lb
+ n="0910b07" ed="T"/><ab type='prose'>「復次，善現！若諸菩薩以勝意樂，欲證無上正<lb
  n="0910b08" ed="T"/>等菩提，常應親近、供養恭敬、尊重讚歎真淨<lb
  n="0910b09" ed="T"/>善友。」爾時，善現便白佛言：「何等名為菩薩善<lb
  n="0910b10" ed="T"/>友？」佛告善現：「諸佛皆名菩薩善友。若能宣說<lb
@@ -13071,8 +13071,8 @@
  n="0912b16" ed="T"/>怖，咸作是念：『此諸菩薩為於中間便證實際，<lb
  n="0912b17" ed="T"/>墮二乘地，為趣無上正等菩提轉妙法輪，空<lb
  n="0912b18" ed="T"/>我境界。』」</ab></div><lb
- n="0912b19" ed="T"/><div type="pin" level="3"><head>第五分修學品第二十一</head><lb
- n="0912b20" ed="T"/><ab type="prose">「復次，慶喜！若時菩薩修學般若波羅蜜多，晝<lb
+ n="0912b19" ed="T"/><div type='pin' level='3'><head>第五分修學品第二十一</head><lb
+ n="0912b20" ed="T"/><ab type='prose'>「復次，慶喜！若時菩薩修學般若波羅蜜多，晝<lb
  n="0912b21" ed="T"/>夜精勤常不捨離。時，魔眷屬如箭入心，怖戰<lb
  n="0912b22" ed="T"/>憂惶不任自處。「復次，慶喜！若時菩薩修學般<lb
  n="0912b23" ed="T"/>若波羅蜜多，晝夜精勤將至究竟。時，魔眷屬<lb
@@ -13182,8 +13182,8 @@
  n="0913c11" ed="T"/>息除諸惡眾善圓滿，少分有情能如是學，是<lb
  n="0913c12" ed="T"/>故菩薩欲墮極少有情數者，當勤修學甚深<lb
  n="0913c13" ed="T"/>般若波羅蜜多方便善巧。」</ab></div><lb
- n="0913c14" ed="T"/><div type="pin" level="3"><head>第五分根栽品第二十二之一</head><lb
- n="0913c15" ed="T"/><ab type="prose">「復次，善現！若諸菩薩如是修學甚深般若波<lb
+ n="0913c14" ed="T"/><div type='pin' level='3'><head>第五分根栽品第二十二之一</head><lb
+ n="0913c15" ed="T"/><ab type='prose'>「復次，善現！若諸菩薩如是修學甚深般若波<lb
  n="0913c16" ed="T"/>羅蜜多方便善巧，不起根栽俱行之心，不起<lb
  n="0913c17" ed="T"/>慳悋、犯戒、瞋忿、懈怠、散動、惡慧、猶豫俱行之<lb
  n="0913c18" ed="T"/>心。「復次，善現！若諸菩薩如是修學甚深般若<lb
@@ -13314,15 +13314,15 @@
  n="0915a27" ed="T"/>甚深般若波羅蜜多。是故菩薩欲得無上正<lb
  n="0915a28" ed="T"/>等菩提，應勤修學甚深般若波羅蜜多。」<lb
  n="0915a29" ed="T"/>
-</ab><ab type="juan" subtype="close">大般若波羅蜜多經卷第五百六十四</ab><pb n="0915b" ed="T" id="T07.0220d.0915b"/><lb
+</ab><ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百六十四</ab><pb n="0915b" ed="T" id="T07.0220d.0915b"/><lb
  n="0915b01" ed="T"/><lb
  n="0915b02" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百六<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百六<lb
  n="0915b03" ed="T"/>十五<lb
  n="0915b04" ed="T"/><lb
  n="0915b05" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
  n="0915b06" ed="T"/>第五分根栽品第二十二之二</ab><lb
- n="0915b07" ed="T"/><ab type="prose">爾時，善現便白佛言：「此諸菩薩行甚深義。」佛<lb
+ n="0915b07" ed="T"/><ab type='prose'>爾時，善現便白佛言：「此諸菩薩行甚深義。」佛<lb
  n="0915b08" ed="T"/>告善現：「如是！如是！此諸菩薩行甚深義。善現<lb
  n="0915b09" ed="T"/>當知！此諸菩薩能為難事，謂所行義雖復甚<lb
  n="0915b10" ed="T"/>深，而於聲聞、獨覺地法能不作證。」具壽善現<lb
@@ -13449,8 +13449,8 @@
  n="0916c15" ed="T"/>自然歡喜稱揚讚歎名字、種姓、色相、功德，是<lb
  n="0916c16" ed="T"/>諸菩薩超二乘地近大菩提，或已得受不退<lb
  n="0916c17" ed="T"/>轉記，或近當受不退轉記。」</ab></div><lb
- n="0916c18" ed="T"/><div type="pin" level="3"><head>第五分付囑品第二十三</head><lb
- n="0916c19" ed="T"/><ab type="prose">「復次，善現！若諸菩薩聞說般若波羅蜜多所<lb
+ n="0916c18" ed="T"/><div type='pin' level='3'><head>第五分付囑品第二十三</head><lb
+ n="0916c19" ed="T"/><ab type='prose'>「復次，善現！若諸菩薩聞說般若波羅蜜多所<lb
  n="0916c20" ed="T"/>有義趣深生信解，無惑、無疑、不迷、不悶，但作<lb
  n="0916c21" ed="T"/>是念：『如佛所說理趣，必然定非顛倒。』是諸菩<lb
  n="0916c22" ed="T"/>薩決定當於不動佛所及諸菩薩摩訶薩所，<lb
@@ -13628,8 +13628,8 @@
  n="0918c20" ed="T"/>善根故。慶喜當知！若諸菩薩成就憶念如是<lb
  n="0918c21" ed="T"/>善根，復於無上正等菩提有退轉者，無有是<lb
  n="0918c22" ed="T"/>處。」</ab></div><lb
- n="0918c23" ed="T"/><div type="pin" level="3"><head>第五分見不動佛品第二十四</head><lb
- n="0918c24" ed="T"/><ab type="prose">爾時，如來四眾圍繞，讚說般若波羅蜜多，付<lb
+ n="0918c23" ed="T"/><div type='pin' level='3'><head>第五分見不動佛品第二十四</head><lb
+ n="0918c24" ed="T"/><ab type='prose'>爾時，如來四眾圍繞，讚說般若波羅蜜多，付<lb
  n="0918c25" ed="T"/>阿難陀令受持已，復於一切苾芻、苾芻尼、鄔<lb
  n="0918c26" ed="T"/>波索迦、鄔波斯迦、天、龍、藥叉、健達縛等大眾<lb
  n="0918c27" ed="T"/>會中現神通力，令眾皆見不動如來、應、正等<lb
@@ -13768,5 +13768,5 @@
  n="0920b15" ed="T"/>子等諸大聲聞，并諸天、龍、健達縛等，一切大<lb
  n="0920b16" ed="T"/>眾聞佛所說，皆大歡喜信受奉行。</ab></div></div><lb
  n="0920b17" ed="T"/>
-<ab type="juan" subtype="close">大般若波羅蜜多經卷第五百六十五</ab></div>
+<ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百六十五</ab></div>
 </body></text></TEI>

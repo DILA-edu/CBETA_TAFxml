@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T25</biblScope>
                     <idno type="Taisho">T25n1510a</idno>
                 </bibl>
@@ -43,11 +43,11 @@
  n="0757a01" ed="T"/><lb
  n="0757a02" ed="T"/><lb
  n="0757a03" ed="T"/>
-<ab type="juan" subtype="open">金剛般若論卷上</ab><lb
+<ab type='juan' subtype='open'>金剛般若論卷上</ab><lb
  n="0757a04" ed="T"/><lb
  n="0757a05" ed="T"/><byline>無著菩薩造</byline><lb
  n="0757a06" ed="T"/><byline>隋南印度三藏達磨笈多譯</byline><lb
- n="0757a07" ed="T"/><div type="jing" level="1"><ab type="verse">
+ n="0757a07" ed="T"/><div type='jing' level='1'><ab type='verse'>
 出生佛法無與等，　　顯了法界最第一，　　<lb
  n="0757a08" ed="T"/>金剛難壞句義聚，　　一切聖人不能入。　　<lb
  n="0757a09" ed="T"/>此小金剛波羅蜜，　　以如是名顯勢力，　　<lb
@@ -55,7 +55,7 @@
  n="0757a11" ed="T"/>歸命彼類及此輩，　　皆以正心而頂禮，　　<lb
  n="0757a12" ed="T"/>我應精勤立彼義，　　解釋相續為自他。　　
 </ab><lb
- n="0757a13" ed="T"/><ab type="prose">成立七種義句已，此般若波羅蜜即得成立。<lb
+ n="0757a13" ed="T"/><ab type='prose'>成立七種義句已，此般若波羅蜜即得成立。<lb
  n="0757a14" ed="T"/>七義句者：一、種性不斷，二、發起行相，三、行所<lb
  n="0757a15" ed="T"/>住處，四、對治，五、不失，六、地，七、立名。此等七<lb
  n="0757a16" ed="T"/>義句，於《般若波羅蜜經》中成立，故名義句。於<lb
@@ -447,14 +447,14 @@
  n="0761b25" ed="T"/>受持。為他說者，解釋句味故。無量者，過譬喻<lb
  n="0761b26" ed="T"/>故。阿僧祇者，顯多故。<lb
  n="0761b27" ed="T"/>
-</ab><ab type="juan" subtype="close">金剛般若論卷上</ab><pb n="0761c" ed="T" id="T25.1510a.0761c"/><lb
+</ab><ab type='juan' subtype='close'>金剛般若論卷上</ab><pb n="0761c" ed="T" id="T25.1510a.0761c"/><lb
  n="0761c01" ed="T"/><lb
  n="0761c02" ed="T"/>
-<ab type="juan" subtype="open">金剛般若論卷下</ab><lb
+<ab type='juan' subtype='open'>金剛般若論卷下</ab><lb
  n="0761c03" ed="T"/><lb
  n="0761c04" ed="T"/><byline>無著菩薩造</byline><lb
  n="0761c05" ed="T"/><byline>隋南印度三藏達磨笈多譯</byline><lb
- n="0761c06" ed="T"/><ab type="prose">已說欲住處竟。今說離障礙住處。有十二種<lb
+ n="0761c06" ed="T"/><ab type='prose'>已說欲住處竟。今說離障礙住處。有十二種<lb
  n="0761c07" ed="T"/>障礙對治應知。何者十二障礙？一慢，二無<lb
  n="0761c08" ed="T"/>慢而少聞，三多聞而小攀緣作念修道，四不<lb
  n="0761c09" ed="T"/>小攀緣作念修道而捨眾生，五不捨眾生而<lb
@@ -850,13 +850,13 @@
  n="0766a22" ed="T"/>於彼心具足中，為生死不染故，說星、翳、燈等<lb
  n="0766a23" ed="T"/>偈，此義如前說。<lb
  n="0766a24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若聞如是義，　　於大乘無覺，　　<lb
  n="0766a25" ed="T"/>我念過有石，　　究竟無因故。　　<lb
  n="0766a26" ed="T"/>下人於此深大法，　　不能覺知及信向，　　<lb
  n="0766a27" ed="T"/>世間眾人多如此，　　是以此法成荒廢。　　
 </ab><lb
- n="0766a28" ed="T"/><ab type="prose">《金剛斷割般若波羅蜜論》竟。阿僧伽作。</ab></div><lb
+ n="0766a28" ed="T"/><ab type='prose'>《金剛斷割般若波羅蜜論》竟。阿僧伽作。</ab></div><lb
  n="0766a29" ed="T"/>
-<ab type="juan" subtype="close">金剛般若論卷下</ab>
+<ab type='juan' subtype='close'>金剛般若論卷下</ab>
 </body></text></TEI>

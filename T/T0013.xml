@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0013</idno>
                 </bibl>
@@ -41,12 +41,12 @@
     <text>
         <body><lb
  n="0233b21" ed="T"/><lb
- n="0233b22" ed="T"/><div type="jing" level="1"><lb
+ n="0233b22" ed="T"/><div type='jing' level='1'><lb
  n="0233b23" ed="T"/>
-<ab type="juan" subtype="open">長阿含十報法經卷上</ab><lb
+<ab type='juan' subtype='open'>長阿含十報法經卷上</ab><lb
  n="0233b24" ed="T"/><lb
  n="0233b25" ed="T"/><byline>後漢安息國三藏安世高譯</byline><lb
- n="0233b26" ed="T"/><ab type="prose">聞如是：佛在舍衛國祇樹給孤獨園。是時，<lb
+ n="0233b26" ed="T"/><ab type='prose'>聞如是：佛在舍衛國祇樹給孤獨園。是時，<lb
  n="0233b27" ed="T"/>賢者舍利曰：「請諸比丘聽說法，上亦好、中<lb
  n="0233b28" ed="T"/>亦好、竟亦好，有慧、有巧、最具淨除至竟說行，<lb
  n="0233b29" ed="T"/>聽從一增至十法，聽向意著意，聽說如言。」<pb n="0233c" ed="T" id="T01.0013.0233c"/><lb
@@ -338,12 +338,12 @@
  n="0236c25" ed="T"/>行者七十法，是不非，是不異，有諦如，有不惑<lb
  n="0236c26" ed="T"/>不倒，是如有持慧意觀。<lb
  n="0236c27" ed="T"/>
-</ab><ab type="juan" subtype="close">長阿含十報法經卷上</ab><pb n="0237a" ed="T" id="T01.0013.0237a"/><lb
+</ab><ab type='juan' subtype='close'>長阿含十報法經卷上</ab><pb n="0237a" ed="T" id="T01.0013.0237a"/><lb
  n="0237a01" ed="T"/>
-<ab type="juan" subtype="open">長阿含十報法經卷下</ab><lb
+<ab type='juan' subtype='open'>長阿含十報法經卷下</ab><lb
  n="0237a02" ed="T"/><lb
  n="0237a03" ed="T"/><byline>後漢安息國三藏安世高譯</byline><lb
- n="0237a04" ed="T"/><ab type="prose">「第一八法，行者為增本行，未得慧法八因緣。<lb
+ n="0237a04" ed="T"/><ab type='prose'>「第一八法，行者為增本行，未得慧法八因緣。<lb
  n="0237a05" ed="T"/>何等八？一為若行者依受教誡行，亦依慧<lb
  n="0237a06" ed="T"/>者同學者，是本行，未得慧便得慧。是為一法<lb
  n="0237a07" ed="T"/>因緣。<lb
@@ -766,5 +766,5 @@
  n="0241c18" ed="T"/>是名為十報法，如應是上說，為是故說。」舍利<lb
  n="0241c19" ed="T"/>曰已說竟，諸受著心蒙恩。<lb
  n="0241c20" ed="T"/>
-</ab><ab type="juan" subtype="close">長阿含十報法經卷下</ab></div>
+</ab><ab type='juan' subtype='close'>長阿含十報法經卷下</ab></div>
 </body></text></TEI>

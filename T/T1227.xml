@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1227</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0142b15" ed="T"/><lb
  n="0142b16" ed="T"/><lb
- n="0142b17" ed="T"/><div type="jing" level="1"><lb
+ n="0142b17" ed="T"/><div type='jing' level='1'><lb
  n="0142b18" ed="T"/>
-<ab type="juan" subtype="open">大威力烏樞瑟摩明王經卷上</ab><lb
+<ab type='juan' subtype='open'>大威力烏樞瑟摩明王經卷上</ab><lb
  n="0142b19" ed="T"/><lb
  n="0142b20" ed="T"/><byline>大唐北天竺國三藏阿質達霰譯</byline><lb
- n="0142b21" ed="T"/><ab type="prose">敬禮一切佛復次諸菩薩。爾時會中無量俱<lb
+ n="0142b21" ed="T"/><ab type='prose'>敬禮一切佛復次諸菩薩。爾時會中無量俱<lb
  n="0142b22" ed="T"/>胝明仙之所圍遶。摩醯首羅天王大部多主。<lb
  n="0142b23" ed="T"/>從座而起頭面著地。前禮金剛手菩薩摩訶<lb
  n="0142b24" ed="T"/>薩足。作是言菩薩唯願演說大威力者。不<lb
@@ -416,14 +416,14 @@
  n="0146c12" ed="T"/>若粳米和烏油麻柤。進脂俱吒火中一千<lb
  n="0146c13" ed="T"/>八饒奴婢。<lb
  n="0146c14" ed="T"/>
-</ab><ab type="juan" subtype="close">大威力烏樞瑟摩明王經卷上</ab><lb
+</ab><ab type='juan' subtype='close'>大威力烏樞瑟摩明王經卷上</ab><lb
  n="0146c15" ed="T"/><lb
  n="0146c16" ed="T"/><lb
  n="0146c17" ed="T"/>
-<ab type="juan" subtype="open">大威力烏樞瑟摩明王經卷中</ab><lb
+<ab type='juan' subtype='open'>大威力烏樞瑟摩明王經卷中</ab><lb
  n="0146c18" ed="T"/><lb
  n="0146c19" ed="T"/><byline>北天竺三藏阿質達霰譯</byline><lb
- n="0146c20" ed="T"/><ab type="prose">若粳米和牛蘇。進火中十萬遍生有相之<lb
+ n="0146c20" ed="T"/><ab type='prose'>若粳米和牛蘇。進火中十萬遍生有相之<lb
  n="0146c21" ed="T"/>子。若杉木脂和酥。進火中十萬遍增七寶財。<lb
  n="0146c22" ed="T"/>若以飲食香華供養像。像前地上畫人或王。<lb
  n="0146c23" ed="T"/>行者形心上坐誦十萬遍彼并族貴敬。<lb
@@ -748,7 +748,7 @@
  n="0150b25" ed="T"/>籠葉芥子油和遍傅之。以足加龍首。結娜<lb
  n="0150b26" ed="T"/>拏印加持之。盡日止雨足。<lb
  n="0150b27" ed="T"/>若以牛皮白月五日。寒林炭末和水傅皮。白<lb
- n="0150b28" ed="T"/>土作龍籠前一日三時時一千八。進苦練葉<lb
+ n="0150b28" ed="T"/>上作龍籠前一日三時時一千八。進苦練葉<lb
  n="0150b29" ed="T"/>於火中。經七日雨足。<pb n="0150c" id="T21.1227.0150c" ed="T"/><lb
  n="0150c01" ed="T"/>若前法不驗者。寒林中以其炭畫作四肘方<lb
  n="0150c02" ed="T"/>壇。開南門。於中畫大威力明王。前畫三五頭<lb
@@ -819,15 +819,15 @@
  n="0151b10" ed="T"/>鎗進粥於鎗下火中一千八。留殘粥後取<lb
  n="0151b11" ed="T"/>少分和食。與之同前。<lb
  n="0151b12" ed="T"/>
-</ab><ab type="juan" subtype="close">大威力烏樞瑟摩明王經卷中</ab><lb
+</ab><ab type='juan' subtype='close'>大威力烏樞瑟摩明王經卷中</ab><lb
  n="0151b13" ed="T"/><lb
  n="0151b14" ed="T"/><lb
  n="0151b15" ed="T"/>
-<ab type="juan" subtype="open">大威力烏樞瑟摩明王經卷下</ab><lb
+<ab type='juan' subtype='open'>大威力烏樞瑟摩明王經卷下</ab><lb
  n="0151b16" ed="T"/><lb
  n="0151b17" ed="T"/><byline>大唐北天竺國三藏阿質達霰譯</byline><lb
  n="0151b18" ed="T"/><head>心密言事法</head><lb
- n="0151b19" ed="T"/><ab type="prose">復次求心密言成驗法。行者不拘淨穢。食與<lb
+ n="0151b19" ed="T"/><ab type='prose'>復次求心密言成驗法。行者不拘淨穢。食與<lb
  n="0151b20" ed="T"/>不食持滿十萬當得悉地。<lb
  n="0151b21" ed="T"/>若取線一加持一結一千八遍。戴之自護護<lb
  n="0151b22" ed="T"/>他。若加持黃芥子或灰或水。散十方辟魔。若<lb
@@ -1049,19 +1049,19 @@
  n="0154a06" ed="T"/>復次薄伽梵金剛手說大威力密言相。大威<lb
  n="0154a07" ed="T"/>力根本密言曰。<lb
  n="0154a08" ed="T"/></ab>
-<ab type="dharani">唵吽吽吽頗吒頗吒頗吒鄔仡囉<lb
+<ab type='dharani'>唵吽吽吽頗吒頗吒頗吒鄔仡囉<lb
  n="0154a09" ed="T"/>戍攞播寧𤙖𤙖𤙖頗吒頗吒頗吒擾<lb
  n="0154a10" ed="T"/>羝寧囉曩娜𤙖𤙖𤙖頗吒頗吒頗吒<lb
  n="0154a11" ed="T"/>沙嚩訶<lb
  n="0154a12" ed="T"/></ab>
-<ab type="prose">心密言曰。<lb
+<ab type='prose'>心密言曰。<lb
  n="0154a13" ed="T"/></ab>
-<ab type="dharani">唵𤙖頗吒頗吒頗吒鄔仡囉戍攞播寧𤙖𤙖𤙖頗吒頗吒<lb
+<ab type='dharani'>唵𤙖頗吒頗吒頗吒鄔仡囉戍攞播寧𤙖𤙖𤙖頗吒頗吒<lb
  n="0154a15" ed="T"/>頗吒唵優羝寧囉曩娜𤙖𤙖𤙖<lb
  n="0154a16" ed="T"/>頗吒頗吒頗吒唵唵唵摩訶<lb
  n="0154a17" ed="T"/>麼攞娑嚩訶<lb
  n="0154a18" ed="T"/></ab>
-<ab type="prose">此密言凡五唵七𤙖九頗吒梵文十七字娑<lb
+<ab type='prose'>此密言凡五唵七𤙖九頗吒梵文十七字娑<lb
  n="0154a19" ed="T"/>嚩訶不入數。<lb
  n="0154a20" ed="T"/>復陳教法能作一切事。以三金作蓮華。往山<lb
  n="0154a21" ed="T"/>頂加持三十萬遍當得悉地。手持其悉地蓮<lb
@@ -1080,7 +1080,7 @@
  n="0154b05" ed="T"/>謂頭頂甲冑頂髻坐等。奉請密言曰。<lb
  n="0154b06" ed="T"/>歸命三寶及金剛手。<lb
  n="0154b07" ed="T"/></ab>
-<ab type="dharani">唵縛日囉俱路馱摩訶戰拏<lb
+<ab type='dharani'>唵縛日囉俱路馱摩訶戰拏<lb
  n="0154b08" ed="T"/>訶曩娜訶跛者尾馱望娑也曀係曳呬薄伽嚩訶曩訶<lb
  n="0154b10" ed="T"/>曩娜訶娜訶跛者跛者尾馱望娑也<lb
  n="0154b11" ed="T"/>苨嚩乃殿娜囉布爾多薩嚩<lb
@@ -1097,52 +1097,52 @@
  n="0154b23" ed="T"/>𤙖頗吒跛者跛者𤙖頗吒纈<lb
  n="0154b24" ed="T"/>哩𤙖𤙖𤙖頗吒娑嚩訶<lb
  n="0154b25" ed="T"/></ab>
-<ab type="prose">心密言曰。<lb
+<ab type='prose'>心密言曰。<lb
  n="0154b26" ed="T"/>歸命畢。<lb
  n="0154b27" ed="T"/></ab>
-<ab type="dharani">唵嚩日囉俱路馱摩訶麼攞訶<pb n="0154c" id="T21.1227.0154c" ed="T"/><lb
+<ab type='dharani'>唵嚩日囉俱路馱摩訶麼攞訶<pb n="0154c" id="T21.1227.0154c" ed="T"/><lb
  n="0154c01" ed="T"/>曩娜訶跛者尾馱望娑也烏樞瑟麼<lb
  n="0154c02" ed="T"/>俱路馱吽頗吒<lb
  n="0154c03" ed="T"/></ab>
-<ab type="prose">甲冑密言曰。<lb
+<ab type='prose'>甲冑密言曰。<lb
  n="0154c04" ed="T"/></ab>
-<ab type="dharani">唵薩望伽髯摩訶帝髯嚩日囉舍<lb
+<ab type='dharani'>唵薩望伽髯摩訶帝髯嚩日囉舍<lb
  n="0154c05" ed="T"/>寧嚩日囉播舍麼那鉢尾蛇薩嚩<lb
  n="0154c06" ed="T"/>弩瑟鹻娑擔娑擔婆也婆也𤙖<lb
  n="0154c07" ed="T"/>頗吒<lb
  n="0154c08" ed="T"/></ab>
-<ab type="prose">器仗密言曰。<lb
+<ab type='prose'>器仗密言曰。<lb
  n="0154c09" ed="T"/></ab>
-<ab type="dharani">唵蘇嚕蘇嚕烏樞瑟麼俱路<lb
+<ab type='dharani'>唵蘇嚕蘇嚕烏樞瑟麼俱路<lb
  n="0154c10" ed="T"/>馱訶曩訶曩吽頗吒<lb
  n="0154c11" ed="T"/></ab>
-<ab type="prose">頂髻密言曰。<lb
+<ab type='prose'>頂髻密言曰。<lb
  n="0154c12" ed="T"/></ab>
-<ab type="dharani">唵始哩始囉摩里寧始儞始儞始儞<lb
+<ab type='dharani'>唵始哩始囉摩里寧始儞始儞始儞<lb
  n="0154c13" ed="T"/>始儞𤙖頗吒<lb
  n="0154c14" ed="T"/></ab>
-<ab type="prose">頂密言曰。<lb
+<ab type='prose'>頂密言曰。<lb
  n="0154c15" ed="T"/></ab>
-<ab type="dharani">唵入嚩攞入嚩攞薩嚩努瑟鹻<lb
+<ab type='dharani'>唵入嚩攞入嚩攞薩嚩努瑟鹻<lb
  n="0154c16" ed="T"/>婆擔波也娑擔婆也努囉<lb
  n="0154c17" ed="T"/>柘羅努瑟鹻寧嚩囉也囉訖叉<lb
  n="0154c18" ed="T"/>囉訖叉滿馺嚩訶<lb
  n="0154c19" ed="T"/></ab>
-<ab type="prose">坐密言曰。<lb
+<ab type='prose'>坐密言曰。<lb
  n="0154c20" ed="T"/>歸命畢。<lb
  n="0154c21" ed="T"/></ab>
-<ab type="dharani">唵娜難多尾惹也摩訶戰拏𤙖頗<lb
+<ab type='dharani'>唵娜難多尾惹也摩訶戰拏𤙖頗<lb
  n="0154c22" ed="T"/>吒<lb
  n="0154c23" ed="T"/></ab>
-<ab type="prose">心中心根本明曰。<lb
+<ab type='prose'>心中心根本明曰。<lb
  n="0154c24" ed="T"/></ab>
-<ab type="dharani">唵嚩日囉俱𡀔馱摩訶摩攞訶<lb
+<ab type='dharani'>唵嚩日囉俱𡀔馱摩訶摩攞訶<lb
  n="0154c25" ed="T"/>曩娜訶跛者尾馱望娑也尾馱望<lb
  n="0154c26" ed="T"/>娑也惹智攞濫耄娜囉烏樞瑟麼<lb
  n="0154c27" ed="T"/>俱路馱𤙖頗吒唵地哩迦<lb
  n="0154c28" ed="T"/><lb
  n="0154c29" ed="T"/></ab>
-<ab type="prose">復次薄伽梵無量廣大力難踰越契相。薄伽<pb n="0155a" id="T21.1227.0155a" ed="T"/><lb
+<ab type='prose'>復次薄伽梵無量廣大力難踰越契相。薄伽<pb n="0155a" id="T21.1227.0155a" ed="T"/><lb
  n="0155a01" ed="T"/>梵根本印。先以手背相著乃交指。小指及大<lb
  n="0155a02" ed="T"/>指自相合如針。大開掌。根本印二大指雙招<lb
  n="0155a03" ed="T"/>之。奉送印改請印大指向外彈。剪刀印先並<lb
@@ -1213,14 +1213,14 @@
  n="0155c10" ed="T"/>日能召夜叉女。<lb
  n="0155c11" ed="T"/>復次素皤明王密言門及諸法要密言曰。<lb
  n="0155c12" ed="T"/></ab>
-<ab type="dharani">曩慕囉　怛曩怛囉夜也曩慕室<lb
+<ab type='dharani'>曩慕囉　怛曩怛囉夜也曩慕室<lb
  n="0155c13" ed="T"/>戰拏嚩日囉播拏曳摩訶藥乞叉細曩跛多曳唵素婆<lb
  n="0155c15" ed="T"/>儞素婆仡哩恨拏𤙖仡哩<lb
  n="0155c16" ed="T"/>恨拏播也𤙖阿曩也縠薄誐<lb
  n="0155c17" ed="T"/>鑁尾儞也邏惹𤙖頗吒娑<lb
  n="0155c18" ed="T"/>嚩訶<lb
  n="0155c19" ed="T"/></ab>
-<ab type="prose">若人於此密言求成驗者。依求大威力明悉<lb
+<ab type='prose'>若人於此密言求成驗者。依求大威力明悉<lb
  n="0155c20" ed="T"/>地法。用功當獲成驗。<lb
  n="0155c21" ed="T"/>若人為鬼神所忤。行者到彼當即自差。<lb
  n="0155c22" ed="T"/>若加持灰黃芥子或清水二十一遍可以護<lb
@@ -1378,12 +1378,12 @@
  n="0157b29" ed="T"/>若誦一萬遍彼如僮僕。欲令摩囉寧亦隨意。<pb n="0157c" id="T21.1227.0157c" ed="T"/><lb
  n="0157c01" ed="T"/>復次密言曰。<lb
  n="0157c02" ed="T"/></ab>
-<ab type="dharani">曩慕囉怛曩怛囉夜也唵嚩日囉<lb
+<ab type='dharani'>曩慕囉怛曩怛囉夜也唵嚩日囉<lb
  n="0157c03" ed="T"/>俱路馱摩訶麼攞訶曩娜訶跛者<lb
  n="0157c04" ed="T"/>尾馱望娑也烏芻瑟麼俱路<lb
  n="0157c05" ed="T"/>馱𤙖頗吒娑嚩訶<lb
  n="0157c06" ed="T"/></ab>
-<ab type="prose">復次畫像法。用應肘量緤。畫大威力明王。<lb
+<ab type='prose'>復次畫像法。用應肘量緤。畫大威力明王。<lb
  n="0157c07" ed="T"/>通身黑色露出狗牙。髮黃上衝。忿怒舉身焰<lb
  n="0157c08" ed="T"/>起。左持杵右擲拏。黑月八日或十四日布<lb
  n="0157c09" ed="T"/>像。以赤華赤食飲供養。加持雄黃新緤披<lb
@@ -1392,14 +1392,14 @@
  n="0157c12" ed="T"/>當善行。<lb
  n="0157c13" ed="T"/>復次大威力明王守護密言曰。<lb
  n="0157c14" ed="T"/></ab>
-<ab type="dharani">曩慕囉怛曩怛囉夜也曩慕室戰拏嚩日囉播拏裔摩訶藥乞叉細<lb
+<ab type='dharani'>曩慕囉怛曩怛囉夜也曩慕室戰拏嚩日囉播拏裔摩訶藥乞叉細<lb
  n="0157c16" ed="T"/>曩跛多裔怛儞也他唵嚩日囉<lb
  n="0157c17" ed="T"/>俱𡀔馱摩訶麼攞訶曩娜訶跛<lb
  n="0157c18" ed="T"/>者麼他尾吉羅拏尾馱望娑也烏芻<lb
  n="0157c19" ed="T"/>瑟麼俱路馱𤙖𤙖𤙖<lb
  n="0157c20" ed="T"/>頗吒頗吒頗吒馺嚩訶<lb
  n="0157c21" ed="T"/></ab>
-<ab type="prose">若以淨器盛牛乳。加持一華一擲於中滿二<lb
+<ab type='prose'>若以淨器盛牛乳。加持一華一擲於中滿二<lb
  n="0157c22" ed="T"/>十一遍成驗。<lb
  n="0157c23" ed="T"/>復次觀門法。以指拄額。想。<lb
  n="0157c24" ed="T"/>􈁴唵字在中作赤色。次拄心。<lb
@@ -1409,5 +1409,5 @@
  n="0157c28" ed="T"/>持魔眾不近。欲眠為之夢想清淨。此三字觀<lb
  n="0157c29" ed="T"/>門亦通諸金剛部念誦時用。<pb n="0158a" id="T21.1227.0158a" ed="T"/><lb
  n="0158a01" ed="T"/>
-</ab><ab type="juan" subtype="close">大威力烏樞瑟摩明王經卷下</ab></div>
+</ab><ab type='juan' subtype='close'>大威力烏樞瑟摩明王經卷下</ab></div>
 </body></text></TEI>

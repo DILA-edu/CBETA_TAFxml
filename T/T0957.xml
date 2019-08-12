@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n0957</idno>
                 </bibl>
@@ -39,19 +39,19 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0320b07" ed="T"/><lb
  n="0320b08" ed="T"/><lb
  n="0320b09" ed="T"/><lb
  n="0320b10" ed="T"/>
-<ab type="juan" subtype="open">金剛頂經一字頂輪王瑜伽一切<lb
+<ab type='juan' subtype='open'>金剛頂經一字頂輪王瑜伽一切<lb
  n="0320b11" ed="T"/>時處念誦成佛儀軌一卷</ab><lb
  n="0320b12" ed="T"/><lb
  n="0320b13" ed="T"/><byline>特進試鴻臚卿大興善寺<lb
  n="0320b14" ed="T"/>三藏沙門大廣智不空<lb
  n="0320b15" ed="T"/>奉　詔譯</byline><lb
- n="0320b16" ed="T"/><ab type="verse">
+ n="0320b16" ed="T"/><ab type='verse'>
 稽首禮普賢　　諸佛轉輪王　　<lb
  n="0320b17" ed="T"/>現證大菩提　　受名金剛界　　<lb
  n="0320b18" ed="T"/>為轉教勅輪　　從自頂流出　　<lb
@@ -164,10 +164,10 @@
  n="0321c09" ed="T"/>誦一切金剛　　不空三摩耶　　<lb
  n="0321c10" ed="T"/>諸佛事業心　　
 </ab><lb
- n="0321c11" ed="T"/><ab type="dharani">􇩂唵􄙺薩􅞣嚩亡可反􄙘勿微一反<lb
+ n="0321c11" ed="T"/><ab type='dharani'>􇩂唵􄙺薩􅞣嚩亡可反􄙘勿微一反<lb
  n="0321c12" ed="T"/><lb
  n="0321c13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 由此印密言　　等流自身遍　　<lb
  n="0321c14" ed="T"/>十方無邊界　　微塵剎土中　　<lb
  n="0321c15" ed="T"/>諸佛大海會　　咸皆有自身　　<lb
@@ -183,10 +183,10 @@
  n="0321c25" ed="T"/>菩提心密言　　隨意念誦之　　<lb
  n="0321c26" ed="T"/>發菩提勝心　　
 </ab><lb
- n="0321c27" ed="T"/><ab type="dharani">􆿅婀<lb
+ n="0321c27" ed="T"/><ab type='dharani'>􆿅婀<lb
  n="0321c28" ed="T"/><lb
  n="0321c29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 由適誦密言　　發菩提心故　　<pb n="0322a" id="T19.0957.0322a" ed="T"/><lb
  n="0322a01" ed="T"/>摧滅諸罪障　　獲諸悅意樂　　<lb
  n="0322a02" ed="T"/>等同一切佛　　超勝眾魔羅　　<lb
@@ -221,10 +221,10 @@
  n="0322b02" ed="T"/>一節面當心　　是名智拳印　　<lb
  n="0322b03" ed="T"/>當誦此密言　　
 </ab><lb
- n="0322b04" ed="T"/><ab type="dharani">􆾿勃嚕唵三合以此國無字同故以三字聲成一字急呼之<lb
+ n="0322b04" ed="T"/><ab type='dharani'>􆾿勃嚕唵三合以此國無字同故以三字聲成一字急呼之<lb
  n="0322b05" ed="T"/><lb
  n="0322b06" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 三密纔相應　　自身同本尊　　<lb
  n="0322b07" ed="T"/>能遍入佛智　　成佛猶不難　　<lb
  n="0322b08" ed="T"/>獲智壽力年　　得一切遍行　　<lb
@@ -250,10 +250,10 @@
  n="0322b28" ed="T"/>是故名如來　　勝身三摩耶　　<lb
  n="0322b29" ed="T"/>當誦此密語　　
 </ab><pb n="0322c" id="T19.0957.0322c" ed="T"/><lb
- n="0322c01" ed="T"/><ab type="dharani">􇩂唵􈆥僕􄑖欠<lb
+ n="0322c01" ed="T"/><ab type='dharani'>􇩂唵􈆥僕􄑖欠<lb
  n="0322c02" ed="T"/><lb
  n="0322c03" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 此毘盧遮那　　佛三字密言　　<lb
  n="0322c04" ed="T"/>共一字無異　　適以印密言　　<lb
  n="0322c05" ed="T"/>印心成鏡智　　速獲菩提心　　<lb
@@ -272,20 +272,20 @@
  n="0322c18" ed="T"/>如垂下天衣　　誦一切灌頂　　<lb
  n="0322c19" ed="T"/>三麼耶寶心　　
 </ab><lb
- n="0322c20" ed="T"/><ab type="dharani">􈇅怛囕二合引<lb
+ n="0322c20" ed="T"/><ab type='dharani'>􈇅怛囕二合引<lb
  n="0322c21" ed="T"/><lb
  n="0322c22" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 由此印密言　　即蒙虛空界　　<lb
  n="0322c23" ed="T"/>一切佛世界　　以金剛寶冠　　<lb
  n="0322c24" ed="T"/>輪鬘繒綵等　　與具足灌頂　　<lb
  n="0322c25" ed="T"/>為悅聖眾故　　二手當心前　　<lb
  n="0322c26" ed="T"/>平掌三相拍　　應誦此密言　　
 </ab><lb
- n="0322c27" ed="T"/><ab type="dharani">􈁟穀<lb
+ n="0322c27" ed="T"/><ab type='dharani'>􈁟穀<lb
  n="0322c28" ed="T"/><lb
  n="0322c29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 由此拍掌儀　　輪王及眷屬　　<pb n="0323a" id="T19.0957.0323a" ed="T"/><lb
  n="0323a01" ed="T"/>適悅而愛順　　速滿瑜伽者　　<lb
  n="0323a02" ed="T"/>意願悉地果　　當獲堅固體　　<lb
@@ -379,10 +379,10 @@
  n="0324a03" ed="T"/>種種供養藏　　廣大儀如來　　<lb
  n="0324a04" ed="T"/>一切供養心　　
 </ab><lb
- n="0324a05" ed="T"/><ab type="dharani">􇩂唵<lb
+ n="0324a05" ed="T"/><ab type='dharani'>􇩂唵<lb
  n="0324a06" ed="T"/><lb
  n="0324a07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 由此密語印　　加持威力故　　<lb
  n="0324a08" ed="T"/>縱觀想不成　　於諸佛海會　　<lb
  n="0324a09" ed="T"/>皆有如上等　　諸供養雲海　　<lb
@@ -393,32 +393,32 @@
  n="0324a14" ed="T"/>應以美韻調　　唱此金剛歌　　<lb
  n="0324a15" ed="T"/>次誦嬉戲密　　言印用前印　　
 </ab><lb
- n="0324a16" ed="T"/><ab type="dharani">􇩂唵􄙖嚩􄦽日羅二合薩埵􄚦僧上􄥟蘖囉二合􇩀賀<lb
+ n="0324a16" ed="T"/><ab type='dharani'>􇩂唵􄙖嚩􄦽日羅二合薩埵􄚦僧上􄥟蘖囉二合􇩀賀<lb
  n="0324a17" ed="T"/><lb
  n="0324a18" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 不改金剛掌　　合臂舒安額　　<lb
  n="0324a19" ed="T"/>即是獻花鬘　　清雅調稱此　　
 </ab><lb
- n="0324a20" ed="T"/><ab type="dharani">􄙖嚩􄦽日羅二合􄗽囉􅑈怛曩二合􄗥麼􄖭弩跢上􄩨囕<lb
+ n="0324a20" ed="T"/><ab type='dharani'>􄙖嚩􄦽日羅二合􄗽囉􅑈怛曩二合􄗥麼􄖭弩跢上􄩨囕<lb
  n="0324a21" ed="T"/><lb
  n="0324a22" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 前印從於臍　　漸上至口寫　　<lb
  n="0324a23" ed="T"/>是奏歌即誦　　
 </ab><lb
- n="0324a24" ed="T"/><ab type="dharani">􄙖嚩􄦽日羅二合􄕻達􈆺磨􄑙誐去􄗱也􄕯奈<lb
+ n="0324a24" ed="T"/><ab type='dharani'>􄙖嚩􄦽日羅二合􄕻達􈆺磨􄑙誐去􄗱也􄕯奈<lb
  n="0324a25" ed="T"/><lb
  n="0324a26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 當心右旋轉　　金剛合掌已　　<lb
  n="0324a27" ed="T"/>復安於頂上　　名進金剛舞　　<lb
  n="0324a28" ed="T"/>如前誦復唱　　
 </ab><pb n="0324b" id="T19.0957.0324b" ed="T"/><lb
- n="0324b01" ed="T"/><ab type="dharani">􄙖嚩􄦽日羅二合􄑀羯􈆺磨迦􄙂路􄗙婆􄙖嚩<lb
+ n="0324b01" ed="T"/><ab type='dharani'>􄙖嚩􄦽日羅二合􄑀羯􈆺磨迦􄙂路􄗙婆􄙖嚩<lb
  n="0324b02" ed="T"/><lb
  n="0324b03" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 由陳是祕密　　瑜伽歌詠讚　　<lb
  n="0324b04" ed="T"/>歎揚如來故　　成佛尚不難　　<lb
  n="0324b05" ed="T"/>況求諸成就　　應知何以故　　<lb
@@ -432,12 +432,12 @@
  n="0324b13" ed="T"/>並屈二頭指　　甲合並竪大　　<lb
  n="0324b14" ed="T"/>各押頭指側　　謂佛眼密言　　
 </ab><lb
- n="0324b15" ed="T"/><ab type="dharani">􄖩曩􄗰莫􄙺三􄗥滿􆩖跢􈎭沒􇧺馱引􈁀南􈁴唵􈎭沒􇧺馱引<lb
+ n="0324b15" ed="T"/><ab type='dharani'>􄖩曩􄗰莫􄙺三􄗥滿􆩖跢􈎭沒􇧺馱引􈁀南􈁴唵􈎭沒􇧺馱引<lb
  n="0324b16" ed="T"/><lb
  n="0324b17" ed="T"/>􄙂路􄑼者􄖫儞􅁥娑嚩二合􄚩訶<lb
  n="0324b18" ed="T"/><lb
  n="0324b19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 由部母加持　　本尊并眷屬　　<lb
  n="0324b20" ed="T"/>皆共喜愛念　　瑜伽者縱有　　<lb
  n="0324b21" ed="T"/>違犯闕法等　　矜愍不見過　　<lb
@@ -497,10 +497,10 @@
  n="0325a17" ed="T"/>菩提心密語　　三遍或七遍　　<lb
  n="0325a18" ed="T"/>捧珠安頂上　　誦金剛語心　　
 </ab><lb
- n="0325a19" ed="T"/><ab type="dharani">􄙈囕<lb
+ n="0325a19" ed="T"/><ab type='dharani'>􄙈囕<lb
  n="0325a20" ed="T"/><lb
  n="0325a21" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 由以此密語　　加持念珠故　　<lb
  n="0325a22" ed="T"/>所誦尊密語　　掐一珠過已　　<lb
  n="0325a23" ed="T"/>一成一千遍　　二手當心前　　<lb
@@ -541,10 +541,10 @@
  n="0325b29" ed="T"/>又結勝身印　　於心額喉頂　　<pb n="0325c" id="T19.0957.0325c" ed="T"/><lb
  n="0325c01" ed="T"/>各一掣印開　　誦此解脫心　　
 </ab><lb
- n="0325c02" ed="T"/><ab type="dharani">􈃯勃嚕唵二合目<lb
+ n="0325c02" ed="T"/><ab type='dharani'>􈃯勃嚕唵二合目<lb
  n="0325c03" ed="T"/><lb
  n="0325c04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 由此印密言　　聖眾得離縛　　<lb
  n="0325c05" ed="T"/>各歸於本宮　　修習瑜伽者　　<lb
  n="0325c06" ed="T"/>至於解脫地　　復結佛眼印　　<lb
@@ -555,10 +555,10 @@
  n="0325c11" ed="T"/>大指開微屈　　少離頭指側　　<lb
  n="0325c12" ed="T"/>誦此心密言　　
 </ab><lb
- n="0325c13" ed="T"/><ab type="dharani">􈁠吽短呼<lb
+ n="0325c13" ed="T"/><ab type='dharani'>􈁠吽短呼<lb
  n="0325c14" ed="T"/><lb
  n="0325c15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 由作此加持　　於一切時處　　<lb
  n="0325c16" ed="T"/>魔冤不能侵　　虎狼諸毒虫　　<lb
  n="0325c17" ed="T"/>惡心人非人　　盡無能陵屈　　<lb
@@ -569,10 +569,10 @@
  n="0325c22" ed="T"/>翹大指加持　　五處如先說　　<lb
  n="0325c23" ed="T"/>誦此心密言　　
 </ab><lb
- n="0325c24" ed="T"/><ab type="dharani">􇩂唵􄧥特嘞二合􄑀迦<lb
+ n="0325c24" ed="T"/><ab type='dharani'>􇩂唵􄧥特嘞二合􄑀迦<lb
  n="0325c25" ed="T"/><lb
  n="0325c26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 由作此加持　　入一切穢處　　<lb
  n="0325c27" ed="T"/>魔障不得便　　次明念誦時　　<lb
  n="0325c28" ed="T"/>瑜伽教王中　　如來所稱讚　　<lb
@@ -630,10 +630,10 @@
  n="0326b22" ed="T"/>並竪二大指　　著右頭指側　　<lb
  n="0326b23" ed="T"/>誦一切佛心　　
 </ab><lb
- n="0326b24" ed="T"/><ab type="dharani">􇩂唵􄒹爾􄖩曩􄒸仍入聲而孕反<lb
+ n="0326b24" ed="T"/><ab type='dharani'>􇩂唵􄒹爾􄖩曩􄒸仍入聲而孕反<lb
  n="0326b25" ed="T"/><lb
  n="0326b26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 適以印此明　　加持自身時　　<lb
  n="0326b27" ed="T"/>便同諸佛身　　即部母加持　　<lb
  n="0326b28" ed="T"/>作智拳念誦　　坐如前全跏　　<lb
@@ -677,8 +677,8 @@
  n="0327a08" ed="T"/>速成佛理趣　　瑜伽儀軌竟　　
 </ab><lb
  n="0327a09" ed="T"/>
-<ab type="juan" subtype="close">一字頂輪王瑜伽念誦儀軌一卷</ab><lb
- n="0327a10" ed="T"/><div type="w" level="2"><ab type="prose">　　長寬三秊五月十三日<lb
+<ab type='juan' subtype='close'>一字頂輪王瑜伽念誦儀軌一卷</ab><lb
+ n="0327a10" ed="T"/><div type='w' level='2'><ab type='prose'>　　長寬三秊五月十三日<lb
  n="0327a11" ed="T"/>　　於勸修寺西明院書了　　範乘<lb
  n="0327a12" ed="T"/>　　　　　　　　一交了</ab></div></div>
 </body></text></TEI>

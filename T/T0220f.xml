@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T07</biblScope>
                     <idno type="Taisho">T07n0220f</idno>
                 </bibl>
@@ -39,14 +39,15 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><lb
+        <body><div level='1'>
+<lb
  n="0963c21" ed="T"/><lb
  n="0963c22" ed="T"/><lb
- n="0963c23" ed="T"/><div type="hui" level="1"><head>大般若波羅蜜多經第七會曼殊<lb
- n="0963c24" ed="T"/>室利分</head><div type="xu" level="2"><head>序</head><lb
+ n="0963c23" ed="T"/><div type='hui' level='2'><head>大般若波羅蜜多經第七會曼殊<lb
+ n="0963c24" ed="T"/>室利分</head><div type='xu' level='3'><head>序</head><lb
  n="0963c25" ed="T"/><lb
  n="0963c26" ed="T"/><byline>西明寺沙門玄則撰</byline><lb
- n="0963c27" ed="T"/><ab type="prose">聞夫即相無覩，挺真如之壯觀；即慮無知，成<lb
+ n="0963c27" ed="T"/><ab type='prose'>聞夫即相無覩，挺真如之壯觀；即慮無知，成<lb
  n="0963c28" ed="T"/>種智之默識。但二塵且落，時逐見以輕濃；五<lb
  n="0963c29" ed="T"/>翳將披，復因疑而聚散。是以驟明空道，給孤<pb n="0964a" ed="T" id="T07.0220f.0964a"/><lb
  n="0964a01" ed="T"/>總旋憩之場；歷選時徒，妙吉昇對揚之重。忽<lb
@@ -67,15 +68,15 @@
  n="0964a16" ed="T"/>也，苞密語之殊轍。詞宛而旨密，即舊《文<lb
  n="0964a17" ed="T"/>殊般若》矣。雖雙軸成部，而警策備彰，庶七眾<lb
  n="0964a18" ed="T"/>所歸，較然無遠。</ab></div><lb
- n="0964a19" ed="T"/><div type="fen" level="2"><lb
+ n="0964a19" ed="T"/><div type='fen' level='3'><lb
  n="0964a20" ed="T"/><lb
  n="0964a21" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百七<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百七<lb
  n="0964a22" ed="T"/>十四</ab><lb
  n="0964a23" ed="T"/><lb
  n="0964a24" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
  n="0964a25" ed="T"/><head>第七曼殊室利分之一</head><lb
- n="0964a26" ed="T"/><ab type="prose">如是我聞：一時，薄伽梵在室羅筏住誓多林<lb
+ n="0964a26" ed="T"/><ab type='prose'>如是我聞：一時，薄伽梵在室羅筏住誓多林<lb
  n="0964a27" ed="T"/>給孤獨園，與大苾芻眾百千人俱，皆阿羅漢，<lb
  n="0964a28" ed="T"/>唯阿難陀猶居學地，舍利子等而為上首。復<lb
  n="0964a29" ed="T"/>與菩薩摩訶薩眾十千人俱，皆不退轉功德<pb n="0964b" ed="T" id="T07.0220f.0964b"/><lb
@@ -508,15 +509,15 @@
  n="0969a21" ed="T"/>許故現斯瑞。過去諸佛亦於此處說福田相<lb
  n="0969a22" ed="T"/>令大地動，故於今時現如是事。」<lb
  n="0969a23" ed="T"/>
-</ab><ab type="juan" subtype="close">大般若波羅蜜多經卷第五百七十四</ab><pb n="0969b" ed="T" id="T07.0220f.0969b"/><lb
+</ab><ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百七十四</ab><pb n="0969b" ed="T" id="T07.0220f.0969b"/><lb
  n="0969b01" ed="T"/><lb
  n="0969b02" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百七<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百七<lb
  n="0969b03" ed="T"/>十五</ab><lb
  n="0969b04" ed="T"/><lb
  n="0969b05" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
  n="0969b06" ed="T"/><head>第七曼殊室利分之二</head><lb
- n="0969b07" ed="T"/><ab type="prose">爾時，舍利子白佛言：「世尊！曼殊室利不可思<lb
+ n="0969b07" ed="T"/><ab type='prose'>爾時，舍利子白佛言：「世尊！曼殊室利不可思<lb
  n="0969b08" ed="T"/>議。所以者何？曼殊室利所說法相不可思議。」<lb
  n="0969b09" ed="T"/>佛告曼殊室利童子：「汝之所說實難思議，誠<lb
  n="0969b10" ed="T"/>如具壽舍利子說。」曼殊室利即白佛言：「我所<lb
@@ -947,5 +948,5 @@
  n="0974a29" ed="T"/>部大眾，天、龍、藥叉、阿素洛等一切眾會，聞佛<pb n="0974b" ed="T" id="T07.0220f.0974b"/><lb
  n="0974b01" ed="T"/>所說皆大歡喜、信受奉行。<lb
  n="0974b02" ed="T"/>
-</ab><ab type="juan" subtype="close">大般若波羅蜜多經卷第五百七十五</ab></div></div>
+</ab><ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百七十五</ab></div></div></div>
 </body></text></TEI>

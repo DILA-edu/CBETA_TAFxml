@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T02</biblScope>
                     <idno type="Taisho">T02n0142b</idno>
                 </bibl>
@@ -43,10 +43,10 @@
  n="0864c05" ed="T"/><lb
  n="0864c06" ed="T"/><lb
  n="0864c07" ed="T"/>
-<ab type="juan" subtype="open">玉耶女經</ab><lb
+<ab type='juan' subtype='open'>玉耶女經</ab><lb
  n="0864c08" ed="T"/><lb
  n="0864c09" ed="T"/><byline>失譯人名今附西晉錄</byline><lb
- n="0864c10" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時，佛在舍衛國祇樹給孤獨園，<lb
+ n="0864c10" ed="T"/><div type='jing' level='1'><ab type='prose'>聞如是：一時，佛在舍衛國祇樹給孤獨園，<lb
  n="0864c11" ed="T"/>為諸四輩弟子說經。是時，國中給孤獨家<lb
  n="0864c12" ed="T"/>為子娶婦，得長者女名曰玉耶，端正殊特，<lb
  n="0864c13" ed="T"/>不以婦禮，輕慢公姑及以夫婿。給孤獨長<lb
@@ -139,5 +139,5 @@
  n="0865c13" ed="T"/>言：「諾！受佛言教不敢有違。」稽首禮足受退<lb
  n="0865c14" ed="T"/>還歸。<lb
  n="0865c15" ed="T"/>
-</ab><ab type="juan" subtype="close">玉女耶經</ab></div>
+</ab><ab type='juan' subtype='close'>玉女耶經</ab></div>
 </body></text></TEI>

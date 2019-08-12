@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T03</biblScope>
                     <idno type="Taisho">T03n0181b</idno>
                 </bibl>
@@ -42,10 +42,10 @@
         <body><pb n="0453b" ed="T" id="T03.0181b.0453b"/><lb
  n="0453b01" ed="T"/><lb
  n="0453b02" ed="T"/>
-<ab type="juan" subtype="open">佛說九色鹿經</ab><lb
+<ab type='juan' subtype='open'>佛說九色鹿經</ab><lb
  n="0453b03" ed="T"/><lb
  n="0453b04" ed="T"/><byline>吳月氏優婆塞支謙譯</byline><lb
- n="0453b05" ed="T"/><div type="jing" level="1"><ab type="prose">佛言：「昔者，菩薩身為九色鹿；其毛九種色，<lb
+ n="0453b05" ed="T"/><div type='jing' level='1'><ab type='prose'>佛言：「昔者，菩薩身為九色鹿；其毛九種色，<lb
  n="0453b06" ed="T"/>其角白如雪，常在恒水邊飲食水草，常與<lb
  n="0453b07" ed="T"/>一烏為知識。「時，水中有溺人隨流來下，或<lb
  n="0453b08" ed="T"/>出或沒，得著樹木，仰頭呼天：『山神、樹神、諸<lb
@@ -101,5 +101,5 @@
  n="0453c29" ed="T"/>世有怨；阿難有至意得道。」菩薩更勤苦行<pb n="0454a" ed="T" id="T03.0181b.0454a"/><lb
  n="0454a01" ed="T"/>波羅蜜，忍辱如是。<lb
  n="0454a02" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說九色鹿經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說九色鹿經</ab></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T12</biblScope>
                     <idno type="Taisho">T12n0349</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0186c04" ed="T"/><lb
  n="0186c05" ed="T"/><lb
  n="0186c06" ed="T"/>
-<ab type="juan" subtype="open">彌勒菩薩所問本願經</ab><lb
+<ab type='juan' subtype='open'>彌勒菩薩所問本願經</ab><lb
  n="0186c07" ed="T"/><lb
  n="0186c08" ed="T"/><byline>西晉月氏國三藏竺法護譯</byline><lb
- n="0186c09" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時佛遊於披祇國，妙華山中恐懼<lb
+ n="0186c09" ed="T"/><div type='jing' level='1'><ab type='prose'>聞如是：一時佛遊於披祇國，妙華山中恐懼<lb
  n="0186c10" ed="T"/>樹間鹿所聚處，與大比丘眾俱，比丘五百人，<lb
  n="0186c11" ed="T"/>一切賢聖神通已達，悉尊比丘，其名曰：賢者<lb
  n="0186c12" ed="T"/>了本際、賢者馬師、賢者惒波、賢者大稱、賢者<lb
@@ -127,7 +127,7 @@
  n="0187b28" ed="T"/>是為菩薩十法行，棄諸惡道不墮惡知識中。」<lb
  n="0187b29" ed="T"/>於是彌勒菩薩以偈讚佛言：<pb n="0187c" id="T12.0349.0187c" ed="T"/><lb
  n="0187c01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「世尊本布施，　　妻子及飲食，　　<lb
  n="0187c02" ed="T"/>頭目無所惜，　　佛德度無極。　　<lb
  n="0187c03" ed="T"/>護禁無所犯，　　如鶡愛其毛，　　<lb
@@ -149,7 +149,7 @@
  n="0187c19" ed="T"/>難譬不可喻，　　無上大智慧，　　<lb
  n="0187c20" ed="T"/>常講諸法寶，　　光明導御眾。」　　
 </ab><lb
- n="0187c21" ed="T"/><ab type="prose">爾時賢者阿難白佛言：「未曾有世尊！是彌勒<lb
+ n="0187c21" ed="T"/><ab type='prose'>爾時賢者阿難白佛言：「未曾有世尊！是彌勒<lb
  n="0187c22" ed="T"/>菩薩所願具足，說法無缺減，講法字句平等，<lb
  n="0187c23" ed="T"/>所說法句無所縛著，講經竟無亂。」佛言：「如是，<lb
  n="0187c24" ed="T"/>如是！阿難！如其所云，彌勒菩薩辯才具足，所<lb
@@ -174,7 +174,7 @@
  n="0188a14" ed="T"/>具足。』佛適過梵志賢行身上，便達眾智五通<lb
  n="0188a15" ed="T"/>具足無所亡失，即以偈讚佛言：<lb
  n="0188a16" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『往來世到十方，　　人中尊無與等，　　<lb
  n="0188a17" ed="T"/>唯志道過諸行，　　願稽首覺導師。　　<lb
  n="0188a18" ed="T"/>以過諸世間明，　　及摩尼火炎光，　　<lb
@@ -186,7 +186,7 @@
  n="0188a24" ed="T"/>聖足下生相輪，　　其輪妙有千輻，　　<lb
  n="0188a25" ed="T"/>此土地及山陵，　　不能動無上尊。』」　　
 </ab><lb
- n="0188a26" ed="T"/><ab type="prose">是時佛告賢者阿難：「欲知爾時長者子梵志<lb
+ n="0188a26" ed="T"/><ab type='prose'>是時佛告賢者阿難：「欲知爾時長者子梵志<lb
  n="0188a27" ed="T"/>賢行者，今彌勒菩薩是。」賢者阿難即白佛言：<lb
  n="0188a28" ed="T"/>「彌勒菩薩得不起忍，久遠乃爾，何以不速逮無<lb
  n="0188a29" ed="T"/>上正真道最正覺耶？」佛語阿難：「菩薩以四事<pb n="0188b" id="T12.0349.0188b" ed="T"/><lb
@@ -245,11 +245,11 @@
  n="0188c24" ed="T"/>各三正衣束體，叉手下膝著地，向於十方說<lb
  n="0188c25" ed="T"/>此偈言：<lb
  n="0188c26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『我悔一切過，　　勸助眾道德，　　<lb
  n="0188c27" ed="T"/>歸命禮諸佛，　　令得無上慧。』」　　
 </ab><lb
- n="0188c28" ed="T"/><ab type="prose">佛語賢者阿難：「彌勒菩薩以是善權，得無上<lb
+ n="0188c28" ed="T"/><ab type='prose'>佛語賢者阿難：「彌勒菩薩以是善權，得無上<lb
  n="0188c29" ed="T"/>正真之道最正覺。阿難！彌勒菩薩求道本願：<pb n="0189a" id="T12.0349.0189a" ed="T"/><lb
  n="0189a01" ed="T"/>『使其作佛時，令我國中人民，無有諸垢瑕<lb
  n="0189a02" ed="T"/>穢，於婬怒癡不大，慇懃奉行十善，我爾乃<lb
@@ -279,7 +279,7 @@
  n="0189a26" ed="T"/>為『本願』，當持；『慈氏本行彌勒所問』，當善持之。」<lb
  n="0189a27" ed="T"/>佛說經已，彌勒菩薩、賢者阿難、賢者大迦葉<lb
  n="0189a28" ed="T"/>諸大弟子，及眾菩薩，一切會者，諸天、龍神、乾<lb
- n="0189a29" ed="T"/>沓惒、世間人，聞經歡喜，前為佛作禮。<pb n="0189b" id="T12.0349.0189b" ed="T"/></ab></div><lb
+ n="0189a29" ed="T"/>沓惒、世間人，聞經歡喜，前為佛作禮。</ab></div><pb n="0189b" id="T12.0349.0189b" ed="T"/><lb
  n="0189b01" ed="T"/>
-<ab type="juan" subtype="close">彌勒菩薩所問本願經</ab>
+<ab type='juan' subtype='close'>彌勒菩薩所問本願經</ab>
 </body></text></TEI>

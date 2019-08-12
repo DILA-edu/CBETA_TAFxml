@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T02</biblScope>
                     <idno type="Taisho">T02n0130</idno>
                 </bibl>
@@ -45,14 +45,14 @@
  n="0845c04" ed="T"/><lb
  n="0845c05" ed="T"/><lb
  n="0845c06" ed="T"/><lb
- n="0845c07" ed="T"/><div type="jing" level="1"><lb
+ n="0845c07" ed="T"/><div type='jing' level='1'><lb
  n="0845c08" ed="T"/>
-<ab type="juan" subtype="open">佛說給孤長者女得度因緣經<lb
+<ab type='juan' subtype='open'>佛說給孤長者女得度因緣經<lb
  n="0845c09" ed="T"/>卷上</ab><lb
  n="0845c10" ed="T"/><lb
  n="0845c11" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿<lb
  n="0845c12" ed="T"/>卿傳法大師賜紫臣施護奉　詔譯</byline><lb
- n="0845c13" ed="T"/><ab type="prose">如是我聞：一時，佛在舍衛國祇樹給孤獨園，<lb
+ n="0845c13" ed="T"/><ab type='prose'>如是我聞：一時，佛在舍衛國祇樹給孤獨園，<lb
  n="0845c14" ed="T"/>與大聲聞眾俱。而彼給孤獨長者具大福德，<lb
  n="0845c15" ed="T"/>妻子奴婢眷屬熾盛，富饒自在廣積財寶其<lb
  n="0845c16" ed="T"/>數無量，與毘沙門天王等無有異。而彼長者<lb
@@ -186,11 +186,11 @@
  n="0847a28" ed="T"/>果，還執其籌起六神通，譬如力士屈伸臂頃<lb
  n="0847a29" ed="T"/>踊身空中，說伽陀曰：<pb n="0847b" ed="T" id="T02.0130.0847b"/><lb
  n="0847b01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「不以色相為最上，　　不以有力為所重，　　<lb
  n="0847b02" ed="T"/>離塵清淨乃莊嚴，　　獲得六通皆具足。」　　
 </ab><lb
- n="0847b03" ed="T"/><ab type="prose">爾時，諸阿羅漢過是日已至明旦時，各各隨<lb
+ n="0847b03" ed="T"/><ab type='prose'>爾時，諸阿羅漢過是日已至明旦時，各各隨<lb
  n="0847b04" ed="T"/>應現諸神變，次第而往福增城中謨尸羅長<lb
  n="0847b05" ed="T"/>者舍。<lb
  n="0847b06" ed="T"/>爾時，謨尸羅長者及妻眷屬，即以香水散灑<lb
@@ -238,16 +238,16 @@
  n="0847c19" ed="T"/>不及一。』是故佛說此人於聲聞中智慧第一。<lb
  n="0847c20" ed="T"/>是此尊者次第而來。」<lb
  n="0847c21" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說給孤長者女得度因緣經卷上</ab><lb
+</ab><ab type='juan' subtype='close'>佛說給孤長者女得度因緣經卷上</ab><lb
  n="0847c22" ed="T"/><lb
  n="0847c23" ed="T"/><lb
  n="0847c24" ed="T"/>
-<ab type="juan" subtype="open">佛說給孤長者女得度因緣經<lb
+<ab type='juan' subtype='open'>佛說給孤長者女得度因緣經<lb
  n="0847c25" ed="T"/>卷中</ab><lb
  n="0847c26" ed="T"/><lb
  n="0847c27" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0847c28" ed="T"/>傳法大師賜紫臣施護奉　詔譯</byline><lb
- n="0847c29" ed="T"/><ab type="prose">復次，尊者大迦葉化大金山其色晃耀，復有<pb n="0848a" ed="T" id="T02.0130.0848a"/><lb
+ n="0847c29" ed="T"/><ab type='prose'>復次，尊者大迦葉化大金山其色晃耀，復有<pb n="0848a" ed="T" id="T02.0130.0848a"/><lb
  n="0848a01" ed="T"/>種種樹林飛鳥周匝圍繞，而此尊者處于山<lb
  n="0848a02" ed="T"/>頂現是神通，從空而來三繞彼城，次從空下<lb
  n="0848a03" ed="T"/>入長者舍。爾時，長者見是相已，問善無毒女<lb
@@ -330,7 +330,7 @@
  n="0848c22" ed="T"/>諸相寂靜，能降醉象而獲果證。此人一時為<lb
  n="0848c23" ed="T"/>舍利子，說伽陀曰：<lb
  n="0848c24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『由彼煩惱業，　　為因而起作，　　<lb
  n="0848c25" ed="T"/>是故於世間，　　隨轉無窮盡。　　<lb
  n="0848c26" ed="T"/>若煩惱業因，　　是二不轉者，　　<lb
@@ -340,7 +340,7 @@
  n="0849a01" ed="T"/>彼當得解脫，　　此最上正語，　　<lb
  n="0849a02" ed="T"/>大沙門牛王，　　了已故宣說。』　　
 </ab><lb
- n="0849a03" ed="T"/><ab type="prose">「時，舍利子暫得聞說是伽陀已，即解其義，乃<lb
+ n="0849a03" ed="T"/><ab type='prose'>「時，舍利子暫得聞說是伽陀已，即解其義，乃<lb
  n="0849a04" ed="T"/>於言下證須陀洹果。佛說此尊者馬勝威儀<lb
  n="0849a05" ed="T"/>第一。是此尊者次第而來。」<lb
  n="0849a06" ed="T"/>復次，尊者滿慈子化金蓮華，其華千葉，葉如<lb
@@ -471,16 +471,16 @@
  n="0850b15" ed="T"/>佛說此人受天勝福而為第一。是此尊者次<lb
  n="0850b16" ed="T"/>第而來。」<lb
  n="0850b17" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說給孤長者女得度因緣經卷中</ab><lb
+</ab><ab type='juan' subtype='close'>佛說給孤長者女得度因緣經卷中</ab><lb
  n="0850b18" ed="T"/><lb
  n="0850b19" ed="T"/><lb
  n="0850b20" ed="T"/>
-<ab type="juan" subtype="open">佛說給孤長者女得度因緣經<lb
+<ab type='juan' subtype='open'>佛說給孤長者女得度因緣經<lb
  n="0850b21" ed="T"/>卷下</ab><lb
  n="0850b22" ed="T"/><lb
  n="0850b23" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0850b24" ed="T"/>傳法大師賜紫臣施護奉　詔譯</byline><lb
- n="0850b25" ed="T"/><ab type="prose">復次，尊者聞二百億化種種色華果樹林細密<lb
+ n="0850b25" ed="T"/><ab type='prose'>復次，尊者聞二百億化種種色華果樹林細密<lb
  n="0850b26" ed="T"/>滿空，而此尊者林中現身，起是神通從空而<lb
  n="0850b27" ed="T"/>來三繞彼城，次從空下入長者舍。爾時，長者<lb
  n="0850b28" ed="T"/>見是相已，問善無毒女言：「今此所來有種種<lb
@@ -552,7 +552,7 @@
  n="0851b07" ed="T"/>爾時，羅睺羅即以所現轉輪王身住彼空中，<lb
  n="0851b08" ed="T"/>說伽陀曰：<lb
  n="0851b09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「今我所現輪王身，　　以神通力故如是，　　<lb
  n="0851b10" ed="T"/>如龍有力我亦然，　　七寶四兵皆具足。　　<lb
  n="0851b11" ed="T"/>此所現身而非實，　　神通方便故隨宜，　　<lb
@@ -560,7 +560,7 @@
  n="0851b13" ed="T"/>已獲果證神通具，　　人天供養悉歸依，　　<lb
  n="0851b14" ed="T"/>我依佛勅故今來，　　牟尼大師後當至。」　　
 </ab><lb
- n="0851b15" ed="T"/><ab type="prose">說是伽陀已即從空下入長者舍。如是等諸<lb
+ n="0851b15" ed="T"/><ab type='prose'>說是伽陀已即從空下入長者舍。如是等諸<lb
  n="0851b16" ed="T"/>有神通大苾芻眾，咸依佛勅各現神通，次第<lb
  n="0851b17" ed="T"/>來入長者舍中，俟佛當至。<lb
  n="0851b18" ed="T"/>爾時，世尊知時已至，即入三摩地普遍觀察，<lb
@@ -622,13 +622,13 @@
  n="0852a16" ed="T"/>足。時善無毒女見佛世尊，踊躍歡喜頭面禮<lb
  n="0852a17" ed="T"/>足合掌向佛說伽陀曰：<lb
  n="0852a18" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「我佛常說最上語，　　而能調伏他語言，　　<lb
  n="0852a19" ed="T"/>聞者能生清淨心，　　我不見佛深苦惱。　　<lb
  n="0852a20" ed="T"/>佛悲愍故來此中，　　我等今日得大利，　　<lb
  n="0852a21" ed="T"/>我以清淨至誠心，　　頂禮如來吉祥足。」　　
 </ab><lb
- n="0852a22" ed="T"/><ab type="prose">時，善無毒女說伽陀已，即取牛頭栴檀香水<lb
+ n="0852a22" ed="T"/><ab type='prose'>時，善無毒女說伽陀已，即取牛頭栴檀香水<lb
  n="0852a23" ed="T"/>奉佛洗足，佛洗足已處于最上莊嚴寶座，諸<lb
  n="0852a24" ed="T"/>苾芻眾亦各洗足次第而坐。爾時，善無毒女<lb
  n="0852a25" ed="T"/>即持清淨上味飲食，自手奉上供佛世尊及<lb
@@ -643,7 +643,7 @@
  n="0852b05" ed="T"/>所妨礙。是諸人眾各見佛已，心大歡喜異口<lb
  n="0852b06" ed="T"/>同音，說伽陀曰：<lb
  n="0852b07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「今此長者舍，　　而水精所成，　　<lb
  n="0852b08" ed="T"/>摩尼及真金，　　諸寶皆映現。　　<lb
  n="0852b09" ed="T"/>清淨復廣博，　　如天帝釋宮，　　<lb
@@ -653,7 +653,7 @@
  n="0852b13" ed="T"/>牟尼處眾會，　　如星中現月，　　<lb
  n="0852b14" ed="T"/>功德所莊嚴，　　是故我歸命。」　　
 </ab><lb
- n="0852b15" ed="T"/><ab type="prose">爾時，世尊飯食已訖，諸苾芻眾亦各食訖，於<lb
+ n="0852b15" ed="T"/><ab type='prose'>爾時，世尊飯食已訖，諸苾芻眾亦各食訖，於<lb
  n="0852b16" ed="T"/>是世尊不起于座，與無數百千天、龍、夜叉、乾<lb
  n="0852b17" ed="T"/>闥婆、阿修羅、迦樓羅、緊那羅、摩睺羅伽、人非人<lb
  n="0852b18" ed="T"/>等，并餘婆羅門、長者、居士、外道、尼乾陀，乃至<lb
@@ -812,5 +812,5 @@
  n="0854a26" ed="T"/>善無毒女等長者諸眷屬，諸苾芻等，一切大<lb
  n="0854a27" ed="T"/>眾聞佛所說，皆大歡喜，信受奉行。<lb
  n="0854a28" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說給孤長者女得度因緣經卷下</ab></div>
+</ab><ab type='juan' subtype='close'>佛說給孤長者女得度因緣經卷下</ab></div>
 </body></text></TEI>

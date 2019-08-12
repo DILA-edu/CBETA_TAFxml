@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0429</idno>
                 </bibl>
@@ -43,10 +43,10 @@
  n="0074b01" ed="T"/><lb
  n="0074b02" ed="T"/><lb
  n="0074b03" ed="T"/>
-<ab type="juan" subtype="open">佛說八部佛名經</ab><lb
+<ab type='juan' subtype='open'>佛說八部佛名經</ab><lb
  n="0074b04" ed="T"/><lb
  n="0074b05" ed="T"/><byline>元魏天竺婆羅門瞿曇般若流支譯</byline><lb
- n="0074b06" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時，佛遊維耶離奈女樹園，與大比<lb
+ n="0074b06" ed="T"/><div type='jing' level='1'><ab type='prose'>聞如是：一時，佛遊維耶離奈女樹園，與大比<lb
  n="0074b07" ed="T"/>丘眾俱，比丘千二百五十、諸菩薩無央數。爾<lb
  n="0074b08" ed="T"/>時，有長者子，名曰善作，從城中出，詣奈女園，<lb
  n="0074b09" ed="T"/>到世尊所，稽首足下，右遶三匝，却住一面，叉<lb
@@ -117,5 +117,5 @@
  n="0075a16" ed="T"/>者，諸天、龍神、阿須倫、世間人，聞經歡喜，作禮<lb
  n="0075a17" ed="T"/>而退。</ab></div><lb
  n="0075a18" ed="T"/>
-<ab type="juan" subtype="close">佛說八部佛名經</ab>
+<ab type='juan' subtype='close'>佛說八部佛名經</ab>
 </body></text></TEI>

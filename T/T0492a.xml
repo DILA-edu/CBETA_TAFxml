@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0492a</idno>
                 </bibl>
@@ -43,10 +43,10 @@
  n="0753a01" ed="T"/><lb
  n="0753a02" ed="T"/><lb
  n="0753a03" ed="T"/>
-<ab type="juan" subtype="open">佛說阿難問事佛吉凶經</ab><lb
+<ab type='juan' subtype='open'>佛說阿難問事佛吉凶經</ab><lb
  n="0753a04" ed="T"/><lb
  n="0753a05" ed="T"/><byline>後漢安息國三藏安世高譯</byline><lb
- n="0753a06" ed="T"/><div type="jing" level="1"><ab type="prose">阿難說：「聞如是。」阿難白佛言：「有人事佛得<lb
+ n="0753a06" ed="T"/><div type='jing' level='1'><ab type='prose'>阿難說：「聞如是。」阿難白佛言：「有人事佛得<lb
  n="0753a07" ed="T"/>富貴諧偶者，有衰耗不得諧偶者，云何不等<lb
  n="0753a08" ed="T"/>耶？願佛天中天，普為說之。」佛告阿難：「有人<lb
  n="0753a09" ed="T"/>奉佛，從明師受戒，不失精進奉行所受，朝暮<lb
@@ -137,7 +137,7 @@
  n="0754a07" ed="T"/>何恃怙？唯願世尊，為諸晚學留神顯化，未<lb
  n="0754a08" ed="T"/>可般泥洹。」阿難因進頌曰：<lb
  n="0754a09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「佛為三界護，　　恩廣普慈大，　　<lb
  n="0754a10" ed="T"/>願為晚學類，　　未可取泥洹。　　<lb
  n="0754a11" ed="T"/>痛矣未達者，　　瞢瞢不別真，　　<lb
@@ -179,11 +179,11 @@
  n="0754b18" ed="T"/>我等蒙嘉慶，　　得捨十二緣，　　<lb
  n="0754b19" ed="T"/>歡喜稽首拜，　　自歸最無上。」　　
 </ab><lb
- n="0754b20" ed="T"/><ab type="prose">阿難稽首頌已，諸會大眾得不迴還，心意開<lb
+ n="0754b20" ed="T"/><ab type='prose'>阿難稽首頌已，諸會大眾得不迴還，心意開<lb
  n="0754b21" ed="T"/>解，僧那大鎧志無上道，甘露之音，香熏十方。<lb
  n="0754b22" ed="T"/>示現道地為作橋梁，國王、臣民、天龍、鬼神，聞<lb
  n="0754b23" ed="T"/>佛所說，阿難所頌，且悲、且感、且歎、且喜，稽<lb
  n="0754b24" ed="T"/>首佛足，及禮阿難，受教而去。</ab></div><lb
  n="0754b25" ed="T"/>
-<ab type="juan" subtype="close">佛說阿難問事佛吉凶經</ab>
+<ab type='juan' subtype='close'>佛說阿難問事佛吉凶經</ab>
 </body></text></TEI>

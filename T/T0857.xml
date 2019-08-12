@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T18</biblScope>
                     <idno type="Taisho">T18n0857</idno>
                 </bibl>
@@ -42,51 +42,51 @@
         <body><lb
  n="0176a07" ed="T"/><lb
  n="0176a08" ed="T"/><lb
- n="0176a09" ed="T"/><div type="jing" level="1"><lb
+ n="0176a09" ed="T"/><div type='jing' level='1'><lb
  n="0176a10" ed="T"/>
-<ab type="juan" subtype="open">大日經略攝念誦隨行法</ab><lb
+<ab type='juan' subtype='open'>大日經略攝念誦隨行法</ab><lb
  n="0176a12" ed="T"/><lb
  n="0176a13" ed="T"/><byline>開府儀同三司特進試鴻臚卿肅<lb
  n="0176a14" ed="T"/>國公食邑三千戶賜紫贈司空諡<lb
  n="0176a15" ed="T"/>大鑒正號大廣智大興善寺三藏<lb
  n="0176a16" ed="T"/>沙門不空奉　詔譯</byline><lb
- n="0176a17" ed="T"/><ab type="verse">
+ n="0176a17" ed="T"/><ab type='verse'>
 稽首無礙智　　密教意生子　　<lb
  n="0176a18" ed="T"/>依彼蘇多羅　　攝此隨行法　　<lb
  n="0176a19" ed="T"/>真言行菩薩　　先住平等誓　　<lb
  n="0176a20" ed="T"/>語密身密俱　　後作相應行　　
 </ab><lb
- n="0176a21" ed="T"/><ab type="prose">三昧耶真言曰。<lb
+ n="0176a21" ed="T"/><ab type='prose'>三昧耶真言曰。<lb
  n="0176a22" ed="T"/></ab>
-<ab type="dharani">曩莫三曼多勃馱難唵阿三謎底哩三<lb
+<ab type='dharani'>曩莫三曼多勃馱難唵阿三謎底哩三<lb
  n="0176a23" ed="T"/>謎三摩曳娑嚩訶<lb
  n="0176a24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 契謂齊輪合　　並建於二空　　<lb
  n="0176a25" ed="T"/>五處頂肩心　　最後加咽位　　<lb
  n="0176a26" ed="T"/>次以不動聖　　辟障及除垢　　<lb
  n="0176a27" ed="T"/>而能淨眾事　　結護隨相應　　
 </ab><lb
- n="0176a28" ed="T"/><ab type="prose">不動尊真言曰。<lb
+ n="0176a28" ed="T"/><ab type='prose'>不動尊真言曰。<lb
  n="0176a29" ed="T"/></ab>
-<ab type="dharani">曩莫三曼多嚩日囉𧹞戰拏摩賀<pb n="0176b" id="T18.0857.0176b" ed="T"/><lb
+<ab type='dharani'>曩莫三曼多嚩日囉𧹞戰拏摩賀<pb n="0176b" id="T18.0857.0176b" ed="T"/><lb
  n="0176b01" ed="T"/>嚧曬拏娑頗吒野吽怛羅<lb
  n="0176b02" ed="T"/>吒憾𤚥<lb
  n="0176b03" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 定空加地水　　風火竪於心　　<lb
  n="0176b04" ed="T"/>慧劍亦如是　　出鞘能成辦　　<lb
  n="0176b05" ed="T"/>次說如來鉤　　用請於本尊　　<lb
  n="0176b06" ed="T"/>一切眾聖主　　依本誓而來　　
 </ab><lb
- n="0176b07" ed="T"/><ab type="prose">如來鉤真言曰。<lb
+ n="0176b07" ed="T"/><ab type='prose'>如來鉤真言曰。<lb
  n="0176b08" ed="T"/></ab>
-<ab type="dharani">曩莫三曼多勃馱南阿薩嚩怛囉<lb
+<ab type='dharani'>曩莫三曼多勃馱南阿薩嚩怛囉<lb
  n="0176b09" ed="T"/>阿鉢囉底賀多怛他薩儻矩奢<lb
  n="0176b10" ed="T"/>冒地拶哩耶波唎布囉迦<lb
  n="0176b11" ed="T"/>娑嚩訶<lb
  n="0176b12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 止觀內相叉　　堅合智風竪　　<lb
  n="0176b13" ed="T"/>纔屈於初分　　餘輪狀若環　　<lb
  n="0176b14" ed="T"/>聖天悲願力　　隨請咸來降　　<lb
@@ -98,24 +98,24 @@
  n="0176b20" ed="T"/>當以普通印　　密語共加之　　<lb
  n="0176b21" ed="T"/>有表無表俱　　一時皆成就　　
 </ab><lb
- n="0176b22" ed="T"/><ab type="prose">普通真言曰。<lb
+ n="0176b22" ed="T"/><ab type='prose'>普通真言曰。<lb
  n="0176b23" ed="T"/></ab>
-<ab type="dharani">曩莫三曼多勃馱南薩嚩他欠嗢<lb
+<ab type='dharani'>曩莫三曼多勃馱南薩嚩他欠嗢<lb
  n="0176b24" ed="T"/>娜孽諦薩頗囉係呬𤚥伽伽那<lb
  n="0176b25" ed="T"/>劍娑嚩訶<lb
  n="0176b26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 禪智互相叉　　齊輪頂上合　　<lb
  n="0176b27" ed="T"/>運心普周遍　　所念皆現前　　<lb
  n="0176b28" ed="T"/>既施供養已　　修常作持誦　　<pb n="0176c" id="T18.0857.0176c" ed="T"/><lb
  n="0176c01" ed="T"/>先擐金剛鎧　　結護事相應　　
 </ab><lb
- n="0176c02" ed="T"/><ab type="prose">金剛甲冑真言。<lb
+ n="0176c02" ed="T"/><ab type='prose'>金剛甲冑真言。<lb
  n="0176c03" ed="T"/></ab>
-<ab type="dharani">曩莫三曼多嚩囉𧹞嚩日囉迦<lb
+<ab type='dharani'>曩莫三曼多嚩囉𧹞嚩日囉迦<lb
  n="0176c04" ed="T"/>嚩者吽<lb
  n="0176c05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 先作虛心合　　風輪糺持火　　<lb
  n="0176c06" ed="T"/>大空依火本　　遍觸後居心　　<lb
  n="0176c07" ed="T"/>次結方隅界　　如前不動尊　　<lb
@@ -156,5 +156,5 @@
  n="0177a28" ed="T"/>修證殊勝福　　普潤諸有情　　
 </ab><lb
  n="0177a29" ed="T"/>
-<ab type="juan" subtype="close">大日經略攝念誦隨行法一卷</ab></div>
+<ab type='juan' subtype='close'>大日經略攝念誦隨行法一卷</ab></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T03</biblScope>
                     <idno type="Taisho">T03n0179</idno>
                 </bibl>
@@ -43,23 +43,23 @@
  n="0450a09" ed="T"/><lb
  n="0450a10" ed="T"/><lb
  n="0450a11" ed="T"/>
-<ab type="juan" subtype="open">銀色女經</ab><lb
+<ab type='juan' subtype='open'>銀色女經</ab><lb
  n="0450a12" ed="T"/><lb
  n="0450a13" ed="T"/><byline>元魏天竺三藏佛陀扇多譯</byline><lb
- n="0450a14" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時婆伽婆住舍衛國祇陀樹林<lb
+ n="0450a14" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時婆伽婆住舍衛國祇陀樹林<lb
  n="0450a15" ed="T"/>給孤獨園，與大比丘眾千二百五十人俱。爾<lb
  n="0450a16" ed="T"/>時，世尊告諸比丘言：「諸比丘！若有眾生能<lb
  n="0450a17" ed="T"/>知布施所有功德及施果報，如我所知，於食<lb
  n="0450a18" ed="T"/>食時，若初食摶、若後食摶，若不捨施不應自<lb
  n="0450a19" ed="T"/>食。」爾時世尊而說偈言：<lb
  n="0450a20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「若有諸眾生，　　如佛之所說，　　<lb
  n="0450a21" ed="T"/>減食分而施，　　成就大果報。　　<lb
  n="0450a22" ed="T"/>或以初食摶、　　或以後食摶，　　<lb
  n="0450a23" ed="T"/>若不用布施，　　則不應自食。」　　
 </ab><lb
- n="0450a24" ed="T"/><ab type="prose">爾時，世尊說是偈已，告諸比丘言：「諸比丘！<lb
+ n="0450a24" ed="T"/><ab type='prose'>爾時，世尊說是偈已，告諸比丘言：「諸比丘！<lb
  n="0450a25" ed="T"/>乃往過去過無量劫，時有王都，王號蓮華。彼<lb
  n="0450a26" ed="T"/>城有女，名曰銀色——端正殊妙，容相具足，成<lb
  n="0450a27" ed="T"/>就最上勝妙色身。「彼銀色女有所須故，從自<lb
@@ -137,13 +137,13 @@
  n="0451a12" ed="T"/>七萬那由他歲。彼王於是無量百歲無量千<lb
  n="0451a13" ed="T"/>歲治王事已，爾乃命終。「臨命終時作如是言：<lb
  n="0451a14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『一切皆無常，　　必有敗壞事，　　<lb
  n="0451a15" ed="T"/>合會必有離，　　有命皆必死。　　<lb
  n="0451a16" ed="T"/>隨所作事業，　　若善若不善，　　<lb
  n="0451a17" ed="T"/>一切有生者，　　命皆不久住。』　　
 </ab><lb
- n="0451a18" ed="T"/><ab type="prose">「彼王命終，還生彼處蓮華王都。於長者妻而<lb
+ n="0451a18" ed="T"/><ab type='prose'>「彼王命終，還生彼處蓮華王都。於長者妻而<lb
  n="0451a19" ed="T"/>便託生，可八九月便生童子，端正殊妙，具<lb
  n="0451a20" ed="T"/>足眾色。然彼童子過八歲後，五百童子而圍<lb
  n="0451a21" ed="T"/>遶之將詣學堂。彼學堂處，先有五百童子學<lb
@@ -224,5 +224,5 @@
  n="0452a09" ed="T"/>功德及施果報，應施初摶、若施後摶，如是而<lb
  n="0452a10" ed="T"/>食。」佛說此時，彼諸比丘皆大歡喜。<lb
  n="0452a11" ed="T"/>
-</ab><ab type="juan" subtype="close">銀色女經</ab></div>
+</ab><ab type='juan' subtype='close'>銀色女經</ab></div>
 </body></text></TEI>

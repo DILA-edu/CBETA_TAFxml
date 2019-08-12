@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n1004</idno>
                 </bibl>
@@ -42,9 +42,9 @@
         <body><lb
  n="0617b05" ed="T"/><lb
  n="0617b06" ed="T"/><lb
- n="0617b07" ed="T"/><div type="jing" level="1"><lb
+ n="0617b07" ed="T"/><div type='jing' level='1'><lb
  n="0617b08" ed="T"/>
-<ab type="juan" subtype="open">般若波羅蜜多理趣經大樂不空<lb
+<ab type='juan' subtype='open'>般若波羅蜜多理趣經大樂不空<lb
  n="0617b09" ed="T"/>三昧真實金剛薩埵菩薩等一十<lb
  n="0617b10" ed="T"/>七聖大曼茶羅義述一卷</ab><lb
  n="0617b11" ed="T"/><lb
@@ -53,7 +53,7 @@
  n="0617b14" ed="T"/>空諡大鑒正號大廣智大興<lb
  n="0617b15" ed="T"/>善寺三藏沙門不空奉　詔譯<lb
  n="0617b16" ed="T"/></byline><lb
- n="0617b17" ed="T"/><ab type="prose">爾時毘盧遮那如來。於他化自在天王宮。為<lb
+ n="0617b17" ed="T"/><ab type='prose'>爾時毘盧遮那如來。於他化自在天王宮。為<lb
  n="0617b18" ed="T"/>諸大菩薩等。說此般若波羅蜜甚深理趣十<lb
  n="0617b19" ed="T"/>七清淨句門。蓋是十七大菩薩三摩地之句<lb
  n="0617b20" ed="T"/>義也。為令能住持者疾至菩提故。遂演此十<lb
@@ -129,6 +129,6 @@
  n="0618b03" ed="T"/>舉綱目而已。出金剛頂經第十三會大三昧<lb
  n="0618b04" ed="T"/>耶真實瑜伽略鈔大意。<lb
  n="0618b05" ed="T"/>
-</ab><ab type="juan" subtype="close">般若波羅蜜多理趣經大安樂不空三昧真實<lb
+</ab><ab type='juan' subtype='close'>般若波羅蜜多理趣經大安樂不空三昧真實<lb
  n="0618b06" ed="T"/>金剛菩薩等一十七聖大曼茶羅義述一卷</ab></div>
 </body></text></TEI>

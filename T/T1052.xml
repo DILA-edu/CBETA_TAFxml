@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1052</idno>
                 </bibl>
@@ -44,11 +44,11 @@
  n="0067a14" ed="T"/><lb
  n="0067a15" ed="T"/><lb
  n="0067a16" ed="T"/>
-<ab type="juan" subtype="open">讚觀世音菩薩頌</ab><lb
+<ab type='juan' subtype='open'>讚觀世音菩薩頌</ab><lb
  n="0067a17" ed="T"/><lb
  n="0067a18" ed="T"/><byline>唐天后代佛授記寺翻經沙門<lb
  n="0067a19" ed="T"/>慧智奉　制譯</byline><lb
- n="0067a20" ed="T"/><div type="jing" level="1"><ab type="verse">
+ n="0067a20" ed="T"/><div type='jing' level='1'><ab type='verse'>
 菩薩號為觀世音　　神通無礙難可量　　<lb
  n="0067a21" ed="T"/>搖山竭海震大地　　悲愍眾生同一體　　<lb
  n="0067a22" ed="T"/>記憶名號福不虛　　是故常應稱念彼　　<lb
@@ -125,11 +125,11 @@
  n="0068a06" ed="T"/>利益無量如虛空　　以此讚歎功德藏　　<lb
  n="0068a07" ed="T"/>願證如來一切智　　
 </ab><lb
- n="0068a08" ed="T"/><ab type="prose">以此讚歎觀世音菩薩功德上資。<lb
+ n="0068a08" ed="T"/><ab type='prose'>以此讚歎觀世音菩薩功德上資。<lb
  n="0068a09" ed="T"/>國主聖神皇帝陛下善轉金輪。色力壽命永<lb
  n="0068a10" ed="T"/>無窮盡。智慧果報不可思議。恒御閻浮長居<lb
  n="0068a11" ed="T"/>震旦。擁護三寶利益群生。一切含靈皆蒙聖<lb
  n="0068a12" ed="T"/>福。<lb
  n="0068a13" ed="T"/>
-</ab><ab type="juan" subtype="close">讚觀世音菩薩頌</ab></div>
+</ab><ab type='juan' subtype='close'>讚觀世音菩薩頌</ab></div>
 </body></text></TEI>

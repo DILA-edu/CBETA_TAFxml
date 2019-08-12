@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n1016</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0695a23" ed="T"/><lb
  n="0695a24" ed="T"/><lb
- n="0695a25" ed="T"/><div type="jing" level="1"><lb
+ n="0695a25" ed="T"/><div type='jing' level='1'><lb
  n="0695a26" ed="T"/>
-<ab type="juan" subtype="open">舍利弗陀羅尼經</ab><lb
+<ab type='juan' subtype='open'>舍利弗陀羅尼經</ab><lb
  n="0695a27" ed="T"/><lb
  n="0695a28" ed="T"/><byline>梁扶南三藏僧伽婆羅譯</byline><lb
- n="0695a29" ed="T"/><ab type="prose">如是我聞。一時佛住毘舍離國大林精舍。與<pb n="0695b" id="T19.1016.0695b" ed="T"/><lb
+ n="0695a29" ed="T"/><ab type='prose'>如是我聞。一時佛住毘舍離國大林精舍。與<pb n="0695b" id="T19.1016.0695b" ed="T"/><lb
  n="0695b01" ed="T"/>大比丘眾一千二百五十人俱。爾時佛念。却<lb
  n="0695b02" ed="T"/>後三月當入涅槃。即告長老目揵連。汝當至<lb
  n="0695b03" ed="T"/>千世界。告比丘僧令到佛所。是時目連受佛<lb
@@ -89,7 +89,7 @@
  n="0695c10" ed="T"/>告舍利弗諸菩薩摩訶薩。若欲到一切諸法<lb
  n="0695c11" ed="T"/>而無所著者。當說此呪。<lb
  n="0695c12" ed="T"/></ab>
-<ab type="dharani">脩尼脩𠷠　摩𠷠　沙萬多母𠷠　育<lb
+<ab type='dharani'>脩尼脩𠷠　摩𠷠　沙萬多母𠷠　育<lb
  n="0695c13" ed="T"/>底尼育底尼鹿底婆羅鞞　喜隷<lb
  n="0695c14" ed="T"/>柯羅波　柯羅波　死娑隷　婆羅婆底<lb
  n="0695c15" ed="T"/>喜羅　喜履　喜隷　喜履隷　喜羅　喜<lb
@@ -109,7 +109,7 @@
  n="0696a07" ed="T"/>那　支第陀羅尼陀羅尼尼柁多瞿諦隷<lb
  n="0696a08" ed="T"/>莎呵<lb
  n="0696a09" ed="T"/></ab>
-<ab type="prose">舍利弗。若有菩薩修行此陀羅尼呪。不思惟<lb
+<ab type='prose'>舍利弗。若有菩薩修行此陀羅尼呪。不思惟<lb
  n="0696a10" ed="T"/>有為無為法。不說此法不觀此法。不著此法<lb
  n="0696a11" ed="T"/>不作此法。不為得此法不斷此法。不為增減<lb
  n="0696a12" ed="T"/>不見相應法不相應法。不見生滅不見三世。<lb
@@ -130,7 +130,7 @@
  n="0696a27" ed="T"/>是一切諸佛功德藏。此是分別諸眾生行。故<lb
  n="0696a28" ed="T"/>此陀羅尼名無所得行。爾時世尊說此祇夜。<lb
  n="0696a29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 汝等莫樂著　　一切諸法空　　<pb n="0696b" id="T19.1016.0696b" ed="T"/><lb
  n="0696b01" ed="T"/>於諸佛菩提　　亦莫起分別　　<lb
  n="0696b02" ed="T"/>不計一切法　　有過及無過　　<lb
@@ -172,24 +172,24 @@
  n="0696c09" ed="T"/>是故汝今日　　修行勤聽受　　<lb
  n="0696c10" ed="T"/>未來必定得　　無上三菩提　　
 </ab><lb
- n="0696c11" ed="T"/><ab type="prose">佛告舍利弗。若菩薩成就四法當得陀羅尼。<lb
+ n="0696c11" ed="T"/><ab type='prose'>佛告舍利弗。若菩薩成就四法當得陀羅尼。<lb
  n="0696c12" ed="T"/>云何為四。不樂愛欲。不嫉妬。於一切眾生能<lb
  n="0696c13" ed="T"/>捨一切。日夜思惟諸法無有惱恚。舍利弗若<lb
  n="0696c14" ed="T"/>菩薩成就此四法得此陀羅尼。爾時世尊說<lb
  n="0696c15" ed="T"/>此祇夜。<lb
  n="0696c16" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 愛欲嫉妬　　是魔王法　　當入地獄　　<lb
  n="0696c17" ed="T"/>行人應捨　　財法二種　　以施眾生　　<lb
  n="0696c18" ed="T"/>日夜思惟　　不起惱恚　　若能如是　　<lb
  n="0696c19" ed="T"/>得陀羅尼　　
 </ab><lb
- n="0696c20" ed="T"/><ab type="prose">復次舍利弗。若菩薩成就四法得此陀羅尼。<lb
+ n="0696c20" ed="T"/><ab type='prose'>復次舍利弗。若菩薩成就四法得此陀羅尼。<lb
  n="0696c21" ed="T"/>何等為四。修阿蘭若行。持深法忍。不樂利養<lb
  n="0696c22" ed="T"/>名聞。所受之物一切能捨乃至身命菩薩成<lb
  n="0696c23" ed="T"/>就此四法得陀羅尼。佛說此祇夜。<lb
  n="0696c24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 修行阿蘭若　　善人所讚歎　　<lb
  n="0696c25" ed="T"/>身心寂不動　　常住於林中　　<lb
  n="0696c26" ed="T"/>燒頭不放逸　　藥起深法忍　　<lb
@@ -200,7 +200,7 @@
  n="0697a02" ed="T"/>菩薩勤精進　　修上四種行　　<lb
  n="0697a03" ed="T"/>如上陀羅尼　　不久必能得　　
 </ab><lb
- n="0697a04" ed="T"/><ab type="prose">復次舍利弗。若菩薩成就四法得此陀羅尼。<lb
+ n="0697a04" ed="T"/><ab type='prose'>復次舍利弗。若菩薩成就四法得此陀羅尼。<lb
  n="0697a05" ed="T"/>云何為四。入八字義云何八字。婆字入一切<lb
  n="0697a06" ed="T"/>諸法無我義。羅字入相好無相好法身義。娑<lb
  n="0697a07" ed="T"/>字入二義愚人法智人法義。闍字入生老病<lb
@@ -216,23 +216,23 @@
  n="0697a17" ed="T"/>弗以此四法。令菩薩得此陀羅尼。佛說此祇<lb
  n="0697a18" ed="T"/>夜。<lb
  n="0697a19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 書寫及受持　　思惟上八字　　<lb
  n="0697a20" ed="T"/>半月常習誦　　教化諸眾生　　<lb
  n="0697a21" ed="T"/>得近無上道　　最勝智慧處　　<lb
  n="0697a22" ed="T"/>常見諸如來　　亦聞說妙法　　
 </ab><lb
- n="0697a23" ed="T"/><ab type="prose">若有諸菩薩。受持陀羅尼。獲四功德云何為<lb
+ n="0697a23" ed="T"/><ab type='prose'>若有諸菩薩。受持陀羅尼。獲四功德云何為<lb
  n="0697a24" ed="T"/>四。十方諸佛世尊常所護念。不為魔王之所<lb
  n="0697a25" ed="T"/>障礙。身口意惡悉皆滅除。得無盡樂說。舍利<lb
  n="0697a26" ed="T"/>弗若有菩薩受持陀羅尼。得此四種功德。佛<lb
  n="0697a27" ed="T"/>說此祇夜。<lb
  n="0697a28" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 有諸佛護念　　眾魔不能沮　　<lb
  n="0697a29" ed="T"/>三惡業消滅　　樂說辯無邊　　
 </ab><pb n="0697b" id="T19.1016.0697b" ed="T"/><lb
- n="0697b01" ed="T"/><ab type="prose">爾時佛告舍利弗。乃往古昔無數阿僧祇劫。<lb
+ n="0697b01" ed="T"/><ab type='prose'>爾時佛告舍利弗。乃往古昔無數阿僧祇劫。<lb
  n="0697b02" ed="T"/>是時有佛名寶吉光王如來應供正遍知。十<lb
  n="0697b03" ed="T"/>號具足。出興於世教化眾生。此佛滅度有轉<lb
  n="0697b04" ed="T"/>輪聖王。名持光明七寶具足。彼王有子名不<lb
@@ -260,7 +260,7 @@
  n="0697b26" ed="T"/>讀誦受持解說。唯除諸佛無能說此功德邊<lb
  n="0697b27" ed="T"/>際。佛說此祇夜。<lb
  n="0697b28" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 過去無數劫　　有寶吉如來　　<lb
  n="0697b29" ed="T"/>出世化眾生　　有無量利益　　<pb n="0697c" id="T19.1016.0697c" ed="T"/><lb
  n="0697c01" ed="T"/>彼佛涅槃後　　有轉輪聖王　　<lb
@@ -295,7 +295,7 @@
  n="0698a01" ed="T"/>是故有智人　　應當勤精進　　<lb
  n="0698a02" ed="T"/>聽受陀羅尼　　以求無上道　　
 </ab><lb
- n="0698a03" ed="T"/><ab type="prose">舍利弗若菩薩受持此陀羅尼。有八夜叉住<lb
+ n="0698a03" ed="T"/><ab type='prose'>舍利弗若菩薩受持此陀羅尼。有八夜叉住<lb
  n="0698a04" ed="T"/>在雪山。日夜守護為增壽命。云何為八。勇猛<lb
  n="0698a05" ed="T"/>夜叉。堅固夜叉。自在夜叉。那羅延力夜叉。法<lb
  n="0698a06" ed="T"/>用夜叉。不可繫夜叉。曲齒夜叉。善肩夜叉。舍<lb
@@ -320,5 +320,5 @@
  n="0698a25" ed="T"/>揵闥婆阿修羅迦樓羅緊那羅摩睺羅伽人非<lb
  n="0698a26" ed="T"/>人等。聞佛所說歡喜奉行。<lb
  n="0698a27" ed="T"/>
-</ab><ab type="juan" subtype="close">舍利弗陀羅尼經</ab></div>
+</ab><ab type='juan' subtype='close'>舍利弗陀羅尼經</ab></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T22</biblScope>
                     <idno type="Taisho">T22n1426</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0549a05" ed="T"/><lb
  n="0549a06" ed="T"/><lb
  n="0549a07" ed="T"/>
-<ab type="juan" subtype="open">摩訶僧祇律大比丘戒本</ab><lb
+<ab type='juan' subtype='open'>摩訶僧祇律大比丘戒本</ab><lb
  n="0549a08" ed="T"/><lb
  n="0549a09" ed="T"/><byline>東晉天竺三藏佛陀跋陀羅譯</byline><lb
- n="0549a10" ed="T"/><div type="jing" level="1"><ab type="prose">六念法<lb
+ n="0549a10" ed="T"/><div type='jing' level='1'><ab type='prose'>六念法<lb
  n="0549a11" ed="T"/>「一者，當知日數，月一日、二日，乃至十四日、十<lb
  n="0549a12" ed="T"/>五日，月大、月小悉應知。「二者，清旦當作<lb
  n="0549a13" ed="T"/>施食法：『今日得食施某甲，某甲於我不計意，<lb
@@ -64,7 +64,7 @@
  n="0549a24" ed="T"/>受具戒者已出。」「僧今和合先作何事？」「諸大德！不來諸比丘說欲及清淨。」「誰與<lb
  n="0549a26" ed="T"/>比丘尼取欲？」<lb
  n="0549a27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「合十指爪掌，　　供養釋師子；　　<lb
  n="0549a28" ed="T"/>我今欲說戒，　　僧當一心聽。　　<lb
  n="0549a29" ed="T"/>乃至小罪中，　　心應大怖畏；　　<pb n="0549b" ed="T" id="T22.1426.0549b"/><lb
@@ -80,7 +80,7 @@
  n="0549b10" ed="T"/>日夜常精進，　　求實智慧故；　　<lb
  n="0549b11" ed="T"/>是人佛法中，　　能得清淨命。」　　
 </ab><lb
- n="0549b12" ed="T"/><ab type="prose">「大德僧聽！今十五日布薩說波羅提木叉。若<lb
+ n="0549b12" ed="T"/><ab type='prose'>「大德僧聽！今十五日布薩說波羅提木叉。若<lb
  n="0549b13" ed="T"/>僧時到僧忍聽，僧一心共作布薩說波羅提<lb
  n="0549b14" ed="T"/>木叉。如是白。」<lb
  n="0549b15" ed="T"/>「諸大德！今布薩說波羅提木叉，僧一心善聽。<lb
@@ -470,7 +470,7 @@
  n="0553c22" ed="T"/>「若比丘，骨牙角作針筒，破已，波夜提。<lb
  n="0553c23" ed="T"/>「若比丘，作床脚應高佛八指，除入梐。若過，截<lb
  n="0553c24" ed="T"/>已，波夜提。<lb
- n="0553c25" ed="T"/>「若比丘，兜羅綿䘢褥，若坐、若臥，出已，波夜<lb
+ n="0553c25" ed="T"/>「若比丘，兜羅綿紵褥，若坐、若臥，出已，波夜<lb
  n="0553c26" ed="T"/>提。<lb
  n="0553c27" ed="T"/>「若比丘，作尼師壇應量作：長二修伽陀磔手、<lb
  n="0553c28" ed="T"/>廣一磔手半，更益一磔手。若過，截已，波夜提。<lb
@@ -548,10 +548,10 @@
  n="0554c13" ed="T"/>「不挑團食，應當學。<lb
  n="0554c14" ed="T"/>「不齧半食，應當學。<lb
  n="0554c15" ed="T"/>「不含食語，應當學。<lb
- n="0554c16" ed="T"/>「不指抆針食，應當學。<lb
+ n="0554c16" ed="T"/>「不指抆鉢食，應當學。<lb
  n="0554c17" ed="T"/>「不舐手食，應當學。<lb
  n="0554c18" ed="T"/>「不𠲿指食，應當學。<lb
- n="0554c19" ed="T"/>「不󰏼㗱作聲食，應當學。<lb
+ n="0554c19" ed="T"/>「不㗘㗱作聲食，應當學。<lb
  n="0554c20" ed="T"/>「不吸食食，應當學。<lb
  n="0554c21" ed="T"/>「不全吞食，應當學。<lb
  n="0554c22" ed="T"/>「不落飯食，應當學。<lb
@@ -615,52 +615,52 @@
  n="0555b22" ed="T"/>「佛言：『毘婆尸佛如來、應供、正遍知，為寂靜僧，<lb
  n="0555b23" ed="T"/>略說波羅提木叉：<lb
  n="0555b24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『「忍辱第一道，　　涅槃佛稱最；　　<lb
  n="0555b25" ed="T"/>出家惱他人，　　不名為沙門。」　　
 </ab><lb
- n="0555b26" ed="T"/><ab type="prose">「『尸棄佛如來、應供、正遍知，為寂靜僧，略說波<lb
+ n="0555b26" ed="T"/><ab type='prose'>「『尸棄佛如來、應供、正遍知，為寂靜僧，略說波<lb
  n="0555b27" ed="T"/>羅提木叉：<lb
  n="0555b28" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『「譬如明眼人，　　能避嶮惡道；　　<lb
  n="0555b29" ed="T"/>世有聰明人，　　能遠離諸惡。」　　
 </ab><pb n="0555c" ed="T" id="T22.1426.0555c"/><lb
- n="0555c01" ed="T"/><ab type="prose">「『毘葉婆佛如來、應供、正遍知，為寂靜僧，略說<lb
+ n="0555c01" ed="T"/><ab type='prose'>「『毘葉婆佛如來、應供、正遍知，為寂靜僧，略說<lb
  n="0555c02" ed="T"/>波羅提木叉：<lb
  n="0555c03" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『「不惱不說過，　　如戒所說行；　　<lb
  n="0555c04" ed="T"/>飯食知節量，　　常樂在閑處；　　<lb
  n="0555c05" ed="T"/>心淨樂精進，　　是名諸佛教。」　　
 </ab><lb
- n="0555c06" ed="T"/><ab type="prose">「『拘留孫佛如來、應供、正遍知，為寂靜僧，略說<lb
+ n="0555c06" ed="T"/><ab type='prose'>「『拘留孫佛如來、應供、正遍知，為寂靜僧，略說<lb
  n="0555c07" ed="T"/>波羅提木叉：<lb
  n="0555c08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『「譬如蜂採華，　　不壞色與香，　　<lb
  n="0555c09" ed="T"/>但取其味去；　　比丘入聚落，　　<lb
  n="0555c10" ed="T"/>不破壞他事，　　不觀作不作，　　<lb
  n="0555c11" ed="T"/>但自觀身行，　　諦視善不善。」　　
 </ab><lb
- n="0555c12" ed="T"/><ab type="prose">「『拘那含牟尼佛如來、應供、正遍知，為寂靜僧，<lb
+ n="0555c12" ed="T"/><ab type='prose'>「『拘那含牟尼佛如來、應供、正遍知，為寂靜僧，<lb
  n="0555c13" ed="T"/>略說波羅提木叉：<lb
  n="0555c14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『「欲得好心莫放逸，　　聖人善法當懃學；　　<lb
- n="0555c15" ed="T"/>若有智寂一心人，　　爾乃無復憂愁患。」　　
+ n="0555c15" ed="T"/>若有知寂一心人，　　爾乃無復憂愁患。」　　
 </ab><lb
- n="0555c16" ed="T"/><ab type="prose">「『迦葉佛如來、應供、正遍知，為寂靜僧，略說波<lb
+ n="0555c16" ed="T"/><ab type='prose'>「『迦葉佛如來、應供、正遍知，為寂靜僧，略說波<lb
  n="0555c17" ed="T"/>羅提木叉：<lb
  n="0555c18" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『「一切惡莫作，　　當具足善法；　　<lb
  n="0555c19" ed="T"/>自淨其志意，　　是則諸佛教。」　　
 </ab><lb
- n="0555c20" ed="T"/><ab type="prose">「『釋迦牟尼佛如來、應供、正遍知，為寂靜僧，略<lb
+ n="0555c20" ed="T"/><ab type='prose'>「『釋迦牟尼佛如來、應供、正遍知，為寂靜僧，略<lb
  n="0555c21" ed="T"/>說波羅提木叉：<lb
  n="0555c22" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『「護身為善哉！　　能護口亦善；　　<lb
  n="0555c23" ed="T"/>護意為善哉！　　護一切亦善。　　<lb
  n="0555c24" ed="T"/>比丘護一切，　　便得離眾苦；　　<lb
@@ -674,10 +674,10 @@
  n="0556a03" ed="T"/>恭敬戒經已，　　各各相恭敬。　　<lb
  n="0556a04" ed="T"/>慚愧得具足，　　能得無為道。』」　　
 </ab><lb
- n="0556a05" ed="T"/><ab type="prose">已說波羅提木叉經竟。僧一心得布薩。<lb
+ n="0556a05" ed="T"/><ab type='prose'>已說波羅提木叉經竟。僧一心得布薩。<lb
  n="0556a06" ed="T"/>摩訶僧祇戒<lb
  n="0556a07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「持戒淨身口，　　攝心正憶念；　　<lb
  n="0556a08" ed="T"/>多聞生實智，　　斯由戒為本。　　<lb
  n="0556a09" ed="T"/>戒為妙寶藏，　　亦為七財寶；　　<lb
@@ -692,5 +692,5 @@
  n="0556a18" ed="T"/>是故歡喜持，　　清淨之戒身。」　　
 </ab></div><lb
  n="0556a19" ed="T"/>
-<ab type="juan" subtype="close">摩訶僧祇律大比丘戒本</ab>
+<ab type='juan' subtype='close'>摩訶僧祇律大比丘戒本</ab>
 </body></text></TEI>

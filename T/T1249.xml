@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1249</idno>
                 </bibl>
@@ -39,66 +39,66 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0227c16" ed="T"/><lb
  n="0227c17" ed="T"/><lb
  n="0227c18" ed="T"/><lb
  n="0227c19" ed="T"/>
-<ab type="juan" subtype="open">毘沙門儀軌</ab><lb
+<ab type='juan' subtype='open'>毘沙門儀軌</ab><lb
  n="0227c20" ed="T"/><lb
  n="0227c21" ed="T"/><byline>大興善寺三藏沙門大廣智<lb
  n="0227c22" ed="T"/>不空奉　詔譯</byline><lb
- n="0227c23" ed="T"/><ab type="dharani">阿他渴嚧蔇室拏末拏寫摩訶羅闍寫摩<lb
+ n="0227c23" ed="T"/><ab type='dharani'>阿他渴嚧蔇室拏末拏寫摩訶羅闍寫摩<lb
  n="0227c24" ed="T"/>羅滿怛藍鉢羅毘沙彌薩婆薩埵蘇訶鉢唅<pb n="0228a" id="T21.1249.0228a" ed="T"/><lb
  n="0228a01" ed="T"/>薩婆薩埵𠰘底史南怛姪他摩尼吠達馱羅<lb
  n="0228a02" ed="T"/>野莎婆訶布嚕拏跋達囉野莎婆訶摩拏羅<lb
  n="0228a03" ed="T"/>也野莎婆訶悉澄迦羅耶莎婆訶<lb
  n="0228a04" ed="T"/></ab>
-<ab type="prose">心真言<lb
+<ab type='prose'>心真言<lb
  n="0228a05" ed="T"/></ab>
-<ab type="dharani">唵薛室囉末拏耶娑婆訶<lb
+<ab type='dharani'>唵薛室囉末拏耶娑婆訶<lb
  n="0228a06" ed="T"/></ab>
-<ab type="prose">心中心真言。<lb
+<ab type='prose'>心中心真言。<lb
  n="0228a07" ed="T"/></ab>
-<ab type="dharani">唵彈那馱羅野娑婆訶<lb
+<ab type='dharani'>唵彈那馱羅野娑婆訶<lb
  n="0228a08" ed="T"/></ab>
-<ab type="prose">功德天心呪<lb
+<ab type='prose'>功德天心呪<lb
  n="0228a09" ed="T"/></ab>
-<ab type="dharani">唵枳儞枳儞薩婆迦哩野沙達尼辛儞辛儞<lb
+<ab type='dharani'>唵枳儞枳儞薩婆迦哩野沙達尼辛儞辛儞<lb
  n="0228a10" ed="T"/>阿溈淴彌拏舍耶阿婆訶野淴彌弟<lb
  n="0228a11" ed="T"/>毘室哩薜室羅末拏野娑婆訶<lb
  n="0228a12" ed="T"/></ab>
-<ab type="prose">淨身真言<lb
+<ab type='prose'>淨身真言<lb
  n="0228a13" ed="T"/></ab>
-<ab type="dharani">唵殑伽薩婆󰮟㗚他避木仚莎婆訶<lb
+<ab type='dharani'>唵殑伽薩婆𭉐㗚他避木仚莎婆訶<lb
  n="0228a15" ed="T"/></ab>
-<ab type="prose">召請真言<lb
+<ab type='prose'>召請真言<lb
  n="0228a16" ed="T"/></ab>
-<ab type="dharani">娜謨薜室羅末拏寫摩訶翼史捺羅寫志他<lb
+<ab type='dharani'>娜謨薜室羅末拏寫摩訶翼史捺羅寫志他<lb
  n="0228a17" ed="T"/>婆跋婆都哆莎婆訶<lb
  n="0228a18" ed="T"/></ab>
-<ab type="prose">燈燭真言<lb
+<ab type='prose'>燈燭真言<lb
  n="0228a19" ed="T"/></ab>
-<ab type="dharani">唵婆畢底梨娑婆訶<lb
+<ab type='dharani'>唵婆畢底梨娑婆訶<lb
  n="0228a20" ed="T"/></ab>
-<ab type="prose">供養香華真言<lb
+<ab type='prose'>供養香華真言<lb
  n="0228a21" ed="T"/></ab>
-<ab type="dharani">唵薩婆瞢褐羅陀哩尼莎婆訶<lb
+<ab type='dharani'>唵薩婆瞢褐羅陀哩尼莎婆訶<lb
  n="0228a22" ed="T"/></ab>
-<ab type="prose">發遣真言<lb
+<ab type='prose'>發遣真言<lb
  n="0228a23" ed="T"/></ab>
-<ab type="dharani">唵毘嚕迦野哆賴耶󰳙耶薩婆毒契瓢薩本<lb
+<ab type='dharani'>唵毘嚕迦野哆賴耶󰳙耶薩婆毒契瓢薩本<lb
  n="0228a24" ed="T"/>惹三婆羅娑婆訶<lb
  n="0228a25" ed="T"/></ab>
-<ab type="prose">壇作法　牛糞塗地上。用香泥塗上。外稜兩<lb
+<ab type='prose'>壇作法　牛糞塗地上。用香泥塗上。外稜兩<lb
  n="0228a26" ed="T"/>肘一量。內稜一肘一量。像在北面而坐南。<lb
  n="0228a27" ed="T"/>內院著清水香華菓子。外院著乳粥餅等。<lb
  n="0228a28" ed="T"/>香供養法真言<pb n="0228b" id="T21.1249.0228b" ed="T"/><lb
  n="0228b01" ed="T"/></ab>
-<ab type="dharani">摩拏阿羅他鉢哩布囉迦野莎婆訶<lb
+<ab type='dharani'>摩拏阿羅他鉢哩布囉迦野莎婆訶<lb
  n="0228b02" ed="T"/></ab>
-<ab type="prose">安悉香。檀香。龍腦香。天木香。魂膽香。右<lb
+<ab type='prose'>安悉香。檀香。龍腦香。天木香。魂膽香。右<lb
  n="0228b03" ed="T"/>伴香擣訖蜜和。於像前誦此呪一百八遍。右<lb
  n="0228b04" ed="T"/>手持香精誠祝像前。數滿訖由供養。如無<lb
  n="0228b05" ed="T"/>香依時。誦此真言亦當供養。<lb
@@ -145,21 +145,21 @@
  n="0228c17" ed="T"/>若請召天王時。結根本印。即誦請召真言七<lb
  n="0228c18" ed="T"/>遍。頂上散印。真言曰。<lb
  n="0228c19" ed="T"/></ab>
-<ab type="dharani">怛儞也他曩謨吠室囉摩拏<lb
+<ab type='dharani'>怛儞也他曩謨吠室囉摩拏<lb
  n="0228c20" ed="T"/>野曩謨馱曩娜野馱曩濕嚩囉<lb
  n="0228c21" ed="T"/>野阿蘖瑳跛哩弭多馱𩕳濕嚩囉<lb
  n="0228c22" ed="T"/>跛囉麼迦嚕抳迦薩嚩薩怛嚩𠰘哆<lb
  n="0228c23" ed="T"/>唧多麼麼達曩麼弩鉢囉曳瑳娑<lb
  n="0228c24" ed="T"/>嚩野麼蘖瑳娑嚩賀<lb
  n="0228c25" ed="T"/></ab>
-<ab type="prose">私記<lb
+<ab type='prose'>私記<lb
  n="0228c26" ed="T"/></ab>
-<ab type="dharani">唵藥叉布多那吽因陀羅弊娑婆賀毘左<lb
+<ab type='dharani'>唵藥叉布多那吽因陀羅弊娑婆賀毘左<lb
  n="0228c27" ed="T"/>者耶娑婆賀<lb
  n="0228c28" ed="T"/></ab>
-<ab type="prose">毘沙門天王心真言<lb
+<ab type='prose'>毘沙門天王心真言<lb
  n="0228c29" ed="T"/></ab>
-<ab type="dharani">曩謨囉怛曩怛囉夜也曩謨吠室<pb n="0229a" id="T21.1249.0229a" ed="T"/><lb
+<ab type='dharani'>曩謨囉怛曩怛囉夜也曩謨吠室<pb n="0229a" id="T21.1249.0229a" ed="T"/><lb
  n="0229a01" ed="T"/>囉摩拏也摩賀羅惹耶薩縛薩怛嚩曩摩舍跛哩布囉拏也悉地迦囉也蘇<lb
  n="0229a03" ed="T"/>騫娜也怛娑每曩莫塞訖哩怛嚩<lb
  n="0229a04" ed="T"/>伊𤚥吠室囉摩拏也紇哩乃也摩󰨢多<lb
@@ -171,15 +171,15 @@
  n="0229a10" ed="T"/>他拏婆嚩娑縛賀吠室囉摩拏也娑嚩賀達曩那也娑嚩賀摩<lb
  n="0229a12" ed="T"/>拏囉他跛哩布囉迦也娑嚩賀<lb
  n="0229a13" ed="T"/></ab>
-<ab type="prose">中天竺國三藏婆羅門達摩伽陀那譯<lb
+<ab type='prose'>中天竺國三藏婆羅門達摩伽陀那譯<lb
  n="0229a14" ed="T"/></ab>
-<ab type="dharani">南冒摩訶失利夜耶南冒吠失囉漫那<lb
+<ab type='dharani'>南冒摩訶失利夜耶南冒吠失囉漫那<lb
  n="0229a15" ed="T"/>耶摩訶藥叉細那拔陀曳怛姪他<lb
  n="0229a16" ed="T"/>沮吠沮吠莎縛莎嚩扇<lb
  n="0229a17" ed="T"/>演秣底娑嚩訶施晚怛梨莎嚩訶惹耶拔<lb
  n="0229a18" ed="T"/>底梨娑縛訶<lb
  n="0229a19" ed="T"/></ab>
-<ab type="prose">我今說根本印。以二手右押左內相叉。竪二<lb
+<ab type='prose'>我今說根本印。以二手右押左內相叉。竪二<lb
  n="0229a20" ed="T"/>無名指頭相合。屈二頭指如鉤。若迎請即頂<lb
  n="0229a21" ed="T"/>上散。然後取念珠專注念誦。次結吉祥天女<lb
  n="0229a22" ed="T"/>身印。以二手虛心合掌。開二頭指二中指二<lb
@@ -198,14 +198,14 @@
  n="0229b06" ed="T"/>須皆得之。<lb
  n="0229b07" ed="T"/>同三藏之又譯也。<lb
  n="0229b08" ed="T"/></ab>
-<ab type="dharani">阿陀伽部怛羅耶地舍耶吠賒羅跋<lb
+<ab type='dharani'>阿陀伽部怛羅耶地舍耶吠賒羅跋<lb
  n="0229b09" ed="T"/>那寫摩訶喝羅闍寫夜叉地婆怛寫婆<lb
  n="0229b10" ed="T"/>摩怛寫薩都怛寫婆賒耶鉢囉婆訶那<lb
  n="0229b11" ed="T"/>寫喜摩達吒吒尼鉢羅沙夜迷怛姪他<lb
  n="0229b12" ed="T"/>俱灑彌俱灑彌俱沙毘賒羅摩那寫摩<lb
  n="0229b13" ed="T"/>訶喝羅闍綺槃達伽寫哆羅摩車都娑婆訶<lb
  n="0229b15" ed="T"/></ab>
-<ab type="prose">行者上下衣服並淨潔。一上廁一洗浴。白月<lb
+<ab type='prose'>行者上下衣服並淨潔。一上廁一洗浴。白月<lb
  n="0229b16" ed="T"/>十五日起首。對像前誦呪滿十萬遍訖。然後<lb
  n="0229b17" ed="T"/>取香復塗壇上。復設種種飲食。行者取薰陸<lb
  n="0229b18" ed="T"/>香一百八枚。各呪一遍投著火中。天王即現。<lb
@@ -236,7 +236,7 @@
  n="0229c14" ed="T"/>各三遍。<lb
  n="0229c15" ed="T"/>毘沙門天王使者呪<lb
  n="0229c16" ed="T"/></ab>
-<ab type="dharani">娜謨吠失羅鉢那耶摩訶藥叉栖那鉢多<lb
+<ab type='dharani'>娜謨吠失羅鉢那耶摩訶藥叉栖那鉢多<lb
  n="0229c17" ed="T"/>耶唵薩婆羯囉那尾數陀抳薩嚩訶<lb
  n="0229c19" ed="T"/>娜莫三曼多勃馱喃阿鉢囉底<lb
  n="0229c20" ed="T"/>賀多捨娑曩南唵却却佉呬佉呬<lb
@@ -247,7 +247,7 @@
  n="0229c25" ed="T"/>叉布彈那吽因陀羅弊薩嚩賀毘沙遮那娑<lb
  n="0229c26" ed="T"/>嚩賀<lb
  n="0229c27" ed="T"/></ab>
-<ab type="prose">誦此真言用此契。二手作拳直竪二食指。次<lb
+<ab type='prose'>誦此真言用此契。二手作拳直竪二食指。次<lb
  n="0229c28" ed="T"/>開二大母指。次右食指超左食指背上入掌<lb
  n="0229c29" ed="T"/>中。以左食指入右掌中。次二大母指。左把<pb n="0230a" id="T21.1249.0230a" ed="T"/><lb
  n="0230a01" ed="T"/>右食指。二頭出外。<lb
@@ -255,8 +255,8 @@
  n="0230a03" ed="T"/>　半只迦　娑多祁里　醯摩嚩多　毘灑迦<lb
  n="0230a04" ed="T"/>　阿陀嚩迦　半灑攞<lb
  n="0230a05" ed="T"/>
-</ab><ab type="juan" subtype="close">毘沙門儀軌</ab><lb
- n="0230a06" ed="T"/><div type="w" level="2"><ab type="prose">八家錄云。毘沙門天王儀軌一卷睿。此軌<lb
+</ab><ab type='juan' subtype='close'>毘沙門儀軌</ab><lb
+ n="0230a06" ed="T"/><div type='w' level='2'><ab type='prose'>八家錄云。毘沙門天王儀軌一卷睿。此軌<lb
  n="0230a07" ed="T"/>以智積院慈順僧正御本。當山愛染院大<lb
  n="0230a08" ed="T"/>宣等挍合。予亦挍訂而壽梓。<lb
  n="0230a09" ed="T"/>亨和改元辛酉秋八月　豐山僧快道誌<lb

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T07</biblScope>
                     <idno type="Taisho">T07n0220k</idno>
                 </bibl>
@@ -39,14 +39,15 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><lb
+        <body><div level='1'>
+<lb
  n="1019a17" ed="T"/><lb
  n="1019a18" ed="T"/><lb
- n="1019a19" ed="T"/><div type="hui" level="1"><head>大般若經第十二會戒波羅蜜<lb
- n="1019a20" ed="T"/>多分</head><div type="xu" level="2"><head>序</head><lb
+ n="1019a19" ed="T"/><div type='hui' level='2'><head>大般若經第十二會戒波羅蜜<lb
+ n="1019a20" ed="T"/>多分</head><div type='xu' level='3'><head>序</head><lb
  n="1019a21" ed="T"/><lb
  n="1019a22" ed="T"/><byline>西明寺沙門玄則撰</byline><lb
- n="1019a23" ed="T"/><ab type="prose">夫欲儲淨法，先滌身器；將越愛流，前鳩行檝。<lb
+ n="1019a23" ed="T"/><ab type='prose'>夫欲儲淨法，先滌身器；將越愛流，前鳩行檝。<lb
  n="1019a24" ed="T"/>居其選也，特有戒焉。所以復指名區、更申玄<lb
  n="1019a25" ed="T"/>集，切身口而流訓，則一言一行斯佛事矣；<lb
  n="1019a26" ed="T"/>因動靜以研機，則舉足下足斯道場矣。誠嶮<lb
@@ -69,14 +70,14 @@
  n="1019b14" ed="T"/>智克圓。其五軸單譯，一如施分。凡息心之士，<lb
  n="1019b15" ed="T"/>豈不諏焉！</ab></div><lb
  n="1019b16" ed="T"/><lb
- n="1019b17" ed="T"/><div type="fen" level="2"><lb
+ n="1019b17" ed="T"/><div type='fen' level='3'><lb
  n="1019b18" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百八<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百八<lb
  n="1019b19" ed="T"/>十四</ab><lb
  n="1019b20" ed="T"/><lb
  n="1019b21" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
  n="1019b22" ed="T"/><head>第十二淨戒波羅蜜多分之一</head><lb
- n="1019b23" ed="T"/><ab type="prose">如是我聞：一時，薄伽梵在室羅筏住誓多林<lb
+ n="1019b23" ed="T"/><ab type='prose'>如是我聞：一時，薄伽梵在室羅筏住誓多林<lb
  n="1019b24" ed="T"/>給孤獨園，與大苾芻眾千二百五十人俱。爾<lb
  n="1019b25" ed="T"/>時，世尊告具壽舍利子：「汝今應為欲證無上<lb
  n="1019b26" ed="T"/>正等菩提諸菩薩摩訶薩，宣說淨戒波羅蜜<lb
@@ -501,16 +502,16 @@
  n="1024b10" ed="T"/>便印具壽滿慈子言：「如是！如是！菩薩成就廣<lb
  n="1024b11" ed="T"/>大妙法，普勝獨覺及諸聲聞。」<lb
  n="1024b12" ed="T"/>
-</ab><ab type="juan" subtype="close">大般若波羅蜜多經卷第五百八十四</ab><lb
+</ab><ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百八十四</ab><lb
  n="1024b13" ed="T"/><lb
  n="1024b14" ed="T"/><lb
  n="1024b15" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百八<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百八<lb
  n="1024b16" ed="T"/>十五<lb
  n="1024b17" ed="T"/><lb
  n="1024b18" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
  n="1024b19" ed="T"/>第十二淨戒波羅蜜多分之二</ab><lb
- n="1024b20" ed="T"/><ab type="prose">時，舍利子復告具壽滿慈子言：「若諸菩薩修<lb
+ n="1024b20" ed="T"/><ab type='prose'>時，舍利子復告具壽滿慈子言：「若諸菩薩修<lb
  n="1024b21" ed="T"/>行淨戒波羅蜜多，見有少法名為作者，當知<lb
  n="1024b22" ed="T"/>雖住菩薩法中，而名棄捨諸菩薩法，是為菩<lb
  n="1024b23" ed="T"/>薩非理作意。若起如是非理作意，應知名為<lb
@@ -939,18 +940,18 @@
  n="1029b11" ed="T"/>如實了知所有集、滅、道聖諦若遠離若不遠離<lb
  n="1029b12" ed="T"/>皆不可得，如是名為於諦善巧。<lb
  n="1029b13" ed="T"/>
-</ab><ab type="juan" subtype="close">大般若波羅蜜多經卷第五百八十五</ab><lb
+</ab><ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百八十五</ab><lb
  n="1029b14" ed="T"/><lb
  n="1029b15" ed="T"/><lb
  n="1029b16" ed="T"/><lb
  n="1029b17" ed="T"/><lb
  n="1029b18" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百八<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百八<lb
  n="1029b19" ed="T"/>十六<lb
  n="1029b20" ed="T"/><lb
  n="1029b21" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
  n="1029b22" ed="T"/>第十二淨戒波羅蜜多分之三</ab><lb
- n="1029b23" ed="T"/><ab type="prose">「云何名為緣起善巧？謂諸菩薩如實了知所<lb
+ n="1029b23" ed="T"/><ab type='prose'>「云何名為緣起善巧？謂諸菩薩如實了知所<lb
  n="1029b24" ed="T"/>有因緣種種自相，如實了知所有等無間緣、<lb
  n="1029b25" ed="T"/>所緣緣、增上緣及從諸緣所生諸法種種自<lb
  n="1029b26" ed="T"/>相，如是名為緣起善巧。又諸菩薩如實了知<lb
@@ -1352,16 +1353,16 @@
  n="1034a16" ed="T"/>後時若遇善友，能緣真實一切智智，迴向無<lb
  n="1034a17" ed="T"/>上正等菩提，定當證得一切智智。<lb
  n="1034a18" ed="T"/>
-</ab><ab type="juan" subtype="close">大般若波羅蜜多經卷第五百八十六</ab><lb
+</ab><ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百八十六</ab><lb
  n="1034a19" ed="T"/><lb
  n="1034a20" ed="T"/><lb
  n="1034a21" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百八<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百八<lb
  n="1034a22" ed="T"/>十七<lb
  n="1034a23" ed="T"/><lb
  n="1034a24" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
  n="1034a25" ed="T"/>第十二淨戒波羅蜜多分之四</ab><lb
- n="1034a26" ed="T"/><ab type="prose">「又，滿慈子！有二菩薩俱證無上正等菩提：<lb
+ n="1034a26" ed="T"/><ab type='prose'>「又，滿慈子！有二菩薩俱證無上正等菩提：<lb
  n="1034a27" ed="T"/>一、有菩薩有方便善巧故，疾證無上正等菩<lb
  n="1034a28" ed="T"/>提。二、有菩薩無方便善巧故，遲證無上正等<lb
  n="1034a29" ed="T"/>菩提。具壽當知！寧為菩薩遲證無上正等菩<pb n="1034b" ed="T" id="T07.0220k.1034b"/><lb
@@ -1795,15 +1796,15 @@
  n="1039a21" ed="T"/>毀犯；若諸菩薩取著淨戒有所毀犯，定不能<lb
  n="1039a22" ed="T"/>證所求無上正等菩提。」<lb
  n="1039a23" ed="T"/>
-</ab><ab type="juan" subtype="close">大般若波羅蜜多經卷第五百八十七</ab><pb n="1039b" ed="T" id="T07.0220k.1039b"/><lb
+</ab><ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百八十七</ab><pb n="1039b" ed="T" id="T07.0220k.1039b"/><lb
  n="1039b01" ed="T"/><lb
  n="1039b02" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百八<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百八<lb
  n="1039b03" ed="T"/>十八<lb
  n="1039b04" ed="T"/><lb
  n="1039b05" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
  n="1039b06" ed="T"/>第十二淨戒波羅蜜多分之五</ab><lb
- n="1039b07" ed="T"/><ab type="prose">爾時，世尊告舍利子：「汝能如是安住妙智，謂<lb
+ n="1039b07" ed="T"/><ab type='prose'>爾時，世尊告舍利子：「汝能如是安住妙智，謂<lb
  n="1039b08" ed="T"/>如實知如是菩薩取著淨戒有所毀犯，如是<lb
  n="1039b09" ed="T"/>菩薩不取著戒無所毀犯。」時，舍利子便白佛<lb
  n="1039b10" ed="T"/>言：「我信如來、應、正等覺所說妙法起如是智，<lb
@@ -2212,5 +2213,5 @@
  n="1044a07" ed="T"/>天、龍、藥叉、人非人等，聞佛所說皆大歡喜、信<lb
  n="1044a08" ed="T"/>受奉行。<lb
  n="1044a09" ed="T"/>
-</ab><ab type="juan" subtype="close">大般若波羅蜜多經卷第五百八十八</ab></div></div>
+</ab><ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百八十八</ab></div></div></div>
 </body></text></TEI>

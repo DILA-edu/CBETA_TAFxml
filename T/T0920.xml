@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n0920</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0002b" id="T19.0920.0002b" ed="T"/><lb
  n="0002b01" ed="T"/><lb
  n="0002b02" ed="T"/><lb
  n="0002b03" ed="T"/>
-<ab type="juan" subtype="open">佛心經品亦通大隨求陀羅尼卷<lb
+<ab type='juan' subtype='open'>佛心經品亦通大隨求陀羅尼卷<lb
  n="0002b04" ed="T"/>上</ab><lb
  n="0002b05" ed="T"/><lb
  n="0002b06" ed="T"/><byline>三藏菩提流志奉　詔譯</byline><lb
- n="0002b07" ed="T"/><div type="jing" level="2"><ab type="prose">如是我聞。一時佛住俱焰彌國金剛山頂。遍<lb
+ n="0002b07" ed="T"/><div type='jing' level='2'><ab type='prose'>如是我聞。一時佛住俱焰彌國金剛山頂。遍<lb
  n="0002b08" ed="T"/>觀十方皆如火色。爾時如來即噓長歎。普視<lb
  n="0002b09" ed="T"/>眾生都無差途。善哉眾生當何所救。思惟已<lb
  n="0002b10" ed="T"/>訖。一切諸佛世界。及諸菩薩境界。上至三十<lb
@@ -133,10 +133,10 @@
  n="0003b02" ed="T"/>契護於大眾令心不動。即說呪曰。<lb
  n="0003b03" ed="T"/>一切佛心中心大陀羅尼<lb
  n="0003b04" ed="T"/></ab>
-<ab type="dharani">唵跋囉跋囉糝跋囉糝跋囉印地㗚耶微輸達<lb
+<ab type='dharani'>唵跋囉跋囉糝跋囉糝跋囉印地㗚耶微輸達<lb
  n="0003b05" ed="T"/>禰哈哈嚕嚕遮㘑迦嚕遮㘑莎嚩訶<lb
  n="0003b06" ed="T"/></ab>
-<ab type="prose">第一先以左右二手。二無名指各屈鉤。苾於<lb
+<ab type='prose'>第一先以左右二手。二無名指各屈鉤。苾於<lb
  n="0003b07" ed="T"/>中指後。以二大母指。各屈捻二小指甲上。二<lb
  n="0003b08" ed="T"/>頭指各屈。鉤二無名指頭。二中指直竪頭指<lb
  n="0003b09" ed="T"/>捻。合腕當於心上。其印即成。若人修持此契<lb
@@ -549,7 +549,7 @@
  n="0008a13" ed="T"/>初涅槃所授供養諸來化佛。是此契力。<lb
  n="0008a14" ed="T"/>爾時大眾得此契力。即共同聲讚歎佛德。<lb
  n="0008a15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 善哉救世者　　普示大神通　　<lb
  n="0008a16" ed="T"/>微小現十方　　俱獲大功德　　<lb
  n="0008a17" ed="T"/>佛身即凡體　　德力等十方　　<lb
@@ -557,10 +557,10 @@
  n="0008a19" ed="T"/>親族證此果　　咸遍於未來　　<lb
  n="0008a20" ed="T"/>當願凡夫音　　同佛語無異　　
 </ab><lb
- n="0008a21" ed="T"/><ab type="prose">爾時文殊師利法王子等。復以神通遍告十<lb
+ n="0008a21" ed="T"/><ab type='prose'>爾時文殊師利法王子等。復以神通遍告十<lb
  n="0008a22" ed="T"/>方而讚歎佛。<lb
  n="0008a23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 善哉聖師子　　慈光遍世間　　<lb
  n="0008a24" ed="T"/>微妙淨法身　　顯現希有事　　<lb
  n="0008a25" ed="T"/>久修而不了　　放光即菩提　　<lb
@@ -568,9 +568,9 @@
  n="0008a27" ed="T"/>當知盲聾道　　無過此慈悲　　<lb
  n="0008a28" ed="T"/>唯願後覺人　　亦同我今日　　
 </ab><lb
- n="0008a29" ed="T"/><ab type="prose">爾時如來說偈曰。<pb n="0008b" id="T19.0920.0008b" ed="T"/><lb
+ n="0008a29" ed="T"/><ab type='prose'>爾時如來說偈曰。<pb n="0008b" id="T19.0920.0008b" ed="T"/><lb
  n="0008b01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 一切諸身中　　莫過於佛體　　<lb
  n="0008b02" ed="T"/>所有要妙法　　無過諸佛心　　<lb
  n="0008b03" ed="T"/>將心示眾生　　眾生即佛體　　<lb
@@ -594,15 +594,15 @@
  n="0008b21" ed="T"/>若不依我此　　未見有菩提　　<lb
  n="0008b22" ed="T"/>縱於契經中　　所習多疑滯　　
 </ab><lb
- n="0008b23" ed="T"/><ab type="prose">爾時大眾聞此法已。歡喜奉行禮佛而退。<lb
+ n="0008b23" ed="T"/><ab type='prose'>爾時大眾聞此法已。歡喜奉行禮佛而退。<lb
  n="0008b24" ed="T"/>
-</ab><ab type="juan" subtype="close">佛心中心經卷上</ab><pb n="0008c" id="T19.0920.0008c" ed="T"/><lb
+</ab><ab type='juan' subtype='close'>佛心中心經卷上</ab><pb n="0008c" id="T19.0920.0008c" ed="T"/><lb
  n="0008c01" ed="T"/><lb
  n="0008c02" ed="T"/>
-<ab type="juan" subtype="open">佛心中心印品中卷下</ab><lb
+<ab type='juan' subtype='open'>佛心中心印品中卷下</ab><lb
  n="0008c03" ed="T"/><lb
  n="0008c04" ed="T"/><byline>三藏菩提流志奉　詔譯</byline><lb
- n="0008c05" ed="T"/><ab type="prose">爾時阿難處大眾中潛然憂愁。於其中間諸<lb
+ n="0008c05" ed="T"/><ab type='prose'>爾時阿難處大眾中潛然憂愁。於其中間諸<lb
  n="0008c06" ed="T"/>有經律一切藏門俱然掩閉。諸大金剛及諸<lb
  n="0008c07" ed="T"/>菩薩。一切所有靈祇遊世界者。乃至諸大龍<lb
  n="0008c08" ed="T"/>神仙眾。及百千萬億世界四天王等。乃至釋<lb
@@ -622,7 +622,7 @@
  n="0008c22" ed="T"/>未同佛見。其時阿難前禮佛足。五體投地眼<lb
  n="0008c23" ed="T"/>中垂淚。以偈問曰。<lb
  n="0008c24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 世界有菩薩　　現身得為佛　　<lb
  n="0008c25" ed="T"/>世界有菩薩　　能化無邊身　　<lb
  n="0008c26" ed="T"/>世界有菩薩　　能知佛所知　　<lb
@@ -642,7 +642,7 @@
  n="0009a11" ed="T"/>云何此人等　　不知此因緣　　<lb
  n="0009a12" ed="T"/>若此不知者　　下愚何能了　　
 </ab><lb
- n="0009a13" ed="T"/><ab type="prose">爾時毘盧遮那佛。於光明中出大音聲。歎阿<lb
+ n="0009a13" ed="T"/><ab type='prose'>爾時毘盧遮那佛。於光明中出大音聲。歎阿<lb
  n="0009a14" ed="T"/>難言。善哉佛子以是等菩薩雖有大慈慈不<lb
  n="0009a15" ed="T"/>遍故。所以不知。雖有大悲悲不遍故。所以不<lb
  n="0009a16" ed="T"/>知。雖有大忍忍不遍故。所以不知。雖有大通<lb
@@ -711,7 +711,7 @@
  n="0009c21" ed="T"/>自依持。以大神通即得如法也。乃諸菩薩金<lb
  n="0009c22" ed="T"/>剛久處佛行。亦至佛所即能學佛堅固住。<lb
  n="0009c23" ed="T"/>決定不退得菩提證。如諸下愚欲樂求者云<lb
- n="0009c24" ed="T"/>何得至。佛力廣大威德玄曠。志行深󰹩住<lb
+ n="0009c24" ed="T"/>何得至。佛力廣大威德玄曠。志行深𭲩住<lb
  n="0009c25" ed="T"/>大忍力然始得成。今者云何欲令眾生修學<lb
  n="0009c26" ed="T"/>此法。云何得如法云何證驗云何能了見。眾<lb
  n="0009c27" ed="T"/>生心事當見之。時有何法則得辨邪正。復有<lb
@@ -828,7 +828,7 @@
  n="0011a22" ed="T"/>爾時阿難唯身及心莫知所守。其時如來見<lb
  n="0011a23" ed="T"/>阿難心悔。即為阿難說除疑偈。<lb
  n="0011a24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 諸佛境界中　　小根所不及　　<lb
  n="0011a25" ed="T"/>久遠諸佛語　　菩薩不能知　　<lb
  n="0011a26" ed="T"/>諸佛神通中　　是境見非境　　<lb
@@ -893,7 +893,7 @@
  n="0011c27" ed="T"/>發念等菩提　　一切果位中　　<lb
  n="0011c28" ed="T"/>皆是佛心力　　
 </ab><lb
- n="0011c29" ed="T"/><ab type="prose">佛告阿難。我此句偈如虛空花。以佛神力即<pb n="0012a" id="T19.0920.0012a" ed="T"/><lb
+ n="0011c29" ed="T"/><ab type='prose'>佛告阿難。我此句偈如虛空花。以佛神力即<pb n="0012a" id="T19.0920.0012a" ed="T"/><lb
  n="0012a01" ed="T"/>便住虛空中成菩薩蓋。其此蓋下。復有百億<lb
  n="0012a02" ed="T"/>殑伽沙那庾多不可說不可說世界無邊量化<lb
  n="0012a03" ed="T"/>佛。復有如是不可說量法身佛。復有不可說<lb
@@ -912,7 +912,7 @@
  n="0012a16" ed="T"/>世界所起因緣所作事業。皆悉明了無不獲<lb
  n="0012a17" ed="T"/>果。其時阿難以偈歎佛。<lb
  n="0012a18" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 善哉我師釋迦文　　一音遍了大千界　　<lb
  n="0012a19" ed="T"/>以一微音度脫了　　眾生身分不覺知　　<lb
  n="0012a20" ed="T"/>善哉如來自在光　　是臭非臭皆照觸　　<lb
@@ -936,7 +936,7 @@
  n="0012b09" ed="T"/>我今下愚凡夫智　　若欲歎佛無窮盡　　<lb
  n="0012b10" ed="T"/>具以微心少歎耳　　願佛慈悲納受之　　
 </ab><lb
- n="0012b11" ed="T"/><ab type="prose">爾時阿難偈歎佛以白佛言。世尊我今愚<lb
+ n="0012b11" ed="T"/><ab type='prose'>爾時阿難偈歎佛以白佛言。世尊我今愚<lb
  n="0012b12" ed="T"/>淺雖以歎佛。佛神德故我不能宣。世尊如是<lb
  n="0012b13" ed="T"/>因緣。如是神力如是自在如是決定。我未聞<lb
  n="0012b14" ed="T"/>見。如來因何今乃說爾。如來久知眾生根性<lb
@@ -1046,10 +1046,10 @@
  n="0013c02" ed="T"/>欲求攝持。為有餘法為用心中心耶。若用此<lb
  n="0013c03" ed="T"/>心中心未見法則。佛告阿難。汝欲知法善聽。<lb
  n="0013c04" ed="T"/>復當為汝更說隨心陀羅尼。即說呪曰。</ab>
-<ab type="dharani">唵<lb
+<ab type='dharani'>唵<lb
  n="0013c05" ed="T"/>摩尼達哩吽泮吒<lb
  n="0013c07" ed="T"/></ab>
-<ab type="prose">若受持者不須擇日。不擇星宿日月。不問齊<lb
+<ab type='prose'>若受持者不須擇日。不擇星宿日月。不問齊<lb
  n="0013c08" ed="T"/>與不齊。於如來前或於像前或於淨室或舍<lb
  n="0013c09" ed="T"/>利塔前。隨心所持香花盡心供養。於白月十<lb
  n="0013c10" ed="T"/>五日洗浴清淨著新淨衣。隨力所辦供養。為<lb
@@ -1145,7 +1145,7 @@
  n="0014c13" ed="T"/>不可說變現。其時十方菩薩。見佛光明遍閻<lb
  n="0014c14" ed="T"/>浮提。各於心藏以偈歎佛。<lb
  n="0014c15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 善哉此光明　　是佛心中力　　<lb
  n="0014c16" ed="T"/>魔王雖覩見　　散滅無形身　　<lb
  n="0014c17" ed="T"/>善哉此光明　　是佛無礙力　　<lb
@@ -1174,12 +1174,12 @@
  n="0015a11" ed="T"/>我既修學已　　願佛存記之　　<lb
  n="0015a12" ed="T"/>若得隨心成　　俱時成正覺　　
 </ab><lb
- n="0015a13" ed="T"/><ab type="prose">爾時大眾聞佛所說。一一合掌持佛心中心。<lb
+ n="0015a13" ed="T"/><ab type='prose'>爾時大眾聞佛所說。一一合掌持佛心中心。<lb
  n="0015a14" ed="T"/>如來見即以舒金色臂。普為印頂受菩薩記。<lb
  n="0015a15" ed="T"/>其時大眾得佛授記。歡喜奉修禮佛而去。</ab></div><lb
  n="0015a16" ed="T"/>
-<ab type="juan" subtype="close">佛說心中經卷下</ab><lb
- n="0015a17" ed="T"/><div type="w" level="2"><ab type="prose">康安二年九月十日。以東寺御影堂本加<lb
+<ab type='juan' subtype='close'>佛說心中經卷下</ab><lb
+ n="0015a17" ed="T"/><div type='w' level='2'><ab type='prose'>康安二年九月十日。以東寺御影堂本加<lb
  n="0015a18" ed="T"/>挍直悞了。　　　　　　賢寶<lb
  n="0015a19" ed="T"/>天明二年壬寅六月十四日。以東寺觀智<lb
  n="0015a20" ed="T"/>院藏本。挍合朱書訖。　洛北蓮臺寺慈忍<lb

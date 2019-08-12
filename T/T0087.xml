@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0087</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0910c23" ed="T"/><lb
  n="0910c24" ed="T"/><lb
- n="0910c25" ed="T"/><div type="jing" level="1"><lb
+ n="0910c25" ed="T"/><div type='jing' level='1'><lb
  n="0910c26" ed="T"/>
-<ab type="juan" subtype="open">佛說齋經</ab><lb
+<ab type='juan' subtype='open'>佛說齋經</ab><lb
  n="0910c27" ed="T"/><lb
  n="0910c28" ed="T"/><byline>吳月氏國居士支謙譯</byline><lb
- n="0910c29" ed="T"/><ab type="prose">聞如是：一時，佛在舍衛城東丞相家殿。丞相<pb n="0911a" ed="T" id="T01.0087.0911a"/><lb
+ n="0910c29" ed="T"/><ab type='prose'>聞如是：一時，佛在舍衛城東丞相家殿。丞相<pb n="0911a" ed="T" id="T01.0087.0911a"/><lb
  n="0911a01" ed="T"/>母名維耶，早起沐浴著綵衣，與諸子婦俱出，<lb
  n="0911a02" ed="T"/>稽首佛足，一面坐。佛問維耶：「沐浴何早？」對曰：<lb
  n="0911a03" ed="T"/>「欲與諸婦俱受齋戒。」佛言：「齋有三輩，樂何等<lb
@@ -146,5 +146,5 @@
  n="0912a09" ed="T"/>受佛戒。從今已後月月六齋，竭力作福至<lb
  n="0912a10" ed="T"/>死。」佛說經已，皆歡喜受教。<lb
  n="0912a11" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說齋經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說齋經</ab></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T16</biblScope>
                     <idno type="Taisho">T16n0679</idno>
                 </bibl>
@@ -43,10 +43,10 @@
  n="0718a22" ed="T"/><lb
  n="0718a23" ed="T"/><lb
  n="0718a24" ed="T"/>
-<ab type="juan" subtype="open">相續解脫如來所作隨順處了義<lb
+<ab type='juan' subtype='open'>相續解脫如來所作隨順處了義<lb
  n="0718a25" ed="T"/>經</ab><lb
  n="0718a26" ed="T"/><lb
- n="0718a27" ed="T"/><div type="jing" level="1"><ab type="prose">如《相續解脫經》說：文殊師利白佛言：「世尊！世<lb
+ n="0718a27" ed="T"/><div type='jing' level='1'><ab type='prose'>如《相續解脫經》說：文殊師利白佛言：「世尊！世<lb
  n="0718a28" ed="T"/>尊所說如來法身，如來法身有何相？」佛告文殊<lb
  n="0718a29" ed="T"/>師利：「地波羅蜜，善修習乘身轉集成，文殊師<pb n="0718b" ed="T" id="T16.0679.0718b"/><lb
  n="0718b01" ed="T"/>利！是如來法身相。當知復有不可思議相，有<lb
@@ -178,7 +178,7 @@
  n="0719c11" ed="T"/>當知此是略說受持義。」爾時世尊欲重宣此<lb
  n="0719c12" ed="T"/>義，而說偈言：<lb
  n="0719c13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「染污清淨法，　　無作亦無人，　　<lb
  n="0719c14" ed="T"/>我說無所取，　　淨穢無先後。　　<lb
  n="0719c15" ed="T"/>愚於過患身，　　計我及我所，　　<lb
@@ -188,7 +188,7 @@
  n="0719c19" ed="T"/>煩惱不染著，　　畢竟快清淨，　　<lb
  n="0719c20" ed="T"/>永離諸虛偽，　　無為常住身。」　　
 </ab><lb
- n="0719c21" ed="T"/><ab type="prose">爾時文殊師利白佛言：「世尊！如來心起有何<lb
+ n="0719c21" ed="T"/><ab type='prose'>爾時文殊師利白佛言：「世尊！如來心起有何<lb
  n="0719c22" ed="T"/>相？」佛告文殊師利：「如來無心意識起，然如來<lb
  n="0719c23" ed="T"/>無行心起當知如化，若諸如來法身離一切<lb
  n="0719c24" ed="T"/>行者，云何無行中間心起？文殊師利，本所修<lb
@@ -244,5 +244,5 @@
  n="0720b16" ed="T"/>來所作隨順處了義說經時，七萬五千菩薩<lb
  n="0720b17" ed="T"/>得分別滿足法身三昧。</ab></div><lb
  n="0720b18" ed="T"/>
-<ab type="juan" subtype="close">如來所作隨順處了義說經</ab>
+<ab type='juan' subtype='close'>如來所作隨順處了義說經</ab>
 </body></text></TEI>

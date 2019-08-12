@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T24</biblScope>
                     <idno type="Taisho">T24n1457</idno>
                 </bibl>
@@ -39,40 +39,40 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0520c" ed="T" id="T24.1457.0520c"/><lb
  n="0520c01" ed="T"/><lb
  n="0520c02" ed="T"/><lb
  n="0520c03" ed="T"/>
-<ab type="juan" subtype="open">根本說一切有部略毘奈耶雜事<lb
+<ab type='juan' subtype='open'>根本說一切有部略毘奈耶雜事<lb
  n="0520c04" ed="T"/>攝頌一卷</ab><lb
  n="0520c05" ed="T"/><lb
  n="0520c06" ed="T"/><byline>三藏法師義淨奉　制譯</byline><lb
- n="0520c07" ed="T"/><div type="jing" level="2"><ab type="prose">此雜事中總有八門，以大門一頌攝盡宏綱，<lb
+ n="0520c07" ed="T"/><div type='jing' level='2'><ab type='prose'>此雜事中總有八門，以大門一頌攝盡宏綱，<lb
  n="0520c08" ed="T"/>一一門中各有別門，總攝八頌就別門中各<lb
  n="0520c09" ed="T"/>有十頌，合九十頌，并內攝頌向有千行。若能<lb
  n="0520c10" ed="T"/>讀誦憶持者，即可總閑其義。<lb
  n="0520c11" ed="T"/>大門總攝頌曰：<lb
  n="0520c12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 甎石及牛毛，　　三衣并上座；　　<lb
  n="0520c13" ed="T"/>舍利猛獸筋，　　笈多尼除塔。　　
 </ab><lb
- n="0520c14" ed="T"/><ab type="prose">第一別門總攝頌曰：<lb
+ n="0520c14" ed="T"/><ab type='prose'>第一別門總攝頌曰：<lb
  n="0520c15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 甎揩剪爪鉢，　　鏡生支蹈衣；　　<lb
  n="0520c16" ed="T"/>水羅生豆殊，　　洗足裙應結。　　
 </ab><lb
- n="0520c17" ed="T"/><ab type="prose">別門子攝頌十行：<lb
+ n="0520c17" ed="T"/><ab type='prose'>別門子攝頌十行：<lb
  n="0520c18" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 甎揩石白土，　　牛黃香益眼；　　<lb
  n="0520c19" ed="T"/>打柱等諸緣，　　瓔珞即應知。　　<lb
  n="0520c20" ed="T"/>剪爪髮揩光，　　春時飡小果；　　<lb
  n="0520c21" ed="T"/>渴聽五種藥，　　廣說大生緣。　　<lb
  n="0520c22" ed="T"/>綴鉢畜資具，　　刀子及針筒；　　<lb
- n="0520c23" ed="T"/>并以揁有三，　　是大仙開許。　　<lb
+ n="0520c23" ed="T"/>并衣揁有三，　　是大仙開許。　　<lb
  n="0520c24" ed="T"/>照鏡并鑒水，　　不應用梳刷；　　<lb
  n="0520c25" ed="T"/>頂上留長髮，　　浴室栗㚲毘。　　<lb
  n="0520c26" ed="T"/>生支當護面，　　不為歌舞樂；　　<lb
@@ -88,15 +88,15 @@
  n="0521a07" ed="T"/>結下裙不高，　　不持於重擔；　　<lb
  n="0521a08" ed="T"/>若病許杖絡，　　服蒜等隨聽。　　
 </ab><lb
- n="0521a09" ed="T"/><ab type="prose">第二別門總攝頌曰：<lb
+ n="0521a09" ed="T"/><ab type='prose'>第二別門總攝頌曰：<lb
  n="0521a10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 牛毛并傘蓋，　　披緂勝鬘緣，　　<lb
  n="0521a11" ed="T"/>出家藥湯瓶，　　門扇鎚斤斧。　　
 </ab><lb
- n="0521a12" ed="T"/><ab type="prose">別門子攝頌十行：<lb
+ n="0521a12" ed="T"/><ab type='prose'>別門子攝頌十行：<lb
  n="0521a13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 牛毛及隱處，　　同床不獨披；　　<lb
  n="0521a14" ed="T"/>若得白色衣，　　染覆方應用。　　<lb
  n="0521a15" ed="T"/>傘蓋無後世，　　歌聲不放火；　　<lb
@@ -113,20 +113,20 @@
  n="0521a26" ed="T"/>因斯尼涅槃，　　噉嚼俱開五。　　<lb
  n="0521a27" ed="T"/>安門扇釰孔，　　皮替處中窓；　　<lb
  n="0521a28" ed="T"/>內闊網扇樞，　　開店須羊甲。　　<lb
- n="0521a29" ed="T"/>鐵鎚及鎗子，　　鐵󰝼并木杴；　　<pb n="0521b" ed="T" id="T24.1457.0521b"/><lb
+ n="0521a29" ed="T"/>鐵鎚及鎗子，　　鐵鍤并木杴；　　<pb n="0521b" ed="T" id="T24.1457.0521b"/><lb
  n="0521b01" ed="T"/>釜床竈五百，　　斧鑿眾皆許。　　<lb
  n="0521b02" ed="T"/>許斤斧三梯，　　竹木繩隨事；　　<lb
  n="0521b03" ed="T"/>下灌造寺法，　　說難他因緣。　　
 </ab><lb
- n="0521b04" ed="T"/><ab type="prose">第三別門總攝頌曰：<lb
+ n="0521b04" ed="T"/><ab type='prose'>第三別門總攝頌曰：<lb
  n="0521b05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 三衣及衣架，　　河邊造寺鹽，　　<lb
  n="0521b06" ed="T"/>拭面拭身巾，　　寺座刀應畜。　　
 </ab><lb
- n="0521b07" ed="T"/><ab type="prose">別門子攝頌十行：<lb
+ n="0521b07" ed="T"/><ab type='prose'>別門子攝頌十行：<lb
  n="0521b08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 三衣條葉量，　　床脚拂遊塵；　　<lb
  n="0521b09" ed="T"/>行處著𣰽毺，　　扞石須時畜。　　<lb
  n="0521b10" ed="T"/>衣架及燈籠，　　勿使蟲傷損；　　<lb
@@ -148,20 +148,20 @@
  n="0521b26" ed="T"/>須剃刀應畜，　　及剪甲等物；　　<lb
  n="0521b27" ed="T"/>支床并偃枕，　　香土用隨情。　　
 </ab><lb
- n="0521b28" ed="T"/><ab type="prose">第四別門總攝頌曰：<lb
+ n="0521b28" ed="T"/><ab type='prose'>第四別門總攝頌曰：<lb
  n="0521b29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 上座及牆柵，　　緣破并養病，　　<pb n="0521c" ed="T" id="T24.1457.0521c"/><lb
  n="0521c01" ed="T"/>旃荼猪蔗寺，　　鉢依栽樹法。　　
 </ab><lb
- n="0521c02" ed="T"/><ab type="prose">別門子攝頌十行：<lb
+ n="0521c02" ed="T"/><ab type='prose'>別門子攝頌十行：<lb
  n="0521c03" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 上座翻次說，　　或可共至終；　　<lb
  n="0521c04" ed="T"/>濾作非時漿，　　處不為限齊。　　<lb
  n="0521c05" ed="T"/>牆柵尼剃具，　　不著打光衣；　　<lb
  n="0521c06" ed="T"/>得少亦平分，　　洗淨儀應識。　　<lb
- n="0521c07" ed="T"/>緣破須縫󰛧，　　明月聞便頌；　　<lb
+ n="0521c07" ed="T"/>緣破須縫𭢗，　　明月聞便頌；　　<lb
  n="0521c08" ed="T"/>依止知差別，　　三人共坐聽。　　<lb
  n="0521c09" ed="T"/>養病除性罪，　　將圓不昇樹；　　<lb
  n="0521c10" ed="T"/>王臣不受戒，　　斬手不應為。　　<lb
@@ -180,15 +180,15 @@
  n="0521c23" ed="T"/>須知栽樹法，　　賊緂作神通；　　<lb
  n="0521c24" ed="T"/>若得上帔衣，　　不應割去𦆠。　　
 </ab><lb
- n="0521c25" ed="T"/><ab type="prose">第五別門總攝頌曰：<lb
+ n="0521c25" ed="T"/><ab type='prose'>第五別門總攝頌曰：<lb
  n="0521c26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 焚屍詰三轉，　　捨墮我身亡；　　<lb
  n="0521c27" ed="T"/>界苾芻不應，　　不合五皮用。　　
 </ab><lb
- n="0521c28" ed="T"/><ab type="prose">別門子攝頌十行：<lb
+ n="0521c28" ed="T"/><ab type='prose'>別門子攝頌十行：<lb
  n="0521c29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 焚屍誦三啟，　　目連因打亡；　　<pb n="0522a" ed="T" id="T24.1457.0522a"/><lb
  n="0522a01" ed="T"/>不應廣大作，　　多護諸珍寶。　　<lb
  n="0522a02" ed="T"/>詰問令憶念，　　問彼容許不；　　<lb
@@ -210,17 +210,17 @@
  n="0522a18" ed="T"/>五皮不應用，　　餘類亦同然；　　<lb
  n="0522a19" ed="T"/>若患痔病時，　　熊皮履應著。　　
 </ab><lb
- n="0522a20" ed="T"/><ab type="prose">第六門總攝頌曰：<lb
+ n="0522a20" ed="T"/><ab type='prose'>第六門總攝頌曰：<lb
  n="0522a21" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 猛獸筋不應，　　燈光及勇健；　　<lb
  n="0522a22" ed="T"/>馱索度尼法，　　因許喬答彌。　　<lb
  n="0522a23" ed="T"/>尼不前長者，　　可與餘臥具；　　<lb
  n="0522a24" ed="T"/>不合輒灒水，　　是總頌應知。　　
 </ab><lb
- n="0522a25" ed="T"/><ab type="prose">別門子攝頌十行：<lb
+ n="0522a25" ed="T"/><ab type='prose'>別門子攝頌十行：<lb
  n="0522a26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 猛獸筋皮綖，　　擁前復擁後；　　<lb
  n="0522a27" ed="T"/>兩角及尖頭，　　諸靴皆不合。　　<lb
  n="0522a28" ed="T"/>四大王初誕，　　光明普皆照；　　<lb
@@ -282,17 +282,17 @@
  n="0522c26" ed="T"/>苾芻餘臥具，　　應與苾芻尼；　　<lb
  n="0522c27" ed="T"/>尼不踏橋板，　　不著裝身物。　　<lb
  n="0522c28" ed="T"/>不灒水污衣，　　不持死胎子；　　<lb
- n="0522c29" ed="T"/>不吞於不淨，　　觸已子非他。　　
+ n="0522c29" ed="T"/>不吞於不淨，　　觸己子非他。　　
 </ab><pb n="0523a" ed="T" id="T24.1457.0523a"/><lb
- n="0523a01" ed="T"/><ab type="prose">第七別門總攝頌曰：<lb
+ n="0523a01" ed="T"/><ab type='prose'>第七別門總攝頌曰：<lb
  n="0523a02" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 笈多尼不住，　　僧脚崎二形，　　<lb
  n="0523a03" ed="T"/>道小羯磨沽，　　轉根寺外石。　　
 </ab><lb
- n="0523a04" ed="T"/><ab type="prose">別門子攝頌十行：<lb
+ n="0523a04" ed="T"/><ab type='prose'>別門子攝頌十行：<lb
  n="0523a05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 笈多共兒宿，　　王舍藥叉神；　　<lb
  n="0523a06" ed="T"/>施兒衣繫項，　　稱名與祭食。　　<lb
  n="0523a07" ed="T"/>尼不住蘭若，　　不居城外寺；　　<lb
@@ -300,7 +300,7 @@
  n="0523a09" ed="T"/>許著僧脚崎，　　有男不池浴；　　<lb
  n="0523a10" ed="T"/>交衢不應越，　　宜在一邊行。　　<lb
  n="0523a11" ed="T"/>若是二形女，　　或是合道類；　　<lb
- n="0523a12" ed="T"/>或常血流出，　　及時無血人。　　<lb
+ n="0523a12" ed="T"/>或常血流出，　　及是無血人。　　<lb
  n="0523a13" ed="T"/>道小著內衣，　　近苾芻不唾；　　<lb
  n="0523a14" ed="T"/>僧尼不對說，　　當於自眾邊。　　<lb
  n="0523a15" ed="T"/>苾芻作羯磨，　　尼可用心聽；　　<lb
@@ -314,15 +314,15 @@
  n="0523a23" ed="T"/>不以骨及石，　　若木或拳揩；　　<lb
  n="0523a24" ed="T"/>唯用手摩身，　　餘物皆不合。　　
 </ab><lb
- n="0523a25" ed="T"/><ab type="prose">第八門總攝頌曰：<lb
+ n="0523a25" ed="T"/><ab type='prose'>第八門總攝頌曰：<lb
  n="0523a26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 除塔懺門前，　　被差不應畜，　　<lb
  n="0523a27" ed="T"/>不共女由婦，　　瀉藥三衣蛇。　　
 </ab><lb
- n="0523a28" ed="T"/><ab type="prose">別門子攝頌十行：<lb
+ n="0523a28" ed="T"/><ab type='prose'>別門子攝頌十行：<lb
  n="0523a29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 除塔損波離，　　僧制不應越；　　<pb n="0523b" ed="T" id="T24.1457.0523b"/><lb
  n="0523b01" ed="T"/>尼無難聽入，　　教誡等相隨。　　<lb
  n="0523b02" ed="T"/>尼懺不應輕，　　隨意不長淨；　　<lb
@@ -350,15 +350,15 @@
  n="0523b24" ed="T"/>行雨竹林內，　　修理波吒邑；　　<lb
  n="0523b25" ed="T"/>渡河詣小樹，　　漸向涅槃等。　　
 </ab><lb
- n="0523b26" ed="T"/><ab type="prose">第三十七卷記四黑白，次明涅槃事。<lb
+ n="0523b26" ed="T"/><ab type='prose'>第三十七卷記四黑白，次明涅槃事。<lb
  n="0523b27" ed="T"/>第三十八說善賢外道得果事，次說諸國爭<lb
  n="0523b28" ed="T"/>舍利事。<lb
  n="0523b29" ed="T"/>第三十九說婆羅門與諸國分舍利，及牛主<pb n="0523c" ed="T" id="T24.1457.0523c"/><lb
  n="0523c01" ed="T"/>結集事等。<lb
  n="0523c02" ed="T"/>第四十說五百及七百結集事。</ab></div><lb
  n="0523c03" ed="T"/>
-<ab type="juan" subtype="close">根本說一切有部略毘奈耶雜事攝頌一卷</ab><lb
- n="0523c04" ed="T"/><div type="w" level="2"><ab type="prose">大唐景龍四年歲次庚戌四月辛巳朔十五<lb
+<ab type='juan' subtype='close'>根本說一切有部略毘奈耶雜事攝頌一卷</ab><lb
+ n="0523c04" ed="T"/><div type='w' level='2'><ab type='prose'>大唐景龍四年歲次庚戌四月辛巳朔十五<lb
  n="0523c05" ed="T"/>日景申，三藏法師大德義淨宣釋梵本並綴<lb
  n="0523c06" ed="T"/>文正字<lb
  n="0523c07" ed="T"/>翻經沙門吐火羅大德達摩秫磨證梵義<lb

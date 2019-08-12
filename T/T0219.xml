@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T04</biblScope>
                     <idno type="Taisho">T04n0219</idno>
                 </bibl>
@@ -43,12 +43,12 @@
  n="0802a14" ed="T"/><lb
  n="0802a15" ed="T"/><lb
  n="0802a16" ed="T"/>
-<ab type="juan" subtype="open">佛說醫喻經</ab><lb
+<ab type='juan' subtype='open'>佛說醫喻經</ab><lb
  n="0802a17" ed="T"/><lb
  n="0802a18" ed="T"/><byline>西天譯經三藏朝奉大<lb
  n="0802a19" ed="T"/>夫試光祿卿傳法大師<lb
  n="0802a20" ed="T"/>賜紫臣施護奉　詔譯</byline><lb
- n="0802a21" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時世尊在舍衛國中，與苾芻眾<lb
+ n="0802a21" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時世尊在舍衛國中，與苾芻眾<lb
  n="0802a22" ed="T"/>俱。是時世尊，告諸苾芻言：「汝等當知，如世良<lb
  n="0802a23" ed="T"/>醫，知病識藥，有其四種，若具足者，得名醫<lb
  n="0802a24" ed="T"/>王。何等為四？一者識知某病，應用某藥；二者<lb
@@ -78,5 +78,5 @@
  n="0802b19" ed="T"/>如意自在，如來、應供、正等正覺亦復如是。」佛<lb
  n="0802b20" ed="T"/>說此經已，諸苾芻眾，歡喜信受。<lb
  n="0802b21" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說醫喻經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說醫喻經</ab></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1245</idno>
                 </bibl>
@@ -41,25 +41,25 @@
     <text>
         <body><pb n="0217a" id="T21.1245.0217a" ed="T"/><lb
  n="0217a01" ed="T"/><lb
- n="0217a02" ed="T"/><div type="jing" level="1"><lb
+ n="0217a02" ed="T"/><div type='jing' level='1'><lb
  n="0217a03" ed="T"/>
-<ab type="juan" subtype="open">佛說毘沙門天王經</ab><lb
+<ab type='juan' subtype='open'>佛說毘沙門天王經</ab><lb
  n="0217a04" ed="T"/><lb
  n="0217a05" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚卿<lb
  n="0217a06" ed="T"/>傳教大師臣法天奉　詔譯</byline><lb
- n="0217a07" ed="T"/><ab type="prose">如是我聞。一時佛在舍衛國祇樹給孤獨園。<lb
+ n="0217a07" ed="T"/><ab type='prose'>如是我聞。一時佛在舍衛國祇樹給孤獨園。<lb
  n="0217a08" ed="T"/>爾時毘沙門天王。與百千無數藥叉眷屬。於<lb
  n="0217a09" ed="T"/>初夜分俱來佛所。放大光明照祇陀園一切<lb
  n="0217a10" ed="T"/>境界。五體投地禮世尊足。住立一面合掌向<lb
  n="0217a11" ed="T"/>佛以偈讚曰。<lb
  n="0217a12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 歸命大無畏　　正覺二足尊　　<lb
  n="0217a13" ed="T"/>諸天以天眼　　觀我無所見　　<lb
  n="0217a14" ed="T"/>過現未來佛　　三世慈悲主　　<lb
  n="0217a15" ed="T"/>一一正遍知　　我今歸命禮　　
 </ab><lb
- n="0217a16" ed="T"/><ab type="prose">爾時毘沙門天王說此偈已。白佛言世尊。有<lb
+ n="0217a16" ed="T"/><ab type='prose'>爾時毘沙門天王說此偈已。白佛言世尊。有<lb
  n="0217a17" ed="T"/>諸聲聞苾芻苾芻尼優婆塞優婆夷。或於曠<lb
  n="0217a18" ed="T"/>野林間樹下經行坐臥。我此藥叉非人之類。<lb
  n="0217a19" ed="T"/>有信佛言者有少信之者。復有無數諸惡藥<lb
@@ -125,11 +125,11 @@
  n="0217c21" ed="T"/>護國界。時毘沙門天王承佛慈力。次第宣說<lb
  n="0217c22" ed="T"/>真言曰。<lb
  n="0217c23" ed="T"/></ab>
-<ab type="dharani">怛儞也他伊梨彌梨伊隷緊吒母隷呬<lb
+<ab type='dharani'>怛儞也他伊梨彌梨伊隷緊吒母隷呬<lb
  n="0217c24" ed="T"/>隷緊致母隷賀那彌護努里努彌矯里巘<lb
  n="0217c25" ed="T"/>馱里虞努呬儞烏枳護枳娑嚩賀<lb
  n="0217c26" ed="T"/></ab>
-<ab type="prose">爾時毘沙門天王說真言已。白佛言世尊。復<lb
+<ab type='prose'>爾時毘沙門天王說真言已。白佛言世尊。復<lb
  n="0217c27" ed="T"/>有諸大乾闥婆眾。與我而為兄弟。其名曰欲<lb
  n="0217c28" ed="T"/>麼覩樂麼覩歌麼多麼羅麼覩麼度麼多花醉<lb
  n="0217c29" ed="T"/>恒醉吉祥醉財醉難禰迦青蓮華白蓮華月<pb n="0218a" id="T21.1245.0218a" ed="T"/><lb
@@ -139,11 +139,11 @@
  n="0218a04" ed="T"/>若有惱亂有情而不捨離者。聞此真言頭破<lb
  n="0218a05" ed="T"/>作七分。如阿梨樹枝真言曰。<lb
  n="0218a06" ed="T"/></ab>
-<ab type="dharani">怛儞也他供覩梨供覩羅曀呬娑那曼<lb
+<ab type='dharani'>怛儞也他供覩梨供覩羅曀呬娑那曼<lb
  n="0218a07" ed="T"/>底計娑那伴尼底計底瑟吒努瑟吒滿<lb
  n="0218a08" ed="T"/>度細娑嚩賀<lb
  n="0218a09" ed="T"/></ab>
-<ab type="prose">世尊若有聲聞苾芻苾芻尼優婆塞優婆夷。<lb
+<ab type='prose'>世尊若有聲聞苾芻苾芻尼優婆塞優婆夷。<lb
  n="0218a10" ed="T"/>於此經中受持讀誦禮敬供養廣為人說。彼<lb
  n="0218a11" ed="T"/>乾闥婆及父母兄弟男女眷屬等。皆不能為<lb
  n="0218a12" ed="T"/>害。常來親近侍奉衛護。若有惱害者即失威<lb
@@ -157,10 +157,10 @@
  n="0218a20" ed="T"/>枝亦不得往阿拏迦嚩帝大城中住。真言<lb
  n="0218a21" ed="T"/>曰。<lb
  n="0218a22" ed="T"/></ab>
-<ab type="dharani">怛儞也他護彌護彌護彌羅嚩帝<lb
+<ab type='dharani'>怛儞也他護彌護彌護彌羅嚩帝<lb
  n="0218a23" ed="T"/>曳娑嚩賀<lb
  n="0218a24" ed="T"/></ab>
-<ab type="prose">世尊復有鳩盤拏眾。其名曰難多烏波難多<lb
+<ab type='prose'>世尊復有鳩盤拏眾。其名曰難多烏波難多<lb
  n="0218a25" ed="T"/>　訖里計輸麼賀波囉輸　摩斛那囉捺舍<lb
  n="0218a26" ed="T"/>賀娑覩部彌左嚕末麼　訖里瑟拏<lb
  n="0218a27" ed="T"/>路呬多　阿婆囉嚩囉拏尾麼路禰里伽囉<lb
@@ -171,11 +171,11 @@
  n="0218b03" ed="T"/>亂一切有情。若有惱亂者聞此真言。頭破作<lb
  n="0218b04" ed="T"/>七分如阿梨樹枝。真言曰。<lb
  n="0218b05" ed="T"/></ab>
-<ab type="dharani">怛儞也他悉里尾悉里悉里尾悉里訖<lb
+<ab type='dharani'>怛儞也他悉里尾悉里悉里尾悉里訖<lb
  n="0218b06" ed="T"/>里瑟拏蹉誐隷迦囉尼卑孕誐隷<lb
  n="0218b07" ed="T"/>娑嚩賀<lb
  n="0218b08" ed="T"/></ab>
-<ab type="prose">世尊若有聲聞苾芻苾芻尼優婆塞優婆夷。<lb
+<ab type='prose'>世尊若有聲聞苾芻苾芻尼優婆塞優婆夷。<lb
  n="0218b09" ed="T"/>於此經中受持讀誦。禮敬供養廣為人說。彼<lb
  n="0218b10" ed="T"/>鳩盤拏眾及父母兄弟男女眷屬等。皆不能<lb
  n="0218b11" ed="T"/>為害。常來親近侍奉衛護。若有惱害者即失<lb
@@ -189,10 +189,10 @@
  n="0218b19" ed="T"/>樹枝。亦不得往阿拏迦嚩帝大城中住。真言<lb
  n="0218b20" ed="T"/>曰。<lb
  n="0218b21" ed="T"/></ab>
-<ab type="dharani">怛儞也他喻彌喻彌隷喻彌羅嚩帝曳<lb
+<ab type='dharani'>怛儞也他喻彌喻彌隷喻彌羅嚩帝曳<lb
  n="0218b22" ed="T"/>娑嚩賀<lb
  n="0218b23" ed="T"/></ab>
-<ab type="prose">世尊我今復說諸大龍眾。其名曰難努波難<lb
+<ab type='prose'>世尊我今復說諸大龍眾。其名曰難努波難<lb
  n="0218b24" ed="T"/>努難禰嚩嚩穌計里跋捺囉　惹敢迦卑<lb
  n="0218b25" ed="T"/>孕誐路那地迦囉拏印捺囉嚩護莎悉<lb
  n="0218b26" ed="T"/>帝　迦阿輸俱彌多輸迦尾鉢囉目訖覩<lb
@@ -203,10 +203,10 @@
  n="0218c03" ed="T"/>是龍等惱亂有情。聞此真言頭破作七分如<lb
  n="0218c04" ed="T"/>阿梨樹枝。真言曰。<lb
  n="0218c05" ed="T"/></ab>
-<ab type="dharani">怛儞也他唧隷尾唧隷唧隷尾唧隷虞<lb
+<ab type='dharani'>怛儞也他唧隷尾唧隷唧隷尾唧隷虞<lb
  n="0218c06" ed="T"/>里巘馱里摩鄧霓贊拏隷娑嚩賀<lb
  n="0218c07" ed="T"/></ab>
-<ab type="prose">世尊若有聲聞苾芻苾芻尼優婆塞優婆夷。<lb
+<ab type='prose'>世尊若有聲聞苾芻苾芻尼優婆塞優婆夷。<lb
  n="0218c08" ed="T"/>於此經中受持讀誦。禮敬供養廣為人說。彼<lb
  n="0218c09" ed="T"/>諸龍眾及彼父母兄弟男女眷屬等。皆不能<lb
  n="0218c10" ed="T"/>為害。常來親近侍奉衛護。若有惱害者即失<lb
@@ -220,10 +220,10 @@
  n="0218c18" ed="T"/>分如阿梨樹枝。亦不能往阿拏迦嚩帝大城<lb
  n="0218c19" ed="T"/>中住。真言曰。<lb
  n="0218c20" ed="T"/></ab>
-<ab type="dharani">怛儞也他阿閉嚩賀儞嚩帝曳娑嚩<lb
+<ab type='dharani'>怛儞也他阿閉嚩賀儞嚩帝曳娑嚩<lb
  n="0218c21" ed="T"/>賀<lb
  n="0218c22" ed="T"/></ab>
-<ab type="prose">世尊我今說彼藥叉大將。其名曰印捺囉<lb
+<ab type='prose'>世尊我今說彼藥叉大將。其名曰印捺囉<lb
  n="0218c23" ed="T"/>穌謨嚩嚕拏鉢囉惹鉢帝婆羅捺嚩惹　伊<lb
  n="0218c24" ed="T"/>舍曩　室左難曩　迦麼　室里瑟姹　俱儞建跓<lb
  n="0218c25" ed="T"/>　儞軍吒　摩尼里摩尼里摩尼左囉　鉢囉拏<lb
@@ -236,11 +236,11 @@
  n="0219a03" ed="T"/>惱亂有情而不捨離者。聞此真言頭破作七<lb
  n="0219a04" ed="T"/>分如阿梨樹枝。真言曰。<lb
  n="0219a05" ed="T"/></ab>
-<ab type="dharani">怛儞也他呬隷彌隷呬彌隷吉里帝<lb
+<ab type='dharani'>怛儞也他呬隷彌隷呬彌隷吉里帝<lb
  n="0219a06" ed="T"/>母隷呬隷吉里帝母隷唵凍彌凍彌烏<lb
  n="0219a07" ed="T"/>凍麼烏凍彌烏企彌企虞努呬部凌誐里乙里史散多儞娑嚩賀<lb
  n="0219a09" ed="T"/></ab>
-<ab type="prose">世尊若有聲聞苾芻苾芻尼優婆塞優婆夷。<lb
+<ab type='prose'>世尊若有聲聞苾芻苾芻尼優婆塞優婆夷。<lb
  n="0219a10" ed="T"/>於此經中受持讀誦。禮敬供養廣為人說。彼<lb
  n="0219a11" ed="T"/>諸藥叉及彼父母兄弟男女眷屬等。皆不能<lb
  n="0219a12" ed="T"/>為害。若有惱亂者即失威力。不能得藥叉三<lb
@@ -254,22 +254,22 @@
  n="0219a20" ed="T"/>樹枝。亦不能往阿拏迦嚩帝大城中住。真言<lb
  n="0219a21" ed="T"/>曰。<lb
  n="0219a22" ed="T"/></ab>
-<ab type="dharani">怛儞也他呬隷呬隷護嚕護嚕喻彌喻彌<lb
+<ab type='dharani'>怛儞也他呬隷呬隷護嚕護嚕喻彌喻彌<lb
  n="0219a23" ed="T"/>羅嚩帝曳娑嚩賀</ab>
-<ab type="prose">毘沙門天王說此<lb
+<ab type='prose'>毘沙門天王說此<lb
  n="0219a24" ed="T"/>阿吒曩胝經已。禮世尊足却住一面。<lb
  n="0219a25" ed="T"/>爾時釋迦牟尼佛。於夜分中告苾芻眾言。如<lb
  n="0219a26" ed="T"/>是此經有大威力能為明護。彼毘沙門天王<lb
  n="0219a27" ed="T"/>與無數百千藥叉眷屬。放大光明照祇陀園<lb
  n="0219a28" ed="T"/>一切境界。說伽他曰。<lb
  n="0219a29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 歸命大無畏　　正覺二足尊　　<pb n="0219b" id="T21.1245.0219b" ed="T"/><lb
  n="0219b01" ed="T"/>諸天以天眼　　觀我無所見　　<lb
  n="0219b02" ed="T"/>過去未來佛　　三世慈悲主　　<lb
  n="0219b03" ed="T"/>一一正遍知　　我今歸命禮　　
 </ab><lb
- n="0219b04" ed="T"/><ab type="prose">說此偈已而白佛言。有諸聲聞苾芻苾芻尼<lb
+ n="0219b04" ed="T"/><ab type='prose'>說此偈已而白佛言。有諸聲聞苾芻苾芻尼<lb
  n="0219b05" ed="T"/>優婆塞優婆夷。於曠野林間樹下經行坐臥。<lb
  n="0219b06" ed="T"/>有諸藥叉非人之類。有信佛言者有少信者。<lb
  n="0219b07" ed="T"/>有極惡不信者。惱亂有情令不安隱。說此經<lb
@@ -278,5 +278,5 @@
  n="0219b10" ed="T"/>當受持廣宣流布。說是語已天龍藥叉人非<lb
  n="0219b11" ed="T"/>人等皆大歡喜信受奉行。<lb
  n="0219b12" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說毘沙門天王經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說毘沙門天王經</ab></div>
 </body></text></TEI>

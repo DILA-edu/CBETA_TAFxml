@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T17</biblScope>
                     <idno type="Taisho">T17n0831</idno>
                 </bibl>
@@ -43,10 +43,10 @@
  n="0876a01" ed="T"/><lb
  n="0876a02" ed="T"/><lb
  n="0876a03" ed="T"/>
-<ab type="juan" subtype="open">謗佛經</ab><lb
+<ab type='juan' subtype='open'>謗佛經</ab><lb
  n="0876a04" ed="T"/><lb
  n="0876a05" ed="T"/><byline>元魏天竺三藏菩提流支譯</byline><lb
- n="0876a06" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時，婆伽婆住王舍城耆闍崛山<lb
+ n="0876a06" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時，婆伽婆住王舍城耆闍崛山<lb
  n="0876a07" ed="T"/>中，與大比丘眾千二百五十人俱，菩薩八十<lb
  n="0876a08" ed="T"/>千。爾時會中有菩薩摩訶薩，名離憂悲，在<lb
  n="0876a09" ed="T"/>大會坐，師子遊戲菩薩摩訶薩、智光明菩<lb
@@ -81,7 +81,7 @@
  n="0876b09" ed="T"/>曾謗佛來，是故不能速疾得通。」爾時不畏行<lb
  n="0876b10" ed="T"/>菩薩摩訶薩即以偈頌問如來曰：<lb
  n="0876b11" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「我今問仁曰，　　光明之法王，　　<lb
  n="0876b12" ed="T"/>若行菩薩行，　　惡業云何淨？　　<lb
  n="0876b13" ed="T"/>無量勝智名，　　十力無障智，　　<lb
@@ -103,7 +103,7 @@
  n="0876b29" ed="T"/>願說離三垢，　　云何離不善？　　<pb n="0876c" ed="T" id="T17.0831.0876c"/><lb
  n="0876c01" ed="T"/>願說菩薩行，　　調御益眾生。」　　
 </ab><lb
- n="0876c02" ed="T"/><ab type="prose">爾時世尊告不畏行菩薩摩訶薩言：「善男子！<lb
+ n="0876c02" ed="T"/><ab type='prose'>爾時世尊告不畏行菩薩摩訶薩言：「善男子！<lb
  n="0876c03" ed="T"/>此十菩薩本曾謗佛。」不畏行菩薩言：「世尊！云<lb
  n="0876c04" ed="T"/>何謗佛？」佛言：「不畏行！此十菩薩乃往過去第<lb
  n="0876c05" ed="T"/>三十劫，有佛號曰觀世自在如來、應、正遍知，<lb
@@ -159,7 +159,7 @@
  n="0877a26" ed="T"/>苦所不能于，是故菩薩摩訶薩常應自護，<lb
  n="0877a27" ed="T"/>勿謗法師。」爾時世尊而說偈言：<lb
  n="0877a28" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「若欲供養佛，　　若欲禮如來，　　<lb
  n="0877a29" ed="T"/>但供養佛子，　　第一供養佛。　　<pb n="0877b" ed="T" id="T17.0831.0877b"/><lb
  n="0877b01" ed="T"/>我說以衣鉢，　　坐臥經行處，　　<lb
@@ -173,12 +173,12 @@
  n="0877b09" ed="T"/>若從今已去，　　常供養法師，　　<lb
  n="0877b10" ed="T"/>不謗不說者，　　則報諸佛恩。」　　
 </ab><lb
- n="0877b11" ed="T"/><ab type="prose">爾時不畏行菩薩摩訶薩白佛言：「世尊！有方<lb
+ n="0877b11" ed="T"/><ab type='prose'>爾時不畏行菩薩摩訶薩白佛言：「世尊！有方<lb
  n="0877b12" ed="T"/>便門令此菩薩淨惡業不？」佛言：「有。不畏行！<lb
  n="0877b13" ed="T"/>有陀羅尼，此善男子若能出家專心誦此陀<lb
  n="0877b14" ed="T"/>羅尼句，惡業則淨。<lb
  n="0877b15" ed="T"/></ab>
-<ab type="dharani">「多軼他阿制阿車婆坻<lb
+<ab type='dharani'>「多軼他阿制阿車婆坻<lb
  n="0877b16" ed="T"/>阿那毘麗阿施黎殺阿訖吏帝阿那<lb
  n="0877b17" ed="T"/>由系阿系阿毘何離阿婆<lb
  n="0877b18" ed="T"/>婆頭樓唐鵝磨由多若多納波囉頗閉<lb
@@ -186,7 +186,7 @@
  n="0877b20" ed="T"/>麗娑遲摩細三摩提余知那耶波離<lb
  n="0877b21" ed="T"/>舒池帝<lb
  n="0877b22" ed="T"/></ab>
-<ab type="prose">「善男子！此十善男子若能誦此陀羅尼句，<lb
+<ab type='prose'>「善男子！此十善男子若能誦此陀羅尼句，<lb
  n="0877b23" ed="T"/>於七日中一切放捨，不食雜食心不散亂，不<lb
  n="0877b24" ed="T"/>著諸色心不分別，捨憍慢意，常誦不止，更無<lb
  n="0877b25" ed="T"/>所作，不與人雜，行平等心常行利益，心常修<lb
@@ -211,7 +211,7 @@
  n="0877c15" ed="T"/>此是四法菩薩摩訶薩清淨菩提法。」爾時世<lb
  n="0877c16" ed="T"/>尊為明此義，以偈說曰：<lb
  n="0877c17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「若能信解空，　　佛說第一法，　　<lb
  n="0877c18" ed="T"/>如是清淨行，　　行常不放逸。　　<lb
  n="0877c19" ed="T"/>不破壞眾生，　　不說破壞語，　　<lb
@@ -223,7 +223,7 @@
  n="0877c25" ed="T"/>決定生悲心，　　說法不求利，　　<lb
  n="0877c26" ed="T"/>如深心憐愍，　　第四道智淨。　　
 </ab><lb
- n="0877c27" ed="T"/><ab type="prose">「復次善男子！修陀羅尼菩薩摩訶薩，阿蘭若<lb
+ n="0877c27" ed="T"/><ab type='prose'>「復次善男子！修陀羅尼菩薩摩訶薩，阿蘭若<lb
  n="0877c28" ed="T"/>行，親近聞法，著鮮淨衣，獨住閑居，四威儀<lb
  n="0877c29" ed="T"/>中常思惟行，以種種物布施法師，生正信心<pb n="0878a" ed="T" id="T17.0831.0878a"/><lb
  n="0878a01" ed="T"/>不隨他語，不生疲倦，常精進行心不諭諂，<lb
@@ -250,5 +250,5 @@
  n="0878a22" ed="T"/>丘一切眾會，并諸天、人及阿修羅、乾闥婆等，<lb
  n="0878a23" ed="T"/>聞佛所說，皆大歡喜。</ab></div><lb
  n="0878a24" ed="T"/>
-<ab type="juan" subtype="close">謗佛經</ab>
+<ab type='juan' subtype='close'>謗佛經</ab>
 </body></text></TEI>

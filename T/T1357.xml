@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1357</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0875b06" ed="T"/><lb
  n="0875b07" ed="T"/><lb
- n="0875b08" ed="T"/><div type="jing" level="1"><lb
+ n="0875b08" ed="T"/><div type='jing' level='1'><lb
  n="0875b09" ed="T"/>
-<ab type="juan" subtype="open">佛說師子奮迅菩薩所問經</ab><lb
+<ab type='juan' subtype='open'>佛說師子奮迅菩薩所問經</ab><lb
  n="0875b10" ed="T"/><lb
  n="0875b11" ed="T"/><byline>失譯人名今附東晉錄</byline><lb
- n="0875b12" ed="T"/><ab type="prose">如是我聞。一時佛在阿耨大池邊龍王宮中。<lb
+ n="0875b12" ed="T"/><ab type='prose'>如是我聞。一時佛在阿耨大池邊龍王宮中。<lb
  n="0875b13" ed="T"/>與大比丘僧五百人俱。大菩薩眾滿足千人。<lb
  n="0875b14" ed="T"/>皆得陀羅尼。住於十地應紹尊位。一生當得<lb
  n="0875b15" ed="T"/>阿耨多羅三藐三菩提。於諸法界通達無礙。<lb
@@ -84,7 +84,7 @@
  n="0875c17" ed="T"/>不失菩提之心。生得種種甚深辯才。常見十<lb
  n="0875c18" ed="T"/>方阿僧祇佛。爾時世尊即說此陀羅尼。<lb
  n="0875c19" ed="T"/></ab>
-<ab type="dharani">多噠咃　屠邏濘　陀羅尼　牟濘　波邏<lb
+<ab type='dharani'>多噠咃　屠邏濘　陀羅尼　牟濘　波邏<lb
  n="0875c20" ed="T"/>娑散濘　悉題戰題攡　那牟支　涅呵攡<lb
  n="0875c21" ed="T"/>盧伽波𠽮　佛𠽮波提　𠽮攡　迦羅󰭡郁<lb
  n="0875c22" ed="T"/>迦吒羅殊波竭汦　汦殊波𠽮　肥舍　邏<lb
@@ -93,7 +93,7 @@
  n="0876a01" ed="T"/>𠽮蛇　三摩頞汦　汦殊伽邏伐𠽮　𠽮拏<lb
  n="0876a02" ed="T"/>佛提　因提利蛇佛提　莎訶<lb
  n="0876a03" ed="T"/></ab>
-<ab type="prose">師子奮迅。若有聞是花聚陀羅尼名。以淨信<lb
+<ab type='prose'>師子奮迅。若有聞是花聚陀羅尼名。以淨信<lb
  n="0876a04" ed="T"/>心憶念誦持。欲修行者。應用二月三月八月<lb
  n="0876a05" ed="T"/>行之。從月八日修念佛心乃至十五日。晝三<lb
  n="0876a06" ed="T"/>時夜三時一心念佛。以香花燈明供養三寶。<lb
@@ -105,5 +105,5 @@
  n="0876a12" ed="T"/>諸菩薩比丘。天龍夜叉乾闥婆阿修羅世人<lb
  n="0876a13" ed="T"/>非人。聞佛所說歡喜奉行。<lb
  n="0876a14" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說師子奮迅菩薩所問經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說師子奮迅菩薩所問經</ab></div>
 </body></text></TEI>

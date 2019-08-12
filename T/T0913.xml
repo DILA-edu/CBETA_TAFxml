@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T18</biblScope>
                     <idno type="Taisho">T18n0913</idno>
                 </bibl>
@@ -42,11 +42,11 @@
         <body><lb
  n="0934c13" ed="T"/><lb
  n="0934c14" ed="T"/><lb
- n="0934c15" ed="T"/><div type="jing" level="1"><lb
+ n="0934c15" ed="T"/><div type='jing' level='1'><lb
  n="0934c16" ed="T"/>
-<ab type="juan" subtype="open">火𤙖供養儀軌</ab><lb
+<ab type='juan' subtype='open'>火𤙖供養儀軌</ab><lb
  n="0934c17" ed="T"/><lb
- n="0934c18" ed="T"/><ab type="prose">夫欲修行陀羅尼法。先須嚴飾道場。內外清<lb
+ n="0934c18" ed="T"/><ab type='prose'>夫欲修行陀羅尼法。先須嚴飾道場。內外清<lb
  n="0934c19" ed="T"/>潔衣服鮮淨。離諸諠雜及諸戲論依念誦法<lb
  n="0934c20" ed="T"/>則四時不闕若闕一時及違法則。即從違闕後<lb
  n="0934c21" ed="T"/>起首。作法已前縱欲滿功唯欠一時。其時虧<lb
@@ -62,10 +62,10 @@
  n="0935a02" ed="T"/>之時。及將入道場。皆用軍荼利心明及又<lb
  n="0935a03" ed="T"/>印。印諸供具明曰。<lb
  n="0935a04" ed="T"/></ab>
-<ab type="dharani">􇩂唵􆿅阿𤙖􇩸密㗚二合􄕗多􈅼𤙖􄗁㧊􈁆吒半音<lb
+<ab type='dharani'>􇩂唵􆿅阿𤙖􇩸密㗚二合􄕗多􈅼𤙖􄗁㧊􈁆吒半音<lb
  n="0935a05" ed="T"/><lb
  n="0935a06" ed="T"/></ab>
-<ab type="prose">事事皆呪三遍或七遍。所以免諸飛行羅剎<lb
+<ab type='prose'>事事皆呪三遍或七遍。所以免諸飛行羅剎<lb
  n="0935a07" ed="T"/>之所盜竊。若不作意多有觸穢。諸使者等不<lb
  n="0935a08" ed="T"/>生隨喜。遂障成就。<lb
  n="0935a09" ed="T"/>夫結界護身必須迅速。不得遲疑猶豫。恐<lb
@@ -157,10 +157,10 @@
  n="0936a20" ed="T"/>等。灑水時誦軍荼利心中心明。初燃火真言<lb
  n="0936a21" ed="T"/>曰。<lb
  n="0936a22" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄗞部􇧾𠷈惹嚩三合􄙊邏<lb
+<ab type='dharani'>􇩂唵􄗞部􇧾𠷈惹嚩三合􄙊邏<lb
  n="0936a23" ed="T"/><lb
  n="0936a24" ed="T"/></ab>
-<ab type="prose">以扇扇火不得口吹。其火於寺內淨處者不<lb
+<ab type='prose'>以扇扇火不得口吹。其火於寺內淨處者不<lb
  n="0936a25" ed="T"/>得取俗家煮炙葷穢之火。不然即須別鑽<lb
  n="0936a26" ed="T"/>取。仍不得口吹。用兩香爐。軍荼右邊燒丸香<lb
  n="0936a27" ed="T"/>及沈香。軍荼左邊燒安悉香或熏陸或白膠<lb
@@ -188,5 +188,5 @@
  n="0936b20" ed="T"/>淳熟自須觀察與理相應自感聖者。猶如明<lb
  n="0936b21" ed="T"/>鏡自現鏡像。<lb
  n="0936b22" ed="T"/>
-</ab><ab type="juan" subtype="close">火𤙖供養儀軌</ab></div>
+</ab><ab type='juan' subtype='close'>火𤙖供養儀軌</ab></div>
 </body></text></TEI>

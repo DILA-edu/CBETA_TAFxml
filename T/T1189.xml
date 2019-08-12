@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1189</idno>
                 </bibl>
@@ -39,19 +39,19 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0820a12" ed="T"/><lb
  n="0820a13" ed="T"/><lb
- n="0820a14" ed="T"/><div type="jing" level="2"><lb
+ n="0820a14" ed="T"/><div type='jing' level='2'><lb
  n="0820a15" ed="T"/>
-<ab type="juan" subtype="open">佛說文殊菩薩最勝真實名義經</ab><lb
+<ab type='juan' subtype='open'>佛說文殊菩薩最勝真實名義經</ab><lb
  n="0820a16" ed="T"/><lb
  n="0820a17" ed="T"/><byline>光祿大夫大司徒三藏法師<lb
  n="0820a18" ed="T"/>沙囉巴奉　詔譯</byline><lb
- n="0820a19" ed="T"/><ab type="prose">南無文殊菩薩。<lb
+ n="0820a19" ed="T"/><ab type='prose'>南無文殊菩薩。<lb
  n="0820a20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 吉祥持金剛　　能調難調伏　　<lb
  n="0820a21" ed="T"/>勇猛勝三界　　自在祕密主　　<lb
  n="0820a22" ed="T"/>目若青蓮葉　　面滿如蓮華　　<lb
@@ -101,13 +101,13 @@
  n="0820c08" ed="T"/>世出世間種　　遍照世大種　　<lb
  n="0820c09" ed="T"/>大印最上種　　烏瑟尼沙種　　
 </ab><lb
- n="0820c10" ed="T"/><ab type="prose">已上序分計二十四頌。<lb
+ n="0820c10" ed="T"/><ab type='prose'>已上序分計二十四頌。<lb
  n="0820c11" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 伽陀言詞主　　六種密呪王　　<lb
  n="0820c12" ed="T"/>不二相應生　　宣說無生法　　
 </ab><lb
- n="0820c13" ed="T"/><ab type="dharani">阿阿壹醫嗢污伊愛烏奧<lb
+ n="0820c13" ed="T"/><ab type='dharani'>阿阿壹醫嗢污伊愛烏奧<lb
  n="0820c14" ed="T"/>暗惡悉提埵𠶹哩帝惹拏穆<lb
  n="0820c15" ed="T"/>哩帝囉舍普馱母馱囊怛囉<lb
  n="0820c16" ed="T"/>陀股囉帝囊唵嚩日囉帝剎<lb
@@ -116,9 +116,9 @@
  n="0820c19" ed="T"/>嚩囉<lb
  n="0820c20" ed="T"/>阿囉跛左曩野帝那謨<lb
  n="0820c21" ed="T"/></ab>
-<ab type="prose">已上幻化網究竟計三頌。<lb
+<ab type='prose'>已上幻化網究竟計三頌。<lb
  n="0820c22" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 如是婆伽梵　　菩提阿字生　　<lb
  n="0820c23" ed="T"/>阿字為最勝　　大義微妙字　　<lb
  n="0820c24" ed="T"/>大生無生義　　遠離於言相　　<lb
@@ -148,10 +148,10 @@
  n="0821a19" ed="T"/>尊者最勝種　　上師密呪尊　　<lb
  n="0821a20" ed="T"/>安住大乘理　　大乘理最勝　　
 </ab><lb
- n="0821a21" ed="T"/><ab type="prose">已上三十七菩提曼荼囉讚金剛菩提心八十<lb
+ n="0821a21" ed="T"/><ab type='prose'>已上三十七菩提曼荼囉讚金剛菩提心八十<lb
  n="0821a22" ed="T"/>六名計二十四頌。<lb
  n="0821a23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 大毘盧遮那　　大寂大牟尼　　<lb
  n="0821a24" ed="T"/>從大密呪生　　大祕密理性　　<lb
  n="0821a25" ed="T"/>得十波羅蜜　　住十波羅蜜　　<lb
@@ -202,10 +202,10 @@
  n="0821c12" ed="T"/>說最上三乘　　不空羂索勝　　<lb
  n="0821c13" ed="T"/>執持金剛索　　金剛鉤大索　　
 </ab><lb
- n="0821c14" ed="T"/><ab type="prose">已上毘盧遮那佛曼茶囉讚清淨法界智一百<lb
+ n="0821c14" ed="T"/><ab type='prose'>已上毘盧遮那佛曼茶囉讚清淨法界智一百<lb
  n="0821c15" ed="T"/>八名計二十四頌令三句。<lb
  n="0821c16" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 能怖金剛怖　　六面忿怒王　　<lb
  n="0821c17" ed="T"/>六眼六臂力　　骨相咬利牙　　<lb
  n="0821c18" ed="T"/>百面大笑相　　焰鬘德迦王　　<lb
@@ -227,10 +227,10 @@
  n="0822a05" ed="T"/>文殊大音聲　　遍徹於三界　　<lb
  n="0822a06" ed="T"/>乃至虛空界　　音聲最殊勝　　
 </ab><lb
- n="0822a07" ed="T"/><ab type="prose">已上不動佛曼茶囉讚大圓鏡智七十一名計<lb
+ n="0822a07" ed="T"/><ab type='prose'>已上不動佛曼茶囉讚大圓鏡智七十一名計<lb
  n="0822a08" ed="T"/>一十頌。<lb
  n="0822a09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 無我真如性　　實際無文字　　<lb
  n="0822a10" ed="T"/>談空大牛王　　深廣大法音　　<lb
  n="0822a11" ed="T"/>吹於大法螺　　擊大法健稚　　<lb
@@ -316,10 +316,10 @@
  n="0823a04" ed="T"/>安住清淨性　　成正等正覺　　<lb
  n="0823a05" ed="T"/>一切佛現前　　大智焰光明　　
 </ab><lb
- n="0823a06" ed="T"/><ab type="prose">已上無量壽佛曼茶囉讚妙觀察智二百七十<lb
+ n="0823a06" ed="T"/><ab type='prose'>已上無量壽佛曼茶囉讚妙觀察智二百七十<lb
  n="0823a07" ed="T"/>五名計四十二頌。<lb
  n="0823a08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 隨身成妙義　　淨除諸惡趣　　<lb
  n="0823a09" ed="T"/>救諸群生尊　　度脫諸眾生　　<lb
  n="0823a10" ed="T"/>獨破煩惱陣　　摧壞愚癡慢　　<lb
@@ -369,10 +369,10 @@
  n="0823b25" ed="T"/>無身身妙身　　了解身實際　　<lb
  n="0823b26" ed="T"/>出現諸色像　　如意大寶幢　　
 </ab><lb
- n="0823b27" ed="T"/><ab type="prose">已上寶生佛曼茶囉讚平等性智一百四名計<lb
+ n="0823b27" ed="T"/><ab type='prose'>已上寶生佛曼茶囉讚平等性智一百四名計<lb
  n="0823b28" ed="T"/>二十四頌。<lb
  n="0823b29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 諸佛悉了達　　無上大菩薩　　<pb n="0823c" id="T20.1189.0823c" ed="T"/><lb
  n="0823c01" ed="T"/>大呪離文字　　大呪三種性　　<lb
  n="0823c02" ed="T"/>出生密呪義　　大點離文字　　<lb
@@ -404,10 +404,10 @@
  n="0823c28" ed="T"/>清淨最上義　　三界大賢分　　<lb
  n="0823c29" ed="T"/>具足諸吉祥　　妙德勝吉祥　　
 </ab><pb n="0824a" id="T20.1189.0824a" ed="T"/><lb
- n="0824a01" ed="T"/><ab type="prose">已上有義成就佛曼茶囉讚成所作智九十五<lb
+ n="0824a01" ed="T"/><ab type='prose'>已上有義成就佛曼茶囉讚成所作智九十五<lb
  n="0824a02" ed="T"/>名計一十五頌。<lb
  n="0824a03" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 歸命金剛大勝施　　歸命真如實際理　　<lb
  n="0824a04" ed="T"/>歸命頂禮空性生　　歸命無上佛菩提　　<lb
  n="0824a05" ed="T"/>歸命頂禮佛所愛　　歸命頂禮佛所欲　　<lb
@@ -419,7 +419,7 @@
  n="0824a11" ed="T"/>歸命最上幻化網　　歸命諸佛大嬉戲　　<lb
  n="0824a12" ed="T"/>歸命一切一切智　　歸命頂禮正智身　　
 </ab><lb
- n="0824a13" ed="T"/><ab type="prose">已上結讚大圓鏡智清淨法界智妙觀察智平<lb
+ n="0824a13" ed="T"/><ab type='prose'>已上結讚大圓鏡智清淨法界智妙觀察智平<lb
  n="0824a14" ed="T"/>等性智成所作智如次各一頌。<lb
  n="0824a15" ed="T"/>金剛手執金剛菩薩摩訶薩。我今說此文殊<lb
  n="0824a16" ed="T"/>智菩薩摩訶薩清淨不共最勝名義者。是諸<lb
@@ -551,7 +551,7 @@
  n="0825b26" ed="T"/>呪曰。<lb
  n="0825b27" ed="T"/>已上總結五輪功德。<lb
  n="0825b28" ed="T"/></ab>
-<ab type="dharani">唵薩哩嚩達哩摩阿婆嚩娑<lb
+<ab type='dharani'>唵薩哩嚩達哩摩阿婆嚩娑<lb
  n="0825b29" ed="T"/>嚩婆嚩尾󰡊馱嚩日羅<pb n="0825c" id="T20.1189.0825c" ed="T"/><lb
  n="0825c01" ed="T"/>遏阿暗噁鉢囉訖利帝婆哩󰡊<lb
  n="0825c02" ed="T"/>馱薩哩嚩達哩摩曳覩陀<lb
@@ -565,7 +565,7 @@
  n="0825c10" ed="T"/>帝怛達哩摩馱覩惹那伽哩婆<lb
  n="0825c11" ed="T"/>阿<lb
  n="0825c12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 爾時吉祥金剛手　　歡喜踊躍而合掌　　<lb
  n="0825c13" ed="T"/>稽首頂禮婆伽梵　　世尊如來正覺等　　<lb
  n="0825c14" ed="T"/>復次尊者祕密主　　大金剛手忿怒王　　<lb
@@ -577,10 +577,10 @@
  n="0825c20" ed="T"/>最上方廣甚深義　　普為世間作利益　　<lb
  n="0825c21" ed="T"/>此是諸佛聖境界　　一切如來盡宣說　　
 </ab><lb
- n="0825c22" ed="T"/><ab type="prose">已上流通分頌句。<lb
+ n="0825c22" ed="T"/><ab type='prose'>已上流通分頌句。<lb
  n="0825c23" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說文殊菩薩最勝真實名義經</ab></div><lb
- n="0825c24" ed="T"/><div type="w" level="2"><ab type="prose">湖州路歸安縣大慈隱寺住持白雲宗宗攝<lb
+</ab><ab type='juan' subtype='close'>佛說文殊菩薩最勝真實名義經</ab></div><lb
+ n="0825c24" ed="T"/><div type='w' level='2'><ab type='prose'>湖州路歸安縣大慈隱寺住持白雲宗宗攝<lb
  n="0825c25" ed="T"/>沈明仁於至大二年十二月初九日延慶司<lb
  n="0825c26" ed="T"/>官海音都延慶使特奉　皇太子令旨江南<lb
  n="0825c27" ed="T"/>白雲宗送經來的沈宗攝回去有將最勝真<lb

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T12</biblScope>
                     <idno type="Taisho">T12n0342</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0134a18" ed="T"/><lb
  n="0134a19" ed="T"/><lb
  n="0134a20" ed="T"/>
-<ab type="juan" subtype="open">佛說如幻三昧經卷上</ab><lb
+<ab type='juan' subtype='open'>佛說如幻三昧經卷上</ab><lb
  n="0134a21" ed="T"/><lb
  n="0134a22" ed="T"/><byline>西晉月氏國三藏竺法護譯</byline><lb
- n="0134a23" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時，佛遊王舍城靈鷲山，與大比丘<lb
+ n="0134a23" ed="T"/><div type='jing' level='1'><ab type='prose'>聞如是：一時，佛遊王舍城靈鷲山，與大比丘<lb
  n="0134a24" ed="T"/>眾俱，比丘六萬二千，一切聖智神通已達而<lb
  n="0134a25" ed="T"/>悉耆年；菩薩四萬二千，溥首童真之等類<lb
  n="0134a26" ed="T"/>也，其名曰：師子英菩薩、慈氏菩薩、光世音<lb
@@ -198,7 +198,7 @@
  n="0135c26" ed="T"/>趺坐。於時耆年大迦葉，即從座起，偏出右肩，<lb
  n="0135c27" ed="T"/>右膝著地，叉手讚佛，而說頌曰：<lb
  n="0135c28" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「善施於歡悅，　　功勳諦離垢，　　<lb
  n="0135c29" ed="T"/>十方超眾人，　　得寂心澹泊。　　<pb n="0136a" id="T12.0342.0136a" ed="T"/><lb
  n="0136a01" ed="T"/>覺了諸所行，　　尊為無等匹，　　<lb
@@ -240,7 +240,7 @@
  n="0136b08" ed="T"/>勝性無變異，　　口所宣亦然，　　<lb
  n="0136b09" ed="T"/>德普如虛空，　　稽首無上尊。」　　
 </ab><lb
- n="0136b10" ed="T"/><ab type="prose">於是耆年大迦葉，以此偈讚佛已：「唯然，世尊！<lb
+ n="0136b10" ed="T"/><ab type='prose'>於是耆年大迦葉，以此偈讚佛已：「唯然，世尊！<lb
  n="0136b11" ed="T"/>於今何緣有此大光明靡不遍，加復現斯<lb
  n="0136b12" ed="T"/>殊妙難及未曾有法？」佛告迦葉：「用為專心而<lb
  n="0136b13" ed="T"/>問此誼？非彼聲聞、諸緣覺乘之所能及，諸天<lb
@@ -356,7 +356,7 @@
  n="0137c07" ed="T"/>悉暢法音多所開化。此諸菩薩皆遊告此三<lb
  n="0137c08" ed="T"/>千大千世界，而歎頌曰：<lb
  n="0137c09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「諸佛超日月，　　久遠乃現世，　　<lb
  n="0137c10" ed="T"/>猶如靈瑞花，　　難值復過是。　　<lb
  n="0137c11" ed="T"/>釋師子人尊，　　今顯出於世，　　<lb
@@ -404,7 +404,7 @@
  n="0138a24" ed="T"/>正覺為若茲，　　為人講說法，　　<lb
  n="0138a25" ed="T"/>滅除眾苦患，　　當速詣導師。」　　
 </ab><lb
- n="0138a26" ed="T"/><ab type="prose">諸化菩薩於三千大千世界宣此頌已，悉得<lb
+ n="0138a26" ed="T"/><ab type='prose'>諸化菩薩於三千大千世界宣此頌已，悉得<lb
  n="0138a27" ed="T"/>聞之，有九十六億欲行天人、色行天人，遠塵<lb
  n="0138a28" ed="T"/>離垢，諸法法眼淨，二萬人皆得離欲，三十<lb
  n="0138a29" ed="T"/>三天子宿殖德本，逮得無所從生法忍。當<pb n="0138b" id="T12.0342.0138b" ed="T"/><lb
@@ -538,7 +538,7 @@
  n="0139c12" ed="T"/>時蓮華上諸坐菩薩，并交絡中，皆一音聲，同<lb
  n="0139c13" ed="T"/>時發音，住於佛前，則以此偈，讚世尊曰：<lb
  n="0139c14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「為已曾供養，　　無央數億佛，　　<lb
  n="0139c15" ed="T"/>猶如江河沙，　　無能計誼者。　　<lb
  n="0139c16" ed="T"/>以用志佛道，　　殊特尊上慧，　　<lb
@@ -624,7 +624,7 @@
  n="0140c09" ed="T"/>棄捐諸罣礙，　　有為之迷惑，　　<lb
  n="0140c10" ed="T"/>此等勇猛士，　　必成尊佛道。」　　
 </ab><lb
- n="0140c11" ed="T"/><ab type="prose">爾時諸化菩薩說是偈已，彼眾會中諸來聽<lb
+ n="0140c11" ed="T"/><ab type='prose'>爾時諸化菩薩說是偈已，彼眾會中諸來聽<lb
  n="0140c12" ed="T"/>者二萬二千人，皆發無上正真道意；五百比<lb
  n="0140c13" ed="T"/>丘得無起餘漏盡意解；三百比丘尼得法<lb
  n="0140c14" ed="T"/>眼淨；七千優婆塞、七千優婆夷、二萬五千諸<lb
@@ -854,7 +854,7 @@
  n="0143b06" ed="T"/>假號，隨方俗言而有此名，於此眾事而無所<lb
  n="0143b07" ed="T"/>著，故曰菩薩。」時佛歎頌曰：<lb
  n="0143b08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「曉了其眼耳，　　是空為自然，　　<lb
  n="0143b09" ed="T"/>達者無想念，　　乃謂為菩薩。　　<lb
  n="0143b10" ed="T"/>曉了鼻口者，　　本淨無形像，　　<lb
@@ -908,7 +908,7 @@
  n="0143c29" ed="T"/>如覺了諸法，　　應時化群黎，　　<pb n="0144a" id="T12.0342.0144a" ed="T"/><lb
  n="0144a01" ed="T"/>菩薩曉如是，　　乃謂為菩薩。」　　
 </ab><lb
- n="0144a02" ed="T"/><ab type="prose">於是文殊師利復白佛言：「唯然，大聖！所可言<lb
+ n="0144a02" ed="T"/><ab type='prose'>於是文殊師利復白佛言：「唯然，大聖！所可言<lb
  n="0144a03" ed="T"/>謂初發意者，何謂初發為菩薩意也？」佛語文<lb
  n="0144a04" ed="T"/>殊：「假使菩薩普念三界是初發意，所發心者<lb
  n="0144a05" ed="T"/>平等如地，其菩薩者無所起發，亦不想念淨<lb
@@ -956,14 +956,14 @@
  n="0144b18" ed="T"/>千大千世界六反震動，萬二千菩薩得無所從<lb
  n="0144b19" ed="T"/>生法忍。<lb
  n="0144b20" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說如幻三昧經卷上</ab><lb
+</ab><ab type='juan' subtype='close'>佛說如幻三昧經卷上</ab><lb
  n="0144b21" ed="T"/><lb
  n="0144b22" ed="T"/><lb
  n="0144b23" ed="T"/>
-<ab type="juan" subtype="open">佛說如幻三昧經卷下</ab><lb
+<ab type='juan' subtype='open'>佛說如幻三昧經卷下</ab><lb
  n="0144b24" ed="T"/><lb
  n="0144b25" ed="T"/><byline>西晉月氏國三藏竺法護譯</byline><lb
- n="0144b26" ed="T"/><ab type="prose">爾時世尊讚文殊師利曰：「善哉，善哉！乃能<lb
+ n="0144b26" ed="T"/><ab type='prose'>爾時世尊讚文殊師利曰：「善哉，善哉！乃能<lb
  n="0144b27" ed="T"/>講論發意菩薩。仁已曾奉江河沙等諸佛世<lb
  n="0144b28" ed="T"/>尊，故能暢此無極道慧。」時舍利弗前白佛言：<lb
  n="0144b29" ed="T"/>「向者文殊，頒宣諮嗟諸初發意菩薩之事，<pb n="0144c" id="T12.0342.0144c" ed="T"/><lb
@@ -1528,7 +1528,7 @@
  n="0151a08" ed="T"/>眼淨；五百菩薩欣然大悅，善心生焉，心戢靜<lb
  n="0151a09" ed="T"/>思，踊在虛空，去地四丈九尺。以偈讚佛：<lb
  n="0151a10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「諸法悉如幻，　　從想而橫起，　　<lb
  n="0151a11" ed="T"/>成形無所有，　　諸法悉為空。　　<lb
  n="0151a12" ed="T"/>反自發望想，　　有我而危身，　　<lb
@@ -1574,7 +1574,7 @@
  n="0151b23" ed="T"/>盡除因緣報，　　奉修佛大道，　　<lb
  n="0151b24" ed="T"/>當成為法王，　　明眼乃滅度。」　　
 </ab><lb
- n="0151b25" ed="T"/><ab type="prose">五百菩薩宣是執劍經典之時，十方江河沙<lb
+ n="0151b25" ed="T"/><ab type='prose'>五百菩薩宣是執劍經典之時，十方江河沙<lb
  n="0151b26" ed="T"/>等佛土，六反震動，其大光明普照世間。其於<lb
  n="0151b27" ed="T"/>十方諸佛大聖邊諸侍者，各自問佛：「此何<lb
  n="0151b28" ed="T"/>威德？地大震動，光靡不照。」於時，諸佛各告侍<lb
@@ -1762,5 +1762,5 @@
  n="0153c07" ed="T"/>阿難、諸天龍神、阿須倫、世間人，聞經莫不<lb
  n="0153c08" ed="T"/>歡喜。<lb
  n="0153c09" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說如幻三昧經卷下</ab></div>
+</ab><ab type='juan' subtype='close'>佛說如幻三昧經卷下</ab></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T04</biblScope>
                     <idno type="Taisho">T04n0199</idno>
                 </bibl>
@@ -39,15 +39,15 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0190a" ed="T" id="T04.0199.0190a"/><lb
  n="0190a01" ed="T"/><lb
- n="0190a02" ed="T"/><div type="pin" level="2"><lb
+ n="0190a02" ed="T"/><div type='pin' level='2'><lb
  n="0190a03" ed="T"/>
-<ab type="juan" subtype="open">佛五百弟子自說本起經</ab><lb
+<ab type='juan' subtype='open'>佛五百弟子自說本起經</ab><lb
  n="0190a04" ed="T"/><lb
  n="0190a05" ed="T"/><byline>西晉三藏竺法護譯</byline><lb
- n="0190a06" ed="T"/><ab type="prose">蓋阿耨達龍王者，佛在世時受別菩薩<lb
+ n="0190a06" ed="T"/><ab type='prose'>蓋阿耨達龍王者，佛在世時受別菩薩<lb
  n="0190a07" ed="T"/>也，有神猛之德，據于崑崙之墟。斯龍所居宮<lb
  n="0190a08" ed="T"/>舘寶殿，五河之源則典覽焉，有八味水池，<lb
  n="0190a09" ed="T"/>華殖七色，服此水者即識宿命。於時龍王請<lb
@@ -55,8 +55,8 @@
  n="0190a11" ed="T"/>上，追講本起所造罪福，皆由纖微轉受報應，<lb
  n="0190a12" ed="T"/>彌劫歷紀莫能自濟，僥值正覺乃得度世。各<lb
  n="0190a13" ed="T"/>自撰歌而達頌曰：</ab></div><lb
- n="0190a14" ed="T"/><div type="pin" level="2"><head>大迦葉品第一</head><lb
- n="0190a15" ed="T"/><ab type="verse">
+ n="0190a14" ed="T"/><div type='pin' level='2'><head>大迦葉品第一</head><lb
+ n="0190a15" ed="T"/><ab type='verse'>
 佛人中上為法御，　　斷除結獄遊舍衛，　　<lb
  n="0190a16" ed="T"/>諸根為寂德巍巍，　　如來自告其比丘：　　<lb
  n="0190a17" ed="T"/>「有諸鬼神所娛樂，　　種種眾華無央數，　　<lb
@@ -93,12 +93,12 @@
  n="0190b19" ed="T"/>第一止足常思道，　　心空清淨無所著，　　<lb
  n="0190b20" ed="T"/>其志堅固無能轉，　　譬如大山不可動。」　　
 </ab><lb
- n="0190b21" ed="T"/><ab type="verse">
+ n="0190b21" ed="T"/><ab type='verse'>
 如是迦葉尊，　　在諸比丘僧，　　<lb
  n="0190b22" ed="T"/>阿耨達大池，　　自說本福緣。　　
 </ab></div><lb
- n="0190b23" ed="T"/><div type="pin" level="2"><head>舍利弗品第二</head><lb
- n="0190b24" ed="T"/><ab type="verse">
+ n="0190b23" ed="T"/><div type='pin' level='2'><head>舍利弗品第二</head><lb
+ n="0190b24" ed="T"/><ab type='verse'>
 「吾為仙閑居，　　於彼見沙門，　　<lb
  n="0190b25" ed="T"/>辟支佛之尊，　　身著絳衣被。　　<lb
  n="0190b26" ed="T"/>覩之心歡喜，　　為之浣衣服，　　<lb
@@ -120,8 +120,8 @@
  n="0190c13" ed="T"/>舍利弗智慧，　　於比丘眾前，　　<lb
  n="0190c14" ed="T"/>阿耨達大池，　　自說本宿行。　　
 </ab></div><lb
- n="0190c15" ed="T"/><div type="pin" level="2"><head>摩訶目揵連品第三</head><lb
- n="0190c16" ed="T"/><ab type="verse">
+ n="0190c15" ed="T"/><div type='pin' level='2'><head>摩訶目揵連品第三</head><lb
+ n="0190c16" ed="T"/><ab type='verse'>
 「吾為仙閑居，　　處于林樹間，　　<lb
  n="0190c17" ed="T"/>於彼有人來，　　求我作沙門。　　<lb
  n="0190c18" ed="T"/>吾除其鬚髮，　　為浣其衣服，　　<lb
@@ -153,8 +153,8 @@
  n="0191a15" ed="T"/>如是拘律尊，　　在于比丘眾，　　<lb
  n="0191a16" ed="T"/>阿耨達大池，　　自說本因緣。　　
 </ab></div><lb
- n="0191a17" ed="T"/><div type="pin" level="2"><head>輪提陀品第四</head><lb
- n="0191a18" ed="T"/><ab type="verse">
+ n="0191a17" ed="T"/><div type='pin' level='2'><head>輪提陀品第四</head><lb
+ n="0191a18" ed="T"/><ab type='verse'>
 「我昔往詣寺，　　見地不淨處，　　<lb
  n="0191a19" ed="T"/>即取其掃󰆠，　　便掃彼寺舍。　　<lb
  n="0191a20" ed="T"/>竟覩寺清淨，　　心中甚忻踊，　　<lb
@@ -190,8 +190,8 @@
  n="0191b21" ed="T"/>如是輪提陀，　　在諸比丘前，　　<lb
  n="0191b22" ed="T"/>阿耨達大池，　　自說本所因。　　
 </ab></div><lb
- n="0191b23" ed="T"/><div type="pin" level="2"><head>須蔓品第五</head><lb
- n="0191b24" ed="T"/><ab type="verse">
+ n="0191b23" ed="T"/><div type='pin' level='2'><head>須蔓品第五</head><lb
+ n="0191b24" ed="T"/><ab type='verse'>
 「昔者出遊觀，　　時與親友俱，　　<lb
  n="0191b25" ed="T"/>頭上戴傅飾，　　耳著須蔓花。　　<lb
  n="0191b26" ed="T"/>惟衛神通佛，　　於彼立大寺，　　<lb
@@ -221,8 +221,8 @@
  n="0191c21" ed="T"/>時長者須蔓，　　會在眾僧中，　　<lb
  n="0191c22" ed="T"/>於阿耨達池，　　自說本所作。　　
 </ab></div><lb
- n="0191c23" ed="T"/><div type="pin" level="2"><head>輪論品第六</head><lb
- n="0191c24" ed="T"/><ab type="verse">
+ n="0191c23" ed="T"/><div type='pin' level='2'><head>輪論品第六</head><lb
+ n="0191c24" ed="T"/><ab type='verse'>
 「惟衛佛世時，　　槃頭摩國土，　　<lb
  n="0191c25" ed="T"/>本為四方僧，　　興立一房室。　　<lb
  n="0191c26" ed="T"/>加以床臥具，　　皆用持布施，　　<lb
@@ -246,8 +246,8 @@
  n="0192a15" ed="T"/>如是拘梨種，　　在眾僧中央，　　<lb
  n="0192a16" ed="T"/>於阿耨達池，　　自說本功德。　　
 </ab></div><lb
- n="0192a17" ed="T"/><div type="pin" level="2"><head>凡耆品第七</head><lb
- n="0192a18" ed="T"/><ab type="verse">
+ n="0192a17" ed="T"/><div type='pin' level='2'><head>凡耆品第七</head><lb
+ n="0192a18" ed="T"/><ab type='verse'>
 「我不了福德，　　本亦不識義，　　<lb
  n="0192a19" ed="T"/>見惟衛佛寺，　　供養而奉侍。　　<lb
  n="0192a20" ed="T"/>金寺紫磨色，　　幡繖以香華，　　<lb
@@ -265,8 +265,8 @@
  n="0192b03" ed="T"/>時長者凡耆，　　曾在眾僧中，　　<lb
  n="0192b04" ed="T"/>於阿耨達池，　　自說本所作。　　
 </ab></div><lb
- n="0192b05" ed="T"/><div type="pin" level="2"><head>賓頭盧品第八</head><lb
- n="0192b06" ed="T"/><ab type="verse">
+ n="0192b05" ed="T"/><div type='pin' level='2'><head>賓頭盧品第八</head><lb
+ n="0192b06" ed="T"/><ab type='verse'>
 「我本經父母，　　生為子中尊，　　<lb
  n="0192b07" ed="T"/>謹敬事其父，　　亦孝養於母。　　<lb
  n="0192b08" ed="T"/>二親及妹弟，　　奴客僮僕使，　　<lb
@@ -290,8 +290,8 @@
  n="0192b26" ed="T"/>賓頭盧閉門，　　時會在僧中，　　<lb
  n="0192b27" ed="T"/>於阿耨達池，　　自說本所作。　　
 </ab></div><lb
- n="0192b28" ed="T"/><div type="pin" level="2"><head>貨竭品第九</head><lb
- n="0192b29" ed="T"/><ab type="verse">
+ n="0192b28" ed="T"/><div type='pin' level='2'><head>貨竭品第九</head><lb
+ n="0192b29" ed="T"/><ab type='verse'>
 「曾為尊者子，　　在般頭摩國，　　<pb n="0192c" ed="T" id="T04.0199.0192c"/><lb
  n="0192c01" ed="T"/>族姓多財寶，　　眷屬所圍繞。　　<lb
  n="0192c02" ed="T"/>周匝在王邊，　　快樂無有極，　　<lb
@@ -335,8 +335,8 @@
  n="0193a11" ed="T"/>善來尊如是，　　在於眾僧中，　　<lb
  n="0193a12" ed="T"/>於阿耨達池，　　自說本所作。　　
 </ab></div><lb
- n="0193a13" ed="T"/><div type="pin" level="2"><head>難陀品第十</head><lb
- n="0193a14" ed="T"/><ab type="verse">
+ n="0193a13" ed="T"/><div type='pin' level='2'><head>難陀品第十</head><lb
+ n="0193a14" ed="T"/><ab type='verse'>
 「王舍國城東，　　曾為富尊者，　　<lb
  n="0193a15" ed="T"/>時世穀飢貴，　　有道士遊彼。　　<lb
  n="0193a16" ed="T"/>時我坐獨食，　　有好道士來，　　<lb
@@ -362,8 +362,8 @@
  n="0193b07" ed="T"/>如是難陀尊，　　在比丘眾中，　　<lb
  n="0193b08" ed="T"/>於阿耨達池，　　自說本所作。　　
 </ab></div><lb
- n="0193b09" ed="T"/><div type="pin" level="2"><head>夜耶品第十一</head><lb
- n="0193b10" ed="T"/><ab type="verse">
+ n="0193b09" ed="T"/><div type='pin' level='2'><head>夜耶品第十一</head><lb
+ n="0193b10" ed="T"/><ab type='verse'>
 「昔有一道人，　　入聚落乞匃，　　<lb
  n="0193b11" ed="T"/>見死亡女人，　　青膖甚臭惡。　　<lb
  n="0193b12" ed="T"/>結跏趺而坐，　　觀視無常變，　　<lb
@@ -417,8 +417,8 @@
  n="0194a02" ed="T"/>如是賢夜邪，　　尊者子神通，　　<lb
  n="0194a03" ed="T"/>於阿耨達池，　　自說本所作。　　
 </ab></div><lb
- n="0194a04" ed="T"/><div type="pin" level="2"><head>尸利羅品第十二</head><lb
- n="0194a05" ed="T"/><ab type="verse">
+ n="0194a04" ed="T"/><div type='pin' level='2'><head>尸利羅品第十二</head><lb
+ n="0194a05" ed="T"/><ab type='verse'>
 「昔波羅奈城，　　迦葉佛泥洹，　　<lb
  n="0194a06" ed="T"/>機惟王起塔，　　七寶造甚大。　　<lb
  n="0194a07" ed="T"/>爾時王所作，　　有最大太子，　　<lb
@@ -460,8 +460,8 @@
  n="0194b14" ed="T"/>如是尸利羅，　　在比丘僧中，　　<lb
  n="0194b15" ed="T"/>於阿耨達池，　　自說本所作。　　
 </ab></div><lb
- n="0194b16" ed="T"/><div type="pin" level="2"><head>薄拘盧品第十三</head><lb
- n="0194b17" ed="T"/><ab type="verse">
+ n="0194b16" ed="T"/><div type='pin' level='2'><head>薄拘盧品第十三</head><lb
+ n="0194b17" ed="T"/><ab type='verse'>
 「我昔曾賣藥，　　於槃曇摩國，　　<lb
  n="0194b18" ed="T"/>在惟衛佛世，　　敬諸比丘僧。　　<lb
  n="0194b19" ed="T"/>時有病瘦者，　　行藥療其疾，　　<lb
@@ -487,8 +487,8 @@
  n="0194c10" ed="T"/>時賢薄拘盧，　　在眾比丘僧，　　<lb
  n="0194c11" ed="T"/>於阿耨達池，　　自說本所作。　　
 </ab></div><lb
- n="0194c12" ed="T"/><div type="pin" level="2"><head>摩呵䣯品第十四</head><lb
- n="0194c13" ed="T"/><ab type="verse">
+ n="0194c12" ed="T"/><div type='pin' level='2'><head>摩呵䣯品第十四</head><lb
+ n="0194c13" ed="T"/><ab type='verse'>
 「昔作韋皮師，　　本生亦安隱，　　<lb
  n="0194c14" ed="T"/>時國大穀貴，　　柔皮以為韋。　　<lb
  n="0194c15" ed="T"/>時得好殷皮，　　煮熟令大美，　　<lb
@@ -514,8 +514,8 @@
  n="0195a06" ed="T"/>如是彼大尊，　　名䣯羅大通，　　<lb
  n="0195a07" ed="T"/>於阿耨達池，　　自說本所作。　　
 </ab></div><lb
- n="0195a08" ed="T"/><div type="pin" level="2"><head>優為迦葉品第十五</head><lb
- n="0195a09" ed="T"/><ab type="verse">
+ n="0195a08" ed="T"/><div type='pin' level='2'><head>優為迦葉品第十五</head><lb
+ n="0195a09" ed="T"/><ab type='verse'>
 「導師有二人，　　同類悉兄弟，　　<lb
  n="0195a10" ed="T"/>見迦葉佛塔，　　搪揬崩壞落。　　<lb
  n="0195a11" ed="T"/>合集眾賈人，　　更補治起塔，　　<lb
@@ -533,8 +533,8 @@
  n="0195a23" ed="T"/>優為迦葉尊，　　及江河迦葉，　　<lb
  n="0195a24" ed="T"/>於阿耨達池，　　自說本所作。　　
 </ab></div><lb
- n="0195a25" ed="T"/><div type="pin" level="2"><head>迦耶品第十六</head><lb
- n="0195a26" ed="T"/><ab type="verse">
+ n="0195a25" ed="T"/><div type='pin' level='2'><head>迦耶品第十六</head><lb
+ n="0195a26" ed="T"/><ab type='verse'>
 「昔為賣香者，　　既獲香賣之，　　<lb
  n="0195a27" ed="T"/>有一童女人，　　來到香肆上。　　<lb
  n="0195a28" ed="T"/>容貌端正好，　　見彼趣我所，　　<lb
@@ -566,8 +566,8 @@
  n="0195b25" ed="T"/>迦耶尊如是，　　在比丘僧中，　　<lb
  n="0195b26" ed="T"/>於阿耨達池，　　自說本所作。　　
 </ab></div><lb
- n="0195b27" ed="T"/><div type="pin" level="2"><head>樹提衢品第十七</head><lb
- n="0195b28" ed="T"/><ab type="verse">
+ n="0195b27" ed="T"/><div type='pin' level='2'><head>樹提衢品第十七</head><lb
+ n="0195b28" ed="T"/><ab type='verse'>
 「惟衛佛世尊，　　槃頭摩國城，　　<lb
  n="0195b29" ed="T"/>時有富長者，　　名阿能乾那。　　<pb n="0195c" ed="T" id="T04.0199.0195c"/><lb
  n="0195c01" ed="T"/>時佛之眷屬，　　六十二百千，　　<lb
@@ -629,8 +629,8 @@
  n="0196a28" ed="T"/>如是樹提尊，　　在比丘僧中，　　<lb
  n="0196a29" ed="T"/>於阿耨達池，　　自說本所作。　　
 </ab></div><pb n="0196b" ed="T" id="T04.0199.0196b"/><lb
- n="0196b01" ed="T"/><div type="pin" level="2"><head>賴吒惒羅品第十八</head><lb
- n="0196b02" ed="T"/><ab type="verse">
+ n="0196b01" ed="T"/><div type='pin' level='2'><head>賴吒惒羅品第十八</head><lb
+ n="0196b02" ed="T"/><ab type='verse'>
 「有王修惟尼，　　其王有一子，　　<lb
  n="0196b03" ed="T"/>名賴吒拔檀，　　是王最小子。　　<lb
  n="0196b04" ed="T"/>迦葉佛吉祥，　　興起大塔寺，　　<lb
@@ -684,8 +684,8 @@
  n="0196c23" ed="T"/>賴吒惒大尊，　　閑居五納衣，　　<lb
  n="0196c24" ed="T"/>於阿耨達池，　　自說本所作。　　
 </ab></div><lb
- n="0196c25" ed="T"/><div type="pin" level="2"><head>貨提品第十九</head><lb
- n="0196c26" ed="T"/><ab type="verse">
+ n="0196c25" ed="T"/><div type='pin' level='2'><head>貨提品第十九</head><lb
+ n="0196c26" ed="T"/><ab type='verse'>
 「曾在王舍城，　　為富大尊者，　　<lb
  n="0196c27" ed="T"/>有五百道士，　　住我家一年。　　<lb
  n="0196c28" ed="T"/>五百諸長者，　　一切皆往詣，　　<lb
@@ -741,8 +741,8 @@
  n="0197b20" ed="T"/>舍衛城里生，　　茶提大神足，　　<lb
  n="0197b21" ed="T"/>於阿耨達池，　　自說本所作。　　
 </ab></div><lb
- n="0197b22" ed="T"/><div type="pin" level="2"><head>禪承迦葉品第二十</head><lb
- n="0197b23" ed="T"/><ab type="verse">
+ n="0197b22" ed="T"/><div type='pin' level='2'><head>禪承迦葉品第二十</head><lb
+ n="0197b23" ed="T"/><ab type='verse'>
 「有諸比丘僧，　　終竟于七歲，　　<lb
  n="0197b24" ed="T"/>時國穀米貴，　　飢餓大恐懼。　　<lb
  n="0197b25" ed="T"/>我分得一人，　　摩竭妙道人，　　<lb
@@ -766,8 +766,8 @@
  n="0197c14" ed="T"/>承伽迦葉尊，　　大通名所作，　　<lb
  n="0197c15" ed="T"/>於阿耨達池，　　自說本所作。　　
 </ab></div><lb
- n="0197c16" ed="T"/><div type="pin" level="2"><head>朱利般特品第二十一</head><lb
- n="0197c17" ed="T"/><ab type="verse">
+ n="0197c16" ed="T"/><div type='pin' level='2'><head>朱利般特品第二十一</head><lb
+ n="0197c17" ed="T"/><ab type='verse'>
 「昔我先世時，　　曾為養猪者，　　<lb
  n="0197c18" ed="T"/>在於江水傍，　　繫𢴲眾猪口。　　<lb
  n="0197c19" ed="T"/>欲濟至江半，　　身獨由得渡，　　<lb
@@ -785,8 +785,8 @@
  n="0198a02" ed="T"/>世尊時問之，　　朱利般特說，　　<lb
  n="0198a03" ed="T"/>從來善惡事，　　於阿耨達池。　　
 </ab></div><lb
- n="0198a04" ed="T"/><div type="pin" level="2"><head>醍醐施品第二十二</head><lb
- n="0198a05" ed="T"/><ab type="verse">
+ n="0198a04" ed="T"/><div type='pin' level='2'><head>醍醐施品第二十二</head><lb
+ n="0198a05" ed="T"/><ab type='verse'>
 「迦葉佛滅度，　　我為後弟子，　　<lb
  n="0198a06" ed="T"/>博聞知三世，　　常祕惜經法。　　<lb
  n="0198a07" ed="T"/>不為比丘說，　　不肯示與人，　　<lb
@@ -842,8 +842,8 @@
  n="0198b28" ed="T"/>釋子大神足，　　弱根薩波達，　　<lb
  n="0198b29" ed="T"/>於阿耨達池，　　自說本所作。　　
 </ab></div><pb n="0198c" ed="T" id="T04.0199.0198c"/><lb
- n="0198c01" ed="T"/><div type="pin" level="2"><head>阿那律品第二十三</head><lb
- n="0198c02" ed="T"/><ab type="verse">
+ n="0198c01" ed="T"/><div type='pin' level='2'><head>阿那律品第二十三</head><lb
+ n="0198c02" ed="T"/><ab type='verse'>
 「昔我曾不食，　　彼世時施與，　　<lb
  n="0198c03" ed="T"/>遭遇見沙門，　　大通和莅吒。　　<lb
  n="0198c04" ed="T"/>以故生釋種，　　號曰阿那律，　　<lb
@@ -863,8 +863,8 @@
  n="0198c18" ed="T"/>時尊阿那律，　　處于眾僧中，　　<lb
  n="0198c19" ed="T"/>於阿耨達池，　　自說本所作。　　
 </ab></div><lb
- n="0198c20" ed="T"/><div type="pin" level="2"><head>彌迦弗品第二十四</head><lb
- n="0198c21" ed="T"/><ab type="verse">
+ n="0198c20" ed="T"/><div type='pin' level='2'><head>彌迦弗品第二十四</head><lb
+ n="0198c21" ed="T"/><ab type='verse'>
 「昔我逐勇狗，　　往詣藥肆上，　　<lb
  n="0198c22" ed="T"/>緣一覺之尊，　　身體得不豫。　　<lb
  n="0198c23" ed="T"/>給之以醫藥，　　瞻養至七日，　　<lb
@@ -894,8 +894,8 @@
  n="0199a18" ed="T"/>其鹿子比丘，　　六通大神足，　　<lb
  n="0199a19" ed="T"/>於阿耨達池，　　自說本所作。　　
 </ab></div><lb
- n="0199a20" ed="T"/><div type="pin" level="2"><head>羅雲品第二十五</head><lb
- n="0199a21" ed="T"/><ab type="verse">
+ n="0199a20" ed="T"/><div type='pin' level='2'><head>羅雲品第二十五</head><lb
+ n="0199a21" ed="T"/><ab type='verse'>
 「我昔曾為王，　　典主摩竭國，　　<lb
  n="0199a22" ed="T"/>人民甚眾多，　　決事以義理。　　<lb
  n="0199a23" ed="T"/>爾時有仙人，　　飲他溝中水，　　<lb
@@ -917,8 +917,8 @@
  n="0199b10" ed="T"/>如是羅雲尊，　　在於比丘僧，　　<lb
  n="0199b11" ed="T"/>於阿耨達池，　　自說本所作。　　
 </ab></div><lb
- n="0199b12" ed="T"/><div type="pin" level="2"><head>難提品第二十六</head><lb
- n="0199b13" ed="T"/><ab type="verse">
+ n="0199b12" ed="T"/><div type='pin' level='2'><head>難提品第二十六</head><lb
+ n="0199b13" ed="T"/><ab type='verse'>
 「昔惟衛佛世，　　我施煖浴室，　　<lb
  n="0199b14" ed="T"/>一洗比丘僧，　　便自發願言：　　<lb
  n="0199b15" ed="T"/>『令我與是等，　　尊眾共集會，　　<lb
@@ -948,8 +948,8 @@
  n="0199c10" ed="T"/>難提父母子，　　於比丘僧中，　　<lb
  n="0199c11" ed="T"/>於阿耨達池，　　自說本所作。　　
 </ab></div><lb
- n="0199c12" ed="T"/><div type="pin" level="2"><head>󰉈提品第二十七</head><lb
- n="0199c13" ed="T"/><ab type="verse">
+ n="0199c12" ed="T"/><div type='pin' level='2'><head>󰉈提品第二十七</head><lb
+ n="0199c13" ed="T"/><ab type='verse'>
 「昔世穀米貴，　　飢餓大恐懼，　　<lb
  n="0199c14" ed="T"/>比丘有五百，　　求食則施與。　　<lb
  n="0199c15" ed="T"/>一切諸長者，　　惠施眾道術，　　<lb
@@ -989,8 +989,8 @@
  n="0200a20" ed="T"/>捨勢為沙門，　　󰉈提受佛教，　　<lb
  n="0200a21" ed="T"/>於阿耨達池，　　自說本所作。　　
 </ab></div><lb
- n="0200a22" ed="T"/><div type="pin" level="2"><head>羅槃󰉈提品第二十八</head><lb
- n="0200a23" ed="T"/><ab type="verse">
+ n="0200a22" ed="T"/><div type='pin' level='2'><head>羅槃󰉈提品第二十八</head><lb
+ n="0200a23" ed="T"/><ab type='verse'>
 「拘樓秦佛時，　　昔有起塔者，　　<lb
  n="0200a24" ed="T"/>我時在彼住，　　其寺甚高大。　　<lb
  n="0200a25" ed="T"/>興造此塔寺，　　我口呵譴之：　　<lb
@@ -1020,8 +1020,8 @@
  n="0200b20" ed="T"/>羅槃󰉈提尊，　　在於比丘僧，　　<lb
  n="0200b21" ed="T"/>於阿耨達池，　　自說本所作。　　
 </ab></div><lb
- n="0200b22" ed="T"/><div type="pin" level="2"><head>摩頭惒律致品第二十九</head><lb
- n="0200b23" ed="T"/><ab type="verse">
+ n="0200b22" ed="T"/><div type='pin' level='2'><head>摩頭惒律致品第二十九</head><lb
+ n="0200b23" ed="T"/><ab type='verse'>
 「昔於惟耶離，　　身為大獼猴，　　<lb
  n="0200b24" ed="T"/>趣往取佛鉢，　　比丘見被呵：　　<lb
  n="0200b25" ed="T"/>『得無壞佛鉢。』　　世尊告比丘：　　<lb
@@ -1065,8 +1065,8 @@
  n="0201a05" ed="T"/>如是出蜜尊，　　在比丘僧中，　　<lb
  n="0201a06" ed="T"/>於阿耨達池，　　自說本所作。　　
 </ab></div><lb
- n="0201a07" ed="T"/><div type="pin" level="2"><head>世尊品第三十</head><lb
- n="0201a08" ed="T"/><ab type="verse">
+ n="0201a07" ed="T"/><div type='pin' level='2'><head>世尊品第三十</head><lb
+ n="0201a08" ed="T"/><ab type='verse'>
 一切勝普明，　　一切世間最，　　<lb
  n="0201a09" ed="T"/>得除盡諸垢，　　降一切眾會。　　<lb
  n="0201a10" ed="T"/>諸通慧普見，　　大人一切暢，　　<lb
@@ -1163,5 +1163,5 @@
  n="0202a14" ed="T"/>用見此沙門，　　言不得佛道。」　　
 </ab><lb
  n="0202a15" ed="T"/>
-<ab type="juan" subtype="close">佛五百弟子自說本起經</ab></div></div>
+<ab type='juan' subtype='close'>佛五百弟子自說本起經</ab></div></div>
 </body></text></TEI>

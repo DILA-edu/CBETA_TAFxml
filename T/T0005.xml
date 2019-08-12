@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0005</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0160b02" ed="T"/><lb
  n="0160b03" ed="T"/><lb
- n="0160b04" ed="T"/><div type="jing" level="2"><lb
+ n="0160b04" ed="T"/><div type='jing' level='2'><lb
  n="0160b05" ed="T"/>
-<ab type="juan" subtype="open">佛般泥洹經卷上</ab><lb
+<ab type='juan' subtype='open'>佛般泥洹經卷上</ab><lb
  n="0160b06" ed="T"/><lb
  n="0160b07" ed="T"/><byline>西晉河內沙門白法祖譯</byline><lb
- n="0160b08" ed="T"/><ab type="prose">聞如是：一時，佛在王舍國鷂山中，與千二百<lb
+ n="0160b08" ed="T"/><ab type='prose'>聞如是：一時，佛在王舍國鷂山中，與千二百<lb
  n="0160b09" ed="T"/>五十比丘俱。時，摩竭國王，號名阿闍世，與<lb
  n="0160b10" ed="T"/>越祇國不相得，欲往伐之。自與群臣共議：<lb
  n="0160b11" ed="T"/>「越祇國富，人民熾盛，多出珍寶，不首伏於<lb
@@ -720,12 +720,12 @@
  n="0168a10" ed="T"/>死當生天上。知經者去婬心、去怒心、去癡心，<lb
  n="0168a11" ed="T"/>不可用一人故非責眾人也。」<lb
  n="0168a12" ed="T"/>
-</ab><ab type="juan" subtype="close">佛般泥洹經卷上</ab><lb
+</ab><ab type='juan' subtype='close'>佛般泥洹經卷上</ab><lb
  n="0168a13" ed="T"/><lb
  n="0168a14" ed="T"/>
-<ab type="juan" subtype="open">佛般泥洹經卷下</ab><lb
+<ab type='juan' subtype='open'>佛般泥洹經卷下</ab><lb
  n="0168a15" ed="T"/><byline>西晉河內沙門白法祖譯</byline><lb
- n="0168a16" ed="T"/><ab type="prose">佛去淳家，呼阿難：「去至鳩夷那竭國。」阿難<lb
+ n="0168a16" ed="T"/><ab type='prose'>佛去淳家，呼阿難：「去至鳩夷那竭國。」阿難<lb
  n="0168a17" ed="T"/>言：「諾。」即與比丘僧，從華氏國，至鳩夷那竭<lb
  n="0168a18" ed="T"/>國。佛道得病，下道止坐，呼阿難。阿難言：「諾。」<lb
  n="0168a19" ed="T"/>佛言：「近是間有溪水，名鳩對，持鉢往取水<lb
@@ -1241,7 +1241,7 @@
  n="0174a07" ed="T"/>雙出兩足。迦葉即以頭面著佛足，陳佛功德，<lb
  n="0174a08" ed="T"/>說偈言：<lb
  n="0174a09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「彼為不生老，　　亦為不死，　　<lb
  n="0174a10" ed="T"/>彼為不復會，　　無有相逢憎。　　<lb
  n="0174a11" ed="T"/>彼為不復令，　　愛欲相別離，　　<lb
@@ -1271,7 +1271,7 @@
  n="0174b06" ed="T"/>亦為至今，　　為佛弟子受行，　　<lb
  n="0174b07" ed="T"/>一切天亦人，　　恭敬叉手行禮。」　　
 </ab><lb
- n="0174b08" ed="T"/><ab type="prose">迦葉讚畢，天神鬼龍，帝王黎民，皆禮佛<lb
+ n="0174b08" ed="T"/><ab type='prose'>迦葉讚畢，天神鬼龍，帝王黎民，皆禮佛<lb
  n="0174b09" ed="T"/>足，眾禮訖畢，足還入棺。天人鬼龍，見足還<lb
  n="0174b10" ed="T"/>沒，踰為哽噎，同時悲哭。哭畢，迦葉與諸比<lb
  n="0174b11" ed="T"/>丘，更相吊唁。逝心理家放火蛇維，天散<lb
@@ -1401,8 +1401,8 @@
  n="0175c19" ed="T"/>葉，舉國樹木皆更茂盛。佛般泥曰去，三界<lb
  n="0175c20" ed="T"/>天中天，光明以滅，一切十方，皆自歸於佛。<lb
  n="0175c21" ed="T"/>
-</ab><ab type="juan" subtype="close">佛般泥洹經卷下</ab></div><lb
- n="0175c22" ed="T"/><div type="w" level="2"><ab type="prose">從佛般泥洹，到永興七年二月十一日，凡<lb
+</ab><ab type='juan' subtype='close'>佛般泥洹經卷下</ab></div><lb
+ n="0175c22" ed="T"/><div type='w' level='2'><ab type='prose'>從佛般泥洹，到永興七年二月十一日，凡<lb
  n="0175c23" ed="T"/>已八百八十七年餘，七月十有一日。至今<lb
  n="0175c24" ed="T"/>丙戌歲，合為九百一十五年。是比丘康日所<lb
  n="0175c25" ed="T"/>記也。又至慶曆六年丙戌歲，共計一千九百<lb

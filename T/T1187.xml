@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1187</idno>
                 </bibl>
@@ -45,12 +45,12 @@
  n="0808a14" ed="T"/><lb
  n="0808a15" ed="T"/><lb
  n="0808a16" ed="T"/>
-<ab type="juan" subtype="open">佛說最勝妙吉祥根本智最上祕<lb
+<ab type='juan' subtype='open'>佛說最勝妙吉祥根本智最上祕<lb
  n="0808a17" ed="T"/>密一切名義三摩地分卷上</ab><lb
  n="0808a18" ed="T"/><lb
  n="0808a19" ed="T"/><byline>西天譯經三藏朝奉大夫試鴻臚卿<lb
  n="0808a20" ed="T"/>傳法大師臣施護奉　詔譯</byline><lb
- n="0808a21" ed="T"/><div type="jing" level="1"><ab type="verse">
+ n="0808a21" ed="T"/><div type='jing' level='1'><ab type='verse'>
 爾時大吉祥　　最勝金剛手　　<lb
  n="0808a22" ed="T"/>具一切功德　　能調難調者　　<lb
  n="0808a23" ed="T"/>三界中最勝　　最尊大無畏　　<lb
@@ -116,19 +116,19 @@
  n="0808c25" ed="T"/>是無生法句　　從彼而出生　　<lb
  n="0808c26" ed="T"/>所謂　　
 </ab><lb
- n="0808c27" ed="T"/><ab type="dharani">阿阿壹翳嗢污伊愛烏奧暗惡<lb
+ n="0808c27" ed="T"/><ab type='dharani'>阿阿壹翳嗢污伊愛烏奧暗惡<lb
  n="0808c28" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 此法安住諸智心　　三世諸佛所共說　　
 </ab><lb
- n="0808c29" ed="T"/><ab type="prose">復次大明曰。<pb n="0809a" id="T20.1187.0809a" ed="T"/><lb
+ n="0808c29" ed="T"/><ab type='prose'>復次大明曰。<pb n="0809a" id="T20.1187.0809a" ed="T"/><lb
  n="0809a01" ed="T"/></ab>
-<ab type="dharani">唵嚩日囉低剎拏耨珂砌那<lb
+<ab type='dharani'>唵嚩日囉低剎拏耨珂砌那<lb
  n="0809a02" ed="T"/>鉢囉倪也倪也那謨哩<lb
  n="0809a03" ed="T"/>多曳倪也那迦野嚩詣說<lb
  n="0809a04" ed="T"/>囉阿囉跛左那野帝那莫<lb
  n="0809a05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 阿字為正智　　諸佛從是生　　<lb
  n="0809a06" ed="T"/>復為諸勝相　　是最上字義　　<lb
  n="0809a07" ed="T"/>大生無生義　　離飲食語言　　<lb
@@ -330,17 +330,17 @@
  n="0811a29" ed="T"/>發大智光明　　照無我自性　　
 </ab><pb n="0811b" id="T20.1187.0811b" ed="T"/><lb
  n="0811b01" ed="T"/>
-<ab type="juan" subtype="close">佛說最勝妙吉祥根本智最上祕密一切名義<lb
+<ab type='juan' subtype='close'>佛說最勝妙吉祥根本智最上祕密一切名義<lb
  n="0811b02" ed="T"/>三摩地分卷上</ab><lb
  n="0811b03" ed="T"/><lb
  n="0811b04" ed="T"/><lb
  n="0811b05" ed="T"/>
-<ab type="juan" subtype="open">佛說最勝妙吉祥根本智最上祕<lb
+<ab type='juan' subtype='open'>佛說最勝妙吉祥根本智最上祕<lb
  n="0811b06" ed="T"/>密一切名義三摩地分卷下</ab><lb
  n="0811b07" ed="T"/><lb
  n="0811b08" ed="T"/><byline>西天釋經三藏朝奉大夫試鴻臚卿<lb
  n="0811b09" ed="T"/>傳法大師臣施護奉　詔譯</byline><lb
- n="0811b10" ed="T"/><ab type="verse">
+ n="0811b10" ed="T"/><ab type='verse'>
 此勝成就法　　能最上變化　　<lb
  n="0811b11" ed="T"/>出現種種身　　清淨諸惡趣　　<lb
  n="0811b12" ed="T"/>與一切眾生　　為主為所依　　<lb
@@ -434,7 +434,7 @@
  n="0812b13" ed="T"/>第一義清淨　　三世勝妙主　　<lb
  n="0812b14" ed="T"/>諸所作吉祥　　妙德勝根本　　
 </ab><lb
- n="0812b15" ed="T"/><ab type="verse">
+ n="0812b15" ed="T"/><ab type='verse'>
 歸命金剛大施願　　歸命真如實際理　　<lb
  n="0812b16" ed="T"/>歸命空性勝妙藏　　歸命無上佛菩提　　<lb
  n="0812b17" ed="T"/>歸命佛所愛樂法　　頂禮歸命佛智身　　<lb
@@ -446,7 +446,7 @@
  n="0812b23" ed="T"/>歸命最上幻化網　　歸命諸佛大嬉戲　　<lb
  n="0812b24" ed="T"/>一切有情所稱讚　　是故歸命正智聚　　
 </ab><lb
- n="0812b25" ed="T"/><ab type="prose">復次金剛手菩薩大執金剛者。如我所說祕<lb
+ n="0812b25" ed="T"/><ab type='prose'>復次金剛手菩薩大執金剛者。如我所說祕<lb
  n="0812b26" ed="T"/>密名義。是即一切如來智頂。一切如來智身。<lb
  n="0812b27" ed="T"/>妙吉祥根本正智所生。諸佛最勝不共功德<lb
  n="0812b28" ed="T"/>清淨圓滿。最上稱讚大喜樂法。廣大神通威<lb
@@ -597,25 +597,25 @@
  n="0814a28" ed="T"/>上正法。諸佛所說諸法中王。所謂如是大明<lb
  n="0814a29" ed="T"/>曰。<pb n="0814b" id="T20.1187.0814b" ed="T"/><lb
  n="0814b01" ed="T"/></ab>
-<ab type="dharani">唵薩哩嚩達哩摩婆嚩莎婆<lb
+<ab type='dharani'>唵薩哩嚩達哩摩婆嚩莎婆<lb
  n="0814b02" ed="T"/>嚩尾󰡊提達哩摩作芻阿阿暗惡<lb
  n="0814b03" ed="T"/><lb
  n="0814b04" ed="T"/></ab>
-<ab type="prose">一切法自性清淨不生不滅一切如來智身妙<lb
+<ab type='prose'>一切法自性清淨不生不滅一切如來智身妙<lb
  n="0814b05" ed="T"/>吉祥清淨根本所生。所謂。<lb
  n="0814b06" ed="T"/></ab>
-<ab type="dharani">阿惡<lb
+<ab type='dharani'>阿惡<lb
  n="0814b07" ed="T"/></ab>
-<ab type="prose">一切如來根本心。所謂。<lb
+<ab type='prose'>一切如來根本心。所謂。<lb
  n="0814b08" ed="T"/></ab>
-<ab type="dharani">訶囉訶囉唵吽紇哩<lb
+<ab type='dharani'>訶囉訶囉唵吽紇哩<lb
  n="0814b09" ed="T"/></ab>
-<ab type="prose">一切如來智頂一切如來勝語自在廣大語業<lb
+<ab type='prose'>一切如來智頂一切如來勝語自在廣大語業<lb
  n="0814b10" ed="T"/>一切法無垢虛空清淨法界智藏所謂。<lb
  n="0814b11" ed="T"/></ab>
-<ab type="dharani">阿<lb
+<ab type='dharani'>阿<lb
  n="0814b12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 爾時金剛手菩薩　　聞佛說是祕密法　　<lb
  n="0814b13" ed="T"/>歡喜合掌從座起　　頂禮釋迦牟尼尊　　<lb
  n="0814b14" ed="T"/>及彼諸佛賢聖眾　　最上金剛祕密主　　<lb
@@ -628,6 +628,6 @@
  n="0814b21" ed="T"/>此即諸佛聖境界　　一切如來盡宣說　　
 </ab><lb
  n="0814b22" ed="T"/>
-<ab type="juan" subtype="close">佛說最勝妙吉祥根本智最上祕密一切名義<lb
+<ab type='juan' subtype='close'>佛說最勝妙吉祥根本智最上祕密一切名義<lb
  n="0814b23" ed="T"/>三摩地分卷下</ab></div>
 </body></text></TEI>

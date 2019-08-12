@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1219</idno>
                 </bibl>
@@ -39,17 +39,17 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0097b09" ed="T"/><lb
  n="0097b10" ed="T"/><lb
- n="0097b11" ed="T"/><div type="jing" level="2"><lb
+ n="0097b11" ed="T"/><div type='jing' level='2'><lb
  n="0097b12" ed="T"/>
-<ab type="juan" subtype="open">曼殊室利焰曼德迦萬愛祕術如<lb
+<ab type='juan' subtype='open'>曼殊室利焰曼德迦萬愛祕術如<lb
  n="0097b13" ed="T"/>意法</ab><lb
  n="0097b14" ed="T"/><lb
  n="0097b15" ed="T"/><byline>一行撰譯</byline><lb
- n="0097b16" ed="T"/><ab type="prose">夫真言教源。自護摩法無上也。此之中祕密<lb
+ n="0097b16" ed="T"/><ab type='prose'>夫真言教源。自護摩法無上也。此之中祕密<lb
  n="0097b17" ed="T"/>教愛法也。為求末世眾生敬愛。說一印真言。<lb
  n="0097b18" ed="T"/>能利眾生故。先說像。其身六面六臂六足。乘<lb
  n="0097b19" ed="T"/>水牛。所謂六面。頂上三面中面菩薩形柔軟<lb
@@ -63,9 +63,9 @@
  n="0097b27" ed="T"/>其所口傳又當身口傳。<lb
  n="0097b28" ed="T"/>復次說一印口傳。呪曰。<lb
  n="0097b29" ed="T"/></ab>
-<ab type="dharani">唵瑟底哩迦羅嚕婆吽欠娑呵<pb n="0097c" id="T21.1219.0097c" ed="T"/><lb
+<ab type='dharani'>唵瑟底哩迦羅嚕婆吽欠娑呵<pb n="0097c" id="T21.1219.0097c" ed="T"/><lb
  n="0097c01" ed="T"/></ab>
-<ab type="prose">以是印呪向佛。成普禮及次第觀念。<lb
+<ab type='prose'>以是印呪向佛。成普禮及次第觀念。<lb
  n="0097c02" ed="T"/>復說曼陀羅法。內院明王。明王背有法形文<lb
  n="0097c03" ed="T"/>殊。外院東方召請童子。其形如童子。髻上生<lb
  n="0097c04" ed="T"/>登以弓矢。東南方計設尼童子如上形。左拳<lb
@@ -95,8 +95,8 @@
  n="0097c28" ed="T"/><lb
  n="0097c29" ed="T"/>如是說已。末世眾生信受奉行。<pb n="0098a" id="T21.1219.0098a" ed="T"/><lb
  n="0098a01" ed="T"/>
-</ab><ab type="juan" subtype="close">焰摩德迦萬愛法一卷</ab></div><lb
- n="0098a02" ed="T"/><div type="w" level="2"><ab type="prose">保元二年七月二十三日。於勸修寺西明<lb
+</ab><ab type='juan' subtype='close'>焰摩德迦萬愛法一卷</ab></div><lb
+ n="0098a02" ed="T"/><div type='w' level='2'><ab type='prose'>保元二年七月二十三日。於勸修寺西明<lb
  n="0098a03" ed="T"/>院住房　一校了。<lb
  n="0098a04" ed="T"/>　　　　　　　　　　　　　僧智海</ab></div></div>
 </body></text></TEI>

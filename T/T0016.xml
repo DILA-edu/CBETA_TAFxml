@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0016</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0250c08" ed="T"/><lb
  n="0250c09" ed="T"/><lb
- n="0250c10" ed="T"/><div type="jing" level="1"><lb
+ n="0250c10" ed="T"/><div type='jing' level='1'><lb
  n="0250c11" ed="T"/>
-<ab type="juan" subtype="open">佛說尸迦羅越六方禮經</ab><lb
+<ab type='juan' subtype='open'>佛說尸迦羅越六方禮經</ab><lb
  n="0250c12" ed="T"/><lb
  n="0250c13" ed="T"/><byline>後漢安息國三藏安世高譯</byline><lb
- n="0250c14" ed="T"/><ab type="prose">佛在王舍國鷄山中。時，有長者子，名尸迦羅<lb
+ n="0250c14" ed="T"/><ab type='prose'>佛在王舍國鷄山中。時，有長者子，名尸迦羅<lb
  n="0250c15" ed="T"/>越，早起嚴頭，洗浴著文衣，東向四拜、南向<lb
  n="0250c16" ed="T"/>四拜、西向四拜、北向四拜、向天四拜、向地<lb
  n="0250c17" ed="T"/>四拜。佛入國分衛遙見之，往到其家問之：<lb
@@ -141,7 +141,7 @@
  n="0251c18" ed="T"/>即受五戒，作禮而去。<lb
  n="0251c19" ed="T"/>佛說唄偈：<lb
  n="0251c20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「鷄鳴當早起，　　被衣來下牀，　　<lb
  n="0251c21" ed="T"/>澡漱令心淨，　　兩手奉花香。　　<lb
  n="0251c22" ed="T"/>佛尊過諸天，　　鬼神不能當，　　<lb
@@ -184,5 +184,5 @@
  n="0252b01" ed="T"/>廣勸無極慧，　　一切蒙神光。」　　
 </ab><lb
  n="0252b02" ed="T"/>
-<ab type="juan" subtype="close">佛說尸迦羅越六方禮經</ab></div>
+<ab type='juan' subtype='close'>佛說尸迦羅越六方禮經</ab></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T24</biblScope>
                     <idno type="Taisho">T24n1489</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="1075c04" ed="T"/><lb
  n="1075c05" ed="T"/><lb
  n="1075c06" ed="T"/>
-<ab type="juan" subtype="open">清淨毘尼方廣經</ab><lb
+<ab type='juan' subtype='open'>清淨毘尼方廣經</ab><lb
  n="1075c07" ed="T"/><lb
  n="1075c08" ed="T"/><byline>後秦龜茲國三藏鳩摩羅什譯</byline><lb
- n="1075c09" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時佛住王舍城祇闍崛山，與大<lb
+ n="1075c09" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時佛住王舍城祇闍崛山，與大<lb
  n="1075c10" ed="T"/>比丘僧八千人俱，菩薩摩訶薩萬二千人，及<lb
  n="1075c11" ed="T"/>欲色界天淨居天子。爾時世尊與諸無量百<lb
  n="1075c12" ed="T"/>千大眾恭敬圍繞而演說法。時有天子名寂<lb
@@ -514,5 +514,5 @@
  n="1081a09" ed="T"/>天子、文殊師利等一切菩薩、大迦葉等一切<lb
  n="1081a10" ed="T"/>聲聞，聞佛所說，皆大歡喜。</ab></div><lb
  n="1081a11" ed="T"/>
-<ab type="juan" subtype="close">清淨毘尼方廣經</ab>
+<ab type='juan' subtype='close'>清淨毘尼方廣經</ab>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n0958</idno>
                 </bibl>
@@ -39,15 +39,15 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0327a13" ed="T"/><lb
  n="0327a14" ed="T"/><lb
  n="0327a15" ed="T"/><lb
  n="0327a16" ed="T"/>
-<ab type="juan" subtype="open">金剛頂經一字頂輪王儀軌音義</ab><lb
+<ab type='juan' subtype='open'>金剛頂經一字頂輪王儀軌音義</ab><lb
  n="0327a17" ed="T"/><lb
- n="0327a18" ed="T"/><div type="jing" level="2"><ab type="prose">文稽首至是故常歸命。讚曰。此八頌初<lb
+ n="0327a18" ed="T"/><div type='jing' level='2'><ab type='prose'>文稽首至是故常歸命。讚曰。此八頌初<lb
  n="0327a19" ed="T"/>五句有五。謂一於初句言普賢者是理也。即<lb
  n="0327a20" ed="T"/>是為一字攝在下諸佛故。或分為二佛。謂普<lb
  n="0327a21" ed="T"/>賢與諸佛轉輪王是也。或分為三佛。先二加<lb
@@ -90,7 +90,7 @@
  n="0327c06" ed="T"/>觀。觀字義及月輪種等。出了　本言加持　讚言印供養閼伽歸命等無能<lb
  n="0327c08" ed="T"/>解界　解脫印言　前三部心印了。</ab></div><lb
  n="0327c09" ed="T"/><lb
- n="0327c10" ed="T"/><div type="w" level="2"><ab type="prose">天明三丙午十月三日。於仁和寺皆明寺。<lb
+ n="0327c10" ed="T"/><div type='w' level='2'><ab type='prose'>天明三丙午十月三日。於仁和寺皆明寺。<lb
  n="0327c11" ed="T"/>以栂尾山法鼓臺藏本寫得之訖。<lb
  n="0327c12" ed="T"/>　　　　　　　　智積院僧東武慈忍<lb
  n="0327c13" ed="T"/>享和改元辛酉年秋八月初六夜。求右本<lb

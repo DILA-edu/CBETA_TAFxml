@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1127</idno>
                 </bibl>
@@ -44,17 +44,17 @@
  n="0541c21" ed="T"/><lb
  n="0541c22" ed="T"/><lb
  n="0541c23" ed="T"/>
-<ab type="juan" subtype="open">佛說普賢菩薩陀羅尼經</ab><lb
+<ab type='juan' subtype='open'>佛說普賢菩薩陀羅尼經</ab><lb
  n="0541c24" ed="T"/><lb
  n="0541c25" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚少卿<lb
  n="0541c26" ed="T"/>傳教大師臣法天奉　詔譯</byline><lb
- n="0541c27" ed="T"/><div type="jing" level="1"><ab type="verse">
+ n="0541c27" ed="T"/><div type='jing' level='1'><ab type='verse'>
 歸依普遍虛空界　　三世清淨平等因　　<lb
  n="0541c28" ed="T"/>性等法光正覺道　　變化人天利樂身　　<lb
  n="0541c29" ed="T"/>示居十地自在位　　行大施願度眾生　　<pb n="0542a" id="T20.1127.0542a" ed="T"/><lb
  n="0542a01" ed="T"/>功德相嚴名普賢　　今說真言祕密教　　
 </ab><lb
- n="0542a02" ed="T"/><ab type="prose">爾時普賢菩薩摩訶薩。欲現廣大變化而入<lb
+ n="0542a02" ed="T"/><ab type='prose'>爾時普賢菩薩摩訶薩。欲現廣大變化而入<lb
  n="0542a03" ed="T"/>三摩地。名三界大自在。入此三摩地已。從清<lb
  n="0542a04" ed="T"/>淨虛空界。現無數身猶如塵沙。普遍大千一<lb
  n="0542a05" ed="T"/>切世界。<lb
@@ -64,7 +64,7 @@
  n="0542a09" ed="T"/>菩薩。身放千光普照十方。一切佛剎悉皆震<lb
  n="0542a10" ed="T"/>動。即說陀羅尼。<lb
  n="0542a11" ed="T"/></ab>
-<ab type="dharani">怛儞也他唵曩謨曩摩娑怛嚩<lb
+<ab type='dharani'>怛儞也他唵曩謨曩摩娑怛嚩<lb
  n="0542a12" ed="T"/>部嚩儞濕嚩囉摩賀部誐野阿三<lb
  n="0542a13" ed="T"/>摩三摩阿彌哆娑摩阿難陀娑摩誐誐曩娑摩<lb
  n="0542a14" ed="T"/>怛里婆嚩娑摩尾沙娑摩波囉摩囉<lb
@@ -75,7 +75,7 @@
  n="0542a19" ed="T"/>馱羅沒馱尾惹野尾惹野暗鉢囉設訖哆曩野曩野憾唧囉地瑟吒曩三部誐暗娑曩羅野羅野達里摩誐囉馱囉馱囉惹野惹野吽吽馱摩馱<lb
  n="0542a23" ed="T"/>摩娑嚩賀<lb
  n="0542a24" ed="T"/></ab>
-<ab type="prose">爾時普賢菩薩摩訶薩。說此陀羅尼已。佛即<lb
+<ab type='prose'>爾時普賢菩薩摩訶薩。說此陀羅尼已。佛即<lb
  n="0542a25" ed="T"/>觀彼菩薩之身。是過去先佛。為悲慜一切眾<lb
  n="0542a26" ed="T"/>生現變化身。滿於三界諸世間中。爾時諸大<lb
  n="0542a27" ed="T"/>菩薩。及天人阿修羅等。從一切金剛峰起。離<lb
@@ -109,5 +109,5 @@
  n="0542b26" ed="T"/>惱罪垢。復得天人衛護如來讚言。佛子汝若<lb
  n="0542b27" ed="T"/>依行。不久當入普賢之地。<lb
  n="0542b28" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說普賢菩薩陀羅尼經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說普賢菩薩陀羅尼經</ab></div>
 </body></text></TEI>

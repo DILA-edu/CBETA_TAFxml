@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T07</biblScope>
                     <idno type="Taisho">T07n0220g</idno>
                 </bibl>
@@ -39,13 +39,14 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><lb
+        <body><div level='1'>
+<lb
  n="0974b03" ed="T"/><lb
  n="0974b04" ed="T"/><lb
- n="0974b05" ed="T"/><div type="hui" level="1"><head>大般若經第八會那伽室利分</head><div type="xu" level="2"><head>序</head><lb
+ n="0974b05" ed="T"/><div type='hui' level='2'><head>大般若經第八會那伽室利分</head><div type='xu' level='3'><head>序</head><lb
  n="0974b06" ed="T"/><lb
  n="0974b07" ed="T"/><byline>西明寺沙門玄則撰</byline><lb
- n="0974b08" ed="T"/><ab type="prose">載惟清規外滌乃照晉於襟靈，神理內康俄<lb
+ n="0974b08" ed="T"/><ab type='prose'>載惟清規外滌乃照晉於襟靈，神理內康俄<lb
  n="0974b09" ed="T"/>發揮於事業，若不訊諸動寂，將或謬以隨迎。<lb
  n="0974b10" ed="T"/>是故妙祥資舍衛之稟、龍祥扣分衛之節，挫<lb
  n="0974b11" ed="T"/>舉下而迂足、措屈伸而矯手，慮不慮以思惟、<lb
@@ -60,14 +61,14 @@
  n="0974b20" ed="T"/>之露集、知幻質之泡浮，電倐青紫之輝、雲空<lb
  n="0974b21" ed="T"/>軒蓋之影。文約理贍，昔祕今傳，雖一軸且單<lb
  n="0974b22" ed="T"/>譯，而三復固多重味矣。</ab></div><pb n="0974c" ed="T" id="T07.0220g.0974c"/><lb
- n="0974c01" ed="T"/><div type="fen" level="2"><lb
+ n="0974c01" ed="T"/><div type='fen' level='3'><lb
  n="0974c02" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百七<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百七<lb
  n="0974c03" ed="T"/>十六</ab><lb
  n="0974c04" ed="T"/><lb
  n="0974c05" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
  n="0974c06" ed="T"/><head>第八那伽室利分</head><lb
- n="0974c07" ed="T"/><ab type="prose">如是我聞：一時，薄伽梵在室羅筏住誓多林<lb
+ n="0974c07" ed="T"/><ab type='prose'>如是我聞：一時，薄伽梵在室羅筏住誓多林<lb
  n="0974c08" ed="T"/>給孤獨園，為諸大眾宣揚正法。爾時，妙吉祥<lb
  n="0974c09" ed="T"/>菩薩摩訶薩於日初分著衣持鉢，漸次將入<lb
  n="0974c10" ed="T"/>室羅筏城。時，有菩薩名龍吉祥，見已問言：<lb
@@ -486,13 +487,13 @@
  n="0979b17" ed="T"/>示無開示想。是善男子、善女人等所獲福聚<lb
  n="0979b18" ed="T"/>甚多於前。」爾時，世尊而說頌曰：<lb
  n="0979b19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「如星翳燈幻，　　露泡夢電雲，　　<lb
  n="0979b20" ed="T"/>於一切有為，　　應作如是觀。」　　
 </ab><lb
- n="0979b21" ed="T"/><ab type="prose">時，薄伽梵說是經已，一切菩薩及諸苾芻，世<lb
+ n="0979b21" ed="T"/><ab type='prose'>時，薄伽梵說是經已，一切菩薩及諸苾芻，世<lb
  n="0979b22" ed="T"/>間天、人、阿素洛等一切眾會，聞佛所說皆大<lb
  n="0979b23" ed="T"/>歡喜、信受奉行。<lb
  n="0979b24" ed="T"/>
-</ab><ab type="juan" subtype="close">大般若波羅蜜多經卷第五百七十六</ab></div></div>
+</ab><ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百七十六</ab></div></div></div>
 </body></text></TEI>

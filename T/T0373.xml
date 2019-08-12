@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T12</biblScope>
                     <idno type="Taisho">T12n0373</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0364b07" ed="T"/><lb
  n="0364b08" ed="T"/><lb
  n="0364b09" ed="T"/>
-<ab type="juan" subtype="open">後出阿彌陀佛偈</ab><lb
+<ab type='juan' subtype='open'>後出阿彌陀佛偈</ab><lb
  n="0364b10" ed="T"/><lb
  n="0364b11" ed="T"/><byline>古舊錄云闕譯人名，今紀後漢錄</byline><lb
- n="0364b12" ed="T"/><div type="jing" level="1"><ab type="verse">
+ n="0364b12" ed="T"/><div type='jing' level='1'><ab type='verse'>
 惟念法比丘，　　乃從世饒王，　　<lb
  n="0364b13" ed="T"/>發願喻諸佛，　　誓二十四章。　　<lb
  n="0364b14" ed="T"/>世世見諸佛，　　姟數無有量；　　<lb
@@ -69,7 +69,7 @@
  n="0364c01" ed="T"/>不疑生基坐，　　叉手無量前，　　<lb
  n="0364c02" ed="T"/>願欲遍十方，　　須臾則旋還。　　<lb
  n="0364c03" ed="T"/>惟念彼菩薩，　　姟劫作功勤，　　<lb
- n="0364c04" ed="T"/>本行如此致，　　得號會世尊！　　<lb
+ n="0364c04" ed="T"/>本行如此致，　　得號懀世尊！　　<lb
  n="0364c05" ed="T"/>佛興難得值，　　須臾會難聞，　　<lb
  n="0364c06" ed="T"/>講說士難遇，　　受學人難得。　　<lb
  n="0364c07" ed="T"/>若後遭末世，　　法欲衰微時，　　<lb
@@ -78,5 +78,5 @@
  n="0364c10" ed="T"/>受此無量福，　　世世稽首行。　　
 </ab></div><lb
  n="0364c11" ed="T"/>
-<ab type="juan" subtype="close">後出阿彌陀佛偈</ab>
+<ab type='juan' subtype='close'>後出阿彌陀佛偈</ab>
 </body></text></TEI>

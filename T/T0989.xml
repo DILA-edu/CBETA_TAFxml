@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n0989</idno>
                 </bibl>
@@ -42,15 +42,15 @@
         <body><lb
  n="0484c10" ed="T"/><lb
  n="0484c11" ed="T"/><lb
- n="0484c12" ed="T"/><div type="jing" level="1"><lb
+ n="0484c12" ed="T"/><div type='jing' level='1'><lb
  n="0484c13" ed="T"/>
-<ab type="juan" subtype="open">大雲輪請雨經卷上</ab><lb
+<ab type='juan' subtype='open'>大雲輪請雨經卷上</ab><lb
  n="0484c14" ed="T"/><lb
  n="0484c15" ed="T"/><byline>開府儀同三司特進試鴻臚卿<lb
  n="0484c16" ed="T"/>肅國公食邑三千戶賜紫贈司<lb
  n="0484c17" ed="T"/>空謚大鑒正號大廣智大興<lb
  n="0484c18" ed="T"/>善寺三藏沙門不空奉　詔譯</byline><lb
- n="0484c19" ed="T"/><ab type="prose">如是我聞。一時佛住難陀塢波難陀龍王<lb
+ n="0484c19" ed="T"/><ab type='prose'>如是我聞。一時佛住難陀塢波難陀龍王<lb
  n="0484c20" ed="T"/>宮。吉祥摩尼寶藏大雲道場寶樓閣中。與大<lb
  n="0484c21" ed="T"/>苾芻及諸菩薩。摩訶薩眾。復有諸大龍王。其<lb
  n="0484c22" ed="T"/>名曰。難那龍王。塢波難那龍王。娑伽羅龍<lb
@@ -281,7 +281,7 @@
  n="0487b15" ed="T"/>者名為施一切樂陀羅尼句。爾時世尊即說<lb
  n="0487b16" ed="T"/>陀羅尼曰。<lb
  n="0487b17" ed="T"/></ab>
-<ab type="dharani">怛儞也他馱囉抳馱囉抳<lb
+<ab type='dharani'>怛儞也他馱囉抳馱囉抳<lb
  n="0487b18" ed="T"/>嗢跢囉抳三鉢囉底瑟恥跢尾惹嚩野野韈囉拏薩底也<lb
  n="0487b20" ed="T"/>鉢囉底枳孃薩賀枳孃<lb
  n="0487b21" ed="T"/>曩嚩底嗢答播娜𩕳尾嚧賀𩕳阿<lb
@@ -294,7 +294,7 @@
  n="0487b28" ed="T"/>迦曩地瑟恥帝鉢囉枳孃<pb n="0487c" id="T19.0989.0487c" ed="T"/><lb
  n="0487c01" ed="T"/>曩霓娑嚩賀<lb
  n="0487c02" ed="T"/></ab>
-<ab type="prose">佛告龍王。此陀羅尼句一切諸佛加持。汝等<lb
+<ab type='prose'>佛告龍王。此陀羅尼句一切諸佛加持。汝等<lb
  n="0487c03" ed="T"/>常須受持讀誦。成一切義利得入法門。是名<lb
  n="0487c04" ed="T"/>施一切樂句。<lb
  n="0487c05" ed="T"/>復次龍王。有大雲所生加持莊嚴威德藏變<lb
@@ -377,16 +377,16 @@
  n="0488b24" ed="T"/>來所說五種雨障亦皆消滅。即令此贍部洲<lb
  n="0488b25" ed="T"/>雨澤以時。唯願如來為我等說。<lb
  n="0488b26" ed="T"/>
-</ab><ab type="juan" subtype="close">大雲輪請雨經卷上</ab><pb n="0488c" id="T19.0989.0488c" ed="T"/><lb
+</ab><ab type='juan' subtype='close'>大雲輪請雨經卷上</ab><pb n="0488c" id="T19.0989.0488c" ed="T"/><lb
  n="0488c01" ed="T"/><lb
  n="0488c02" ed="T"/>
-<ab type="juan" subtype="open">大雲輪請雨經卷下</ab><lb
+<ab type='juan' subtype='open'>大雲輪請雨經卷下</ab><lb
  n="0488c03" ed="T"/><lb
  n="0488c04" ed="T"/><byline>開府儀同三司特進試鴻臚卿<lb
  n="0488c05" ed="T"/>肅國公食邑三千戶賜紫贈司<lb
  n="0488c06" ed="T"/>空謚大鑒正號大廣智大興<lb
  n="0488c07" ed="T"/>善寺三藏沙門不空奉　詔譯</byline><lb
- n="0488c08" ed="T"/><ab type="prose">爾時世尊聞此無邊莊嚴海雲威德輪蓋龍<lb
+ n="0488c08" ed="T"/><ab type='prose'>爾時世尊聞此無邊莊嚴海雲威德輪蓋龍<lb
  n="0488c09" ed="T"/>王如是請已。讚言善哉善哉汝大龍王。能請<lb
  n="0488c10" ed="T"/>如來利益安樂一切有情。是故龍王汝今聽<lb
  n="0488c11" ed="T"/>善聽極善聽。汝當作意我為汝說。此陀羅尼<lb
@@ -397,7 +397,7 @@
  n="0488c16" ed="T"/>知聞。復令諸天歡喜踊躍。能摧諸魔安隱一<lb
  n="0488c17" ed="T"/>切有情。說此陀羅尼曰。<lb
  n="0488c18" ed="T"/></ab>
-<ab type="dharani">怛儞也他摩賀枳孃曩嚩婆娑𩕳室哩多帝祖洛乞<lb
+<ab type='dharani'>怛儞也他摩賀枳孃曩嚩婆娑𩕳室哩多帝祖洛乞<lb
  n="0488c20" ed="T"/>史銘濕𠴊荼尾訖囉莫嚩日囉僧伽多寧鉢囉麼尾囉<lb
  n="0488c22" ed="T"/>惹涅摩羅麌拏計覩素哩野<lb
  n="0488c23" ed="T"/>鉢囉陛尾麼朗誐拽瑟置跋囉跋<lb
@@ -422,13 +422,13 @@
  n="0489a13" ed="T"/>麼帝摩賀鉢囉枳孃播囉<lb
  n="0489a14" ed="T"/>弭帝娑嚩賀<lb
  n="0489a15" ed="T"/></ab>
-<ab type="prose">南無智海毘盧遮那如來。<lb
+<ab type='prose'>南無智海毘盧遮那如來。<lb
  n="0489a16" ed="T"/>南無一切諸佛菩薩摩訶薩眾。<lb
  n="0489a17" ed="T"/>我今召請一切諸龍於贍部洲令降雨故。以<lb
  n="0489a18" ed="T"/>一切佛菩薩誠實真言。誡勅諸龍除滅五障。<lb
  n="0489a19" ed="T"/>復說陀羅尼曰。<lb
  n="0489a20" ed="T"/></ab>
-<ab type="dharani">怛儞也他薩囉薩囉悉哩悉哩素嚕<lb
+<ab type='dharani'>怛儞也他薩囉薩囉悉哩悉哩素嚕<lb
  n="0489a21" ed="T"/>素嚕曩誐南惹嚩惹嚩爾尾爾尾<lb
  n="0489a22" ed="T"/>祖舞祖舞摩賀曩誐阿󰋲攃<lb
  n="0489a23" ed="T"/>多母馱薩底曳寧訶贍部儞尾閉<lb
@@ -604,7 +604,7 @@
  n="0491c20" ed="T"/>夜弭鉢囉韈囉乞灑帝訶贍部<lb
  n="0491c21" ed="T"/>儞尾閉娑嚩賀多乞灑<lb
  n="0491c22" ed="T"/>揵曩誐囉殘散祖娜夜弭鉢囉<lb
- n="0491c23" ed="T"/>韈囉灑帝訶贍部儞尾閉娑嚩賀地哩多囉瑟󰸫曩<lb
+ n="0491c23" ed="T"/>韈囉灑帝訶贍部儞尾閉娑嚩賀地哩多囉瑟𭍉曩<lb
  n="0491c25" ed="T"/>誐囉殘散祖娜夜弭鉢囉韈囉<lb
  n="0491c26" ed="T"/>灑帝訶贍部儞尾閉娑嚩賀<lb
  n="0491c27" ed="T"/>嚩素緊曩誐囉殘散祖娜夜<pb n="0492a" id="T19.0989.0492a" ed="T"/><lb
@@ -661,11 +661,11 @@
  n="0492c03" ed="T"/>怛囉唧帝曩鉢囉韈囉灑帝<lb
  n="0492c04" ed="T"/>訶贍部儞尾閉娑嚩賀<lb
  n="0492c05" ed="T"/></ab>
-<ab type="prose">爾時三千大千世界主無邊莊嚴海雲威德輪<lb
+<ab type='prose'>爾時三千大千世界主無邊莊嚴海雲威德輪<lb
  n="0492c06" ed="T"/>蓋大龍王及諸龍王等并龍眷屬聞佛教勅皆<lb
  n="0492c07" ed="T"/>大歡喜信受奉行。<lb
  n="0492c08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 天阿蘇羅藥叉等　　來聽法者應至心　　<lb
  n="0492c09" ed="T"/>擁護佛法使長存　　各各勤行世尊教　　<lb
  n="0492c10" ed="T"/>諸有聽徒來至此　　或在地上或居空　　<lb
@@ -676,5 +676,5 @@
  n="0492c15" ed="T"/>菩提妙花遍莊嚴　　隨所住處常安樂　　
 </ab><lb
  n="0492c16" ed="T"/>
-<ab type="juan" subtype="close">大雲輪請雨經卷下</ab></div>
+<ab type='juan' subtype='close'>大雲輪請雨經卷下</ab></div>
 </body></text></TEI>

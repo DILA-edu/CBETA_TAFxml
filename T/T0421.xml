@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T13</biblScope>
                     <idno type="Taisho">T13n0421</idno>
                 </bibl>
@@ -39,13 +39,13 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0935b08" ed="T"/><lb
  n="0935b09" ed="T"/><lb
- n="0935b10" ed="T"/><div type="xu" level="2"><head>奮迅王問經翻譯之記</head><lb
+ n="0935b10" ed="T"/><div type='xu' level='2'><head>奮迅王問經翻譯之記</head><lb
  n="0935b11" ed="T"/><lb
- n="0935b12" ed="T"/><ab type="prose">一初菩薩功行普修，依德立名，字號平<lb
+ n="0935b12" ed="T"/><ab type='prose'>一切菩薩功行普修，依德立名，字號平<lb
  n="0935b13" ed="T"/>等，隨所顯發稱謂不同，說法問論多依自<lb
  n="0935b14" ed="T"/>字。故奮迅王問奮迅法，如來為說四種奮迅，<lb
  n="0935b15" ed="T"/>其有人能具此奮迅，則於一切皆能奮迅。魏<lb
@@ -54,13 +54,13 @@
  n="0935b18" ed="T"/>種奮迅法門。沙門曇林、瞿曇流支，興和四年，<lb
  n="0935b19" ed="T"/>歲次壬戌，月建在申，朔次乙丑，甲午之日啟<lb
  n="0935b20" ed="T"/>夾創筆，凡有一萬八千三百四十一字。</ab></div><lb
- n="0935b21" ed="T"/><div type="jing" level="2"><lb
+ n="0935b21" ed="T"/><div type='jing' level='2'><lb
  n="0935b22" ed="T"/><lb
  n="0935b23" ed="T"/>
-<ab type="juan" subtype="open">奮迅王問經卷上</ab><lb
+<ab type='juan' subtype='open'>奮迅王問經卷上</ab><lb
  n="0935b24" ed="T"/><lb
  n="0935b25" ed="T"/><byline>元魏婆羅門瞿曇般若流支譯</byline><lb
- n="0935b26" ed="T"/><ab type="prose">如是我聞：一時婆伽婆住舍婆提城祇陀樹<lb
+ n="0935b26" ed="T"/><ab type='prose'>如是我聞：一時婆伽婆住舍婆提城祇陀樹<lb
  n="0935b27" ed="T"/>林給孤獨園，與大比丘眾二萬人俱，菩薩摩<lb
  n="0935b28" ed="T"/>訶薩一萬人，一生當得阿耨多羅三藐三菩<lb
  n="0935b29" ed="T"/>提彌勒菩薩、德大勢菩薩、師子意菩薩、師<pb n="0935c" ed="T" id="T13.0421.0935c"/><lb
@@ -319,7 +319,7 @@
  n="0938b21" ed="T"/>「奮迅王！何者菩薩天耳通奮迅？彼菩薩成就<lb
  n="0938b22" ed="T"/>天耳，乃至無量無邊世界所有諸聲——天聲、龍<lb
  n="0938b23" ed="T"/>聲、夜叉聲、乾闥婆聲、阿修羅聲、迦樓羅聲、緊<lb
- n="0938b24" ed="T"/>那羅聲、摩睺羅迦、人非人聲——如是等聲一切<lb
+ n="0938b24" ed="T"/>那羅聲、摩睺羅伽、人非人聲——如是等聲一切<lb
  n="0938b25" ed="T"/>皆聞。雖聞彼聲，不取自相及眾生相，不取聲<lb
  n="0938b26" ed="T"/>相而知一切音聲之相；雖聞音聲，於聲聲處<lb
  n="0938b27" ed="T"/>信解不實，前聲、後聲皆悉無聲。如是通達，彼<lb
@@ -632,13 +632,13 @@
  n="0942a14" ed="T"/>解脫知見法見，非過去見、非未來見、非現在<lb
  n="0942a15" ed="T"/>見，若如是見則見如來。」<lb
  n="0942a16" ed="T"/>
-</ab><ab type="juan" subtype="close">奮迅王問經卷上</ab><lb
+</ab><ab type='juan' subtype='close'>奮迅王問經卷上</ab><lb
  n="0942a17" ed="T"/><lb
  n="0942a18" ed="T"/>
-<ab type="juan" subtype="open">奮迅王問經卷下</ab><lb
+<ab type='juan' subtype='open'>奮迅王問經卷下</ab><lb
  n="0942a19" ed="T"/><lb
  n="0942a20" ed="T"/><byline>元魏婆羅門瞿曇般若流支譯</byline><lb
- n="0942a21" ed="T"/><ab type="prose">爾時，奮迅王菩薩白佛言：「世尊！若有法者，可<lb
+ n="0942a21" ed="T"/><ab type='prose'>爾時，奮迅王菩薩白佛言：「世尊！若有法者，可<lb
  n="0942a22" ed="T"/>有見法？若有見法，可見如來？」佛言：「有。何以<lb
  n="0942a23" ed="T"/>故？奮迅王！色相不生，本性不生，如是見色<lb
  n="0942a24" ed="T"/>則見如來；如是，受、想、行、識之相，皆悉不生，本<lb
@@ -1145,7 +1145,7 @@
  n="0948a03" ed="T"/>後乃退。彼退菩薩如是退已，無身、無皮、無<lb
  n="0948a04" ed="T"/>塊、無可知見；退已復到餘佛世界現見如<lb
  n="0948a05" ed="T"/>來。<lb
- n="0948a06" ed="T"/>「大王如來并諸菩薩不著袈裟，皆著清淨妙<lb
+ n="0948a06" ed="T"/>「天王如來并諸菩薩不著袈裟，皆著清淨妙<lb
  n="0948a07" ed="T"/>好天衣。彼不學戒而悉調順，一切皆得無生<lb
  n="0948a08" ed="T"/>法忍，為菩薩眾不廣說法。何以故？彼眾一<lb
  n="0948a09" ed="T"/>切少聞多解，以利根故。若彼如來為諸菩薩<lb
@@ -1194,5 +1194,5 @@
  n="0948b23" ed="T"/>天、人及乾闥婆、阿修羅等，聞如來說，歡喜<lb
  n="0948b24" ed="T"/>讚嘆。<lb
  n="0948b25" ed="T"/>
-</ab><ab type="juan" subtype="close">奮迅王問經卷下</ab></div></div>
+</ab><ab type='juan' subtype='close'>奮迅王問經卷下</ab></div></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1181</idno>
                 </bibl>
@@ -44,12 +44,12 @@
  n="0780a12" ed="T"/><lb
  n="0780a13" ed="T"/><lb
  n="0780a14" ed="T"/>
-<ab type="juan" subtype="open">大方廣菩薩藏經中文殊師利根<lb
+<ab type='juan' subtype='open'>大方廣菩薩藏經中文殊師利根<lb
  n="0780a15" ed="T"/>本一字陀羅尼經</ab><lb
  n="0780a16" ed="T"/><lb
  n="0780a17" ed="T"/><byline>大唐北印度迦濕彌羅國<lb
  n="0780a18" ed="T"/>三藏寶思惟譯</byline><lb
- n="0780a19" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞。一時佛住淨居天寶莊嚴道場中。<lb
+ n="0780a19" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞。一時佛住淨居天寶莊嚴道場中。<lb
  n="0780a20" ed="T"/>與大菩薩及淨居諸天眾俱。爾時世尊大慈<lb
  n="0780a21" ed="T"/>大悲。於此會中普告一切諸天眾言。汝等善<lb
  n="0780a22" ed="T"/>聽文殊師利童子行輪呪法。為欲守護諸眾<lb
@@ -71,9 +71,9 @@
  n="0780b09" ed="T"/>其身亦令諸願。皆得圓滿無超過者。即說呪<lb
  n="0780b10" ed="T"/>曰。<lb
  n="0780b11" ed="T"/></ab>
-<ab type="dharani">唵齒𡄦<lb
+<ab type='dharani'>唵齒𡄦<lb
  n="0780b12" ed="T"/></ab>
-<ab type="prose">諸佛子等此呪能滅一切惡邪魍魎。諸鬼是<lb
+<ab type='prose'>諸佛子等此呪能滅一切惡邪魍魎。諸鬼是<lb
  n="0780b13" ed="T"/>一切諸佛吉祥之法。亦能成就一切神呪。誦<lb
  n="0780b14" ed="T"/>此呪者。能令眾生起大慈心。能令眾生起大<lb
  n="0780b15" ed="T"/>悲心。一切障礙皆得消滅。所有諸願皆得滿<lb
@@ -130,6 +130,6 @@
  n="0781a12" ed="T"/>身若為他身。所願皆得。是故慇懃生難遇<lb
  n="0781a13" ed="T"/>想。勿得輕慢起疑惑心。<lb
  n="0781a14" ed="T"/>
-</ab><ab type="juan" subtype="close">大方廣菩薩藏經中文殊師利根本一字陀羅<lb
+</ab><ab type='juan' subtype='close'>大方廣菩薩藏經中文殊師利根本一字陀羅<lb
  n="0781a15" ed="T"/>尼經</ab></div>
 </body></text></TEI>

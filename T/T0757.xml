@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T17</biblScope>
                     <idno type="Taisho">T17n0757</idno>
                 </bibl>
@@ -42,14 +42,14 @@
         <body><lb
  n="0591c08" ed="T"/><lb
  n="0591c09" ed="T"/><lb
- n="0591c10" ed="T"/><div type="jing" level="1"><lb
+ n="0591c10" ed="T"/><div type='jing' level='1'><lb
  n="0591c11" ed="T"/>
-<ab type="juan" subtype="open">佛說身毛喜豎經卷上</ab><lb
+<ab type='juan' subtype='open'>佛說身毛喜豎經卷上</ab><lb
  n="0591c12" ed="T"/><lb
  n="0591c13" ed="T"/><byline>譯經三藏朝散大夫試鴻臚卿<lb
  n="0591c14" ed="T"/>光梵大師賜紫沙門臣惟淨等<lb
  n="0591c15" ed="T"/>奉　詔譯</byline><lb
- n="0591c16" ed="T"/><ab type="prose">如是我聞：一時世尊在毘舍離國最勝大城<lb
+ n="0591c16" ed="T"/><ab type='prose'>如是我聞：一時世尊在毘舍離國最勝大城<lb
  n="0591c17" ed="T"/>最勝林中，與苾芻眾俱。時彼城中有長者子，<lb
  n="0591c18" ed="T"/>名曰善星，捨離佛法，其來未久，以多種緣，謗<lb
  n="0591c19" ed="T"/>佛法僧，而作是言：「沙門瞿曇！尚無人中最上<lb
@@ -281,15 +281,15 @@
  n="0594b13" ed="T"/>見，以不信故，乃發是言，而為誹謗。由彼心言<lb
  n="0594b14" ed="T"/>及彼所見，相續謗故，速墮地獄。<lb
  n="0594b15" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說身毛喜豎經卷上</ab><lb
+</ab><ab type='juan' subtype='close'>佛說身毛喜豎經卷上</ab><lb
  n="0594b16" ed="T"/><lb
  n="0594b17" ed="T"/>
-<ab type="juan" subtype="open">佛說身毛喜豎經卷中</ab><lb
+<ab type='juan' subtype='open'>佛說身毛喜豎經卷中</ab><lb
  n="0594b18" ed="T"/><lb
  n="0594b19" ed="T"/><byline>譯經三藏朝散大夫試鴻臚卿<lb
  n="0594b20" ed="T"/>光梵大師賜紫沙門臣惟淨等<lb
  n="0594b21" ed="T"/>奉　詔譯</byline><lb
- n="0594b22" ed="T"/><ab type="prose">「復次舍利子！所有地獄之道及地獄因，乃至<lb
+ n="0594b22" ed="T"/><ab type='prose'>「復次舍利子！所有地獄之道及地獄因，乃至<lb
  n="0594b23" ed="T"/>有情所受報應，我悉能知，今復少以譬喻略<lb
  n="0594b24" ed="T"/>明斯義。舍利子！譬如世間有大火聚，高等人<lb
  n="0594b25" ed="T"/>量，或踰人量，其火熾盛，後當息滅，煙焰暖<lb
@@ -542,16 +542,16 @@
  n="0597b11" ed="T"/>葉種子等食。舍利子！彼如是行，我亦隨行。是<lb
  n="0597b12" ed="T"/>為我修最上厭離。<lb
  n="0597b13" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說身毛喜豎經卷中</ab><lb
+</ab><ab type='juan' subtype='close'>佛說身毛喜豎經卷中</ab><lb
  n="0597b14" ed="T"/><lb
  n="0597b15" ed="T"/><lb
  n="0597b16" ed="T"/>
-<ab type="juan" subtype="open">佛說身毛喜豎經卷下</ab><lb
+<ab type='juan' subtype='open'>佛說身毛喜豎經卷下</ab><lb
  n="0597b17" ed="T"/><lb
  n="0597b18" ed="T"/><byline>譯經三藏朝散大夫試鴻臚卿<lb
  n="0597b19" ed="T"/>光梵大師賜紫沙門臣惟淨等<lb
  n="0597b20" ed="T"/>奉　詔譯</byline><lb
- n="0597b21" ed="T"/><ab type="prose">「復次舍利子！云何同彼最上苦切逼身？謂我<lb
+ n="0597b21" ed="T"/><ab type='prose'>「復次舍利子！云何同彼最上苦切逼身？謂我<lb
  n="0597b22" ed="T"/>身支塵土坌污，初則微少漸增後積。譬如鼎<lb
  n="0597b23" ed="T"/>訥迦樹枝葉，塵坌從微漸增，後積成大；我之<lb
  n="0597b24" ed="T"/>身分亦復如是！舍利子！我雖塵垢坌污增積，<lb
@@ -607,7 +607,7 @@
  n="0598a16" ed="T"/>乃至，盡生死道，後不復生。<lb
  n="0598a17" ed="T"/>「又舍利子！世有一類婆羅門者，作如是言：『我<lb
  n="0598a18" ed="T"/>以艱苦而求，難所得食，計為清淨。』舍利子！我<lb
- n="0598a19" ed="T"/>知是時，亦同彼行。何等是為難所求食？謂我<lb
+ n="0598a19" ed="T"/>知是事，亦同彼行。何等是為難所求食？謂我<lb
  n="0598a20" ed="T"/>專詣曠野之中群牛聚處，於彼求乞犢子之<lb
  n="0598a21" ed="T"/>乳，隨其所得而用食之，此即是為難所求食。<lb
  n="0598a22" ed="T"/>舍利子！雖如是行，求之少分人中上法尚不<lb
@@ -615,7 +615,7 @@
  n="0598a24" ed="T"/>道，後不復生。<lb
  n="0598a25" ed="T"/>「又舍利子！世有一類婆羅門者，但食其麥，計<lb
  n="0598a26" ed="T"/>為清淨，作如是言：『若但食麥，如是修行，而得<lb
- n="0598a27" ed="T"/>清淨。』彼取麥已，或碎其末；或󰰂其水；或以<lb
+ n="0598a27" ed="T"/>清淨。』彼取麥已，或碎其末；或𭲏其水；或以<lb
  n="0598a28" ed="T"/>多種治事而食，為其資養。舍利子！我知是事，<lb
  n="0598a29" ed="T"/>亦同彼行。何等是我取麥為食？舍利子！我唯<pb n="0598b" ed="T" id="T17.0757.0598b"/><lb
  n="0598b01" ed="T"/>取其一粒而食，無復加二。後於異時，由食麥<lb
@@ -648,7 +648,7 @@
  n="0598b28" ed="T"/>生死道，後不復生。<lb
  n="0598b29" ed="T"/>「又舍利子！世有一類婆羅門者，但食其米，計<pb n="0598c" ed="T" id="T17.0757.0598c"/><lb
  n="0598c01" ed="T"/>為清淨，作如是言：『若但食米，如是修行，而得<lb
- n="0598c02" ed="T"/>清淨。』彼取米已，或碎其末；或󰰂其水；或以<lb
+ n="0598c02" ed="T"/>清淨。』彼取米已，或碎其末；或𭲏其水；或以<lb
  n="0598c03" ed="T"/>多種治事而食，為其資養。舍利子！我知是事，<lb
  n="0598c04" ed="T"/>亦同彼行。何等是我取米為食？舍利子！我唯<lb
  n="0598c05" ed="T"/>取其一粒而食，無復加二。後於異時，由食米<lb
@@ -661,7 +661,7 @@
  n="0598c12" ed="T"/>證？廣說乃至，盡生死道，後不復生。<lb
  n="0598c13" ed="T"/>「又舍利子！世有一類婆羅門者，但食其麻，計<lb
  n="0598c14" ed="T"/>為清淨，作如是言：『若但食麻，如是修行，而得<lb
- n="0598c15" ed="T"/>清淨。』彼取麻已，或碎其末；或󰰂其水；或以<lb
+ n="0598c15" ed="T"/>清淨。』彼取麻已，或碎其末；或𭲏其水；或以<lb
  n="0598c16" ed="T"/>多種治事而食，為其資養。舍利子！我知是事，<lb
  n="0598c17" ed="T"/>亦同彼行。何等是我取麻為食？舍利子！我唯<lb
  n="0598c18" ed="T"/>取其一粒而食，無復加二。後於異時，由食麻<lb
@@ -794,5 +794,5 @@
  n="0600a29" ed="T"/>佛說是經已，毘舍離國最勝大城最勝林中，<pb n="0600b" ed="T" id="T17.0757.0600b"/><lb
  n="0600b01" ed="T"/>諸苾芻眾，聞佛所說，歡喜信受。<lb
  n="0600b02" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說身毛喜豎經卷下</ab></div>
+</ab><ab type='juan' subtype='close'>佛說身毛喜豎經卷下</ab></div>
 </body></text></TEI>

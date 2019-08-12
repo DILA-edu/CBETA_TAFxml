@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T02</biblScope>
                     <idno type="Taisho">T02n0135</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0857c16" ed="T"/><lb
  n="0857c17" ed="T"/><lb
- n="0857c18" ed="T"/><div type="jing" level="1"><lb
+ n="0857c18" ed="T"/><div type='jing' level='1'><lb
  n="0857c19" ed="T"/>
-<ab type="juan" subtype="open">佛說力士移山經</ab><lb
+<ab type='juan' subtype='open'>佛說力士移山經</ab><lb
  n="0857c20" ed="T"/><lb
  n="0857c21" ed="T"/><byline>西晉天竺三藏竺法護譯</byline><lb
- n="0857c22" ed="T"/><ab type="prose">聞如是：一時，佛遊拘夷那竭國力士所生地<lb
+ n="0857c22" ed="T"/><ab type='prose'>聞如是：一時，佛遊拘夷那竭國力士所生地<lb
  n="0857c23" ed="T"/>大叢樹間，與比丘千二百五十人俱。臨滅度<lb
  n="0857c24" ed="T"/>時，時國臣民皆出來會。佛問阿難：「斯國大眾<lb
  n="0857c25" ed="T"/>何故雲集？」賢者阿難白世尊曰：「有大石山去<lb
@@ -173,7 +173,7 @@
  n="0859a29" ed="T"/>四方人齎諸華香，跱立幢幡，懸繒鈴蓋，然燈<pb n="0859b" ed="T" id="T02.0135.0859b"/><lb
  n="0859b01" ed="T"/>奉進，一切皆就真妙之法。」佛於是頌曰：<lb
  n="0859b02" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「法起必歸盡，　　興者當就衰，　　<lb
  n="0859b03" ed="T"/>萬物皆無常，　　慮是乃為安。　　<lb
  n="0859b04" ed="T"/>得百千金山，　　福祚難為喻，　　<lb
@@ -183,12 +183,12 @@
  n="0859b08" ed="T"/>設百千寶車，　　載色如紫金，　　<lb
  n="0859b09" ed="T"/>不如供土寺，　　踊躍歸命佛。」　　
 </ab><lb
- n="0859b10" ed="T"/><ab type="prose">佛說是經時，諸力士眾五百人等，知世無常<lb
+ n="0859b10" ed="T"/><ab type='prose'>佛說是經時，諸力士眾五百人等，知世無常<lb
  n="0859b11" ed="T"/>三界難怙，無一真諦唯道可依，貢高即除不<lb
  n="0859b12" ed="T"/>計吾我，皆發無上正真道意，應時皆得立不<lb
  n="0859b13" ed="T"/>退轉之地。有無央數百千天人，遠塵離垢，諸<lb
  n="0859b14" ed="T"/>法法眼生。佛說如是，莫不歡喜，各以頭面著<lb
  n="0859b15" ed="T"/>地為佛作禮。<lb
  n="0859b16" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說力士移山經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說力士移山經</ab></div>
 </body></text></TEI>

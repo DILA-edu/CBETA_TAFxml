@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T12</biblScope>
                     <idno type="Taisho">T12n0350</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0189b03" ed="T"/><lb
  n="0189b04" ed="T"/><lb
  n="0189b05" ed="T"/>
-<ab type="juan" subtype="open">佛說遺日摩尼寶經</ab><lb
+<ab type='juan' subtype='open'>佛說遺日摩尼寶經</ab><lb
  n="0189b06" ed="T"/><lb
  n="0189b07" ed="T"/><byline>後漢月支國三藏支婁迦讖譯</byline><lb
- n="0189b08" ed="T"/><div type="jing" level="1"><ab type="prose">佛在舍衛國祇洹阿難邠坻阿藍時，與摩訶<lb
+ n="0189b08" ed="T"/><div type='jing' level='1'><ab type='prose'>佛在舍衛國祇洹阿難邠坻阿藍時，與摩訶<lb
  n="0189b09" ed="T"/>比丘僧千二百五十人，菩薩萬二千人。爾時<lb
  n="0189b10" ed="T"/>佛語摩訶迦葉比丘言：「菩薩有四事法智慧<lb
  n="0189b11" ed="T"/>為減。何等為四事？一者不敬經不敬師、二者<lb
@@ -160,7 +160,7 @@
  n="0190c02" ed="T"/>薩如是，發心成薩芸若。譬如樹蔭却雨；菩<lb
  n="0190c03" ed="T"/>薩如是，持極大慈雨於經道。譬如國王得傍<lb
  n="0190c04" ed="T"/>臣共治，則好漚惒拘舍羅；如是菩薩，所作<lb
- n="0190c05" ed="T"/>為如佛。譬如天𩄆欲索雨不能得也；菩薩<lb
+ n="0190c05" ed="T"/>為如佛。譬如天晴欲索雨不能得也；菩薩<lb
  n="0190c06" ed="T"/>如是，不學經道，豫知不高明也。譬如遮迦越<lb
  n="0190c07" ed="T"/>羅王之所處，自然後七寶自然來生；菩薩<lb
  n="0190c08" ed="T"/>如是，初生薩芸若意，然後自然生三十七品<lb
@@ -426,7 +426,7 @@
  n="0193c07" ed="T"/>諦議不戲也，不爭者是為比丘法也。何因為<lb
  n="0193c08" ed="T"/>泥洹身中，有我有神有命有人有意耶？當有<lb
  n="0193c09" ed="T"/>至泥洹處者耶？」五百人報言：「是身亦無人亦<lb
- n="0193c10" ed="T"/>無我亦無名亦無意亦無有，行至泥洹處者<lb
+ n="0193c10" ed="T"/>無我亦無命亦無意亦無有，行至泥洹處者<lb
  n="0193c11" ed="T"/>也。」兩比丘復報言：「何等盡，當得泥洹者？」五百<lb
  n="0193c12" ed="T"/>人復報言：「盡婬盡怒盡癡，是為泥洹。」兩比丘<lb
  n="0193c13" ed="T"/>復問言：「卿曹婬怒癡悉盡未？」五百人復報言：<lb
@@ -465,5 +465,5 @@
  n="0194a17" ed="T"/>丘、比丘尼、優婆塞、優婆夷，諸天、世人、鬼神、龍<lb
  n="0194a18" ed="T"/>皆歡喜，前為佛作禮而去。</ab></div><lb
  n="0194a19" ed="T"/>
-<ab type="juan" subtype="close">佛說遺日摩尼寶經</ab>
+<ab type='juan' subtype='close'>佛說遺日摩尼寶經</ab>
 </body></text></TEI>

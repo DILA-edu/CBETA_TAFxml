@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1281</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0342b12" ed="T"/><lb
  n="0342b13" ed="T"/><lb
- n="0342b14" ed="T"/><div type="jing" level="2"><lb
+ n="0342b14" ed="T"/><div type='jing' level='2'><lb
  n="0342b15" ed="T"/>
-<ab type="juan" subtype="open">那羅延天共阿修羅王鬪戰法</ab><lb
+<ab type='juan' subtype='open'>那羅延天共阿修羅王鬪戰法</ab><lb
  n="0342b16" ed="T"/><lb
  n="0342b17" ed="T"/><byline>寶思惟三藏譯</byline><lb
- n="0342b18" ed="T"/><ab type="prose">爾時那羅延天在於須彌山頂上。集諸天大<lb
+ n="0342b18" ed="T"/><ab type='prose'>爾時那羅延天在於須彌山頂上。集諸天大<lb
  n="0342b19" ed="T"/>眾梵天王及大自在天王天帝釋等。亦有無<lb
  n="0342b20" ed="T"/>量天龍夜叉乾闥婆緊那羅摩呼羅伽人非人<lb
  n="0342b21" ed="T"/>等。亦有無數鬼神等。共會說法。其甘露妙藥<lb
@@ -73,6 +73,6 @@
  n="0342c11" ed="T"/>印大焰向彼指之。想火燒彼如是并護摩必<lb
  n="0342c12" ed="T"/>使母陀也。<lb
  n="0342c13" ed="T"/>
-</ab><ab type="juan" subtype="close">那羅延法一卷</ab></div><lb
- n="0342c14" ed="T"/><div type="w" level="2"><ab type="prose">　　　咸通五年七月五日比丘禪□□</ab></div></div>
+</ab><ab type='juan' subtype='close'>那羅延法一卷</ab></div><lb
+ n="0342c14" ed="T"/><div type='w' level='2'><ab type='prose'>　　　咸通五年七月五日比丘禪□□</ab></div></div>
 </body></text></TEI>

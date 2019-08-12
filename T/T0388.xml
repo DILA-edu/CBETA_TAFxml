@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T12</biblScope>
                     <idno type="Taisho">T12n0388</idno>
                 </bibl>
@@ -39,14 +39,14 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="1107b13" ed="T"/><lb
  n="1107b14" ed="T"/><lb
  n="1107b15" ed="T"/>
-<ab type="juan" subtype="open">大雲無想經卷九</ab><lb
+<ab type='juan' subtype='open'>大雲無想經卷九</ab><lb
  n="1107b16" ed="T"/><lb
- n="1107b17" ed="T"/><div type="jing" level="2"><ab type="prose">盲今已□□□□□□□□□□□□□□以<lb
+ n="1107b17" ed="T"/><div type='jing' level='2'><ab type='prose'>盲今已□□□□□□□□□□□□□□以<lb
  n="1107b18" ed="T"/>憐愍心，受我等□□□□□□□□□□於<lb
  n="1107b19" ed="T"/>先所，作眾罪心，□□□□□□□□□□重<lb
  n="1107b20" ed="T"/>罪得滅，漸生善法，□□□□□□□□□量<lb
@@ -217,29 +217,29 @@
  n="1109b11" ed="T"/>說。」佛言：「善哉，善哉！善男子！是陀羅尼，悉能<lb
  n="1109b12" ed="T"/>成就無量善法，如法所說。諦聽，諦聽！當為汝<lb
  n="1109b13" ed="T"/>說。」爾時，世尊即為說之：</ab>
-<ab type="dharani">「波囄　迦囄　啵<lb
+<ab type='dharani'>「波囄　迦囄　啵<lb
  n="1109b14" ed="T"/>迦囄　多迦囄　陀邏毘𠲎提　波邏半遮那<lb
- n="1109b15" ed="T"/>目呿　波邏朱那坭　波邏坭　毘喏󰏵𠲎提<lb
- n="1109b16" ed="T"/>　扇󰏵　波邏󰏸那因提梨　遠離色香味󰏵<lb
+ n="1109b15" ed="T"/>目呿　波邏朱那坭　波邏坭　毘喏𭇰𠲎提<lb
+ n="1109b16" ed="T"/>　扇𭇰　波邏𭋊那因提梨　遠離色香味𭇰<lb
  n="1109b17" ed="T"/>　遠離顛倒　能燒一切毒　能遠離一切惡<lb
  n="1109b18" ed="T"/>鬼惡道病　無礙法門　具足法門　真實智<lb
  n="1109b19" ed="T"/>法門　無礙心　大法施　具足法施　能破<lb
  n="1109b20" ed="T"/>五蓋莎呵<lb
  n="1109b21" ed="T"/></ab>
-<ab type="prose">「善男子！若佛弟子，比丘、比丘尼、優婆塞、優婆<lb
+<ab type='prose'>「善男子！若佛弟子，比丘、比丘尼、優婆塞、優婆<lb
  n="1109b22" ed="T"/>夷，受持如是陀羅尼呪，讀誦、書寫。若月八日，<lb
  n="1109b23" ed="T"/>淨自洗浴，著新衣服，淨其內心，在佛前像前、<lb
  n="1109b24" ed="T"/>塔前、舍利前，千遍讀誦，以劫貝縷一百八結，<lb
  n="1109b25" ed="T"/>以用繫頭，是人若與惡眾共行，能令一切不<lb
  n="1109b26" ed="T"/>見其形，臥無惡夢，是名陀羅尼一句。「善男子！<lb
  n="1109b27" ed="T"/>復有一句，所謂：</ab>
-<ab type="dharani">「雖埿　優牟埿　頗藍牟<lb
+<ab type='dharani'>「雖埿　優牟埿　頗藍牟<lb
  n="1109b28" ed="T"/>埿　優波闍𠆵　拘嘶　𠲎闍　不失意心堅<lb
  n="1109b29" ed="T"/>䩕　電心如法住　次等住　能生如來智光<pb n="1109c" id="T12.0388.1109c" ed="T"/><lb
- n="1109c01" ed="T"/>　未󰏵　毘頭末󰏵　藪鉢󰏵　󰏶󰏵　無礙<lb
+ n="1109c01" ed="T"/>　未𭇰　毘頭末𭇰　藪鉢𭇰　𭌭𭇰　無礙<lb
  n="1109c02" ed="T"/>寂靜　念心增長　莎呵<lb
  n="1109c03" ed="T"/></ab>
-<ab type="prose">「若有善男子！善女人！受持如是陀羅尼句，讀<lb
+<ab type='prose'>「若有善男子！善女人！受持如是陀羅尼句，讀<lb
  n="1109c04" ed="T"/>誦、書寫。當於佛前、像前、塔前、舍利前，千遍讀<lb
  n="1109c05" ed="T"/>誦，飲黑蜜蓮化𩭈漿，一日之中，能誦千偈，得<lb
  n="1109c06" ed="T"/>他心智。善男子！若有善男子、善女人、比丘、比<lb
@@ -331,7 +331,7 @@
  n="1110c05" ed="T"/>王，亦共受持。無量眾生，發阿耨多羅三藐三<lb
  n="1110c06" ed="T"/>菩提心。</ab></div><lb
  n="1110c07" ed="T"/>
-<ab type="juan" subtype="close">大雲無想經卷第九</ab><lb
- n="1110c08" ed="T"/><div type="w" level="2"><ab type="prose">　　　　清信女張宣愛所供養經<lb
+<ab type='juan' subtype='close'>大雲無想經卷第九</ab><lb
+ n="1110c08" ed="T"/><div type='w' level='2'><ab type='prose'>　　　　清信女張宣愛所供養經<lb
  n="1110c09" ed="T"/>　　　　歲在水卯正月十一日寫訖</ab></div></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1375</idno>
                 </bibl>
@@ -43,12 +43,12 @@
  n="0894c12" ed="T"/><lb
  n="0894c13" ed="T"/><lb
  n="0894c14" ed="T"/><lb
- n="0894c15" ed="T"/><div type="jing" level="1"><lb
+ n="0894c15" ed="T"/><div type='jing' level='1'><lb
  n="0894c16" ed="T"/>
-<ab type="juan" subtype="open">佛說莊嚴王陀羅尼呪經一卷</ab><lb
+<ab type='juan' subtype='open'>佛說莊嚴王陀羅尼呪經一卷</ab><lb
  n="0894c17" ed="T"/><lb
  n="0894c18" ed="T"/><byline>三藏法師義淨奉　制譯</byline><lb
- n="0894c19" ed="T"/><ab type="prose">如是我聞。一時薄伽梵。在布怛洛迦山。為諸<lb
+ n="0894c19" ed="T"/><ab type='prose'>如是我聞。一時薄伽梵。在布怛洛迦山。為諸<lb
  n="0894c20" ed="T"/>人天一切大眾演說法要。遍觀十方以妙音<lb
  n="0894c21" ed="T"/>聲。告觀自在菩薩妙吉祥菩薩言。善男子有<lb
  n="0894c22" ed="T"/>經名一切如來所護觀察眾生示現佛剎莊嚴<lb
@@ -111,7 +111,7 @@
  n="0895b21" ed="T"/>世尊同聲唱言。善哉善哉我等云何。得聞如<lb
  n="0895b22" ed="T"/>來所說神呪。爾時世尊即說呪曰。<lb
  n="0895b23" ed="T"/></ab>
-<ab type="dharani">南謨薩婆呾他揭多喃但姪他勃睇蘇<lb
+<ab type='dharani'>南謨薩婆呾他揭多喃但姪他勃睇蘇<lb
  n="0895b24" ed="T"/>勃睇盧迦毘盧計盧迦伐底羯囒帝薩<lb
  n="0895b25" ed="T"/>埵阿伐盧羯泥薩婆呾他揭多阿提瑟恥<lb
  n="0895b26" ed="T"/>帝薩婆阿奢鉢唎晡唎泥聚丁達囇<lb
@@ -122,7 +122,7 @@
  n="0895c02" ed="T"/>婆跋覩呾他揭多阿提瑟侘泥娜莎訶<lb
  n="0895c03" ed="T"/><lb
  n="0895c04" ed="T"/></ab>
-<ab type="prose">善男子此之神呪。乃是三萬如來之所宣說<lb
+<ab type='prose'>善男子此之神呪。乃是三萬如來之所宣說<lb
  n="0895c05" ed="T"/>共所加護。我今亦復說此神呪。為欲利益一<lb
  n="0895c06" ed="T"/>切有情。令得安樂常作擁護。除其病苦生諸<lb
  n="0895c07" ed="T"/>佛國。<lb
@@ -140,5 +140,5 @@
  n="0895c19" ed="T"/>爾時世尊說此經已。觀自在菩薩妙吉祥菩<lb
  n="0895c20" ed="T"/>薩。一切大眾聞佛所說歡喜奉行。<lb
  n="0895c21" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說莊嚴王陀羅尼呪經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說莊嚴王陀羅尼呪經</ab></div>
 </body></text></TEI>

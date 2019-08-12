@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1188</idno>
                 </bibl>
@@ -43,11 +43,11 @@
  n="0814c01" ed="T"/><lb
  n="0814c02" ed="T"/><lb
  n="0814c03" ed="T"/>
-<ab type="juan" subtype="open">文殊所說最勝名義經</ab><lb
+<ab type='juan' subtype='open'>文殊所說最勝名義經</ab><lb
  n="0814c04" ed="T"/><lb
  n="0814c05" ed="T"/><byline>宋西天三藏明因妙善普濟法師<lb
  n="0814c06" ed="T"/>金總持等奉　詔譯</byline><lb
- n="0814c07" ed="T"/><div type="jing" level="1"><ab type="verse">
+ n="0814c07" ed="T"/><div type='jing' level='1'><ab type='verse'>
 歸命妙吉祥　　所說最勝義　　<lb
  n="0814c08" ed="T"/>金剛掌菩薩　　降伏諸魔眾　　<lb
  n="0814c09" ed="T"/>身湧遍三界　　祕密王自在　　<lb
@@ -95,17 +95,17 @@
  n="0815a22" ed="T"/>六種大呪王　　相應無有二　　<lb
  n="0815a23" ed="T"/>出生伽陀法　　我今故宣說　　
 </ab><lb
- n="0815a24" ed="T"/><ab type="dharani">遏阿壹翳嗢汙伊愛鄔奧暗噁<lb
+ n="0815a24" ed="T"/><ab type='dharani'>遏阿壹翳嗢汙伊愛鄔奧暗噁<lb
  n="0815a25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 安住心智觀　　如來三業轉　　<lb
  n="0815a26" ed="T"/>唵字金剛利　　能斷諸苦惱　　<lb
  n="0815a27" ed="T"/>文殊大吉祥　　智慧妙觀察　　<lb
  n="0815a28" ed="T"/>宣說祕密門　　自在王神呪　　
 </ab><lb
- n="0815a29" ed="T"/><ab type="dharani">阿囉鉢左那野諦曩莫<pb n="0815b" id="T20.1188.0815b" ed="T"/><lb
+ n="0815a29" ed="T"/><ab type='dharani'>阿囉鉢左那野諦曩莫<pb n="0815b" id="T20.1188.0815b" ed="T"/><lb
  n="0815b01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 歸命佛世尊　　出生菩提智　　<lb
  n="0815b02" ed="T"/>遏字一切中　　為大最上義　　<lb
  n="0815b03" ed="T"/>出生大有情　　離心離言相　　<lb
@@ -296,15 +296,15 @@
  n="0817b14" ed="T"/>金剛能除斷　　煩惱盡無餘　　
 </ab><lb
  n="0817b15" ed="T"/>
-<ab type="juan" subtype="close">文殊所說最勝名義經卷上</ab><lb
+<ab type='juan' subtype='close'>文殊所說最勝名義經卷上</ab><lb
  n="0817b16" ed="T"/><lb
  n="0817b17" ed="T"/><lb
  n="0817b18" ed="T"/>
-<ab type="juan" subtype="open">文殊所說最勝名義經卷下</ab><lb
+<ab type='juan' subtype='open'>文殊所說最勝名義經卷下</ab><lb
  n="0817b19" ed="T"/><lb
  n="0817b20" ed="T"/><byline>宋西天三藏明因妙善普濟法師<lb
  n="0817b21" ed="T"/>金總持等奉　詔譯</byline><lb
- n="0817b22" ed="T"/><ab type="verse">
+ n="0817b22" ed="T"/><ab type='verse'>
 菩薩妙智身　　出生諸善利　　<lb
  n="0817b23" ed="T"/>譬如大地中　　生種種利益　　<lb
  n="0817b24" ed="T"/>一切佛智藏　　流出大法輪　　<lb
@@ -408,7 +408,7 @@
  n="0818c06" ed="T"/>歸命一切智　　讚歎一切智　　<lb
  n="0818c07" ed="T"/>性空及幻網　　歸讚亦如是　　
 </ab><lb
- n="0818c08" ed="T"/><ab type="prose">爾時金剛掌菩薩摩訶薩。金剛手菩薩摩訶<lb
+ n="0818c08" ed="T"/><ab type='prose'>爾時金剛掌菩薩摩訶薩。金剛手菩薩摩訶<lb
  n="0818c09" ed="T"/>薩。白佛言世尊。如來智觀一切智身甚深微<lb
  n="0818c10" ed="T"/>妙。文殊菩薩摩訶薩。為欲利益一切眾生。說<lb
  n="0818c11" ed="T"/>此清淨最勝名義。若諸眾生未淨三業。令於<lb
@@ -508,19 +508,19 @@
  n="0819c18" ed="T"/>具一切智一切種智。安住世間振大法鼓建<lb
  n="0819c19" ed="T"/>大法幢。作大法王演大法呪。即說呪曰。<lb
  n="0819c20" ed="T"/></ab>
-<ab type="dharani">唵薩哩嚩達哩摩阿婆嚩娑嚩婆嚩尾󰡊馱嚩惹囉遏阿暗噁<lb
+<ab type='dharani'>唵薩哩嚩達哩摩阿婆嚩娑嚩婆嚩尾󰡊馱嚩惹囉遏阿暗噁<lb
  n="0819c22" ed="T"/></ab>
-<ab type="prose">一切法相自性清淨。所謂一切如來智身。文<lb
+<ab type='prose'>一切法相自性清淨。所謂一切如來智身。文<lb
  n="0819c23" ed="T"/>殊菩薩清淨出生。呪曰。<lb
  n="0819c24" ed="T"/></ab>
-<ab type="dharani">噁薩哩嚩怛陀誐多紇哩捺野喝囉<lb
+<ab type='dharani'>噁薩哩嚩怛陀誐多紇哩捺野喝囉<lb
  n="0819c25" ed="T"/>喝囉唵吽紇哩<lb
  n="0819c26" ed="T"/></ab>
-<ab type="prose">文殊菩薩語自在王。廣大宣說一切法性。猶<lb
+<ab type='prose'>文殊菩薩語自在王。廣大宣說一切法性。猶<lb
  n="0819c27" ed="T"/>如虛空圓滿清淨。法界智藏呪曰。</ab>
-<ab type="dharani">阿<lb
+<ab type='dharani'>阿<lb
  n="0819c28" ed="T"/></ab>
-<ab type="prose">爾時金剛掌菩薩摩訶薩金剛手菩薩摩訶<lb
+<ab type='prose'>爾時金剛掌菩薩摩訶薩金剛手菩薩摩訶<lb
  n="0819c29" ed="T"/>薩。歡喜踴躍恭敬合掌瞻仰如來。諸佛聖眾<pb n="0820a" id="T20.1188.0820a" ed="T"/><lb
  n="0820a01" ed="T"/>大祕密王。隨喜稱讚廣大道場。爾時釋迦牟<lb
  n="0820a02" ed="T"/>尼佛。讚金剛掌菩薩金剛手菩薩言。善哉善<lb
@@ -533,5 +533,5 @@
  n="0820a09" ed="T"/>出為三摩地輪。摧伏魔怨消除煩惱。度諸眾<lb
  n="0820a10" ed="T"/>生遠離輪迴到菩提岸。<lb
  n="0820a11" ed="T"/>
-</ab><ab type="juan" subtype="close">文殊所說最勝名義經卷下</ab></div>
+</ab><ab type='juan' subtype='close'>文殊所說最勝名義經卷下</ab></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1145</idno>
                 </bibl>
@@ -44,19 +44,19 @@
  n="0601c06" ed="T"/><lb
  n="0601c07" ed="T"/><lb
  n="0601c08" ed="T"/>
-<ab type="juan" subtype="open">虛空藏菩薩能滿諸願最勝心陀<lb
+<ab type='juan' subtype='open'>虛空藏菩薩能滿諸願最勝心陀<lb
  n="0601c09" ed="T"/>羅尼求聞持法</ab><lb
  n="0601c10" ed="T"/><lb
- n="0601c11" ed="T"/><div type="jing" level="1"><ab type="prose">　　出金剛頂經成就一切義品<lb
+ n="0601c11" ed="T"/><div type='jing' level='1'><ab type='prose'>　　出金剛頂經成就一切義品<lb
  n="0601c12" ed="T"/><byline>大唐中印度三藏善無畏奉　制譯</byline><lb
  n="0601c13" ed="T"/>爾時薄伽梵。入諸波羅蜜平等性三摩地。從<lb
  n="0601c14" ed="T"/>定起已即說此能滿諸願虛空藏菩薩最勝心<lb
  n="0601c15" ed="T"/>陀羅尼曰。<lb
  n="0601c16" ed="T"/></ab>
-<ab type="dharani">南牟阿迦捨揭婆耶唵阿唎迦麼唎慕唎莎嚩訶<lb
+<ab type='dharani'>南牟阿迦捨揭婆耶唵阿唎迦麼唎慕唎莎嚩訶<lb
  n="0601c18" ed="T"/><lb
  n="0601c19" ed="T"/></ab>
-<ab type="prose">薄伽梵言。此陀羅尼。是過去現在一切諸佛<lb
+<ab type='prose'>薄伽梵言。此陀羅尼。是過去現在一切諸佛<lb
  n="0601c20" ed="T"/>之所同說。若能常誦此陀羅尼者。從無始來<lb
  n="0601c21" ed="T"/>五無間等一切罪障悉皆銷滅。常得一切諸<lb
  n="0601c22" ed="T"/>佛菩薩共所護念。乃至未成佛來。所生之處。<lb
@@ -124,7 +124,7 @@
  n="0602b26" ed="T"/>羅尼一遍。如前想念。諸供養物悉得成辦。即<lb
  n="0602b27" ed="T"/>持供養一切如來及諸菩薩。如是運心供養<lb
  n="0602b28" ed="T"/>中最。如其不能辦塗香等供養之物。但作第<lb
- n="0602b29" ed="T"/>二運心供養。法亦成就。即以手印搯珠。誦陀<pb n="0602c" id="T20.1145.0602c" ed="T"/><lb
+ n="0602b29" ed="T"/>二運心供養。法亦成就。即以手印掐珠。誦陀<pb n="0602c" id="T20.1145.0602c" ed="T"/><lb
  n="0602c01" ed="T"/>羅尼明記遍數。誦時閉目。想菩薩心上有一<lb
  n="0602c02" ed="T"/>滿月。然所誦陀羅尼字。現滿月中皆作金色。<lb
  n="0602c03" ed="T"/>其字復從滿月流出。澍行人頂。復從口出入<lb
@@ -157,6 +157,6 @@
  n="0603a01" ed="T"/>就。復應更從初首而作。乃至七遍。縱有五<lb
  n="0603a02" ed="T"/>逆等極重罪障。亦皆銷滅法定成就。<lb
  n="0603a03" ed="T"/>
-</ab><ab type="juan" subtype="close">虛空藏菩薩能滿諸願最勝心陀羅尼求聞<lb
+</ab><ab type='juan' subtype='close'>虛空藏菩薩能滿諸願最勝心陀羅尼求聞<lb
  n="0603a04" ed="T"/>持法</ab></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T24</biblScope>
                     <idno type="Taisho">T24n1496</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="1102b24" ed="T"/><lb
  n="1102b25" ed="T"/><lb
  n="1102b26" ed="T"/>
-<ab type="juan" subtype="open">佛說正恭敬經</ab><lb
+<ab type='juan' subtype='open'>佛說正恭敬經</ab><lb
  n="1102b27" ed="T"/><lb
  n="1102b28" ed="T"/><byline>元魏天竺三藏佛陀扇多譯</byline><lb
- n="1102b29" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時佛住舍衛國祇樹給孤獨園，<pb n="1102c" ed="T" id="T24.1496.1102c"/><lb
+ n="1102b29" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時佛住舍衛國祇樹給孤獨園，<pb n="1102c" ed="T" id="T24.1496.1102c"/><lb
  n="1102c01" ed="T"/>與聲聞比丘二百五十人俱，菩薩五百人——皆<lb
  n="1102c02" ed="T"/>是如來種子，權行六道助佛揚化，知眾生根<lb
  n="1102c03" ed="T"/>威德自在，顯發如來方便密教——其名曰生疑<lb
@@ -172,5 +172,5 @@
  n="1104a06" ed="T"/>諸比丘并諸菩薩，聞佛所說，皆大踊躍，歡喜<lb
  n="1104a07" ed="T"/>奉行。</ab></div><lb
  n="1104a08" ed="T"/>
-<ab type="juan" subtype="close">佛說正恭敬經</ab>
+<ab type='juan' subtype='close'>佛說正恭敬經</ab>
 </body></text></TEI>

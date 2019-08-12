@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1307</idno>
                 </bibl>
@@ -39,15 +39,15 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0425b" id="T21.1307.0425b" ed="T"/><lb
  n="0425b01" ed="T"/><lb
  n="0425b02" ed="T"/><lb
  n="0425b03" ed="T"/>
-<ab type="juan" subtype="open">佛說北斗七星延命經</ab><lb
+<ab type='juan' subtype='open'>佛說北斗七星延命經</ab><lb
  n="0425b04" ed="T"/><lb
  n="0425b05" ed="T"/><byline>婆羅門僧將到此經唐朝受持</byline><lb
- n="0425b06" ed="T"/><div type="jing" level="2"><ab type="prose"><lb
+ n="0425b06" ed="T"/><div type='jing' level='2'><ab type='prose'><lb
  n="0425b07" ed="T"/><lb
  n="0425b08" ed="T"/><lb
  n="0425b09" ed="T"/><lb
@@ -143,6 +143,6 @@
  n="0426b12" ed="T"/>敬供養。一無妨害　爾時文殊師利言善男<lb
  n="0426b13" ed="T"/>子善女人恭敬信受作禮而散。</ab></div><lb
  n="0426b14" ed="T"/>
-<ab type="juan" subtype="close">佛說北斗七星延命經</ab><lb
- n="0426b15" ed="T"/><div type="w" level="2"><ab type="prose">。</ab></div></div>
+<ab type='juan' subtype='close'>佛說北斗七星延命經</ab><lb
+ n="0426b15" ed="T"/><div type='w' level='2'><ab type='prose'>。</ab></div></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T16</biblScope>
                     <idno type="Taisho">T16n0712</idno>
                 </bibl>
@@ -43,9 +43,9 @@
  n="0823b18" ed="T"/><lb
  n="0823b19" ed="T"/><lb
  n="0823b20" ed="T"/>
-<ab type="juan" subtype="open">佛說大乘稻芉經</ab><lb
+<ab type='juan' subtype='open'>佛說大乘稻芉經</ab><lb
  n="0823b21" ed="T"/><lb
- n="0823b22" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時，薄伽梵住王舍城耆闍崛山，<lb
+ n="0823b22" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時，薄伽梵住王舍城耆闍崛山，<lb
  n="0823b23" ed="T"/>與大比丘眾千二百五十人，及諸菩薩摩訶薩<lb
  n="0823b24" ed="T"/>俱。爾時具壽舍利子往彌勒菩薩摩訶薩經<lb
  n="0823b25" ed="T"/>行之處，到已，共相慰問，俱坐盤陀石上。是時<lb
@@ -284,5 +284,5 @@
  n="0826a25" ed="T"/>闥婆等，聞彌勒菩薩摩訶薩所說之法，信受<lb
  n="0826a26" ed="T"/>奉行。</ab></div><lb
  n="0826a27" ed="T"/>
-<ab type="juan" subtype="close">佛說大乘稻芉經</ab>
+<ab type='juan' subtype='close'>佛說大乘稻芉經</ab>
 </body></text></TEI>

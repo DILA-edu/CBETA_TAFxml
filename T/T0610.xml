@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T15</biblScope>
                     <idno type="Taisho">T15n0610</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0239a16" ed="T"/><lb
  n="0239a17" ed="T"/><lb
  n="0239a18" ed="T"/><lb
  n="0239a19" ed="T"/>
-<ab type="juan" subtype="open">佛說內身觀章句經</ab><lb
+<ab type='juan' subtype='open'>佛說內身觀章句經</ab><lb
  n="0239a20" ed="T"/><lb
  n="0239a21" ed="T"/><byline>失譯人名在後漢錄</byline><lb
- n="0239a22" ed="T"/><div type="jing" level="2"><ab type="verse">
+ n="0239a22" ed="T"/><div type='jing' level='2'><ab type='verse'>
 一切一其心，　　皆聽美言訓，　　<lb
  n="0239a23" ed="T"/>佛所從得道，　　且聽我彼經。　　<lb
  n="0239a24" ed="T"/>彼空亦不斷，　　有行皆非常，　　<lb
@@ -107,7 +107,7 @@
  n="0239c19" ed="T"/>三三三相連，　　二為二相連，　　<lb
  n="0239c20" ed="T"/>其餘不相連，　　身者以為彊。　　<lb
  n="0239c21" ed="T"/>如束葦無彊，　　脊膂三十二，　　<lb
- n="0239c22" ed="T"/>尻與腰為三，　　若其斯左脾，　　<lb
+ n="0239c22" ed="T"/>尻與腰為三，　　若其斯左髀，　　<lb
  n="0239c23" ed="T"/>骨為二十五；　　右髀為亦然，　　<lb
  n="0239c24" ed="T"/>為骨二十五；　　肩髀有骨四，　　<lb
  n="0239c25" ed="T"/>凡三百二十。　　敷演名之諦，　　<lb
@@ -119,7 +119,7 @@
  n="0240a02" ed="T"/>以為是形體。　　愚者莫不著，　　<lb
  n="0240a03" ed="T"/>智者而不著。　　生革以隱蔽，　　<lb
  n="0240a04" ed="T"/>九孔為大瘡，　　周匝為滲漏，　　<lb
- n="0240a05" ed="T"/>不淨腐臭處，　　口啄如為孔，　　<lb
+ n="0240a05" ed="T"/>不淨腐臭處，　　口喙如為孔，　　<lb
  n="0240a06" ed="T"/>滿之以諸穀，　　是身為若此。　　<lb
  n="0240a07" ed="T"/>以進若干腑，　　毛髮與爪齒，　　<lb
  n="0240a08" ed="T"/>塵埃亦皮革，　　骨節亦骨髓，　　<lb
@@ -127,7 +127,7 @@
  n="0240a10" ed="T"/>大腸亦小腸，　　肝與肺亦腎，　　<lb
  n="0240a11" ed="T"/>脂𦠻亦大便，　　淚與唾亦汗，　　<lb
  n="0240a12" ed="T"/>鼻涕膏亦血，　　寒熱肪小便，　　<lb
- n="0240a13" ed="T"/>󰮕之與󰮕膜，　　皆以沈沒彼，　　<lb
+ n="0240a13" ed="T"/>𮌗之與𮌗膜，　　皆以沈沒彼，　　<lb
  n="0240a14" ed="T"/>如泥塗老牛，　　如其成不知。　　<lb
  n="0240a15" ed="T"/>身之內與外，　　夫城骨與牆，　　<lb
  n="0240a16" ed="T"/>肉血為塗嚴，　　為怨所破壞。　　<lb
@@ -158,9 +158,9 @@
  n="0240b12" ed="T"/>大耶以為軀。　　
 </ab></div><lb
  n="0240b13" ed="T"/>
-<ab type="juan" subtype="close">佛說內身觀章句經</ab><lb
- n="0240b14" ed="T"/><div type="w" level="2"><head>十一因緣章</head><lb
- n="0240b15" ed="T"/><ab type="prose">佛言：「行者有十一因緣，滅道制令人不<lb
+<ab type='juan' subtype='close'>佛說內身觀章句經</ab><lb
+ n="0240b14" ed="T"/><div type='w' level='2'><head>十一因緣章</head><lb
+ n="0240b15" ed="T"/><ab type='prose'>佛言：「行者有十一因緣，滅道制令人不<lb
  n="0240b16" ed="T"/>墮惡道，當不識者，謂萬物。一為大會，謂<lb
  n="0240b17" ed="T"/>人眾；二者多食，謂諸美，亦謂過飽；三者為<lb
  n="0240b18" ed="T"/>多行，謂多業；四為多喧，謂多語；五為多<lb

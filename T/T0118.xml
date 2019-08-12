@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T02</biblScope>
                     <idno type="Taisho">T02n0118</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0508b13" ed="T"/><lb
  n="0508b14" ed="T"/><lb
- n="0508b15" ed="T"/><div type="jing" level="1"><lb
+ n="0508b15" ed="T"/><div type='jing' level='1'><lb
  n="0508b17" ed="T"/>
-<ab type="juan" subtype="open">佛說鴦掘摩經</ab><lb
+<ab type='juan' subtype='open'>佛說鴦掘摩經</ab><lb
  n="0508b18" ed="T"/><lb
  n="0508b19" ed="T"/><byline>西晉月氏國三藏竺法護譯</byline><lb
- n="0508b20" ed="T"/><ab type="prose">聞如是：一時，佛遊舍衛國祇樹給孤獨園，與<lb
+ n="0508b20" ed="T"/><ab type='prose'>聞如是：一時，佛遊舍衛國祇樹給孤獨園，與<lb
  n="0508b21" ed="T"/>大比丘五百眾俱。舍衛城中有異梵志，博綜<lb
  n="0508b22" ed="T"/>三經無所疑滯，具暢五典所問即對，精生講<lb
  n="0508b23" ed="T"/>肆莫不稟仰，國老諮諏群儒宗焉，門徒濟濟<lb
@@ -119,15 +119,15 @@
  n="0509b02" ed="T"/>指鬘謂佛：「沙門且止。」佛告逆賊：「吾止已來<lb
  n="0509b03" ed="T"/>其日久矣，但汝未止。」時，鴦掘摩遙以偈頌曰：<lb
  n="0509b04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「寂志語何謂，　　自云已停跱？　　<lb
  n="0509b05" ed="T"/>斯言何所趣，　　以我為不止。　　<lb
  n="0509b06" ed="T"/>今佛云何立，　　謂身行不住，　　<lb
  n="0509b07" ed="T"/>反以我若茲，　　願說解此義。」　　
 </ab><lb
- n="0509b08" ed="T"/><ab type="prose">於是世尊為指鬘頌偈，而告之曰：<lb
+ n="0509b08" ed="T"/><ab type='prose'>於是世尊為指鬘頌偈，而告之曰：<lb
  n="0509b09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「指鬘聽佛住，　　世尊除君過，　　<lb
  n="0509b10" ed="T"/>汝走無智想，　　吾定爾不止。　　<lb
  n="0509b11" ed="T"/>吾安住三脫，　　樂法修梵行，　　<lb
@@ -135,7 +135,7 @@
  n="0509b13" ed="T"/>大聖無極慧，　　讚寂於四衢，　　<lb
  n="0509b14" ed="T"/>尋聞所說罪，　　聽采詠法義。」　　
 </ab><lb
- n="0509b15" ed="T"/><ab type="prose">於是，指鬘心即開悟，棄劍稽首自投于地：「唯<lb
+ n="0509b15" ed="T"/><ab type='prose'>於是，指鬘心即開悟，棄劍稽首自投于地：「唯<lb
  n="0509b16" ed="T"/>願世尊，恕我迷謬，興害集指，念欲見道。僥賴<lb
  n="0509b17" ed="T"/>慈化，乞原罪舋，垂哀接濟，得使出家受成就<lb
  n="0509b18" ed="T"/>戒。」佛則授之即為沙門。<lb
@@ -189,7 +189,7 @@
  n="0510a08" ed="T"/>指鬘，破頭傷體衣服破裂，還詣佛所，稽首<lb
  n="0510a09" ed="T"/>足下起於佛前頌曰：<lb
  n="0510a10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「我前本為賊，　　指鬘名普聞，　　<lb
  n="0510a11" ed="T"/>大淵以枯竭，　　則歸命正覺。　　<lb
  n="0510a12" ed="T"/>斯以成忍辱，　　逮佛開化眾，　　<lb
@@ -217,8 +217,8 @@
  n="0510b05" ed="T"/>如是鴦掘摩，　　已得成羅漢，　　<lb
  n="0510b06" ed="T"/>在佛世尊前，　　口自頌斯偈。」　　
 </ab><lb
- n="0510b07" ed="T"/><ab type="prose">佛說如是。賢者指鬘及諸比丘眾，聞經歡喜<lb
+ n="0510b07" ed="T"/><ab type='prose'>佛說如是。賢者指鬘及諸比丘眾，聞經歡喜<lb
  n="0510b08" ed="T"/>奉行。<lb
  n="0510b09" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說鴦掘摩經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說鴦掘摩經</ab></div>
 </body></text></TEI>

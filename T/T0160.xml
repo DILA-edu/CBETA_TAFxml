@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T03</biblScope>
                     <idno type="Taisho">T03n0160</idno>
                 </bibl>
@@ -39,18 +39,18 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0331c12" ed="T"/><lb
  n="0331c13" ed="T"/><lb
- n="0331c14" ed="T"/><div type="jing" level="2"><lb
+ n="0331c14" ed="T"/><div type='jing' level='2'><lb
  n="0331c15" ed="T"/>
-<ab type="juan" subtype="open">菩薩本生鬘論卷第一</ab><lb
+<ab type='juan' subtype='open'>菩薩本生鬘論卷第一</ab><lb
  n="0331c16" ed="T"/><lb
  n="0331c17" ed="T"/><byline>聖勇菩薩等造</byline><lb
  n="0331c18" ed="T"/><byline>宋朝散大夫試鴻臚少卿同譯經<lb
  n="0331c19" ed="T"/>梵才大師紹德慧詢等奉　詔譯</byline><lb
- n="0331c20" ed="T"/><ab type="verse">
+ n="0331c20" ed="T"/><ab type='verse'>
 稽首一切智，　　妙湛圓融德；　　<lb
  n="0331c21" ed="T"/>聖支分相貌，　　無作同真際。　　<lb
  n="0331c22" ed="T"/>我意靜無諍，　　忘稱讚布施；　　<lb
@@ -113,7 +113,7 @@
  n="0332b21" ed="T"/>願眾聖冥加，　　祈悉地成就。　　
 </ab></div><lb
  n="0332b22" ed="T"/><head>投身飼虎緣起第一</head><lb
- n="0332b23" ed="T"/><ab type="prose">爾時世尊將諸大眾，詣般遮羅大聚落所，至<lb
+ n="0332b23" ed="T"/><ab type='prose'>爾時世尊將諸大眾，詣般遮羅大聚落所，至<lb
  n="0332b24" ed="T"/>一林中，謂阿難曰：「汝於此間為我敷座。」佛<lb
  n="0332b25" ed="T"/>坐其上，語諸比丘：「汝等欲見我往昔時修行<lb
  n="0332b26" ed="T"/>苦行舍利已不？」白言：「願見。」于時世尊以<lb
@@ -123,11 +123,11 @@
  n="0332c01" ed="T"/>利白如珂雪。「汝可持此大士骨來。」世尊受已，<lb
  n="0332c02" ed="T"/>令眾諦觀而說頌曰：<lb
  n="0332c03" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「菩薩勝功德，　　勤修六度行；　　<lb
  n="0332c04" ed="T"/>勇猛求菩提，　　大捨心無倦。　　
 </ab><lb
- n="0332c05" ed="T"/><ab type="prose">「汝等比丘咸伸禮敬，此之舍利乃是無量戒、<lb
+ n="0332c05" ed="T"/><ab type='prose'>「汝等比丘咸伸禮敬，此之舍利乃是無量戒、<lb
  n="0332c06" ed="T"/>定、慧香之所熏修。」時會作禮歎未曾有。時阿<lb
  n="0332c07" ed="T"/>難陀白言：「世尊！如來大師出過三界，以<lb
  n="0332c08" ed="T"/>何因緣禮此身骨？」佛言：「阿難！我因此故<lb
@@ -209,11 +209,11 @@
  n="0333b26" ed="T"/>不宜加苦，無以難事而逼惱也。』「時天帝釋而<lb
  n="0333b27" ed="T"/>說偈曰：<lb
  n="0333b28" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『我本非惡意，　　如火試真金；　　<lb
  n="0333b29" ed="T"/>以此驗菩薩，　　知為真實不？』　　
 </ab><pb n="0333c" ed="T" id="T03.0160.0333c"/><lb
- n="0333c01" ed="T"/><ab type="prose">「說是偈已，毘首天子，化為一鴿，帝釋作鷹，<lb
+ n="0333c01" ed="T"/><ab type='prose'>「說是偈已，毘首天子，化為一鴿，帝釋作鷹，<lb
  n="0333c02" ed="T"/>急逐於後，將為搏取；鴿甚惶怖，飛王腋下求<lb
  n="0333c03" ed="T"/>藏避處。鷹立王前，乃作人語：『今此鴿者是我<lb
  n="0333c04" ed="T"/>之食，我甚饑急，願王見還。』王曰：『吾本誓<lb
@@ -320,17 +320,17 @@
  n="0334c18" ed="T"/>淨飯父王是；王夫人者，今摩耶夫人是；昔善<lb
  n="0334c19" ed="T"/>生王子者，則我身是也。」<lb
  n="0334c20" ed="T"/>
-</ab><ab type="juan" subtype="close">菩薩本生鬘論卷第一</ab><lb
+</ab><ab type='juan' subtype='close'>菩薩本生鬘論卷第一</ab><lb
  n="0334c21" ed="T"/><lb
  n="0334c22" ed="T"/><lb
  n="0334c23" ed="T"/>
-<ab type="juan" subtype="open">菩薩本生鬘論卷第二</ab><lb
+<ab type='juan' subtype='open'>菩薩本生鬘論卷第二</ab><lb
  n="0334c24" ed="T"/><lb
  n="0334c25" ed="T"/><byline>聖勇菩薩等造</byline><lb
  n="0334c26" ed="T"/><byline>宋朝散大夫試鴻臚少卿同譯經<lb
  n="0334c27" ed="T"/>梵才大師紹德慧詢等奉　詔譯</byline><lb
  n="0334c28" ed="T"/><head>最勝神化緣起第四</head><lb
- n="0334c29" ed="T"/><ab type="prose">爾時世尊遊化居止摩竭陀國王舍城中，將<pb n="0335a" ed="T" id="T03.0160.0335a"/><lb
+ n="0334c29" ed="T"/><ab type='prose'>爾時世尊遊化居止摩竭陀國王舍城中，將<pb n="0335a" ed="T" id="T03.0160.0335a"/><lb
  n="0335a01" ed="T"/>諸弟子大阿羅漢一千二百五十人俱。時彼<lb
  n="0335a02" ed="T"/>國王名洴沙王，稟性仁賢久植德本，已證<lb
  n="0335a03" ed="T"/>初果得不壞信，奉佛之心倍加隆厚，常以<lb
@@ -626,17 +626,17 @@
  n="0338b03" ed="T"/>佛語諸比丘：「昔仙人者，彌勒是也；彼兔王者，<lb
  n="0338b04" ed="T"/>即我身也。」<lb
  n="0338b05" ed="T"/>
-</ab><ab type="juan" subtype="close">菩薩本生鬘論卷第二</ab><lb
+</ab><ab type='juan' subtype='close'>菩薩本生鬘論卷第二</ab><lb
  n="0338b06" ed="T"/><lb
  n="0338b07" ed="T"/><lb
  n="0338b08" ed="T"/>
-<ab type="juan" subtype="open">菩薩本生鬘論卷第三</ab><lb
+<ab type='juan' subtype='open'>菩薩本生鬘論卷第三</ab><lb
  n="0338b09" ed="T"/><lb
  n="0338b10" ed="T"/><byline>聖勇菩薩等造</byline><lb
  n="0338b11" ed="T"/><byline>宋朝散大夫試鴻臚少卿同譯經<lb
  n="0338b12" ed="T"/>梵才大師紹德慧詢等奉　詔譯</byline><lb
  n="0338b13" ed="T"/><head>慈心龍王消伏怨害緣起第七</head><lb
- n="0338b14" ed="T"/><ab type="prose">菩薩往昔以瞋因緣墮於龍中，有三種毒，所<lb
+ n="0338b14" ed="T"/><ab type='prose'>菩薩往昔以瞋因緣墮於龍中，有三種毒，所<lb
  n="0338b15" ed="T"/>謂：氣毒、眼毒、觸毒，又由別報福業力故，身具<lb
  n="0338b16" ed="T"/>眾色如七寶聚，不假日月光明所照，常與<lb
  n="0338b17" ed="T"/>無量百千諸龍，周匝圍繞以為眷屬，變現人<lb
@@ -860,17 +860,17 @@
  n="0341a03" ed="T"/>弟子。」佛言：「善來！」具苾芻相，盡諸有結成阿<lb
  n="0341a04" ed="T"/>羅漢。<lb
  n="0341a05" ed="T"/>
-</ab><ab type="juan" subtype="close">菩薩本生鬘論卷第三</ab><lb
+</ab><ab type='juan' subtype='close'>菩薩本生鬘論卷第三</ab><lb
  n="0341a06" ed="T"/><lb
  n="0341a07" ed="T"/><lb
  n="0341a08" ed="T"/>
-<ab type="juan" subtype="open">菩薩本生鬘論卷第四</ab><lb
+<ab type='juan' subtype='open'>菩薩本生鬘論卷第四</ab><lb
  n="0341a09" ed="T"/><lb
  n="0341a10" ed="T"/><byline>聖勇菩薩等造</byline><lb
  n="0341a11" ed="T"/><byline>宋朝散大夫試鴻臚少卿同譯經<lb
  n="0341a12" ed="T"/>梵才大師紹德慧詢等奉　詔譯</byline><lb
  n="0341a13" ed="T"/><head>如來具智不嫉他善緣起第十</head><lb
- n="0341a14" ed="T"/><ab type="prose">爾時世尊與諸弟子大比丘眾，遊化依止王<lb
+ n="0341a14" ed="T"/><ab type='prose'>爾時世尊與諸弟子大比丘眾，遊化依止王<lb
  n="0341a15" ed="T"/>舍大城。是時如來從座而起，步躡虛空現希<lb
  n="0341a16" ed="T"/>有事，足下顯出千輻輪相，一一輻間復出八<lb
  n="0341a17" ed="T"/>萬四千眾寶蓮華；一一華出八萬四千微妙<lb
@@ -1175,16 +1175,16 @@
  n="0344b26" ed="T"/>至佛所，頭面作禮歡喜無量，深悟生死無常、<lb
  n="0344b27" ed="T"/>苦、空，盡諸有結得羅漢果。<lb
  n="0344b28" ed="T"/>
-</ab><ab type="juan" subtype="close">菩薩本生鬘論卷第四</ab><pb n="0344c" ed="T" id="T03.0160.0344c"/><lb
+</ab><ab type='juan' subtype='close'>菩薩本生鬘論卷第四</ab><pb n="0344c" ed="T" id="T03.0160.0344c"/><lb
  n="0344c01" ed="T"/><lb
  n="0344c02" ed="T"/><lb
  n="0344c03" ed="T"/>
-<ab type="juan" subtype="open">菩薩本生鬘論卷第五</ab><lb
+<ab type='juan' subtype='open'>菩薩本生鬘論卷第五</ab><lb
  n="0344c04" ed="T"/><lb
  n="0344c05" ed="T"/><byline>聖勇菩薩等造</byline><lb
  n="0344c06" ed="T"/><byline>宋朝散大夫試鴻臚少卿同譯經<lb
  n="0344c07" ed="T"/>梵才大師紹德慧詢等奉　詔譯</byline><lb
- n="0344c08" ed="T"/><ab type="prose">如彼縛力性用廣大，勝義力用盡漏邊際；善<lb
+ n="0344c08" ed="T"/><ab type='prose'>如彼縛力性用廣大，勝義力用盡漏邊際；善<lb
  n="0344c09" ed="T"/>根發生遠離彼倒，如理寂靜無有損減，實因<lb
  n="0344c10" ed="T"/>義利相狀鮮潔，熾盛崇修增上供養；如是聚<lb
  n="0344c11" ed="T"/>落處處增修彼彼變易，勝義行邊和合無諍；<lb
@@ -1482,16 +1482,16 @@
  n="0348a13" ed="T"/>自在，此因不壞愚癡止息，圓滿力用盡彼顛<lb
  n="0348a14" ed="T"/>倒，了知言說和合相貌。<lb
  n="0348a15" ed="T"/>
-</ab><ab type="juan" subtype="close">菩薩本生鬘論卷第五</ab><lb
+</ab><ab type='juan' subtype='close'>菩薩本生鬘論卷第五</ab><lb
  n="0348a16" ed="T"/><lb
  n="0348a17" ed="T"/><lb
  n="0348a18" ed="T"/>
-<ab type="juan" subtype="open">菩薩本生鬘論卷第六</ab><lb
+<ab type='juan' subtype='open'>菩薩本生鬘論卷第六</ab><lb
  n="0348a19" ed="T"/><lb
  n="0348a20" ed="T"/><byline>聖勇菩薩等造</byline><lb
  n="0348a21" ed="T"/><byline>宋朝散大夫試鴻臚少卿同譯經<lb
  n="0348a22" ed="T"/>梵才大師紹德慧詢等奉　詔譯</byline><lb
- n="0348a23" ed="T"/><ab type="prose">處大如海無智難測，靜住真實無瀑流行，是<lb
+ n="0348a23" ed="T"/><ab type='prose'>處大如海無智難測，靜住真實無瀑流行，是<lb
  n="0348a24" ed="T"/>處有我全無悲導，損壞布施亂起言說。無實<lb
  n="0348a25" ed="T"/>寂靜增上修因，荷負有力運轉無盡，癡迷災<lb
  n="0348a26" ed="T"/>禍無真實因，獲勝妙報種種相貌，處無止息<lb
@@ -1815,16 +1815,16 @@
  n="0351c25" ed="T"/>支分纏縛自性，智慧希求思惟邊際真實如<lb
  n="0351c26" ed="T"/>是，定心圓滿本性如是。<lb
  n="0351c27" ed="T"/>
-</ab><ab type="juan" subtype="close">菩薩本生鬘論卷第六</ab><pb n="0352a" ed="T" id="T03.0160.0352a"/><lb
+</ab><ab type='juan' subtype='close'>菩薩本生鬘論卷第六</ab><pb n="0352a" ed="T" id="T03.0160.0352a"/><lb
  n="0352a01" ed="T"/><lb
  n="0352a02" ed="T"/><lb
  n="0352a03" ed="T"/>
-<ab type="juan" subtype="open">菩薩本生鬘論卷第七</ab><lb
+<ab type='juan' subtype='open'>菩薩本生鬘論卷第七</ab><lb
  n="0352a04" ed="T"/><lb
  n="0352a05" ed="T"/><byline>聖勇菩薩等造</byline><lb
  n="0352a06" ed="T"/><byline>宋朝散大夫試鴻臚少卿同譯經<lb
  n="0352a07" ed="T"/>梵才大師紹德慧詢等奉　詔譯</byline><lb
- n="0352a08" ed="T"/><ab type="prose">心意自在義利圓滿，持戒清淨安住律儀，彼<lb
+ n="0352a08" ed="T"/><ab type='prose'>心意自在義利圓滿，持戒清淨安住律儀，彼<lb
  n="0352a09" ed="T"/>此希求無煩惱障，意地支分寂靜止息，此名<lb
  n="0352a10" ed="T"/>色相五蘊為性，如是心等欲求無諍，福德<lb
  n="0352a11" ed="T"/>善利寂然圓滿。如是災禍其數有三，四大五<lb
@@ -2017,15 +2017,15 @@
  n="0354a24" ed="T"/>然和合隨順出纏，求本覺性長養真實，三業<lb
  n="0354a25" ed="T"/>無犯求如如義。<lb
  n="0354a26" ed="T"/>
-</ab><ab type="juan" subtype="close">菩薩本生鬘論卷第七</ab><pb n="0354b" ed="T" id="T03.0160.0354b"/><lb
+</ab><ab type='juan' subtype='close'>菩薩本生鬘論卷第七</ab><pb n="0354b" ed="T" id="T03.0160.0354b"/><lb
  n="0354b01" ed="T"/><lb
  n="0354b02" ed="T"/>
-<ab type="juan" subtype="open">菩薩本生鬘論卷第八</ab><lb
+<ab type='juan' subtype='open'>菩薩本生鬘論卷第八</ab><lb
  n="0354b03" ed="T"/><lb
  n="0354b04" ed="T"/><byline>聖勇菩薩等造</byline><lb
  n="0354b05" ed="T"/><byline>宋朝散大夫試鴻臚少卿同譯經<lb
  n="0354b06" ed="T"/>梵才大師紹德慧詢等奉　詔譯</byline><lb
- n="0354b07" ed="T"/><ab type="prose">智慧清淨無我慢眾，有善友力除顛倒行，增<lb
+ n="0354b07" ed="T"/><ab type='prose'>智慧清淨無我慢眾，有善友力除顛倒行，增<lb
  n="0354b08" ed="T"/>上德行勝義根本，難行淨施最上無諍，精舍<lb
  n="0354b09" ed="T"/>安住能斷貪欲，顛倒支分意出染縛，寂靜妙<lb
  n="0354b10" ed="T"/>理如是求證。名色如如湛然安住，勝義德行<lb
@@ -2365,14 +2365,14 @@
  n="0358a25" ed="T"/>因施設，國王了知無邊過患，自行制度災難<lb
  n="0358a26" ed="T"/>泯息。<lb
  n="0358a27" ed="T"/>
-</ab><ab type="juan" subtype="close">菩薩本生鬘論卷第八</ab><pb n="0358b" ed="T" id="T03.0160.0358b"/><lb
+</ab><ab type='juan' subtype='close'>菩薩本生鬘論卷第八</ab><pb n="0358b" ed="T" id="T03.0160.0358b"/><lb
  n="0358b01" ed="T"/>
-<ab type="juan" subtype="open">菩薩本生鬘論卷第九</ab><lb
+<ab type='juan' subtype='open'>菩薩本生鬘論卷第九</ab><lb
  n="0358b02" ed="T"/><lb
  n="0358b03" ed="T"/><byline>聖勇菩薩等造</byline><lb
  n="0358b04" ed="T"/><byline>宋朝散大夫試鴻臚少卿同譯經<lb
  n="0358b05" ed="T"/>梵才大師紹德慧詢等奉　詔譯</byline><lb
- n="0358b06" ed="T"/><ab type="prose">求彼真實無修可得，最上顛倒成就災禍，善<lb
+ n="0358b06" ed="T"/><ab type='prose'>求彼真實無修可得，最上顛倒成就災禍，善<lb
  n="0358b07" ed="T"/>因無有憍慢情深，無我遠離。是處伽藍寂靜<lb
  n="0358b08" ed="T"/>無縛，布施雖多全無諍訟，有情所居廣大清<lb
  n="0358b09" ed="T"/>淨，聲聞動轉大乘安固，彼天如空智慧最勝，<lb
@@ -2669,16 +2669,16 @@
  n="0361c10" ed="T"/>邊運載為義。云何無難最上無倒？多聞具足<lb
  n="0361c11" ed="T"/>根本見性。<lb
  n="0361c12" ed="T"/>
-</ab><ab type="juan" subtype="close">菩薩本生鬘論卷第九</ab><lb
+</ab><ab type='juan' subtype='close'>菩薩本生鬘論卷第九</ab><lb
  n="0361c13" ed="T"/><lb
  n="0361c14" ed="T"/><lb
  n="0361c15" ed="T"/>
-<ab type="juan" subtype="open">菩薩本生鬘論卷第十</ab><lb
+<ab type='juan' subtype='open'>菩薩本生鬘論卷第十</ab><lb
  n="0361c16" ed="T"/><lb
  n="0361c17" ed="T"/><byline>聖勇菩薩等造</byline><lb
  n="0361c18" ed="T"/><byline>宋朝散大夫試鴻臚少卿同譯經<lb
  n="0361c19" ed="T"/>梵才大師紹德慧詢等奉　詔譯</byline><lb
- n="0361c20" ed="T"/><ab type="prose">時分勝因本際如如，十善崇修流轉無有，根<lb
+ n="0361c20" ed="T"/><ab type='prose'>時分勝因本際如如，十善崇修流轉無有，根<lb
  n="0361c21" ed="T"/>本知見聞持具足，清淨智慧自性真實，聽聞<lb
  n="0361c22" ed="T"/>相狀荷負修作，正解義趣求難得，無邊<lb
  n="0361c23" ed="T"/>方所寂然安靜。比丘遠離根本纏縛，布施因<lb
@@ -2853,16 +2853,16 @@
  n="0363c18" ed="T"/>用，破壞纏蓋枝葉茂盛，根本堅固以此為<lb
  n="0363c19" ed="T"/>譬。<lb
  n="0363c20" ed="T"/>
-</ab><ab type="juan" subtype="close">菩薩本生鬘論卷第十</ab><lb
+</ab><ab type='juan' subtype='close'>菩薩本生鬘論卷第十</ab><lb
  n="0363c21" ed="T"/><lb
  n="0363c22" ed="T"/><lb
  n="0363c23" ed="T"/>
-<ab type="juan" subtype="open">菩薩本生鬘論卷第十一</ab><lb
+<ab type='juan' subtype='open'>菩薩本生鬘論卷第十一</ab><lb
  n="0363c24" ed="T"/><lb
  n="0363c25" ed="T"/><byline>聖勇菩薩等造</byline><lb
  n="0363c26" ed="T"/><byline>宋朝散大夫試鴻臚少卿同譯經<lb
  n="0363c27" ed="T"/>梵才大師紹德慧詢等奉　詔譯</byline><lb
- n="0363c28" ed="T"/><ab type="prose">自性根本智慧了知，增上相狀靜住無惱，湛<lb
+ n="0363c28" ed="T"/><ab type='prose'>自性根本智慧了知，增上相狀靜住無惱，湛<lb
  n="0363c29" ed="T"/>然快樂了解脫義。惡趣顛倒我執無盡，憂苦<pb n="0364a" ed="T" id="T03.0160.0364a"/><lb
  n="0364a01" ed="T"/>轉多煩惱無替，根本災難相貌無定，瀑流煩<lb
  n="0364a02" ed="T"/>惱如來永斷。彼自性因遷變止息，隨順具足<lb
@@ -3041,16 +3041,16 @@
  n="0366a01" ed="T"/>六法三乘共斷。菩薩施行莊嚴尊者護國本<lb
  n="0366a02" ed="T"/>生之義第二十五。<lb
  n="0366a03" ed="T"/>
-</ab><ab type="juan" subtype="close">菩薩本生鬘論卷第十一</ab><lb
+</ab><ab type='juan' subtype='close'>菩薩本生鬘論卷第十一</ab><lb
  n="0366a04" ed="T"/><lb
  n="0366a05" ed="T"/><lb
  n="0366a06" ed="T"/>
-<ab type="juan" subtype="open">菩薩本生鬘論卷第十二</ab><lb
+<ab type='juan' subtype='open'>菩薩本生鬘論卷第十二</ab><lb
  n="0366a07" ed="T"/><lb
  n="0366a08" ed="T"/><byline>聖勇菩薩等造</byline><lb
  n="0366a09" ed="T"/><byline>宋朝散大夫試鴻臚少卿同譯經<lb
  n="0366a10" ed="T"/>梵才大師紹德慧詢等奉　詔譯</byline><lb
- n="0366a11" ed="T"/><ab type="prose">顛倒垢染苦惱纏蓋邊際如空，所謂隨順聽<lb
+ n="0366a11" ed="T"/><ab type='prose'>顛倒垢染苦惱纏蓋邊際如空，所謂隨順聽<lb
  n="0366a12" ed="T"/>聞菩薩因行。云何相貌？聲聞、緣覺上有可求<lb
  n="0366a13" ed="T"/>故云動轉，大乘至極安固無動，涅槃止息<lb
  n="0366a14" ed="T"/>清淨寂默，圓滿無對善性無染，力用可求祕<lb
@@ -3374,16 +3374,16 @@
  n="0369c13" ed="T"/>止息，造作應器供養三寶，遷變智慧聖力修<lb
  n="0369c14" ed="T"/>因。<lb
  n="0369c15" ed="T"/>
-</ab><ab type="juan" subtype="close">菩薩本生鬘論卷第十二</ab><lb
+</ab><ab type='juan' subtype='close'>菩薩本生鬘論卷第十二</ab><lb
  n="0369c16" ed="T"/><lb
  n="0369c17" ed="T"/><lb
  n="0369c18" ed="T"/>
-<ab type="juan" subtype="open">菩薩本生鬘論卷第十三</ab><lb
+<ab type='juan' subtype='open'>菩薩本生鬘論卷第十三</ab><lb
  n="0369c19" ed="T"/><lb
  n="0369c20" ed="T"/><byline>聖勇菩薩等造</byline><lb
  n="0369c21" ed="T"/><byline>宋朝散大夫試鴻臚少卿同譯經<lb
  n="0369c22" ed="T"/>梵才大師紹德慧詢等奉　詔譯</byline><lb
- n="0369c23" ed="T"/><ab type="prose">真實善淨如是德行，染縛相盡獲得安樂，如<lb
+ n="0369c23" ed="T"/><ab type='prose'>真實善淨如是德行，染縛相盡獲得安樂，如<lb
  n="0369c24" ed="T"/>是勝義平等皆盡，發生布施圓滿止寂。修勝<lb
  n="0369c25" ed="T"/>義因殊勝有力，止息煩惱力用自在，作祕密<lb
  n="0369c26" ed="T"/>行自在誠諦，熾然修因名色無壞。彼十善行<lb
@@ -3701,16 +3701,16 @@
  n="0373b19" ed="T"/>圓滿世間，如是具足趣求勝因了知生處，<lb
  n="0373b20" ed="T"/>邊際平等禪定相應，支分遷變圓滿彼此。<lb
  n="0373b21" ed="T"/>
-</ab><ab type="juan" subtype="close">菩薩本生鬘論卷第十三</ab><lb
+</ab><ab type='juan' subtype='close'>菩薩本生鬘論卷第十三</ab><lb
  n="0373b22" ed="T"/><lb
  n="0373b23" ed="T"/><lb
  n="0373b24" ed="T"/>
-<ab type="juan" subtype="open">菩薩本生鬘論卷第十四</ab><lb
+<ab type='juan' subtype='open'>菩薩本生鬘論卷第十四</ab><lb
  n="0373b25" ed="T"/><lb
  n="0373b26" ed="T"/><byline>聖勇菩薩等造</byline><lb
  n="0373b27" ed="T"/><byline>宋朝散大夫試鴻臚少卿同譯經<lb
  n="0373b28" ed="T"/>梵才大師紹德慧詢等奉　詔譯</byline><lb
- n="0373b29" ed="T"/><ab type="prose">真實運載遷變希求，智性圓滿世間調伏，寂<pb n="0373c" ed="T" id="T03.0160.0373c"/><lb
+ n="0373b29" ed="T"/><ab type='prose'>真實運載遷變希求，智性圓滿世間調伏，寂<pb n="0373c" ed="T" id="T03.0160.0373c"/><lb
  n="0373c01" ed="T"/>靜聖因荷負真實，覺位邊際往古修崇。希求<lb
  n="0373c02" ed="T"/>智慧乃至遷變，遠離本染寂靜無有，四蘊名<lb
  n="0373c03" ed="T"/>名質不可得，世間瀑流無暫時住。根本勝義<lb
@@ -4030,17 +4030,17 @@
  n="0377a27" ed="T"/>種勝利，如是增上淨妙神足，獲得不壞慧香<lb
  n="0377a28" ed="T"/>清淨。<lb
  n="0377a29" ed="T"/>
-</ab><ab type="juan" subtype="close">菩薩本生鬘論卷第十四</ab><pb n="0377b" ed="T" id="T03.0160.0377b"/><lb
+</ab><ab type='juan' subtype='close'>菩薩本生鬘論卷第十四</ab><pb n="0377b" ed="T" id="T03.0160.0377b"/><lb
  n="0377b01" ed="T"/><lb
  n="0377b02" ed="T"/><lb
  n="0377b03" ed="T"/><lb
  n="0377b04" ed="T"/>
-<ab type="juan" subtype="open">菩薩本生鬘論卷第十五</ab><lb
+<ab type='juan' subtype='open'>菩薩本生鬘論卷第十五</ab><lb
  n="0377b05" ed="T"/><lb
  n="0377b06" ed="T"/><byline>聖勇菩薩等造</byline><lb
  n="0377b07" ed="T"/><byline>宋朝散大夫試鴻臚少卿同譯經<lb
  n="0377b08" ed="T"/>梵才大師紹德慧詢等奉　詔譯</byline><lb
- n="0377b09" ed="T"/><ab type="prose">菩薩施行莊嚴尊者護國本生之義次第三<lb
+ n="0377b09" ed="T"/><ab type='prose'>菩薩施行莊嚴尊者護國本生之義次第三<lb
  n="0377b10" ed="T"/>十。發生施義菩提勝因，清淨覺慧默靜能<lb
  n="0377b11" ed="T"/>離，本修制度忍行寂靜梵行調伏，三災運<lb
  n="0377b12" ed="T"/>載十善能離，吉祥勝定趣向發生，了知時<lb
@@ -4386,16 +4386,16 @@
  n="0381b04" ed="T"/>根本義，證解脫義自性究竟，隨順世間不堅<lb
  n="0381b05" ed="T"/>牢義。<lb
  n="0381b06" ed="T"/>
-</ab><ab type="juan" subtype="close">菩薩本生鬘論卷第十五</ab><lb
+</ab><ab type='juan' subtype='close'>菩薩本生鬘論卷第十五</ab><lb
  n="0381b07" ed="T"/><lb
  n="0381b08" ed="T"/><lb
  n="0381b09" ed="T"/>
-<ab type="juan" subtype="open">菩薩本生鬘論卷第十六</ab><lb
+<ab type='juan' subtype='open'>菩薩本生鬘論卷第十六</ab><lb
  n="0381b10" ed="T"/><lb
  n="0381b11" ed="T"/><byline>聖勇菩薩等造</byline><lb
  n="0381b12" ed="T"/><byline>宋朝散大夫試鴻臚少卿同譯經<lb
  n="0381b13" ed="T"/>梵才大師紹德慧詢等奉　詔譯</byline><lb
- n="0381b14" ed="T"/><ab type="prose">愛樂希求無上智力，運載有情殊勝彼岸，第<lb
+ n="0381b14" ed="T"/><ab type='prose'>愛樂希求無上智力，運載有情殊勝彼岸，第<lb
  n="0381b15" ed="T"/>六意識勤修智道，誠實布施求根本行。是處<lb
  n="0381b16" ed="T"/>究竟制度法義，聽聞亡相修布施法，蘊集清<lb
  n="0381b17" ed="T"/>淨殊勝智力，淨覺有情無礙神足。圓滿聞持<lb
@@ -4766,5 +4766,5 @@
  n="0385c05" ed="T"/>菩薩施行莊嚴尊者護國本生之義第三十<lb
  n="0385c06" ed="T"/>四。是謂菩薩修行勝行。<lb
  n="0385c07" ed="T"/>
-</ab><ab type="juan" subtype="close">菩薩本生鬘論卷第十六</ab></div>
+</ab><ab type='juan' subtype='close'>菩薩本生鬘論卷第十六</ab></div>
 </body></text></TEI>

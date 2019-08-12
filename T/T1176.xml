@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1176</idno>
                 </bibl>
@@ -44,23 +44,23 @@
  n="0723b02" ed="T"/><lb
  n="0723b03" ed="T"/><lb
  n="0723b04" ed="T"/>
-<ab type="juan" subtype="open">曼殊室利童子菩薩五字瑜伽<lb
+<ab type='juan' subtype='open'>曼殊室利童子菩薩五字瑜伽<lb
  n="0723b05" ed="T"/>法一卷</ab><lb
  n="0723b06" ed="T"/><lb
  n="0723b07" ed="T"/><byline>開府儀同三司特進試鴻臚卿肅國<lb
  n="0723b08" ed="T"/>公食邑三千戶賜紫贈司空諡大鑒<lb
  n="0723b09" ed="T"/>正號大廣智大興善寺三藏沙門<lb
  n="0723b10" ed="T"/>不空奉　詔譯</byline><lb
- n="0723b11" ed="T"/><div type="dharani" level="1"><ab type="dharani">一曰􈆾𤚥<lb
+ n="0723b11" ed="T"/><div type='dharani' level='1'><ab type='dharani'>一曰􈆾𤚥<lb
  n="0723b12" ed="T"/><lb
  n="0723b13" ed="T"/>二曰􈅹體哩呬淫四合<lb
  n="0723b14" ed="T"/><lb
  n="0723b15" ed="T"/>次三字真言􄙗嚩引􄑆計􈅼吽<lb
  n="0723b16" ed="T"/><lb
  n="0723b17" ed="T"/></ab>
-<ab type="prose">次五字真言有五種。<lb
+<ab type='prose'>次五字真言有五種。<lb
  n="0723b18" ed="T"/></ab>
-<ab type="dharani">一曰􆿅阿􄗽囉􄖵跛􄑼左􄖩曩<lb
+<ab type='dharani'>一曰􆿅阿􄗽囉􄖵跛􄑼左􄖩曩<lb
  n="0723b19" ed="T"/><lb
  n="0723b20" ed="T"/>二曰􈁴唵􄙖嚩􄦽日囉二合􈇝底丁以反􈁵乞叉拏三合一字呼<lb
  n="0723b21" ed="T"/><lb
@@ -72,9 +72,9 @@
  n="0723b27" ed="T"/>五曰􈁴唵􄑌竭􅖱誐􄙺薩􄽙怛嚩二合<lb
  n="0723b28" ed="T"/><lb
  n="0723b29" ed="T"/></ab>
-<ab type="prose">六字瑜伽真言有六種。<pb n="0723c" id="T20.1176.0723c" ed="T"/><lb
+<ab type='prose'>六字瑜伽真言有六種。<pb n="0723c" id="T20.1176.0723c" ed="T"/><lb
  n="0723c01" ed="T"/></ab>
-<ab type="dharani">􈁴唵􄙗嚩引􄯁計曳二合􄖰乃􄖩娜􄗰莫<lb
+<ab type='dharani'>􈁴唵􄙗嚩引􄯁計曳二合􄖰乃􄖩娜􄗰莫<lb
  n="0723c02" ed="T"/><lb
  n="0723c03" ed="T"/>􈁴唵􄙗嚩引􄯁計曳二合引􅚿囉體二合引􄒶惹􄗱野<lb
  n="0723c04" ed="T"/><lb
@@ -87,9 +87,9 @@
  n="0723c11" ed="T"/>􈁴唵􄙗嚩引􄯁計曳二合引􄗥麼􄖩曩􄙺娑<lb
  n="0723c12" ed="T"/><lb
  n="0723c13" ed="T"/></ab>
-<ab type="prose">次加持灌頂瓶真言曰。<lb
+<ab type='prose'>次加持灌頂瓶真言曰。<lb
  n="0723c14" ed="T"/></ab>
-<ab type="dharani">􄖩娜􄗰謨􈅾悉底哩野四合􈉀地尾二合􄑁迦引􈁀南引<lb
+<ab type='dharani'>􄖩娜􄗰謨􈅾悉底哩野四合􈉀地尾二合􄑁迦引􈁀南引<lb
  n="0723c15" ed="T"/><lb
  n="0723c16" ed="T"/>􄕗怛􄕤他去引􄑘誐􄕘跢引􈁀南引􇩵紇哩二合引􄙺薩􅞣嚩<lb
  n="0723c17" ed="T"/><pb n="0724a" id="T20.1176.0724a" ed="T"/><lb
@@ -102,16 +102,16 @@
  n="0724a07" ed="T"/>􄑼左􄙐隷􅁥娑嚩二合引􄚩賀引<lb
  n="0724a08" ed="T"/><lb
  n="0724a09" ed="T"/></ab>
-<ab type="prose">菩提莊嚴成就真言曰。<lb
+<ab type='prose'>菩提莊嚴成就真言曰。<lb
  n="0724a10" ed="T"/></ab>
-<ab type="dharani">􈁴唵􄙂嚕􄑾止􄗽囉􄗥麼鼻􄕍抳􄪼鉢囉二合􄙖韈􇪱多<lb
+<ab type='dharani'>􈁴唵􄙂嚕􄑾止􄗽囉􄗥麼鼻􄕍抳􄪼鉢囉二合􄙖韈􇪱多<lb
  n="0724a11" ed="T"/><lb
  n="0724a12" ed="T"/>􄗱野􈅼吽引<lb
  n="0724a13" ed="T"/><lb
  n="0724a14" ed="T"/></ab>
-<ab type="prose">大聖曼殊室利菩薩讚歎曰。<lb
+<ab type='prose'>大聖曼殊室利菩薩讚歎曰。<lb
  n="0724a15" ed="T"/></ab>
-<ab type="dharani">􄗯曼􄒺祖􄭠室哩二合􄗷曳􄖩曩􄗥麼􆶭窣覩二合􄢤毘焰二合<lb
+<ab type='dharani'>􄗯曼􄒺祖􄭠室哩二合􄗷曳􄖩曩􄗥麼􆶭窣覩二合􄢤毘焰二合<lb
  n="0724a16" ed="T"/><lb
  n="0724a17" ed="T"/>􄑄矩引􄗥麼􄗽囉􄑁迦引􄗽囉􄕼馱引􄙀哩􄕍抳二合<lb
  n="0724a18" ed="T"/><lb
@@ -130,5 +130,5 @@
  n="0724b01" ed="T"/>􈁃謨引􆶭窣覩二合􄕝帝<lb
  n="0724b02" ed="T"/><lb
  n="0724b03" ed="T"/>
-</ab><ab type="juan" subtype="close">曼殊室利童子菩薩五字瑜伽法一卷</ab></div>
+</ab><ab type='juan' subtype='close'>曼殊室利童子菩薩五字瑜伽法一卷</ab></div>
 </body></text></TEI>

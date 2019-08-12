@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1349</idno>
                 </bibl>
@@ -42,13 +42,13 @@
         <body><pb n="0863a" id="T21.1349.0863a" ed="T"/><lb
  n="0863a01" ed="T"/><lb
  n="0863a02" ed="T"/><lb
- n="0863a03" ed="T"/><div type="jing" level="1"><lb
+ n="0863a03" ed="T"/><div type='jing' level='1'><lb
  n="0863a04" ed="T"/>
-<ab type="juan" subtype="open">佛說稱讚如來功德神呪經一<lb
+<ab type='juan' subtype='open'>佛說稱讚如來功德神呪經一<lb
  n="0863a05" ed="T"/>卷</ab><lb
  n="0863a06" ed="T"/><lb
  n="0863a07" ed="T"/><byline>唐三藏法師義淨奉　制譯</byline><lb
- n="0863a08" ed="T"/><ab type="prose">如是我聞。一時薄伽梵在王舍城鷲峯山頂。<lb
+ n="0863a08" ed="T"/><ab type='prose'>如是我聞。一時薄伽梵在王舍城鷲峯山頂。<lb
  n="0863a09" ed="T"/>與大苾芻眾千二百五十人俱。菩薩摩訶薩<lb
  n="0863a10" ed="T"/>萬二千人俱。皆是賢劫大菩薩眾。爾時世尊<lb
  n="0863a11" ed="T"/>於此眾中。告慈氏菩薩摩訶薩曰。今現在十<lb
@@ -89,7 +89,7 @@
  n="0863b17" ed="T"/>生諸佛國。先作如是禮懺事已。至心讀誦此<lb
  n="0863b18" ed="T"/>陀羅尼。即說呪曰。<lb
  n="0863b19" ed="T"/></ab>
-<ab type="dharani">呾姪他　惡契莫契　三曼多目契騷鞞欲帝<lb
+<ab type='dharani'>呾姪他　惡契莫契　三曼多目契騷鞞欲帝<lb
  n="0863b20" ed="T"/>　陀泥　三摩瑜祇　質多鞞跋多　惡契目<lb
  n="0863b21" ed="T"/>契　薩多陀泥　毘吠帝　三曼多寠泥<lb
  n="0863b22" ed="T"/>薩多曷羅謎目帝鉢唎目底　呬囇密麗　牟<lb
@@ -99,9 +99,9 @@
  n="0863b26" ed="T"/>躃㿲箄　曷囉敵箄　塞建陀　毘薄帝<lb
  n="0863b27" ed="T"/>　莎訶<lb
  n="0863b28" ed="T"/></ab>
-<ab type="prose">爾時世尊復說頌曰。<lb
+<ab type='prose'>爾時世尊復說頌曰。<lb
  n="0863b29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 六十億大仙　　皆受持此呪　　<pb n="0863c" id="T21.1349.0863c" ed="T"/><lb
  n="0863c01" ed="T"/>彼常念不散　　現在十方住　　<lb
  n="0863c02" ed="T"/>於所在生中　　常值善知識　　<lb
@@ -127,9 +127,9 @@
  n="0863c22" ed="T"/>如來功德聚　　福量難思議　　<lb
  n="0863c23" ed="T"/>智人應誦持　　當勤莫放逸　　
 </ab><lb
- n="0863c24" ed="T"/><ab type="prose">爾時薄伽梵。為慈氏菩薩并諸大眾。說是經<lb
+ n="0863c24" ed="T"/><ab type='prose'>爾時薄伽梵。為慈氏菩薩并諸大眾。說是經<lb
  n="0863c25" ed="T"/>已。慈氏菩薩等及諸苾芻人天大眾。聞佛所<lb
  n="0863c26" ed="T"/>說。皆大歡喜頂受奉行。<lb
  n="0863c27" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說稱讚如來功德神呪經一卷</ab></div>
+</ab><ab type='juan' subtype='close'>佛說稱讚如來功德神呪經一卷</ab></div>
 </body></text></TEI>

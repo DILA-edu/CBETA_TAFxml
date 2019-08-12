@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n1014</idno>
                 </bibl>
@@ -41,12 +41,12 @@
     <text>
         <body><lb
  n="0688a20" ed="T"/><lb
- n="0688a21" ed="T"/><div type="jing" level="1"><lb
+ n="0688a21" ed="T"/><div type='jing' level='1'><lb
  n="0688a22" ed="T"/>
-<ab type="juan" subtype="open">無量門破魔陀羅尼經</ab><lb
+<ab type='juan' subtype='open'>無量門破魔陀羅尼經</ab><lb
  n="0688a23" ed="T"/><lb
  n="0688a24" ed="T"/><byline>宋西域沙門功德直共玄暢譯</byline><lb
- n="0688a25" ed="T"/><ab type="prose">如是我聞。一時佛住毘舍離大林重閣。與大<lb
+ n="0688a25" ed="T"/><ab type='prose'>如是我聞。一時佛住毘舍離大林重閣。與大<lb
  n="0688a26" ed="T"/>比丘眾一千二百五十人俱。是時世尊默然<lb
  n="0688a27" ed="T"/>自念。化緣將畢應捨壽行。却後三月當般涅<lb
  n="0688a28" ed="T"/>槃。爾時如來即於是處。便勅長老大目乾<lb
@@ -99,13 +99,13 @@
  n="0688c17" ed="T"/>是諸行者應當受持誦念如是陀羅尼呪神妙<lb
  n="0688c18" ed="T"/>章句。<lb
  n="0688c19" ed="T"/></ab>
-<ab type="dharani">阿禰阿企摩企三曼跢<lb
+<ab type='dharani'>阿禰阿企摩企三曼跢<lb
  n="0688c20" ed="T"/>目企育帝尼陸帝尼陸底<lb
  n="0688c21" ed="T"/>斯鞞嘻隷劫臂劫波伺<lb
  n="0688c22" ed="T"/>娑隷婆羅跋帝嘻羅嘻利嘻隷嘻<lb
  n="0688c23" ed="T"/>犁隷嘻羅嘻隷遮帝遮槃<lb
  n="0688c24" ed="T"/>禰遮羅遮羅禰遏恒帝阿蘭禰涅未題涅跋多禰昵闍帝禰呵毘摩隷輸檀禰跛羅<lb
- n="0688c27" ed="T"/>訖帝提般禰婆󰪥毘婆跋禰阿僧祇陀迷毘富羅斯鞞三迦釐沙禰提隷提隷摩呵提<pb n="0689a" id="T19.1014.0689a" ed="T"/><lb
+ n="0688c27" ed="T"/>訖帝提般禰婆𭒂毘婆跋禰阿僧祇陀迷毘富羅斯鞞三迦釐沙禰提隷提隷摩呵提<pb n="0689a" id="T19.1014.0689a" ed="T"/><lb
  n="0689a01" ed="T"/>提隷耶耆跋帝遮隷阿遮隷<lb
  n="0689a02" ed="T"/>摩陀隷三摩遮隷致馱珊地頞<lb
  n="0689a03" ed="T"/>𤙈帝阿僧伽毘呵隷阿僧伽尼<lb
@@ -115,7 +115,7 @@
  n="0689a08" ed="T"/>哆羺竭帝阿那眵豉陀羅尼<lb
  n="0689a09" ed="T"/>陀羅尼尼陀那劬低莎波訶<lb
  n="0689a10" ed="T"/></ab>
-<ab type="prose">爾時世尊告舍利弗。我向所說陀羅尼呪。此<lb
+<ab type='prose'>爾時世尊告舍利弗。我向所說陀羅尼呪。此<lb
  n="0689a11" ed="T"/>諸菩薩及以行者。皆當受持讀誦通利。而不<lb
  n="0689a12" ed="T"/>應取有為無為。於一切法無染無著。亦勿誹<lb
  n="0689a13" ed="T"/>謗心生厭離。亦不攝受勤求修習。若取有為<lb
@@ -147,7 +147,7 @@
  n="0689b10" ed="T"/>之行無染法戒陀羅尼門。爾時世尊即說偈<lb
  n="0689b11" ed="T"/>言。<lb
  n="0689b12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 無求於空法　　不戲論菩提　　<lb
  n="0689b13" ed="T"/>隨順法界性　　速得陀羅尼　　<lb
  n="0689b14" ed="T"/>勤聽習此經　　無盡陀羅尼　　<lb
@@ -198,13 +198,13 @@
  n="0690a01" ed="T"/>所以精此經　　欲近深菩提　　<lb
  n="0690a02" ed="T"/>當得無上道　　到於寂滅處　　
 </ab><lb
- n="0690a03" ed="T"/><ab type="prose">佛告舍利弗。菩薩行者具足四法得陀羅尼。<lb
+ n="0690a03" ed="T"/><ab type='prose'>佛告舍利弗。菩薩行者具足四法得陀羅尼。<lb
  n="0690a04" ed="T"/>何謂為四。不著穢欲。於諸眾生不起嫉妬。施<lb
  n="0690a05" ed="T"/>諸財物心無悔悋。晝夜常樂修習善法。又舍<lb
  n="0690a06" ed="T"/>利弗菩薩具足如是四法。得陀羅尼。爾時世<lb
  n="0690a07" ed="T"/>尊即說偈言。<lb
  n="0690a08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 棄彼污穢欲　　及捨鄙魔行　　<lb
  n="0690a09" ed="T"/>如此欲因緣　　即是地獄趣　　<lb
  n="0690a10" ed="T"/>於他親名利　　不生嫉妬心　　<lb
@@ -215,7 +215,7 @@
  n="0690a15" ed="T"/>行者即能得　　如此陀羅尼　　<lb
  n="0690a16" ed="T"/>常應現前修　　如是等四法　　
 </ab><lb
- n="0690a17" ed="T"/><ab type="prose">爾時如來告舍利弗。如此四法常應修學。又<lb
+ n="0690a17" ed="T"/><ab type='prose'>爾時如來告舍利弗。如此四法常應修學。又<lb
  n="0690a18" ed="T"/>舍利弗復有四法。行者具此得陀羅尼。何謂<lb
  n="0690a19" ed="T"/>為四。一者常當精勤修習阿蘭若行。二者於<lb
  n="0690a20" ed="T"/>彼甚深法忍堪任奉持。三者不著利養名譽。<lb
@@ -223,7 +223,7 @@
  n="0690a22" ed="T"/>至身命況餘財物。舍利弗菩薩具足如此四<lb
  n="0690a23" ed="T"/>法。得陀羅尼。爾時世尊即說偈言。<lb
  n="0690a24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 常修阿蘭若　　住於不放逸　　<lb
  n="0690a25" ed="T"/>勤行深忍心　　當如救頭然　　<lb
  n="0690a26" ed="T"/>斯行最殊勝　　諸佛之所讚　　<lb
@@ -237,7 +237,7 @@
  n="0690b05" ed="T"/>貪利失念智　　亦喪信戒法　　<lb
  n="0690b06" ed="T"/>去菩提甚遠　　是故應棄貪　　
 </ab><lb
- n="0690b07" ed="T"/><ab type="prose">又舍利弗。行者復應成就四法。得陀羅尼。何<lb
+ n="0690b07" ed="T"/><ab type='prose'>又舍利弗。行者復應成就四法。得陀羅尼。何<lb
  n="0690b08" ed="T"/>等為四。有八字義。云何為八。所謂阿字是<lb
  n="0690b09" ed="T"/>第一義。一切諸法入無我義。攞者相好。此<lb
  n="0690b10" ed="T"/>相好者入於如來法身之義。婆者嬰兒。嬰兒<lb
@@ -256,7 +256,7 @@
  n="0690b23" ed="T"/>第四法。舍利弗行者具足如是四法。得此陀<lb
  n="0690b24" ed="T"/>羅尼。爾時世尊即說偈言。<lb
  n="0690b25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 書持陀羅尼　　思惟八字者　　<lb
  n="0690b26" ed="T"/>若半月半月　　專勤常讀誦　　<lb
  n="0690b27" ed="T"/>眾生於是處　　修習恒繼念　　<lb
@@ -264,19 +264,19 @@
  n="0690b29" ed="T"/>決定能現見　　十方一切佛　　<pb n="0690c" id="T19.1014.0690c" ed="T"/><lb
  n="0690c01" ed="T"/>是故於此法　　應修勤學心　　
 </ab><lb
- n="0690c02" ed="T"/><ab type="prose">佛告舍利弗。菩薩摩訶薩有四法利。常當專<lb
+ n="0690c02" ed="T"/><ab type='prose'>佛告舍利弗。菩薩摩訶薩有四法利。常當專<lb
  n="0690c03" ed="T"/>習。何謂為四。一者正念十方諸佛。二者究竟<lb
  n="0690c04" ed="T"/>無諸魔事。三者是人速離業障。四者疾得無<lb
  n="0690c05" ed="T"/>斷微妙甚深辯才。又舍利弗如是四法。行者<lb
  n="0690c06" ed="T"/>應當專勤修習此陀羅尼。必獲法利。爾時世<lb
  n="0690c07" ed="T"/>尊即說偈言。<lb
  n="0690c08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 應正念諸佛　　眾魔所不覺　　<lb
  n="0690c09" ed="T"/>悉得速遠離　　一切諸業障　　<lb
  n="0690c10" ed="T"/>亦獲無量億　　辯才陀羅尼　　
 </ab><lb
- n="0690c11" ed="T"/><ab type="prose">佛告舍利弗。乃往宿世無量無邊阿僧祇劫。<lb
+ n="0690c11" ed="T"/><ab type='prose'>佛告舍利弗。乃往宿世無量無邊阿僧祇劫。<lb
  n="0690c12" ed="T"/>是時有佛號曰寶勝火聚光明如來應正遍<lb
  n="0690c13" ed="T"/>知明行足善逝世間解無上士調御丈夫天人<lb
  n="0690c14" ed="T"/>師佛世尊。出現於世。舍利弗寶勝火聚光明<lb
@@ -315,7 +315,7 @@
  n="0691a18" ed="T"/>能測量。何況思惟廣為人說。爾時世尊即說<lb
  n="0691a19" ed="T"/>偈言。<lb
  n="0691a20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 得此陀羅尼　　名為無量門　　<lb
  n="0691a21" ed="T"/>諸佛常護念　　魔不得其便　　<lb
  n="0691a22" ed="T"/>業障眾塵勞　　皆速獲清淨　　<lb
@@ -347,7 +347,7 @@
  n="0691b19" ed="T"/>如此深妙典　　斯為智菩薩　　<lb
  n="0691b20" ed="T"/>疾得於菩提　　不足以為難　　
 </ab><lb
- n="0691b21" ed="T"/><ab type="prose">又告舍利弗。若有行者專心繼念此陀羅尼。<lb
+ n="0691b21" ed="T"/><ab type='prose'>又告舍利弗。若有行者專心繼念此陀羅尼。<lb
  n="0691b22" ed="T"/>有八夜叉住在雪山。晝夜擁護如是行者。除<lb
  n="0691b23" ed="T"/>諸衰患益其勢力。何者為八。一名首羅<lb
  n="0691b24" ed="T"/>二名緻栗馱三名簸臘復多四名那羅延<lb
@@ -387,5 +387,5 @@
  n="0692a01" ed="T"/>摩睺羅伽。一切世間聞佛所說。歡喜踊躍頂<lb
  n="0692a02" ed="T"/>戴受持作禮而退。<lb
  n="0692a03" ed="T"/>
-</ab><ab type="juan" subtype="close">無量門破魔陀羅尼經</ab></div>
+</ab><ab type='juan' subtype='close'>無量門破魔陀羅尼經</ab></div>
 </body></text></TEI>

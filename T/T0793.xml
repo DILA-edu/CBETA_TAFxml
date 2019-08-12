@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T17</biblScope>
                     <idno type="Taisho">T17n0793</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0737a20" ed="T"/><lb
  n="0737a21" ed="T"/><lb
  n="0737a22" ed="T"/>
-<ab type="juan" subtype="open">佛說佛醫經</ab><lb
+<ab type='juan' subtype='open'>佛說佛醫經</ab><lb
  n="0737a23" ed="T"/><lb
  n="0737a24" ed="T"/><byline>吳天竺沙門竺律炎共支越譯</byline><lb
- n="0737a25" ed="T"/><div type="jing" level="1"><ab type="prose">人身中本有四病：一者、地；二者、水；三者、火；四<lb
+ n="0737a25" ed="T"/><div type='jing' level='1'><ab type='prose'>人身中本有四病：一者、地；二者、水；三者、火；四<lb
  n="0737a26" ed="T"/>者、風。風增，氣起；火增，熱起；水增，寒起；土增，力<lb
  n="0737a27" ed="T"/>盛。本從是四病，起四百四病。土屬身，水屬<lb
  n="0737a28" ed="T"/>口，火屬眼，風屬耳。火少寒多，目冥。春正月、二<lb
@@ -146,5 +146,5 @@
  n="0738b05" ed="T"/>如火，如火無所不燒。我輩不覺，是黠不敢<lb
  n="0738b06" ed="T"/>妄搖，知為增苦種罪。」</ab></div><lb
  n="0738b07" ed="T"/>
-<ab type="juan" subtype="close">佛說佛醫經</ab>
+<ab type='juan' subtype='close'>佛說佛醫經</ab>
 </body></text></TEI>

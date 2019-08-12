@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0035</idno>
                 </bibl>
@@ -39,15 +39,15 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0819a" ed="T" id="T01.0035.0819a"/><lb
  n="0819a01" ed="T"/><lb
- n="0819a02" ed="T"/><div type="jing" level="2"><lb
+ n="0819a02" ed="T"/><div type='jing' level='2'><lb
  n="0819a03" ed="T"/>
-<ab type="juan" subtype="open">佛說海八德經</ab><lb
+<ab type='juan' subtype='open'>佛說海八德經</ab><lb
  n="0819a04" ed="T"/><lb
  n="0819a05" ed="T"/><byline>後秦龜茲國三藏鳩摩羅什譯</byline><lb
- n="0819a06" ed="T"/><ab type="prose">聞如是：一時，佛遊無勝國。時在河邊，常以十<lb
+ n="0819a06" ed="T"/><ab type='prose'>聞如是：一時，佛遊無勝國。時在河邊，常以十<lb
  n="0819a07" ed="T"/>五日，為諸沙門說戒經。佛坐寂寞，久而無<lb
  n="0819a08" ed="T"/>言。阿難整服，長跪白曰：「沙門坐定，樂聞清<lb
  n="0819a09" ed="T"/>法。」世尊默然。阿難三起白：「夜已半，可說戒<lb
@@ -112,8 +112,8 @@
  n="0819c10" ed="T"/>往，更相檢率，以十五日，會說戒經。」諸比丘<lb
  n="0819c11" ed="T"/>起，為佛作禮。<lb
  n="0819c12" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說海八德經</ab></div><lb
- n="0819c13" ed="T"/><div type="w" level="2"><ab type="prose">按此經文，決非羅什之譯，似是後漢之<lb
+</ab><ab type='juan' subtype='close'>佛說海八德經</ab></div><lb
+ n="0819c13" ed="T"/><div type='w' level='2'><ab type='prose'>按此經文，決非羅什之譯，似是後漢之<lb
  n="0819c14" ed="T"/>經。疑此是彼竺法蘭譯，為失本者，藏中錯<lb
  n="0819c15" ed="T"/>為羅什譯耳。</ab></div></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1111</idno>
                 </bibl>
@@ -39,15 +39,15 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0489a02" ed="T"/><lb
  n="0489a03" ed="T"/><lb
  n="0489a04" ed="T"/><lb
  n="0489a05" ed="T"/>
-<ab type="juan" subtype="open">青頸觀自在菩薩心陀羅尼經</ab><lb
+<ab type='juan' subtype='open'>青頸觀自在菩薩心陀羅尼經</ab><lb
  n="0489a06" ed="T"/><lb
- n="0489a07" ed="T"/><div type="jing" level="2"><ab type="prose">爾時世尊於毘沙門天王宮，說觀自在菩薩<lb
+ n="0489a07" ed="T"/><div type='jing' level='2'><ab type='prose'>爾時世尊於毘沙門天王宮，說觀自在菩薩<lb
  n="0489a08" ed="T"/>往昔因緣：「過去無量無邊阿僧祇劫，有佛名<lb
  n="0489a09" ed="T"/>觀照觀察如來，成佛道已，住二十七日說法。<lb
  n="0489a10" ed="T"/>臨涅槃時，有一天子名曰越那羅延力。爾時<lb
@@ -63,7 +63,7 @@
  n="0489a21" ed="T"/><byline>大興善寺三藏沙門大廣智不空奉<lb
  n="0489a22" ed="T"/>　詔注釋義</byline><lb
  n="0489a23" ed="T"/></ab>
-<ab type="dharani">「曩謨羅怛曩怛羅夜也曩莫阿里也嚩路枳帝濕嚩囉<lb
+<ab type='dharani'>「曩謨羅怛曩怛羅夜也曩莫阿里也嚩路枳帝濕嚩囉<lb
  n="0489a25" ed="T"/>也冒地薩怛嚩也摩賀薩怛嚩也摩訶迦嚕抳迦也薩嚩滿馱曩<lb
  n="0489a27" ed="T"/>砌娜曩迦羅也薩嚩婆嚩娑悶訥嚕醋灑拏迦羅也薩<pb n="0489b" ed="T" id="T20.1111.0489b"/><lb
  n="0489b01" ed="T"/>嚩弭也地鉢羅捨麼曩迦羅也<lb
@@ -90,7 +90,7 @@
  n="0489b23" ed="T"/>捺連濕嚩囉左攞左攞尾<lb
  n="0489b24" ed="T"/>麼攞麼攞沒㗚帝阿哩也<lb
  n="0489b25" ed="T"/>嚩路枳帝濕嚩囉爾曩訖哩史拏<lb
- n="0489b26" ed="T"/>惹吒󰻦矩吒嚩覽摩鉢羅<pb n="0489c" ed="T" id="T20.1111.0489c"/><lb
+ n="0489b26" ed="T"/>惹吒𮂽矩吒嚩覽摩鉢羅<pb n="0489c" ed="T" id="T20.1111.0489c"/><lb
  n="0489c01" ed="T"/>覽摩摩賀悉馱尾儞也馱羅<lb
  n="0489c02" ed="T"/>摩羅摩羅摩賀摩羅沫羅沫羅<lb
  n="0489c03" ed="T"/>摩賀沫羅左羅左羅摩賀左羅訖哩史拏󰽣囉拏訖哩史拏<lb
@@ -133,7 +133,7 @@
  n="0490a26" ed="T"/>怛嚩也摩賀迦嚕抳迦也悉鈿<pb n="0490b" ed="T" id="T20.1111.0490b"/><lb
  n="0490b01" ed="T"/>覩滿怛羅跛娜也娑嚩賀<lb
  n="0490b03" ed="T"/></ab>
-<ab type="prose">「次當說此青頸觀自在菩薩畫像法。其像三<lb
+<ab type='prose'>「次當說此青頸觀自在菩薩畫像法。其像三<lb
  n="0490b04" ed="T"/>面，當前正面作慈悲凞怡貌，右邊作師子面，<lb
  n="0490b05" ed="T"/>左邊作猪面。首戴寶冠，冠中有化無量壽佛。<lb
  n="0490b06" ed="T"/>又有四臂，右第一臂執杖，第二臂執把蓮花，<lb
@@ -145,6 +145,6 @@
  n="0490b12" ed="T"/>「二手外相叉，左大母指插入掌，右大母指直<lb
  n="0490b13" ed="T"/>竪，二中指作蓮花葉形，二無名指直竪，二小<lb
  n="0490b14" ed="T"/>指左押大竪相叉。」</ab></div><lb
- n="0490b15" ed="T"/><div type="w" level="2"><ab type="prose">時寬延二己巳年七月中旬一挍了，後哲得<lb
+ n="0490b15" ed="T"/><div type='w' level='2'><ab type='prose'>時寬延二己巳年七月中旬一挍了，後哲得<lb
  n="0490b16" ed="T"/>善本以質而令盡美矣！　　　􄙖􄦽乘無等</ab></div></div>
 </body></text></TEI>

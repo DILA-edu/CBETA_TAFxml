@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T24</biblScope>
                     <idno type="Taisho">T24n1479</idno>
                 </bibl>
@@ -44,11 +44,11 @@
  n="0955a16" ed="T"/><lb
  n="0955a17" ed="T"/><lb
  n="0955a18" ed="T"/>
-<ab type="juan" subtype="open">佛說苾芻五法經</ab><lb
+<ab type='juan' subtype='open'>佛說苾芻五法經</ab><lb
  n="0955a19" ed="T"/><lb
  n="0955a20" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚<lb
  n="0955a21" ed="T"/>少卿傳教大師臣法天奉　詔譯</byline><lb
- n="0955a22" ed="T"/><div type="jing" level="1"><ab type="prose">如來、應、正等覺在舍衛國，為彼未來觀察而<lb
+ n="0955a22" ed="T"/><div type='jing' level='1'><ab type='prose'>如來、應、正等覺在舍衛國，為彼未來觀察而<lb
  n="0955a23" ed="T"/>住。是時無量諸天及人，知佛世尊是人天師，<lb
  n="0955a24" ed="T"/>恭信供養尊重讚歎，利樂名稱而得最上，各<lb
  n="0955a25" ed="T"/>各奉上名衣妙饌臥具湯藥。爾時世尊以利<lb
@@ -58,9 +58,9 @@
  n="0955a29" ed="T"/>胝那由他百千有情獲得甘露，乃至令度生<pb n="0955b" ed="T" id="T24.1479.0955b"/><lb
  n="0955b01" ed="T"/>老病死輪迴苦難，乃至令脫地獄大險難故，<lb
  n="0955b02" ed="T"/>使得安樂寂靜平正，無怖無畏獲得涅槃。又<lb
- n="0955b03" ed="T"/>復不離摩伽陀國、嚩󰋷曼隷國、迦尸國、憍<lb
- n="0955b04" ed="T"/>薩羅國、俱嚕半左羅國等，嚩嗟王、麼蹉王、<lb
- n="0955b05" ed="T"/>戍󰋷細那王、尸尾王、那舍囉拏嚩王，是諸<lb
+ n="0955b03" ed="T"/>復不離摩伽陀國、嚩𭍒曼隷國、迦尸國、憍<lb
+ n="0955b04" ed="T"/>薩羅國、俱嚕半左羅國等，嚩蹉王、麼蹉王、<lb
+ n="0955b05" ed="T"/>戍囉細那王、尸尾王、那舍囉拏嚩王，是諸<lb
  n="0955b06" ed="T"/>王等見已，以佛智力彼皆降伏。又復能於天<lb
  n="0955b07" ed="T"/>經行處行、梵經行處行、聖經行處行、空經行<lb
  n="0955b08" ed="T"/>處行、寂靜經行處行、佛佛經行處行、師師經<lb
@@ -172,5 +172,5 @@
  n="0956b27" ed="T"/>爾時世尊說是五種法已，諸苾芻眾及諸人<lb
  n="0956b28" ed="T"/>天，瞻奉旋遶作禮而退。</ab></div><lb
  n="0956b29" ed="T"/>
-<ab type="juan" subtype="close">佛說苾芻五法經</ab>
+<ab type='juan' subtype='close'>佛說苾芻五法經</ab>
 </body></text></TEI>

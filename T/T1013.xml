@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n1013</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0685a06" ed="T"/><lb
  n="0685a07" ed="T"/><lb
- n="0685a08" ed="T"/><div type="jing" level="1"><lb
+ n="0685a08" ed="T"/><div type='jing' level='1'><lb
  n="0685a09" ed="T"/>
-<ab type="juan" subtype="open">阿難陀目佉尼呵離陀經</ab><lb
+<ab type='juan' subtype='open'>阿難陀目佉尼呵離陀經</ab><lb
  n="0685a10" ed="T"/><lb
  n="0685a11" ed="T"/><byline>宋天竺三藏求那跋陀羅譯</byline><lb
- n="0685a12" ed="T"/><ab type="prose">聞如是。一時佛遊於惟舍梨大黎樹間。有精<lb
+ n="0685a12" ed="T"/><ab type='prose'>聞如是。一時佛遊於惟舍梨大黎樹間。有精<lb
  n="0685a13" ed="T"/>舍名交路莊挍。與摩呵比丘僧三十萬人俱。<lb
  n="0685a14" ed="T"/>時佛欲放軀命。自期三月當般泥洹。爾時佛<lb
  n="0685a15" ed="T"/>告賢者摩目㤎蘭。令到三千大千國土。盡呼<lb
@@ -143,7 +143,7 @@
  n="0686a18" ed="T"/>破壞五道生老病死及諸疑結使。疾得陀隣<lb
  n="0686a19" ed="T"/>尼。佛爾時說偈言。<lb
  n="0686a20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 莫作念言法空　　莫輕言得不得　　<lb
  n="0686a21" ed="T"/>直信法莫中疑　　則疾得陀隣尼　　<lb
  n="0686a22" ed="T"/>恐為是空所縛　　分別空得佛疾　　<lb
@@ -187,14 +187,14 @@
  n="0686c02" ed="T"/>受福德天人樂　　如是事終不遠　　<lb
  n="0686c03" ed="T"/>亦當疾逮得佛　　以是故念莫離　　
 </ab><lb
- n="0686c04" ed="T"/><ab type="prose">佛告舍利弗。菩薩有四事行疾逮陀隣尼法。<lb
+ n="0686c04" ed="T"/><ab type='prose'>佛告舍利弗。菩薩有四事行疾逮陀隣尼法。<lb
  n="0686c05" ed="T"/>何等為四。一者遠離世間愛欲。二者不說他<lb
  n="0686c06" ed="T"/>人長短人亦不得其便。三者有所求索不逆<lb
  n="0686c07" ed="T"/>人意。無所愛惜與後不悔。四者晝夜精進常<lb
  n="0686c08" ed="T"/>志求諸法。是為四事。舍利弗菩薩行是。疾逮<lb
  n="0686c09" ed="T"/>陀隣尼。佛爾時說偈言。<lb
  n="0686c10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 遠眾惡離色欲　　作罪行墮地獄　　<lb
  n="0686c11" ed="T"/>無三毒災不生　　捐所愛得是經　　<lb
  n="0686c12" ed="T"/>不嫉妬於他人　　不自欺其親族　　<lb
@@ -204,13 +204,13 @@
  n="0686c16" ed="T"/>於晨夜常精學　　於外道無所冀　　<lb
  n="0686c17" ed="T"/>常作是求上法　　陀隣尼自然現　　
 </ab><lb
- n="0686c18" ed="T"/><ab type="prose">佛告舍利弗。菩薩有四事行。疾逮得是陀隣<lb
+ n="0686c18" ed="T"/><ab type='prose'>佛告舍利弗。菩薩有四事行。疾逮得是陀隣<lb
  n="0686c19" ed="T"/>尼。何等為四。一者獨在空閑處。二者住深法<lb
  n="0686c20" ed="T"/>忍。三者若有饋遺者不以喜。四者不愛惜軀<lb
  n="0686c21" ed="T"/>命何況財寶。是為四事。舍利弗菩薩行是。逮<lb
  n="0686c22" ed="T"/>得陀隣尼。佛爾時說偈言。<lb
  n="0686c23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 在空閑念正法　　不輕慢於他人　　<lb
  n="0686c24" ed="T"/>生死熾如載火　　得人身當作行　　<lb
  n="0686c25" ed="T"/>常持意在深忍　　於財費足而已　　<lb
@@ -220,7 +220,7 @@
  n="0686c29" ed="T"/>當知空及世事　　以是故棄所有　　<pb n="0687a" id="T19.1013.0687a" ed="T"/><lb
  n="0687a01" ed="T"/>愚行者貪財利　　無戒忍及智慧　　
 </ab><lb
- n="0687a02" ed="T"/><ab type="prose">佛告舍利弗。菩薩復有四事行。得是陀隣尼。<lb
+ n="0687a02" ed="T"/><ab type='prose'>佛告舍利弗。菩薩復有四事行。得是陀隣尼。<lb
  n="0687a03" ed="T"/>何等為四。一者有八品字。開入智慧解黠中。<lb
  n="0687a04" ed="T"/>何等為八。一名為波。以一切著法使入空法<lb
  n="0687a05" ed="T"/>中。二名為羅。如來若現相好不現相好。以<lb
@@ -236,24 +236,24 @@
  n="0687a15" ed="T"/>事。舍利弗菩薩應用是行。疾得陀隣尼。佛爾<lb
  n="0687a16" ed="T"/>時說偈言。<lb
  n="0687a17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 常當念八品字　　書持卷諦奉行　　<lb
  n="0687a18" ed="T"/>十五日讀莫離　　勸一切求佛道　　<lb
  n="0687a19" ed="T"/>要當學開化人　　得智慧疾近佛　　<lb
  n="0687a20" ed="T"/>悉遍見十方佛　　皆為現在前立　　
 </ab><lb
- n="0687a21" ed="T"/><ab type="prose">佛告舍利弗。菩薩復有四事。念陀隣尼得法<lb
+ n="0687a21" ed="T"/><ab type='prose'>佛告舍利弗。菩薩復有四事。念陀隣尼得法<lb
  n="0687a22" ed="T"/>利。何等為四。一者常為十方諸世尊所念。<lb
  n="0687a23" ed="T"/>二者所作為魔不能壞其意。三者宿命諸罪<lb
  n="0687a24" ed="T"/>皆為消盡。四者初不斷至誠之說。諸所問皆<lb
  n="0687a25" ed="T"/>能發遣。是為四事。舍利弗菩薩得陀隣尼法<lb
  n="0687a26" ed="T"/>利。佛爾時說偈言。<lb
  n="0687a27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 為諸佛常所念　　魔不能得其便　　<lb
  n="0687a28" ed="T"/>所作罪即消滅　　為一切解所疑　　
 </ab><lb
- n="0687a29" ed="T"/><ab type="prose">佛告舍利弗。過去久遠世所經劫。無央數。復<pb n="0687b" id="T19.1013.0687b" ed="T"/><lb
+ n="0687a29" ed="T"/><ab type='prose'>佛告舍利弗。過去久遠世所經劫。無央數。復<pb n="0687b" id="T19.1013.0687b" ed="T"/><lb
  n="0687b01" ed="T"/>倍無數長遠不可極不可復計劫。爾時世有<lb
  n="0687b02" ed="T"/>佛號寶具足有德行王如來。過四道不受平<lb
  n="0687b03" ed="T"/>等覺安定於天上。天下號天中天。其佛為一<lb
@@ -289,7 +289,7 @@
  n="0687c04" ed="T"/>舍利弗如是輩福不可量。不可稱不可說。一<lb
  n="0687c05" ed="T"/>切人民無能計無能極者。佛爾時說偈言。<lb
  n="0687c06" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若聞已加勸助　　及書持諷誦讀　　<lb
  n="0687c07" ed="T"/>諸天人計其德　　無能知福祐巨　　<lb
  n="0687c08" ed="T"/>所生處常見佛　　於深經得慧證　　<lb
@@ -303,7 +303,7 @@
  n="0687c16" ed="T"/>如恒沙世尊剎　　滿其中珍寶施　　<lb
  n="0687c17" ed="T"/>不如是書持者　　譬喻之終不等　　
 </ab><lb
- n="0687c18" ed="T"/><ab type="prose">佛告舍利弗。若有菩薩持意念學陀隣尼時。<lb
+ n="0687c18" ed="T"/><ab type='prose'>佛告舍利弗。若有菩薩持意念學陀隣尼時。<lb
  n="0687c19" ed="T"/>有山名醯摩洹。有八鬼神在其中。常共擁護<lb
  n="0687c20" ed="T"/>之開人志意。何等八。一名勇強神。二名照明<lb
  n="0687c21" ed="T"/>十方神。三名多所饒益神。四名龍王大力神。<lb
@@ -334,5 +334,5 @@
  n="0688a17" ed="T"/>菩薩。天與人乾陀謣阿羞倫及持世者。皆歡<lb
  n="0688a18" ed="T"/>喜前稽首佛足作禮而去。<lb
  n="0688a19" ed="T"/>
-</ab><ab type="juan" subtype="close">阿難陀目佉尼呵離陀經</ab></div>
+</ab><ab type='juan' subtype='close'>阿難陀目佉尼呵離陀經</ab></div>
 </body></text></TEI>

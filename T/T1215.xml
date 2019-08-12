@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1215</idno>
                 </bibl>
@@ -44,11 +44,11 @@
  n="0076a14" ed="T"/><lb
  n="0076a15" ed="T"/><lb
  n="0076a16" ed="T"/>
-<ab type="juan" subtype="open">大乘方廣曼殊室利菩薩華嚴本<lb
+<ab type='juan' subtype='open'>大乘方廣曼殊室利菩薩華嚴本<lb
  n="0076a17" ed="T"/>教閻曼德迦忿怒王真言大威德<lb
  n="0076a18" ed="T"/>儀軌品第三十</ab><lb
  n="0076a19" ed="T"/><lb
- n="0076a20" ed="T"/><div type="jing" level="1"><ab type="prose">爾時金剛手大藥叉將。在彼眾會從座而起。<lb
+ n="0076a20" ed="T"/><div type='jing' level='1'><ab type='prose'>爾時金剛手大藥叉將。在彼眾會從座而起。<lb
  n="0076a21" ed="T"/>偏袒右肩右膝著地。於佛世尊合掌禮敬。而<lb
  n="0076a22" ed="T"/>白佛言世尊。曼殊室利童真不廣說閻曼德<lb
  n="0076a23" ed="T"/>迦忿怒王。我觀未來有情。如來涅槃後佛教<lb
@@ -71,7 +71,7 @@
  n="0076b11" ed="T"/>燒爍。我輩皆受楚苦悶絕擗地。時大威德以<lb
  n="0076b12" ed="T"/>曼殊室利童子形。而作是言。<lb
  n="0076b13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 諸天等勿怖　　藥叉羅剎娑　　<lb
  n="0076b14" ed="T"/>及諸修羅眾　　我說三昧耶　　<lb
  n="0076b15" ed="T"/>無能違越者　　人非人鬼神　　<lb
@@ -154,6 +154,6 @@
  n="0077b05" ed="T"/>及菩薩大威　　作如是語已　　<lb
  n="0077b06" ed="T"/>寂默而安住　　
 </ab><lb
- n="0077b07" ed="T"/><ab type="prose">爾時吉祥大威德金剛手菩薩。既蒙印可踊<lb
+ n="0077b07" ed="T"/><ab type='prose'>爾時吉祥大威德金剛手菩薩。既蒙印可踊<lb
  n="0077b08" ed="T"/>躍歡喜。復引手捫持金剛杵。</ab></div>
 </body></text></TEI>

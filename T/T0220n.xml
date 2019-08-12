@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T07</biblScope>
                     <idno type="Taisho">T07n0220n</idno>
                 </bibl>
@@ -39,13 +39,14 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><pb n="1055b" ed="T" id="T07.0220n.1055b"/><lb
+        <body><div level='1'>
+<pb n="1055b" ed="T" id="T07.0220n.1055b"/><lb
  n="1055b01" ed="T"/><lb
- n="1055b02" ed="T"/><div type="hui" level="1"><head>大般若經第十五會靜慮波羅蜜<lb
- n="1055b03" ed="T"/>多分</head><div type="xu" level="2"><head>序</head><lb
+ n="1055b02" ed="T"/><div type='hui' level='2'><head>大般若經第十五會靜慮波羅蜜<lb
+ n="1055b03" ed="T"/>多分</head><div type='xu' level='3'><head>序</head><lb
  n="1055b04" ed="T"/><lb
  n="1055b05" ed="T"/><byline>西明寺沙門玄則撰</byline><lb
- n="1055b06" ed="T"/><ab type="prose">夫心之用也，其大矣哉！動之則舛競聿興，靜之<lb
+ n="1055b06" ed="T"/><ab type='prose'>夫心之用也，其大矣哉！動之則舛競聿興，靜之<lb
  n="1055b07" ed="T"/>則眾變幾息，大之則充乎法界，細之則入<lb
  n="1055b08" ed="T"/>於隣虛，故海嶽環區，心之影也；形骸耳目，<lb
  n="1055b09" ed="T"/>心之候也；生死邅迴，心之迷也；菩提昭曠，<lb
@@ -68,14 +69,14 @@
  n="1055b26" ed="T"/>遊戲奮迅、清淨照明，或百或千，難階難極，咸<lb
  n="1055b27" ed="T"/>資說力，具啟詞編。凡勒成兩卷，亦未經再譯。<lb
  n="1055b28" ed="T"/>罣入禪祕，其誰捨諸！</ab></div><pb n="1055c" ed="T" id="T07.0220n.1055c"/><lb
- n="1055c01" ed="T"/><div type="fen" level="2"><lb
+ n="1055c01" ed="T"/><div type='fen' level='3'><lb
  n="1055c02" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百九<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百九<lb
  n="1055c03" ed="T"/>十一</ab><lb
  n="1055c04" ed="T"/><lb
  n="1055c05" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
  n="1055c06" ed="T"/><head>第十五靜慮波羅蜜多分之一</head><lb
- n="1055c07" ed="T"/><ab type="prose">如是我聞：一時，薄伽梵住王舍城鷲峯山中，<lb
+ n="1055c07" ed="T"/><ab type='prose'>如是我聞：一時，薄伽梵住王舍城鷲峯山中，<lb
  n="1055c08" ed="T"/>與大苾芻眾千二百五十人俱。爾時，具壽舍<lb
  n="1055c09" ed="T"/>利子白佛言：「世尊！若菩薩摩訶薩欲證無上<lb
  n="1055c10" ed="T"/>正等菩提，云何方便安住靜慮波羅蜜多？」爾<lb
@@ -488,16 +489,16 @@
  n="1060b11" ed="T"/>向趣求一切智智，是菩薩摩訶薩由此因緣，<lb
  n="1060b12" ed="T"/>於三界法漸捨漸遠，展轉鄰近一切智智。」<lb
  n="1060b13" ed="T"/>
-</ab><ab type="juan" subtype="close">大般若波羅蜜多經卷第五百九十一</ab><lb
+</ab><ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百九十一</ab><lb
  n="1060b14" ed="T"/><lb
  n="1060b15" ed="T"/><lb
  n="1060b16" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百九<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百九<lb
  n="1060b17" ed="T"/>十二<lb
  n="1060b18" ed="T"/><lb
  n="1060b19" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
  n="1060b20" ed="T"/>第十五靜慮波羅蜜多分之二</ab><lb
- n="1060b21" ed="T"/><ab type="prose">爾時，滿慈子白佛言：「世尊！云何菩薩摩訶薩<lb
+ n="1060b21" ed="T"/><ab type='prose'>爾時，滿慈子白佛言：「世尊！云何菩薩摩訶薩<lb
  n="1060b22" ed="T"/>眾安住靜慮波羅蜜多，攝受般若波羅蜜多，<lb
  n="1060b23" ed="T"/>於諸靜慮及靜慮支不生味著亦無退轉，於<lb
  n="1060b24" ed="T"/>諸靜慮及靜慮支不起我想分別執著，復持<lb
@@ -925,5 +926,5 @@
  n="1065b11" ed="T"/>路茶、緊捺洛、莫呼洛伽、人非人等一切大眾，<lb
  n="1065b12" ed="T"/>聞佛所說皆大歡喜、信受奉行。<lb
  n="1065b13" ed="T"/>
-</ab><ab type="juan" subtype="close">大般若波羅蜜多經卷第五百九十二</ab></div></div>
+</ab><ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百九十二</ab></div></div></div>
 </body></text></TEI>

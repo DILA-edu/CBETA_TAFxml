@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T18</biblScope>
                     <idno type="Taisho">T18n0879</idno>
                 </bibl>
@@ -42,13 +42,13 @@
         <body><lb
  n="0337a22" ed="T"/><lb
  n="0337a23" ed="T"/><lb
- n="0337a24" ed="T"/><div type="jing" level="1"><lb
+ n="0337a24" ed="T"/><div type='jing' level='1'><lb
  n="0337a25" ed="T"/>
-<ab type="juan" subtype="open">金剛頂瑜伽三十七尊禮</ab><lb
+<ab type='juan' subtype='open'>金剛頂瑜伽三十七尊禮</ab><lb
  n="0337a26" ed="T"/><lb
  n="0337a27" ed="T"/><byline>唐特進試鴻臚卿三藏沙門<lb
  n="0337a28" ed="T"/>大廣智不空奉　詔譯</byline><lb
- n="0337a29" ed="T"/><ab type="prose">南慕清淨法身毘盧遮那佛。<pb n="0337b" id="T18.0879.0337b" ed="T"/><lb
+ n="0337a29" ed="T"/><ab type='prose'>南慕清淨法身毘盧遮那佛。<pb n="0337b" id="T18.0879.0337b" ed="T"/><lb
  n="0337b01" ed="T"/>南慕金剛堅固自性身阿閦佛。<lb
  n="0337b02" ed="T"/>南慕功德莊嚴聚身寶生佛。<lb
  n="0337b03" ed="T"/>南慕受用智慧身阿彌陀佛。<lb
@@ -146,5 +146,5 @@
  n="0338b08" ed="T"/>知諸法畢竟空寂。而常度脫一切眾生。同證涅<lb
  n="0338b09" ed="T"/>槃。不以涅槃為證。發願已至心歸命禮三寶。<lb
  n="0338b10" ed="T"/>
-</ab><ab type="juan" subtype="close">金剛頂瑜伽三十七尊禮</ab></div>
+</ab><ab type='juan' subtype='close'>金剛頂瑜伽三十七尊禮</ab></div>
 </body></text></TEI>

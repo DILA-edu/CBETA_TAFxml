@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n0971</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0361c18" ed="T"/><lb
  n="0361c19" ed="T"/><lb
- n="0361c20" ed="T"/><div type="jing" level="1"><lb
+ n="0361c20" ed="T"/><div type='jing' level='1'><lb
  n="0361c21" ed="T"/>
-<ab type="juan" subtype="open">佛說佛頂尊勝陀羅尼經</ab><lb
+<ab type='juan' subtype='open'>佛說佛頂尊勝陀羅尼經</ab><lb
  n="0361c22" ed="T"/><lb
  n="0361c23" ed="T"/><byline>大唐三藏沙門義淨奉　制譯</byline><lb
- n="0361c24" ed="T"/><ab type="prose">如是我聞。一時薄伽梵。在室羅筏城逝多林<lb
+ n="0361c24" ed="T"/><ab type='prose'>如是我聞。一時薄伽梵。在室羅筏城逝多林<lb
  n="0361c25" ed="T"/>給孤獨園。與大苾芻眾千二百五十人俱。菩<lb
  n="0361c26" ed="T"/>薩摩訶薩萬二千人俱。爾時三十三天善法<lb
  n="0361c27" ed="T"/>堂會。有一天子名曰善住。與諸大天并諸天<lb
@@ -111,7 +111,7 @@
  n="0362b27" ed="T"/>爾時薄伽梵觀察帝釋心之所念。以大慈悲<lb
  n="0362b28" ed="T"/>心說是陀羅尼法。即說呪曰。<lb
  n="0362b29" ed="T"/></ab>
-<ab type="dharani">南謨薄伽伐帝　咥哩盧枳也　鉢喇底毘失<pb n="0362c" id="T19.0971.0362c" ed="T"/><lb
+<ab type='dharani'>南謨薄伽伐帝　咥哩盧枳也　鉢喇底毘失<pb n="0362c" id="T19.0971.0362c" ed="T"/><lb
  n="0362c01" ed="T"/>瑟吒也　勃陀也薄伽伐帝　怛咥他唵<lb
  n="0362c02" ed="T"/>毘輸馱也　颯麼三曼多　阿婆婆<lb
  n="0362c03" ed="T"/>娑颯撥囉　拏揭底㖸喝娜　瑣婆婆毘<lb
@@ -135,7 +135,7 @@
  n="0362c21" ed="T"/>　三曼䫂鉢唎戍睇　薩婆怛他揭䫂　阿地瑟<lb
  n="0362c22" ed="T"/>侘娜阿地瑟恥帝莎訶<lb
  n="0362c24" ed="T"/></ab>
-<ab type="prose">爾時世尊說此陀羅尼已。告帝釋曰此陀羅<lb
+<ab type='prose'>爾時世尊說此陀羅尼已。告帝釋曰此陀羅<lb
  n="0362c25" ed="T"/>尼印名淨除一切惡趣佛頂尊勝陀羅尼法。<lb
  n="0362c26" ed="T"/>亦能除滅一切罪業等障。能淨一切穢惡道<lb
  n="0362c27" ed="T"/>苦。天帝此陀羅尼。八十八弶伽沙俱胝百千<lb
@@ -260,5 +260,5 @@
  n="0364b01" ed="T"/>爾時善住天子及天帝釋。諸來天眾一切大<lb
  n="0364b02" ed="T"/>會。聞佛說已皆大歡喜信受奉行。<lb
  n="0364b03" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說佛頂尊勝陀羅尼經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說佛頂尊勝陀羅尼經</ab></div>
 </body></text></TEI>

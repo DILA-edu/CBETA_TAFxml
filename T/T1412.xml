@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1412</idno>
                 </bibl>
@@ -41,13 +41,13 @@
     <text>
         <body><pb n="0926c" id="T21.1412.0926c" ed="T"/><lb
  n="0926c01" ed="T"/><lb
- n="0926c02" ed="T"/><div type="dharani" level="1"><lb
+ n="0926c02" ed="T"/><div type='dharani' level='1'><lb
  n="0926c03" ed="T"/>
-<ab type="juan" subtype="open">佛說寶生陀羅尼經</ab><lb
+<ab type='juan' subtype='open'>佛說寶生陀羅尼經</ab><lb
  n="0926c04" ed="T"/><lb
  n="0926c05" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚少卿<lb
  n="0926c06" ed="T"/>傳法大師臣施護奉　詔譯</byline><lb
- n="0926c07" ed="T"/><ab type="dharani">曩謨囉怛曩囉濕彌贊捺囉鉢<lb
+ n="0926c07" ed="T"/><ab type='dharani'>曩謨囉怛曩囉濕彌贊捺囉鉢<lb
  n="0926c08" ed="T"/>囉底曼尼哆尾儞焰帝惹具世濕嚩<lb
  n="0926c09" ed="T"/>囉羅惹野怛他誐哆野囉賀<lb
  n="0926c10" ed="T"/>帝三藐三沒馱野怛儞也他囉怛儞<lb
@@ -56,7 +56,7 @@
  n="0926c13" ed="T"/>曩鉢囉鼻囉怛努訥誐帝<lb
  n="0926c14" ed="T"/>娑嚩賀<lb
  n="0926c15" ed="T"/></ab>
-<ab type="prose">若有眾生。於此如來陀羅尼名號受持供養。<lb
+<ab type='prose'>若有眾生。於此如來陀羅尼名號受持供養。<lb
  n="0926c16" ed="T"/>彼人生生得轉輪位。成就梵行具大神通。獲<lb
  n="0926c17" ed="T"/>十種陀羅尼。復值恒河沙等諸佛如來而無<lb
  n="0926c18" ed="T"/>虛妄。經俱胝劫不入輪迴路。不斷菩提種不<lb
@@ -72,5 +72,5 @@
  n="0926c28" ed="T"/>孔中恒有光明常自照曜。常作如來勝利之<lb
  n="0926c29" ed="T"/>事如阿難陀。具如是不可思議功德。<pb n="0927a" id="T21.1412.0927a" ed="T"/><lb
  n="0927a01" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說寶生陀羅尼經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說寶生陀羅尼經</ab></div>
 </body></text></TEI>

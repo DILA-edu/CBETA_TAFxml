@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T18</biblScope>
                     <idno type="Taisho">T18n0902</idno>
                 </bibl>
@@ -41,12 +41,12 @@
     <text>
         <body><pb n="0898a" id="T18.0902.0898a" ed="T"/><lb
  n="0898a01" ed="T"/><lb
- n="0898a02" ed="T"/><div type="jing" level="1"><lb
+ n="0898a02" ed="T"/><div type='jing' level='1'><lb
  n="0898a03" ed="T"/>
-<ab type="juan" subtype="open">總釋陀羅尼義讚</ab><lb
+<ab type='juan' subtype='open'>總釋陀羅尼義讚</ab><lb
  n="0898a04" ed="T"/><lb
  n="0898a05" ed="T"/><byline>三藏沙門大廣智不空奉　詔解釋</byline><lb
- n="0898a06" ed="T"/><ab type="prose">如來於百千俱胝阿　僧祇劫。積集菩提資糧<lb
+ n="0898a06" ed="T"/><ab type='prose'>如來於百千俱胝阿　僧祇劫。積集菩提資糧<lb
  n="0898a07" ed="T"/>加持陀羅尼真言文字。令頓悟菩薩與此相<lb
  n="0898a08" ed="T"/>應。頓集福德智慧資糧。於大乘修菩薩道二<lb
  n="0898a09" ed="T"/>種修行。證無上菩提道。所謂依諸波羅蜜修<lb
@@ -98,5 +98,5 @@
  n="0898b26" ed="T"/>多劫難行苦行。能轉定業速疾易成安樂成<lb
  n="0898b27" ed="T"/>佛速疾之道。<lb
  n="0898b28" ed="T"/>
-</ab><ab type="juan" subtype="close">總釋陀羅尼義讚</ab></div>
+</ab><ab type='juan' subtype='close'>總釋陀羅尼義讚</ab></div>
 </body></text></TEI>

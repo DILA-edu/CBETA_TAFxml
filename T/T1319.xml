@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1319</idno>
                 </bibl>
@@ -42,13 +42,13 @@
         <body><lb
  n="0472b17" ed="T"/><lb
  n="0472b18" ed="T"/><lb
- n="0472b19" ed="T"/><div type="jing" level="1"><lb
+ n="0472b19" ed="T"/><div type='jing' level='1'><lb
  n="0472b20" ed="T"/>
-<ab type="juan" subtype="open">瑜伽集要熖口施食起教阿難陀<lb
+<ab type='juan' subtype='open'>瑜伽集要熖口施食起教阿難陀<lb
  n="0472b21" ed="T"/>緣由</ab><lb
  n="0472b22" ed="T"/><lb
  n="0472b23" ed="T"/><byline>唐三藏沙門不空奉　詔譯</byline><lb
- n="0472b24" ed="T"/><ab type="prose">爾時世尊。在迦毘羅城尼俱律那僧伽藍所。<lb
+ n="0472b24" ed="T"/><ab type='prose'>爾時世尊。在迦毘羅城尼俱律那僧伽藍所。<lb
  n="0472b25" ed="T"/>與諸比丘并諸菩薩無數眾會。前後圍遶而<lb
  n="0472b26" ed="T"/>為說法。爾時阿難獨居靜處念所受法。即於<lb
  n="0472b27" ed="T"/>其夜三更已後。見一餓鬼名曰焰口。其形醜<lb
@@ -156,5 +156,5 @@
  n="0473c13" ed="T"/>外敷淨薦褥嚴整威儀。作禮三拜面東胡跪。<lb
  n="0473c14" ed="T"/>手執香爐作啟請法。<lb
  n="0473c15" ed="T"/>
-</ab><ab type="juan" subtype="close">瑜伽集要焰口施食起教阿難陀緣由竟</ab></div>
+</ab><ab type='juan' subtype='close'>瑜伽集要焰口施食起教阿難陀緣由竟</ab></div>
 </body></text></TEI>

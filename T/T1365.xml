@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1365</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0883c11" ed="T"/><lb
  n="0883c12" ed="T"/><lb
- n="0883c13" ed="T"/><div type="jing" level="1"><lb
+ n="0883c13" ed="T"/><div type='jing' level='1'><lb
  n="0883c14" ed="T"/>
-<ab type="juan" subtype="open">八名普密陀羅尼經</ab><lb
+<ab type='juan' subtype='open'>八名普密陀羅尼經</ab><lb
  n="0883c15" ed="T"/><lb
  n="0883c16" ed="T"/><byline>大唐三藏法師玄奘奉　詔譯</byline><lb
- n="0883c17" ed="T"/><ab type="prose">如是我聞。一時薄伽梵。在室羅筏住誓多林<lb
+ n="0883c17" ed="T"/><ab type='prose'>如是我聞。一時薄伽梵。在室羅筏住誓多林<lb
  n="0883c18" ed="T"/>給孤獨園。與大苾芻眾千二百五十人俱。及<lb
  n="0883c19" ed="T"/>無量無數菩薩摩訶薩。并諸天人阿素洛等。<lb
  n="0883c20" ed="T"/>異類大眾前後圍遶。<lb
@@ -68,11 +68,11 @@
  n="0884a06" ed="T"/>天奉事彌勒。後隨彌勒下贍部洲。行願漸增<lb
  n="0884a07" ed="T"/>乃至究竟。陀羅尼曰。<lb
  n="0884a08" ed="T"/></ab>
-<ab type="dharani">頞𪘨筏𪘨捺𪘨朅剌𪘨蘇謎蘇摩蘇<lb
+<ab type='dharani'>頞𪘨筏𪘨捺𪘨朅剌𪘨蘇謎蘇摩蘇<lb
  n="0884a09" ed="T"/>契薩縛迦摩娑達泥呬梨寐梨薜薜梨悉殿<lb
  n="0884a10" ed="T"/>都謎薩縛迦摩娑馱室遮縵怛羅般陀莎呵<lb
  n="0884a11" ed="T"/></ab>
-<ab type="prose">佛說如是普密呪時。八千俱胝諸惡神鬼。<lb
+<ab type='prose'>佛說如是普密呪時。八千俱胝諸惡神鬼。<lb
  n="0884a12" ed="T"/>皆生歡喜捨離毒心。歸佛法僧斷惡修善。俱<lb
  n="0884a13" ed="T"/>詣佛所發誠諦言。願常護持此大神呪。令受<lb
  n="0884a14" ed="T"/>持者身心安樂。佛言善哉如汝所願若有善<lb
@@ -84,5 +84,5 @@
  n="0884a20" ed="T"/>諸天人阿素洛等。一切眾會聞佛所說。皆大<lb
  n="0884a21" ed="T"/>歡喜。信受奉行。<lb
  n="0884a22" ed="T"/>
-</ab><ab type="juan" subtype="close">八名普密陀羅尼經</ab></div>
+</ab><ab type='juan' subtype='close'>八名普密陀羅尼經</ab></div>
 </body></text></TEI>

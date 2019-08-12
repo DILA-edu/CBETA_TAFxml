@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T08</biblScope>
                     <idno type="Taisho">T08n0249</idno>
                 </bibl>
@@ -44,11 +44,11 @@
  n="0846b16" ed="T"/><lb
  n="0846b17" ed="T"/><lb
  n="0846b18" ed="T"/>
-<ab type="juan" subtype="open">佛說帝釋般若波羅蜜多心經</ab><lb
+<ab type='juan' subtype='open'>佛說帝釋般若波羅蜜多心經</ab><lb
  n="0846b19" ed="T"/><lb
  n="0846b20" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚卿<lb
  n="0846b21" ed="T"/>傳法大師臣施護奉　詔譯</byline><lb
- n="0846b22" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時，佛在王舍城鷲峯山中，有無<lb
+ n="0846b22" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時，佛在王舍城鷲峯山中，有無<lb
  n="0846b23" ed="T"/>數大苾芻眾，復十俱胝童子相菩薩摩訶薩。<lb
  n="0846b24" ed="T"/>爾時，世尊告帝釋天主：「憍尸迦！此般若波羅<lb
  n="0846b25" ed="T"/>蜜，其義甚深。非一非異，非相非無相，非取<lb
@@ -84,7 +84,7 @@
  n="0846c26" ed="T"/>相空、無相空、無性空、自性空、無性自性空、<lb
  n="0846c27" ed="T"/>一切法空。頌曰：<lb
  n="0846c28" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「如星如燈、翳，　　夢、幻及泡、露，　　<lb
  n="0846c29" ed="T"/>如電亦如雲，　　應作如是觀。　　<pb n="0847a" id="T08.0249.0847a" ed="T"/><lb
  n="0847a01" ed="T"/>我今略說此，　　般若波羅蜜，　　<lb
@@ -96,7 +96,7 @@
  n="0847a07" ed="T"/>三寶波羅蜜。　　無量功德海，　　<lb
  n="0847a08" ed="T"/>供養諸如來，　　大明真祕密。　　
 </ab><lb
- n="0847a09" ed="T"/><ab type="prose">「真言曰：<lb
+ n="0847a09" ed="T"/><ab type='prose'>「真言曰：<lb
  n="0847a10" ed="T"/>「怛儞也他　鉢囉倪鉢囉倪　摩賀鉢囉<lb
  n="0847a11" ed="T"/>倪鉢囉倪嚩婆細　鉢囉倪魯迦迦哩<lb
  n="0847a12" ed="T"/>阿倪也曩尾馱摩儞　悉提　蘇悉提　悉𠆙<lb
@@ -127,7 +127,7 @@
  n="0847b08" ed="T"/>「曩謨鉢囉倪也波囉彌多　曳怛儞也<lb
  n="0847b09" ed="T"/>他　室哩曳室哩曳　牟儞室哩曳<lb
  n="0847b10" ed="T"/>　牟儞室哩野細　娑嚩賀　鉢囉倪也<lb
- n="0847b11" ed="T"/>波囉彌多　曳怛儞也他　唵　嚩󰋷　未<lb
+ n="0847b11" ed="T"/>波囉彌多　曳怛儞也他　唵　嚩𭍒　未<lb
  n="0847b12" ed="T"/>隷　娑嚩賀<lb
  n="0847b13" ed="T"/>「曩謨鉢囉倪也波囉禰多曳怛儞也<lb
  n="0847b14" ed="T"/>他唵紇凌室凌特凌室嚕帝特哩<lb
@@ -149,5 +149,5 @@
  n="0847c01" ed="T"/>訶薩、天、人、乾闥婆、阿修羅等，一切大眾，聞佛<lb
  n="0847c02" ed="T"/>所說，皆大歡喜，信受奉行。</ab></div><lb
  n="0847c03" ed="T"/>
-<ab type="juan" subtype="close">佛說帝釋般若波羅蜜多心經</ab>
+<ab type='juan' subtype='close'>佛說帝釋般若波羅蜜多心經</ab>
 </body></text></TEI>

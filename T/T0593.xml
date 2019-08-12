@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T15</biblScope>
                     <idno type="Taisho">T15n0593</idno>
                 </bibl>
@@ -45,10 +45,10 @@
  n="0125a10" ed="T"/><lb
  n="0125a11" ed="T"/><lb
  n="0125a12" ed="T"/>
-<ab type="juan" subtype="open">佛為勝光天子說王法經</ab><lb
+<ab type='juan' subtype='open'>佛為勝光天子說王法經</ab><lb
  n="0125a13" ed="T"/><lb
  n="0125a14" ed="T"/><byline>大唐沙門釋義淨奉　詔譯</byline><lb
- n="0125a15" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時薄伽梵在室羅伐城逝多林<lb
+ n="0125a15" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時薄伽梵在室羅伐城逝多林<lb
  n="0125a16" ed="T"/>給孤獨園，與大苾芻眾百千人俱，皆是大阿<lb
  n="0125a17" ed="T"/>羅漢，諸漏已盡。復與無量菩薩摩訶薩俱，人<lb
  n="0125a18" ed="T"/>中大龍，一生補處。爾時世尊在一樹下，於勝<lb
@@ -148,11 +148,11 @@
  n="0126a25" ed="T"/>中能為善伴，共相救護。大王善聽！我今為說。<lb
  n="0126a26" ed="T"/>呪曰：<lb
  n="0126a27" ed="T"/></ab>
-<ab type="dharani">「南謨釋迦牟奈曳　怛他揭多也　阿羅𠿒帝<lb
- n="0126a28" ed="T"/>三藐三勃陀也　怛姪他唵　苫䜝苫䜝<lb
+<ab type='dharani'>「南謨釋迦牟奈曳　怛他揭多也　阿羅𠿒帝<lb
+ n="0126a28" ed="T"/>三藐三勃陀也　怛姪他唵　苫謎苫謎<lb
  n="0126a29" ed="T"/>　薩婆波跛　鉢羅苫末泥莎訶」<pb n="0126b" ed="T" id="T15.0593.0126b"/><lb
  n="0126b01" ed="T"/></ab>
-<ab type="prose">佛告大王：「此陀羅尼諸佛所說，於日日中清<lb
+<ab type='prose'>佛告大王：「此陀羅尼諸佛所說，於日日中清<lb
  n="0126b02" ed="T"/>淨澡漱，常誦七遍，有大威神能為救濟——如遭<lb
  n="0126b03" ed="T"/>極寒，遇炎火聚；如大熱時，得清冷水；盛夏尋<lb
  n="0126b04" ed="T"/>路，逢好樹陰；如渴，遇清泉；如飢，得美食；如<lb
@@ -216,5 +216,5 @@
  n="0127a04" ed="T"/>勝光天子及諸大眾，皆大歡喜，信受奉行，禮<lb
  n="0127a05" ed="T"/>佛而去。</ab></div><lb
  n="0127a06" ed="T"/>
-<ab type="juan" subtype="close">佛為勝光天子說王法經</ab>
+<ab type='juan' subtype='close'>佛為勝光天子說王法經</ab>
 </body></text></TEI>

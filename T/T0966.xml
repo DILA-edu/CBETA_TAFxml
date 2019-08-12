@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n0966</idno>
                 </bibl>
@@ -39,18 +39,18 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0342b07" ed="T"/><lb
  n="0342b08" ed="T"/><lb
  n="0342b09" ed="T"/><lb
  n="0342b10" ed="T"/>
-<ab type="juan" subtype="open">大聖妙吉祥菩薩說除災教令法<lb
+<ab type='juan' subtype='open'>大聖妙吉祥菩薩說除災教令法<lb
  n="0342b11" ed="T"/>輪</ab><lb
- n="0342b12" ed="T"/><div type="w" level="2"><ab type="prose">出文殊大集會經息災除難品亦云熾盛<lb
+ n="0342b12" ed="T"/><div type='w' level='2'><ab type='prose'>出文殊大集會經息災除難品亦云熾盛<lb
  n="0342b13" ed="T"/>光佛頂。</ab></div><lb
  n="0342b14" ed="T"/><lb
- n="0342b15" ed="T"/><ab type="prose">爾時文殊師利菩薩。從首楞嚴三摩地起。遍<lb
+ n="0342b15" ed="T"/><ab type='prose'>爾時文殊師利菩薩。從首楞嚴三摩地起。遍<lb
  n="0342b16" ed="T"/>觀大眾而作是言。我觀一切有情。無始已來<lb
  n="0342b17" ed="T"/>流轉生死。妄業纏覆互相愛憎。感種種業報<lb
  n="0342b18" ed="T"/>招種種災難。我承一切如來加持神力。略說<lb
@@ -130,7 +130,7 @@
  n="0343b05" ed="T"/>在菩薩。如前八大尊。各有色相幖幟印契顏<lb
  n="0343b06" ed="T"/>貌。以偈誦曰。<lb
  n="0343b07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 頂輪惟一字　　奇特為中尊　　<lb
  n="0343b08" ed="T"/>熾盛佛相儀　　毛孔飛光散　　<lb
  n="0343b09" ed="T"/>首冠五佛相　　二手如釋迦　　<lb
@@ -160,7 +160,7 @@
  n="0343c04" ed="T"/>文殊金剛手　　密言背後書　　<lb
  n="0343c05" ed="T"/>白粉與金銀　　皆通第一義　　
 </ab><lb
- n="0343c06" ed="T"/><ab type="prose">於真言外應畫九執大天主。所謂日天月天<lb
+ n="0343c06" ed="T"/><ab type='prose'>於真言外應畫九執大天主。所謂日天月天<lb
  n="0343c07" ed="T"/>五星蝕神彗星。及大梵天王淨居天那羅延<lb
  n="0343c08" ed="T"/>天都使多天帝釋天主。當佛背後畫摩醯首<lb
  n="0343c09" ed="T"/>羅大天。共一十二尊。列位分布周圍一匝。各<lb
@@ -249,7 +249,7 @@
  n="0344c05" ed="T"/>生等。願令解脫一心持誦熾盛光佛頂真言。<lb
  n="0344c06" ed="T"/>唯功多為上。我今宣說陀羅尼曰。<lb
  n="0344c07" ed="T"/></ab>
-<ab type="dharani">於􆷱娑發二合􈁆吒下應云􈇌扇􆩘底二合􄑀迦􄭠室利二合<lb
+<ab type='dharani'>於􆷱娑發二合􈁆吒下應云􈇌扇􆩘底二合􄑀迦􄭠室利二合<lb
  n="0344c08" ed="T"/><lb
  n="0344c09" ed="T"/>􄗷曳<lb
  n="0344c10" ed="T"/><lb
@@ -268,9 +268,9 @@
  n="0344c23" ed="T"/>􈁆吒半音􅁥娑嚩二合􄚩賀引<lb
  n="0344c24" ed="T"/><lb
  n="0344c25" ed="T"/></ab>
-<ab type="prose">佛眼菩薩真言曰。<lb
+<ab type='prose'>佛眼菩薩真言曰。<lb
  n="0344c26" ed="T"/></ab>
-<ab type="dharani">􄖩曩􄗰莫􄙺薩􅞣嚩􄕗怛􄕤他引􄑘蘖􄕝帝􄢢毘庾二合􅟓囉曷二合<lb
+<ab type='dharani'>􄖩曩􄗰莫􄙺薩􅞣嚩􄕗怛􄕤他引􄑘蘖􄕝帝􄢢毘庾二合􅟓囉曷二合<lb
  n="0344c27" ed="T"/><lb
  n="0344c28" ed="T"/>􄕝帝引􄢥毘藥二合􄙺三􄢦藐􇩀三去􈎭沒􇧼第引􄢥毘藥二合<lb
  n="0344c29" ed="T"/><pb n="0345a" id="T19.0966.0345a" ed="T"/><lb
@@ -283,12 +283,12 @@
  n="0345a07" ed="T"/>􄚩賀引<lb
  n="0345a08" ed="T"/><lb
  n="0345a09" ed="T"/></ab>
-<ab type="prose">心真言曰。<lb
+<ab type='prose'>心真言曰。<lb
  n="0345a10" ed="T"/></ab>
-<ab type="dharani">􇩂唵引􈎭沒􇧺馱􄙒路引􄑼左􄖯寧􅁥娑嚩二合引􄚩賀引<lb
+<ab type='dharani'>􇩂唵引􈎭沒􇧺馱􄙒路引􄑼左􄖯寧􅁥娑嚩二合引􄚩賀引<lb
  n="0345a11" ed="T"/><lb
  n="0345a12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 定慧合虛心　　開風捻火背　　<lb
  n="0345a13" ed="T"/>二空並直竪　　如同五眼標　　<lb
  n="0345a14" ed="T"/>七念彼真言　　印眼及兩邊　　<lb
@@ -297,9 +297,9 @@
  n="0345a17" ed="T"/>七念而三召　　招之慧風度　　<lb
  n="0345a18" ed="T"/>想乘師子王　　來降於道場　　<lb
  n="0345a19" ed="T"/>與願令滿足　　
-</ab><ab type="prose">誦彼真言曰<lb
+</ab><ab type='prose'>誦彼真言曰<lb
  n="0345a20" ed="T"/></ab>
-<ab type="dharani">􄖩曩􄗰莫􄙺三去􄗥曼􆩖多􈎭沒􇧺馱引􈁀南引􄚮係􄚮係<lb
+<ab type='dharani'>􄖩曩􄗰莫􄙺三去􄗥曼􆩖多􈎭沒􇧺馱引􈁀南引􄚮係􄚮係<lb
  n="0345a21" ed="T"/><lb
  n="0345a22" ed="T"/>􄑄俱􄗥摩􄗽囉􄑀迦􄙘微上􈁃目􈁍乞底二合􆻤鉢他<lb
  n="0345a23" ed="T"/><lb
@@ -308,122 +308,122 @@
  n="0345a26" ed="T"/>􄪼鉢羅二合􈁆底丁以反􈂤枳然二合􅁥娑嚩二合引􄚩賀引<lb
  n="0345a27" ed="T"/><lb
  n="0345a28" ed="T"/></ab>
-<ab type="prose">心真言曰。<pb n="0345b" id="T19.0966.0345b" ed="T"/><lb
+<ab type='prose'>心真言曰。<pb n="0345b" id="T19.0966.0345b" ed="T"/><lb
  n="0345b01" ed="T"/></ab>
-<ab type="dharani">􇩂唵引􄙖嚩􄑆髻􄕯娜􄖩曩􄗰莫<lb
+<ab type='dharani'>􇩂唵引􄙖嚩􄑆髻􄕯娜􄖩曩􄗰莫<lb
  n="0345b02" ed="T"/><lb
  n="0345b03" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 復次金剛手　　印相如後明　　<lb
  n="0345b04" ed="T"/>二水內相交　　地火並合竪　　<lb
  n="0345b05" ed="T"/>二空亦如地　　風開五股形　　<lb
  n="0345b06" ed="T"/>是大祕密標　　金剛手明曰　　
 </ab><lb
- n="0345b07" ed="T"/><ab type="dharani">􄖩曩􄗰莫􄙺三去􄗥曼􆩖多􄙖嚩􄦽日囉二合􄕕󰴆引􄑼戰<lb
+ n="0345b07" ed="T"/><ab type='dharani'>􄖩曩􄗰莫􄙺三去􄗥曼􆩖多􄙖嚩􄦽日囉二合􄕕𭊥引􄑼戰<lb
  n="0345b08" ed="T"/><lb
  n="0345b09" ed="T"/>􆧽拏􄗥麼􄚩賀􄙆嚕􄙮灑􄕋拏􈅼吽引<lb
  n="0345b10" ed="T"/><lb
  n="0345b11" ed="T"/></ab>
-<ab type="prose">心真言。<lb
+<ab type='prose'>心真言。<lb
  n="0345b12" ed="T"/></ab>
-<ab type="dharani">􄖩曩􄗰莫􄙺三去􄗥曼􆩖多􄙖嚩􄦽日囉二合􄕕󰴆􇩂唵<lb
+<ab type='dharani'>􄖩曩􄗰莫􄙺三去􄗥曼􆩖多􄙖嚩􄦽日囉二合􄕕𭊥􇩂唵<lb
  n="0345b13" ed="T"/><lb
  n="0345b14" ed="T"/>􄙖嚩􄦽日囉二合􄖶播􄖫抳􄙖嚩􄦽日囉二合􄙺薩􄽙怛嚩二合<lb
  n="0345b15" ed="T"/><lb
  n="0345b16" ed="T"/>􈅼吽<lb
  n="0345b17" ed="T"/><lb
  n="0345b18" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 復次救護慧　　定手金剛拳　　<lb
  n="0345b19" ed="T"/>端坐安腰側　　慧舒五輪直　　<lb
  n="0345b20" ed="T"/>當以掩其心　　磔竪於空輪　　
 </ab><lb
- n="0345b21" ed="T"/><ab type="prose">念彼真言曰<lb
+ n="0345b21" ed="T"/><ab type='prose'>念彼真言曰<lb
  n="0345b22" ed="T"/></ab>
-<ab type="dharani">􄖩曩􄗰莫􄙺三去􄗥曼􆩖多􈎭沒􇧺馱引􈁀喃􄚮係􄗥摩􄚩賀引<lb
+<ab type='dharani'>􄖩曩􄗰莫􄙺三去􄗥曼􆩖多􈎭沒􇧺馱引􈁀喃􄚮係􄗥摩􄚩賀引<lb
  n="0345b23" ed="T"/><lb
  n="0345b24" ed="T"/>􄗥摩􄚩賀引􅋌娑麼二合􄗽囉􄪼鉢囉二合􄕙底丁以反<lb
  n="0345b25" ed="T"/><lb
  n="0345b26" ed="T"/>􈇍枳然二合引􅁥娑嚩二合􄚩賀引<lb
  n="0345b27" ed="T"/><lb
  n="0345b28" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 復不思議慧　　印相如後陳　　<lb
  n="0345b29" ed="T"/>定慧內相叉　　一合為拳印　　<lb
  n="0345b30" ed="T"/>二風舒別屈　　第三節對之　　<pb n="0345c" id="T19.0966.0345c" ed="T"/><lb
  n="0345c01" ed="T"/>令甲各相背　　二空並直竪　　
 </ab><lb
- n="0345c02" ed="T"/><ab type="dharani">􄖩曩􄗰莫􄙺三去􄗥曼􆩖多􈎭沒􇧺馱引􈁀南上􄚮係引<lb
+ n="0345c02" ed="T"/><ab type='dharani'>􄖩曩􄗰莫􄙺三去􄗥曼􆩖多􈎭沒􇧺馱引􈁀南上􄚮係引<lb
  n="0345c03" ed="T"/><lb
  n="0345c04" ed="T"/>􄚮係引􈃛緊􄑾旨慈以反􄗾羅􄗷拽􄙼徙􆿅阿去急呼􄙘尾􅋌娑麼二合<lb
  n="0345c05" ed="T"/><lb
  n="0345c06" ed="T"/>􄗱野􄖯儜􄗷曳􅁥娑嚩二合引􄚩訶引<lb
  n="0345c07" ed="T"/><lb
  n="0345c08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 復次奉教者　　印相已前說　　<lb
  n="0345c09" ed="T"/>救護慧菩薩　　其契亦前明　　<lb
  n="0345c10" ed="T"/>次毘俱胝尊　　印契如後演　　<lb
  n="0345c11" ed="T"/>定慧內合拳　　風舉交上節　　<lb
  n="0345c12" ed="T"/>能消眾災難　　滅除諸惡苦　　<lb
  n="0345c13" ed="T"/>謂利有情故　　
-</ab><ab type="prose">即說真言曰<lb
+</ab><ab type='prose'>即說真言曰<lb
  n="0345c14" ed="T"/></ab>
-<ab type="dharani">􄖩曩􄗰莫􄙺三去􄗥曼􆩖多􈎭沒􅁥馱引􈁀南􄙺薩􅞣嚩轉舌呼<lb
+<ab type='dharani'>􄖩曩􄗰莫􄙺三去􄗥曼􆩖多􈎭沒􅁥馱引􈁀南􄙺薩􅞣嚩轉舌呼<lb
  n="0345c15" ed="T"/><lb
  n="0345c16" ed="T"/>􄗙佩􄗱野􄩟怛囉二合引􄙺散􄖫儞入􈅼吽引􆷱娑頗二合<lb
  n="0345c17" ed="T"/><lb
  n="0345c18" ed="T"/>􈁆吒􄗱野􅁥娑嚩二合引􄚩賀引<lb
  n="0345c19" ed="T"/><lb
  n="0345c20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 復次觀自在　　亦號如意輪　　<lb
  n="0345c21" ed="T"/>定慧金剛縛　　忍願如蓮葉　　<lb
  n="0345c22" ed="T"/>二風蹙如寶　　空輪並似幢　　<lb
  n="0345c23" ed="T"/>舉地交上節　　是名小心契　　
 </ab><lb
- n="0345c24" ed="T"/><ab type="prose">即說真言曰<lb
+ n="0345c24" ed="T"/><ab type='prose'>即說真言曰<lb
  n="0345c25" ed="T"/></ab>
-<ab type="dharani">􄖩曩􄗰莫􄙺三去􄗥曼􆩖多􈎭沒􇧺馱引􈁀喃引􇩂唵引<lb
+<ab type='dharani'>􄖩曩􄗰莫􄙺三去􄗥曼􆩖多􈎭沒􇧺馱引􈁀喃引􇩂唵引<lb
  n="0345c26" ed="T"/><lb
  n="0345c27" ed="T"/>􄖵鉢􇪯娜摩二合􄑾進􆩖跢􄗥麼􄕍抳尼貞反􄺸入嚩二合􄙊攞引<lb
  n="0345c28" ed="T"/><pb n="0346a" id="T19.0966.0346a" ed="T"/><lb
  n="0346a01" ed="T"/>􈅼吽引<lb
  n="0346a02" ed="T"/><lb
  n="0346a03" ed="T"/></ab>
-<ab type="prose">心中心。<lb
+<ab type='prose'>心中心。<lb
  n="0346a04" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄙖嚩􄗽囉􄕯曩􄖵鉢􈉃娜銘二合􈅼虎吽二合引<lb
+<ab type='dharani'>􇩂唵􄙖嚩􄗽囉􄕯曩􄖵鉢􈉃娜銘二合􈅼虎吽二合引<lb
  n="0346a05" ed="T"/><lb
  n="0346a06" ed="T"/></ab>
-<ab type="prose">摩醯首羅天王真言。<lb
+<ab type='prose'>摩醯首羅天王真言。<lb
  n="0346a07" ed="T"/></ab>
-<ab type="dharani">􄖩曩􄗰莫􄙺三􄗥曼􆩖多􈎭沒􇧺馱􈁀喃􇩂唵引􆿏翳􈂯係<lb
+<ab type='dharani'>􄖩曩􄗰莫􄙺三􄗥曼􆩖多􈎭沒􇧺馱􈁀喃􇩂唵引􆿏翳􈂯係<lb
  n="0346a08" ed="T"/><lb
  n="0346a09" ed="T"/>􆿏曳􄚪呬􄗥麼􄚮系引􈂫濕嚩二合􄗾囉引􄗱野􅁥娑嚩二合引<lb
  n="0346a10" ed="T"/><lb
  n="0346a11" ed="T"/>􄚩賀引<lb
  n="0346a12" ed="T"/><lb
  n="0346a13" ed="T"/></ab>
-<ab type="prose">復說欲界自在伊舍那真言曰。<lb
+<ab type='prose'>復說欲界自在伊舍那真言曰。<lb
  n="0346a14" ed="T"/></ab>
-<ab type="dharani">􄖩曩􄗰莫􄙺三􄗥曼􆩖多􈎭沒􇧺馱引􈁀喃􄙆嚕􄩶捺囉二合<lb
+<ab type='dharani'>􄖩曩􄗰莫􄙺三􄗥曼􆩖多􈎭沒􇧺馱引􈁀喃􄙆嚕􄩶捺囉二合<lb
  n="0346a15" ed="T"/><lb
  n="0346a16" ed="T"/>􄗱野􅁥娑嚩二合引􄚩賀引<lb
  n="0346a17" ed="T"/><lb
  n="0346a18" ed="T"/></ab>
-<ab type="prose">大梵天王真言曰。<lb
+<ab type='prose'>大梵天王真言曰。<lb
  n="0346a19" ed="T"/></ab>
-<ab type="dharani">􄖩曩􄗰莫􄙺三􄗥曼􆩖多􈎭沒􇧺馱􈁀喃􇩂唵引􄗥麼􄚩賀引<lb
+<ab type='dharani'>􄖩曩􄗰莫􄙺三􄗥曼􆩖多􈎭沒􇧺馱􈁀喃􇩂唵引􄗥麼􄚩賀引<lb
  n="0346a20" ed="T"/><lb
  n="0346a21" ed="T"/>􄭑沒囉二合􈃋𤚥麼二合􄗷曳引􆿏翳􄚮醯􆿏曳􄚪呬<lb
  n="0346a22" ed="T"/><lb
  n="0346a23" ed="T"/>􅁥娑嚩二合引􄚩賀引<lb
  n="0346a24" ed="T"/><lb
  n="0346a25" ed="T"/></ab>
-<ab type="prose">請召十二宮天神真言曰。<lb
+<ab type='prose'>請召十二宮天神真言曰。<lb
  n="0346a26" ed="T"/></ab>
-<ab type="dharani">􄖩娜􄗰莫􄙺三􄗥曼􆩖多􈎭沒􇧺馱􄖳喃􇩂唵􄥟仡囉二合<lb
+<ab type='dharani'>􄖩娜􄗰莫􄙺三􄗥曼􆩖多􈎭沒􇧺馱􄖳喃􇩂唵􄥟仡囉二合<lb
  n="0346a27" ed="T"/><lb
  n="0346a28" ed="T"/>􄚮系引􈂫濕嚩二合􄙁哩引􄗱野􄪼鉢囉二合􆻤鉢多<lb
  n="0346a29" ed="T"/><pb n="0346b" id="T19.0966.0346b" ed="T"/><lb
@@ -432,9 +432,9 @@
  n="0346b03" ed="T"/>􅁥娑嚩二合引􄚩賀引<lb
  n="0346b04" ed="T"/><lb
  n="0346b05" ed="T"/></ab>
-<ab type="prose">請召二十八宿真言曰。<lb
+<ab type='prose'>請召二十八宿真言曰。<lb
  n="0346b06" ed="T"/></ab>
-<ab type="dharani">􄖩曩􄗰莫􄙺三􄗥曼􆩖多􈎭沒􇧺馱引􈁀喃􇩂唵引􆿅阿上<lb
+<ab type='dharani'>􄖩曩􄗰莫􄙺三􄗥曼􆩖多􈎭沒􇧺馱引􈁀喃􇩂唵引􆿅阿上<lb
  n="0346b07" ed="T"/><lb
  n="0346b08" ed="T"/>􆵋瑟吒二合􈃐尾孕二合􈇌設􄕙底丁以反􈁀喃􄖩諾􄚴乞察二合<lb
  n="0346b09" ed="T"/><lb
@@ -443,10 +443,10 @@
  n="0346b12" ed="T"/>􄗷曳􄓚摘􄑂計􈅼吽引􄓁柞􅁥娑嚩二合引􄚩賀引<lb
  n="0346b13" ed="T"/><lb
  n="0346b14" ed="T"/></ab>
-<ab type="prose">都請召諸天及七曜十二宮神二十八宿諸執<lb
+<ab type='prose'>都請召諸天及七曜十二宮神二十八宿諸執<lb
  n="0346b15" ed="T"/>并地天等真言。<lb
  n="0346b16" ed="T"/></ab>
-<ab type="dharani">􄖩娜􄗰莫􄙺三􄗥曼􆩖多􈎭沒􇧺馱引􈁀喃上􇩂唵􄙺薩<lb
+<ab type='dharani'>􄖩娜􄗰莫􄙺三􄗥曼􆩖多􈎭沒􇧺馱引􈁀喃上􇩂唵􄙺薩<lb
  n="0346b17" ed="T"/><lb
  n="0346b18" ed="T"/>􅞣嚩轉舌􄕵禰泥禮反􄙖嚩􄕘多引􄖳喃引􆿏翳􈂯醯􆿏曳二合引<lb
  n="0346b19" ed="T"/><lb
@@ -461,7 +461,7 @@
  n="0346b28" ed="T"/>􄓚摘􄑂枳經異反􈅼吽引􄓁柞入􅁥娑嚩二合引􄚩賀引<lb
  n="0346b29" ed="T"/><pb n="0346c" id="T19.0966.0346c" ed="T"/><lb
  n="0346c01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 復次明諸天　　大自在天印　　<lb
  n="0346c02" ed="T"/>慧羽五輪舒　　承頰儼然住　　<lb
  n="0346c03" ed="T"/>三昧舒五輪　　空持風上節　　<lb
@@ -503,7 +503,7 @@
  n="0347a10" ed="T"/>十二緣生偈　　次第亦念之　　<lb
  n="0347a11" ed="T"/>書壇及稱念　　一一勿遺忘　　
 </ab><lb
- n="0347a12" ed="T"/><ab type="prose">無明緣行行緣識。識緣名色名色緣六入。六<lb
+ n="0347a12" ed="T"/><ab type='prose'>無明緣行行緣識。識緣名色名色緣六入。六<lb
  n="0347a13" ed="T"/>入緣觸觸緣受。受緣愛愛緣取。取緣有有緣<lb
  n="0347a14" ed="T"/>生。生緣老死憂悲苦惱。<lb
  n="0347a15" ed="T"/>又書滅句即是十二緣滅。<lb
@@ -543,5 +543,5 @@
  n="0347b22" ed="T"/>經已。皆大歡喜異口同音咸作是言。敬依聖<lb
  n="0347b23" ed="T"/>旨不敢違越。信受奉行作禮而去。<lb
  n="0347b24" ed="T"/>
-</ab><ab type="juan" subtype="close">熾盛光佛頂儀軌</ab></div>
+</ab><ab type='juan' subtype='close'>熾盛光佛頂儀軌</ab></div>
 </body></text></TEI>

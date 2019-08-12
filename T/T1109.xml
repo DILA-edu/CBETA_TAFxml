@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1109</idno>
                 </bibl>
@@ -44,7 +44,7 @@
  n="0484a08" ed="T"/><lb
  n="0484a09" ed="T"/><lb
  n="0484a10" ed="T"/><lb
- n="0484a11" ed="T"/><div type="jing" level="1"><ab type="prose"><lb
+ n="0484a11" ed="T"/><div type='jing' level='1'><ab type='prose'><lb
  n="0484a12" ed="T"/><lb
  n="0484a13" ed="T"/><lb
  n="0484a14" ed="T"/><lb
@@ -53,16 +53,16 @@
  n="0484a17" ed="T"/><lb
  n="0484a18" ed="T"/><lb
  n="0484a19" ed="T"/>
-</ab><ab type="juan" subtype="open">白救度佛母讚</ab><lb
+</ab><ab type='juan' subtype='open'>白救度佛母讚</ab><lb
  n="0484a20" ed="T"/><lb
  n="0484a21" ed="T"/><byline>北京淨住寺住持阿旺扎什譯</byline><lb
- n="0484a22" ed="T"/><ab type="prose">納摩至尊聖救度佛母。<lb
+ n="0484a22" ed="T"/><ab type='prose'>納摩至尊聖救度佛母。<lb
  n="0484a23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 唵救度輸迴答哷母　　<lb
  n="0484a24" ed="T"/>以都答哷脫八難　　
 </ab><lb
- n="0484a25" ed="T"/><ab type="verse">
+ n="0484a25" ed="T"/><ab type='verse'>
 一切病愆都哷救　　救度母前敬讚禮　　<lb
  n="0484a26" ed="T"/>白淨蓮華之中間　　其上敷陳月輪座　　<lb
  n="0484a27" ed="T"/>坐現金剛跏趺母　　施願母前致敬禮　　<lb
@@ -88,10 +88,10 @@
  n="0484b18" ed="T"/>所為我等修道時　　從此以往至菩提　　<lb
  n="0484b19" ed="T"/>消除其中諸逆緣　　願於順緣獲豐足　　
 </ab><lb
- n="0484b20" ed="T"/><ab type="dharani">唵答哷都答哷都嘛嘛阿俞逋<lb
+ n="0484b20" ed="T"/><ab type='dharani'>唵答哷都答哷都嘛嘛阿俞逋<lb
  n="0484b21" ed="T"/>葉納逋真沽嚕葉娑訶<lb
  n="0484b23" ed="T"/></ab>
-<ab type="prose">。<lb
+<ab type='prose'>。<lb
  n="0484b24" ed="T"/>
-</ab><ab type="juan" subtype="close">白救度佛母讚竟</ab></div>
+</ab><ab type='juan' subtype='close'>白救度佛母讚竟</ab></div>
 </body></text></TEI>

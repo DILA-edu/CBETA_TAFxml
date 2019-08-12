@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0034</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0818a05" ed="T"/><lb
  n="0818a06" ed="T"/><lb
- n="0818a07" ed="T"/><div type="jing" level="1"><lb
+ n="0818a07" ed="T"/><div type='jing' level='1'><lb
  n="0818a08" ed="T"/>
-<ab type="juan" subtype="open">法海經</ab><lb
+<ab type='juan' subtype='open'>法海經</ab><lb
  n="0818a09" ed="T"/><lb
  n="0818a10" ed="T"/><byline>西晉沙門法炬譯</byline><lb
- n="0818a11" ed="T"/><ab type="prose">聞如是：一時，佛遊瞻波國，漢呿利池上，與大<lb
+ n="0818a11" ed="T"/><ab type='prose'>聞如是：一時，佛遊瞻波國，漢呿利池上，與大<lb
  n="0818a12" ed="T"/>比丘眾俱。月十五日，時應說戒。佛坐，集已久，<lb
  n="0818a13" ed="T"/>而如來默然，不說戒。侍者阿難，更整衣服，跪<lb
  n="0818a14" ed="T"/>而白佛：「初夜向竟，中夜將至，大眾集久，世尊<lb
@@ -122,5 +122,5 @@
  n="0818c25" ed="T"/>純非釋種子，故吾不說戒耳。卿等善相勅戒，<lb
  n="0818c26" ed="T"/>無令正法有毀。」佛說如是，諸比丘歡喜奉行。<lb
  n="0818c27" ed="T"/>
-</ab><ab type="juan" subtype="close">法海經</ab></div>
+</ab><ab type='juan' subtype='close'>法海經</ab></div>
 </body></text></TEI>

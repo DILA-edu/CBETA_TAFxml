@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T18</biblScope>
                     <idno type="Taisho">T18n0905</idno>
                 </bibl>
@@ -43,13 +43,13 @@
  n="0909b09" ed="T"/><lb
  n="0909b10" ed="T"/><lb
  n="0909b11" ed="T"/><lb
- n="0909b12" ed="T"/><div type="jing" level="1"><lb
+ n="0909b12" ed="T"/><div type='jing' level='1'><lb
  n="0909b13" ed="T"/>
-<ab type="juan" subtype="open">三種悉地破地獄轉業障出三界<lb
+<ab type='juan' subtype='open'>三種悉地破地獄轉業障出三界<lb
  n="0909b14" ed="T"/>祕密陀羅尼法</ab><lb
  n="0909b15" ed="T"/><lb
  n="0909b16" ed="T"/><byline>中天竺國三藏善無畏奉　詔譯</byline><lb
- n="0909b17" ed="T"/><ab type="prose">瑜伽事法約有千條。略述少分。口開舌舉震<lb
+ n="0909b17" ed="T"/><ab type='prose'>瑜伽事法約有千條。略述少分。口開舌舉震<lb
  n="0909b18" ed="T"/>法界宮。蓮華藏世界如來出定。即以摧破<lb
  n="0909b19" ed="T"/>地獄轉業障出三界。當知如法布字人主頂<lb
  n="0909b20" ed="T"/>戴手冠中。萬國清泰。節度觀察旗旌上書寫<lb
@@ -59,7 +59,7 @@
  n="0909b24" ed="T"/>念誦加持。戰鼓上書。賊軍自降。一人不損名<lb
  n="0909b25" ed="T"/>金剛鼓。<lb
  n="0909b26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 稽首毘盧遮那佛　　開敷淨眼如蓮花　　<lb
  n="0909b27" ed="T"/>三界調御天人師　　大菩提心救世者　　<lb
  n="0909b28" ed="T"/>深妙真言加持法　　流入無生阿字門　　<lb
@@ -71,7 +71,7 @@
  n="0909c05" ed="T"/>慈心自在降三世　　金剛薩埵不動尊　　<lb
  n="0909c06" ed="T"/>無違誓願應時期　　瑜伽事畢還金剎　　
 </ab><lb
- n="0909c07" ed="T"/><ab type="prose">佛言􆿅阿字金剛部主肝。阿字即是大日如<lb
+ n="0909c07" ed="T"/><ab type='prose'>佛言􆿅阿字金剛部主肝。阿字即是大日如<lb
  n="0909c08" ed="T"/>來理法身。本性清淨極理畢竟不可得空。金<lb
  n="0909c09" ed="T"/>剛地輪種子。金剛部曼荼羅也。若約名色者。<lb
  n="0909c10" ed="T"/>地是色法。五陰中識陰心持地。其種子不淨。<lb
@@ -79,7 +79,7 @@
  n="0909c12" ed="T"/>名色地是色法也。今肝主魂。魂神氣為東及<lb
  n="0909c13" ed="T"/>木。木是色空也。木主春其色青。青色從木生。<lb
  n="0909c14" ed="T"/>木從水生。肝從青氣及腎生。其形如立蓮花<lb
- n="0909c15" ed="T"/>葉。其中間著󰶄珠。󰶄肉在胸左也。肝出<lb
+ n="0909c15" ed="T"/>葉。其中間著𮤕珠。𮤕肉在胸左也。肝出<lb
  n="0909c16" ed="T"/>為眼主筋。筋窮為爪也。今以五字門主五贓<lb
  n="0909c17" ed="T"/>六腑故。內外交雜明此而已。又酸味多入肝<lb
  n="0909c18" ed="T"/>增肝損脾。若脾中無魂多惛惛肺害肝成病。<lb
@@ -289,11 +289,11 @@
  n="0912a26" ed="T"/>殊廣略之異。本來一法曾無殊異。萬法歸一<lb
  n="0912a27" ed="T"/>阿字。五部同一遮那也。<lb
  n="0912a28" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 我依毘盧遮那佛　　開心智印建標義　　<lb
  n="0912a29" ed="T"/>無量功德普莊嚴　　同入總持諸善逝　　<pb n="0912b" id="T18.0905.0912b" ed="T"/><lb
  n="0912b01" ed="T"/>願共有緣修學者　　安住無上清淨海　　
 </ab><lb
  n="0912b02" ed="T"/>
-<ab type="juan" subtype="close">三種悉地祕密真言法一卷</ab></div>
+<ab type='juan' subtype='close'>三種悉地祕密真言法一卷</ab></div>
 </body></text></TEI>

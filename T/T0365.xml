@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T12</biblScope>
                     <idno type="Taisho">T12n0365</idno>
                 </bibl>
@@ -39,14 +39,14 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0340b19" ed="T"/><lb
  n="0340b20" ed="T"/><lb
  n="0340b21" ed="T"/><lb
  n="0340b22" ed="T"/><lb
- n="0340b23" ed="T"/><div type="xu" level="2"><head>御製無量壽佛贊</head><lb
- n="0340b24" ed="T"/><ab type="verse">
+ n="0340b23" ed="T"/><div type='xu' level='2'><head>御製無量壽佛贊</head><lb
+ n="0340b24" ed="T"/><ab type='verse'>
 西方極樂世界尊，　　無量壽佛世希有；　　<lb
  n="0340b25" ed="T"/>能滅無始億劫業，　　令彼苦惱悉消除。　　<lb
  n="0340b26" ed="T"/>若人能以微妙心，　　甞以極樂為觀想，　　<lb
@@ -80,10 +80,10 @@
 </ab></div><lb
  n="0340c25" ed="T"/><lb
  n="0340c26" ed="T"/>
-<ab type="juan" subtype="open">佛說觀無量壽佛經</ab><lb
+<ab type='juan' subtype='open'>佛說觀無量壽佛經</ab><lb
  n="0340c27" ed="T"/><lb
  n="0340c28" ed="T"/><byline>宋西域三藏畺良耶舍譯</byline><lb
- n="0340c29" ed="T"/><div type="jing" level="2"><ab type="prose">如是我聞：一時，佛在王舍城耆闍崛山中，<pb n="0341a" id="T12.0365.0341a" ed="T"/><lb
+ n="0340c29" ed="T"/><div type='jing' level='2'><ab type='prose'>如是我聞：一時，佛在王舍城耆闍崛山中，<pb n="0341a" id="T12.0365.0341a" ed="T"/><lb
  n="0341a01" ed="T"/>與大比丘眾千二百五十人俱；菩薩三萬二<lb
  n="0341a02" ed="T"/>千，文殊師利法王子而為上首。爾時王舍<lb
  n="0341a03" ed="T"/>大城有一太子，名阿闍世，隨順調達惡友<lb
@@ -182,7 +182,7 @@
  n="0342a09" ed="T"/>徹，作琉璃想。此想成已，見琉璃地，內外映<lb
  n="0342a10" ed="T"/>徹。下有金剛七寶金幢，擎琉璃地。其幢八方，<lb
  n="0342a11" ed="T"/>八楞具足，一一方面，百寶所成，一一寶珠，有<lb
- n="0342a12" ed="T"/>千光明，一光明，八萬四千色，映琉璃地，如<lb
+ n="0342a12" ed="T"/>千光明，一一光明，八萬四千色，映琉璃地，如<lb
  n="0342a13" ed="T"/>億千日，不可具見。琉璃地上，以黃金繩，雜<lb
  n="0342a14" ed="T"/>廁間錯，以七寶界，分齊分明，一一寶中，有<lb
  n="0342a15" ed="T"/>五百色光。其光如花，又似星月，懸處虛空，<lb
@@ -247,7 +247,7 @@
  n="0342c16" ed="T"/>憶持，廣為大眾分別解說。」說是語時，無量<lb
  n="0342c17" ed="T"/>壽佛住立空中，觀世音、大勢至，是二大士侍<lb
  n="0342c18" ed="T"/>立左右。光明熾盛不可具見，百千閻浮檀<lb
- n="0342c19" ed="T"/>金色不得為比。時韋提希見無量壽佛已，<lb
+ n="0342c19" ed="T"/>金色不可為比。時韋提希見無量壽佛已，<lb
  n="0342c20" ed="T"/>接足作禮，白佛言：「世尊！我今因佛力故，<lb
  n="0342c21" ed="T"/>得見無量壽佛及二菩薩，未來眾生，當云<lb
  n="0342c22" ed="T"/>何觀無量壽佛及二菩薩？」佛告韋提希：「欲<lb
@@ -348,7 +348,7 @@
  n="0344a07" ed="T"/>光明臺。下足時，有金剛摩尼花，布散一切<lb
  n="0344a08" ed="T"/>莫不彌滿。其餘身相，眾好具足，如佛無異，<lb
  n="0344a09" ed="T"/>唯頂上肉髻及無見頂相，不及世尊。是為<lb
- n="0344a10" ed="T"/>觀觀世音菩薩真實色身想，名第十觀。」<lb
+ n="0344a10" ed="T"/>觀觀世音菩薩真實色身相，名第十觀。」<lb
  n="0344a11" ed="T"/>佛告阿難：「若欲觀觀世音菩薩當作是<lb
  n="0344a12" ed="T"/>觀。作是觀者不遇諸禍，淨除業障，除無<lb
  n="0344a13" ed="T"/>數劫生死之罪。如此菩薩，但聞其名，獲無<lb
@@ -546,7 +546,7 @@
  n="0346b06" ed="T"/>何名此經？此法之要，當云何受持？」佛告阿<lb
  n="0346b07" ed="T"/>難：「此經名『觀極樂國土無量壽佛觀世音菩<lb
  n="0346b08" ed="T"/>薩大勢至菩薩』，亦名『淨除業障生諸佛前』。汝<lb
- n="0346b09" ed="T"/>等受持，無令忘失！行此三昧者，現身得見<lb
+ n="0346b09" ed="T"/>當受持，無令忘失！行此三昧者，現身得見<lb
  n="0346b10" ed="T"/>無量壽佛及二大士。若善男子及善女人，但<lb
  n="0346b11" ed="T"/>聞佛名、二菩薩名，除無量劫生死之罪，何況<lb
  n="0346b12" ed="T"/>憶念！若念佛者，當知此人即是人中芬陀<lb
@@ -559,5 +559,5 @@
  n="0346b19" ed="T"/>難廣為大眾說如上事。無量人、天、龍、神、<lb
  n="0346b20" ed="T"/>夜叉，聞佛所說，皆大歡喜，禮佛而退。</ab></div><lb
  n="0346b21" ed="T"/>
-<ab type="juan" subtype="close">佛說觀無量壽佛經</ab></div>
+<ab type='juan' subtype='close'>佛說觀無量壽佛經</ab></div>
 </body></text></TEI>

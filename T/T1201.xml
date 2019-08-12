@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1201</idno>
                 </bibl>
@@ -39,19 +39,19 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0013a10" ed="T"/><lb
  n="0013a11" ed="T"/><lb
  n="0013a12" ed="T"/><lb
  n="0013a13" ed="T"/>
-<ab type="juan" subtype="open">底哩三昧耶不動尊聖者念誦祕<lb
+<ab type='juan' subtype='open'>底哩三昧耶不動尊聖者念誦祕<lb
  n="0013a14" ed="T"/>密法卷上</ab><lb
  n="0013a15" ed="T"/><lb
  n="0013a16" ed="T"/><byline>大興善寺三藏沙門不空奉　詔譯</byline><lb
- n="0013a17" ed="T"/><div type="pin" level="2"><head>底哩三昧耶不動明王本事神力息障祕<lb
+ n="0013a17" ed="T"/><div type='pin' level='2'><head>底哩三昧耶不動明王本事神力息障祕<lb
  n="0013a18" ed="T"/>要品第一</head><lb
- n="0013a19" ed="T"/><ab type="prose">我薄伽梵大日世尊。復為修真言者說除障<lb
+ n="0013a19" ed="T"/><ab type='prose'>我薄伽梵大日世尊。復為修真言者說除障<lb
  n="0013a20" ed="T"/>之因。一切障法雖有無量。以要言之但從心<lb
  n="0013a21" ed="T"/>生。又由行者過去世隨順慳法故。今世多有<lb
  n="0013a22" ed="T"/>諸障。當知亦是從心因緣生也。當知彼慳貪<lb
@@ -213,10 +213,10 @@
  n="0015a14" ed="T"/>無疑慮者。一切障法無得其便次復說法界<lb
  n="0015a15" ed="T"/>生真言曰。<lb
  n="0015a16" ed="T"/></ab>
-<ab type="dharani">曩麼三曼多沒陀南達磨馱睹薩嚩<lb
+<ab type='dharani'>曩麼三曼多沒陀南達磨馱睹薩嚩<lb
  n="0015a17" ed="T"/>婆嚩句痕<lb
  n="0015a18" ed="T"/></ab>
-<ab type="prose">祕密曰不動者。是菩提心。大寂定義也。我薄<lb
+<ab type='prose'>祕密曰不動者。是菩提心。大寂定義也。我薄<lb
  n="0015a19" ed="T"/>伽梵大日世尊。從最初正覺坐寂滅道場。以<lb
  n="0015a20" ed="T"/>大願故證三世諸佛應正等覺。皆從四祕密<lb
  n="0015a21" ed="T"/>三菩提起。應現三身成等正覺。如來成道<lb
@@ -275,69 +275,69 @@
  n="0015c16" ed="T"/>事。若久持一切真言不成就者。持此真言。<lb
  n="0015c17" ed="T"/>當成一切真言之法。三吽字真言曰。<lb
  n="0015c18" ed="T"/></ab>
-<ab type="dharani">曩謨喇但曩怛囉夜耶曩莽室戰荼<lb
+<ab type='dharani'>曩謨喇但曩怛囉夜耶曩莽室戰荼<lb
  n="0015c19" ed="T"/>嚩日囉簸拏曳摩賀藥乞叉細那<lb
  n="0015c20" ed="T"/>鉢多曳唵蘇悉地耶蘇悉地耶娑太<lb
  n="0015c21" ed="T"/>野蘇悉地羯羅吽吽吽泮吒泮吒<lb
  n="0015c22" ed="T"/></ab>
-<ab type="prose">蓮華部明王名賀野羯利婆。為補瑟徵迦<lb
+<ab type='prose'>蓮華部明王名賀野羯利婆。為補瑟徵迦<lb
  n="0015c23" ed="T"/>明王真言。亦名降三世明王。真言曰。<lb
  n="0015c24" ed="T"/></ab>
-<ab type="dharani">曩謨囉怛曩怛囉夜耶曩莽室戰<pb n="0016a" id="T21.1201.0016a" ed="T"/><lb
+<ab type='dharani'>曩謨囉怛曩怛囉夜耶曩莽室戰<pb n="0016a" id="T21.1201.0016a" ed="T"/><lb
  n="0016a01" ed="T"/>荼嚩日囉簸拏曳摩賀藥乞叉細曩鉢<lb
- n="0016a02" ed="T"/>多曳唵嗉婆儞嗉婆吽󱁩哩亹拏󱁩<lb
- n="0016a03" ed="T"/>哩亹拏吽󱁩哩亹拏播耶吽阿娜<lb
+ n="0016a02" ed="T"/>多曳唵嗉婆儞嗉婆吽𭙐哩亹拏𭙐<lb
+ n="0016a03" ed="T"/>哩亹拏吽𭙐哩亹拏播耶吽阿娜<lb
  n="0016a04" ed="T"/>耶護薄伽梵尾儞夜嚩日囉囉闍吽泮<lb
  n="0016a05" ed="T"/>吒曩莽<lb
  n="0016a06" ed="T"/></ab>
-<ab type="prose">蓮華部明王心<lb
+<ab type='prose'>蓮華部明王心<lb
  n="0016a07" ed="T"/></ab>
-<ab type="dharani">唵微路枳寧莎嚩訶<lb
+<ab type='dharani'>唵微路枳寧莎嚩訶<lb
  n="0016a08" ed="T"/></ab>
-<ab type="prose">佛部明王心<lb
+<ab type='prose'>佛部明王心<lb
  n="0016a09" ed="T"/></ab>
-<ab type="dharani">唵若嚩囉路者寧莎嚩訶<lb
+<ab type='dharani'>唵若嚩囉路者寧莎嚩訶<lb
  n="0016a10" ed="T"/></ab>
-<ab type="prose">金剛部明王心<lb
+<ab type='prose'>金剛部明王心<lb
  n="0016a11" ed="T"/></ab>
-<ab type="dharani">唵滿度哩儞異鉢帝莎嚩訶<lb
+<ab type='dharani'>唵滿度哩儞異鉢帝莎嚩訶<lb
  n="0016a12" ed="T"/></ab>
-<ab type="prose">念誦已欲眠之時。作前光莊嚴印。又以部母<lb
+<ab type='prose'>念誦已欲眠之時。作前光莊嚴印。又以部母<lb
  n="0016a13" ed="T"/>護身。再被甲加持所臥處。然後澄淨身心。<lb
  n="0016a14" ed="T"/>誦明曰。<lb
  n="0016a15" ed="T"/></ab>
-<ab type="dharani">唵吠賒儞吽<lb
+<ab type='dharani'>唵吠賒儞吽<lb
  n="0016a16" ed="T"/></ab>
-<ab type="prose">以此加持令無惡夢。若有夢諸惡相者。即誦<lb
+<ab type='prose'>以此加持令無惡夢。若有夢諸惡相者。即誦<lb
  n="0016a17" ed="T"/>此明曰。<lb
  n="0016a18" ed="T"/></ab>
-<ab type="dharani">唵嚩日囉那羅呵那麼他盤闍囉拏吽泮<lb
+<ab type='dharani'>唵嚩日囉那羅呵那麼他盤闍囉拏吽泮<lb
  n="0016a19" ed="T"/>吒<lb
  n="0016a20" ed="T"/></ab>
-<ab type="prose">誦一百八遍。於所眠處如法辟除結界。若欲<lb
+<ab type='prose'>誦一百八遍。於所眠處如法辟除結界。若欲<lb
  n="0016a21" ed="T"/>知善惡相。應用前三部明王心加持檀香水<lb
  n="0016a22" ed="T"/>七遍。而飲三掬并以灑身上。若念誦求成就<lb
  n="0016a23" ed="T"/>之時。如上作法方取善相。<lb
  n="0016a24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 一切眾生　　無明所覆　　唯求菩提　　<lb
  n="0016a25" ed="T"/>不能信受　　我今為彼　　非為己身　　<lb
  n="0016a26" ed="T"/>唯願如來　　成就之時　　還我遍數　　
 </ab><lb
- n="0016a27" ed="T"/><ab type="prose">誦偈既畢。以百字明加持。又以部母護尊及<lb
+ n="0016a27" ed="T"/><ab type='prose'>誦偈既畢。以百字明加持。又以部母護尊及<lb
  n="0016a28" ed="T"/>己身。以三昧耶大結護左轉其印。以文闍句<lb
  n="0016a29" ed="T"/>即成界也。</ab></div><pb n="0016b" id="T21.1201.0016b" ed="T"/><lb
  n="0016b01" ed="T"/>
-<ab type="juan" subtype="close">底哩三昧耶不動尊聖者念誦祕密法卷上</ab><lb
+<ab type='juan' subtype='close'>底哩三昧耶不動尊聖者念誦祕密法卷上</ab><lb
  n="0016b02" ed="T"/><lb
  n="0016b03" ed="T"/><lb
  n="0016b04" ed="T"/>
-<ab type="juan" subtype="open">底哩三昧耶不動尊聖者念誦祕<lb
+<ab type='juan' subtype='open'>底哩三昧耶不動尊聖者念誦祕<lb
  n="0016b05" ed="T"/>密法卷中</ab><lb
  n="0016b06" ed="T"/><lb
  n="0016b07" ed="T"/><byline>大興善寺三藏沙門不空奉　詔譯</byline><lb
- n="0016b08" ed="T"/><div type="pin" level="2"><head>根本真言品第二</head><lb
- n="0016b09" ed="T"/><ab type="prose">三昧耶經中。略說出無動明王根本祕要成<lb
+ n="0016b08" ed="T"/><div type='pin' level='2'><head>根本真言品第二</head><lb
+ n="0016b09" ed="T"/><ab type='prose'>三昧耶經中。略說出無動明王根本祕要成<lb
  n="0016b10" ed="T"/>就一切事業。為欲令諸修行者顯發諸佛實<lb
  n="0016b11" ed="T"/>智故。三世諸佛應正等覺者。皆由成就陀羅<lb
  n="0016b12" ed="T"/>尼門三摩地門。於菩提樹下現證最勝三解<lb
@@ -354,18 +354,18 @@
  n="0016b23" ed="T"/>生。其類亦甚多。以要言之。皆能除障也。即說<lb
  n="0016b24" ed="T"/>大摧障聖者不動明王威怒明曰。<lb
  n="0016b25" ed="T"/></ab>
-<ab type="dharani">曩麼三曼縛日羅𧹞怛羅吒阿謨<lb
+<ab type='dharani'>曩麼三曼縛日羅𧹞怛羅吒阿謨<lb
  n="0016b26" ed="T"/>伽戰拏摩賀路灑儜娑頗吒野吽<lb
  n="0016b27" ed="T"/>怛囉摩野怛羅摩野吽怛囉吒<lb
  n="0016b28" ed="T"/>唅𤚥<lb
  n="0016b29" ed="T"/></ab>
-<ab type="prose">祕密釋曰。<pb n="0016c" id="T21.1201.0016c" ed="T"/><lb
+<ab type='prose'>祕密釋曰。<pb n="0016c" id="T21.1201.0016c" ed="T"/><lb
  n="0016c01" ed="T"/></ab>
-<ab type="dharani">曩莫三曼哆縛日羅𧹞怛羅吒阿謨伽戰拏摩賀路灑儜娑頗吒<lb
+<ab type='dharani'>曩莫三曼哆縛日羅𧹞怛羅吒阿謨伽戰拏摩賀路灑儜娑頗吒<lb
  n="0016c05" ed="T"/>野吽怛囉麼野吽怛羅吒<lb
  n="0016c06" ed="T"/>唅𤚥<lb
  n="0016c07" ed="T"/></ab>
-<ab type="prose">用後二字為種子。諸句義中皆能成事業。初<lb
+<ab type='prose'>用後二字為種子。諸句義中皆能成事業。初<lb
  n="0016c08" ed="T"/>戰拏者是死義。入阿字門即本無生死義也。<lb
  n="0016c09" ed="T"/>荼是戰義。以此無生死大勢之王與諸四魔<lb
  n="0016c10" ed="T"/>戰也。次魔是我義。入阿字門即是無我。亦是<lb
@@ -389,16 +389,16 @@
  n="0016c28" ed="T"/>身中三毒煩惱及隨煩惱。一時頓盡時火亦<pb n="0017a" id="T21.1201.0017a" ed="T"/><lb
  n="0017a01" ed="T"/>隨滅。唯存㘕字融成皎月在心中。作是觀時<lb
  n="0017a02" ed="T"/>不宜遲住。速轉慧心令其成就。</ab></div><lb
- n="0017a03" ed="T"/><div type="pin" level="2"><head>澡浴結護身品第三</head><lb
+ n="0017a03" ed="T"/><div type='pin' level='2'><head>澡浴結護身品第三</head><lb
  n="0017a04" ed="T"/><head>無動金剛極安穩護身印明第一</head><lb
- n="0017a05" ed="T"/><ab type="prose">先以二小指內相叉。於大指虎口中出並竪二<lb
+ n="0017a05" ed="T"/><ab type='prose'>先以二小指內相叉。於大指虎口中出並竪二<lb
  n="0017a06" ed="T"/>中指。二無名指。於中指背相交。以二頭指各<lb
  n="0017a07" ed="T"/>握無名指。竪二大指。捻中指中節是。明曰。<lb
  n="0017a08" ed="T"/></ab>
-<ab type="dharani">曩麼三曼多勃馱喃唵賀羅賀羅摩<lb
+<ab type='dharani'>曩麼三曼多勃馱喃唵賀羅賀羅摩<lb
  n="0017a09" ed="T"/>訶儞弭多吽泮吒<lb
  n="0017a10" ed="T"/></ab>
-<ab type="prose">爾時無動聖者。說洗浴法有二種。一者內淨。<lb
+<ab type='prose'>爾時無動聖者。說洗浴法有二種。一者內淨。<lb
  n="0017a11" ed="T"/>二者外淨。內淨者。於諸眾生起慈悲喜捨心<lb
  n="0017a12" ed="T"/>清淨無我心。二者外淨。以水洗浴或於河<lb
  n="0017a13" ed="T"/>中。先結三昧耶印。置安頂上誦明三遍即用<lb
@@ -408,66 +408,66 @@
  n="0017a17" ed="T"/>禪度入掌握為拳。獨竪進度金剛峯三轉。右<lb
  n="0017a18" ed="T"/>轉成結界。左轉解界及辟除。明曰。<lb
  n="0017a19" ed="T"/></ab>
-<ab type="dharani">唵唅吽摩訶呬摩畔馱儞畔馱吽畔馱嚩日<lb
+<ab type='dharani'>唵唅吽摩訶呬摩畔馱儞畔馱吽畔馱嚩日<lb
  n="0017a20" ed="T"/>囉嚩日黎禰吽泮吒<lb
  n="0017a21" ed="T"/><head>無動金剛洗浴淨水印明第三</head><lb
  n="0017a22" ed="T"/></ab>
-<ab type="prose">禪智雙入定慧掌中。以印攪水除諸障。明曰。<lb
+<ab type='prose'>禪智雙入定慧掌中。以印攪水除諸障。明曰。<lb
  n="0017a23" ed="T"/></ab>
-<ab type="dharani">曩麼三曼哆嚩日囉赦怛囉吒阿謨<lb
+<ab type='dharani'>曩麼三曼哆嚩日囉赦怛囉吒阿謨<lb
  n="0017a24" ed="T"/>伽戰荼摩訶嚕灑拏薩頗吒耶吽<lb
  n="0017a25" ed="T"/>怛囉莎耶怛囉莎耶吽怛𡀔吒<lb
  n="0017a26" ed="T"/>吽怛𡀔吒<lb
  n="0017a27" ed="T"/><head>不動金剛著甲印明第四</head><lb
  n="0017a28" ed="T"/></ab>
-<ab type="prose">戒方入掌背相著。進力入掌亦如是。六度竪<lb
+<ab type='prose'>戒方入掌背相著。進力入掌亦如是。六度竪<lb
  n="0017a29" ed="T"/>合三鈷杵。開腕印身上頂加持五處。頂上散。<pb n="0017b" id="T21.1201.0017b" ed="T"/><lb
  n="0017b01" ed="T"/>是名金剛甲。明曰。<lb
  n="0017b02" ed="T"/></ab>
-<ab type="dharani">唵唅吽嚩日囉三摩曳嚩日囉迦縛制<lb
+<ab type='dharani'>唵唅吽嚩日囉三摩曳嚩日囉迦縛制<lb
  n="0017b03" ed="T"/>護嚩日羅吽泮吒<lb
  n="0017b04" ed="T"/></ab>
-<ab type="prose">以此明印印五處即成著甲隨意洗浴。<lb
+<ab type='prose'>以此明印印五處即成著甲隨意洗浴。<lb
  n="0017b05" ed="T"/><head>不動金剛灌頂印明第五</head><lb
  n="0017b06" ed="T"/>戒方檀慧內相叉。忍願竪合進力附。智捻方<lb
  n="0017b07" ed="T"/>背。禪亦然。是名本尊灌頂印。明曰。<lb
  n="0017b08" ed="T"/></ab>
-<ab type="dharani">曩摩悉多羅也地尾蘖多南薩<lb
+<ab type='dharani'>曩摩悉多羅也地尾蘖多南薩<lb
  n="0017b09" ed="T"/>羅嚩怛他蘇哆南紇唎薩羅嚩母馱<lb
  n="0017b10" ed="T"/>那婢邏波波羅濕摩鼻曬罽婀婢詵<lb
  n="0017b11" ed="T"/>者怛謨努遞󰿩邏嚩底尾囉者麗莎嚩<lb
  n="0017b12" ed="T"/>訶<lb
  n="0017b13" ed="T"/></ab>
-<ab type="prose">修真言者。著甲護身洗浴著衣竟。誦明曰。<lb
+<ab type='prose'>修真言者。著甲護身洗浴著衣竟。誦明曰。<lb
  n="0017b14" ed="T"/></ab>
-<ab type="dharani">唵唅吽塞頗吒耶薩醯吽羅迦沙唅泮<lb
+<ab type='dharani'>唵唅吽塞頗吒耶薩醯吽羅迦沙唅泮<lb
  n="0017b15" ed="T"/>吒<lb
  n="0017b16" ed="T"/></ab>
-<ab type="prose">不動金剛杵印真言。一切穢處用。修真言者。<lb
+<ab type='prose'>不動金剛杵印真言。一切穢處用。修真言者。<lb
  n="0017b17" ed="T"/>欲往一切穢處。先用杵印印五處。所謂兩肩<lb
  n="0017b18" ed="T"/>心額喉頂是也。用印之時。以明加持至頂上<lb
  n="0017b19" ed="T"/>散。誦明曰。<lb
  n="0017b20" ed="T"/></ab>
-<ab type="dharani">唵阿者邏迦拏戰荼莎馱耶吽泮吒</ab></div><lb
- n="0017b21" ed="T"/><div type="pin" level="2"><head>結護道場品第四</head><lb
+<ab type='dharani'>唵阿者邏迦拏戰荼莎馱耶吽泮吒</ab></div><lb
+ n="0017b21" ed="T"/><div type='pin' level='2'><head>結護道場品第四</head><lb
  n="0017b22" ed="T"/><head>無動金剛三昧耶印明第一</head><lb
- n="0017b23" ed="T"/><ab type="prose">如是依法洗浴已。即往精舍。以清淨心如常<lb
+ n="0017b23" ed="T"/><ab type='prose'>如是依法洗浴已。即往精舍。以清淨心如常<lb
  n="0017b24" ed="T"/>合掌。直竪禪智二度。於額上思惟。諸佛菩<lb
  n="0017b25" ed="T"/>薩如對目前。放其身心。坦然禪悅入三昧<lb
  n="0017b26" ed="T"/>耶。誦明曰。<lb
  n="0017b27" ed="T"/></ab>
-<ab type="dharani">曩摩薩嚩母馱冒地薩怛嚩喃那莫蘇悉<lb
+<ab type='dharani'>曩摩薩嚩母馱冒地薩怛嚩喃那莫蘇悉<lb
  n="0017b28" ed="T"/>地莎達儞阿蘖隷迦嚕儞嚩羅提怛羅異<lb
  n="0017b29" ed="T"/>怛羅異阿皤曳阿底摩㘑那莽素都帝<pb n="0017c" id="T21.1201.0017c" ed="T"/><lb
  n="0017c01" ed="T"/>波羅摩悉地馱也罽鼻喻摩訶訖哩<lb
  n="0017c02" ed="T"/>閉弊莎嚩訶<lb
  n="0017c03" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 禪智並合蓮華掌　　加持本明安額上　　<lb
  n="0017c04" ed="T"/>思惟諸法本不生　　
 </ab><lb
  n="0017c05" ed="T"/><head>不動威怒辟除障難印明第二</head><lb
- n="0017c06" ed="T"/><ab type="verse">
+ n="0017c06" ed="T"/><ab type='verse'>
 願力並竪端　　慧方如鉤勢　　<lb
  n="0017c07" ed="T"/>智度捻如環　　慧羽亦如是　　<lb
  n="0017c08" ed="T"/>即以忍進劍　　穿入定鞘中　　<lb
@@ -476,10 +476,10 @@
  n="0017c11" ed="T"/>持劍右旋轉　　下指金剛橛　　<lb
  n="0017c12" ed="T"/>上結虛空界　　復誦祕密明　　
 </ab><lb
- n="0017c13" ed="T"/><ab type="dharani">曩麼三曼哆嚩日囉𧹞怛羅吒戰荼摩<lb
+ n="0017c13" ed="T"/><ab type='dharani'>曩麼三曼哆嚩日囉𧹞怛羅吒戰荼摩<lb
  n="0017c14" ed="T"/>訶路灑拏沙頗吒耶吽怛羅吒唅𤚥<lb
  n="0017c15" ed="T"/></ab>
-<ab type="prose">密誦三遍或七遍。以印右旋結護。左轉辟除<lb
+<ab type='prose'>密誦三遍或七遍。以印右旋結護。左轉辟除<lb
  n="0017c16" ed="T"/>及以上下。是明威力。能大擁護十方大界。及<lb
  n="0017c17" ed="T"/>以護身并淨除處所。乃至三界猶能防護。況<lb
  n="0017c18" ed="T"/>一方所作是法。時隨行者心念明印。所及<lb
@@ -490,78 +490,78 @@
  n="0017c23" ed="T"/>身結界用。<lb
  n="0017c24" ed="T"/><head>無動金剛能成就一切事業杵印明第三</head><pb n="0018a" id="T21.1201.0018a" ed="T"/><lb
  n="0018a01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 竪開止羽掌　　禪進捻如環　　<lb
  n="0018a02" ed="T"/>各建金剛峯　　是名無動杵　　<lb
  n="0018a03" ed="T"/>復誦密言曰　　
 </ab><lb
- n="0018a04" ed="T"/><ab type="dharani">曩麼三曼多嚩日囉𧹞戰拏唵阿者邏迦<lb
+ n="0018a04" ed="T"/><ab type='dharani'>曩麼三曼多嚩日囉𧹞戰拏唵阿者邏迦<lb
  n="0018a05" ed="T"/>拏者嚕娑馱耶吽泮吒<lb
  n="0018a06" ed="T"/></ab>
-<ab type="prose">此杵明印能成就一切事業。乃至洗浴明淨<lb
+<ab type='prose'>此杵明印能成就一切事業。乃至洗浴明淨<lb
  n="0018a07" ed="T"/>土。及以護身結界皆用此明印。<lb
  n="0018a08" ed="T"/><head>無動金剛牆印明第四</head><lb
  n="0018a09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 戒方進力屈入掌　　側竪忍願並檀慧　　<lb
  n="0018a10" ed="T"/>禪支屈捻進下文　　智捻力支亦如是　　
 </ab><lb
- n="0018a11" ed="T"/><ab type="prose">誦明曰。<lb
+ n="0018a11" ed="T"/><ab type='prose'>誦明曰。<lb
  n="0018a12" ed="T"/></ab>
-<ab type="dharani">唵唅吽嚩日囉曼荼隷畔馱畔馱吽泮吒<lb
+<ab type='dharani'>唵唅吽嚩日囉曼荼隷畔馱畔馱吽泮吒<lb
  n="0018a13" ed="T"/><lb
  n="0018a14" ed="T"/></ab>
-<ab type="prose">誦明三遍。以印左轉三遍隨心遠近即成<lb
+<ab type='prose'>誦明三遍。以印左轉三遍隨心遠近即成<lb
  n="0018a15" ed="T"/>就牆界。<lb
  n="0018a16" ed="T"/><head>無動金剛網印明第五</head><lb
  n="0018a17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 戒方進力內相叉　　六度竪合頭相拄　　<lb
  n="0018a18" ed="T"/>開腕頂上右三旋　　即成金剛堅固網　　
 </ab><lb
- n="0018a19" ed="T"/><ab type="prose">誦明曰。<lb
+ n="0018a19" ed="T"/><ab type='prose'>誦明曰。<lb
  n="0018a20" ed="T"/></ab>
-<ab type="dharani">唵唅吽嚩日羅薩囉步嚩儞暮吽泮吒<lb
+<ab type='dharani'>唵唅吽嚩日羅薩囉步嚩儞暮吽泮吒<lb
  n="0018a21" ed="T"/><lb
  n="0018a22" ed="T"/></ab>
-<ab type="prose">結此印已誦明三遍。於頂上右旋。三匝即成<lb
+<ab type='prose'>結此印已誦明三遍。於頂上右旋。三匝即成<lb
  n="0018a23" ed="T"/>網界。<lb
  n="0018a24" ed="T"/><head>無動金剛火焰印明第六</head><lb
  n="0018a25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 二羽翻掌背相叉　　即成本尊三昧火　　<lb
  n="0018a26" ed="T"/>金剛牆外三旋繞　　如火猛焰金剛城　　<lb
  n="0018a27" ed="T"/>一切魔軍悉馳散　　誦明曰　　
 </ab><lb
- n="0018a28" ed="T"/><ab type="dharani">唵唅吽嚩日羅入嚩隷吽泮吒<lb
+ n="0018a28" ed="T"/><ab type='dharani'>唵唅吽嚩日羅入嚩隷吽泮吒<lb
  n="0018a29" ed="T"/></ab>
-<ab type="prose">結此火焰印。已誦明三遍。於金剛牆外。右旋<pb n="0018b" id="T21.1201.0018b" ed="T"/><lb
+<ab type='prose'>結此火焰印。已誦明三遍。於金剛牆外。右旋<pb n="0018b" id="T21.1201.0018b" ed="T"/><lb
  n="0018b01" ed="T"/>三匝即成火院。</ab></div><lb
- n="0018b02" ed="T"/><div type="pin" level="2"><head>供養品第五</head><lb
+ n="0018b02" ed="T"/><div type='pin' level='2'><head>供養品第五</head><lb
  n="0018b03" ed="T"/><head>無動金剛座印明第一</head><lb
- n="0018b04" ed="T"/><ab type="verse">
+ n="0018b04" ed="T"/><ab type='verse'>
 平舒定掌承慧背　　行人想成金剛座　　<lb
  n="0018b05" ed="T"/>座上更安所生印　　一切聖者皆隨喜　　
 </ab><lb
- n="0018b06" ed="T"/><ab type="prose">誦明曰。<lb
+ n="0018b06" ed="T"/><ab type='prose'>誦明曰。<lb
  n="0018b07" ed="T"/></ab>
-<ab type="dharani">唵唅吽嚩日羅莎儞梵吽泮吒<lb
+<ab type='dharani'>唵唅吽嚩日羅莎儞梵吽泮吒<lb
  n="0018b08" ed="T"/></ab>
-<ab type="prose">以此明印加持住處得為金剛不壞地。即於<lb
+<ab type='prose'>以此明印加持住處得為金剛不壞地。即於<lb
  n="0018b09" ed="T"/>地上想有金剛座。便以如來所生印安置諸<lb
  n="0018b10" ed="T"/>佛菩薩於金剛座上。便迴此印供養諸聖。<lb
  n="0018b11" ed="T"/><head>一切如來所生印明第二</head><lb
  n="0018b12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 金剛堅固內相叉　　檀慧竪開所生印　　<lb
  n="0018b13" ed="T"/>此印名為功德母　　佛法僧寶住其中　　<lb
  n="0018b14" ed="T"/>請召明王及本尊　　結此祕印皆雲集　　<lb
  n="0018b15" ed="T"/>便迴此印獻諸尊　　即成閼伽供養佛　　
 </ab><lb
- n="0018b16" ed="T"/><ab type="dharani">曩麼薩嚩母馱󰂛地薩怛嚩喃阿摩羅<lb
+ n="0018b16" ed="T"/><ab type='dharani'>曩麼薩嚩母馱󰂛地薩怛嚩喃阿摩羅<lb
  n="0018b17" ed="T"/>尾迦羅多帝餌儞阿羅逝莎嚩訶<lb
  n="0018b18" ed="T"/></ab>
-<ab type="prose">便以此如來所生印想為閼伽。奉獻諸佛菩<lb
+<ab type='prose'>便以此如來所生印想為閼伽。奉獻諸佛菩<lb
  n="0018b19" ed="T"/>薩諸尊賢聖。常作此法供養。是速得成就。<lb
  n="0018b20" ed="T"/>復觀不動聖者住本位。用前灌頂印明奉獻<lb
  n="0018b21" ed="T"/>本尊。即誦根本明一遍。能令聖者歡喜。速得<lb
@@ -580,126 +580,126 @@
  n="0018c06" ed="T"/>用除其咎。謝其過罪。<lb
  n="0018c07" ed="T"/><head>大輪金剛懺悔印明第三</head><lb
  n="0018c08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 如是依法結護已　　皆有闕犯三昧耶　　<lb
  n="0018c09" ed="T"/>密持蘇摩金剛明　　懺悔四時諸過咎　　<lb
  n="0018c10" ed="T"/>戒方進力內相鉤　　六度竪合金剛輪　　<lb
  n="0018c11" ed="T"/>結此明印安頂上　　右旋三匝謝其過　　
 </ab><lb
- n="0018c12" ed="T"/><ab type="prose">誦明曰。<lb
+ n="0018c12" ed="T"/><ab type='prose'>誦明曰。<lb
  n="0018c13" ed="T"/></ab>
-<ab type="dharani">曩麼悉底哩耶地尾迦喃薩縛怛他誐多<lb
+<ab type='dharani'>曩麼悉底哩耶地尾迦喃薩縛怛他誐多<lb
  n="0018c14" ed="T"/>喃唵尾囉耳尾囉耳摩訶斫迦羅嚩日羅薩哆薩哆莎囉帝莎囉帝怛囉曳怛囉<lb
  n="0018c16" ed="T"/>曳尾馱摩儞三盤若儞怛囉摩底悉馱<lb
  n="0018c17" ed="T"/>阿紇哩曳怛唎藍莎嚩訶<lb
  n="0018c18" ed="T"/></ab>
-<ab type="prose">持真言者結護了皆有闕犯三昧耶。當結此<lb
+<ab type='prose'>持真言者結護了皆有闕犯三昧耶。當結此<lb
  n="0018c19" ed="T"/>印安頂上誦明三遍或七遍。右旋三匝懺謝<lb
  n="0018c20" ed="T"/>眾過。然後念誦本尊明。<lb
  n="0018c21" ed="T"/><head>無動金剛滿足印明第四</head><lb
  n="0018c22" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 虛心合掌甲相柱　　是名本尊滿足印　　<lb
  n="0018c23" ed="T"/>種種供養及塗香　　焚香燈明并飲食　　<lb
  n="0018c24" ed="T"/>上妙供養吉祥事　　俱持此印皆圓滿　　
 </ab><lb
- n="0018c25" ed="T"/><ab type="prose">誦明曰。<lb
+ n="0018c25" ed="T"/><ab type='prose'>誦明曰。<lb
  n="0018c26" ed="T"/></ab>
-<ab type="dharani">曩麼悉底哩也陀嚩蘖哆喃薩嚩怛<lb
+<ab type='dharani'>曩麼悉底哩也陀嚩蘖哆喃薩嚩怛<lb
  n="0018c27" ed="T"/>他蘖哆喃喑尾哆哩摩訶嚩日囉薩怛薩<lb
  n="0018c28" ed="T"/>怛莎囉帝莎羅帝莎縛訶<lb
  n="0018c29" ed="T"/></ab>
-<ab type="prose">復以此明印想水陸珍寶。及寶山等物。海中<pb n="0019a" id="T21.1201.0019a" ed="T"/><lb
+<ab type='prose'>復以此明印想水陸珍寶。及寶山等物。海中<pb n="0019a" id="T21.1201.0019a" ed="T"/><lb
  n="0019a01" ed="T"/>妙寶摩尼華樹王等。悉皆無主所攝以我福<lb
  n="0019a02" ed="T"/>德力諸佛加持力。願此香華雲遍滿諸佛剎<lb
  n="0019a03" ed="T"/>土。供養一切諸佛菩薩滿足上願。<lb
  n="0019a04" ed="T"/><head>塗香供養印明第五</head><lb
  n="0019a05" ed="T"/>印如前誦明曰。<lb
  n="0019a06" ed="T"/></ab>
-<ab type="dharani">曩麼悉底哩也陀嚩蘖哆喃薩縛怛<lb
+<ab type='dharani'>曩麼悉底哩也陀嚩蘖哆喃薩縛怛<lb
  n="0019a07" ed="T"/>他蘖哆喃阿三摩彥度怛謎素彥馱嚩底薩<lb
  n="0019a08" ed="T"/>頗羅𠰘𤚥哦哦喃摩呼那曳泥尾薩嚩<lb
  n="0019a09" ed="T"/>嘌他莎馱儞莎嚩訶<lb
  n="0019a10" ed="T"/><head>燒香供養印明第六</head><lb
  n="0019a11" ed="T"/></ab>
-<ab type="prose">誦明曰。<lb
+<ab type='prose'>誦明曰。<lb
  n="0019a12" ed="T"/></ab>
-<ab type="dharani">曩麼悉底哩也陀嚩蘖哆喃薩嚩怛<lb
+<ab type='dharani'>曩麼悉底哩也陀嚩蘖哆喃薩嚩怛<lb
  n="0019a13" ed="T"/>他蘖哆喃唵阿蘖哩阿蘖哩始棄始棄<lb
  n="0019a14" ed="T"/>南薩嚩怛度麼始棄莎嚩訶<lb
  n="0019a15" ed="T"/><head>華供養印明第七</head><lb
  n="0019a16" ed="T"/></ab>
-<ab type="prose">誦明曰。<lb
+<ab type='prose'>誦明曰。<lb
  n="0019a17" ed="T"/></ab>
-<ab type="dharani">曩麼悉底哩也陀嚩蘖哆喃薩嚩怛他蘖<lb
+<ab type='dharani'>曩麼悉底哩也陀嚩蘖哆喃薩嚩怛他蘖<lb
  n="0019a18" ed="T"/>哆喃阿嚩路枳哆摩訶布澁波嚩底<lb
  n="0019a19" ed="T"/>莎嚩訶<lb
  n="0019a20" ed="T"/><head>飲食供養印明第八</head><lb
  n="0019a21" ed="T"/></ab>
-<ab type="prose">誦明曰。<lb
+<ab type='prose'>誦明曰。<lb
  n="0019a22" ed="T"/></ab>
-<ab type="dharani">曩麼悉底哩也陀嚩蘖哆喃薩嚩怛他蘖<lb
+<ab type='dharani'>曩麼悉底哩也陀嚩蘖哆喃薩嚩怛他蘖<lb
  n="0019a23" ed="T"/>哆喃唵阿囉婆阿囉婆迦囉迦囉嚩哩嚩哩嚩<lb
  n="0019a24" ed="T"/>隣嚩隣那陀毘摩訶嚩哩莎嚩訶<lb
  n="0019a25" ed="T"/><head>燈供養印明第九</head><lb
  n="0019a26" ed="T"/></ab>
-<ab type="prose">誦明曰。<lb
+<ab type='prose'>誦明曰。<lb
  n="0019a27" ed="T"/></ab>
-<ab type="dharani">曩麼悉底哩也陀嚩蘖哆喃薩嚩怛他蘖<lb
+<ab type='dharani'>曩麼悉底哩也陀嚩蘖哆喃薩嚩怛他蘖<lb
  n="0019a28" ed="T"/>哆喃阿藍帝爾嚩藍帝儞波儒底始<lb
  n="0019a29" ed="T"/>棄莎嚩訶<pb n="0019b" id="T21.1201.0019b" ed="T"/><lb
  n="0019b01" ed="T"/><head>普莊嚴供養明印第十</head><lb
  n="0019b02" ed="T"/></ab>
-<ab type="prose">誦明曰。<lb
+<ab type='prose'>誦明曰。<lb
  n="0019b03" ed="T"/></ab>
-<ab type="dharani">曩麼薩婆母馱菩地薩埵嚩喃薩婆他烏特伽帝塞破羅呬𤚥伽伽那劍莎縛訶<lb
+<ab type='dharani'>曩麼薩婆母馱菩地薩埵嚩喃薩婆他烏特伽帝塞破羅呬𤚥伽伽那劍莎縛訶<lb
  n="0019b05" ed="T"/></ab>
-<ab type="prose">持此明力故。能生如意寶供養一切諸佛菩<lb
+<ab type='prose'>持此明力故。能生如意寶供養一切諸佛菩<lb
  n="0019b06" ed="T"/>薩眾會。由誦此讚歎福德力故。令此供養普<lb
  n="0019b07" ed="T"/>遍一切諸佛菩薩眾會。讚歎明曰。<lb
  n="0019b08" ed="T"/></ab>
-<ab type="dharani">曩麼薩婆母馱菩地薩埵嚩喃薩婆怛<lb
+<ab type='dharani'>曩麼薩婆母馱菩地薩埵嚩喃薩婆怛<lb
  n="0019b09" ed="T"/>路僧句素弭哆鼻枳惹囉始吠那<lb
  n="0019b10" ed="T"/>謨素都帝薩嚩訶<lb
  n="0019b11" ed="T"/></ab>
-<ab type="prose">復誦無動明王根本明三遍。能令聖者歡喜<lb
+<ab type='prose'>復誦無動明王根本明三遍。能令聖者歡喜<lb
  n="0019b12" ed="T"/>與願。速得圓滿菩提故。次即懺悔先業。一切<lb
  n="0019b13" ed="T"/>罪障願皆消滅。復作此願。我今所有一切善<lb
  n="0019b14" ed="T"/>業。迴施法界眾生。令我此願速得成就無上<lb
  n="0019b15" ed="T"/>菩提。具一切種智。復誦此加持明八遍。明<lb
  n="0019b16" ed="T"/>曰。<lb
  n="0019b17" ed="T"/></ab>
-<ab type="dharani">曩麼薩埵嚩喃那暮素都帝摩訶嚩日羅<lb
+<ab type='dharani'>曩麼薩埵嚩喃那暮素都帝摩訶嚩日羅<lb
  n="0019b18" ed="T"/>薩婆薩埵嚩四路迦羅底瑟他薩婆怛羅㘑<lb
  n="0019b19" ed="T"/>吠達羅摩摩拏地瑟他耶莎嚩訶<lb
  n="0019b20" ed="T"/></ab>
-<ab type="prose">如上供養加持本尊已。結前灌頂印。而自灌<lb
+<ab type='prose'>如上供養加持本尊已。結前灌頂印。而自灌<lb
  n="0019b21" ed="T"/>頂。<lb
  n="0019b22" ed="T"/><head>無動金剛虛空部母印第十一</head><lb
  n="0019b23" ed="T"/>結此虛空明印。用護身及護本尊故名部<lb
  n="0019b24" ed="T"/>母。亦名虛空眼。<lb
  n="0019b25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 進力俱入蓮華掌　　即名虛空部母眼　　<lb
  n="0019b26" ed="T"/>以印護身及護本尊　　二羽分開捻珠印　　<lb
  n="0019b27" ed="T"/>亦名聖者虛空眼　　明曰　　
 </ab><lb
- n="0019b28" ed="T"/><ab type="dharani">曩麼悉底哩也陀嚩拏蘖帝弊薩嚩<lb
+ n="0019b28" ed="T"/><ab type='dharani'>曩麼悉底哩也陀嚩拏蘖帝弊薩嚩<lb
  n="0019b29" ed="T"/>怛他蘖帝弊唵哦哦那路者儞哦哦那三摩薩<pb n="0019c" id="T21.1201.0019c" ed="T"/><lb
  n="0019c01" ed="T"/>嚩都嚕蘖哆底沙囉三婆吠入嚩攞那<lb
  n="0019c02" ed="T"/>謨阿謨伽喃莎嚩訶<lb
  n="0019c03" ed="T"/><head>無動金剛法界生印明第十二</head><lb
  n="0019c04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 戒方進力內相叉　　六度竪合頭相拄　　<lb
  n="0019c05" ed="T"/>開腕加持左右臂　　舉印漸至頂上開　　<lb
  n="0019c06" ed="T"/>真言悉地隨此生　　是故名為法生印　　<lb
  n="0019c07" ed="T"/>結印加持誦明曰　　
 </ab><lb
- n="0019c08" ed="T"/><ab type="dharani">曩麼薩嚩母馱󰂛地薩怛嚩喃阿薩羅嚩他薩<lb
+ n="0019c08" ed="T"/><ab type='dharani'>曩麼薩嚩母馱󰂛地薩怛嚩喃阿薩羅嚩他薩<lb
  n="0019c09" ed="T"/>羅縛多囉路計莎嚩訶<lb
  n="0019c10" ed="T"/></ab>
-<ab type="prose">法生印者。從一切如來不動菩提心生。從大<lb
+<ab type='prose'>法生印者。從一切如來不動菩提心生。從大<lb
  n="0019c11" ed="T"/>悲本願生。從佛口生。從法化生。故名法生<lb
  n="0019c12" ed="T"/>印。<lb
  n="0019c13" ed="T"/>次誦前虛空部母眼明七遍。即觀一切諸佛<lb
@@ -710,28 +710,28 @@
  n="0019c18" ed="T"/>其印準前部母印。二羽分開。即是此印也。<lb
  n="0019c19" ed="T"/>誦明曰。<lb
  n="0019c20" ed="T"/></ab>
-<ab type="dharani">曩麼嚩日羅目契弊薩嚩怛他蘖帝毘喻<lb
+<ab type='dharani'>曩麼嚩日羅目契弊薩嚩怛他蘖帝毘喻<lb
  n="0019c21" ed="T"/>婆伽梵特縛弊怛地也他嘺<lb
  n="0019c22" ed="T"/>唎健馱哩戰荼唎摩蹬儗濱俄哩怛他伽多<lb
  n="0019c23" ed="T"/>吠曳使怛摩底吽入縛哩多帝逝伊能<lb
  n="0019c24" ed="T"/>迦羅焰句嚕莎縛訶<lb
  n="0019c25" ed="T"/><head>無動金剛根本三昧耶印明第十四</head><pb n="0020a" id="T21.1201.0020a" ed="T"/><lb
  n="0020a01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 六度和合內相叉　　直舒進力頭相拄　　<lb
  n="0020a02" ed="T"/>智度屈捻方便背　　禪捻戒背亦如是　　<lb
  n="0020a03" ed="T"/>當誦金剛百字明　　加持自身堅固住　　<lb
  n="0020a04" ed="T"/>復誦本明成悉地　　
-</ab><ab type="prose">真言曰。<lb
+</ab><ab type='prose'>真言曰。<lb
  n="0020a05" ed="T"/></ab>
-<ab type="dharani">唵阿三摩阿三摩三曼哆都那哆怛嚩泌底<lb
+<ab type='dharani'>唵阿三摩阿三摩三曼哆都那哆怛嚩泌底<lb
  n="0020a06" ed="T"/>舍那儞訶羅訶羅娑摩囉拏娑麼囉<lb
  n="0020a07" ed="T"/>拏尾蘖哆母馱達摩帝薩羅薩羅三摩嚩邏荷<lb
  n="0020a08" ed="T"/>羅荷羅苻娑苻娑怛羅耶怛羅耶伽那伽那<lb
  n="0020a09" ed="T"/>摩訶嚩囉囉迦沙儞入縛攞那入嚩<lb
  n="0020a10" ed="T"/>那娑伽㘑莎縛訶<lb
  n="0020a11" ed="T"/></ab>
-<ab type="prose">誦百字明加持。復觀一切諸佛菩薩在行者<lb
+<ab type='prose'>誦百字明加持。復觀一切諸佛菩薩在行者<lb
  n="0020a12" ed="T"/>前。攝受如前種種供養廣大成就。所謂現世<lb
  n="0020a13" ed="T"/>所求一切悉地。名最勝悉地。亦名金剛薩埵<lb
  n="0020a14" ed="T"/>悉地。復作是願。願以此功德。普及於一切。我<lb
@@ -743,83 +743,83 @@
  n="0020a20" ed="T"/>鉤。二頭指側相拄。二大指各捻無名指甲。即<lb
  n="0020a21" ed="T"/>成。誦根本明三遍。<lb
  n="0020a22" ed="T"/>
-</ab><ab type="juan" subtype="close">底哩三昧耶不動尊聖者念誦祕密法卷中</ab><pb n="0020b" id="T21.1201.0020b" ed="T"/><lb
+</ab><ab type='juan' subtype='close'>底哩三昧耶不動尊聖者念誦祕密法卷中</ab><pb n="0020b" id="T21.1201.0020b" ed="T"/><lb
  n="0020b01" ed="T"/><lb
  n="0020b02" ed="T"/>
-<ab type="juan" subtype="open">底哩三昧耶不動尊聖者念誦祕<lb
+<ab type='juan' subtype='open'>底哩三昧耶不動尊聖者念誦祕<lb
  n="0020b03" ed="T"/>密法卷下</ab><lb
  n="0020b04" ed="T"/><lb
  n="0020b05" ed="T"/><byline>大興善寺三藏沙門不空奉　詔譯</byline><lb
  n="0020b06" ed="T"/><head>無動金剛寶山印第一</head><lb
- n="0020b07" ed="T"/><ab type="verse">
+ n="0020b07" ed="T"/><ab type='verse'>
 金剛堅固內相叉　　是名寶山身密印　　<lb
  n="0020b08" ed="T"/>種種供養并護身　　加持本明頂上散　　
 </ab><lb
  n="0020b09" ed="T"/><head>無動金剛頭印第二</head><lb
- n="0020b10" ed="T"/><ab type="verse">
+ n="0020b10" ed="T"/><ab type='verse'>
 禪度入掌把為拳　　置安頂上名頭印　　<lb
  n="0020b11" ed="T"/>思此全身聖者前　　靜坐安心作觀照　　
 </ab><lb
  n="0020b12" ed="T"/><head>無動金剛髻印第三</head><lb
- n="0020b13" ed="T"/><ab type="verse">
+ n="0020b13" ed="T"/><ab type='verse'>
 戒方檀慧內相叉　　忍願堅合進力附　　<lb
  n="0020b14" ed="T"/>禪智二度背相著　　屈入戒方相叉內　　<lb
  n="0020b15" ed="T"/>與二無名面相著　　舉印置安左髻中　　<lb
  n="0020b16" ed="T"/>是名無動金剛髻　　
 </ab><lb
  n="0020b17" ed="T"/><head>無動金剛眼印第四</head><lb
- n="0020b18" ed="T"/><ab type="prose">準前髻印。翻手倒垂至額前。即名無動金剛<lb
+ n="0020b18" ed="T"/><ab type='prose'>準前髻印。翻手倒垂至額前。即名無動金剛<lb
  n="0020b19" ed="T"/>眼。<lb
  n="0020b20" ed="T"/><head>無動金剛口印第五</head><lb
  n="0020b21" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 檀慧二度內相叉　　戒方雙押內叉上　　<lb
  n="0020b22" ed="T"/>忍願竪合進力附　　禪捻戒背智捻方　　<lb
  n="0020b23" ed="T"/>是名聖者金剛口　　
 </ab><lb
  n="0020b24" ed="T"/><head>無動金剛心印第六</head><lb
- n="0020b25" ed="T"/><ab type="verse">
+ n="0020b25" ed="T"/><ab type='verse'>
 戒方檀慧內相叉　　忍願竪合屈進力　　<lb
  n="0020b26" ed="T"/>禪智並捻忍願文　　是名無動金剛心　　
 </ab><lb
  n="0020b27" ed="T"/><head>無動金剛師子奮迅印第七</head><lb
- n="0020b28" ed="T"/><ab type="verse">
+ n="0020b28" ed="T"/><ab type='verse'>
 準前無動金剛甲　　唯改進力頭相拄　　<lb
  n="0020b29" ed="T"/>起立頻伸虎舞勢　　遶壇行道辟除魔　　<pb n="0020c" id="T21.1201.0020c" ed="T"/><lb
  n="0020c01" ed="T"/>師子頻伸大奮迅　　是名五股金剛印　　
 </ab><lb
  n="0020c02" ed="T"/><head>無動金剛火印第八</head><lb
- n="0020c03" ed="T"/><ab type="verse">
+ n="0020c03" ed="T"/><ab type='verse'>
 禪捻三度背為拳　　進度獨舒指定掌　　<lb
  n="0020c04" ed="T"/>散開五度如猛焰　　是名無動金剛火　　
 </ab><lb
  n="0020c05" ed="T"/><head>無動金剛法螺印第九</head><lb
- n="0020c06" ed="T"/><ab type="verse">
+ n="0020c06" ed="T"/><ab type='verse'>
 二羽各如無動劍　　掌內鉤鎖狀猶環　　<lb
  n="0020c07" ed="T"/>忍願竪合頭相拄　　進興忍背重相著　　<lb
  n="0020c08" ed="T"/>力度願背亦如是　　是名無動法螺印　　
 </ab><lb
  n="0020c09" ed="T"/><head>無動金剛索印第十</head><lb
- n="0020c10" ed="T"/><ab type="verse">
+ n="0020c10" ed="T"/><ab type='verse'>
 禪捻三度背為拳　　進度直舒觀羽握　　<lb
  n="0020c11" ed="T"/>力度屈捻智如環　　是名無動金剛索　　
 </ab><lb
- n="0020c12" ed="T"/><ab type="prose">明曰。<lb
+ n="0020c12" ed="T"/><ab type='prose'>明曰。<lb
  n="0020c13" ed="T"/></ab>
-<ab type="dharani">曩麼三曼哆嚩日囉𧹞阿波舍伴闍那<lb
+<ab type='dharani'>曩麼三曼哆嚩日囉𧹞阿波舍伴闍那<lb
  n="0020c14" ed="T"/>吽泮吒<lb
  n="0020c15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 無動金剛劍印明　　能成就一切事業　　
 </ab><lb
- n="0020c16" ed="T"/><ab type="prose">明曰。<lb
+ n="0020c16" ed="T"/><ab type='prose'>明曰。<lb
  n="0020c17" ed="T"/></ab>
-<ab type="dharani">唵阿者羅迦拏勃馱制吒迦吽吽佉醯佉<lb
+<ab type='dharani'>唵阿者羅迦拏勃馱制吒迦吽吽佉醯佉<lb
  n="0020c18" ed="T"/>醯伊能魚哩醯摩𤚥賀唎尾沙索鉢多惡紇哩訶吽泮吒阿哩耶者羅阿<lb
  n="0020c20" ed="T"/>蘖車緊至羅夜思伊能迦哩羅耶句<lb
  n="0020c21" ed="T"/>嚕耶麼莎縛訶<lb
  n="0020c22" ed="T"/></ab>
-<ab type="prose">持明行者每常食時。出一分殘食供養本尊<lb
+<ab type='prose'>持明行者每常食時。出一分殘食供養本尊<lb
  n="0020c23" ed="T"/>像。歡喜擁護所求皆得終不空過。復誦無動<lb
  n="0020c24" ed="T"/>金剛根本明。<lb
  n="0020c25" ed="T"/><head>無動金剛解界明印第十一</head><lb
@@ -828,23 +828,23 @@
  n="0020c28" ed="T"/>如來解界明。以印左轉即成解界。前火院界<lb
  n="0020c29" ed="T"/>是也。燈焰如來解界真言曰。<pb n="0021a" id="T21.1201.0021a" ed="T"/><lb
  n="0021a01" ed="T"/></ab>
-<ab type="dharani">曩麼悉底哩也陀嚩拏哦哆喃唵紇哩<lb
+<ab type='dharani'>曩麼悉底哩也陀嚩拏哦哆喃唵紇哩<lb
  n="0021a02" ed="T"/></ab>
-<ab type="prose">誦密語已。重以香花如法供養懺悔三業。即<lb
+<ab type='prose'>誦密語已。重以香花如法供養懺悔三業。即<lb
  n="0021a03" ed="T"/>結部母印。護身方可起去。轉誦大乘方廣理<lb
  n="0021a04" ed="T"/>趣。諸善事隨修行。<lb
  n="0021a05" ed="T"/>持明行者每欲食時。以事業金剛真言。加<lb
  n="0021a06" ed="T"/>持自身中種子。加鑁字復誦十力明八遍乃<lb
  n="0021a07" ed="T"/>食之明曰。<lb
  n="0021a08" ed="T"/></ab>
-<ab type="dharani">曩麼三曼哆鑁<lb
+<ab type='dharani'>曩麼三曼哆鑁<lb
  n="0021a09" ed="T"/></ab>
-<ab type="prose">十力明曰。<lb
+<ab type='prose'>十力明曰。<lb
  n="0021a10" ed="T"/></ab>
-<ab type="dharani">曩謨薩嚩母馱󰂛地薩怛嚩喃唵麼蘭捺<lb
+<ab type='dharani'>曩謨薩嚩母馱󰂛地薩怛嚩喃唵麼蘭捺<lb
  n="0021a11" ed="T"/>泥帝孺𢖲㗚寧莎縛訶<lb
  n="0021a12" ed="T"/></ab>
-<ab type="prose">如是先成就本尊訖所餘觸食以成辦諸事<lb
+<ab type='prose'>如是先成就本尊訖所餘觸食以成辦諸事<lb
  n="0021a13" ed="T"/>心明。供養所應食者。當用不空威怒增加聖<lb
  n="0021a14" ed="T"/>者不動尊明。誦一遍。受者歡喜當隨行者而<lb
  n="0021a15" ed="T"/>護念之。每日如是供養不得斷絕。常得本尊<lb
@@ -853,26 +853,26 @@
  n="0021a18" ed="T"/>印。<lb
  n="0021a19" ed="T"/><head>無動金剛光莊嚴印明第十二</head><lb
  n="0021a20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 慧手翻掌彎心上　　定掌還來心上合　　<lb
  n="0021a21" ed="T"/>加持本明安頂上　　便開二手順身摩　　<lb
  n="0021a22" ed="T"/>能除障難得成就　　以護身故名莊嚴　　
 </ab><lb
- n="0021a23" ed="T"/><ab type="prose">光莊嚴明曰。<lb
+ n="0021a23" ed="T"/><ab type='prose'>光莊嚴明曰。<lb
  n="0021a24" ed="T"/></ab>
-<ab type="dharani">曩麼悉底哩也陀嚩拏伽哆喃薩嚩怛<lb
+<ab type='dharani'>曩麼悉底哩也陀嚩拏伽哆喃薩嚩怛<lb
  n="0021a25" ed="T"/>他蘖哆喃摩訶三昧耶伽底伽帝三曼帝三<lb
  n="0021a26" ed="T"/>摩蘖羅嚩摩他薩羅婆多羅路計達<lb
  n="0021a27" ed="T"/>麼馱埵底多僧伽帝莎嚩訶<lb
  n="0021a28" ed="T"/></ab>
-<ab type="prose">作前法已。應如過去燃燈佛禮拜法。金剛合<lb
+<ab type='prose'>作前法已。應如過去燃燈佛禮拜法。金剛合<lb
  n="0021a29" ed="T"/>掌長舒二臂於頂上。面東令面著地。長展二<pb n="0021b" id="T21.1201.0021b" ed="T"/><lb
  n="0021b01" ed="T"/>足以心著地。如是禮拜時。觀念一切諸佛菩<lb
  n="0021b02" ed="T"/>薩。唯願攝受我等作最上成就。哀愍故。如<lb
  n="0021b03" ed="T"/>是三迴已後隨意消息。心念明相作速成就<lb
  n="0021b04" ed="T"/>相。</ab></div><lb
- n="0021b05" ed="T"/><div type="pin" level="2"><head>無動金剛事業求願第七</head><lb
- n="0021b06" ed="T"/><ab type="prose">爾時釋迦牟尼佛。告執金剛菩薩言。我今為<lb
+ n="0021b05" ed="T"/><div type='pin' level='2'><head>無動金剛事業求願第七</head><lb
+ n="0021b06" ed="T"/><ab type='prose'>爾時釋迦牟尼佛。告執金剛菩薩言。我今為<lb
  n="0021b07" ed="T"/>汝說無量神通力無動金剛法。能利益成就<lb
  n="0021b08" ed="T"/>一切事業。若修行者菜食長齋或菓子等。誦<lb
  n="0021b09" ed="T"/>滿一萬遍已。於月八日或十五日。一日一夜<lb
@@ -929,7 +929,7 @@
  n="0022a02" ed="T"/>無能動也。<lb
  n="0022a03" ed="T"/>四面無動金剛明曰。<lb
  n="0022a04" ed="T"/></ab>
-<ab type="dharani">曩麼三曼哆嚩日羅𧹞始麼舍囊悉體<lb
+<ab type='dharani'>曩麼三曼哆嚩日羅𧹞始麼舍囊悉體<lb
  n="0022a05" ed="T"/>迦播羅楞訖哩哆戶怛嚩賀姥儞𡁠嚩<lb
  n="0022a06" ed="T"/>路囉馱縛能瑟吒邏迦囉邏娜捨曩<lb
  n="0022a07" ed="T"/>步惹誐跛哩吠瑟徵擔捨唎邏底榮捺囉<lb
@@ -941,7 +941,7 @@
  n="0022a13" ed="T"/>比路馱嚩計奢吽嚩日囉嚩日㘑<lb
  n="0022a14" ed="T"/>蘖羅吽泮吒莎嚩訶<lb
  n="0022a15" ed="T"/></ab>
-<ab type="prose">若欲令他相鬪者。取鳥鴿鵄梟羽明燒。即得<lb
+<ab type='prose'>若欲令他相鬪者。取鳥鴿鵄梟羽明燒。即得<lb
  n="0022a16" ed="T"/>鬪諍。<lb
  n="0022a17" ed="T"/>若欲令燒設都嚕卒者。取稻糠燒當燒之時。<lb
  n="0022a18" ed="T"/>想聖者以索縛彼捨都嚕。將向南方困苦吐<lb
@@ -997,9 +997,9 @@
  n="0022c10" ed="T"/>天上取天女。即將來所須飲食齒木水等。皆<lb
  n="0022c11" ed="T"/>得給侍。</ab></div><lb
  n="0022c12" ed="T"/>
-<ab type="juan" subtype="close">底哩三昧耶無動尊聖者念誦祕密法卷下</ab><lb
+<ab type='juan' subtype='close'>底哩三昧耶無動尊聖者念誦祕密法卷下</ab><lb
  n="0022c13" ed="T"/><lb
- n="0022c14" ed="T"/><div type="w" level="2"><ab type="prose">復次如前建立曼荼羅。應取一千蓮華。一<lb
+ n="0022c14" ed="T"/><div type='w' level='2'><ab type='prose'>復次如前建立曼荼羅。應取一千蓮華。一<lb
  n="0022c15" ed="T"/>華一誦安中台以為奉獻。然後引弟子。入<lb
  n="0022c16" ed="T"/>告三昧耶言羯磨曼荼羅品。<lb
  n="0022c17" ed="T"/>復次成就像法。於清淨絹㲲上畫觀自在<lb

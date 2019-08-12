@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n0959</idno>
                 </bibl>
@@ -39,18 +39,18 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0327c19" ed="T"/><lb
  n="0327c20" ed="T"/><lb
  n="0327c21" ed="T"/><lb
  n="0327c22" ed="T"/>
-<ab type="juan" subtype="open">頂輪王大曼荼羅灌頂儀軌</ab><lb
+<ab type='juan' subtype='open'>頂輪王大曼荼羅灌頂儀軌</ab><lb
  n="0327c23" ed="T"/><lb
- n="0327c24" ed="T"/><byline>舊名　阿迦　󰵲㗚婆　󰀃弘<lb
+ n="0327c24" ed="T"/><byline>舊名　阿迦　󰵲㗚婆　𮗿弘<lb
  n="0327c25" ed="T"/>新名　薩縛　娑　底迦　吉祥</byline><lb
- n="0327c26" ed="T"/><div type="pin" level="2"><head>頂輪王大曼荼羅灌頂儀</head><lb
- n="0327c27" ed="T"/><ab type="prose">內院三昧耶界道中台院中。畫佛世尊坐師<lb
+ n="0327c26" ed="T"/><div type='pin' level='2'><head>頂輪王大曼荼羅灌頂儀</head><lb
+ n="0327c27" ed="T"/><ab type='prose'>內院三昧耶界道中台院中。畫佛世尊坐師<lb
  n="0327c28" ed="T"/>子座。其座種種寶莊嚴。聖者身坐白蓮華。身<lb
  n="0327c29" ed="T"/>白金色。入最勝三摩地王相。結跏趺坐。作說<pb n="0328a" id="T19.0959.0328a" ed="T"/><lb
  n="0328a01" ed="T"/>法相。從一切身普遍出十二幅金輪熾盛光<lb
@@ -125,13 +125,13 @@
  n="0329a05" ed="T"/>教弟子結佛頂印安於頂上然須吹䗍<lb
  n="0329a06" ed="T"/>擊鼓。作諸音樂等。<lb
  n="0329a07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 我今依經說　　輪王畫像法　　<lb
  n="0329a08" ed="T"/>近人具眾流　　作法方可為　　<lb
  n="0329a09" ed="T"/>如經廣稱述　　白疊須頓方　　<lb
  n="0329a10" ed="T"/>五肘或三肘　　
 </ab><lb
- n="0329a11" ed="T"/><ab type="prose">畫聖者像。先從大海踊出須彌山王四寶所<lb
+ n="0329a11" ed="T"/><ab type='prose'>畫聖者像。先從大海踊出須彌山王四寶所<lb
  n="0329a12" ed="T"/>成於山上坐白蓮華。<lb
  n="0329a13" ed="T"/>身白金色。正受入最勝王三摩地。結跏趺坐。<lb
  n="0329a14" ed="T"/>從一切身遍滿流出十二幅金輪熾盛光明。<lb
@@ -156,7 +156,7 @@
  n="0329b05" ed="T"/>　吽字　欠字。<lb
  n="0329b06" ed="T"/>　五支先布已次說瑜伽相。<lb
  n="0329b07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 阿字真金色　　普現金剛輪　　<lb
  n="0329b08" ed="T"/>加持於下體　　說名瑜伽座　　<lb
  n="0329b09" ed="T"/>微字素月光　　匪於霧聚中　　<lb
@@ -168,7 +168,7 @@
  n="0329b15" ed="T"/>欠字由大空　　含容一切色　　<lb
  n="0329b16" ed="T"/>加持於頂上　　故號無等人　　
 </ab><lb
- n="0329b17" ed="T"/><ab type="prose">次五支從地水火風空配成及壇。<lb
+ n="0329b17" ed="T"/><ab type='prose'>次五支從地水火風空配成及壇。<lb
  n="0329b18" ed="T"/>阿字想座下。金剛座已成。色相如黃金。即戒<lb
  n="0329b19" ed="T"/>義也。其壇相方。曼荼囉亦耳。微字想於臍。色<lb
  n="0329b20" ed="T"/>白慈悲水。即定義也。其壇相圓外壇如滿月。<lb
@@ -180,12 +180,12 @@
  n="0329b26" ed="T"/>其壇如字義。空點無色相。能成諸事業。即是<lb
  n="0329b27" ed="T"/>陀羅尼義也。<lb
  n="0329b28" ed="T"/></ab>
-<ab type="dharani">唵速乞灑摩嚩日囉<lb
+<ab type='dharani'>唵速乞灑摩嚩日囉<lb
  n="0329c02" ed="T"/>唵底瑟姹嚩日囉<lb
  n="0329c04" ed="T"/>唵薩頗囉拏嚩日囉<lb
  n="0329c06" ed="T"/>唵僧賀囉嚩日囉<lb
  n="0329c08" ed="T"/></ab>
-<ab type="prose">次說畫。蘇婆呼童子。身形眷屬尊身如童子<lb
+<ab type='prose'>次說畫。蘇婆呼童子。身形眷屬尊身如童子<lb
  n="0329c09" ed="T"/>形。金色如名號。悚慄畫尊儀。七曜圍繞。密莫<lb
  n="0329c10" ed="T"/>雲漠。𠼬嗢沒斯。那纈鷄󰺎。各如本形畫。住賀<lb
  n="0329c11" ed="T"/>野仡哩嚩明側立花上。次畫頂行童子。身形<lb
@@ -195,11 +195,11 @@
  n="0329c15" ed="T"/>嚴。金剛頂。金剛頻那夜釰。器仗如文配。<lb
  n="0329c16" ed="T"/>已上並是頂輪壇法具足寫了。</ab></div><lb
  n="0329c17" ed="T"/><lb
- n="0329c18" ed="T"/><div type="w" level="2"><ab type="prose">天喜元年五月一日書了<lb
+ n="0329c18" ed="T"/><div type='w' level='2'><ab type='prose'>天喜元年五月一日書了<lb
  n="0329c19" ed="T"/>　　　　　　　　　一交了　僧賴昭<lb
  n="0329c20" ed="T"/>以天台實嚴僧正持本交合之<lb
  n="0329c21" ed="T"/>　　　　　　　　　　東寺沙門道快<lb
- n="0329c22" ed="T"/>此軌者󰀃弘和尚集歟。辨󰀃兩字通用<lb
+ n="0329c22" ed="T"/>此軌者𮗿弘和尚集歟。辨𮗿兩字通用<lb
  n="0329c23" ed="T"/>之間。青龍和尚門人制作。尤以可為規模<lb
  n="0329c24" ed="T"/>者也。</ab></div></div>
 </body></text></TEI>

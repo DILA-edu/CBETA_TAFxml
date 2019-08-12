@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0040</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0824a17" ed="T"/><lb
  n="0824a18" ed="T"/><lb
- n="0824a19" ed="T"/><div type="jing" level="1"><lb
+ n="0824a19" ed="T"/><div type='jing' level='1'><lb
  n="0824a20" ed="T"/>
-<ab type="juan" subtype="open">佛說文陀竭王經</ab><lb
+<ab type='juan' subtype='open'>佛說文陀竭王經</ab><lb
  n="0824a21" ed="T"/><lb
  n="0824a22" ed="T"/><byline>北涼三藏曇無讖譯</byline><lb
- n="0824a23" ed="T"/><ab type="prose">聞如是：一時，佛在舍衛國祇樹給孤獨園。是<lb
+ n="0824a23" ed="T"/><ab type='prose'>聞如是：一時，佛在舍衛國祇樹給孤獨園。是<lb
  n="0824a24" ed="T"/>時，阿難於屏處思惟：「世間人略厭五所思者<lb
  n="0824a25" ed="T"/>少，至死不知厭足者多。」阿難日中後，到佛所<lb
  n="0824a26" ed="T"/>前，為佛作禮，却白佛言：「我於屏處思惟，世間<lb
@@ -127,5 +127,5 @@
  n="0825a13" ed="T"/>佛告阿難：「時文陀竭王者，是我身也。」佛說如<lb
  n="0825a14" ed="T"/>是，阿難歡喜，為佛作禮。<lb
  n="0825a15" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說文陀竭王經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說文陀竭王經</ab></div>
 </body></text></TEI>

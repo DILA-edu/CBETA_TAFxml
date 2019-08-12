@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T32</biblScope>
                     <idno type="Taisho">T32n1677</idno>
                 </bibl>
@@ -41,13 +41,13 @@
     <text>
         <body><lb
  n="0757a04" ed="T"/><lb
- n="0757a05" ed="T"/><div type="jing" level="1"><lb
+ n="0757a05" ed="T"/><div type='jing' level='1'><lb
  n="0757a06" ed="T"/>
-<ab type="juan" subtype="open">三身梵讚</ab><lb
+<ab type='juan' subtype='open'>三身梵讚</ab><lb
  n="0757a07" ed="T"/><lb
  n="0757a08" ed="T"/><byline>西天譯經三藏朝散大夫試光祿<lb
  n="0757a09" ed="T"/>卿明教大師臣法賢奉　詔譯</byline><lb
- n="0757a10" ed="T"/><ab type="dharani">踰乃酤那鼈泥哥莎波羅呬多<lb
+ n="0757a10" ed="T"/><ab type='dharani'>踰乃酤那鼈泥哥莎波羅呬多<lb
  n="0757a11" ed="T"/>摩賀三鉢那陀囉部都乃嚩婆<lb
  n="0757a12" ed="T"/>巫那婆嚩朅彌嚩三摩囉蘇訥哩尾<lb
  n="0757a13" ed="T"/>婆嚩莎婆嚩儞哩梨邦儞哩尾哥<lb
@@ -78,5 +78,5 @@
  n="0757b10" ed="T"/>冐提摩哩詣𡫸喻惹帝哩哥野薩<lb
  n="0757b11" ed="T"/>怛嚩三摩鉢多<lb
  n="0757b12" ed="T"/>
-</ab><ab type="juan" subtype="close">三身梵讚</ab></div>
+</ab><ab type='juan' subtype='close'>三身梵讚</ab></div>
 </body></text></TEI>

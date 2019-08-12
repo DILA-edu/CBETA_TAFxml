@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T23</biblScope>
                     <idno type="Taisho">T23n1439</idno>
                 </bibl>
@@ -39,19 +39,19 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0496a" ed="T" id="T23.1439.0496a"/><lb
  n="0496a01" ed="T"/><lb
  n="0496a02" ed="T"/><lb
  n="0496a03" ed="T"/>
-<ab type="juan" subtype="open">十誦羯磨比丘要用一卷</ab><lb
+<ab type='juan' subtype='open'>十誦羯磨比丘要用一卷</ab><lb
  n="0496a04" ed="T"/><lb
  n="0496a05" ed="T"/><byline>宋沙門釋僧璩於楊<lb
  n="0496a06" ed="T"/>都中興寺依律撰出</byline><lb
- n="0496a07" ed="T"/><div type="jing" level="2"><ab type="prose">又唱：「不來諸比丘說欲。」<lb
+ n="0496a07" ed="T"/><div type='jing' level='2'><ab type='prose'>又唱：「不來諸比丘說欲。」<lb
  n="0496a10" ed="T"/>「僧今和集欲作何事？」</ab></div><lb
  n="0496a11" ed="T"/><head>受三歸五戒文第一</head><lb
- n="0496a13" ed="T"/><ab type="prose">「我某甲，從今盡壽，歸依佛兩足尊、歸依法無<lb
+ n="0496a13" ed="T"/><ab type='prose'>「我某甲，從今盡壽，歸依佛兩足尊、歸依法無<lb
  n="0496a14" ed="T"/>欲尊、歸依僧眾中尊。」<lb
  n="0496a15" ed="T"/>「我某甲，歸依佛竟、歸依法竟、歸依僧竟。於釋<lb
  n="0496a16" ed="T"/>迦牟尼佛法中，樂受五戒為優婆塞。當證知。」<lb
@@ -171,7 +171,7 @@
  n="0497b20" ed="T"/>叉摩尼盡壽受持。<lb
  n="0497b21" ed="T"/>「佛種種因緣呵欲欲想、欲欲覺、欲欲熱，讚歎<lb
  n="0497b22" ed="T"/>斷欲、除欲想、滅欲熱。若式叉摩尼同入學法<lb
- n="0497b23" ed="T"/>中，不捨戒、戒羸不出相，隨心想受婬慾乃至<lb
+ n="0497b23" ed="T"/>中，不捨戒、戒羸不出相，隨心想受婬欲乃至<lb
  n="0497b24" ed="T"/>共畜生，是非式叉摩尼、非沙門尼、非釋女，<lb
  n="0497b25" ed="T"/>失滅式叉摩尼法。是事盡壽不應犯，汝能持<lb
  n="0497b26" ed="T"/>不？<lb
@@ -228,17 +228,17 @@
  n="0498a19" ed="T"/>學，當修三脫門：空、無相、無作，當勤三業：坐禪、<lb
  n="0498a20" ed="T"/>誦經、勸作眾事。汝行是法，當開甘露門，得<lb
  n="0498a21" ed="T"/>須陀洹果、斯陀含果、阿那含果、阿羅漢果。如<lb
- n="0498a22" ed="T"/>蓮華在水日夜增長，法諸善根亦復如是，於<lb
+ n="0498a22" ed="T"/>蓮華在水日夜增長，汝諸善根亦復如是，於<lb
  n="0498a23" ed="T"/>佛法中日夜增長。餘殘諸戒，和上阿闍梨當<lb
  n="0498a24" ed="T"/>漸漸為汝廣說。<lb
  n="0498a25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「釋師子法中，　　已獲難得戒；　　<lb
  n="0498a26" ed="T"/>無難時難得，　　已得勿使空。」　　<lb
  n="0498a27" ed="T"/>頭面禮僧足，　　右繞歡喜去。　　
 </ab><lb
  n="0498a28" ed="T"/><head>大比丘尼壇文第六</head><pb n="0498b" ed="T" id="T23.1439.0498b"/><lb
- n="0498b01" ed="T"/><ab type="prose">「我某甲，是衣僧伽梨若干條受，割截成。我某<lb
+ n="0498b01" ed="T"/><ab type='prose'>「我某甲，是衣僧伽梨若干條受，割截成。我某<lb
  n="0498b02" ed="T"/>甲不離宿受持。」<lb
  n="0498b03" ed="T"/>「我某甲，是衣欝多羅僧七條受，兩長一短割<lb
  n="0498b04" ed="T"/>截成。我某甲不離宿受持。」<lb
@@ -445,7 +445,7 @@
  n="0500c11" ed="T"/>亦復如是，於佛法中日夜增長。餘殘諸戒，和<lb
  n="0500c12" ed="T"/>上阿闍梨當漸漸為汝廣說。」即為說偈：<lb
  n="0500c13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「釋師子法中，　　一切妙善集，　　<lb
  n="0500c14" ed="T"/>深大無涯際，　　功德之寶海。　　<lb
  n="0500c15" ed="T"/>是願轉輪王，　　天王善妙王，　　<lb
@@ -457,7 +457,7 @@
  n="0500c21" ed="T"/>餘戒佛所說，　　和上師當教，　　<lb
  n="0500c22" ed="T"/>眾中禮繞竟，　　喜各從所樂。」　　
 </ab><lb
- n="0500c23" ed="T"/><head>受大戒壇文第八</head><ab type="prose">「我某甲，此衣僧伽梨若干條受，若割<lb
+ n="0500c23" ed="T"/><head>受大戒壇文第八</head><ab type='prose'>「我某甲，此衣僧伽梨若干條受，若割<lb
  n="0500c26" ed="T"/>截若未割截，是衣受持不離宿。」<lb
  n="0500c27" ed="T"/>「我某甲，此衣憂多羅僧七條受，<lb
  n="0500c28" ed="T"/>若割截若未割截，是衣受持不離宿。」<lb
@@ -573,7 +573,7 @@
  n="0502a27" ed="T"/>我得須陀洹果乃至阿羅漢果，我得初禪二<lb
  n="0502a28" ed="T"/>禪三禪四禪，我得慈悲喜捨無量、空處、識處、<lb
  n="0502a29" ed="T"/>無所有處、非想非非想處定，我得不淨觀、阿<pb n="0502b" ed="T" id="T23.1439.0502b"/><lb
- n="0502b01" ed="T"/>那般那念。諸天來至我所，諸天龍、夜叉、薜<lb
+ n="0502b01" ed="T"/>那般那念。諸天來至我所，諸天、龍、夜叉、薜<lb
  n="0502b02" ed="T"/>荔、毘舍闍、鳩槃茶、羅剎等來至我所，彼問我<lb
  n="0502b03" ed="T"/>答、我問彼答。若比丘如是妄語者，是非比丘、<lb
  n="0502b04" ed="T"/>非沙門、非釋子，失滅比丘法。是事盡壽不應<lb
@@ -603,7 +603,7 @@
  n="0502b28" ed="T"/>是，於佛法中日夜增長。餘殘諸戒，和上阿闍<lb
  n="0502b29" ed="T"/>梨當漸漸為汝廣說。」即為說偈：<pb n="0502c" ed="T" id="T23.1439.0502c"/><lb
  n="0502c01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「釋師子法中，　　一切妙善集，　　<lb
  n="0502c02" ed="T"/>深大無涯際，　　功德之寶海。　　<lb
  n="0502c03" ed="T"/>是願轉輪王，　　天王善法王，　　<lb
@@ -616,7 +616,7 @@
  n="0502c10" ed="T"/>眾中禮繞竟，　　喜各從所樂。」　　
 </ab><lb
  n="0502c11" ed="T"/><head>結小界文第九</head><lb
- n="0502c13" ed="T"/><ab type="prose">「大德僧聽！比丘某甲唱四方小界相，僧今結<lb
+ n="0502c13" ed="T"/><ab type='prose'>「大德僧聽！比丘某甲唱四方小界相，僧今結<lb
  n="0502c14" ed="T"/>小界作戒場。若僧時到僧忍聽，僧於此四方<lb
  n="0502c15" ed="T"/>相內結小界作戒場。如是白。」<lb
  n="0502c16" ed="T"/>「大德僧聽！比丘某甲唱四方小界相，僧今於<lb
@@ -653,7 +653,7 @@
  n="0503a18" ed="T"/>諸長老忍一布薩共住處解界捨界者默然，<lb
  n="0503a19" ed="T"/>誰不忍者便說。」「僧已忍一布薩共住處解界<lb
  n="0503a20" ed="T"/>捨界竟。僧忍，默然故，是事如是持。」<lb
- n="0503a22" ed="T"/>尼結界捨戒文亦同。<lb
+ n="0503a22" ed="T"/>尼結界捨界文亦同。<lb
  n="0503a23" ed="T"/><head>差監為僧執事第十三</head><lb
  n="0503a25" ed="T"/>「大德僧聽！比丘某甲能為僧作知食人。若僧<lb
  n="0503a26" ed="T"/>時到僧忍聽，立某甲作知食人。如是白。」<lb
@@ -697,5 +697,5 @@
  n="0503c09" ed="T"/>「長老憶念！今日僧作布薩，比丘某甲有緣事<lb
  n="0503c10" ed="T"/>故，與僧清淨欲為取籌。」<lb
  n="0503c11" ed="T"/>
-</ab><ab type="juan" subtype="close">十誦羯磨比丘要用一卷</ab></div>
+</ab><ab type='juan' subtype='close'>十誦羯磨比丘要用一卷</ab></div>
 </body></text></TEI>

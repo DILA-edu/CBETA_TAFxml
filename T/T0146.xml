@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T02</biblScope>
                     <idno type="Taisho">T02n0146</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0870c15" ed="T"/><lb
  n="0870c16" ed="T"/><lb
- n="0870c17" ed="T"/><div type="jing" level="2"><lb
+ n="0870c17" ed="T"/><div type='jing' level='2'><lb
  n="0870c18" ed="T"/>
-<ab type="juan" subtype="open">舍衛國王夢見十事經</ab><lb
+<ab type='juan' subtype='open'>舍衛國王夢見十事經</ab><lb
  n="0870c19" ed="T"/><lb
  n="0870c20" ed="T"/><byline>失譯</byline><lb
- n="0870c21" ed="T"/><ab type="prose">佛在舍衛祇桓阿難邠坻阿藍。時，國王波斯<lb
+ n="0870c21" ed="T"/><ab type='prose'>佛在舍衛祇桓阿難邠坻阿藍。時，國王波斯<lb
  n="0870c22" ed="T"/>匿夜臥夢見十事。何謂為十事？一者見三瓶<lb
  n="0870c23" ed="T"/>併，兩邊滿中央空，兩瓶滿沸氣交往來，不入<lb
  n="0870c24" ed="T"/>空瓶中。二者見馬口亦食，尻亦食。三者見小<lb
@@ -100,7 +100,7 @@
  n="0871b12" ed="T"/>小犢子乳。八者見四牛從四面鳴來相趣欲<lb
  n="0871b13" ed="T"/>鬪，當合未合不知牛處。九者見大陂水，中央<lb
  n="0871b14" ed="T"/>濁四邊清。十者見大溪水流正赤。我夢如是，<lb
- n="0871b15" ed="T"/>覺即怖󰒅，恐亡我國、恐亡我子、恐亡我國中<lb
+ n="0871b15" ed="T"/>覺即怖𭞚，恐亡我國、恐亡我子、恐亡我國中<lb
  n="0871b16" ed="T"/>人民。」反王言：「願佛為我解是十事。」佛即告<lb
  n="0871b17" ed="T"/>王言：「莫恐莫恐！所夢者無他，於王身無惡，於<lb
  n="0871b18" ed="T"/>國亦無惡，於大子亦無惡，於夫人亦無惡。王<lb
@@ -154,8 +154,8 @@
  n="0872a08" ed="T"/>佛足而去。還歸於宮重賜正夫人，皆奪諸公<lb
  n="0872a09" ed="T"/>大臣俸祿，不復信諸婆羅門語。<lb
  n="0872a10" ed="T"/>
-</ab><ab type="juan" subtype="close">舍衛國王夢見十事經</ab></div><lb
- n="0872a11" ed="T"/><div type="w" level="2"><ab type="prose">按此經，與《增一阿含經》第五十一卷〈大愛<lb
+</ab><ab type='juan' subtype='close'>舍衛國王夢見十事經</ab></div><lb
+ n="0872a11" ed="T"/><div type='w' level='2'><ab type='prose'>按此經，與《增一阿含經》第五十一卷〈大愛<lb
  n="0872a12" ed="T"/>道般涅槃品〉，同本異譯，今國、宋二本文義<lb
  n="0872a13" ed="T"/>相同，此本與宋義同文異，似非一譯，而未<lb
  n="0872a14" ed="T"/>知是非、不敢去取。然此丹本詳悉，今且雙<lb

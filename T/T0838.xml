@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T17</biblScope>
                     <idno type="Taisho">T17n0838</idno>
                 </bibl>
@@ -41,14 +41,14 @@
     <text>
         <body><pb n="0896c" ed="T" id="T17.0838.0896c"/><lb
  n="0896c01" ed="T"/><lb
- n="0896c02" ed="T"/><div type="jing" level="1"><lb
+ n="0896c02" ed="T"/><div type='jing' level='1'><lb
  n="0896c03" ed="T"/>
-<ab type="juan" subtype="open">佛說發菩提心破諸魔經卷上</ab><lb
+<ab type='juan' subtype='open'>佛說發菩提心破諸魔經卷上</ab><lb
  n="0896c04" ed="T"/><lb
  n="0896c05" ed="T"/><byline>西天譯經三藏朝奉大夫<lb
  n="0896c06" ed="T"/>試光祿卿傳法大師賜紫<lb
  n="0896c07" ed="T"/>臣施護奉　詔譯</byline><lb
- n="0896c08" ed="T"/><ab type="prose">如是我聞：一時佛在王舍城迦蘭陀竹林精<lb
+ n="0896c08" ed="T"/><ab type='prose'>如是我聞：一時佛在王舍城迦蘭陀竹林精<lb
  n="0896c09" ed="T"/>舍，與大苾芻眾千二百五十人俱，并諸菩薩<lb
  n="0896c10" ed="T"/>摩訶薩眾而共集會。是時王舍大城有迦葉<lb
  n="0896c11" ed="T"/>氏大婆羅門住在彼城，而忽一時於夜夢中<lb
@@ -68,17 +68,17 @@
  n="0896c25" ed="T"/>四種相者，當知必得最上大利。」爾時世尊欲<lb
  n="0896c26" ed="T"/>重宣此義，而說偈曰：<lb
  n="0896c27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「夢中若見蓮華相，　　及白傘蓋皆吉祥；　　<lb
  n="0896c28" ed="T"/>或見清淨大月輪，　　夢者當獲最上利。　　<lb
  n="0896c29" ed="T"/>又復若見佛形像，　　是相最上中最勝；　　<pb n="0897a" ed="T" id="T17.0838.0897a"/><lb
  n="0897a01" ed="T"/>斯人一切所愛敬，　　當能成就諸功德。」　　
 </ab><lb
- n="0897a02" ed="T"/><ab type="prose">爾時婆羅門復白佛言：「世尊！何等名為最上<lb
+ n="0897a02" ed="T"/><ab type='prose'>爾時婆羅門復白佛言：「世尊！何等名為最上<lb
  n="0897a03" ed="T"/>大利？佛以何緣作如是說？」<lb
  n="0897a04" ed="T"/>爾時世尊即以伽陀答婆羅門曰：<lb
  n="0897a05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「我今為說彼大利，　　汝婆羅門當諦聽；　　<lb
  n="0897a06" ed="T"/>若人能發菩提心，　　成二足尊名大利。　　<lb
  n="0897a07" ed="T"/>轉輪聖王位尊勝，　　統四大洲而自在；　　<lb
@@ -136,11 +136,11 @@
  n="0897b30" ed="T"/>我所稱讚菩提心，　　汝婆羅門恭敬聞；　　<pb n="0897c" ed="T" id="T17.0838.0897c"/><lb
  n="0897c01" ed="T"/>如聞深信能發心，　　乃名修行菩提者。」　　
 </ab><lb
- n="0897c02" ed="T"/><ab type="prose">爾時婆羅門聞佛宣說是伽陀已，即白佛言：<lb
+ n="0897c02" ed="T"/><ab type='prose'>爾時婆羅門聞佛宣說是伽陀已，即白佛言：<lb
  n="0897c03" ed="T"/>「世尊！若有人發菩提心者，是人當得幾數福<lb
  n="0897c04" ed="T"/>蘊？」爾時世尊復以伽陀答婆羅門曰：<lb
  n="0897c05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「正使一切眾生類，　　普集此佛世界中，　　<lb
  n="0897c06" ed="T"/>一一修持淨戒行，　　悉能安住戒學地，　　<lb
  n="0897c07" ed="T"/>而彼福蘊量無邊，　　於諸福中為最上，　　<lb
@@ -187,7 +187,7 @@
  n="0898a18" ed="T"/>是故若人聞此法，　　應當尊重正慧行。　　<lb
  n="0898a19" ed="T"/>廣修如是福蘊者，　　速證無上大菩提。」　　
 </ab><lb
- n="0898a20" ed="T"/><ab type="prose">爾時婆羅門聞佛世尊如是稱讚菩提心已，<lb
+ n="0898a20" ed="T"/><ab type='prose'>爾時婆羅門聞佛世尊如是稱讚菩提心已，<lb
  n="0898a21" ed="T"/>即白佛言：「世尊！我於菩提心中無少法可轉。」<lb
  n="0898a22" ed="T"/>佛告婆羅門言：「如是如是！婆羅門！若人發菩<lb
  n="0898a23" ed="T"/>提心者，實無法可轉。何以故？婆羅門！當知<lb
@@ -257,7 +257,7 @@
  n="0898c29" ed="T"/>來所證涅盤無種種相。」<pb n="0899a" ed="T" id="T17.0838.0899a"/><lb
  n="0899a01" ed="T"/>爾時世尊欲重宣此義而說偈曰：<lb
  n="0899a02" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「三乘證涅盤，　　同一涅盤法；　　<lb
  n="0899a03" ed="T"/>證道雖差別，　　涅盤無二相。　　<lb
  n="0899a04" ed="T"/>三世一切佛，　　得最上解脫；　　<lb
@@ -266,15 +266,15 @@
  n="0899a07" ed="T"/>諸有修行者，　　應當如是學。」　　
 </ab><lb
  n="0899a08" ed="T"/>
-<ab type="juan" subtype="close">佛說發菩提心破諸魔經卷上</ab><lb
+<ab type='juan' subtype='close'>佛說發菩提心破諸魔經卷上</ab><lb
  n="0899a09" ed="T"/><lb
  n="0899a10" ed="T"/><lb
  n="0899a11" ed="T"/>
-<ab type="juan" subtype="open">佛說發菩提心破諸魔經卷下</ab><lb
+<ab type='juan' subtype='open'>佛說發菩提心破諸魔經卷下</ab><lb
  n="0899a12" ed="T"/><lb
  n="0899a13" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0899a14" ed="T"/>傳法大師賜紫臣施護奉　詔譯</byline><lb
- n="0899a15" ed="T"/><ab type="prose">爾時大婆羅門白佛言：「世尊！諸修大乘法<lb
+ n="0899a15" ed="T"/><ab type='prose'>爾時大婆羅門白佛言：「世尊！諸修大乘法<lb
  n="0899a16" ed="T"/>者當行何行？」佛告婆羅門言：「如我今說，當<lb
  n="0899a17" ed="T"/>如是行。婆羅門！汝今當知，若有修大乘法<lb
  n="0899a18" ed="T"/>者，自發阿耨多羅三藐三菩提心已，復勸他<lb
@@ -310,9 +310,9 @@
  n="0899b19" ed="T"/>住？所謂：修三解脫門。何等為三？所謂：空、無相、<lb
  n="0899b20" ed="T"/>無願，此說名為聖住，菩薩摩訶薩當依如是<lb
  n="0899b21" ed="T"/>聖住中住。」<lb
- n="0899b22" ed="T"/>爾時世尊欲重宣此義，說󰰄陀曰：<lb
+ n="0899b22" ed="T"/>爾時世尊欲重宣此義，說伽陀曰：<lb
  n="0899b23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「我所說三住，　　是勇猛勝法，　　<lb
  n="0899b24" ed="T"/>為諸菩薩眾，　　隨所應宣說。　　<lb
  n="0899b25" ed="T"/>若於一切時，　　如說而能行，　　<lb
@@ -321,13 +321,13 @@
  n="0899b28" ed="T"/>於此三住中，　　隨應而安住；　　<lb
  n="0899b29" ed="T"/>若如是住者，　　當得無滅句。」　　
 </ab><pb n="0899c" ed="T" id="T17.0838.0899c"/><lb
- n="0899c01" ed="T"/><ab type="prose">爾時婆羅門白佛言：「世尊！菩提法門其義云<lb
+ n="0899c01" ed="T"/><ab type='prose'>爾時婆羅門白佛言：「世尊！菩提法門其義云<lb
  n="0899c02" ed="T"/>何？未來世中若有眾生問我此義，我無智慧，<lb
  n="0899c03" ed="T"/>所有佛法不能通達，我於爾時當云何答？願<lb
  n="0899c04" ed="T"/>佛世尊廣為我說。」<lb
  n="0899c05" ed="T"/>爾時世尊為婆羅門說伽陀曰：<lb
  n="0899c06" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「婆羅門當知，　　我所為汝說；　　<lb
  n="0899c07" ed="T"/>此廣大正法，　　勸發菩提心。　　<lb
  n="0899c08" ed="T"/>諸無智慧者，　　由此而獲得；　　<lb
@@ -375,7 +375,7 @@
  n="0900a21" ed="T"/>彼生我慢心，　　造廣大過失；　　<lb
  n="0900a22" ed="T"/>當知彼等人，　　不尊重正法。」　　
 </ab><lb
- n="0900a23" ed="T"/><ab type="prose">爾時婆羅門白佛言：「善哉世尊！善說此法門，<lb
+ n="0900a23" ed="T"/><ab type='prose'>爾時婆羅門白佛言：「善哉世尊！善說此法門，<lb
  n="0900a24" ed="T"/>即是菩提義。若人於現世中，愛樂了知如是<lb
  n="0900a25" ed="T"/>義者，是人不久於此世間得大勇猛，未來世<lb
  n="0900a26" ed="T"/>中善說勝法安住菩提，廣為多人作大利益。」<lb
@@ -450,16 +450,16 @@
  n="0901a08" ed="T"/>佛告婆羅門言：「汝當諦聽破魔法門，其名如<lb
  n="0901a09" ed="T"/>是：<lb
  n="0901a10" ed="T"/></ab>
-<ab type="dharani">「那謨阿帝多阿那誐多鉢囉怛喻怛<lb
+<ab type='dharani'>「那謨阿帝多阿那誐多鉢囉怛喻怛<lb
  n="0901a11" ed="T"/>半泥毘藥　薩哩嚩沒提毘喻<lb
- n="0901a12" ed="T"/>　婆誐嚩訥毘藥　怛󰍕他　嗢哩沒那<lb
+ n="0901a12" ed="T"/>　婆誐嚩訥毘藥　怛𭔞他　嗢哩沒那<lb
  n="0901a13" ed="T"/>　娑摩哩沒那　嗢沒那沒那　壹賀沒那<lb
  n="0901a14" ed="T"/>　且怛囉沒那　儞誐摩　多邏呬臘<lb
  n="0901a15" ed="T"/>沒馱　怛怛囉沒　怛嚕賀誐多　誐摩那<lb
  n="0901a16" ed="T"/>致　摩呬耨娑摩　訥訥　摩嚩囉蘇珂　阿<lb
  n="0901a17" ed="T"/>羅彌多伊迦囉叉」<lb
  n="0901a18" ed="T"/></ab>
-<ab type="prose">世尊說是祕密總持破魔法門時，一切魔宮皆<lb
+<ab type='prose'>世尊說是祕密總持破魔法門時，一切魔宮皆<lb
  n="0901a19" ed="T"/>大震動，一切魔王及諸魔眾，皆悉驚怖戰掉，<lb
  n="0901a20" ed="T"/>心生苦惱不能安坐，咸作是念：「世尊為一切<lb
  n="0901a21" ed="T"/>眾生，悲愍利益令得安隱，以慈、悲、喜、捨饒益<lb
@@ -480,7 +480,7 @@
  n="0901b07" ed="T"/>一切罪，能破一切魔，成就一切法。」<lb
  n="0901b08" ed="T"/>爾時世尊欲重宣此義，說伽陀曰：<lb
  n="0901b09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「魔於修善者，　　常伺求其便；　　<lb
  n="0901b10" ed="T"/>欲起諸難事，　　破壞彼善法。　　<lb
  n="0901b11" ed="T"/>若聞說此經，　　一句或一偈；　　<lb
@@ -502,9 +502,9 @@
  n="0901b27" ed="T"/>若修此法者，　　通達菩提行；　　<lb
  n="0901b28" ed="T"/>從菩提道來，　　成就正等覺。」　　
 </ab><lb
- n="0901b29" ed="T"/><ab type="prose">佛說此經已，迦葉氏大婆羅門，及諸菩薩、聲<pb n="0901c" ed="T" id="T17.0838.0901c"/><lb
+ n="0901b29" ed="T"/><ab type='prose'>佛說此經已，迦葉氏大婆羅門，及諸菩薩、聲<pb n="0901c" ed="T" id="T17.0838.0901c"/><lb
  n="0901c01" ed="T"/>聞，世間天、人、阿修羅、乾闥婆等，一切大眾聞<lb
  n="0901c02" ed="T"/>佛所說，皆大歡喜，信受奉行。<lb
  n="0901c03" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說發菩提心破諸魔經卷下</ab></div>
+</ab><ab type='juan' subtype='close'>佛說發菩提心破諸魔經卷下</ab></div>
 </body></text></TEI>

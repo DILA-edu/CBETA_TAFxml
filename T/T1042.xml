@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1042</idno>
                 </bibl>
@@ -39,19 +39,19 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0033a18" ed="T"/><lb
  n="0033a19" ed="T"/><lb
  n="0033a20" ed="T"/><lb
  n="0033a21" ed="T"/>
-<ab type="juan" subtype="open">觀自在菩薩大悲智印周遍法界<lb
+<ab type='juan' subtype='open'>觀自在菩薩大悲智印周遍法界<lb
  n="0033a22" ed="T"/>利益眾生薰真如法一卷</ab><lb
  n="0033a23" ed="T"/><lb
  n="0033a24" ed="T"/><byline>大唐特進試鴻臚卿加開府儀同<lb
  n="0033a25" ed="T"/>三司封肅國公贈司空諡大辨正<lb
  n="0033a26" ed="T"/>大廣智不空三藏和尚譯</byline><lb
- n="0033a27" ed="T"/><div type="jing" level="2"><ab type="prose">我蒙毘盧遮那聖旨。而說觀自在摩訶枳<lb
+ n="0033a27" ed="T"/><div type='jing' level='2'><ab type='prose'>我蒙毘盧遮那聖旨。而說觀自在摩訶枳<lb
  n="0033a28" ed="T"/>孃曩母怛羅法。若有修瑜伽人。欲生<lb
  n="0033a29" ed="T"/>西方極樂世界利益眾生者。即從阿闍梨耶<pb n="0033b" id="T20.1042.0033b" ed="T"/><lb
  n="0033b01" ed="T"/>有智熟者。而受蓮華金剛法儀。廣陳供養作<lb
@@ -133,16 +133,16 @@
  n="0034a20" ed="T"/>根本印。二手金剛縛。二頭指頭合如蓮華葉。<lb
  n="0034a21" ed="T"/>二大指並立即成。真言曰。<lb
  n="0034a22" ed="T"/></ab>
-<ab type="dharani">􇩂􄙖􄦽􄕻􈆺􇩵<lb
+<ab type='dharani'>􇩂􄙖􄦽􄕻􈆺􇩵<lb
  n="0034a23" ed="T"/></ab>
-<ab type="prose">若人持此一字真言。能除一切災禍疾病。命<lb
+<ab type='prose'>若人持此一字真言。能除一切災禍疾病。命<lb
  n="0034a24" ed="T"/>終之後當得極樂上品之生。餘諸所求世間<lb
  n="0034a25" ed="T"/>出世大願隨持得成。何況依此教法而修行<lb
  n="0034a26" ed="T"/>者。一切悉地不久圓滿也。<lb
  n="0034a27" ed="T"/>觀自在菩薩薰真如香印法說已竟。<lb
  n="0034a28" ed="T"/>
-</ab><ab type="juan" subtype="close">觀自在妙香印法一卷</ab></div><lb
- n="0034a29" ed="T"/><div type="w" level="2"><ab type="prose">享保龍集乙卯仲夏之穀。以淨嚴和尚之點<pb n="0034b" id="T20.1042.0034b" ed="T"/><lb
+</ab><ab type='juan' subtype='close'>觀自在妙香印法一卷</ab></div><lb
+ n="0034a29" ed="T"/><div type='w' level='2'><ab type='prose'>享保龍集乙卯仲夏之穀。以淨嚴和尚之點<pb n="0034b" id="T20.1042.0034b" ed="T"/><lb
  n="0034b01" ed="T"/>本。將讐校之壽梓。而以香煙輝真如􇩵雲覆<lb
  n="0034b02" ed="T"/>剎塵。<lb
  n="0034b03" ed="T"/>大和長谷妙音院輪下沙門無等誌</ab></div></div>

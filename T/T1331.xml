@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1331</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0495a" id="T21.1331.0495a" ed="T"/><lb
  n="0495a01" ed="T"/><lb
  n="0495a02" ed="T"/><lb
- n="0495a03" ed="T"/><div type="jing" level="2">
-<ab type="juan" subtype="open">佛說灌頂七萬二千神王護比丘<lb
+ n="0495a03" ed="T"/><div type='jing' level='2'>
+<ab type='juan' subtype='open'>佛說灌頂七萬二千神王護比丘<lb
  n="0495a04" ed="T"/>呪經卷第一</ab><lb
  n="0495a05" ed="T"/><lb
  n="0495a06" ed="T"/><byline>東晉天竺三藏帛尸梨蜜多羅譯</byline><lb
- n="0495a07" ed="T"/><ab type="prose">聞如是。一時世尊遊於羅閱祇梵志丘聚。從<lb
+ n="0495a07" ed="T"/><ab type='prose'>聞如是。一時世尊遊於羅閱祇梵志丘聚。從<lb
  n="0495a08" ed="T"/>是北上錍提山中天帝石室。爾時無數比丘。<lb
  n="0495a09" ed="T"/>各各馳走怱怱不安。如捕魚師布網捕魚魚<lb
  n="0495a10" ed="T"/>都馳散。世尊遙見無數比丘各各馳散擾擾<lb
@@ -141,7 +141,7 @@
  n="0496a10" ed="T"/>法今皆得道作大誓願。若佛滅後五濁亂時。<lb
  n="0496a11" ed="T"/>護諸弟子比丘僧眾。令獲吉祥之福德也。<lb
  n="0496a12" ed="T"/>神名闍離摩呵闍離<lb
- n="0496a13" ed="T"/>神名闍羅尼郁󰫂目󰫂<lb
+ n="0496a13" ed="T"/>神名闍羅尼郁𬽾目𬽾<lb
  n="0496a14" ed="T"/>神名三波提摩訶三波提<lb
  n="0496a15" ed="T"/>神名頞提拔提鳩坻鐵離<lb
  n="0496a16" ed="T"/>神名莎羅波提安那波提<lb
@@ -167,7 +167,7 @@
  n="0496b07" ed="T"/>神名鳩蘭子陀羅子<lb
  n="0496b08" ed="T"/>神名不吒吒羅子鳩羅子<lb
  n="0496b09" ed="T"/>神名多迦利離摩摩蘭泥<lb
- n="0496b10" ed="T"/>神名鳩蘭󱀶吒羅鳩梨提<lb
+ n="0496b10" ed="T"/>神名鳩蘭𭋉吒羅鳩梨提<lb
  n="0496b11" ed="T"/>神名迦私羅牟尼提歐梨<lb
  n="0496b12" ed="T"/>神名迦蘭因梨提遮披𥪫<lb
  n="0496b13" ed="T"/>佛告比丘此二十七神王。昔化提比丘治護<lb
@@ -423,15 +423,15 @@
  n="0499b02" ed="T"/>萬二千神王衛護比丘呪經。佛說是時四眾<lb
  n="0499b03" ed="T"/>人民。聞經歡喜作禮奉行。<lb
  n="0499b04" ed="T"/>
-</ab><ab type="juan" subtype="close">灌頂經卷第一</ab></div><lb
+</ab><ab type='juan' subtype='close'>灌頂經卷第一</ab></div><lb
  n="0499b05" ed="T"/><lb
  n="0499b06" ed="T"/><lb
- n="0499b07" ed="T"/><div type="jing" level="2">
-<ab type="juan" subtype="open">佛說灌頂十二萬神王護比丘尼<lb
+ n="0499b07" ed="T"/><div type='jing' level='2'>
+<ab type='juan' subtype='open'>佛說灌頂十二萬神王護比丘尼<lb
  n="0499b08" ed="T"/>經卷第二</ab><lb
  n="0499b09" ed="T"/><lb
  n="0499b10" ed="T"/><byline>東晉天竺三藏帛尸梨蜜多羅譯</byline><lb
- n="0499b11" ed="T"/><ab type="prose">聞如是。一時佛遊於舍衛祇樹給孤獨園。與<lb
+ n="0499b11" ed="T"/><ab type='prose'>聞如是。一時佛遊於舍衛祇樹給孤獨園。與<lb
  n="0499b12" ed="T"/>大比丘眾千二百五十人俱。爾時有七比丘<lb
  n="0499b13" ed="T"/>尼名修陀利。在山中塚墓間禪思一心。有諸<lb
  n="0499b14" ed="T"/>惡鬼神噉人精氣者。嬈是比丘尼脫其衣裳。<lb
@@ -467,9 +467,9 @@
  n="0499c15" ed="T"/>賢者阿難長跪叉手前白佛言。是等神王其<lb
  n="0499c16" ed="T"/>字云何。願為解說。佛言阿難其神名字我今<lb
  n="0499c17" ed="T"/>說之。灌頂章句其名如是。<lb
- n="0499c18" ed="T"/>神名枝活吒貨󱁉字淨自在此神主護某頭<lb
- n="0499c19" ed="T"/>神名倪提惒和󱁉字妙善生此神主護某眼<lb
- n="0499c20" ed="T"/>神名波羅惒和󱁉字暉日光此神主護某鼻<lb
+ n="0499c18" ed="T"/>神名枝活吒貨𭏷字淨自在此神主護某頭<lb
+ n="0499c19" ed="T"/>神名倪提惒和𭏷字妙善生此神主護某眼<lb
+ n="0499c20" ed="T"/>神名波羅惒和𭏷字暉日光此神主護某鼻<lb
  n="0499c21" ed="T"/>神名和沙頭提手字信堅固此神主護某耳<lb
  n="0499c22" ed="T"/>神名頭荷尼迦移字開疑惑此神主護某口<lb
  n="0499c23" ed="T"/>神名臏迦利迦移字光普攝此神主護某頸<lb
@@ -479,7 +479,7 @@
  n="0499c27" ed="T"/>神名迦摩隷吒遮字香珍寶此神主護某胸<lb
  n="0499c28" ed="T"/>神名俱波婁閱叉字如福輪此神主護某背<lb
  n="0499c29" ed="T"/>神名沙善般遮壚字清微徹此神主護某腹<pb n="0500a" id="T21.1331.0500a" ed="T"/><lb
- n="0500a01" ed="T"/>神名旃遮󰴽摩休字音和柔此神主護某脇<lb
+ n="0500a01" ed="T"/>神名旃遮𭭇摩休字音和柔此神主護某脇<lb
  n="0500a02" ed="T"/>神名遮揵陀利手字福德光此神主護某心<lb
  n="0500a03" ed="T"/>神名遮羅揵波頭字真寶種此神主護某肝<lb
  n="0500a04" ed="T"/>神名波羅斯奴遮字遠聞聲此神主護某肺<lb
@@ -599,15 +599,15 @@
  n="0501b29" ed="T"/>萬二千神王灌頂大法無有異也。佛說是已<pb n="0501c" id="T21.1331.0501c" ed="T"/><lb
  n="0501c01" ed="T"/>四輩弟子天龍八部。莫不歡喜作禮奉行。<lb
  n="0501c02" ed="T"/>
-</ab><ab type="juan" subtype="close">灌頂經卷第二</ab></div><lb
+</ab><ab type='juan' subtype='close'>灌頂經卷第二</ab></div><lb
  n="0501c03" ed="T"/><lb
  n="0501c04" ed="T"/><lb
- n="0501c05" ed="T"/><div type="jing" level="2">
-<ab type="juan" subtype="open">佛說灌頂三歸五戒帶佩護身呪<lb
+ n="0501c05" ed="T"/><div type='jing' level='2'>
+<ab type='juan' subtype='open'>佛說灌頂三歸五戒帶佩護身呪<lb
  n="0501c06" ed="T"/>經卷第三</ab><lb
  n="0501c07" ed="T"/><lb
  n="0501c08" ed="T"/><byline>東晉天竺三藏帛尸梨蜜多羅譯</byline><lb
- n="0501c09" ed="T"/><ab type="prose">聞如是。一時佛在舍衛國祇樹給孤獨園時。<lb
+ n="0501c09" ed="T"/><ab type='prose'>聞如是。一時佛在舍衛國祇樹給孤獨園時。<lb
  n="0501c10" ed="T"/>與千二百五十比丘菩薩萬人。天龍八部悉<lb
  n="0501c11" ed="T"/>來在會。咸然一心叉手聽法。於是異道有鹿<lb
  n="0501c12" ed="T"/>頭梵志。來到佛所稽首作禮。胡跪合掌白佛<lb
@@ -731,7 +731,7 @@
  n="0503a21" ed="T"/>道家亦不能害。若行來出入有小魔鬼亦不<lb
  n="0503a22" ed="T"/>得近。帶佩此神王名者夜無惡夢。縣官盜<lb
  n="0503a23" ed="T"/>賊水火災怪。怨家闇謀口舌鬪亂。自然歡<lb
- n="0503a24" ed="T"/>喜兩作和解。俱生慈心惡意悉滅。󱃢魅魍<lb
+ n="0503a24" ed="T"/>喜兩作和解。俱生慈心惡意悉滅。𮫜魅魍<lb
  n="0503a25" ed="T"/>魎邪忤薜荔。外道符呪厭禱之者。樹木精魅<lb
  n="0503a26" ed="T"/>百蟲精魅。鳥狩精魅溪谷精魅。門中鬼神<lb
  n="0503a27" ed="T"/>戶中鬼神。井竈鬼神洿池鬼神。廁溷中鬼一<lb
@@ -858,15 +858,15 @@
  n="0504c08" ed="T"/>經。佛說是已。四眾人民天龍八部一切鬼<lb
  n="0504c09" ed="T"/>神。皆大歡喜作禮奉行。<lb
  n="0504c10" ed="T"/>
-</ab><ab type="juan" subtype="close">灌頂經卷第三</ab></div><lb
+</ab><ab type='juan' subtype='close'>灌頂經卷第三</ab></div><lb
  n="0504c11" ed="T"/><lb
  n="0504c12" ed="T"/><lb
- n="0504c13" ed="T"/><div type="jing" level="2">
-<ab type="juan" subtype="open">佛說灌頂百結神王護身呪經卷<lb
+ n="0504c13" ed="T"/><div type='jing' level='2'>
+<ab type='juan' subtype='open'>佛說灌頂百結神王護身呪經卷<lb
  n="0504c14" ed="T"/>第四</ab><lb
  n="0504c15" ed="T"/><lb
  n="0504c16" ed="T"/><byline>東晉天竺三藏帛尸梨蜜多羅譯</byline><lb
- n="0504c17" ed="T"/><ab type="prose">聞如是。一時佛在羅閱祇國大精舍中。有千<lb
+ n="0504c17" ed="T"/><ab type='prose'>聞如是。一時佛在羅閱祇國大精舍中。有千<lb
  n="0504c18" ed="T"/>二百五十弟子各住餘室。佛獨一房自思念<lb
  n="0504c19" ed="T"/>言。我涅槃後四部弟子。持戒不具多所毀犯。<lb
  n="0504c20" ed="T"/>造作非法不行十善。我法既滅末世之中。鬼<lb
@@ -1002,7 +1002,7 @@
  n="0506b05" ed="T"/>神名半那波提　字精勇健<lb
  n="0506b06" ed="T"/>神名莎羅波提　字救世者<lb
  n="0506b07" ed="T"/>神名沙和迦羅　字離邪行<lb
- n="0506b08" ed="T"/>神名尼遲樓󱁉　字滅思想<lb
+ n="0506b08" ed="T"/>神名尼遲樓𭏷　字滅思想<lb
  n="0506b09" ed="T"/>神名波羅般然　字威靈祇<lb
  n="0506b10" ed="T"/>神名嘻蘭譚耆　字如江海<lb
  n="0506b11" ed="T"/>神名金羅伊頭　字不畏兵<lb
@@ -1125,7 +1125,7 @@
  n="0507c12" ed="T"/>菩薩迎其精神。往生西方自在隨意。於是天<lb
  n="0507c13" ed="T"/>尊以頌讚曰。<lb
  n="0507c14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 我說灌頂章句義　　辟除邪惡精魅鬼　　<lb
  n="0507c15" ed="T"/>餘他鬼神不得便　　結縷神名常擁護　　<lb
  n="0507c16" ed="T"/>鳥獸變怪野孤鳴　　帶持誦者災禍滅　　<lb
@@ -1179,7 +1179,7 @@
  n="0508b06" ed="T"/>受持經卷講諷誦　　令此法言無遺失　　<lb
  n="0508b07" ed="T"/>在所宣傳令廣知　　法言流布有利益　　
 </ab><lb
- n="0508b08" ed="T"/><ab type="prose">爾時世尊說此偈已告阿難言。假使有人令<lb
+ n="0508b08" ed="T"/><ab type='prose'>爾時世尊說此偈已告阿難言。假使有人令<lb
  n="0508b09" ed="T"/>面見佛至心供養衣被飯飴。床臥之具病瘦<lb
  n="0508b10" ed="T"/>醫藥。不如有人受持是灌頂章句結願神呪<lb
  n="0508b11" ed="T"/>經。書持讀誦。書著竹帛為他說者。則為具<lb
@@ -1195,14 +1195,14 @@
  n="0508b21" ed="T"/>示於未聞。佛說如是天龍鬼神四部弟子。聞<lb
  n="0508b22" ed="T"/>經歡喜作禮奉行。<lb
  n="0508b23" ed="T"/>
-</ab><ab type="juan" subtype="close">灌頂經卷第四</ab></div><pb n="0508c" id="T21.1331.0508c" ed="T"/><lb
+</ab><ab type='juan' subtype='close'>灌頂經卷第四</ab></div><pb n="0508c" id="T21.1331.0508c" ed="T"/><lb
  n="0508c01" ed="T"/><lb
- n="0508c02" ed="T"/><div type="jing" level="2">
-<ab type="juan" subtype="open">佛說灌頂呪宮宅神王守鎮左右<lb
+ n="0508c02" ed="T"/><div type='jing' level='2'>
+<ab type='juan' subtype='open'>佛說灌頂呪宮宅神王守鎮左右<lb
  n="0508c03" ed="T"/>經卷第五</ab><lb
  n="0508c04" ed="T"/><lb
  n="0508c05" ed="T"/><byline>東晉天竺三藏帛尸梨蜜多羅譯</byline><lb
- n="0508c06" ed="T"/><ab type="prose">聞如是。一時佛在摩竭國。與千二百五十比<lb
+ n="0508c06" ed="T"/><ab type='prose'>聞如是。一時佛在摩竭國。與千二百五十比<lb
  n="0508c07" ed="T"/>丘俱。菩薩萬七千人。清信士三萬人。清信女<lb
  n="0508c08" ed="T"/>萬二千人。諸天人民鬼神龍王不可稱計。皆<lb
  n="0508c09" ed="T"/>悉來集聽佛說法莫不樂聞。<lb
@@ -1337,11 +1337,11 @@
  n="0510a22" ed="T"/>神名坻梨提梨摩梨摩梨<lb
  n="0510a23" ed="T"/>神名師佉准沙差尼河藍<lb
  n="0510a24" ed="T"/>神名辟師霧耶欝次彌次<lb
- n="0510a25" ed="T"/>神名雞頭貨󱁉蒲恥瘖浮<lb
+ n="0510a25" ed="T"/>神名雞頭貨𭏷蒲恥瘖浮<lb
  n="0510a26" ed="T"/>神名突迦多極那于陀伎<lb
  n="0510a27" ed="T"/>神名陀含屈兒沙門多頭<lb
  n="0510a28" ed="T"/>神名伊梨寐提薜荔迦移<lb
- n="0510a29" ed="T"/>神名鳩舍羅󱄔迦拘多󱁉<pb n="0510b" id="T21.1331.0510b" ed="T"/><lb
+ n="0510a29" ed="T"/>神名鳩舍羅󱄔迦拘多𭏷<pb n="0510b" id="T21.1331.0510b" ed="T"/><lb
  n="0510b01" ed="T"/>神名因樓賴天沙伊多耨<lb
  n="0510b02" ed="T"/>神名甄尼烏厨遮摩多梨<lb
  n="0510b03" ed="T"/>神名摩隷吒遮夫樓擥俱<lb
@@ -1485,14 +1485,14 @@
  n="0511c25" ed="T"/>部悉得解悟。各隨本願得道不同。聞佛所說<lb
  n="0511c26" ed="T"/>歡喜奉行。<lb
  n="0511c27" ed="T"/>
-</ab><ab type="juan" subtype="close">灌頂經卷第五</ab></div><pb n="0512a" id="T21.1331.0512a" ed="T"/><lb
+</ab><ab type='juan' subtype='close'>灌頂經卷第五</ab></div><pb n="0512a" id="T21.1331.0512a" ed="T"/><lb
  n="0512a01" ed="T"/><lb
- n="0512a02" ed="T"/><div type="jing" level="2">
-<ab type="juan" subtype="open">佛說灌頂塚墓因緣四方神呪經<lb
+ n="0512a02" ed="T"/><div type='jing' level='2'>
+<ab type='juan' subtype='open'>佛說灌頂塚墓因緣四方神呪經<lb
  n="0512a03" ed="T"/>卷第六</ab><lb
  n="0512a04" ed="T"/><lb
  n="0512a05" ed="T"/><byline>東晉天竺三藏帛尸梨蜜多羅譯</byline><lb
- n="0512a06" ed="T"/><ab type="prose">聞如是。一時佛在鳩尸那城。臨欲滅度。千<lb
+ n="0512a06" ed="T"/><ab type='prose'>聞如是。一時佛在鳩尸那城。臨欲滅度。千<lb
  n="0512a07" ed="T"/>二百五十比丘。及諸弟子無央數眾。諸菩薩<lb
  n="0512a08" ed="T"/>僧數千萬億。諸天龍神四方人民悉來集會。<lb
  n="0512a09" ed="T"/>於時末利伽五百人等。同聲合掌竊問阿難。<lb
@@ -1546,7 +1546,7 @@
  n="0512b28" ed="T"/>也。不知外道殺生禱祀。邪見修福洗浴死<lb
  n="0512b29" ed="T"/>骸。以求解脫無有是處。<pb n="0512c" id="T21.1331.0512c" ed="T"/><lb
  n="0512c01" ed="T"/>佛又語阿難此諸愚人。不知修福殺眾生命。<lb
- n="0512c02" ed="T"/>喚諸邪󱃢魍魎鬼神。求覓福德不能得也。應<lb
+ n="0512c02" ed="T"/>喚諸邪𮫜魍魎鬼神。求覓福德不能得也。應<lb
  n="0512c03" ed="T"/>當燒香散眾名華。禮敬十方三世諸佛。為過<lb
  n="0512c04" ed="T"/>命者悔過眾罪。可得解脫憂苦之患。<lb
  n="0512c05" ed="T"/>阿難又問佛言。若人命終送著山野造立墳<lb
@@ -1645,7 +1645,7 @@
  n="0513c11" ed="T"/>誦念受持莫忘。童子問佛何等是也。佛告童<lb
  n="0513c12" ed="T"/>子諦聽諦受。灌頂章句其名如是。<lb
  n="0513c13" ed="T"/></ab>
-<ab type="dharani">摩摩拘拘樓樓羅羅<lb
+<ab type='dharani'>摩摩拘拘樓樓羅羅<lb
  n="0513c14" ed="T"/>毘毘樓樓羅羅<lb
  n="0513c15" ed="T"/>旃陀那伽摩世致<lb
  n="0513c16" ed="T"/>迦尼延豆尼延波那櫺<lb
@@ -1657,12 +1657,12 @@
  n="0513c22" ed="T"/>那閭尼訶升浮樓<lb
  n="0513c23" ed="T"/>輸支婆遮娑<lb
  n="0513c24" ed="T"/></ab>
-<ab type="prose">佛告童子。我今已結東方天王提頭賴吒所<lb
+<ab type='prose'>佛告童子。我今已結東方天王提頭賴吒所<lb
  n="0513c25" ed="T"/>領。乾沓婆等九十一字。為諸凡夫而演說<lb
  n="0513c26" ed="T"/>之。汝當告諸四輩男女。塚塔所在誦是章句。<lb
  n="0513c27" ed="T"/>東方魅魔自然消散。不復害人獲吉祥福。<lb
  n="0513c28" ed="T"/></ab>
-<ab type="dharani">阿醯那陀瑟那頭<lb
+<ab type='dharani'>阿醯那陀瑟那頭<lb
  n="0513c29" ed="T"/>毘舍離婆呵帶叉<pb n="0514a" id="T21.1331.0514a" ed="T"/><lb
  n="0514a01" ed="T"/>蛇婆提提歌毘羅<lb
  n="0514a02" ed="T"/>帝婆婆呵若梨耶<lb
@@ -1677,13 +1677,13 @@
  n="0514a11" ed="T"/>阿樓由那伽羅唋阿四<lb
  n="0514a12" ed="T"/>修跛羅薩帝奴阿伽佛陀灑<lb
  n="0514a13" ed="T"/></ab>
-<ab type="prose">佛告童子。我今結是南方天王毘樓勒灌<lb
+<ab type='prose'>佛告童子。我今結是南方天王毘樓勒灌<lb
  n="0514a14" ed="T"/>頂章句。伏諸惡龍吐毒害人。今已結竟令諸<lb
  n="0514a15" ed="T"/>惡龍。攝取毒氣使不得行。塚塔之處有災怪<lb
  n="0514a16" ed="T"/>時。應當說是灌頂章句。即能辟除山海毒氣。<lb
  n="0514a17" ed="T"/>還其處所不能為害。<lb
  n="0514a18" ed="T"/></ab>
-<ab type="dharani">堀地跋聞呵諦<lb
+<ab type='dharani'>堀地跋聞呵諦<lb
  n="0514a19" ed="T"/>三物第呵修羅阿失陀<lb
  n="0514a20" ed="T"/>婆延地婆三婆四<lb
  n="0514a21" ed="T"/>伊第阿陀提婆摩天地<lb
@@ -1697,12 +1697,12 @@
  n="0514a29" ed="T"/>薩那迷端婆梨細嬭<pb n="0514b" id="T21.1331.0514b" ed="T"/><lb
  n="0514b01" ed="T"/>萆梨醯㙄提豫婆由多他兜<lb
  n="0514b02" ed="T"/></ab>
-<ab type="prose">佛告童子。今結是西方天王毘樓博叉所<lb
+<ab type='prose'>佛告童子。今結是西方天王毘樓博叉所<lb
  n="0514b03" ed="T"/>領鳩槃荼鬼。使攝精魅喜嬈人鬼。使歛毒<lb
  n="0514b04" ed="T"/>惡不害於人。令得吉祥無諸惱患。惡魔等侶<lb
  n="0514b05" ed="T"/>山精雜魅隱藏不現。<lb
  n="0514b06" ed="T"/></ab>
-<ab type="dharani">跋樓㝹娑尼世帝蘇彌耶貪呵頭<lb
+<ab type='dharani'>跋樓㝹娑尼世帝蘇彌耶貪呵頭<lb
  n="0514b07" ed="T"/>彌多羅婆伽羅那移婆阿邏婆摩天挮與陀<lb
  n="0514b08" ed="T"/>陀舍提舍伽伽子薩那難多羅婆跋那伊地<lb
  n="0514b09" ed="T"/>婆那陀阿醯揵大比丘那婆米弟婆尼<lb
@@ -1710,7 +1710,7 @@
  n="0514b11" ed="T"/>那剎帝隷富羅息幾大阿陀蔓陀羅鞞栴大<lb
  n="0514b12" ed="T"/>蘇婆尼梢提婆阿陀栴富羅翅大<lb
  n="0514b13" ed="T"/></ab>
-<ab type="prose">佛告童子。是為北方灌頂章句。毘沙門天王<lb
+<ab type='prose'>佛告童子。是為北方灌頂章句。毘沙門天王<lb
  n="0514b14" ed="T"/>所領鬼神。乾闥婆等山精雜魅。往來人所作<lb
  n="0514b15" ed="T"/>諸變怪。應當說是灌頂章句。精魅惡魔不能<lb
  n="0514b16" ed="T"/>為害。<lb
@@ -1755,14 +1755,14 @@
  n="0514c26" ed="T"/>及此四方灌頂章句更無異號。佛言如是。大<lb
  n="0514c27" ed="T"/>會聞法靡不歡喜。釋種童子禮佛而退。<lb
  n="0514c28" ed="T"/>
-</ab><ab type="juan" subtype="close">灌頂經卷第六</ab></div><pb n="0515a" id="T21.1331.0515a" ed="T"/><lb
+</ab><ab type='juan' subtype='close'>灌頂經卷第六</ab></div><pb n="0515a" id="T21.1331.0515a" ed="T"/><lb
  n="0515a01" ed="T"/><lb
- n="0515a02" ed="T"/><div type="jing" level="2">
-<ab type="juan" subtype="open">佛說灌頂伏魔封印大神呪經卷<lb
+ n="0515a02" ed="T"/><div type='jing' level='2'>
+<ab type='juan' subtype='open'>佛說灌頂伏魔封印大神呪經卷<lb
  n="0515a03" ed="T"/>第七</ab><lb
  n="0515a04" ed="T"/><lb
  n="0515a05" ed="T"/><byline>東晉天竺三藏帛尸梨蜜多羅譯</byline><lb
- n="0515a06" ed="T"/><ab type="prose">聞如是。一時佛在舍衛國祇樹精廬。與千二<lb
+ n="0515a06" ed="T"/><ab type='prose'>聞如是。一時佛在舍衛國祇樹精廬。與千二<lb
  n="0515a07" ed="T"/>百五十人俱。於時天尊在禪室中。正是長齋<lb
  n="0515a08" ed="T"/>之始。月十五日明星好時。天帝釋及四天大<lb
  n="0515a09" ed="T"/>王。地下鬼神王臣長者。國中吏民悉詣佛所。<lb
@@ -1884,47 +1884,47 @@
  n="0516b09" ed="T"/>第一維衛佛所說。文頭婁無相章句次第如<lb
  n="0516b10" ed="T"/>是。<lb
  n="0516b11" ed="T"/></ab>
-<ab type="dharani">怛署他　安陀尼　牟訶尼　瞻波尼　探<lb
+<ab type='dharani'>怛署他　安陀尼　牟訶尼　瞻波尼　探<lb
  n="0516b12" ed="T"/>婆尼　阿難陀　阿婆陀　阿婆摩　阿毘那<lb
  n="0516b13" ed="T"/>攘<lb
  n="0516b14" ed="T"/></ab>
-<ab type="prose">第二式佛所說。文頭婁無相章句次第如是。<lb
+<ab type='prose'>第二式佛所說。文頭婁無相章句次第如是。<lb
  n="0516b15" ed="T"/></ab>
-<ab type="dharani">怛署他　修摩那　婆和呵　摩他尼　頗<lb
+<ab type='dharani'>怛署他　修摩那　婆和呵　摩他尼　頗<lb
  n="0516b16" ed="T"/>陀尼　闍婆羅　阿僧伽　摩伽利攘<lb
  n="0516b17" ed="T"/></ab>
-<ab type="prose">第三隨葉佛所說。文頭婁無相章句次第如<lb
+<ab type='prose'>第三隨葉佛所說。文頭婁無相章句次第如<lb
  n="0516b18" ed="T"/>是。<lb
  n="0516b19" ed="T"/></ab>
-<ab type="dharani">怛署他　阿婆羅牟訶　蓋蛇訶難陀　蔚多<lb
+<ab type='dharani'>怛署他　阿婆羅牟訶　蓋蛇訶難陀　蔚多<lb
  n="0516b20" ed="T"/>羅提婆　阿婆羅時哆　阿婆尸瞿利　彌<lb
  n="0516b21" ed="T"/>曇毘訶羅　阿闍訶利陀攘<lb
  n="0516b22" ed="T"/></ab>
-<ab type="prose">第四拘樓秦佛所說。文頭婁無相章句次第<lb
+<ab type='prose'>第四拘樓秦佛所說。文頭婁無相章句次第<lb
  n="0516b23" ed="T"/>如是。<lb
  n="0516b24" ed="T"/></ab>
-<ab type="dharani">怛署他　伊利　彌利　只利　嘻利　毘利<lb
+<ab type='dharani'>怛署他　伊利　彌利　只利　嘻利　毘利<lb
  n="0516b25" ed="T"/>　阿利　伽利攘<lb
  n="0516b26" ed="T"/></ab>
-<ab type="prose">第五拘那舍牟尼佛所說。文頭婁無相章句<lb
+<ab type='prose'>第五拘那含牟尼佛所說。文頭婁無相章句<lb
  n="0516b27" ed="T"/>次第如是。<lb
  n="0516b28" ed="T"/></ab>
-<ab type="dharani">怛署他　伊羅　彌羅　坻羅　毘羅　摩羅<lb
+<ab type='dharani'>怛署他　伊羅　彌羅　坻羅　毘羅　摩羅<lb
  n="0516b29" ed="T"/>　伽羅　尼羅攘<pb n="0516c" id="T21.1331.0516c" ed="T"/><lb
  n="0516c01" ed="T"/></ab>
-<ab type="prose">第六迦葉佛所說。文頭婁無相章句次第如<lb
+<ab type='prose'>第六迦葉佛所說。文頭婁無相章句次第如<lb
  n="0516c02" ed="T"/>是。<lb
  n="0516c03" ed="T"/></ab>
-<ab type="dharani">怛署他　婆留　休留　沙留　拘留　周<lb
+<ab type='dharani'>怛署他　婆留　休留　沙留　拘留　周<lb
  n="0516c04" ed="T"/>留　闍留　摩留攘<lb
  n="0516c05" ed="T"/></ab>
-<ab type="prose">第七我釋迦牟尼佛亦復順本如來所說。文<lb
+<ab type='prose'>第七我釋迦牟尼佛亦復順本如來所說。文<lb
  n="0516c06" ed="T"/>頭婁無相章句次第如是。<lb
  n="0516c07" ed="T"/></ab>
-<ab type="dharani">怛署他　頭毘　羅夜　摩訶　彌提　優呵<lb
+<ab type='dharani'>怛署他　頭毘　羅夜　摩訶　彌提　優呵<lb
  n="0516c08" ed="T"/>　婆梵　婆他攘<lb
  n="0516c09" ed="T"/></ab>
-<ab type="prose">佛告天帝釋。我今為汝及十方眾生。說是灌<lb
+<ab type='prose'>佛告天帝釋。我今為汝及十方眾生。說是灌<lb
  n="0516c10" ed="T"/>頂無相章句。諸佛如來不妄宣說此四十九<lb
  n="0516c11" ed="T"/>章句。我今開此寶函之中出此章句。為未來<lb
  n="0516c12" ed="T"/>世五濁眾生。貪著愛欲不樂正法。多起邪見<lb
@@ -2002,14 +2002,14 @@
  n="0517b26" ed="T"/>經。說此言已。諸天龍王善鬼神等。及阿利<lb
  n="0517b27" ed="T"/>陀七百眷屬四部弟子。聞經歡喜作禮奉受。<lb
  n="0517b28" ed="T"/>
-</ab><ab type="juan" subtype="close">灌頂經卷第七</ab></div><pb n="0517c" id="T21.1331.0517c" ed="T"/><lb
+</ab><ab type='juan' subtype='close'>灌頂經卷第七</ab></div><pb n="0517c" id="T21.1331.0517c" ed="T"/><lb
  n="0517c01" ed="T"/><lb
- n="0517c02" ed="T"/><div type="jing" level="2">
-<ab type="juan" subtype="open">佛說灌頂摩尼羅亶大神呪經卷<lb
+ n="0517c02" ed="T"/><div type='jing' level='2'>
+<ab type='juan' subtype='open'>佛說灌頂摩尼羅亶大神呪經卷<lb
  n="0517c03" ed="T"/>第八</ab><lb
  n="0517c04" ed="T"/><lb
  n="0517c05" ed="T"/><byline>東晉天竺三藏帛尸梨蜜多羅譯</byline><lb
- n="0517c06" ed="T"/><ab type="prose">聞如是。一時佛在舍衛國祇樹給孤獨園。與<lb
+ n="0517c06" ed="T"/><ab type='prose'>聞如是。一時佛在舍衛國祇樹給孤獨園。與<lb
  n="0517c07" ed="T"/>千二百五十比丘俱。佛愍念世間天下人民。<lb
  n="0517c08" ed="T"/>為諸邪魅鬼神所惱。佛便結是摩尼羅亶大<lb
  n="0517c09" ed="T"/>神呪經。於是世尊便舉過去七佛名字以為<lb
@@ -2050,7 +2050,7 @@
  n="0518a15" ed="T"/>四輩令離危厄。不為邪橫之所侵害。使萬事<lb
  n="0518a16" ed="T"/>吉祥。<lb
  n="0518a17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 波覽摩龍王　　阿梨伽龍王　　<lb
  n="0518a18" ed="T"/>因陀羅龍王　　娑伽婁龍王　　<lb
  n="0518a19" ed="T"/>思普陀龍王　　修陀利龍王　　<lb
@@ -2070,7 +2070,7 @@
  n="0518b04" ed="T"/>毘大都龍王　　跋陀羅龍王　　<lb
  n="0518b05" ed="T"/>摩根陀龍王　　
 </ab><lb
- n="0518b06" ed="T"/><ab type="prose">佛告阿難是諸龍王不可稱數。我今為汝及<lb
+ n="0518b06" ed="T"/><ab type='prose'>佛告阿難是諸龍王不可稱數。我今為汝及<lb
  n="0518b07" ed="T"/>諸四輩。略說三十五龍王名字上首者也。若<lb
  n="0518b08" ed="T"/>有厄難恐怖之日。令諸弟子演其名字。至<lb
  n="0518b09" ed="T"/>心呼者立在左右。辟除邪惡萬事吉祥。<lb
@@ -2300,15 +2300,15 @@
  n="0521a01" ed="T"/>不可稱數。阿難頭面禮佛足。四輩亦然歡喜<lb
  n="0521a02" ed="T"/>無量頂受奉行。<lb
  n="0521a03" ed="T"/>
-</ab><ab type="juan" subtype="close">灌頂經卷第八</ab></div><lb
+</ab><ab type='juan' subtype='close'>灌頂經卷第八</ab></div><lb
  n="0521a04" ed="T"/><lb
  n="0521a05" ed="T"/><lb
- n="0521a06" ed="T"/><div type="jing" level="2">
-<ab type="juan" subtype="open">佛說灌頂召五方龍王攝疫毒神<lb
+ n="0521a06" ed="T"/><div type='jing' level='2'>
+<ab type='juan' subtype='open'>佛說灌頂召五方龍王攝疫毒神<lb
  n="0521a07" ed="T"/>呪上品經卷第九</ab><lb
  n="0521a08" ed="T"/><lb
  n="0521a09" ed="T"/><byline>東晉天竺三藏帛尸梨蜜多羅譯</byline><lb
- n="0521a10" ed="T"/><ab type="prose">聞如是。一時佛遊王舍大城竹林精舍。與<lb
+ n="0521a10" ed="T"/><ab type='prose'>聞如是。一時佛遊王舍大城竹林精舍。與<lb
  n="0521a11" ed="T"/>四部弟子眷屬圍遶。天龍八部悉來集會。佛<lb
  n="0521a12" ed="T"/>為說法垂欲竟時。於是阿難從坐而起。齊整<lb
  n="0521a13" ed="T"/>衣服稽首佛足。長跪合掌而白佛言。維耶離<lb
@@ -2545,14 +2545,14 @@
  n="0523c12" ed="T"/>法受持大眾人民天龍鬼神聞經歡喜作禮奉<lb
  n="0523c13" ed="T"/>行。<lb
  n="0523c14" ed="T"/>
-</ab><ab type="juan" subtype="close">灌頂經卷第九</ab></div><lb
+</ab><ab type='juan' subtype='close'>灌頂經卷第九</ab></div><lb
  n="0523c15" ed="T"/><lb
  n="0523c16" ed="T"/><lb
- n="0523c17" ed="T"/><div type="jing" level="2">
-<ab type="juan" subtype="open">佛說灌頂梵天神策經卷第十</ab><lb
+ n="0523c17" ed="T"/><div type='jing' level='2'>
+<ab type='juan' subtype='open'>佛說灌頂梵天神策經卷第十</ab><lb
  n="0523c18" ed="T"/><lb
  n="0523c19" ed="T"/><byline>東晉天竺三藏帛尸梨蜜多羅譯</byline><lb
- n="0523c20" ed="T"/><ab type="prose">聞如是。一時佛在因沙崛山中。與千二百五<lb
+ n="0523c20" ed="T"/><ab type='prose'>聞如是。一時佛在因沙崛山中。與千二百五<lb
  n="0523c21" ed="T"/>十比丘俱。菩薩三萬人。佛為天龍八部說法。<lb
  n="0523c22" ed="T"/>人民鬼神各隨業緣得道不同。說法既竟。於<lb
  n="0523c23" ed="T"/>是梵王從座而起。長跪合掌而白佛言。世尊<lb
@@ -2570,7 +2570,7 @@
  n="0524a06" ed="T"/>說卜經一百偈頌以示萬姓。決了狐疑知人<lb
  n="0524a07" ed="T"/>吉凶。今以偈頌而說卦曰。<lb
  n="0524a08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若聞佛呪經　　百魅皆消形　　<lb
  n="0524a09" ed="T"/>舍宅得安隱　　縣官不橫生　　<lb
  n="0524a10" ed="T"/>迴向無上道　　梵天帝相榮　　<lb
@@ -2936,7 +2936,7 @@
  n="0528a19" ed="T"/>罪報既無窮　　可歸於三寶　　<lb
  n="0528a20" ed="T"/>持戒不毀犯　　自致無上道　　<lb
  n="0528a21" ed="T"/>愚癡不信法　　縱逸無所畏　　<lb
- n="0528a22" ed="T"/>百苦纏身形　　出輒遇禍崇　　<lb
+ n="0528a22" ed="T"/>百苦纏身形　　出輒遇禍祟　　<lb
  n="0528a23" ed="T"/>誹謗說人惡　　善事則隱諱　　<lb
  n="0528a24" ed="T"/>五逆無慈心　　後墮畜生類　　<lb
  n="0528a25" ed="T"/>精勤奉正真　　晝夜修六度　　<lb
@@ -2970,7 +2970,7 @@
  n="0528b24" ed="T"/>得善無惡緣　　戒神常擁護　　<lb
  n="0528b25" ed="T"/>梵天說神策　　吉祥不相誤　　
 </ab><lb
- n="0528b26" ed="T"/><ab type="prose">佛語梵天大王。汝今以為一切人民。說此<lb
+ n="0528b26" ed="T"/><ab type='prose'>佛語梵天大王。汝今以為一切人民。說此<lb
  n="0528b27" ed="T"/>神策竟。利益一切功德不少。令諸疑惑各得<lb
  n="0528b28" ed="T"/>開解。我今當演善神灌頂章句以為勸助。若<lb
  n="0528b29" ed="T"/>有人民聞策之者。或信不信令得正念。使一<pb n="0528c" id="T21.1331.0528c" ed="T"/><lb
@@ -2994,15 +2994,15 @@
  n="0528c18" ed="T"/>善哉。四眾聞說梵王神策。淨心歡喜作禮奉<lb
  n="0528c19" ed="T"/>行。<lb
  n="0528c20" ed="T"/>
-</ab><ab type="juan" subtype="close">灌頂經卷第十</ab></div><lb
+</ab><ab type='juan' subtype='close'>灌頂經卷第十</ab></div><lb
  n="0528c21" ed="T"/><lb
  n="0528c22" ed="T"/><lb
- n="0528c23" ed="T"/><div type="jing" level="2">
-<ab type="juan" subtype="open">佛說灌頂隨願往生十方淨土經<lb
+ n="0528c23" ed="T"/><div type='jing' level='2'>
+<ab type='juan' subtype='open'>佛說灌頂隨願往生十方淨土經<lb
  n="0528c24" ed="T"/>卷第十一</ab><lb
  n="0528c25" ed="T"/><lb
  n="0528c26" ed="T"/><byline>東晉天竺三藏帛尸梨蜜多羅譯</byline><lb
- n="0528c27" ed="T"/><ab type="prose">聞如是。一時佛在鳩尸那竭國娑羅雙樹間。<lb
+ n="0528c27" ed="T"/><ab type='prose'>聞如是。一時佛在鳩尸那竭國娑羅雙樹間。<lb
  n="0528c28" ed="T"/>爾時世尊般涅槃時。十方國土無央數眾。天<lb
  n="0528c29" ed="T"/>龍八部悉皆悲號歎息。禽獸雜類悉皆如是。<pb n="0529a" id="T21.1331.0529a" ed="T"/><lb
  n="0529a01" ed="T"/>來到佛所稽首作禮畢訖却坐。世尊告曰若<lb
@@ -3248,7 +3248,7 @@
  n="0531c09" ed="T"/>於惡道。於是世尊在大眾中。宣說諸佛無上<lb
  n="0531c10" ed="T"/>章句。即作偈頌而說之曰。<lb
  n="0531c11" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 波利富樓那　　遮利三慢陀　　<lb
  n="0531c12" ed="T"/>達舍尼羅佉　　摩訶毘羅訶　　<lb
  n="0531c13" ed="T"/>伽帝三慢陀　　毘陀摩伽帝　　<lb
@@ -3260,7 +3260,7 @@
  n="0531c19" ed="T"/>阿陀摩羅尼　　阿利摩羅多　　<lb
  n="0531c20" ed="T"/>毘鼓三慢陀　　達尼佉羅陀　　
 </ab><lb
- n="0531c21" ed="T"/><ab type="prose">佛語普廣菩薩摩訶薩。是為灌頂無上章句。<lb
+ n="0531c21" ed="T"/><ab type='prose'>佛語普廣菩薩摩訶薩。是為灌頂無上章句。<lb
  n="0531c22" ed="T"/>必定不二。解除亡者無量罪厄。令過命者<lb
  n="0531c23" ed="T"/>得生天上。隨心所願往生十方。此大章句真<lb
  n="0531c24" ed="T"/>實之言。在所生處常見十方微妙淨土。若在<lb
@@ -3302,15 +3302,15 @@
  n="0532b02" ed="T"/>福因緣。又名灌頂無上章句。佛說是經已。四<lb
  n="0532b03" ed="T"/>眾人民天龍八部。聞佛所說作禮奉行。<lb
  n="0532b04" ed="T"/>
-</ab><ab type="juan" subtype="close">灌頂經卷第十一</ab></div><lb
+</ab><ab type='juan' subtype='close'>灌頂經卷第十一</ab></div><lb
  n="0532b05" ed="T"/><lb
  n="0532b06" ed="T"/><lb
- n="0532b07" ed="T"/><div type="jing" level="2">
-<ab type="juan" subtype="open">佛說灌頂拔除過罪生死得度經<lb
+ n="0532b07" ed="T"/><div type='jing' level='2'>
+<ab type='juan' subtype='open'>佛說灌頂拔除過罪生死得度經<lb
  n="0532b08" ed="T"/>卷第十二</ab><lb
  n="0532b09" ed="T"/><lb
  n="0532b10" ed="T"/><byline>東晉天竺三藏帛尸梨蜜多羅譯</byline><lb
- n="0532b11" ed="T"/><ab type="prose">聞如是。一時佛遊維耶離音樂樹下。與八千<lb
+ n="0532b11" ed="T"/><ab type='prose'>聞如是。一時佛遊維耶離音樂樹下。與八千<lb
  n="0532b12" ed="T"/>比丘眾菩薩三萬六千人俱。國王大臣人民。<lb
  n="0532b13" ed="T"/>及諸天龍八部鬼神共會說法。於是文殊師<lb
  n="0532b14" ed="T"/>利法王子菩薩摩訶薩。承佛威神從座而起。<lb
@@ -3644,11 +3644,11 @@
  n="0536a23" ed="T"/>後解結令人得。福灌頂章句法應如是。即說<lb
  n="0536a24" ed="T"/>呪曰。<lb
  n="0536a25" ed="T"/></ab>
-<ab type="dharani">南謨鼻殺遮俱　嚧吠瑠璃耶　鉢波<lb
+<ab type='dharani'>南謨鼻殺遮俱　嚧吠瑠璃耶　鉢波<lb
  n="0536a26" ed="T"/>喝邏社耶　哆姪他　鼻殺遮鼻殺遮　娑婆<lb
  n="0536a27" ed="T"/>揭帝　薩婆訶<lb
  n="0536a28" ed="T"/></ab>
-<ab type="prose">佛說是經時。比丘僧八千人。諸菩薩三萬六<lb
+<ab type='prose'>佛說是經時。比丘僧八千人。諸菩薩三萬六<lb
  n="0536a29" ed="T"/>千人。諸天龍鬼神八部大王無不歡喜。阿難<pb n="0536b" id="T21.1331.0536b" ed="T"/><lb
  n="0536b01" ed="T"/>從座而起前白佛言。演說此法當何名之。<lb
  n="0536b02" ed="T"/>佛言此經凡有三名。一名藥師瑠璃光佛本<lb
@@ -3656,5 +3656,5 @@
  n="0536b04" ed="T"/>三名拔除過罪生死得度。佛說經竟大眾人<lb
  n="0536b05" ed="T"/>民作禮奉行。<lb
  n="0536b06" ed="T"/>
-</ab><ab type="juan" subtype="close">灌頂經卷第十二</ab></div></div>
+</ab><ab type='juan' subtype='close'>灌頂經卷第十二</ab></div></div>
 </body></text></TEI>

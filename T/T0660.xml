@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T16</biblScope>
                     <idno type="Taisho">T16n0660</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0283b18" ed="T"/><lb
  n="0283b19" ed="T"/><lb
  n="0283b20" ed="T"/><lb
  n="0283b21" ed="T"/>
-<ab type="juan" subtype="open">佛說寶雨經卷第一</ab><lb
+<ab type='juan' subtype='open'>佛說寶雨經卷第一</ab><lb
  n="0283b22" ed="T"/><lb
  n="0283b23" ed="T"/><byline>唐天竺三藏達摩流支譯</byline><lb
- n="0283b24" ed="T"/><div type="jing" level="2"><ab type="prose">如是我聞：一時薄伽梵住伽耶城伽耶山頂，<lb
+ n="0283b24" ed="T"/><div type='jing' level='2'><ab type='prose'>如是我聞：一時薄伽梵住伽耶城伽耶山頂，<lb
  n="0283b25" ed="T"/>與大苾芻眾七萬二千人俱，皆是阿羅漢，諸<lb
  n="0283b26" ed="T"/>漏已盡，無復煩惱，得真自在；心善解脫、慧善<lb
  n="0283b27" ed="T"/>解脫；如調慧馬，亦如大象；已作所作，已辦所<lb
@@ -458,13 +458,13 @@
  n="0288a25" ed="T"/>是名菩薩三輪戒淨。「善男子！菩薩摩訶薩成<lb
  n="0288a26" ed="T"/>就此十種法，得尸羅圓滿。<lb
  n="0288a27" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說寶雨經卷第一</ab><pb n="0288b" ed="T" id="T16.0660.0288b"/><lb
+</ab><ab type='juan' subtype='close'>佛說寶雨經卷第一</ab><pb n="0288b" ed="T" id="T16.0660.0288b"/><lb
  n="0288b01" ed="T"/><lb
  n="0288b02" ed="T"/>
-<ab type="juan" subtype="open">佛說寶雨經卷第二</ab><lb
+<ab type='juan' subtype='open'>佛說寶雨經卷第二</ab><lb
  n="0288b03" ed="T"/><lb
  n="0288b04" ed="T"/><byline>唐天竺三藏達摩流支譯</byline><lb
- n="0288b05" ed="T"/><ab type="prose">「復次，善男子！菩薩摩訶薩成就十種法，得忍<lb
+ n="0288b05" ed="T"/><ab type='prose'>「復次，善男子！菩薩摩訶薩成就十種法，得忍<lb
  n="0288b06" ed="T"/>圓滿。何等為十？一者、內忍圓滿；二者、外忍圓<lb
  n="0288b07" ed="T"/>滿；三者、法忍圓滿；四者、隨佛教忍圓滿；五者、<lb
  n="0288b08" ed="T"/>無分限忍圓滿；六者、無分別忍圓滿；七者、不<lb
@@ -805,8 +805,8 @@
  n="0292a24" ed="T"/>正等覺。是名菩薩無等般若。「善男子！菩薩能<lb
  n="0292a25" ed="T"/>成就此十種法，得般若圓滿。」</ab></div><lb
  n="0292a26" ed="T"/>
-<ab type="juan" subtype="close">佛說寶雨經卷第二</ab><lb
- n="0292a27" ed="T"/><div type="w" level="2"><ab type="prose"><lb
+<ab type='juan' subtype='close'>佛說寶雨經卷第二</ab><lb
+ n="0292a27" ed="T"/><div type='w' level='2'><ab type='prose'><lb
  n="0292a29" ed="T"/><pb n="0292b" ed="T" id="T16.0660.0292b"/><lb
  n="0292b01" ed="T"/><lb
  n="0292b02" ed="T"/><lb
@@ -840,10 +840,10 @@
  n="0292b30" ed="T"/></ab></div><pb n="0292c" ed="T" id="T16.0660.0292c"/><lb
  n="0292c01" ed="T"/><lb
  n="0292c02" ed="T"/>
-<ab type="juan" subtype="open">佛說寶雨經卷第三</ab><lb
+<ab type='juan' subtype='open'>佛說寶雨經卷第三</ab><lb
  n="0292c03" ed="T"/><lb
  n="0292c04" ed="T"/><byline>唐天竺三藏達摩流支譯</byline><lb
- n="0292c05" ed="T"/><div type="jing" level="2"><ab type="prose">「復次，善男子！菩薩成就十種法，得方便善巧<lb
+ n="0292c05" ed="T"/><div type='jing' level='2'><ab type='prose'>「復次，善男子！菩薩成就十種法，得方便善巧<lb
  n="0292c06" ed="T"/>圓滿。何等為十？一者、得迴向方便善巧；二者、<lb
  n="0292c07" ed="T"/>令諸外道歸向方便善巧；三者、轉捨境界方<lb
  n="0292c08" ed="T"/>便善巧；四者、除遣惡作方便善巧；五者、救護<lb
@@ -1229,13 +1229,13 @@
  n="0297a25" ed="T"/>外道哮吼音聲，不生怖畏。是名菩薩得不驚<lb
  n="0297a26" ed="T"/>怖。「善男子！菩薩成就此十種法，得如大地。<lb
  n="0297a27" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說寶雨經卷第三</ab><pb n="0297b" ed="T" id="T16.0660.0297b"/><lb
+</ab><ab type='juan' subtype='close'>佛說寶雨經卷第三</ab><pb n="0297b" ed="T" id="T16.0660.0297b"/><lb
  n="0297b01" ed="T"/><lb
  n="0297b02" ed="T"/>
-<ab type="juan" subtype="open">佛說寶雨經卷第四</ab><lb
+<ab type='juan' subtype='open'>佛說寶雨經卷第四</ab><lb
  n="0297b03" ed="T"/><lb
  n="0297b04" ed="T"/><byline>唐天竺三藏達摩流支譯</byline><lb
- n="0297b05" ed="T"/><ab type="prose">「復次，善男子！菩薩成就十種法，得如於水。何<lb
+ n="0297b05" ed="T"/><ab type='prose'>「復次，善男子！菩薩成就十種法，得如於水。何<lb
  n="0297b06" ed="T"/>等為十？一者、隨順善法；二者、常能生長一切<lb
  n="0297b07" ed="T"/>白法；三者、歡喜淨信、悅樂滋潤；四者、令一切<lb
  n="0297b08" ed="T"/>煩惱相續朽敗；五者、自性澄清、無濁、潔淨；六<lb
@@ -1621,14 +1621,14 @@
  n="0301c11" ed="T"/>以繒及水繫灌其頂；十八、能不捨離諸佛正<lb
  n="0301c12" ed="T"/>法，示現悕求。是名菩薩十八不共之法。<lb
  n="0301c13" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說寶雨經卷第四</ab><lb
+</ab><ab type='juan' subtype='close'>佛說寶雨經卷第四</ab><lb
  n="0301c14" ed="T"/><lb
  n="0301c15" ed="T"/><lb
  n="0301c16" ed="T"/>
-<ab type="juan" subtype="open">佛說寶雨經卷第五</ab><lb
+<ab type='juan' subtype='open'>佛說寶雨經卷第五</ab><lb
  n="0301c17" ed="T"/><lb
  n="0301c18" ed="T"/><byline>唐天竺三藏達摩流支譯</byline><lb
- n="0301c19" ed="T"/><ab type="prose">「善男子！云何名為如來十力？一、處、非處智<lb
+ n="0301c19" ed="T"/><ab type='prose'>「善男子！云何名為如來十力？一、處、非處智<lb
  n="0301c20" ed="T"/>力；二、去、來、現在異熟業因要期智力；三、種種<lb
  n="0301c21" ed="T"/>勝解智力；四、種種界智力；五、根勝劣智力；六、<lb
  n="0301c22" ed="T"/>遍趣行智力；七、一切靜慮解脫——三摩地、三摩<lb
@@ -2018,14 +2018,14 @@
  n="0306a29" ed="T"/>之所攝取。「善男子！菩薩成就此十種法，得如<pb n="0306b" ed="T" id="T16.0660.0306b"/><lb
  n="0306b01" ed="T"/>蓮花。<lb
  n="0306b02" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說寶雨經卷第五</ab><lb
+</ab><ab type='juan' subtype='close'>佛說寶雨經卷第五</ab><lb
  n="0306b03" ed="T"/><lb
  n="0306b04" ed="T"/><lb
  n="0306b05" ed="T"/>
-<ab type="juan" subtype="open">佛說寶雨經卷第六</ab><lb
+<ab type='juan' subtype='open'>佛說寶雨經卷第六</ab><lb
  n="0306b06" ed="T"/><lb
  n="0306b07" ed="T"/><byline>唐天竺三藏達摩流支譯</byline><lb
- n="0306b08" ed="T"/><ab type="prose">「復次，善男子！菩薩成就十種法，得廣大心。何<lb
+ n="0306b08" ed="T"/><ab type='prose'>「復次，善男子！菩薩成就十種法，得廣大心。何<lb
  n="0306b09" ed="T"/>等為十？一者、我當積集一切平等諸波羅蜜<lb
  n="0306b10" ed="T"/>多，是名發起廣大之心；二者、我當圓滿一切<lb
  n="0306b11" ed="T"/>佛法，是名發起廣大之心；三者、我當調伏一<lb
@@ -2408,15 +2408,15 @@
  n="0310c11" ed="T"/>已，當得此法。善男子！菩薩成就此十種法，得<lb
  n="0310c12" ed="T"/>法界善巧。<lb
  n="0310c13" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說寶雨經卷第六</ab><lb
+</ab><ab type='juan' subtype='close'>佛說寶雨經卷第六</ab><lb
  n="0310c14" ed="T"/><lb
  n="0310c15" ed="T"/><lb
  n="0310c16" ed="T"/><lb
  n="0310c17" ed="T"/>
-<ab type="juan" subtype="open">佛說寶雨經卷第七</ab><lb
+<ab type='juan' subtype='open'>佛說寶雨經卷第七</ab><lb
  n="0310c18" ed="T"/><lb
  n="0310c19" ed="T"/><byline>唐天竺三藏達摩流支譯</byline><lb
- n="0310c20" ed="T"/><ab type="prose">「復次，善男子！菩薩成就十種法，而得空性。何<lb
+ n="0310c20" ed="T"/><ab type='prose'>「復次，善男子！菩薩成就十種法，而得空性。何<lb
  n="0310c21" ed="T"/>等為十？一者、能知力空性；二者、能知無畏空<lb
  n="0310c22" ed="T"/>性；三者、能知不共法空性；四者、能知戒蘊空<lb
  n="0310c23" ed="T"/>性；五者、能知三摩地空性；六者、能知般若空<lb
@@ -2815,14 +2815,14 @@
  n="0315b09" ed="T"/>察境界之時，不為境縛，亦無執著，復教化人<lb
  n="0315b10" ed="T"/>如是修學。是名菩薩善行境界念處。<lb
  n="0315b11" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說寶雨經卷第七</ab><lb
+</ab><ab type='juan' subtype='close'>佛說寶雨經卷第七</ab><lb
  n="0315b12" ed="T"/><lb
  n="0315b13" ed="T"/><lb
  n="0315b14" ed="T"/>
-<ab type="juan" subtype="open">佛說寶雨經卷第八</ab><lb
+<ab type='juan' subtype='open'>佛說寶雨經卷第八</ab><lb
  n="0315b15" ed="T"/><lb
  n="0315b16" ed="T"/><byline>唐天竺三藏達摩流支譯</byline><lb
- n="0315b17" ed="T"/><ab type="prose">「云何菩薩善行阿蘭若念處？善男子！菩薩<lb
+ n="0315b17" ed="T"/><ab type='prose'>「云何菩薩善行阿蘭若念處？善男子！菩薩<lb
  n="0315b18" ed="T"/>作是思惟：『住無諍行及住寂靜行，若有天龍、<lb
  n="0315b19" ed="T"/>藥叉、健達縛等他心神通，能知我心、心所有<lb
  n="0315b20" ed="T"/>法，是故我應如理作意，遠離不如理作意，於<lb
@@ -3206,14 +3206,14 @@
  n="0319c21" ed="T"/>矯詐。善男子！菩薩成就此十種法，能善軌則<lb
  n="0319c22" ed="T"/>所行境界，威儀具足。<lb
  n="0319c23" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說寶雨經卷第八</ab><lb
+</ab><ab type='juan' subtype='close'>佛說寶雨經卷第八</ab><lb
  n="0319c24" ed="T"/><lb
  n="0319c25" ed="T"/><lb
  n="0319c26" ed="T"/>
-<ab type="juan" subtype="open">佛說寶雨經卷第九</ab><lb
+<ab type='juan' subtype='open'>佛說寶雨經卷第九</ab><lb
  n="0319c27" ed="T"/><lb
  n="0319c28" ed="T"/><byline>唐天竺三藏達摩流支譯</byline><lb
- n="0319c29" ed="T"/><ab type="prose">「復次，善男子！菩薩成就十種法，離慳悋、嫉妬。<pb n="0320a" ed="T" id="T16.0660.0320a"/><lb
+ n="0319c29" ed="T"/><ab type='prose'>「復次，善男子！菩薩成就十種法，離慳悋、嫉妬。<pb n="0320a" ed="T" id="T16.0660.0320a"/><lb
  n="0320a01" ed="T"/>何等為十？一者、得自為施主；二者、能勸他布<lb
  n="0320a02" ed="T"/>施；三者、能讚歎布施；四者、慶慰他施；五者、讚<lb
  n="0320a03" ed="T"/>餘施主令得歡喜；六者、見施他時終不起念，<lb
@@ -3589,13 +3589,13 @@
  n="0324a25" ed="T"/>我。我起悲心憐愍彼故，而攝受之。』是名菩<lb
  n="0324a26" ed="T"/>薩善能捨離為利養故虛言鼓動。<lb
  n="0324a27" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說寶雨經卷第九</ab><pb n="0324b" ed="T" id="T16.0660.0324b"/><lb
+</ab><ab type='juan' subtype='close'>佛說寶雨經卷第九</ab><pb n="0324b" ed="T" id="T16.0660.0324b"/><lb
  n="0324b01" ed="T"/><lb
  n="0324b02" ed="T"/>
-<ab type="juan" subtype="open">佛說寶雨經卷第十</ab><lb
+<ab type='juan' subtype='open'>佛說寶雨經卷第十</ab><lb
  n="0324b03" ed="T"/><lb
  n="0324b04" ed="T"/><byline>唐天竺三藏達摩流支譯</byline><lb
- n="0324b05" ed="T"/><ab type="prose">「云何菩薩善能捨離惡求利養？善男子！菩薩<lb
+ n="0324b05" ed="T"/><ab type='prose'>「云何菩薩善能捨離惡求利養？善男子！菩薩<lb
  n="0324b06" ed="T"/>不為利養故，身心行惡。身行惡者，為利養故，<lb
  n="0324b07" ed="T"/>馳走來往而犯尸羅。心行惡者，悕求利養，若<lb
  n="0324b08" ed="T"/>見餘人所得利養及同梵行者，興心損壞。是<lb
@@ -3975,5 +3975,5 @@
  n="0328c05" ed="T"/>及諸天、龍、藥叉、健達縛、阿素洛、揭路荼、緊捺洛、<lb
  n="0328c06" ed="T"/>莫呼洛伽，聞佛所說，歡喜奉行。</ab></div><lb
  n="0328c07" ed="T"/>
-<ab type="juan" subtype="close">佛說寶雨經卷第十</ab></div>
+<ab type='juan' subtype='close'>佛說寶雨經卷第十</ab></div>
 </body></text></TEI>

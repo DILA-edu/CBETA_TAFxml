@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T15</biblScope>
                     <idno type="Taisho">T15n0650</idno>
                 </bibl>
@@ -43,10 +43,10 @@
  n="0750a01" ed="T"/><lb
  n="0750a02" ed="T"/><lb
  n="0750a03" ed="T"/>
-<ab type="juan" subtype="open">諸法無行經卷上</ab><lb
+<ab type='juan' subtype='open'>諸法無行經卷上</ab><lb
  n="0750a04" ed="T"/><lb
  n="0750a05" ed="T"/><byline>姚秦龜茲三藏鳩摩羅什譯</byline><lb
- n="0750a06" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時佛在王舍城耆闍崛山中，共<lb
+ n="0750a06" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時佛在王舍城耆闍崛山中，共<lb
  n="0750a07" ed="T"/>大比丘僧五百人俱，菩薩九萬二千人，其名<lb
  n="0750a08" ed="T"/>曰：眾德莊嚴菩薩摩訶薩、師子遊步菩薩、光<lb
  n="0750a09" ed="T"/>無障淨王菩薩、高山頂自在王菩薩、愛喜淨<lb
@@ -60,7 +60,7 @@
  n="0750a17" ed="T"/>遊步菩薩見是大會，即從座起，偏袒右肩右<lb
  n="0750a18" ed="T"/>膝著地，合掌向佛，以偈問曰：<lb
  n="0750a19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「世尊大導師，　　名德稱無量，　　<lb
  n="0750a20" ed="T"/>今此大眾集，　　願說寂滅法。　　<lb
  n="0750a21" ed="T"/>邪見諸愛慢，　　嫉妬瞋恚性，　　<lb
@@ -109,7 +109,7 @@
  n="0750c06" ed="T"/>諸文字語言，　　是法皆一相，　　<lb
  n="0750c07" ed="T"/>世尊大慈愍，　　願開是法門。」　　
 </ab><lb
- n="0750c08" ed="T"/><ab type="prose">爾時世尊讚師子遊步菩薩摩訶薩言：「善哉，<lb
+ n="0750c08" ed="T"/><ab type='prose'>爾時世尊讚師子遊步菩薩摩訶薩言：「善哉，<lb
  n="0750c09" ed="T"/>善哉！善男子！汝所問者甚為希有，一切世<lb
  n="0750c10" ed="T"/>間之所難信。善男子！止止勿問。所以者何？<lb
  n="0750c11" ed="T"/>新發意菩薩，於此空見、無相見、無作見、無生<lb
@@ -149,7 +149,7 @@
  n="0751a16" ed="T"/>義。」「唯然。世尊！我當受之。」爾時世尊以偈答<lb
  n="0751a17" ed="T"/>曰：<lb
  n="0751a18" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「若人欲成佛，　　勿壞於貪欲，　　<lb
  n="0751a19" ed="T"/>諸法即貪欲，　　知是則成佛。　　<lb
  n="0751a20" ed="T"/>貪欲及恚癡，　　無有能得者，　　<lb
@@ -168,7 +168,7 @@
  n="0751b04" ed="T"/>凡夫自分別，　　我貪我瞋恚，　　<lb
  n="0751b05" ed="T"/>如是愚癡人，　　則墮三惡道。　　<lb
  n="0751b06" ed="T"/>實相無貪恚，　　癡亦不可得，　　<lb
- n="0751b07" ed="T"/>分別如幻法，　　自性煩惱熱，　　<lb
+ n="0751b07" ed="T"/>分別如幻法，　　自生煩惱熱，　　<lb
  n="0751b08" ed="T"/>實相無煩惱，　　無眾生無佛，　　<lb
  n="0751b09" ed="T"/>分別無生法，　　凡夫願作佛。　　<lb
  n="0751b10" ed="T"/>不見諸佛法，　　亦不見眾生，　　<lb
@@ -255,7 +255,7 @@
  n="0752b04" ed="T"/>無量億諸佛，　　皆亦與是人，　　<lb
  n="0752b05" ed="T"/>諸經妙法寶，　　自然皆能說。」　　
 </ab><lb
- n="0752b06" ed="T"/><ab type="prose">爾時師子遊步菩薩白佛言：「世尊！今說是偈，<lb
+ n="0752b06" ed="T"/><ab type='prose'>爾時師子遊步菩薩白佛言：「世尊！今說是偈，<lb
  n="0752b07" ed="T"/>有幾所人得自利益？」佛言：「善男子！汝見是<lb
  n="0752b08" ed="T"/>大眾不？」「唯然已見。」佛言：「今說此法時，會<lb
  n="0752b09" ed="T"/>中有無量無數眾生共集，與天、龍、夜叉、乾<lb
@@ -603,14 +603,14 @@
  n="0756b10" ed="T"/>取，常是捨相，諸法非智慧所及，非愚癡所<lb
  n="0756b11" ed="T"/>及，是故無學名不動相。」<lb
  n="0756b12" ed="T"/>
-</ab><ab type="juan" subtype="close">諸法無行經卷上</ab><lb
+</ab><ab type='juan' subtype='close'>諸法無行經卷上</ab><lb
  n="0756b13" ed="T"/><lb
  n="0756b14" ed="T"/><lb
  n="0756b15" ed="T"/>
-<ab type="juan" subtype="open">諸法無行經卷下</ab><lb
+<ab type='juan' subtype='open'>諸法無行經卷下</ab><lb
  n="0756b16" ed="T"/><lb
  n="0756b17" ed="T"/><byline>姚秦龜茲三藏鳩摩羅什譯</byline><lb
- n="0756b18" ed="T"/><ab type="prose">爾時文殊師利法王子白佛言：「世尊！我亦樂<lb
+ n="0756b18" ed="T"/><ab type='prose'>爾時文殊師利法王子白佛言：「世尊！我亦樂<lb
  n="0756b19" ed="T"/>說不動相。」佛言：「汝樂說者便可說之。」文殊<lb
  n="0756b20" ed="T"/>師利言：「世尊！一切眾生皆得菩提，是名不<lb
  n="0756b21" ed="T"/>動相。」「文殊師利！云何是事名不動相？」「世尊！<lb
@@ -896,7 +896,7 @@
  n="0759c11" ed="T"/>如是深法，乃至令作修助菩提道法因緣。』爾<lb
  n="0759c12" ed="T"/>時喜根菩薩於眾僧前，說是諸偈：<lb
  n="0759c13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『貪欲是涅槃，　　恚癡亦如是，　　<lb
  n="0759c14" ed="T"/>如此三事中，　　有無量佛道。　　<lb
  n="0759c15" ed="T"/>若有人分別，　　貪欲瞋恚癡，　　<lb
@@ -1009,7 +1009,7 @@
  n="0761a06" ed="T"/>聞是實法者，　　則生疑怖畏，　　<lb
  n="0761a07" ed="T"/>是人無量劫，　　備受諸苦分。』　　
 </ab><lb
- n="0761a08" ed="T"/><ab type="prose">「說是諸偈法時，三萬諸天子得無生法忍，萬<lb
+ n="0761a08" ed="T"/><ab type='prose'>「說是諸偈法時，三萬諸天子得無生法忍，萬<lb
  n="0761a09" ed="T"/>八千人漏盡解脫。即時地裂，勝意比丘墮大<lb
  n="0761a10" ed="T"/>地獄。以是業障罪因緣故，百千億那由他<lb
  n="0761a11" ed="T"/>劫，於大地獄受諸苦毒；從地獄出，七十四<lb
@@ -1053,5 +1053,5 @@
  n="0761b20" ed="T"/>天子等一切菩薩眾，及阿難、天、人、阿修羅等，<lb
  n="0761b21" ed="T"/>聞佛所說，皆大歡喜。<lb
  n="0761b22" ed="T"/>
-</ab><ab type="juan" subtype="close">諸法無行經卷下</ab></div>
+</ab><ab type='juan' subtype='close'>諸法無行經卷下</ab></div>
 </body></text></TEI>

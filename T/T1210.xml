@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1210</idno>
                 </bibl>
@@ -43,14 +43,14 @@
  n="0041a15" ed="T"/><lb
  n="0041a16" ed="T"/><lb
  n="0041a17" ed="T"/><lb
- n="0041a18" ed="T"/><div type="jing" level="1"><lb
+ n="0041a18" ed="T"/><div type='jing' level='1'><lb
  n="0041a19" ed="T"/>
-<ab type="juan" subtype="open">降三世忿怒明王念誦儀軌</ab><lb
+<ab type='juan' subtype='open'>降三世忿怒明王念誦儀軌</ab><lb
  n="0041a20" ed="T"/><lb
  n="0041a21" ed="T"/><byline>特進試鴻臚鄉大興<lb
  n="0041a22" ed="T"/>善寺三藏沙門大廣智<lb
  n="0041a23" ed="T"/>不空奉　詔譯</byline><lb
- n="0041a24" ed="T"/><ab type="prose">爾時諸佛菩薩一切賢聖現世間。利益一切<lb
+ n="0041a24" ed="T"/><ab type='prose'>爾時諸佛菩薩一切賢聖現世間。利益一切<lb
  n="0041a25" ed="T"/>有情。時為非順正法相。損壞國土眾生魔<lb
  n="0041a26" ed="T"/>等。阿閦普賢大弘誓甚深故示現忿怒形相。<lb
  n="0041a27" ed="T"/>白佛言。我在真言。於世間甚所希有。諸如<lb
@@ -59,11 +59,11 @@
  n="0041b01" ed="T"/>王。汝聽說降伏真言。則時示現四面八臂極<lb
  n="0041b02" ed="T"/>惡大忿怒形相。說真言句頌。真言曰。<lb
  n="0041b03" ed="T"/></ab>
-<ab type="dharani">唵蘇婆儞蘇婆吽蘖哩訶拏蘖哩訶拏吽蘖哩訶拏波耶<lb
- n="0041b05" ed="T"/>吽阿那野斛婆誐󰓋嚩日羅吽𠰢<lb
+<ab type='dharani'>唵蘇婆儞蘇婆吽蘖哩訶拏蘖哩訶拏吽蘖哩訶拏波耶<lb
+ n="0041b05" ed="T"/>吽阿那野斛婆誐𭊃嚩日羅吽𠰢<lb
  n="0041b06" ed="T"/>吒<lb
  n="0041b07" ed="T"/></ab>
-<ab type="prose">爾時普賢大士等。說此真言時。三千大千世<lb
+<ab type='prose'>爾時普賢大士等。說此真言時。三千大千世<lb
  n="0041b08" ed="T"/>界六種震動。所有天魔鬼界。於眾生生損害<lb
  n="0041b09" ed="T"/>者。皆悉恐怖非得安樂。各走集白忿怒尊言。<lb
  n="0041b10" ed="T"/>唯願愍念令我無恐懼。爾時忿怒王。皆令得<lb
@@ -120,5 +120,5 @@
  n="0042a16" ed="T"/>次解結界。禮佛出堂場。任意讀般若等<lb
  n="0042a17" ed="T"/>之經。<lb
  n="0042a18" ed="T"/>
-</ab><ab type="juan" subtype="close">降三世忿怒明王念誦儀軌</ab></div>
+</ab><ab type='juan' subtype='close'>降三世忿怒明王念誦儀軌</ab></div>
 </body></text></TEI>

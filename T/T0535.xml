@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0535</idno>
                 </bibl>
@@ -39,7 +39,7 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0817c18" ed="T"/><lb
  n="0817c19" ed="T"/><lb
@@ -48,10 +48,10 @@
  n="0817c22" ed="T"/><lb
  n="0817c23" ed="T"/><lb
  n="0817c24" ed="T"/>
-<ab type="juan" subtype="open">佛說申日經</ab><lb
+<ab type='juan' subtype='open'>佛說申日經</ab><lb
  n="0817c25" ed="T"/><lb
  n="0817c26" ed="T"/><byline>西晉月氏三藏竺法護譯</byline><lb
- n="0817c27" ed="T"/><div type="jing" level="2"><ab type="prose">聞如是：一時，佛遊王舍城靈鳥頂山，與大比<lb
+ n="0817c27" ed="T"/><div type='jing' level='2'><ab type='prose'>聞如是：一時，佛遊王舍城靈鳥頂山，與大比<lb
  n="0817c28" ed="T"/>丘千二百五十人。爾時，王舍城中有大豪富<lb
  n="0817c29" ed="T"/>長者，名旃羅日，財寶無量，敬信佛法、供養<pb n="0818a" ed="T" id="T14.0535.0818a"/><lb
  n="0818a01" ed="T"/>眾僧，精進難及。長者有弟號名申日，不信佛<lb
@@ -180,8 +180,8 @@
  n="0819b08" ed="T"/>學佛道者。」佛說經已，一切眾會莫不歡喜，作<lb
  n="0819b09" ed="T"/>禮而去。</ab></div><lb
  n="0819b10" ed="T"/>
-<ab type="juan" subtype="close">佛說申日經</ab><lb
- n="0819b11" ed="T"/><div type="w" level="2"><ab type="prose">按《開元錄》，此經四譯一失，法護譯中雖有<lb
+<ab type='juan' subtype='close'>佛說申日經</ab><lb
+ n="0819b11" ed="T"/><div type='w' level='2'><ab type='prose'>按《開元錄》，此經四譯一失，法護譯中雖有<lb
  n="0819b12" ed="T"/>《月光童子經》，亦名《申日經》者，自是一經有<lb
  n="0819b13" ed="T"/>二名耳，非別有《申日經》是法護譯者。藏<lb
  n="0819b14" ed="T"/>中既有《月光童子經》，為法護譯，斯已矣！此<lb

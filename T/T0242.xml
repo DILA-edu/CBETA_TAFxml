@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T08</biblScope>
                     <idno type="Taisho">T08n0242</idno>
                 </bibl>
@@ -43,11 +43,11 @@
  n="0781c09" ed="T"/><lb
  n="0781c10" ed="T"/><lb
  n="0781c11" ed="T"/>
-<ab type="juan" subtype="open">佛說徧照般若波羅蜜經</ab><lb
+<ab type='juan' subtype='open'>佛說徧照般若波羅蜜經</ab><lb
  n="0781c12" ed="T"/><lb
  n="0781c13" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚卿<lb
  n="0781c14" ed="T"/>傳法大師臣施護奉　詔譯</byline><lb
- n="0781c15" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時世尊，得一切如來金剛三昧<lb
+ n="0781c15" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時世尊，得一切如來金剛三昧<lb
  n="0781c16" ed="T"/>智，得一切如來種種具足最上寶冠，得一切<lb
  n="0781c17" ed="T"/>如來大自在相應金剛智，受三界灌頂一切<lb
  n="0781c18" ed="T"/>如來智印，乃至圓滿一切眾生所欲之願，種種<lb
@@ -193,7 +193,7 @@
  n="0783b13" ed="T"/>「我今復說二十五種般若波羅蜜祕密法門。<lb
  n="0783b14" ed="T"/>汝今諦聽！真言曰：<lb
  n="0783b15" ed="T"/></ab>
-<ab type="dharani">「唵曩謨薩哩嚩沒馱冐地薩埵喃<lb
+<ab type='dharani'>「唵曩謨薩哩嚩沒馱冐地薩埵喃<lb
  n="0783b16" ed="T"/>「唵冐地唧多嚩日哩<lb
  n="0783b17" ed="T"/>「唵穌囉多娑怛𨩻<lb
  n="0783b18" ed="T"/>「唵三滿多跋捺囉左哩也尾部摩儞<lb
@@ -224,7 +224,7 @@
  n="0783c14" ed="T"/>哩嚩播野誐帝毘也薩哩嚩三摩野<lb
  n="0783c15" ed="T"/>嚩日囉吽怛囉吒」<lb
  n="0783c16" ed="T"/></ab>
-<ab type="prose">爾時世尊說此真言已，告金剛手菩薩言：「如<lb
+<ab type='prose'>爾時世尊說此真言已，告金剛手菩薩言：「如<lb
  n="0783c17" ed="T"/>是印呪，能破一切罪暗，能作一切吉祥，一切<lb
  n="0783c18" ed="T"/>如來金剛祕密最上成就。若人得此，持誦聽<lb
  n="0783c19" ed="T"/>聞，是即名為持金剛清淨如來。若有眾生於<lb
@@ -244,5 +244,5 @@
  n="0784a04" ed="T"/>是經已，金剛手菩薩摩訶薩，及天、人、阿修羅、<lb
  n="0784a05" ed="T"/>乾闥婆等，皆大歡喜，信受奉行。</ab></div><lb
  n="0784a06" ed="T"/>
-<ab type="juan" subtype="close">遍照般若波羅蜜經</ab>
+<ab type='juan' subtype='close'>遍照般若波羅蜜經</ab>
 </body></text></TEI>

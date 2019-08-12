@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T07</biblScope>
                     <idno type="Taisho">T07n0220l</idno>
                 </bibl>
@@ -39,15 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><lb
+        <body><div level='1'>
+<lb
  n="1044a10" ed="T"/><lb
  n="1044a11" ed="T"/><lb
  n="1044a12" ed="T"/><lb
- n="1044a13" ed="T"/><div type="hui" level="1"><head>大般若經第十三會忍波羅蜜多<lb
- n="1044a14" ed="T"/>分</head><div type="xu" level="2"><head>序</head><lb
+ n="1044a13" ed="T"/><div type='hui' level='2'><head>大般若經第十三會忍波羅蜜多<lb
+ n="1044a14" ed="T"/>分</head><div type='xu' level='3'><head>序</head><lb
  n="1044a15" ed="T"/><lb
  n="1044a16" ed="T"/><byline>西明寺沙門玄則撰</byline><lb
- n="1044a17" ed="T"/><ab type="prose">惟夫擅等覺之靈根、膺廣慈之奧主，馮闇海<lb
+ n="1044a17" ed="T"/><ab type='prose'>惟夫擅等覺之靈根、膺廣慈之奧主，馮闇海<lb
  n="1044a18" ed="T"/>而利往、籠蒼品以遐征，則忍波羅蜜為無與<lb
  n="1044a19" ed="T"/>競，是以玄朋踵萃、神謨繼闡。將夷道梗、為沮<lb
  n="1044a20" ed="T"/>心怨，播親親於蠢徒、闢蕩蕩於情路，雖毀甚<lb
@@ -70,15 +71,15 @@
  n="1044b08" ed="T"/>便，斯著圓音。詞旨慇懃，理義詳覈。一軸單<lb
  n="1044b09" ed="T"/>譯，比於勤分。規弼之美，不其要歟！</ab></div><lb
  n="1044b10" ed="T"/><lb
- n="1044b11" ed="T"/><div type="fen" level="2"><lb
+ n="1044b11" ed="T"/><div type='fen' level='3'><lb
  n="1044b12" ed="T"/><lb
  n="1044b13" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百八<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百八<lb
  n="1044b14" ed="T"/>十九</ab><lb
  n="1044b15" ed="T"/><lb
  n="1044b16" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
  n="1044b17" ed="T"/><head>第十三安忍波羅蜜多分</head><lb
- n="1044b18" ed="T"/><ab type="prose">如是我聞：一時，薄伽梵在室羅筏住誓多林<lb
+ n="1044b18" ed="T"/><ab type='prose'>如是我聞：一時，薄伽梵在室羅筏住誓多林<lb
  n="1044b19" ed="T"/>給孤獨園，與大苾芻眾千二百五十人俱。爾<lb
  n="1044b20" ed="T"/>時，世尊告具壽滿慈子：「汝今應為欲證無上<lb
  n="1044b21" ed="T"/>正等菩提諸菩薩摩訶薩宣說安忍波羅蜜<lb
@@ -545,5 +546,5 @@
  n="1049c16" ed="T"/>眾，并餘一切天、龍、藥叉、阿素洛等，聞佛所說<lb
  n="1049c17" ed="T"/>皆大歡喜、信受奉行。<lb
  n="1049c18" ed="T"/>
-</ab><ab type="juan" subtype="close">大般若波羅蜜多經卷第五百八十九</ab></div></div>
+</ab><ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百八十九</ab></div></div></div>
 </body></text></TEI>

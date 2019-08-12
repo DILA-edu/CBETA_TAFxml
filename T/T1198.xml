@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1198</idno>
                 </bibl>
@@ -39,19 +39,19 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0940a" id="T20.1198.0940a" ed="T"/><lb
  n="0940a01" ed="T"/><lb
  n="0940a02" ed="T"/><lb
  n="0940a03" ed="T"/>
-<ab type="juan" subtype="open">聖者文殊師利發菩提心願文</ab><lb
+<ab type='juan' subtype='open'>聖者文殊師利發菩提心願文</ab><lb
  n="0940a04" ed="T"/><lb
  n="0940a05" ed="T"/><byline>巴看落目瓦傳</byline><lb
  n="0940a06" ed="T"/><byline>元甘泉馬蹄山中川守分真師<lb
  n="0940a07" ed="T"/>姪智慧譯</byline><lb
- n="0940a08" ed="T"/><div type="jing" level="2"><ab type="prose">敬禮一切諸佛菩薩。<lb
+ n="0940a08" ed="T"/><div type='jing' level='2'><ab type='prose'>敬禮一切諸佛菩薩。<lb
  n="0940a09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 救護一切面前住　　究竟發於菩提心　　<lb
  n="0940a10" ed="T"/>一切有情作利益　　輪迴有情至彼岸　　<lb
  n="0940a11" ed="T"/>癡心瞋心本自性　　慳貪貢高本自性　　<lb
@@ -65,5 +65,5 @@
  n="0940a19" ed="T"/>於一切處恒清淨　　意中惡業亦清淨　　<lb
  n="0940a20" ed="T"/>無邊惡業不復造　　
 </ab></div><lb
- n="0940a21" ed="T"/><div type="w" level="2"><ab type="prose">　。</ab></div></div>
+ n="0940a21" ed="T"/><div type='w' level='2'><ab type='prose'>　。</ab></div></div>
 </body></text></TEI>

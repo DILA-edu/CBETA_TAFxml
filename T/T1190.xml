@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1190</idno>
                 </bibl>
@@ -39,15 +39,15 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0826a07" ed="T"/><lb
  n="0826a08" ed="T"/><lb
  n="0826a09" ed="T"/><lb
- n="0826a10" ed="T"/><div type="xu" level="2"><head>大明太宗文皇帝御製真實名<lb
+ n="0826a10" ed="T"/><div type='xu' level='2'><head>大明太宗文皇帝御製真實名<lb
  n="0826a11" ed="T"/>經序</head><lb
  n="0826a12" ed="T"/><lb
- n="0826a13" ed="T"/><ab type="prose">蓋聞真實名經者。是諸如來超出有壞智身。<lb
+ n="0826a13" ed="T"/><ab type='prose'>蓋聞真實名經者。是諸如來超出有壞智身。<lb
  n="0826a14" ed="T"/>極顯密微妙。正覺菩提其義深廣。猶如意大<lb
  n="0826a15" ed="T"/>寶珠寶中最勝。故能利益有情增長福慧。超<lb
  n="0826a16" ed="T"/>離塵垢脫除過愆。消弭煩惱解釋魔障。令彼<lb
@@ -82,15 +82,15 @@
  n="0826b16" ed="T"/><lb
  n="0826b17" ed="T"/><lb
  n="0826b18" ed="T"/>
-<ab type="juan" subtype="open">梵語阿耶曼祖悉哩捺麻捺機矴<lb
+<ab type='juan' subtype='open'>梵語阿耶曼祖悉哩捺麻捺機矴<lb
  n="0826b19" ed="T"/>此云誦聖妙吉祥真實名經<lb
  n="0826b20" ed="T"/>聖妙吉祥真實名經</ab><lb
  n="0826b21" ed="T"/><lb
  n="0826b22" ed="T"/><byline>元講經律論習密教<lb
  n="0826b23" ed="T"/>土番譯主聶崖沙門釋智譯</byline><lb
- n="0826b24" ed="T"/><div type="jing" level="2"><ab type="prose">敬禮孺童相妙吉祥。<lb
+ n="0826b24" ed="T"/><div type='jing' level='2'><ab type='prose'>敬禮孺童相妙吉祥。<lb
  n="0826b25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 復次吉祥持金剛　　難調伏中勝調伏　　<lb
  n="0826b26" ed="T"/>勇猛超出三界內　　自在金剛密中勝　　<lb
  n="0826b27" ed="T"/>眼如白蓮妙端正　　面貌圓滿若蓮華　　<lb
@@ -142,13 +142,13 @@
  n="0827a15" ed="T"/>言詞之主演偈頌　　密呪王者具六種　　<lb
  n="0827a16" ed="T"/>將令顯出於無二　　無生法者自宣說　　
 </ab><lb
- n="0827a17" ed="T"/><ab type="dharani">啞阿依倚烏鄔𠸄㗒阿嗃󰽭啞<lb
+ n="0827a17" ed="T"/><ab type='dharani'>啞阿依倚烏鄔𠸄㗒阿嗃𭈤啞<lb
  n="0827a18" ed="T"/>悉低哆𠶹哩低默捺沒隆低囉<lb
- n="0827a19" ed="T"/>󰺸沒哆母怛默怛囉咄不囉低<lb
- n="0827a20" ed="T"/>默唵末𠷌囉帝疙折捺󰼘渴<lb
+ n="0827a19" ed="T"/>𭉓沒哆母怛默怛囉咄不囉低<lb
+ n="0827a20" ed="T"/>默唵末𠷌囉帝疙折捺𭔦渴<lb
  n="0827a21" ed="T"/>情捺不囉默默捺呣呤怛英默捺葛也斡宜說囉啊囉鉢拶捺拽矴捺麻<lb
  n="0827a24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 如是正覺出有壞　　究竟正覺啞中出　　<lb
  n="0827a25" ed="T"/>啞者一切字中勝　　是大利益微妙字　　<lb
  n="0827a26" ed="T"/>諸境之內出無生　　即此遠離於言說　　<lb
@@ -178,9 +178,9 @@
  n="0827b21" ed="T"/>尊者大種即殊勝　　上師密呪大殊勝　　<lb
  n="0827b22" ed="T"/>住在於彼大乘相　　大乘相中最殊勝　　
 </ab><lb
- n="0827b23" ed="T"/><ab type="prose">　。<lb
+ n="0827b23" ed="T"/><ab type='prose'>　。<lb
  n="0827b24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 廣大正覺眾明主　　具大寂默大寂默　　<lb
  n="0827b25" ed="T"/>大密呪中令出現　　有大密呪自性理　　<lb
  n="0827b26" ed="T"/>欲得十種到彼岸　　住於十種彼岸中　　<lb
@@ -232,9 +232,9 @@
  n="0828a14" ed="T"/>真勝有義之羂索　　是大執持金剛索　　<lb
  n="0828a15" ed="T"/>金剛鐵鉤大羂索　　
 </ab><lb
- n="0828a16" ed="T"/><ab type="prose">　。<lb
+ n="0828a16" ed="T"/><ab type='prose'>　。<lb
  n="0828a17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 怖畏金剛施怖畏　　金剛王者六面怖　　<lb
  n="0828a18" ed="T"/>六眼六臂力具足　　亦是骨相咬牙者　　<lb
  n="0828a19" ed="T"/>曷辣曷辣具百面　　是獄王主魔中王　　<lb
@@ -257,9 +257,9 @@
  n="0828b07" ed="T"/>三世界中獨一音　　遍虛空界聲哮吼　　<lb
  n="0828b08" ed="T"/>諸有聲中皆殊勝　　
 </ab><lb
- n="0828b09" ed="T"/><ab type="prose">　。<lb
+ n="0828b09" ed="T"/><ab type='prose'>　。<lb
  n="0828b10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 真實無我真實性　　即是真際無有字　　<lb
  n="0828b11" ed="T"/>宣說空性眾中勝　　甚深廣大聲哮吼　　<lb
  n="0828b12" ed="T"/>即是法螺具大聲　　亦法犍椎大音聲　　<lb
@@ -345,9 +345,9 @@
  n="0829b05" ed="T"/>殊勝不動自性淨　　持於正覺妙菩提　　<lb
  n="0829b06" ed="T"/>一切正覺現於前　　智火熾焰光顯盛　　
 </ab><lb
- n="0829b07" ed="T"/><ab type="prose">　。<lb
+ n="0829b07" ed="T"/><ab type='prose'>　。<lb
  n="0829b08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 隨樂成就微妙義　　一切惡趣悉清淨　　<lb
  n="0829b09" ed="T"/>諸有情中殊勝尊　　一切有情令解脫　　<lb
  n="0829b10" ed="T"/>煩惱敵中獨勇猛　　威猛能破愚癡怨　　<lb
@@ -397,9 +397,9 @@
  n="0829c25" ed="T"/>無身之身身中勝　　解了諸身之邊際　　<lb
  n="0829c26" ed="T"/>種種諸相諸處顯　　大寶即是大寶首　　
 </ab><lb
- n="0829c27" ed="T"/><ab type="prose">　。<lb
+ n="0829c27" ed="T"/><ab type='prose'>　。<lb
  n="0829c28" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 解了一切正覺者　　正覺菩提即無上　　<lb
  n="0829c29" ed="T"/>出密呪處無文字　　大密呪者是三種　　<pb n="0830a" id="T20.1190.0830a" ed="T"/><lb
  n="0830a01" ed="T"/>諸密呪義令增長　　大明點者無文字　　<lb
@@ -431,9 +431,9 @@
  n="0830a27" ed="T"/>微妙義中淨吉祥　　三世間中大勝福　　<lb
  n="0830a28" ed="T"/>具足吉祥皆成辦　　曼祖悉哩勝吉祥　　
 </ab><lb
- n="0830a29" ed="T"/><ab type="prose">　。<pb n="0830b" id="T20.1190.0830b" ed="T"/><lb
+ n="0830a29" ed="T"/><ab type='prose'>　。<pb n="0830b" id="T20.1190.0830b" ed="T"/><lb
  n="0830b01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 勝施金剛我敬禮　　真實邊際我敬禮　　<lb
  n="0830b02" ed="T"/>出現空性我敬禮　　正覺菩提我敬禮　　<lb
  n="0830b03" ed="T"/>正覺貪著我敬禮　　正覺欲者我敬禮　　<lb
@@ -445,7 +445,7 @@
  n="0830b09" ed="T"/>幻化網者我敬禮　　正覺顯論我敬禮　　<lb
  n="0830b10" ed="T"/>一切一切我敬禮　　彼智身者我敬禮　　
 </ab><lb
- n="0830b11" ed="T"/><ab type="prose">持金剛金剛手。此妙吉祥智勇識不共真實<lb
+ n="0830b11" ed="T"/><ab type='prose'>持金剛金剛手。此妙吉祥智勇識不共真實<lb
  n="0830b12" ed="T"/>名。是出有壞之智身一切如來之智身。汝今<lb
  n="0830b13" ed="T"/>應當生大歡喜。滿淨意樂增長無上。即能清<lb
  n="0830b14" ed="T"/>淨身語意三之密。若不能究竟不能清淨地<lb
@@ -589,8 +589,8 @@
  n="0832a07" ed="T"/>詮演妙法。大鼓之聲相續不盡。其聲哮吼為<lb
  n="0832a08" ed="T"/>大法王。<lb
  n="0832a09" ed="T"/></ab>
-<ab type="dharani">唵薩末捺麻啞末瓦娑末瓦比熟捺末<lb
- n="0832a10" ed="T"/>日囉啞啞󰺯啊不囉吉帝巴利熟捺<lb
+<ab type='dharani'>唵薩末捺麻啞末瓦娑末瓦比熟捺末<lb
+ n="0832a10" ed="T"/>日囉啞啞𭇮啊不囉吉帝巴利熟捺<lb
  n="0832a11" ed="T"/>薩麻捺馬拽恧怛薩末怛他遏怛默捺<lb
  n="0832a12" ed="T"/>葛野曼祖悉哩巴梨說捺釘蒙巴怛影<lb
  n="0832a13" ed="T"/>低阿唵薩末怛他遏怛𠶹哩捺野喝囉<lb
@@ -599,7 +599,7 @@
  n="0832a16" ed="T"/>遏捺阿麻辣續巴哩熟捺捺麻恧哩<lb
  n="0832a17" ed="T"/>捺葛囉末啞<lb
  n="0832a18" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 復次吉祥持金剛　　懇分歡喜而合掌　　<lb
  n="0832a19" ed="T"/>如來尊者出有壞　　敬禮究竟正覺已　　<lb
  n="0832a20" ed="T"/>復次尊者密自性　　持金剛之金剛王　　<lb
@@ -611,10 +611,10 @@
  n="0832a26" ed="T"/>亦是甚深極廣大　　大義有情作利益　　<lb
  n="0832a27" ed="T"/>一切正覺境界者　　諸正覺等皆已說　　
 </ab><lb
- n="0832a28" ed="T"/><ab type="prose">出有壞妙吉祥智勇識。所誦真如之真實名。<lb
+ n="0832a28" ed="T"/><ab type='prose'>出有壞妙吉祥智勇識。所誦真如之真實名。<lb
  n="0832a29" ed="T"/>出有壞世尊如來所說已畢。<pb n="0832b" id="T20.1190.0832b" ed="T"/><lb
  n="0832b01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 三世諸佛真實說　　諸祕密中真實王　　<lb
  n="0832b02" ed="T"/>此妙吉祥真實名　　真實無私而翻譯　　<lb
  n="0832b03" ed="T"/>為護真實善根故　　一切有情皆真實　　<lb
@@ -624,31 +624,31 @@
  n="0832b07" ed="T"/>見真實益捨是非　　隨力真實而翻對　　<lb
  n="0832b08" ed="T"/>真實失義文倒處　　智者真實復正之　　
 </ab><lb
- n="0832b09" ed="T"/><ab type="prose">　　元講經律論出家功德司判使銘箇沙門<lb
+ n="0832b09" ed="T"/><ab type='prose'>　　元講經律論出家功德司判使銘箇沙門<lb
  n="0832b10" ed="T"/>道圓<lb
  n="0832b11" ed="T"/>綴文<lb
  n="0832b12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 專心此經文　　菩提即不遠　　<lb
  n="0832b13" ed="T"/>付與信菩提　　逐日誦三卷　　
 </ab><lb
- n="0832b14" ed="T"/><ab type="prose">文殊瓔珞呪<lb
+ n="0832b14" ed="T"/><ab type='prose'>文殊瓔珞呪<lb
  n="0832b15" ed="T"/></ab>
-<ab type="dharani">唵𠶹哩嘚梨囉割米拶野啞不割舍鉢囉底褐<lb
+<ab type='dharani'>唵𠶹哩嘚梨囉割米拶野啞不割舍鉢囉底褐<lb
  n="0832b16" ed="T"/>怛𠶹哩夜吽吽發怛莎賀<lb
  n="0832b17" ed="T"/></ab>
-<ab type="prose">十二因緣呪<lb
+<ab type='prose'>十二因緣呪<lb
  n="0832b18" ed="T"/></ab>
-<ab type="dharani">英󰶷呤麻形󰺩不囉末斡形󰻐<lb
- n="0832b19" ed="T"/>矴善怛達遏多纈末󰶷怛矴善<lb
- n="0832b20" ed="T"/>拶養禰𠺘󰶷𠸄梡斡溺麻訶實囉麻捺英<lb
+<ab type='dharani'>英𭊁呤麻形𭇏不囉末斡形𭘇<lb
+ n="0832b19" ed="T"/>矴善怛達遏多纈末𭊁怛矴善<lb
+ n="0832b20" ed="T"/>拶養禰𠺘𭊁𠸄梡斡溺麻訶實囉麻捺英<lb
  n="0832b22" ed="T"/></ab>
-<ab type="prose">梵云阿耶曼袒悉哩捺麻阿悉怛舌怛葛捺。<lb
+<ab type='prose'>梵云阿耶曼袒悉哩捺麻阿悉怛舌怛葛捺。<lb
  n="0832b23" ed="T"/>此云聖者文殊師利一百八名讚。<lb
  n="0832b24" ed="T"/>　　元甘泉馬蹄山中川守分真師姪智慧譯<lb
  n="0832b25" ed="T"/>敬禮真實一切解<lb
  n="0832b26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 最極清淨真正心　　至尊頂中恒頂禮　　<lb
  n="0832b27" ed="T"/>一切諸佛同教勅　　文殊諸名我演說　　<lb
  n="0832b28" ed="T"/>妙色相好端嚴身　　一切色中最為尊　　<lb
@@ -696,9 +696,9 @@
  n="0833a12" ed="T"/>眾生所須皆成就　　諸出有壞悉敬禮　　<lb
  n="0833a13" ed="T"/>猶如寶珠我敬禮　　文殊師利我讚說　　
 </ab><lb
- n="0833a14" ed="T"/><ab type="dharani">唵末遏警怛捺麻薩怛捺<lb
+ n="0833a14" ed="T"/><ab type='dharani'>唵末遏警怛捺麻薩怛捺<lb
  n="0833a15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 如是相好讚說已　　領解心中恒誦持　　<lb
  n="0833a16" ed="T"/>一切惡業皆遠離　　證得最極清淨果　　<lb
  n="0833a17" ed="T"/>一百八名及餘名　　丈夫三時恒誦持　　<lb
@@ -710,12 +710,12 @@
  n="0833a23" ed="T"/>具智人中極清淨　　誰能讀誦能憶持　　<lb
  n="0833a24" ed="T"/>若要證得佛果者　　無疑心中決證得　　
 </ab><lb
- n="0833a25" ed="T"/><ab type="prose">梵云阿耶曼祖悉哩帝悉擔。<lb
+ n="0833a25" ed="T"/><ab type='prose'>梵云阿耶曼祖悉哩帝悉擔。<lb
  n="0833a26" ed="T"/>此云聖者文殊師利讚。<lb
  n="0833a27" ed="T"/>元甘泉馬蹄山中川守分真師姪智慧譯<lb
  n="0833a28" ed="T"/>敬禮出有壞語中具才者<lb
  n="0833a29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 諸集眾中極殊勝　　猶如滿月奪眾光　　<pb n="0833b" id="T20.1190.0833b" ed="T"/><lb
  n="0833b01" ed="T"/>無明煩惱悉清淨　　文殊師利我讚禮　　<lb
  n="0833b02" ed="T"/>焰髮分埵極明顯　　寶珠燦爛體端嚴　　<lb
@@ -731,9 +731,9 @@
  n="0833b12" ed="T"/>聖者文殊我讚歎　　如是所集諸福善　　<lb
  n="0833b13" ed="T"/>盡施法界諸有情　　速證涅槃之正路　　
 </ab><lb
- n="0833b14" ed="T"/><ab type="prose">哀請攝受偈<lb
+ n="0833b14" ed="T"/><ab type='prose'>哀請攝受偈<lb
  n="0833b15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 歸命帝網極三際　　無盡三寶垂愍念　　<lb
  n="0833b16" ed="T"/>攝受帝王增福壽　　<lb
  n="0833b17" ed="T"/>七佛祖師大聖主　　文殊菩薩垂愍念　　<lb
@@ -747,9 +747,9 @@
  n="0833b25" ed="T"/>願除為意惡因障　　稱意道中垂引示　　<lb
  n="0833b26" ed="T"/>塵沙惑障皆得除　　
 </ab><lb
- n="0833b27" ed="T"/><ab type="prose">發願偈<lb
+ n="0833b27" ed="T"/><ab type='prose'>發願偈<lb
  n="0833b28" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 以此善根願成佛　　成已壞諸過患怨　　<lb
  n="0833b29" ed="T"/>生老病死苦海中　　廣度輪迴諸有情　　<pb n="0833c" id="T20.1190.0833c" ed="T"/><lb
  n="0833c01" ed="T"/>未達真理所生處　　願獲治政閑辦王　　<lb
@@ -767,9 +767,9 @@
  n="0833c13" ed="T"/>所有懷毒來到此　　或在地上或居空　　<lb
  n="0833c14" ed="T"/>常與眾生起慈心　　晝夜依時修妙法　　
 </ab><lb
- n="0833c15" ed="T"/><ab type="prose">六波羅蜜偈<lb
+ n="0833c15" ed="T"/><ab type='prose'>六波羅蜜偈<lb
  n="0833c16" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 現世諸物如幻化　　受施能捨亦皆空　　<lb
  n="0833c17" ed="T"/>如是布施隨所得　　布施波羅皆圓滿　　<lb
  n="0833c18" ed="T"/>堅持禁戒離垢染　　具足清淨無所犯　　<lb
@@ -785,25 +785,25 @@
  n="0833c28" ed="T"/>一切如來之所說　　光明熾盛威神力　　<lb
  n="0833c29" ed="T"/>菩提勇識精進力　　我今所願皆成就　　
 </ab><pb n="0834a" id="T20.1190.0834a" ed="T"/><lb
- n="0834a01" ed="T"/><ab type="prose">迴向文<lb
+ n="0834a01" ed="T"/><ab type='prose'>迴向文<lb
  n="0834a02" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 歸命吉祥智勇識　　詮演真實苦深義　　<lb
  n="0834a03" ed="T"/>我今讀誦施眾生　　同獲吉祥金剛智　　
 </ab><lb
- n="0834a04" ed="T"/><ab type="dharani">捺麼囉嘚捺嘚囉也也捺麼曼呢室<lb
+ n="0834a04" ed="T"/><ab type='dharani'>捺麼囉嘚捺嘚囉也也捺麼曼呢室<lb
  n="0834a05" ed="T"/>哩英孤麻囉莫怛也怛涅達唵啊囉𡁔<lb
- n="0834a06" ed="T"/>覓囉𡁔熟寧覓熟寧商󰶷禰覓啇󰶷禰商󰶷也<lb
- n="0834a07" ed="T"/>覓商󰶷也覓麻令󰻃也斡形嚕嚕拶令吽吽吽<lb
+ n="0834a06" ed="T"/>覓囉𡁔熟寧覓熟寧商𭊁禰覓啇𭊁禰商𭊁也<lb
+ n="0834a07" ed="T"/>覓商𭊁也覓麻令𭈵也斡形嚕嚕拶令吽吽吽<lb
  n="0834a08" ed="T"/>發發莎訶唵啞吽呵囉鉢拶捺溺<lb
  n="0834a09" ed="T"/></ab>
-<ab type="prose">文殊菩薩五字心呪<lb
+<ab type='prose'>文殊菩薩五字心呪<lb
  n="0834a10" ed="T"/></ab>
-<ab type="dharani">􆿅啊􄗽囉􄖵鉢􄑼拶􄖩捺<lb
+<ab type='dharani'>􆿅啊􄗽囉􄖵鉢􄑼拶􄖩捺<lb
  n="0834a11" ed="T"/><lb
  n="0834a12" ed="T"/>􈁴　􆿔　􈅼<lb
  n="0834a13" ed="T"/></ab>
-<ab type="prose">金剛頂經五字真言勝相云。若人纔誦一遍。<lb
+<ab type='prose'>金剛頂經五字真言勝相云。若人纔誦一遍。<lb
  n="0834a14" ed="T"/>如誦八萬四千十二圍陀藏經。若誦兩遍。文<lb
  n="0834a15" ed="T"/>殊普賢隨逐加被。護法善神在其人前。又善<lb
  n="0834a16" ed="T"/>男子善女人。有能持此真言纔誦一遍。即入<lb

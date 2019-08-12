@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T12</biblScope>
                     <idno type="Taisho">T12n0368</idno>
                 </bibl>
@@ -39,27 +39,27 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0351c" id="T12.0368.0351c" ed="T"/><lb
  n="0351c01" ed="T"/><lb
  n="0351c02" ed="T"/><lb
  n="0351c03" ed="T"/>
-<ab type="juan" subtype="open">拔一切業障根本得生淨土神呪<lb
+<ab type='juan' subtype='open'>拔一切業障根本得生淨土神呪<lb
  n="0351c04" ed="T"/></ab><lb
  n="0351c05" ed="T"/><lb
  n="0351c06" ed="T"/><byline>劉宋天竺三藏求那跋陀羅<lb
  n="0351c07" ed="T"/>奉　詔重譯</byline><lb
- n="0351c08" ed="T"/><div type="jing" level="2"><ab type="dharani">南無阿彌多婆夜哆　他伽哆　夜<lb
+ n="0351c08" ed="T"/><div type='jing' level='2'><ab type='dharani'>南無阿彌多婆夜哆　他伽哆　夜<lb
  n="0351c09" ed="T"/>哆地　夜他阿彌利　都婆毘　阿彌利<lb
  n="0351c10" ed="T"/>哆　悉眈婆毘　阿彌利哆　毘迦蘭諦　阿<lb
  n="0351c11" ed="T"/>彌利哆　毘迦蘭哆　伽彌膩　伽伽那　枳<lb
  n="0351c12" ed="T"/>多迦隷　莎婆訶<lb
  n="0351c13" ed="T"/></ab>
-<ab type="prose">若有善男子善女人能誦此呪者，阿彌陀佛<lb
+<ab type='prose'>若有善男子善女人能誦此呪者，阿彌陀佛<lb
  n="0351c14" ed="T"/>常住其頂，日夜擁護，無令怨家而得其便，現<lb
  n="0351c15" ed="T"/>世常得安隱，臨命終時任運往生。</ab></div><lb
- n="0351c16" ed="T"/><div type="w" level="2"><head>阿彌陀經不思議神力傳：</head><lb
- n="0351c17" ed="T"/><ab type="prose">昔長安僧叡法師、慧崇、僧顯、慧通，近至後<lb
+ n="0351c16" ed="T"/><div type='w' level='2'><head>阿彌陀經不思議神力傳：</head><lb
+ n="0351c17" ed="T"/><ab type='prose'>昔長安僧叡法師、慧崇、僧顯、慧通，近至後<lb
  n="0351c18" ed="T"/>周實禪師、景禪師、西河鸞法師等數百餘人，<lb
  n="0351c19" ed="T"/>並生西方。西河綽禪師等，因見鸞法師得生<lb
  n="0351c20" ed="T"/>淨土，各率有緣，專修淨土之業；綽師又撰西<lb

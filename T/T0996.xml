@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n0996</idno>
                 </bibl>
@@ -42,15 +42,15 @@
         <body><lb
  n="0522a02" ed="T"/><lb
  n="0522a03" ed="T"/><lb
- n="0522a04" ed="T"/><div type="jing" level="1"><lb
+ n="0522a04" ed="T"/><div type='jing' level='1'><lb
  n="0522a05" ed="T"/>
-<ab type="juan" subtype="open">仁王般若陀羅尼釋一卷</ab><lb
+<ab type='juan' subtype='open'>仁王般若陀羅尼釋一卷</ab><lb
  n="0522a06" ed="T"/><lb
  n="0522a07" ed="T"/><byline>開府儀同三司特進試鴻臚卿<lb
  n="0522a08" ed="T"/>肅國公食邑三千戶賜紫贈司<lb
  n="0522a09" ed="T"/>空謚大鑑正號大廣智大興善<lb
  n="0522a10" ed="T"/>寺三藏沙門不空奉　詔譯</byline><lb
- n="0522a11" ed="T"/><ab type="prose">金剛手者。瑜伽經釋云。手持金剛杵。表內心<lb
+ n="0522a11" ed="T"/><ab type='prose'>金剛手者。瑜伽經釋云。手持金剛杵。表內心<lb
  n="0522a12" ed="T"/>具大菩提。外表摧伏諸煩惱。故名金剛手。<lb
  n="0522a13" ed="T"/>又釋云。不被三種魔破壞。菩提心自體堅固<lb
  n="0522a14" ed="T"/>成金剛智。一切如來之所建立。能破斷常二<lb
@@ -184,13 +184,13 @@
  n="0523b26" ed="T"/>則成法海出生義。達字者文殊師利菩薩種<lb
  n="0523b27" ed="T"/>子。<lb
  n="0523b28" ed="T"/></ab>
-<ab type="dharani">阿暮伽室囉嚩儜。顯句釋阿暮伽。古釋不<lb
+<ab type='dharani'>阿暮伽室囉嚩儜。顯句釋阿暮伽。古釋不<lb
  n="0523b29" ed="T"/>空義。今依聲明論釋。無間義。阿字一字為<pb n="0523c" id="T19.0996.0523c" ed="T"/><lb
  n="0523c01" ed="T"/>種子。阿字者一切法本來寂靜本來涅槃。由<lb
  n="0523c02" ed="T"/>證此解脫法印。遍周法界及諸佛剎大集會<lb
  n="0523c03" ed="T"/>中。於佛前所聞教法。悉皆住持永不忘失<lb
  n="0523c04" ed="T"/></ab>
-<ab type="prose">摩訶三滿多跋捺囉步彌涅哩野諦。顯句<lb
+<ab type='prose'>摩訶三滿多跋捺囉步彌涅哩野諦。顯句<lb
  n="0523c05" ed="T"/>釋出大普賢地義。密句釋摩字一字為種子。<lb
  n="0523c06" ed="T"/>摩字者一切法無我義。無我有二種。人無我<lb
  n="0523c07" ed="T"/>法無我。瑜伽者若證二無我。則出大普賢地。<lb
@@ -253,5 +253,5 @@
  n="0524b06" ed="T"/>則依無住涅槃。乃至盡未來際。廣利樂無邊<lb
  n="0524b07" ed="T"/>有情。<lb
  n="0524b08" ed="T"/>
-</ab><ab type="juan" subtype="close">仁王般若陀羅尼釋一卷</ab></div>
+</ab><ab type='juan' subtype='close'>仁王般若陀羅尼釋一卷</ab></div>
 </body></text></TEI>

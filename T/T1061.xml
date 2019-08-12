@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1061</idno>
                 </bibl>
@@ -39,17 +39,17 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0112a" id="T20.1061.0112a" ed="T"/><lb
  n="0112a01" ed="T"/><lb
  n="0112a02" ed="T"/><lb
  n="0112a03" ed="T"/>
-<ab type="juan" subtype="open">千手千眼觀自在菩薩廣大圓滿<lb
+<ab type='juan' subtype='open'>千手千眼觀自在菩薩廣大圓滿<lb
  n="0112a04" ed="T"/>無礙大悲心陀羅尼呪本一卷</ab><lb
  n="0112a05" ed="T"/><lb
  n="0112a06" ed="T"/><byline>大唐贈開府儀同三司諡大弘教<lb
  n="0112a07" ed="T"/>三藏沙門金剛智奉　詔譯</byline><lb
- n="0112a08" ed="T"/><div type="dharani" level="2"><ab type="dharani">曩慕　囉怛曩怛囉夜耶　曩莫　阿<lb
+ n="0112a08" ed="T"/><div type='dharani' level='2'><ab type='dharani'>曩慕　囉怛曩怛囉夜耶　曩莫　阿<lb
  n="0112a09" ed="T"/>哩夜　嚩𡀔枳諦濕嚩囉耶　󰂛<lb
  n="0112a10" ed="T"/>地薩多嚩耶　莽賀薩多嚩耶<lb
  n="0112a11" ed="T"/>　莽賀迦嚕聹迦耶　薩摩滿陀<lb
@@ -118,9 +118,9 @@
  n="0112c26" ed="T"/>耶　悉殿覩　名　滿多羅跛娜耶　莎<lb
  n="0112c27" ed="T"/>賀<lb
  n="0112c28" ed="T"/>
-</ab><ab type="juan" subtype="close">千手千眼觀自在菩薩廣大圓滿無礙大悲心<pb n="0113a" id="T20.1061.0113a" ed="T"/><lb
+</ab><ab type='juan' subtype='close'>千手千眼觀自在菩薩廣大圓滿無礙大悲心<pb n="0113a" id="T20.1061.0113a" ed="T"/><lb
  n="0113a01" ed="T"/>陀羅尼呪一卷</ab></div><lb
- n="0113a02" ed="T"/><div type="w" level="2"><ab type="dharani">􄖩􄗭􄗾􇩋􄩞􄗲􄗱􄖩􄗰􆿆􇩈􄙖􄙒􄑂<lb
+ n="0113a02" ed="T"/><div type='w' level='2'><ab type='dharani'>􄖩􄗭􄗾􇩋􄩞􄗲􄗱􄖩􄗰􆿆􇩈􄙖􄙒􄑂<lb
  n="0113a03" ed="T"/>􄕝􈂫􄗾􄗱􄗕􄕽􄙺􄽚􄗱􄗥􄚩􄙺􄽚􄗱<lb
  n="0113a04" ed="T"/>􄗥􄚩􄑁􄙂􄕍􄑁􄗱􄙺􅞣􄗍􆩺􄖩􇪡􄕯<lb
  n="0113a05" ed="T"/>􄖩􄑀􄗾􄗱􄙺􅞣􄗙􄙖􄙺􈁃􄪢􈂼􄚴􄕋<lb

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0462</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0466b03" ed="T"/><lb
  n="0466b04" ed="T"/><lb
  n="0466b05" ed="T"/>
-<ab type="juan" subtype="open">大方廣寶篋經卷上</ab><lb
+<ab type='juan' subtype='open'>大方廣寶篋經卷上</ab><lb
  n="0466b06" ed="T"/><lb
  n="0466b07" ed="T"/><byline>宋天竺三藏求那跋陀羅譯</byline><lb
- n="0466b08" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時佛在舍衛國祇陀林給孤窮<lb
+ n="0466b08" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時佛在舍衛國祇陀林給孤窮<lb
  n="0466b09" ed="T"/>精舍，與大比丘僧千二百五十人俱，菩薩五<lb
  n="0466b10" ed="T"/>千。爾時世尊住迦利羅華園場上，菩薩、聲聞<lb
  n="0466b11" ed="T"/>大眾圍遶而演說法。爾時文殊師利童子，與<lb
@@ -188,7 +188,7 @@
  n="0468a01" ed="T"/>大德須菩提！或時天降大潤澤雨，是娑羅樹<lb
  n="0468a02" ed="T"/>即便還生，生葉華果利益眾生。如是，須菩<lb
  n="0468a03" ed="T"/>提！菩薩若為大慈大悲之所潤洽，菩薩智界<lb
- n="0468a04" ed="T"/>還生三界，示現受於種姓生死，為諸眾生作<lb
+ n="0468a04" ed="T"/>還生三界，示現受於種性生死，為諸眾生作<lb
  n="0468a05" ed="T"/>大利益。大德須菩提！設有大風吹是娑羅<lb
  n="0468a06" ed="T"/>樹，觚枝莖果便墮于地。如是，大德須菩提！<lb
  n="0468a07" ed="T"/>是諸菩薩為大智慧猛風吹，墮道場上畢竟<lb
@@ -485,14 +485,14 @@
  n="0471b08" ed="T"/>界？』我時答言：『文殊師利！用汝神力過是世<lb
  n="0471b09" ed="T"/>界。』<lb
  n="0471b10" ed="T"/>
-</ab><ab type="juan" subtype="close">大方廣寶篋經卷上</ab><lb
+</ab><ab type='juan' subtype='close'>大方廣寶篋經卷上</ab><lb
  n="0471b11" ed="T"/><lb
  n="0471b12" ed="T"/><lb
  n="0471b13" ed="T"/>
-<ab type="juan" subtype="open">大方廣寶篋經卷中</ab><lb
+<ab type='juan' subtype='open'>大方廣寶篋經卷中</ab><lb
  n="0471b14" ed="T"/><lb
  n="0471b15" ed="T"/><byline>宋天竺三藏求那跋陀羅譯</byline><lb
- n="0471b16" ed="T"/><ab type="prose">「爾時文殊師利童子繫心在前，以菩薩神<lb
+ n="0471b16" ed="T"/><ab type='prose'>「爾時文殊師利童子繫心在前，以菩薩神<lb
  n="0471b17" ed="T"/>力，於一念頃作蓮華網遍覆火上，從中過已<lb
  n="0471b18" ed="T"/>便語我言：『大德舍利弗！於意云何？汝神力<lb
  n="0471b19" ed="T"/>勝？為我勝也？』我即答言：『文殊師利！金翅鳥<lb
@@ -867,7 +867,7 @@
  n="0475c11" ed="T"/>德，故遠而來至毘舍離。汝是我師，我為弟子。<lb
  n="0475c12" ed="T"/>願見納受垂愍教誨，令我不見沙門瞿曇，令<lb
  n="0475c13" ed="T"/>我不聞彼相違法。』薩遮答言：『善哉善哉！汝<lb
- n="0475c14" ed="T"/>得純淨，不久當解我調伏法。』爾時薩遮即便<lb
+ n="0475c14" ed="T"/>意純淨，不久當解我調伏法。』爾時薩遮即便<lb
  n="0475c15" ed="T"/>宣令己之徒眾：『此五百摩納，自今以去和<lb
  n="0475c16" ed="T"/>合同住互相諮問，彼若所說汝專心受。』「爾時<lb
  n="0475c17" ed="T"/>文殊師利童子及五百化弟子，聽次第坐，<lb
@@ -912,13 +912,13 @@
  n="0476a27" ed="T"/>知退住不退地，後善者於一生灌頂正位。是<lb
  n="0476a28" ed="T"/>名菩薩初中後善。』<lb
  n="0476a29" ed="T"/>
-</ab><ab type="juan" subtype="close">大方廣寶篋經卷中</ab><pb n="0476b" ed="T" id="T14.0462.0476b"/><lb
+</ab><ab type='juan' subtype='close'>大方廣寶篋經卷中</ab><pb n="0476b" ed="T" id="T14.0462.0476b"/><lb
  n="0476b01" ed="T"/><lb
  n="0476b02" ed="T"/>
-<ab type="juan" subtype="open">大方廣寶篋經卷下</ab><lb
+<ab type='juan' subtype='open'>大方廣寶篋經卷下</ab><lb
  n="0476b03" ed="T"/><lb
  n="0476b04" ed="T"/><byline>宋天竺三藏求那跋陀羅譯</byline><lb
- n="0476b05" ed="T"/><ab type="prose">「爾時文殊師利童子，外道眾中漸次開示<lb
+ n="0476b05" ed="T"/><ab type='prose'>「爾時文殊師利童子，外道眾中漸次開示<lb
  n="0476b06" ed="T"/>如是正法，令五百外道遠離塵垢得法眼淨，<lb
  n="0476b07" ed="T"/>八千外道發於無上正真道心。爾時文殊師<lb
  n="0476b08" ed="T"/>利童子所可化作五百徒眾，於文殊師利前<lb
@@ -1001,7 +1001,7 @@
  n="0477a27" ed="T"/>四，又無道無德。言相違者以住二故，若<lb
  n="0477a28" ed="T"/>已住二便有相違。道平等故一切法等名為<lb
  n="0477a29" ed="T"/>無二，若解無二則不相違。若計我者有增<pb n="0477b" ed="T" id="T14.0462.0477b"/><lb
- n="0477b01" ed="T"/>上慢，有增上慢者則有相違。若不作上亦<lb
+ n="0477b01" ed="T"/>上慢，有增上慢則有相違。若不作上亦<lb
  n="0477b02" ed="T"/>不作下，是平等中不作上下、無作無不作，<lb
  n="0477b03" ed="T"/>若如是者名無增上慢，若無增上慢則無相<lb
  n="0477b04" ed="T"/>違。如佛所說，我不與世諍世間與我諍。何<lb
@@ -1175,7 +1175,7 @@
  n="0479a27" ed="T"/>服偏袒右肩，右膝著地向佛合掌，而說偈<lb
  n="0479a28" ed="T"/>言：<lb
  n="0479a29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「智慧福力華，　　圓光導世間，　　<pb n="0479b" ed="T" id="T14.0462.0479b"/><lb
  n="0479b01" ed="T"/>三十二相華，　　雜好以自嚴。　　<lb
  n="0479b02" ed="T"/>行如象師子，　　精進力勇出，　　<lb
@@ -1197,7 +1197,7 @@
  n="0479b18" ed="T"/>普照無量界，　　廣遠如虛空，　　<lb
  n="0479b19" ed="T"/>滅惡道得樂，　　導師光觸故。　　<lb
  n="0479b20" ed="T"/>若放膝光明，　　是授聲聞記，　　<lb
- n="0479b21" ed="T"/>若手放光明，　　是說辟支佛。　　<lb
+ n="0479b21" ed="T"/>若手放光明，　　是記辟支佛。　　<lb
  n="0479b22" ed="T"/>佛定記大乘，　　一切智慧道，　　<lb
  n="0479b23" ed="T"/>光利眾生已，　　還入無垢頂。　　<lb
  n="0479b24" ed="T"/>善哉人中天，　　三界所供仙，　　<lb
@@ -1205,7 +1205,7 @@
  n="0479b26" ed="T"/>斷疑悅大眾，　　以何因緣笑？　　<lb
  n="0479b27" ed="T"/>千萬億眾生，　　聞已心歡悅。」　　
 </ab><lb
- n="0479b28" ed="T"/><ab type="prose">如是請已，佛告阿難：「汝今見是勝志善男子<lb
+ n="0479b28" ed="T"/><ab type='prose'>如是請已，佛告阿難：「汝今見是勝志善男子<lb
  n="0479b29" ed="T"/>不？上昇虛空高七多羅樹，得無生忍，合掌禮<pb n="0479c" ed="T" id="T14.0462.0479c"/><lb
  n="0479c01" ed="T"/>我，百千諸天而供養之。」阿難白言：「見已。世<lb
  n="0479c02" ed="T"/>尊！」佛言：「阿難！是勝志善男子，曾於七十二<lb
@@ -1234,7 +1234,7 @@
  n="0479c25" ed="T"/>爾時勝志菩薩從空來下，頂禮佛足，右繞七<lb
  n="0479c26" ed="T"/>匝，向佛歎說不壞法界偈：<lb
  n="0479c27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「色界及法界，　　眾生界同等，　　<lb
  n="0479c28" ed="T"/>是界等智界，　　今授我記已。　　<lb
  n="0479c29" ed="T"/>受界煩惱界，　　與空界同等，　　<pb n="0480a" ed="T" id="T14.0462.0480a"/><lb
@@ -1258,7 +1258,7 @@
  n="0480a18" ed="T"/>同入一切法，　　如虛空無作，　　<lb
  n="0480a19" ed="T"/>學知方便故。」　　
 </ab><lb
- n="0480a20" ed="T"/><ab type="prose">爾時勝志菩薩偈讚佛已，頂禮佛足，右繞七<lb
+ n="0480a20" ed="T"/><ab type='prose'>爾時勝志菩薩偈讚佛已，頂禮佛足，右繞七<lb
  n="0480a21" ed="T"/>匝，却坐一面。爾時佛告阿難：「汝受持是經，讀<lb
  n="0480a22" ed="T"/>誦書寫，於大眾中廣為人說。」阿難白言：「我已<lb
  n="0480a23" ed="T"/>受持。世尊！此經何名？當云何奉持之？」佛告阿<lb
@@ -1268,5 +1268,5 @@
  n="0480a27" ed="T"/>等，及大聲聞大德阿難，及諸大眾，天、龍、夜叉、<lb
  n="0480a28" ed="T"/>諸天及人、乾闥婆等，聞佛所說，皆大歡喜。<lb
  n="0480a29" ed="T"/>
-</ab><ab type="juan" subtype="close">大方廣寶篋經卷下</ab></div>
+</ab><ab type='juan' subtype='close'>大方廣寶篋經卷下</ab></div>
 </body></text></TEI>

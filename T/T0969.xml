@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n0969</idno>
                 </bibl>
@@ -39,15 +39,15 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0355a06" ed="T"/><lb
  n="0355a07" ed="T"/><lb
  n="0355a08" ed="T"/><lb
- n="0355a09" ed="T"/><div type="xu" level="2"><head>佛頂最勝陀羅尼經序</head><lb
+ n="0355a09" ed="T"/><div type='xu' level='2'><head>佛頂最勝陀羅尼經序</head><lb
  n="0355a10" ed="T"/><lb
  n="0355a11" ed="T"/><byline>沙門彥悰序</byline><lb
- n="0355a12" ed="T"/><ab type="prose">夫業理綿微。二乘不足臻其極。神宰恍惚。<lb
+ n="0355a12" ed="T"/><ab type='prose'>夫業理綿微。二乘不足臻其極。神宰恍惚。<lb
  n="0355a13" ed="T"/>十地未易暨其深。則知賦命交加。罕言於孔<lb
  n="0355a14" ed="T"/>宣父。報應叢雜。冥昧於太史公。是以先笑後<lb
  n="0355a15" ed="T"/>號。鸇雀祥而莫准。始凶終吉。乘穀妖而弗驗。<lb
@@ -81,10 +81,10 @@
  n="0355b14" ed="T"/><lb
  n="0355b15" ed="T"/><lb
  n="0355b16" ed="T"/>
-<ab type="juan" subtype="open">佛頂最勝陀羅尼經</ab><lb
+<ab type='juan' subtype='open'>佛頂最勝陀羅尼經</ab><lb
  n="0355b17" ed="T"/><lb
  n="0355b18" ed="T"/><byline>大唐天竺三藏地婆訶羅譯</byline><lb
- n="0355b19" ed="T"/><div type="jing" level="2"><ab type="prose">如是我聞。一時佛在舍衛國祇樹給孤獨園。<lb
+ n="0355b19" ed="T"/><div type='jing' level='2'><ab type='prose'>如是我聞。一時佛在舍衛國祇樹給孤獨園。<lb
  n="0355b20" ed="T"/>與大比丘眾八千人俱。復有菩薩摩訶薩等。<lb
  n="0355b21" ed="T"/>一切皆得正智明炬。照於諸法無所罣礙。其<lb
  n="0355b22" ed="T"/>名曰文殊師利菩薩蓮華勝藏菩薩。離諸障<lb
@@ -137,7 +137,7 @@
  n="0356a11" ed="T"/>趣佛頂最勝大陀羅尼。爾時世尊受天帝請。<lb
  n="0356a12" ed="T"/>即為演說陀羅尼曰。<lb
  n="0356a13" ed="T"/></ab>
-<ab type="dharani">納謨納莫怛薩謎薄伽跋帝㗌唳路迦<lb
+<ab type='dharani'>納謨納莫怛薩謎薄伽跋帝㗌唳路迦<lb
  n="0356a14" ed="T"/>鉢囉底馝失瑟吒耶三菩馱耶<lb
  n="0356a15" ed="T"/>摩訶牟泥怛姪他嗚吽馝輸馱耶<lb
  n="0356a16" ed="T"/>三摩三漫多何婆婆賀娑薩破囉拏<lb
@@ -157,13 +157,13 @@
  n="0356b03" ed="T"/>社耶毘社耶毘社耶薩摩囉薩摩囉<lb
  n="0356b04" ed="T"/>薩婆菩馱頞地瑟恥多舜提跋折唳跋<lb
  n="0356b05" ed="T"/>折囉揭鞞跋折覽婆伐都麼麼薩<lb
- n="0356b06" ed="T"/>婆薩埵那箇耶毘舜提薩婆󰳍底<lb
+ n="0356b06" ed="T"/>婆薩埵那箇耶毘舜提薩婆𭇿底<lb
  n="0356b07" ed="T"/>鉢李舜提薩婆怛他揭多三磨室縛<lb
  n="0356b08" ed="T"/>娑頞地瑟恥低馞陀馞陀菩陀耶菩陀耶三曼多末囉達摩馱都<lb
  n="0356b10" ed="T"/>鉢李舜提薩婆怛他揭多頞地瑟咤<lb
  n="0356b11" ed="T"/>那頞地瑟恥低娑婆呵<lb
  n="0356b12" ed="T"/></ab>
-<ab type="prose">佛告天帝。此陀羅尼八十八億百千恒河沙<lb
+<ab type='prose'>佛告天帝。此陀羅尼八十八億百千恒河沙<lb
  n="0356b13" ed="T"/>諸佛世尊所共宣說。守護稱讚智印印之。如<lb
  n="0356b14" ed="T"/>是諸佛為欲解脫地獄畜生閻摩羅等。沈溺<lb
  n="0356b15" ed="T"/>苦海諸苦毒故。又為利益短壽薄福卑陋下<lb
@@ -239,27 +239,27 @@
  n="0357a27" ed="T"/>喜却坐。聽於如來所說法要。聞說法已心懷<lb
  n="0357a28" ed="T"/>踊躍。與天帝俱禮佛而退。</ab></div><lb
  n="0357a29" ed="T"/>
-<ab type="juan" subtype="close">佛頂最勝陀羅尼經</ab><pb n="0357b" id="T19.0969.0357b" ed="T"/><lb
+<ab type='juan' subtype='close'>佛頂最勝陀羅尼經</ab><pb n="0357b" id="T19.0969.0357b" ed="T"/><lb
  n="0357b01" ed="T"/><lb
- n="0357b02" ed="T"/><div type="w" level="2"><head>大輪金剛陀羅尼</head><lb
+ n="0357b02" ed="T"/><div type='w' level='2'><head>大輪金剛陀羅尼</head><lb
  n="0357b03" ed="T"/><lb
  n="0357b04" ed="T"/><byline>三藏地婆訶羅奉　詔譯</byline><lb
- n="0357b05" ed="T"/><ab type="dharani">納謨薩怛唎耶　地毘迦喃　怛他揭多喃<lb
+ n="0357b05" ed="T"/><ab type='dharani'>納謨薩怛唎耶　地毘迦喃　怛他揭多喃<lb
  n="0357b06" ed="T"/>　唵毘囉時毘囉時摩訶斫迦囉　拔闍唎薩多<lb
  n="0357b07" ed="T"/>薩多　娑囉帝娑囉帝　怛唎曳　怛唎曳<lb
  n="0357b08" ed="T"/>　毘陀末儞　三槃若儞　怛囉末底　悉陀<lb
  n="0357b09" ed="T"/>　阿揭唎怛炎　娑婆訶<lb
  n="0357b10" ed="T"/></ab>
-<ab type="prose">誦此陀羅尼三七遍即當入一切曼荼羅<lb
+<ab type='prose'>誦此陀羅尼三七遍即當入一切曼荼羅<lb
  n="0357b11" ed="T"/>所作皆成。<lb
  n="0357b13" ed="T"/>日光菩薩呪<lb
  n="0357b14" ed="T"/></ab>
-<ab type="dharani">南謨勃陀瞿那迷　南摩達摩莫訶底<lb
+<ab type='dharani'>南謨勃陀瞿那迷　南摩達摩莫訶底<lb
  n="0357b15" ed="T"/>　南謨僧伽多也泥底哩部卑薩咄<lb
  n="0357b16" ed="T"/>擔納摩<lb
  n="0357b18" ed="T"/>唵摩利支曳　薩婆薩多婆頞陀利沙利娑<lb
  n="0357b19" ed="T"/>婆訶<lb
  n="0357b20" ed="T"/></ab>
-<ab type="prose">　誦此呪極護人身當日別三時各誦一百<lb
+<ab type='prose'>　誦此呪極護人身當日別三時各誦一百<lb
  n="0357b21" ed="T"/>八遍。</ab></div></div>
 </body></text></TEI>

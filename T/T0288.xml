@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T10</biblScope>
                     <idno type="Taisho">T10n0288</idno>
                 </bibl>
@@ -39,17 +39,17 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0574c17" ed="T"/><lb
  n="0574c18" ed="T"/><lb
- n="0574c19" ed="T"/><div type="pin" level="2">
-<ab type="juan" subtype="open">等目菩薩所問三昧經卷上<lb
+ n="0574c19" ed="T"/><div type='pin' level='2'>
+<ab type='juan' subtype='open'>等目菩薩所問三昧經卷上<lb
  n="0574c20" ed="T"/>　　　　　　　　　　</ab><lb
  n="0574c21" ed="T"/><lb
  n="0574c22" ed="T"/><byline>西晉月氏國三藏竺法護譯</byline><lb
  n="0574c23" ed="T"/><head>大感動品第一</head><lb
- n="0574c24" ed="T"/><ab type="prose">聞如是：一時，世尊遊於摩竭境界法靜道場。<lb
+ n="0574c24" ed="T"/><ab type='prose'>聞如是：一時，世尊遊於摩竭境界法靜道場。<lb
  n="0574c25" ed="T"/>初始得佛，光煒明曜，宣真諦藏，演如來慧，暢<lb
  n="0574c26" ed="T"/>三世要，布無罣礙道寶之定。佛時以此普<lb
  n="0574c27" ed="T"/>智無極㸌然正受——其定惔怕，忽無形像，亦無<lb
@@ -199,8 +199,8 @@
  n="0576b26" ed="T"/>量功德，興無數福、修無數相、德備無限，行無<lb
  n="0576b27" ed="T"/>等倫，名流無外。無得之行，普益三世，有佛<lb
  n="0576b28" ed="T"/>名譽，普而流著。普賢菩薩行績若斯。」</ab></div><lb
- n="0576b29" ed="T"/><div type="None" level="2"><head>等目菩薩說行定品第二</head><pb n="0576c" ed="T" id="T10.0288.0576c"/><lb
- n="0576c01" ed="T"/><ab type="prose">爾時，佛告普賢菩薩：「當為發遣等目菩薩所<lb
+ n="0576b29" ed="T"/><div type='' level='2'><head>等目菩薩說行定品第二</head><pb n="0576c" ed="T" id="T10.0288.0576c"/><lb
+ n="0576c01" ed="T"/><ab type='prose'>爾時，佛告普賢菩薩：「當為發遣等目菩薩所<lb
  n="0576c02" ed="T"/>欲，并諸菩薩暢諸菩薩場，當說菩薩摩訶薩<lb
  n="0576c03" ed="T"/>十定方便，普賢菩薩本行功德，咸修當行。何<lb
  n="0576c04" ed="T"/>等十？一曰、得初始大德之明，菩薩摩訶薩<lb
@@ -309,8 +309,8 @@
  n="0577c20" ed="T"/>覩世，亦見世法，於其世法，淨無所著。此則<lb
  n="0577c21" ed="T"/>菩薩感動境界，由斯大士得正定故。是族姓<lb
  n="0577c22" ed="T"/>子！菩薩大士！入于普世，世所不動也。</ab></div><lb
- n="0577c23" ed="T"/><div type="None" level="2"><head>等目菩薩神變品第三</head><lb
- n="0577c24" ed="T"/><ab type="prose">「又族姓子！菩薩大士現三千大千土其數如<lb
+ n="0577c23" ed="T"/><div type='' level='2'><head>等目菩薩神變品第三</head><lb
+ n="0577c24" ed="T"/><ab type='prose'>「又族姓子！菩薩大士現三千大千土其數如<lb
  n="0577c25" ed="T"/>塵，一一塵土，入而現身；于一一身，現明普<lb
  n="0577c26" ed="T"/>照；於一一明，現眾色像；復一一相，現有宣<lb
  n="0577c27" ed="T"/>暢；一一宣暢，現化眾生。而於彼此，菩薩悉<lb
@@ -340,8 +340,8 @@
  n="0578a22" ed="T"/>不想剎外、不想有土、不想無土、不壞土想；亦<lb
  n="0578a23" ed="T"/>無所毀。又彼菩薩於諸法，不一想、不非想、<lb
  n="0578a24" ed="T"/>亦不求法；亦不毀法。法界本無皆悉了之。</ab></div><lb
- n="0578a25" ed="T"/><div type="None" level="2"><head>等目菩薩幻事品第四</head><lb
- n="0578a26" ed="T"/><ab type="prose">「譬如族姓子！幻名帝父。帝界所行，其有善<lb
+ n="0578a25" ed="T"/><div type='' level='2'><head>等目菩薩幻事品第四</head><lb
+ n="0578a26" ed="T"/><ab type='prose'>「譬如族姓子！幻名帝父。帝界所行，其有善<lb
  n="0578a27" ed="T"/>學行此幻者，明曉術已，於四幻道，現此帝<lb
  n="0578a28" ed="T"/>父大幻之事。普眾咸住，共觀視之，諸天都<lb
  n="0578a29" ed="T"/>聚，在于一處，現一日七日、半月一月、一歲百<pb n="0578b" ed="T" id="T10.0288.0578b"/><lb
@@ -398,8 +398,8 @@
  n="0578c22" ed="T"/>幻，普現諸幻，不處于幻，亦無所惑。菩薩如<lb
  n="0578c23" ed="T"/>是！得入諸法度無極者！不念入法，入法不惑，<lb
  n="0578c24" ed="T"/>是菩薩名廣普大定。</ab></div><lb
- n="0578c25" ed="T"/><div type="None" level="2"><head>等目菩薩經菩薩樂定品第五</head><lb
- n="0578c26" ed="T"/><ab type="prose">「又復諸族姓子！等目菩薩摩訶薩！東方去<lb
+ n="0578c25" ed="T"/><div type='' level='2'><head>等目菩薩經菩薩樂定品第五</head><lb
+ n="0578c26" ed="T"/><ab type='prose'>「又復諸族姓子！等目菩薩摩訶薩！東方去<lb
  n="0578c27" ed="T"/>此，過無數佛剎。於彼有土，名最上度無極；於<lb
  n="0578c28" ed="T"/>彼有定正受，號無上度無極。如其所過本土，<lb
  n="0578c29" ed="T"/>乃得最上之土。其土或有土而正受、或早時、<pb n="0579a" ed="T" id="T10.0288.0579a"/><lb
@@ -425,8 +425,8 @@
  n="0579a20" ed="T"/>正受，亦無時節之念；亦無其念想。是謂族姓<lb
  n="0579a21" ed="T"/>子！菩薩摩訶薩所名土最上度無極之定，為<lb
  n="0579a22" ed="T"/>無上無比權慧之行也。</ab></div><lb
- n="0579a23" ed="T"/><div type="None" level="2"><head>等目菩薩大權慧定品第六</head><lb
- n="0579a24" ed="T"/><ab type="prose">「又族姓子！菩薩摩訶薩於一切眾生之身、佛<lb
+ n="0579a23" ed="T"/><div type='' level='2'><head>等目菩薩大權慧定品第六</head><lb
+ n="0579a24" ed="T"/><ab type='prose'>「又族姓子！菩薩摩訶薩於一切眾生之身、佛<lb
  n="0579a25" ed="T"/>身，而等解之。彼以此多觀如來於無數國<lb
  n="0579a26" ed="T"/>土，如塵數；於諸如來，一切而供養；一切眾<lb
  n="0579a27" ed="T"/>花、一切極世眾寶以供養；一切眾寶供養，散<lb
@@ -459,8 +459,8 @@
  n="0579b25" ed="T"/>要，廣顯諸法之因緣，顯益佛種，行淨諸佛威<lb
  n="0579b26" ed="T"/>神，廣演諸佛辯才。是族姓子！諸菩薩大士大<lb
  n="0579b27" ed="T"/>定之權慧也。</ab></div><lb
- n="0579b28" ed="T"/><div type="None" level="2"><head>等目菩薩無量如品第七</head><lb
- n="0579b29" ed="T"/><ab type="prose">「又族姓子！菩薩大士行，念過去諸佛如來興<pb n="0579c" ed="T" id="T10.0288.0579c"/><lb
+ n="0579b28" ed="T"/><div type='' level='2'><head>等目菩薩無量如品第七</head><lb
+ n="0579b29" ed="T"/><ab type='prose'>「又族姓子！菩薩大士行，念過去諸佛如來興<pb n="0579c" ed="T" id="T10.0288.0579c"/><lb
  n="0579c01" ed="T"/>度無極，至劫過劫，過諸土盡無極。明知諸土<lb
  n="0579c02" ed="T"/>盡劫過劫，當明知諸佛之興，盡劫過劫。明了<lb
  n="0579c03" ed="T"/>諸佛，興敷說經，度無極法，從劫過劫，說法度<lb
@@ -492,15 +492,15 @@
  n="0579c29" ed="T"/>注於法。其時得是，族姓子！菩薩大士，得過去<pb n="0580a" ed="T" id="T10.0288.0580a"/><lb
  n="0580a01" ed="T"/>清淨也。<lb
  n="0580a02" ed="T"/>
-</ab><ab type="juan" subtype="close">等目菩薩經卷上</ab></div><lb
+</ab><ab type='juan' subtype='close'>等目菩薩經卷上</ab></div><lb
  n="0580a03" ed="T"/><lb
  n="0580a04" ed="T"/><lb
- n="0580a05" ed="T"/><div type="None" level="2">
-<ab type="juan" subtype="open">佛說等目菩薩經卷中</ab><lb
+ n="0580a05" ed="T"/><div type='' level='2'>
+<ab type='juan' subtype='open'>佛說等目菩薩經卷中</ab><lb
  n="0580a06" ed="T"/><lb
  n="0580a07" ed="T"/><byline>西晉月氏國三藏竺法護譯</byline><lb
  n="0580a08" ed="T"/><head>權慧清淨品第八</head><lb
- n="0580a09" ed="T"/><ab type="prose">「又復族姓子！菩薩大士以一一國淨故，便入<lb
+ n="0580a09" ed="T"/><ab type='prose'>「又復族姓子！菩薩大士以一一國淨故，便入<lb
  n="0580a10" ed="T"/>一一土；乃已修一一土，而現於一一土；順持<lb
  n="0580a11" ed="T"/>一一土，則住一一佛國土；便明一一佛國土<lb
  n="0580a12" ed="T"/>已，曉了一一土，便遊轉一一土，則了知一一<lb
@@ -592,8 +592,8 @@
  n="0581a11" ed="T"/>嘆；為諸香神帝所見追尋；為諸人帝所見供<lb
  n="0581a12" ed="T"/>養。是族姓子！諸菩薩以慧明藏定，名為第<lb
  n="0581a13" ed="T"/>六興顯大慧方便行也。</ab></div><lb
- n="0581a14" ed="T"/><div type="None" level="2"><head>等目菩薩興顯品第九</head><lb
- n="0581a15" ed="T"/><ab type="prose">「又復族姓子！菩薩大士有定，名諸佛明顯國<lb
+ n="0581a14" ed="T"/><div type='' level='2'><head>等目菩薩興顯品第九</head><lb
+ n="0581a15" ed="T"/><ab type='prose'>「又復族姓子！菩薩大士有定，名諸佛明顯國<lb
  n="0581a16" ed="T"/>土清淨。云何族姓子！諸菩薩諸佛明顯國土<lb
  n="0581a17" ed="T"/>清淨定而正受乎？於是菩薩入於東方世界，<lb
  n="0581a18" ed="T"/>從一國土，至一國土；於西南北方及四隅上<lb
@@ -748,8 +748,8 @@
  n="0582c22" ed="T"/>聖寶久住故。「是族姓子！彼菩薩大士行佛<lb
  n="0582c23" ed="T"/>十事，以度無數人，濟無數眾生，成滿無量願，<lb
  n="0582c24" ed="T"/>安立一切眾意行，永立佛事也。</ab></div><lb
- n="0582c25" ed="T"/><div type="None" level="2"><head>等目菩薩經外身現化品第十</head><lb
- n="0582c26" ed="T"/><ab type="prose">「又復族姓子！菩薩大士有定正受，名身無毀，<lb
+ n="0582c25" ed="T"/><div type='' level='2'><head>等目菩薩經外身現化品第十</head><lb
+ n="0582c26" ed="T"/><ab type='prose'>「又復族姓子！菩薩大士有定正受，名身無毀，<lb
  n="0582c27" ed="T"/>使其菩薩得住此意，而身無毀，得滿十無望。<lb
  n="0582c28" ed="T"/>何謂十？一者、謂於諸土而無望。二者、普於諸<lb
  n="0582c29" ed="T"/>方而無望。三者、於諸想念而無望。四者、於諸<pb n="0583a" ed="T" id="T10.0288.0583a"/><lb
@@ -930,15 +930,15 @@
  n="0585a01" ed="T"/>致度無極。是族姓子！菩薩大士分別身行，所<lb
  n="0585a02" ed="T"/>可依住而致，大德權定之慧達也。<lb
  n="0585a03" ed="T"/>
-</ab><ab type="juan" subtype="close">等目菩薩經卷中</ab></div><lb
+</ab><ab type='juan' subtype='close'>等目菩薩經卷中</ab></div><lb
  n="0585a04" ed="T"/><lb
  n="0585a05" ed="T"/><lb
- n="0585a06" ed="T"/><div type="None" level="2">
-<ab type="juan" subtype="open">等目菩薩經卷下</ab><lb
+ n="0585a06" ed="T"/><div type='' level='2'>
+<ab type='juan' subtype='open'>等目菩薩經卷下</ab><lb
  n="0585a07" ed="T"/><lb
  n="0585a08" ed="T"/><byline>西晉月支三藏竺法護譯</byline><lb
  n="0585a09" ed="T"/><head>分別身行大慧空品第十一</head><lb
- n="0585a10" ed="T"/><ab type="prose">「又復族姓子！菩薩大士於己身，盡其身等如<lb
+ n="0585a10" ed="T"/><ab type='prose'>「又復族姓子！菩薩大士於己身，盡其身等如<lb
  n="0585a11" ed="T"/>幻，眼之所見，隨於法界。菩薩之定興，亦等於<lb
  n="0585a12" ed="T"/>身，諸毛孔一一之毛，現諸法界，而菩薩居之<lb
  n="0585a13" ed="T"/>正受。彼亦住於幻法耳！及所知諸國土，亦如<lb
@@ -1219,8 +1219,8 @@
  n="0588a27" ed="T"/>曉達如來行，於種種法而無念，權行種種<lb
  n="0588a28" ed="T"/>辯說，清淨宣法，得致法行。是族姓子！菩薩大<lb
  n="0588a29" ed="T"/>士！於法界得莊而尊大。</ab></div><pb n="0588b" ed="T" id="T10.0288.0588b"/><lb
- n="0588b01" ed="T"/><div type="None" level="2"><head>等目菩薩大權慧品第十二</head><lb
- n="0588b02" ed="T"/><ab type="prose">「何謂族姓子！諸菩薩大士第十最德大定權<lb
+ n="0588b01" ed="T"/><div type='' level='2'><head>等目菩薩大權慧品第十二</head><lb
+ n="0588b02" ed="T"/><ab type='prose'>「何謂族姓子！諸菩薩大士第十最德大定權<lb
  n="0588b03" ed="T"/>慧行？是族姓子！諸菩薩有大定，名無盡場。其<lb
  n="0588b04" ed="T"/>以此定正受者，得住身口意行無盡；等住諸<lb
  n="0588b05" ed="T"/>佛剎亦無盡；致度眾生行亦無盡；住導眾生<lb
@@ -1409,8 +1409,8 @@
  n="0590b14" ed="T"/>至無數億劫，亦不懈退；以大悲心，悉濟普<lb
  n="0590b15" ed="T"/>世，順化眾生。又是菩薩大士，為普賢菩薩之<lb
  n="0590b16" ed="T"/>謂也。</ab></div><lb
- n="0590b17" ed="T"/><div type="None" level="2"><head>等目菩薩悅樂龍王品第十三</head><lb
- n="0590b18" ed="T"/><ab type="prose">「譬如族姓子！悅樂龍王處於金山之面七寶<lb
+ n="0590b17" ed="T"/><div type='' level='2'><head>等目菩薩悅樂龍王品第十三</head><lb
+ n="0590b18" ed="T"/><ab type='prose'>「譬如族姓子！悅樂龍王處於金山之面七寶<lb
  n="0590b19" ed="T"/>之藏，以七寶而造作，周匝亦以七寶，以雪而<lb
  n="0590b20" ed="T"/>覆之。其悅樂龍王悉白而皎潔，如雪之色，金<lb
  n="0590b21" ed="T"/>色明曜，金色若畫色，莊飾白妙以覆之。垂<lb
@@ -1514,5 +1514,5 @@
  n="0591c03" ed="T"/>與非人，聞佛所說，莫不歡喜，為佛作禮而<lb
  n="0591c04" ed="T"/>退。<lb
  n="0591c05" ed="T"/>
-</ab><ab type="juan" subtype="close">等目菩薩經卷下</ab></div></div>
+</ab><ab type='juan' subtype='close'>等目菩薩經卷下</ab></div></div>
 </body></text></TEI>

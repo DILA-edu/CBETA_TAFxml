@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T24</biblScope>
                     <idno type="Taisho">T24n1483b</idno>
                 </bibl>
@@ -39,17 +39,17 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0983c17" ed="T"/><lb
  n="0983c18" ed="T"/><lb
  n="0983c19" ed="T"/>
-<ab type="juan" subtype="open">佛說目連問戒律中五百<lb
+<ab type='juan' subtype='open'>佛說目連問戒律中五百<lb
  n="0983c20" ed="T"/>輕重事經卷上</ab><lb
  n="0983c21" ed="T"/><lb
  n="0983c22" ed="T"/><byline>失譯人名今附東晉錄</byline><lb
- n="0983c23" ed="T"/><div type="pin" level="2"><head>五篇事品第一</head><lb
- n="0983c24" ed="T"/><ab type="prose">如是我聞：一時佛住王舍城迦蘭陀竹園。<lb
+ n="0983c23" ed="T"/><div type='pin' level='2'><head>五篇事品第一</head><lb
+ n="0983c24" ed="T"/><ab type='prose'>如是我聞：一時佛住王舍城迦蘭陀竹園。<lb
  n="0983c25" ed="T"/>是時目連從坐而起，白佛言：「世尊！我今欲<lb
  n="0983c26" ed="T"/>有所問。惟願世尊為我演說。」佛言：「善哉！<lb
  n="0983c27" ed="T"/>汝所問者，能大利益無量眾生，恣汝所問。」<lb
@@ -67,8 +67,8 @@
  n="0984a10" ed="T"/>於人間數二百三十億四十千歲。犯波羅<lb
  n="0984a11" ed="T"/>夷，如他化自在天壽十六千歲墮泥犁中，<lb
  n="0984a12" ed="T"/>於人間數五百二十一億六十千歲。」</ab></div><lb
- n="0984a13" ed="T"/><div type="pin" level="2"><head>問佛事品第二</head><lb
- n="0984a14" ed="T"/><ab type="prose">問：「佛物先在一處，有比丘齎至餘處作佛<lb
+ n="0984a13" ed="T"/><div type='pin' level='2'><head>問佛事品第二</head><lb
+ n="0984a14" ed="T"/><ab type='prose'>問：「佛物先在一處，有比丘齎至餘處作佛<lb
  n="0984a15" ed="T"/>事。犯何事？」答：「犯棄。一切佛物都不得移動。<lb
  n="0984a16" ed="T"/>若有事難眾僧盡去，當白眾。若眾聽，得齎<lb
  n="0984a17" ed="T"/>至餘處，無罪。」<lb
@@ -174,8 +174,8 @@
  n="0985b01" ed="T"/>問：「比丘自手斷樹掘地，作佛塔寺及造形<lb
  n="0985b02" ed="T"/>像。有福不？」答：「尚不免地獄受大罪苦，有何<lb
  n="0985b03" ed="T"/>福耶？以故犯戒故。」</ab></div><lb
- n="0985b04" ed="T"/><div type="pin" level="2"><head>問法事品第三</head><lb
- n="0985b05" ed="T"/><ab type="prose">問：「高座說法，前人著俗服，可與說法不？」答：<lb
+ n="0985b04" ed="T"/><div type='pin' level='2'><head>問法事品第三</head><lb
+ n="0985b05" ed="T"/><ab type='prose'>問：「高座說法，前人著俗服，可與說法不？」答：<lb
  n="0985b06" ed="T"/>「聽法、說者二俱犯眾多過，三諫不改犯突<lb
  n="0985b07" ed="T"/>吉羅，復過三諫犯墮，復過三諫犯決斷，<lb
  n="0985b08" ed="T"/>復過三諫至棄。若使不諫，經三說戒，轉增。」<lb
@@ -202,8 +202,8 @@
  n="0985b29" ed="T"/>問：「戒律不用流落，可燒不？」答：「不得。不知有<pb n="0985c" ed="T" id="T24.1483b.0985c"/><lb
  n="0985c01" ed="T"/>罪，燒捨墮。若知燒有罪，故燒犯決斷。與方<lb
  n="0985c02" ed="T"/>便破僧同，亦如燒父母。」</ab></div><lb
- n="0985c03" ed="T"/><div type="pin" level="2"><head>結界法品第四</head><lb
- n="0985c04" ed="T"/><ab type="prose">問：「結界為云何？」答：「結界法。若山澤無人處<lb
+ n="0985c03" ed="T"/><div type='pin' level='2'><head>結界法品第四</head><lb
+ n="0985c04" ed="T"/><ab type='prose'>問：「結界為云何？」答：「結界法。若山澤無人處<lb
  n="0985c05" ed="T"/>隨意遠近，若在城邑聚落不得遠結，亦不<lb
  n="0985c06" ed="T"/>得夜結。結時要須比丘在四角頭立，不得<lb
  n="0985c07" ed="T"/>使外人入，外人入則界不成。先結界場，僧<lb
@@ -267,8 +267,8 @@
  n="0986b07" ed="T"/>處說戒及以羯磨種種僧事，唯得燒香飯<lb
  n="0986b08" ed="T"/>食而已。」<lb
  n="0986b09" ed="T"/>問：「大僧得與尼通結界不？」答：「得。」</ab></div><lb
- n="0986b10" ed="T"/><div type="pin" level="2"><head>問歲坐事品第五</head><lb
- n="0986b11" ed="T"/><ab type="prose">問：「夏中幾日得結坐？」答：「從四月十六日盡<lb
+ n="0986b10" ed="T"/><div type='pin' level='2'><head>問歲坐事品第五</head><lb
+ n="0986b11" ed="T"/><ab type='prose'>問：「夏中幾日得結坐？」答：「從四月十六日盡<lb
  n="0986b12" ed="T"/>五月十五日，日日可結，此謂坐初。有事難<lb
  n="0986b13" ed="T"/>不得結，或五三四日乃至一月盡，不失前<lb
  n="0986b14" ed="T"/>坐，此名三十日結坐一日受歲。後坐人唯<lb
@@ -360,8 +360,8 @@
  n="0987b13" ed="T"/>問：「受歲時，尼來界內求索受歲，應與受不？」<lb
  n="0987b14" ed="T"/>答：「二尼以上得。一不得，所以爾時，以尼獨<lb
  n="0987b15" ed="T"/>出界犯重故。」</ab></div><lb
- n="0987b16" ed="T"/><div type="pin" level="2"><head>度人事品第六</head><lb
- n="0987b17" ed="T"/><ab type="prose">問：「一人得度沙彌不？」答：「二人得。」<lb
+ n="0987b16" ed="T"/><div type='pin' level='2'><head>度人事品第六</head><lb
+ n="0987b17" ed="T"/><ab type='prose'>問：「一人得度沙彌不？」答：「二人得。」<lb
  n="0987b18" ed="T"/>問：「度沙彌，得遙請和尚不？」答：「不得。」<lb
  n="0987b19" ed="T"/>問：「未滿五臘度人，犯何事？其弟子為得戒<lb
  n="0987b20" ed="T"/>不？」答：「若知非法而度，犯捨墮。過三諫不<lb
@@ -398,8 +398,8 @@
  n="0987c22" ed="T"/>欲捉此比丘著水中。比丘曰：『我自入水，不<lb
  n="0987c23" ed="T"/>須見捉。』即便投水喪命。以此驗之，度人不<lb
  n="0987c24" ed="T"/>可不教戒。」</ab></div><lb
- n="0987c25" ed="T"/><div type="pin" level="2"><head>問受戒事品第七</head><lb
- n="0987c26" ed="T"/><ab type="prose">問：「沙彌犯十戒一二三不悔，受大戒得不？」<lb
+ n="0987c25" ed="T"/><div type='pin' level='2'><head>問受戒事品第七</head><lb
+ n="0987c26" ed="T"/><ab type='prose'>問：「沙彌犯十戒一二三不悔，受大戒得不？」<lb
  n="0987c27" ed="T"/>答：「若憶而不悔，不得。都不憶、若不知法，受<lb
  n="0987c28" ed="T"/>得。夫受戒法，師應問沙彌：『汝不犯戒不？』答<lb
  n="0987c29" ed="T"/>若言犯，即教懺悔。若本師不問，壇上師應<pb n="0988a" ed="T" id="T24.1483b.0988a"/><lb
@@ -451,8 +451,8 @@
  n="0988b17" ed="T"/>此制戒，不得誘他沙彌，誘他沙彌犯重。若<lb
  n="0988b18" ed="T"/>有一比丘，見他沙彌瞻視老病人，教使捨<lb
  n="0988b19" ed="T"/>去。沙彌若去，此比丘犯重。」</ab></div><lb
- n="0988b20" ed="T"/><div type="pin" level="2"><head>受施事品第八</head><lb
- n="0988b21" ed="T"/><ab type="prose">問：「比丘受檀越請四事供養，所受物得分<lb
+ n="0988b20" ed="T"/><div type='pin' level='2'><head>受施事品第八</head><lb
+ n="0988b21" ed="T"/><ab type='prose'>問：「比丘受檀越請四事供養，所受物得分<lb
  n="0988b22" ed="T"/>施人不？」答：「得。」<lb
  n="0988b23" ed="T"/>問：「以受四事長請，小小緣事出行，得食外<lb
  n="0988b24" ed="T"/>食得服外藥不？」答：「施主聽，得。」<lb
@@ -519,8 +519,8 @@
  n="0989a27" ed="T"/>問：「比丘一切長物施人，言：『我後須，還自取。』<lb
  n="0989a28" ed="T"/>得爾不？」答：「得與可信者，然後更語一人：『我<lb
  n="0989a29" ed="T"/>物施某比丘。』若取還語，不得輒取。」</ab></div><pb n="0989b" ed="T" id="T24.1483b.0989b"/><lb
- n="0989b01" ed="T"/><div type="pin" level="2"><head>疾病事品第九</head><lb
- n="0989b02" ed="T"/><ab type="prose">問：「比丘病，得離鉢食不？」答：「重病得。小病不得。」<lb
+ n="0989b01" ed="T"/><div type='pin' level='2'><head>疾病事品第九</head><lb
+ n="0989b02" ed="T"/><ab type='prose'>問：「比丘病，得離鉢食不？」答：「重病得。小病不得。」<lb
  n="0989b03" ed="T"/>問：「比丘疾病，三衣不持，犯何事？」答：「大困無<lb
  n="0989b04" ed="T"/>所識知，得。有覺知，不得。」<lb
  n="0989b05" ed="T"/>問：「看病人不語病者，私用錢與他病人作<lb
@@ -538,8 +538,8 @@
  n="0989b17" ed="T"/>問：「比丘病困或闕，衣鉢施眾，或賣用作福<lb
  n="0989b18" ed="T"/>德，犯何事？」答：「若更得弊故，即受得。無有，犯<lb
  n="0989b19" ed="T"/>捨墮。」</ab></div><lb
- n="0989b20" ed="T"/><div type="pin" level="2"><head>死亡事品第十</head><lb
- n="0989b21" ed="T"/><ab type="prose">問：「亡比丘物，都不打揵槌、不羯磨而分，犯<lb
+ n="0989b20" ed="T"/><div type='pin' level='2'><head>死亡事品第十</head><lb
+ n="0989b21" ed="T"/><ab type='prose'>問：「亡比丘物，都不打揵槌、不羯磨而分，犯<lb
  n="0989b22" ed="T"/>何事？」答：「界裏一人以上，盡得打揵槌羯磨。<lb
  n="0989b23" ed="T"/>若不羯磨而打揵槌亦不羯磨，盡犯棄。所<lb
  n="0989b24" ed="T"/>以爾者，亡比丘物，盡屬四方僧故，不得輒<lb
@@ -590,16 +590,16 @@
  n="0990a11" ed="T"/>「若羯磨訖，不與無咎。若及後羯磨，猶故得<lb
  n="0990a12" ed="T"/>分。」</ab></div><lb
  n="0990a13" ed="T"/>
-<ab type="juan" subtype="close">佛說目連問戒律中五百輕重事經卷上</ab><lb
+<ab type='juan' subtype='close'>佛說目連問戒律中五百輕重事經卷上</ab><lb
  n="0990a14" ed="T"/><lb
  n="0990a15" ed="T"/><lb
  n="0990a16" ed="T"/>
-<ab type="juan" subtype="open">佛說目連問戒律中五百<lb
+<ab type='juan' subtype='open'>佛說目連問戒律中五百<lb
  n="0990a17" ed="T"/>輕重事經卷下</ab><lb
  n="0990a18" ed="T"/><lb
  n="0990a19" ed="T"/><byline>失譯人名今附東晉錄</byline><lb
- n="0990a20" ed="T"/><div type="pin" level="2"><head>問三衣事品第十一</head><lb
- n="0990a21" ed="T"/><ab type="prose">問：「三衣事，浣要須捨不？」答：「須捨。若不捨犯<lb
+ n="0990a20" ed="T"/><div type='pin' level='2'><head>問三衣事品第十一</head><lb
+ n="0990a21" ed="T"/><ab type='prose'>問：「三衣事，浣要須捨不？」答：「須捨。若不捨犯<lb
  n="0990a22" ed="T"/>捨墮。當施與人，還乃得更受。」<lb
  n="0990a23" ed="T"/>問：「三衣盡得條成不？」答：「大衣得。中衣小衣<lb
  n="0990a24" ed="T"/>不得。」<lb
@@ -621,8 +621,8 @@
  n="0990b11" ed="T"/>問：「三衣破補便得受，須復施他人耶？」答：「破<lb
  n="0990b12" ed="T"/>容猫子脚便應施人，人還乃得補受。若先<lb
  n="0990b13" ed="T"/>補後施人亦得。」</ab></div><lb
- n="0990b14" ed="T"/><div type="pin" level="2"><head>鉢事品第十二</head><lb
- n="0990b15" ed="T"/><ab type="prose">問：「鉢云何失？」答：「若緣缺、若穿穴、若裂、若油<lb
+ n="0990b14" ed="T"/><div type='pin' level='2'><head>鉢事品第十二</head><lb
+ n="0990b15" ed="T"/><ab type='prose'>問：「鉢云何失？」答：「若緣缺、若穿穴、若裂、若油<lb
  n="0990b16" ed="T"/>不捨、盡是失。緣缺、穿穴，不可復持。裂者，<lb
  n="0990b17" ed="T"/>綴已施人，人還更受。油不捨亦爾。若棄，出<lb
  n="0990b18" ed="T"/>界經宿不失。」<lb
@@ -642,8 +642,8 @@
  n="0990c03" ed="T"/>問：「比丘以器盛飯，停著鉢中，得互用鉢食<lb
  n="0990c04" ed="T"/>不？」答：「不得。犯捨墮。」<lb
  n="0990c05" ed="T"/>問：「鉢得炊作食不？」答：「不得，炊犯捨墮。」</ab></div><lb
- n="0990c06" ed="T"/><div type="pin" level="2"><head>問雜事品第十三</head><lb
- n="0990c07" ed="T"/><ab type="prose">問：「比丘或被劫盜，物未出界。主見本物，不<lb
+ n="0990c06" ed="T"/><div type='pin' level='2'><head>問雜事品第十三</head><lb
+ n="0990c07" ed="T"/><ab type='prose'>問：「比丘或被劫盜，物未出界。主見本物，不<lb
  n="0990c08" ed="T"/>知諸物得取不？」答：「得取。即取即用九十<lb
  n="0990c09" ed="T"/>事中寶相似者。當先作念。若有人認者不<lb
  n="0990c10" ed="T"/>得取，無認者白眾得取。若無眾，作界內物<lb
@@ -915,8 +915,8 @@
  n="0993c15" ed="T"/>從受法者，盡不得為師。」<lb
  n="0993c16" ed="T"/>問：「一切師得呼為和尚不？稱為弟子不？」<lb
  n="0993c17" ed="T"/>答：「不得。正可敬重，如俗中之尊。」</ab></div><lb
- n="0993c18" ed="T"/><div type="pin" level="2"><head>三自歸事品第十四</head><lb
- n="0993c19" ed="T"/><ab type="prose">問三自歸趣得人受。復有不應受者答除<lb
+ n="0993c18" ed="T"/><div type='pin' level='2'><head>三自歸事品第十四</head><lb
+ n="0993c19" ed="T"/><ab type='prose'>問三自歸趣得人受。復有不應受者答除<lb
  n="0993c20" ed="T"/>五逆罪得。<lb
  n="0993c21" ed="T"/>問：「三自歸斯行何事？」答：「身口意不行邪事，<lb
  n="0993c22" ed="T"/>及不隨邪見師。」<lb
@@ -941,8 +941,8 @@
  n="0994a12" ed="T"/>問：「先受三歸犯不悔，得更受不？」答：「不得，要<lb
  n="0994a13" ed="T"/>當悔。若欲當受，捨先所受。若不捨，更受<lb
  n="0994a14" ed="T"/>者不得。」</ab></div><lb
- n="0994a15" ed="T"/><div type="pin" level="2"><head>五戒事品第十五</head><lb
- n="0994a16" ed="T"/><ab type="prose">問：「不受三歸，得受五戒不？」答：「不得。」<lb
+ n="0994a15" ed="T"/><div type='pin' level='2'><head>五戒事品第十五</head><lb
+ n="0994a16" ed="T"/><ab type='prose'>問：「不受三歸，得受五戒不？」答：「不得。」<lb
  n="0994a17" ed="T"/>問：「若受三歸犯而不悔者，得受五戒不？」答：<lb
  n="0994a18" ed="T"/>「不得。」<lb
  n="0994a19" ed="T"/>問：「受五戒法，可得但受五日十日一年二<lb
@@ -962,16 +962,16 @@
  n="0994b04" ed="T"/>問：「五戒可但受一二三不？」答：「得隨意多少。」<lb
  n="0994b05" ed="T"/>問：「比丘犯重戒、或犯酒戒，得不？」答：「不得。」<lb
  n="0994b06" ed="T"/>問：「頗有八戒白衣不？」答：「無。唯有八關齋。」</ab></div><lb
- n="0994b07" ed="T"/><div type="pin" level="2"><head>十戒事品第十六</head><lb
- n="0994b08" ed="T"/><ab type="prose">問：「不受五戒，得受十戒不？」答：「若先三自歸，<lb
+ n="0994b07" ed="T"/><div type='pin' level='2'><head>十戒事品第十六</head><lb
+ n="0994b08" ed="T"/><ab type='prose'>問：「不受五戒，得受十戒不？」答：「若先三自歸，<lb
  n="0994b09" ed="T"/>得。以十戒中即有五戒，亦不復受。」<lb
  n="0994b10" ed="T"/>問：「犯五戒不悔，得受十戒不？」答：「不得。若先<lb
  n="0994b11" ed="T"/>不知，悔已受。而不悔，不得。」<lb
  n="0994b12" ed="T"/>問：「若師犯重戒，從受十戒得不？」答：「不得。」<lb
  n="0994b13" ed="T"/>問：「若犯重戒，從受十戒得不？」答：「不得。」<lb
  n="0994b14" ed="T"/>問：「沙彌犯十戒，盡得悔不？」答：「同上五戒。」</ab></div><lb
- n="0994b15" ed="T"/><div type="pin" level="2"><head>問沙彌品第十七</head><lb
- n="0994b16" ed="T"/><ab type="prose">問：「悔須眾不？」答：「不須眾，但向本師得了。<lb
+ n="0994b15" ed="T"/><div type='pin' level='2'><head>問沙彌品第十七</head><lb
+ n="0994b16" ed="T"/><ab type='prose'>問：「悔須眾不？」答：「不須眾，但向本師得了。<lb
  n="0994b17" ed="T"/>若現在無師，向餘一比丘亦得。」<lb
  n="0994b18" ed="T"/>問：「沙彌半月一說戒不？」答：「無此理。所以爾<lb
  n="0994b19" ed="T"/>者，以沙彌戒不成俗人，然終已可說，須十<lb
@@ -1012,8 +1012,8 @@
  n="0994c25" ed="T"/>汝有，何以護之？』便即捨去不遠入一草，毒<lb
  n="0994c26" ed="T"/>火出然草，還自燒身命終，即入地獄。地獄<lb
  n="0994c27" ed="T"/>一日之中三過被燒，皆由貪害。」</ab></div><lb
- n="0994c28" ed="T"/><div type="pin" level="2"><head>歲坐竟懺悔文</head><lb
- n="0994c29" ed="T"/><ab type="prose">若僧聽！多薩阿竭所受歲坐，比丘應爾。我<pb n="0995a" ed="T" id="T24.1483b.0995a"/><lb
+ n="0994c28" ed="T"/><div type='pin' level='2'><head>歲坐竟懺悔文</head><lb
+ n="0994c29" ed="T"/><ab type='prose'>若僧聽！多薩阿竭所受歲坐，比丘應爾。我<pb n="0995a" ed="T" id="T24.1483b.0995a"/><lb
  n="0995a01" ed="T"/>從歲始至今歲竟，六月中多所違失。違失<lb
  n="0995a02" ed="T"/>者戒事，除二鼻貳事，餘不除。是世尊集和<lb
  n="0995a03" ed="T"/>僧所教勅，今我是思念，共諸君發露陳說<lb
@@ -1083,5 +1083,5 @@
  n="0995c09" ed="T"/>三界。吾今憐愍諸眾生輩。」是時目連聞佛<lb
  n="0995c10" ed="T"/>所說，歡喜奉行。</ab></div><lb
  n="0995c11" ed="T"/>
-<ab type="juan" subtype="close">佛說目連問戒律中五百輕重事經卷下</ab></div>
+<ab type='juan' subtype='close'>佛說目連問戒律中五百輕重事經卷下</ab></div>
 </body></text></TEI>

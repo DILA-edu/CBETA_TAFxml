@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1149</idno>
                 </bibl>
@@ -39,17 +39,17 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0607a21" ed="T"/><lb
  n="0607a22" ed="T"/><lb
  n="0607a23" ed="T"/><lb
  n="0607a24" ed="T"/>
-<ab type="juan" subtype="open">五大虛空藏菩薩速疾大神驗祕<lb
+<ab type='juan' subtype='open'>五大虛空藏菩薩速疾大神驗祕<lb
  n="0607a25" ed="T"/>密式經一卷</ab><lb
  n="0607a26" ed="T"/><lb
  n="0607a27" ed="T"/><byline>金剛智所譯</byline><lb
- n="0607a28" ed="T"/><div type="jing" level="2"><ab type="verse">
+ n="0607a28" ed="T"/><div type='jing' level='2'><ab type='verse'>
 我依瑜伽經所說　　為像末薄福比丘　　<lb
  n="0607a29" ed="T"/>久持諸佛祕密語　　若其福智不現前　　<pb n="0607b" id="T20.1149.0607b" ed="T"/><lb
  n="0607b01" ed="T"/>及以無官無位倫　　貴姓高人福因薄　　<lb
@@ -60,7 +60,7 @@
  n="0607b06" ed="T"/>若布施不至恭敬　　受道修行不感應　　<lb
  n="0607b07" ed="T"/>欲顯此法大驗力　　先當建立祕密盤　　
 </ab><lb
- n="0607b08" ed="T"/><ab type="prose">白檀若柏桂。又經百歲靈木。用天盤造圓。方<lb
+ n="0607b08" ed="T"/><ab type='prose'>白檀若柏桂。又經百歲靈木。用天盤造圓。方<lb
  n="0607b09" ed="T"/>二寸五分又三寸。地盤四方六寸又七寸。又<lb
  n="0607b10" ed="T"/>天色皆經青。地內院黃。中院青。外院赤。下<lb
  n="0607b11" ed="T"/>方四面空青下黃。天厚一寸三分。地厚一寸。<lb
@@ -89,33 +89,33 @@
  n="0607c05" ed="T"/>始自甲乙。諸夜叉部尋之。其形像畫。若名字<lb
  n="0607c06" ed="T"/>畫色形。隨方角耳。內院地黃。中院地青。外院<lb
  n="0607c07" ed="T"/>地赤。知之綵畫矣。</ab></div><lb
- n="0607c08" ed="T"/><div type="pin" level="2"><head>五大虛空藏菩薩成就悉地品第二</head><lb
- n="0607c09" ed="T"/><ab type="prose">根本最勝心陀羅尼曰。<lb
+ n="0607c08" ed="T"/><div type='pin' level='2'><head>五大虛空藏菩薩成就悉地品第二</head><lb
+ n="0607c09" ed="T"/><ab type='prose'>根本最勝心陀羅尼曰。<lb
  n="0607c10" ed="T"/></ab>
-<ab type="dharani">南牟阿迦捨揭婆耶唵<lb
+<ab type='dharani'>南牟阿迦捨揭婆耶唵<lb
  n="0607c11" ed="T"/>阿唎迦摩唎󰳙唎莎嚩訶<lb
  n="0607c12" ed="T"/></ab>
-<ab type="prose">東方菩薩呪曰。<lb
+<ab type='prose'>東方菩薩呪曰。<lb
  n="0607c13" ed="T"/></ab>
-<ab type="dharani">唵嚩日羅吽<lb
+<ab type='dharani'>唵嚩日羅吽<lb
  n="0607c14" ed="T"/></ab>
-<ab type="prose">南方菩薩呪曰。<lb
+<ab type='prose'>南方菩薩呪曰。<lb
  n="0607c15" ed="T"/></ab>
-<ab type="dharani">唵嚩日羅曩怛洛<lb
+<ab type='dharani'>唵嚩日羅曩怛洛<lb
  n="0607c16" ed="T"/></ab>
-<ab type="prose">西方菩薩呪曰。<lb
+<ab type='prose'>西方菩薩呪曰。<lb
  n="0607c17" ed="T"/></ab>
-<ab type="dharani">唵嚩日羅紇哩<lb
+<ab type='dharani'>唵嚩日羅紇哩<lb
  n="0607c18" ed="T"/></ab>
-<ab type="prose">北方菩薩呪曰。<lb
+<ab type='prose'>北方菩薩呪曰。<lb
  n="0607c19" ed="T"/></ab>
-<ab type="dharani">唵嚩日羅噁<lb
+<ab type='dharani'>唵嚩日羅噁<lb
  n="0607c20" ed="T"/></ab>
-<ab type="prose">中央菩薩呪曰。<lb
+<ab type='prose'>中央菩薩呪曰。<lb
  n="0607c21" ed="T"/></ab>
-<ab type="dharani">唵嚩日羅鑁<lb
+<ab type='dharani'>唵嚩日羅鑁<lb
  n="0607c22" ed="T"/></ab>
-<ab type="prose">印契如瑜伽經說。修行者先相應壇場建立。<lb
+<ab type='prose'>印契如瑜伽經說。修行者先相應壇場建立。<lb
  n="0607c23" ed="T"/>隨意樂處。但可擇求寂靜處。遠離憒鬧污穢<lb
  n="0607c24" ed="T"/>不淨童男童女不信沙彌貧窮垢衣者勿親。<lb
  n="0607c25" ed="T"/>求成就庭。好好謹慎。調備供具。奉置本尊盤。<lb
@@ -185,71 +185,71 @@
  n="0608c02" ed="T"/>件法天竺國菩提所傳也。其調度不多類。<lb
  n="0608c03" ed="T"/>時人皆號驗法焉。加持供養物。<lb
  n="0608c04" ed="T"/></ab>
-<ab type="dharani">唵阿密栗妬納婆縛吽發吒娑婆訶<lb
+<ab type='dharani'>唵阿密栗妬納婆縛吽發吒娑婆訶<lb
  n="0608c05" ed="T"/></ab>
-<ab type="prose">大輪壇印　二手各作拳。地風各釣結當胸。<lb
+<ab type='prose'>大輪壇印　二手各作拳。地風各釣結當胸。<lb
  n="0608c06" ed="T"/>誦真言三遍轉之　次加持壇　次以印入自<lb
  n="0608c07" ed="T"/>口　真言曰。<lb
  n="0608c08" ed="T"/></ab>
-<ab type="dharani">唵縛日羅斫羯羅惹吽鑁斛<lb
+<ab type='dharani'>唵縛日羅斫羯羅惹吽鑁斛<lb
  n="0608c09" ed="T"/></ab>
-<ab type="prose">念珠加持真言<lb
+<ab type='prose'>念珠加持真言<lb
  n="0608c10" ed="T"/></ab>
-<ab type="dharani">唵毘盧遮那摩黎娑婆訶<lb
+<ab type='dharani'>唵毘盧遮那摩黎娑婆訶<lb
  n="0608c11" ed="T"/></ab>
-<ab type="prose">次誦旋轉念珠明曰。<lb
+<ab type='prose'>次誦旋轉念珠明曰。<lb
  n="0608c12" ed="T"/></ab>
-<ab type="dharani">唵嚩日羅獄呬耶惹跛三摩曳吽<lb
+<ab type='dharani'>唵嚩日羅獄呬耶惹跛三摩曳吽<lb
  n="0608c13" ed="T"/></ab>
-<ab type="prose">吉祥天小呪<lb
+<ab type='prose'>吉祥天小呪<lb
  n="0608c14" ed="T"/></ab>
-<ab type="dharani">唵摩訶支利曳婆娑婆訶<lb
+<ab type='dharani'>唵摩訶支利曳婆娑婆訶<lb
  n="0608c15" ed="T"/></ab>
-<ab type="prose">天王梵字呪<lb
+<ab type='prose'>天王梵字呪<lb
  n="0608c16" ed="T"/></ab>
-<ab type="dharani">唵毘智須多迦悉者娑婆訶<lb
+<ab type='dharani'>唵毘智須多迦悉者娑婆訶<lb
  n="0608c17" ed="T"/></ab>
-<ab type="prose">四天王通呪<lb
+<ab type='prose'>四天王通呪<lb
  n="0608c18" ed="T"/></ab>
-<ab type="dharani">唵漸婆羅奢舉多羅耶娑婆訶<lb
+<ab type='dharani'>唵漸婆羅奢舉多羅耶娑婆訶<lb
  n="0608c19" ed="T"/></ab>
-<ab type="prose">使者呪<lb
+<ab type='prose'>使者呪<lb
  n="0608c20" ed="T"/></ab>
-<ab type="dharani">唵豆留豆留地利地利度露度露迦他耶娑婆<lb
+<ab type='dharani'>唵豆留豆留地利地利度露度露迦他耶娑婆<lb
  n="0608c21" ed="T"/>訶<lb
  n="0608c22" ed="T"/></ab>
-<ab type="prose">大三摩耶印真言曰　二手作金剛拳背相合。<lb
+<ab type='prose'>大三摩耶印真言曰　二手作金剛拳背相合。<lb
  n="0608c23" ed="T"/>申二風頭相拄。以印自心至頂。三返舉之。即<lb
  n="0608c24" ed="T"/>頂散之。<lb
  n="0608c25" ed="T"/></ab>
-<ab type="dharani">曩莫三曼多沒馱喃達麼馱睹薩嚩婆嚩<lb
+<ab type='dharani'>曩莫三曼多沒馱喃達麼馱睹薩嚩婆嚩<lb
  n="0608c26" ed="T"/>句唅<lb
  n="0608c27" ed="T"/></ab>
-<ab type="prose">廣大不空摩尼普供養印　二手金剛合掌。<lb
+<ab type='prose'>廣大不空摩尼普供養印　二手金剛合掌。<lb
  n="0608c28" ed="T"/>二頭指捻蹙如寶形。並竪二大指即成。誦不<lb
  n="0608c29" ed="T"/>空摩尼供養真言曰。<pb n="0609a" id="T20.1149.0609a" ed="T"/><lb
  n="0609a01" ed="T"/></ab>
-<ab type="dharani">唵阿謨伽布惹摩抳跛納摩<lb
+<ab type='dharani'>唵阿謨伽布惹摩抳跛納摩<lb
  n="0609a02" ed="T"/>縛日隷怛他蘖多尾路枳帝三<lb
  n="0609a03" ed="T"/>滿多鉢羅薩羅吽<lb
  n="0609a04" ed="T"/></ab>
-<ab type="prose">次取獨古。左手拳安左腰。即誦金剛杵真言<lb
+<ab type='prose'>次取獨古。左手拳安左腰。即誦金剛杵真言<lb
  n="0609a05" ed="T"/>三遍。以杵左右各三遍轉。投上三度。加持五<lb
  n="0609a06" ed="T"/>處。安右乳上。次執鈴左手。誦真言三遍了。五<lb
  n="0609a07" ed="T"/>度振上。左耳間二度振上。次閒斷二度振上。<lb
  n="0609a08" ed="T"/>次以杵各左右三轉。加持五處。以杵鈴共安<lb
  n="0609a09" ed="T"/>本所。杵真言曰。<lb
  n="0609a10" ed="T"/></ab>
-<ab type="dharani">唵嚩日羅播儞吽</ab>
-<ab type="prose">鈴真言曰。</ab>
-<ab type="dharani">唵嚩日羅健<lb
+<ab type='dharani'>唵嚩日羅播儞吽</ab>
+<ab type='prose'>鈴真言曰。</ab>
+<ab type='dharani'>唵嚩日羅健<lb
  n="0609a11" ed="T"/>吒覩使也斛<lb
  n="0609a12" ed="T"/></ab>
-<ab type="prose">次奉獻閼伽印明　次虛空藏四方結<lb
+<ab type='prose'>次奉獻閼伽印明　次虛空藏四方結<lb
  n="0609a13" ed="T"/>　次金剛牆　次灑淨真言<lb
  n="0609a14" ed="T"/>
-</ab><ab type="juan" subtype="close">五大虛空藏儀軌</ab></div><lb
- n="0609a15" ed="T"/><div type="w" level="2"><ab type="prose">於仁和寺皆明寺。以拇尾山法鼓臺本書<lb
+</ab><ab type='juan' subtype='close'>五大虛空藏儀軌</ab></div><lb
+ n="0609a15" ed="T"/><div type='w' level='2'><ab type='prose'>於仁和寺皆明寺。以拇尾山法鼓臺本書<lb
  n="0609a16" ed="T"/>寫畢　于時天明二壬寅年秋八月四日夜。<lb
  n="0609a17" ed="T"/>燈下閣筆。<lb
  n="0609a18" ed="T"/>覺禪抄云。式經一卷真偽可尋。　智積院<lb

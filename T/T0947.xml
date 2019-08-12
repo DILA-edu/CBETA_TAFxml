@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n0947</idno>
                 </bibl>
@@ -39,18 +39,18 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0180a" id="T19.0947.0180a" ed="T"/><lb
  n="0180a01" ed="T"/><lb
  n="0180a02" ed="T"/><lb
  n="0180a03" ed="T"/><lb
  n="0180a04" ed="T"/>
-<ab type="juan" subtype="open">大佛頂如來放光悉怛多般怛羅<lb
+<ab type='juan' subtype='open'>大佛頂如來放光悉怛多般怛羅<lb
  n="0180a05" ed="T"/>大神力都攝一切呪王陀羅尼經<lb
  n="0180a06" ed="T"/>大威德最勝金輪三昧呪品第一<lb
  n="0180a07" ed="T"/></ab><lb
  n="0180a08" ed="T"/><lb
- n="0180a09" ed="T"/><div type="pin" level="2"><ab type="prose">如是我聞。一時佛在舍衛國祇樹給孤獨園。<lb
+ n="0180a09" ed="T"/><div type='pin' level='2'><ab type='prose'>如是我聞。一時佛在舍衛國祇樹給孤獨園。<lb
  n="0180a10" ed="T"/>與大阿羅漢五千人俱。摩訶迦葉。優樓頻螺<lb
  n="0180a11" ed="T"/>迦葉。伽耶迦葉。那提迦葉。舍利弗。大目楗<lb
  n="0180a12" ed="T"/>連。難陀。阿㝹樓馱。劫賓那。阿若憍陳如。阿<lb
@@ -126,7 +126,7 @@
  n="0180c25" ed="T"/>作守護。今佛世尊。清淨軌則。於是阿難。以偈<lb
  n="0180c26" ed="T"/>問曰。<lb
  n="0180c27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 諸佛不思議　　所說法亦爾　　<lb
  n="0180c28" ed="T"/>能信受持者　　福德常隨身　　<lb
  n="0180c29" ed="T"/>恒諠修伽陀　　安樂人天眾　　<pb n="0181a" id="T19.0947.0181a" ed="T"/><lb
@@ -140,7 +140,7 @@
  n="0181a08" ed="T"/>唯願大慈悲　　憐愍於一切　　<lb
  n="0181a09" ed="T"/>廣為我等說　　受持之法要　　
 </ab><lb
- n="0181a10" ed="T"/><ab type="prose">佛告阿難。若未來世人。願建立道場。先□雪<lb
+ n="0181a10" ed="T"/><ab type='prose'>佛告阿難。若未來世人。願建立道場。先□雪<lb
  n="0181a11" ed="T"/>山大力白牛。食其山中肥膩香草。此牛唯飲<lb
  n="0181a12" ed="T"/>雪山香清水。其糞微細可取。其糞和合栴檀<lb
  n="0181a13" ed="T"/>以泥。其地若其非雪山。其牛糞臭穢。不堪塗<lb
@@ -246,17 +246,17 @@
  n="0182a26" ed="T"/>爾時化佛。無見頂相。於其光中。出大梵音。宣<lb
  n="0182a27" ed="T"/>說如是。歸命警悟群迷。即說偈曰。<lb
  n="0182a28" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 南謨一切三世諸佛　　南謨一切諸菩薩　　<lb
  n="0182a29" ed="T"/>南謨聲聞獨覺等　　南無一切諸鬼神　　<pb n="0182b" id="T19.0947.0182b" ed="T"/><lb
  n="0182b01" ed="T"/>各各明聽我所勅　　今當宣說大神呪　　<lb
  n="0182b02" ed="T"/>一切聞者當歡喜　　恭敬作禮至心聽　　
 </ab><lb
- n="0182b03" ed="T"/><ab type="prose">佛印都有三十二。菩薩印十。金剛一十二。天<lb
+ n="0182b03" ed="T"/><ab type='prose'>佛印都有三十二。菩薩印十。金剛一十二。天<lb
  n="0182b04" ed="T"/>四十。天日月十九。鬼十一。陀羅尼八十六。<lb
  n="0182b05" ed="T"/>大佛頂陀羅尼心呪<lb
  n="0182b06" ed="T"/></ab>
-<ab type="dharani">唵薩婆怛他揭多曼嘌帝鉢羅伐帝揭多<lb
+<ab type='dharani'>唵薩婆怛他揭多曼嘌帝鉢羅伐帝揭多<lb
  n="0182b07" ed="T"/>婆曳唵奢摩演都麼麼寫薩婆跛閉瓢<lb
  n="0182b08" ed="T"/>莎悉底婆羅跛都牟支牟支毘牟支<lb
  n="0182b09" ed="T"/>毘牟支遮利遮利儞揭底婆耶奇囉嬭<lb
@@ -264,7 +264,7 @@
  n="0182b11" ed="T"/>勃地利勃陀臨薩婆怛他揭多頡嘌陀<lb
  n="0182b12" ed="T"/>耶樹瑟𪘨莎訶<lb
  n="0182b13" ed="T"/></ab>
-<ab type="prose">大佛頂大心呪印<lb
+<ab type='prose'>大佛頂大心呪印<lb
  n="0182b14" ed="T"/>常作以二中指。苾於無名指後。二大指各捻。<lb
  n="0182b15" ed="T"/>頭指相拘。二中指於二無名指後。頭指相柱。<lb
  n="0182b16" ed="T"/>二無名指摘竪。二小指縛中指摘竪。即是不<lb
@@ -280,11 +280,11 @@
  n="0182b26" ed="T"/>大佛頂一切佛心呪印<lb
  n="0182b27" ed="T"/>一切諸菩薩呪印呪曰。<lb
  n="0182b28" ed="T"/></ab>
-<ab type="dharani">唵跛折囉底跛折囉鉢囉底瑟恥底<lb
+<ab type='dharani'>唵跛折囉底跛折囉鉢囉底瑟恥底<lb
  n="0182b29" ed="T"/>輸提怛他揭多沒陀羅地瑟吒那地瑟<pb n="0182c" id="T19.0947.0182c" ed="T"/><lb
  n="0182c01" ed="T"/>恥底莎訶<lb
  n="0182c02" ed="T"/></ab>
-<ab type="prose">大佛頂大忿怒印<lb
+<ab type='prose'>大佛頂大忿怒印<lb
  n="0182c03" ed="T"/>二大指直竪。二中指直上。頭相柱。二頭指小<lb
  n="0182c04" ed="T"/>曲頭當中指上節側倚。二無名指小指並相<lb
  n="0182c05" ed="T"/>叉。頭出向外。<lb
@@ -293,41 +293,41 @@
  n="0182c08" ed="T"/>頭指小曲二手中指下。三指總屈掌中。<lb
  n="0182c09" ed="T"/>大佛頂灌頂呪<lb
  n="0182c10" ed="T"/></ab>
-<ab type="dharani">唵牟儞牟儞伐㘑阿毘詵者咩薩㗚婆<lb
+<ab type='dharani'>唵牟儞牟儞伐㘑阿毘詵者咩薩㗚婆<lb
  n="0182c11" ed="T"/>怛他揭多吽麼麼寫薩婆苾地也<lb
  n="0182c12" ed="T"/>毘曬雞摩訶跛折羅迦伐遮嬈羅沒嘌<lb
  n="0182c13" ed="T"/>嬈地利底怛他揭多頡利達耶地<lb
  n="0182c14" ed="T"/>瑟恥多跛折隷莎訶<lb
  n="0182c15" ed="T"/></ab>
-<ab type="prose">大佛頂灌頂印平身並脚。以右手向脾上<lb
+<ab type='prose'>大佛頂灌頂印平身並脚。以右手向脾上<lb
  n="0182c16" ed="T"/>垂。以左手頭指無名指小指大指總屈。中指<lb
- n="0182c17" ed="T"/>直立當額眉間。指甲󰸾之若人作法。<lb
+ n="0182c17" ed="T"/>直立當額眉間。指甲𭝕之若人作法。<lb
  n="0182c18" ed="T"/>根本重罪皆得除滅呪曰。<lb
  n="0182c19" ed="T"/></ab>
-<ab type="dharani">唵阿蜜嘌多筏折㘑嚩囉嚩囉鉢囉嚩<lb
+<ab type='dharani'>唵阿蜜嘌多筏折㘑嚩囉嚩囉鉢囉嚩<lb
  n="0182c20" ed="T"/>毘輸提唅唅泮泮屋屋莎訶<lb
  n="0182c21" ed="T"/></ab>
-<ab type="prose">大佛頂甘露印。苾右手中指於頭指間。頭<lb
+<ab type='prose'>大佛頂甘露印。苾右手中指於頭指間。頭<lb
  n="0182c22" ed="T"/>指押大母指上節。大母指押小指甲上。若人<lb
  n="0182c23" ed="T"/>作此印誦此呪。一切諸天將甘露灌。此人頂<lb
  n="0182c24" ed="T"/>上不可思議。<lb
  n="0182c25" ed="T"/>大佛頂結界呪法<lb
  n="0182c26" ed="T"/></ab>
-<ab type="dharani">唵阿密嘌多毘盧羯儞揭羅婆浴󰸻尼阿<lb
+<ab type='dharani'>唵阿密嘌多毘盧羯儞揭羅婆浴𭃯尼阿<lb
  n="0182c27" ed="T"/>羯羅沙尼唅唅泮泮莎訶<lb
  n="0182c28" ed="T"/></ab>
-<ab type="prose">大佛頂大心印契<lb
+<ab type='prose'>大佛頂大心印契<lb
  n="0182c29" ed="T"/>以二中指相叉於掌內。二小指並竪。二大指<pb n="0183a" id="T19.0947.0183a" ed="T"/><lb
  n="0183a01" ed="T"/>並竪。二頭指各押大指頭。此印能攝一切心<lb
  n="0183a02" ed="T"/>印。正法中能攝四種隨心印。若作諸法自在<lb
  n="0183a03" ed="T"/>無礙。先作此印誦呪四十九遍。然後使用。<lb
  n="0183a04" ed="T"/>大佛頂心中心呪<lb
  n="0183a05" ed="T"/></ab>
-<ab type="dharani">唵跋折羅跋羅跋羅印地嘌耶毘<lb
- n="0183a06" ed="T"/>輸達儞唅唅噌嚧遮隷迦嚧遮󰺒莎<lb
+<ab type='dharani'>唵跋折羅跋羅跋羅印地嘌耶毘<lb
+ n="0183a06" ed="T"/>輸達儞唅唅噌嚧遮隷迦嚧遮𮯉莎<lb
  n="0183a07" ed="T"/>訶<lb
  n="0183a08" ed="T"/></ab>
-<ab type="prose">若作此印念一切諸佛。一切諸佛至其人前。<lb
+<ab type='prose'>若作此印念一切諸佛。一切諸佛至其人前。<lb
  n="0183a09" ed="T"/>所有一切呪神衛護此人。是大護身也。并使<lb
  n="0183a10" ed="T"/>役一切鬼神。若欲誦呪要。先誦佛心中心呪。<lb
  n="0183a11" ed="T"/>護身用小佛頂甲印　以二手無名指小指并<lb
@@ -356,22 +356,22 @@
  n="0183b05" ed="T"/>中指上節背。并竪二大指捻中指中節側。頭<lb
  n="0183b06" ed="T"/>指來去。即說佛頂心呪曰。<lb
  n="0183b07" ed="T"/></ab>
-<ab type="dharani">那謨薩婆若耶唵多他揭都烏瑟膩沙<lb
+<ab type='dharani'>那謨薩婆若耶唵多他揭都烏瑟膩沙<lb
  n="0183b08" ed="T"/>阿那婆盧枳跢謨欝地帝殊羅施<lb
  n="0183b09" ed="T"/>嗚𤙖什代羅什代羅馱迦馱迦毘馱迦<lb
  n="0183b10" ed="T"/>毘馱迦陀羅陀羅毘馱羅毘馱羅瞋<lb
  n="0183b11" ed="T"/>陀瞋陀頻陀頻陀嗚吽泮泮<lb
  n="0183b12" ed="T"/>沙呵<lb
  n="0183b13" ed="T"/></ab>
-<ab type="prose">破魔降伏印呪<lb
+<ab type='prose'>破魔降伏印呪<lb
  n="0183b14" ed="T"/>准前身印。唯改二頭指竪頭相捻。以二中指<lb
  n="0183b15" ed="T"/>各苾頭指上節背側。過頭相柱。并屈二大指。<lb
  n="0183b16" ed="T"/>入於掌內。先當頂戴。至心恭敬。至心誦呪<lb
  n="0183b17" ed="T"/>曰。<lb
  n="0183b18" ed="T"/></ab>
-<ab type="dharani">唵室唎夜娑醯莎訶<lb
+<ab type='dharani'>唵室唎夜娑醯莎訶<lb
  n="0183b19" ed="T"/></ab>
-<ab type="prose">奉請印。准前身印。改二頭指直竪。相去四<lb
+<ab type='prose'>奉請印。准前身印。改二頭指直竪。相去四<lb
  n="0183b20" ed="T"/>寸半。并二大指直竪。去中指八分。誦佛頂心<lb
  n="0183b21" ed="T"/>呪。至要第四遍。二頭指漸漸屈入掌。呪滿十<lb
  n="0183b22" ed="T"/>一遍。及手印和南頂禮向內散去。奉請印。請<lb
@@ -380,51 +380,51 @@
  n="0183b25" ed="T"/>竪。微曲指節。以開花勢。呪滿七遍。并屈二大<lb
  n="0183b26" ed="T"/>指向掌內。即禮拜向內。散去蓮華印。其座呪<lb
  n="0183b27" ed="T"/>曰。</ab>
-<ab type="dharani">唵迦摩羅莎可<lb
+<ab type='dharani'>唵迦摩羅莎可<lb
  n="0183b28" ed="T"/></ab>
-<ab type="prose">洗淨真言<lb
+<ab type='prose'>洗淨真言<lb
  n="0183b29" ed="T"/></ab>
-<ab type="dharani">唵跋折攞麼尼馱利唅唅泮泮<pb n="0183c" id="T19.0947.0183c" ed="T"/><lb
+<ab type='dharani'>唵跋折攞麼尼馱利唅唅泮泮<pb n="0183c" id="T19.0947.0183c" ed="T"/><lb
  n="0183c01" ed="T"/></ab>
-<ab type="prose">入觸處真言。每上廁時用誦七遍。彈指三下。<lb
+<ab type='prose'>入觸處真言。每上廁時用誦七遍。彈指三下。<lb
  n="0183c02" ed="T"/></ab>
-<ab type="dharani">唵矩嚕馱難𤙖社<lb
+<ab type='dharani'>唵矩嚕馱難𤙖社<lb
  n="0183c03" ed="T"/></ab>
-<ab type="prose">每喫食時。誦此真言七遍。并辟除毘那夜迦。<lb
+<ab type='prose'>每喫食時。誦此真言七遍。并辟除毘那夜迦。<lb
  n="0183c04" ed="T"/></ab>
-<ab type="dharani">唵室利嗚𤙖泮殺莎訶<lb
+<ab type='dharani'>唵室利嗚𤙖泮殺莎訶<lb
  n="0183c05" ed="T"/></ab>
-<ab type="prose">淨口真言<lb
+<ab type='prose'>淨口真言<lb
  n="0183c06" ed="T"/></ab>
-<ab type="dharani">唵娑帝天神那羅婆帝吒莎訶<lb
+<ab type='dharani'>唵娑帝天神那羅婆帝吒莎訶<lb
  n="0183c07" ed="T"/></ab>
-<ab type="prose">先每念誦。洗淨念七遍。淨身呪曰。<lb
+<ab type='prose'>先每念誦。洗淨念七遍。淨身呪曰。<lb
  n="0183c08" ed="T"/></ab>
-<ab type="dharani">唵跛折羅麼尼達唎吽泮吒泮吒娑訶<lb
+<ab type='dharani'>唵跛折羅麼尼達唎吽泮吒泮吒娑訶<lb
  n="0183c09" ed="T"/></ab>
-<ab type="prose">右從穢處過。誦此七遍。如香湯洗浴。仍滅罪<lb
+<ab type='prose'>右從穢處過。誦此七遍。如香湯洗浴。仍滅罪<lb
  n="0183c10" ed="T"/>觸。<lb
  n="0183c11" ed="T"/>護身印呪<lb
  n="0183c12" ed="T"/>二頭指二無名指二小指掌中右押左相叉。<lb
  n="0183c13" ed="T"/>二中指屈頭於二頭背押相著。二大指並申<lb
  n="0183c14" ed="T"/>捻二中指甲側。呪曰。<lb
  n="0183c15" ed="T"/></ab>
-<ab type="dharani">唵勾露陀那虎𤙖綽<lb
+<ab type='dharani'>唵勾露陀那虎𤙖綽<lb
  n="0183c16" ed="T"/></ab>
-<ab type="prose">作此印誦。此呪三遍。護身往諸觸處及上廁。<lb
+<ab type='prose'>作此印誦。此呪三遍。護身往諸觸處及上廁。<lb
  n="0183c17" ed="T"/>如常有至一處。持土淨手。并嗽口齒。右手大<lb
  n="0183c18" ed="T"/>指頭指中指。并微屈無名指。小指屈如鉤。呪<lb
  n="0183c19" ed="T"/>曰。<lb
  n="0183c20" ed="T"/></ab>
-<ab type="dharani">唵覩麗󰷲嚕󰷲嚕娑婆訶<lb
+<ab type='dharani'>唵覩麗󰷲嚕󰷲嚕娑婆訶<lb
  n="0183c21" ed="T"/></ab>
-<ab type="prose">作此印。承呪水七反。嗽口齒。并飲灑掃解一<lb
+<ab type='prose'>作此印。承呪水七反。嗽口齒。并飲灑掃解一<lb
  n="0183c22" ed="T"/>切金剛鬼神。喫兩手反合掌背相著。當想嗔<lb
  n="0183c23" ed="T"/>怒。誦呪二七遍。已急翻兩手。正合掌已。又誦<lb
  n="0183c24" ed="T"/>七遍。即以兩手。急攉開之。<lb
  n="0183c25" ed="T"/>四天王真言曰。<lb
  n="0183c26" ed="T"/></ab>
-<ab type="dharani">那謨剌怛囉㗌哩夜耶那謨折覩嚕摩訶闍<lb
+<ab type='dharani'>那謨剌怛囉㗌哩夜耶那謨折覩嚕摩訶闍<lb
  n="0183c27" ed="T"/>耶鞞毘處吒󰷲摩訶闍耶毘盧博蒭摩訶<lb
  n="0183c28" ed="T"/>闍耶地利阿室覩嚕娑陀耶娑陀耶訶底<lb
  n="0183c29" ed="T"/>檀訶底檀勃陀婆底菩提薩埵娑耶鉢剌<pb n="0184a" id="T19.0947.0184a" ed="T"/><lb
@@ -433,30 +433,30 @@
  n="0184a03" ed="T"/>醯醯摩訶婆底娑婆斫蒭目鉗畔陀尼<lb
  n="0184a04" ed="T"/>沙訶<lb
  n="0184a05" ed="T"/></ab>
-<ab type="prose">結界󰹑契<lb
+<ab type='prose'>結界𭠨契<lb
  n="0184a06" ed="T"/>其契相。以左右二中指二無名指相叉入掌。<lb
  n="0184a07" ed="T"/>右押左。左頭指屈如鉤。右頭指直竪。二大指<lb
  n="0184a08" ed="T"/>合面相著。即成妙真言曰。<lb
  n="0184a09" ed="T"/></ab>
-<ab type="dharani">唵准儞泥枳邏耶莎訶<lb
+<ab type='dharani'>唵准儞泥枳邏耶莎訶<lb
  n="0184a10" ed="T"/></ab>
-<ab type="prose">誦一遍。以契大指。觸地一迴。如草󰹑勢。三度<lb
+<ab type='prose'>誦一遍。以契大指。觸地一迴。如草𭠨勢。三度<lb
  n="0184a11" ed="T"/>作印。<lb
  n="0184a12" ed="T"/>結外火院火界契<lb
  n="0184a13" ed="T"/>其契以左手蜜掩。右手背相重直竪。二大指<lb
  n="0184a14" ed="T"/>相去二寸許。即成妙言曰。<lb
  n="0184a15" ed="T"/></ab>
-<ab type="dharani">唵阿三麼祇儞𤙖莎嚩訶<lb
+<ab type='dharani'>唵阿三麼祇儞𤙖莎嚩訶<lb
  n="0184a16" ed="T"/></ab>
-<ab type="prose">誦三遍。以契右旋三度。即是。<lb
+<ab type='prose'>誦三遍。以契右旋三度。即是。<lb
  n="0184a17" ed="T"/></ab>
-<ab type="dharani">唵吉多利吉<lb
+<ab type='dharani'>唵吉多利吉<lb
  n="0184a18" ed="T"/></ab>
-<ab type="prose">復次若患癩惡瘡。若痛身。呪水七遍。浴身得<lb
+<ab type='prose'>復次若患癩惡瘡。若痛身。呪水七遍。浴身得<lb
  n="0184a19" ed="T"/>愈。<lb
  n="0184a20" ed="T"/>復次若蜈蚣。蛇蝎。龍獸。虎狼。師子。馬猪狗<lb
  n="0184a21" ed="T"/>等咬。呪以水一遍洗其處。即滅。<lb
- n="0184a22" ed="T"/>復次有法。若被符晝呪詛󰢺蠱成病者。呪芥<lb
+ n="0184a22" ed="T"/>復次有法。若被符晝呪詛𭼩蠱成病者。呪芥<lb
  n="0184a23" ed="T"/>子七粒。以打病人。打即自知厭處。又呪一遍。<lb
  n="0184a24" ed="T"/>灌其頂上。得除差。<lb
  n="0184a25" ed="T"/>復次有人病。為鬼所作。當勅四天王。守護病<lb
@@ -566,404 +566,404 @@
  n="0185b13" ed="T"/>場。亦不行道。但誦呪還同入壇。行道功德。無<lb
  n="0185b14" ed="T"/>有異也。<lb
  n="0185b15" ed="T"/>喚一切菩薩呪。</ab>
-<ab type="dharani">唵婆慎若波多沙訶<lb
+<ab type='dharani'>唵婆慎若波多沙訶<lb
  n="0185b16" ed="T"/></ab>
-<ab type="prose">以左右手。合掌當心上。胡跪坐。以左手中指。<lb
+<ab type='prose'>以左右手。合掌當心上。胡跪坐。以左手中指。<lb
  n="0185b17" ed="T"/>屈押右手中指中節背上。二大母指向前。餘<lb
  n="0185b18" ed="T"/>指合之。若呪師未作壇。但每作此印。向佛前。<lb
  n="0185b19" ed="T"/>誦呪七遍。燒香頂禮。即誦。滅八十劫重罪。</ab></div><lb
- n="0185b20" ed="T"/><div type="pin" level="2"><head>大佛頂如來放光悉怛多鉢怛羅諸菩薩萬行<lb
+ n="0185b20" ed="T"/><div type='pin' level='2'><head>大佛頂如來放光悉怛多鉢怛羅諸菩薩萬行<lb
  n="0185b21" ed="T"/>品第二</head><lb
- n="0185b22" ed="T"/><ab type="prose">爾時佛說呪以次說印法。告菩薩大眾言。汝<lb
+ n="0185b22" ed="T"/><ab type='prose'>爾時佛說呪以次說印法。告菩薩大眾言。汝<lb
  n="0185b23" ed="T"/>等諸天鬼神。一切䠒跪合掌。咸作是言。我等<lb
  n="0185b24" ed="T"/>今者。願樂守護。而說呪曰也。<lb
  n="0185b25" ed="T"/>喚不空羂索菩薩印呪曰。<lb
  n="0185b26" ed="T"/></ab>
-<ab type="dharani">唵伊醘伊醘薩低耶波多曳莎訶<lb
+<ab type='dharani'>唵伊醘伊醘薩低耶波多曳莎訶<lb
  n="0185b27" ed="T"/></ab>
-<ab type="prose">以左右手。小指相叉向。二大指屈在掌中。餘<lb
+<ab type='prose'>以左右手。小指相叉向。二大指屈在掌中。餘<lb
  n="0185b28" ed="T"/>指散之。誦前呪七遍。若作壇了。即先作此印。<lb
  n="0185b29" ed="T"/>每日誦前呪。供養菩薩。滅破戒罪。<pb n="0185c" id="T19.0947.0185c" ed="T"/><lb
  n="0185c01" ed="T"/>喚馬鳴菩薩印呪曰。<lb
  n="0185c02" ed="T"/>喚馬鳴菩薩時須向日。噓口含水。向日𠹀之。<lb
  n="0185c03" ed="T"/>即誦仰印。<lb
  n="0185c04" ed="T"/></ab>
-<ab type="dharani">唵薩婆毘耶忿流忿流頭豆頭豆頭豆頭豆咄<lb
+<ab type='dharani'>唵薩婆毘耶忿流忿流頭豆頭豆頭豆頭豆咄<lb
  n="0185c05" ed="T"/>力咄力咄力咄力莎訶<lb
  n="0185c06" ed="T"/></ab>
-<ab type="prose">以左右二掌。十指相叉。合掌當心。誦七遍。頂<lb
+<ab type='prose'>以左右二掌。十指相叉。合掌當心。誦七遍。頂<lb
  n="0185c07" ed="T"/>禮菩薩。求聰明。若每日作此印。供養菩薩。滅<lb
  n="0185c08" ed="T"/>愚癡罪業。<lb
  n="0185c09" ed="T"/>喚觀世音菩薩印呪曰。<lb
  n="0185c10" ed="T"/></ab>
-<ab type="dharani">唵薩婆薩埵毘耶呵毘耶呵莎訶<lb
+<ab type='dharani'>唵薩婆薩埵毘耶呵毘耶呵莎訶<lb
  n="0185c11" ed="T"/></ab>
-<ab type="prose">以左右二手。脘相著。十指相去三寸。如蓮華<lb
+<ab type='prose'>以左右二手。脘相著。十指相去三寸。如蓮華<lb
  n="0185c12" ed="T"/>開。供養菩薩。若人每日仰印供養。滅八萬劫<lb
  n="0185c13" ed="T"/>生死之罪。<lb
  n="0185c14" ed="T"/>喚文殊師利菩薩印呪曰。<lb
  n="0185c15" ed="T"/></ab>
-<ab type="dharani">唵曼殊室利耶波多曳娑訶<lb
+<ab type='dharani'>唵曼殊室利耶波多曳娑訶<lb
  n="0185c16" ed="T"/></ab>
-<ab type="prose">以左右二手。無名指在掌。二中指直竪。二大<lb
+<ab type='prose'>以左右二手。無名指在掌。二中指直竪。二大<lb
  n="0185c17" ed="T"/>指向前。相去一寸來去。若人每日作此印。供<lb
  n="0185c18" ed="T"/>養菩薩。千劫罪。<lb
  n="0185c19" ed="T"/>喚龍樹菩薩印呪曰。<lb
  n="0185c20" ed="T"/></ab>
-<ab type="dharani">唵薩婆漚波提莎訶<lb
+<ab type='dharani'>唵薩婆漚波提莎訶<lb
  n="0185c21" ed="T"/></ab>
-<ab type="prose">以左手掌仰向。右手脘上。右手掌覆。二掌背<lb
+<ab type='prose'>以左手掌仰向。右手脘上。右手掌覆。二掌背<lb
  n="0185c22" ed="T"/>相背如蛇口。若人遇毒龍蛇傷。作此印向之<lb
  n="0185c23" ed="T"/>喚千手手眼菩薩印法呪曰。<lb
  n="0185c24" ed="T"/></ab>
-<ab type="dharani">唵扇泥阿波曳沙訶<lb
+<ab type='dharani'>唵扇泥阿波曳沙訶<lb
  n="0185c25" ed="T"/></ab>
-<ab type="prose">以左右二手。中指相叉。二無名指相鉤在掌<lb
+<ab type='prose'>以左右二手。中指相叉。二無名指相鉤在掌<lb
  n="0185c26" ed="T"/>中。二大指屈小曲。二頭指相交在押右。二小<lb
  n="0185c27" ed="T"/>指相交合掌。若人每日。作此印供養。滅千劫<lb
  n="0185c28" ed="T"/>之罪。若作法時用此印。喚菩薩。<lb
  n="0185c29" ed="T"/>喚虛空藏菩薩印呪曰。<pb n="0186a" id="T19.0947.0186a" ed="T"/><lb
  n="0186a01" ed="T"/></ab>
-<ab type="dharani">唵薩婆多毘耶周流周流莎訶<lb
+<ab type='dharani'>唵薩婆多毘耶周流周流莎訶<lb
  n="0186a02" ed="T"/></ab>
-<ab type="prose">以左手五指。小屈當右手掌中。左手五指直<lb
+<ab type='prose'>以左手五指。小屈當右手掌中。左手五指直<lb
  n="0186a03" ed="T"/>竪。若人每日作此印。供養菩薩。滅二十劫生<lb
  n="0186a04" ed="T"/>死之罪。<lb
  n="0186a05" ed="T"/>喚地藏菩薩印呪曰。<lb
  n="0186a06" ed="T"/></ab>
-<ab type="dharani">唵嚕呵嚕呵嚕呵莎訶<lb
+<ab type='dharani'>唵嚕呵嚕呵嚕呵莎訶<lb
  n="0186a07" ed="T"/></ab>
-<ab type="prose">以右手。中指已下屈在掌中。二指直竪。左手<lb
+<ab type='prose'>以右手。中指已下屈在掌中。二指直竪。左手<lb
  n="0186a08" ed="T"/>五指忿拳兩脘相向。若人每日作此印。供養<lb
  n="0186a09" ed="T"/>菩薩。滅千劫罪。<lb
  n="0186a10" ed="T"/>喚日藏菩薩印呪曰。<lb
  n="0186a11" ed="T"/></ab>
-<ab type="dharani">唵薩婆婆多曳莎訶<lb
+<ab type='dharani'>唵薩婆婆多曳莎訶<lb
  n="0186a12" ed="T"/></ab>
-<ab type="prose">以左右二手合脘。十指相叉。合掌當心。若人<lb
+<ab type='prose'>以左右二手合脘。十指相叉。合掌當心。若人<lb
  n="0186a13" ed="T"/>每日作此印。供養菩薩。滅千劫罪。<lb
  n="0186a14" ed="T"/>喚龍仙菩薩印呪曰。<lb
  n="0186a15" ed="T"/></ab>
-<ab type="dharani">唵婆提多婆多曳莎訶<lb
+<ab type='dharani'>唵婆提多婆多曳莎訶<lb
  n="0186a16" ed="T"/></ab>
-<ab type="prose">以左右二中指相叉在掌。二無名指相叉。二<lb
+<ab type='prose'>以左右二中指相叉在掌。二無名指相叉。二<lb
  n="0186a17" ed="T"/>小指相鉤。二大指柱。二頭指合脘。若人每日<lb
  n="0186a18" ed="T"/>作此印供養滅千劫之罪。</ab></div><lb
- n="0186a19" ed="T"/><div type="pin" level="2"><head>大佛頂如來放光悉怛多諸金剛品第三</head><lb
- n="0186a20" ed="T"/><ab type="prose">喚金剛藏王金剛軍主印。<lb
+ n="0186a19" ed="T"/><div type='pin' level='2'><head>大佛頂如來放光悉怛多諸金剛品第三</head><lb
+ n="0186a20" ed="T"/><ab type='prose'>喚金剛藏王金剛軍主印。<lb
  n="0186a21" ed="T"/></ab>
-<ab type="dharani">室哩智縛社羅波尼娑羅馱摩訶肥地耶<lb
+<ab type='dharani'>室哩智縛社羅波尼娑羅馱摩訶肥地耶<lb
  n="0186a22" ed="T"/>羅社婆羅憚多羅摩戰荼𦘺地也羅社伊<lb
  n="0186a23" ed="T"/>呬伊呬皤伽畔尸伽蘭<lb
  n="0186a24" ed="T"/></ab>
-<ab type="prose">若作法安置訖。三迴遶壇。作彈舌聲。一切金<lb
+<ab type='prose'>若作法安置訖。三迴遶壇。作彈舌聲。一切金<lb
  n="0186a25" ed="T"/>剛。各守本位。一切鬼神。無敢入內。<lb
  n="0186a26" ed="T"/>喚央俱尸金剛呪曰。<lb
  n="0186a27" ed="T"/></ab>
-<ab type="dharani">唵嚩社羅央俱尸波多曳沙訶<lb
+<ab type='dharani'>唵嚩社羅央俱尸波多曳沙訶<lb
  n="0186a28" ed="T"/></ab>
-<ab type="prose">反叉二無名指。二小指在掌中竪。二中指頭<lb
+<ab type='prose'>反叉二無名指。二小指在掌中竪。二中指頭<lb
  n="0186a29" ed="T"/>相柱。二頭指苾在二中指背後第三節下。頭<pb n="0186b" id="T19.0947.0186b" ed="T"/><lb
  n="0186b01" ed="T"/>相柱。並二大指附中上合脘。大指來去。<lb
  n="0186b02" ed="T"/>喚吒訶娑金剛呪。<lb
  n="0186b03" ed="T"/></ab>
-<ab type="dharani">唵縛社羅吒沙訶娑那摩伊呬伊呬沙訶<lb
+<ab type='dharani'>唵縛社羅吒沙訶娑那摩伊呬伊呬沙訶<lb
  n="0186b04" ed="T"/></ab>
-<ab type="prose">以二中指各苾在二無名指頭相柱。二小指<lb
+<ab type='prose'>以二中指各苾在二無名指頭相柱。二小指<lb
  n="0186b05" ed="T"/>頭開直竪。相去一寸許。二大指押二無名指<lb
  n="0186b06" ed="T"/>第二節側文。合脘脘頭指屈。頭相柱。頭指來<lb
  n="0186b07" ed="T"/>去。<lb
  n="0186b08" ed="T"/>喚大摧碎金剛印呪曰。<lb
  n="0186b09" ed="T"/></ab>
-<ab type="dharani">唵縛社羅縛社利尼瞿致尼槃陀馱遮槃陀馱<lb
+<ab type='dharani'>唵縛社羅縛社利尼瞿致尼槃陀馱遮槃陀馱<lb
  n="0186b10" ed="T"/>遮吽泮吒莎呵<lb
  n="0186b11" ed="T"/></ab>
-<ab type="prose">以二小指苾於二無名指背竪二無名指相柱<lb
+<ab type='prose'>以二小指苾於二無名指背竪二無名指相柱<lb
  n="0186b12" ed="T"/>頭。二大指並屈頭入中指節頭指來去。<lb
  n="0186b13" ed="T"/>喚商羯羅金剛呪曰。<lb
  n="0186b14" ed="T"/></ab>
-<ab type="dharani">唵縛社羅適商迦羅訶耶訶耶那槃那槃陀泮<lb
+<ab type='dharani'>唵縛社羅適商迦羅訶耶訶耶那槃那槃陀泮<lb
  n="0186b15" ed="T"/>吒陀吒陀<lb
  n="0186b16" ed="T"/></ab>
-<ab type="prose">反叉兩手中指無名指小指右押左。二無名<lb
+<ab type='prose'>反叉兩手中指無名指小指右押左。二無名<lb
  n="0186b17" ed="T"/>指於中指背後相交。二中指直竪。頭側相柱<lb
  n="0186b18" ed="T"/>柱。頭指鉤無名指頭。二大指捻二中指頭。齊<lb
  n="0186b19" ed="T"/>以二中指大指頭柱。頂上面作瞋色。<lb
  n="0186b20" ed="T"/>喚馬頭金剛印呪曰。<lb
  n="0186b21" ed="T"/></ab>
-<ab type="dharani">唵波羅毘悉多嚩社羅尼嚩嚩支沙訶<lb
+<ab type='dharani'>唵波羅毘悉多嚩社羅尼嚩嚩支沙訶<lb
  n="0186b22" ed="T"/></ab>
-<ab type="prose">呪白芥子。遶壇。兩手從中已下三指向外相<lb
+<ab type='prose'>呪白芥子。遶壇。兩手從中已下三指向外相<lb
  n="0186b23" ed="T"/>叉。各縛著手背合掌。二食指直竪。相去五分<lb
  n="0186b24" ed="T"/>許。並二大指相著。各屈一節。勿著食指。頭指<lb
  n="0186b25" ed="T"/>來去。<lb
  n="0186b26" ed="T"/>喚尼藍婆金剛印呪曰。<lb
  n="0186b27" ed="T"/></ab>
-<ab type="dharani">唵縛社羅藥叉耶囉社吽吽泮吒莎呵<lb
+<ab type='dharani'>唵縛社羅藥叉耶囉社吽吽泮吒莎呵<lb
  n="0186b28" ed="T"/></ab>
-<ab type="prose">以左手中指以下三指屈在掌中。右手亦然。<lb
+<ab type='prose'>以左手中指以下三指屈在掌中。右手亦然。<lb
  n="0186b29" ed="T"/>二頭指相柱。二大指來去。<pb n="0186c" id="T19.0947.0186c" ed="T"/><lb
  n="0186c01" ed="T"/>喚烏樞沙摩金剛印呪曰。<lb
  n="0186c02" ed="T"/></ab>
-<ab type="dharani">唵悉馱室氈茶縛社羅矩嚕盤馱盤馱吽吽泮<lb
+<ab type='dharani'>唵悉馱室氈茶縛社羅矩嚕盤馱盤馱吽吽泮<lb
  n="0186c03" ed="T"/>吒<lb
  n="0186c04" ed="T"/></ab>
-<ab type="prose">以左手叉腰。四指向前。右手作拳。頭指直竪。<lb
+<ab type='prose'>以左手叉腰。四指向前。右手作拳。頭指直竪。<lb
  n="0186c05" ed="T"/>作期剋鬼印同。<lb
  n="0186c06" ed="T"/>喚火頭金剛印呪曰。<lb
  n="0186c07" ed="T"/></ab>
-<ab type="dharani">唵縛社羅波尼馱訶馱訶吽吽泮泮<lb
+<ab type='dharani'>唵縛社羅波尼馱訶馱訶吽吽泮泮<lb
  n="0186c08" ed="T"/></ab>
-<ab type="prose">左右二手並仰。二手大指屈押二甲指上節。<lb
+<ab type='prose'>左右二手並仰。二手大指屈押二甲指上節。<lb
  n="0186c09" ed="T"/>二大指來去。<lb
  n="0186c10" ed="T"/>喚金剛童女印呪曰。<lb
  n="0186c11" ed="T"/></ab>
-<ab type="dharani">吽吽縛社唎尼波多曳莎訶<lb
+<ab type='dharani'>吽吽縛社唎尼波多曳莎訶<lb
  n="0186c12" ed="T"/></ab>
-<ab type="prose">以童子印背之右押左。即是若人每日作此<lb
+<ab type='prose'>以童子印背之右押左。即是若人每日作此<lb
  n="0186c13" ed="T"/>印。吉口舌。<lb
  n="0186c14" ed="T"/>喚金剛連鎖印呪曰。<lb
  n="0186c15" ed="T"/></ab>
-<ab type="dharani">吽吽縛社羅訶那訶那盤馱訶盤馱訶吒<lb
+<ab type='dharani'>吽吽縛社羅訶那訶那盤馱訶盤馱訶吒<lb
  n="0186c16" ed="T"/></ab>
-<ab type="prose">十指各向內急挽。若覆之即為內印。若但作<lb
+<ab type='prose'>十指各向內急挽。若覆之即為內印。若但作<lb
  n="0186c17" ed="T"/>此印。一切鬼自去。<lb
  n="0186c18" ed="T"/>喚蘇悉地金剛印呪曰。<lb
  n="0186c19" ed="T"/></ab>
-<ab type="dharani">唵蘇悉地伽羅伽羅莎呵<lb
+<ab type='dharani'>唵蘇悉地伽羅伽羅莎呵<lb
  n="0186c20" ed="T"/></ab>
-<ab type="prose">反叉後二指掌中並竪。二中指頭相柱小曲。<lb
+<ab type='prose'>反叉後二指掌中並竪。二中指頭相柱小曲。<lb
  n="0186c21" ed="T"/>二頭指各在二中指背。頭當中指第三節。勿<lb
  n="0186c22" ed="T"/>著小許。並二大指頭捻中指第二節。頭指來<lb
  n="0186c23" ed="T"/>去。</ab></div><lb
- n="0186c24" ed="T"/><div type="pin" level="2"><head>大佛頂如來放光悉怛多諸天品第四</head><lb
- n="0186c25" ed="T"/><ab type="prose">喚最勝天王印呪曰。<lb
+ n="0186c24" ed="T"/><div type='pin' level='2'><head>大佛頂如來放光悉怛多諸天品第四</head><lb
+ n="0186c25" ed="T"/><ab type='prose'>喚最勝天王印呪曰。<lb
  n="0186c26" ed="T"/></ab>
-<ab type="dharani">唵健尼迦羅社泮<lb
+<ab type='dharani'>唵健尼迦羅社泮<lb
  n="0186c27" ed="T"/></ab>
-<ab type="prose">起立地。二脚相離二尺許。脚指並齊。左右手<lb
+<ab type='prose'>起立地。二脚相離二尺許。脚指並齊。左右手<lb
  n="0186c28" ed="T"/>中指屈。中指節在掌中。次並二大指押上。左<lb
  n="0186c29" ed="T"/>右頭指無名小指頭背著。三指側皆開合腕。<pb n="0187a" id="T19.0947.0187a" ed="T"/><lb
  n="0187a01" ed="T"/>以二大指下節。當額上著。頭指向上。若作法。<lb
  n="0187a02" ed="T"/>怖有惡魔常來。此印遶壇。<lb
  n="0187a03" ed="T"/>喚帝釋天眾印呪曰。<lb
  n="0187a04" ed="T"/></ab>
-<ab type="dharani">唵室利地𦘺曳印。馱羅吽泮<lb
+<ab type='dharani'>唵室利地𦘺曳印。馱羅吽泮<lb
  n="0187a05" ed="T"/></ab>
-<ab type="prose">以二無名指交在掌中。二大指押柱二中指<lb
+<ab type='prose'>以二無名指交在掌中。二大指押柱二中指<lb
  n="0187a06" ed="T"/>中節。二頭指相去三寸。二小指頭相柱。二頭<lb
  n="0187a07" ed="T"/>來去。若作此印。供養帝釋。令人貴滅罪。<lb
  n="0187a08" ed="T"/>喚東方天王印呪曰。<lb
  n="0187a09" ed="T"/></ab>
-<ab type="dharani">唵提破羅吒波多曳莎訶<lb
+<ab type='dharani'>唵提破羅吒波多曳莎訶<lb
  n="0187a10" ed="T"/></ab>
-<ab type="prose">左右二手並作拳。二大指直竪。右手拳重左<lb
+<ab type='prose'>左右二手並作拳。二大指直竪。右手拳重左<lb
  n="0187a11" ed="T"/>手拳上。若人作此法。用此印法結界。天王即<lb
  n="0187a12" ed="T"/>來。<lb
  n="0187a13" ed="T"/>喚南方天王印呪曰。<lb
  n="0187a14" ed="T"/></ab>
-<ab type="dharani">唵毘嚕澤迦𦘺地曳沙訶<lb
+<ab type='dharani'>唵毘嚕澤迦𦘺地曳沙訶<lb
  n="0187a15" ed="T"/></ab>
-<ab type="prose">如東方天王印。唯改右手中指直竪。大指屈<lb
+<ab type='prose'>如東方天王印。唯改右手中指直竪。大指屈<lb
  n="0187a16" ed="T"/>入掌。若作法時。用此印。天王即來。<lb
  n="0187a17" ed="T"/>喚西方天王印呪曰。<lb
  n="0187a18" ed="T"/></ab>
-<ab type="dharani">唵毘嚕博叉𦘺地也波多曳沙訶<lb
+<ab type='dharani'>唵毘嚕博叉𦘺地也波多曳沙訶<lb
  n="0187a19" ed="T"/></ab>
-<ab type="prose">此如南分天王印。唯改大指開如虎口也。大<lb
+<ab type='prose'>此如南分天王印。唯改大指開如虎口也。大<lb
  n="0187a20" ed="T"/>指來去。若欲作法時喚龍。<lb
  n="0187a21" ed="T"/>喚毘沙門天王印呪曰。<lb
  n="0187a22" ed="T"/></ab>
-<ab type="dharani">唵毘沙門那波多曳莎訶<lb
+<ab type='dharani'>唵毘沙門那波多曳莎訶<lb
  n="0187a23" ed="T"/></ab>
-<ab type="prose">如西方天王印。屈頭指入作拳。大指來去。若<lb
+<ab type='prose'>如西方天王印。屈頭指入作拳。大指來去。若<lb
  n="0187a24" ed="T"/>作法欲召藥叉神。先喚毘沙門天供養。然後<lb
  n="0187a25" ed="T"/>召藥叉。皆重拳為印。相重疊於膝上。<lb
  n="0187a26" ed="T"/>喚毘紐天印呪曰。<lb
  n="0187a27" ed="T"/></ab>
-<ab type="dharani">吽吠馱婆曳𦘺地耶波多曳沙呵<lb
+<ab type='dharani'>吽吠馱婆曳𦘺地耶波多曳沙呵<lb
  n="0187a28" ed="T"/></ab>
-<ab type="prose">以左手五指把右手五指。以右手大指來去。<lb
+<ab type='prose'>以左手五指把右手五指。以右手大指來去。<lb
  n="0187a29" ed="T"/>若作法時。召此天人入界中。<pb n="0187b" id="T19.0947.0187b" ed="T"/><lb
  n="0187b01" ed="T"/>喚毘首羯磨天印呪曰。<lb
  n="0187b02" ed="T"/></ab>
-<ab type="dharani">吽吠嚕迦吒波多曳沙呵<lb
+<ab type='dharani'>吽吠嚕迦吒波多曳沙呵<lb
  n="0187b03" ed="T"/></ab>
-<ab type="prose">以右手作如來勅印。召六天。以大指捻無名<lb
+<ab type='prose'>以右手作如來勅印。召六天。以大指捻無名<lb
  n="0187b04" ed="T"/>指甲上。并小指甲押上頭。中指直竪。指來去。<lb
  n="0187b05" ed="T"/>若作法時。以此天當刀。<lb
  n="0187b06" ed="T"/>喚梵天印呪曰。<lb
  n="0187b07" ed="T"/></ab>
-<ab type="dharani">吽毘嚕提婆多曳莎訶<lb
+<ab type='dharani'>吽毘嚕提婆多曳莎訶<lb
  n="0187b08" ed="T"/></ab>
-<ab type="prose">若作法用喚此天。供養守香花。<lb
+<ab type='prose'>若作法用喚此天。供養守香花。<lb
  n="0187b09" ed="T"/>喚炎摩天印呪曰。<lb
  n="0187b10" ed="T"/></ab>
-<ab type="dharani">吽𦘺地炎摩耶婆多曳沙訶<lb
+<ab type='dharani'>吽𦘺地炎摩耶婆多曳沙訶<lb
  n="0187b11" ed="T"/></ab>
-<ab type="prose">若作法時。呪水入壇。用此天當衣。<lb
+<ab type='prose'>若作法時。呪水入壇。用此天當衣。<lb
  n="0187b12" ed="T"/>喚兜率天呪曰。<lb
  n="0187b13" ed="T"/></ab>
-<ab type="dharani">唵釰鎧𦘺地曳沙呵<lb
+<ab type='dharani'>唵釰鎧𦘺地曳沙呵<lb
  n="0187b14" ed="T"/></ab>
-<ab type="prose">若作法時。喚此天當花。<lb
+<ab type='prose'>若作法時。喚此天當花。<lb
  n="0187b15" ed="T"/>喚功德天印呪曰。<lb
  n="0187b16" ed="T"/></ab>
-<ab type="dharani">唵室唎耶哆𦘺地曳沙呵<lb
+<ab type='dharani'>唵室唎耶哆𦘺地曳沙呵<lb
  n="0187b17" ed="T"/></ab>
-<ab type="prose">若作法時。喚此天。求供養乞恩福。<lb
+<ab type='prose'>若作法時。喚此天。求供養乞恩福。<lb
  n="0187b18" ed="T"/>喚天大辯才天印呪曰。<lb
  n="0187b19" ed="T"/></ab>
-<ab type="dharani">吽吽𦘺末利𦘺波渠利波多曳沙呵<lb
+<ab type='dharani'>吽吽𦘺末利𦘺波渠利波多曳沙呵<lb
  n="0187b20" ed="T"/></ab>
-<ab type="prose">以左右手合掌屈。二中指相叉入掌來去。若<lb
+<ab type='prose'>以左右手合掌屈。二中指相叉入掌來去。若<lb
  n="0187b21" ed="T"/>人供養此天。令人利口辯才多智惠。召令入<lb
  n="0187b22" ed="T"/>壇中。<lb
  n="0187b23" ed="T"/>喚母子鬼天印呪曰。<lb
  n="0187b24" ed="T"/></ab>
-<ab type="dharani">唵波波呵利底波耶波多曳沙呵<lb
+<ab type='dharani'>唵波波呵利底波耶波多曳沙呵<lb
  n="0187b25" ed="T"/></ab>
-<ab type="prose">以大辯才天印。同唯改二中指直竪。二無名<lb
+<ab type='prose'>以大辯才天印。同唯改二中指直竪。二無名<lb
  n="0187b26" ed="T"/>指相交入掌。二小指小交。二大指來去。若沐<lb
  n="0187b27" ed="T"/>浴時。呪水入沐浴。</ab></div><lb
- n="0187b28" ed="T"/><div type="pin" level="2"><head>大佛頂如來信印召一切小天呪印法品第五</head><lb
- n="0187b29" ed="T"/><ab type="prose">召一切小天呪法。以右手中指直竪。餘指<pb n="0187c" id="T19.0947.0187c" ed="T"/><lb
+ n="0187b28" ed="T"/><div type='pin' level='2'><head>大佛頂如來信印召一切小天呪印法品第五</head><lb
+ n="0187b29" ed="T"/><ab type='prose'>召一切小天呪法。以右手中指直竪。餘指<pb n="0187c" id="T19.0947.0187c" ed="T"/><lb
  n="0187c01" ed="T"/>作拳。左手亦然。二手合腕。去心胸八寸。右<lb
  n="0187c02" ed="T"/>手中指小屈押左中指節來去。動勿令急。<lb
  n="0187c03" ed="T"/>喚一切星天呪曰。<lb
  n="0187c04" ed="T"/></ab>
-<ab type="dharani">吽他呵梵波多曳莎呵<lb
+<ab type='dharani'>吽他呵梵波多曳莎呵<lb
  n="0187c05" ed="T"/></ab>
-<ab type="prose">一切日天呪曰。<lb
+<ab type='prose'>一切日天呪曰。<lb
  n="0187c06" ed="T"/></ab>
-<ab type="dharani">吽馱羅末底波多曳莎呵<lb
+<ab type='dharani'>吽馱羅末底波多曳莎呵<lb
  n="0187c07" ed="T"/></ab>
-<ab type="prose">一切月天呪曰。<lb
+<ab type='prose'>一切月天呪曰。<lb
  n="0187c08" ed="T"/></ab>
-<ab type="dharani">吽蘇摩底波多曳莎呵<lb
+<ab type='dharani'>吽蘇摩底波多曳莎呵<lb
  n="0187c09" ed="T"/></ab>
-<ab type="prose">一切水天呪曰。<lb
+<ab type='prose'>一切水天呪曰。<lb
  n="0187c10" ed="T"/></ab>
-<ab type="dharani">吽烏馱迦底波多曳莎呵<lb
+<ab type='dharani'>吽烏馱迦底波多曳莎呵<lb
  n="0187c11" ed="T"/></ab>
-<ab type="prose">一切火天呪曰。<lb
+<ab type='prose'>一切火天呪曰。<lb
  n="0187c12" ed="T"/></ab>
-<ab type="dharani">吽阿迦尼波多曳莎呵<lb
+<ab type='dharani'>吽阿迦尼波多曳莎呵<lb
  n="0187c13" ed="T"/></ab>
-<ab type="prose">右以此并用如來信印。各誦呪多各誦呪多<lb
+<ab type='prose'>右以此并用如來信印。各誦呪多各誦呪多<lb
  n="0187c14" ed="T"/>如來頂印。召一切龍鬼神品。<lb
  n="0187c15" ed="T"/>以前信印不改。唯更以頭指如中指交。亦右<lb
  n="0187c16" ed="T"/>押左。頭指來去。中指不傾動。<lb
  n="0187c17" ed="T"/>召阿修羅軍眾呪曰。<lb
  n="0187c18" ed="T"/></ab>
-<ab type="dharani">唵阿素羅部哆曳沙訶<lb
+<ab type='dharani'>唵阿素羅部哆曳沙訶<lb
  n="0187c19" ed="T"/></ab>
-<ab type="prose">召一切阿修羅王呪。<lb
+<ab type='prose'>召一切阿修羅王呪。<lb
  n="0187c20" ed="T"/></ab>
-<ab type="dharani">毘摩質多羅阿素羅波哆曳沙呵<lb
+<ab type='dharani'>毘摩質多羅阿素羅波哆曳沙呵<lb
  n="0187c21" ed="T"/></ab>
-<ab type="prose">召一切龍王呪曰。<lb
+<ab type='prose'>召一切龍王呪曰。<lb
  n="0187c22" ed="T"/></ab>
-<ab type="dharani">唵漚波難馱波多曳莎呵<lb
+<ab type='dharani'>唵漚波難馱波多曳莎呵<lb
  n="0187c23" ed="T"/></ab>
-<ab type="prose">召一切藥叉眾呪曰。<lb
+<ab type='prose'>召一切藥叉眾呪曰。<lb
  n="0187c24" ed="T"/></ab>
-<ab type="dharani">唵占婆羅藥叉波哆曳莎訶<lb
+<ab type='dharani'>唵占婆羅藥叉波哆曳莎訶<lb
  n="0187c25" ed="T"/></ab>
-<ab type="prose">召一切羅剎軍呪曰。<lb
+<ab type='prose'>召一切羅剎軍呪曰。<lb
  n="0187c26" ed="T"/></ab>
-<ab type="dharani">唵什婆羅剎婆莎呵<lb
+<ab type='dharani'>唵什婆羅剎娑莎呵<lb
  n="0187c27" ed="T"/></ab>
-<ab type="prose">召一切乾闥婆軍呪曰。<lb
+<ab type='prose'>召一切乾闥婆軍呪曰。<lb
  n="0187c28" ed="T"/></ab>
-<ab type="dharani">唵薩軍乾地縛婆哆曳沙呵<lb
+<ab type='dharani'>唵薩軍乾地縛婆哆曳沙呵<lb
  n="0187c29" ed="T"/></ab>
-<ab type="prose">召一切大黑天軍眾呪曰。<pb n="0188a" id="T19.0947.0188a" ed="T"/><lb
+<ab type='prose'>召一切大黑天軍眾呪曰。<pb n="0188a" id="T19.0947.0188a" ed="T"/><lb
  n="0188a01" ed="T"/></ab>
-<ab type="dharani">唵摩訶迦羅吽吽莎呵<lb
+<ab type='dharani'>唵摩訶迦羅吽吽莎呵<lb
  n="0188a02" ed="T"/></ab>
-<ab type="prose">召一切緊那羅軍眾呪曰。<lb
+<ab type='prose'>召一切緊那羅軍眾呪曰。<lb
  n="0188a03" ed="T"/></ab>
-<ab type="dharani">唵薩婆緊那羅波多曳莎訶<lb
+<ab type='dharani'>唵薩婆緊那羅波多曳莎訶<lb
  n="0188a04" ed="T"/></ab>
-<ab type="prose">召一切莫呼洛伽呪曰。<lb
+<ab type='prose'>召一切莫呼洛伽呪曰。<lb
  n="0188a05" ed="T"/></ab>
-<ab type="dharani">唵薩婆莫呼洛伽婆哆曳莎呵<lb
+<ab type='dharani'>唵薩婆莫呼洛伽婆哆曳莎呵<lb
  n="0188a06" ed="T"/></ab>
-<ab type="prose">召一切迦樓羅呪曰。<lb
+<ab type='prose'>召一切迦樓羅呪曰。<lb
  n="0188a07" ed="T"/></ab>
-<ab type="dharani">唵薩婆迦樓羅波哆曳莎呵<lb
+<ab type='dharani'>唵薩婆迦樓羅波哆曳莎呵<lb
  n="0188a08" ed="T"/></ab>
-<ab type="prose">召一切女藥叉呪曰。<lb
+<ab type='prose'>召一切女藥叉呪曰。<lb
  n="0188a09" ed="T"/></ab>
-<ab type="dharani">唵薩婆毘藍婆波多曳莎呵<lb
+<ab type='dharani'>唵薩婆毘藍婆波多曳莎呵<lb
  n="0188a10" ed="T"/></ab>
-<ab type="prose">召一切女軍羅剎呪曰。<lb
+<ab type='prose'>召一切女軍羅剎呪曰。<lb
  n="0188a11" ed="T"/></ab>
-<ab type="dharani">唵薩毘地曳迦波哆曳莎呵<lb
+<ab type='dharani'>唵薩毘地曳迦波哆曳莎呵<lb
  n="0188a12" ed="T"/></ab>
-<ab type="prose">召一切龍女軍呪曰。<lb
+<ab type='prose'>召一切龍女軍呪曰。<lb
  n="0188a13" ed="T"/></ab>
-<ab type="dharani">唵婆提提哆𦘺地耶莎呵<lb
+<ab type='dharani'>唵婆提提哆𦘺地耶莎呵<lb
  n="0188a14" ed="T"/></ab>
-<ab type="prose">召一切木神呪曰。<lb
+<ab type='prose'>召一切木神呪曰。<lb
  n="0188a15" ed="T"/></ab>
-<ab type="dharani">唵毘室支婆哆曳莎呵<lb
+<ab type='dharani'>唵毘室支婆哆曳莎呵<lb
  n="0188a16" ed="T"/></ab>
-<ab type="prose">召一切花果神呪曰。<lb
+<ab type='prose'>召一切花果神呪曰。<lb
  n="0188a17" ed="T"/></ab>
-<ab type="dharani">唵吠婆毘支哆曳沙訶<lb
+<ab type='dharani'>唵吠婆毘支哆曳沙訶<lb
  n="0188a18" ed="T"/></ab>
-<ab type="prose">右以前鬼神。若作法時。喚供養作徒眾。先須<lb
+<ab type='prose'>右以前鬼神。若作法時。喚供養作徒眾。先須<lb
  n="0188a19" ed="T"/>自作如來頂印。勅之不爾又人之。</ab></div><lb
- n="0188a20" ed="T"/><div type="pin" level="2"><head>如來口印召一切藥叉將軍品第六</head><lb
- n="0188a21" ed="T"/><ab type="prose">以左右二小指交入掌。二無名指二中指相<lb
+ n="0188a20" ed="T"/><div type='pin' level='2'><head>如來口印召一切藥叉將軍品第六</head><lb
+ n="0188a21" ed="T"/><ab type='prose'>以左右二小指交入掌。二無名指二中指相<lb
  n="0188a22" ed="T"/>柱頭直竪。頭指小開相去一寸半許。二大指<lb
  n="0188a23" ed="T"/>押二中指節。二大指來去。作此印。召將軍護<lb
  n="0188a24" ed="T"/>壇。召散指大將呪曰。<lb
  n="0188a25" ed="T"/></ab>
-<ab type="dharani">唵散支迦毘耶呵毘耶呵波多曳沙呵<lb
+<ab type='dharani'>唵散支迦毘耶呵毘耶呵波多曳沙呵<lb
  n="0188a26" ed="T"/></ab>
-<ab type="prose">召阿吒婆拘大將呪曰。<lb
+<ab type='prose'>召阿吒婆拘大將呪曰。<lb
  n="0188a27" ed="T"/></ab>
-<ab type="dharani">唵哆𢫫哆勃律波羅勃律者纈迷沙呵<lb
+<ab type='dharani'>唵哆𢫫哆勃律波羅勃律者纈迷沙呵<lb
  n="0188a28" ed="T"/></ab>
-<ab type="prose">召摩尼跋陀呪曰。<lb
+<ab type='prose'>召摩尼跋陀呪曰。<lb
  n="0188a29" ed="T"/></ab>
-<ab type="dharani">唵摩尼跋陀羅波多曳沙呵<pb n="0188b" id="T19.0947.0188b" ed="T"/><lb
+<ab type='dharani'>唵摩尼跋陀羅波多曳沙呵<pb n="0188b" id="T19.0947.0188b" ed="T"/><lb
  n="0188b01" ed="T"/></ab>
-<ab type="prose">召鳩槃荼王呪曰。<lb
+<ab type='prose'>召鳩槃荼王呪曰。<lb
  n="0188b02" ed="T"/></ab>
-<ab type="dharani">唵鳩槃荼波多曳沙呵<lb
+<ab type='dharani'>唵鳩槃荼波多曳沙呵<lb
  n="0188b03" ed="T"/></ab>
-<ab type="prose">召遮文荼呪曰。<lb
+<ab type='prose'>召遮文荼呪曰。<lb
  n="0188b04" ed="T"/></ab>
-<ab type="dharani">唵戶嚕戶嚕遮文荼沙呵<lb
+<ab type='dharani'>唵戶嚕戶嚕遮文荼沙呵<lb
  n="0188b05" ed="T"/></ab>
-<ab type="prose">召尼蜜利呪曰。<lb
+<ab type='prose'>召尼蜜利呪曰。<lb
  n="0188b06" ed="T"/></ab>
-<ab type="dharani">唵禰蜜唎波多曳沙呵<lb
+<ab type='dharani'>唵禰蜜唎波多曳沙呵<lb
  n="0188b07" ed="T"/></ab>
-<ab type="prose">召那吒鳩伐羅天王呪曰。<lb
+<ab type='prose'>召那吒鳩伐羅天王呪曰。<lb
  n="0188b08" ed="T"/></ab>
-<ab type="dharani">唵那吒俱伐羅可可可可吽波多曳莎呵<lb
+<ab type='dharani'>唵那吒俱伐羅可可可可吽波多曳莎呵<lb
  n="0188b09" ed="T"/></ab>
-<ab type="prose">爾時大自在天。將諸眷屬。來詣佛所。白佛言。<lb
+<ab type='prose'>爾時大自在天。將諸眷屬。來詣佛所。白佛言。<lb
  n="0188b10" ed="T"/>世尊。我今亦願守護法壇。令作法。人速令成<lb
  n="0188b11" ed="T"/>大驗。我今將印奉世尊。願垂納受呪曰。<lb
  n="0188b12" ed="T"/></ab>
-<ab type="dharani">吽𦘺嚕馳吽摩曳沙呵<lb
+<ab type='dharani'>吽𦘺嚕馳吽摩曳沙呵<lb
  n="0188b13" ed="T"/></ab>
-<ab type="prose">世尊。我神呪。若一切鬼神無有犯者。一切官<lb
+<ab type='prose'>世尊。我神呪。若一切鬼神無有犯者。一切官<lb
  n="0188b14" ed="T"/>事休息。一切怨家自然犯解。若欲作法。入壇<lb
  n="0188b15" ed="T"/>之時。當呼我。我即如一念頃。即至其所。為作<lb
  n="0188b16" ed="T"/>守護。以二無名指相柱直竪。二小指二中<lb
  n="0188b17" ed="T"/>指二頭指並相交入掌中。合腕向前。<lb
  n="0188b18" ed="T"/>喚三十二天眾印呪曰。<lb
  n="0188b19" ed="T"/></ab>
-<ab type="dharani">唵婆孫馱利馱那陀若波羅波羅多儞沙訶<lb
+<ab type='dharani'>唵婆孫馱利馱那陀若波羅波羅多儞沙訶<lb
  n="0188b20" ed="T"/></ab>
-<ab type="prose">合腕二頭指反叉。在掌中押左右二中指押<lb
+<ab type='prose'>合腕二頭指反叉。在掌中押左右二中指押<lb
  n="0188b21" ed="T"/>側。大指來去。欲作法時先作此印。印地已然<lb
  n="0188b22" ed="T"/>作契借地作壇。若人每明旦平旦。喚一切天<lb
  n="0188b23" ed="T"/>施食供養。令人大富來財。<lb
@@ -993,11 +993,11 @@
  n="0188c18" ed="T"/>二手。作召信印印同如來信印。張在壇上。一<lb
  n="0188c19" ed="T"/>日一夜。誦呪遶壇。設召天龍鬼神。末須召菩<lb
  n="0188c20" ed="T"/>薩佛。</ab></div><lb
- n="0188c21" ed="T"/><div type="w" level="2"><ab type="prose">或本題云大佛頂如來放光大神力都攝大<lb
+ n="0188c21" ed="T"/><div type='w' level='2'><ab type='prose'>或本題云大佛頂如來放光大神力都攝大<lb
  n="0188c22" ed="T"/>威德記最勝金剛三昧呪法。</ab></div><lb
  n="0188c23" ed="T"/>
-<ab type="juan" subtype="close">大佛頂如來放光法卷第二</ab><lb
- n="0188c24" ed="T"/><div type="w" level="2"><ab type="prose">　此書似誤多以他本可校之<lb
+<ab type='juan' subtype='close'>大佛頂如來放光法卷第二</ab><lb
+ n="0188c24" ed="T"/><div type='w' level='2'><ab type='prose'>　此書似誤多以他本可校之<lb
  n="0188c25" ed="T"/>　干時□□三年十二月<lb
  n="0188c26" ed="T"/>　　　校了<lb
  n="0188c27" ed="T"/>　延久三年十二月十丑□□寫了</ab></div></div>

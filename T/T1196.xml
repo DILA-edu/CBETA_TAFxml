@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1196</idno>
                 </bibl>
@@ -44,11 +44,11 @@
  n="0938a05" ed="T"/><lb
  n="0938a06" ed="T"/><lb
  n="0938a07" ed="T"/>
-<ab type="juan" subtype="open">曼殊室利菩薩吉祥伽陀</ab><lb
+<ab type='juan' subtype='open'>曼殊室利菩薩吉祥伽陀</ab><lb
  n="0938a08" ed="T"/><lb
  n="0938a09" ed="T"/><byline>西天譯經三藏朝散大夫試光祿卿<lb
  n="0938a10" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
- n="0938a11" ed="T"/><div type="dharani" level="1"><ab type="dharani">鉢囉倪焬誐桑誐酤里隷訥婆嚩冒地唧大曼儒室哩曳尾<lb
+ n="0938a11" ed="T"/><div type='dharani' level='1'><ab type='dharani'>鉢囉倪焬誐桑誐酤里隷訥婆嚩冒地唧大曼儒室哩曳尾<lb
  n="0938a13" ed="T"/>末羅冒地窣珂阿毘世蓋拽訥莽<lb
  n="0938a14" ed="T"/>誐羅𡁠那嚩哩速窣大窣儗當<lb
  n="0938a15" ed="T"/>怛訥莽誐朗婆嚩覩帝波囉摩訶毘世<lb
@@ -84,5 +84,5 @@
  n="0938b18" ed="T"/>尾󰡊馱嚩囉計哩底薩曼儒那<lb
  n="0938b19" ed="T"/>他<lb
  n="0938b20" ed="T"/>
-</ab><ab type="juan" subtype="close">曼殊室利菩薩吉祥伽陀</ab></div>
+</ab><ab type='juan' subtype='close'>曼殊室利菩薩吉祥伽陀</ab></div>
 </body></text></TEI>

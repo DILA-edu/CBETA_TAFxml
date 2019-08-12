@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T32</biblScope>
                     <idno type="Taisho">T32n1666</idno>
                 </bibl>
@@ -39,14 +39,14 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0575a" ed="T" id="T32.1666.0575a"/><lb
  n="0575a01" ed="T"/><lb
  n="0575a02" ed="T"/><lb
- n="0575a03" ed="T"/><div type="xu" level="2"><head>大乘起信論序</head><lb
+ n="0575a03" ed="T"/><div type='xu' level='2'><head>大乘起信論序</head><lb
  n="0575a04" ed="T"/><lb
  n="0575a05" ed="T"/><byline>揚州僧智愷作</byline><lb
- n="0575a06" ed="T"/><ab type="prose">夫起信論者，乃是至極大乘甚深祕典，開示<lb
+ n="0575a06" ed="T"/><ab type='prose'>夫起信論者，乃是至極大乘甚深祕典，開示<lb
  n="0575a07" ed="T"/>如理緣起之義。其旨淵弘寂而無相，其用廣<lb
  n="0575a08" ed="T"/>大寬廓無邊，與凡聖為依，眾法之本。以其文<lb
  n="0575a09" ed="T"/>深旨遠，信者至微。故於如來滅後六百餘年，<lb
@@ -78,11 +78,11 @@
  n="0575b06" ed="T"/><lb
  n="0575b07" ed="T"/><lb
  n="0575b08" ed="T"/>
-<ab type="juan" subtype="open">大乘起信論一卷</ab><lb
+<ab type='juan' subtype='open'>大乘起信論一卷</ab><lb
  n="0575b09" ed="T"/><lb
  n="0575b10" ed="T"/><byline>馬鳴菩薩造</byline><lb
  n="0575b11" ed="T"/><byline>梁西印度三藏法師真諦譯</byline><lb
- n="0575b12" ed="T"/><ab type="verse">
+ n="0575b12" ed="T"/><ab type='verse'>
 歸命盡十方，　　最勝業遍知，　　<lb
  n="0575b13" ed="T"/>色無礙自在，　　救世大悲者，　　<lb
  n="0575b14" ed="T"/>及彼身體相，　　法性真如海，　　<lb
@@ -90,7 +90,7 @@
  n="0575b16" ed="T"/>為欲令眾生，　　除疑捨邪執，　　<lb
  n="0575b17" ed="T"/>起大乘正信，　　佛種不斷故。　　
 </ab><lb
- n="0575b18" ed="T"/><ab type="prose">論曰：有法能起摩訶衍信根，是故應說。說<lb
+ n="0575b18" ed="T"/><ab type='prose'>論曰：有法能起摩訶衍信根，是故應說。說<lb
  n="0575b19" ed="T"/>有五分。云何為五？一者、因緣分，二者、立義<lb
  n="0575b20" ed="T"/>分，三者、解釋分，四者、修行信心分，五者、勸修<lb
  n="0575b21" ed="T"/>利益分。<lb
@@ -784,10 +784,10 @@
  n="0583b13" ed="T"/>薩當依此法得成淨信，是故眾生應勤<lb
  n="0583b14" ed="T"/>修學。<lb
  n="0583b15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 諸佛甚深廣大義，　　我今隨分總持說，　　<lb
  n="0583b16" ed="T"/>迴此功德如法性，　　普利一切眾生界。　　
 </ab><lb
  n="0583b17" ed="T"/>
-<ab type="juan" subtype="close">大乘起信論一卷</ab></div>
+<ab type='juan' subtype='close'>大乘起信論一卷</ab></div>
 </body></text></TEI>

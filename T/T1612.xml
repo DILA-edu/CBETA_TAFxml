@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T31</biblScope>
                     <idno type="Taisho">T31n1612</idno>
                 </bibl>
@@ -42,11 +42,11 @@
         <body><pb n="0848b" ed="T" id="T31.1612.0848b"/><lb
  n="0848b01" ed="T"/><lb
  n="0848b02" ed="T"/>
-<ab type="juan" subtype="open">大乘五蘊論一卷</ab><lb
+<ab type='juan' subtype='open'>大乘五蘊論一卷</ab><lb
  n="0848b03" ed="T"/><lb
  n="0848b04" ed="T"/><byline>世親菩薩造</byline><lb
  n="0848b05" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
- n="0848b06" ed="T"/><div type="jing" level="1"><ab type="prose">如薄伽梵略說五蘊：一者、色蘊，二者、受蘊，三<lb
+ n="0848b06" ed="T"/><div type='jing' level='1'><ab type='prose'>如薄伽梵略說五蘊：一者、色蘊，二者、受蘊，三<lb
  n="0848b07" ed="T"/>者、想蘊，四者、行蘊，五者、識蘊。<lb
  n="0848b08" ed="T"/>云何色蘊？謂四大種及四大種所造諸色。云<lb
  n="0848b09" ed="T"/>何四大種？謂地界、水界、火界、風界。云何地界？<lb
@@ -255,5 +255,5 @@
  n="0850c08" ed="T"/>幾同分？謂五內有色界，由與自識等境界故。<lb
  n="0850c09" ed="T"/>幾彼同分？謂即彼自識空時與自類等故。<lb
  n="0850c10" ed="T"/>
-</ab><ab type="juan" subtype="close">大乘五蘊論一卷</ab></div>
+</ab><ab type='juan' subtype='close'>大乘五蘊論一卷</ab></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T02</biblScope>
                     <idno type="Taisho">T02n0121</idno>
                 </bibl>
@@ -42,13 +42,13 @@
         <body><lb
  n="0544b09" ed="T"/><lb
  n="0544b10" ed="T"/><lb
- n="0544b11" ed="T"/><div type="jing" level="1"><lb
+ n="0544b11" ed="T"/><div type='jing' level='1'><lb
  n="0544b12" ed="T"/>
-<ab type="juan" subtype="open">佛說月喻經</ab><lb
+<ab type='juan' subtype='open'>佛說月喻經</ab><lb
  n="0544b13" ed="T"/><lb
  n="0544b14" ed="T"/><byline>西天譯經三藏傳法大師賜紫<lb
  n="0544b15" ed="T"/>臣施護奉　詔譯</byline><lb
- n="0544b16" ed="T"/><ab type="prose">如是我聞：一時，世尊在王舍城，迦蘭陀竹林<lb
+ n="0544b16" ed="T"/><ab type='prose'>如是我聞：一時，世尊在王舍城，迦蘭陀竹林<lb
  n="0544b17" ed="T"/>精舍，與苾芻眾俱。是時，世尊告諸苾芻言：<lb
  n="0544b18" ed="T"/>「如世所見，皎月圓滿，行於虛空，清淨無礙。<lb
  n="0544b19" ed="T"/>而諸苾芻，不破威儀，常如初臘者，具足慚<lb
@@ -107,5 +107,5 @@
  n="0545a14" ed="T"/>住世。」<lb
  n="0545a15" ed="T"/>佛說此經已。諸苾芻眾，歡喜信受。<lb
  n="0545a16" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說月喻經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說月喻經</ab></div>
 </body></text></TEI>

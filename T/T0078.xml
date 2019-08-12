@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0078</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><pb n="0887b" ed="T" id="T01.0078.0887b"/><lb
  n="0887b01" ed="T"/><lb
  n="0887b02" ed="T"/><lb
- n="0887b03" ed="T"/><div type="jing" level="1"><lb
+ n="0887b03" ed="T"/><div type='jing' level='1'><lb
  n="0887b04" ed="T"/>
-<ab type="juan" subtype="open">佛說兜調經</ab><lb
+<ab type='juan' subtype='open'>佛說兜調經</ab><lb
  n="0887b05" ed="T"/><lb
  n="0887b06" ed="T"/><byline>失譯人名今附東晉錄</byline><lb
- n="0887b07" ed="T"/><ab type="prose">聞如是：一時，佛在舍衛國。國中有一婆羅門，<lb
+ n="0887b07" ed="T"/><ab type='prose'>聞如是：一時，佛在舍衛國。國中有一婆羅門，<lb
  n="0887b08" ed="T"/>名曰兜調，有子名曰谷。兜調為人急弊，常憙<lb
  n="0887b09" ed="T"/>罵詈，身死還自為其家作狗子，名曰騾。其子<lb
  n="0887b10" ed="T"/>谷者愛是狗子，為著金鏁，牀臥常以氍氀𣰅<lb
@@ -139,5 +139,5 @@
  n="0888b09" ed="T"/>聲者，心中惻然、衣毛為竪、淚即為出，如是<lb
  n="0888b10" ed="T"/>者，其人皆當為彌勒佛作弟子，得度世去。」<lb
  n="0888b11" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說兜調經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說兜調經</ab></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T23</biblScope>
                     <idno type="Taisho">T23n1437</idno>
                 </bibl>
@@ -39,18 +39,18 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0479a07" ed="T"/><lb
  n="0479a08" ed="T"/><lb
  n="0479a09" ed="T"/><lb
  n="0479a10" ed="T"/>
-<ab type="juan" subtype="open">十誦比丘尼波羅提木叉戒本<lb
+<ab type='juan' subtype='open'>十誦比丘尼波羅提木叉戒本<lb
  n="0479a11" ed="T"/>一卷</ab><lb
  n="0479a12" ed="T"/><lb
  n="0479a13" ed="T"/><byline>宋長干寺沙門釋法顯集出</byline><lb
  n="0479a14" ed="T"/><head>說法章</head><lb
- n="0479a15" ed="T"/><ab type="prose">「大德尼僧聽！冬時一月過少一夜，餘有一<lb
+ n="0479a15" ed="T"/><ab type='prose'>「大德尼僧聽！冬時一月過少一夜，餘有一<lb
  n="0479a16" ed="T"/>夜三月在，老死至近，佛法欲滅。」<lb
  n="0479a17" ed="T"/><head>第二教戒章</head><lb
  n="0479a18" ed="T"/>「諸大德！為得道故，一心勤精進。所以者何？<lb
@@ -61,7 +61,7 @@
  n="0479a24" ed="T"/>淨。」<lb
  n="0479a25" ed="T"/><head>第四供養章</head><lb
  n="0479a26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「合十指爪掌，　　供養釋師子；　　<lb
  n="0479a27" ed="T"/>我今欲說戒，　　僧當一心聽。　　<lb
  n="0479a28" ed="T"/>乃至小罪中，　　心應大怖畏；　　<lb
@@ -78,7 +78,7 @@
  n="0479b10" ed="T"/>是人佛法中，　　能得清淨命。」　　
 </ab><lb
  n="0479b11" ed="T"/><head>第五和眾章</head><lb
- n="0479b12" ed="T"/><ab type="prose">「大德尼僧聽！今十五日布薩說波羅提木叉，<lb
+ n="0479b12" ed="T"/><ab type='prose'>「大德尼僧聽！今十五日布薩說波羅提木叉，<lb
  n="0479b13" ed="T"/>若僧時到僧忍聽，僧一心作布薩說波羅提<lb
  n="0479b14" ed="T"/>木叉。如是白。」<lb
  n="0479b15" ed="T"/><head>第六淨眾章</head><lb
@@ -113,7 +113,7 @@
  n="0479c15" ed="T"/>貪利養故，不知言知、不見言見，空誑妄語，<lb
  n="0479c16" ed="T"/>除增上慢，是比丘尼，犯波羅夷，不應共住。<lb
  n="0479c17" ed="T"/>「若比丘尼，有漏心，聽漏心男子，髮際已下至<lb
- n="0479c18" ed="T"/>膝腕已上，却衣順摩、逆摩、牽推、按搯、抱上、<lb
+ n="0479c18" ed="T"/>膝腕已上，却衣順摩、逆摩、牽推、按掐、抱上、<lb
  n="0479c19" ed="T"/>抱下，是比丘尼，犯波羅夷，不應共住。<lb
  n="0479c20" ed="T"/>「若比丘尼，有漏心，聽漏心男子，捉手、捉衣，共<lb
  n="0479c21" ed="T"/>立、共語、共期入屏覆處，待男子來，與身如白<pb n="0480a" ed="T" id="T23.1437.0480a"/><lb
@@ -447,7 +447,7 @@
  n="0483c08" ed="T"/>能障道。』諸比丘尼應如是教言：『汝莫作是語：<lb
  n="0483c09" ed="T"/>「我知佛法義，行婬欲不能障道。」汝莫謗佛、謗<lb
  n="0483c10" ed="T"/>佛者不善。佛不作是語，佛種種因緣說婬欲<lb
- n="0483c11" ed="T"/>能障道法。汝當捨是惡邪見。』諸比丘尼如是<lb
+ n="0483c11" ed="T"/>能障道。汝當捨是惡邪見。』諸比丘尼如是<lb
  n="0483c12" ed="T"/>教時，堅持是事不捨者，當再三教，令捨是<lb
  n="0483c13" ed="T"/>事。再三教時捨者善；不捨者，諸比丘尼應如<lb
  n="0483c14" ed="T"/>是語：『汝沙彌尼，從今不應言：「佛是我師。」亦不<lb
@@ -820,70 +820,70 @@
  n="0488a08" ed="T"/>毘婆尸佛如來、無所著、等正覺，為六百二十<lb
  n="0488a09" ed="T"/>萬比丘前後圍繞，說是戒經：<lb
  n="0488a10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「忍辱第一道，　　涅槃佛稱最；　　<lb
  n="0488a11" ed="T"/>出家惱他人，　　不名為沙門。」　　
 </ab><lb
- n="0488a12" ed="T"/><ab type="prose">式佛如來、無所著、等正覺，為八十萬比丘前<lb
+ n="0488a12" ed="T"/><ab type='prose'>式佛如來、無所著、等正覺，為八十萬比丘前<lb
  n="0488a13" ed="T"/>後圍繞，說是戒經：<lb
  n="0488a14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「譬如明眼人，　　能避嶮惡道；　　<lb
  n="0488a15" ed="T"/>世有聰明人，　　能遠離諸惡。」　　
 </ab><lb
- n="0488a16" ed="T"/><ab type="prose">隨葉佛如來、無所著、等正覺，為十萬比丘前<lb
+ n="0488a16" ed="T"/><ab type='prose'>隨葉佛如來、無所著、等正覺，為十萬比丘前<lb
  n="0488a17" ed="T"/>後圍繞，說是戒經：<lb
  n="0488a18" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「不惱不說過，　　如戒所說行，　　<lb
  n="0488a19" ed="T"/>飯食知節量，　　常樂在閑處，　　<lb
  n="0488a20" ed="T"/>心淨樂精進，　　是名諸佛教。」　　
 </ab><lb
- n="0488a21" ed="T"/><ab type="prose">拘樓孫佛如來、無所著、等正覺，為四萬比<lb
+ n="0488a21" ed="T"/><ab type='prose'>拘樓孫佛如來、無所著、等正覺，為四萬比<lb
  n="0488a22" ed="T"/>丘前後圍繞，說是戒經：<lb
  n="0488a23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「譬如蜂採花，　　不壞色與香，　　<lb
  n="0488a24" ed="T"/>但取其味去；　　比丘入聚落，　　<lb
  n="0488a25" ed="T"/>不破壞他事，　　不觀作不作，　　<lb
  n="0488a26" ed="T"/>但自觀身行，　　諦視善不善。」　　
 </ab><lb
- n="0488a27" ed="T"/><ab type="prose">拘那含佛如來、無所著、等正覺。為三萬比丘<lb
+ n="0488a27" ed="T"/><ab type='prose'>拘那含佛如來、無所著、等正覺。為三萬比丘<lb
  n="0488a28" ed="T"/>前後圍繞，說是戒經：<lb
  n="0488a29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「欲得好心莫放逸，　　聖人善法當勤學；　　<pb n="0488b" ed="T" id="T23.1437.0488b"/><lb
  n="0488b01" ed="T"/>若有知寂一心人，　　乃能無復憂愁患。」　　
 </ab><lb
- n="0488b02" ed="T"/><ab type="prose">迦葉佛如來、無所著、等正覺，為二萬比丘前<lb
+ n="0488b02" ed="T"/><ab type='prose'>迦葉佛如來、無所著、等正覺，為二萬比丘前<lb
  n="0488b03" ed="T"/>後圍繞，說是戒經：<lb
  n="0488b04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「一切惡莫作，　　當具足善法，　　<lb
  n="0488b05" ed="T"/>自淨其志意，　　是則諸佛教。」　　
 </ab><lb
- n="0488b06" ed="T"/><ab type="prose">釋迦牟尼佛如來、無所著、等正覺，為千二百<lb
+ n="0488b06" ed="T"/><ab type='prose'>釋迦牟尼佛如來、無所著、等正覺，為千二百<lb
  n="0488b07" ed="T"/>五十未曾有僧前後圍繞，說是戒經：<lb
  n="0488b08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「護身為善哉，　　能護口亦善；　　<lb
  n="0488b09" ed="T"/>護意為善哉，　　護一切亦善。　　<lb
  n="0488b10" ed="T"/>比丘護一切，　　便得離眾苦；　　<lb
  n="0488b11" ed="T"/>比丘守口意，　　身不犯眾惡，　　<lb
  n="0488b12" ed="T"/>是三業道淨，　　得聖所得道。」　　
 </ab><lb
- n="0488b13" ed="T"/><ab type="verse">
+ n="0488b13" ed="T"/><ab type='verse'>
 「若人撾罵不還報，　　於嫌恨人心不恨，　　<lb
  n="0488b14" ed="T"/>於瞋人中心常淨，　　見人為惡自不作。」　　
 </ab><lb
- n="0488b15" ed="T"/><ab type="verse">
+ n="0488b15" ed="T"/><ab type='verse'>
 「七佛為世尊，　　能救護世間；　　<lb
  n="0488b16" ed="T"/>所可說戒經，　　我已廣說竟。　　<lb
  n="0488b17" ed="T"/>諸佛及弟子，　　恭敬是戒經；　　<lb
  n="0488b18" ed="T"/>恭敬戒經已，　　各各相恭敬，　　<lb
  n="0488b19" ed="T"/>慚愧得具足，　　能得無為道。」　　
 </ab><lb
- n="0488b20" ed="T"/><ab type="prose">「諸大德！已說波羅提木叉意，僧一心得布薩。」<lb
+ n="0488b20" ed="T"/><ab type='prose'>「諸大德！已說波羅提木叉竟，僧一心得布薩。」<lb
  n="0488b21" ed="T"/>
-</ab><ab type="juan" subtype="close">十誦比丘尼波羅提木叉戒本一卷</ab></div>
+</ab><ab type='juan' subtype='close'>十誦比丘尼波羅提木叉戒本一卷</ab></div>
 </body></text></TEI>

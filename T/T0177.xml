@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T03</biblScope>
                     <idno type="Taisho">T03n0177</idno>
                 </bibl>
@@ -43,10 +43,10 @@
  n="0446a24" ed="T"/><lb
  n="0446a25" ed="T"/><lb
  n="0446a26" ed="T"/>
-<ab type="juan" subtype="open">佛說大意經</ab><lb
+<ab type='juan' subtype='open'>佛說大意經</ab><lb
  n="0446a27" ed="T"/><lb
  n="0446a28" ed="T"/><byline>宋天竺三藏求那跋陀羅譯</byline><lb
- n="0446a29" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時，佛在舍衛國祇樹給孤獨園，與<pb n="0446b" ed="T" id="T03.0177.0446b"/><lb
+ n="0446a29" ed="T"/><div type='jing' level='1'><ab type='prose'>聞如是：一時，佛在舍衛國祇樹給孤獨園，與<pb n="0446b" ed="T" id="T03.0177.0446b"/><lb
  n="0446b01" ed="T"/>千二百五十比丘俱。<lb
  n="0446b02" ed="T"/>佛告諸比丘：「昔有國名歡樂無憂，王號曰廣<lb
  n="0446b03" ed="T"/>慈哀。國有居士名摩訶檀，妻名栴陀，生一<lb
@@ -182,5 +182,5 @@
  n="0447c17" ed="T"/>或供養比丘僧者、或誦經講道者，今皆來會<lb
  n="0447c18" ed="T"/>此。」阿難及四輩弟子，聞經歡喜，前為佛作禮。<lb
  n="0447c19" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說大意經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說大意經</ab></div>
 </body></text></TEI>

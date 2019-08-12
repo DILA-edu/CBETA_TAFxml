@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T02</biblScope>
                     <idno type="Taisho">T02n0117</idno>
                 </bibl>
@@ -42,13 +42,13 @@
         <body><lb
  n="0508a02" ed="T"/><lb
  n="0508a03" ed="T"/><lb
- n="0508a04" ed="T"/><div type="jing" level="1"><lb
+ n="0508a04" ed="T"/><div type='jing' level='1'><lb
  n="0508a06" ed="T"/>
-<ab type="juan" subtype="open">佛說戒香經</ab><lb
+<ab type='juan' subtype='open'>佛說戒香經</ab><lb
  n="0508a07" ed="T"/><lb
  n="0508a08" ed="T"/><byline>西天譯經三藏朝散大夫試光祿卿<lb
  n="0508a09" ed="T"/>明教大師臣法賢奉，　詔譯</byline><lb
- n="0508a10" ed="T"/><ab type="prose">如是我聞：一時，佛在舍衛國祇樹給孤獨園，<lb
+ n="0508a10" ed="T"/><ab type='prose'>如是我聞：一時，佛在舍衛國祇樹給孤獨園，<lb
  n="0508a11" ed="T"/>與大比丘眾俱。爾時，尊者阿難來詣佛所，到<lb
  n="0508a12" ed="T"/>已頭面禮足，合掌恭敬而白佛言：「世尊！我<lb
  n="0508a13" ed="T"/>有少疑欲當啟問，唯願世尊為我解說。我見<lb
@@ -70,7 +70,7 @@
  n="0508a29" ed="T"/>風遍聞十方，咸皆稱讚而得愛敬。」<pb n="0508b" ed="T" id="T02.0117.0508b"/><lb
  n="0508b01" ed="T"/>爾時，世尊而說頌曰：<lb
  n="0508b02" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「世間所有諸花果，　　乃至沈檀龍麝香，　　<lb
  n="0508b03" ed="T"/>如是等香非遍聞，　　唯聞戒香遍一切。　　<lb
  n="0508b04" ed="T"/>旃檀欝金與蘇合，　　優鉢羅并摩隷花，　　<lb
@@ -80,8 +80,8 @@
  n="0508b08" ed="T"/>如是具足清淨戒，　　乃至常行諸善法，　　<lb
  n="0508b09" ed="T"/>是人能解世間縛，　　所有諸魔常遠離。」　　
 </ab><lb
- n="0508b10" ed="T"/><ab type="prose">爾時，尊者阿難及比丘眾，聞佛語已，歡喜信<lb
+ n="0508b10" ed="T"/><ab type='prose'>爾時，尊者阿難及比丘眾，聞佛語已，歡喜信<lb
  n="0508b11" ed="T"/>受，禮佛而退。<lb
  n="0508b12" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說戒香經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說戒香經</ab></div>
 </body></text></TEI>

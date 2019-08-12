@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n1024</idno>
                 </bibl>
@@ -39,15 +39,15 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0717c03" ed="T"/><lb
  n="0717c04" ed="T"/><lb
  n="0717c05" ed="T"/>
-<ab type="juan" subtype="open">無垢淨光大陀羅尼經</ab><lb
+<ab type='juan' subtype='open'>無垢淨光大陀羅尼經</ab><lb
  n="0717c06" ed="T"/><lb
  n="0717c07" ed="T"/><byline>唐天竺三藏彌陀山奉　詔譯</byline><lb
- n="0717c08" ed="T"/><div type="jing" level="2"><ab type="prose">如是我聞。一時佛在迦毘羅城大精舍中。與<lb
+ n="0717c08" ed="T"/><div type='jing' level='2'><ab type='prose'>如是我聞。一時佛在迦毘羅城大精舍中。與<lb
  n="0717c09" ed="T"/>大比丘眾無量人俱。復有無量百千億那由<lb
  n="0717c10" ed="T"/>他菩薩摩訶薩。其名曰除一切蓋障菩薩。執<lb
  n="0717c11" ed="T"/>金剛主菩薩。觀世音菩薩。文殊師利菩薩。<lb
@@ -103,11 +103,11 @@
  n="0718b03" ed="T"/>歸本處從佛頂入。時佛即以美妙悅意迦陵<lb
  n="0718b04" ed="T"/>頻伽和雅之音。而說呪曰。<lb
  n="0718b05" ed="T"/></ab>
-<ab type="dharani">南謨颯哆颯怛底弊三藐三<lb
+<ab type='dharani'>南謨颯哆颯怛底弊三藐三<lb
  n="0718b06" ed="T"/>佛陀俱胝喃鉢唎戍陀摩捺娑<lb
  n="0718b07" ed="T"/>薄質多鉢唎底瑟恥哆喃南謨薄<lb
  n="0718b08" ed="T"/>伽跋底阿彌多喻殺寫恒他揭怛寫晻<lb
- n="0718b09" ed="T"/>怛他揭多戍第阿喻毘輸達儞僧󰷞<lb
+ n="0718b09" ed="T"/>怛他揭多戍第阿喻毘輸達儞僧𭧸<lb
  n="0718b10" ed="T"/>羅僧𠿒羅薩婆怛他揭多毘唎耶跋麗娜<lb
  n="0718b11" ed="T"/>鉢剌底僧𠿒囉阿喻薩麼囉薩麼囉<lb
  n="0718b12" ed="T"/>薩婆怛他揭多三昧焰菩提菩提勃地<lb
@@ -115,7 +115,7 @@
  n="0718b14" ed="T"/>波阿伐喇拏毘戍第毘揭多末羅珮焰<lb
  n="0718b15" ed="T"/>蘇勃馱㪍第虎嚕虎嚕莎訶<lb
  n="0718b17" ed="T"/></ab>
-<ab type="prose">佛言除蓋障此是根本陀羅尼呪。若欲作此<lb
+<ab type='prose'>佛言除蓋障此是根本陀羅尼呪。若欲作此<lb
  n="0718b18" ed="T"/>法者。當於月八日或十三日。或十四日或十<lb
  n="0718b19" ed="T"/>五日。右遶舍利塔滿七十七匝。誦此陀羅尼<lb
  n="0718b20" ed="T"/>亦七十七遍。應當作壇於上護淨。書寫此呪<lb
@@ -166,14 +166,14 @@
  n="0719a08" ed="T"/>術所不能壞。是名根本陀羅尼法。善男子今<lb
  n="0719a09" ed="T"/>為汝說相輪橖中陀羅尼法。即說呪曰。<lb
  n="0719a10" ed="T"/></ab>
-<ab type="dharani">唵薩婆怛他揭多毘補羅曳瑟㨖末尼羯諾迦曷喇折哆毘菩瑟哆<lb
+<ab type='dharani'>唵薩婆怛他揭多毘補羅曳瑟㨖末尼羯諾迦曷喇折哆毘菩瑟哆<lb
  n="0719a12" ed="T"/>曳瑟㨖杜嚕杜嚕三曼哆尾嚕吉帝<lb
  n="0719a13" ed="T"/>薩囉薩囉播跛尾輸達尼菩達尼三菩<lb
  n="0719a14" ed="T"/>達尼鉢囉伐囉曳瑟㨖伐囇末尼脫<lb
  n="0719a15" ed="T"/>誓鶻嚕止囉末羅毘戍第吽吽莎<lb
  n="0719a16" ed="T"/>訶<lb
  n="0719a17" ed="T"/></ab>
-<ab type="prose">善男子應當如法。書寫此呪九十九本。於相<lb
+<ab type='prose'>善男子應當如法。書寫此呪九十九本。於相<lb
  n="0719a18" ed="T"/>輪橖四周安置。又寫此呪及功能法。於橖中<lb
  n="0719a19" ed="T"/>心密覆安處。如是作已。則為建立九萬九千<lb
  n="0719a20" ed="T"/>相輪橖已。亦為安置九萬九千佛舍利已。亦<lb
@@ -192,18 +192,18 @@
  n="0719b04" ed="T"/>法。善男子今為汝說修造佛塔陀羅尼法。即<lb
  n="0719b05" ed="T"/>說呪曰。<lb
  n="0719b06" ed="T"/></ab>
-<ab type="dharani">唵薩婆怛他揭多末羅毘輸達尼鍵<lb
+<ab type='dharani'>唵薩婆怛他揭多末羅毘輸達尼鍵<lb
  n="0719b07" ed="T"/>陀鞞梨鉢娜伐囇鉢囉底僧塞迦囉怛<lb
  n="0719b08" ed="T"/>他揭多馱都達麗達囉達囉珊達囉珊<lb
  n="0719b09" ed="T"/>達囉薩婆怛他揭多阿地瑟恥帝莎訶<lb
  n="0719b10" ed="T"/><lb
  n="0719b11" ed="T"/></ab>
-<ab type="prose">若有比丘比丘尼優婆塞優婆夷。若自造塔<lb
+<ab type='prose'>若有比丘比丘尼優婆塞優婆夷。若自造塔<lb
  n="0719b12" ed="T"/>若教人造。若修故塔若作小塔。或以泥作或<lb
  n="0719b13" ed="T"/>用甎石。應先呪滿一千八遍然後造作。其塔<lb
  n="0719b14" ed="T"/>分量或如爪甲。或長一肘乃至由旬。以其呪<lb
  n="0719b15" ed="T"/>力及至心故。於泥等塔中出妙香氣。所謂牛<lb
- n="0719b16" ed="T"/>頭栴檀赤白栴檀。龍󰹚麝香欝金香等及天<lb
+ n="0719b16" ed="T"/>頭栴檀赤白栴檀。龍𮪱麝香欝金香等及天<lb
  n="0719b17" ed="T"/>香氣。自作教人皆得成就廣大善根福德之<lb
  n="0719b18" ed="T"/>聚。命若短促便得延壽。後臨終時得見九十<lb
  n="0719b19" ed="T"/>九億百千那由他佛。常為一切諸佛憶念。而<lb
@@ -244,7 +244,7 @@
  n="0719c25" ed="T"/>令眾生種善根故。供養一切諸如來故。今於<lb
  n="0719c26" ed="T"/>佛前說自心印陀羅尼法。即說呪曰。<lb
  n="0719c27" ed="T"/></ab>
-<ab type="dharani">南謨薄伽伐帝納婆納伐底喃三藐三佛陀<lb
+<ab type='dharani'>南謨薄伽伐帝納婆納伐底喃三藐三佛陀<lb
  n="0719c28" ed="T"/>俱胝那庾多設多索訶薩羅喃南謨薩婆<lb
  n="0719c29" ed="T"/>儞伐囉拏毘瑟劍鼻尼菩提薩埵也<pb n="0720a" id="T19.1024.0720a" ed="T"/><lb
  n="0720a01" ed="T"/>唵覩嚕覩嚕薩婆阿伐囉拏毘戍達尼<lb
@@ -254,7 +254,7 @@
  n="0720a05" ed="T"/>拏毘瑟劍毘泥薩婆播波毘燒達尼<lb
  n="0720a06" ed="T"/>莎訶<lb
  n="0720a07" ed="T"/></ab>
-<ab type="prose">世尊此陀羅尼是九十九億諸佛所說。若有<lb
+<ab type='prose'>世尊此陀羅尼是九十九億諸佛所說。若有<lb
  n="0720a08" ed="T"/>至心暫念誦者。一切罪業悉皆消滅。若有依<lb
  n="0720a09" ed="T"/>法書寫此呪。滿九十九本置於塔中或塔四<lb
  n="0720a10" ed="T"/>周。有人禮拜及以讚歎。或以香花塗香燈燭<lb
@@ -309,7 +309,7 @@
  n="0720c01" ed="T"/>及塔四周。以呪王法置於塔內。想十方佛至<lb
  n="0720c02" ed="T"/>心誦念此陀羅尼。即說呪曰。<lb
  n="0720c03" ed="T"/></ab>
-<ab type="dharani">南謨納婆納伐底喃怛他揭多俱胝喃弶伽<lb
+<ab type='dharani'>南謨納婆納伐底喃怛他揭多俱胝喃弶伽<lb
  n="0720c04" ed="T"/>捺地婆盧迦三摩喃唵毘補麗毘末麗<lb
  n="0720c05" ed="T"/>鉢囉伐麗市那伐麗薩囉薩囉薩<lb
  n="0720c06" ed="T"/>婆怛他揭多馱都揭鞞薩底地瑟恥帝<lb
@@ -317,7 +317,7 @@
  n="0720c08" ed="T"/>婆提婆那婆阿耶弭勃陀阿地瑟侘那<lb
  n="0720c09" ed="T"/>三摩也莎訶<lb
  n="0720c10" ed="T"/></ab>
-<ab type="prose">應燒香相續誦此陀羅尼呪二十八遍。即時<lb
+<ab type='prose'>應燒香相續誦此陀羅尼呪二十八遍。即時<lb
  n="0720c11" ed="T"/>八大菩薩八大夜叉王。執金剛夜叉主。四王<lb
  n="0720c12" ed="T"/>帝釋梵天王。那羅延摩醯首羅。各以自手共<lb
  n="0720c13" ed="T"/>持彼塔及相輪橖。亦有九十九億百千那由<lb
@@ -338,12 +338,12 @@
  n="0720c28" ed="T"/>橖中。行列壇上以諸香花供養旋遶七遍。誦<lb
  n="0720c29" ed="T"/>此陀羅尼曰。<pb n="0721a" id="T19.1024.0721a" ed="T"/><lb
  n="0721a01" ed="T"/></ab>
-<ab type="dharani">南謨納婆納伐底喃怛他揭多弶伽捺地<lb
+<ab type='dharani'>南謨納婆納伐底喃怛他揭多弶伽捺地<lb
  n="0721a02" ed="T"/>婆盧迦俱胝那庾多設多索訶薩囉喃唵<lb
  n="0721a03" ed="T"/>普怖哩折里尼折哩慕哩忽哩社<lb
  n="0721a04" ed="T"/>邏跋哩莎訶<lb
  n="0721a05" ed="T"/></ab>
-<ab type="prose">若依此法而受持者。六波羅蜜悉皆成滿。<lb
+<ab type='prose'>若依此法而受持者。六波羅蜜悉皆成滿。<lb
  n="0721a06" ed="T"/>是則同造九十九億百千那由他恒河沙等七<lb
  n="0721a07" ed="T"/>寶塔已。是則供養九十九億百千那由他如<lb
  n="0721a08" ed="T"/>來應正等覺。皆以諸天大供養雲。種種莊嚴<lb
@@ -380,8 +380,8 @@
  n="0721b10" ed="T"/>乃能堅固守護。住持如是陀羅尼法。時諸大<lb
  n="0721b11" ed="T"/>眾聞佛說已歡喜奉行。</ab></div><lb
  n="0721b12" ed="T"/>
-<ab type="juan" subtype="close">無垢淨光大陀羅尼經</ab><lb
- n="0721b13" ed="T"/><div type="w" level="2"><ab type="dharani">􄖩􄗭􄙺􆻤􄙺􆻤􄕙􄢥􄙺􄢦􇩀􈎭􇧹􄑈<lb
+<ab type='juan' subtype='close'>無垢淨光大陀羅尼經</ab><lb
+ n="0721b13" ed="T"/><div type='w' level='2'><ab type='dharani'>􄖩􄗭􄙺􆻤􄙺􆻤􄕙􄢥􄙺􄢦􇩀􈎭􇧹􄑈<lb
  n="0721b14" ed="T"/>􄓜􈁀􄖵􄙀􄙦􇧹􄗥􄖩􄙺􄙗􄑾􆽕􄪼􄕙<lb
  n="0721b15" ed="T"/>􆵍􄕘􈁀􄖩􄗭􄗙􄑘􄙖􄕙􆿅􄗧􄕗􄗵􄙮<lb
  n="0721b16" ed="T"/>􄣢􄕗􄕤􄑘􄕗􄣢􇩂􄕗􄕤􄑘􄕗􄙦􇧼􆿅<lb

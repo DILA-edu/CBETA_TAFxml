@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1166</idno>
                 </bibl>
@@ -44,11 +44,11 @@
  n="0674c07" ed="T"/><lb
  n="0674c08" ed="T"/><lb
  n="0674c09" ed="T"/>
-<ab type="juan" subtype="open">馬鳴菩薩大神力無比驗法念誦<lb
+<ab type='juan' subtype='open'>馬鳴菩薩大神力無比驗法念誦<lb
  n="0674c10" ed="T"/>軌儀</ab><lb
  n="0674c11" ed="T"/><lb
  n="0674c12" ed="T"/><byline>金剛智奉　詔譯</byline><lb
- n="0674c13" ed="T"/><div type="jing" level="1"><ab type="prose">曩日釋迦如來菩提樹下坐大眾集會中。時<lb
+ n="0674c13" ed="T"/><div type='jing' level='1'><ab type='prose'>曩日釋迦如來菩提樹下坐大眾集會中。時<lb
  n="0674c14" ed="T"/>馬鳴菩薩前白佛言。欲說我莊嚴佛法。及為<lb
  n="0674c15" ed="T"/>成像末貧窮下賤裸形眾生有情衣服。歷無<lb
  n="0674c16" ed="T"/>數劫行菩薩行。所得大神呪有大威德。色力<lb
@@ -57,10 +57,10 @@
  n="0674c19" ed="T"/>可說。唯然世尊愍念我聽說。合掌歡喜從口<lb
  n="0674c20" ed="T"/>中放大光明。說光中神呪曰。<lb
  n="0674c21" ed="T"/></ab>
-<ab type="dharani">曩謨三曼多沒他那迦迦馬鳴吃哩吒囉佉吒<lb
+<ab type='dharani'>曩謨三曼多沒他那迦迦馬鳴吃哩吒囉佉吒<lb
  n="0674c22" ed="T"/>囉佉莎縛訶<lb
  n="0674c23" ed="T"/></ab>
-<ab type="prose">若欲受持此法。先從師盡財利布施供給。受<lb
+<ab type='prose'>若欲受持此法。先從師盡財利布施供給。受<lb
  n="0674c24" ed="T"/>習印契真言。則畫作菩薩像。色相白肉色而<lb
  n="0674c25" ed="T"/>合掌坐白蓮華。乘白馬著白色衣。以瓔珞莊<lb
  n="0674c26" ed="T"/>嚴身。首戴花冠垂右足。畫像了泥壇。始自三<lb
@@ -82,5 +82,5 @@
  n="0675a13" ed="T"/>所願印。此契印末代愚學之妄不可記於文<lb
  n="0675a14" ed="T"/>字。萬人中撰十人。十人之中撰一人。許可。<lb
  n="0675a15" ed="T"/>
-</ab><ab type="juan" subtype="close">成就蠶養儀軌</ab></div>
+</ab><ab type='juan' subtype='close'>成就蠶養儀軌</ab></div>
 </body></text></TEI>

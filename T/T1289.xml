@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1289</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0367b03" ed="T"/><lb
  n="0367b04" ed="T"/><lb
- n="0367b05" ed="T"/><div type="jing" level="2"><lb
+ n="0367b05" ed="T"/><div type='jing' level='2'><lb
  n="0367b06" ed="T"/>
-<ab type="juan" subtype="open">佛說金毘羅童子威德經</ab><lb
+<ab type='juan' subtype='open'>佛說金毘羅童子威德經</ab><lb
  n="0367b07" ed="T"/><lb
  n="0367b08" ed="T"/><byline>大廣智不空密譯</byline><lb
- n="0367b09" ed="T"/><ab type="prose">如是我聞。一時佛在忉利天歡喜園中波利<lb
+ n="0367b09" ed="T"/><ab type='prose'>如是我聞。一時佛在忉利天歡喜園中波利<lb
  n="0367b10" ed="T"/>質多羅樹下寶宮殿。如來是無量智慧命。諸<lb
  n="0367b11" ed="T"/>眾生作一子想。是時有百千萬億恒河沙那<lb
  n="0367b12" ed="T"/>由他諸大菩薩。及聲聞緣覺辟支佛四道果<lb
@@ -73,7 +73,7 @@
  n="0367c02" ed="T"/>疑。及觀四眾咸悉疑惑。欲重宣此義。而說偈<lb
  n="0367c03" ed="T"/>言。<lb
  n="0367c04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 大雄猛世尊　　師子奮迅王　　<lb
  n="0367c05" ed="T"/>神光遍十方　　天宮諸龍宮　　<lb
  n="0367c06" ed="T"/>參辰日月天　　并此三千界　　<lb
@@ -82,19 +82,19 @@
  n="0367c09" ed="T"/>四眾大怖畏　　唯願天中天　　<lb
  n="0367c10" ed="T"/>為我顯斯法　　
 </ab><lb
- n="0367c11" ed="T"/><ab type="prose">爾時文殊師利法王子。說此偈已。時眾會中<lb
+ n="0367c11" ed="T"/><ab type='prose'>爾時文殊師利法王子。說此偈已。時眾會中<lb
  n="0367c12" ed="T"/>復有百千萬億天人阿修羅等。及比丘比丘<lb
  n="0367c13" ed="T"/>尼優婆塞優婆夷人非人等。咸皆有疑各從<lb
  n="0367c14" ed="T"/>座起異口同音前詣佛所。而說偈言。<lb
  n="0367c15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 善哉天中天　　久遠成正覺　　<lb
  n="0367c16" ed="T"/>今日得自在　　普放大光明　　<lb
  n="0367c17" ed="T"/>其光皆五色　　隱蔽三千界　　<lb
  n="0367c18" ed="T"/>我從久遠來　　未曾遇斯瑞　　<lb
  n="0367c19" ed="T"/>唯願大慈悲　　顯說斯妙義　　
 </ab><lb
- n="0367c20" ed="T"/><ab type="prose">時諸天人說是偈已。重白佛言世尊。唯願世<lb
+ n="0367c20" ed="T"/><ab type='prose'>時諸天人說是偈已。重白佛言世尊。唯願世<lb
  n="0367c21" ed="T"/>尊開我迷昧。大慈大悲速為我說。爾時如來<lb
  n="0367c22" ed="T"/>光明日光曜還來遶佛三匝。從佛頂入普告<lb
  n="0367c23" ed="T"/>大眾。今日如來憐愍眾生如羅睺羅。又令一<lb
@@ -181,12 +181,12 @@
  n="0368c17" ed="T"/>一身無有過者。爾時阿難欲重宣此義。而說<lb
  n="0368c18" ed="T"/>偈言。<lb
  n="0368c19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 世尊大自在　　威德無有比　　<lb
  n="0368c20" ed="T"/>我從久遠劫　　未聞如是事　　<lb
  n="0368c21" ed="T"/>唯願大聖尊　　顯說所由以　　
 </ab><lb
- n="0368c22" ed="T"/><ab type="prose">說此偈已重白佛言。願為我等說是神通之<lb
+ n="0368c22" ed="T"/><ab type='prose'>說此偈已重白佛言。願為我等說是神通之<lb
  n="0368c23" ed="T"/>相。<lb
  n="0368c24" ed="T"/>爾時佛告阿難及諸大眾。善男子我於無量<lb
  n="0368c25" ed="T"/>劫來難行。種種智種種慧為求法故。頭目髓<lb
@@ -224,9 +224,9 @@
  n="0369a28" ed="T"/>夢王。一一明聽我所說大勝金毘羅童子降<lb
  n="0369a29" ed="T"/>天魔術妙神呪陀羅尼。<pb n="0369b" id="T21.1289.0369b" ed="T"/><lb
  n="0369b01" ed="T"/></ab>
-<ab type="dharani">唵㗭唎陀啒㖀哣栖迷吽<lb
+<ab type='dharani'>唵㗭唎陀啒㖀哣栖迷吽<lb
  n="0369b02" ed="T"/></ab>
-<ab type="prose">呪已三千大千六反震動。十方諸佛及諸菩<lb
+<ab type='prose'>呪已三千大千六反震動。十方諸佛及諸菩<lb
  n="0369b03" ed="T"/>薩皆證究竟。菩薩聲聞緣覺六通神仙三明<lb
  n="0369b04" ed="T"/>大士辟支及諸小菩薩等。皆獲正真覺之道。<lb
  n="0369b05" ed="T"/>空中雨寶華繽紛而下。普佛世界香風吹動。<lb
@@ -285,7 +285,7 @@
  n="0369c29" ed="T"/>用彼著。我汝當害。彼慇懃木上。書此文向<pb n="0370a" id="T21.1289.0370a" ed="T"/><lb
  n="0370a01" ed="T"/>佛前。復誦前呪三千遍作𣐍釘著高山。七獸<lb
  n="0370a02" ed="T"/>日內切獸即至彼文處。及百虫鳥雀蚖蛇蜣<lb
- n="0370a03" ed="T"/>蜋。諸虫並集其處。又法若欲木󱂰樹令變<lb
+ n="0370a03" ed="T"/>蜋。諸虫並集其處。又法若欲木𭫽樹令變<lb
  n="0370a04" ed="T"/>者。取藥許少分和水𠹀之。三日間作大柏樹。<lb
  n="0370a05" ed="T"/>又法若人令長壽者。取藥和井花水呪七<lb
  n="0370a06" ed="T"/>遍。服即長壽命長三劫。又法若令人轉老<lb
@@ -620,17 +620,17 @@
  n="0373c18" ed="T"/>夜合木一寸八分剋之。大力金剛陀羅尼。二<lb
  n="0373c19" ed="T"/>名穢積大壇烏芻沙摩真言。<lb
  n="0373c20" ed="T"/></ab>
-<ab type="dharani">唵󱄙伐羅俱魯陀摩訶摩羅訶曩那訶跛折摩<lb
+<ab type='dharani'>唵𭬗伐羅俱魯陀摩訶摩羅訶曩那訶跛折摩<lb
  n="0373c21" ed="T"/>他微枳羅尾持網婆野社智羅監母陀羅烏芻<lb
  n="0373c22" ed="T"/>沙摩俱嚕陀𤙖泮吒娑婆訶<lb
  n="0373c23" ed="T"/></ab>
-<ab type="prose">期觀音真言<lb
+<ab type='prose'>期觀音真言<lb
  n="0373c24" ed="T"/></ab>
-<ab type="dharani">迦摩羅目佉迦摩羅盧左那迦摩羅沙那迦摩<lb
+<ab type='dharani'>迦摩羅目佉迦摩羅盧左那迦摩羅沙那迦摩<lb
  n="0373c25" ed="T"/>羅多賀沙那迦摩羅婆謨尼迦摩羅迦摩羅迦<lb
  n="0373c26" ed="T"/>摩羅<lb
  n="0373c27" ed="T"/>
-</ab><ab type="juan" subtype="close">金毘羅童子威德經</ab></div><lb
- n="0373c28" ed="T"/><div type="w" level="2"><ab type="prose">。<lb
+</ab><ab type='juan' subtype='close'>金毘羅童子威德經</ab></div><lb
+ n="0373c28" ed="T"/><div type='w' level='2'><ab type='prose'>。<lb
  n="0374a04" ed="T"/>　　</ab></div></div>
 </body></text></TEI>

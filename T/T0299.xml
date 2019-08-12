@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T10</biblScope>
                     <idno type="Taisho">T10n0299</idno>
                 </bibl>
@@ -42,13 +42,13 @@
         <body><pb n="0884b" ed="T" id="T10.0299.0884b"/><lb
  n="0884b01" ed="T"/><lb
  n="0884b02" ed="T"/><lb
- n="0884b03" ed="T"/><div type="jing" level="1">
-<ab type="juan" subtype="open">大方廣總持寶光明經卷第一</ab><lb
+ n="0884b03" ed="T"/><div type='jing' level='1'>
+<ab type='juan' subtype='open'>大方廣總持寶光明經卷第一</ab><lb
  n="0884b04" ed="T"/><lb
  n="0884b05" ed="T"/><byline>西天中印度摩伽陀國那爛陀寺<lb
  n="0884b06" ed="T"/>傳教大師三藏賜紫沙門臣法天<lb
  n="0884b07" ed="T"/>奉　詔譯</byline><lb
- n="0884b08" ed="T"/><ab type="prose">如是我聞：一時世尊在王舍城鷲峯山中，與<lb
+ n="0884b08" ed="T"/><ab type='prose'>如是我聞：一時世尊在王舍城鷲峯山中，與<lb
  n="0884b09" ed="T"/>大比丘眾百千人俱，圓滿一切白法，大師子<lb
  n="0884b10" ed="T"/>吼，智慧無量，得大善利，并諸菩薩摩訶薩眾，<lb
  n="0884b11" ed="T"/>其名曰：<lb
@@ -210,14 +210,14 @@
  n="0886a22" ed="T"/>願力故，得大善利，乃至轉大法輪。彼如是等<lb
  n="0886a23" ed="T"/>諸佛同說偈言：<lb
  n="0886a24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『佛智本清淨，　　普周於法界，　　<lb
  n="0886a25" ed="T"/>及觀眾生界，　　遍入無礙智，　　<lb
  n="0886a26" ed="T"/>無等相應門，　　善一切言語，　　<lb
  n="0886a27" ed="T"/>速得一切智，　　圓滿於諸法，　　<lb
  n="0886a28" ed="T"/>三世智皆圓，　　善說如是法。』　　
 </ab><lb
- n="0886a29" ed="T"/><ab type="prose">「善男子！汝今以佛威神力故，說此菩薩十住<pb n="0886b" ed="T" id="T10.0299.0886b"/><lb
+ n="0886a29" ed="T"/><ab type='prose'>「善男子！汝今以佛威神力故，說此菩薩十住<pb n="0886b" ed="T" id="T10.0299.0886b"/><lb
  n="0886b01" ed="T"/>法門。」是時彼佛世尊各以無礙智，往照法慧<lb
  n="0886b02" ed="T"/>菩薩，復得如是三摩地門，所謂無礙、無斷、不<lb
  n="0886b03" ed="T"/>空法、不空智、無漏、無際、無盡、無來、無去、無邊、本<lb
@@ -413,16 +413,16 @@
  n="0888b19" ed="T"/>以故？謂聞如是一切實際理智故。佛子！是故<lb
  n="0888b20" ed="T"/>此名菩薩灌頂住。」<lb
  n="0888b21" ed="T"/>
-</ab><ab type="juan" subtype="close">大方廣總持寶光明經卷第一</ab><lb
+</ab><ab type='juan' subtype='close'>大方廣總持寶光明經卷第一</ab><lb
  n="0888b22" ed="T"/><lb
  n="0888b23" ed="T"/><lb
  n="0888b24" ed="T"/>
-<ab type="juan" subtype="open">大方廣總持寶光明經卷第二</ab><lb
+<ab type='juan' subtype='open'>大方廣總持寶光明經卷第二</ab><lb
  n="0888b25" ed="T"/><lb
  n="0888b26" ed="T"/><byline>西天中印度摩伽陀國那爛陀寺<lb
  n="0888b27" ed="T"/>傳教大師三藏賜紫沙門臣法天<lb
  n="0888b28" ed="T"/>奉　詔譯</byline><lb
- n="0888b29" ed="T"/><ab type="prose">爾時，法慧菩薩摩訶薩，為諸菩薩說是菩薩<pb n="0888c" ed="T" id="T10.0299.0888c"/><lb
+ n="0888b29" ed="T"/><ab type='prose'>爾時，法慧菩薩摩訶薩，為諸菩薩說是菩薩<pb n="0888c" ed="T" id="T10.0299.0888c"/><lb
  n="0888c01" ed="T"/>十住法已，于時十方以佛神力，於一一方，各<lb
  n="0888c02" ed="T"/>有十千佛剎微塵等世界，一一佛剎微塵等<lb
  n="0888c03" ed="T"/>世界，地皆六種震動。所謂：動、遍動、等遍動，<lb
@@ -452,7 +452,7 @@
  n="0888c27" ed="T"/>威力，觀察十方法界眾會，欲重宣此義，而說<lb
  n="0888c28" ed="T"/>偈言：<lb
  n="0888c29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「見諸如來清淨智，　　巍巍變化力如是，　　<pb n="0889a" ed="T" id="T10.0299.0889a"/><lb
  n="0889a01" ed="T"/>十力功德眾莊嚴，　　是故發此菩提心；　　<lb
  n="0889a02" ed="T"/>見此種種神通力，　　說法利益諸群生，　　<lb
@@ -636,7 +636,7 @@
  n="0891a06" ed="T"/>功德數量莫能知，　　最初一念菩提心，　　<lb
  n="0891a07" ed="T"/>如是世界化群生，　　無能超越過於彼。」　　
 </ab><lb
- n="0891a08" ed="T"/><ab type="prose">是時普賢菩薩摩訶薩，告法慧菩薩言：「善男<lb
+ n="0891a08" ed="T"/><ab type='prose'>是時普賢菩薩摩訶薩，告法慧菩薩言：「善男<lb
  n="0891a09" ed="T"/>子！善哉，善哉！汝今善說此寶光總持法門。復<lb
  n="0891a10" ed="T"/>次善男子！彼諸眾生，當得愛樂不可思議諸<lb
  n="0891a11" ed="T"/>佛功德一切智慧。善男子！若有眾生，但聞此<lb
@@ -779,7 +779,7 @@
  n="0892b28" ed="T"/>寶莊嚴師子之座，結跏趺坐，即說寶光明總<lb
  n="0892b29" ed="T"/>持陀羅尼曰：<pb n="0892c" ed="T" id="T10.0299.0892c"/><lb
  n="0892c01" ed="T"/></ab>
-<ab type="dharani">「􄖩曩􄗰莫入􄙺三􄗯滿􄕗多􄙖跋􄩶捺囉二合、引􄗱野􄙞冒引<lb
+<ab type='dharani'>「􄖩曩􄗰莫入􄙺三􄗯滿􄕗多􄙖跋􄩶捺囉二合、引􄗱野􄙞冒引<lb
  n="0892c02" ed="T"/><lb
  n="0892c03" ed="T"/>􄕽地􄙺薩􄽚怛嚩二合、引􄗱野􄗥麼􄚩賀引􄙺薩􄽚怛嚩二合、引<lb
  n="0892c04" ed="T"/><lb
@@ -791,7 +791,7 @@
  n="0892c10" ed="T"/><lb
  n="0892c11" ed="T"/>是時世尊，如是三說此寶光總持祕密微妙<lb
  n="0892c12" ed="T"/>最上甚深廣大法寶。</ab>
-<ab type="prose">是時，普賢菩薩摩訶薩<lb
+<ab type='prose'>是時，普賢菩薩摩訶薩<lb
  n="0892c13" ed="T"/>白佛言：「世尊！法與法者，是義云何？」佛言：「善男<lb
  n="0892c14" ed="T"/>子！無法即法，即一切義，即無性義，一切法義即<lb
  n="0892c15" ed="T"/>等虛空義，一切法即無數義，無數義即一切義，<lb
@@ -809,15 +809,15 @@
  n="0892c27" ed="T"/>應執著，受持觀察故，智慧決了，應如是住，分<lb
  n="0892c28" ed="T"/>別解說。善男子！此寶光總持觀法自性義故。」<lb
  n="0892c29" ed="T"/>
-</ab><ab type="juan" subtype="close">大方廣總持寶光明經卷第二</ab><pb n="0893a" ed="T" id="T10.0299.0893a"/><lb
+</ab><ab type='juan' subtype='close'>大方廣總持寶光明經卷第二</ab><pb n="0893a" ed="T" id="T10.0299.0893a"/><lb
  n="0893a01" ed="T"/><lb
  n="0893a02" ed="T"/>
-<ab type="juan" subtype="open">大方廣總持寶光明經卷第三</ab><lb
+<ab type='juan' subtype='open'>大方廣總持寶光明經卷第三</ab><lb
  n="0893a03" ed="T"/><lb
  n="0893a04" ed="T"/><byline>西天中印度摩伽陀國那爛陀寺<lb
  n="0893a05" ed="T"/>傳教大師三藏賜紫沙門臣法天<lb
  n="0893a06" ed="T"/>奉　詔譯</byline><lb
- n="0893a07" ed="T"/><ab type="prose">是時，尊者舍利弗白妙吉祥童子言：「善男子！<lb
+ n="0893a07" ed="T"/><ab type='prose'>是時，尊者舍利弗白妙吉祥童子言：「善男子！<lb
  n="0893a08" ed="T"/>如此妙法住世幾何？」妙吉祥言：「舍利弗！如此<lb
  n="0893a09" ed="T"/>三毒貪、瞋、癡故。」舍利弗言：「善男子！此貪、瞋、癡<lb
  n="0893a10" ed="T"/>住當幾何？」妙吉祥言：「舍利弗！此三毒住，由如<lb
@@ -981,11 +981,11 @@
  n="0894c23" ed="T"/>尊讚普賢菩薩摩訶薩言：「善哉，善哉！善男子！<lb
  n="0894c24" ed="T"/>汝今善說。」爾時世尊以梵音聲，重說偈言：<lb
  n="0894c25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「令他安樂心悲愍，　　悉能隨順諸眾生，　　<lb
  n="0894c26" ed="T"/>三業清淨善稱揚，　　無等功德真實寶。」　　
 </ab><lb
- n="0894c27" ed="T"/><ab type="prose">是時普賢菩薩摩訶薩，白佛言：「世尊！菩薩摩<lb
+ n="0894c27" ed="T"/><ab type='prose'>是時普賢菩薩摩訶薩，白佛言：「世尊！菩薩摩<lb
  n="0894c28" ed="T"/>訶薩云何當得此寶光總持法故？」佛言：「善男<lb
  n="0894c29" ed="T"/>子！菩薩摩訶薩於寶光總持，當行一法。云何<pb n="0895a" ed="T" id="T10.0299.0895a"/><lb
  n="0895a01" ed="T"/>為一法？謂於一切眾生不起殺意，令得安樂。<lb
@@ -1083,7 +1083,7 @@
  n="0896a06" ed="T"/>所須，我皆供給，令法久住。」爾時世尊為普賢<lb
  n="0896a07" ed="T"/>等九十二俱胝菩薩，而說偈言：<lb
  n="0896a08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「諦聽一切妙語言，　　最聖功德超彼岸，　　<lb
  n="0896a09" ed="T"/>欺誑兇險皆棄捨，　　一心專意樂諦聽。　　<lb
  n="0896a10" ed="T"/>聞佛摩竭提國中，　　菩提大樹仁師子，　　<lb
@@ -1158,15 +1158,15 @@
  n="0896c21" ed="T"/>若常解脫妙相應，　　彼發心意皆清淨。　　
 </ab><lb
  n="0896c22" ed="T"/>
-<ab type="juan" subtype="close">大方廣總持寶光明經卷第三</ab><pb n="0897a" ed="T" id="T10.0299.0897a"/><lb
+<ab type='juan' subtype='close'>大方廣總持寶光明經卷第三</ab><pb n="0897a" ed="T" id="T10.0299.0897a"/><lb
  n="0897a01" ed="T"/><lb
  n="0897a02" ed="T"/>
-<ab type="juan" subtype="open">大方廣總持寶光明經卷第四</ab><lb
+<ab type='juan' subtype='open'>大方廣總持寶光明經卷第四</ab><lb
  n="0897a03" ed="T"/><lb
  n="0897a04" ed="T"/><byline>西天中印度摩伽陀國那爛陀寺<lb
  n="0897a05" ed="T"/>傳教大師三藏賜紫沙門臣法天<lb
  n="0897a06" ed="T"/>奉　詔譯</byline><lb
- n="0897a07" ed="T"/><ab type="verse">
+ n="0897a07" ed="T"/><ab type='verse'>
 「若得發心淨覺意，　　彼說最上最殊勝，　　<lb
  n="0897a08" ed="T"/>若得最上殊勝已，　　常行波羅蜜多行。　　<lb
  n="0897a09" ed="T"/>若行波羅蜜多行，　　則能隨順此大乘，　　<lb
@@ -1528,16 +1528,16 @@
  n="0901a17" ed="T"/>眾多佛塔我盡塗，　　是故放此塗香光。　　
 </ab><lb
  n="0901a18" ed="T"/>
-<ab type="juan" subtype="close">大方廣總持寶光明經卷第四</ab><lb
+<ab type='juan' subtype='close'>大方廣總持寶光明經卷第四</ab><lb
  n="0901a19" ed="T"/><lb
  n="0901a20" ed="T"/><lb
  n="0901a21" ed="T"/>
-<ab type="juan" subtype="open">大方廣總持寶光明經卷第五</ab><lb
+<ab type='juan' subtype='open'>大方廣總持寶光明經卷第五</ab><lb
  n="0901a22" ed="T"/><lb
  n="0901a23" ed="T"/><byline>西天中印度摩伽陀國那爛陀寺<lb
  n="0901a24" ed="T"/>傳教大師三藏賜紫沙門臣法天<lb
  n="0901a25" ed="T"/>奉　詔譯</byline><lb
- n="0901a26" ed="T"/><ab type="verse">
+ n="0901a26" ed="T"/><ab type='verse'>
 「又放光明種種嚴，　　種種幢幡及傘蓋，　　<lb
  n="0901a27" ed="T"/>作諸妓樂及眾香，　　嚴持上妙雜花香，　　<lb
  n="0901a28" ed="T"/>如是種種供養佛，　　花香燒香及粖香，　　<lb
@@ -1861,7 +1861,7 @@
  n="0904c27" ed="T"/>汝等應當廣流布，　　勿令此法而斷絕，　　<lb
  n="0904c28" ed="T"/>世尊佛說此伽他，　　說已默然而寂住。」　　
 </ab><lb
- n="0904c29" ed="T"/><ab type="prose">爾時三千大千世界，一切諸天及諸人民海<pb n="0905a" ed="T" id="T10.0299.0905a"/><lb
+ n="0904c29" ed="T"/><ab type='prose'>爾時三千大千世界，一切諸天及諸人民海<pb n="0905a" ed="T" id="T10.0299.0905a"/><lb
  n="0905a01" ed="T"/>會聖眾，同作是言：「此是如來第二會轉此法<lb
  n="0905a02" ed="T"/>輪，讚言善哉！善說世尊，希有，希有！我等過<lb
  n="0905a03" ed="T"/>去未曾聞，說如是正法。若有眾生，聞此正法，<lb
@@ -1882,5 +1882,5 @@
  n="0905a18" ed="T"/>等，諸大聲聞，天、人、阿修羅、乾達嚩等，聞佛所<lb
  n="0905a19" ed="T"/>說，皆大歡喜，頂禮而去。<lb
  n="0905a20" ed="T"/>
-</ab><ab type="juan" subtype="close">大方廣總持寶光明經卷第五</ab></div>
+</ab><ab type='juan' subtype='close'>大方廣總持寶光明經卷第五</ab></div>
 </body></text></TEI>

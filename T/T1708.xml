@@ -1089,7 +1089,7 @@
 </ab><ab type='juan' subtype='close'>仁王經疏卷上</ab><pb n="0371b" id="T33.1708.0371b" ed="T"/><lb
  n="0371b01" ed="T"/><lb
  n="0371b02" ed="T"/>
-<ab type='juan'>仁王經疏上卷</ab><lb
+<ab type='juan' subtype='open'>仁王經疏上卷</ab><lb
  n="0371b03" ed="T"/><lb
  n="0371b04" ed="T"/><byline>西明寺沙門圓測撰</byline><lb
  n="0371b05" ed="T"/><ab type='prose'>經。皆行阿羅漢十地。釋曰。第二辨其行位。<lb
@@ -3811,7 +3811,7 @@
 <ab type='juan' subtype='close'>仁王經疏中卷</ab><pb n="0402c" id="T33.1708.0402c" ed="T"/><lb
  n="0402c01" ed="T"/><lb
  n="0402c02" ed="T"/>
-<ab type='juan'>仁王經疏卷中</ab><lb
+<ab type='juan' subtype='open'>仁王經疏卷中</ab><lb
  n="0402c03" ed="T"/><lb
  n="0402c04" ed="T"/><byline>西明寺沙門圓測撰</byline><lb
  n="0402c05" ed="T"/><div type='pin' level='2'><head>二諦品第四</head><lb
@@ -4240,7 +4240,7 @@
  n="0407b21" ed="T"/><lb
  n="0407b22" ed="T"/><div type='w' level='2'><ab type='prose'>元久二年朱明四月十日書寫了。<lb
  n="0407b23" ed="T"/>　　　同月十一日交點已了。<lb
- n="0407b24" ed="T"/>　　　　　　　　　　　傳領󱆑海<lb
+ n="0407b24" ed="T"/>　　　　　　　　　　　傳領𮠡海<lb
  n="0407b25" ed="T"/>　　　　　　　　　　　傳領覺聽<lb
  n="0407b26" ed="T"/>　　　　　唐招提寺五室住侶宗祐</ab></div><pb n="0407c" id="T33.1708.0407c" ed="T"/><lb
  n="0407c01" ed="T"/><lb
@@ -4309,8 +4309,8 @@
  n="0408b05" ed="T"/>噵三衣。折分十物。訓什為離。臆斷斯甚。十三<lb
  n="0408b06" ed="T"/>資具益兼中下。言十三資具者。一僧伽梨。<lb
  n="0408b07" ed="T"/>二嗢呾囉僧伽。三安呾婆娑。四尼殺憚娜。五<lb
- n="0408b08" ed="T"/>泥代珊娜。六副泥代珊娜。七僧劫󱅬迦。<lb
- n="0408b09" ed="T"/>八副僧脚󱅬迦。九勃里沙奢知迦。十迦<lb
+ n="0408b08" ed="T"/>泥代珊娜。六副泥代珊娜。七僧劫𮧸迦。<lb
+ n="0408b09" ed="T"/>八副僧脚𮧸迦。九勃里沙奢知迦。十迦<lb
  n="0408b10" ed="T"/>耶褒折娜。十一日佉褒折娜。十二雞<lb
  n="0408b11" ed="T"/>舍鉢喇底揭喇呵。十三揵豆鉢底<lb
  n="0408b12" ed="T"/>車憚娜。攝頌曰。三衣兼坐具。裙兩帔有<lb
@@ -4823,7 +4823,7 @@
 <ab type='juan' subtype='close'>仁王經疏卷下</ab><pb n="0414b" id="T33.1708.0414b" ed="T"/><lb
  n="0414b01" ed="T"/><lb
  n="0414b02" ed="T"/>
-<ab type='juan'>仁王經疏卷下</ab><lb
+<ab type='juan' subtype='open'>仁王經疏卷下</ab><lb
  n="0414b03" ed="T"/><lb
  n="0414b04" ed="T"/><byline>大慈恩寺沙門圓測撰</byline><lb
  n="0414b05" ed="T"/><div type='pin' level='2'><head>受持品第七</head><lb
@@ -5778,7 +5778,7 @@
  n="0425a27" ed="T"/>經。復有現成正覺。釋曰。第二十億菩薩現<lb
  n="0425a28" ed="T"/>成佛益。謂此皆是第十地菩薩。聞經力故。登<lb
  n="0425a29" ed="T"/>金剛座。坐金剛定。現成佛故。</ab></div><pb n="0425b" id="T33.1708.0425b" ed="T"/><lb
- n="0425b01" ed="T"/><div type='pin' level='2'><head>囑累品第八</head><ab type='prose'>將釋此品。略有二義。一釋<lb
+ n="0425b01" ed="T"/><div type='pin' level='2'><ab type='prose'><head>囑累品第八</head>將釋此品。略有二義。一釋<lb
  n="0425b02" ed="T"/>品名。二正釋文。釋品名者。囑謂付囑。累即重<lb
  n="0425b03" ed="T"/>累。如來重付囑此經。累代流行。故名囑累<lb
  n="0425b04" ed="T"/>品。<lb

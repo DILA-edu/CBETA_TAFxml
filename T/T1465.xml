@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T24</biblScope>
                     <idno type="Taisho">T24n1465</idno>
                 </bibl>
@@ -43,10 +43,10 @@
  n="0899c05" ed="T"/><lb
  n="0899c06" ed="T"/><lb
  n="0899c07" ed="T"/>
-<ab type="juan" subtype="open">舍利弗問經</ab><lb
+<ab type='juan' subtype='open'>舍利弗問經</ab><lb
  n="0899c08" ed="T"/><lb
  n="0899c09" ed="T"/><byline>附東晉錄</byline><lb
- n="0899c10" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時佛住羅閱祇音樂樹下，與大<lb
+ n="0899c10" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時佛住羅閱祇音樂樹下，與大<lb
  n="0899c11" ed="T"/>比丘眾一千二百五十人俱，名聞十方結盡<lb
  n="0899c12" ed="T"/>解脫；八部鬼神等願聞法要。<lb
  n="0899c13" ed="T"/>舍利弗從座而起，前白佛言：「世尊！佛是法王，<lb
@@ -73,7 +73,7 @@
  n="0900a12" ed="T"/>迦葉等當共分別，為比丘、比丘尼作大依止，<lb
  n="0900a13" ed="T"/>如我不異。迦葉傳付阿難，阿難復付末田地，<lb
  n="0900a14" ed="T"/>末田地復付舍那婆私，舍那婆私傳付優<lb
- n="0900a15" ed="T"/>波笈多。優婆笈多後，有孔雀輸柯王，世弘<lb
+ n="0900a15" ed="T"/>波笈多。優波笈多後，有孔雀輸柯王，世弘<lb
  n="0900a16" ed="T"/>經律，其孫名曰弗沙蜜多羅，嗣正王位顧問<lb
  n="0900a17" ed="T"/>群臣：『云何令我名事不滅？』時有臣言：『唯有二<lb
  n="0900a18" ed="T"/>事。何等為二？猶如先王造八萬四千塔，捨傾<lb
@@ -90,8 +90,8 @@
  n="0900a29" ed="T"/>何不可？』因遂害之無問少長，血流成川；壞諸<pb n="0900b" ed="T" id="T24.1465.0900b"/><lb
  n="0900b01" ed="T"/>寺塔八百餘所。諸清信士舉聲號叫悲哭懊<lb
  n="0900b02" ed="T"/>惱，王取囚繫加其鞭罰。五百羅漢登南山獲<lb
- n="0900b03" ed="T"/>免，山谷隱險軍甲不能至故。王恐不洗，賞慕<lb
- n="0900b04" ed="T"/>諸國，若得一首即償金錢三千。君徒鉢歎阿<lb
+ n="0900b03" ed="T"/>免，山谷隱險軍甲不能至故。王恐不洗，賞募<lb
+ n="0900b04" ed="T"/>諸國，若得一首即賞金錢三千。君徒鉢歎阿<lb
  n="0900b05" ed="T"/>羅漢，及佛所囑累流通人，化作無量人，捉無<lb
  n="0900b06" ed="T"/>量比丘、比丘尼頭，處處受金。王諸庫藏一切<lb
  n="0900b07" ed="T"/>空竭。王益忿怒，君徒鉢歎現身入滅盡定，<lb
@@ -175,7 +175,7 @@
  n="0901a27" ed="T"/>如來所許。』為乞得酒，服已消差。差已懷慚，猶<lb
  n="0901a28" ed="T"/>謂犯律，往至佛所慇懃悔過。佛為說法，聞<lb
  n="0901a29" ed="T"/>已歡喜得羅漢道。」佛言：「酒有多失，開放逸門。<pb n="0901b" ed="T" id="T24.1465.0901b"/><lb
- n="0901b01" ed="T"/>飲如葶藶子，犯罪已積。若消病、若非先所<lb
+ n="0901b01" ed="T"/>飲如葶藶子，犯罪已積。若消病苦非先所<lb
  n="0901b02" ed="T"/>斷。」舍利弗又白佛言：「云何如來常言不得殺<lb
  n="0901b03" ed="T"/>眾生乃至蟻子。而以臘月八日，於舍衛國長<lb
  n="0901b04" ed="T"/>水河邊，與輸麗外道捔術，先逼以神通力<lb
@@ -330,5 +330,5 @@
  n="0903a08" ed="T"/>根成立、法眼清淨。舊德、天人八部等，皆大歡<lb
  n="0903a09" ed="T"/>喜，作禮而去。</ab></div><lb
  n="0903a10" ed="T"/>
-<ab type="juan" subtype="close">舍利弗問經</ab>
+<ab type='juan' subtype='close'>舍利弗問經</ab>
 </body></text></TEI>

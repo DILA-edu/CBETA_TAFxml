@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T10</biblScope>
                     <idno type="Taisho">T10n0303</idno>
                 </bibl>
@@ -42,13 +42,13 @@
         <body><lb
  n="0917b19" ed="T"/><lb
  n="0917b20" ed="T"/><lb
- n="0917b21" ed="T"/><div type="jing" level="1"><lb
+ n="0917b21" ed="T"/><div type='jing' level='1'><lb
  n="0917b22" ed="T"/>
-<ab type="juan" subtype="open">佛華嚴入如來德智不思議境界<lb
+<ab type='juan' subtype='open'>佛華嚴入如來德智不思議境界<lb
  n="0917b23" ed="T"/>經卷上</ab><lb
  n="0917b24" ed="T"/><lb
  n="0917b25" ed="T"/><byline>隋天竺三藏闍那崛多譯</byline><lb
- n="0917b26" ed="T"/><ab type="prose">如是我聞：一時婆伽婆，遊摩伽陀國法阿蘭<lb
+ n="0917b26" ed="T"/><ab type='prose'>如是我聞：一時婆伽婆，遊摩伽陀國法阿蘭<lb
  n="0917b27" ed="T"/>拏處菩提場上普光堂中；大福聚集，妙喜所<lb
  n="0917b28" ed="T"/>生，普無毀處，功德無量，蓮華藏師子座中<lb
  n="0917b29" ed="T"/>坐，平等證覺、善淨覺者、無有二行、遊佛<pb n="0917c" ed="T" id="T10.0303.0917c"/><lb
@@ -308,14 +308,14 @@
  n="0920b25" ed="T"/>分別，故此如是色事轉，以不共法故，如是，如<lb
  n="0920b26" ed="T"/>是。<lb
  n="0920b27" ed="T"/>
-</ab><ab type="juan" subtype="close">佛華嚴入如來德智不思議境界經卷上</ab><pb n="0920c" ed="T" id="T10.0303.0920c"/><lb
+</ab><ab type='juan' subtype='close'>佛華嚴入如來德智不思議境界經卷上</ab><pb n="0920c" ed="T" id="T10.0303.0920c"/><lb
  n="0920c01" ed="T"/><lb
  n="0920c02" ed="T"/>
-<ab type="juan" subtype="open">佛華嚴入如來德智不思議境界<lb
+<ab type='juan' subtype='open'>佛華嚴入如來德智不思議境界<lb
  n="0920c03" ed="T"/>經卷下</ab><lb
  n="0920c04" ed="T"/><lb
  n="0920c05" ed="T"/><byline>隋天竺三藏闍那崛多譯</byline><lb
- n="0920c06" ed="T"/><ab type="prose">「曼殊尸利！如來、應、正遍知，在於眾中，彼諸<lb
+ n="0920c06" ed="T"/><ab type='prose'>「曼殊尸利！如來、應、正遍知，在於眾中，彼諸<lb
  n="0920c07" ed="T"/>眾生，皆見如來在其前住；如來亦無分別無<lb
  n="0920c08" ed="T"/>異分別，如是我於眾生前住，欲令眾生知我<lb
  n="0920c09" ed="T"/>如來在其前住，然隨所化度眾生，彼知如來<lb
@@ -631,5 +631,5 @@
  n="0924a29" ed="T"/>彼諸比丘，及諸菩薩，天人、阿修羅、揵闥婆<pb n="0924b" ed="T" id="T10.0303.0924b"/><lb
  n="0924b01" ed="T"/>等世，於佛所說，歡喜奉行。<lb
  n="0924b02" ed="T"/>
-</ab><ab type="juan" subtype="close">入如來德智不思議境界經卷下</ab></div>
+</ab><ab type='juan' subtype='close'>入如來德智不思議境界經卷下</ab></div>
 </body></text></TEI>

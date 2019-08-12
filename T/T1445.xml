@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T23</biblScope>
                     <idno type="Taisho">T23n1445</idno>
                 </bibl>
@@ -44,11 +44,11 @@
  n="1041a23" ed="T"/><lb
  n="1041a24" ed="T"/><lb
  n="1041a25" ed="T"/>
-<ab type="juan" subtype="open">根本說一切有部毘奈耶安居事<lb
+<ab type='juan' subtype='open'>根本說一切有部毘奈耶安居事<lb
  n="1041a26" ed="T"/>一卷</ab><lb
  n="1041a27" ed="T"/><lb
  n="1041a28" ed="T"/><byline>大唐三藏義淨奉　制譯</byline><lb
- n="1041a29" ed="T"/><div type="jing" level="1"><ab type="prose">佛在室羅伐城逝多林給孤獨園。爾時世尊<pb n="1041b" ed="T" id="T23.1445.1041b"/><lb
+ n="1041a29" ed="T"/><div type='jing' level='1'><ab type='prose'>佛在室羅伐城逝多林給孤獨園。爾時世尊<pb n="1041b" ed="T" id="T23.1445.1041b"/><lb
  n="1041b01" ed="T"/>與諸苾芻，於此住處三月雨安居。時有眾多<lb
  n="1041b02" ed="T"/>苾芻，於其夏中，遂向餘處人間遊行，不善護<lb
  n="1041b03" ed="T"/>身，傷殺虫蟻。時諸外道，咸起譏嫌，作如是<lb
@@ -137,7 +137,7 @@
  n="1042a28" ed="T"/>界內，前三月夏安居。以某甲為施主，某甲為<lb
  n="1042a29" ed="T"/>營事人，某甲為瞻病人，於此住處，乃至若有<pb n="1042b" ed="T" id="T23.1445.1042b"/><lb
  n="1042b01" ed="T"/>圮裂穿壞，當修補之。我於今夏，在此安居。』第<lb
- n="1042b02" ed="T"/>二、第三亦如是說。所對苾芻，應云：『奧算迦。』答<lb
+ n="1042b02" ed="T"/>二、第三亦如是說。所對苾芻，應云：『奧箄迦。』答<lb
  n="1042b03" ed="T"/>云：『娑度。』若有因緣，不及前安居者，聽作後安<lb
  n="1042b04" ed="T"/>居，准前應作。既安居已，不應出界宿。若有因<lb
  n="1042b05" ed="T"/>緣，須出去者，不應經宿。」時眾村中，有一長<lb
@@ -165,7 +165,7 @@
  n="1042b27" ed="T"/>延，其家巨富，以深信心，作其福業，多持飲食<lb
  n="1042b28" ed="T"/>及以衣服而來惠施，為此豐足。」時彼苾芻即<lb
  n="1042b29" ed="T"/>作是言：「然彼長者亦曾來請。又問彼云：『去此<pb n="1042c" ed="T" id="T23.1445.1042c"/><lb
- n="1042c01" ed="T"/>幾許？』答曰：『三踰󰜌那。』作是念言：『若去至彼，<lb
+ n="1042c01" ed="T"/>幾許？』答曰：『三踰繕那。』作是念言：『若去至彼，<lb
  n="1042c02" ed="T"/>恐夜不來。世尊不聽於安居內界外而宿。』即<lb
  n="1042c03" ed="T"/>便不去。」時諸苾芻以緣白佛，佛作是念：「我<lb
  n="1042c04" ed="T"/>之聲聞弟子，雖於衣食無貪著心，然欲令彼<lb
@@ -211,7 +211,7 @@
  n="1043a15" ed="T"/>來請苾芻，白言：『我病恐畏命盡，供養僧伽。』有<lb
  n="1043a16" ed="T"/>如是事。」佛言：「得受持七日法去。是名鄔波索<lb
  n="1043a17" ed="T"/>迦事。<lb
- n="1043a18" ed="T"/>「云何鄔波斯迦事？廣如鄔婆索迦事。<lb
+ n="1043a18" ed="T"/>「云何鄔波斯迦事？廣如鄔波索迦事。<lb
  n="1043a19" ed="T"/>「云何苾芻事？如有苾芻，剏造住處及園林，施<lb
  n="1043a20" ed="T"/>四方僧伽。因為慶讚，設諸飲食，并施衣服，供<lb
  n="1043a21" ed="T"/>養僧伽。令使請喚苾芻就時，諸苾芻應受持<lb
@@ -232,7 +232,7 @@
  n="1043b07" ed="T"/>名苾芻緣。<lb
  n="1043b08" ed="T"/>「云何苾芻尼等緣？一同苾芻，於中別者，供養<lb
  n="1043b09" ed="T"/>苾芻僧伽，或供養法、或時施物，并學佛法及<lb
- n="1043b10" ed="T"/>式叉麾拏女欲受近圓，來請苾芻及苾芻尼：<lb
+ n="1043b10" ed="T"/>式叉摩拏女欲受近圓，來請苾芻及苾芻尼：<lb
  n="1043b11" ed="T"/>『願來與我授其近圓。』是時二眾應受持七日<lb
  n="1043b12" ed="T"/>法去。是名苾芻尼、式叉摩拏等緣。<lb
  n="1043b13" ed="T"/>「云何名求寂緣？一同前法。「云何求寂女緣？餘<lb
@@ -345,5 +345,5 @@
  n="1044c04" ed="T"/>法，與後安居法不異，並准前安居作。唯言後<lb
  n="1044c05" ed="T"/>三月為異，餘如百一羯磨中廣說。<lb
  n="1044c06" ed="T"/>
-</ab><ab type="juan" subtype="close">根本說一切有部毘奈耶安居事一卷</ab></div>
+</ab><ab type='juan' subtype='close'>根本說一切有部毘奈耶安居事一卷</ab></div>
 </body></text></TEI>

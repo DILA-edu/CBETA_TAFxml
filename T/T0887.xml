@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T18</biblScope>
                     <idno type="Taisho">T18n0887</idno>
                 </bibl>
@@ -39,20 +39,20 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0514b03" ed="T"/><lb
  n="0514b04" ed="T"/><lb
  n="0514b05" ed="T"/><lb
  n="0514b06" ed="T"/><lb
  n="0514b07" ed="T"/>
-<ab type="juan" subtype="open">佛說無二平等最上瑜伽大教王<lb
+<ab type='juan' subtype='open'>佛說無二平等最上瑜伽大教王<lb
  n="0514b08" ed="T"/>經卷第一</ab><lb
  n="0514b09" ed="T"/><lb
  n="0514b10" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0514b11" ed="T"/>傳法大師賜紫臣施護奉　詔譯</byline><lb
- n="0514b12" ed="T"/><div type="fen" level="2"><head>無二平等最勝大儀軌王影像分第一</head><lb
- n="0514b13" ed="T"/><ab type="prose">如是我聞。一時世尊。在他化自在天宮。與九<lb
+ n="0514b12" ed="T"/><div type='fen' level='2'><head>無二平等最勝大儀軌王影像分第一</head><lb
+ n="0514b13" ed="T"/><ab type='prose'>如是我聞。一時世尊。在他化自在天宮。與九<lb
  n="0514b14" ed="T"/>十九須彌山量微塵數菩薩摩訶薩眾俱。此<lb
  n="0514b15" ed="T"/>諸菩薩一一皆是金剛薩埵金剛眷屬。其名曰<lb
  n="0514b16" ed="T"/>金剛手菩薩摩訶薩。普賢菩薩摩訶薩。觀自<lb
@@ -81,11 +81,11 @@
  n="0514c10" ed="T"/>如來。既於會中不見金剛手菩薩。即時異口<lb
  n="0514c11" ed="T"/>同音說伽陀曰。<lb
  n="0514c12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 大哉金剛手　　如我等父母　　<lb
  n="0514c13" ed="T"/>不現此會中　　大士今何往　　
 </ab><lb
- n="0514c14" ed="T"/><ab type="prose">彼諸如來作是說已。各各於其大金剛寶加<lb
+ n="0514c14" ed="T"/><ab type='prose'>彼諸如來作是說已。各各於其大金剛寶加<lb
  n="0514c15" ed="T"/>持法中。默然而住。<lb
  n="0514c16" ed="T"/>爾時金剛手大執金剛者。即從一切如來五<lb
  n="0514c17" ed="T"/>處而出。以自身相現大毘盧遮那佛相。復從<lb
@@ -96,13 +96,13 @@
  n="0514c22" ed="T"/>爾時所集一切如來。即時各各向金剛手菩<lb
  n="0514c23" ed="T"/>薩。合掌頂禮勸請說法。說伽陀曰。<lb
  n="0514c24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 善哉金剛最上法　　善哉金剛清淨眼　　<lb
  n="0514c25" ed="T"/>善哉金剛最勝智　　普攝諸佛一切智　　<lb
  n="0514c26" ed="T"/>我等勸請金剛手　　普為諸佛作利樂　　<lb
  n="0514c27" ed="T"/>宣說自他智所生　　最上大乘祕密法　　
 </ab><lb
- n="0514c28" ed="T"/><ab type="prose">爾時金剛手大執金剛者。白諸如來言。諸佛<lb
+ n="0514c28" ed="T"/><ab type='prose'>爾時金剛手大執金剛者。白諸如來言。諸佛<lb
  n="0514c29" ed="T"/>如來不應勸請。令我宣說祕密法門。諸如來<pb n="0515a" id="T18.0887.0515a" ed="T"/><lb
  n="0515a01" ed="T"/>言何因緣故而汝不說。金剛手言諸佛當知。<lb
  n="0515a02" ed="T"/>今此大會諸菩薩摩訶薩眾中。或有聞說如<lb
@@ -133,7 +133,7 @@
  n="0515a27" ed="T"/>自三摩地。從是三摩地出己。宣說智部三摩<lb
  n="0515a28" ed="T"/>地法門。<lb
  n="0515a29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 當住禪定心　　觀清淨乳海　　<pb n="0515b" id="T18.0887.0515b" ed="T"/><lb
  n="0515b01" ed="T"/>中有大蓮華　　如水精月光　　<lb
  n="0515b02" ed="T"/>觀自心種子　　與自法相應　　<lb
@@ -147,10 +147,10 @@
  n="0515b10" ed="T"/>如是觀想已　　成就曼拏羅　　<lb
  n="0515b11" ed="T"/>次依智部儀　　大明如是稱　　
 </ab><lb
- n="0515b12" ed="T"/><ab type="dharani">唵薩哩嚩怛他誐多倪也那莎<lb
+ n="0515b12" ed="T"/><ab type='dharani'>唵薩哩嚩怛他誐多倪也那莎<lb
  n="0515b13" ed="T"/>婆嚩怛摩酤㰠<lb
  n="0515b14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 大明所用印　　並依智部儀　　<lb
  n="0515b15" ed="T"/>而此大明力　　能滅一切罪　　<lb
  n="0515b16" ed="T"/>觀想有百千　　無垢最上光　　<lb
@@ -158,9 +158,9 @@
  n="0515b18" ed="T"/>微妙白淨光　　依法想安布　　<lb
  n="0515b19" ed="T"/>所作依此說　　異此非觀想　　
 </ab><lb
- n="0515b20" ed="T"/><ab type="prose">此名一切如來金剛灌頂法門。<lb
+ n="0515b20" ed="T"/><ab type='prose'>此名一切如來金剛灌頂法門。<lb
  n="0515b21" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 住自心堅固　　出相應光明　　<lb
  n="0515b22" ed="T"/>觀想佛影像　　及金剛手相　　<lb
  n="0515b23" ed="T"/>諸求悉地者　　依金剛手法　　<lb
@@ -174,17 +174,17 @@
  n="0515c02" ed="T"/>自影像佛相　　智者五處觀　　<lb
  n="0515c03" ed="T"/>依相應法門　　想金剛薩埵　　
 </ab><lb
- n="0515c04" ed="T"/><ab type="prose">此名一切如來主法門。<lb
+ n="0515c04" ed="T"/><ab type='prose'>此名一切如來主法門。<lb
  n="0515c05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 想自心大明　　出焰鬘部光　　<lb
  n="0515c06" ed="T"/>中現金剛杵　　摧破一切惡　　<lb
  n="0515c07" ed="T"/>自心心所作　　想成菩提心　　<lb
  n="0515c08" ed="T"/>出現五光明　　供養一切佛　　
 </ab><lb
- n="0515c09" ed="T"/><ab type="prose">此復名一切如來主法門。<lb
+ n="0515c09" ed="T"/><ab type='prose'>此復名一切如來主法門。<lb
  n="0515c10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 觀五曼拏羅　　周匝焰光明　　<lb
  n="0515c11" ed="T"/>普遍佛影像　　想大明成就　　<lb
  n="0515c12" ed="T"/>定心觀自身　　離取相分別　　<lb
@@ -218,9 +218,9 @@
  n="0516a11" ed="T"/>若如是相應　　四印曼拏羅　　<lb
  n="0516a12" ed="T"/>即如是觀想　　彼諸佛影像　　
 </ab><lb
- n="0516a13" ed="T"/><ab type="prose">此名金剛手菩薩法王法門。<lb
+ n="0516a13" ed="T"/><ab type='prose'>此名金剛手菩薩法王法門。<lb
  n="0516a14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 觀一切儀軌　　想蓮華相應　　<lb
  n="0516a15" ed="T"/>攝觀想等法　　異此非相應　　<lb
  n="0516a16" ed="T"/>當觀想自身　　善住堅固心　　<lb
@@ -230,7 +230,7 @@
  n="0516a20" ed="T"/>若依法觀想　　能滿一切願　　<lb
  n="0516a21" ed="T"/>想金剛薩埵　　是名金剛法　　
 </ab><lb
- n="0516a22" ed="T"/><ab type="prose">此名普賢持金剛法門。<lb
+ n="0516a22" ed="T"/><ab type='prose'>此名普賢持金剛法門。<lb
  n="0516a23" ed="T"/>爾時普賢菩薩摩訶薩。觀察眾會。即雨一切菩<lb
  n="0516a24" ed="T"/>薩供養雲海。滿虛空界。供養金剛手大執金剛<lb
  n="0516a25" ed="T"/>者。作供養已。又復至誠頂禮歸命依法而住。<lb
@@ -243,7 +243,7 @@
  n="0516b03" ed="T"/>那佛相。即說一切如來三昧真實智部三摩<lb
  n="0516b04" ed="T"/>地法門。<lb
  n="0516b05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 知法者了知　　彼一切所作　　<lb
  n="0516b06" ed="T"/>禪定相應相　　真實清淨法　　<lb
  n="0516b07" ed="T"/>想日曼拏羅　　最上千肘量　　<lb
@@ -272,31 +272,31 @@
  n="0516c01" ed="T"/>觀想一肘量　　妙月曼拏羅　　<lb
  n="0516c02" ed="T"/>中觀想自身　　金剛薩埵生　　
 </ab><lb
- n="0516c03" ed="T"/><ab type="prose">此名普賢智部最勝三摩地法門。<lb
+ n="0516c03" ed="T"/><ab type='prose'>此名普賢智部最勝三摩地法門。<lb
  n="0516c04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 當依法觀想　　日輪曼拏羅　　<lb
  n="0516c05" ed="T"/>想自身清淨　　現曼拏羅中　　<lb
  n="0516c06" ed="T"/>次於其四隅　　想毘盧遮那　　<lb
  n="0516c07" ed="T"/>後復想自身　　成金剛薩埵　　
 </ab><lb
- n="0516c08" ed="T"/><ab type="prose">此名金剛薩埵法門。<lb
+ n="0516c08" ed="T"/><ab type='prose'>此名金剛薩埵法門。<lb
  n="0516c09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 復次當依法　　分別十六尊　　<lb
  n="0516c10" ed="T"/>作四分觀想　　各依位而住　　<lb
  n="0516c11" ed="T"/>自餘諸賢聖　　各想心大明　　
 </ab><lb
- n="0516c12" ed="T"/><ab type="prose">此名持金剛法門。<lb
+ n="0516c12" ed="T"/><ab type='prose'>此名持金剛法門。<lb
  n="0516c13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 復次當依法　　觀想於自身　　<lb
  n="0516c14" ed="T"/>有微妙吽字　　左旋而住心　　<lb
  n="0516c15" ed="T"/>出現光明相　　能破諸魔惡　　
 </ab><lb
- n="0516c16" ed="T"/><ab type="prose">此復名一切如來主法門。<lb
+ n="0516c16" ed="T"/><ab type='prose'>此復名一切如來主法門。<lb
  n="0516c17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 復想剎那中　　出生諸賢聖　　<lb
  n="0516c18" ed="T"/>現影像光明　　普遍而照耀　　<lb
  n="0516c19" ed="T"/>諸有文字相　　其量廣無邊　　<lb
@@ -306,18 +306,18 @@
  n="0516c23" ed="T"/>從額至臍輪　　觀想大明字　　<lb
  n="0516c24" ed="T"/>此觀想相應　　一切觀無異　　
 </ab></div><lb
- n="0516c25" ed="T"/><div type="fen" level="2"><head>無二平等最勝大儀軌王智部三摩地分第二</head><lb
- n="0516c26" ed="T"/><ab type="prose">復次伽陀曰。<lb
+ n="0516c25" ed="T"/><div type='fen' level='2'><head>無二平等最勝大儀軌王智部三摩地分第二</head><lb
+ n="0516c26" ed="T"/><ab type='prose'>復次伽陀曰。<lb
  n="0516c27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 次想白色大蓮華　　量如車輪妙清淨　　<lb
  n="0516c28" ed="T"/>中有日輪曼拏羅　　依法相應而觀想　　<lb
  n="0516c29" ed="T"/>復想自身於中現　　羯磨金剛所出生　　<pb n="0517a" id="T18.0887.0517a" ed="T"/><lb
  n="0517a01" ed="T"/>即成羯磨金剛身　　金剛薩埵等無異　　
 </ab><lb
- n="0517a02" ed="T"/><ab type="prose">此名金剛薩埵法門。<lb
+ n="0517a02" ed="T"/><ab type='prose'>此名金剛薩埵法門。<lb
  n="0517a03" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 當觀清淨大乳海　　自身想現乳海中　　<lb
  n="0517a04" ed="T"/>智觀自身即佛身　　故現佛身滿空界　　<lb
  n="0517a05" ed="T"/>又觀清淨大乳海　　有種種色妙光明　　<lb
@@ -335,9 +335,9 @@
  n="0517a17" ed="T"/>如是依法而攝受　　自金剛法皆成就　　<lb
  n="0517a18" ed="T"/>普遍一切世界中　　如是供養一切佛　　
 </ab><lb
- n="0517a19" ed="T"/><ab type="prose">此名普賢祕密法門。<lb
+ n="0517a19" ed="T"/><ab type='prose'>此名普賢祕密法門。<lb
  n="0517a20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 又想日輪曼拏羅　　其量等一多羅樹　　<lb
  n="0517a21" ed="T"/>中想漸略大明字　　乃至一切相應生　　<lb
  n="0517a22" ed="T"/>堅固安住自影像　　然當觀想賢聖等　　<lb
@@ -345,9 +345,9 @@
  n="0517a24" ed="T"/>次想四印曼拏羅　　量各等七多羅樹　　<lb
  n="0517a25" ed="T"/>曼拏羅中諸賢聖　　各想心明字安布　　
 </ab><lb
- n="0517a26" ed="T"/><ab type="prose">此名金剛三昧法門。<lb
+ n="0517a26" ed="T"/><ab type='prose'>此名金剛三昧法門。<lb
  n="0517a27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 次當觀想曼拏羅　　其量等一俱盧舍　　<lb
  n="0517a28" ed="T"/>中想自身成佛身　　及彼佛眼菩薩等　　<lb
  n="0517a29" ed="T"/>一切皆從自心想　　大智所觀而成就　　<pb n="0517b" id="T18.0887.0517b" ed="T"/><lb
@@ -380,9 +380,9 @@
  n="0517b27" ed="T"/>以彼彼心大明字　　月曼拏羅中安布　　<lb
  n="0517b28" ed="T"/>金剛薩埵真實相　　遍入微妙光明中　　
 </ab><lb
- n="0517b29" ed="T"/><ab type="prose">此名持金剛法門。<pb n="0517c" id="T18.0887.0517c" ed="T"/><lb
+ n="0517b29" ed="T"/><ab type='prose'>此名持金剛法門。<pb n="0517c" id="T18.0887.0517c" ed="T"/><lb
  n="0517c01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 又想金剛薩埵生　　自心影像曼拏羅　　<lb
  n="0517c02" ed="T"/>是相如理觀相應　　異此而觀非成就　　<lb
  n="0517c03" ed="T"/>又想金剛薩埵生　　日輪曼拏羅中現　　<lb
@@ -392,9 +392,9 @@
  n="0517c07" ed="T"/>持誦乃至所作事　　一一住於禪定心　　<lb
  n="0517c08" ed="T"/>若如是修即成就　　彼持明者名最勝　　
 </ab><lb
- n="0517c09" ed="T"/><ab type="prose">此名一切如來三昧法門。<lb
+ n="0517c09" ed="T"/><ab type='prose'>此名一切如來三昧法門。<lb
  n="0517c10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 從自影像而出生　　本部法中諦觀想　　<lb
  n="0517c11" ed="T"/>由想自心依法住　　一切魔怨皆破散　　<lb
  n="0517c12" ed="T"/>此中如是求悉地　　諸觀想等依儀軌　　<lb
@@ -403,9 +403,9 @@
  n="0517c15" ed="T"/>彼所說相依法儀　　是名決定真實語　　<lb
  n="0517c16" ed="T"/>應當如是如理觀　　異此而觀非成就　　
 </ab><lb
- n="0517c17" ed="T"/><ab type="prose">此名一切如來普賢法門。<lb
+ n="0517c17" ed="T"/><ab type='prose'>此名一切如來普賢法門。<lb
  n="0517c18" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 想自影像曼拏羅　　中有熾盛大光明　　<lb
  n="0517c19" ed="T"/>其光廣照諸世界　　皆從真實智心現　　<lb
  n="0517c20" ed="T"/>自身復現蓮華中　　清淨光明所照耀　　<lb
@@ -415,9 +415,9 @@
  n="0517c24" ed="T"/>了知大明教出生　　當獲一切悉地法　　<lb
  n="0517c25" ed="T"/>是故大明最尊勝　　離大明教無有上　　
 </ab><lb
- n="0517c26" ed="T"/><ab type="prose">此名一切如來堅固勇猛法門。<lb
+ n="0517c26" ed="T"/><ab type='prose'>此名一切如來堅固勇猛法門。<lb
  n="0517c27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 當想日輪曼拏羅　　中現毘盧遮那佛　　<lb
  n="0517c28" ed="T"/>思念彼佛心大明　　彼明成就一切法　　<lb
  n="0517c29" ed="T"/>從此大明復出生　　希有最上祕密儀　　<pb n="0518a" id="T18.0887.0518a" ed="T"/><lb
@@ -426,26 +426,26 @@
  n="0518a03" ed="T"/>而彼出生依法儀　　想現廣大光明聚　　<lb
  n="0518a04" ed="T"/>具種種色甚微妙　　普照世界無邊量　　
 </ab><lb
- n="0518a05" ed="T"/><ab type="prose">此名一切如來三昧眼法門。</ab></div><lb
+ n="0518a05" ed="T"/><ab type='prose'>此名一切如來三昧眼法門。</ab></div><lb
  n="0518a06" ed="T"/>
-<ab type="juan" subtype="close">佛說無二平等最上瑜伽大教王經卷第一</ab><lb
+<ab type='juan' subtype='close'>佛說無二平等最上瑜伽大教王經卷第一</ab><lb
  n="0518a07" ed="T"/><lb
  n="0518a08" ed="T"/><lb
  n="0518a09" ed="T"/><lb
  n="0518a10" ed="T"/>
-<ab type="juan" subtype="open">佛說無二平等最上瑜伽大教王<lb
+<ab type='juan' subtype='open'>佛說無二平等最上瑜伽大教王<lb
  n="0518a11" ed="T"/>經卷第二</ab><lb
  n="0518a12" ed="T"/><lb
  n="0518a13" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0518a14" ed="T"/>傳法大師賜紫臣施護奉　詔譯</byline><lb
- n="0518a15" ed="T"/><div type="fen" level="2"><head>無二平等最勝大儀軌王真實攝部三摩地分<lb
+ n="0518a15" ed="T"/><div type='fen' level='2'><head>無二平等最勝大儀軌王真實攝部三摩地分<lb
  n="0518a16" ed="T"/>第三</head><lb
- n="0518a17" ed="T"/><ab type="prose">爾時金剛手菩薩大祕密主。復入一切如來<lb
+ n="0518a17" ed="T"/><ab type='prose'>爾時金剛手菩薩大祕密主。復入一切如來<lb
  n="0518a18" ed="T"/>妙月曼拏羅。而復以自身相。現大毘盧遮那<lb
  n="0518a19" ed="T"/>佛相。安住法界大曼拏羅中。如是安住已。還<lb
  n="0518a20" ed="T"/>復自相。說真實攝部三摩地法門。<lb
  n="0518a21" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 當想清淨大乳海　　最上四寶所莊嚴　　<lb
  n="0518a22" ed="T"/>優鉢羅華現海中　　諦心想彼大明字　　<lb
  n="0518a23" ed="T"/>智部曼拏羅相應　　此觀想法復最上　　<lb
@@ -453,12 +453,12 @@
  n="0518a25" ed="T"/>即彼光明遍一切　　想現金剛薩埵相　　<lb
  n="0518a26" ed="T"/>依法復觀自影像　　亦於光明中安住　　
 </ab><lb
- n="0518a27" ed="T"/><ab type="prose">此名攝部三昧金剛法門。本部大明曰。<lb
+ n="0518a27" ed="T"/><ab type='prose'>此名攝部三昧金剛法門。本部大明曰。<lb
  n="0518a28" ed="T"/></ab>
-<ab type="dharani">唵薩哩嚩怛他誐多僧屹囉賀<lb
+<ab type='dharani'>唵薩哩嚩怛他誐多僧屹囉賀<lb
  n="0518a29" ed="T"/>倪也那莎婆嚩怛摩酤㰠<pb n="0518b" id="T18.0887.0518b" ed="T"/><lb
  n="0518b01" ed="T"/></ab>
-<ab type="prose">此大明王。從本部儀軌王出生。依本部儀軌<lb
+<ab type='prose'>此大明王。從本部儀軌王出生。依本部儀軌<lb
  n="0518b02" ed="T"/>觀想。此中自影像者謂吽字相。一切觀想法<lb
  n="0518b03" ed="T"/>當依此而想。彼如是法儀皆吽字出生。此字<lb
  n="0518b04" ed="T"/>微妙不可思議。於一剎那中出生諸賢聖。從<lb
@@ -467,33 +467,33 @@
  n="0518b07" ed="T"/>相。是故如理相應觀想。此名一切如來三昧<lb
  n="0518b08" ed="T"/>金剛法門。<lb
  n="0518b09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 依法五處若相應　　觀想五鈷金剛杵　　<lb
  n="0518b10" ed="T"/>從彼大明文字生　　觀想金剛薩埵相　　<lb
  n="0518b11" ed="T"/>依法出現大光明　　普遍佛剎而照耀　　
 </ab><lb
- n="0518b12" ed="T"/><ab type="prose">此名金剛手最上子法門。<lb
+ n="0518b12" ed="T"/><ab type='prose'>此名金剛手最上子法門。<lb
  n="0518b13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 自相金剛手相應　　即想金剛手幖幟　　<lb
  n="0518b14" ed="T"/>當知諸佛影像生　　廣大光明照世間　　
 </ab><lb
- n="0518b15" ed="T"/><ab type="prose">此名自影像智法門。<lb
+ n="0518b15" ed="T"/><ab type='prose'>此名自影像智法門。<lb
  n="0518b16" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 自心金剛手相應　　焰鬘熾盛所莊嚴　　<lb
  n="0518b17" ed="T"/>從菩提心而出生　　廣大光明照世間　　
 </ab><lb
- n="0518b18" ed="T"/><ab type="prose">此名自相利法門。<lb
+ n="0518b18" ed="T"/><ab type='prose'>此名自相利法門。<lb
  n="0518b19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 想此佛剎現光明　　焰鬘普遍而照耀　　<lb
  n="0518b20" ed="T"/>從自相想金剛鉤　　依自影像而安布　　<lb
  n="0518b21" ed="T"/>依法鉤召諸如來　　一切來入光明中　　
 </ab><lb
- n="0518b22" ed="T"/><ab type="prose">此名一切如來主法門。<lb
+ n="0518b22" ed="T"/><ab type='prose'>此名一切如來主法門。<lb
  n="0518b23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 於自影像眾相應　　想彼大明諸文字　　<lb
  n="0518b24" ed="T"/>依法出現大光明　　觀想金剛薩埵相　　<lb
  n="0518b25" ed="T"/>菩提心生自影像　　定心觀想真實理　　<lb
@@ -521,9 +521,9 @@
  n="0518c18" ed="T"/>依法觀想大輪相　　於其輪中想佛身　　<lb
  n="0518c19" ed="T"/>相應光明而普遍　　如是名為相應觀　　
 </ab><lb
- n="0518c20" ed="T"/><ab type="prose">此名金剛自性法門。<lb
+ n="0518c20" ed="T"/><ab type='prose'>此名金剛自性法門。<lb
  n="0518c21" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 復於輪中想自身　　寶劍莊嚴光相現　　<lb
  n="0518c22" ed="T"/>菩提心即光明鬘　　普遍出現神通相　　<lb
  n="0518c23" ed="T"/>次於心想妙蓮華　　梵光熾盛而嚴飾　　<lb
@@ -535,9 +535,9 @@
  n="0518c29" ed="T"/>又復想自影像中　　現諸微妙熾盛光　　<pb n="0519a" id="T18.0887.0519a" ed="T"/><lb
  n="0519a01" ed="T"/>於心想現文字相　　彼文字中觀影像　　
 </ab><lb
- n="0519a02" ed="T"/><ab type="prose">此名堅固智法門。<lb
+ n="0519a02" ed="T"/><ab type='prose'>此名堅固智法門。<lb
  n="0519a03" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 又當觀想一肘量　　最上微妙曼拏羅　　<lb
  n="0519a04" ed="T"/>中想自影像文字　　金剛焰光而普遍　　<lb
  n="0519a05" ed="T"/>又當觀想一肘量　　最上大智曼拏羅　　<lb
@@ -553,18 +553,18 @@
  n="0519a15" ed="T"/>又想微妙曼拏羅　　其量等一俱盧舍　　<lb
  n="0519a16" ed="T"/>想自影像於中現　　普遍世界現變化　　
 </ab><lb
- n="0519a17" ed="T"/><ab type="prose">此名金剛大士法門。<lb
+ n="0519a17" ed="T"/><ab type='prose'>此名金剛大士法門。<lb
  n="0519a18" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 又想淨月曼拏羅　　其量等一俱盧舍　　<lb
  n="0519a19" ed="T"/>想佛影像於中現　　左右踰始多安布　　<lb
  n="0519a20" ed="T"/>應當想彼踰始多　　常現五種妙光明　　<lb
  n="0519a21" ed="T"/>光中復現悅意華　　種種微妙香雲等　　<lb
  n="0519a22" ed="T"/>如是最上供養具　　觀想供養諸如來　　
 </ab><lb
- n="0519a23" ed="T"/><ab type="prose">此名金剛眼法門。<lb
+ n="0519a23" ed="T"/><ab type='prose'>此名金剛眼法門。<lb
  n="0519a24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 依法觀想踰始多　　其相黃色妙莊嚴　　<lb
  n="0519a25" ed="T"/>佛座周匝各安布　　想從相應而出生　　<lb
  n="0519a26" ed="T"/>如彼出生如所作　　觀想金剛薩埵相　　<lb
@@ -577,9 +577,9 @@
  n="0519b04" ed="T"/>左嚕妙色為最上　　眾莊嚴中表莊嚴　　<lb
  n="0519b05" ed="T"/>妙色開敷大蓮華　　即自金剛所作事　　
 </ab><lb
- n="0519b06" ed="T"/><ab type="prose">此名金剛大祕密主法門。<lb
+ n="0519b06" ed="T"/><ab type='prose'>此名金剛大祕密主法門。<lb
  n="0519b07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 如是相應祕密法　　不相應者勿表示　　<lb
  n="0519b08" ed="T"/>自相若住堅固門　　乃至他法亦成就　　<lb
  n="0519b09" ed="T"/>作此相應觀想者　　想現踰始多身相　　<lb
@@ -587,35 +587,35 @@
  n="0519b11" ed="T"/>又想金剛薩埵相　　滿此佛剎而遍現　　<lb
  n="0519b12" ed="T"/>諸佛影像堅固事　　大金剛法而普攝　　
 </ab><lb
- n="0519b13" ed="T"/><ab type="prose">此名三金剛破法門。</ab></div><lb
- n="0519b14" ed="T"/><div type="fen" level="2"><head>無二平等最勝大儀軌王法部三摩地分第四</head><lb
- n="0519b15" ed="T"/><ab type="prose">爾時金剛手大執金剛者復說法部三摩地法<lb
+ n="0519b13" ed="T"/><ab type='prose'>此名三金剛破法門。</ab></div><lb
+ n="0519b14" ed="T"/><div type='fen' level='2'><head>無二平等最勝大儀軌王法部三摩地分第四</head><lb
+ n="0519b15" ed="T"/><ab type='prose'>爾時金剛手大執金剛者復說法部三摩地法<lb
  n="0519b16" ed="T"/>門。<lb
  n="0519b17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 一切所作依此說　　大曼拏羅即相應　　<lb
  n="0519b18" ed="T"/>此中如是依法儀　　法部成就當觀想　　<lb
  n="0519b19" ed="T"/>取相分別應捨離　　乃住諸法相應相　　<lb
  n="0519b20" ed="T"/>一切相應觀想門　　法部大明如是稱　　
 </ab><lb
- n="0519b21" ed="T"/><ab type="dharani">唵薩哩嚩怛他誐多達哩摩倪<lb
+ n="0519b21" ed="T"/><ab type='dharani'>唵薩哩嚩怛他誐多達哩摩倪<lb
  n="0519b22" ed="T"/>也那莎婆嚩怛摩酤㰠<lb
  n="0519b23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 此明依法想念誦　　大三昧邪即相應　　<lb
  n="0519b24" ed="T"/>從一切性所出生　　此中非性非無性　　
 </ab><lb
- n="0519b25" ed="T"/><ab type="prose">此名觀自在法門。<lb
+ n="0519b25" ed="T"/><ab type='prose'>此名觀自在法門。<lb
  n="0519b26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 當想清淨妙蓮華　　是華以表貪清淨　　<lb
  n="0519b27" ed="T"/>清淨即成曼拏羅　　自清淨相想中現　　<lb
  n="0519b28" ed="T"/>又想大明王出生　　廣大熾盛光明聚　　<lb
  n="0519b29" ed="T"/>彼焰光明悉周遍　　光中想現觀自在　　
 </ab><pb n="0519c" id="T18.0887.0519c" ed="T"/><lb
- n="0519c01" ed="T"/><ab type="prose">此復名觀自在法門。<lb
+ n="0519c01" ed="T"/><ab type='prose'>此復名觀自在法門。<lb
  n="0519c02" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 自相想現月輪中　　種種色光而周遍　　<lb
  n="0519c03" ed="T"/>其光一切悉照明　　乃至遍滿虛空界　　<lb
  n="0519c04" ed="T"/>次當於其自心中　　觀想最勝大明相　　<lb
@@ -625,15 +625,15 @@
  n="0519c08" ed="T"/>又於法曼拏羅中　　諦心觀想觀自在　　<lb
  n="0519c09" ed="T"/>彼從金剛薩埵生　　廣於世界現變化　　
 </ab><lb
- n="0519c10" ed="T"/><ab type="prose">此名普賢法門。<lb
+ n="0519c10" ed="T"/><ab type='prose'>此名普賢法門。<lb
  n="0519c11" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 又於法曼拏羅中　　想現最勝觀自在　　<lb
  n="0519c12" ed="T"/>金剛薩埵真實生　　五處相應依法觀　　
 </ab><lb
- n="0519c13" ed="T"/><ab type="prose">此復名觀自在法門。<lb
+ n="0519c13" ed="T"/><ab type='prose'>此復名觀自在法門。<lb
  n="0519c14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 復次於心想微妙　　最上大法曼拏羅　　<lb
  n="0519c15" ed="T"/>從淨蓮華所出生　　諸變化事如應現　　<lb
  n="0519c16" ed="T"/>又復於心想微妙　　無垢大法曼拏羅　　<lb
@@ -646,9 +646,9 @@
  n="0519c23" ed="T"/>想從自相所出生　　曼拏羅中諸儀法　　<lb
  n="0519c24" ed="T"/>其所出生諸儀法　　廣作一切供養事　　
 </ab><lb
- n="0519c25" ed="T"/><ab type="prose">此名持蓮華法門。<lb
+ n="0519c25" ed="T"/><ab type='prose'>此名持蓮華法門。<lb
  n="0519c26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 又想大法曼拏羅　　其量等一俱盧舍　　<lb
  n="0519c27" ed="T"/>於中諦心想自身　　是即觀自在身相　　<lb
  n="0519c28" ed="T"/>又想蓮華曼拏羅　　其量等一俱盧舍　　<lb
@@ -675,23 +675,23 @@
  n="0520a20" ed="T"/>妙月曼拏羅相應　　即於迦摩部中轉　　<lb
  n="0520a21" ed="T"/>日輪曼拏羅相應　　當於一切部中轉　　
 </ab><lb
- n="0520a22" ed="T"/><ab type="prose">此復名持蓮華法門。</ab></div><lb
- n="0520a23" ed="T"/><div type="fen" level="2"><head>無二平等最勝大儀軌王迦摩部三摩地分第<lb
+ n="0520a22" ed="T"/><ab type='prose'>此復名持蓮華法門。</ab></div><lb
+ n="0520a23" ed="T"/><div type='fen' level='2'><head>無二平等最勝大儀軌王迦摩部三摩地分第<lb
  n="0520a24" ed="T"/>五</head><lb
- n="0520a25" ed="T"/><ab type="prose">爾時金剛手大執金剛者。以一切如來大金<lb
+ n="0520a25" ed="T"/><ab type='prose'>爾時金剛手大執金剛者。以一切如來大金<lb
  n="0520a26" ed="T"/>剛杵。安於智部等諸祕密部中。入彼大智相<lb
  n="0520a27" ed="T"/>應曼拏羅。建立所作事。於其大曼拏羅中。安<lb
  n="0520a28" ed="T"/>自影像相及諸佛菩薩賢聖等相。依法相應<lb
  n="0520a29" ed="T"/>已。即說迦摩部三摩地法門。<pb n="0520b" id="T18.0887.0520b" ed="T"/><lb
  n="0520b01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 一切所作依此說　　大曼拏羅即相應　　<lb
  n="0520b02" ed="T"/>依法想者得成就　　異此而觀非觀想　　<lb
  n="0520b03" ed="T"/>所有迦摩部法儀　　本部大明如是稱　　
 </ab><lb
- n="0520b04" ed="T"/><ab type="dharani">唵薩哩嚩怛他誐多迦野倪也那莎婆嚩怛摩酤㰠<lb
+ n="0520b04" ed="T"/><ab type='dharani'>唵薩哩嚩怛他誐多迦野倪也那莎婆嚩怛摩酤㰠<lb
  n="0520b06" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 如是微妙大明句　　於法平等而相應　　<lb
  n="0520b07" ed="T"/>從大蓮華所出生　　清淨光明悉周遍　　<lb
  n="0520b08" ed="T"/>依此法想曼拏羅　　於中復想自影像　　<lb
@@ -701,9 +701,9 @@
  n="0520b12" ed="T"/>從迦摩焰生影像　　廣於世界現變化　　<lb
  n="0520b13" ed="T"/>如是一一依法儀　　三種影像當觀想　　
 </ab><lb
- n="0520b14" ed="T"/><ab type="prose">此名迦摩焰光法門。<lb
+ n="0520b14" ed="T"/><ab type='prose'>此名迦摩焰光法門。<lb
  n="0520b15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 又當觀想妙蓮華　　縱廣可其一肘量　　<lb
  n="0520b16" ed="T"/>於蓮華中想光明　　梵王影像光中現　　<lb
  n="0520b17" ed="T"/>又當觀想大蓮華　　最上一百八肘量　　<lb
@@ -718,21 +718,21 @@
  n="0520b26" ed="T"/>從是梵王心出生　　諸佛影像想中現　　<lb
  n="0520b27" ed="T"/>諸佛影像依法現　　那羅延天相亦然　　
 </ab><lb
- n="0520b28" ed="T"/><ab type="prose">此復名迦摩焰光法門。<lb
+ n="0520b28" ed="T"/><ab type='prose'>此復名迦摩焰光法門。<lb
  n="0520b29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 又想迦摩焰光生　　那羅延相千肘量　　<pb n="0520c" id="T18.0887.0520c" ed="T"/><lb
  n="0520c01" ed="T"/>從是心中所出生　　諸佛影像想中現　　<lb
  n="0520c02" ed="T"/>所有一切佛影像　　迦摩焰法悉相應　　<lb
  n="0520c03" ed="T"/>隨所出生依法儀　　梨羅莊嚴而最勝　　<lb
  n="0520c04" ed="T"/>乃至影像法相應　　彼踰始多即成就　　
 </ab><lb
- n="0520c05" ed="T"/><ab type="prose">此名最勝迦摩焰光法門。</ab></div><lb
- n="0520c06" ed="T"/><div type="fen" level="2"><head>無二平等最勝大儀軌王三昧最上智一切成<lb
+ n="0520c05" ed="T"/><ab type='prose'>此名最勝迦摩焰光法門。</ab></div><lb
+ n="0520c06" ed="T"/><div type='fen' level='2'><head>無二平等最勝大儀軌王三昧最上智一切成<lb
  n="0520c07" ed="T"/>就分第六</head><lb
- n="0520c08" ed="T"/><ab type="prose">爾時金剛手大執金剛者復說此法門。<lb
+ n="0520c08" ed="T"/><ab type='prose'>爾時金剛手大執金剛者復說此法門。<lb
  n="0520c09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 諸求悉地者　　於本部法中　　<lb
  n="0520c10" ed="T"/>曼拏羅相應　　自影像出生　　<lb
  n="0520c11" ed="T"/>依法想日天　　如本部儀軌　　<lb
@@ -758,17 +758,17 @@
  n="0521a02" ed="T"/>地等諸大種　　隨所依出生　　<lb
  n="0521a03" ed="T"/>此清淨亦然　　智部最上法　　
 </ab><lb
- n="0521a04" ed="T"/><ab type="prose">此名普賢法門。</ab></div><lb
- n="0521a05" ed="T"/><div type="fen" level="2"><head>無二平等最勝大儀軌王一切佛甚深祕密供<lb
+ n="0521a04" ed="T"/><ab type='prose'>此名普賢法門。</ab></div><lb
+ n="0521a05" ed="T"/><div type='fen' level='2'><head>無二平等最勝大儀軌王一切佛甚深祕密供<lb
  n="0521a06" ed="T"/>養分第七</head><lb
- n="0521a07" ed="T"/><ab type="prose">爾時金剛手大執金剛者。於一切如來堅固<lb
+ n="0521a07" ed="T"/><ab type='prose'>爾時金剛手大執金剛者。於一切如來堅固<lb
  n="0521a08" ed="T"/>妙月曼拏羅相中。加持而住。是時普賢菩薩<lb
  n="0521a09" ed="T"/>摩訶薩。即入一切金剛三昧出生大智加持<lb
  n="0521a10" ed="T"/>三摩地。即於此三摩地中。轉入一切相應三<lb
  n="0521a11" ed="T"/>昧智加持三摩地。從是三摩地出已。說一切<lb
  n="0521a12" ed="T"/>三昧相應祕密成就智出生無生法門。<lb
  n="0521a13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 佛影像出生　　種種色光明　　<lb
  n="0521a14" ed="T"/>曼拏羅相應　　輪等成就法　　<lb
  n="0521a15" ed="T"/>住三摩呬多　　想左拏迦量　　<lb
@@ -810,9 +810,9 @@
  n="0521b22" ed="T"/>法部如次用　　二十依法儀　　<lb
  n="0521b23" ed="T"/>迦摩部中用　　
 </ab><lb
- n="0521b24" ed="T"/><ab type="prose">此名一切如來祕密三昧法門。<lb
+ n="0521b24" ed="T"/><ab type='prose'>此名一切如來祕密三昧法門。<lb
  n="0521b25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 又依祕密法　　作莊嚴等事　　<lb
  n="0521b26" ed="T"/>從佛所出生　　作平等供養　　<lb
  n="0521b27" ed="T"/>栴檀香莊嚴　　即成羯磨法　　<lb
@@ -820,9 +820,9 @@
  n="0521b29" ed="T"/>一切平等事　　疑惑即不生　　<pb n="0521c" id="T18.0887.0521c" ed="T"/><lb
  n="0521c01" ed="T"/>若起疑惑時　　佛說不成就　　
 </ab><lb
- n="0521c02" ed="T"/><ab type="prose">此名一切如來心法門。<lb
+ n="0521c02" ed="T"/><ab type='prose'>此名一切如來心法門。<lb
  n="0521c03" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 修行者依法　　沐浴而莊嚴　　<lb
  n="0521c04" ed="T"/>於諸相分中　　無破無闕減　　<lb
  n="0521c05" ed="T"/>若依此三昧　　即成就相應　　<lb
@@ -833,9 +833,9 @@
  n="0521c10" ed="T"/>依本部大明　　誦五洛叉數　　<lb
  n="0521c11" ed="T"/>依法求成就　　異此而不成　　
 </ab><lb
- n="0521c12" ed="T"/><ab type="prose">此名一切如來光明法門。<lb
+ n="0521c12" ed="T"/><ab type='prose'>此名一切如來光明法門。<lb
  n="0521c13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 從金剛薩埵　　真實所出生　　<lb
  n="0521c14" ed="T"/>畫勝曼拏羅　　縱廣一肘量　　<lb
  n="0521c15" ed="T"/>大忿怒明王　　甘露軍拏利　　<lb
@@ -858,19 +858,19 @@
  n="0522a03" ed="T"/>從金剛手生　　作眾生利益　　
 </ab></div><lb
  n="0522a04" ed="T"/>
-<ab type="juan" subtype="close">佛說無二平等最上瑜伽大教王經卷第二</ab><lb
+<ab type='juan' subtype='close'>佛說無二平等最上瑜伽大教王經卷第二</ab><lb
  n="0522a05" ed="T"/><lb
  n="0522a06" ed="T"/><lb
  n="0522a07" ed="T"/><lb
  n="0522a08" ed="T"/>
-<ab type="juan" subtype="open">佛說無二平等最上瑜伽大教王<lb
+<ab type='juan' subtype='open'>佛說無二平等最上瑜伽大教王<lb
  n="0522a09" ed="T"/>經卷第三</ab><lb
  n="0522a10" ed="T"/><lb
  n="0522a11" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0522a12" ed="T"/>傳法大師賜紫臣施護奉　詔譯</byline><lb
- n="0522a13" ed="T"/><div type="fen" level="2"><head>無二平等最勝大儀軌王一切如來智證最上<lb
+ n="0522a13" ed="T"/><div type='fen' level='2'><head>無二平等最勝大儀軌王一切如來智證最上<lb
  n="0522a14" ed="T"/>祕密分第八</head><lb
- n="0522a15" ed="T"/><ab type="prose">爾時十方來者一切如來。又復勸請金剛手<lb
+ n="0522a15" ed="T"/><ab type='prose'>爾時十方來者一切如來。又復勸請金剛手<lb
  n="0522a16" ed="T"/>菩薩大祕密主言。金剛手願當宣說一切如<lb
  n="0522a17" ed="T"/>來智證三昧。大明三昧。一切如來成就師子<lb
  n="0522a18" ed="T"/>變化三昧。速證阿耨多羅三藐三菩提。大智<lb
@@ -886,7 +886,7 @@
  n="0522a28" ed="T"/>心頂最上妙月曼拏羅中。宣說一切如來智<lb
  n="0522a29" ed="T"/>證三昧大明三昧等法門。<pb n="0522b" id="T18.0887.0522b" ed="T"/><lb
  n="0522b01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 所有阿僧祇諸佛　　不破真實相應門　　<lb
  n="0522b02" ed="T"/>行者現生得佛身　　一切所作皆決定　　<lb
  n="0522b03" ed="T"/>所有俱胝數諸佛　　不破諸佛智相應　　<lb
@@ -896,9 +896,9 @@
  n="0522b07" ed="T"/>總攝一切悉地法　　如一廣大蓮華量　　<lb
  n="0522b08" ed="T"/>智者應當真實觀　　悉從迦摩焰光生　　
 </ab><lb
- n="0522b09" ed="T"/><ab type="prose">此名自性清淨法門。<lb
+ n="0522b09" ed="T"/><ab type='prose'>此名自性清淨法門。<lb
  n="0522b10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 觀想遍滿虛空界　　諸佛普現種種身　　<lb
  n="0522b11" ed="T"/>不破如是真實相　　行者現生獲悉地　　<lb
  n="0522b12" ed="T"/>諦想自心真實法　　一切所作皆清淨　　<lb
@@ -918,9 +918,9 @@
  n="0522b26" ed="T"/>常持本部祕密明　　即得金剛薩埵法　　<lb
  n="0522b27" ed="T"/>此即一切佛世尊　　真實智證三昧門　　
 </ab><lb
- n="0522b28" ed="T"/><ab type="prose">此名一切如來智法門。<lb
+ n="0522b28" ed="T"/><ab type='prose'>此名一切如來智法門。<lb
  n="0522b29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 行者善住堅固心　　依彼曼拏羅法儀　　<pb n="0522c" id="T18.0887.0522c" ed="T"/><lb
  n="0522c01" ed="T"/>如常所用所作事　　一切隨應離疑惑　　<lb
  n="0522c02" ed="T"/>所作應當依此法　　如別所作非相應　　<lb
@@ -930,12 +930,12 @@
  n="0522c06" ed="T"/>世間苦樂貪瞋癡　　離我相故悉平等　　<lb
  n="0522c07" ed="T"/>了知貪瞋癡性空　　不離貪等自清淨　　
 </ab></div><lb
- n="0522c08" ed="T"/><div type="fen" level="2"><head>無二平等最勝大儀軌王金剛薩埵一切祕密<lb
+ n="0522c08" ed="T"/><div type='fen' level='2'><head>無二平等最勝大儀軌王金剛薩埵一切祕密<lb
  n="0522c09" ed="T"/>三昧分第九</head><lb
- n="0522c10" ed="T"/><ab type="prose">爾時金剛手菩薩大祕密主。復說一切如來<lb
+ n="0522c10" ed="T"/><ab type='prose'>爾時金剛手菩薩大祕密主。復說一切如來<lb
  n="0522c11" ed="T"/>大智因金剛薩埵一切祕密三昧法門。<lb
  n="0522c12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 修習瑜伽勝行者　　不應禮敬諸聲聞　　<lb
  n="0522c13" ed="T"/>但當禮彼諸如來　　即得相應成就法　　<lb
  n="0522c14" ed="T"/>行者當於自影像　　依法定觀真實理　　<lb
@@ -947,7 +947,7 @@
  n="0522c20" ed="T"/>佛為最上阿闍梨　　一切最勝常善護　　<lb
  n="0522c21" ed="T"/>了知祕密真實者　　此阿闍梨佛無異　　<lb
  n="0522c22" ed="T"/>觀想諸佛阿闍梨　　從菩提心所出生　　<lb
- n="0522c23" ed="T"/>我自影像觀相應　　真實事業悉成辦　　<lb
+ n="0522c23" ed="T"/>於自影像觀相應　　真實事業悉成辦　　<lb
  n="0522c24" ed="T"/>諸持明者當了知　　真實三昧而出生　　<lb
  n="0522c25" ed="T"/>如是三昧等相應　　越三昧者不成就　　<lb
  n="0522c26" ed="T"/>又當觀想自影像　　從金剛手祕密生　　<lb
@@ -957,9 +957,9 @@
  n="0523a01" ed="T"/>所欲應修先行法　　若時若用等相應　　<lb
  n="0523a02" ed="T"/>而此三昧為最上　　於一切處常善護　　
 </ab><lb
- n="0523a03" ed="T"/><ab type="prose">此名大菩提心法門。<lb
+ n="0523a03" ed="T"/><ab type='prose'>此名大菩提心法門。<lb
  n="0523a04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 從自影像所出生　　於自影像住一相　　<lb
  n="0523a05" ed="T"/>而自心量廣無邊　　具修大明先行法　　<lb
  n="0523a06" ed="T"/>當知此三昧大智　　一切所作離諸過　　<lb
@@ -979,12 +979,12 @@
  n="0523a20" ed="T"/>甘露軍拏利等法　　依彼加持而安住　　<lb
  n="0523a21" ed="T"/>虛空無量無邊際　　我從賢善法中出　　
 </ab><lb
- n="0523a22" ed="T"/><ab type="prose">此名持金剛法門。<lb
+ n="0523a22" ed="T"/><ab type='prose'>此名持金剛法門。<lb
  n="0523a23" ed="T"/>爾時金剛手菩薩大祕密主。復說一切如來<lb
  n="0523a24" ed="T"/>身語心大智大明清淨真實金剛加持一切如<lb
  n="0523a25" ed="T"/>來三昧法門。<lb
  n="0523a26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 復次此說心金剛　　觀想金剛薩埵生　　<lb
  n="0523a27" ed="T"/>彼心如是觀想已　　即能入彼智金剛　　<lb
  n="0523a28" ed="T"/>金剛自性清淨義　　應善觀察語金剛　　<lb
@@ -996,10 +996,10 @@
  n="0523b05" ed="T"/>貪法無生亦無染　　一切從彼金剛生　　<lb
  n="0523b06" ed="T"/>如是真實儀軌修　　一切悉地皆圓滿　　
 </ab><lb
- n="0523b07" ed="T"/><ab type="prose">爾時金剛手菩薩大祕密主。復說一切如來<lb
+ n="0523b07" ed="T"/><ab type='prose'>爾時金剛手菩薩大祕密主。復說一切如來<lb
  n="0523b08" ed="T"/>大智阿闍梨三昧。<lb
  n="0523b09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 應知三種智等生　　諸不正語非如義　　<lb
  n="0523b10" ed="T"/>依正法儀如理行　　得佛阿闍梨成就　　<lb
  n="0523b11" ed="T"/>應當想彼諸佛等　　周匝遍滿虛空界　　<lb
@@ -1017,10 +1017,10 @@
  n="0523b23" ed="T"/>依法持誦本尊明　　遠離一切怖畏事　　<lb
  n="0523b24" ed="T"/>此法剎那若相應　　於現生中得成佛　　
 </ab><lb
- n="0523b25" ed="T"/><ab type="prose">此名一切處平等利法門。</ab></div><lb
- n="0523b26" ed="T"/><div type="fen" level="2"><head>無二平等最勝大儀軌王一切三昧成就禪定<lb
+ n="0523b25" ed="T"/><ab type='prose'>此名一切處平等利法門。</ab></div><lb
+ n="0523b26" ed="T"/><div type='fen' level='2'><head>無二平等最勝大儀軌王一切三昧成就禪定<lb
  n="0523b27" ed="T"/>曼拏羅分第十</head><lb
- n="0523b28" ed="T"/><ab type="prose">爾時十方來者一切如來。復從一切如來身<lb
+ n="0523b28" ed="T"/><ab type='prose'>爾時十方來者一切如來。復從一切如來身<lb
  n="0523b29" ed="T"/>語心智莊嚴。出諸供養雲。供養金剛手菩薩<pb n="0523c" id="T18.0887.0523c" ed="T"/><lb
  n="0523c01" ed="T"/>大祕密主。如是供養已咸作是言。大士願說<lb
  n="0523c02" ed="T"/>一切三昧智成就禪定真實最上曼拏羅。<lb
@@ -1029,7 +1029,7 @@
  n="0523c05" ed="T"/>地出已。宣說一切三昧智成就禪定真實最<lb
  n="0523c06" ed="T"/>上大曼拏羅。<lb
  n="0523c07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 今說三昧智成就　　最上廣大曼拏羅　　<lb
  n="0523c08" ed="T"/>金剛大智所出生　　諸佛菩提如理說　　<lb
  n="0523c09" ed="T"/>定心觀想乳海中　　清淨微妙蓮華現　　<lb
@@ -1055,11 +1055,11 @@
  n="0523c29" ed="T"/>又當想彼虛空界　　遍滿一切佛世尊　　<pb n="0524a" id="T18.0887.0524a" ed="T"/><lb
  n="0524a01" ed="T"/>以祕密法普供養　　觀想祕密依法說　　
 </ab></div><lb
- n="0524a02" ed="T"/><div type="fen" level="2"><head>無二平等最勝大儀軌王大禪定分第十一</head><lb
- n="0524a03" ed="T"/><ab type="prose">爾時金剛手菩薩大祕密主。復說不空三昧<lb
+ n="0524a02" ed="T"/><div type='fen' level='2'><head>無二平等最勝大儀軌王大禪定分第十一</head><lb
+ n="0524a03" ed="T"/><ab type='prose'>爾時金剛手菩薩大祕密主。復說不空三昧<lb
  n="0524a04" ed="T"/>大禪定曼拏羅。<lb
  n="0524a05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 一切所作依此說　　佛阿闍梨大智門　　<lb
  n="0524a06" ed="T"/>日輪曼拏羅相應　　一切依法而觀想　　<lb
  n="0524a07" ed="T"/>東方一切法最上　　安想金剛薩埵法　　<lb
@@ -1076,11 +1076,11 @@
  n="0524a18" ed="T"/>乃至遍滿於虛空　　想現金剛薩埵相　　<lb
  n="0524a19" ed="T"/>以諸大明供養已　　復用祕密法供養　　
 </ab><lb
- n="0524a20" ed="T"/><ab type="prose">爾時金剛手菩薩大祕密主。復入一切如來<lb
+ n="0524a20" ed="T"/><ab type='prose'>爾時金剛手菩薩大祕密主。復入一切如來<lb
  n="0524a21" ed="T"/>三昧生金剛加持三摩地。從是三摩地出已。<lb
  n="0524a22" ed="T"/>復說妙樂法如來曼拏羅。<lb
  n="0524a23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 妙法曼拏羅相應　　一切依法而觀想　　<lb
  n="0524a24" ed="T"/>安住禪定相應心　　諦想諸法皆無我　　<lb
  n="0524a25" ed="T"/>東方持妙法光明　　南方大智法廣大　　<lb
@@ -1094,11 +1094,11 @@
  n="0524b04" ed="T"/>滿虛空界現珍寶　　想遍自法祕密門　　<lb
  n="0524b05" ed="T"/>祕密供養三相應　　法阿闍梨如儀軌　　
 </ab><lb
- n="0524b06" ed="T"/><ab type="prose">爾時金剛手菩薩大祕密主。復入一切如來<lb
+ n="0524b06" ed="T"/><ab type='prose'>爾時金剛手菩薩大祕密主。復入一切如來<lb
  n="0524b07" ed="T"/>三昧金剛生堅固加持三摩地。從是三摩地<lb
  n="0524b08" ed="T"/>出已。復說一切染法清淨大禪定曼拏羅。<lb
  n="0524b09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 迦摩曼拏羅相應　　一切依法而觀想　　<lb
  n="0524b10" ed="T"/>東方帝釋大光明　　觀想種種淨妙色　　<lb
  n="0524b11" ed="T"/>南方開華大自在　　諦想自性即無性　　<lb
@@ -1115,11 +1115,11 @@
  n="0524b22" ed="T"/>金剛阿闍梨想已　　彼曼拏羅一切勝　　<lb
  n="0524b23" ed="T"/>迦摩阿闍梨如義　　不復別說曼拏羅　　
 </ab><lb
- n="0524b24" ed="T"/><ab type="prose">爾時金剛手菩薩大祕密主。復入照一切如<lb
+ n="0524b24" ed="T"/><ab type='prose'>爾時金剛手菩薩大祕密主。復入照一切如<lb
  n="0524b25" ed="T"/>來心頂加持三昧金剛三摩地。從是三摩地<lb
  n="0524b26" ed="T"/>出已。宣說照金剛薩埵心頂大禪定曼拏羅。<lb
  n="0524b27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 定心觀想大乳海　　中有清淨大蓮華　　<lb
  n="0524b28" ed="T"/>華中有水精寶山　　種種莊嚴甚殊妙　　<lb
  n="0524b29" ed="T"/>山頂現法曼拏羅　　依法諦心而觀想　　<pb n="0524c" id="T18.0887.0524c" ed="T"/><lb
@@ -1138,12 +1138,12 @@
  n="0524c13" ed="T"/>從自祕密法出生　　所生供養等無異　　<lb
  n="0524c14" ed="T"/>如是遍滿虛空界　　想現一切頂輪相　　
 </ab><lb
- n="0524c15" ed="T"/><ab type="prose">爾時金剛手菩薩大祕密主。復入一切欲界<lb
+ n="0524c15" ed="T"/><ab type='prose'>爾時金剛手菩薩大祕密主。復入一切欲界<lb
  n="0524c16" ed="T"/>平等歸命金剛加持出生三摩地。從是三摩<lb
  n="0524c17" ed="T"/>地出已。說一切部平等師子變化大禪定曼<lb
  n="0524c18" ed="T"/>拏羅。<lb
  n="0524c19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 先想清淨大乳海　　次復變現種種色　　<lb
  n="0524c20" ed="T"/>於眾色中有大山　　四寶莊嚴甚微妙　　<lb
  n="0524c21" ed="T"/>山頂復想曼拏羅　　四方四隅及四門　　<lb
@@ -1190,52 +1190,52 @@
  n="0525b04" ed="T"/>所說真實復一心　　隨如是部出生相　　
 </ab></div><lb
  n="0525b05" ed="T"/>
-<ab type="juan" subtype="close">佛說無二平等最上瑜伽大教王經卷第三</ab><lb
+<ab type='juan' subtype='close'>佛說無二平等最上瑜伽大教王經卷第三</ab><lb
  n="0525b06" ed="T"/><lb
  n="0525b07" ed="T"/><lb
  n="0525b08" ed="T"/><lb
  n="0525b09" ed="T"/>
-<ab type="juan" subtype="open">佛說無二平等最上瑜伽大教王<lb
+<ab type='juan' subtype='open'>佛說無二平等最上瑜伽大教王<lb
  n="0525b10" ed="T"/>經卷第四</ab><lb
  n="0525b11" ed="T"/><lb
  n="0525b12" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0525b13" ed="T"/>傳法大師賜紫臣施護奉　詔譯</byline><lb
- n="0525b14" ed="T"/><div type="fen" level="2"><head>無二平等最勝大儀軌王出生大禪定分第十<lb
+ n="0525b14" ed="T"/><div type='fen' level='2'><head>無二平等最勝大儀軌王出生大禪定分第十<lb
  n="0525b15" ed="T"/>二</head><lb
- n="0525b16" ed="T"/><ab type="prose">爾時金剛手菩薩大祕密主。復入一切虛空<lb
+ n="0525b16" ed="T"/><ab type='prose'>爾時金剛手菩薩大祕密主。復入一切虛空<lb
  n="0525b17" ed="T"/>界智光照明三摩地。從是三摩地出已。宣說<lb
  n="0525b18" ed="T"/>大三昧大士出生諸大明法門智部大明曰。<lb
  n="0525b19" ed="T"/></ab>
-<ab type="dharani">唵倪也努訥婆嚩野莎賀<lb
+<ab type='dharani'>唵倪也努訥婆嚩野莎賀<lb
  n="0525b21" ed="T"/></ab>
-<ab type="prose">說此大明已。阿僧祇百千佛剎皆大震動。又<lb
+<ab type='prose'>說此大明已。阿僧祇百千佛剎皆大震動。又<lb
  n="0525b22" ed="T"/>此大明若有聞者。即得廣大記念辯才智慧。<lb
  n="0525b23" ed="T"/>爾時金剛手菩薩大祕密主。復入普遍光明<lb
  n="0525b24" ed="T"/>三昧金剛加持三摩地。從是三摩地出已。宣<lb
  n="0525b25" ed="T"/>說攝部大明曰。<lb
  n="0525b26" ed="T"/></ab>
-<ab type="dharani">唵僧屹囉賀倪也努訥婆嚩<lb
+<ab type='dharani'>唵僧屹囉賀倪也努訥婆嚩<lb
  n="0525b27" ed="T"/>野莎賀<lb
  n="0525b28" ed="T"/></ab>
-<ab type="prose">說此大明已。所有一切虛空界。自然出現廣<lb
+<ab type='prose'>說此大明已。所有一切虛空界。自然出現廣<lb
  n="0525b29" ed="T"/>大熾盛。光明照耀普遍一切。互相映徹照見<pb n="0525c" id="T18.0887.0525c" ed="T"/><lb
  n="0525c01" ed="T"/>無礙。<lb
  n="0525c02" ed="T"/>爾時金剛手菩薩大祕密主。復入自性清淨<lb
  n="0525c03" ed="T"/>三摩地。從是三摩地出已。宣說法部大明曰。<lb
  n="0525c04" ed="T"/></ab>
-<ab type="dharani">唵達哩摩倪也努訥婆嚩<lb
+<ab type='dharani'>唵達哩摩倪也努訥婆嚩<lb
  n="0525c05" ed="T"/>野莎賀<lb
  n="0525c06" ed="T"/></ab>
-<ab type="prose">說此大明已。自然出現廣大光明。遍照無邊<lb
+<ab type='prose'>說此大明已。自然出現廣大光明。遍照無邊<lb
  n="0525c07" ed="T"/>一切佛剎。<lb
  n="0525c08" ed="T"/>爾時金剛手菩薩大祕密主。復入自性清淨<lb
  n="0525c09" ed="T"/>集吉祥生金剛加持三摩地。從是三摩地出<lb
  n="0525c10" ed="T"/>已。宣說迦摩部大明曰。<lb
  n="0525c11" ed="T"/></ab>
-<ab type="dharani">唵迦摩倪也努訥婆嚩野莎<lb
+<ab type='dharani'>唵迦摩倪也努訥婆嚩野莎<lb
  n="0525c12" ed="T"/>賀<lb
  n="0525c13" ed="T"/></ab>
-<ab type="prose">說此大明已。自然出現廣大光明。遍照無邊<lb
+<ab type='prose'>說此大明已。自然出現廣大光明。遍照無邊<lb
  n="0525c14" ed="T"/>一切佛剎。諸持明者各於諸部。當如是知起<lb
  n="0525c15" ed="T"/>相應心住真實理。以自影像加持而住。一切<lb
  n="0525c16" ed="T"/>所作諦心觀想。復次當知諸部諸印隨應相<lb
@@ -1244,9 +1244,9 @@
  n="0525c19" ed="T"/>蓮華相生是法部印相。羯磨部與法部無異。<lb
  n="0525c20" ed="T"/>三叉相作縛是迦摩部印相。此名大明菩提<lb
  n="0525c21" ed="T"/>心法門。</ab></div><lb
- n="0525c22" ed="T"/><div type="fen" level="2"><head>無二平等最勝大儀軌王勝大明教最初事業<lb
+ n="0525c22" ed="T"/><div type='fen' level='2'><head>無二平等最勝大儀軌王勝大明教最初事業<lb
  n="0525c23" ed="T"/>分第十三</head><lb
- n="0525c24" ed="T"/><ab type="prose">爾時金剛手菩薩大祕密主。復入圓滿一切<lb
+ n="0525c24" ed="T"/><ab type='prose'>爾時金剛手菩薩大祕密主。復入圓滿一切<lb
  n="0525c25" ed="T"/>願三昧出生金剛加持三摩地。從是三摩地<lb
  n="0525c26" ed="T"/>出已。宣說大三昧成就曼拏羅。而此曼拏<lb
  n="0525c27" ed="T"/>羅最上廣大。猶如虛空廣大無量。此大成<lb
@@ -1301,7 +1301,7 @@
  n="0526b17" ed="T"/>爾時世尊大遍照如來。即說一切如來三昧<lb
  n="0526b18" ed="T"/>最上成就明教最初事業法門。<lb
  n="0526b19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 今說廣大曼拏羅　　三十由旬為分量　　<lb
  n="0526b20" ed="T"/>其相四方焰光明　　帝青大光復周遍　　<lb
  n="0526b21" ed="T"/>虛空無礙遍一切　　禪定相應而觀想　　<lb
@@ -1333,11 +1333,11 @@
  n="0526c18" ed="T"/>想虛空界一切佛　　現身遍滿無空缺　　<lb
  n="0526c19" ed="T"/>先想本尊賢聖已　　一切觀想悉周遍　　
 </ab></div><lb
- n="0526c20" ed="T"/><div type="fen" level="2"><head>無二平等最勝大儀軌王辦事分第十四</head><lb
- n="0526c21" ed="T"/><ab type="prose">爾時世尊大遍照如來。復說一切祕密大明<lb
+ n="0526c20" ed="T"/><div type='fen' level='2'><head>無二平等最勝大儀軌王辦事分第十四</head><lb
+ n="0526c21" ed="T"/><ab type='prose'>爾時世尊大遍照如來。復說一切祕密大明<lb
  n="0526c22" ed="T"/>分別教相法門。<lb
  n="0526c23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 又當於其虛空中　　想現四方曼拏羅　　<lb
  n="0526c24" ed="T"/>量廣阿僧祇由旬　　最上廣大而周遍　　<lb
  n="0526c25" ed="T"/>應住禪定如理心　　想自影像於中現　　<lb
@@ -1349,12 +1349,12 @@
  n="0527a02" ed="T"/>智者當知此部法　　是即真實清淨教　　<lb
  n="0527a03" ed="T"/>異此而非成就門　　遠離祕密禪定行　　
 </ab></div><lb
- n="0527a04" ed="T"/><div type="fen" level="2"><head>無二平等最勝大儀軌王大遍照如來一切大<lb
+ n="0527a04" ed="T"/><div type='fen' level='2'><head>無二平等最勝大儀軌王大遍照如來一切大<lb
  n="0527a05" ed="T"/>明金剛出生分第十五之一</head><lb
- n="0527a06" ed="T"/><ab type="prose">爾時世尊大遍照如來。復說一切如來一切<lb
+ n="0527a06" ed="T"/><ab type='prose'>爾時世尊大遍照如來。復說一切如來一切<lb
  n="0527a07" ed="T"/>真實教持念法。<lb
  n="0527a08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 虛空無際無方隅　　當知自心亦如是　　<lb
  n="0527a09" ed="T"/>外曼拏羅觀想已　　自曼拏羅想無異　　<lb
  n="0527a10" ed="T"/>自華隨處即本尊　　觀想真實相應法　　<lb
@@ -1418,11 +1418,11 @@
  n="0527c10" ed="T"/>金剛薩埵所加持　　一切佛諸成就法　　<lb
  n="0527c11" ed="T"/>一切大明大喜門　　三昧成就如實說　　
 </ab><lb
- n="0527c12" ed="T"/><ab type="prose">爾時世尊大遍照如來。復入一切如來如意<lb
+ n="0527c12" ed="T"/><ab type='prose'>爾時世尊大遍照如來。復入一切如來如意<lb
  n="0527c13" ed="T"/>寶平等金剛三摩地。從是三摩地出已。宣說<lb
  n="0527c14" ed="T"/>一切如來出生金剛曼拏羅。<lb
  n="0527c15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 一切所作依此說　　當畫三昧曼拏羅　　<lb
  n="0527c16" ed="T"/>東方畫彼阿閦尊　　本印現前當依法　　<lb
  n="0527c17" ed="T"/>南方當畫寶生尊　　一切依彼本部儀　　<lb
@@ -1447,11 +1447,11 @@
  n="0528a07" ed="T"/>惹阿字為蓮華部　　阿惡字為迦摩部　　<lb
  n="0528a08" ed="T"/>如是諸部根本字　　曼拏羅中常所作　　
 </ab><lb
- n="0528a09" ed="T"/><ab type="prose">此名一切如來金剛大曼拏羅。<lb
+ n="0528a09" ed="T"/><ab type='prose'>此名一切如來金剛大曼拏羅。<lb
  n="0528a10" ed="T"/>爾時世尊大遍照如來。復說成就近成就大<lb
  n="0528a11" ed="T"/>成就等諸法門。<lb
  n="0528a12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若欲修習成就者　　隨應飲食祕密行　　<lb
  n="0528a13" ed="T"/>彼心安住大明心　　是即相應三昧法　　<lb
  n="0528a14" ed="T"/>若欲得近成就者　　當於一月依法修　　<lb
@@ -1459,10 +1459,10 @@
  n="0528a16" ed="T"/>欲得大明大成就　　當於三月中修習　　<lb
  n="0528a17" ed="T"/>最初平等行相應　　此即金剛手所說　　
 </ab><lb
- n="0528a18" ed="T"/><ab type="prose">爾時世尊大遍照如來。復說智部等成就三<lb
+ n="0528a18" ed="T"/><ab type='prose'>爾時世尊大遍照如來。復說智部等成就三<lb
  n="0528a19" ed="T"/>昧寶藏法門。<lb
  n="0528a20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 行者當觀於己身　　即是毘盧遮那佛　　<lb
  n="0528a21" ed="T"/>本部所用金剛輪　　得金剛輪持明成　　<lb
  n="0528a22" ed="T"/>行者當觀於己身　　即是毘盧遮那佛　　<lb
@@ -1533,11 +1533,11 @@
  n="0528c29" ed="T"/>悉依金剛薩埵法　　普令三界阿吠舍　　<pb n="0529a" id="T18.0887.0529a" ed="T"/><lb
  n="0529a01" ed="T"/>假使諸毒滿虛空　　一剎那間悉能壞　　
 </ab><lb
- n="0529a02" ed="T"/><ab type="prose">爾時世尊大遍照如來。復入一切三昧金剛<lb
+ n="0529a02" ed="T"/><ab type='prose'>爾時世尊大遍照如來。復入一切三昧金剛<lb
  n="0529a03" ed="T"/>三摩地。從是三摩地出已宣說焰鬘得迦大<lb
  n="0529a04" ed="T"/>忿怒明王大明曰。<lb
  n="0529a05" ed="T"/></ab>
-<ab type="dharani">那謨嚩日囉倪也那野三摩野<lb
+<ab type='dharani'>那謨嚩日囉倪也那野三摩野<lb
  n="0529a06" ed="T"/>薩埵野唵羯囉羯囉俱嚕俱嚕摩摩<lb
  n="0529a07" ed="T"/>迦哩焬伴惹伴惹薩哩嚩尾覲那捺賀捺賀嚩日囉尾那野崗母<lb
  n="0529a09" ed="T"/>哩馱吒迦𡁠尾旦多羯囉摩賀<lb
@@ -1551,63 +1551,63 @@
  n="0529a19" ed="T"/>吽吽吽吽吽發吒發吒莎<lb
  n="0529a20" ed="T"/>賀<lb
  n="0529a21" ed="T"/></ab>
-<ab type="prose">說此大明已。世尊大遍照如來。即時安住如<lb
+<ab type='prose'>說此大明已。世尊大遍照如來。即時安住如<lb
  n="0529a22" ed="T"/>微塵數諸佛如來心月曼拏羅。乃現種種色<lb
  n="0529a23" ed="T"/>遍滿虛空界。復現自影像。亦遍虛空說是伽<lb
  n="0529a24" ed="T"/>陀曰。<lb
  n="0529a25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 大哉一切大明法　　最上金剛不可壞　　<lb
  n="0529a26" ed="T"/>一切如來堅固門　　得無等比甘露聚　　
 </ab><lb
- n="0529a27" ed="T"/><ab type="prose">爾時世尊大遍照如來。復入自性堅固三摩<lb
+ n="0529a27" ed="T"/><ab type='prose'>爾時世尊大遍照如來。復入自性堅固三摩<lb
  n="0529a28" ed="T"/>地。從是三摩地出已。宣說最上金剛心大明<lb
  n="0529a29" ed="T"/>曰。<pb n="0529b" id="T18.0887.0529b" ed="T"/><lb
  n="0529b01" ed="T"/></ab>
-<ab type="dharani">唵嚩日囉窟囉尾訖哩多那那<lb
+<ab type='dharani'>唵嚩日囉窟囉尾訖哩多那那<lb
  n="0529b02" ed="T"/>吽發吒<lb
  n="0529b03" ed="T"/></ab>
-<ab type="prose">說此大明已。一切如來亦悉怖畏。時彼持妙<lb
+<ab type='prose'>說此大明已。一切如來亦悉怖畏。時彼持妙<lb
  n="0529b04" ed="T"/>法者說是伽陀曰。<lb
  n="0529b05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 大哉一切大明法　　我三昧門真實說　　<lb
  n="0529b06" ed="T"/>乃至諸佛亦不破　　是即建立金剛幢　　
 </ab><lb
  n="0529b07" ed="T"/>
-<ab type="juan" subtype="close">佛說無二平等最上瑜伽大教王經卷第四</ab><lb
+<ab type='juan' subtype='close'>佛說無二平等最上瑜伽大教王經卷第四</ab><lb
  n="0529b08" ed="T"/><lb
  n="0529b09" ed="T"/><lb
  n="0529b10" ed="T"/><lb
  n="0529b11" ed="T"/>
-<ab type="juan" subtype="open">佛說無二平等最上瑜伽大教王<lb
+<ab type='juan' subtype='open'>佛說無二平等最上瑜伽大教王<lb
  n="0529b12" ed="T"/>經卷第五<lb
  n="0529b13" ed="T"/><lb
  n="0529b14" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0529b15" ed="T"/>傳法大師賜紫臣施護奉　詔譯</byline><lb
  n="0529b16" ed="T"/>無二平等最勝大儀軌王大遍照如來一切大<lb
  n="0529b17" ed="T"/>明金剛出生分第十五之二</ab><lb
- n="0529b18" ed="T"/><ab type="prose">爾時世尊大遍照如來。復入光照一切虛空<lb
+ n="0529b18" ed="T"/><ab type='prose'>爾時世尊大遍照如來。復入光照一切虛空<lb
  n="0529b19" ed="T"/>界金剛三摩地。從是三摩地出已。說此大明<lb
  n="0529b20" ed="T"/>曰。<lb
  n="0529b21" ed="T"/></ab>
-<ab type="dharani">唵嚩日囉骨嚕馱摩賀末羅賀<lb
+<ab type='dharani'>唵嚩日囉骨嚕馱摩賀末羅賀<lb
  n="0529b22" ed="T"/>那捺賀鉢左摩他尾枳囉尾特網娑野<lb
  n="0529b23" ed="T"/>嗢麁澁摩骨嚕馱吽發吒<lb
  n="0529b24" ed="T"/></ab>
-<ab type="prose">說此大明已。彼一切如來出現大輪光明。遍<lb
+<ab type='prose'>說此大明已。彼一切如來出現大輪光明。遍<lb
  n="0529b25" ed="T"/>滿虛空廣照一切。爾時持金剛者說是伽陀<lb
  n="0529b26" ed="T"/>曰。<lb
  n="0529b27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 大哉一切大明法　　是我最上金剛教　　<lb
  n="0529b28" ed="T"/>諸佛因此證菩提　　我亦由斯得成佛　　
 </ab><lb
- n="0529b29" ed="T"/><ab type="prose">爾時世尊大遍照如來。復入一切虛空界自<pb n="0529c" id="T18.0887.0529c" ed="T"/><lb
+ n="0529b29" ed="T"/><ab type='prose'>爾時世尊大遍照如來。復入一切虛空界自<pb n="0529c" id="T18.0887.0529c" ed="T"/><lb
  n="0529c01" ed="T"/>性光明金剛三摩地。從是三摩地出已。宣說<lb
  n="0529c02" ed="T"/>不動尊大忿怒明王大明曰。<lb
  n="0529c03" ed="T"/></ab>
-<ab type="dharani">那莫三滿多嚩日囉𧹞阿左羅阿左羅<lb
+<ab type='dharani'>那莫三滿多嚩日囉𧹞阿左羅阿左羅<lb
  n="0529c04" ed="T"/>賀那賀那底瑟吒底瑟吒阿尾<lb
  n="0529c05" ed="T"/>舍阿尾舍摩賀滿怛囉迦播羅迦<lb
  n="0529c06" ed="T"/>度弩度弩珂捺珂捺尾伽那摩<lb
@@ -1618,55 +1618,55 @@
  n="0529c11" ed="T"/>阿左羅濟吒濟吒吽吽阿三滿底迦<lb
  n="0529c12" ed="T"/>怛囉吒阿薩賀那莫莎賀<lb
  n="0529c13" ed="T"/></ab>
-<ab type="prose">說此大明已。于是持眾色者。安住一切三昧<lb
+<ab type='prose'>說此大明已。于是持眾色者。安住一切三昧<lb
  n="0529c14" ed="T"/>無生法一切如來心曼拏羅中。說是伽陀曰。<lb
  n="0529c15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 大哉一切大明法　　是我堅固真實生　　<lb
  n="0529c16" ed="T"/>金剛自性不可壞　　諸法因生無生相　　
 </ab><lb
- n="0529c17" ed="T"/><ab type="prose">爾時世尊大遍照如來。復入一切如來金剛<lb
+ n="0529c17" ed="T"/><ab type='prose'>爾時世尊大遍照如來。復入一切如來金剛<lb
  n="0529c18" ed="T"/>加持三摩地。從是三摩地出已。宣說大金剛<lb
  n="0529c19" ed="T"/>顰眉菩薩大明曰。<lb
  n="0529c20" ed="T"/></ab>
-<ab type="dharani">那謨婆誐嚩多曳勃哩俱吒也<lb
+<ab type='dharani'>那謨婆誐嚩多曳勃哩俱吒也<lb
  n="0529c21" ed="T"/>曳唵勃哩俱致多囕誐尾日林毘多嚩日囉摩賀末朗吽發吒<lb
  n="0529c23" ed="T"/></ab>
-<ab type="prose">說此大明已。于是金剛手菩薩大祕密主。出<lb
+<ab type='prose'>說此大明已。于是金剛手菩薩大祕密主。出<lb
  n="0529c24" ed="T"/>現一切如來大法光明。安住一切如來清淨<lb
  n="0529c25" ed="T"/>法中。說是伽陀曰。<lb
  n="0529c26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 大哉一切大明法　　最上妙樂法所集　　<lb
  n="0529c27" ed="T"/>金剛大智三昧門　　大明成就此無異　　
 </ab><lb
- n="0529c28" ed="T"/><ab type="prose">爾時世尊大遍照如來。復入普遍變化金剛<lb
+ n="0529c28" ed="T"/><ab type='prose'>爾時世尊大遍照如來。復入普遍變化金剛<lb
  n="0529c29" ed="T"/>加持三摩地。從是三摩地出已。宣說大力大<pb n="0530a" id="T18.0887.0530a" ed="T"/><lb
  n="0530a01" ed="T"/>忿怒明王大明曰。<lb
  n="0530a02" ed="T"/></ab>
-<ab type="dharani">唵嚩日囉骨嚕馱摩賀末羅<lb
+<ab type='dharani'>唵嚩日囉骨嚕馱摩賀末羅<lb
  n="0530a03" ed="T"/>賀那捺賀鉢左尾特網娑野嗢麁澁摩<lb
  n="0530a04" ed="T"/>骨嚕唐吽發吒<lb
  n="0530a05" ed="T"/></ab>
-<ab type="prose">說此大明已。于是大持祕密者。安住一切如<lb
+<ab type='prose'>說此大明已。于是大持祕密者。安住一切如<lb
  n="0530a06" ed="T"/>來祕密心。說是伽陀曰。<lb
  n="0530a07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 大哉一切大明法　　無上大智不破壞　　<lb
  n="0530a08" ed="T"/>大士三昧正成就　　金剛如意寶無異　　
 </ab><lb
- n="0530a09" ed="T"/><ab type="prose">爾時世尊大遍照如來。復入一切如來不壞<lb
+ n="0530a09" ed="T"/><ab type='prose'>爾時世尊大遍照如來。復入一切如來不壞<lb
  n="0530a10" ed="T"/>自性金剛加持三摩地。從是三摩地出已。宣<lb
  n="0530a11" ed="T"/>說金剛甘露軍拏利大忿怒明王大明曰。<lb
  n="0530a12" ed="T"/></ab>
-<ab type="dharani">唵朅朅珂呬珂呬底瑟吒底瑟<lb
+<ab type='dharani'>唵朅朅珂呬珂呬底瑟吒底瑟<lb
  n="0530a13" ed="T"/>吒屹哩賀拏屹哩賀拏<lb
  n="0530a14" ed="T"/>滿馱滿馱賀那賀那誐哩惹誐哩惹<lb
  n="0530a15" ed="T"/>尾薩普吒野尾薩普吒野度那<lb
  n="0530a16" ed="T"/>度那入嚩羅入嚩囉鉢囉入<lb
  n="0530a17" ed="T"/>嚩羅鉢囉入嚩囉屹囉娑<lb
  n="0530a18" ed="T"/>屹囉娑薩哩嚩尾伽那尾那<lb
- n="0530a19" ed="T"/>野崗尾󰍕馱囉枳哩枳羅入<lb
+ n="0530a19" ed="T"/>野崗尾𭔞馱囉枳哩枳羅入<lb
  n="0530a20" ed="T"/>嚩羅入嚩哩多虎多嚩賀室囉<lb
  n="0530a21" ed="T"/>摩賀陪囉嚩尾禰哩踰沙桑親那<lb
  n="0530a22" ed="T"/>親那桑頻那頻那摩賀嚩日囉<lb
@@ -1681,18 +1681,18 @@
  n="0530b05" ed="T"/>尾俱哩嚩阿尾舍阿尾舍摩賀<lb
  n="0530b06" ed="T"/>嚩日囉馱嚕倪也鉢野底莎賀<lb
  n="0530b07" ed="T"/></ab>
-<ab type="prose">說此大明已。于是大持金剛者生大歡喜。說<lb
+<ab type='prose'>說此大明已。于是大持金剛者生大歡喜。說<lb
  n="0530b08" ed="T"/>是伽陀曰。<lb
  n="0530b09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 大哉一切大明法　　真實堅固無有上　　<lb
  n="0530b10" ed="T"/>一切三昧從是生　　集真實法不破壞　　
 </ab><lb
- n="0530b11" ed="T"/><ab type="prose">爾時世尊大遍照如來。復入清淨堅固三摩<lb
+ n="0530b11" ed="T"/><ab type='prose'>爾時世尊大遍照如來。復入清淨堅固三摩<lb
  n="0530b12" ed="T"/>地。從是三摩地出已。宣說大金剛香菩薩大<lb
  n="0530b13" ed="T"/>明曰。<lb
  n="0530b14" ed="T"/></ab>
-<ab type="dharani">唵伊呬曳呬婆誐嚩底摩賀嚩日<lb
+<ab type='dharani'>唵伊呬曳呬婆誐嚩底摩賀嚩日<lb
  n="0530b15" ed="T"/>囉巘馱哩怛囉野𧹞囉怛那<lb
  n="0530b16" ed="T"/>曩薩多曳那葛茶葛茶末朗<lb
  n="0530b17" ed="T"/>禰網摩呬說囕誐嚕𧹞尾瑟𧹞俱<lb
@@ -1720,170 +1720,170 @@
  n="0530c15" ed="T"/>也鉢野底呬㰠㰠㰠㰠吽發<lb
  n="0530c16" ed="T"/>吒莎賀<lb
  n="0530c17" ed="T"/></ab>
-<ab type="prose">說此大明已。彼一切如來即現大金剛相應<lb
+<ab type='prose'>說此大明已。彼一切如來即現大金剛相應<lb
  n="0530c18" ed="T"/>雲。遍滿虛空。異口同音說伽陀曰。<lb
  n="0530c19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 大哉一切大明法　　廣大祕密真實藏　　<lb
  n="0530c20" ed="T"/>我等聞此勝金剛　　諸佛皆住阿吠舍　　
 </ab><lb
- n="0530c21" ed="T"/><ab type="prose">爾時世尊大遍照如來。復入一切如來妙善<lb
+ n="0530c21" ed="T"/><ab type='prose'>爾時世尊大遍照如來。復入一切如來妙善<lb
  n="0530c22" ed="T"/>金剛三摩地。從是三摩地出已。宣說馬頭大<lb
  n="0530c23" ed="T"/>忿怒明王大明曰。<lb
  n="0530c24" ed="T"/></ab>
-<ab type="dharani">伊呬呬摩賀嚩日囉那契嚩日囉<lb
+<ab type='dharani'>伊呬呬摩賀嚩日囉那契嚩日囉<lb
  n="0530c25" ed="T"/>目契賀那賀那捺賀捺賀鉢左鉢左<lb
  n="0530c26" ed="T"/>囕誐囕誐惹臘波惹臘波阿尾舍<lb
  n="0530c27" ed="T"/>阿尾舍喝野屹哩舞倪也鉢野<lb
  n="0530c28" ed="T"/>底莎賀<lb
  n="0530c29" ed="T"/></ab>
-<ab type="prose">說此大明時有大惡毒者。悉皆驚怖將至破<pb n="0531a" id="T18.0887.0531a" ed="T"/><lb
+<ab type='prose'>說此大明時有大惡毒者。悉皆驚怖將至破<pb n="0531a" id="T18.0887.0531a" ed="T"/><lb
  n="0531a01" ed="T"/>壞。即時頂禮歸命一切如來已。說是伽陀曰。<lb
  n="0531a02" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 大哉一切大明法　　善能破壞一切毒　　<lb
  n="0531a03" ed="T"/>我聞使者最上明　　得住諸佛清淨法　　
 </ab><lb
- n="0531a04" ed="T"/><ab type="prose">爾時世尊大遍照如來。復入三金剛不壞金<lb
+ n="0531a04" ed="T"/><ab type='prose'>爾時世尊大遍照如來。復入三金剛不壞金<lb
  n="0531a05" ed="T"/>剛三摩地。從是三摩地出已。宣說無能勝大<lb
  n="0531a06" ed="T"/>忿怒明王大明曰。<lb
  n="0531a07" ed="T"/></ab>
-<ab type="dharani">𡁠那𡁠俱吽吽發吒莎賀<lb
+<ab type='dharani'>𡁠那𡁠俱吽吽發吒莎賀<lb
  n="0531a08" ed="T"/></ab>
-<ab type="prose">說此大明已。于是世尊大遍照如來。雨一切<lb
+<ab type='prose'>說此大明已。于是世尊大遍照如來。雨一切<lb
  n="0531a09" ed="T"/>眾生種種樂具。廣大周遍說是伽陀曰。<lb
  n="0531a10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 大哉一切大明法　　從大生法而出生　　<lb
  n="0531a11" ed="T"/>為求成就佛菩提　　我故現處三有海　　
 </ab><lb
- n="0531a12" ed="T"/><ab type="prose">爾時世尊大遍照如來。復入法界變化金剛<lb
+ n="0531a12" ed="T"/><ab type='prose'>爾時世尊大遍照如來。復入法界變化金剛<lb
  n="0531a13" ed="T"/>加持三摩地。從是三摩地出已。宣說金剛烏<lb
  n="0531a14" ed="T"/>咄羯吒明王大明曰。<lb
  n="0531a15" ed="T"/></ab>
-<ab type="dharani">唵嚩日嚕咄羯吒野吽發吒<lb
+<ab type='dharani'>唵嚩日嚕咄羯吒野吽發吒<lb
  n="0531a17" ed="T"/></ab>
-<ab type="prose">說此大明已。于是持蓮華者。化現一切如來<lb
+<ab type='prose'>說此大明已。于是持蓮華者。化現一切如來<lb
  n="0531a18" ed="T"/>最上寶冠。滿虛空中說是伽陀曰。<lb
  n="0531a19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 大哉一切大明法　　從大明尊所出生　　<lb
  n="0531a20" ed="T"/>我住一切佛靜寂　　現是寶冠作供養　　
 </ab><lb
- n="0531a21" ed="T"/><ab type="prose">爾時世尊大遍照如來。復入一切輪作怖畏<lb
+ n="0531a21" ed="T"/><ab type='prose'>爾時世尊大遍照如來。復入一切輪作怖畏<lb
  n="0531a22" ed="T"/>三摩地。從是三摩地出已。宣說金剛顰眉大<lb
  n="0531a23" ed="T"/>明曰。<lb
  n="0531a24" ed="T"/></ab>
-<ab type="dharani">唵婆野那設禰怛囉娑禰怛囉<lb
+<ab type='dharani'>唵婆野那設禰怛囉娑禰怛囉<lb
  n="0531a25" ed="T"/>娑野怛囉娑野勃哩俱致怛<lb
  n="0531a26" ed="T"/>致吠怛致稅帝稅多惹致禰莎<lb
  n="0531a27" ed="T"/>賀<lb
  n="0531a28" ed="T"/></ab>
-<ab type="prose">說此大明已。于是持大寂靜者。化現一切如<lb
+<ab type='prose'>說此大明已。于是持大寂靜者。化現一切如<lb
  n="0531a29" ed="T"/>來諸供養具。供養一切如來已。說是伽陀曰。<pb n="0531b" id="T18.0887.0531b" ed="T"/><lb
  n="0531b01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 大哉一切大明法　　悉從諸佛祕密生　　<lb
  n="0531b02" ed="T"/>法母成就最上義　　當知生法如是說　　
 </ab><lb
- n="0531b03" ed="T"/><ab type="prose">爾時世尊大遍照如來。復入智眼金剛三摩<lb
+ n="0531b03" ed="T"/><ab type='prose'>爾時世尊大遍照如來。復入智眼金剛三摩<lb
  n="0531b04" ed="T"/>地。從是三摩地出已。宣說本部心大明曰。<lb
  n="0531b05" ed="T"/></ab>
-<ab type="dharani">唵𡁠那𡁠俱<lb
+<ab type='dharani'>唵𡁠那𡁠俱<lb
  n="0531b06" ed="T"/></ab>
-<ab type="prose">爾時世尊大遍照如來。復入一切三昧真實<lb
+<ab type='prose'>爾時世尊大遍照如來。復入一切三昧真實<lb
  n="0531b07" ed="T"/>金剛三摩地。從是三摩地出已。宣說蓮華部<lb
  n="0531b08" ed="T"/>心大明曰。<lb
  n="0531b09" ed="T"/></ab>
-<ab type="dharani">唵阿盧力俱<lb
+<ab type='dharani'>唵阿盧力俱<lb
  n="0531b10" ed="T"/></ab>
-<ab type="prose">爾時世尊大遍照如來。復入一切大士金剛<lb
+<ab type='prose'>爾時世尊大遍照如來。復入一切大士金剛<lb
  n="0531b11" ed="T"/>三摩地。從是三摩地出已。宣說佛眼菩薩大<lb
  n="0531b12" ed="T"/>明曰。<lb
  n="0531b13" ed="T"/></ab>
-<ab type="dharani">唵嚕嚕薩普嚕入嚩羅底瑟吒悉馱路左禰薩哩嚩哩他娑<lb
+<ab type='dharani'>唵嚕嚕薩普嚕入嚩羅底瑟吒悉馱路左禰薩哩嚩哩他娑<lb
  n="0531b15" ed="T"/>達禰莎賀<lb
  n="0531b16" ed="T"/></ab>
-<ab type="prose">爾時世尊大遍照如來。復入自性清淨三摩<lb
+<ab type='prose'>爾時世尊大遍照如來。復入自性清淨三摩<lb
  n="0531b17" ed="T"/>地。從是三摩地出已。說此大明曰。<lb
  n="0531b18" ed="T"/></ab>
-<ab type="dharani">唵商葛哩扇底迦哩瞿吒瞿吒<lb
+<ab type='dharani'>唵商葛哩扇底迦哩瞿吒瞿吒<lb
  n="0531b19" ed="T"/>瞿致禰伽多野伽多野瞿致禰吽<lb
  n="0531b20" ed="T"/>發吒莎賀<lb
  n="0531b21" ed="T"/></ab>
-<ab type="prose">爾時世尊大遍照如來。復入一切如來智生<lb
+<ab type='prose'>爾時世尊大遍照如來。復入一切如來智生<lb
  n="0531b22" ed="T"/>金剛三摩地。從是三摩地出已。宣說白衣菩<lb
  n="0531b23" ed="T"/>薩大明曰。<lb
  n="0531b24" ed="T"/></ab>
-<ab type="dharani">唵稅帝半拏囉嚩悉禰惹吒摩<lb
+<ab type='dharani'>唵稅帝半拏囉嚩悉禰惹吒摩<lb
  n="0531b25" ed="T"/>俱吒馱囉尼莎賀<lb
  n="0531b26" ed="T"/></ab>
-<ab type="prose">爾時世尊大遍照如來。復入諸佛變化三摩<lb
+<ab type='prose'>爾時世尊大遍照如來。復入諸佛變化三摩<lb
  n="0531b27" ed="T"/>地。從是三摩地出已。說此大明曰。<lb
  n="0531b28" ed="T"/></ab>
-<ab type="dharani">唵吽遜婆禰遜婆吽屹哩賀拏<lb
+<ab type='dharani'>唵吽遜婆禰遜婆吽屹哩賀拏<lb
  n="0531b29" ed="T"/>屹哩賀拏吽屹哩賀拏<pb n="0531c" id="T18.0887.0531c" ed="T"/><lb
- n="0531c01" ed="T"/>波野吽阿那野呼婆誐鑁尾󰍕囉<lb
+ n="0531c01" ed="T"/>波野吽阿那野呼婆誐鑁尾𭔞囉<lb
  n="0531c02" ed="T"/>惹吽發吒莎賀<lb
  n="0531c03" ed="T"/></ab>
-<ab type="prose">爾時世尊大遍照如來。復入大法變化三摩<lb
+<ab type='prose'>爾時世尊大遍照如來。復入大法變化三摩<lb
  n="0531c04" ed="T"/>地。從是三摩地出已。說此甘露生大明曰。<lb
  n="0531c05" ed="T"/></ab>
-<ab type="dharani">唵阿蜜哩覩努婆嚩野莎賀<lb
+<ab type='dharani'>唵阿蜜哩覩努婆嚩野莎賀<lb
  n="0531c06" ed="T"/><lb
  n="0531c07" ed="T"/></ab>
-<ab type="prose">爾時世尊大遍照如來。復入滅諸煩惱金剛<lb
+<ab type='prose'>爾時世尊大遍照如來。復入滅諸煩惱金剛<lb
  n="0531c08" ed="T"/>三摩地。從是三摩地出已。說此滅諸煩惱大<lb
  n="0531c09" ed="T"/>明曰。<lb
  n="0531c10" ed="T"/></ab>
-<ab type="dharani">唵訖哩捨薩那尾惹野郝<lb
+<ab type='dharani'>唵訖哩捨薩那尾惹野郝<lb
  n="0531c11" ed="T"/></ab>
-<ab type="prose">爾時世尊大遍照如來。復入大三昧輪三摩<lb
+<ab type='prose'>爾時世尊大遍照如來。復入大三昧輪三摩<lb
  n="0531c12" ed="T"/>地。從是三摩地出已。說此大法頂大明曰。<lb
  n="0531c13" ed="T"/></ab>
-<ab type="dharani">唵親那親那賀那賀那鉢左禰鉢多作訖囉吽<lb
+<ab type='dharani'>唵親那親那賀那賀那鉢左禰鉢多作訖囉吽<lb
  n="0531c15" ed="T"/></ab>
-<ab type="prose">爾時世尊大遍照如來。復入一切如來最上<lb
+<ab type='prose'>爾時世尊大遍照如來。復入一切如來最上<lb
  n="0531c16" ed="T"/>光三摩地。從是三摩地出已。說此光聚大明<lb
  n="0531c17" ed="T"/>曰。<lb
  n="0531c18" ed="T"/></ab>
-<ab type="dharani">唵入嚩羅入嚩羅馱迦馱迦馱<lb
+<ab type='dharani'>唵入嚩羅入嚩羅馱迦馱迦馱<lb
  n="0531c19" ed="T"/>囉馱囉尾馱囉尾馱囉親那親那吽吽<lb
  n="0531c20" ed="T"/>發吒莎賀<lb
  n="0531c21" ed="T"/></ab>
-<ab type="prose">爾時世尊大遍照如來。復入最勝金剛三摩<lb
+<ab type='prose'>爾時世尊大遍照如來。復入最勝金剛三摩<lb
  n="0531c22" ed="T"/>地。從是三摩地出已。說此最勝頂大明曰。<lb
  n="0531c23" ed="T"/></ab>
-<ab type="dharani">唵親那賀那捺賀鉢左禰鉢多<lb
+<ab type='dharani'>唵親那賀那捺賀鉢左禰鉢多<lb
  n="0531c24" ed="T"/>作訖囉吽<lb
  n="0531c25" ed="T"/></ab>
-<ab type="prose">爾時世尊大遍照如來。復入最上最勝三摩<lb
+<ab type='prose'>爾時世尊大遍照如來。復入最上最勝三摩<lb
  n="0531c26" ed="T"/>地。從是三摩地出已。說此最勝佛頂大明曰。<lb
  n="0531c27" ed="T"/></ab>
-<ab type="dharani">唵入嚩羅惹踰瑟尼沙入嚩羅入嚩羅滿駄滿馱捺摩捺摩訥<lb
+<ab type='dharani'>唵入嚩羅惹踰瑟尼沙入嚩羅入嚩羅滿駄滿馱捺摩捺摩訥<lb
  n="0531c29" ed="T"/>籠訥籠郝郝賀那賀那吽發吒<lb
  n="0532a02" ed="T"/></ab>
-<ab type="prose">爾時世尊大遍照如來。復入白色光明生金<lb
+<ab type='prose'>爾時世尊大遍照如來。復入白色光明生金<lb
  n="0532a03" ed="T"/>剛三摩地。從是三摩地出已。說此白傘蓋大<lb
  n="0532a04" ed="T"/>佛頂大明曰。<lb
  n="0532a05" ed="T"/></ab>
-<ab type="dharani">唵摩摩吽禰<lb
+<ab type='dharani'>唵摩摩吽禰<lb
  n="0532a06" ed="T"/></ab>
-<ab type="prose">爾時世尊大遍照如來。復入一切如來生金<lb
+<ab type='prose'>爾時世尊大遍照如來。復入一切如來生金<lb
  n="0532a07" ed="T"/>剛三摩地。從是三摩地出已。說此最上金剛<lb
  n="0532a08" ed="T"/>多羅菩薩大明曰。<lb
  n="0532a09" ed="T"/></ab>
-<ab type="dharani">唵多哩多哩覩哩莎賀<lb
+<ab type='dharani'>唵多哩多哩覩哩莎賀<lb
  n="0532a10" ed="T"/></ab>
-<ab type="prose">爾時世尊大遍照如來。復入一切如來吼音金<lb
+<ab type='prose'>爾時世尊大遍照如來。復入一切如來吼音金<lb
  n="0532a11" ed="T"/>剛三摩地。從是三摩地出已。說此作忿怒事<lb
  n="0532a12" ed="T"/>鉤召三界大明曰。<lb
  n="0532a13" ed="T"/></ab>
-<ab type="dharani">唵迦尼度禰吽發吒<lb
+<ab type='dharani'>唵迦尼度禰吽發吒<lb
  n="0532a14" ed="T"/></ab>
-<ab type="prose">說此大明已即說伽陀曰。<lb
+<ab type='prose'>說此大明已即說伽陀曰。<lb
  n="0532a15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 此明能作忿怒事　　乃至餘法亦能成　　<lb
  n="0532a16" ed="T"/>觀想真實法相應　　三種事業悉能作　　<lb
  n="0532a17" ed="T"/>不動大忿怒明王　　焰鬘得迦三出生　　<lb
@@ -1903,12 +1903,12 @@
  n="0532b02" ed="T"/>諸部祕密最上法　　彼一一法悉相應　　<lb
  n="0532b03" ed="T"/>行者安住禪定心　　觀想三摩地真實　　
 </ab></div><lb
- n="0532b04" ed="T"/><div type="fen" level="2"><head>無二平等最勝大儀軌王一切大明三昧分第<lb
+ n="0532b04" ed="T"/><div type='fen' level='2'><head>無二平等最勝大儀軌王一切大明三昧分第<lb
  n="0532b05" ed="T"/>十六</head><lb
- n="0532b06" ed="T"/><ab type="prose">爾時世尊大遍照如來復說一切大明隨應三<lb
+ n="0532b06" ed="T"/><ab type='prose'>爾時世尊大遍照如來復說一切大明隨應三<lb
  n="0532b07" ed="T"/>昧。<lb
  n="0532b08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若作息災增益等　　自影像相應諦想　　<lb
  n="0532b09" ed="T"/>諸法皆從心智生　　最上智冠法自在　　<lb
  n="0532b10" ed="T"/>自心圓滿若相應　　諸佛影像當觀想　　<lb
@@ -1924,12 +1924,12 @@
  n="0532b20" ed="T"/>今此一切大明句　　大明三昧所出生　　<lb
  n="0532b21" ed="T"/>諸佛利益悲愍心　　金剛無畏善宣說　　
 </ab></div><lb
- n="0532b22" ed="T"/><div type="fen" level="2"><head>無二平等最勝大儀軌王一切如來一切大明<lb
+ n="0532b22" ed="T"/><div type='fen' level='2'><head>無二平等最勝大儀軌王一切如來一切大明<lb
  n="0532b23" ed="T"/>遣魔分第十七</head><lb
- n="0532b24" ed="T"/><ab type="prose">爾時世尊大遍照如來。復說一切大明遣魔<lb
+ n="0532b24" ed="T"/><ab type='prose'>爾時世尊大遍照如來。復說一切大明遣魔<lb
  n="0532b25" ed="T"/>法。<lb
  n="0532b26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 所有一切遣魔法　　諸佛真實智所生　　<lb
  n="0532b27" ed="T"/>三種忿怒平等門　　金剛出生善宣說　　<lb
  n="0532b28" ed="T"/>焰鬘得迦智部法　　馬頭明王大忿怒　　<lb
@@ -1943,12 +1943,12 @@
  n="0532c07" ed="T"/>於七晝夜依法作　　諸魔若不調伏者　　<lb
  n="0532c08" ed="T"/>忿怒金剛速破壞　　彼當頭破作七分　　
 </ab></div><lb
- n="0532c09" ed="T"/><div type="fen" level="2"><head>無二平等最勝大儀軌王一切如來祕密金剛<lb
+ n="0532c09" ed="T"/><div type='fen' level='2'><head>無二平等最勝大儀軌王一切如來祕密金剛<lb
  n="0532c10" ed="T"/>薩埵承事分第十八</head><lb
- n="0532c11" ed="T"/><ab type="prose">爾時世尊大遍照如來。復依金剛薩埵法。說<lb
+ n="0532c11" ed="T"/><ab type='prose'>爾時世尊大遍照如來。復依金剛薩埵法。說<lb
  n="0532c12" ed="T"/>弟子承事阿闍梨儀。<lb
  n="0532c13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 謂若見自阿闍梨　　與佛阿闍梨無異　　<lb
  n="0532c14" ed="T"/>金剛加持所出生　　乃至盡壽常恭敬　　<lb
  n="0532c15" ed="T"/>弟子所作應堅固　　不應處師床坐臥　　<lb
@@ -1992,19 +1992,19 @@
  n="0533a24" ed="T"/>此即三界勝成就　　諸佛大智所出生　　
 </ab></div><lb
  n="0533a25" ed="T"/>
-<ab type="juan" subtype="close">佛說無二平等最上瑜伽大教王經卷第五</ab><pb n="0533b" id="T18.0887.0533b" ed="T"/><lb
+<ab type='juan' subtype='close'>佛說無二平等最上瑜伽大教王經卷第五</ab><pb n="0533b" id="T18.0887.0533b" ed="T"/><lb
  n="0533b01" ed="T"/><lb
  n="0533b02" ed="T"/>
-<ab type="juan" subtype="open">佛說無二平等最上瑜伽大教王<lb
+<ab type='juan' subtype='open'>佛說無二平等最上瑜伽大教王<lb
  n="0533b03" ed="T"/>經卷第六</ab><lb
  n="0533b04" ed="T"/><lb
  n="0533b05" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0533b06" ed="T"/>傳法大師賜紫臣施護奉　詔譯</byline><lb
- n="0533b07" ed="T"/><div type="fen" level="2"><head>無二平等最勝大儀軌王一切如來大明如意<lb
+ n="0533b07" ed="T"/><div type='fen' level='2'><head>無二平等最勝大儀軌王一切如來大明如意<lb
  n="0533b08" ed="T"/>寶分第十九</head><lb
- n="0533b09" ed="T"/><ab type="prose">爾時世尊大遍照如來。復說一切事成就行。<lb
+ n="0533b09" ed="T"/><ab type='prose'>爾時世尊大遍照如來。復說一切事成就行。<lb
  n="0533b10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 一切祕密大明句　　能施一切眾生樂　　<lb
  n="0533b11" ed="T"/>執金剛王持明者　　一切最上尊自在　　<lb
  n="0533b12" ed="T"/>無缺減法所出生　　所說亦離諸過失　　<lb
@@ -2026,7 +2026,7 @@
  n="0533b28" ed="T"/>於一切事若厭離　　乃至盡壽破所作　　<lb
  n="0533b29" ed="T"/>彼持妙法最上王　　一切最上尊自在　　
 </ab><pb n="0533c" id="T18.0887.0533c" ed="T"/><lb
- n="0533c01" ed="T"/><ab type="prose">爾時十方來者一切如來。聞大遍照如來宣<lb
+ n="0533c01" ed="T"/><ab type='prose'>爾時十方來者一切如來。聞大遍照如來宣<lb
  n="0533c02" ed="T"/>說如是等一切如來智輪法性文字真實法門<lb
  n="0533c03" ed="T"/>已。咸皆歡喜生希有心。即謂金剛手菩薩言。<lb
  n="0533c04" ed="T"/>希有善男子。此諸法門名為一切智智主。若<lb
@@ -2039,7 +2039,7 @@
  n="0533c11" ed="T"/>加持已。即說一切如來大明如意寶三摩地<lb
  n="0533c12" ed="T"/>法門。<lb
  n="0533c13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 所有加持大明等　　當想諸法真實性　　<lb
  n="0533c14" ed="T"/>最上依彼本法儀　　四相如應當觀想　　<lb
  n="0533c15" ed="T"/>行者先當於己身　　自影像相如應想　　<lb
@@ -2063,11 +2063,11 @@
  n="0534a04" ed="T"/>佛頂大明祕密法　　及諸明王等大明　　<lb
  n="0534a05" ed="T"/>一切本部法相應　　出生持念依儀法　　
 </ab><lb
- n="0534a06" ed="T"/><ab type="prose">此名三金剛相應大遍照如來三摩地。復次<lb
+ n="0534a06" ed="T"/><ab type='prose'>此名三金剛相應大遍照如來三摩地。復次<lb
  n="0534a07" ed="T"/>世尊大遍照如來。宣說三金剛智金剛薩埵<lb
  n="0534a08" ed="T"/>三摩地法門。<lb
  n="0534a09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 先想心月曼拏羅　　出現大明文字相　　<lb
  n="0534a10" ed="T"/>唵字想即遍照尊　　種種光明悉周遍　　<lb
  n="0534a11" ed="T"/>吽字金剛薩埵相　　焰鬘種種相莊嚴　　<lb
@@ -2075,28 +2075,28 @@
  n="0534a13" ed="T"/>復想帝青大光明　　周匝廣大而照耀　　<lb
  n="0534a14" ed="T"/>一切所作依法儀　　如應觀相求成就　　
 </ab><lb
- n="0534a15" ed="T"/><ab type="prose">復次金剛手菩薩。宣說無量壽如來圓滿一<lb
+ n="0534a15" ed="T"/><ab type='prose'>復次金剛手菩薩。宣說無量壽如來圓滿一<lb
  n="0534a16" ed="T"/>切願三摩地法門。<lb
  n="0534a17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 先當想心曼拏羅　　出現大明文字相　　<lb
  n="0534a18" ed="T"/>中心應觀想璫字　　即是本尊無量壽　　<lb
  n="0534a19" ed="T"/>手持八葉妙蓮華　　出現蓮華妙樂光　　<lb
  n="0534a20" ed="T"/>左右本部自影像　　應當觀想金剛愛　　<lb
  n="0534a21" ed="T"/>一切所作依法儀　　如應觀想求成就　　
 </ab><lb
- n="0534a22" ed="T"/><ab type="prose">復次金剛手菩薩。宣說迦摩焰三摩地法門。<lb
+ n="0534a22" ed="T"/><ab type='prose'>復次金剛手菩薩。宣說迦摩焰三摩地法門。<lb
  n="0534a23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 如先所說曼拏羅　　一切所作依儀法　　<lb
  n="0534a24" ed="T"/>於中觀想娑字相　　是即迦摩焰影像　　<lb
  n="0534a25" ed="T"/>觀想手執於三叉　　出現閻浮檀金光　　<lb
  n="0534a26" ed="T"/>周匝想賀字相應　　心曼拏羅各安布　　<lb
  n="0534a27" ed="T"/>法主影像觀想已　　然後如應而作事　　
 </ab><lb
- n="0534a28" ed="T"/><ab type="prose">復次金剛手菩薩。宣說祕密護摩法門。<lb
+ n="0534a28" ed="T"/><ab type='prose'>復次金剛手菩薩。宣說祕密護摩法門。<lb
  n="0534a29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 當知佛影像平等　　如應觀想依法儀　　<pb n="0534b" id="T18.0887.0534b" ed="T"/><lb
  n="0534b01" ed="T"/>所有佛頂大明句　　忿怒明王諸大明　　<lb
  n="0534b02" ed="T"/>一切羯磨大明等　　至心持誦作先行　　<lb
@@ -2147,9 +2147,9 @@
  n="0534c18" ed="T"/>此中一切大明句　　相應身語心觀想　　<lb
  n="0534c19" ed="T"/>大智所說作成就　　是即祕密金剛智　　
 </ab><lb
- n="0534c20" ed="T"/><ab type="prose">此名金剛薩埵法。<lb
+ n="0534c20" ed="T"/><ab type='prose'>此名金剛薩埵法。<lb
  n="0534c21" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若欲成此勝悉地　　當知護摩諸大明　　<lb
  n="0534c22" ed="T"/>祕密真實三摩地　　種種護摩儀軌事　　<lb
  n="0534c23" ed="T"/>四種曼拏羅相應　　了知諸部諸事業　　<lb
@@ -2162,9 +2162,9 @@
  n="0535a01" ed="T"/>如其所說作觀想　　羯磨部作變化事　　<lb
  n="0535a02" ed="T"/>依法當於其舌端　　想現吽字大明相　　
 </ab><lb
- n="0535a03" ed="T"/><ab type="prose">此名金剛薩埵法。<lb
+ n="0535a03" ed="T"/><ab type='prose'>此名金剛薩埵法。<lb
  n="0535a04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若作息災護摩法　　應用蜜及乳等物　　<lb
  n="0535a05" ed="T"/>若依智金剛部說　　摩賀帶羅為最上　　<lb
  n="0535a06" ed="T"/>行者當住善寂心　　觀想金剛阿闍梨　　<lb
@@ -2173,14 +2173,14 @@
  n="0535a09" ed="T"/>彼蓮華部尊影像　　及迦摩焰金剛等　　<lb
  n="0535a10" ed="T"/>安布大明文字已　　四種事業應分別　　
 </ab><lb
- n="0535a11" ed="T"/><ab type="prose">此名大執金剛尊祕密護摩法。</ab></div><lb
- n="0535a12" ed="T"/><div type="fen" level="2"><head>無二平等最勝大儀軌王集一切大明三摩地<lb
+ n="0535a11" ed="T"/><ab type='prose'>此名大執金剛尊祕密護摩法。</ab></div><lb
+ n="0535a12" ed="T"/><div type='fen' level='2'><head>無二平等最勝大儀軌王集一切大明三摩地<lb
  n="0535a13" ed="T"/>分第二十</head><lb
- n="0535a14" ed="T"/><ab type="prose">爾時金剛手菩薩大祕密主。復入一切如來<lb
+ n="0535a14" ed="T"/><ab type='prose'>爾時金剛手菩薩大祕密主。復入一切如來<lb
  n="0535a15" ed="T"/>無緣三昧智金剛加持三摩地。從是三摩地<lb
  n="0535a16" ed="T"/>出已。宣說一切三摩地集諸大明精妙法門。<lb
  n="0535a17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 諸佛金剛廣大法　　從三昧門所出生　　<lb
  n="0535a18" ed="T"/>一切大明無所緣　　此說名為禪定法　　<lb
  n="0535a19" ed="T"/>所有一切佛三昧　　智部真實無所緣　　<lb
@@ -2194,24 +2194,24 @@
  n="0535a27" ed="T"/>迦摩金剛相應等　　五種智通如所說　　<lb
  n="0535a28" ed="T"/>迦摩藏攝彼勝上　　佛二足尊真實智　　
 </ab><lb
- n="0535a29" ed="T"/><ab type="prose">此名一切佛三昧智部三摩地。<pb n="0535b" id="T18.0887.0535b" ed="T"/><lb
+ n="0535a29" ed="T"/><ab type='prose'>此名一切佛三昧智部三摩地。<pb n="0535b" id="T18.0887.0535b" ed="T"/><lb
  n="0535b01" ed="T"/>爾時金剛手菩薩大祕密主。復入執金剛三<lb
  n="0535b02" ed="T"/>昧真實加持三摩地。從是三摩地出已。宣說<lb
  n="0535b03" ed="T"/>一切金剛三昧精妙真實金剛三摩地。<lb
  n="0535b04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 金剛曼拏羅相應　　於中分別彼影像　　<lb
  n="0535b05" ed="T"/>黑色復想忿怒容　　出現大惡可怖相　　<lb
  n="0535b06" ed="T"/>四臂如應依法想　　二處平等而相應　　<lb
  n="0535b07" ed="T"/>此金剛教大堅固　　安住金剛心成就　　<lb
  n="0535b08" ed="T"/>能成就諸成就事　　金剛妙樂法所說　　
 </ab><lb
- n="0535b09" ed="T"/><ab type="prose">此名一切執金剛相應三摩地。<lb
+ n="0535b09" ed="T"/><ab type='prose'>此名一切執金剛相應三摩地。<lb
  n="0535b10" ed="T"/>爾時金剛手菩薩大祕密主。復入一切法最<lb
  n="0535b11" ed="T"/>上三昧加持三摩地。從是三摩地出已。宣說<lb
  n="0535b12" ed="T"/>一切法最上普遍吉祥三摩地。<lb
  n="0535b13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 妙法曼拏羅相應　　於中影像當安想　　<lb
  n="0535b14" ed="T"/>持赤蓮華大光明　　種種妙寶為嚴飾　　<lb
  n="0535b15" ed="T"/>四臂亦依本部法　　如應觀想彼色相　　<lb
@@ -2219,11 +2219,11 @@
  n="0535b17" ed="T"/>語金剛等得成就　　自悲願等亦成就　　<lb
  n="0535b18" ed="T"/>一切金剛相應等　　如應觀想皆成就　　
 </ab><lb
- n="0535b19" ed="T"/><ab type="prose">爾時金剛手菩薩大祕密主。復入一切三昧<lb
+ n="0535b19" ed="T"/><ab type='prose'>爾時金剛手菩薩大祕密主。復入一切三昧<lb
  n="0535b20" ed="T"/>部真實加持金剛三摩地。從是三摩地出已。<lb
  n="0535b21" ed="T"/>宣說金剛三叉最上三昧三摩地。<lb
  n="0535b22" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 迦摩禪定曼拏羅　　於中影像當安想　　<lb
  n="0535b23" ed="T"/>黃色復現寂靜光　　觀想現於三目相　　<lb
  n="0535b24" ed="T"/>水精色光甚清淨　　磨羯部中變化事　　<lb
@@ -2232,15 +2232,15 @@
  n="0535b27" ed="T"/>此中一切大明句　　說名三摩地莊嚴　　<lb
  n="0535b28" ed="T"/>所有金剛薩埵相　　而身語心善觀想　　
 </ab><lb
- n="0535b29" ed="T"/><ab type="prose">金剛薩埵總說頌曰。<pb n="0535c" id="T18.0887.0535c" ed="T"/><lb
+ n="0535b29" ed="T"/><ab type='prose'>金剛薩埵總說頌曰。<pb n="0535c" id="T18.0887.0535c" ed="T"/><lb
  n="0535c01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 乃至一切境界中　　一切賢聖普稱讚　　<lb
  n="0535c02" ed="T"/>如是諸法悉相應　　出生儀軌得成就　　
 </ab><lb
- n="0535c03" ed="T"/><ab type="prose">此名金剛薩埵法。<lb
+ n="0535c03" ed="T"/><ab type='prose'>此名金剛薩埵法。<lb
  n="0535c04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 分別自心大明字　　及本部諸賢聖明　　<lb
  n="0535c05" ed="T"/>部主本尊大明句　　并本部中明王等　　<lb
  n="0535c06" ed="T"/>一切羯磨大明法　　佛頂大明當觀想　　<lb
@@ -2274,9 +2274,9 @@
  n="0536a05" ed="T"/>三部法用吽字明　　唵字智部為最上　　<lb
  n="0536a06" ed="T"/>大明文字等安布　　於額及心而觀想　　
 </ab><lb
- n="0536a07" ed="T"/><ab type="prose">普賢菩薩持金剛者。即說頌曰。<lb
+ n="0536a07" ed="T"/><ab type='prose'>普賢菩薩持金剛者。即說頌曰。<lb
  n="0536a08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 依法四時而相應　　想金剛甘露影像　　<lb
  n="0536a09" ed="T"/>近成就法此能成　　此成就法為最上　　<lb
  n="0536a10" ed="T"/>本尊影像相應已　　大成就事悉能成　　<lb
@@ -2286,14 +2286,14 @@
  n="0536a14" ed="T"/>依法所作得成佛　　一切成就皆如意　　<lb
  n="0536a15" ed="T"/>此諸成就無有上　　廣大成就功德生　　
 </ab></div><lb
- n="0536a16" ed="T"/><div type="fen" level="2"><head>無二平等最勝大儀軌王一切如來身語心清<lb
+ n="0536a16" ed="T"/><div type='fen' level='2'><head>無二平等最勝大儀軌王一切如來身語心清<lb
  n="0536a17" ed="T"/>淨自性金剛大智分第二十一</head><lb
- n="0536a18" ed="T"/><ab type="prose">爾時十方來者一切如來。即現一切如來出<lb
+ n="0536a18" ed="T"/><ab type='prose'>爾時十方來者一切如來。即現一切如來出<lb
  n="0536a19" ed="T"/>生妙樂大莊嚴雲供養金剛手菩薩大祕密<lb
  n="0536a20" ed="T"/>主。作供養已。從語金剛出妙法音。稱讚所說<lb
  n="0536a21" ed="T"/>大金剛教祕密法門。<lb
  n="0536a22" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 祕密清淨大乘法　　智中勝智功德藏　　<lb
  n="0536a23" ed="T"/>普遍大智無我門　　歸命稱讚祕密智　　<lb
  n="0536a24" ed="T"/>祕密真實清淨義　　無上行法如大海　　<lb
@@ -2305,7 +2305,7 @@
  n="0536b01" ed="T"/>清淨法身大解脫　　如如意寶大自在　　<lb
  n="0536b02" ed="T"/>一切眾生解脫門　　歸命稱讚清淨行　　
 </ab><lb
- n="0536b03" ed="T"/><ab type="prose">爾時會中有菩薩摩訶薩。名如意寶三昧金<lb
+ n="0536b03" ed="T"/><ab type='prose'>爾時會中有菩薩摩訶薩。名如意寶三昧金<lb
  n="0536b04" ed="T"/>剛。前白金剛手菩薩大祕密主言。大士若有<lb
  n="0536b05" ed="T"/>菩薩。於如是大功德法。樂欲求者當云何求。<lb
  n="0536b06" ed="T"/>爾時金剛手菩薩大祕密主。告如意寶三昧<lb
@@ -2327,11 +2327,11 @@
  n="0536b22" ed="T"/>見。如是見者離分別見。爾時一切如來所化<lb
  n="0536b23" ed="T"/>大人。生大歡喜歎未曾有。即說伽陀曰。<lb
  n="0536b24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 大哉智大智　　出現大金剛　　<lb
  n="0536b25" ed="T"/>世間諸盲人　　得智眼清淨　　
 </ab><lb
- n="0536b26" ed="T"/><ab type="prose">爾時金剛手菩薩大祕密主。復入一切金剛<lb
+ n="0536b26" ed="T"/><ab type='prose'>爾時金剛手菩薩大祕密主。復入一切金剛<lb
  n="0536b27" ed="T"/>無二平等三昧金剛三摩地。於是三摩地中。<lb
  n="0536b28" ed="T"/>出現殑伽沙數百千俱胝那庾多光明。照東<lb
  n="0536b29" ed="T"/>南方不可說不可說微塵數佛剎。是諸佛剎<pb n="0536c" id="T18.0887.0536c" ed="T"/><lb
@@ -2348,5 +2348,5 @@
  n="0536c11" ed="T"/>應法中如理而住。金剛手菩薩大祕密主。亦<lb
  n="0536c12" ed="T"/>復於自身語心祕密相應真實法住。</ab></div><lb
  n="0536c13" ed="T"/>
-<ab type="juan" subtype="close">佛說無二平等最上瑜伽大教王經卷第六</ab></div>
+<ab type='juan' subtype='close'>佛說無二平等最上瑜伽大教王經卷第六</ab></div>
 </body></text></TEI>

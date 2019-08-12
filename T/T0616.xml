@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T15</biblScope>
                     <idno type="Taisho">T15n0616</idno>
                 </bibl>
@@ -39,17 +39,17 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0286b10" ed="T"/><lb
  n="0286b11" ed="T"/><lb
- n="0286b12" ed="T"/><div type="jing" level="2"><lb
+ n="0286b12" ed="T"/><div type='jing' level='2'><lb
  n="0286b13" ed="T"/>
-<ab type="juan" subtype="open">禪法要解卷上</ab><lb
+<ab type='juan' subtype='open'>禪法要解卷上</ab><lb
  n="0286b14" ed="T"/><lb
  n="0286b15" ed="T"/><byline>姚秦三藏鳩摩羅什等<lb
  n="0286b16" ed="T"/>於長安逍遙園譯</byline><lb
- n="0286b17" ed="T"/><ab type="prose">行者初來欲受法時，師問五眾戒淨已，若婬<lb
+ n="0286b17" ed="T"/><ab type='prose'>行者初來欲受法時，師問五眾戒淨已，若婬<lb
  n="0286b18" ed="T"/>欲多者，應教觀不淨。不淨有二種：一者惡厭<lb
  n="0286b19" ed="T"/>不淨、二者非惡厭不淨。何以故？眾生有六種<lb
  n="0286b20" ed="T"/>欲：一者著色、二者著形容、三者著威儀、四者<lb
@@ -91,7 +91,7 @@
  n="0286c27" ed="T"/>揵連得阿羅漢道，本婦將從伎樂、盛自莊<lb
  n="0286c28" ed="T"/>嚴飾，欲壞目連。目連爾時說偈言：<lb
  n="0286c29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『汝身骨幹立，　　皮肉相纏裹，　　<pb n="0287a" ed="T" id="T15.0616.0287a"/><lb
  n="0287a01" ed="T"/>不淨內充滿，　　無一是好物，　　<lb
  n="0287a02" ed="T"/>韋囊盛屎尿，　　九孔常流出，　　<lb
@@ -115,7 +115,7 @@
  n="0287a20" ed="T"/>我心如虛空，　　一切無所著，　　<lb
  n="0287a21" ed="T"/>正使天欲來，　　不能染我心。』」　　
 </ab><lb
- n="0287a22" ed="T"/><ab type="prose">行者如是思惟決定堅固，住心本緣不畏眾<lb
+ n="0287a22" ed="T"/><ab type='prose'>行者如是思惟決定堅固，住心本緣不畏眾<lb
  n="0287a23" ed="T"/>欲。若利根者，一心精勤，遠至七日心得定<lb
  n="0287a24" ed="T"/>住；中根者，乃至三七；鈍根者，久久乃得。如<lb
  n="0287a25" ed="T"/>攢酪成酥，必可得也。若不任習行，是身雖<lb
@@ -140,7 +140,7 @@
  n="0287b15" ed="T"/>不知求，反更外求不淨罪樂。行者常應精進，<lb
  n="0287b16" ed="T"/>晝夜集諸善法助成禪定，諸障禪法令心遠<lb
  n="0287b17" ed="T"/>離。集諸善法者，觀欲界無常、苦、空、無我，如<lb
- n="0287b18" ed="T"/>病、如瘡、如癰、如箭入心，三毒熾燃起諸鬪諍、<lb
+ n="0287b18" ed="T"/>病、如瘡、如癰、如箭入心，三毒熾然起諸鬪諍、<lb
  n="0287b19" ed="T"/>嫉妬烟相甚為惡厭。如是觀者，是名初習禪<lb
  n="0287b20" ed="T"/>法。若習法時，中間或有五蓋覆心，即應除滅，<lb
  n="0287b21" ed="T"/>如黑雲翳日風力破散。若婬欲蓋起，心念五<lb
@@ -457,7 +457,7 @@
  n="0291a13" ed="T"/>修慈心則隨佛教，如是不虛食人信施。」復次<lb
  n="0291a14" ed="T"/>若出家若在家行者作是念：「慈心力故，於惡<lb
  n="0291a15" ed="T"/>世中安隱無患，於破法眾中獨隨法行，於熱<lb
- n="0291a16" ed="T"/>煩惱令心清冷，如近聚落有涼清池。」復次行<lb
+ n="0291a16" ed="T"/>煩惱令心清冷，如近聚落有清涼池。」復次行<lb
  n="0291a17" ed="T"/>慈力故，怨家毒害不能復害，如著革屣刺<lb
  n="0291a18" ed="T"/>不能傷，行者處於欲界，多瞋怒害，鬪諍怨毒<lb
  n="0291a19" ed="T"/>種種諸害，慈心力故無能傷損，譬如力士著<lb
@@ -562,8 +562,8 @@
  n="0292b02" ed="T"/>捨而不問，若恭敬愛著不以為喜，是為捨心，<lb
  n="0292b03" ed="T"/>如是等四無量義，如摩訶衍中說。<lb
  n="0292b04" ed="T"/>
-</ab><ab type="juan" subtype="close">禪法要解卷上</ab></div><lb
- n="0292b05" ed="T"/><div type="w" level="2"><ab type="prose">淨觀者三品：或初習行，或已習行，或久習<lb
+</ab><ab type='juan' subtype='close'>禪法要解卷上</ab></div><lb
+ n="0292b05" ed="T"/><div type='w' level='2'><ab type='prose'>淨觀者三品：或初習行，或已習行，或久習<lb
  n="0292b06" ed="T"/>行。若初習行，當教言：「破皮却不淨，當觀白<lb
  n="0292b07" ed="T"/>骨人，繫意在觀不令外意，外念諸緣攝之<lb
  n="0292b08" ed="T"/>令還。」若已習行，當教言：「心却皮肉，具觀<lb
@@ -592,13 +592,13 @@
  n="0292c02" ed="T"/>還至一寸，心得自住，是為不淨中淨三昧<lb
  n="0292c03" ed="T"/>門。復次此身空骨以薄皮覆，有何可樂？甚<lb
  n="0292c04" ed="T"/>可患也。</ab></div><lb
- n="0292c05" ed="T"/><div type="jing" level="2"><lb
+ n="0292c05" ed="T"/><div type='jing' level='2'><lb
  n="0292c06" ed="T"/>
-<ab type="juan" subtype="open">禪法要解卷下</ab><lb
+<ab type='juan' subtype='open'>禪法要解卷下</ab><lb
  n="0292c07" ed="T"/><lb
  n="0292c08" ed="T"/><byline>姚秦三藏鳩摩羅什等<lb
  n="0292c09" ed="T"/>於長安逍遙園譯</byline><lb
- n="0292c10" ed="T"/><ab type="prose">若行者欲求虛空定，當作是念：「色是種種<lb
+ n="0292c10" ed="T"/><ab type='prose'>若行者欲求虛空定，當作是念：「色是種種<lb
  n="0292c11" ed="T"/>眾苦具，如鞭杖割截殺害飢寒老病苦等，皆<lb
  n="0292c12" ed="T"/>由色故。」思惟如是則捨離色得虛空處。問曰：<lb
  n="0292c13" ed="T"/>行者今以色為身，云何便得捨離？答曰：諸煩<lb
@@ -1016,7 +1016,7 @@
  n="0297b19" ed="T"/>目，夜則無在念上明相如眼所見。常修習明<lb
  n="0297b20" ed="T"/>念，繫心在明不令他念，若去攝還心得一處。<lb
  n="0297b21" ed="T"/>是時色界四大所造清淨之色在此眼中，是<lb
- n="0297b22" ed="T"/>眼名天，以天四大造故，名為天眼，又諸賢聖<lb
+ n="0297b22" ed="T"/>名天眼，以天四大造故，名為天眼，又諸賢聖<lb
  n="0297b23" ed="T"/>清淨眼故，名為天眼。行者得是天眼已，諸山<lb
  n="0297b24" ed="T"/>樹木、鐵圍、須彌及諸國土，都無障蔽、以無礙<lb
  n="0297b25" ed="T"/>眼，能見十方無量阿僧祇諸佛及莊嚴國土。<lb
@@ -1037,5 +1037,5 @@
  n="0297c11" ed="T"/>大天亦復不見，如是等種種神通義，如摩訶<lb
  n="0297c12" ed="T"/>衍神通義中廣說。<lb
  n="0297c13" ed="T"/>
-</ab><ab type="juan" subtype="close">禪法要解卷下</ab></div></div>
+</ab><ab type='juan' subtype='close'>禪法要解卷下</ab></div></div>
 </body></text></TEI>

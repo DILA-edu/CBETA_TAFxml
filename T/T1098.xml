@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1098</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0432b" id="T20.1098.0432b" ed="T"/><lb
  n="0432b01" ed="T"/><lb
  n="0432b02" ed="T"/><lb
  n="0432b03" ed="T"/>
-<ab type="juan" subtype="open">佛說不空羂索陀羅尼儀軌經卷<lb
+<ab type='juan' subtype='open'>佛說不空羂索陀羅尼儀軌經卷<lb
  n="0432b04" ed="T"/>上</ab><lb
  n="0432b05" ed="T"/><lb
  n="0432b06" ed="T"/><byline>師子國三藏阿目佉奉　詔譯</byline><lb
- n="0432b07" ed="T"/><div type="jing" level="2"><ab type="prose">如是我聞。一時佛在淨居天中。與諸天大<lb
+ n="0432b07" ed="T"/><div type='jing' level='2'><ab type='prose'>如是我聞。一時佛在淨居天中。與諸天大<lb
  n="0432b08" ed="T"/>眾淨居天王。伊首羅天王魔醯首羅天王。大<lb
  n="0432b09" ed="T"/>梵天王帝釋天王及諸天眾。寶蓮華師子之<lb
  n="0432b10" ed="T"/>座而說妙法。踰如日光照明一切。爾時觀世<lb
@@ -215,7 +215,7 @@
  n="0434a27" ed="T"/>光明晃耀照十方界。從三昧起。即說不空羂<lb
  n="0434a28" ed="T"/>索心王母陀羅尼密言曰。<lb
  n="0434a29" ed="T"/></ab>
-<ab type="dharani">曩莫噻底哩耶特嚩󰺳誐哆<lb
+<ab type='dharani'>曩莫噻底哩耶特嚩𭉏誐哆<lb
  n="0434a30" ed="T"/>鉢囉底瑟恥帝弊耶曩莫<pb n="0434b" id="T20.1098.0434b" ed="T"/><lb
  n="0434b01" ed="T"/>薩嚩母馱步提娑底𡀎弊耶<lb
  n="0434b02" ed="T"/>曩莫薩嚩鉢囉底曳迦母馱<lb
@@ -232,16 +232,16 @@
  n="0434b13" ed="T"/>曷囉惹耶怛他揭哆耶曩<lb
  n="0434b14" ed="T"/>牟弭多皤野怛他揭哆耶曩莽蘇鉢囉<lb
  n="0434b15" ed="T"/>底瑟恥哆莽抳據吒囉惹耶怛他蘖哆耶曩莫三曼多喇濕弭<lb
- n="0434b17" ed="T"/>烏󰶳誐哆失哩據吒曷囉惹耶<lb
+ n="0434b17" ed="T"/>烏𭉪誐哆失哩據吒曷囉惹耶<lb
  n="0434b18" ed="T"/>怛他蘖多耶曩謨尾跛始寧怛他誐多耶曩莫失棄寧怛他誐<lb
- n="0434b20" ed="T"/>多耶曩莫尾始󰓋步微怛他<lb
+ n="0434b20" ed="T"/>多耶曩莫尾始𭊃步微怛他<lb
  n="0434b21" ed="T"/>誐多耶曩莫吒囉舉寸娜耶怛他誐<lb
  n="0434b22" ed="T"/>哆耶曩莫迦那迦母娜曳怛他誐哆耶曩莫迦捨野播耶怛他誐哆耶曩<lb
  n="0434b24" ed="T"/>謨舍枳耶母娜曳怛他誐哆耶<lb
  n="0434b25" ed="T"/>曩莫蘇鉢哩枳嘌底哆曩恾<lb
  n="0434b26" ed="T"/>弟夜耶怛他誐哆耶曩莫三曼哆嚩皤娑<lb
  n="0434b27" ed="T"/>尾馹多僧誐囉恾室哩曳<lb
- n="0434b28" ed="T"/>怛他誐哆耶曩莫印達囉計都󰶳<lb
+ n="0434b28" ed="T"/>怛他誐哆耶曩莫印達囉計都𭉪<lb
  n="0434b29" ed="T"/>嚩惹失唎曳怛他誐多耶<pb n="0434c" id="T20.1098.0434c" ed="T"/><lb
  n="0434c01" ed="T"/>曩莫喇坦娜鉢囉皤細濕嚩攞囉惹耶怛他誐多耶曩莫阿吡囉<lb
  n="0434c03" ed="T"/>底荷哆妹灑𡁠耶囉惹耶怛他誐多<lb
@@ -252,13 +252,13 @@
  n="0434c08" ed="T"/>母弟鼻藥南謨喇怛娜怛囉夜耶曩謨阿唎耶嚩路枳帝濕嚩囉耶母弟薩嘚嚩耶恾訶薩嘚嚩耶恾<lb
  n="0434c11" ed="T"/>賀迦嚕尼迦耶翳鼻遙曩謨噻吃哩<lb
  n="0434c12" ed="T"/>嘚嚩伊那魔哩耶嚩路枳帝<lb
- n="0434c13" ed="T"/>濕嚩囉母驅󰶳祇㗚喃阿慕伽<lb
- n="0434c14" ed="T"/>播󰺦曩恾纈哩娜焰怛他誐<lb
+ n="0434c13" ed="T"/>濕嚩囉母驅𭉪祇㗚喃阿慕伽<lb
+ n="0434c14" ed="T"/>播𮏝曩恾纈哩娜焰怛他誐<lb
  n="0434c15" ed="T"/>哆三姥佉麼瑟耽摩揭嘚鉢<lb
  n="0434c16" ed="T"/>哩沙沫地曳阿誐弭娜寧恾靺哆以使<lb
  n="0434c17" ed="T"/>野弭曳薩嚩迦唎野薩嚩<lb
  n="0434c18" ed="T"/>磨曳數者暝囉乞叉羅乞叉皤嚩都<lb
- n="0434c19" ed="T"/>薩嚩薩嘚嚩𡅧者坦󰍕他唵柘<lb
+ n="0434c19" ed="T"/>薩嚩薩嘚嚩𡅧者坦𭔞他唵柘<lb
  n="0434c20" ed="T"/>囉柘囉只哩只哩主嚕主嚕摩訶迦嚕尼迦耶<lb
  n="0434c21" ed="T"/>薩囉薩囉枲哩枲哩只哩只哩比哩比<lb
  n="0434c22" ed="T"/>哩尾哩尾哩摩訶鉢嘚莽賀噻哆耶迦<lb
@@ -285,15 +285,15 @@
  n="0435a18" ed="T"/>陀曩娜纈哩師誐拏泥嚩誐拏<lb
  n="0435a19" ed="T"/>毘野㗚只哆者囉儜蘇嚕蘇嚕主<lb
  n="0435a20" ed="T"/>嚕主嚕母嚕母嚕補嚕補嚕散曩俱莽囉護<lb
- n="0435a21" ed="T"/>嚕󰶳囉嚩娑嚩尾瑟𠯆馱曩娜<lb
- n="0435a22" ed="T"/>陀婆野嚩喻嚩擬聹泥嚩󰳵哩<lb
+ n="0435a21" ed="T"/>嚕𭉪囉嚩娑嚩尾瑟𠯆馱曩娜<lb
+ n="0435a22" ed="T"/>陀婆野嚩喻嚩擬聹泥嚩𭍋哩<lb
  n="0435a23" ed="T"/>師那野迦嚩護尾尾馱尾旨怛囉<lb
  n="0435a24" ed="T"/>𡀎沙嚕波陀囉抳馱囉馱囉地哩<lb
  n="0435a25" ed="T"/>地哩度嚕度嚕咃囉咃囉伽囉伽囉揭囉揭囉<lb
  n="0435a26" ed="T"/>播囉播囉娜囉娜囉嚩囉嚩囉嚩囉那野<lb
  n="0435a27" ed="T"/>迦三曼哆嚩路枳哆尾𡀔枳哆<lb
  n="0435a28" ed="T"/>路計濕嚩囉魔醯濕嚩囉姥護<lb
- n="0435a29" ed="T"/>姥護姥嚕姥嚕姥野姥野󰺼者󰺼者𡀩吃叉𡀩<pb n="0435b" id="T20.1098.0435b" ed="T"/><lb
+ n="0435a29" ed="T"/>姥護姥嚕姥嚕姥野姥野𭊳者𭊳者𡀩吃叉𡀩<pb n="0435b" id="T20.1098.0435b" ed="T"/><lb
  n="0435b01" ed="T"/>吃叉摩摩薩嚩薩嘚嚩難遮薄伽<lb
  n="0435b02" ed="T"/>畔阿唎耶嚩嚕枳帝濕嚩囉耶薩嚩皤曳鼻<lb
  n="0435b03" ed="T"/>野薩嘸鉢娜囉𡀎鼻野薩嘸播薩<lb
@@ -306,7 +306,7 @@
  n="0435b10" ed="T"/>嚕主嚕印涅哩耶麼囉曝地孕誐<lb
  n="0435b11" ed="T"/>折覩囉耶薩底耶三鉢囉捨<lb
  n="0435b12" ed="T"/>迦答莽答莽娜麼娜麼三麼三麼<lb
- n="0435b13" ed="T"/>麼娑麼娑摩訶答󰺼馱迦囉尾馱莽<lb
+ n="0435b13" ed="T"/>麼娑麼娑摩訶答𭊳馱迦囉尾馱莽<lb
  n="0435b14" ed="T"/>波囉蜜哆波唎布囉抳弭哩弭哩吒<lb
  n="0435b15" ed="T"/>吒吒吒吒吒吒吒󰣐󰣐󰣐󰣐恥恥恥恥啅啅啅<lb
  n="0435b16" ed="T"/>啅廔廔廔廔翳寧耶折摩吃哩哆波<lb
@@ -318,7 +318,7 @@
  n="0435b22" ed="T"/>賀迦嚕抳迦濕吠哆藥語𠯆跛尾多<lb
  n="0435b23" ed="T"/>曷囉怛曩莫舉吒摩囉達囉薩<lb
  n="0435b24" ed="T"/>嚩語娘失囉枲吃哩哆惹吒姥舉<lb
- n="0435b25" ed="T"/>吒恾賀󰶳步多劍摩囉吃哩<lb
+ n="0435b25" ed="T"/>吒恾賀𭉪步多劍摩囉吃哩<lb
  n="0435b26" ed="T"/>哆迦囉哆囉地也曩三摩地尾母<lb
  n="0435b27" ed="T"/>乞叉鉢囉劍比耶嚩護薩嘚嚩<lb
  n="0435b28" ed="T"/>散哆底鉢哩播者迦摩訶迦嚕尼<lb
@@ -336,7 +336,7 @@
  n="0435c13" ed="T"/>耶阿鉢囉底賀多纈哩馹唎郝呬𤙖<lb
  n="0435c14" ed="T"/>泮娑嚩賀<lb
  n="0435c15" ed="T"/></ab>
-<ab type="prose">爾時觀世音菩薩摩訶薩。說斯陀羅尼時。放<lb
+<ab type='prose'>爾時觀世音菩薩摩訶薩。說斯陀羅尼時。放<lb
  n="0435c16" ed="T"/>光普照補陀洛山。其山中宮殿六遍震動。<lb
  n="0435c17" ed="T"/>於虛空中雨諸天華。𤘽物頭華波頭摩華。奔<lb
  n="0435c18" ed="T"/>拏唎華曼陀羅華。種種寶華寶香。寶天諸<lb
@@ -395,11 +395,11 @@
  n="0436b13" ed="T"/>持蘇蜜白旃檀香護摩一百八遍。則如所願。<lb
  n="0436b14" ed="T"/>而說頌曰。<lb
  n="0436b15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 母陀羅尼伽陀藥　　能除種種災障苦　　<lb
  n="0436b16" ed="T"/>等數當以弭惹耶　　那俱唎藥柘哩尼　　<lb
  n="0436b17" ed="T"/>乾馱娜俱唎翳羅　　阿皤播抳躬矩麼　　<lb
- n="0436b18" ed="T"/>印捺囉播畢󰓑迦　　乾馱畢唎禳俁藥　　<lb
+ n="0436b18" ed="T"/>印捺囉播畢𭌆迦　　乾馱畢唎禳俁藥　　<lb
  n="0436b19" ed="T"/>多誐囉藥斫迦囉　　摩訶斫羯烏施羅　　<lb
  n="0436b20" ed="T"/>苾瑟努羯囉哆藥　　素摩囉爾素難那　　<lb
  n="0436b21" ed="T"/>精潔合治天雨和　　作丸丸如酸棗量　　<lb
@@ -411,7 +411,7 @@
  n="0436b27" ed="T"/>種種厭蠱諸呪詛　　一切悉不能為害　　<lb
  n="0436b28" ed="T"/>諸惡鬼神不中害　　和香湯浴蠲諸障　　
 </ab><lb
- n="0436b29" ed="T"/><ab type="prose">若有惡風雷電霹靂數數起者。加持白芥子<pb n="0436c" id="T20.1098.0436c" ed="T"/><lb
+ n="0436b29" ed="T"/><ab type='prose'>若有惡風雷電霹靂數數起者。加持白芥子<pb n="0436c" id="T20.1098.0436c" ed="T"/><lb
  n="0436c01" ed="T"/>水望彼起處。一呪一散一百八遍則便除滅。<lb
  n="0436c02" ed="T"/>或加持石榴枝望所起處。一呪一擬亦得除<lb
  n="0436c03" ed="T"/>滅。世尊此母陀羅尼真言最上之法。但常誦<lb
@@ -448,14 +448,14 @@
  n="0437a05" ed="T"/>切菩提福蘊善根。令得阿耨多羅三藐三菩<lb
  n="0437a06" ed="T"/>提。爾時諸天聞佛告讚。歡喜踊躍恭敬頂戴。<lb
  n="0437a07" ed="T"/>
-</ab><ab type="juan" subtype="close">不空羂索神變真言經卷上</ab><lb
+</ab><ab type='juan' subtype='close'>不空羂索神變真言經卷上</ab><lb
  n="0437a08" ed="T"/><lb
  n="0437a09" ed="T"/>
-<ab type="juan" subtype="open">佛說不空羂索陀羅尼儀軌經卷<lb
+<ab type='juan' subtype='open'>佛說不空羂索陀羅尼儀軌經卷<lb
  n="0437a10" ed="T"/>下</ab></div><lb
  n="0437a11" ed="T"/><lb
- n="0437a12" ed="T"/><div type="pin" level="2"><head>祕密心密言品第二</head><lb
- n="0437a13" ed="T"/><ab type="prose">爾時觀世音菩薩摩訶薩復從座起。整理衣<lb
+ n="0437a12" ed="T"/><div type='pin' level='2'><head>祕密心密言品第二</head><lb
+ n="0437a13" ed="T"/><ab type='prose'>爾時觀世音菩薩摩訶薩復從座起。整理衣<lb
  n="0437a14" ed="T"/>服。右膝著地。合掌瞻佛顏貌熙怡。心具無量<lb
  n="0437a15" ed="T"/>大慈大悲。遍身普放億千大日輪光王。照于<lb
  n="0437a16" ed="T"/>十方三千大千佛之世界靡不周遍。放斯光<lb
@@ -491,11 +491,11 @@
  n="0437b17" ed="T"/>時觀世音菩薩摩訶薩。觀察十方一切大眾。<lb
  n="0437b18" ed="T"/>如大象王德無所畏。即說祕密心真言曰。<lb
  n="0437b19" ed="T"/></ab>
-<ab type="dharani">唵鉢󰶳摩荷噻哆恾訶阿暮伽播捨娑<lb
+<ab type='dharani'>唵鉢𭉪摩荷噻哆恾訶阿暮伽播捨娑<lb
  n="0437b20" ed="T"/>馱耶娑摩耶紇唎娜焰槄柘囉柘囉<lb
  n="0437b21" ed="T"/>𤙖<lb
  n="0437b22" ed="T"/></ab>
-<ab type="prose">爾時觀世音菩薩摩訶薩。說此真言之時。其<lb
+<ab type='prose'>爾時觀世音菩薩摩訶薩。說此真言之時。其<lb
  n="0437b23" ed="T"/>補陀洛山。及三千大千世界蘇彌山王。一切<lb
  n="0437b24" ed="T"/>天宮神宮龍宮藥叉宮。羅剎宮乾闥婆宮阿<lb
  n="0437b25" ed="T"/>素洛宮伽樓羅宮。緊那羅宮莫呼羅伽宮持<lb
@@ -557,7 +557,7 @@
  n="0438a23" ed="T"/>誦念承事供養令心清淨。乃當修治曼荼羅<lb
  n="0438a24" ed="T"/>印三昧耶。則得成就。頌曰。<lb
  n="0438a25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 世尊今當知　　祕密心真言　　<lb
  n="0438a26" ed="T"/>神通力香王　　沈香黑煎香　　<lb
  n="0438a27" ed="T"/>數各十六分　　蘇合欝金香　　<lb
@@ -585,7 +585,7 @@
  n="0438b20" ed="T"/>傍生諸罪障　　捨此身以後　　<lb
  n="0438b21" ed="T"/>更此身以後　　更不復重受　　
 </ab><lb
- n="0438b22" ed="T"/><ab type="prose">常燒此香而供養者。當知是人得大勝利。不<lb
+ n="0438b22" ed="T"/><ab type='prose'>常燒此香而供養者。當知是人得大勝利。不<lb
  n="0438b23" ed="T"/>為一切鬪諍兵賊惡夢口舌呪詛厭蠱諸惡怪<lb
  n="0438b24" ed="T"/>相雷電霹靂一切藥叉羅剎惡鬼天行瘧鬼種<lb
  n="0438b25" ed="T"/>種精鬼來相嬈惱。乃至菩提除攘重業現世<lb
@@ -639,92 +639,92 @@
  n="0439a15" ed="T"/>壽命長遠。<lb
  n="0439a16" ed="T"/>祕密小心真言曰。<lb
  n="0439a17" ed="T"/></ab>
-<ab type="dharani">唵鉢頭摩陀羅阿慕伽惹野泥主<lb
+<ab type='dharani'>唵鉢頭摩陀羅阿慕伽惹野泥主<lb
  n="0439a18" ed="T"/>嚕主嚕娑嚩訶<lb
  n="0439a19" ed="T"/></ab>
-<ab type="prose">如是真言應當如法而誦之。</ab></div><lb
- n="0439a20" ed="T"/><div type="pin" level="2"><head>不空羂索祕密成就真言品第三</head><lb
- n="0439a21" ed="T"/><ab type="prose">發覺真言曰。<lb
+<ab type='prose'>如是真言應當如法而誦之。</ab></div><lb
+ n="0439a20" ed="T"/><div type='pin' level='2'><head>不空羂索祕密成就真言品第三</head><lb
+ n="0439a21" ed="T"/><ab type='prose'>發覺真言曰。<lb
  n="0439a22" ed="T"/></ab>
-<ab type="dharani">唵鉢頭摩播捨陀羅婀慕伽嚩囉<lb
+<ab type='dharani'>唵鉢頭摩播捨陀羅婀慕伽嚩囉<lb
  n="0439a23" ed="T"/>娜散注娜野𤙖<lb
  n="0439a24" ed="T"/></ab>
-<ab type="prose">是呪加持香王燒焯供養。亦加持白芥子香<lb
+<ab type='prose'>是呪加持香王燒焯供養。亦加持白芥子香<lb
  n="0439a25" ed="T"/>水十方散灑。即手執持香爐啟白願言。警覺<lb
  n="0439a26" ed="T"/>十方一切諸佛菩薩一切天龍八部。依時會<lb
  n="0439a27" ed="T"/>壇作大加被。<lb
  n="0439a28" ed="T"/>次說請召真言曰。<lb
  n="0439a29" ed="T"/></ab>
-<ab type="dharani">唵窒㘑𡀔枳耶嚩訶野婀慕伽播<pb n="0439b" id="T20.1098.0439b" ed="T"/><lb
+<ab type='dharani'>唵窒㘑𡀔枳耶嚩訶野婀慕伽播<pb n="0439b" id="T20.1098.0439b" ed="T"/><lb
  n="0439b01" ed="T"/>捨鉢頭摩婆嚧枳多阿野都步嚩<lb
  n="0439b02" ed="T"/>泥濕嚩囉素嚕素嚕弭摩犁𤙖<lb
  n="0439b03" ed="T"/></ab>
-<ab type="prose">是呪加持香王。加持香水白華閼伽。十方啟<lb
+<ab type='prose'>是呪加持香王。加持香水白華閼伽。十方啟<lb
  n="0439b04" ed="T"/>請一切諸佛菩薩一切天龍八部。即當集會<lb
  n="0439b05" ed="T"/>為護衛之。<lb
  n="0439b06" ed="T"/>啟白真言曰。<lb
  n="0439b07" ed="T"/></ab>
-<ab type="dharani">唵鉢󰶳摩步惹摩訶播捨陀羅儞<lb
+<ab type='dharani'>唵鉢𭉪摩步惹摩訶播捨陀羅儞<lb
  n="0439b08" ed="T"/>漫怛囉野弭娜婀慕伽嚩囉耶步嚕<lb
  n="0439b09" ed="T"/>步嚩莎嚩畆嚕畆嚕𤙖<lb
  n="0439b10" ed="T"/></ab>
-<ab type="prose">此呪加持其香燒焯供養。啟曰一切諸佛菩<lb
+<ab type='prose'>此呪加持其香燒焯供養。啟曰一切諸佛菩<lb
  n="0439b11" ed="T"/>薩一切天龍八部。來集整儀本位而坐歡喜<lb
  n="0439b12" ed="T"/>加護。<lb
  n="0439b13" ed="T"/>次復說結界真言曰。<lb
  n="0439b14" ed="T"/></ab>
-<ab type="dharani">唵鉢󰶳摩阿姥伽嚩馹囉地瑟𡛥<lb
+<ab type='dharani'>唵鉢𭉪摩阿姥伽嚩馹囉地瑟𡛥<lb
  n="0439b15" ed="T"/>娜句嚕句嚕莎嚩訶<lb
  n="0439b16" ed="T"/></ab>
-<ab type="prose">是呪加持白芥子水散灑壇地。其地變成金<lb
+<ab type='prose'>是呪加持白芥子水散灑壇地。其地變成金<lb
  n="0439b17" ed="T"/>剛界城。七喻繕那外。一切諸惡毘那夜迦。<lb
  n="0439b18" ed="T"/>藥叉羅剎精魅鬼神。邪惡人民來相嬈者。退<lb
  n="0439b19" ed="T"/>散馳走目不敢視。<lb
  n="0439b20" ed="T"/>次復說神變真言曰。<lb
  n="0439b21" ed="T"/></ab>
-<ab type="dharani">唵婀姥伽播捨鉢󰶳牟哆囉思孕<lb
+<ab type='dharani'>唵婀姥伽播捨鉢𭉪牟哆囉思孕<lb
  n="0439b22" ed="T"/>何娑娜覩枲唎枲唎莎嚩訶<lb
  n="0439b23" ed="T"/><lb
  n="0439b24" ed="T"/></ab>
-<ab type="prose">是呪加持白芥子三散壇地。其地變成金剛<lb
+<ab type='prose'>是呪加持白芥子三散壇地。其地變成金剛<lb
  n="0439b25" ed="T"/>寶師子座。若散坐處所坐之處地。變成清淨<lb
  n="0439b26" ed="T"/>寶蓮華座。整淨衣服安詳念誦。不久當得阿<lb
  n="0439b27" ed="T"/>耨多羅三藐三菩提。<lb
  n="0439b28" ed="T"/>淨治所止之處清淨真言曰。<lb
  n="0439b29" ed="T"/></ab>
-<ab type="dharani">唵摩訶迦嚕拏鉢󰶳恾阿慕伽播捨儞<pb n="0439c" id="T20.1098.0439c" ed="T"/><lb
+<ab type='dharani'>唵摩訶迦嚕拏鉢𭉪恾阿慕伽播捨儞<pb n="0439c" id="T20.1098.0439c" ed="T"/><lb
  n="0439c01" ed="T"/>哩荼嚩馹囉地瑟恥哆步嚕步<lb
  n="0439c02" ed="T"/>嚕嚩那嚩唎莎嚩訶<lb
  n="0439c03" ed="T"/></ab>
-<ab type="prose">是呪持真言者。若至城邑聚落寺內山間。蘭<lb
+<ab type='prose'>是呪持真言者。若至城邑聚落寺內山間。蘭<lb
  n="0439c04" ed="T"/>若屋舍宮殿壇場。坐臥床敷經行道路喫食<lb
  n="0439c05" ed="T"/>等處。皆須加持白芥子若水即便灑散。悉成<lb
  n="0439c06" ed="T"/>清淨結界之處。則令一切毘那夜迦不得其<lb
  n="0439c07" ed="T"/>便。<lb
  n="0439c08" ed="T"/>金剛橛真言曰。<lb
  n="0439c09" ed="T"/></ab>
-<ab type="dharani">唵鉢󰶳恾姥伽播勢娑漫哆娜捨素<lb
+<ab type='dharani'>唵鉢𭉪恾姥伽播勢娑漫哆娜捨素<lb
  n="0439c10" ed="T"/>𩕳堀初枲𤚥滿馱耶都嚕都嚕𤚥<lb
  n="0439c11" ed="T"/></ab>
-<ab type="prose">是呪加持鑌鐵金剛橛量長八指。加持五色<lb
+<ab type='prose'>是呪加持鑌鐵金剛橛量長八指。加持五色<lb
  n="0439c12" ed="T"/>線索。七遍繫橛頭上釘於壇界。則得七踰繕<lb
  n="0439c13" ed="T"/>那成大結界。其地乃至未拔橛去以來。常為<lb
  n="0439c14" ed="T"/>其界。<lb
  n="0439c15" ed="T"/>次復說結界空真言曰。<lb
  n="0439c16" ed="T"/></ab>
-<ab type="dharani">唵婀姥伽曼荼攞滿馱耶三曼帝娜<lb
- n="0439c17" ed="T"/>鉢󰶳迷摩訶鉢󰶳迷度嚕度嚕<lb
+<ab type='dharani'>唵婀姥伽曼荼攞滿馱耶三曼帝娜<lb
+ n="0439c17" ed="T"/>鉢𭉪迷摩訶鉢𭉪迷度嚕度嚕<lb
  n="0439c18" ed="T"/>娑嚩訶<lb
  n="0439c19" ed="T"/></ab>
-<ab type="prose">是呪加持白芥子及水。遶壇散灑成結大界。<lb
+<ab type='prose'>是呪加持白芥子及水。遶壇散灑成結大界。<lb
  n="0439c20" ed="T"/>能令一切天龍藥叉羅剎毘那夜迦怨讐等難。<lb
  n="0439c21" ed="T"/>不相侵繞而為障惱。<lb
  n="0439c22" ed="T"/>次復說治牛五淨真言曰。<lb
  n="0439c23" ed="T"/></ab>
-<ab type="dharani">唵阿姥伽婆哩戌悌輸陀野娑曼帝那<lb
- n="0439c24" ed="T"/>地唎地唎戌陀薩埵摩訶鉢󰶳迷𤙖<lb
+<ab type='dharani'>唵阿姥伽婆哩戌悌輸陀野娑曼帝那<lb
+ n="0439c24" ed="T"/>地唎地唎戌陀薩埵摩訶鉢𭉪迷𤙖<lb
  n="0439c25" ed="T"/></ab>
-<ab type="prose">是呪加持五淨。塗飾壇內。若至一切山林樹<lb
+<ab type='prose'>是呪加持五淨。塗飾壇內。若至一切山林樹<lb
  n="0439c26" ed="T"/>下阿蘭若處。園苑經行寺邑坊舍。殿閣床榻<lb
  n="0439c27" ed="T"/>汲水饌食等處。但是行住坐臥作法之處。一<lb
  n="0439c28" ed="T"/>切悉以塗潔灑之皆得清淨。能令一切藥<lb
@@ -743,76 +743,76 @@
  n="0440a12" ed="T"/>極樂剎土。<lb
  n="0440a13" ed="T"/>次復說請法真言曰。<lb
  n="0440a14" ed="T"/></ab>
-<ab type="dharani">唵鉢特迷娑囉娑囉底瑟𡛥底瑟姹<lb
+<ab type='dharani'>唵鉢特迷娑囉娑囉底瑟𡛥底瑟姹<lb
  n="0440a15" ed="T"/>摩訶阿慕伽三摩耶莎嚩訶<lb
  n="0440a16" ed="T"/></ab>
-<ab type="prose">是法壇內誦一七遍啟白賢聖。願受法者獲<lb
+<ab type='prose'>是法壇內誦一七遍啟白賢聖。願受法者獲<lb
  n="0440a17" ed="T"/>三昧耶。<lb
  n="0440a18" ed="T"/>次復說入壇真言曰。<lb
  n="0440a19" ed="T"/></ab>
-<ab type="dharani">唵尾補囉鉢󰶳恾阿姥伽鉢囉娑<lb
+<ab type='dharani'>唵尾補囉鉢𭉪恾阿姥伽鉢囉娑<lb
  n="0440a20" ed="T"/>囉鉢囉弭舍覩矩嚕矩嚕莎嚩<lb
  n="0440a21" ed="T"/>訶<lb
  n="0440a22" ed="T"/></ab>
-<ab type="prose">是呪每入壇時。則誦二十一遍。入壇作法種<lb
+<ab type='prose'>是呪每入壇時。則誦二十一遍。入壇作法種<lb
  n="0440a23" ed="T"/>種供養。<lb
  n="0440a24" ed="T"/>次復說散華真言曰。<lb
  n="0440a25" ed="T"/></ab>
-<ab type="dharani">唵婀姥伽婀努捨娑野鉢󰶳恾嚩入<lb
+<ab type='dharani'>唵婀姥伽婀努捨娑野鉢𭉪恾嚩入<lb
  n="0440a26" ed="T"/>曼度𠼝𤙖<lb
  n="0440a27" ed="T"/></ab>
-<ab type="prose">是呪加持香花。與授法者。散於壇內。<lb
+<ab type='prose'>是呪加持香花。與授法者。散於壇內。<lb
  n="0440a28" ed="T"/>次復說梳髮真言曰。<lb
  n="0440a29" ed="T"/></ab>
-<ab type="dharani">唵阿姥伽鉢󰶳恾始契覩嚧覩嚧底<pb n="0440b" id="T20.1098.0440b" ed="T"/><lb
+<ab type='dharani'>唵阿姥伽鉢𭉪恾始契覩嚧覩嚧底<pb n="0440b" id="T20.1098.0440b" ed="T"/><lb
  n="0440b01" ed="T"/>瑟𡛥嚩馹囉曼悌莎嚩訶<lb
  n="0440b02" ed="T"/></ab>
-<ab type="prose">是法加持梳頭髮結髮用之。及加持手。按授<lb
+<ab type='prose'>是法加持梳頭髮結髮用之。及加持手。按授<lb
  n="0440b03" ed="T"/>法者頂上也。<lb
  n="0440b04" ed="T"/>次復說鑵索真言曰。<lb
  n="0440b05" ed="T"/></ab>
-<ab type="dharani">唵婀姥佉鉢󰶳摩若𡀔乞使波避<lb
+<ab type='dharani'>唵婀姥佉鉢𭉪摩若𡀔乞使波避<lb
  n="0440b06" ed="T"/>唎避唎𤙖<lb
  n="0440b07" ed="T"/></ab>
-<ab type="prose">是呪加持鑵索。取水得水以。復加持之。乃任<lb
+<ab type='prose'>是呪加持鑵索。取水得水以。復加持之。乃任<lb
  n="0440b08" ed="T"/>一切用之。<lb
  n="0440b09" ed="T"/>次復說水器真言曰。<lb
  n="0440b10" ed="T"/></ab>
-<ab type="dharani">唵婀姥伽弭迦吒三皤囉鉢󰶳摩娑泥<lb
+<ab type='dharani'>唵婀姥伽弭迦吒三皤囉鉢𭉪摩娑泥<lb
  n="0440b11" ed="T"/>若囉囉底矩嚕矩嚕𤙖<lb
  n="0440b12" ed="T"/></ab>
-<ab type="prose">是呪加持瓮瓶等諸器。中盛香水以用之也。<lb
+<ab type='prose'>是呪加持瓮瓶等諸器。中盛香水以用之也。<lb
  n="0440b13" ed="T"/>次復說灌頂真言曰。<lb
  n="0440b14" ed="T"/></ab>
-<ab type="dharani">唵鉢󰶳恾鉢囉娑㘑阿姥伽弭麼<lb
+<ab type='dharani'>唵鉢𭉪恾鉢囉娑㘑阿姥伽弭麼<lb
  n="0440b15" ed="T"/>隷皤囉皤囉莎嚩訶<lb
  n="0440b16" ed="T"/></ab>
-<ab type="prose">是法如持七寶瓶。置香水於中。復加持置於<lb
+<ab type='prose'>是法如持七寶瓶。置香水於中。復加持置於<lb
  n="0440b17" ed="T"/>壇內。而用灌頂。<lb
  n="0440b18" ed="T"/>次復說吉祥真言曰。<lb
  n="0440b19" ed="T"/></ab>
-<ab type="dharani">唵婀姥伽鉢󰶳迷素鉢󰶳迷布唎<lb
+<ab type='dharani'>唵婀姥伽鉢𭉪迷素鉢𭉪迷布唎<lb
  n="0440b20" ed="T"/>拏迦隷弭唎弭唎迦摩㘑莎嚩訶<lb
  n="0440b21" ed="T"/></ab>
-<ab type="prose">是呪若結印界。燒香散華懸幡釘橛燒火設<lb
+<ab type='prose'>是呪若結印界。燒香散華懸幡釘橛燒火設<lb
  n="0440b22" ed="T"/>食。若執數珠著脫衣服。緣壇修治一切事法。<lb
  n="0440b23" ed="T"/>及讀誦經時皆加持手乃當執之。則為十方<lb
  n="0440b24" ed="T"/>諸佛菩薩一切天神。而讚歎故。<lb
  n="0440b25" ed="T"/>次復說淨口真言曰。<lb
  n="0440b26" ed="T"/></ab>
-<ab type="dharani">唵婀姥佉弭麼隷爾嚩迦囉思孕<lb
- n="0440b27" ed="T"/>輸馱弭鉢󰶳麼俱麼攞爾嚩僧輸陀耶<lb
+<ab type='dharani'>唵婀姥佉弭麼隷爾嚩迦囉思孕<lb
+ n="0440b27" ed="T"/>輸馱弭鉢𭉪麼俱麼攞爾嚩僧輸陀耶<lb
  n="0440b28" ed="T"/>馱囉馱囉素弭摩唎莎嚩訶<lb
  n="0440b29" ed="T"/></ab>
-<ab type="prose">是呪若欲讀誦懺悔禮拜讚歎諸佛菩薩之<pb n="0440c" id="T20.1098.0440c" ed="T"/><lb
+<ab type='prose'>是呪若欲讀誦懺悔禮拜讚歎諸佛菩薩之<pb n="0440c" id="T20.1098.0440c" ed="T"/><lb
  n="0440c01" ed="T"/>時。先加持水揩洗口齒。則得淨潔。當得舌根<lb
  n="0440c02" ed="T"/>清淨柔軟色如蓮形。<lb
  n="0440c03" ed="T"/>次復說含香真言曰。<lb
  n="0440c04" ed="T"/></ab>
-<ab type="dharani">唵婀姥伽健馱嚩底素嚕素嚕鉢囉噻普嚕󰼗󰻭健悌鉢󰶳摩鉢囉鞞<lb
+<ab type='dharani'>唵婀姥伽健馱嚩底素嚕素嚕鉢囉噻普嚕𮄽𬼨健悌鉢𭉪摩鉢囉鞞<lb
  n="0440c06" ed="T"/>莎嚩訶<lb
  n="0440c07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 如是真言三昧耶　　當以上好白檀香　　<lb
  n="0440c08" ed="T"/>那羅那香赤蓮華　　畢里迦香欝金香　　<lb
  n="0440c09" ed="T"/>躬矩麼香蓮華鬢　　七物數各十二分　　<lb
@@ -832,13 +832,13 @@
  n="0440c23" ed="T"/>長含此香讀誦者　　一切善相自然現　　<lb
  n="0440c24" ed="T"/>垢重罪黑皆消滅　　恒無非人橫干嬈　　
 </ab><lb
- n="0440c25" ed="T"/><ab type="prose">次復說澡浴藥真言曰。<lb
+ n="0440c25" ed="T"/><ab type='prose'>次復說澡浴藥真言曰。<lb
  n="0440c26" ed="T"/></ab>
-<ab type="dharani">唵弭麼攞弭誐帝鉢󰶳麼弭嚩㘑三嚩<lb
+<ab type='dharani'>唵弭麼攞弭誐帝鉢𭉪麼弭嚩㘑三嚩<lb
  n="0440c27" ed="T"/>囉者㘑濕嚩哩𤙖婀姥伽悉悌輸陀野<lb
  n="0440c28" ed="T"/>𤙖<lb
  n="0440c29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 如是真言三昧耶　　當以龍華丁香皮　　<pb n="0441a" id="T20.1098.0441a" ed="T"/><lb
  n="0441a01" ed="T"/>烏施羅香甘松香　　白栴檀香蓮華鬢　　<lb
  n="0441a02" ed="T"/>零陵翳羅白豆蔲　　哆誐囉香欝金香　　<lb
@@ -852,27 +852,27 @@
  n="0441a10" ed="T"/>常以此藥和湯浴　　當知是人速成驗　　<lb
  n="0441a11" ed="T"/>諸佛菩薩諸天神　　喜悅瞻護與上願　　
 </ab><lb
- n="0441a12" ed="T"/><ab type="prose">次復說眼藥真言曰。<lb
+ n="0441a12" ed="T"/><ab type='prose'>次復說眼藥真言曰。<lb
  n="0441a13" ed="T"/></ab>
-<ab type="dharani">唵阿祇曳鉢󰶳摩嚧者泥󰼗弭也<lb
+<ab type='dharani'>唵阿祇曳鉢𭉪摩嚧者泥𮄽弭也<lb
  n="0441a14" ed="T"/>𡫸哩瑟微鉢哩戍悌素嚕素嚕<lb
- n="0441a15" ed="T"/>鉢󰶳麼乞使步嚕步嚕娑曼哆弭野<lb
+ n="0441a15" ed="T"/>鉢𭉪麼乞使步嚕步嚕娑曼哆弭野<lb
  n="0441a16" ed="T"/>婆路枳𩕳莎嚩訶<lb
  n="0441a17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 如是真言三昧耶　　雄黃牛黃各一分　　<lb
  n="0441a18" ed="T"/>青優鉢囉華海末　　二物各數十三分　　<lb
  n="0441a19" ed="T"/>精治研之石蜜和　　清水和研加持用　　<lb
  n="0441a20" ed="T"/>點眼眼眵翳瞙除　　諸佛觀見皆歡喜　　<lb
  n="0441a21" ed="T"/>諸惡鬼神不相障　　夢恒吉善眼根淨　　
 </ab><lb
- n="0441a22" ed="T"/><ab type="prose">次復說牛黃真言曰。<lb
+ n="0441a22" ed="T"/><ab type='prose'>次復說牛黃真言曰。<lb
  n="0441a23" ed="T"/></ab>
-<ab type="dharani">唵勃地野勃地野弭勃地野鉢<lb
- n="0441a24" ed="T"/>󰶳摩姥伽目棄者囉者囉嚩囉泥<lb
+<ab type='dharani'>唵勃地野勃地野弭勃地野鉢<lb
+ n="0441a24" ed="T"/>𭉪摩姥伽目棄者囉者囉嚩囉泥<lb
  n="0441a25" ed="T"/>莎嚩訶<lb
  n="0441a26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 如是真言三昧耶　　而復加持於牛黃　　<lb
  n="0441a27" ed="T"/>用母陀羅尼真言　　及奮怒王真密言　　<lb
  n="0441a28" ed="T"/>亦用祕密心真言　　加持點額行作法　　<lb
@@ -899,205 +899,205 @@
  n="0441b20" ed="T"/>以斯義故持法者　　應當如法悃御心　　<lb
  n="0441b21" ed="T"/>內外清淨修治法　　決定成就諸法門　　
 </ab><lb
- n="0441b22" ed="T"/><ab type="prose">次復說瓔珞真言曰。<lb
+ n="0441b22" ed="T"/><ab type='prose'>次復說瓔珞真言曰。<lb
  n="0441b23" ed="T"/></ab>
-<ab type="dharani">唵婀姥迦俱捨陀羅薩囉鉢囉𤙖<lb
+<ab type='dharani'>唵婀姥迦俱捨陀羅薩囉鉢囉𤙖<lb
  n="0441b24" ed="T"/></ab>
-<ab type="prose">此呪加持白線。當使童女合之。如筯等兩股<lb
+<ab type='prose'>此呪加持白線。當使童女合之。如筯等兩股<lb
  n="0441b25" ed="T"/>三條。是三條索。兩頭中心同為一結。皆誦真<lb
  n="0441b26" ed="T"/>言結之。總結三結。兩頭繫續。持真言者。常<lb
  n="0441b27" ed="T"/>絡髆佩飾。<lb
  n="0441b28" ed="T"/>次復說著衣真言曰。<lb
  n="0441b29" ed="T"/></ab>
-<ab type="dharani">唵婀姥伽鉢囉嚩羅拏畝嚕哩󰼗<pb n="0441c" id="T20.1098.0441c" ed="T"/><lb
+<ab type='dharani'>唵婀姥伽鉢囉嚩羅拏畝嚕哩𮄽<pb n="0441c" id="T20.1098.0441c" ed="T"/><lb
  n="0441c01" ed="T"/>地也迦始迦三皤嚩覩哆囉哆囉莎<lb
  n="0441c02" ed="T"/>嚩訶<lb
  n="0441c03" ed="T"/></ab>
-<ab type="prose">此呪加持衣服而貫著之。<lb
+<ab type='prose'>此呪加持衣服而貫著之。<lb
  n="0441c04" ed="T"/>次復說脫衣真言曰。<lb
  n="0441c05" ed="T"/></ab>
-<ab type="dharani">唵婀姥伽噻嚩怛囉窟律乞使<lb
- n="0441c06" ed="T"/>波弭姥地禰鉢󰶳迷噻訶<lb
+<ab type='dharani'>唵婀姥伽噻嚩怛囉窟律乞使<lb
+ n="0441c06" ed="T"/>波弭姥地禰鉢𭉪迷噻訶<lb
  n="0441c07" ed="T"/></ab>
-<ab type="prose">此呪出入道場。喫食經行坐臥等時。加持其<lb
+<ab type='prose'>此呪出入道場。喫食經行坐臥等時。加持其<lb
  n="0441c08" ed="T"/>手解脫衣服置於淨處。重復加持之。<lb
  n="0441c09" ed="T"/>次復說洗浴真言曰。<lb
  n="0441c10" ed="T"/></ab>
-<ab type="dharani">唵󰼗瓢娜迦三步哆阿姥伽皤嚕拏嚩<lb
+<ab type='dharani'>唵𮄽瓢娜迦三步哆阿姥伽皤嚕拏嚩<lb
  n="0441c11" ed="T"/>㘑阿鼻詵者𤙖<lb
  n="0441c12" ed="T"/></ab>
-<ab type="prose">此呪加持香湯灌洗浴身。<lb
+<ab type='prose'>此呪加持香湯灌洗浴身。<lb
  n="0441c13" ed="T"/>次復說洗手面真言曰。<lb
  n="0441c14" ed="T"/></ab>
-<ab type="dharani">唵婀弭㗚哆阿姥伽鉢󰶳恾娑洗<lb
+<ab type='dharani'>唵婀弭㗚哆阿姥伽鉢𭉪恾娑洗<lb
  n="0441c15" ed="T"/>嚩唎灑抳主嚕主嚕莎嚩訶<lb
  n="0441c16" ed="T"/></ab>
-<ab type="prose">此呪加持淨水洗手洗面漱沐口齒。<lb
+<ab type='prose'>此呪加持淨水洗手洗面漱沐口齒。<lb
  n="0441c17" ed="T"/>次復說護身真言曰。<lb
  n="0441c18" ed="T"/></ab>
-<ab type="dharani">唵婀姥伽嚩唎灑抳矩嚕矩嚕莎嚩訶<lb
+<ab type='dharani'>唵婀姥伽嚩唎灑抳矩嚕矩嚕莎嚩訶<lb
  n="0441c20" ed="T"/></ab>
-<ab type="prose">此呪加持白芥子及水散灑身上。一切非人<lb
+<ab type='prose'>此呪加持白芥子及水散灑身上。一切非人<lb
  n="0441c21" ed="T"/>不能得便。護他亦爾。<lb
  n="0441c22" ed="T"/>次復說授法真言曰。<lb
  n="0441c23" ed="T"/></ab>
-<ab type="dharani">唵婀慕佉三摩野摩訶鉢󰶳迷底瑟吒<lb
+<ab type='dharani'>唵婀慕佉三摩野摩訶鉢𭉪迷底瑟吒<lb
  n="0441c24" ed="T"/>底瑟吒𤙖<lb
  n="0441c25" ed="T"/></ab>
-<ab type="prose">此呪若授法者入壇門時。其阿闍梨執手加<lb
+<ab type='prose'>此呪若授法者入壇門時。其阿闍梨執手加<lb
  n="0441c26" ed="T"/>持引入壇門。<lb
  n="0441c27" ed="T"/>次復說護同伴真言曰。<lb
  n="0441c28" ed="T"/></ab>
-<ab type="dharani">唵薩嚩怛囉阿慕伽嚩底底瑟咤𡀩<lb
+<ab type='dharani'>唵薩嚩怛囉阿慕伽嚩底底瑟咤𡀩<lb
  n="0441c29" ed="T"/>乞灑覩𤙖<pb n="0442a" id="T20.1098.0442a" ed="T"/><lb
  n="0442a01" ed="T"/></ab>
-<ab type="prose">此呪加持淨灰。與弟子同伴點於額上。則成<lb
+<ab type='prose'>此呪加持淨灰。與弟子同伴點於額上。則成<lb
  n="0442a02" ed="T"/>擁護。<lb
  n="0442a03" ed="T"/>次復說整儀真言曰。<lb
  n="0442a04" ed="T"/></ab>
-<ab type="dharani">唵窒㘑𡀔枳耶鉢󰶳摩阿姥佉吽迦<lb
+<ab type='dharani'>唵窒㘑𡀔枳耶鉢𭉪摩阿姥佉吽迦<lb
  n="0442a05" ed="T"/>囉摩抳弭哩弭哩莎嚩訶<lb
  n="0442a06" ed="T"/></ab>
-<ab type="prose">此呪加持真言者壇內作法而供養者。加持<lb
+<ab type='prose'>此呪加持真言者壇內作法而供養者。加持<lb
  n="0442a07" ed="T"/>自身入於場界。更勿觸突佛菩薩像真言神<lb
  n="0442a08" ed="T"/>座。如法整理修諸法事。<lb
  n="0442a09" ed="T"/>次復說寶索真言曰。<lb
  n="0442a10" ed="T"/></ab>
-<ab type="dharani">唵鉢󰶳迷摩訶鉢󰶳迷娑囉娑囉<lb
+<ab type='dharani'>唵鉢𭉪迷摩訶鉢𭉪迷娑囉娑囉<lb
  n="0442a11" ed="T"/>三曼帝娜鉢哩迷瑟吒耶阿慕伽<lb
  n="0442a12" ed="T"/>播勢曩虎嚕虎嚕莎嚩訶<lb
  n="0442a13" ed="T"/></ab>
-<ab type="prose">是呪加持五色線索。圍壇外界為彊畔門<lb
+<ab type='prose'>是呪加持五色線索。圍壇外界為彊畔門<lb
  n="0442a14" ed="T"/>懸幡。<lb
  n="0442a15" ed="T"/>次復說懸幡真言曰。<lb
  n="0442a16" ed="T"/></ab>
-<ab type="dharani">唵弭只怛囉阿姥伽嚩噻怛囉那<lb
+<ab type='dharani'>唵弭只怛囉阿姥伽嚩噻怛囉那<lb
  n="0442a17" ed="T"/>娜楞伽弭戍馱野枳抳枳抳𤙖<lb
  n="0442a18" ed="T"/></ab>
-<ab type="prose">此呪若懸幡時畫幡時。皆以印加持之。當<lb
+<ab type='prose'>此呪若懸幡時畫幡時。皆以印加持之。當<lb
  n="0442a19" ed="T"/>即懸之。畫亦依此。<lb
  n="0442a20" ed="T"/>次復說箭真言曰。<lb
  n="0442a21" ed="T"/></ab>
-<ab type="dharani">唵婀姥伽捨囉嚩惹囉頓拏詫囉詫囉<lb
+<ab type='dharani'>唵婀姥伽捨囉嚩惹囉頓拏詫囉詫囉<lb
  n="0442a22" ed="T"/>莎嚩訶<lb
  n="0442a23" ed="T"/></ab>
-<ab type="prose">此呪加持其箭。插持畫箭亦爾。<lb
+<ab type='prose'>此呪加持其箭。插持畫箭亦爾。<lb
  n="0442a24" ed="T"/>次復說開壇門真言曰。<lb
  n="0442a25" ed="T"/></ab>
-<ab type="dharani">唵尾補囉婀姥伽摩訶󰶳嚩囉尾戍悌<lb
+<ab type='dharani'>唵尾補囉婀姥伽摩訶𭉪嚩囉尾戍悌<lb
  n="0442a26" ed="T"/>枲唎枲唎娑嚩訶<lb
  n="0442a27" ed="T"/></ab>
-<ab type="prose">此呪若受法者入壇時。加持壇門了。便即入<lb
+<ab type='prose'>此呪若受法者入壇時。加持壇門了。便即入<lb
  n="0442a28" ed="T"/>壇門。同入於一切佛剎諸妙宮殿。<lb
  n="0442a29" ed="T"/>次復說淨花真言曰。<pb n="0442b" id="T20.1098.0442b" ed="T"/><lb
  n="0442b01" ed="T"/></ab>
-<ab type="dharani">唵那那弭質怛囉阿姥伽補澁波叵<lb
+<ab type='dharani'>唵那那弭質怛囉阿姥伽補澁波叵<lb
  n="0442b02" ed="T"/>囉攞哆枳喇拏補囉野皤囉皤囉𤙖<lb
  n="0442b03" ed="T"/><lb
  n="0442b04" ed="T"/></ab>
-<ab type="prose">此呪加持種種枝柯花葉插瓶口中。又以五<lb
+<ab type='prose'>此呪加持種種枝柯花葉插瓶口中。又以五<lb
  n="0442b05" ed="T"/>色線繫瓶項上。又加持之布置壇內。<lb
  n="0442b06" ed="T"/>次復說香爐真言曰。<lb
  n="0442b07" ed="T"/></ab>
-<ab type="dharani">唵婀姥伽𡃤怛那弭摩娜迦吒入嚩<lb
- n="0442b08" ed="T"/>地瑟恥多󰼗健度入嚩囉噻叵<lb
+<ab type='dharani'>唵婀姥伽𡃤怛那弭摩娜迦吒入嚩<lb
+ n="0442b08" ed="T"/>地瑟恥多𮄽健度入嚩囉噻叵<lb
  n="0442b09" ed="T"/>囉拏三曼底娜入嚩囉莎嚩訶<lb
  n="0442b10" ed="T"/></ab>
-<ab type="prose">此呪加持香爐執置壇內。燒香供養。<lb
+<ab type='prose'>此呪加持香爐執置壇內。燒香供養。<lb
  n="0442b11" ed="T"/>次復說寶瓶真言曰。<lb
  n="0442b12" ed="T"/></ab>
-<ab type="dharani">唵惹囉嚩底唎怛那伽吒娑里抳覩<lb
+<ab type='dharani'>唵惹囉嚩底唎怛那伽吒娑里抳覩<lb
  n="0442b13" ed="T"/>微覩微莎嚩訶<lb
  n="0442b14" ed="T"/></ab>
-<ab type="prose">此法加持寶瓶。盛蘇乳酪飯。敷置供養。<lb
+<ab type='prose'>此法加持寶瓶。盛蘇乳酪飯。敷置供養。<lb
  n="0442b15" ed="T"/>次復說寶器真言曰。<lb
  n="0442b16" ed="T"/></ab>
-<ab type="dharani">唵󰼗名野皤惹那阿姥伽鉢󰶳恾嚩<lb
+<ab type='dharani'>唵𮄽名野皤惹那阿姥伽鉢𭉪恾嚩<lb
  n="0442b17" ed="T"/>㘑補囉野補囉野𤙖<lb
  n="0442b18" ed="T"/></ab>
-<ab type="prose">此呪加持瓷器。當用供養。<lb
+<ab type='prose'>此呪加持瓷器。當用供養。<lb
  n="0442b19" ed="T"/>次復說閼伽真言曰。<lb
  n="0442b20" ed="T"/></ab>
-<ab type="dharani">唵婀姥伽三補囉抳訥嚧拏健馱<lb
+<ab type='dharani'>唵婀姥伽三補囉抳訥嚧拏健馱<lb
  n="0442b21" ed="T"/>嚩底莎嚩訶<lb
  n="0442b22" ed="T"/></ab>
-<ab type="prose">此法加持閼伽。當用供養。<lb
+<ab type='prose'>此法加持閼伽。當用供養。<lb
  n="0442b23" ed="T"/>次說君持真言曰。<lb
  n="0442b24" ed="T"/></ab>
-<ab type="dharani">唵薩囉抳娑囉耶婀姥伽皤惹泥麼駄<lb
+<ab type='dharani'>唵薩囉抳娑囉耶婀姥伽皤惹泥麼駄<lb
  n="0442b25" ed="T"/>麼馱禰𤙖<lb
  n="0442b26" ed="T"/></ab>
-<ab type="prose">此三昧耶加持君持。以用供養。<lb
+<ab type='prose'>此三昧耶加持君持。以用供養。<lb
  n="0442b27" ed="T"/>次說分界位真言曰。<lb
  n="0442b28" ed="T"/></ab>
-<ab type="dharani">唵󰼗弭野嚩𡀔迦禰阿弭皤惹野都<lb
+<ab type='dharani'>唵𮄽弭野嚩𡀔迦禰阿弭皤惹野都<lb
  n="0442b29" ed="T"/>娑曼底曩薩囉薩麼嚩娑囉特莎嚩<pb n="0442c" id="T20.1098.0442c" ed="T"/><lb
  n="0442c01" ed="T"/>訶<lb
  n="0442c02" ed="T"/></ab>
-<ab type="prose">此呪列壇街道界位。加持壇地。然後分別街<lb
+<ab type='prose'>此呪列壇街道界位。加持壇地。然後分別街<lb
  n="0442c03" ed="T"/>道界位。如法圖畫。<lb
  n="0442c04" ed="T"/>次說畫像真言曰。<lb
  n="0442c05" ed="T"/></ab>
-<ab type="dharani">唵那那跛囉喝拏阿姥伽沒捺囉<lb
+<ab type='dharani'>唵那那跛囉喝拏阿姥伽沒捺囉<lb
  n="0442c06" ed="T"/>入嚩攞入嚩攞莎嚩訶<lb
  n="0442c07" ed="T"/></ab>
-<ab type="prose">此法於壇內畫諸像時及畫了時。於諸位中<lb
+<ab type='prose'>此法於壇內畫諸像時及畫了時。於諸位中<lb
  n="0442c08" ed="T"/>總都加持之。<lb
  n="0442c09" ed="T"/>次復說繩界真言曰。<lb
  n="0442c10" ed="T"/></ab>
-<ab type="dharani">唵婀姥伽唎怛娜蘇怛囉嚩󰳌枳<lb
+<ab type='dharani'>唵婀姥伽唎怛娜蘇怛囉嚩𭋺枳<lb
  n="0442c11" ed="T"/>柅枳柅莎嚩訶<lb
  n="0442c12" ed="T"/></ab>
-<ab type="prose">此呪加持五色線繩。於其壇上周圍括量一<lb
+<ab type='prose'>此呪加持五色線繩。於其壇上周圍括量一<lb
  n="0442c13" ed="T"/>切界位。或於壁上白㲲絹上欲畫像時。皆以<lb
  n="0442c14" ed="T"/>是線和朱括量。為諸賢聖稱讚功德。<lb
  n="0442c15" ed="T"/>次說列門真言曰。<lb
  n="0442c16" ed="T"/></ab>
-<ab type="dharani">唵尾補囉嚩󰳌跛囉𡀎捨耶婀姥伽鉢<lb
- n="0442c17" ed="T"/>󰶳迷𤙖<lb
+<ab type='dharani'>唵尾補囉嚩𭋺跛囉𡀎捨耶婀姥伽鉢<lb
+ n="0442c17" ed="T"/>𭉪迷𤙖<lb
  n="0442c18" ed="T"/></ab>
-<ab type="prose">此法畫壇門時。加持門地乃畫壇門。<lb
+<ab type='prose'>此法畫壇門時。加持門地乃畫壇門。<lb
  n="0442c19" ed="T"/>次復說金器真言曰。<lb
  n="0442c20" ed="T"/></ab>
-<ab type="dharani">唵𩕳弭野惹那阿姥伽幹者娜嚩<lb
+<ab type='dharani'>唵𩕳弭野惹那阿姥伽幹者娜嚩<lb
  n="0442c21" ed="T"/>㘑枳哩枳哩𤙖<lb
  n="0442c22" ed="T"/></ab>
-<ab type="prose">此呪加持金器當用供養。<lb
+<ab type='prose'>此呪加持金器當用供養。<lb
  n="0442c23" ed="T"/>次復說銀器真言曰。<lb
  n="0442c24" ed="T"/></ab>
-<ab type="dharani">唵三補唎拏嚧比野󰼗弭野皤惹泥<lb
- n="0442c25" ed="T"/>阿姥伽鉢󰶳迷莎嚩訶<lb
+<ab type='dharani'>唵三補唎拏嚧比野𮄽弭野皤惹泥<lb
+ n="0442c25" ed="T"/>阿姥伽鉢𭉪迷莎嚩訶<lb
  n="0442c26" ed="T"/></ab>
-<ab type="prose">此三昧耶加持銀器。當用供養。<lb
+<ab type='prose'>此三昧耶加持銀器。當用供養。<lb
  n="0442c27" ed="T"/>次復說飯食真言曰。<lb
  n="0442c28" ed="T"/></ab>
-<ab type="dharani">唵弭弭陀嚕跛訶嚕播迦囉拏者囉者<lb
+<ab type='dharani'>唵弭弭陀嚕跛訶嚕播迦囉拏者囉者<lb
  n="0442c29" ed="T"/>囉阿姥伽嚩底莎嚩訶<pb n="0443a" id="T20.1098.0443a" ed="T"/><lb
  n="0443a01" ed="T"/></ab>
-<ab type="prose">此呪加持種種甘膳飲食。盛供養之。<lb
+<ab type='prose'>此呪加持種種甘膳飲食。盛供養之。<lb
  n="0443a02" ed="T"/>次復說汎花真言曰。<lb
  n="0443a03" ed="T"/></ab>
-<ab type="dharani">唵󰼗󰻭健馳拏婆哩抳婀姥伽惹<lb
+<ab type='dharani'>唵𮄽𬼨健馳拏婆哩抳婀姥伽惹<lb
  n="0443a04" ed="T"/>㘑馱囉馱囉莎嚩訶<lb
  n="0443a05" ed="T"/></ab>
-<ab type="prose">此法加持眾花水上汎之。常為供養。<lb
+<ab type='prose'>此法加持眾花水上汎之。常為供養。<lb
  n="0443a06" ed="T"/>次說燒香真言曰。<lb
  n="0443a07" ed="T"/></ab>
-<ab type="dharani">唵健馱噻叵囉抳三曼哆迷伽吡<lb
+<ab type='dharani'>唵健馱噻叵囉抳三曼哆迷伽吡<lb
  n="0443a08" ed="T"/>囉噻普囉𤙖<lb
  n="0443a09" ed="T"/></ab>
-<ab type="prose">此呪每時。別加持香燒。供養一切諸佛菩薩<lb
+<ab type='prose'>此呪每時。別加持香燒。供養一切諸佛菩薩<lb
  n="0443a10" ed="T"/>金剛諸天等。<lb
  n="0443a11" ed="T"/>次說塗壇真言曰。<lb
  n="0443a12" ed="T"/></ab>
-<ab type="dharani">唵󰼗麼囉迦耶輸馱禰󰼗弭野健<lb
+<ab type='dharani'>唵𮄽麼囉迦耶輸馱禰𮄽弭野健<lb
  n="0443a13" ed="T"/>馱跛囉布囉抳布囉野布囉野𤙖<lb
  n="0443a14" ed="T"/></ab>
-<ab type="prose">此呪加持香泥香水。摩壇供養。<lb
+<ab type='prose'>此呪加持香泥香水。摩壇供養。<lb
  n="0443a15" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說不空羂索教法儀軌經卷下</ab></div><lb
+</ab><ab type='juan' subtype='close'>佛說不空羂索教法儀軌經卷下</ab></div><lb
  n="0443a16" ed="T"/><lb
- n="0443a17" ed="T"/><div type="w" level="2"><ab type="prose">宗叡錄云。不空羂索陀羅尼儀軌一部二<lb
+ n="0443a17" ed="T"/><div type='w' level='2'><ab type='prose'>宗叡錄云。不空羂索陀羅尼儀軌一部二<lb
  n="0443a18" ed="T"/>卷阿目伽三藏譯。功能如本經不能具記。<lb
  n="0443a19" ed="T"/>三十五紙。重譽深密鈔。平等房十卷抄等。<lb
  n="0443a20" ed="T"/>引用此軌焉。此軌者。與唐菩提流志所譯。<lb

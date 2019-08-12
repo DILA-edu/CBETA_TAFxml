@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T15</biblScope>
                     <idno type="Taisho">T15n0652</idno>
                 </bibl>
@@ -44,11 +44,11 @@
  n="0774a08" ed="T"/><lb
  n="0774a09" ed="T"/><lb
  n="0774a10" ed="T"/>
-<ab type="juan" subtype="open">佛說大乘隨轉宣說諸法經卷上</ab><lb
+<ab type='juan' subtype='open'>佛說大乘隨轉宣說諸法經卷上</ab><lb
  n="0774a11" ed="T"/><lb
  n="0774a12" ed="T"/><byline>宋明教辯才法師充譯經三藏<lb
  n="0774a13" ed="T"/>沙門紹德等奉　詔譯</byline><lb
- n="0774a14" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時，佛在王舍城鷲峯山中，與大<lb
+ n="0774a14" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時，佛在王舍城鷲峯山中，與大<lb
  n="0774a15" ed="T"/>比丘眾千二百五十人俱；諸大菩薩摩訶薩<lb
  n="0774a16" ed="T"/>眾二千人俱，其名曰：莊嚴菩薩、師子遊戲菩<lb
  n="0774a17" ed="T"/>薩、不動光菩薩、歡喜無垢光菩薩、日光焰<lb
@@ -61,7 +61,7 @@
  n="0774a24" ed="T"/>覩佛身色金光晃燿，心生愛樂，即從座起繞<lb
  n="0774a25" ed="T"/>佛三匝，右膝著地合掌恭敬，而說伽陀曰：<lb
  n="0774a26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「如來真金色，　　相好端嚴身，　　<lb
  n="0774a27" ed="T"/>於塵沙劫中，　　積集諸功德，　　<lb
  n="0774a28" ed="T"/>福智悉圓滿，　　證於無上道。　　<lb
@@ -95,7 +95,7 @@
  n="0774b27" ed="T"/>如來所說法，　　我悉能總持，　　<lb
  n="0774b28" ed="T"/>見在及未來，　　願佛為宣說。」　　
 </ab><lb
- n="0774b29" ed="T"/><ab type="prose">爾時，佛告師子遊戲菩薩摩訶薩言：「善哉！善<pb n="0774c" ed="T" id="T15.0652.0774c"/><lb
+ n="0774b29" ed="T"/><ab type='prose'>爾時，佛告師子遊戲菩薩摩訶薩言：「善哉！善<pb n="0774c" ed="T" id="T15.0652.0774c"/><lb
  n="0774c01" ed="T"/>哉。善男子！世間一切眾生妙明元心，本來<lb
  n="0774c02" ed="T"/>清淨無諸垢染，圓滿十方湛然寂靜，猶如虛<lb
  n="0774c03" ed="T"/>空本無塵翳，寂然清淨。眾生眼病，空華發生，<lb
@@ -132,7 +132,7 @@
  n="0775a05" ed="T"/>如是說已，師子遊戲菩薩摩訶薩，讚歎歡喜，<lb
  n="0775a06" ed="T"/>深生領解。爾時世尊。而說偈言：<lb
  n="0775a07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「汝與世間，　　一切眾生，　　心無有二，　　<lb
  n="0775a08" ed="T"/>了諸法空，　　而得菩提。　　離貪嗔癡，　　<lb
  n="0775a09" ed="T"/>無令更作，　　自性清淨，　　虛妄不生，　　<lb
@@ -175,7 +175,7 @@
  n="0775b17" ed="T"/>經俱胝劫，　　更無退轉，　　安住佛道，　　<lb
  n="0775b18" ed="T"/>湛然不動。」　　
 </ab><lb
- n="0775b19" ed="T"/><ab type="prose">爾時，師子遊戲菩薩摩訶薩白佛言：「世尊！我<lb
+ n="0775b19" ed="T"/><ab type='prose'>爾時，師子遊戲菩薩摩訶薩白佛言：「世尊！我<lb
  n="0775b20" ed="T"/>等今者，聞佛所說甚深妙法，得未曾有，心生<lb
  n="0775b21" ed="T"/>歡喜，瞻覩威光遵仰慈誨，誓懃熏習，無敢懈<lb
  n="0775b22" ed="T"/>怠，有樂法者隨為開說。」是時，復有天、龍、夜叉<lb
@@ -275,15 +275,15 @@
  n="0776b29" ed="T"/>遊戲菩薩言：「彼時勸慧比丘者，今汝身是<pb n="0776c" ed="T" id="T15.0652.0776c"/><lb
  n="0776c01" ed="T"/>也。」<lb
  n="0776c02" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說大乘隨轉宣說諸法經卷上</ab><lb
+</ab><ab type='juan' subtype='close'>佛說大乘隨轉宣說諸法經卷上</ab><lb
  n="0776c03" ed="T"/><lb
  n="0776c04" ed="T"/><lb
  n="0776c05" ed="T"/>
-<ab type="juan" subtype="open">佛說大乘隨轉宣說諸法經卷中</ab><lb
+<ab type='juan' subtype='open'>佛說大乘隨轉宣說諸法經卷中</ab><lb
  n="0776c06" ed="T"/><lb
  n="0776c07" ed="T"/><byline>宋明教辯才法師充譯經三藏<lb
  n="0776c08" ed="T"/>沙門紹德等奉　詔譯</byline><lb
- n="0776c09" ed="T"/><ab type="prose">爾時，文殊師利童真菩薩白佛言：「世尊！云何<lb
+ n="0776c09" ed="T"/><ab type='prose'>爾時，文殊師利童真菩薩白佛言：「世尊！云何<lb
  n="0776c10" ed="T"/>離除業障得清淨心？」佛告文殊師利：「要離惡<lb
  n="0776c11" ed="T"/>業，當學一切法，了知諸法分別心生，虛妄不<lb
  n="0776c12" ed="T"/>實；空智現前，業障自除，心得清淨。「復次，文殊<lb
@@ -542,15 +542,15 @@
  n="0779c04" ed="T"/>是求法，得佛菩提，了知善法，一切善法具足<lb
  n="0779c05" ed="T"/>如是，若不學佛法，與諸禽畜實無有異。」<lb
  n="0779c06" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說大乘隨轉宣說諸法經卷中</ab><lb
+</ab><ab type='juan' subtype='close'>佛說大乘隨轉宣說諸法經卷中</ab><lb
  n="0779c07" ed="T"/><lb
  n="0779c08" ed="T"/><lb
  n="0779c09" ed="T"/>
-<ab type="juan" subtype="open">佛說大乘隨轉宣說諸法經卷下</ab><lb
+<ab type='juan' subtype='open'>佛說大乘隨轉宣說諸法經卷下</ab><lb
  n="0779c10" ed="T"/><lb
  n="0779c11" ed="T"/><byline>宋明教辯才法師充譯經三藏<lb
  n="0779c12" ed="T"/>沙門詔德等奉　詔譯</byline><lb
- n="0779c13" ed="T"/><ab type="prose">爾時，蓮華遊戲天子與十千天子，皆來供養<lb
+ n="0779c13" ed="T"/><ab type='prose'>爾時，蓮華遊戲天子與十千天子，皆來供養<lb
  n="0779c14" ed="T"/>世尊及文殊師利菩薩；各持上妙名華，優曇<lb
  n="0779c15" ed="T"/>鉢羅華、青色蓮華、白色蓮華、曼陀羅華、摩<lb
  n="0779c16" ed="T"/>訶曼陀羅華、曼殊沙華、摩訶曼殊沙華，發<lb
@@ -722,7 +722,7 @@
  n="0781c08" ed="T"/>想、不學甚深妙法、不求菩提。「爾時寂靜諸<lb
  n="0781c09" ed="T"/>根菩薩，為比丘僧，而說伽陀曰：<lb
  n="0781c10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『若有貪嗔癡，　　不修菩提行，　　<lb
  n="0781c11" ed="T"/>菩提無貪性，　　一切當遠離。　　<lb
  n="0781c12" ed="T"/>愚夫不覺知，　　耽著諸慾樂，　　<lb
@@ -794,7 +794,7 @@
  n="0782b20" ed="T"/>不修大乘行，　　無禪定觀想，　　<lb
  n="0782b21" ed="T"/>此人如何得，　　無上法王印？』　　
 </ab><lb
- n="0782b22" ed="T"/><ab type="prose">「爾時，寂靜諸根菩薩，為比丘僧說此偈已，三<lb
+ n="0782b22" ed="T"/><ab type='prose'>「爾時，寂靜諸根菩薩，為比丘僧說此偈已，三<lb
  n="0782b23" ed="T"/>千二百天人得忍辱法，八萬比丘聞法各得<lb
  n="0782b24" ed="T"/>解脫；彼勝意比丘，得三業清淨離除業障。」爾<lb
  n="0782b25" ed="T"/>時，文殊師利白佛言：「世尊！如來宣說甚深法<lb
@@ -814,5 +814,5 @@
  n="0782c10" ed="T"/>天、人、阿修羅、乾闥婆等，聞佛所說，皆大歡喜<lb
  n="0782c11" ed="T"/>作禮而退。<lb
  n="0782c12" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說大乘隨轉宣說諸法經卷下</ab></div>
+</ab><ab type='juan' subtype='close'>佛說大乘隨轉宣說諸法經卷下</ab></div>
 </body></text></TEI>

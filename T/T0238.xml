@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T08</biblScope>
                     <idno type="Taisho">T08n0238</idno>
                 </bibl>
@@ -43,10 +43,10 @@
  n="0766c12" ed="T"/><lb
  n="0766c13" ed="T"/><lb
  n="0766c14" ed="T"/>
-<ab type="juan" subtype="open">金剛能斷般若波羅蜜經</ab><lb
+<ab type='juan' subtype='open'>金剛能斷般若波羅蜜經</ab><lb
  n="0766c15" ed="T"/><lb
  n="0766c16" ed="T"/><byline>隋大業年中三藏笈多譯</byline><lb
- n="0766c17" ed="T"/><div type="jing" level="1"><ab type="prose">歸命一切佛菩薩海等！<lb
+ n="0766c17" ed="T"/><div type='jing' level='1'><ab type='prose'>歸命一切佛菩薩海等！<lb
  n="0766c18" ed="T"/>如是我聞：一時，世尊聞者遊行勝林中，無親<lb
  n="0766c19" ed="T"/>搏施與園中，大比丘眾共半三十比丘百。爾<lb
  n="0766c20" ed="T"/>時，世尊前分時，上裙著已，器上給衣持，聞<lb
@@ -432,15 +432,15 @@
  n="0771a23" ed="T"/>說義解，我不相具足如來見應。」爾時，世尊彼<lb
  n="0771a24" ed="T"/>時此伽陀說：<lb
  n="0771a25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「若我色見，　　若我聲求，　　邪解脫行，　　<lb
  n="0771a26" ed="T"/>不我見彼。　　
 </ab><lb
- n="0771a27" ed="T"/><ab type="verse">
+ n="0771a27" ed="T"/><ab type='verse'>
 「法體佛見應，　　法身彼如來，　　<lb
  n="0771a28" ed="T"/>法體及不識，　　故彼不能知。　　
 </ab><lb
- n="0771a29" ed="T"/><ab type="prose">「彼何意念？善實！相具足，如來無上正遍知證<pb n="0771b" id="T08.0238.0771b" ed="T"/><lb
+ n="0771a29" ed="T"/><ab type='prose'>「彼何意念？善實！相具足，如來無上正遍知證<pb n="0771b" id="T08.0238.0771b" ed="T"/><lb
  n="0771b01" ed="T"/>覺？不，復彼，善實！如是見應。彼何所因？不，善<lb
  n="0771b02" ed="T"/>實！相具足，如來無上正遍知證覺。復時，彼，善<lb
  n="0771b03" ed="T"/>實！有如是語：『菩薩乘發行，有法破滅，施設<lb
@@ -482,14 +482,14 @@
  n="0771c10" ed="T"/>別廣說。此如是，彼緣，多過福聚生，無量、不可<lb
  n="0771c11" ed="T"/>數。云何及廣說？如不廣說，彼故說名廣說。<lb
  n="0771c12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「星、翳、燈、幻、　　露、泡、夢、電、　　雲，見如是，　　<lb
  n="0771c13" ed="T"/>此有為者。」　　
 </ab><lb
- n="0771c14" ed="T"/><ab type="prose">此語，世尊，歡喜上座善實，彼及比丘、比丘<lb
+ n="0771c14" ed="T"/><ab type='prose'>此語，世尊，歡喜上座善實，彼及比丘、比丘<lb
  n="0771c15" ed="T"/>尼、優婆塞、優婆夷，彼天、人、阿脩羅、乾闥婆等，<lb
  n="0771c16" ed="T"/>聞世尊說，大歡喜。<lb
  n="0771c17" ed="T"/>歸命一切佛菩薩海等！</ab></div><lb
  n="0771c18" ed="T"/>
-<ab type="juan" subtype="close">金剛能斷般若波羅蜜經</ab>
+<ab type='juan' subtype='close'>金剛能斷般若波羅蜜經</ab>
 </body></text></TEI>

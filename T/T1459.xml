@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T24</biblScope>
                     <idno type="Taisho">T24n1459</idno>
                 </bibl>
@@ -39,17 +39,17 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0617b" ed="T" id="T24.1459.0617b"/><lb
  n="0617b01" ed="T"/><lb
  n="0617b02" ed="T"/><lb
  n="0617b03" ed="T"/>
-<ab type="juan" subtype="open">根本說一切有部毘奈耶頌卷上</ab><lb
+<ab type='juan' subtype='open'>根本說一切有部毘奈耶頌卷上</ab><lb
  n="0617b04" ed="T"/><lb
  n="0617b05" ed="T"/><byline>尊者毘舍佉造</byline><lb
  n="0617b06" ed="T"/><byline>三藏法師義淨奉　制譯</byline><lb
  n="0617b07" ed="T"/><head>創明受近圓事及苾芻等要行軌式</head><lb
- n="0617b08" ed="T"/><ab type="verse">
+ n="0617b08" ed="T"/><ab type='verse'>
 開闡於調伏，　　善閑調伏義；　　<lb
  n="0617b09" ed="T"/>正住調伏中，　　能捨非調伏。　　<lb
  n="0617b10" ed="T"/>敬禮如是師，　　法及於聖眾；　　<lb
@@ -111,7 +111,7 @@
  n="0618a08" ed="T"/>象馬獼猴狀，　　及鼻唯一目，　　<lb
  n="0618a09" ed="T"/>無目牛馬齒，　　或復齒全無；　　<lb
  n="0618a10" ed="T"/>族謂旃荼羅，　　竹師除糞等，　　<lb
- n="0618a11" ed="T"/>及拐行等類，　　斯皆律所遮。　　<lb
+ n="0618a11" ed="T"/>及柺行等類，　　斯皆律所遮。　　<lb
  n="0618a12" ed="T"/>若有淨信者，　　所說過皆無；　　<lb
  n="0618a13" ed="T"/>遍身應審觀，　　問知無障法。　　<lb
  n="0618a14" ed="T"/>攝取經八日，　　存意好瞻相；　　<lb
@@ -333,9 +333,9 @@
  n="0620b27" ed="T"/>然於所到處，　　還須覓依止；　　<lb
  n="0620b28" ed="T"/>若無依止者，　　不消衣食利。　　
 </ab><lb
- n="0620b29" ed="T"/><head>初部四他勝法</head><ab type="prose">不淨行學處<pb n="0620c" ed="T" id="T24.1459.0620c"/><lb
+ n="0620b29" ed="T"/><head>初部四他勝法</head><ab type='prose'>不淨行學處<pb n="0620c" ed="T" id="T24.1459.0620c"/><lb
  n="0620c01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 佛說三種罪，　　無餘不可治；　　<lb
  n="0620c02" ed="T"/>有餘眾所除，　　餘皆別人悔。　　<lb
  n="0620c03" ed="T"/>四波羅市迦，　　極重當恭敬；　　<lb
@@ -367,9 +367,9 @@
  n="0620c29" ed="T"/>問因雖答二，　　准問以酬言；　　<pb n="0621a" ed="T" id="T24.1459.0621a"/><lb
  n="0621a01" ed="T"/>如非初二因，　　應知非彼攝。　　
 </ab><lb
- n="0621a02" ed="T"/><ab type="prose">不與取學處<lb
+ n="0621a02" ed="T"/><ab type='prose'>不與取學處<lb
  n="0621a03" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 但尼迦苾芻，　　自為而作屋；　　<lb
  n="0621a04" ed="T"/>輒取王家木，　　由斯作犯因。　　<lb
  n="0621a05" ed="T"/>他物作盜心，　　移離於本處；　　<lb
@@ -463,9 +463,9 @@
  n="0622a06" ed="T"/>問病方教化，　　應為求醫藥；　　<lb
  n="0622a07" ed="T"/>是可委寄者，　　勿同尼乞油。　　
 </ab><lb
- n="0622a08" ed="T"/><ab type="prose">斷人命學處<lb
+ n="0622a08" ed="T"/><ab type='prose'>斷人命學處<lb
  n="0622a09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 苾芻厭不淨，　　求鹿杖自殺；　　<lb
  n="0622a10" ed="T"/>為福貪鉢等，　　由斯大聖遮。　　<lb
  n="0622a11" ed="T"/>故心非誤殺，　　自作或使他；　　<lb
@@ -523,9 +523,9 @@
  n="0622c05" ed="T"/>父老不能行，　　恐畏午時到；　　<lb
  n="0622c06" ed="T"/>子推因致死，　　此事不應為。　　
 </ab><lb
- n="0622c07" ed="T"/><ab type="prose">說上人法學處<lb
+ n="0622c07" ed="T"/><ab type='prose'>說上人法學處<lb
  n="0622c08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 儉年諸苾芻，　　實無勝上德；　　<lb
  n="0622c09" ed="T"/>更互虛相讚，　　活命佛因遮。　　<lb
  n="0622c10" ed="T"/>不得言我得，　　殊勝增上證；　　<lb
@@ -550,9 +550,9 @@
  n="0622c29" ed="T"/>審觀方告知，　　異此便麁罪。　　
 </ab><pb n="0623a" ed="T" id="T24.1459.0623a"/><lb
  n="0623a01" ed="T"/><head>第二部十三僧伽伐尸沙法</head><lb
- n="0623a02" ed="T"/><ab type="prose">故泄精學處<lb
+ n="0623a02" ed="T"/><ab type='prose'>故泄精學處<lb
  n="0623a03" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若離三瘡門，　　於自他身分；　　<lb
  n="0623a04" ed="T"/>故泄其不淨，　　此必犯僧殘。　　<lb
  n="0623a05" ed="T"/>泄謂在身中，　　精移其本處；　　<lb
@@ -616,9 +616,9 @@
  n="0623c05" ed="T"/>除咽已下毛，　　及為下灌法；　　<lb
  n="0623c06" ed="T"/>除病緣而作，　　吐羅罪割身。　　
 </ab><lb
- n="0623c07" ed="T"/><ab type="prose">觸女學處<lb
+ n="0623c07" ed="T"/><ab type='prose'>觸女學處<lb
  n="0623c08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 從足至于首，　　染心觸女人；　　<lb
  n="0623c09" ed="T"/>無衣便眾教，　　有隔吐羅罪。　　<lb
  n="0623c10" ed="T"/>若故意推牽，　　從象車等處；　　<lb
@@ -630,9 +630,9 @@
  n="0623c16" ed="T"/>此據堪行婬，　　餘獲吐羅罪；　　<lb
  n="0623c17" ed="T"/>小男黃門等，　　傍生皆惡作。　　
 </ab><lb
- n="0623c18" ed="T"/><ab type="prose">鄙惡語學處<lb
+ n="0623c18" ed="T"/><ab type='prose'>鄙惡語學處<lb
  n="0623c19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 苾芻麁惡語，　　全非離欲人；　　<lb
  n="0623c20" ed="T"/>對女作婬言，　　此亦由僧救。　　<lb
  n="0623c21" ed="T"/>汝身極軟滑，　　可愛三瘡門；　　<lb
@@ -648,9 +648,9 @@
  n="0624a02" ed="T"/>癲狂與心亂，　　吃及初犯人；　　<lb
  n="0624a03" ed="T"/>及以痛惱纏，　　斯皆非犯類。　　
 </ab><lb
- n="0624a04" ed="T"/><ab type="prose">索供養學處<lb
+ n="0624a04" ed="T"/><ab type='prose'>索供養學處<lb
  n="0624a05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 於自身讚歎，　　方便說功德；　　<lb
  n="0624a06" ed="T"/>婬言對女前，　　眾教刀便割。　　<lb
  n="0624a07" ed="T"/>殊勝者謂最，　　姊妹愛念言；　　<lb
@@ -680,9 +680,9 @@
  n="0624b02" ed="T"/>此據堪行欲，　　翻此得吐羅；　　<lb
  n="0624b03" ed="T"/>丈夫扇侘等，　　傍生唯惡作。　　
 </ab><lb
- n="0624b04" ed="T"/><ab type="prose">媒嫁學處<lb
+ n="0624b04" ed="T"/><ab type='prose'>媒嫁學處<lb
  n="0624b05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 自作若使人，　　令女男和合；　　<lb
  n="0624b06" ed="T"/>持彼僧殘劍，　　斬傷於自身。　　<lb
  n="0624b07" ed="T"/>水授財娉等，　　略有七種婦；　　<lb
@@ -720,9 +720,9 @@
  n="0624c10" ed="T"/>此男何不婚？　　此女何不嫁？　　<lb
  n="0624c11" ed="T"/>苾芻如是語，　　即便招惡作。　　
 </ab><lb
- n="0624c12" ed="T"/><ab type="prose">造小房學處<lb
+ n="0624c12" ed="T"/><ab type='prose'>造小房學處<lb
  n="0624c13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 自為作小房，　　秉法觀無過；　　<lb
  n="0624c14" ed="T"/>量等便無犯，　　異此得僧殘。　　<lb
  n="0624c15" ed="T"/>於此小房處，　　堪作四威儀；　　<lb
@@ -744,15 +744,15 @@
  n="0625a02" ed="T"/>最初者或狂，　　心亂病苦逼；　　<lb
  n="0625a03" ed="T"/>設造房無犯，　　此是大開緣。　　
 </ab><lb
- n="0625a04" ed="T"/><ab type="prose">造大寺學處<lb
+ n="0625a04" ed="T"/><ab type='prose'>造大寺學處<lb
  n="0625a05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 有主毘訶羅，　　本無其量數；　　<lb
  n="0625a06" ed="T"/>此中言大者，　　謂量及珍財。　　
 </ab><lb
- n="0625a07" ed="T"/><ab type="prose">無根謗學處并假根事<lb
+ n="0625a07" ed="T"/><ab type='prose'>無根謗學處并假根事<lb
  n="0625a08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 說無根他勝，　　欲壞彼淨行，　　<lb
  n="0625a09" ed="T"/>及陳像似事，　　此二今當說。　　<lb
  n="0625a10" ed="T"/>時有蓮花色，　　淨信苾芻尼，　　<lb
@@ -766,9 +766,9 @@
  n="0625a18" ed="T"/>如是等緣起，　　隨說有差別；　　<lb
  n="0625a19" ed="T"/>諸智者應知，　　斯成謗他罪。　　
 </ab><lb
- n="0625a20" ed="T"/><ab type="prose">破僧學處<lb
+ n="0625a20" ed="T"/><ab type='prose'>破僧學處<lb
  n="0625a21" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 屏諫及眾諫，　　乃至第三遮；　　<lb
  n="0625a22" ed="T"/>欲破一味僧，　　便得眾教罪。　　<lb
  n="0625a23" ed="T"/>遮時不作白，　　說名為別諫；　　<lb
@@ -816,15 +816,15 @@
  n="0625c07" ed="T"/>白不捨吐羅，　　及說初羯磨；　　<lb
  n="0625c08" ed="T"/>如是說第二，　　最後獲僧教。　　
 </ab><lb
- n="0625c09" ed="T"/><ab type="prose">隨助破僧學處<lb
+ n="0625c09" ed="T"/><ab type='prose'>隨助破僧學處<lb
  n="0625c10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 於此隨轉人，　　罪惡苾芻眾；　　<lb
  n="0625c11" ed="T"/>別諫等差別，　　如是悉同前。　　
 </ab><lb
- n="0625c12" ed="T"/><ab type="prose">污家學處<lb
+ n="0625c12" ed="T"/><ab type='prose'>污家學處<lb
  n="0625c13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若有污家者，　　說污二種殊：　　<lb
  n="0625c14" ed="T"/>一名為雜居，　　第二謂受用。　　<lb
  n="0625c15" ed="T"/>雜居與女人，　　作戲掉舉等；　　<lb
@@ -832,9 +832,9 @@
  n="0625c17" ed="T"/>謂眼耳意識，　　見等三應知；　　<lb
  n="0625c18" ed="T"/>別諫等差殊，　　如前惡作等。　　
 </ab><lb
- n="0625c19" ed="T"/><ab type="prose">惡性違諫學處<lb
+ n="0625c19" ed="T"/><ab type='prose'>惡性違諫學處<lb
  n="0625c20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 如是惡語人，　　獲得眾教罪；　　<lb
  n="0625c21" ed="T"/>善言不肯順，　　名惡語應知。　　<lb
  n="0625c22" ed="T"/>遍學他勝等，　　說名為學處；　　<lb
@@ -845,7 +845,7 @@
  n="0625c27" ed="T"/>九初便得罪，　　四由三諫生。　　
 </ab><lb
  n="0625c28" ed="T"/><head>二不定法</head><lb
- n="0625c29" ed="T"/><ab type="verse">
+ n="0625c29" ed="T"/><ab type='verse'>
 略於眾教罪，　　已說少相應；　　<pb n="0626a" ed="T" id="T24.1459.0626a"/><lb
  n="0626a01" ed="T"/>不定我當陳，　　大師言二法。　　<lb
  n="0626a02" ed="T"/>苾芻鄔陀夷，　　與笈多親密；　　<lb
@@ -864,9 +864,9 @@
  n="0626a15" ed="T"/>於罪不決斷，　　二不定名生。　　
 </ab><lb
  n="0626a16" ed="T"/><head>第三部捨墮法</head><lb
- n="0626a17" ed="T"/><ab type="prose">畜長衣不分別學處<lb
+ n="0626a17" ed="T"/><ab type='prose'>畜長衣不分別學處<lb
  n="0626a18" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 苾芻十日外，　　畜衣不分別；　　<lb
  n="0626a19" ed="T"/>泥薩祇塵土，　　坌污罪人身。　　<lb
  n="0626a20" ed="T"/>衣已縫刺染，　　是名衣已成；　　<lb
@@ -886,14 +886,14 @@
  n="0626b05" ed="T"/>由有財可捨，　　復為墮罪傷；　　<lb
  n="0626b06" ed="T"/>墮落惡趣故，　　名波逸底迦。　　
 </ab><lb
- n="0626b07" ed="T"/><ab type="prose">離三衣宿學處<lb
+ n="0626b07" ed="T"/><ab type='prose'>離三衣宿學處<lb
  n="0626b08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 常共三衣俱，　　無緣不別宿；　　<lb
  n="0626b09" ed="T"/>除眾為作法，　　異斯便得罪。　　<lb
  n="0626b10" ed="T"/>一二眾多舍，　　村外坑塹遶；　　<lb
  n="0626b11" ed="T"/>牆柵遍皆圍，　　有一多勢分。　　<lb
- n="0626b12" ed="T"/>勢分謂敝園，　　及天廟處等；　　<lb
+ n="0626b12" ed="T"/>勢分謂敞園，　　及天廟處等；　　<lb
  n="0626b13" ed="T"/>或差別或一，　　名別一勢分。　　<lb
  n="0626b14" ed="T"/>一行相連故，　　應知名一舍；　　<lb
  n="0626b15" ed="T"/>野人下賊等，　　如一類同村。　　<lb
@@ -922,9 +922,9 @@
  n="0626c09" ed="T"/>道行時勢分，　　齊四十九尋；　　<lb
  n="0626c10" ed="T"/>坐住臥離衣，　　無過一尋內。　　
 </ab><lb
- n="0626c11" ed="T"/><ab type="prose">月望衣學處<lb
+ n="0626c11" ed="T"/><ab type='prose'>月望衣學處<lb
  n="0626c12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 雖得支伐羅，　　於餘有希望；　　<lb
  n="0626c13" ed="T"/>得齊於一月，　　不分別無犯。　　<lb
  n="0626c14" ed="T"/>八半至正半，　　一月是衣時；　　<lb
@@ -1058,9 +1058,9 @@
  n="0628a26" ed="T"/>若是僧伽物，　　不犯泥薩祇；　　<lb
  n="0628a27" ed="T"/>別人衣有犯，　　捨時應准式。　　
 </ab><lb
- n="0628a28" ed="T"/><ab type="prose">使非親尼浣衣學處<lb
+ n="0628a28" ed="T"/><ab type='prose'>使非親尼浣衣學處<lb
  n="0628a29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 為於衣上見，　　有不淨遺精；　　<pb n="0628b" ed="T" id="T24.1459.0628b"/><lb
  n="0628b01" ed="T"/>由斯故起貪，　　笈多因得子。　　<lb
  n="0628b02" ed="T"/>苾芻使非親，　　苾芻尼浣服；　　<lb
@@ -1070,9 +1070,9 @@
  n="0628b06" ed="T"/>手掌若一打，　　染汁一揉衣；　　<lb
  n="0628b07" ed="T"/>苾芻雖善心，　　亦虧於學處。　　
 </ab><lb
- n="0628b08" ed="T"/><ab type="prose">取非親尼衣學處<lb
+ n="0628b08" ed="T"/><ab type='prose'>取非親尼衣學處<lb
  n="0628b09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若非親族尼，　　苾芻取衣服；　　<lb
  n="0628b10" ed="T"/>為無憐愍故，　　得時招捨墮。　　<lb
  n="0628b11" ed="T"/>不與亦不取，　　換易便無過；　　<lb
@@ -1082,17 +1082,17 @@
  n="0628b15" ed="T"/>或時見近圓，　　持物來相助；　　<lb
  n="0628b16" ed="T"/>被賊奪時施，　　為受皆無犯。　　
 </ab><lb
- n="0628b17" ed="T"/><ab type="prose">從非親居士婦乞衣學處<lb
+ n="0628b17" ed="T"/><ab type='prose'>從非親居士婦乞衣學處<lb
  n="0628b18" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 於非親俗人，　　或於俗人婦；　　<lb
  n="0628b19" ed="T"/>苾芻衣現有，　　從乞遂招愆。　　<lb
  n="0628b20" ed="T"/>乞下衣及線，　　便得勝上服；　　<lb
  n="0628b21" ed="T"/>覓少得全衣，　　受取時無過。　　
 </ab><lb
- n="0628b22" ed="T"/><ab type="prose">過量乞衣學處<lb
+ n="0628b22" ed="T"/><ab type='prose'>過量乞衣學處<lb
  n="0628b23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 苾芻衣失奪，　　有人多施衣；　　<lb
  n="0628b24" ed="T"/>但取上下衣，　　不應過量受。　　<lb
  n="0628b25" ed="T"/>上衣肘十一，　　下長至七肘；　　<lb
@@ -1102,9 +1102,9 @@
  n="0628b29" ed="T"/>從彼乞衣時，　　若得盈長物；　　<pb n="0628c" ed="T" id="T24.1459.0628c"/><lb
  n="0628c01" ed="T"/>宜應還本主，　　更施受隨聽。　　
 </ab><lb
- n="0628c02" ed="T"/><ab type="prose">非親居士婦共辦衣學處<lb
+ n="0628c02" ed="T"/><ab type='prose'>非親居士婦共辦衣學處<lb
  n="0628c03" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若俗人夫婦，　　欲為辦衣價；　　<lb
  n="0628c04" ed="T"/>苾芻從彼覓，　　若得罪便傷。　　<lb
  n="0628c05" ed="T"/>非親如上說，　　若得七種衣；　　<lb
@@ -1116,15 +1116,15 @@
  n="0628c11" ed="T"/>苾芻若無衣，　　容儀不端正；　　<lb
  n="0628c12" ed="T"/>由斯世尊教，　　制遣著三衣。　　
 </ab><lb
- n="0628c13" ed="T"/><ab type="prose">非親居士婦各辦衣學處<lb
+ n="0628c13" ed="T"/><ab type='prose'>非親居士婦各辦衣學處<lb
  n="0628c14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 衣事並如前，　　別與衣價異；　　<lb
  n="0628c15" ed="T"/>當觀緣起處，　　有罪及無罪。　　
 </ab><lb
- n="0628c16" ed="T"/><ab type="prose">王臣送衣價學處<lb
+ n="0628c16" ed="T"/><ab type='prose'>王臣送衣價學處<lb
  n="0628c17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若是灌頂王，　　及婆羅門等；　　<lb
  n="0628c18" ed="T"/>大臣并將帥，　　令持衣價來。　　<lb
  n="0628c19" ed="T"/>見使送衣直，　　告言非所應；　　<lb
@@ -1154,23 +1154,23 @@
  n="0629a14" ed="T"/>在路知彼死，　　即是死人物；　　<lb
  n="0629a15" ed="T"/>多時無長過，　　物如餘處辨。　　
 </ab><lb
- n="0629a16" ed="T"/><ab type="prose">用野蠶絲作敷具學處<lb
+ n="0629a16" ed="T"/><ab type='prose'>用野蠶絲作敷具學處<lb
  n="0629a17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若作新蠶褥，　　成時犯捨墮；　　<lb
  n="0629a18" ed="T"/>有二種不同，　　囊成及扞作。　　<lb
  n="0629a19" ed="T"/>作二皆犯罪，　　他與用無過；　　<lb
  n="0629a20" ed="T"/>饒益施主故，　　令其福命增。　　
 </ab><lb
- n="0629a21" ed="T"/><ab type="prose">純黑羊毛作敷具學處<lb
+ n="0629a21" ed="T"/><ab type='prose'>純黑羊毛作敷具學處<lb
  n="0629a22" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 不用純黑毛，　　而作新臥具；　　<lb
  n="0629a23" ed="T"/>求覓時難得，　　復妨於正修。　　
 </ab><lb
- n="0629a24" ed="T"/><ab type="prose">過分用毛作敷具學處<lb
+ n="0629a24" ed="T"/><ab type='prose'>過分用毛作敷具學處<lb
  n="0629a25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 且如用羊毛，　　四斤為臥褥；　　<lb
  n="0629a26" ed="T"/>黑二餘各一，　　是應法無罪。　　<lb
  n="0629a27" ed="T"/>黑謂性烏毛，　　齊項名為白；　　<lb
@@ -1180,9 +1180,9 @@
  n="0629b02" ed="T"/>黑易餘難求，　　純黑亦聽作；　　<lb
  n="0629b03" ed="T"/>若從他處得，　　受用當隨意。　　
 </ab><lb
- n="0629b04" ed="T"/><ab type="prose">六年敷具學處<lb
+ n="0629b04" ed="T"/><ab type='prose'>六年敷具學處<lb
  n="0629b05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若自作臥褥，　　強遣六年持；　　<lb
  n="0629b06" ed="T"/>六內造時犯，　　除僧為秉法。　　<lb
  n="0629b07" ed="T"/>若苾芻一年，　　更造第二褥；　　<lb
@@ -1190,9 +1190,9 @@
  n="0629b09" ed="T"/>如是二三四，　　乃至五年終；　　<lb
  n="0629b10" ed="T"/>若入於六年，　　縱造非遮限。　　
 </ab><lb
- n="0629b11" ed="T"/><ab type="prose">不帖坐具學處<lb
+ n="0629b11" ed="T"/><ab type='prose'>不帖坐具學處<lb
  n="0629b12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若作新坐具，　　以佛一張手；　　<lb
  n="0629b13" ed="T"/>帖在於新者，　　壞色令牢固。　　<lb
  n="0629b14" ed="T"/>若於張手內，　　故心減片許；　　<lb
@@ -1200,33 +1200,33 @@
  n="0629b16" ed="T"/>舊者極爛壞，　　久故無所堪：　　<lb
  n="0629b17" ed="T"/>或唯但有新，　　不帖時非犯。　　
 </ab><lb
- n="0629b18" ed="T"/><ab type="prose">擔羊毛學處<lb
+ n="0629b18" ed="T"/><ab type='prose'>擔羊毛學處<lb
  n="0629b19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 不自將羊毛，　　行過三驛外；　　<lb
  n="0629b20" ed="T"/>少許為帽等，　　密持非是愆。　　<lb
  n="0629b21" ed="T"/>半村擎惡作，　　及半俱盧舍；　　<lb
  n="0629b22" ed="T"/>俱盧舍若過，　　越村便得墮。　　
 </ab><lb
- n="0629b23" ed="T"/><ab type="prose">使非親尼擘羊毛學處<lb
+ n="0629b23" ed="T"/><ab type='prose'>使非親尼擘羊毛學處<lb
  n="0629b24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 非親苾芻尼，　　苾芻令浣等；　　<lb
  n="0629b25" ed="T"/>持毛彼若洗，　　斯便損式叉。　　<lb
  n="0629b26" ed="T"/>若別令洗等，　　或復總皆為；　　<lb
  n="0629b27" ed="T"/>得罪隨所應，　　不為但惡作。　　
 </ab><lb
- n="0629b28" ed="T"/><ab type="prose">捉畜錢寶學處<lb
+ n="0629b28" ed="T"/><ab type='prose'>捉畜錢寶學處<lb
  n="0629b29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 佛遮苾芻輩，　　執捉金銀等；　　<pb n="0629c" ed="T" id="T24.1459.0629c"/><lb
  n="0629c01" ed="T"/>若三衣道糧，　　病藥當持去。　　<lb
  n="0629c02" ed="T"/>苾芻應少欲，　　少作少營求；　　<lb
  n="0629c03" ed="T"/>存心樂涅槃，　　知量知時受。　　
 </ab><lb
- n="0629c04" ed="T"/><ab type="prose">出息求利學處<lb
+ n="0629c04" ed="T"/><ab type='prose'>出息求利學處<lb
  n="0629c05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 為利作興生，　　財穀等出納；　　<lb
  n="0629c06" ed="T"/>覓利金剛杵，　　便傷貪者身。　　<lb
  n="0629c07" ed="T"/>遠求及期限，　　出利并納質；　　<lb
@@ -1250,9 +1250,9 @@
  n="0629c25" ed="T"/>納質善觀望，　　籌量可與物；　　<lb
  n="0629c26" ed="T"/>善人堪委付，　　無質與非傷。　　
 </ab><lb
- n="0629c27" ed="T"/><ab type="prose">賣買學處<lb
+ n="0629c27" ed="T"/><ab type='prose'>賣買學處<lb
  n="0629c28" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 無別交易人，　　苾芻須自買；　　<lb
  n="0629c29" ed="T"/>善觀當出語，　　決價但三酬。　　<pb n="0630a" ed="T" id="T24.1459.0630a"/><lb
  n="0630a01" ed="T"/>若當有賣買，　　元不許求利；　　<lb
@@ -1266,17 +1266,17 @@
  n="0630a09" ed="T"/>雖安在陰處，　　生蟲尚自存；　　<lb
  n="0630a10" ed="T"/>置室瓨等中，　　密閉無令損。　　
 </ab><lb
- n="0630a11" ed="T"/><ab type="prose">畜長鉢學處<lb
+ n="0630a11" ed="T"/><ab type='prose'>畜長鉢學處<lb
  n="0630a12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 畜鉢有二種，　　謂鐵及與瓦；　　<lb
  n="0630a13" ed="T"/>若持過十日，　　必為罪相中。　　<lb
  n="0630a14" ed="T"/>若應量及減，　　有餘應貯畜；　　<lb
  n="0630a15" ed="T"/>為濟近圓人，　　不分別無咎。　　
 </ab><lb
- n="0630a16" ed="T"/><ab type="prose">乞鉢學處<lb
+ n="0630a16" ed="T"/><ab type='prose'>乞鉢學處<lb
  n="0630a17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 得作五種綴，　　不合乞餘鉢；　　<lb
  n="0630a18" ed="T"/>意遮求妙好，　　若買則非愆。　　<lb
  n="0630a19" ed="T"/>苾芻綴鉢璺，　　不應用融物；　　<lb
@@ -1296,15 +1296,15 @@
  n="0630b04" ed="T"/>要有鉢方行，　　不蒙眾秉法；　　<lb
  n="0630b05" ed="T"/>除為賊恐怖，　　又復擬還來。　　
 </ab><lb
- n="0630b06" ed="T"/><ab type="prose">自乞縷使非親織學處<lb
+ n="0630b06" ed="T"/><ab type='prose'>自乞縷使非親織學處<lb
  n="0630b07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若非親織師，　　無價織衣犯；　　<lb
  n="0630b08" ed="T"/>酬價并親族，　　遣織時非過。　　
 </ab><lb
- n="0630b09" ed="T"/><ab type="prose">居士婦使非親織學處<lb
+ n="0630b09" ed="T"/><ab type='prose'>居士婦使非親織學處<lb
  n="0630b10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 俗人令織匠，　　為苾芻織衣；　　<lb
  n="0630b11" ed="T"/>不應至彼邊，　　諂心申愛語，　　<lb
  n="0630b12" ed="T"/>令長刷削打，　　將食誘織師；　　<lb
@@ -1314,9 +1314,9 @@
  n="0630b16" ed="T"/>乞餅與織師，　　五正等飲食；　　<lb
  n="0630b17" ed="T"/>與其食糧者，　　米豆等應知。　　
 </ab><lb
- n="0630b18" ed="T"/><ab type="prose">奪衣學處<lb
+ n="0630b18" ed="T"/><ab type='prose'>奪衣學處<lb
  n="0630b19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 苾芻與他衣，　　瞋不應還奪；　　<lb
  n="0630b20" ed="T"/>哀憐者無過，　　意欲益前人。　　<lb
  n="0630b21" ed="T"/>動身是身業，　　言陳成語愆；　　<lb
@@ -1324,9 +1324,9 @@
  n="0630b23" ed="T"/>乃至於衣角，　　未離身已來；　　<lb
  n="0630b24" ed="T"/>得惡作應知，　　離身便犯捨。　　
 </ab><lb
- n="0630b25" ed="T"/><ab type="prose">急施衣學處<lb
+ n="0630b25" ed="T"/><ab type='prose'>急施衣學處<lb
  n="0630b26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 但是夏中利，　　坐夏者應分；　　<lb
  n="0630b27" ed="T"/>此不通餘人，　　預分招惡作。　　<lb
  n="0630b28" ed="T"/>夏無掌衣者，　　不合受他衣；　　<lb
@@ -1340,9 +1340,9 @@
  n="0630c07" ed="T"/>若得隨意利，　　悉屬坐夏人；　　<lb
  n="0630c08" ed="T"/>亦通無夏者，　　同為隨意事。　　
 </ab><lb
- n="0630c09" ed="T"/><ab type="prose">蘭若離衣學處<lb
+ n="0630c09" ed="T"/><ab type='prose'>蘭若離衣學處<lb
  n="0630c10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 阿蘭若有怖，　　於自三衣中；　　<lb
  n="0630c11" ed="T"/>俗舍寄一衣，　　為防其難故。　　<lb
  n="0630c12" ed="T"/>於斯離衣宿，　　六夜許無愆；　　<lb
@@ -1352,9 +1352,9 @@
  n="0630c16" ed="T"/>言有疑畏處，　　謂師子虎等；　　<lb
  n="0630c17" ed="T"/>有怖謂䖟等，　　惱亂多眾毒。　　
 </ab><lb
- n="0630c18" ed="T"/><ab type="prose">雨浴衣學處<lb
+ n="0630c18" ed="T"/><ab type='prose'>雨浴衣學處<lb
  n="0630c19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 春餘一月在，　　四半至五半；　　<lb
  n="0630c20" ed="T"/>若其須雨衣，　　此時宜可乞。　　<lb
  n="0630c21" ed="T"/>去前安居日，　　尚有一月在；　　<lb
@@ -1384,9 +1384,9 @@
  n="0631a16" ed="T"/>如斯等五人，　　無利無饒益；　　<lb
  n="0631a17" ed="T"/>由其不消施，　　持戒者應為。　　
 </ab><lb
- n="0631a18" ed="T"/><ab type="prose">迴眾物入己學處<lb
+ n="0631a18" ed="T"/><ab type='prose'>迴眾物入己學處<lb
  n="0631a19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若僧現前物，　　迴之將屬己；　　<lb
  n="0631a20" ed="T"/>他利最難消，　　當受泥黎苦。　　<lb
  n="0631a21" ed="T"/>他施衣金等，　　及以諸飲食；　　<lb
@@ -1398,9 +1398,9 @@
  n="0631a27" ed="T"/>佛像制底人，　　乃至與畜生；　　<lb
  n="0631a28" ed="T"/>上下樓簷等，　　迴時皆惡作。　　
 </ab><lb
- n="0631a29" ed="T"/><ab type="prose">七日藥學處<pb n="0631b" ed="T" id="T24.1459.0631b"/><lb
+ n="0631a29" ed="T"/><ab type='prose'>七日藥學處<pb n="0631b" ed="T" id="T24.1459.0631b"/><lb
  n="0631b01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 受取對苾芻，　　守持酥蜜等；　　<lb
  n="0631b02" ed="T"/>自取隨情食，　　齊七日無違。　　<lb
  n="0631b03" ed="T"/>泥薩祇應捨，　　此須善苾芻；　　<lb
@@ -1413,19 +1413,19 @@
  n="0631b10" ed="T"/>復墜墮三塗，　　為斯名捨墮。　　
 </ab><lb
  n="0631b11" ed="T"/>
-<ab type="juan" subtype="close">根本說一切有部毘奈耶頌卷上</ab><lb
+<ab type='juan' subtype='close'>根本說一切有部毘奈耶頌卷上</ab><lb
  n="0631b12" ed="T"/><lb
  n="0631b13" ed="T"/><lb
  n="0631b14" ed="T"/>
-<ab type="juan" subtype="open">根本說一切有部毘奈耶頌<lb
+<ab type='juan' subtype='open'>根本說一切有部毘奈耶頌<lb
  n="0631b15" ed="T"/>卷中</ab><lb
  n="0631b16" ed="T"/><lb
  n="0631b17" ed="T"/><byline>尊者毘舍佉造</byline><lb
  n="0631b18" ed="T"/><byline>三藏法師義淨奉　制譯</byline><lb
  n="0631b19" ed="T"/><head>九十波逸底迦法</head><lb
- n="0631b20" ed="T"/><ab type="prose">故妄語學處<lb
+ n="0631b20" ed="T"/><ab type='prose'>故妄語學處<lb
  n="0631b21" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 已說三十事，　　捨與墮相應；　　<lb
  n="0631b22" ed="T"/>九十單墮罪，　　隨次今當說。　　<lb
  n="0631b23" ed="T"/>王舍城人眾，　　及以諸苾芻，　　<lb
@@ -1463,9 +1463,9 @@
  n="0631c26" ed="T"/>於不見等處，　　顛倒說見等；　　<lb
  n="0631c27" ed="T"/>故心說他解，　　墮落罪便傷。　　
 </ab><lb
- n="0631c28" ed="T"/><ab type="prose">毀呰語學處<lb
+ n="0631c28" ed="T"/><ab type='prose'>毀呰語學處<lb
  n="0631c29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 雖毀呰傍生，　　喚為禿角等；　　<pb n="0632a" ed="T" id="T24.1459.0632a"/><lb
  n="0632a01" ed="T"/>懷羞情不忍，　　何況毀於人！　　<lb
  n="0632a02" ed="T"/>由斯世尊說，　　常饒益眾生；　　<lb
@@ -1497,9 +1497,9 @@
  n="0632a28" ed="T"/>意欲簡前人，　　是何者佛護？　　<lb
  n="0632a29" ed="T"/>答言剎帝利，　　如是等無愆。　　
 </ab><pb n="0632b" ed="T" id="T24.1459.0632b"/><lb
- n="0632b01" ed="T"/><ab type="prose">離間語學處<lb
+ n="0632b01" ed="T"/><ab type='prose'>離間語學處<lb
  n="0632b02" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 苾芻離間語，　　欲使他分坼；　　<lb
  n="0632b03" ed="T"/>由為觸惱心，　　定招於墮罪。　　<lb
  n="0632b04" ed="T"/>汝剃髮賤人，　　問言誰語汝？　　<lb
@@ -1507,9 +1507,9 @@
  n="0632b06" ed="T"/>於前學處中，　　說族工巧等；　　<lb
  n="0632b07" ed="T"/>應知罪相似，　　智者不應為。　　
 </ab><lb
- n="0632b08" ed="T"/><ab type="prose">發舉殄諍羯磨學處<lb
+ n="0632b08" ed="T"/><ab type='prose'>發舉殄諍羯磨學處<lb
  n="0632b09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 和合眾作法，　　同心許其事；　　<lb
  n="0632b10" ed="T"/>若更毀破者，　　墮罪遂便傷。　　<lb
  n="0632b11" ed="T"/>大眾共一心，　　如法如軌則；　　<lb
@@ -1531,9 +1531,9 @@
  n="0632b27" ed="T"/>初三若毀破，　　俱得於墮罪；　　<lb
  n="0632b28" ed="T"/>後二若毀時，　　並皆招惡作。　　
 </ab><lb
- n="0632b29" ed="T"/><ab type="prose">與女人說法過五六語學處<pb n="0632c" ed="T" id="T24.1459.0632c"/><lb
+ n="0632b29" ed="T"/><ab type='prose'>與女人說法過五六語學處<pb n="0632c" ed="T" id="T24.1459.0632c"/><lb
  n="0632c01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 為女說法時，　　唯齊五六語；　　<lb
  n="0632c02" ed="T"/>除有智男子，　　過時得本愆。　　<lb
  n="0632c03" ed="T"/>一切色無常，　　受想行亦爾；　　<lb
@@ -1545,37 +1545,37 @@
  n="0632c09" ed="T"/>若口吃無過，　　及以語怱怱；　　<lb
  n="0632c10" ed="T"/>智女更問時，　　為說便非犯。　　
 </ab><lb
- n="0632c11" ed="T"/><ab type="prose">與未近圓人同句讀誦學處<lb
+ n="0632c11" ed="T"/><ab type='prose'>與未近圓人同句讀誦學處<lb
  n="0632c12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 與未近圓者，　　同句而誦法，　　<lb
  n="0632c13" ed="T"/>隨說即招愆，　　同誦開無過。　　
 </ab><lb
- n="0632c14" ed="T"/><ab type="prose">向未近圓人說他麁罪學處<lb
+ n="0632c14" ed="T"/><ab type='prose'>向未近圓人說他麁罪學處<lb
  n="0632c15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 知他犯麁惡，　　告未具得罪；　　<lb
  n="0632c16" ed="T"/>大眾與法者，　　說時無有過。　　<lb
  n="0632c17" ed="T"/>何者名麁罪？　　謂波羅市迦、　　<lb
  n="0632c18" ed="T"/>僧伽伐尸沙，　　非餘事應識。　　
 </ab><lb
- n="0632c19" ed="T"/><ab type="prose">實得上人法向未近圓人說學處<lb
+ n="0632c19" ed="T"/><ab type='prose'>實得上人法向未近圓人說學處<lb
  n="0632c20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 前人未近圓，　　苾芻向彼說，　　<lb
  n="0632c21" ed="T"/>實得上人法，　　得波逸底迦。　　<lb
  n="0632c22" ed="T"/>若是五種蓋，　　凡人法共知；　　<lb
  n="0632c23" ed="T"/>非此名上人、　　靜慮等境界。　　
 </ab><lb
- n="0632c24" ed="T"/><ab type="prose">謗迴眾利物學處<lb
+ n="0632c24" ed="T"/><ab type='prose'>謗迴眾利物學處<lb
  n="0632c25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 說他與眾物，　　迴將入別人；　　<lb
  n="0632c26" ed="T"/>若作妄言時，　　便遭墮罪割。　　
 </ab><lb
- n="0632c27" ed="T"/><ab type="prose">輕呵戒學處<lb
+ n="0632c27" ed="T"/><ab type='prose'>輕呵戒學處<lb
  n="0632c28" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 半月半月說，　　戒經長淨時；　　<lb
  n="0632c29" ed="T"/>若其輕慢言，　　定得於本罪。　　<pb n="0633a" ed="T" id="T24.1459.0633a"/><lb
  n="0633a01" ed="T"/>何須戒經內，　　說此小隨小，　　<lb
@@ -1585,9 +1585,9 @@
  n="0633a05" ed="T"/>但是律教中，　　所有諸小戒；　　<lb
  n="0633a06" ed="T"/>苾芻輕慢說，　　亦皆成本愆。　　
 </ab><lb
- n="0633a07" ed="T"/><ab type="prose">壞生種學處<lb
+ n="0633a07" ed="T"/><ab type='prose'>壞生種學處<lb
  n="0633a08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 所有種子類，　　及以有情村；　　<lb
  n="0633a09" ed="T"/>根莖節開子，　　自他損皆犯。　　<lb
  n="0633a10" ed="T"/>若從根得生，　　此說名根種；　　<lb
@@ -1645,9 +1645,9 @@
  n="0633c04" ed="T"/>七日不改變，　　復無流血等；　　<lb
  n="0633c05" ed="T"/>大樹宜應截，　　有異不應傷。　　
 </ab><lb
- n="0633c06" ed="T"/><ab type="prose">嫌毀輕賤學處<lb
+ n="0633c06" ed="T"/><ab type='prose'>嫌毀輕賤學處<lb
  n="0633c07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 苾芻作嫌言，　　及為麁罵語；　　<lb
  n="0633c08" ed="T"/>所得輕重罪，　　略言其大綱。　　<lb
  n="0633c09" ed="T"/>大眾作白二，　　差遣分飯粥；　　<lb
@@ -1661,9 +1661,9 @@
  n="0633c17" ed="T"/>如斯十二類，　　嫌罵者招本；　　<lb
  n="0633c18" ed="T"/>餘使得輕愆，　　善可觀其事。　　
 </ab><lb
- n="0633c19" ed="T"/><ab type="prose">違惱言教學處<lb
+ n="0633c19" ed="T"/><ab type='prose'>違惱言教學處<lb
  n="0633c20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 違教得本罪，　　教謂他問時；　　<lb
  n="0633c21" ed="T"/>惱謂說異言，　　不陳決定語。　　<lb
  n="0633c22" ed="T"/>他問如是言，　　欲惱便餘答；　　<lb
@@ -1673,9 +1673,9 @@
  n="0633c26" ed="T"/>如其他問時，　　惱意默然住；　　<lb
  n="0633c27" ed="T"/>由斯墮惡趣，　　苦逼痛方言。　　
 </ab><lb
- n="0633c28" ed="T"/><ab type="prose">不舉敷具學處<lb
+ n="0633c28" ed="T"/><ab type='prose'>不舉敷具學處<lb
  n="0633c29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若於露地中，　　安僧床座等；　　<pb n="0634a" ed="T" id="T24.1459.0634a"/><lb
  n="0634a01" ed="T"/>除有人囑授，　　捨去罪隨行。　　<lb
  n="0634a02" ed="T"/>若離於本居，　　欲行向界外；　　<lb
@@ -1727,9 +1727,9 @@
  n="0634b19" ed="T"/>在藥叉龍宮、　　天堂皆許坐；　　<lb
  n="0634b20" ed="T"/>令彼福增長，　　此教是牟尼。　　
 </ab><lb
- n="0634b21" ed="T"/><ab type="prose">不舉草敷具學處<lb
+ n="0634b21" ed="T"/><ab type='prose'>不舉草敷具學處<lb
  n="0634b22" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若其於寺中，　　用眾草敷具；　　<lb
  n="0634b23" ed="T"/>去時無難事，　　自舉囑人看。　　<lb
  n="0634b24" ed="T"/>此亦同前說，　　與褥席不殊；　　<lb
@@ -1741,9 +1741,9 @@
  n="0634c01" ed="T"/>地鞕用草敷，　　不置便生病；　　<lb
  n="0634c02" ed="T"/>防難為間隔，　　無斯致惱緣。　　
 </ab><lb
- n="0634c03" ed="T"/><ab type="prose">牽他出僧房學處<lb
+ n="0634c03" ed="T"/><ab type='prose'>牽他出僧房學處<lb
  n="0634c04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若瞋他苾芻，　　從住處牽出；　　<lb
  n="0634c05" ed="T"/>其人得墮罪，　　仍除有難緣。　　<lb
  n="0634c06" ed="T"/>設不自手牽，　　令他苾芻挽；　　<lb
@@ -1751,9 +1751,9 @@
  n="0634c08" ed="T"/>若令求寂等，　　牽苾芻出寺；　　<lb
  n="0634c09" ed="T"/>苾芻招本罪，　　求寂得輕愆。　　
 </ab><lb
- n="0634c10" ed="T"/><ab type="prose">強惱觸他學處<lb
+ n="0634c10" ed="T"/><ab type='prose'>強惱觸他學處<lb
  n="0634c11" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若以好惡食，　　或冷或熱等；　　<lb
  n="0634c12" ed="T"/>故惱他苾芻，　　令食招根本。　　<lb
  n="0634c13" ed="T"/>若食堂煖舍，　　浴室近門傍；　　<lb
@@ -1761,9 +1761,9 @@
  n="0634c15" ed="T"/>於座及臥具，　　他未有心移；　　<lb
  n="0634c16" ed="T"/>先住苾芻來，　　無令後人去。　　
 </ab><lb
- n="0634c17" ed="T"/><ab type="prose">故放身坐臥脫脚床學處<lb
+ n="0634c17" ed="T"/><ab type='prose'>故放身坐臥脫脚床學處<lb
  n="0634c18" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若在上房住，　　不坐脫脚床；　　<lb
  n="0634c19" ed="T"/>以版承床足，　　坐時無有過。　　<lb
  n="0634c20" ed="T"/>所言脚脫者，　　於孔中抽出；　　<lb
@@ -1773,9 +1773,9 @@
  n="0634c24" ed="T"/>或時以鐵釘，　　釘脚不令脫；　　<lb
  n="0634c25" ed="T"/>任情安逆榍，　　或用草繩纏。　　
 </ab><lb
- n="0634c26" ed="T"/><ab type="prose">用蟲水學處<lb
+ n="0634c26" ed="T"/><ab type='prose'>用蟲水學處<lb
  n="0634c27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 水中有生命，　　將澆地樹等；　　<lb
  n="0634c28" ed="T"/>自作若使人，　　悉皆招墮罪。　　<lb
  n="0634c29" ed="T"/>蟲水有想疑，　　斯還得本罪；　　<pb n="0635a" ed="T" id="T24.1459.0635a"/><lb
@@ -1827,9 +1827,9 @@
  n="0635b17" ed="T"/>女人求水時，　　苾芻應可授；　　<lb
  n="0635b18" ed="T"/>不宜相續注，　　勿生癡染心。　　
 </ab><lb
- n="0635b19" ed="T"/><ab type="prose">造大寺過限學處<lb
+ n="0635b19" ed="T"/><ab type='prose'>造大寺過限學處<lb
  n="0635b20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 造大毘訶羅，　　起基安水竇；　　<lb
  n="0635b21" ed="T"/>著戶扉及扂，　　并可置明窓。　　<lb
  n="0635b22" ed="T"/>若欲起牆壁，　　應和草作泥；　　<lb
@@ -1837,9 +1837,9 @@
  n="0635b24" ed="T"/>若於上更著，　　即招於墮罪；　　<lb
  n="0635b25" ed="T"/>甎石及木成，　　雖多無有犯。　　
 </ab><lb
- n="0635b26" ed="T"/><ab type="prose">眾不差教授苾芻尼學處<lb
+ n="0635b26" ed="T"/><ab type='prose'>眾不差教授苾芻尼學處<lb
  n="0635b27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 具戒有聞持，　　年至二十夏；　　<lb
  n="0635b28" ed="T"/>言詞善圓滿，　　不曾身污尼；　　<lb
  n="0635b29" ed="T"/>善說八他勝，　　八敬能開演；　　<pb n="0635c" ed="T" id="T24.1459.0635c"/><lb
@@ -1855,9 +1855,9 @@
  n="0635c10" ed="T"/>由尊二十夏，　　能調所化生；　　<lb
  n="0635c11" ed="T"/>於律教善明，　　王苾芻應識。　　
 </ab><lb
- n="0635c12" ed="T"/><ab type="prose">教授至日沒學處<lb
+ n="0635c12" ed="T"/><ab type='prose'>教授至日沒學處<lb
  n="0635c13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 被差行教授，　　雖可具尸羅；　　<lb
  n="0635c14" ed="T"/>及明須早歸，　　無容侵日沒。　　<lb
  n="0635c15" ed="T"/>日沒作沒想，　　或可生猶豫；　　<lb
@@ -1869,29 +1869,29 @@
  n="0635c21" ed="T"/>尼可作供養，　　應隨自己能；　　<lb
  n="0635c22" ed="T"/>尊人當受食，　　令其福增長。　　
 </ab><lb
- n="0635c23" ed="T"/><ab type="prose">謗他為飲食故教授學處<lb
+ n="0635c23" ed="T"/><ab type='prose'>謗他為飲食故教授學處<lb
  n="0635c24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若以嫌嫉意，　　輕毀教授人；　　<lb
  n="0635c25" ed="T"/>由生不善心，　　當遭獄火焰。　　<lb
  n="0635c26" ed="T"/>彼有貪染心，　　教尼求飲食；　　<lb
  n="0635c27" ed="T"/>見實而說者，　　此誠無有過。　　
 </ab><lb
- n="0635c28" ed="T"/><ab type="prose">與非親尼衣學處<lb
+ n="0635c28" ed="T"/><ab type='prose'>與非親尼衣學處<lb
  n="0635c29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若是非親尼，　　不合與衣服；　　<pb n="0636a" ed="T" id="T24.1459.0636a"/><lb
  n="0636a01" ed="T"/>由彼心貪覓，　　來處不籌量。　　
 </ab><lb
- n="0636a02" ed="T"/><ab type="prose">與非親尼作衣學處<lb
+ n="0636a02" ed="T"/><ab type='prose'>與非親尼作衣學處<lb
  n="0636a03" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 於非親尼處，　　不應為作衣；　　<lb
  n="0636a04" ed="T"/>由作惡形儀，　　令俗生譏醜。　　
 </ab><lb
- n="0636a05" ed="T"/><ab type="prose">與尼同道行學處<lb
+ n="0636a05" ed="T"/><ab type='prose'>與尼同道行學處<lb
  n="0636a06" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 苾芻向餘處，　　共尼同伴行；　　<lb
  n="0636a07" ed="T"/>賊等多怖時，　　共行無有過。　　<lb
  n="0636a08" ed="T"/>若病無人持，　　不應棄於路；　　<lb
@@ -1899,27 +1899,27 @@
  n="0636a10" ed="T"/>尼自將路糧，　　苾芻得為淨；　　<lb
  n="0636a11" ed="T"/>苾芻持尼淨，　　此並勿生疑。　　
 </ab><lb
- n="0636a12" ed="T"/><ab type="prose">與苾芻尼同乘一船學處<lb
+ n="0636a12" ed="T"/><ab type='prose'>與苾芻尼同乘一船學處<lb
  n="0636a13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 苾芻若與尼，　　乘船或上下，　　<lb
  n="0636a14" ed="T"/>於斯便不許，　　直渡者無愆。　　
 </ab><lb
- n="0636a15" ed="T"/><ab type="prose">獨與女人屏處坐學處<lb
+ n="0636a15" ed="T"/><ab type='prose'>獨與女人屏處坐學處<lb
  n="0636a16" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 緣彼鄔陀夷，　　共女屏處坐；　　<lb
  n="0636a17" ed="T"/>因招眾譏謗，　　聖制不應然。　　
 </ab><lb
- n="0636a18" ed="T"/><ab type="prose">獨與尼屏處坐學處<lb
+ n="0636a18" ed="T"/><ab type='prose'>獨與尼屏處坐學處<lb
  n="0636a19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 又與笈多尼，　　獨在屏處坐；　　<lb
  n="0636a20" ed="T"/>據緣但道一，　　餘三並墮愆。　　
 </ab><lb
- n="0636a21" ed="T"/><ab type="prose">知苾芻尼讚歎得食學處<lb
+ n="0636a21" ed="T"/><ab type='prose'>知苾芻尼讚歎得食學處<lb
  n="0636a22" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 苾芻知彼尼，　　讚歎故得食；　　<lb
  n="0636a23" ed="T"/>除其先有意，　　食便招墮罪。　　<lb
  n="0636a24" ed="T"/>讚歎有二種，　　具戒及多聞：　　<lb
@@ -1929,9 +1929,9 @@
  n="0636a28" ed="T"/>若實無有德，　　為利受尼讚；　　<lb
  n="0636a29" ed="T"/>知而噉食者，　　即招其本罪。　　
 </ab><pb n="0636b" ed="T" id="T24.1459.0636b"/><lb
- n="0636b01" ed="T"/><ab type="prose">展轉食學處<lb
+ n="0636b01" ed="T"/><ab type='prose'>展轉食學處<lb
  n="0636b02" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 苾芻無疹病，　　非衣作行時；　　<lb
  n="0636b03" ed="T"/>足已更生貪，　　食時便得罪。　　<lb
  n="0636b04" ed="T"/>一食不能安，　　此說名為病；　　<lb
@@ -1953,9 +1953,9 @@
  n="0636b20" ed="T"/>苾芻於自黨，　　若客新來至；　　<lb
  n="0636b21" ed="T"/>請處應教示，　　默去不應為。　　
 </ab><lb
- n="0636b22" ed="T"/><ab type="prose">施一食過受學處<lb
+ n="0636b22" ed="T"/><ab type='prose'>施一食過受學處<lb
  n="0636b23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 外道所居處，　　苾芻在彼停；　　<lb
  n="0636b24" ed="T"/>無病一日飡，　　異斯便不合。　　<lb
  n="0636b25" ed="T"/>無病別日住，　　便得惡作罪；　　<lb
@@ -1963,9 +1963,9 @@
  n="0636b27" ed="T"/>施主意平等，　　或是親族處：　　<lb
  n="0636b28" ed="T"/>假令多日食，　　斯非是愆咎。　　
 </ab><lb
- n="0636b29" ed="T"/><ab type="prose">過三鉢受食學處<pb n="0636c" ed="T" id="T24.1459.0636c"/><lb
+ n="0636b29" ed="T"/><ab type='prose'>過三鉢受食學處<pb n="0636c" ed="T" id="T24.1459.0636c"/><lb
  n="0636c01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 施主非隨意，　　若得飯󰉓等；　　<lb
  n="0636c02" ed="T"/>二三持滿鉢，　　若過招本罪。　　<lb
  n="0636c03" ed="T"/>大鉢若取三，　　二大及中一；　　<lb
@@ -1975,9 +1975,9 @@
  n="0636c07" ed="T"/>親族歡懷與，　　受多無有過；　　<lb
  n="0636c08" ed="T"/>受已應持去，　　平分與苾芻。　　
 </ab><lb
- n="0636c09" ed="T"/><ab type="prose">足食學處<lb
+ n="0636c09" ed="T"/><ab type='prose'>足食學處<lb
  n="0636c10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 苾芻足食竟，　　不合更重食；　　<lb
  n="0636c11" ed="T"/>不作於餘法，　　咽咽罪隨生。　　<lb
  n="0636c12" ed="T"/>五種珂但尼，　　斯非是足限；　　<lb
@@ -2013,9 +2013,9 @@
  n="0637a13" ed="T"/>若食雖未足，　　而為足食心；　　<lb
  n="0637a14" ed="T"/>及起疑意時，　　皆招惡作罪。　　
 </ab><lb
- n="0637a15" ed="T"/><ab type="prose">勸足食學處<lb
+ n="0637a15" ed="T"/><ab type='prose'>勸足食學處<lb
  n="0637a16" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 知他足食竟，　　不為餘食法；　　<lb
  n="0637a17" ed="T"/>內懷於惡心，　　勸食便生罪。　　<lb
  n="0637a18" ed="T"/>知足食想疑，　　慇懃勸彼足；　　<lb
@@ -2056,7 +2056,7 @@
  n="0637b24" ed="T"/>淨地等要門，　　隨事皆須識。　　<lb
  n="0637b25" ed="T"/>飯餅及肉魚，　　豆飯并󰉓等；　　<lb
  n="0637b26" ed="T"/>斯謂為時藥，　　養命噉恒須。　　<lb
- n="0637b27" ed="T"/>蒱萄及芭蕉，　　醋果并蘡󰞎；　　<lb
+ n="0637b27" ed="T"/>蒱萄及芭蕉，　　醋果并蘡薁；　　<lb
  n="0637b28" ed="T"/>棗等烏曇跋，　　並曰非時漿。　　<lb
  n="0637b29" ed="T"/>俗人及求寂，　　熟柔當淨濾；　　<pb n="0637c" ed="T" id="T24.1459.0637c"/><lb
  n="0637c01" ed="T"/>酪漿蔗醋漿，　　斯等非時飲。　　<lb
@@ -2171,7 +2171,7 @@
  n="0638c23" ed="T"/>受已莫放器，　　左手急堅持；　　<lb
  n="0638c24" ed="T"/>齊手可應飡，　　食時須用意。　　<lb
  n="0638c25" ed="T"/>如其不蓋覆，　　置食被烏殘；　　<lb
- n="0638c26" ed="T"/>近󰐐處應除，　　餘者隨情食。　　<lb
+ n="0638c26" ed="T"/>近㭰處應除，　　餘者隨情食。　　<lb
  n="0638c27" ed="T"/>僧祇若別人，　　酥油沙糖等；　　<lb
  n="0638c28" ed="T"/>如其誤觸者，　　不應便即棄。　　<lb
  n="0638c29" ed="T"/>若是四方僧，　　或復別人食；　　<pb n="0639a" ed="T" id="T24.1459.0639a"/><lb
@@ -2179,7 +2179,7 @@
  n="0639a02" ed="T"/>食雜沙糖等，　　水洗宜應食；　　<lb
  n="0639a03" ed="T"/>雖在非時中，　　此無不淨過。　　<lb
  n="0639a04" ed="T"/>糖與󰉓相和，　　應將淨水投；　　<lb
- n="0639a05" ed="T"/>苾芻須淨濾，　　非時飲水聽。　　<lb
+ n="0639a05" ed="T"/>苾芻須淨濾，　　非時飲亦聽。　　<lb
  n="0639a06" ed="T"/>苾芻自為己，　　於沙糖守持；　　<lb
  n="0639a07" ed="T"/>隨開於五人，　　相知更互食。　　<lb
  n="0639a08" ed="T"/>病斷食少食，　　熱悶及塗中；　　<lb
@@ -2195,16 +2195,16 @@
  n="0639a18" ed="T"/>訶利底母兒，　　佛遣多祭食；　　<lb
  n="0639a19" ed="T"/>為護於住處，　　令教法光輝。　　
 </ab><lb
- n="0639a20" ed="T"/><ab type="prose">別眾食學處<lb
+ n="0639a20" ed="T"/><ab type='prose'>別眾食學處<lb
  n="0639a21" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 不飡別眾食，　　唯除病等緣；　　<lb
  n="0639a22" ed="T"/>僧中取少多，　　或此送無犯。　　<lb
  n="0639a23" ed="T"/>乃至一匕鹽，　　或一握草葉；　　<lb
  n="0639a24" ed="T"/>送向於餘處，　　亦得表情和。　　<lb
- n="0639a25" ed="T"/>有人不盡情，　　四人名別眾；　　<lb
+ n="0639a25" ed="T"/>有人不盡集，　　四人名別眾；　　<lb
  n="0639a26" ed="T"/>病作道行時，　　事如前已說。　　<lb
- n="0639a27" ed="T"/>若是乘船去，　　至半踰膳那；　　<lb
+ n="0639a27" ed="T"/>若是乘船去，　　至半踰繕那；　　<lb
  n="0639a28" ed="T"/>或可覆還來，　　食皆無有過。　　<lb
  n="0639a29" ed="T"/>若眾多施主，　　別別供苾芻；　　<pb n="0639b" ed="T" id="T24.1459.0639b"/><lb
  n="0639b01" ed="T"/>隨彼施主心，　　此謂時差別。　　<lb
@@ -2215,17 +2215,17 @@
  n="0639b06" ed="T"/>有別定屬利，　　食時與眾乖；　　<lb
  n="0639b07" ed="T"/>此順施主心，　　縱食非成犯。　　
 </ab><lb
- n="0639b08" ed="T"/><ab type="prose">非時食學處<lb
+ n="0639b08" ed="T"/><ab type='prose'>非時食學處<lb
  n="0639b09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 從過中已後，　　至明相未出；　　<lb
  n="0639b10" ed="T"/>苾芻不應食，　　若食罪侵身。　　<lb
  n="0639b11" ed="T"/>有病在非時，　　醫人令遣食；　　<lb
  n="0639b12" ed="T"/>當於隱密處，　　無令俗見譏。　　
 </ab><lb
- n="0639b13" ed="T"/><ab type="prose">食曾觸食學處<lb
+ n="0639b13" ed="T"/><ab type='prose'>食曾觸食學處<lb
  n="0639b14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 苾芻觸食等，　　此則不應飡；　　<lb
  n="0639b15" ed="T"/>食前食後殊，　　說觸有兩別。　　<lb
  n="0639b16" ed="T"/>若在食前受，　　食後噉便愆；　　<lb
@@ -2233,9 +2233,9 @@
  n="0639b18" ed="T"/>若手有雜膩，　　謂除眾難緣；　　<lb
  n="0639b19" ed="T"/>不觸於鑰匙，　　及以觸衣鉢。　　
 </ab><lb
- n="0639b20" ed="T"/><ab type="prose">不受食學處<lb
+ n="0639b20" ed="T"/><ab type='prose'>不受食學處<lb
  n="0639b21" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 飲食若不受，　　怖罪者不飡；　　<lb
  n="0639b22" ed="T"/>食咽罪便傷，　　除水及齒木。　　<lb
  n="0639b23" ed="T"/>葉及淨齒木，　　有汁還須受；　　<lb
@@ -2255,9 +2255,9 @@
  n="0639c08" ed="T"/>若入厭賤國，　　遠置亦成受；　　<lb
  n="0639c09" ed="T"/>更有餘成受，　　謂象馬獼猴。　　
 </ab><lb
- n="0639c10" ed="T"/><ab type="prose">索美食學處<lb
+ n="0639c10" ed="T"/><ab type='prose'>索美食學處<lb
  n="0639c11" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 苾芻身無病，　　為己不應乞；　　<lb
  n="0639c12" ed="T"/>生酥并乳酪，　　諸肉及以魚。　　<lb
  n="0639c13" ed="T"/>為病故乞求，　　縱食而非犯；　　<lb
@@ -2265,49 +2265,49 @@
  n="0639c15" ed="T"/>俗舍巡行乞，　　執鉢默然住；　　<lb
  n="0639c16" ed="T"/>他問何所須？　　欲者隨情說。　　
 </ab><lb
- n="0639c17" ed="T"/><ab type="prose">受用蟲水學處<lb
+ n="0639c17" ed="T"/><ab type='prose'>受用蟲水學處<lb
  n="0639c18" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若知水有蟲，　　受用全不合；　　<lb
  n="0639c19" ed="T"/>謂外內二種，　　洗浴飲應知。　　<lb
  n="0639c20" ed="T"/>有蟲無蟲水，　　此並如前說；　　<lb
  n="0639c21" ed="T"/>羅漉須依法，　　由是性罪故。　　
 </ab><lb
- n="0639c22" ed="T"/><ab type="prose">有食家強坐學處<lb
+ n="0639c22" ed="T"/><ab type='prose'>有食家強坐學處<lb
  n="0639c23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 苾芻在食家，　　不應屏處坐；　　<lb
  n="0639c24" ed="T"/>令他生惱意，　　仍除難怖緣。　　
 </ab><lb
- n="0639c25" ed="T"/><ab type="prose">有食家強立學處<lb
+ n="0639c25" ed="T"/><ab type='prose'>有食家強立學處<lb
  n="0639c26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若女人丈夫，　　欲貪相樂著；　　<lb
  n="0639c27" ed="T"/>說此名為食，　　屏立亦招愆。　　
 </ab><lb
- n="0639c28" ed="T"/><ab type="prose">與無衣外道男女食學處<lb
+ n="0639c28" ed="T"/><ab type='prose'>與無衣外道男女食學處<lb
  n="0639c29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 苾芻若自手，　　不與外道食；　　<pb n="0640a" ed="T" id="T24.1459.0640a"/><lb
  n="0640a01" ed="T"/>擘破與隨聽，　　欲令除惡見。　　<lb
  n="0640a02" ed="T"/>彼槃器在地，　　悲心應授與；　　<lb
  n="0640a03" ed="T"/>為生哀愍想，　　不得現虔恭。　　
 </ab><lb
- n="0640a04" ed="T"/><ab type="prose">觀軍學處<lb
+ n="0640a04" ed="T"/><ab type='prose'>觀軍學處<lb
  n="0640a05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若觀軍鬪戰，　　苾芻皆不許；　　<lb
- n="0640a06" ed="T"/>必有緣須住，　　此則在隨開。　　
+ n="0640a06" ed="T"/>必有緣須往，　　此則在隨開。　　
 </ab><lb
- n="0640a07" ed="T"/><ab type="prose">軍中過二宿學處<lb
+ n="0640a07" ed="T"/><ab type='prose'>軍中過二宿學處<lb
  n="0640a08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 有緣須往時，　　齊兩夜應宿；　　<lb
  n="0640a09" ed="T"/>如其更過宿，　　除難便成犯。　　
 </ab><lb
- n="0640a10" ed="T"/><ab type="prose">動亂兵軍學處<lb
+ n="0640a10" ed="T"/><ab type='prose'>動亂兵軍學處<lb
  n="0640a11" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 軍旅象馬眾，　　旗王及兵力；　　<lb
  n="0640a12" ed="T"/>國主及大臣，　　見時便得罪。　　<lb
  n="0640a13" ed="T"/>軍旅謂整裝，　　兵力謂驍勇；　　<lb
@@ -2315,9 +2315,9 @@
  n="0640a15" ed="T"/>人主大臣請，　　有障難及怖；　　<lb
  n="0640a16" ed="T"/>假使住多時，　　斯亦非成犯。　　
 </ab><lb
- n="0640a17" ed="T"/><ab type="prose">打苾芻學處<lb
+ n="0640a17" ed="T"/><ab type='prose'>打苾芻學處<lb
  n="0640a18" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 不以瞋恚意，　　故打他苾芻；　　<lb
  n="0640a19" ed="T"/>違本要期心，　　不遵於聖教。　　<lb
  n="0640a20" ed="T"/>假令將一指，　　若打即招愆；　　<lb
@@ -2329,43 +2329,43 @@
  n="0640a26" ed="T"/>若為彼椎噎，　　或時因誦呪；　　<lb
  n="0640a27" ed="T"/>苾芻將物打，　　斯等並無愆。　　
 </ab><lb
- n="0640a28" ed="T"/><ab type="prose">以手擬苾芻學處<lb
+ n="0640a28" ed="T"/><ab type='prose'>以手擬苾芻學處<lb
  n="0640a29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若於苾芻處，　　努手相擬時；　　<pb n="0640b" ed="T" id="T24.1459.0640b"/><lb
  n="0640b01" ed="T"/>即便招墮罪，　　還如打中說。　　
 </ab><lb
- n="0640b02" ed="T"/><ab type="prose">覆藏他麁罪學處<lb
+ n="0640b02" ed="T"/><ab type='prose'>覆藏他麁罪學處<lb
  n="0640b03" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 知他有麁罪，　　元不許覆藏；　　<lb
  n="0640b04" ed="T"/>若有怖畏時，　　縱覆皆無犯。　　<lb
  n="0640b05" ed="T"/>從波羅市迦，　　乃至眾教罪，　　<lb
  n="0640b06" ed="T"/>及此重方便，　　覆至曉招愆。　　
 </ab><lb
- n="0640b07" ed="T"/><ab type="prose">共至俗家不與食學處<lb
+ n="0640b07" ed="T"/><ab type='prose'>共至俗家不與食學處<lb
  n="0640b08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 不作嫌恨心，　　故令他斷食；　　<lb
  n="0640b09" ed="T"/>彼人無有病，　　必得罪相中。　　
 </ab><lb
- n="0640b10" ed="T"/><ab type="prose">觸火學處<lb
+ n="0640b10" ed="T"/><ab type='prose'>觸火學處<lb
  n="0640b11" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若不是開緣，　　然火皆不許；　　<lb
  n="0640b12" ed="T"/>及滅火觸火，　　有難便非過。　　<lb
  n="0640b13" ed="T"/>皮毛爪洟唾，　　擲著火中燒；　　<lb
  n="0640b14" ed="T"/>熟炭不守持，　　觸皆招惡作。　　
 </ab><lb
- n="0640b15" ed="T"/><ab type="prose">與欲已更遮學處<lb
+ n="0640b15" ed="T"/><ab type='prose'>與欲已更遮學處<lb
  n="0640b16" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 僧伽有事時，　　苾芻先與欲；　　<lb
  n="0640b17" ed="T"/>後時便不許，　　墮罪必侵身。　　
 </ab><lb
- n="0640b18" ed="T"/><ab type="prose">與未近圓人同室宿過二夜學處<lb
+ n="0640b18" ed="T"/><ab type='prose'>與未近圓人同室宿過二夜學處<lb
  n="0640b19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 未進近圓人，　　與之同室宿；　　<lb
  n="0640b20" ed="T"/>此唯齊二夜，　　第三便墮罪。　　<lb
  n="0640b21" ed="T"/>說有四種室：　　一是總覆障、　　<lb
@@ -2385,23 +2385,23 @@
  n="0640c06" ed="T"/>無病晝日睡，　　嬾墮者便遮；　　<lb
  n="0640c07" ed="T"/>禪誦若勤修，　　片時隨意臥。　　<lb
  n="0640c08" ed="T"/>闇中禮尊者，　　不應首至地；　　<lb
- n="0640c09" ed="T"/>當以虔敬心，　　發言稱呼睇。　　<lb
+ n="0640c09" ed="T"/>當以虔敬心，　　發言稱畔睇。　　<lb
  n="0640c10" ed="T"/>共求寂道行，　　同眠應警覺；　　<lb
  n="0640c11" ed="T"/>若困不能者，　　起坐隨情睡。　　<lb
  n="0640c12" ed="T"/>求寂一切時，　　慇懃當守護；　　<lb
  n="0640c13" ed="T"/>猶若輪王子，　　斯為佛樹芽。　　
 </ab><lb
- n="0640c14" ed="T"/><ab type="prose">不捨惡見違諫學處<lb
+ n="0640c14" ed="T"/><ab type='prose'>不捨惡見違諫學處<lb
  n="0640c15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 苾芻作邪行，　　說欲非障法；　　<lb
  n="0640c16" ed="T"/>此能為障礙，　　由癡無所知。　　<lb
  n="0640c17" ed="T"/>乃至於三諫，　　若其見不捨；　　<lb
  n="0640c18" ed="T"/>此是罪中極，　　宜應速驅擯。　　
 </ab><lb
- n="0640c19" ed="T"/><ab type="prose">隨捨置人學處<lb
+ n="0640c19" ed="T"/><ab type='prose'>隨捨置人學處<lb
  n="0640c20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 知此惡見人，　　未為隨順法；　　<lb
  n="0640c21" ed="T"/>及不捨惡見，　　皆不應共住。　　<lb
  n="0640c22" ed="T"/>不共作讀誦，　　亦不為親友；　　<lb
@@ -2409,25 +2409,25 @@
  n="0640c24" ed="T"/>為斷彼惡見，　　或親或病人；　　<lb
  n="0640c25" ed="T"/>讀誦在隨意，　　受用便不許。　　
 </ab><lb
- n="0640c26" ed="T"/><ab type="prose">攝受惡見求寂學處<lb
+ n="0640c26" ed="T"/><ab type='prose'>攝受惡見求寂學處<lb
  n="0640c27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若是未圓人，　　將求圓寂處；　　<lb
  n="0640c28" ed="T"/>愚癡說欲法，　　非障道應驅。　　<lb
  n="0640c29" ed="T"/>苾芻離惡黨，　　益物以為心；　　<pb n="0641a" ed="T" id="T24.1459.0641a"/><lb
  n="0641a01" ed="T"/>共斯無智人，　　宿便招墮罪。　　
 </ab><lb
- n="0641a02" ed="T"/><ab type="prose">著不壞色衣學處<lb
+ n="0641a02" ed="T"/><ab type='prose'>著不壞色衣學處<lb
  n="0641a03" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 苾芻得新衣，　　當須為壞色；　　<lb
  n="0641a04" ed="T"/>新衣謂是白，　　染壞色有三：　　<lb
  n="0641a05" ed="T"/>青謂污色青，　　泥者謂赤石；　　<lb
  n="0641a06" ed="T"/>樹皮花葉等，　　染色號袈裟。　　
 </ab><lb
- n="0641a07" ed="T"/><ab type="prose">捉寶學處。<lb
+ n="0641a07" ed="T"/><ab type='prose'>捉寶學處。<lb
  n="0641a08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 乍可觸瞋蛇，　　醦毒難治療；　　<lb
  n="0641a09" ed="T"/>不觸於珍寶，　　及以寶莊嚴。　　<lb
  n="0641a10" ed="T"/>末尼真珠等，　　珊瑚寶裝具；　　<lb
@@ -2453,9 +2453,9 @@
  n="0641b01" ed="T"/>後主來求索，　　化彼少智人；　　<lb
  n="0641b02" ed="T"/>半價或全酬，　　更增便不許。　　
 </ab><lb
- n="0641b03" ed="T"/><ab type="prose">非時浴學處<lb
+ n="0641b03" ed="T"/><ab type='prose'>非時浴學處<lb
  n="0641b04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若非是開緣，　　半月內洗浴；　　<lb
  n="0641b05" ed="T"/>病道行作業，　　及以風雨時。　　<lb
  n="0641b06" ed="T"/>若不洗不安，　　是病當開限；　　<lb
@@ -2477,15 +2477,15 @@
  n="0641b22" ed="T"/>若其為學浮，　　或時須療病；　　<lb
  n="0641b23" ed="T"/>當於隱密處，　　雖浮亦不遮。　　
 </ab><lb
- n="0641b24" ed="T"/><ab type="prose">殺傍生學處<lb
+ n="0641b24" ed="T"/><ab type='prose'>殺傍生學處<lb
  n="0641b25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 苾芻殺傍生，　　自作或遣使；　　<lb
  n="0641b26" ed="T"/>當招極苦處，　　惡道火燒然。　　
 </ab><lb
- n="0641b27" ed="T"/><ab type="prose">故惱苾芻學處<lb
+ n="0641b27" ed="T"/><ab type='prose'>故惱苾芻學處<lb
  n="0641b28" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 於同梵行所，　　不應令悔恨；　　<lb
  n="0641b29" ed="T"/>作惱心便犯，　　異此許無愆。　　<pb n="0641c" ed="T" id="T24.1459.0641c"/><lb
  n="0641c01" ed="T"/>汝未二十歲，　　不成受近圓；　　<lb
@@ -2493,21 +2493,21 @@
  n="0641c03" ed="T"/>若以惡作心，　　說時便獲罪；　　<lb
  n="0641c04" ed="T"/>若說實事者，　　此成無有過。　　
 </ab><lb
- n="0641c05" ed="T"/><ab type="prose">以指擊攊他學處<lb
+ n="0641c05" ed="T"/><ab type='prose'>以指擊攊他學處<lb
  n="0641c06" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 少智雖一指，　　擊攊便招過；　　<lb
  n="0641c07" ed="T"/>如無戲弄意，　　示靨許非愆。　　
 </ab><lb
- n="0641c08" ed="T"/><ab type="prose">水中戲學處<lb
+ n="0641c08" ed="T"/><ab type='prose'>水中戲學處<lb
  n="0641c09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 苾芻水中戲，　　此彼岸往還；　　<lb
  n="0641c10" ed="T"/>於此有開遮，　　並如前已說。　　
 </ab><lb
- n="0641c11" ed="T"/><ab type="prose">與女人同室宿學處<lb
+ n="0641c11" ed="T"/><ab type='prose'>與女人同室宿學處<lb
  n="0641c12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若無障隔處，　　不共女同房；　　<lb
  n="0641c13" ed="T"/>若牢關閉門，　　此成無有過。　　<lb
  n="0641c14" ed="T"/>女於善惡言，　　解了名及義；　　<lb
@@ -2517,13 +2517,13 @@
  n="0641c18" ed="T"/>若其眠睡著，　　波逸底迦風；　　<lb
  n="0641c19" ed="T"/>能於地獄裏，　　吹火鐵床中。　　<lb
  n="0641c20" ed="T"/>於樓閣有女，　　應可去其梯；　　<lb
- n="0641c21" ed="T"/>成遣苾芻看，　　縱臥成無犯。　　<lb
+ n="0641c21" ed="T"/>或遣苾芻看，　　縱臥成無犯。　　<lb
  n="0641c22" ed="T"/>若於晝日臥，　　與上事皆同；　　<lb
  n="0641c23" ed="T"/>并須結下裙，　　異斯招惡作。　　
 </ab><lb
- n="0641c24" ed="T"/><ab type="prose">恐怖苾芻學處<lb
+ n="0641c24" ed="T"/><ab type='prose'>恐怖苾芻學處<lb
  n="0641c25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 為尊重佛教，　　不惱亂眾生；　　<lb
  n="0641c26" ed="T"/>自作若使人，　　不應為恐怖。　　<lb
  n="0641c27" ed="T"/>或作諸鬼形，　　若羅剎等像；　　<lb
@@ -2533,27 +2533,27 @@
  n="0642a02" ed="T"/>欲前人得益，　　現極苦令怖；　　<lb
  n="0642a03" ed="T"/>說於三惡道，　　雖怖亦無傷。　　
 </ab><lb
- n="0642a04" ed="T"/><ab type="prose">藏他衣鉢學處<lb
+ n="0642a04" ed="T"/><ab type='prose'>藏他衣鉢學處<lb
  n="0642a05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 藏他衣鉢等，　　戲笑不應為；　　<lb
  n="0642a06" ed="T"/>若作罪侵身，　　為益便無過。　　
 </ab><lb
- n="0642a07" ed="T"/><ab type="prose">他寄衣不問主輒著學處<lb
+ n="0642a07" ed="T"/><ab type='prose'>他寄衣不問主輒著學處<lb
  n="0642a08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 先與苾芻衣，　　不語用得罪；　　<lb
  n="0642a09" ed="T"/>若是同意者，　　雖用理無違。　　
 </ab><lb
- n="0642a10" ed="T"/><ab type="prose">以眾教罪謗清淨苾芻學處<lb
+ n="0642a10" ed="T"/><ab type='prose'>以眾教罪謗清淨苾芻學處<lb
  n="0642a11" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若以眾教罪，　　謗他清淨人；　　<lb
  n="0642a12" ed="T"/>此成燒煮過，　　餘皆得惡作。　　
 </ab><lb
- n="0642a13" ed="T"/><ab type="prose">與女人同道行學處<lb
+ n="0642a13" ed="T"/><ab type='prose'>與女人同道行學處<lb
  n="0642a14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若無男子伴，　　共女涉道行；　　<lb
  n="0642a15" ed="T"/>得波逸底迦，　　里數如常說。　　<lb
  n="0642a16" ed="T"/>行到一一村，　　即便招墮罪；　　<lb
@@ -2561,17 +2561,17 @@
  n="0642a18" ed="T"/>若於險路處，　　女人為引道，　　<lb
  n="0642a19" ed="T"/>或作防援者，　　此皆無有過。　　
 </ab><lb
- n="0642a20" ed="T"/><ab type="prose">與賊同道行學處<lb
+ n="0642a20" ed="T"/><ab type='prose'>與賊同道行學處<lb
  n="0642a21" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 與賊同行去，　　即得於墮愆；　　<lb
  n="0642a22" ed="T"/>若開無犯者，　　如前已宣說。　　<lb
  n="0642a23" ed="T"/>商人偷稅道，　　此尚名為賊；　　<lb
  n="0642a24" ed="T"/>何況破村坊，　　打道白劫者。　　
 </ab><lb
- n="0642a25" ed="T"/><ab type="prose">與減年者受近圓學處<lb
+ n="0642a25" ed="T"/><ab type='prose'>與減年者受近圓學處<lb
  n="0642a26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若年減二十，　　未合與近圓；　　<lb
  n="0642a27" ed="T"/>由於飢渴等，　　不能堪忍故。　　<lb
  n="0642a28" ed="T"/>若實年不滿，　　後為此想說；　　<lb
@@ -2583,9 +2583,9 @@
  n="0642b05" ed="T"/>近圓非一事，　　隨說有多門；　　<lb
  n="0642b06" ed="T"/>護戒者存心，　　理應詳審問。　　
 </ab><lb
- n="0642b07" ed="T"/><ab type="prose">壞生地學處<lb
+ n="0642b07" ed="T"/><ab type='prose'>壞生地學處<lb
  n="0642b08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 於地作故心，　　自掘教人掘；　　<lb
  n="0642b09" ed="T"/>損濕招本罪，　　皮壞得輕愆。　　<lb
  n="0642b10" ed="T"/>說有二種地，　　生及與不生：　　<lb
@@ -2603,9 +2603,9 @@
  n="0642b22" ed="T"/>為眾修園圃，　　淨語令掘地；　　<lb
  n="0642b23" ed="T"/>無蟲者許為，　　有命皆不合。　　
 </ab><lb
- n="0642b24" ed="T"/><ab type="prose">過四月索食學處<lb
+ n="0642b24" ed="T"/><ab type='prose'>過四月索食學處<lb
  n="0642b25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若有四月請，　　苾芻應可受；　　<lb
  n="0642b26" ed="T"/>除極請更請，　　常請及別請。　　<lb
  n="0642b27" ed="T"/>所言我常請，　　謂恒時請食；　　<lb
@@ -2621,9 +2621,9 @@
  n="0642c08" ed="T"/>或信或富人，　　施主有廣意；　　<lb
  n="0642c09" ed="T"/>令彼福增長，　　久受亦無過。　　
 </ab><lb
- n="0642c10" ed="T"/><ab type="prose">遮傳教學處<lb
+ n="0642c10" ed="T"/><ab type='prose'>遮傳教學處<lb
  n="0642c11" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 汝於此學處，　　告言令遣學；　　<lb
  n="0642c12" ed="T"/>對諸苾芻前，　　鄙賤云愚小。　　<lb
  n="0642c13" ed="T"/>斯將墮罪劍，　　自斬愚癡身；　　<lb
@@ -2637,9 +2637,9 @@
  n="0642c21" ed="T"/>如其彼妄陳，　　此人應反詰；　　<lb
  n="0642c22" ed="T"/>縱使云愚等，　　道實理無傷。　　
 </ab><lb
- n="0642c23" ed="T"/><ab type="prose">默聽評論學處<lb
+ n="0642c23" ed="T"/><ab type='prose'>默聽評論學處<lb
  n="0642c24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 更互不為忍，　　瑕隙共相求；　　<lb
  n="0642c25" ed="T"/>默然行竊聽，　　住時便得罪。　　<lb
  n="0642c26" ed="T"/>他於屏房語，　　不作聲而聽；　　<lb
@@ -2647,17 +2647,17 @@
  n="0642c28" ed="T"/>若於簷閣中，　　或出或行道；　　<lb
  n="0642c29" ed="T"/>惡心聽得罪，　　善意者無愆。　　
 </ab><pb n="0643a" ed="T" id="T24.1459.0643a"/><lb
- n="0643a01" ed="T"/><ab type="prose">不與欲默然起去學處<lb
+ n="0643a01" ed="T"/><ab type='prose'>不與欲默然起去學處<lb
  n="0643a02" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若論如法言，　　或作單白等；　　<lb
  n="0643a03" ed="T"/>不語傍人道，　　默然而捨去。　　<lb
  n="0643a04" ed="T"/>勿為別眾法，　　去可語餘人；　　<lb
  n="0643a05" ed="T"/>由其不囑授，　　獨入無邊海。　　
 </ab><lb
- n="0643a06" ed="T"/><ab type="prose">不恭敬學處<lb
+ n="0643a06" ed="T"/><ab type='prose'>不恭敬學處<lb
  n="0643a07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 於眾及別人，　　不為恭敬事；　　<lb
  n="0643a08" ed="T"/>慢眾得本罪，　　別人招惡作。　　<lb
  n="0643a09" ed="T"/>大眾守寺人，　　違言亦得罪；　　<lb
@@ -2665,9 +2665,9 @@
  n="0643a11" ed="T"/>他有違逆言，　　情不欲依順；　　<lb
  n="0643a12" ed="T"/>宜應善開示，　　此則許無愆。　　
 </ab><lb
- n="0643a13" ed="T"/><ab type="prose">飲酒學處<lb
+ n="0643a13" ed="T"/><ab type='prose'>飲酒學處<lb
  n="0643a14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 諸酒飲若醉，　　茅端不滴口；　　<lb
  n="0643a15" ed="T"/>不飲不與人，　　由斯放逸故。　　<lb
  n="0643a16" ed="T"/>苾芻口有病，　　醫遣含無犯；　　<lb
@@ -2693,9 +2693,9 @@
  n="0643b07" ed="T"/>若皮花果等，　　能為醉惱緣；　　<lb
  n="0643b08" ed="T"/>如其麴等和，　　此還招惡作。　　
 </ab><lb
- n="0643b09" ed="T"/><ab type="prose">非時入聚落不囑苾芻學處<lb
+ n="0643b09" ed="T"/><ab type='prose'>非時入聚落不囑苾芻學處<lb
  n="0643b10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 非時有苾芻，　　入村不囑語；　　<lb
  n="0643b11" ed="T"/>有緣便罔過，　　無事即招愆。　　<lb
  n="0643b12" ed="T"/>始從過午後，　　終至明相初；　　<lb
@@ -2703,17 +2703,17 @@
  n="0643b14" ed="T"/>苾芻若非時，　　生疑入得罪；　　<lb
  n="0643b15" ed="T"/>時作非時想，　　及疑招小愆。　　
 </ab><lb
- n="0643b16" ed="T"/><ab type="prose">食前食後詣餘家學處<lb
+ n="0643b16" ed="T"/><ab type='prose'>食前食後詣餘家學處<lb
  n="0643b17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 苾芻為請首，　　向俗家中食；　　<lb
  n="0643b18" ed="T"/>此人曾不許，　　更轉向餘家。　　<lb
  n="0643b19" ed="T"/>若於赴請者，　　告言隨意食；　　<lb
  n="0643b20" ed="T"/>或主人聽去，　　向餘處非愆。　　
 </ab><lb
- n="0643b21" ed="T"/><ab type="prose">入王宮學處<lb
+ n="0643b21" ed="T"/><ab type='prose'>入王宮學處<lb
  n="0643b22" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 王門或宮門，　　及以近門處；　　<lb
  n="0643b23" ed="T"/>明相未出至，　　斯皆得本罪。　　<lb
  n="0643b24" ed="T"/>城門與王門，　　及以宮門閫；　　<lb
@@ -2723,17 +2723,17 @@
  n="0643b28" ed="T"/>若為餘想疑，　　並皆招惡作；　　<lb
  n="0643b29" ed="T"/>言寶未藏者，　　謂是未舉置。　　
 </ab><pb n="0643c" ed="T" id="T24.1459.0643c"/><lb
- n="0643c01" ed="T"/><ab type="prose">不攝耳聽戒作不知語學處<lb
+ n="0643c01" ed="T"/><ab type='prose'>不攝耳聽戒作不知語學處<lb
  n="0643c02" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 已於別脫經，　　半月曾多聽；　　<lb
  n="0643c03" ed="T"/>言我今方了，　　戒科咸在斯。　　<lb
  n="0643c04" ed="T"/>此法在經中，　　自覺世尊說；　　<lb
  n="0643c05" ed="T"/>先當令悔厭，　　方遣說其愆。　　
 </ab><lb
- n="0643c06" ed="T"/><ab type="prose">用骨牙角作針筒學處<lb
+ n="0643c06" ed="T"/><ab type='prose'>用骨牙角作針筒學處<lb
  n="0643c07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 角牙骨所成，　　針筒不合用；　　<lb
  n="0643c08" ed="T"/>斯人便自入，　　違教罪筒中。　　<lb
  n="0643c09" ed="T"/>針筒須打破，　　其罪應須說；　　<lb
@@ -2745,17 +2745,17 @@
  n="0643c15" ed="T"/>或向餘村等，　　苾芻雖事急；　　<lb
  n="0643c16" ed="T"/>針須將一个，　　為要擬縫衣。　　
 </ab><lb
- n="0643c17" ed="T"/><ab type="prose">過量作床學處<lb
+ n="0643c17" ed="T"/><ab type='prose'>過量作床學處<lb
  n="0643c18" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 苾芻為大眾，　　作諸床座等；　　<lb
  n="0643c19" ed="T"/>高善逝八指，　　越此不應為。　　<lb
  n="0643c20" ed="T"/>善逝八指長，　　當中人一肘；　　<lb
  n="0643c21" ed="T"/>長者宜應截，　　說罪准常途。　　
 </ab><lb
- n="0643c22" ed="T"/><ab type="prose">草木綿貯床學處<lb
+ n="0643c22" ed="T"/><ab type='prose'>草木綿貯床學處<lb
  n="0643c23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 眾僧床臥具，　　不應貯雜綿；　　<lb
  n="0643c24" ed="T"/>故欲惱餘人，　　罪箭便來射。　　<lb
  n="0643c25" ed="T"/>蒲臺及荻苗，　　木綿羊毛等；　　<lb
@@ -2763,29 +2763,29 @@
  n="0643c27" ed="T"/>云何名為貯？　　謂布於床上，　　<lb
  n="0643c28" ed="T"/>粘著苾芻衣，　　令他意不喜。　　
 </ab><lb
- n="0643c29" ed="T"/><ab type="prose">過量作尼師但那學處<pb n="0644a" ed="T" id="T24.1459.0644a"/><lb
+ n="0643c29" ed="T"/><ab type='prose'>過量作尼師但那學處<pb n="0644a" ed="T" id="T24.1459.0644a"/><lb
  n="0644a01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若作尼師但，　　大覺三張手；　　<lb
  n="0644a02" ed="T"/>廣便一手半，　　過此不應為。　　<lb
  n="0644a03" ed="T"/>長時應截却，　　其罪便須悔；　　<lb
  n="0644a04" ed="T"/>問言除却未？　　方可為蠲愆。　　
 </ab><lb
- n="0644a05" ed="T"/><ab type="prose">過量作覆瘡衣學處<lb
+ n="0644a05" ed="T"/><ab type='prose'>過量作覆瘡衣學處<lb
  n="0644a06" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若作覆瘡衣，　　長佛四張手，　　<lb
  n="0644a07" ed="T"/>寬須張手二，　　越此遂招愆。　　
 </ab><lb
- n="0644a08" ed="T"/><ab type="prose">過量作雨浴衣學處<lb
+ n="0644a08" ed="T"/><ab type='prose'>過量作雨浴衣學處<lb
  n="0644a09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 如其作雨衣，　　長佛六張手，　　<lb
  n="0644a10" ed="T"/>廣應二手半，　　異此不應為。　　
 </ab><lb
- n="0644a11" ed="T"/><ab type="prose">與佛等過量作衣學處<lb
+ n="0644a11" ed="T"/><ab type='prose'>與佛等過量作衣學處<lb
  n="0644a12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 怛他揭多衣，　　不合同量作；　　<lb
  n="0644a13" ed="T"/>長十廣有六，　　斯名佛衣量。　　<lb
  n="0644a14" ed="T"/>生在苦毒處，　　曾無有少樂；　　<lb
@@ -2794,17 +2794,17 @@
  n="0644a17" ed="T"/>愚人罪不悔，　　由斯墮義成。　　
 </ab><lb
  n="0644a18" ed="T"/><head>第四部別悔法</head><lb
- n="0644a19" ed="T"/><ab type="prose">從非親尼受食學處<lb
+ n="0644a19" ed="T"/><ab type='prose'>從非親尼受食學處<lb
  n="0644a20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 已說於墮罪，　　方陳四別悔；　　<lb
  n="0644a21" ed="T"/>略言其自相，　　委悉可應知。　　<lb
  n="0644a22" ed="T"/>非親苾芻尼，　　於村乞食處；　　<lb
  n="0644a23" ed="T"/>自手受取食，　　便招別悔愆。　　
 </ab><lb
- n="0644a24" ed="T"/><ab type="prose">受尼指授食學處<lb
+ n="0644a24" ed="T"/><ab type='prose'>受尼指授食學處<lb
  n="0644a25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若其於俗舍，　　苾芻正飡食；　　<lb
  n="0644a26" ed="T"/>尼來指授時，　　與斯酥酪等。　　<lb
  n="0644a27" ed="T"/>舉眾皆須報：　　姊妹勿為言；　　<lb
@@ -2820,19 +2820,19 @@
  n="0644b08" ed="T"/>若在尼寺中，　　施受全無過；　　<lb
  n="0644b09" ed="T"/>自己財將施，　　并由重信心。　　
 </ab><lb
- n="0644b10" ed="T"/><ab type="prose">學家受食學處<lb
+ n="0644b10" ed="T"/><ab type='prose'>學家受食學處<lb
  n="0644b11" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若於學人家，　　知眾與羯磨；　　<lb
  n="0644b12" ed="T"/>苾芻飢渴逼，　　雖請不應飡。　　<lb
- n="0644b13" ed="T"/>花華葉等物，　　縱受亦無傷；　　<lb
+ n="0644b13" ed="T"/>花果葉等物，　　縱受亦無傷；　　<lb
  n="0644b14" ed="T"/>受床座誦經，　　並開非是過。　　<lb
  n="0644b15" ed="T"/>若於他舍食，　　餅惠學家兒；　　<lb
  n="0644b16" ed="T"/>擘破乃令飡，　　勿使空懸望。　　
 </ab><lb
- n="0644b17" ed="T"/><ab type="prose">阿蘭若住處外受食學處<lb
+ n="0644b17" ed="T"/><ab type='prose'>阿蘭若住處外受食學處<lb
  n="0644b18" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若在阿蘭若，　　此中多恐怖；　　<lb
  n="0644b19" ed="T"/>苾芻不應出，　　寺外受其飡。　　<lb
  n="0644b20" ed="T"/>若無觀林者，　　苾芻出受食；　　<lb
@@ -2841,7 +2841,7 @@
  n="0644b23" ed="T"/>應報諸人言：　　我說鄙賤事。　　
 </ab><lb
  n="0644b24" ed="T"/><head>第五部眾學法</head><lb
- n="0644b25" ed="T"/><ab type="verse">
+ n="0644b25" ed="T"/><ab type='verse'>
 四種別悔法，　　如犯狀已陳；　　<lb
  n="0644b26" ed="T"/>自餘眾式叉，　　次第今當說。　　<lb
  n="0644b27" ed="T"/>下裙圓整著，　　不高亦不下，　　<lb
@@ -2896,7 +2896,7 @@
  n="0645a18" ed="T"/>式叉羯闌尼，　　是悉應當學。　　
 </ab><lb
  n="0645a19" ed="T"/><head>七滅諍法</head><lb
- n="0645a20" ed="T"/><ab type="verse">
+ n="0645a20" ed="T"/><ab type='verse'>
 已於眾學法，　　略言其大綱；　　<lb
  n="0645a21" ed="T"/>七滅諍相應，　　次第今當說。　　<lb
  n="0645a22" ed="T"/>所謂評論等，　　有隨法能除；　　<lb
@@ -2980,20 +2980,20 @@
  n="0646a13" ed="T"/>欲殄作事諍，　　應須眾咸集；　　<lb
  n="0646a14" ed="T"/>如不作違拒，　　是諍息應知。　　
 </ab><lb
- n="0646a15" ed="T"/><ab type="prose">已上兩卷明波羅底木叉戒本了。次下一卷<lb
+ n="0646a15" ed="T"/><ab type='prose'>已上兩卷明波羅底木叉戒本了。次下一卷<lb
  n="0646a16" ed="T"/>明跋窣覩等事。<lb
  n="0646a17" ed="T"/>
-</ab><ab type="juan" subtype="close">根本說一切有部毘奈耶頌卷中</ab><lb
+</ab><ab type='juan' subtype='close'>根本說一切有部毘奈耶頌卷中</ab><lb
  n="0646a18" ed="T"/><lb
  n="0646a19" ed="T"/><lb
  n="0646a20" ed="T"/>
-<ab type="juan" subtype="open">根本說一切有部毘奈耶頌卷下</ab><lb
+<ab type='juan' subtype='open'>根本說一切有部毘奈耶頌卷下</ab><lb
  n="0646a21" ed="T"/><lb
  n="0646a22" ed="T"/><byline>尊者毘舍佉造</byline><lb
  n="0646a23" ed="T"/><byline>三藏法師義淨奉　制譯</byline><lb
  n="0646a24" ed="T"/><head>下明於十七跋窣覩等，中述其要事<lb
  n="0646a25" ed="T"/>。</head><lb
- n="0646a26" ed="T"/><ab type="verse">
+ n="0646a26" ed="T"/><ab type='verse'>
 若是旃荼羅，　　唱令及酒舍；　　<lb
  n="0646a27" ed="T"/>婬女王宮處，　　此五非行境。　　<lb
  n="0646a28" ed="T"/>外道諸典籍，　　習讀將為勝；　　<lb
@@ -3153,7 +3153,7 @@
  n="0648a08" ed="T"/>苾芻若種樹，　　擬充僧果園；　　<lb
  n="0648a09" ed="T"/>守看經五年，　　去時須囑授。　　<lb
  n="0648a10" ed="T"/>苾芻不呪誓，　　若作似妄語，　　<lb
- n="0648a11" ed="T"/>亦不賭衣等，　　博奕匪尸羅。　　<lb
+ n="0648a11" ed="T"/>亦不賭衣等，　　博弈匪尸羅。　　<lb
  n="0648a12" ed="T"/>苾芻見女人，　　若有染心起；　　<lb
  n="0648a13" ed="T"/>或女生染意，　　住處捨應行。　　<lb
  n="0648a14" ed="T"/>若見苾芻尼，　　為來聽法故；　　<lb
@@ -3478,7 +3478,7 @@
  n="0651c14" ed="T"/>須喚輿屍人，　　柴薪用僧物。　　<lb
  n="0651c15" ed="T"/>香花幡鼓樂，　　送至焚屍林；　　<lb
  n="0651c16" ed="T"/>親識及門徒，　　愍念相隨去。　　<lb
- n="0651c17" ed="T"/>善親應可燒，　　薪火須豐足；　　<lb
+ n="0651c17" ed="T"/>善觀應可燒，　　薪火須豐足；　　<lb
  n="0651c18" ed="T"/>助以旃檀等，　　隨有灌酥油。　　<lb
  n="0651c19" ed="T"/>身瘡若有蟲，　　埋時勿令損；　　<lb
  n="0651c20" ed="T"/>或安於露地，　　草葉覆其身。　　<lb
@@ -3561,7 +3561,7 @@
  n="0652c10" ed="T"/>造佛窣覩波，　　蘇迷盧等量；　　<lb
  n="0652c11" ed="T"/>四畔基牢固，　　乃至安寶瓶。　　<lb
  n="0652c12" ed="T"/>輪一二三四，　　如次果應知；　　<lb
- n="0652c13" ed="T"/>凡夫具德人，　　瓦頭為制底。　　<lb
+ n="0652c13" ed="T"/>凡夫具德人，　　兀頭為制底。　　<lb
  n="0652c14" ed="T"/>若作佛制底，　　輪蓋無定數；　　<lb
  n="0652c15" ed="T"/>過千妙高量，　　獲福乃無邊。　　<lb
  n="0652c16" ed="T"/>獨覺麟喻佛，　　不過十三槃；　　<lb
@@ -3630,7 +3630,7 @@
  n="0653b21" ed="T"/>為護其衣鉢，　　異此遂招愆。　　<lb
  n="0653b22" ed="T"/>若在於迮處，　　肘地應分臥；　　<lb
  n="0653b23" ed="T"/>瓶水及齒木，　　藥雜器皆分。　　<lb
- n="0653b24" ed="T"/>有意欲他行，　　戾須淨掃拭；　　<lb
+ n="0653b24" ed="T"/>有意欲他行，　　房須淨掃拭；　　<lb
  n="0653b25" ed="T"/>如其故令壞，　　惡作罪侵身。　　<lb
  n="0653b26" ed="T"/>正值分房際，　　不囑便外出；　　<lb
  n="0653b27" ed="T"/>更令依次行，　　雖啼不應與。　　<lb
@@ -3899,7 +3899,7 @@
  n="0656b29" ed="T"/>於好甎地上，　　不應輒然火；　　<pb n="0656c" ed="T" id="T24.1459.0656c"/><lb
  n="0656c01" ed="T"/>若有要緣者，　　宜可在爐中。　　
 </ab><lb
- n="0656c02" ed="T"/><ab type="verse">
+ n="0656c02" ed="T"/><ab type='verse'>
 佛及眾中尊老者，　　國王恩濟於兆庶；　　<lb
  n="0656c03" ed="T"/>親教軌範二尊人，　　此五善教無宜越。　　<lb
  n="0656c04" ed="T"/>若有苾芻所為事，　　世尊不開亦不遮；　　<lb
@@ -3925,7 +3925,7 @@
  n="0656c24" ed="T"/>大哉大德六人眾，　　由斯廣制式叉緣；　　<lb
  n="0656c25" ed="T"/>悉皆明辯冠當時，　　所作事業無重犯。　　<lb
  n="0656c26" ed="T"/>雖為此等制學處，　　因斯洗濁破尸羅；　　<lb
- n="0656c27" ed="T"/>如信度河至春時，　　流澍平原灌眾澤。　　<lb
+ n="0656c27" ed="T"/>如信度河至春時，　　流注平原灌眾澤。　　<lb
  n="0656c28" ed="T"/>鄔波難陀阿濕迦，　　闡陀難陀鄔陀夷；　　<lb
  n="0656c29" ed="T"/>補㮈伐蘇六難調，　　世尊教中為滓穢。　　<pb n="0657a" ed="T" id="T24.1459.0657a"/><lb
  n="0657a01" ed="T"/>若有要心不犯戒，　　斯則名為上智者；　　<lb
@@ -3975,15 +3975,15 @@
  n="0657b16" ed="T"/>若希戒品常清淨，　　無疑正趣涅槃宮；　　<lb
  n="0657b17" ed="T"/>常於略頌憶修行，　　勿慮一生虛命盡。　　
 </ab><lb
- n="0657b18" ed="T"/><ab type="verse">
+ n="0657b18" ed="T"/><ab type='verse'>
 乃至世間尚煎生死熱，　　乃至心內恒為染<lb
  n="0657b19" ed="T"/>火燒；　　大仙等教猶若弶伽流，　　常願久住<lb
  n="0657b20" ed="T"/>洗濁無明垢。　　
-</ab><ab type="verse">
+</ab><ab type='verse'>
 在那爛陀，　　已翻此頌，　　還<lb
- n="0657b21" ed="T"/>至都下，　　重勘疎條。　　所有福因，　　願霑含<lb
+ n="0657b21" ed="T"/>至都下，　　重勘踈條。　　所有福因，　　願霑含<lb
  n="0657b22" ed="T"/>識，　　專希解脫，　　早出生津。　　
 </ab><lb
  n="0657b23" ed="T"/>
-<ab type="juan" subtype="close">根本說一切有部毘奈耶頌卷下</ab></div>
+<ab type='juan' subtype='close'>根本說一切有部毘奈耶頌卷下</ab></div>
 </body></text></TEI>

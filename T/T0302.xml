@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T10</biblScope>
                     <idno type="Taisho">T10n0302</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0912a22" ed="T"/><lb
  n="0912a23" ed="T"/><lb
  n="0912a24" ed="T"/>
-<ab type="juan" subtype="open">度諸佛境界智光嚴經</ab><lb
+<ab type='juan' subtype='open'>度諸佛境界智光嚴經</ab><lb
  n="0912a25" ed="T"/><lb
  n="0912a26" ed="T"/><byline>失譯人名附秦錄</byline><lb
- n="0912a27" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時佛住摩伽陀國法林菩提光<lb
+ n="0912a27" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時佛住摩伽陀國法林菩提光<lb
  n="0912a28" ed="T"/>明宮殿，大功德所造，能令見者生大歡喜，無<lb
  n="0912a29" ed="T"/>量功德蓮華之像師子高座，佛在其上——正遍<pb n="0912b" ed="T" id="T10.0302.0912b"/><lb
  n="0912b01" ed="T"/>知意清淨，無等正行，到諸佛等法心無障礙，<lb
@@ -503,5 +503,5 @@
  n="0917b16" ed="T"/>言已，皆大歡喜，及諸菩薩聲聞大眾，天、人、阿<lb
  n="0917b17" ed="T"/>修羅、迦樓羅等，皆悉隨喜頂禮而退。</ab></div><lb
  n="0917b18" ed="T"/>
-<ab type="juan" subtype="close">度諸佛境界智光嚴經</ab>
+<ab type='juan' subtype='close'>度諸佛境界智光嚴經</ab>
 </body></text></TEI>

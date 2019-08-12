@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T16</biblScope>
                     <idno type="Taisho">T16n0659</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0241a" ed="T" id="T16.0659.0241a"/><lb
  n="0241a01" ed="T"/><lb
- n="0241a02" ed="T"/><div type="pin" level="2"><lb
+ n="0241a02" ed="T"/><div type='pin' level='2'><lb
  n="0241a03" ed="T"/>
-<ab type="juan" subtype="open">大乘寶雲經卷第一</ab><lb
+<ab type='juan' subtype='open'>大乘寶雲經卷第一</ab><lb
  n="0241a04" ed="T"/><lb
  n="0241a05" ed="T"/><byline>梁扶南三藏曼陀羅仙共僧伽婆羅譯</byline><lb
  n="0241a06" ed="T"/><head>序品第一</head><lb
- n="0241a07" ed="T"/><ab type="prose">如是我聞：一時佛婆伽槃住伽耶國伽耶頂<lb
+ n="0241a07" ed="T"/><ab type='prose'>如是我聞：一時佛婆伽槃住伽耶國伽耶頂<lb
  n="0241a08" ed="T"/>山，與大僧眾七萬人俱，一切皆是大阿羅漢——<lb
  n="0241a09" ed="T"/>諸漏已盡，無復煩惱；心得自在，心善解脫、慧<lb
  n="0241a10" ed="T"/>善解脫；眾所知識，皆大龍、象；所作已辦，不受<lb
@@ -238,7 +238,7 @@
  n="0243a20" ed="T"/>量天女於虛空中作天伎樂而供養佛，以是<lb
  n="0243a21" ed="T"/>音樂出此偈頌歌詠佛德：<lb
  n="0243a22" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「託生林苑世奇特，　　清淨、無污、無等等，　　<lb
  n="0243a23" ed="T"/>願禮虛空等相故，　　我等故來到此國；　　<lb
  n="0243a24" ed="T"/>於道樹下成等覺，　　破碎一切眾魔怨，　　<lb
@@ -260,7 +260,7 @@
  n="0243b11" ed="T"/>分明相好莊嚴身，　　救護世間所歸仰，　　<lb
  n="0243b12" ed="T"/>願禮寶樹無量枝，　　我等並齎供養具。」　　
 </ab><lb
- n="0243b13" ed="T"/><ab type="prose">爾時，偈頌出已未久，長老目連即從座起，偏<lb
+ n="0243b13" ed="T"/><ab type='prose'>爾時，偈頌出已未久，長老目連即從座起，偏<lb
  n="0243b14" ed="T"/>袒右肩，右膝著地，合掌向佛，恭敬禮畢而白<lb
  n="0243b15" ed="T"/>佛言：「世尊！如今瑞相是誰所作？本未曾有、未<lb
  n="0243b16" ed="T"/>曾聞見。」說是語已，佛告長老目揵連言：「目連！<lb
@@ -274,7 +274,7 @@
  n="0243b24" ed="T"/>稽首敬禮佛足，圍繞千匝俱立佛前，以此偈<lb
  n="0243b25" ed="T"/>頌一時同音而歎佛曰：<lb
  n="0243b26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「大名！大勇猛！　　大智！大仙尊！　　<lb
  n="0243b27" ed="T"/>過有諸危嶮，　　歸命度彼岸。　　<lb
  n="0243b28" ed="T"/>光明普照了，　　普知眾生性，　　<lb
@@ -296,7 +296,7 @@
  n="0243c15" ed="T"/>如是諸菩薩，　　皆是佛化生，　　<lb
  n="0243c16" ed="T"/>願樂聞正法，　　世尊為說之。」　　
 </ab><lb
- n="0243c17" ed="T"/><ab type="prose">爾時，降伏一切障礙菩薩與諸菩薩摩訶薩<lb
+ n="0243c17" ed="T"/><ab type='prose'>爾時，降伏一切障礙菩薩與諸菩薩摩訶薩<lb
  n="0243c18" ed="T"/>等以是偈頌歎佛已畢，世尊憐愍聽許復座，<lb
  n="0243c19" ed="T"/>俱於蓮華臺上而坐，隨其所應而從座起，偏<lb
  n="0243c20" ed="T"/>袒右肩，右膝著蓮華臺，合掌向佛而白佛言：<lb
@@ -359,8 +359,8 @@
  n="0244b19" ed="T"/>藥樹王？云何菩薩福業相應？云何菩薩善能<lb
  n="0244b20" ed="T"/>變化？世尊！云何菩薩速成阿耨多羅三藐三<lb
  n="0244b21" ed="T"/>菩提？」</ab></div><lb
- n="0244b22" ed="T"/><div type="pin" level="2"><head>大乘寶雲經十波羅蜜品第二</head><lb
- n="0244b23" ed="T"/><ab type="prose">爾時，佛告降伏一切障礙菩薩摩訶薩言：「善<lb
+ n="0244b22" ed="T"/><div type='pin' level='2'><head>大乘寶雲經十波羅蜜品第二</head><lb
+ n="0244b23" ed="T"/><ab type='prose'>爾時，佛告降伏一切障礙菩薩摩訶薩言：「善<lb
  n="0244b24" ed="T"/>哉，善哉。善男子！重復善哉。汝為利益一切眾<lb
  n="0244b25" ed="T"/>生，亦為安樂一切世間，特為莊嚴人天大眾，<lb
  n="0244b26" ed="T"/>是故汝今以如是義應問如來。善男子！諦聽<lb
@@ -588,15 +588,15 @@
  n="0247a16" ed="T"/>菩薩自誓願忍具足。「善男子！是名菩薩摩訶<lb
  n="0247a17" ed="T"/>薩具足十法，忍波羅蜜滿足。<lb
  n="0247a18" ed="T"/>
-</ab><ab type="juan" subtype="close">大乘寶雲經卷第一</ab><lb
+</ab><ab type='juan' subtype='close'>大乘寶雲經卷第一</ab><lb
  n="0247a19" ed="T"/><lb
  n="0247a20" ed="T"/><lb
  n="0247a21" ed="T"/>
-<ab type="juan" subtype="open">大乘寶雲經卷第二<lb
+<ab type='juan' subtype='open'>大乘寶雲經卷第二<lb
  n="0247a22" ed="T"/><lb
  n="0247a23" ed="T"/><byline>梁扶南三藏曼陀羅仙共僧伽婆羅等譯</byline><lb
  n="0247a24" ed="T"/>十波羅蜜品之二</ab><lb
- n="0247a25" ed="T"/><ab type="prose">「善男子！菩薩摩訶薩具足十法，毘梨耶波羅<lb
+ n="0247a25" ed="T"/><ab type='prose'>「善男子！菩薩摩訶薩具足十法，毘梨耶波羅<lb
  n="0247a26" ed="T"/>蜜滿足。何等為十？一者、金剛不壞精進，二者、<lb
  n="0247a27" ed="T"/>勇猛精進，三者、離兩邊精進，四者、增廣精進，<lb
  n="0247a28" ed="T"/>五者、練治精進，六者、無休息精進，七者、清淨<lb
@@ -697,7 +697,7 @@
  n="0248b07" ed="T"/>不當於如是等困厄世間求受五欲。夫婬欲<lb
  n="0248b08" ed="T"/>者，唯是妄想、顛倒而已，於三苦中謬生樂想。<lb
  n="0248b09" ed="T"/>是故，如來處處經中種種因緣具說婬欲多<lb
- n="0248b10" ed="T"/>諸過失、殊可患厭，所謂婬欲如炙肉法，肉󰮜<lb
+ n="0248b10" ed="T"/>諸過失、殊可患厭，所謂婬欲如炙肉法，肉𭵫<lb
  n="0248b11" ed="T"/>俱燋；如舐刀刃，貪味偽舌；如毒蛇頭，具四<lb
  n="0248b12" ed="T"/>種毒；如猪在廁，臭穢不淨；如彼癡狗而齧枯<lb
  n="0248b13" ed="T"/>骨，其口出血謂之為樂；亦如獼猴黏著𥻿膠。』<lb
@@ -1189,15 +1189,15 @@
  n="0254a06" ed="T"/>名菩薩出世間智具足。「善男子！菩薩摩訶薩<lb
  n="0254a07" ed="T"/>具足十法，智波羅蜜具足。」<lb
  n="0254a08" ed="T"/>
-</ab><ab type="juan" subtype="close">大乘寶雲經卷第二</ab></div><lb
+</ab><ab type='juan' subtype='close'>大乘寶雲經卷第二</ab></div><lb
  n="0254a09" ed="T"/><lb
- n="0254a10" ed="T"/><div type="pin" level="2"><lb
+ n="0254a10" ed="T"/><div type='pin' level='2'><lb
  n="0254a11" ed="T"/>
-<ab type="juan" subtype="open">大乘寶雲經卷第三</ab><lb
+<ab type='juan' subtype='open'>大乘寶雲經卷第三</ab><lb
  n="0254a12" ed="T"/><lb
  n="0254a13" ed="T"/><byline>梁扶南三藏曼陀羅仙共僧伽婆羅等譯</byline><lb
  n="0254a14" ed="T"/><head>平等品第三</head><lb
- n="0254a15" ed="T"/><ab type="prose">佛告降伏一切障礙菩薩摩訶薩言：「善男子！<lb
+ n="0254a15" ed="T"/><ab type='prose'>佛告降伏一切障礙菩薩摩訶薩言：「善男子！<lb
  n="0254a16" ed="T"/>菩薩具有十法，與地平等。何等為十？一者、廣<lb
  n="0254a17" ed="T"/>大無量，二者、養育眾生，三者、有恩、無恩無有<lb
  n="0254a18" ed="T"/>異想，四者、能受大法雲雨，五者、一切眾生所<lb
@@ -1635,15 +1635,15 @@
  n="0259a15" ed="T"/>德珍寶聚集之處乃至無邊。「善男子！如是，菩<lb
  n="0259a16" ed="T"/>薩具足十法，喻如大海。」<lb
  n="0259a17" ed="T"/>
-</ab><ab type="juan" subtype="close">大乘寶雲經卷第三</ab></div><lb
+</ab><ab type='juan' subtype='close'>大乘寶雲經卷第三</ab></div><lb
  n="0259a18" ed="T"/><lb
- n="0259a19" ed="T"/><div type="pin" level="2"><lb
+ n="0259a19" ed="T"/><div type='pin' level='2'><lb
  n="0259a20" ed="T"/>
-<ab type="juan" subtype="open">大乘寶雲經卷第四</ab><lb
+<ab type='juan' subtype='open'>大乘寶雲經卷第四</ab><lb
  n="0259a21" ed="T"/><lb
  n="0259a22" ed="T"/><byline>梁扶南三藏曼陀羅仙共僧伽婆羅譯</byline><lb
  n="0259a23" ed="T"/><head>陀羅尼品第四</head><lb
- n="0259a24" ed="T"/><ab type="prose">爾時，佛告降伏一切障礙菩薩摩訶薩言：「善<lb
+ n="0259a24" ed="T"/><ab type='prose'>爾時，佛告降伏一切障礙菩薩摩訶薩言：「善<lb
  n="0259a25" ed="T"/>男子！菩薩摩訶薩具足十法，深解微細。何等<lb
  n="0259a26" ed="T"/>為十？所謂解求出離、解究竟諸法、解具足一<lb
  n="0259a27" ed="T"/>切法、解隨順一切法相、解分析一切諸法、解<lb
@@ -2197,7 +2197,7 @@
  n="0265b24" ed="T"/>法、遇善知識，展轉增長乃至成佛，十力具足、<lb
  n="0265b25" ed="T"/>得無所畏。」而說呪曰：<lb
  n="0265b26" ed="T"/></ab>
-<ab type="dharani">「怛絰咃　陀柯第　陀柯婆羅第　陀柯那<lb
+<ab type='dharani'>「怛絰咃　陀柯第　陀柯婆羅第　陀柯那<lb
  n="0265b27" ed="T"/>伽脚那呵利膩　毘梨履膩　迦蘭闍蘭那桎<lb
  n="0265b28" ed="T"/>叉桎叉薩婆薩埵　婆羅耶寐　莎呵阿祇<lb
  n="0265b29" ed="T"/>那伽多羅祇　阿致那祇　禰弟　斯思伊<pb n="0265c" ed="T" id="T16.0659.0265c"/><lb
@@ -2214,21 +2214,21 @@
  n="0265c11" ed="T"/>尼　薩婆魯伽婆奢摩尼　摩訶摩由羅喜陀<lb
  n="0265c12" ed="T"/>耶　䐽多　婆摩波多　伊底莎呵<lb
  n="0265c13" ed="T"/></ab>
-<ab type="prose">「若火難、若王難、若災厄難、若劫賊難、若惡鬼<lb
+<ab type='prose'>「若火難、若王難、若災厄難、若劫賊難、若惡鬼<lb
  n="0265c14" ed="T"/>難、若兩足難、若四足難、若多足難、若無足難、<lb
  n="0265c15" ed="T"/>若有色難、若無色難、若煩惱難，一切諸難，當<lb
  n="0265c16" ed="T"/>用一心憶念、受持、讀誦此呪，即得消除、遠離<lb
  n="0265c17" ed="T"/>諸難，便得安樂，永無怖畏，得如所願。」<lb
  n="0265c18" ed="T"/>
-</ab><ab type="juan" subtype="close">大乘寶雲經卷第四</ab></div><lb
+</ab><ab type='juan' subtype='close'>大乘寶雲經卷第四</ab></div><lb
  n="0265c19" ed="T"/><lb
- n="0265c20" ed="T"/><div type="pin" level="2"><lb
+ n="0265c20" ed="T"/><div type='pin' level='2'><lb
  n="0265c21" ed="T"/>
-<ab type="juan" subtype="open">大乘寶雲經卷第五</ab><lb
+<ab type='juan' subtype='open'>大乘寶雲經卷第五</ab><lb
  n="0265c22" ed="T"/><lb
  n="0265c23" ed="T"/><byline>梁扶南三藏曼陀羅仙共僧伽婆羅譯</byline><lb
  n="0265c24" ed="T"/><head>安樂行品第五</head><lb
- n="0265c25" ed="T"/><ab type="prose">爾時，世尊復告降伏一切障礙菩薩摩訶薩<lb
+ n="0265c25" ed="T"/><ab type='prose'>爾時，世尊復告降伏一切障礙菩薩摩訶薩<lb
  n="0265c26" ed="T"/>言：「善男子！菩薩摩訶薩修行十法，在在處處<lb
  n="0265c27" ed="T"/>心恒寂靜而安樂住。何等為十？所謂善修憶<lb
  n="0265c28" ed="T"/>念觀察於身及受、心、法，善修憶念觀察境界、<lb
@@ -2565,7 +2565,7 @@
  n="0269c11" ed="T"/>唯貪利養、求於名聞，恃於姓族，戀於眷屬，染<lb
  n="0269c12" ed="T"/>於邪見，恃怙國土、戀慕群眾，習學呪術、路伽<lb
  n="0269c13" ed="T"/>耶陀、世俗文章，捨離正法、廢於道行，於不善<lb
- n="0269c14" ed="T"/>法忽務經營、於功德業不勤其事，憎惡毀<lb
+ n="0269c14" ed="T"/>法怱務經營、於功德業不勤其事，憎惡毀<lb
  n="0269c15" ed="T"/>呰出家之人，但好歌詠歎諸女色、稱美少年——<lb
  n="0269c16" ed="T"/>若男、若女——不樂寂靜，於阿蘭若愁憒不樂，於<lb
  n="0269c17" ed="T"/>善、不善不知量度，於可尊重不往問訊、親近、<lb
@@ -2780,14 +2780,14 @@
  n="0272a23" ed="T"/>未曾發於菩提心者——即於是時皆發阿耨多<lb
  n="0272a24" ed="T"/>羅三藐三菩提心。<lb
  n="0272a25" ed="T"/>
-</ab><ab type="juan" subtype="close">大乘寶雲經卷第五</ab><pb n="0272b" ed="T" id="T16.0659.0272b"/></div><lb
- n="0272b01" ed="T"/><div type="pin" level="2"><lb
+</ab><ab type='juan' subtype='close'>大乘寶雲經卷第五</ab></div><pb n="0272b" ed="T" id="T16.0659.0272b"/><lb
+ n="0272b01" ed="T"/><div type='pin' level='2'><lb
  n="0272b02" ed="T"/>
-<ab type="juan" subtype="open">大乘寶雲經卷第六</ab><lb
+<ab type='juan' subtype='open'>大乘寶雲經卷第六</ab><lb
  n="0272b03" ed="T"/><lb
  n="0272b04" ed="T"/><byline>梁扶南三藏曼陀羅仙共僧伽婆羅譯</byline><lb
  n="0272b05" ed="T"/><head>二諦品第六</head><lb
- n="0272b06" ed="T"/><ab type="prose">爾時，世尊復告降伏一切障礙菩薩摩訶薩<lb
+ n="0272b06" ed="T"/><ab type='prose'>爾時，世尊復告降伏一切障礙菩薩摩訶薩<lb
  n="0272b07" ed="T"/>言：「善男子！菩薩摩訶薩具足十法，善解世諦。<lb
  n="0272b08" ed="T"/>何等為十？所謂假說有色，非第一義故，得於<lb
  n="0272b09" ed="T"/>色法而不執著；假說受、想、行、識，非第一義故，<lb
@@ -2945,7 +2945,7 @@
  n="0274a16" ed="T"/>彼嚫施。』不作抑揚方便皷動。「云何菩薩離橫<lb
  n="0274a17" ed="T"/>求財？菩薩摩訶薩不作身瘡、不作心瘡而求財<lb
  n="0274a18" ed="T"/>物。言身瘡者，為財物故不憚劬勞、四方役身、<lb
- n="0274a19" ed="T"/>疾急忽務、違於戒律；言心瘡者，於諸同學減<lb
+ n="0274a19" ed="T"/>疾急怱務、違於戒律；言心瘡者，於諸同學減<lb
  n="0274a20" ed="T"/>利養者多生嫉妬。「云何菩薩離非法財？不以<lb
  n="0274a21" ed="T"/>輕稱小斗欺誑於人、不以詐親及諸欺罔而求<lb
  n="0274a22" ed="T"/>財物。「云何菩薩離不淨財？菩薩若於塔物相<lb
@@ -3060,7 +3060,7 @@
  n="0275b15" ed="T"/>者，隨順佛教所攝之法；道理說者，不違實際；<lb
  n="0275b16" ed="T"/>利益事者，迴於不善、令住善處；資生供給事<lb
  n="0275b17" ed="T"/>者，若飲、若食；財物利益者，謂金、銀、琉璃、真珠、<lb
- n="0275b18" ed="T"/>玻󰃠、琥珀、珊瑚、瑪瑙、象馬車乘、所須之物。「善<lb
+ n="0275b18" ed="T"/>玻𭹳、琥珀、珊瑚、瑪瑙、象馬車乘、所須之物。「善<lb
  n="0275b19" ed="T"/>男子！菩薩具足十法，善修攝法。「善男子！菩<lb
  n="0275b20" ed="T"/>薩摩訶薩具足十法，端正具足。何等為十？所<lb
  n="0275b21" ed="T"/>謂威儀庠序、於四威儀悉非虛偽、見之可愛、<lb
@@ -3129,14 +3129,14 @@
  n="0276a26" ed="T"/>以上乃至九地，過境界故。善男子！菩薩具<lb
  n="0276a27" ed="T"/>足十法，速得成於阿耨多羅三藐三菩提。」<lb
  n="0276a28" ed="T"/>
-</ab><ab type="juan" subtype="close">大乘寶雲經卷第六</ab><pb n="0276b" ed="T" id="T16.0659.0276b"/></div><lb
- n="0276b01" ed="T"/><div type="pin" level="2"><lb
+</ab><ab type='juan' subtype='close'>大乘寶雲經卷第六</ab></div><pb n="0276b" ed="T" id="T16.0659.0276b"/><lb
+ n="0276b01" ed="T"/><div type='pin' level='2'><lb
  n="0276b02" ed="T"/>
-<ab type="juan" subtype="open">大乘寶雲經卷第七</ab><lb
+<ab type='juan' subtype='open'>大乘寶雲經卷第七</ab><lb
  n="0276b03" ed="T"/><lb
  n="0276b04" ed="T"/><byline>梁扶南三藏曼陀羅仙共僧伽婆羅等譯</byline><lb
  n="0276b05" ed="T"/><head>寶積品第七</head><lb
- n="0276b06" ed="T"/><ab type="prose">爾時，佛告寶積菩薩言：「善男子！有四種法，退<lb
+ n="0276b06" ed="T"/><ab type='prose'>爾時，佛告寶積菩薩言：「善男子！有四種法，退<lb
  n="0276b07" ed="T"/>失菩薩智慧。何謂為四？於佛正法無尊重心，<lb
  n="0276b08" ed="T"/>亦不恭敬是說法者；慳嫉正法，設有人來求<lb
  n="0276b09" ed="T"/>正法者而不為說；於樂法者為作留難，遮護<lb
@@ -3597,7 +3597,7 @@
  n="0281b29" ed="T"/>不著三有無所依戒。」爾時，世尊欲重宣此義<pb n="0281c" ed="T" id="T16.0659.0281c"/><lb
  n="0281c01" ed="T"/>而說偈言：<lb
  n="0281c02" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「清淨持戒者，　　無垢、無所有，　　<lb
  n="0281c03" ed="T"/>持戒無憍慢，　　亦無所依止，　　<lb
  n="0281c04" ed="T"/>持戒無愚癡，　　亦無有諸縛，　　<lb
@@ -3632,7 +3632,7 @@
  n="0282a04" ed="T"/>依因所修慧，　　逮得於淨智；　　<lb
  n="0282a05" ed="T"/>已得淨智者，　　具足清淨戒。」　　
 </ab><lb
- n="0282a06" ed="T"/><ab type="prose">佛說是語時，五百沙門不受諸法，心得解脫；<lb
+ n="0282a06" ed="T"/><ab type='prose'>佛說是語時，五百沙門不受諸法，心得解脫；<lb
  n="0282a07" ed="T"/>三萬二千人遠塵離垢，得法眼淨；五百沙門<lb
  n="0282a08" ed="T"/>得於禪定，聞此深法心不信解、不能通達、不<lb
  n="0282a09" ed="T"/>入內懷，從座而起還于山林。爾時，大迦葉前<lb
@@ -3760,5 +3760,5 @@
  n="0283b15" ed="T"/>法身三十二相、八十種好、金剛不壞真實之<lb
  n="0283b16" ed="T"/>身。」<lb
  n="0283b17" ed="T"/>
-</ab><ab type="juan" subtype="close">大乘寶雲經卷第七</ab></div></div>
+</ab><ab type='juan' subtype='close'>大乘寶雲經卷第七</ab></div></div>
 </body></text></TEI>

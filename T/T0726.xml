@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T17</biblScope>
                     <idno type="Taisho">T17n0726</idno>
                 </bibl>
@@ -44,13 +44,13 @@
  n="0455a14" ed="T"/><lb
  n="0455a15" ed="T"/><lb
  n="0455a16" ed="T"/>
-<ab type="juan" subtype="open">六趣輪迴經</ab><lb
+<ab type='juan' subtype='open'>六趣輪迴經</ab><lb
  n="0455a17" ed="T"/><lb
  n="0455a18" ed="T"/><byline>馬鳴菩薩集</byline><lb
  n="0455a19" ed="T"/><byline>西天譯經三藏朝散大夫<lb
  n="0455a20" ed="T"/>試鴻臚少卿宣梵大師賜紫<lb
  n="0455a21" ed="T"/>沙門臣日稱等奉　詔譯</byline><lb
- n="0455a22" ed="T"/><div type="jing" level="1"><ab type="verse">
+ n="0455a22" ed="T"/><div type='jing' level='1'><ab type='verse'>
 歸命三世尊，　　正等覺所說，　　<lb
  n="0455a23" ed="T"/>常行於利他，　　積集諸功德。　　<lb
  n="0455a24" ed="T"/>若自身口意，　　所作善惡業，　　<lb
@@ -126,9 +126,9 @@
  n="0456a07" ed="T"/>諸苦果種子，　　少略而分別，　　<lb
  n="0456a08" ed="T"/>清淨身語心，　　畢竟常遠離。　　
 </ab><lb
- n="0456a09" ed="T"/><ab type="prose">地獄趣竟。<lb
+ n="0456a09" ed="T"/><ab type='prose'>地獄趣竟。<lb
  n="0456a10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若人不樂施，　　復盜眾飲食，　　<lb
  n="0456a11" ed="T"/>墮大癭鬼中，　　常噉諸糞穢。　　<lb
  n="0456a12" ed="T"/>若障人布施，　　於己物生悋，　　<lb
@@ -158,9 +158,9 @@
  n="0456b07" ed="T"/>彼慳貪過失，　　常生餓鬼中，　　<lb
  n="0456b08" ed="T"/>苦樂隨自因，　　是故勿復造。　　
 </ab><lb
- n="0456b09" ed="T"/><ab type="prose">餓鬼趣竟。<lb
+ n="0456b09" ed="T"/><ab type='prose'>餓鬼趣竟。<lb
  n="0456b10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 人天三惡趣，　　唯自能救拔，　　<lb
  n="0456b11" ed="T"/>奔馳六趣中，　　如夢境和合。　　<lb
  n="0456b12" ed="T"/>覩自他眷屬，　　傷嘆豈長久，　　<lb
@@ -170,9 +170,9 @@
  n="0456b16" ed="T"/>受種種形色，　　後得生人間，　　<lb
  n="0456b17" ed="T"/>貧苦極艱辛，　　譬車輪旋轉。　　
 </ab><lb
- n="0456b18" ed="T"/><ab type="prose">畜生趣竟。<lb
+ n="0456b18" ed="T"/><ab type='prose'>畜生趣竟。<lb
  n="0456b19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 彼人趣壽命，　　分量本長遠，　　<lb
  n="0456b20" ed="T"/>多造殺生因，　　由此而減少。　　<lb
  n="0456b21" ed="T"/>縈纏諸病苦，　　癩瘦時疫等，　　<lb
@@ -244,15 +244,15 @@
  n="0457a29" ed="T"/>行善有餘慶，　　積惡招苦惱，　　<pb n="0457b" ed="T" id="T17.0726.0457b"/><lb
  n="0457b01" ed="T"/>各成辨彼因，　　隨業定當受。　　
 </ab><lb
- n="0457b02" ed="T"/><ab type="prose">人趣報竟。<lb
+ n="0457b02" ed="T"/><ab type='prose'>人趣報竟。<lb
  n="0457b03" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 常行於諂誑，　　樂忿恚鬪諍，　　<lb
  n="0457b04" ed="T"/>由昔行施故，　　而作修羅主。　　
 </ab><lb
- n="0457b05" ed="T"/><ab type="prose">修羅趣竟。<lb
+ n="0457b05" ed="T"/><ab type='prose'>修羅趣竟。<lb
  n="0457b06" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 樂修十善因，　　於他無損害，　　<lb
  n="0457b07" ed="T"/>諸天常護持，　　得生四王天。　　<lb
  n="0457b08" ed="T"/>於父母三寶，　　恭敬隨能施，　　<lb
@@ -277,5 +277,5 @@
  n="0457b27" ed="T"/>罪福定無差，　　略說宜諦聽。　　
 </ab></div><lb
  n="0457b28" ed="T"/>
-<ab type="juan" subtype="close">六趣輪迴經</ab>
+<ab type='juan' subtype='close'>六趣輪迴經</ab>
 </body></text></TEI>

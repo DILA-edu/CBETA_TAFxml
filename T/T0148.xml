@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T02</biblScope>
                     <idno type="Taisho">T02n0148</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><pb n="0873a" ed="T" id="T02.0148.0873a"/><lb
  n="0873a01" ed="T"/><lb
  n="0873a02" ed="T"/><lb
- n="0873a03" ed="T"/><div type="jing" level="1"><lb
+ n="0873a03" ed="T"/><div type='jing' level='1'><lb
  n="0873a04" ed="T"/>
-<ab type="juan" subtype="open">國王不梨先泥十夢經</ab><lb
+<ab type='juan' subtype='open'>國王不梨先泥十夢經</ab><lb
  n="0873a05" ed="T"/><lb
  n="0873a06" ed="T"/><byline>東晉西域沙門竺曇無蘭譯</byline><lb
- n="0873a07" ed="T"/><ab type="prose">聞如是：一時，佛在舍衛國祇樹給孤獨園。時，<lb
+ n="0873a07" ed="T"/><ab type='prose'>聞如是：一時，佛在舍衛國祇樹給孤獨園。時，<lb
  n="0873a08" ed="T"/>國王不梨先泥，夜臥夢見十事。何等十事？<lb
  n="0873a09" ed="T"/>一者夢見三瓶併，兩邊瓶滿氣出相交往來，<lb
  n="0873a10" ed="T"/>不入中央空瓶中。二者夢見馬口食，尻亦食。<lb
@@ -157,5 +157,5 @@
  n="0874a27" ed="T"/>大臣俸祿。王言：「我從今以後不信諸異道人<lb
  n="0874a28" ed="T"/>及婆羅門所語。」<lb
  n="0874a29" ed="T"/>
-</ab><ab type="juan" subtype="close">國王不梨先泥十夢經</ab></div>
+</ab><ab type='juan' subtype='close'>國王不梨先泥十夢經</ab></div>
 </body></text></TEI>

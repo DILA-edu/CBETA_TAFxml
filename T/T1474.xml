@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T24</biblScope>
                     <idno type="Taisho">T24n1474</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0937a08" ed="T"/><lb
  n="0937a09" ed="T"/><lb
  n="0937a10" ed="T"/>
-<ab type="juan" subtype="open">沙彌尼戒經</ab><lb
+<ab type='juan' subtype='open'>沙彌尼戒經</ab><lb
  n="0937a11" ed="T"/><lb
  n="0937a12" ed="T"/><byline>在後漢錄</byline><lb
- n="0937a13" ed="T"/><div type="jing" level="1"><ab type="prose">沙彌尼初戒：不得殺生。慈愍群生如父母念<lb
+ n="0937a13" ed="T"/><div type='jing' level='1'><ab type='prose'>沙彌尼初戒：不得殺生。慈愍群生如父母念<lb
  n="0937a14" ed="T"/>子，加哀蠕動猶如赤子。何謂不殺？護身口意。<lb
  n="0937a15" ed="T"/>身不殺人物蚑行喘息之類，而不手為亦不<lb
  n="0937a16" ed="T"/>教人，見殺不食、聞殺不食、疑殺不食、為我殺<lb
@@ -160,5 +160,5 @@
  n="0938b07" ed="T"/>得與男子、沙門比房同寺。各各別異法之大<lb
  n="0938b08" ed="T"/>節焉。</ab></div><lb
  n="0938b09" ed="T"/>
-<ab type="juan" subtype="close">沙彌尼戒經一卷</ab>
+<ab type='juan' subtype='close'>沙彌尼戒經一卷</ab>
 </body></text></TEI>

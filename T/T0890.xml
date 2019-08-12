@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T18</biblScope>
                     <idno type="Taisho">T18n0890</idno>
                 </bibl>
@@ -39,19 +39,19 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0559b18" ed="T"/><lb
  n="0559b19" ed="T"/><lb
  n="0559b20" ed="T"/><lb
  n="0559b21" ed="T"/><lb
  n="0559b22" ed="T"/>
-<ab type="juan" subtype="open">佛說瑜伽大教王經卷第一</ab><lb
+<ab type='juan' subtype='open'>佛說瑜伽大教王經卷第一</ab><lb
  n="0559b23" ed="T"/><lb
  n="0559b24" ed="T"/><byline>西天譯經三藏朝散大夫試光祿卿<lb
  n="0559b25" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
- n="0559b26" ed="T"/><div type="pin" level="2"><head>序品第一</head><lb
- n="0559b27" ed="T"/><ab type="prose">如是我聞。一時世尊大遍照金剛如來。在淨<lb
+ n="0559b26" ed="T"/><div type='pin' level='2'><head>序品第一</head><lb
+ n="0559b27" ed="T"/><ab type='prose'>如是我聞。一時世尊大遍照金剛如來。在淨<lb
  n="0559b28" ed="T"/>光天大樓閣中。彼之樓閣眾寶裝嚴清淨嚴<lb
  n="0559b29" ed="T"/>飾。金剛寶柱金剛鈴鐸。微風吹動出微妙音。<pb n="0559c" id="T18.0890.0559c" ed="T"/><lb
  n="0559c01" ed="T"/>復有種種殊妙供養。以金剛輪寶等而為裝<lb
@@ -88,7 +88,7 @@
  n="0560a03" ed="T"/>爾時彼一切如來及諸菩薩。乃至眾會受教<lb
  n="0560a04" ed="T"/>而聽。爾時世尊而說偈曰。<lb
  n="0560a05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 先須親近阿闍梨　　所作諸法皆能成　　<lb
  n="0560a06" ed="T"/>若不親近阿闍梨　　所作諸法不可就　　<lb
  n="0560a07" ed="T"/>我今說彼闍梨德　　汝諸菩薩及眾會　　<lb
@@ -121,8 +121,8 @@
  n="0560b05" ed="T"/>是故志心求菩提　　供養承事阿闍梨　　<lb
  n="0560b06" ed="T"/>恭敬尊重常孝順　　能施難思最上果　　
 </ab></div><lb
- n="0560b07" ed="T"/><div type="pin" level="2"><head>佛說瑜伽大教王經曼拏羅品第二</head><lb
- n="0560b08" ed="T"/><ab type="prose">爾時世尊大遍照金剛如來。顧視眾會已。入<lb
+ n="0560b07" ed="T"/><div type='pin' level='2'><head>佛說瑜伽大教王經曼拏羅品第二</head><lb
+ n="0560b08" ed="T"/><ab type='prose'>爾時世尊大遍照金剛如來。顧視眾會已。入<lb
  n="0560b09" ed="T"/>大瑜伽智變化最上祕密金剛三摩地。從定<lb
  n="0560b10" ed="T"/>出已。佛告金剛手大菩薩。汝今諦聽。金剛手<lb
  n="0560b11" ed="T"/>此瑜伽大教王經大曼拏羅王。一切曼拏羅<lb
@@ -140,7 +140,7 @@
  n="0560b23" ed="T"/>今發遣一切諸魔乃至天人阿修羅等。言已<lb
  n="0560b24" ed="T"/>復想本身如忿怒明王。即誦此真言曰。<lb
  n="0560b25" ed="T"/></ab>
-<ab type="dharani">呵波娑蘭覩跋晚多曳枳󰴌禰嚩酥<lb
+<ab type='dharani'>呵波娑蘭覩跋晚多曳枳󰴌禰嚩酥<lb
  n="0560b26" ed="T"/>囉藥叉囉叉娑必隷多必舍左<lb
  n="0560b27" ed="T"/>阿波三摩囉部多拏枳儞烏娑多<lb
  n="0560b28" ed="T"/>囉迦摩賀羅哥摩賀里迦摩賀<lb
@@ -159,7 +159,7 @@
  n="0560c13" ed="T"/>賀倪也曩嚩日哩拏謀哩馱<lb
  n="0560c14" ed="T"/>曩設多馱尾羯哩欲哩底<lb
  n="0560c15" ed="T"/></ab>
-<ab type="prose">時阿闍梨誦此真言三遍已。如前作金剛步<lb
+<ab type='prose'>時阿闍梨誦此真言三遍已。如前作金剛步<lb
  n="0560c16" ed="T"/>旋繞而行。結界發遣諸魔成金剛地。然後行<lb
  n="0560c17" ed="T"/>如左舞踏勢及右舞踏勢。每舍珂曼拏羅勢。<lb
  n="0560c18" ed="T"/>平足立勢龜步勢。金剛嚩日嚕咄羯哩沙拏<lb
@@ -183,18 +183,18 @@
  n="0561a07" ed="T"/>妙字於一切教中最上最尊。然後以本真言<lb
  n="0561a08" ed="T"/>依法祈請地天。真言曰。<lb
  n="0561a09" ed="T"/></ab>
-<ab type="dharani">怛網禰尾娑叱部多悉薩哩嚩<lb
+<ab type='dharani'>怛網禰尾娑叱部多悉薩哩嚩<lb
  n="0561a10" ed="T"/>沒馱努多以曩左哩也那野尾試<lb
  n="0561a11" ed="T"/>尸數部彌播囉彌多蘇左薩哩<lb
  n="0561a12" ed="T"/>嚩悉提鉢囉沒哩𠆙哩湯曼拏蘭左隷珂夜藐憾<lb
  n="0561a14" ed="T"/></ab>
-<ab type="prose">時阿闍梨誦此真言三遍已。運至誠心復請<lb
+<ab type='prose'>時阿闍梨誦此真言三遍已。運至誠心復請<lb
  n="0561a15" ed="T"/>召諸佛如來。真言曰。<lb
  n="0561a16" ed="T"/></ab>
-<ab type="dharani">三滿多訶囒覩𤚥沒馱迦嚕拏呬多際<lb
+<ab type='dharani'>三滿多訶囒覩𤚥沒馱迦嚕拏呬多際<lb
  n="0561a17" ed="T"/>怛薩部彌波哩仡囉賀迦哩也薩補怛賴薩賀阿誐摩<lb
  n="0561a19" ed="T"/></ab>
-<ab type="prose">時阿闍梨誦此真言三遍已。於曼拏羅地中<lb
+<ab type='prose'>時阿闍梨誦此真言三遍已。於曼拏羅地中<lb
  n="0561a20" ed="T"/>間。以塗香作圓相曼拏羅。作此曼拏羅時。當<lb
  n="0561a21" ed="T"/>誦大輪明王真言然後請召諸佛賢聖。獻大<lb
  n="0561a22" ed="T"/>種種殊妙供養。祈求諸佛而作歡喜。時阿闍<lb
@@ -206,13 +206,13 @@
  n="0561a28" ed="T"/>障迴向發願。乃至弟子以身命布施發大菩<lb
  n="0561a29" ed="T"/>提心。即說三歸伽陀曰。<pb n="0561b" id="T18.0890.0561b" ed="T"/><lb
  n="0561b01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 我今歸敬於三寶　　我佛曠劫超三有　　<lb
  n="0561b02" ed="T"/>妙法能除煩惱根　　獲成聖眾離欲尊　　<lb
  n="0561b03" ed="T"/>我昔所作諸罪業　　今對三寶至誠懺　　<lb
  n="0561b04" ed="T"/>迴施功德利群生　　誓願求證菩提果　　
 </ab><lb
- n="0561b05" ed="T"/><ab type="prose">時受法弟子誦此伽陀滿三遍已。阿闍梨復<lb
+ n="0561b05" ed="T"/><ab type='prose'>時受法弟子誦此伽陀滿三遍已。阿闍梨復<lb
  n="0561b06" ed="T"/>為弟子。隨力隨意開導說法。令彼至誠發大<lb
  n="0561b07" ed="T"/>菩提心。然後如前依法。作於供養發送賢聖。<lb
  n="0561b08" ed="T"/>時弟子於曼拏羅地右脇而臥。於其夢中必<lb
@@ -276,28 +276,28 @@
  n="0562a08" ed="T"/>五如來祕密真言。安置弟子身分五處。真言<lb
  n="0562a09" ed="T"/>曰。<lb
  n="0562a10" ed="T"/></ab>
-<ab type="dharani">唵𡁠曩爾俱<lb
+<ab type='dharani'>唵𡁠曩爾俱<lb
  n="0562a11" ed="T"/>唵嚩日囉特哩俱<lb
  n="0562a12" ed="T"/>唵囉怛曩特哩俱<lb
  n="0562a13" ed="T"/>唵阿嚕力俱<lb
  n="0562a14" ed="T"/>唵鉢囉倪也特哩俱<lb
  n="0562a15" ed="T"/></ab>
-<ab type="prose">如是真言等各結本印。安彼弟子五處以作<lb
+<ab type='prose'>如是真言等各結本印。安彼弟子五處以作<lb
  n="0562a16" ed="T"/>甲冑。時阿闍梨以帛覆弟子面。引至壇前誦<lb
  n="0562a17" ed="T"/>此伽陀曰。<lb
  n="0562a18" ed="T"/></ab>
-<ab type="dharani">壹難覩曼拏朗娑囕嚩日囉倪也<lb
+<ab type='dharani'>壹難覩曼拏朗娑囕嚩日囉倪也<lb
  n="0562a19" ed="T"/>那寫鉢囉鉢曩鉢囉吠始覩摩夜<lb
  n="0562a20" ed="T"/>室賒薩哩嚩怛他誐旦補囕<lb
  n="0562a21" ed="T"/></ab>
-<ab type="prose">誦此伽陀已。時令弟子結薩埵金剛印。拋花<lb
+<ab type='prose'>誦此伽陀已。時令弟子結薩埵金剛印。拋花<lb
  n="0562a22" ed="T"/>於曼拏羅中。誦此真言曰。<lb
  n="0562a23" ed="T"/></ab>
-<ab type="dharani">唵鉢囉帝蹉嚩日囉呼<lb
+<ab type='dharani'>唵鉢囉帝蹉嚩日囉呼<lb
  n="0562a24" ed="T"/></ab>
-<ab type="prose">誦此真言已與去除覆面帛。復誦此伽陀曰。<lb
+<ab type='prose'>誦此真言已與去除覆面帛。復誦此伽陀曰。<lb
  n="0562a25" ed="T"/></ab>
-<ab type="dharani">壹難怛怛曼拏羅鉢舍室囉馱昧遨那<lb
+<ab type='dharani'>壹難怛怛曼拏羅鉢舍室囉馱昧遨那<lb
  n="0562a26" ed="T"/>味那左沒馱晚舍酤路半那母捺囉滿怛𡃤囉提瑟致旦三半帝薩<lb
  n="0562a28" ed="T"/>哩嚩悉提曩三摩夜机嚕婆<lb
  n="0562a29" ed="T"/>尾設底嚩日囉鉢訥摩屹囉邏<pb n="0562b" id="T18.0890.0562b" ed="T"/><lb
@@ -305,42 +305,42 @@
  n="0562b02" ed="T"/>阿泥那紇哩那曳那拽舍嚩日囉<lb
  n="0562b03" ed="T"/>鉢旦底<lb
  n="0562b04" ed="T"/></ab>
-<ab type="prose">誦伽陀已令弟子拋花。花落之處當為本尊。<lb
+<ab type='prose'>誦伽陀已令弟子拋花。花落之處當為本尊。<lb
  n="0562b05" ed="T"/>以香花燈塗。衣服幢幡傘蓋印塵等殊妙供<lb
  n="0562b06" ed="T"/>養。復用微妙音樂吉祥偈讚。時阿闍梨先用<lb
  n="0562b07" ed="T"/>最勝閼伽瓶。與弟子灌頂銷除塵垢。後與四<lb
  n="0562b08" ed="T"/>親近閼伽瓶灌頂已復。誦吉祥偈讚告弟子<lb
  n="0562b09" ed="T"/>言。<lb
  n="0562b10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 我今振鈴諸佛前　　諸佛遍滿如芥子　　<lb
  n="0562b11" ed="T"/>諸佛受持閼伽瓶　　施汝灌頂妙法門　　<lb
  n="0562b12" ed="T"/>心曼拏羅真實智　　如是觀想無相法　　<lb
  n="0562b13" ed="T"/>汝今頂受此法門　　永出塵勞生死界　　
 </ab><lb
- n="0562b14" ed="T"/><ab type="prose">時阿闍梨誦此吉祥讚已。示於弟子設邏哥<lb
+ n="0562b14" ed="T"/><ab type='prose'>時阿闍梨誦此吉祥讚已。示於弟子設邏哥<lb
  n="0562b15" ed="T"/>輪螺金剛杵經法。乃至金銀等物。皆為除彼<lb
  n="0562b16" ed="T"/>蓋障。若無設邏哥等物。當結嚕必尼印示與<lb
  n="0562b17" ed="T"/>弟子。然後與三昧法。三昧真言曰。<lb
  n="0562b18" ed="T"/></ab>
-<ab type="dharani">阿󰍕鉢囉勃哩底但網嚩蹉<lb
+<ab type='dharani'>阿𭔞鉢囉勃哩底但網嚩蹉<lb
  n="0562b19" ed="T"/>𡁠尾帝哩馱悉體毘薩那薩<lb
  n="0562b20" ed="T"/>達哩摩󰂛提唧旦左阿左哩也<lb
- n="0562b21" ed="T"/>摩嚩摩󰍕那嚩日囉婆底哩數遨囉藐訥瑟鵮昧帝哩尾囉<lb
- n="0562b23" ed="T"/>誐多鉢囉那󰍕必帝嚩蹉那迦<lb
+ n="0562b21" ed="T"/>摩嚩摩𭔞那嚩日囉婆底哩數遨囉藐訥瑟鵮昧帝哩尾囉<lb
+ n="0562b23" ed="T"/>誐多鉢囉那𭔞必帝嚩蹉那迦<lb
  n="0562b24" ed="T"/>哩也昧羯那左那伊帝那訖哩<lb
  n="0562b25" ed="T"/>帝那吠沒馱那囉哥机嚕播多<lb
  n="0562b26" ed="T"/>野帝帝<lb
  n="0562b27" ed="T"/></ab>
-<ab type="prose">時阿闍梨誦此三昧真言已。勸化弟子令施<lb
+<ab type='prose'>時阿闍梨誦此三昧真言已。勸化弟子令施<lb
  n="0562b28" ed="T"/>財寶以報師恩。或金銀瑠璃摩尼真珠珊瑚<lb
  n="0562b29" ed="T"/>琥珀乃至身命等。復說頌曰。<pb n="0562c" id="T18.0890.0562c" ed="T"/><lb
  n="0562c01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 弟子應當行孝順　　報荷闍梨令歡喜　　<lb
  n="0562c02" ed="T"/>師若歡喜法得成　　此外世間無有尊　　
 </ab><lb
- n="0562c03" ed="T"/><ab type="prose">時弟子聞此頌已。從座而起供養諸佛及阿<lb
+ n="0562c03" ed="T"/><ab type='prose'>時弟子聞此頌已。從座而起供養諸佛及阿<lb
  n="0562c04" ed="T"/>闍梨。然後阿闍梨依法作護摩。其護摩供養<lb
  n="0562c05" ed="T"/>物。持誦觀想法。依息災增益等儀。供養諸佛<lb
  n="0562c06" ed="T"/>賢聖。然後發送賢聖及三世諸佛已。收彼<lb
@@ -348,8 +348,8 @@
  n="0562c08" ed="T"/>瞿摩夷塗之。曼拏羅所用之物。盡施阿闍梨<lb
  n="0562c09" ed="T"/>弟子不得受。若有受者當破三昧。唯阿闍梨<lb
  n="0562c10" ed="T"/>隨意受用。</ab></div><lb
- n="0562c11" ed="T"/><div type="pin" level="2"><head>佛說瑜伽大教王經真言品第三</head><lb
- n="0562c12" ed="T"/><ab type="prose">爾時世尊大遍照金剛如來。復入轉真言輪<lb
+ n="0562c11" ed="T"/><div type='pin' level='2'><head>佛說瑜伽大教王經真言品第三</head><lb
+ n="0562c12" ed="T"/><ab type='prose'>爾時世尊大遍照金剛如來。復入轉真言輪<lb
  n="0562c13" ed="T"/>金剛三摩地。從此三摩地出已。告金剛手大<lb
  n="0562c14" ed="T"/>菩薩言。汝今諦聽。今此真言精妙字。為汝演<lb
  n="0562c15" ed="T"/>說志心受持。時金剛手菩薩。合掌向佛而<lb
@@ -357,189 +357,189 @@
  n="0562c17" ed="T"/>生故。爾時世尊即說大遍照金剛如來根本<lb
  n="0562c18" ed="T"/>真言曰。<lb
  n="0562c19" ed="T"/></ab>
-<ab type="dharani">唵阿<lb
+<ab type='dharani'>唵阿<lb
  n="0562c20" ed="T"/></ab>
-<ab type="prose">復說阿閦如來真言曰。<lb
+<ab type='prose'>復說阿閦如來真言曰。<lb
  n="0562c21" ed="T"/></ab>
-<ab type="dharani">唵吽<lb
+<ab type='dharani'>唵吽<lb
  n="0562c22" ed="T"/></ab>
-<ab type="prose">寶生如來真言曰。<lb
+<ab type='prose'>寶生如來真言曰。<lb
  n="0562c23" ed="T"/></ab>
-<ab type="dharani">唵怛囕<lb
+<ab type='dharani'>唵怛囕<lb
  n="0562c24" ed="T"/></ab>
-<ab type="prose">無量壽如來真言曰。<lb
+<ab type='prose'>無量壽如來真言曰。<lb
  n="0562c25" ed="T"/></ab>
-<ab type="dharani">唵紇唎<lb
+<ab type='dharani'>唵紇唎<lb
  n="0562c26" ed="T"/></ab>
-<ab type="prose">不空成就如來真言曰。<lb
+<ab type='prose'>不空成就如來真言曰。<lb
  n="0562c27" ed="T"/></ab>
-<ab type="dharani">唵亢<lb
+<ab type='dharani'>唵亢<lb
  n="0562c28" ed="T"/></ab>
-<ab type="prose">佛眼菩薩真言曰。<lb
+<ab type='prose'>佛眼菩薩真言曰。<lb
  n="0562c29" ed="T"/></ab>
-<ab type="dharani">唵誐誐那路左儞吽<pb n="0563a" id="T18.0890.0563a" ed="T"/><lb
+<ab type='dharani'>唵誐誐那路左儞吽<pb n="0563a" id="T18.0890.0563a" ed="T"/><lb
  n="0563a01" ed="T"/></ab>
-<ab type="prose">摩摩枳菩薩真言曰。<lb
+<ab type='prose'>摩摩枳菩薩真言曰。<lb
  n="0563a02" ed="T"/></ab>
-<ab type="dharani">唵枳哩枳哩摩摩計吽<lb
+<ab type='dharani'>唵枳哩枳哩摩摩計吽<lb
  n="0563a03" ed="T"/></ab>
-<ab type="prose">白衣菩薩真言曰。<lb
+<ab type='prose'>白衣菩薩真言曰。<lb
  n="0563a04" ed="T"/></ab>
-<ab type="dharani">唵羯致尾羯致儞羯致羯鵮羯致<lb
+<ab type='dharani'>唵羯致尾羯致儞羯致羯鵮羯致<lb
  n="0563a05" ed="T"/>羯嚕吒尾哩曳娑嚩賀<lb
  n="0563a06" ed="T"/></ab>
-<ab type="prose">多羅菩薩真言曰。<lb
+<ab type='prose'>多羅菩薩真言曰。<lb
  n="0563a07" ed="T"/></ab>
-<ab type="dharani">唵多哩咄多哩咄哩娑嚩<lb
+<ab type='dharani'>唵多哩咄多哩咄哩娑嚩<lb
  n="0563a08" ed="T"/>賀<lb
  n="0563a09" ed="T"/></ab>
-<ab type="prose">薩埵金剛菩薩真言曰。<lb
+<ab type='prose'>薩埵金剛菩薩真言曰。<lb
  n="0563a10" ed="T"/></ab>
-<ab type="dharani">唵薩埵嚩日哩吽<lb
+<ab type='dharani'>唵薩埵嚩日哩吽<lb
  n="0563a11" ed="T"/></ab>
-<ab type="prose">寶金剛菩薩真言曰。<lb
+<ab type='prose'>寶金剛菩薩真言曰。<lb
  n="0563a12" ed="T"/></ab>
-<ab type="dharani">唵囉怛曩嚩日哩吽<lb
+<ab type='dharani'>唵囉怛曩嚩日哩吽<lb
  n="0563a13" ed="T"/></ab>
-<ab type="prose">法金剛菩薩真言曰。<lb
+<ab type='prose'>法金剛菩薩真言曰。<lb
  n="0563a14" ed="T"/></ab>
-<ab type="dharani">唵達哩摩嚩日哩吽<lb
+<ab type='dharani'>唵達哩摩嚩日哩吽<lb
  n="0563a15" ed="T"/></ab>
-<ab type="prose">羯磨金剛菩薩真言曰。<lb
+<ab type='prose'>羯磨金剛菩薩真言曰。<lb
  n="0563a16" ed="T"/></ab>
-<ab type="dharani">唵羯哩摩嚩日哩吽<lb
+<ab type='dharani'>唵羯哩摩嚩日哩吽<lb
  n="0563a17" ed="T"/></ab>
-<ab type="prose">尊那菩薩真言曰。<lb
+<ab type='prose'>尊那菩薩真言曰。<lb
  n="0563a18" ed="T"/></ab>
-<ab type="dharani">唵左隸祖隸尊禰娑嚩賀<lb
+<ab type='dharani'>唵左隸祖隸尊禰娑嚩賀<lb
  n="0563a19" ed="T"/></ab>
-<ab type="prose">寶光菩薩真言曰。<lb
+<ab type='prose'>寶光菩薩真言曰。<lb
  n="0563a20" ed="T"/></ab>
-<ab type="dharani">唵囉怛努勒計囉怛曩入嚩<lb
+<ab type='dharani'>唵囉怛努勒計囉怛曩入嚩<lb
  n="0563a21" ed="T"/>哩儞娑嚩賀<lb
  n="0563a22" ed="T"/></ab>
-<ab type="prose">顰眉菩薩真言曰。<lb
+<ab type='prose'>顰眉菩薩真言曰。<lb
  n="0563a23" ed="T"/></ab>
-<ab type="dharani">唵勃哩酤致勃陵<lb
+<ab type='dharani'>唵勃哩酤致勃陵<lb
  n="0563a24" ed="T"/></ab>
-<ab type="prose">金剛鎖菩薩真言曰。<lb
+<ab type='prose'>金剛鎖菩薩真言曰。<lb
  n="0563a25" ed="T"/></ab>
-<ab type="dharani">唵嚩日囉室哩朅里吽發吒娑嚩賀<lb
+<ab type='dharani'>唵嚩日囉室哩朅里吽發吒娑嚩賀<lb
  n="0563a27" ed="T"/></ab>
-<ab type="prose">慈氏菩薩真言曰。<lb
+<ab type='prose'>慈氏菩薩真言曰。<lb
  n="0563a28" ed="T"/></ab>
-<ab type="dharani">唵昧<lb
+<ab type='dharani'>唵昧<lb
  n="0563a29" ed="T"/></ab>
-<ab type="prose">妙吉祥菩薩真言曰。<pb n="0563b" id="T18.0890.0563b" ed="T"/><lb
+<ab type='prose'>妙吉祥菩薩真言曰。<pb n="0563b" id="T18.0890.0563b" ed="T"/><lb
  n="0563b01" ed="T"/></ab>
-<ab type="dharani">唵蒙<lb
+<ab type='dharani'>唵蒙<lb
  n="0563b02" ed="T"/></ab>
-<ab type="prose">普賢菩薩真言曰。<lb
+<ab type='prose'>普賢菩薩真言曰。<lb
  n="0563b03" ed="T"/></ab>
-<ab type="dharani">唵三滿多跋捺囉吽<lb
+<ab type='dharani'>唵三滿多跋捺囉吽<lb
  n="0563b04" ed="T"/></ab>
-<ab type="prose">香象菩薩真言曰。<lb
+<ab type='prose'>香象菩薩真言曰。<lb
  n="0563b05" ed="T"/></ab>
-<ab type="dharani">唵巘馱賀悉帝儞吽<lb
+<ab type='dharani'>唵巘馱賀悉帝儞吽<lb
  n="0563b06" ed="T"/></ab>
-<ab type="prose">智幢菩薩真言曰。<lb
+<ab type='prose'>智幢菩薩真言曰。<lb
  n="0563b07" ed="T"/></ab>
-<ab type="dharani">唵倪也那計覩倪也那摩底吽<lb
+<ab type='dharani'>唵倪也那計覩倪也那摩底吽<lb
  n="0563b08" ed="T"/><lb
  n="0563b09" ed="T"/></ab>
-<ab type="prose">賢護菩薩真言曰。<lb
+<ab type='prose'>賢護菩薩真言曰。<lb
  n="0563b10" ed="T"/></ab>
-<ab type="dharani">唵跋捺囉嚩底跋捺囉播羅吽<lb
+<ab type='dharani'>唵跋捺囉嚩底跋捺囉播羅吽<lb
  n="0563b11" ed="T"/><lb
  n="0563b12" ed="T"/></ab>
-<ab type="prose">海意菩薩真言曰。<lb
+<ab type='prose'>海意菩薩真言曰。<lb
  n="0563b13" ed="T"/></ab>
-<ab type="dharani">唵娑誐哩摩賀娑誐哩吽<lb
+<ab type='dharani'>唵娑誐哩摩賀娑誐哩吽<lb
  n="0563b14" ed="T"/></ab>
-<ab type="prose">無盡意菩薩真言曰。<lb
+<ab type='prose'>無盡意菩薩真言曰。<lb
  n="0563b15" ed="T"/></ab>
-<ab type="dharani">唵惡叉曳吽吽惡叉野羯哩摩<lb
+<ab type='dharani'>唵惡叉曳吽吽惡叉野羯哩摩<lb
  n="0563b16" ed="T"/>嚩囉拏尾輸達儞娑嚩賀<lb
  n="0563b17" ed="T"/></ab>
-<ab type="prose">辯積菩薩真言曰。<lb
+<ab type='prose'>辯積菩薩真言曰。<lb
  n="0563b18" ed="T"/></ab>
-<ab type="dharani">唵鉢囉底婆儞鉢囉底婆那<lb
+<ab type='dharani'>唵鉢囉底婆儞鉢囉底婆那<lb
  n="0563b19" ed="T"/>酤致吽<lb
  n="0563b20" ed="T"/></ab>
-<ab type="prose">得大勢至菩薩真言曰。<lb
+<ab type='prose'>得大勢至菩薩真言曰。<lb
  n="0563b21" ed="T"/></ab>
-<ab type="dharani">唵娑他弭摩賀娑他弭娑<lb
+<ab type='dharani'>唵娑他弭摩賀娑他弭娑<lb
  n="0563b22" ed="T"/>他摩嚩底娑嚩賀<lb
  n="0563b23" ed="T"/></ab>
-<ab type="prose">除一切罪障菩薩真言曰。<lb
+<ab type='prose'>除一切罪障菩薩真言曰。<lb
  n="0563b24" ed="T"/></ab>
-<ab type="dharani">唵薩哩嚩播野惹呬薩哩嚩播野輸馱儞吽<lb
+<ab type='dharani'>唵薩哩嚩播野惹呬薩哩嚩播野輸馱儞吽<lb
  n="0563b26" ed="T"/></ab>
-<ab type="prose">破一切憂闇菩薩真言曰。<lb
+<ab type='prose'>破一切憂闇菩薩真言曰。<lb
  n="0563b27" ed="T"/></ab>
-<ab type="dharani">唵薩哩嚩輸哥怛謨儞哩伽怛<lb
+<ab type='dharani'>唵薩哩嚩輸哥怛謨儞哩伽怛<lb
  n="0563b28" ed="T"/>那末底吽<lb
  n="0563b29" ed="T"/></ab>
-<ab type="prose">熾盛光菩薩真言曰。<pb n="0563c" id="T18.0890.0563c" ed="T"/><lb
+<ab type='prose'>熾盛光菩薩真言曰。<pb n="0563c" id="T18.0890.0563c" ed="T"/><lb
  n="0563c01" ed="T"/></ab>
-<ab type="dharani">唵惹里儞摩賀惹里儞吽<lb
+<ab type='dharani'>唵惹里儞摩賀惹里儞吽<lb
  n="0563c02" ed="T"/></ab>
-<ab type="prose">善財菩薩真言曰。<lb
+<ab type='prose'>善財菩薩真言曰。<lb
  n="0563c03" ed="T"/></ab>
-<ab type="dharani">唵酥達那室哩野吽<lb
+<ab type='dharani'>唵酥達那室哩野吽<lb
  n="0563c04" ed="T"/></ab>
-<ab type="prose">月光菩薩真言曰。<lb
+<ab type='prose'>月光菩薩真言曰。<lb
  n="0563c05" ed="T"/></ab>
-<ab type="dharani">唵贊捺哩酥贊捺哩贊捺囉咩<lb
+<ab type='dharani'>唵贊捺哩酥贊捺哩贊捺囉咩<lb
  n="0563c06" ed="T"/>嚩嚕吉帝娑嚩賀<lb
  n="0563c07" ed="T"/></ab>
-<ab type="prose">甘露光菩薩真言曰。<lb
+<ab type='prose'>甘露光菩薩真言曰。<lb
  n="0563c08" ed="T"/></ab>
-<ab type="dharani">唵阿弭多鉢囉毘阿弭多末底吽<lb
+<ab type='dharani'>唵阿弭多鉢囉毘阿弭多末底吽<lb
  n="0563c10" ed="T"/></ab>
-<ab type="prose">虛空藏菩薩真言曰。<lb
+<ab type='prose'>虛空藏菩薩真言曰。<lb
  n="0563c11" ed="T"/></ab>
-<ab type="dharani">唵誐誐儞誐誐那嚩囉嚕左儞吽<lb
+<ab type='dharani'>唵誐誐儞誐誐那嚩囉嚕左儞吽<lb
  n="0563c12" ed="T"/></ab>
-<ab type="prose">除蓋障菩薩真言曰。<lb
+<ab type='prose'>除蓋障菩薩真言曰。<lb
  n="0563c13" ed="T"/></ab>
-<ab type="dharani">唵薩哩嚩儞嚩囉拏尾瑟剛鼻<lb
+<ab type='dharani'>唵薩哩嚩儞嚩囉拏尾瑟剛鼻<lb
  n="0563c14" ed="T"/>尼吽<lb
  n="0563c15" ed="T"/></ab>
-<ab type="prose">復說焰鬘得迦明王真言曰。<lb
+<ab type='prose'>復說焰鬘得迦明王真言曰。<lb
  n="0563c16" ed="T"/></ab>
-<ab type="dharani">唵焰鬘得迦吽<lb
+<ab type='dharani'>唵焰鬘得迦吽<lb
  n="0563c17" ed="T"/></ab>
-<ab type="prose">鉢囉研得迦明王真言曰。<lb
+<ab type='prose'>鉢囉研得迦明王真言曰。<lb
  n="0563c18" ed="T"/></ab>
-<ab type="dharani">唵鉢囉研得迦吽<lb
+<ab type='dharani'>唵鉢囉研得迦吽<lb
  n="0563c19" ed="T"/></ab>
-<ab type="prose">鉢訥鬘得迦明王真言曰。<lb
+<ab type='prose'>鉢訥鬘得迦明王真言曰。<lb
  n="0563c20" ed="T"/></ab>
-<ab type="dharani">唵鉢訥鬘得迦吽<lb
+<ab type='dharani'>唵鉢訥鬘得迦吽<lb
  n="0563c21" ed="T"/></ab>
-<ab type="prose">尾覲難得迦明王真言曰。<lb
+<ab type='prose'>尾覲難得迦明王真言曰。<lb
  n="0563c22" ed="T"/></ab>
-<ab type="dharani">唵阿密哩多軍拏里尾覲難得<lb
+<ab type='dharani'>唵阿密哩多軍拏里尾覲難得<lb
  n="0563c23" ed="T"/>迦吽<lb
  n="0563c24" ed="T"/></ab>
-<ab type="prose">不動尊明王真言曰。<lb
+<ab type='prose'>不動尊明王真言曰。<lb
  n="0563c25" ed="T"/></ab>
-<ab type="dharani">唵阿左羅吽賀<lb
+<ab type='dharani'>唵阿左羅吽賀<lb
  n="0563c26" ed="T"/></ab>
-<ab type="prose">吒枳明王真言曰。<lb
+<ab type='prose'>吒枳明王真言曰。<lb
  n="0563c27" ed="T"/></ab>
-<ab type="dharani">唵吒枳吽𠺁<lb
+<ab type='dharani'>唵吒枳吽𠺁<lb
  n="0563c28" ed="T"/></ab>
-<ab type="prose">儞羅難拏明王真言曰。<lb
+<ab type='prose'>儞羅難拏明王真言曰。<lb
  n="0563c29" ed="T"/></ab>
-<ab type="dharani">唵儞羅難拏摩賀難拏吽<pb n="0564a" id="T18.0890.0564a" ed="T"/><lb
+<ab type='dharani'>唵儞羅難拏摩賀難拏吽<pb n="0564a" id="T18.0890.0564a" ed="T"/><lb
  n="0564a01" ed="T"/></ab>
-<ab type="prose">大力明王真言曰。<lb
+<ab type='prose'>大力明王真言曰。<lb
  n="0564a02" ed="T"/></ab>
-<ab type="dharani">唵骨嚕馱那吽𠺁<lb
+<ab type='dharani'>唵骨嚕馱那吽𠺁<lb
  n="0564a03" ed="T"/></ab>
-<ab type="prose">如是等諸大菩薩及大明王精妙字真言。安<lb
+<ab type='prose'>如是等諸大菩薩及大明王精妙字真言。安<lb
  n="0564a04" ed="T"/>曼拏羅中。如是所說無數俱胝精妙字等。從<lb
  n="0564a05" ed="T"/>三摩地生。時阿闍梨依法觀想已。用金剛鉤<lb
  n="0564a06" ed="T"/>印請召諸佛如來。用金剛印請召諸菩薩及<lb
@@ -547,17 +547,17 @@
  n="0564a08" ed="T"/>召諸唧吒唧致。用結鉤印請召訥多訥帝等。<lb
  n="0564a09" ed="T"/>此是瑜伽大教王請召儀則。</ab></div><lb
  n="0564a10" ed="T"/>
-<ab type="juan" subtype="close">佛說瑜伽大教王經卷第一</ab><lb
+<ab type='juan' subtype='close'>佛說瑜伽大教王經卷第一</ab><lb
  n="0564a11" ed="T"/><lb
  n="0564a12" ed="T"/><lb
  n="0564a13" ed="T"/><lb
  n="0564a14" ed="T"/>
-<ab type="juan" subtype="open">佛說瑜伽大教王經卷第二</ab><lb
+<ab type='juan' subtype='open'>佛說瑜伽大教王經卷第二</ab><lb
  n="0564a15" ed="T"/><lb
  n="0564a16" ed="T"/><byline>西天譯經三藏朝散大夫試光祿卿<lb
  n="0564a17" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
- n="0564a18" ed="T"/><div type="pin" level="2"><head>三摩地品第四</head><lb
- n="0564a19" ed="T"/><ab type="prose">爾時世尊大遍照金剛如來。入大智力變化<lb
+ n="0564a18" ed="T"/><div type='pin' level='2'><head>三摩地品第四</head><lb
+ n="0564a19" ed="T"/><ab type='prose'>爾時世尊大遍照金剛如來。入大智力變化<lb
  n="0564a20" ed="T"/>圓滿三摩地。從定出已。告金剛手大菩薩言。<lb
  n="0564a21" ed="T"/>汝今諦聽。我今為汝說一切真言祕密三摩<lb
  n="0564a22" ed="T"/>地法。所為持明者於曼拏羅畢竟了知。粉畫<lb
@@ -942,24 +942,24 @@
  n="0568b24" ed="T"/>眾生故。不久證大菩提。此名除滅一切惡觀<lb
  n="0568b25" ed="T"/>察佛剎最勝金剛三摩地。</ab></div><lb
  n="0568b26" ed="T"/>
-<ab type="juan" subtype="close">佛說瑜伽大教王經卷第二</ab><pb n="0568c" id="T18.0890.0568c" ed="T"/><lb
+<ab type='juan' subtype='close'>佛說瑜伽大教王經卷第二</ab><pb n="0568c" id="T18.0890.0568c" ed="T"/><lb
  n="0568c01" ed="T"/><lb
  n="0568c02" ed="T"/><lb
  n="0568c03" ed="T"/>
-<ab type="juan" subtype="open">佛說瑜伽大教王經卷第三</ab><lb
+<ab type='juan' subtype='open'>佛說瑜伽大教王經卷第三</ab><lb
  n="0568c04" ed="T"/><lb
  n="0568c05" ed="T"/><byline>西天譯經三藏朝散大夫試光祿卿<lb
  n="0568c06" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
- n="0568c07" ed="T"/><div type="pin" level="2"><head>真言大智變化品第五</head><lb
- n="0568c08" ed="T"/><ab type="prose">爾時世尊大遍照金剛如來。觀察一切如來<lb
+ n="0568c07" ed="T"/><div type='pin' level='2'><head>真言大智變化品第五</head><lb
+ n="0568c08" ed="T"/><ab type='prose'>爾時世尊大遍照金剛如來。觀察一切如來<lb
  n="0568c09" ed="T"/>已。入寂靜無塵最勝金剛三摩地。於此三摩<lb
  n="0568c10" ed="T"/>地出已。從金剛三昧。說一切如來母佛眼大<lb
  n="0568c11" ed="T"/>菩薩真言曰。<lb
  n="0568c12" ed="T"/></ab>
-<ab type="dharani">唵婆誐嚩底嚕嚕塞普嚕入嚩羅底瑟吒悉駄嚕左儞薩哩嚩<lb
+<ab type='dharani'>唵婆誐嚩底嚕嚕塞普嚕入嚩羅底瑟吒悉駄嚕左儞薩哩嚩<lb
  n="0568c14" ed="T"/>囉他娑達儞娑嚩賀<lb
  n="0568c15" ed="T"/></ab>
-<ab type="prose">爾時諸佛如來及十地滿心大菩薩眾。聞此<lb
+<ab type='prose'>爾時諸佛如來及十地滿心大菩薩眾。聞此<lb
  n="0568c16" ed="T"/>真言已悉皆歡喜。一切魔軍驚怖迷悶。唯念<lb
  n="0568c17" ed="T"/>大遍照金剛如來。今此真言具足大智。若有<lb
  n="0568c18" ed="T"/>持誦之者能作種種成就事。乃至死者使令<lb
@@ -968,38 +968,38 @@
  n="0568c21" ed="T"/>摩地。從定出已。說諸佛母摩摩枳菩薩真言<lb
  n="0568c22" ed="T"/>曰。<lb
  n="0568c23" ed="T"/></ab>
-<ab type="dharani">唵商羯哩扇底羯哩崛吒崛吒<lb
+<ab type='dharani'>唵商羯哩扇底羯哩崛吒崛吒<lb
  n="0568c24" ed="T"/>崛致儞崛致儞哩伽多野哩伽多野<lb
  n="0568c25" ed="T"/>崛致儞娑嚩賀<lb
  n="0568c26" ed="T"/></ab>
-<ab type="prose">爾時諸佛如來聞此佛母真言已。皆大歡喜。<lb
+<ab type='prose'>爾時諸佛如來聞此佛母真言已。皆大歡喜。<lb
  n="0568c27" ed="T"/>唯念心金剛如來。此真言能成就一切息災<lb
  n="0568c28" ed="T"/>增益等法。能作擁護乃至能滅一切罪障。<lb
  n="0568c29" ed="T"/>爾時世尊復入大樂無邊蓮花三金剛心變<pb n="0569a" id="T18.0890.0569a" ed="T"/><lb
  n="0569a01" ed="T"/>化三昧金剛三摩地。於定出已。從三金剛。說<lb
  n="0569a02" ed="T"/>諸法母白衣菩薩真言曰。<lb
  n="0569a03" ed="T"/></ab>
-<ab type="dharani">唵羯致尾羯致儞羯致羯𪅎羯<lb
+<ab type='dharani'>唵羯致尾羯致儞羯致羯𪅎羯<lb
  n="0569a04" ed="T"/>致羯嚕吒微哩曳娑嚩賀<lb
  n="0569a05" ed="T"/></ab>
-<ab type="prose">爾時諸佛如來聞此真言已。悉皆出定唯念<lb
+<ab type='prose'>爾時諸佛如來聞此真言已。悉皆出定唯念<lb
  n="0569a06" ed="T"/>心金剛如來。若人持誦觀想。能作一切事能<lb
  n="0569a07" ed="T"/>善擁護。乃至增長微妙法藏。<lb
  n="0569a08" ed="T"/>爾時世尊復入覺悟諸天平等三金剛大樂金<lb
  n="0569a09" ed="T"/>剛三摩地。從定出已。說諸佛母大智多羅菩<lb
  n="0569a10" ed="T"/>薩真言曰。<lb
  n="0569a11" ed="T"/></ab>
-<ab type="dharani">唵多哩咄多哩咄哩娑嚩<lb
+<ab type='dharani'>唵多哩咄多哩咄哩娑嚩<lb
  n="0569a12" ed="T"/>賀<lb
  n="0569a13" ed="T"/></ab>
-<ab type="prose">爾時諸佛及諸菩薩。聞此真言皆大歡喜。唯<lb
+<ab type='prose'>爾時諸佛及諸菩薩。聞此真言皆大歡喜。唯<lb
  n="0569a14" ed="T"/>念大遍照金剛如來。若人持誦此菩薩真言。<lb
  n="0569a15" ed="T"/>能令世間一切有情而為僕從。<lb
  n="0569a16" ed="T"/>爾時世尊復入一切如來最上智三摩地。於<lb
  n="0569a17" ed="T"/>定出已。從三金剛。說此焰鬘得迦大忿怒明<lb
  n="0569a18" ed="T"/>王真言曰。<lb
  n="0569a19" ed="T"/></ab>
-<ab type="dharani">那莫悉底哩嚩日囉𧹞唵朅朅<lb
+<ab type='dharani'>那莫悉底哩嚩日囉𧹞唵朅朅<lb
  n="0569a20" ed="T"/>佉呬佉呬薩哩嚩訥瑟吒薩埵<lb
  n="0569a21" ed="T"/>那摩迦遏西母娑羅鉢囉輸播舍賀悉<lb
  n="0569a22" ed="T"/>多拶覩哩部惹拶覩哩目珂<lb
@@ -1012,7 +1012,7 @@
  n="0569b01" ed="T"/>哩嚩滿怛囉頻那頻那鉢囉母<lb
  n="0569b02" ed="T"/>捺囉阿羯哩沙野阿羯哩<lb
  n="0569b03" ed="T"/>沙野薩哩嚩部旦儞哩摩<lb
- n="0569b04" ed="T"/>他儞哩摩他薩哩嚩訥瑟吒鉢囉吠舍野鉢囉吠舍野曼拏羅末󰲸吠嚩莎多𡁠尾旦<lb
+ n="0569b04" ed="T"/>他儞哩摩他薩哩嚩訥瑟吒鉢囉吠舍野鉢囉吠舍野曼拏羅末𬽛吠嚩莎多𡁠尾旦<lb
  n="0569b07" ed="T"/>多羯囉酤嚕酤嚕摩摩阿迦哩焬<lb
  n="0569b08" ed="T"/>賀那賀那捺賀捺賀鉢左鉢左<lb
  n="0569b09" ed="T"/>摩尾藍末野摩尾藍末野摩摩三<lb
@@ -1020,7 +1020,7 @@
  n="0569b11" ed="T"/>發吒塞怖吒野塞怖吒野薩哩嚩賒波哩布囉哥呬呬<lb
  n="0569b13" ed="T"/>婆誐鑁緊唧囉野西摩摩薩哩嚩哩湯娑達野娑嚩賀<lb
  n="0569b15" ed="T"/></ab>
-<ab type="prose">爾時一切諸佛及十地菩薩。聞此大智種變<lb
+<ab type='prose'>爾時一切諸佛及十地菩薩。聞此大智種變<lb
  n="0569b16" ed="T"/>化明王真言已。歎未曾有。唯念大遍照金剛<lb
  n="0569b17" ed="T"/>如來。此出世大智神通變化焰鬘得迦忿怒<lb
  n="0569b18" ed="T"/>明王。能降伏大惡眾生。若持誦人欲作降伏<lb
@@ -1034,7 +1034,7 @@
  n="0569b26" ed="T"/>勝金剛甘露忿怒金剛三摩地。出此定已。從<lb
  n="0569b27" ed="T"/>三金剛。說尾覲難得迦大忿怒明王真言曰。<pb n="0569c" id="T18.0890.0569c" ed="T"/><lb
  n="0569c01" ed="T"/></ab>
-<ab type="dharani">那莫三滿多沒馱曩那謨嚩日囉骨<lb
+<ab type='dharani'>那莫三滿多沒馱曩那謨嚩日囉骨<lb
  n="0569c02" ed="T"/>嚕駄野摩訶能瑟吒嚕咄羯吒陪囉嚩野遏西母娑羅鉢囉輪播<lb
  n="0569c04" ed="T"/>舍賀娑多野唵阿蜜哩多軍拏<lb
  n="0569c05" ed="T"/>里朅朅佉呬佉呬底瑟吒底瑟吒<lb
@@ -1044,7 +1044,7 @@
  n="0569c09" ed="T"/>賀誐拏鉢底𡁠尾旦多羯囉野<lb
  n="0569c10" ed="T"/>吽發吒娑嚩賀<lb
  n="0569c11" ed="T"/></ab>
-<ab type="prose">爾時一切諸佛及大菩薩。聞此大忿怒明王<lb
+<ab type='prose'>爾時一切諸佛及大菩薩。聞此大忿怒明王<lb
  n="0569c12" ed="T"/>真言已。歎未曾有。一切魔眾悉皆驚怖。唯念<lb
  n="0569c13" ed="T"/>大遍照金剛如來。<lb
  n="0569c14" ed="T"/>若持誦人欲作發遣諸惡魔法者。當取旋風<lb
@@ -1055,10 +1055,10 @@
  n="0569c19" ed="T"/>金剛三摩地。出此定已。從三金剛說。鉢囉研<lb
  n="0569c20" ed="T"/>得迦忿怒明王真言曰。<lb
  n="0569c21" ed="T"/></ab>
-<ab type="dharani">那莫三滿多沒馱曩唵𡁠那哩徵<lb
+<ab type='dharani'>那莫三滿多沒馱曩唵𡁠那哩徵<lb
  n="0569c22" ed="T"/>吒吽吽發吒娑嚩賀<lb
  n="0569c23" ed="T"/></ab>
-<ab type="prose">爾時諸佛及諸菩薩。聞此明王真言已。歎未<lb
+<ab type='prose'>爾時諸佛及諸菩薩。聞此明王真言已。歎未<lb
  n="0569c24" ed="T"/>曾有。唯念大遍照金剛如來。若人於此真言<lb
  n="0569c25" ed="T"/>依法持誦。能降伏夜叉羅剎緊那羅部多娑<lb
  n="0569c26" ed="T"/>健馱及宿曜等。<lb
@@ -1066,7 +1066,7 @@
  n="0569c28" ed="T"/>出此定已。從三金剛。說鉢訥鬘得迦忿怒明<pb n="0570a" id="T18.0890.0570a" ed="T"/><lb
  n="0570a01" ed="T"/>王真言曰。<lb
  n="0570a02" ed="T"/></ab>
-<ab type="dharani">那莫三滿多沒馱曩唵吽吽吽跢嚕羅尾嚕羅薩哩嚩尾沙伽<lb
+<ab type='dharani'>那莫三滿多沒馱曩唵吽吽吽跢嚕羅尾嚕羅薩哩嚩尾沙伽<lb
  n="0570a04" ed="T"/>怛哥入嚩里多尾塞普陵誐遏吒<lb
  n="0570a05" ed="T"/>吒賀娑計薩哩薩吒跓波嚩日囉<lb
  n="0570a06" ed="T"/>窟囉儞哩伽多左里多嚩酥馱怛<lb
@@ -1091,7 +1091,7 @@
  n="0570b05" ed="T"/>娑那羯囉野發吒吽吽吽發<lb
  n="0570b06" ed="T"/>吒發吒發吒<lb
  n="0570b07" ed="T"/></ab>
-<ab type="prose">爾時一切大眾聞此明王真言已。皆大怖畏。<lb
+<ab type='prose'>爾時一切大眾聞此明王真言已。皆大怖畏。<lb
  n="0570b08" ed="T"/>唯念大遍照金剛如來。持誦人欲解除一切<lb
  n="0570b09" ed="T"/>毒者當依法想自手掌內有蓮華。復想蓮花<lb
  n="0570b10" ed="T"/>中生於㰠字光明照曜。依忿怒明王三摩地<lb
@@ -1100,7 +1100,7 @@
  n="0570b13" ed="T"/>地。出此定已。從三金剛。說儞羅難拏大忿怒<lb
  n="0570b14" ed="T"/>明王真言曰。<lb
  n="0570b15" ed="T"/></ab>
-<ab type="dharani">那莫三滿多沒馱曩唵伊係曳呬<lb
+<ab type='dharani'>那莫三滿多沒馱曩唵伊係曳呬<lb
  n="0570b16" ed="T"/>婆誐鑁嚩日囉儞羅難拏覩嚕覩<lb
  n="0570b17" ed="T"/>嚕羅虎羅虎賀賀仵魯仵魯仵邏<lb
  n="0570b18" ed="T"/>波野仵邏波野訖囉摩訖囉摩<lb
@@ -1110,12 +1110,12 @@
  n="0570b23" ed="T"/>末吒鉢野薩哩嚩羯哩摩尼<lb
  n="0570b24" ed="T"/>親那親那頻那頻那薄叉薄叉彌<lb
  n="0570b25" ed="T"/>那末寫嚕提囉末寫彌那末惹嚕提囉必哩野伊係曳呬婆誐<lb
- n="0570b27" ed="T"/>鑁薩哩嚩尾覲那儞薩哩嚩尾󰍕儞薩哩嚩滿怛囉尼薩哩嚩謨羅羯哩摩尼薩哩嚩謨羅仡囉賀賀那賀那伴惹伴<lb
+ n="0570b27" ed="T"/>鑁薩哩嚩尾覲那儞薩哩嚩尾𭔞儞薩哩嚩滿怛囉尼薩哩嚩謨羅羯哩摩尼薩哩嚩謨羅仡囉賀賀那賀那伴惹伴<lb
  n="0570c04" ed="T"/>惹摩哩那摩哩那壹難彌迦哩煬<lb
  n="0570c05" ed="T"/>娑達野吽儞邏野儞羅嚩<lb
  n="0570c06" ed="T"/>日囉難拏野覩嚕覩嚕尾覲那尾那野剛那設迦野虎嚕虎<lb
  n="0570c08" ed="T"/>嚕禰鉢多贊拏野薩哩嚩<lb
- n="0570c09" ed="T"/>設咄嚕𧹞紇哩那夜儞賓拏野親那親那尾󰍕那砌那哥吽尾󰍕襄室瑟吒羯哩摩三摩<lb
+ n="0570c09" ed="T"/>設咄嚕𧹞紇哩那夜儞賓拏野親那親那尾𭔞那砌那哥吽尾𭔞襄室瑟吒羯哩摩三摩<lb
  n="0570c12" ed="T"/>囉三摩煬嚩日囉達囉嚩左曩<lb
  n="0570c13" ed="T"/>摩哩摩尾儞訖哩怛野吽吽<lb
  n="0570c14" ed="T"/>賀那賀那那賀那賀覩嚕覩嚕酤<lb
@@ -1123,7 +1123,7 @@
  n="0570c17" ed="T"/>囉鉢迦野賀那賀那嚩日囉<lb
  n="0570c18" ed="T"/>難尼那娑嚩賀<lb
  n="0570c19" ed="T"/></ab>
-<ab type="prose">爾時世尊說此大忿怒明王真言已。所有一<lb
+<ab type='prose'>爾時世尊說此大忿怒明王真言已。所有一<lb
  n="0570c20" ed="T"/>切佛剎悉皆震動。一切魔眾悉皆驚怖。唯念<lb
  n="0570c21" ed="T"/>大遍照金剛如來。若持誦人欲除諸魔者。當<lb
  n="0570c22" ed="T"/>依法誦此真言八百遍及結本印。能除一切<lb
@@ -1132,22 +1132,22 @@
  n="0570c25" ed="T"/>裝嚴金剛三摩地。出此定已。從三金剛。說<lb
  n="0570c26" ed="T"/>大力忿怒明王真言曰。<lb
  n="0570c27" ed="T"/></ab>
-<ab type="dharani">那莫三滿多沒馱曩唵吽吽吽<pb n="0571a" id="T18.0890.0571a" ed="T"/><lb
+<ab type='dharani'>那莫三滿多沒馱曩唵吽吽吽<pb n="0571a" id="T18.0890.0571a" ed="T"/><lb
  n="0571a01" ed="T"/>發吒發吒發吒唵唵沃仡囉<lb
  n="0571a02" ed="T"/>輸羅播尼吽吽發吒發吒唵𡁠踰底儞哩那那吽吽<lb
  n="0571a04" ed="T"/>吽發吒發吒發吒摩賀末邏<lb
  n="0571a05" ed="T"/>野娑嚩賀<lb
  n="0571a06" ed="T"/></ab>
-<ab type="prose">爾時一切魔眾聞此大力忿怒明王真言已。<lb
+<ab type='prose'>爾時一切魔眾聞此大力忿怒明王真言已。<lb
  n="0571a07" ed="T"/>皆大驚怖。唯念大遍照金剛如來。若復有人<lb
  n="0571a08" ed="T"/>於此真言印相依法持誦者。是人能作一切<lb
  n="0571a09" ed="T"/>成就法。及能降雨亦能止雨。<lb
  n="0571a10" ed="T"/>爾時世尊復入普遍熾盛金剛三摩地。出此<lb
  n="0571a11" ed="T"/>定已。從三金剛。說吒枳忿怒明王真言曰。<lb
  n="0571a12" ed="T"/></ab>
-<ab type="dharani">那莫三滿多沒馱曩唵吒枳吽𠺁<lb
+<ab type='dharani'>那莫三滿多沒馱曩唵吒枳吽𠺁<lb
  n="0571a13" ed="T"/></ab>
-<ab type="prose">爾時一切諸佛及諸菩薩。聞此明王真言已。<lb
+<ab type='prose'>爾時一切諸佛及諸菩薩。聞此明王真言已。<lb
  n="0571a14" ed="T"/>歎未曾有。一切魔眾悉皆驚怖迷悶躄地。若<lb
  n="0571a15" ed="T"/>持誦人欲作降伏法者。當依羯磨法作魔形<lb
  n="0571a16" ed="T"/>像以足踏之。現忿怒相當結本印誦此真言。<lb
@@ -1156,7 +1156,7 @@
  n="0571a19" ed="T"/>地。出此定已。從三金剛。說不動尊大忿怒明<lb
  n="0571a20" ed="T"/>王真言曰。<lb
  n="0571a21" ed="T"/></ab>
-<ab type="dharani">那莫三滿多沒馱曩唵阿左羅際吒<lb
+<ab type='dharani'>那莫三滿多沒馱曩唵阿左羅際吒<lb
  n="0571a22" ed="T"/>哥拏拏拏吒拏吒謨吒謨吒末<lb
  n="0571a23" ed="T"/>吒末吒怛吒怛吒底瑟吒底瑟吒<lb
  n="0571a24" ed="T"/>阿尾設阿尾設摩賀滿多波羅度<lb
@@ -1175,7 +1175,7 @@
  n="0571b08" ed="T"/>入嚩邏野怛囉吒阿薩賀那莫娑<lb
  n="0571b09" ed="T"/>嚩賀<lb
  n="0571b10" ed="T"/></ab>
-<ab type="prose">爾時一切天龍夜叉乾闥婆阿修羅迦樓羅緊<lb
+<ab type='prose'>爾時一切天龍夜叉乾闥婆阿修羅迦樓羅緊<lb
  n="0571b11" ed="T"/>那羅摩睺羅伽及諸魔軍等。悉皆驚怖迷悶<lb
  n="0571b12" ed="T"/>躄地。身如火燃受大苦惱。唯念大遍照金剛<lb
  n="0571b13" ed="T"/>如來。若人依法持誦此明王真言。能鉤召諸<lb
@@ -1185,12 +1185,12 @@
  n="0571b17" ed="T"/>金剛三摩地。出此定已。說降伏三界忿怒明<lb
  n="0571b18" ed="T"/>王真言曰。<lb
  n="0571b19" ed="T"/></ab>
-<ab type="dharani">唵遜婆儞遜婆吽仡哩賀拏仡<lb
+<ab type='dharani'>唵遜婆儞遜婆吽仡哩賀拏仡<lb
  n="0571b20" ed="T"/>哩賀拏吽仡哩賀拏播野<lb
  n="0571b21" ed="T"/>仡哩賀拏播野吽阿那野呼婆<lb
- n="0571b22" ed="T"/>誐鑁尾󰍕囉惹吽發吒<lb
+ n="0571b22" ed="T"/>誐鑁尾𭔞囉惹吽發吒<lb
  n="0571b23" ed="T"/></ab>
-<ab type="prose">爾時一切天人聞此明王真言已。心生驚怖<lb
+<ab type='prose'>爾時一切天人聞此明王真言已。心生驚怖<lb
  n="0571b24" ed="T"/>迷悶躄地。唯念大遍照金剛如來。若人依法<lb
  n="0571b25" ed="T"/>持誦此明王真言。及觀想羂索金剛鉤。能鉤<lb
  n="0571b26" ed="T"/>一切天女。此法於鉤召法中最上最尊。<lb
@@ -1217,16 +1217,16 @@
  n="0571c18" ed="T"/>持誦鉤召之法終不得成。若依此教法持誦<lb
  n="0571c19" ed="T"/>者。所欲之事必得成就。而說頌曰。<lb
  n="0571c20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 金剛薩埵大菩薩　　善能圓滿金剛心　　<lb
  n="0571c21" ed="T"/>依法持誦若相續　　所作之事皆成就　　
 </ab><lb
- n="0571c22" ed="T"/><ab type="prose">爾時世尊復入大智變化金剛三摩地。出此<lb
+ n="0571c22" ed="T"/><ab type='prose'>爾時世尊復入大智變化金剛三摩地。出此<lb
  n="0571c23" ed="T"/>定已。從三金剛。說大忿怒金剛菩薩真言曰。<lb
  n="0571c24" ed="T"/></ab>
-<ab type="dharani">唵輸里儞娑嚩賀<lb
+<ab type='dharani'>唵輸里儞娑嚩賀<lb
  n="0571c25" ed="T"/></ab>
-<ab type="prose">爾時一切龍女聞此真言已。悉皆驚怖身如<lb
+<ab type='prose'>爾時一切龍女聞此真言已。悉皆驚怖身如<lb
  n="0571c26" ed="T"/>火燃。唯念大遍照金剛如來。此大菩薩真言。<lb
  n="0571c27" ed="T"/>若依法觀想持誦。能鉤一切龍及諸龍女。端<lb
  n="0571c28" ed="T"/>正裝嚴悉來現前。<lb
@@ -1234,11 +1234,11 @@
  n="0572a01" ed="T"/>摩地。出此定已。從三金剛。說大尊那菩薩真<lb
  n="0572a02" ed="T"/>言曰。<lb
  n="0572a03" ed="T"/></ab>
-<ab type="dharani">那莫颯鉢多曩三藐訖三沒馱<lb
- n="0572a04" ed="T"/>酤致曩怛󰍕他唵左隷祖<lb
+<ab type='dharani'>那莫颯鉢多曩三藐訖三沒馱<lb
+ n="0572a04" ed="T"/>酤致曩怛𭔞他唵左隷祖<lb
  n="0572a05" ed="T"/>隷尊禰娑嚩賀<lb
  n="0572a06" ed="T"/></ab>
-<ab type="prose">爾時世尊說此尊那菩薩真言已。諸佛剎土<lb
+<ab type='prose'>爾時世尊說此尊那菩薩真言已。諸佛剎土<lb
  n="0572a07" ed="T"/>悉皆震動。諸大菩薩悉出三摩地。一切魔眾<lb
  n="0572a08" ed="T"/>及諸夜叉阿修羅女等。心生驚怖受大苦惱<lb
  n="0572a09" ed="T"/>如火燃身。唯念大遍照金剛如來。此菩薩真<lb
@@ -1248,12 +1248,12 @@
  n="0572a13" ed="T"/>此定已。從三金剛說大法甘露顰眉菩薩真<lb
  n="0572a14" ed="T"/>言曰。<lb
  n="0572a15" ed="T"/></ab>
-<ab type="dharani">唵跋野那設儞怛囉娑儞怛囉<lb
+<ab type='dharani'>唵跋野那設儞怛囉娑儞怛囉<lb
  n="0572a16" ed="T"/>娑野怛囉娑野勃哩酤致怛致<lb
  n="0572a17" ed="T"/>吠囉致稅帝稅多惹致儞娑嚩<lb
  n="0572a18" ed="T"/>賀<lb
  n="0572a19" ed="T"/></ab>
-<ab type="prose">爾時一切持明天及諸天等。聞此大菩薩真<lb
+<ab type='prose'>爾時一切持明天及諸天等。聞此大菩薩真<lb
  n="0572a20" ed="T"/>言已。悉皆驚怖身心顫掉。一切諸魔恐怖馳<lb
  n="0572a21" ed="T"/>走。唯念大遍照金剛如來。此之真言若依法<lb
  n="0572a22" ed="T"/>持誦。亦能鉤召大威力諸龍及龍女。阿修羅<lb
@@ -1296,14 +1296,14 @@
  n="0572c01" ed="T"/>出此定已。從身口意三金剛。說一切三界大<lb
  n="0572c02" ed="T"/>智橛真言曰。<lb
  n="0572c03" ed="T"/></ab>
-<ab type="dharani">唵朅朅朅怛野朅怛野薩哩嚩<lb
+<ab type='dharani'>唵朅朅朅怛野朅怛野薩哩嚩<lb
  n="0572c04" ed="T"/>訥瑟鵮發吒計羅野計羅野<lb
  n="0572c05" ed="T"/>薩哩嚩播邦發吒吽吽嚩日囉<lb
  n="0572c06" ed="T"/>計羅嚩日囉達嚕倪也波野<lb
  n="0572c07" ed="T"/>底哥野嚩骨唧多嚩日囉計<lb
  n="0572c08" ed="T"/>羅野吽發吒<lb
  n="0572c09" ed="T"/></ab>
-<ab type="prose">爾時一切諸佛及諸菩薩。聞此真言已歎未<lb
+<ab type='prose'>爾時一切諸佛及諸菩薩。聞此真言已歎未<lb
  n="0572c10" ed="T"/>曾有。唯念大遍照金剛如來。此真言能除一<lb
  n="0572c11" ed="T"/>切魔。時持誦人欲作法者。當用人骨為橛。或<lb
  n="0572c12" ed="T"/>佉禰囉木或鐵等可得為橛。橛既成就當用<lb
@@ -1319,10 +1319,10 @@
  n="0572c22" ed="T"/>金剛三摩地。出此定已。從身口意。說身金剛<lb
  n="0572c23" ed="T"/>三昧無二真言曰。<lb
  n="0572c24" ed="T"/></ab>
-<ab type="dharani">唵親那親那賀那賀那那賀那賀儞<lb
+<ab type='dharani'>唵親那親那賀那賀那那賀那賀儞<lb
  n="0572c25" ed="T"/>鉢多嚩日囉作訖囉吽發吒<lb
  n="0572c26" ed="T"/></ab>
-<ab type="prose">時阿闍梨作金剛印。觀想遍照佛。復想此真<lb
+<ab type='prose'>時阿闍梨作金剛印。觀想遍照佛。復想此真<lb
  n="0572c27" ed="T"/>言如金剛橛。作釘橛勢。作法之間乃至諸佛<lb
  n="0572c28" ed="T"/>皆出禪定歎未曾有。一切魔眾悉皆降伏。若<lb
  n="0572c29" ed="T"/>不依此當即破壞。<pb n="0573a" id="T18.0890.0573a" ed="T"/><lb
@@ -1330,9 +1330,9 @@
  n="0573a02" ed="T"/>金剛變化金剛三摩地。出此定已。從身口意<lb
  n="0573a03" ed="T"/>三金剛。說大忿怒橛真言曰。<lb
  n="0573a04" ed="T"/></ab>
-<ab type="dharani">唵嚩日囉囉惹吽<lb
+<ab type='dharani'>唵嚩日囉囉惹吽<lb
  n="0573a05" ed="T"/></ab>
-<ab type="prose">時阿闍梨誦此真言已。想五股金剛杵遍滿<lb
+<ab type='prose'>時阿闍梨誦此真言已。想五股金剛杵遍滿<lb
  n="0573a06" ed="T"/>虛空。以此真言力降伏諸魔。復想作釘橛勢。<lb
  n="0573a07" ed="T"/>釘橛之間一切魔眾悉皆降伏。若不依此法<lb
  n="0573a08" ed="T"/>當即身壞。<lb
@@ -1340,9 +1340,9 @@
  n="0573a10" ed="T"/>三昧變化金剛三摩地。出此定已。從身口意<lb
  n="0573a11" ed="T"/>三昧。說此釘橛真言曰。<lb
  n="0573a12" ed="T"/></ab>
-<ab type="dharani">唵紇哩唵部哩普嚩<lb
+<ab type='dharani'>唵紇哩唵部哩普嚩<lb
  n="0573a13" ed="T"/></ab>
-<ab type="prose">時阿闍梨誦此真言已。觀想蓮華印光明熾<lb
+<ab type='prose'>時阿闍梨誦此真言已。觀想蓮華印光明熾<lb
  n="0573a14" ed="T"/>盛。以真言印相降伏魔冤。想如釘橛勢。如是<lb
  n="0573a15" ed="T"/>依法持誦。一切魔眾悉皆降伏。若不依法必<lb
  n="0573a16" ed="T"/>得除滅。此真實金剛橛。假使滿虛空皆是諸<lb
@@ -1350,31 +1350,31 @@
  n="0573a18" ed="T"/>爾時大遍照金剛如來。說此祕密觀想釘橛<lb
  n="0573a19" ed="T"/>之法。彼如來善利眾生心大歡喜。而說頌曰。<lb
  n="0573a20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 祕密妙法第一義　　總攝甚深真實理　　<lb
  n="0573a21" ed="T"/>最上難思寂靜句　　是即金剛大智橛　　<lb
  n="0573a22" ed="T"/>善釘一切邪魔呪　　乃至不受佛勅者　　<lb
  n="0573a23" ed="T"/>如是諸佛釘橛法　　皆從真實妙智生　　
 </ab><lb
- n="0573a24" ed="T"/><ab type="prose">爾時世尊大遍照金剛如來說此頌已。復入<lb
+ n="0573a24" ed="T"/><ab type='prose'>爾時世尊大遍照金剛如來說此頌已。復入<lb
  n="0573a25" ed="T"/>一切微妙字金剛三摩地。出此定已。說日前<lb
  n="0573a26" ed="T"/>菩薩真言曰。<lb
  n="0573a27" ed="T"/></ab>
-<ab type="dharani">唵摩哩唧曳禰嚩多曳娑嚩<lb
+<ab type='dharani'>唵摩哩唧曳禰嚩多曳娑嚩<lb
  n="0573a28" ed="T"/>賀<lb
  n="0573a29" ed="T"/></ab>
-<ab type="prose">爾時一切佛及諸菩薩。聞此真言悉皆歡喜。<pb n="0573b" id="T18.0890.0573b" ed="T"/><lb
+<ab type='prose'>爾時一切佛及諸菩薩。聞此真言悉皆歡喜。<pb n="0573b" id="T18.0890.0573b" ed="T"/><lb
  n="0573b01" ed="T"/>此真言法能作一切事能除冤賊難。若人依<lb
  n="0573b02" ed="T"/>法受持。於道路行一切諸惡不能得便。<lb
  n="0573b03" ed="T"/>爾時世尊大遍照金剛如來。復入降諸惡魔<lb
  n="0573b04" ed="T"/>善度一切眾生大智力最勝金剛三摩地。出<lb
  n="0573b05" ed="T"/>此定已。說降伏大千界菩薩真言曰。<lb
  n="0573b06" ed="T"/></ab>
-<ab type="dharani">唵摩賀薩賀娑囉鉢囉末哩那<lb
+<ab type='dharani'>唵摩賀薩賀娑囉鉢囉末哩那<lb
  n="0573b07" ed="T"/>儞嚩囉悉地那曳計摩尼嚩日哩<lb
  n="0573b08" ed="T"/>吽發吒娑嚩賀<lb
  n="0573b09" ed="T"/></ab>
-<ab type="prose">爾時世尊說此真言已。一切佛剎悉皆震動。<lb
+<ab type='prose'>爾時世尊說此真言已。一切佛剎悉皆震動。<lb
  n="0573b10" ed="T"/>一切菩薩悉出禪定。一切諸魔悉皆驚怖。受<lb
  n="0573b11" ed="T"/>大苦惱如火燃身。而白佛言我等諸魔。以真<lb
  n="0573b12" ed="T"/>言大威力故悉受苦惱。從今已後所在之處。<lb
@@ -1383,15 +1383,15 @@
  n="0573b15" ed="T"/>爾時世尊復入救帝釋降伏大力阿修羅最勝<lb
  n="0573b16" ed="T"/>三摩地。出此定已。說最上寶幢陀羅尼曰。<lb
  n="0573b17" ed="T"/></ab>
-<ab type="dharani">唵婆誐嚩底特嚩惹仡囉計喻<lb
- n="0573b18" ed="T"/>哩鉢囉塞󰍕尾特網薩那羯哩莎<lb
- n="0573b19" ed="T"/>塞󰍕鉢哩播羅儞烏勒哥目契<lb
- n="0573b20" ed="T"/>朅朅佉呬佉呬鉢囉塞󰍕阿難<lb
+<ab type='dharani'>唵婆誐嚩底特嚩惹仡囉計喻<lb
+ n="0573b18" ed="T"/>哩鉢囉塞𭔞尾特網薩那羯哩莎<lb
+ n="0573b19" ed="T"/>塞𭔞鉢哩播羅儞烏勒哥目契<lb
+ n="0573b20" ed="T"/>朅朅佉呬佉呬鉢囉塞𭔞阿難<lb
  n="0573b21" ed="T"/>多部𡁠那阿難多目契那鉢囉賀囉<lb
  n="0573b22" ed="T"/>鉢囉賀囉吽發吒娑嚩<lb
  n="0573b23" ed="T"/>賀<lb
  n="0573b24" ed="T"/></ab>
-<ab type="prose">爾時世尊說此大寶幢陀羅尼已。所有佛剎<lb
+<ab type='prose'>爾時世尊說此大寶幢陀羅尼已。所有佛剎<lb
  n="0573b25" ed="T"/>悉皆震動。諸大菩薩悉出禪定。一切夜叉羅<lb
  n="0573b26" ed="T"/>剎及諸魔眾受大苦惱。唯念大遍照如來。俱<lb
  n="0573b27" ed="T"/>白佛言世尊。我等魔眾以大明力故。受大苦<lb
@@ -1401,10 +1401,10 @@
  n="0573c02" ed="T"/>胎藏變化金剛三摩地。出此定已。說大隨求<lb
  n="0573c03" ed="T"/>菩薩真言曰。<lb
  n="0573c04" ed="T"/></ab>
-<ab type="dharani">唵摩尼達哩嚩日哩尼摩賀鉢<lb
+<ab type='dharani'>唵摩尼達哩嚩日哩尼摩賀鉢<lb
  n="0573c05" ed="T"/>囉底薩哩娑嚩賀<lb
  n="0573c06" ed="T"/></ab>
-<ab type="prose">爾時世尊說此真言已。所有一切大惡魔冤。<lb
+<ab type='prose'>爾時世尊說此真言已。所有一切大惡魔冤。<lb
  n="0573c07" ed="T"/>及諸大力鬼神等。常於人間侵害有情食彼<lb
  n="0573c08" ed="T"/>胎子者。聞此大明悉皆驚怖如火燃身。往詣<lb
  n="0573c09" ed="T"/>佛所悉皆禮足。白佛言世尊。我等諸魔受佛<lb
@@ -1413,11 +1413,11 @@
  n="0573c12" ed="T"/>爾時世尊大遍照金剛如來。復入持世大智<lb
  n="0573c13" ed="T"/>金剛三摩地。出此定已。說持世菩薩真言曰。<lb
  n="0573c14" ed="T"/></ab>
-<ab type="dharani">唵嚩酥駄哩摩賀嚩酥駄囉沒<lb
+<ab type='dharani'>唵嚩酥駄哩摩賀嚩酥駄囉沒<lb
  n="0573c15" ed="T"/>哩瑟致儞播底儞嚩酥娑嚩賀<lb
  n="0573c16" ed="T"/><lb
  n="0573c17" ed="T"/></ab>
-<ab type="prose">爾時世尊說此真言已。所有一切魔眾悉皆<lb
+<ab type='prose'>爾時世尊說此真言已。所有一切魔眾悉皆<lb
  n="0573c18" ed="T"/>驚怖。唯念大遍照金剛如來。而白佛言世尊。<lb
  n="0573c19" ed="T"/>若人於此持世菩薩真言。受持讀誦書寫供<lb
  n="0573c20" ed="T"/>養。及稱菩薩名號者。我等魔眾為彼眾生。雨<lb
@@ -1426,7 +1426,7 @@
  n="0573c23" ed="T"/>調伏金剛三摩地。出此定已。說閃電熾盛光<lb
  n="0573c24" ed="T"/>大羅剎女心真言曰。<lb
  n="0573c25" ed="T"/></ab>
-<ab type="dharani">唵勞捺哩尼鉢囉酤必多贊<lb
+<ab type='dharani'>唵勞捺哩尼鉢囉酤必多贊<lb
  n="0573c26" ed="T"/>尼摩賀微誐達哩尾捺與𡁠吸<lb
  n="0573c27" ed="T"/>微摩呼捺哩勞捺哩割播羅<lb
  n="0573c28" ed="T"/>摩邏駄哩尼惹吒末酤吒曼尼帝<lb
@@ -1442,7 +1442,7 @@
  n="0574a10" ed="T"/>吽發吒阿母剛彌嚩舍摩那野<lb
  n="0574a11" ed="T"/>娑嚩賀<lb
  n="0574a12" ed="T"/></ab>
-<ab type="prose">爾時世尊說此大閃電熾盛羅剎女心真言<lb
+<ab type='prose'>爾時世尊說此大閃電熾盛羅剎女心真言<lb
  n="0574a13" ed="T"/>已。所有一切諸大魔冤悉皆驚怖。受大苦惱<lb
  n="0574a14" ed="T"/>如火燃身。時持明人欲作此法者。先用屍衣。<lb
  n="0574a15" ed="T"/>以血或赤土。於屍衣上畫羅剎女形像已。焚<lb
@@ -1454,11 +1454,11 @@
  n="0574a21" ed="T"/>叉女善作歡喜眾成就金剛三摩地。出此定<lb
  n="0574a22" ed="T"/>已。說訶利帝夜叉女真言曰。<lb
  n="0574a23" ed="T"/></ab>
-<ab type="dharani">唵訶哩帶摩賀藥叱尼拽訶囉<lb
+<ab type='dharani'>唵訶哩帶摩賀藥叱尼拽訶囉<lb
  n="0574a24" ed="T"/>訶囉薩哩嚩播煬薩哩嚩藥叱<lb
  n="0574a25" ed="T"/>尼鉢囉吠舍儞娑嚩賀<lb
  n="0574a26" ed="T"/></ab>
-<ab type="prose">爾時世尊說此訶利帝大夜叉女真言已。告<lb
+<ab type='prose'>爾時世尊說此訶利帝大夜叉女真言已。告<lb
  n="0574a27" ed="T"/>諸眾言。此真言能令諸夜叉女等。為持誦者<lb
  n="0574a28" ed="T"/>作一切成就。時持誦者作此法時。觀想忿怒<lb
  n="0574a29" ed="T"/>明王八輻輪。輪中有訶利帝夜叉女。及輪八<pb n="0574b" id="T18.0890.0574b" ed="T"/><lb
@@ -1468,28 +1468,28 @@
  n="0574b04" ed="T"/>病最勝智金剛三摩地。出此定已。說鉢蘭拏<lb
  n="0574b05" ed="T"/>舍嚩哩菩薩真言曰。<lb
  n="0574b06" ed="T"/></ab>
-<ab type="dharani">唵必舍唧鉢蘭拏舍嚩哩薩哩<lb
+<ab type='dharani'>唵必舍唧鉢蘭拏舍嚩哩薩哩<lb
  n="0574b07" ed="T"/>嚩摩哩鉢囉設摩儞吽發吒<lb
  n="0574b08" ed="T"/><lb
  n="0574b09" ed="T"/></ab>
-<ab type="prose">爾時世尊說此真言已。所有佛剎皆悉震動。<lb
+<ab type='prose'>爾時世尊說此真言已。所有佛剎皆悉震動。<lb
  n="0574b10" ed="T"/>一切夜叉羅剎能作魔者。皆悉驚怖迷悶躄<lb
  n="0574b11" ed="T"/>地。時持誦者欲作息災法。當用吉祥草脂麻<lb
  n="0574b12" ed="T"/>乳汁。及吉祥花果樹枝長十二指者為柴。依<lb
  n="0574b13" ed="T"/>息災護摩法作於護摩。復想此菩薩遍滿虛<lb
  n="0574b14" ed="T"/>空降甘露雨。所有魔嬈悉皆除滅。</ab></div><lb
  n="0574b15" ed="T"/>
-<ab type="juan" subtype="close">佛說瑜伽大教王經卷第三</ab><lb
+<ab type='juan' subtype='close'>佛說瑜伽大教王經卷第三</ab><lb
  n="0574b16" ed="T"/><lb
  n="0574b17" ed="T"/><lb
  n="0574b18" ed="T"/><lb
  n="0574b19" ed="T"/>
-<ab type="juan" subtype="open">佛說瑜伽大教王經卷第四</ab><lb
+<ab type='juan' subtype='open'>佛說瑜伽大教王經卷第四</ab><lb
  n="0574b20" ed="T"/><lb
  n="0574b21" ed="T"/><byline>西天譯經三藏朝散大夫試光祿卿<lb
  n="0574b22" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
- n="0574b23" ed="T"/><div type="pin" level="2"><head>印相大供養儀品第六</head><lb
- n="0574b24" ed="T"/><ab type="prose">爾時世尊大遍照金剛如來。告金剛手菩薩<lb
+ n="0574b23" ed="T"/><div type='pin' level='2'><head>印相大供養儀品第六</head><lb
+ n="0574b24" ed="T"/><ab type='prose'>爾時世尊大遍照金剛如來。告金剛手菩薩<lb
  n="0574b25" ed="T"/>言。汝今諦聽當為汝說三金剛大智所生祕<lb
  n="0574b26" ed="T"/>密印相法。若持誦者依法結印。能滅一切罪<lb
  n="0574b27" ed="T"/>業。復能觀想真理。即得證於無上菩提。何況<lb
@@ -1663,47 +1663,47 @@
  n="0576b21" ed="T"/>手持鈴杵即振鈴。而開曼拏羅門誦此真言<lb
  n="0576b22" ed="T"/>曰。<lb
  n="0576b23" ed="T"/></ab>
-<ab type="dharani">唵嚩日囉健致羅拏鉢囉囉拏<lb
+<ab type='dharani'>唵嚩日囉健致羅拏鉢囉囉拏<lb
  n="0576b24" ed="T"/>三鉢囉囉拏沒馱叱怛囉左里儞<lb
  n="0576b25" ed="T"/>鉢囉倪也播囉彌多那捺<lb
  n="0576b26" ed="T"/>莎婆吠嚩日囉達囉紇哩那野<lb
  n="0576b27" ed="T"/>散都殺尼吽吽吽<lb
  n="0576b28" ed="T"/></ab>
-<ab type="prose">時阿闍梨誦此真言已。以右手擲金剛杵。左<lb
+<ab type='prose'>時阿闍梨誦此真言已。以右手擲金剛杵。左<lb
  n="0576b29" ed="T"/>手振金剛鈴即以歌讚供養賢聖。如是依金<pb n="0576c" id="T18.0890.0576c" ed="T"/><lb
  n="0576c01" ed="T"/>剛大乘。作最上真實供養已。諸佛賢聖悉<lb
  n="0576c02" ed="T"/>皆歡喜。彼諸如來即說頌曰。<lb
  n="0576c03" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若人斷除諸疑惑　　常作菩提觀想行　　<lb
  n="0576c04" ed="T"/>恒以清淨身口意　　供養聖賢為最上　　<lb
  n="0576c05" ed="T"/>若人不斷諸疑惑　　而復信重緣覺乘　　<lb
  n="0576c06" ed="T"/>修習小乘聲聞教　　彼人供養非最上　　<lb
  n="0576c07" ed="T"/>依法供養諸如來　　聖賢歡喜歎希有　　
 </ab><lb
- n="0576c08" ed="T"/><ab type="prose">爾時諸佛如來。讚遍照佛言。善哉善哉能為<lb
+ n="0576c08" ed="T"/><ab type='prose'>爾時諸佛如來。讚遍照佛言。善哉善哉能為<lb
  n="0576c09" ed="T"/>眾生。分別顯示瑜伽大教菩提之法。而說頌<lb
  n="0576c10" ed="T"/>曰。<lb
  n="0576c11" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 金剛遍照圓明智　　隨機開演大乘門　　<lb
  n="0576c12" ed="T"/>能令除斷貪瞋癡　　觀想菩提微妙理　　<lb
  n="0576c13" ed="T"/>善哉無上大乘法　　甚深方廣濟群生　　<lb
  n="0576c14" ed="T"/>如是真實法寶藏　　彼佛大覺能宣演　　
 </ab><lb
- n="0576c15" ed="T"/><ab type="prose">爾時諸菩薩。聞諸如來出微妙音頌讚佛已。<lb
+ n="0576c15" ed="T"/><ab type='prose'>爾時諸菩薩。聞諸如來出微妙音頌讚佛已。<lb
  n="0576c16" ed="T"/>皆大歡喜。亦以伽陀讚遍照佛曰。<lb
  n="0576c17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 佛身無邊無生滅　　無住無說無文字　　<lb
  n="0576c18" ed="T"/>寂滅離相如虛空　　有相是佛方便說　　<lb
  n="0576c19" ed="T"/>所說教相福含生　　引導令登菩薩位　　<lb
  n="0576c20" ed="T"/>菩薩獲居佛剎中　　皆因祕密三摩地　　
 </ab><lb
- n="0576c21" ed="T"/><ab type="prose">時諸佛及大菩薩。各以伽陀讚歎佛已。<lb
+ n="0576c21" ed="T"/><ab type='prose'>時諸佛及大菩薩。各以伽陀讚歎佛已。<lb
  n="0576c22" ed="T"/>爾時大遍照金剛如來。說妙歌讚。<lb
  n="0576c23" ed="T"/></ab>
-<ab type="dharani">嚩惹虎惹拏壹穌訶烏鉢帝婆嚩<lb
+<ab type='dharani'>嚩惹虎惹拏壹穌訶烏鉢帝婆嚩<lb
  n="0576c24" ed="T"/>尾婆網末虎烏鉢帝惹馨吠嚕阿<lb
  n="0576c25" ed="T"/>努鉢茶謨剛㘑戌駄尾戌提𩕳彌阿<lb
  n="0576c26" ed="T"/>沒提末虎尾訶嚕微孕滿駄呼摩朗<lb
@@ -1724,18 +1724,18 @@
  n="0577a12" ed="T"/>馨倪伊馨儒婆晚帝穌囉阿嚩惹<lb
  n="0577a13" ed="T"/>虎帝窣虎播晚帝<lb
  n="0577a14" ed="T"/></ab>
-<ab type="prose">爾時大遍照金剛如來。說此妙歌讚已。復說<lb
+<ab type='prose'>爾時大遍照金剛如來。說此妙歌讚已。復說<lb
  n="0577a15" ed="T"/>供養真言曰。<lb
  n="0577a16" ed="T"/></ab>
-<ab type="dharani">唵阿耨怛囉薩哩嚩布惹彌<lb
+<ab type='dharani'>唵阿耨怛囉薩哩嚩布惹彌<lb
  n="0577a17" ed="T"/>伽烏訥誐帝塞頗囉呬𤚥誐誐<lb
  n="0577a18" ed="T"/>那剛吽發吒娑嚩賀<lb
  n="0577a19" ed="T"/></ab>
-<ab type="prose">時持誦者誦此真言三遍已。想此供養遍滿虛<lb
+<ab type='prose'>時持誦者誦此真言三遍已。想此供養遍滿虛<lb
  n="0577a20" ed="T"/>空。即成一切供養。獻於一切賢聖皆大歡喜。</ab></div><lb
- n="0577a21" ed="T"/><div type="pin" level="2"><head>佛說瑜伽大教王經觀想菩提心大智品第<lb
+ n="0577a21" ed="T"/><div type='pin' level='2'><head>佛說瑜伽大教王經觀想菩提心大智品第<lb
  n="0577a22" ed="T"/>七</head><lb
- n="0577a23" ed="T"/><ab type="prose">爾時一切如來及諸菩薩。異口同音勸請世<lb
+ n="0577a23" ed="T"/><ab type='prose'>爾時一切如來及諸菩薩。異口同音勸請世<lb
  n="0577a24" ed="T"/>尊大遍照金剛如來。唯願慈悲演說。甚深無<lb
  n="0577a25" ed="T"/>上大覺菩提心法。<lb
  n="0577a26" ed="T"/>爾時世尊受彼請已而告眾言。諦聽諦聽我<lb
@@ -1745,56 +1745,56 @@
  n="0577b02" ed="T"/>說已。住一切如來身口意三密相中。心離取<lb
  n="0577b03" ed="T"/>捨而說頌曰。<lb
  n="0577b04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 希有普賢身語心　　本無生滅亦無著　　<lb
  n="0577b05" ed="T"/>體無文字及諸相　　遠離戲論絕分別　　
 </ab><lb
- n="0577b06" ed="T"/><ab type="prose">爾時諸佛說此頌已。時世尊阿閦如來。入語<lb
+ n="0577b06" ed="T"/><ab type='prose'>爾時諸佛說此頌已。時世尊阿閦如來。入語<lb
  n="0577b07" ed="T"/>相金剛三摩地。從定出已說菩提心。本離生<lb
  n="0577b08" ed="T"/>滅湛然清淨如虛空故。而說頌曰。<lb
  n="0577b09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 菩提心本無生滅　　性淨無法無所受　　<lb
  n="0577b10" ed="T"/>無著無染如虛空　　是即堅固菩提心　　
 </ab><lb
- n="0577b11" ed="T"/><ab type="prose">如是阿閦如來說此頌已。<lb
+ n="0577b11" ed="T"/><ab type='prose'>如是阿閦如來說此頌已。<lb
  n="0577b12" ed="T"/>爾時寶生如來。入一切如來無相金剛三摩<lb
  n="0577b13" ed="T"/>地。從定出已。說菩提心。頌曰。<lb
  n="0577b14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 此性本來無有性　　無相無為體凝寂　　<lb
  n="0577b15" ed="T"/>此法源從無我生　　是即堅固菩提心　　
 </ab><lb
- n="0577b16" ed="T"/><ab type="prose">如是寶生如來說此頌已。<lb
+ n="0577b16" ed="T"/><ab type='prose'>如是寶生如來說此頌已。<lb
  n="0577b17" ed="T"/>爾時無量壽如來。入最勝熾盛金剛三摩地。<lb
  n="0577b18" ed="T"/>從定出已說菩提心。頌曰。<lb
  n="0577b19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 法界本來無所生　　寂然無性亦無相　　<lb
  n="0577b20" ed="T"/>洞達空理無邊際　　此即菩提真實心　　
 </ab><lb
- n="0577b21" ed="T"/><ab type="prose">如是無量壽如來說此頌已。<lb
+ n="0577b21" ed="T"/><ab type='prose'>如是無量壽如來說此頌已。<lb
  n="0577b22" ed="T"/>爾時不空成就如來。入無上智金剛三摩地。<lb
  n="0577b23" ed="T"/>從定出已說菩提心。頌曰。<lb
  n="0577b24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 諸法自性皆清淨　　本來寂靜無所有　　<lb
  n="0577b25" ed="T"/>亦無菩提亦無佛　　及彼眾生并壽者　　<lb
  n="0577b26" ed="T"/>有見如夢如幻化　　無見之見亦復然　　<lb
  n="0577b27" ed="T"/>離有離無取捨亡　　是即堅固菩提心　　
 </ab><lb
- n="0577b28" ed="T"/><ab type="prose">如是不空成就如來說此頌已。<lb
+ n="0577b28" ed="T"/><ab type='prose'>如是不空成就如來說此頌已。<lb
  n="0577b29" ed="T"/>爾時慈氏菩薩等諸大菩薩。聞諸如來以金<pb n="0577c" id="T18.0890.0577c" ed="T"/><lb
  n="0577c01" ed="T"/>剛身語心。說清淨菩提心法。歎未曾有而說<lb
  n="0577c02" ed="T"/>頌曰。<lb
  n="0577c03" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 唯佛最上尊　　善說微妙法　　<lb
  n="0577c04" ed="T"/>法從無我生　　稽首菩提心　　<lb
  n="0577c05" ed="T"/>字從無字生　　佛從無相顯　　<lb
  n="0577c06" ed="T"/>一切如幻夢　　稽首金剛心　　
 </ab><lb
- n="0577c07" ed="T"/><ab type="prose">如是慈氏菩薩等說此頌已。<lb
+ n="0577c07" ed="T"/><ab type='prose'>如是慈氏菩薩等說此頌已。<lb
  n="0577c08" ed="T"/>爾時大遍照金剛如來。復說觀想法。持誦者<lb
  n="0577c09" ed="T"/>先跏趺坐。觀想五趣處與非處。以淨三業真<lb
  n="0577c10" ed="T"/>言。普皆清淨令住淨。法然後想自本心為其<lb
@@ -1839,16 +1839,16 @@
  n="0578a20" ed="T"/>成就羯磨法。亦如寶生佛等五部如來。為一<lb
  n="0578a21" ed="T"/>切明主。</ab></div><lb
  n="0578a22" ed="T"/>
-<ab type="juan" subtype="close">佛說瑜伽大教王經卷第四</ab><pb n="0578b" id="T18.0890.0578b" ed="T"/><lb
+<ab type='juan' subtype='close'>佛說瑜伽大教王經卷第四</ab><pb n="0578b" id="T18.0890.0578b" ed="T"/><lb
  n="0578b01" ed="T"/><lb
  n="0578b02" ed="T"/><lb
  n="0578b03" ed="T"/>
-<ab type="juan" subtype="open">佛說瑜伽大教王經卷第五</ab><lb
+<ab type='juan' subtype='open'>佛說瑜伽大教王經卷第五</ab><lb
  n="0578b04" ed="T"/><lb
  n="0578b05" ed="T"/><byline>西天譯經三藏朝散大夫試光祿卿<lb
  n="0578b06" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
- n="0578b07" ed="T"/><div type="pin" level="2"><head>相應方便成就品第八</head><lb
- n="0578b08" ed="T"/><ab type="prose">爾時世尊大遍照金剛如來。入一切如來智<lb
+ n="0578b07" ed="T"/><div type='pin' level='2'><head>相應方便成就品第八</head><lb
+ n="0578b08" ed="T"/><ab type='prose'>爾時世尊大遍照金剛如來。入一切如來智<lb
  n="0578b09" ed="T"/>輪成就金剛三摩地。從定出已。說一切輪內<lb
  n="0578b10" ed="T"/>外所作法。<lb
  n="0578b11" ed="T"/>此瑜伽大教王經所作曼拏羅。隨於本尊名<lb
@@ -1908,10 +1908,10 @@
  n="0579a07" ed="T"/>以金剛杵打之而作驚怖。即以利劍開彼人<lb
  n="0579a08" ed="T"/>腹。出於腸胃已。即誦此明王真言曰。<lb
  n="0579a09" ed="T"/></ab>
-<ab type="dharani">唵吽嚩日囉囉叉娑薄叉野薄叉<lb
+<ab type='dharani'>唵吽嚩日囉囉叉娑薄叉野薄叉<lb
  n="0579a10" ed="T"/>野<lb
  n="0579a11" ed="T"/></ab>
-<ab type="prose">誦此真言已。復想金剛羅剎眾。變為鵶野狐<lb
+<ab type='prose'>誦此真言已。復想金剛羅剎眾。變為鵶野狐<lb
  n="0579a12" ed="T"/>鷲鳥等。悉來聚集食彼降人。復想彼人乘於<lb
  n="0579a13" ed="T"/>驝駝。在風輪上向南行之。復有明王隨後打<lb
  n="0579a14" ed="T"/>擲。如是觀想。彼降伏人速得除滅。<lb
@@ -1928,10 +1928,10 @@
  n="0579a25" ed="T"/>乾枯。又想諸金剛拏枳儞。悉來唼所降人身<lb
  n="0579a26" ed="T"/>血。如是作法速得辟除。誦此真言曰。<lb
  n="0579a27" ed="T"/></ab>
-<ab type="dharani">唵嚩日囉拏枳儞阿目割寫囉訖多<lb
+<ab type='dharani'>唵嚩日囉拏枳儞阿目割寫囉訖多<lb
  n="0579a28" ed="T"/>阿羯哩沙野吽發吒<lb
  n="0579a29" ed="T"/></ab>
-<ab type="prose">誦此真言已依法相應。彼降伏人速得身分<pb n="0579b" id="T18.0890.0579b" ed="T"/><lb
+<ab type='prose'>誦此真言已依法相應。彼降伏人速得身分<pb n="0579b" id="T18.0890.0579b" ed="T"/><lb
  n="0579b01" ed="T"/>乾枯。乃至除滅。<lb
  n="0579b02" ed="T"/>復次降雨法。持誦者往西北隅。以香水塗四<lb
  n="0579b03" ed="T"/>方曼拏羅已。用塗香點七點圓如星相。以淨<lb
@@ -1963,10 +1963,10 @@
  n="0579b29" ed="T"/>遍。依日前菩薩法。觀想頻那夜迦入於降伏<pb n="0579c" id="T18.0890.0579c" ed="T"/><lb
  n="0579c01" ed="T"/>人口。以搗杵打之。即誦杵真言曰。<lb
  n="0579c02" ed="T"/></ab>
-<ab type="dharani">唵宋婆嚩日囉母娑隷那祖蘭拏<lb
+<ab type='dharani'>唵宋婆嚩日囉母娑隷那祖蘭拏<lb
  n="0579c03" ed="T"/>野那囉尾覲曩吽發吒<lb
  n="0579c04" ed="T"/></ab>
-<ab type="prose">如是依法持誦。一剎那中魔自驚怖退散馳<lb
+<ab type='prose'>如是依法持誦。一剎那中魔自驚怖退散馳<lb
  n="0579c05" ed="T"/>走。<lb
  n="0579c06" ed="T"/>復次降雨法。持誦者觀想。帝釋天三面四臂。<lb
  n="0579c07" ed="T"/>身如月色乘八身千頭白象。其象有千眼千<lb
@@ -1976,15 +1976,15 @@
  n="0579c11" ed="T"/>金翅鳥逼諸龍王。以觜啄之令降甘雨。即誦<lb
  n="0579c12" ed="T"/>此真言曰。<lb
  n="0579c13" ed="T"/></ab>
-<ab type="dharani">唵嚩日囉拏囉野那儞哩嚩鉢<lb
+<ab type='dharani'>唵嚩日囉拏囉野那儞哩嚩鉢<lb
  n="0579c14" ed="T"/>野挽呬儞曼沒彌枿吽<lb
  n="0579c15" ed="T"/></ab>
-<ab type="prose">誦此真言已。即降大雨如瓶瀉水。<lb
+<ab type='prose'>誦此真言已。即降大雨如瓶瀉水。<lb
  n="0579c16" ed="T"/>復次真言曰。<lb
  n="0579c17" ed="T"/></ab>
-<ab type="dharani">唵摩賀穌珂嚩日囉底𠺁吽<lb
+<ab type='dharani'>唵摩賀穌珂嚩日囉底𠺁吽<lb
  n="0579c18" ed="T"/></ab>
-<ab type="prose">持誦者誦此真言作金剛縛。依法觀想。能成<lb
+<ab type='prose'>持誦者誦此真言作金剛縛。依法觀想。能成<lb
  n="0579c19" ed="T"/>就最上利樂之事。<lb
  n="0579c20" ed="T"/>爾時世尊大遍照金剛如來。說此真言觀想<lb
  n="0579c21" ed="T"/>微妙真實法已。心大歡喜顧視大眾。而以大<lb
@@ -2002,7 +2002,7 @@
  n="0580a04" ed="T"/>祕密觀想微妙法門有大利樂。成就金剛大<lb
  n="0580a05" ed="T"/>智證菩提道。而說頌曰。<lb
  n="0580a06" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 實相菩提非有無　　亦無二邊無中道　　<lb
  n="0580a07" ed="T"/>離相寂靜如虛空　　三世諸佛何所證　　<lb
  n="0580a08" ed="T"/>今說微妙大方便　　令彼悟入菩提心　　<lb
@@ -2016,7 +2016,7 @@
  n="0580a16" ed="T"/>我見愚人分染淨　　不了四大假合身　　<lb
  n="0580a17" ed="T"/>觀想無為真性空　　究竟成就大菩提　　
 </ab><lb
- n="0580a18" ed="T"/><ab type="prose">爾時大遍照金剛如來說此頌已。告金剛手<lb
+ n="0580a18" ed="T"/><ab type='prose'>爾時大遍照金剛如來說此頌已。告金剛手<lb
  n="0580a19" ed="T"/>菩薩言。如是菩提本性清淨而有二義。一非<lb
  n="0580a20" ed="T"/>生煩惱諸蘊無實故。二性如虛空思議不及<lb
  n="0580a21" ed="T"/>故。此真菩提諸佛共說。若人觀想即住大智。<lb
@@ -2041,27 +2041,27 @@
  n="0580b11" ed="T"/>善哉世尊。此大相應祕密深固幽遠。能為眾<lb
  n="0580b12" ed="T"/>生分別開示。而說頌曰。<lb
  n="0580b13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 善哉無上大無畏　　遍照金剛大如來　　<lb
  n="0580b14" ed="T"/>善說真實微妙法　　利益一切諸眾生　　<lb
  n="0580b15" ed="T"/>大力金剛清淨鉤　　能入大智諸佛心　　<lb
  n="0580b16" ed="T"/>成就金剛最上乘　　通達祕密無為相　　<lb
  n="0580b17" ed="T"/>若人依法而勤修　　不久圓證菩提果　　
 </ab><lb
- n="0580b18" ed="T"/><ab type="prose">時金剛手菩薩等說此頌已。大遍照金剛如<lb
+ n="0580b18" ed="T"/><ab type='prose'>時金剛手菩薩等說此頌已。大遍照金剛如<lb
  n="0580b19" ed="T"/>來。即說金剛鉤等真言。<lb
  n="0580b20" ed="T"/></ab>
-<ab type="dharani">唵嚩日囉酤舍阿哥哩沙野吽<lb
+<ab type='dharani'>唵嚩日囉酤舍阿哥哩沙野吽<lb
  n="0580b21" ed="T"/>唵嚩日囉播舍滿馱吽<lb
  n="0580b22" ed="T"/>唵嚩日囉哥里怛哩惹野吽<lb
  n="0580b23" ed="T"/>唵嚩日囉母瑟致仡哩恨拏<lb
  n="0580b24" ed="T"/>鉢野吽<lb
  n="0580b25" ed="T"/></ab>
-<ab type="prose">如是金剛鉤等真言。清淨微妙具大威力利<lb
+<ab type='prose'>如是金剛鉤等真言。清淨微妙具大威力利<lb
  n="0580b26" ed="T"/>益無量。若人依法持誦無不成就。於金剛大<lb
  n="0580b27" ed="T"/>智中最為殊勝。不得傳於邪見等非法之人。</ab></div><lb
- n="0580b28" ed="T"/><div type="pin" level="2"><head>佛說瑜伽大教王經護摩品第九</head><lb
- n="0580b29" ed="T"/><ab type="prose">爾時世尊大遍照金剛如來。復入一切成就<pb n="0580c" id="T18.0890.0580c" ed="T"/><lb
+ n="0580b28" ed="T"/><div type='pin' level='2'><head>佛說瑜伽大教王經護摩品第九</head><lb
+ n="0580b29" ed="T"/><ab type='prose'>爾時世尊大遍照金剛如來。復入一切成就<pb n="0580c" id="T18.0890.0580c" ed="T"/><lb
  n="0580c01" ed="T"/>法儀行相應金剛三摩地。從定出已。說入寤<lb
  n="0580c02" ed="T"/>成就法。時持誦者先於頂上想唵字。口中想<lb
  n="0580c03" ed="T"/>有阿字。心中想有吽字。復想嚩字化成風輪。<lb
@@ -2069,8 +2069,8 @@
  n="0580c05" ed="T"/>作貢高勢。復想尊那菩薩即誦尊那菩薩真<lb
  n="0580c06" ed="T"/>言曰。<lb
  n="0580c07" ed="T"/></ab>
-<ab type="dharani">那莫颯鉢多曩　三藐訖三沒駄酤<lb
- n="0580c08" ed="T"/>致曩　怛󰍕他　唵左隸　祖隷<lb
+<ab type='dharani'>那莫颯鉢多曩　三藐訖三沒駄酤<lb
+ n="0580c08" ed="T"/>致曩　怛𭔞他　唵左隸　祖隷<lb
  n="0580c09" ed="T"/>　尊禰娑嚩賀　摩賀尾哩曳　阿<lb
  n="0580c10" ed="T"/>鉢囉底曷多舍娑儞　摩賀末羅鉢<lb
  n="0580c11" ed="T"/>囉訖囉彌　遏西播舍鉢囉輸　仡<lb
@@ -2107,7 +2107,7 @@
  n="0581a21" ed="T"/>尊禰　薩哩微釤娑達野娑嚩賀<lb
  n="0581a22" ed="T"/><lb
  n="0581a23" ed="T"/></ab>
-<ab type="prose">時阿闍梨誦此真言時。持金剛杵振金剛鈴。<lb
+<ab type='prose'>時阿闍梨誦此真言時。持金剛杵振金剛鈴。<lb
  n="0581a24" ed="T"/>結金剛縛印以印動搖。次想唵字化成摩馨<lb
  n="0581a25" ed="T"/>捺囉曼拏羅。復想曼拏羅中有八葉蓮花。<lb
  n="0581a26" ed="T"/>每一葉中有一阿字。蓮花中心有四吽字。以<pb n="0581b" id="T18.0890.0581b" ed="T"/><lb
@@ -2130,14 +2130,14 @@
  n="0581b17" ed="T"/>言。加持閼伽水以自淨手。依法燃柴請召火<lb
  n="0581b18" ed="T"/>天。誦此請召真言曰。<lb
  n="0581b19" ed="T"/></ab>
-<ab type="dharani">唵伊係曳呬摩賀部多禰嚩哩始<lb
+<ab type='dharani'>唵伊係曳呬摩賀部多禰嚩哩始<lb
  n="0581b20" ed="T"/>提惹散怛摩仡哩係埵忽底摩賀<lb
  n="0581b21" ed="T"/>囕遏悉銘散儞呬妬婆嚩唵遏屹<lb
- n="0581b22" ed="T"/>那曳禰󰔰禰󰔰阿尾阿尾<lb
+ n="0581b22" ed="T"/>那曳禰𭅤禰𭅤阿尾阿尾<lb
  n="0581b23" ed="T"/>摩賀室哩曳曷咩割咩嚩曷那<lb
  n="0581b24" ed="T"/>野娑嚩賀<lb
  n="0581b25" ed="T"/></ab>
-<ab type="prose">持誦者誦此真言。以二手合掌。右手拇指動<lb
+<ab type='prose'>持誦者誦此真言。以二手合掌。右手拇指動<lb
  n="0581b26" ed="T"/>搖已。用閼伽水。以左手微灑淨於火內。即微<lb
  n="0581b27" ed="T"/>作五供養。想東南隅火天來降。身短腹大遍<lb
  n="0581b28" ed="T"/>身赤色。四臂四面面各三目。頂戴寶冠而垂<lb
@@ -2163,7 +2163,7 @@
  n="0581c19" ed="T"/>祕密之法。開觀想門入真實際。利樂有情要<lb
  n="0581c20" ed="T"/>妙之道。而說頌曰。<lb
  n="0581c21" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 愚迷諸眾生　　堅心造眾惡　　<lb
  n="0581c22" ed="T"/>如是罪業成　　云何得善果　　<lb
  n="0581c23" ed="T"/>彼等愚迷者　　而無方便智　　<lb
@@ -2183,8 +2183,8 @@
  n="0582a08" ed="T"/>身口意相應　　出生方便慧　　<lb
  n="0582a09" ed="T"/>除斷我人心　　現證一切智　　
 </ab></div><lb
- n="0582a10" ed="T"/><div type="pin" level="2"><head>佛說瑜伽大教王經囑累品第十</head><lb
- n="0582a11" ed="T"/><ab type="prose">爾時大遍照金剛如來。入最上成就金剛三<lb
+ n="0582a10" ed="T"/><div type='pin' level='2'><head>佛說瑜伽大教王經囑累品第十</head><lb
+ n="0582a11" ed="T"/><ab type='prose'>爾時大遍照金剛如來。入最上成就金剛三<lb
  n="0582a12" ed="T"/>摩地。從定出已。告金剛手菩薩言。汝當諦聽<lb
  n="0582a13" ed="T"/>我今說一切三昧中金剛最上大三昧成就<lb
  n="0582a14" ed="T"/>法。此祕密成就真言觀想相應儀則等。善能<lb
@@ -2272,5 +2272,5 @@
  n="0583a09" ed="T"/>阿修羅迦樓羅緊那羅摩睺羅伽人非人等。<lb
  n="0583a10" ed="T"/>聞佛所說皆大歡喜信受奉行。</ab></div><lb
  n="0583a11" ed="T"/>
-<ab type="juan" subtype="close">佛說瑜伽大教王經卷第五</ab></div>
+<ab type='juan' subtype='close'>佛說瑜伽大教王經卷第五</ab></div>
 </body></text></TEI>

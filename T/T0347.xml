@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T12</biblScope>
                     <idno type="Taisho">T12n0347</idno>
                 </bibl>
@@ -39,15 +39,15 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0178c" id="T12.0347.0178c" ed="T"/><lb
  n="0178c01" ed="T"/><lb
  n="0178c02" ed="T"/><lb
  n="0178c03" ed="T"/>
-<ab type="juan" subtype="open">大乘顯識經卷上</ab><lb
+<ab type='juan' subtype='open'>大乘顯識經卷上</ab><lb
  n="0178c04" ed="T"/><lb
  n="0178c05" ed="T"/><byline>中天竺國沙門地婆訶羅奉　詔譯</byline><lb
- n="0178c06" ed="T"/><div type="jing" level="2"><ab type="prose">如是我聞：一時薄伽梵，在王舍城迦蘭陀竹<lb
+ n="0178c06" ed="T"/><div type='jing' level='2'><ab type='prose'>如是我聞：一時薄伽梵，在王舍城迦蘭陀竹<lb
  n="0178c07" ed="T"/>林，與大比丘眾千二百五十人俱——皆阿羅漢，<lb
  n="0178c08" ed="T"/>諸漏已盡，無復煩惱逮得自在，心善解脫、慧<lb
  n="0178c09" ed="T"/>善解脫，於去來今照了無礙，是大那伽；如佛<lb
@@ -337,14 +337,14 @@
  n="0182a03" ed="T"/>身，身知苦樂，光色充盛行來進止，言笑歡憂<lb
  n="0182a04" ed="T"/>事業昭著，當知有識。」。<lb
  n="0182a06" ed="T"/>
-</ab><ab type="juan" subtype="close">大乘顯識經卷上</ab><lb
+</ab><ab type='juan' subtype='close'>大乘顯識經卷上</ab><lb
  n="0182a07" ed="T"/><lb
  n="0182a08" ed="T"/><lb
  n="0182a09" ed="T"/>
-<ab type="juan" subtype="open">大乘顯識經卷下</ab><lb
+<ab type='juan' subtype='open'>大乘顯識經卷下</ab><lb
  n="0182a10" ed="T"/><lb
  n="0182a11" ed="T"/><byline>中天竺國沙門地婆訶羅奉　詔譯</byline><lb
- n="0182a12" ed="T"/><ab type="prose">爾時會中有月實勝上童真，從座而起合掌<lb
+ n="0182a12" ed="T"/><ab type='prose'>爾時會中有月實勝上童真，從座而起合掌<lb
  n="0182a13" ed="T"/>白佛言：「世尊！云何見色因？云何見欲因？云何<lb
  n="0182a14" ed="T"/>見見因？云何見戒取因？」佛告月實：「智見智<lb
  n="0182a15" ed="T"/>境，愚見愚境，智者見諸姝麗美色，了知穢惡，<lb
@@ -710,16 +710,16 @@
  n="0186a26" ed="T"/>有禮拜供養此經典者，應當恭敬供養是人，<lb
  n="0186a27" ed="T"/>斯人則為持如來藏。」爾時世尊而說偈言：<lb
  n="0186a28" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「當勇超塵累，　　勤修佛正教，　　<lb
  n="0186a29" ed="T"/>除滅死軍眾，　　如象踐葦蘆，　　<pb n="0186b" id="T12.0347.0186b" ed="T"/><lb
  n="0186b01" ed="T"/>持法奉禁戒，　　專精勿虧怠，　　<lb
  n="0186b02" ed="T"/>以棄生流轉，　　盡諸苦有邊。」　　
 </ab><lb
- n="0186b03" ed="T"/><ab type="prose">佛說此經已，賢護勝上童真、大藥王子，并諸<lb
+ n="0186b03" ed="T"/><ab type='prose'>佛說此經已，賢護勝上童真、大藥王子，并諸<lb
  n="0186b04" ed="T"/>比丘、菩薩摩訶薩、天人、阿修羅、乾闥婆等，普<lb
  n="0186b05" ed="T"/>大會眾，聞佛所說歡喜奉行。</ab></div><lb
  n="0186b06" ed="T"/>
-<ab type="juan" subtype="close">大乘顯識經卷下</ab><lb
- n="0186b07" ed="T"/><div type="w" level="2"><ab type="prose"></ab></div></div>
+<ab type='juan' subtype='close'>大乘顯識經卷下</ab><lb
+ n="0186b07" ed="T"/><div type='w' level='2'><ab type='prose'></ab></div></div>
 </body></text></TEI>

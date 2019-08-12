@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T17</biblScope>
                     <idno type="Taisho">T17n0841</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0912a22" ed="T"/><lb
  n="0912a23" ed="T"/><lb
  n="0912a24" ed="T"/>
-<ab type="juan" subtype="open">說妙法決定業障經</ab><lb
+<ab type='juan' subtype='open'>說妙法決定業障經</ab><lb
  n="0912a25" ed="T"/><lb
  n="0912a26" ed="T"/><byline>大唐至相寺沙門釋智嚴譯</byline><lb
- n="0912a27" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時佛在法界藏殿諸佛所會無<lb
+ n="0912a27" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時佛在法界藏殿諸佛所會無<lb
  n="0912a28" ed="T"/>邊道場，與大比丘眾、菩薩摩訶薩俱。時此道<lb
  n="0912a29" ed="T"/>場有一夫人，名曰功德莊嚴開敷花，合掌向<pb n="0912b" ed="T" id="T17.0841.0912b"/><lb
  n="0912b01" ed="T"/>佛退坐一面。<lb
@@ -128,5 +128,5 @@
  n="0913a18" ed="T"/>難及功德莊嚴開敷花夫人，及諸天龍八部，<lb
  n="0913a19" ed="T"/>皆大歡喜，持受奉行。</ab></div><lb
  n="0913a20" ed="T"/>
-<ab type="juan" subtype="close">說妙法決定業障經</ab>
+<ab type='juan' subtype='close'>說妙法決定業障經</ab>
 </body></text></TEI>

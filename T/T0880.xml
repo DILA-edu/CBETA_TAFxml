@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T18</biblScope>
                     <idno type="Taisho">T18n0880</idno>
                 </bibl>
@@ -41,15 +41,15 @@
     <text>
         <body><lb
  n="0338b11" ed="T"/><lb
- n="0338b12" ed="T"/><div type="jing" level="1"><lb
+ n="0338b12" ed="T"/><div type='jing' level='1'><lb
  n="0338b13" ed="T"/>
-<ab type="juan" subtype="open">瑜伽金剛頂經釋字母品一卷</ab><lb
+<ab type='juan' subtype='open'>瑜伽金剛頂經釋字母品一卷</ab><lb
  n="0338b14" ed="T"/><lb
  n="0338b15" ed="T"/><byline>開府儀同三司特進試鴻臚卿肅國<lb
  n="0338b16" ed="T"/>公食邑三千戶賜紫贈司空諡大鑒<lb
  n="0338b17" ed="T"/>正號大廣智大興善寺三藏沙門<lb
  n="0338b18" ed="T"/>不空奉　詔譯</byline><lb
- n="0338b19" ed="T"/><ab type="prose">􆿅阿上字門一切法本不生故。<lb
+ n="0338b19" ed="T"/><ab type='prose'>􆿅阿上字門一切法本不生故。<lb
  n="0338b20" ed="T"/>􆿆阿引去字門一切法寂靜故。<lb
  n="0338b21" ed="T"/>􆿇伊上字門一切法根不可得故。<lb
  n="0338b22" ed="T"/>􆿈伊引去字門一切法災禍不可得故。<lb
@@ -100,5 +100,5 @@
  n="0339a14" ed="T"/>􄚨賀字門一切法因不可得故。<lb
  n="0339a15" ed="T"/>􄚴乞灑二合字門一切法盡不可得故。<lb
  n="0339a16" ed="T"/>
-</ab><ab type="juan" subtype="close">瑜伽金剛頂經釋字母品一卷</ab></div>
+</ab><ab type='juan' subtype='close'>瑜伽金剛頂經釋字母品一卷</ab></div>
 </body></text></TEI>

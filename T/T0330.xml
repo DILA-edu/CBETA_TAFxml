@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T12</biblScope>
                     <idno type="Taisho">T12n0330</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0063c14" ed="T"/><lb
  n="0063c15" ed="T"/><lb
  n="0063c16" ed="T"/>
-<ab type="juan" subtype="open">佛說菩薩修行經</ab><lb
+<ab type='juan' subtype='open'>佛說菩薩修行經</ab><lb
  n="0063c17" ed="T"/><lb
  n="0063c18" ed="T"/><byline>西晉河內沙門白法祖譯</byline><lb
- n="0063c19" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時佛遊舍衛國祇樹給孤獨精舍，<lb
+ n="0063c19" ed="T"/><div type='jing' level='1'><ab type='prose'>聞如是：一時佛遊舍衛國祇樹給孤獨精舍，<lb
  n="0063c20" ed="T"/>與大比丘千二百五十及眾菩薩五千人俱，<lb
  n="0063c21" ed="T"/>皆尊菩薩——神通󰤗達，權慧變化，遊三千世界，<lb
  n="0063c22" ed="T"/>普利一切莫不蒙濟。於時舍衛國大城之中，<lb
@@ -118,7 +118,7 @@
  n="0064b29" ed="T"/>無上成最正覺。」於是世尊，重加弘演說身行<pb n="0064c" id="T12.0330.0064c" ed="T"/><lb
  n="0064c01" ed="T"/>法，而歎頌曰：<lb
  n="0064c02" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「得為人甚難值，　　無以身造惡行，　　<lb
  n="0064c03" ed="T"/>要會死棄丘塚，　　狐狼食或爛壞。　　<lb
  n="0064c04" ed="T"/>偽欺我愚常惑，　　專興念貪色欲，　　<lb
@@ -204,13 +204,13 @@
  n="0065b26" ed="T"/>天地間專惑者，　　興念想我妻子，　　<lb
  n="0065b27" ed="T"/>愚頑意謂常存，　　不知之幻化身。」　　
 </ab><lb
- n="0065b28" ed="T"/><ab type="prose">當佛世尊說是法時，威施之等五百長者，應<lb
+ n="0065b28" ed="T"/><ab type='prose'>當佛世尊說是法時，威施之等五百長者，應<lb
  n="0065b29" ed="T"/>時逮得柔順法忍。從得忍已，神通備具，達知<pb n="0065c" id="T12.0330.0065c" ed="T"/><lb
  n="0065c01" ed="T"/>去來，聖智弘妙，慧無罣礙，明曉眾生意志所<lb
  n="0065c02" ed="T"/>趣欲，發起眾一切會者觀心之故。即說偈<lb
  n="0065c03" ed="T"/>曰：<lb
  n="0065c04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「快哉為大利，　　眾利之最上，　　<lb
  n="0065c05" ed="T"/>其有發心行，　　求佛菩薩者。　　<lb
  n="0065c06" ed="T"/>大乘心可樂，　　但欲安眾生，　　<lb
@@ -226,7 +226,7 @@
  n="0065c16" ed="T"/>得逮聞是法，　　菩薩觀身法，　　<lb
  n="0065c17" ed="T"/>志即樂大乘，　　獲致於柔順。」　　
 </ab><lb
- n="0065c18" ed="T"/><ab type="prose">時佛便笑。世尊笑時，五色光出，從口中奮，輝<lb
+ n="0065c18" ed="T"/><ab type='prose'>時佛便笑。世尊笑時，五色光出，從口中奮，輝<lb
  n="0065c19" ed="T"/>暉晃昱，色色各異，遂至無數光明普遍十方<lb
  n="0065c20" ed="T"/>諸土，威景覆蔽一切釋梵日月天魔宮殿之<lb
  n="0065c21" ed="T"/>明。當其佛笑及覆光時，諸天龍神并世人<lb
@@ -257,5 +257,5 @@
  n="0066a17" ed="T"/>施五百人等，諸天龍神及世人民，聞經歡喜，<lb
  n="0066a18" ed="T"/>皆起叉手，為佛作禮。</ab></div><lb
  n="0066a19" ed="T"/>
-<ab type="juan" subtype="close">佛說菩薩修行經</ab>
+<ab type='juan' subtype='close'>佛說菩薩修行經</ab>
 </body></text></TEI>

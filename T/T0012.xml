@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0012</idno>
                 </bibl>
@@ -41,13 +41,13 @@
     <text>
         <body><pb n="0226c" ed="T" id="T01.0012.0226c"/><lb
  n="0226c01" ed="T"/><lb
- n="0226c02" ed="T"/><div type="jing" level="1"><lb
+ n="0226c02" ed="T"/><div type='jing' level='1'><lb
  n="0226c03" ed="T"/>
-<ab type="juan" subtype="open">佛說大集法門經卷上</ab><lb
+<ab type='juan' subtype='open'>佛說大集法門經卷上</ab><lb
  n="0226c04" ed="T"/><lb
  n="0226c05" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0226c06" ed="T"/>傳法大師賜紫臣施護奉　詔譯</byline><lb
- n="0226c07" ed="T"/><ab type="prose">如是我聞：一時，世尊遊行至彼末利城中，<lb
+ n="0226c07" ed="T"/><ab type='prose'>如是我聞：一時，世尊遊行至彼末利城中，<lb
  n="0226c08" ed="T"/>與苾芻眾，而共集會。時，彼城中，有一淨信<lb
  n="0226c09" ed="T"/>優婆塞，亦名末利，於其城內，新造一舍，種<lb
  n="0226c10" ed="T"/>種嚴飾，清淨寬廣，是舍先未曾有，沙門婆<lb
@@ -339,14 +339,14 @@
  n="0230a06" ed="T"/>生，如理宣說，而令眾生如說修習，行諸梵<lb
  n="0230a07" ed="T"/>行，利益安樂天人世間。<lb
  n="0230a08" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說大集法門經卷上</ab><lb
+</ab><ab type='juan' subtype='close'>佛說大集法門經卷上</ab><lb
  n="0230a09" ed="T"/><lb
  n="0230a10" ed="T"/>
-<ab type="juan" subtype="open">佛說大集法門經卷下</ab><lb
+<ab type='juan' subtype='open'>佛說大集法門經卷下</ab><lb
  n="0230a11" ed="T"/><lb
  n="0230a12" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿<lb
  n="0230a13" ed="T"/>卿傳法大師賜紫臣施護奉　詔譯</byline><lb
- n="0230a14" ed="T"/><ab type="prose">「復次，諸苾芻！當知五取蘊，是佛所說。謂色<lb
+ n="0230a14" ed="T"/><ab type='prose'>「復次，諸苾芻！當知五取蘊，是佛所說。謂色<lb
  n="0230a15" ed="T"/>取蘊、受取蘊、想取蘊、行取蘊、識取蘊。<lb
  n="0230a16" ed="T"/>「復次，五欲，是佛所說。謂眼見於色，心喜樂<lb
  n="0230a17" ed="T"/>欲，以樂欲心取著色塵。耳聞於聲、鼻齅於<lb
@@ -643,5 +643,5 @@
  n="0233b18" ed="T"/>大歡喜。」爾時，諸苾芻聞佛稱讚此大集法門<lb
  n="0233b19" ed="T"/>已，歡喜信受，禮佛而退。<lb
  n="0233b20" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說大集法門經卷下</ab></div>
+</ab><ab type='juan' subtype='close'>佛說大集法門經卷下</ab></div>
 </body></text></TEI>

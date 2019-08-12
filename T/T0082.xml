@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0082</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0901b20" ed="T"/><lb
  n="0901b21" ed="T"/><lb
- n="0901b22" ed="T"/><div type="jing" level="1"><lb
+ n="0901b22" ed="T"/><div type='jing' level='1'><lb
  n="0901b23" ed="T"/>
-<ab type="juan" subtype="open">佛說意經</ab><lb
+<ab type='juan' subtype='open'>佛說意經</ab><lb
  n="0901b24" ed="T"/><lb
  n="0901b25" ed="T"/><byline>西晉月氏國三藏竺法護譯</byline><lb
- n="0901b26" ed="T"/><ab type="prose">聞如是：一時，婆伽婆在舍衛城祇樹給孤獨<lb
+ n="0901b26" ed="T"/><ab type='prose'>聞如是：一時，婆伽婆在舍衛城祇樹給孤獨<lb
  n="0901b27" ed="T"/>園。彼時，有異比丘獨坐房中，意作是念：「以何<lb
  n="0901b28" ed="T"/>故世間牽？以何故受於苦？以何故生已，生已<lb
  n="0901b29" ed="T"/>入隨從？」於是彼比丘從下晡起，起已往詣世<pb n="0901c" ed="T" id="T01.0082.0901c"/><lb
@@ -109,5 +109,5 @@
  n="0902a27" ed="T"/>知法，至成阿羅漢。佛如是說，彼比丘聞世尊<lb
  n="0902a28" ed="T"/>所說，歡喜而樂。<lb
  n="0902a29" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說意經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說意經</ab></div>
 </body></text></TEI>

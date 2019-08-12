@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0004</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0159a21" ed="T"/><lb
  n="0159a22" ed="T"/><lb
- n="0159a23" ed="T"/><div type="jing" level="1"><lb
+ n="0159a23" ed="T"/><div type='jing' level='1'><lb
  n="0159a24" ed="T"/>
-<ab type="juan" subtype="open">七佛父母姓字經</ab><lb
+<ab type='juan' subtype='open'>七佛父母姓字經</ab><lb
  n="0159a25" ed="T"/><lb
  n="0159a26" ed="T"/><byline>失譯附前魏譯</byline><lb
- n="0159a27" ed="T"/><ab type="prose">聞如是：一時，佛在舍衛國，國中有婦人，子字<lb
+ n="0159a27" ed="T"/><ab type='prose'>聞如是：一時，佛在舍衛國，國中有婦人，子字<lb
  n="0159a28" ed="T"/>無延，因號無延母。佛將五百比丘，到無延<lb
  n="0159a29" ed="T"/>母家，殿上坐飯。飯已，有數十比丘，於屏處相<pb n="0159b" ed="T" id="T01.0004.0159b"/><lb
  n="0159b01" ed="T"/>與共語言：「佛是我所尊事神無極，佛自在意<lb
@@ -138,5 +138,5 @@
  n="0160a28" ed="T"/>佛教天下皆使為善，得道度世亦如是。」諸比<lb
  n="0160a29" ed="T"/>丘聞經歡喜，作禮而退。<pb n="0160b" ed="T" id="T01.0004.0160b"/><lb
  n="0160b01" ed="T"/>
-</ab><ab type="juan" subtype="close">七佛父母姓字經</ab></div>
+</ab><ab type='juan' subtype='close'>七佛父母姓字經</ab></div>
 </body></text></TEI>

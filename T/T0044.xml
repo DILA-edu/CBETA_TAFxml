@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0044</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0829b03" ed="T"/><lb
  n="0829b04" ed="T"/><lb
- n="0829b05" ed="T"/><div type="jing" level="1"><lb
+ n="0829b05" ed="T"/><div type='jing' level='1'><lb
  n="0829b06" ed="T"/>
-<ab type="juan" subtype="open">佛說古來世時經</ab><lb
+<ab type='juan' subtype='open'>佛說古來世時經</ab><lb
  n="0829b07" ed="T"/><lb
  n="0829b08" ed="T"/><byline>失譯人名附東晉錄</byline><lb
- n="0829b09" ed="T"/><ab type="prose">聞如是：一時，佛遊波羅奈仙人鹿處。爾時，諸<lb
+ n="0829b09" ed="T"/><ab type='prose'>聞如是：一時，佛遊波羅奈仙人鹿處。爾時，諸<lb
  n="0829b10" ed="T"/>比丘飯食已後，會於講堂而共講議：「設有長<lb
  n="0829b11" ed="T"/>者所行平等，有淨戒比丘奉行真戒，來入其<lb
  n="0829b12" ed="T"/>舍從受分衛，若復曰獲致百斤金，何所勝<lb
@@ -82,7 +82,7 @@
  n="0829c12" ed="T"/>沙門。假使爾時知其道人緣覺道成，廣大其<lb
  n="0829c13" ed="T"/>心，福不可量。」於是頌曰：<lb
  n="0829c14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「吾曾擔負草，　　貧窮傭以活，　　<lb
  n="0829c15" ed="T"/>供養於沙門，　　和里緣覺稱。　　<lb
  n="0829c16" ed="T"/>因斯生釋種，　　號曰阿難律，　　<lb
@@ -104,7 +104,7 @@
  n="0830a03" ed="T"/>維耶竹樹間，　　吾命盡於彼，　　<lb
  n="0830a04" ed="T"/>在於竹樹下，　　滅度而無漏。」　　
 </ab><lb
- n="0830a05" ed="T"/><ab type="prose">爾時，世尊道耳徹聞，阿難律比丘為眾比丘<lb
+ n="0830a05" ed="T"/><ab type='prose'>爾時，世尊道耳徹聞，阿難律比丘為眾比丘<lb
  n="0830a06" ed="T"/>自說宿命，本所更歷福德之報，從定室出，<lb
  n="0830a07" ed="T"/>詣講堂坐比丘前，告諸比丘：「汝等共會，何所<lb
  n="0830a08" ed="T"/>講論？」諸比丘曰：「吾等普會，各論罪福善惡所<lb
@@ -163,49 +163,49 @@
  n="0830c03" ed="T"/>諸比丘講當來世，今我欲往亂其法教。」魔即<lb
  n="0830c04" ed="T"/>時往於世尊前，以偈頌曰：<lb
  n="0830c05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「我想爾時人，　　體柔髮姝好，　　<lb
  n="0830c06" ed="T"/>眾寶瓔珞身，　　頭戴珠華飾。」　　
 </ab><lb
- n="0830c07" ed="T"/><ab type="prose">於是世尊言：「今魔波旬故來到此，欲亂道教。」<lb
+ n="0830c07" ed="T"/><ab type='prose'>於是世尊言：「今魔波旬故來到此，欲亂道教。」<lb
  n="0830c08" ed="T"/>佛即報魔，以偈頌曰：<lb
  n="0830c09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「爾時世人民，　　無著狐疑斷，　　<lb
  n="0830c10" ed="T"/>蠲除生死網，　　事辦無穿漏，　　<lb
  n="0830c11" ed="T"/>於彌勒佛教，　　淨修於梵行。」　　
 </ab><lb
- n="0830c12" ed="T"/><ab type="prose">於是天魔復以偈頌，報世尊言：<lb
+ n="0830c12" ed="T"/><ab type='prose'>於是天魔復以偈頌，報世尊言：<lb
  n="0830c13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「我想爾時人，　　體衣文鮮明，　　<lb
  n="0830c14" ed="T"/>栴檀以塗身，　　莊嚴其身首，　　<lb
  n="0830c15" ed="T"/>於城雞頭末，　　軻王之治處。」　　
 </ab><lb
- n="0830c16" ed="T"/><ab type="prose">於是世尊以偈報魔曰：<lb
+ n="0830c16" ed="T"/><ab type='prose'>於是世尊以偈報魔曰：<lb
  n="0830c17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「爾時人至誠，　　無我無所受，　　<lb
  n="0830c18" ed="T"/>不用珍異物，　　心無所貪著，　　<lb
  n="0830c19" ed="T"/>在於彌勒世，　　清修於梵行。」　　
 </ab><lb
- n="0830c20" ed="T"/><ab type="prose">魔人以偈復報佛言：<lb
+ n="0830c20" ed="T"/><ab type='prose'>魔人以偈復報佛言：<lb
  n="0830c21" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「我想爾時人，　　貪寶好飲食，　　<lb
  n="0830c22" ed="T"/>便工於歌舞，　　但樂鼓琴瑟，　　<lb
  n="0830c23" ed="T"/>在於雞頭末，　　軻王之所處。」　　
 </ab><lb
- n="0830c24" ed="T"/><ab type="prose">時佛以偈復報魔言：<lb
+ n="0830c24" ed="T"/><ab type='prose'>時佛以偈復報魔言：<lb
  n="0830c25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「彼人度無極，　　壞網無所拘，　　<lb
  n="0830c26" ed="T"/>禪定行平等，　　欣然無所著。　　<lb
  n="0830c27" ed="T"/>魔波旬當知，　　汝以投於地。」　　
 </ab><lb
- n="0830c28" ed="T"/><ab type="prose">爾時魔波旬心自念言：「如來神聖，已知我所<lb
+ n="0830c28" ed="T"/><ab type='prose'>爾時魔波旬心自念言：「如來神聖，已知我所<lb
  n="0830c29" ed="T"/>住興滅。」憂愁不樂，羞愧而去。佛說是時，莫<pb n="0831a" ed="T" id="T01.0044.0831a"/><lb
  n="0831a01" ed="T"/>不歡喜。<lb
  n="0831a02" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說古來世時經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說古來世時經</ab></div>
 </body></text></TEI>

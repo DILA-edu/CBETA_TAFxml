@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T10</biblScope>
                     <idno type="Taisho">T10n0297</idno>
                 </bibl>
@@ -39,18 +39,18 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0880a" ed="T" id="T10.0297.0880a"/><lb
  n="0880a01" ed="T"/><lb
  n="0880a02" ed="T"/><lb
  n="0880a03" ed="T"/>
-<ab type="juan" subtype="open">普賢菩薩行願讚</ab><lb
+<ab type='juan' subtype='open'>普賢菩薩行願讚</ab><lb
  n="0880a04" ed="T"/><lb
  n="0880a05" ed="T"/><byline>開府儀同三司特進試鴻臚卿<lb
  n="0880a06" ed="T"/>肅國公食邑三千戶賜紫贈司空<lb
  n="0880a07" ed="T"/>諡大鑑正號大廣智大興善寺<lb
  n="0880a08" ed="T"/>三藏沙門不空奉　詔譯</byline><lb
- n="0880a09" ed="T"/><div type="jing" level="2"><ab type="verse">
+ n="0880a09" ed="T"/><div type='jing' level='2'><ab type='verse'>
 所有十方世界中，　　一切三世人師子，　　<lb
  n="0880a10" ed="T"/>我今禮彼盡無餘，　　皆以清淨身口意。　　<lb
  n="0880a11" ed="T"/>身如剎土微塵數，　　一切如來我悉禮，　　<lb
@@ -176,7 +176,7 @@
  n="0881b15" ed="T"/>我獲得此普賢行，　　殊勝無量福德聚，　　<lb
  n="0881b16" ed="T"/>所有群生溺惡習，　　皆往無量光佛宮。　　
 </ab><lb
- n="0881b17" ed="T"/><ab type="verse">
+ n="0881b17" ed="T"/><ab type='verse'>
 <head>八大菩薩讚</head><lb
  n="0881b18" ed="T"/>圓寂宮城門，　　能摧戶扇者，　　<lb
  n="0881b19" ed="T"/>諸佛法受用，　　救世我頂禮。　　<lb
@@ -200,14 +200,14 @@
  n="0881c08" ed="T"/>以此諸有情，　　如彼成讚器。　　
 </ab></div><lb
  n="0881c09" ed="T"/>
-<ab type="juan" subtype="close">普賢菩薩行願讚</ab><lb
- n="0881c10" ed="T"/><div type="w" level="2"><ab type="prose">速疾滿普賢行願陀羅尼曰：<lb
+<ab type='juan' subtype='close'>普賢菩薩行願讚</ab><lb
+ n="0881c10" ed="T"/><div type='w' level='2'><ab type='prose'>速疾滿普賢行願陀羅尼曰：<lb
  n="0881c11" ed="T"/></ab>
-<ab type="dharani">襄麼悉底哩也地尾迦南怛佗孽<lb
+<ab type='dharani'>襄麼悉底哩也地尾迦南怛佗孽<lb
  n="0881c12" ed="T"/>哆南唵阿戌嚩囉尾擬儞娑嚩訶<lb
  n="0881c13" ed="T"/><lb
  n="0881c14" ed="T"/></ab>
-<ab type="prose">每日誦普賢菩薩行願讚後，即誦此真言，纔<lb
+<ab type='prose'>每日誦普賢菩薩行願讚後，即誦此真言，纔<lb
  n="0881c15" ed="T"/>誦一遍，普賢行願悉皆圓滿，三摩地人，速得<lb
  n="0881c16" ed="T"/>三昧現前，福德智慧，二種莊嚴，獲堅固法，速<lb
  n="0881c17" ed="T"/>疾成就。</ab></div></div>

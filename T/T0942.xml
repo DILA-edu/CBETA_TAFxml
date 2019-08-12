@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n0942</idno>
                 </bibl>
@@ -42,20 +42,20 @@
         <body><lb
  n="0097c07" ed="T"/><lb
  n="0097c08" ed="T"/><lb
- n="0097c09" ed="T"/><div type="dharani" level="1"><lb
+ n="0097c09" ed="T"/><div type='dharani' level='1'><lb
  n="0097c10" ed="T"/>
-<ab type="juan" subtype="open">釋迦佛讚</ab><lb
+<ab type='juan' subtype='open'>釋迦佛讚</ab><lb
  n="0097c11" ed="T"/><lb
  n="0097c12" ed="T"/><byline>內廷清字經館行走唐古<lb
  n="0097c13" ed="T"/>忒學教習闡福寺副達喇<lb
  n="0097c14" ed="T"/>嘛薩穆丹達爾吉譯</byline><lb
- n="0097c15" ed="T"/><ab type="dharani">納摩沙喇伊麻尼鴉徂郭卡阿鴉<lb
+ n="0097c15" ed="T"/><ab type='dharani'>納摩沙喇伊麻尼鴉徂郭卡阿鴉<lb
  n="0097c16" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 三時及釋冤　　成道與龍乾　　<lb
  n="0097c17" ed="T"/>悉戴上寶尊　　妙莊足蓮下　　
 </ab><lb
- n="0097c18" ed="T"/><ab type="verse">
+ n="0097c18" ed="T"/><ab type='verse'>
 金光朗耀威德身　　乾闥妙音難比語　　<lb
  n="0097c19" ed="T"/>億日光潔清明心　　導引眾生釋迦尊　　<lb
  n="0097c20" ed="T"/>如清天列諸星宿　　遍照海中悉澈明　　<lb
@@ -71,7 +71,7 @@
  n="0098a01" ed="T"/>菩提樹下英勇坐　　以慈慧兵鎮魔君　　<lb
  n="0098a02" ed="T"/>威力降伏皆已盡　　猶如烈風掃黑雲　　
 </ab><lb
- n="0098a03" ed="T"/><ab type="verse">
+ n="0098a03" ed="T"/><ab type='verse'>
 不著甲冑器　　獨與億萬魔　　<lb
  n="0098a04" ed="T"/>全勝無餘陣　　除尊有誰能　　<lb
  n="0098a05" ed="T"/>世尊仁慈火　　極煎欲天心　　<lb
@@ -79,14 +79,14 @@
  n="0098a07" ed="T"/>為利眾生故　　絲毫無倦時　　<lb
  n="0098a08" ed="T"/>眾生在尊前　　誦德亦無倦　　
 </ab><lb
- n="0098a09" ed="T"/><ab type="verse">
+ n="0098a09" ed="T"/><ab type='verse'>
 心深莫測如淵海　　語善妙若天鼓音　　<lb
  n="0098a10" ed="T"/>身勝現似須彌臺　　見聞憶念悉不空　　<lb
  n="0098a11" ed="T"/>所有世界諸眾生　　一時共稟所疑義　　<lb
  n="0098a12" ed="T"/>隨彼一一各等前　　同時示現身及語　　<lb
  n="0098a13" ed="T"/>即斷諸惑已盡矣　　
 </ab><lb
- n="0098a14" ed="T"/><ab type="verse">
+ n="0098a14" ed="T"/><ab type='verse'>
 聖身語意之密理　　菩薩緣覺及羅漢　　<lb
  n="0098a15" ed="T"/>任爾觀察非智境　　何況釋梵世間等　　<lb
  n="0098a16" ed="T"/>如金翅王行虛空　　有時力弱即止回　　<lb
@@ -104,11 +104,11 @@
  n="0098a28" ed="T"/>我願從今修菩提　　乃至成道伏魔君　　<lb
  n="0098a29" ed="T"/>生生世尊常隨護　　承受甘露語無厭　　
 </ab><pb n="0098b" id="T19.0942.0098b" ed="T"/><lb
- n="0098b01" ed="T"/><ab type="prose">右為釋迦牟尼讚文謂速得攝受因持三藏弟<lb
- n="0098b02" ed="T"/>子將󰷛󰷬磋祈請多聞大德慧賢名師在西藏<lb
- n="0098b03" ed="T"/>雪山洞萵德工󰷮之神祠著作。<lb
+ n="0098b01" ed="T"/><ab type='prose'>右為釋迦牟尼讚文謂速得攝受因持三藏弟<lb
+ n="0098b02" ed="T"/>子將𭘏𭄢磋祈請多聞大德慧賢名師在西藏<lb
+ n="0098b03" ed="T"/>雪山洞萵德工𭄻之神祠著作。<lb
  n="0098b04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 如來體微妙云何　　及於眷屬共壽量　　<lb
  n="0098b05" ed="T"/>境界及於號云何　　願我等皆亦復然　　<lb
  n="0098b06" ed="T"/>讚祝世尊微善力　　我等隨方所在處　　<lb
@@ -116,7 +116,7 @@
  n="0098b08" ed="T"/>一切諸佛興於世　　聖教顯明如日光　　<lb
  n="0098b09" ed="T"/>持教相和如兄弟　　願施正教恒吉祥　　
 </ab><lb
- n="0098b10" ed="T"/><ab type="prose">右十二句誦者之願文隨前讚誦之可也。<lb
+ n="0098b10" ed="T"/><ab type='prose'>右十二句誦者之願文隨前讚誦之可也。<lb
  n="0098b11" ed="T"/>
-</ab><ab type="juan" subtype="close">釋迦佛讚竟</ab></div>
+</ab><ab type='juan' subtype='close'>釋迦佛讚竟</ab></div>
 </body></text></TEI>

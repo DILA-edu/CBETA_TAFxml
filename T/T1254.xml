@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1254</idno>
                 </bibl>
@@ -42,15 +42,15 @@
         <body><lb
  n="0255c05" ed="T"/><lb
  n="0255c06" ed="T"/><lb
- n="0255c07" ed="T"/><div type="jing" level="1"><lb
+ n="0255c07" ed="T"/><div type='jing' level='1'><lb
  n="0255c08" ed="T"/>
-<ab type="juan" subtype="open">末利支提婆華鬘經</ab><lb
+<ab type='juan' subtype='open'>末利支提婆華鬘經</ab><lb
  n="0255c09" ed="T"/><lb
  n="0255c10" ed="T"/><byline>開府儀同三司特進試鴻臚卿肅國<lb
  n="0255c11" ed="T"/>公食邑三千戶賜紫贈司空諡大鑒<lb
  n="0255c12" ed="T"/>正號大廣智大興善寺三藏沙門<lb
  n="0255c13" ed="T"/>不空奉　詔譯</byline><lb
- n="0255c14" ed="T"/><ab type="prose">如是我聞。一時佛在舍衛國祇樹給孤獨園。<lb
+ n="0255c14" ed="T"/><ab type='prose'>如是我聞。一時佛在舍衛國祇樹給孤獨園。<lb
  n="0255c15" ed="T"/>與大阿羅漢二百五十人俱。復有無量大菩薩<lb
  n="0255c16" ed="T"/>眾。彌勒菩薩曼殊室利菩薩觀世音菩薩而為<lb
  n="0255c17" ed="T"/>上首。及末利支等諸天龍神八部前後圍遶。<lb
@@ -61,24 +61,24 @@
  n="0255c22" ed="T"/>佛世尊即說此言。有天名末利支。常在日前<lb
  n="0255c23" ed="T"/>行。日不見彼彼能見日即說呪曰。<lb
  n="0255c24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 南謨佛陀耶　　南謨達摩耶　　<pb n="0256a" id="T21.1254.0256a" ed="T"/><lb
  n="0256a01" ed="T"/>南謨僧伽耶　　
 </ab><lb
- n="0256a02" ed="T"/><ab type="dharani">怛儞也他阿囉迦摩斯末迦摩斯阿豆摩<lb
+ n="0256a02" ed="T"/><ab type='dharani'>怛儞也他阿囉迦摩斯末迦摩斯阿豆摩<lb
  n="0256a03" ed="T"/>斯支婆羅摩斯安達檀那摩斯摩利支波羅摩<lb
  n="0256a04" ed="T"/>斯那漠率都羝娑嚩賀<lb
  n="0256a05" ed="T"/></ab>
-<ab type="prose">王難中覆護我。賊難行路難失路曠野。晝日<lb
+<ab type='prose'>王難中覆護我。賊難行路難失路曠野。晝日<lb
  n="0256a06" ed="T"/>夜中水難火難。羅剎難茶雞支儞鬼難中<lb
  n="0256a07" ed="T"/>毒藥難。佛語真實法語真實僧實語。天實語<lb
  n="0256a08" ed="T"/>仙人實語覆護我呪曰。<lb
  n="0256a09" ed="T"/></ab>
-<ab type="dharani">怛儞也他阿羅拘利阿羅拘利吉利的<lb
+<ab type='dharani'>怛儞也他阿羅拘利阿羅拘利吉利的<lb
  n="0256a10" ed="T"/>羝勒叉勒叉我某甲薩婆婆油鉢陀羅菩<lb
  n="0256a11" ed="T"/>提婆伽夜栖裨馺婆賀<lb
  n="0256a12" ed="T"/></ab>
-<ab type="prose">佛言若有人欲行此法者。一切法中此法最<lb
+<ab type='prose'>佛言若有人欲行此法者。一切法中此法最<lb
  n="0256a13" ed="T"/>勝。若人欲得供養末利支天者。應用金若銀<lb
  n="0256a14" ed="T"/>若赤銅若白檀若紫檀。應作末利支天形像。<lb
  n="0256a15" ed="T"/>其造像法。一似天女形。身長大小一寸二寸<lb
@@ -324,12 +324,12 @@
  n="0258c23" ed="T"/>供養始得驗之。末利支說此法竟。與諸天龍<lb
  n="0258c24" ed="T"/>八部禮佛而退。<lb
  n="0258c25" ed="T"/></ab>
-<ab type="dharani">怛姪他阿羅居隷阿羅居隷吉利帝底薩婆伽<lb
+<ab type='dharani'>怛姪他阿羅居隷阿羅居隷吉利帝底薩婆伽<lb
  n="0258c26" ed="T"/>羅醯鼻薩菩烏波塗瑟䶩鼻薩婆伊<lb
  n="0258c27" ed="T"/>底廋烏波達囉髀鼻勒叉勒叉莫麼<lb
  n="0258c28" ed="T"/>耶寫莎嚩訶<lb
  n="0258c29" ed="T"/></ab>
-<ab type="prose">有一本云。作天像法。其像二手。左一手屈臂<pb n="0259a" id="T21.1254.0259a" ed="T"/><lb
+<ab type='prose'>有一本云。作天像法。其像二手。左一手屈臂<pb n="0259a" id="T21.1254.0259a" ed="T"/><lb
  n="0259a01" ed="T"/>向上平橫。當左乳前把拳。拳中把拂。形如講<lb
  n="0259a02" ed="T"/>法師高座上所把形。於其拂中作西國萬字<lb
  n="0259a03" ed="T"/>文形。亦如佛像胸上字。字四曲內各作日形。<lb
@@ -337,48 +337,48 @@
  n="0259a05" ed="T"/>手申臂及指解垂下。其作像法。畫像一種無<lb
  n="0259a06" ed="T"/>別。其像身長一寸二寸乃至一肘。<lb
  n="0259a07" ed="T"/></ab>
-<ab type="dharani">怛姪他阿羅拘梨阿羅拘梨雞利底跢薩嚩<lb
+<ab type='dharani'>怛姪他阿羅拘梨阿羅拘梨雞利底跢薩嚩<lb
  n="0259a08" ed="T"/>伽囉醯鼻薩菩鉢跢羅髀鼻薩<lb
  n="0259a09" ed="T"/>婆伊都廋鉢跢囉鞞弊曷勒叉曷勒叉麼<lb
  n="0259a10" ed="T"/>麼夜寫莎嚩訶</ab>
-<ab type="prose">以後別此呪縛賊。<lb
+<ab type='prose'>以後別此呪縛賊。<lb
  n="0259a11" ed="T"/>曼殊室利菩薩說呪曰。<lb
  n="0259a12" ed="T"/>歸命同千轉頭。<lb
  n="0259a13" ed="T"/></ab>
-<ab type="dharani">那冒曼殊室利曳矩摩羅菩多夜怛姪他醯<lb
+<ab type='dharani'>那冒曼殊室利曳矩摩羅菩多夜怛姪他醯<lb
  n="0259a14" ed="T"/>利底瑟吒怛婆羯羅趺途徙摩<lb
  n="0259a15" ed="T"/>遮羅莎嚩賀<lb
  n="0259a16" ed="T"/></ab>
-<ab type="prose">又若在道行逢賊時。呪手大母指急把指。遇<lb
+<ab type='prose'>又若在道行逢賊時。呪手大母指急把指。遇<lb
  n="0259a17" ed="T"/>賊無難。若呪衣袂或衣衿。左綟七遍急把誦<lb
  n="0259a18" ed="T"/>呪而過。<lb
  n="0259a19" ed="T"/>除睡呪<lb
  n="0259a20" ed="T"/></ab>
-<ab type="dharani">怛姪他伊底彌底只底比迦那羶底波陀恥<lb
+<ab type='dharani'>怛姪他伊底彌底只底比迦那羶底波陀恥<lb
  n="0259a21" ed="T"/>莎嚩賀<lb
  n="0259a22" ed="T"/></ab>
-<ab type="prose">若人坐中多睡時。於佛前至心誦七遍便少<lb
+<ab type='prose'>若人坐中多睡時。於佛前至心誦七遍便少<lb
  n="0259a23" ed="T"/>無也。<lb
  n="0259a24" ed="T"/>毘沙門呪曰。<lb
  n="0259a25" ed="T"/></ab>
-<ab type="dharani">那謨裴鑠囉皤拏寫摩訶曷囉闍寫施鞞娑婆<lb
+<ab type='dharani'>那謨裴鑠囉皤拏寫摩訶曷囉闍寫施鞞娑婆<lb
  n="0259a26" ed="T"/>呵施皤跋趺犁娑婆訶<lb
  n="0259a27" ed="T"/></ab>
-<ab type="prose">若呪淨油七遍若二七遍。用塗臥所。乞財物<lb
+<ab type='prose'>若呪淨油七遍若二七遍。用塗臥所。乞財物<lb
  n="0259a28" ed="T"/>等得如所願。<lb
  n="0259a29" ed="T"/>呪一切賊法<pb n="0259b" id="T21.1254.0259b" ed="T"/><lb
  n="0259b01" ed="T"/></ab>
-<ab type="dharani">補魯那補魯那主嚕訶主嚕訶薩寫娑婆<lb
+<ab type='dharani'>補魯那補魯那主嚕訶主嚕訶薩寫娑婆<lb
  n="0259b02" ed="T"/>訶<lb
  n="0259b03" ed="T"/></ab>
-<ab type="prose">更有呪縛賊呪。<lb
+<ab type='prose'>更有呪縛賊呪。<lb
  n="0259b04" ed="T"/></ab>
-<ab type="dharani">伽吒加吒僧伽吒我今為加吒終不為解加<lb
+<ab type='dharani'>伽吒加吒僧伽吒我今為加吒終不為解加<lb
  n="0259b05" ed="T"/>吒<lb
  n="0259b06" ed="T"/></ab>
-<ab type="prose">又若被賊。燒香誦呪。若有疑者并稱名。若<lb
+<ab type='prose'>又若被賊。燒香誦呪。若有疑者并稱名。若<lb
  n="0259b07" ed="T"/>不知者但當面誦呪呪之。賊即自縛自道盜<lb
  n="0259b08" ed="T"/>物。得已然後解放大驗也。<lb
  n="0259b09" ed="T"/>
-</ab><ab type="juan" subtype="close">末利支提婆花鬘經</ab></div>
+</ab><ab type='juan' subtype='close'>末利支提婆花鬘經</ab></div>
 </body></text></TEI>

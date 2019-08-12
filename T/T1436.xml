@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T23</biblScope>
                     <idno type="Taisho">T23n1436</idno>
                 </bibl>
@@ -44,16 +44,16 @@
  n="0470b22" ed="T"/><lb
  n="0470b23" ed="T"/><lb
  n="0470b24" ed="T"/>
-<ab type="juan" subtype="open">十誦比丘波羅提木叉戒本</ab><lb
+<ab type='juan' subtype='open'>十誦比丘波羅提木叉戒本</ab><lb
  n="0470b25" ed="T"/><lb
  n="0470b26" ed="T"/><byline>姚秦三藏鳩摩羅什譯</byline><lb
- n="0470b27" ed="T"/><div type="jing" level="1"><ab type="prose">「大德僧聽！冬時一月過少一夜，餘有一夜三<lb
+ n="0470b27" ed="T"/><div type='jing' level='1'><ab type='prose'>「大德僧聽！冬時一月過少一夜，餘有一夜三<lb
  n="0470b28" ed="T"/>月在。老死至近，佛法欲滅。諸大德！為得道<lb
  n="0470b29" ed="T"/>故，一心勤精進。所以者何？諸佛一心勤精進<pb n="0470c" ed="T" id="T23.1436.0470c"/><lb
  n="0470c01" ed="T"/>故，得阿耨多羅三藐三菩提，何況餘善道法！」<lb
  n="0470c02" ed="T"/>「未受具戒者已出。」「僧今和合，先作何事？」「諸大德！不來諸比丘，說欲及清淨。」<lb
  n="0470c04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「合十指爪掌，　　供養釋師子；　　<lb
  n="0470c05" ed="T"/>我今欲說戒，　　僧當一心聽！　　<lb
  n="0470c06" ed="T"/>乃至小罪中，　　心應大怖畏；　　<lb
@@ -69,7 +69,7 @@
  n="0470c16" ed="T"/>日夜常精進，　　求實智慧故；　　<lb
  n="0470c17" ed="T"/>是人佛法中，　　能得清淨命。」　　
 </ab><lb
- n="0470c18" ed="T"/><ab type="prose">「大德僧聽！今十五日布薩說波羅提木叉。<lb
+ n="0470c18" ed="T"/><ab type='prose'>「大德僧聽！今十五日布薩說波羅提木叉。<lb
  n="0470c19" ed="T"/>若僧時到僧忍聽，僧一心作布薩說波羅提<lb
  n="0470c20" ed="T"/>木叉，白如是。」<lb
  n="0470c21" ed="T"/>「諸大德！今共作布薩說波羅提木叉，僧一心<lb
@@ -245,7 +245,7 @@
  n="0472c18" ed="T"/>尼薩耆波夜提。<lb
  n="0472c19" ed="T"/>「若比丘，從非親里居士、若居士婦乞衣得<lb
  n="0472c20" ed="T"/>者，尼薩耆波夜提；<lb
- n="0472c21" ed="T"/>除因緣。因緣者，奪衣、失衣、燒衣、濡衣，是名<lb
+ n="0472c21" ed="T"/>除因緣。因緣者，奪衣、失衣、燒衣、漂衣，是名<lb
  n="0472c22" ed="T"/>因緣。<lb
  n="0472c23" ed="T"/>「若比丘，奪衣、失衣、燒衣、漂衣，從非親里居<lb
  n="0472c24" ed="T"/>士、若居士婦乞衣。若非親里居士、若居士婦<lb
@@ -467,8 +467,8 @@
  n="0475b12" ed="T"/>時，若堅持是事不捨，<lb
  n="0475b13" ed="T"/>諸比丘應第二、第三諫。捨是事好；若不捨，<lb
  n="0475b14" ed="T"/>波夜提。<lb
- n="0475b15" ed="T"/>「若比丘，知是人如是語不如法悔，不捨惡邪<lb
- n="0475b16" ed="T"/>見故擯。若畜使共事、若語共宿，波夜提。<lb
+ n="0475b15" ed="T"/>「若比丘，知是人如是語不如法悔，不捨是惡邪<lb
+ n="0475b16" ed="T"/>見故擯。若畜使共事、共語、共宿，波夜提。<lb
  n="0475b17" ed="T"/>「若有沙彌作是言：『我如是知佛法義，行諸欲<lb
  n="0475b18" ed="T"/>不能障道。』是沙彌，諸比丘應如是教：『汝沙彌！<lb
  n="0475b19" ed="T"/>莫作是語：「我如是知佛法義，行諸欲不能障<lb
@@ -732,63 +732,63 @@
  n="0478b22" ed="T"/>毘婆尸佛如來、無所著、等正覺，為六百二十<lb
  n="0478b23" ed="T"/>萬比丘前後圍遶，說是戒經：<lb
  n="0478b24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「忍辱第一道，　　涅槃佛稱最；　　<lb
  n="0478b25" ed="T"/>出家惱他人，　　不名為沙門。」　　
 </ab><lb
- n="0478b26" ed="T"/><ab type="prose">尸棄佛如來、無所著、等正覺，為八十萬比丘<lb
+ n="0478b26" ed="T"/><ab type='prose'>尸棄佛如來、無所著、等正覺，為八十萬比丘<lb
  n="0478b27" ed="T"/>前後圍遶，說是戒經：<lb
  n="0478b28" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「譬如明眼人，　　能避險惡道；　　<lb
  n="0478b29" ed="T"/>世有聰明人，　　能遠離諸惡。」　　
 </ab><pb n="0478c" ed="T" id="T23.1436.0478c"/><lb
- n="0478c01" ed="T"/><ab type="prose">毘鉢施佛如來、無所著、等正覺，為十萬比丘<lb
+ n="0478c01" ed="T"/><ab type='prose'>毘鉢施佛如來、無所著、等正覺，為十萬比丘<lb
  n="0478c02" ed="T"/>前後圍遶，說是戒經：<lb
  n="0478c03" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「不惱不說過，　　如戒所說行，　　<lb
  n="0478c04" ed="T"/>飯食知節量，　　常樂在閑處，　　<lb
  n="0478c05" ed="T"/>心淨樂精進，　　是名諸佛教。」　　
 </ab><lb
- n="0478c06" ed="T"/><ab type="prose">拘留孫佛如來、無所著、等正覺，為四萬比<lb
+ n="0478c06" ed="T"/><ab type='prose'>拘留孫佛如來、無所著、等正覺，為四萬比<lb
  n="0478c07" ed="T"/>丘前後圍遶，說是戒經：<lb
  n="0478c08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「譬如蜂採花，　　不壞色與香，　　<lb
  n="0478c09" ed="T"/>但取其味去；　　比丘入聚落，　　<lb
  n="0478c10" ed="T"/>不破壞他事，　　不觀作不作，　　<lb
  n="0478c11" ed="T"/>但自觀身行，　　諦視善不善。」　　
 </ab><lb
- n="0478c12" ed="T"/><ab type="prose">拘那含佛如來、無所著、等正覺，為三萬比丘<lb
+ n="0478c12" ed="T"/><ab type='prose'>拘那含佛如來、無所著、等正覺，為三萬比丘<lb
  n="0478c13" ed="T"/>前後圍遶，說是戒經：<lb
  n="0478c14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「欲得好心莫放逸，　　聖人善法當懃學；　　<lb
  n="0478c15" ed="T"/>若有知寂一心人，　　乃能無復憂愁患。」　　
 </ab><lb
- n="0478c16" ed="T"/><ab type="prose">迦葉佛如來、無所著、等正覺，為二萬比丘前<lb
+ n="0478c16" ed="T"/><ab type='prose'>迦葉佛如來、無所著、等正覺，為二萬比丘前<lb
  n="0478c17" ed="T"/>後圍遶，說是戒經：<lb
  n="0478c18" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「一切惡莫作，　　當具足善法，　　<lb
  n="0478c19" ed="T"/>自淨其志意，　　是名諸佛教。」　　
 </ab><lb
- n="0478c20" ed="T"/><ab type="prose">我釋迦牟尼佛如來、無所著、等正覺，為千二<lb
+ n="0478c20" ed="T"/><ab type='prose'>我釋迦牟尼佛如來、無所著、等正覺，為千二<lb
  n="0478c21" ed="T"/>百五十未曾有僧前後圍遶，說是戒經：<lb
  n="0478c22" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「護身為善哉，　　能護口亦善；　　<lb
  n="0478c23" ed="T"/>護意為善哉，　　護一切亦善。　　<lb
  n="0478c24" ed="T"/>比丘護一切，　　便得離眾惡；　　<lb
  n="0478c25" ed="T"/>比丘守口意，　　身不犯眾惡，　　<lb
  n="0478c26" ed="T"/>是三業道淨，　　得聖所得道。」　　
 </ab><lb
- n="0478c27" ed="T"/><ab type="verse">
+ n="0478c27" ed="T"/><ab type='verse'>
 「若人撾罵不還報，　　於嫌恨人心不恨，　　<lb
  n="0478c28" ed="T"/>於瞋人中心常淨，　　見人為惡自不作。」　　
 </ab><lb
- n="0478c29" ed="T"/><ab type="verse">
+ n="0478c29" ed="T"/><ab type='verse'>
 「七佛為世尊，　　能救護世間；　　<pb n="0479a" ed="T" id="T23.1436.0479a"/><lb
  n="0479a01" ed="T"/>所可說戒經，　　我已廣說竟。　　<lb
  n="0479a02" ed="T"/>諸佛及弟子，　　恭敬是戒經；　　<lb
@@ -797,5 +797,5 @@
  n="0479a05" ed="T"/>已說戒經竟，　　僧一心布薩。」　　
 </ab></div><lb
  n="0479a06" ed="T"/>
-<ab type="juan" subtype="close">十誦比丘波羅提木叉戒本</ab>
+<ab type='juan' subtype='close'>十誦比丘波羅提木叉戒本</ab>
 </body></text></TEI>

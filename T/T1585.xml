@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T31</biblScope>
                     <idno type="Taisho">T31n1585</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0001a" id="T31.1585.0001a" ed="T"/><lb
  n="0001a01" ed="T"/><lb
- n="0001a02" ed="T"/><div type="jing" level="2"><lb
+ n="0001a02" ed="T"/><div type='jing' level='2'><lb
  n="0001a03" ed="T"/>
-<ab type="juan" subtype="open">成唯識論卷第一</ab><lb
+<ab type='juan' subtype='open'>成唯識論卷第一</ab><lb
  n="0001a04" ed="T"/><lb
  n="0001a05" ed="T"/><byline>護法等菩薩造</byline><lb
  n="0001a06" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
- n="0001a07" ed="T"/><ab type="prose">稽首唯識性。滿分清淨者。我今釋彼說。利<lb
+ n="0001a07" ed="T"/><ab type='prose'>稽首唯識性。滿分清淨者。我今釋彼說。利<lb
  n="0001a08" ed="T"/>樂諸有情。今造此論為於二空有迷謬者<lb
  n="0001a09" ed="T"/>生正解故。生解為斷二重障故。由我法<lb
  n="0001a10" ed="T"/>執二障具生。若證二空彼障隨斷。斷障為<lb
@@ -62,14 +62,14 @@
  n="0001a18" ed="T"/>如實解故作斯論。若唯有識。云何世間及<lb
  n="0001a19" ed="T"/>諸聖教。說有我法。頌曰。<lb
  n="0001a20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 <head>１</head>由假說我法　　有種種相轉　　<lb
  n="0001a21" ed="T"/>彼依識所變　　此能變唯三　　
 </ab><lb
- n="0001a22" ed="T"/><ab type="verse">
+ n="0001a22" ed="T"/><ab type='verse'>
 <head>２</head>謂異熟思量　　及了別境識　　
 </ab><lb
- n="0001a23" ed="T"/><ab type="prose">論曰。世間聖教說有我法。但由假立非實<lb
+ n="0001a23" ed="T"/><ab type='prose'>論曰。世間聖教說有我法。但由假立非實<lb
  n="0001a24" ed="T"/>有性。我謂主宰。法謂軌持。彼二俱有種種相<lb
  n="0001a25" ed="T"/>轉。我種種相。謂有情命者等。預流一來等。法<lb
  n="0001a26" ed="T"/>種種相。謂實德業等。蘊處界等。轉謂隨緣施<lb
@@ -467,15 +467,15 @@
  n="0005c12" ed="T"/>想。依異熟立得異熟名。故此三法亦非實<lb
  n="0005c13" ed="T"/>有。<lb
  n="0005c14" ed="T"/>
-</ab><ab type="juan" subtype="close">成唯識論卷第一</ab><lb
+</ab><ab type='juan' subtype='close'>成唯識論卷第一</ab><lb
  n="0005c15" ed="T"/><lb
  n="0005c16" ed="T"/><lb
  n="0005c17" ed="T"/>
-<ab type="juan" subtype="open">成唯識論卷第二</ab><lb
+<ab type='juan' subtype='open'>成唯識論卷第二</ab><lb
  n="0005c18" ed="T"/><lb
  n="0005c19" ed="T"/><byline>護法等菩薩造</byline><lb
  n="0005c20" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
- n="0005c21" ed="T"/><ab type="prose">復如何知。諸有為相。異色心等有實自性。<lb
+ n="0005c21" ed="T"/><ab type='prose'>復如何知。諸有為相。異色心等有實自性。<lb
  n="0005c22" ed="T"/>契經說故。如契經說。有三有為之有為相。<lb
  n="0005c23" ed="T"/>乃至廣說。此經不說異色心等有實自性。<lb
  n="0005c24" ed="T"/>為證不成。非第六聲便表異體。色心之體<lb
@@ -624,11 +624,11 @@
  n="0007b22" ed="T"/>理。然依識變對遣妄執真實我法說假似<lb
  n="0007b23" ed="T"/>言。由此契經伽他中說。<lb
  n="0007b24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 為對遣愚夫　　所執實我法　　<lb
  n="0007b25" ed="T"/>故於識所變　　假說我法名　　
 </ab><lb
- n="0007b26" ed="T"/><ab type="prose">識所變相雖無量種。而能變識類別唯三。<lb
+ n="0007b26" ed="T"/><ab type='prose'>識所變相雖無量種。而能變識類別唯三。<lb
  n="0007b27" ed="T"/>一謂異熟。即第八識多異熟性故。二謂思量。<lb
  n="0007b28" ed="T"/>即第七識恒審思量故。三謂了境。即前六識<lb
  n="0007b29" ed="T"/>了境相麁故。及言顯六合為一種。此三皆<pb n="0007c" id="T31.1585.0007c" ed="T"/><lb
@@ -647,18 +647,18 @@
  n="0007c13" ed="T"/>說能變三名。而未廣辯能變三相。且初能<lb
  n="0007c14" ed="T"/>變其相云何。頌曰。<lb
  n="0007c15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 初阿賴耶識　　異熟一切種　　
 </ab><lb
- n="0007c16" ed="T"/><ab type="verse">
+ n="0007c16" ed="T"/><ab type='verse'>
 <head>３</head>不可知執受　　處了常與觸　　<lb
  n="0007c17" ed="T"/>作意受想思　　相應唯捨受　　
 </ab><lb
- n="0007c18" ed="T"/><ab type="verse">
+ n="0007c18" ed="T"/><ab type='verse'>
 <head>４</head>是無覆無記　　觸等亦如是　　<lb
  n="0007c19" ed="T"/>恒轉如瀑流　　阿羅漢位捨　　
 </ab><lb
- n="0007c20" ed="T"/><ab type="prose">論曰。初能變識大小乘教名阿賴耶。此識<lb
+ n="0007c20" ed="T"/><ab type='prose'>論曰。初能變識大小乘教名阿賴耶。此識<lb
  n="0007c21" ed="T"/>具有能藏所藏執藏義故。謂與雜染互為<lb
  n="0007c22" ed="T"/>緣故。有情執為自內我故。此即顯示初能<lb
  n="0007c23" ed="T"/>變識所有自相。攝持因果為自相故。此識<lb
@@ -731,11 +731,11 @@
  n="0008c03" ed="T"/>名為習所成種。若唯本有轉識不應與阿<lb
  n="0008c04" ed="T"/>賴耶為因緣性。如契經說。<lb
  n="0008c05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 諸法於識藏　　識於法亦爾　　<lb
  n="0008c06" ed="T"/>更互為果性　　亦常為因性　　
 </ab><lb
- n="0008c07" ed="T"/><ab type="prose">此頌意言。阿賴耶識與諸轉識。於一切時<lb
+ n="0008c07" ed="T"/><ab type='prose'>此頌意言。阿賴耶識與諸轉識。於一切時<lb
  n="0008c08" ed="T"/>展轉相生互為因果。攝大乘說。阿賴耶識<lb
  n="0008c09" ed="T"/>與雜染法互為因緣。如炷與焰展轉生燒。<lb
  n="0008c10" ed="T"/>又如束蘆互相依住。唯依此二建立因緣。<lb
@@ -874,11 +874,11 @@
  n="0010a27" ed="T"/>虛空等。或虛空等亦是能緣。故心心所必有<lb
  n="0010a28" ed="T"/>二相。如契經說。<lb
  n="0010a29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 一切唯有覺　　所覺義皆無　　<pb n="0010b" id="T31.1585.0010b" ed="T"/><lb
  n="0010b01" ed="T"/>能覺所覺分　　各自然而轉　　
 </ab><lb
- n="0010b02" ed="T"/><ab type="prose">執有離識所緣境者。彼說外境是所緣。相<lb
+ n="0010b02" ed="T"/><ab type='prose'>執有離識所緣境者。彼說外境是所緣。相<lb
  n="0010b03" ed="T"/>分名行相。見分名事。是心心所自體相故。<lb
  n="0010b04" ed="T"/>心與心所同所依緣行相相似。事雖數等<lb
  n="0010b05" ed="T"/>而相各異。識受想等相各別故。達無離識<lb
@@ -892,11 +892,11 @@
  n="0010b13" ed="T"/>故。相見必有所依體故。如集量論伽他中<lb
  n="0010b14" ed="T"/>說。<lb
  n="0010b15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 似境相所量　　能取相自證　　<lb
  n="0010b16" ed="T"/>即能量及果　　此三體無別　　
 </ab><lb
- n="0010b17" ed="T"/><ab type="prose">又心心所若細分別應有四分。三分如前。<lb
+ n="0010b17" ed="T"/><ab type='prose'>又心心所若細分別應有四分。三分如前。<lb
  n="0010b18" ed="T"/>復有第四證自證分。此若無者誰證第三。心<lb
  n="0010b19" ed="T"/>分既同應皆證故。又自證分應無有果。諸<lb
  n="0010b20" ed="T"/>能量者必有果故。不應見分是第三果。見<lb
@@ -909,11 +909,11 @@
  n="0010b27" ed="T"/>成。具所能緣無無窮過。非即非離唯識理<lb
  n="0010b28" ed="T"/>成。是故契經伽他中說。<lb
  n="0010b29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 眾生心二性　　內外一切分　　<pb n="0010c" id="T31.1585.0010c" ed="T"/><lb
  n="0010c01" ed="T"/>所取能取纏　　見種種差別　　
 </ab><lb
- n="0010c02" ed="T"/><ab type="prose">此頌意說。眾生心性二分合成。若內若外皆<lb
+ n="0010c02" ed="T"/><ab type='prose'>此頌意說。眾生心性二分合成。若內若外皆<lb
  n="0010c03" ed="T"/>有所取能取纏縛。見有種種或量非量或現<lb
  n="0010c04" ed="T"/>或比多分差別。此中見者是見分故。如是<lb
  n="0010c05" ed="T"/>四分或攝為三。第四攝入自證分故。或攝<lb
@@ -921,11 +921,11 @@
  n="0010c07" ed="T"/>見者是能緣義。或攝為一體無別故如入<lb
  n="0010c08" ed="T"/>楞伽伽他中說。<lb
  n="0010c09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 由自心執著　　心似外境轉　　<lb
  n="0010c10" ed="T"/>彼所見非有　　是故說唯心　　
 </ab><lb
- n="0010c11" ed="T"/><ab type="prose">如是處處說唯一心。此一心言亦攝心所。<lb
+ n="0010c11" ed="T"/><ab type='prose'>如是處處說唯一心。此一心言亦攝心所。<lb
  n="0010c12" ed="T"/>故識行相即是了別。了別即是識之見分。所<lb
  n="0010c13" ed="T"/>言處者。謂異熟識由共相種成熟力故變<lb
  n="0010c14" ed="T"/>似色等器世間相。即外大種及所造色。雖諸<lb
@@ -982,15 +982,15 @@
  n="0011b07" ed="T"/>離身識應信為有。然必應許滅定有識<lb
  n="0011b08" ed="T"/>有情攝故如有心時。無想等位當知亦爾。<lb
  n="0011b09" ed="T"/>
-</ab><ab type="juan" subtype="close">成唯識論卷第二</ab><lb
+</ab><ab type='juan' subtype='close'>成唯識論卷第二</ab><lb
  n="0011b10" ed="T"/><lb
  n="0011b11" ed="T"/><lb
  n="0011b12" ed="T"/>
-<ab type="juan" subtype="open">成唯識論卷第三</ab><lb
+<ab type='juan' subtype='open'>成唯識論卷第三</ab><lb
  n="0011b13" ed="T"/><lb
  n="0011b14" ed="T"/><byline>護法等菩薩造</byline><lb
  n="0011b15" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
- n="0011b16" ed="T"/><ab type="prose">此識與幾心所相應。常與觸作意受想思相<lb
+ n="0011b16" ed="T"/><ab type='prose'>此識與幾心所相應。常與觸作意受想思相<lb
  n="0011b17" ed="T"/>應。阿賴耶識無始時來乃至未轉。於一切<lb
  n="0011b18" ed="T"/>位恒與此五心所相應。以是遍行心所攝<lb
  n="0011b19" ed="T"/>故。觸謂三和。分別變異。令心心所觸境為<lb
@@ -1201,11 +1201,11 @@
  n="0013c21" ed="T"/>異生位持有漏種可受熏習。未得善淨第<lb
  n="0013c22" ed="T"/>八識故如契經說。<lb
  n="0013c23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 如來無垢識　　是淨無漏界　　<lb
  n="0013c24" ed="T"/>解脫一切障　　圓鏡智相應　　
 </ab><lb
- n="0013c25" ed="T"/><ab type="prose">阿賴耶名過失重故最初捨故此中偏說。異<lb
+ n="0013c25" ed="T"/><ab type='prose'>阿賴耶名過失重故最初捨故此中偏說。異<lb
  n="0013c26" ed="T"/>熟識體菩薩將得菩提時捨。聲聞獨覺入無<lb
  n="0013c27" ed="T"/>餘依涅槃時捨。無垢識體無有捨時。利樂<lb
  n="0013c28" ed="T"/>有情無盡時故。心等通故隨義應說然第<lb
@@ -1223,11 +1223,11 @@
  n="0014a11" ed="T"/>聖教正理為定量故。謂有大乘阿毘達磨<lb
  n="0014a12" ed="T"/>契經中說。<lb
  n="0014a13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 無始時來界　　一切法等依　　<lb
  n="0014a14" ed="T"/>由此有諸趣　　及涅槃證得　　
 </ab><lb
- n="0014a15" ed="T"/><ab type="prose">此第八識自性微細。故以作用而顯示之。<lb
+ n="0014a15" ed="T"/><ab type='prose'>此第八識自性微細。故以作用而顯示之。<lb
  n="0014a16" ed="T"/>頌中初半顯第八識為因緣用。後半顯與<lb
  n="0014a17" ed="T"/>流轉還滅作依持用。界是因義。即種子識<lb
  n="0014a18" ed="T"/>無始時來展轉相續親生諸法故名為因。依<lb
@@ -1264,11 +1264,11 @@
  n="0014b20" ed="T"/>諸所說義離第八識皆不得有。即彼經中<lb
  n="0014b21" ed="T"/>復作是說。<lb
  n="0014b22" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 由攝藏諸法　　一切種子識　　<lb
  n="0014b23" ed="T"/>故名阿賴耶　　勝者我開示　　
 </ab><lb
- n="0014b24" ed="T"/><ab type="prose">由此本識具諸種子故能攝藏諸雜染法。<lb
+ n="0014b24" ed="T"/><ab type='prose'>由此本識具諸種子故能攝藏諸雜染法。<lb
  n="0014b25" ed="T"/>依斯建立阿賴耶名。非如勝性轉為大等。<lb
  n="0014b26" ed="T"/>種子與果體非一故。能依所依俱生滅故。與<lb
  n="0014b27" ed="T"/>雜染法互相攝藏。亦為有情執藏為我。故<lb
@@ -1279,11 +1279,11 @@
  n="0014c03" ed="T"/>轉依。故亦為說。非諸轉識有如是義。解深<lb
  n="0014c04" ed="T"/>密經亦作是說。<lb
  n="0014c05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 阿陀那識甚深細　　一切種子如瀑流　　<lb
  n="0014c06" ed="T"/>我於凡愚不開演　　恐彼分別執為我　　
 </ab><lb
- n="0014c07" ed="T"/><ab type="prose">以能執持諸法種子。及能執受色根依處。<lb
+ n="0014c07" ed="T"/><ab type='prose'>以能執持諸法種子。及能執受色根依處。<lb
  n="0014c08" ed="T"/>亦能執取結生相續。故說此識名阿陀那。<lb
  n="0014c09" ed="T"/>無性有情不能窮底故說甚深。趣寂種性<lb
  n="0014c10" ed="T"/>不能通達故名甚細。是一切法真實種子。<lb
@@ -1292,13 +1292,13 @@
  n="0014c13" ed="T"/>墮諸惡趣障生聖道。故我世尊不為開演。<lb
  n="0014c14" ed="T"/>唯第八識有如是相。入楞伽經亦作是說。<lb
  n="0014c15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 如海遇風緣　　起種種波浪　　<lb
  n="0014c16" ed="T"/>現前作用轉　　無有間斷時　　<lb
  n="0014c17" ed="T"/>藏識海亦然　　境等風所擊　　<lb
  n="0014c18" ed="T"/>恒起諸識浪　　現前作用轉　　
 </ab><lb
- n="0014c19" ed="T"/><ab type="prose">眼等諸識無如大海恒相續轉起諸識浪。故<lb
+ n="0014c19" ed="T"/><ab type='prose'>眼等諸識無如大海恒相續轉起諸識浪。故<lb
  n="0014c20" ed="T"/>知別有第八識性。此等無量大乘經中。皆別<lb
  n="0014c21" ed="T"/>說有此第八識。諸大乘經皆順無我違數<lb
  n="0014c22" ed="T"/>取趣。棄背流轉趣向還滅。讚佛法僧毀諸<lb
@@ -1325,11 +1325,11 @@
  n="0015a14" ed="T"/>語。是故大乘真是佛說。如莊嚴論頌此義<lb
  n="0015a15" ed="T"/>言。<lb
  n="0015a16" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 先不記俱行　　非餘所行境　　<lb
  n="0015a17" ed="T"/>極成有無有　　對治異文故　　
 </ab><lb
- n="0015a18" ed="T"/><ab type="prose">餘部經中亦密意說阿賴耶識有別自性。<lb
+ n="0015a18" ed="T"/><ab type='prose'>餘部經中亦密意說阿賴耶識有別自性。<lb
  n="0015a19" ed="T"/>謂大眾部阿笈摩中密意說此名根本識。是<lb
  n="0015a20" ed="T"/>眼識等所依止故。譬如樹根是莖等本。非<lb
  n="0015a21" ed="T"/>眼等識有如是義。上坐部經分別論者俱密<lb
@@ -1519,15 +1519,15 @@
  n="0017b02" ed="T"/>轉故。無力恒時執持名色。寧說恒與名色<lb
  n="0017b03" ed="T"/>為緣。故彼識言顯第八識。<lb
  n="0017b04" ed="T"/>
-</ab><ab type="juan" subtype="close">成唯識論卷第三</ab><lb
+</ab><ab type='juan' subtype='close'>成唯識論卷第三</ab><lb
  n="0017b05" ed="T"/><lb
  n="0017b06" ed="T"/><lb
  n="0017b07" ed="T"/>
-<ab type="juan" subtype="open">成唯識論卷第四</ab><lb
+<ab type='juan' subtype='open'>成唯識論卷第四</ab><lb
  n="0017b08" ed="T"/><lb
  n="0017b09" ed="T"/><byline>護法等菩薩造</byline><lb
  n="0017b10" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
- n="0017b11" ed="T"/><ab type="prose">又契經說一切有情皆依食住。若無此識彼<lb
+ n="0017b11" ed="T"/><ab type='prose'>又契經說一切有情皆依食住。若無此識彼<lb
  n="0017b12" ed="T"/>識食體不應有故。謂契經說食有四種。一<lb
  n="0017b13" ed="T"/>者段食變壞為相。謂欲界繫香味觸三於變<lb
  n="0017b14" ed="T"/>壞時能為食事。由此色處非段食攝。以變<lb
@@ -1692,19 +1692,19 @@
  n="0019a28" ed="T"/>然。諸有智人應深信受。如是已說初能變<lb
  n="0019a29" ed="T"/>相。第二能變其相云何。頌曰。<pb n="0019b" id="T31.1585.0019b" ed="T"/><lb
  n="0019b01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 <head>５</head>次第二能變　　是識名末那　　<lb
  n="0019b02" ed="T"/>依彼轉緣彼　　思量為性相　　
 </ab><lb
- n="0019b03" ed="T"/><ab type="verse">
+ n="0019b03" ed="T"/><ab type='verse'>
 <head>６</head>四煩惱常俱　　謂我癡我見　　<lb
  n="0019b04" ed="T"/>并我慢我愛　　及餘觸等俱　　
 </ab><lb
- n="0019b05" ed="T"/><ab type="verse">
+ n="0019b05" ed="T"/><ab type='verse'>
 <head>７</head>有覆無記攝　　隨所生所繫　　<lb
  n="0019b06" ed="T"/>阿羅漢滅定　　出世道無有　　
 </ab><lb
- n="0019b07" ed="T"/><ab type="prose">論曰。次初異熟能變識後應辯思量能變<lb
+ n="0019b07" ed="T"/><ab type='prose'>論曰。次初異熟能變識。後應辯思量能變<lb
  n="0019b08" ed="T"/>識相。是識聖教別名末那。恒審思量勝餘<lb
  n="0019b09" ed="T"/>識故。此名何異第六意識。此持業釋如藏<lb
  n="0019b10" ed="T"/>識名。識即意故。彼依主釋。如眼識等。識異<lb
@@ -1743,19 +1743,19 @@
  n="0019c14" ed="T"/>為俱有依。眼等五根即種子故。二十唯識伽<lb
  n="0019c15" ed="T"/>他中言。<lb
  n="0019c16" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 識從自種生　　似境相而轉　　<lb
  n="0019c17" ed="T"/>為成內外處　　佛說彼為十　　
 </ab><lb
- n="0019c18" ed="T"/><ab type="prose">彼頌意說。世尊為成十二處故。說五識種<lb
+ n="0019c18" ed="T"/><ab type='prose'>彼頌意說。世尊為成十二處故。說五識種<lb
  n="0019c19" ed="T"/>為眼等根。五識相分為色等境。故眼等根即<lb
  n="0019c20" ed="T"/>五識種。觀所緣論亦作是說。<lb
  n="0019c21" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 識上色功能　　名五根應理　　<lb
  n="0019c22" ed="T"/>功能與境色　　無始互為因　　
 </ab><lb
- n="0019c23" ed="T"/><ab type="prose">彼頌意言。異熟識上能生眼等色識種子名<lb
+ n="0019c23" ed="T"/><ab type='prose'>彼頌意言。異熟識上能生眼等色識種子名<lb
  n="0019c24" ed="T"/>色功能。說為五根無別眼等。種與色識常<lb
  n="0019c25" ed="T"/>互為因。能熏與種遞為因故。第七八識無<lb
  n="0019c26" ed="T"/>別此依。恒相續轉自力勝故。第六意識別有<lb
@@ -1842,11 +1842,11 @@
  n="0020c20" ed="T"/>俱有所依但有一種。謂第八識。藏識若無定<lb
  n="0020c21" ed="T"/>不轉故。如伽他說。<lb
  n="0020c22" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 阿賴耶為依　　故有末那轉　　<lb
  n="0020c23" ed="T"/>依止心及意　　餘轉識得生　　
 </ab><lb
- n="0020c24" ed="T"/><ab type="prose">阿賴耶識俱有所依亦但一種。謂第七識。彼<lb
+ n="0020c24" ed="T"/><ab type='prose'>阿賴耶識俱有所依亦但一種。謂第七識。彼<lb
  n="0020c25" ed="T"/>識若無定不轉故。論說藏識恒與末那俱<lb
  n="0020c26" ed="T"/>時轉故。又說藏識恒依染污。此即末那。而<lb
  n="0020c27" ed="T"/>說三位無末那者依有覆說。如言四位<lb
@@ -2068,15 +2068,15 @@
  n="0023b11" ed="T"/>謂前九法八隨煩惱并別境慧。無餘心所及<lb
  n="0023b12" ed="T"/>論三文。准前應釋。若作是說不違理教。<lb
  n="0023b13" ed="T"/>
-</ab><ab type="juan" subtype="close">成唯識論卷第四</ab><lb
+</ab><ab type='juan' subtype='close'>成唯識論卷第四</ab><lb
  n="0023b14" ed="T"/><lb
  n="0023b15" ed="T"/><lb
  n="0023b16" ed="T"/>
-<ab type="juan" subtype="open">成唯識論卷第五</ab><lb
+<ab type='juan' subtype='open'>成唯識論卷第五</ab><lb
  n="0023b17" ed="T"/><lb
  n="0023b18" ed="T"/><byline>護法等菩薩造</byline><lb
  n="0023b19" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
- n="0023b20" ed="T"/><ab type="prose">此染污意何受相應。有義此俱唯有喜受。恒<lb
+ n="0023b20" ed="T"/><ab type='prose'>此染污意何受相應。有義此俱唯有喜受。恒<lb
  n="0023b21" ed="T"/>內執我生喜愛故。有義不然。應許喜受乃<lb
  n="0023b22" ed="T"/>至有頂。違聖言故。應說此意四受相應。謂<lb
  n="0023b23" ed="T"/>生惡趣憂受相應。緣不善業所引果故。生<lb
@@ -2189,19 +2189,19 @@
  n="0024c14" ed="T"/>故。餘六名識。於六別境麁動間斷了別轉<lb
  n="0024c15" ed="T"/>故。如入楞伽伽他中說。<lb
  n="0024c16" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 藏識說名心　　思量性名意　　<lb
  n="0024c17" ed="T"/>能了諸境相　　是說名為識　　
 </ab><lb
- n="0024c18" ed="T"/><ab type="prose">又大乘經處處別說有第七識故此別有。諸<lb
+ n="0024c18" ed="T"/><ab type='prose'>又大乘經處處別說有第七識故此別有。諸<lb
  n="0024c19" ed="T"/>大乘經是至教量。前已廣說故不重成。解脫<lb
  n="0024c20" ed="T"/>經中亦別說有此第七識。如彼頌言。<lb
  n="0024c21" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 染污意恒時　　諸惑俱生滅　　<lb
  n="0024c22" ed="T"/>若解脫諸惑　　非曾非當有　　
 </ab><lb
- n="0024c23" ed="T"/><ab type="prose">彼經自釋此頌義言。有染污意從無始來。<lb
+ n="0024c23" ed="T"/><ab type='prose'>彼經自釋此頌義言。有染污意從無始來。<lb
  n="0024c24" ed="T"/>與四煩惱恒俱生滅。謂我見我愛及我慢我<lb
  n="0024c25" ed="T"/>癡。對治道生斷煩惱已。此意從彼便得解<lb
  n="0024c26" ed="T"/>脫。爾時此意相應煩惱。非唯現無亦無過<lb
@@ -2212,11 +2212,11 @@
  n="0025a02" ed="T"/>謂諸異生於一切分恒起迷理不共無明覆<lb
  n="0025a03" ed="T"/>真實義障聖慧眼。如伽他說。<lb
  n="0025a04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 真義心當生　　常能為障礙　　<lb
  n="0025a05" ed="T"/>俱行一切分　　謂不共無明　　
 </ab><lb
- n="0025a06" ed="T"/><ab type="prose">是故契經說。異生類恒處長夜無明所盲<lb
+ n="0025a06" ed="T"/><ab type='prose'>是故契經說。異生類恒處長夜無明所盲<lb
  n="0025a07" ed="T"/>惛醉纏心曾無醒覺。若異生位有暫不起<lb
  n="0025a08" ed="T"/>此無明時。便違經義。俱異生位迷理無明<lb
  n="0025a09" ed="T"/>有行不行不應理故。此依六識皆不得<lb
@@ -2287,11 +2287,11 @@
  n="0025c16" ed="T"/>斯見分相分所拘不得自在。故名相縛。依<lb
  n="0025c17" ed="T"/>如是義有伽他言。<lb
  n="0025c18" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 如是染污意　　是識之所依　　<lb
  n="0025c19" ed="T"/>此意未滅時　　識縛終不脫　　
 </ab><lb
- n="0025c20" ed="T"/><ab type="prose">又善無覆無記心時。若無我執應非有漏。<lb
+ n="0025c20" ed="T"/><ab type='prose'>又善無覆無記心時。若無我執應非有漏。<lb
  n="0025c21" ed="T"/>自相續中六識煩惱與彼善等不俱起故。<lb
  n="0025c22" ed="T"/>去來緣縛理非有故。非由他惑成有漏<lb
  n="0025c23" ed="T"/>故。勿由他解成無漏故。又不可說別有<lb
@@ -2314,11 +2314,11 @@
  n="0026a11" ed="T"/>依六根說六。而識類別實有八種。如是已<lb
  n="0026a12" ed="T"/>說第二能變。第三能變其相云何。頌曰。<lb
  n="0026a13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 <head>８</head>次第三能變　　差別有六種　　<lb
  n="0026a14" ed="T"/>了境為性相　　善不善俱非　　
 </ab><lb
- n="0026a15" ed="T"/><ab type="prose">論曰。次中思量能變識。後應辯了境能<lb
+ n="0026a15" ed="T"/><ab type='prose'>論曰。次中思量能變識後。應辯了境能<lb
  n="0026a16" ed="T"/>變識相。此識差別總有六種。隨六根境種<lb
  n="0026a17" ed="T"/>類異故。謂名眼識乃至意識。隨根立名<lb
  n="0026a18" ed="T"/>具五義故。五謂依發屬助如根。雖六識身<lb
@@ -2374,11 +2374,11 @@
  n="0026c10" ed="T"/>攝。佛色心等道諦攝故。已永滅除戲論種<lb
  n="0026c11" ed="T"/>故。六識與幾心所相應。頌曰。<lb
  n="0026c12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 <head>９</head>此心所遍行　　別境善煩惱　　<lb
  n="0026c13" ed="T"/>隨煩惱不定　　皆三受相應　　
 </ab><lb
- n="0026c14" ed="T"/><ab type="prose">論曰。此六轉識總與六位心所相應。謂遍行<lb
+ n="0026c14" ed="T"/><ab type='prose'>論曰。此六轉識總與六位心所相應。謂遍行<lb
  n="0026c15" ed="T"/>等。恒依心起與心相應。繫屬於心故名心<lb
  n="0026c16" ed="T"/>所。如屬我物立我所名。心於所緣唯取總<lb
  n="0026c17" ed="T"/>相。心所於彼亦取別相。助成心事得心所<lb
@@ -2480,11 +2480,11 @@
  n="0027c26" ed="T"/>所略摽六位心所。今應廣顯彼差別相。<lb
  n="0027c27" ed="T"/>且初二位其相云何。頌曰。<lb
  n="0027c28" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 <head>１０</head>初遍行觸等　　次別境謂欲　　<lb
  n="0027c29" ed="T"/>勝解念定慧　　所緣事不同　　
 </ab><pb n="0028a" id="T31.1585.0028a" ed="T"/><lb
- n="0028a01" ed="T"/><ab type="prose">論曰。六位中初遍行心所即觸等五。如前廣<lb
+ n="0028a01" ed="T"/><ab type='prose'>論曰。六位中初遍行心所即觸等五。如前廣<lb
  n="0028a02" ed="T"/>說。此遍行相云何應知。由教及理為定量<lb
  n="0028a03" ed="T"/>故。此中教者如契經言。眼色為緣生於眼<lb
  n="0028a04" ed="T"/>識。三和合觸。與觸俱生有受想思。乃至廣<lb
@@ -2610,22 +2610,22 @@
  n="0029b08" ed="T"/>說。由斯欲等五受相應。此五復依性界學<lb
  n="0029b09" ed="T"/>等。諸門分別如理應思。<lb
  n="0029b10" ed="T"/>
-</ab><ab type="juan" subtype="close">成唯識論卷第五</ab><lb
+</ab><ab type='juan' subtype='close'>成唯識論卷第五</ab><lb
  n="0029b11" ed="T"/><lb
  n="0029b12" ed="T"/><lb
  n="0029b13" ed="T"/>
-<ab type="juan" subtype="open">成唯識論卷第六</ab><lb
+<ab type='juan' subtype='open'>成唯識論卷第六</ab><lb
  n="0029b14" ed="T"/><lb
  n="0029b15" ed="T"/><byline>護法等菩薩造</byline><lb
  n="0029b16" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
- n="0029b17" ed="T"/><ab type="prose">已說遍行別境二位。善位心所其相云何。頌<lb
+ n="0029b17" ed="T"/><ab type='prose'>已說遍行別境二位。善位心所其相云何。頌<lb
  n="0029b18" ed="T"/>曰。<lb
  n="0029b19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 <head>１１</head>善謂信慚愧　　無貪等三根　　<lb
  n="0029b20" ed="T"/>勤安不放逸　　行捨及不害　　
 </ab><lb
- n="0029b21" ed="T"/><ab type="prose">論曰。唯善心俱名善心所。謂信慚等定有十<lb
+ n="0029b21" ed="T"/><ab type='prose'>論曰。唯善心俱名善心所。謂信慚等定有十<lb
  n="0029b22" ed="T"/>一。云何為信。於實德能深忍樂欲心淨為<lb
  n="0029b23" ed="T"/>性。對治不信樂善為業。然信差別略有三<lb
  n="0029b24" ed="T"/>種。一信實有。謂於諸法實事理中深信忍<lb
@@ -2796,10 +2796,10 @@
  n="0031b15" ed="T"/>別如理應思。如是已說善位心所。煩惱心<lb
  n="0031b16" ed="T"/>所其相云何。頌曰。<lb
  n="0031b17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 <head>１２</head>煩惱謂貪瞋　　癡慢疑惡見　　
 </ab><lb
- n="0031b18" ed="T"/><ab type="prose">論曰。此貪等六性是根本煩惱攝故。得煩惱<lb
+ n="0031b18" ed="T"/><ab type='prose'>論曰。此貪等六性是根本煩惱攝故。得煩惱<lb
  n="0031b19" ed="T"/>名。云何為貪。於有有具染著為性。能障<lb
  n="0031b20" ed="T"/>無貪生苦為業。謂由愛力取蘊生故。云何<lb
  n="0031b21" ed="T"/>為瞋於苦苦具憎恚為性。能障無瞋不安<lb
@@ -2957,17 +2957,17 @@
  n="0033a28" ed="T"/>別如理應思。已說根本六煩惱相。諸隨煩<lb
  n="0033a29" ed="T"/>惱其相云何。頌曰。<pb n="0033b" id="T31.1585.0033b" ed="T"/><lb
  n="0033b01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 隨煩惱謂忿　　恨覆惱嫉慳　　
 </ab><lb
- n="0033b02" ed="T"/><ab type="verse">
+ n="0033b02" ed="T"/><ab type='verse'>
 <head>１３</head>誑諂與害憍　　無慚及無愧　　<lb
  n="0033b03" ed="T"/>掉舉與惛沈　　不信并懈怠　　
 </ab><lb
- n="0033b04" ed="T"/><ab type="verse">
+ n="0033b04" ed="T"/><ab type='verse'>
 <head>１４</head>放逸及失念　　散亂不正知　　
 </ab><lb
- n="0033b05" ed="T"/><ab type="prose">論曰。唯是煩惱分位差別。等流性故名隨煩<lb
+ n="0033b05" ed="T"/><ab type='prose'>論曰。唯是煩惱分位差別。等流性故名隨煩<lb
  n="0033b06" ed="T"/>惱。此二十種類別有三。謂忿等十各別起故<lb
  n="0033b07" ed="T"/>名小隨煩惱。無慚等二遍不善故名中隨<lb
  n="0033b08" ed="T"/>煩惱。掉舉等八遍染心故名大隨煩惱。云<lb
@@ -3160,20 +3160,20 @@
  n="0035b21" ed="T"/>然忿等十但緣有事。要記本質方得生故。<lb
  n="0035b22" ed="T"/>緣有漏等准上應知。<lb
  n="0035b23" ed="T"/>
-</ab><ab type="juan" subtype="close">成唯識論卷第六</ab><pb n="0035c" id="T31.1585.0035c" ed="T"/><lb
+</ab><ab type='juan' subtype='close'>成唯識論卷第六</ab><pb n="0035c" id="T31.1585.0035c" ed="T"/><lb
  n="0035c01" ed="T"/><lb
  n="0035c02" ed="T"/>
-<ab type="juan" subtype="open">成唯識論卷第七</ab><lb
+<ab type='juan' subtype='open'>成唯識論卷第七</ab><lb
  n="0035c03" ed="T"/><lb
  n="0035c04" ed="T"/><byline>護法等菩薩造</byline><lb
  n="0035c05" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
- n="0035c06" ed="T"/><ab type="prose">已說二十隨煩惱相。不定有四。其相云何。<lb
+ n="0035c06" ed="T"/><ab type='prose'>已說二十隨煩惱相。不定有四。其相云何。<lb
  n="0035c07" ed="T"/>頌曰。<lb
  n="0035c08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 不定謂悔眠　　尋伺二各二　　
 </ab><lb
- n="0035c09" ed="T"/><ab type="prose">論曰。悔眠尋伺於善染等皆不定故。非如<lb
+ n="0035c09" ed="T"/><ab type='prose'>論曰。悔眠尋伺於善染等皆不定故。非如<lb
  n="0035c10" ed="T"/>觸等定遍心故。非如欲等定遍地故。立不<lb
  n="0035c11" ed="T"/>定名。悔謂惡作。惡所作業追悔為性。障止<lb
  n="0035c12" ed="T"/>為業。此即於果假立因名。先惡所作業後<lb
@@ -3279,20 +3279,20 @@
  n="0036c25" ed="T"/>又如何說心遠獨行。染淨由心。士夫六界。<lb
  n="0036c26" ed="T"/>莊嚴論說復云何通。如彼頌言。<lb
  n="0036c27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 許心似二現　　如是似貪等　　<lb
  n="0036c28" ed="T"/>或似於信等　　無別染善法　　
 </ab><lb
- n="0036c29" ed="T"/><ab type="prose">若即是心分位差別。如何聖教說心相應。他<pb n="0037a" id="T31.1585.0037a" ed="T"/><lb
+ n="0036c29" ed="T"/><ab type='prose'>若即是心分位差別。如何聖教說心相應。他<pb n="0037a" id="T31.1585.0037a" ed="T"/><lb
  n="0037a01" ed="T"/>性相應非自性故。又如何說心與心所俱<lb
  n="0037a02" ed="T"/>時而起如日與光。瑜伽論說復云何通。彼<lb
  n="0037a03" ed="T"/>說心所非即心故。如彼頌言。<lb
  n="0037a04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 五種性不成　　分位差過失　　<lb
  n="0037a05" ed="T"/>因緣無別故　　與聖教相違　　
 </ab><lb
- n="0037a06" ed="T"/><ab type="prose">應說離心有別自性。以心勝故說唯識等。<lb
+ n="0037a06" ed="T"/><ab type='prose'>應說離心有別自性。以心勝故說唯識等。<lb
  n="0037a07" ed="T"/>心所依心。勢力生故說似彼現。非彼即心。<lb
  n="0037a08" ed="T"/>又識心言亦攝心所。恒相應故。唯識等言及<lb
  n="0037a09" ed="T"/>現似彼皆無有失。此依世俗。若依勝義心<lb
@@ -3300,15 +3300,15 @@
  n="0037a11" ed="T"/>謂大乘真俗妙理。已說六識心所相應。云何<lb
  n="0037a12" ed="T"/>應知現起分位。頌曰。<lb
  n="0037a13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 <head>１５</head>依止根本識　　五識隨緣現　　<lb
  n="0037a14" ed="T"/>或俱或不俱　　如濤波依水　　
 </ab><lb
- n="0037a15" ed="T"/><ab type="verse">
+ n="0037a15" ed="T"/><ab type='verse'>
 <head>１６</head>意識常現起　　除生無想天　　<lb
  n="0037a16" ed="T"/>及無心二定　　睡眠與悶絕　　
 </ab><lb
- n="0037a17" ed="T"/><ab type="prose">論曰。根本識者阿陀那識。染淨諸識生根本<lb
+ n="0037a17" ed="T"/><ab type='prose'>論曰。根本識者阿陀那識。染淨諸識生根本<lb
  n="0037a18" ed="T"/>故。依止者謂前六轉識。以根本識為共親<lb
  n="0037a19" ed="T"/>依。五識者謂前五轉識。種類相似故總說<lb
  n="0037a20" ed="T"/>之。隨緣現言顯非常起。緣謂作意根境等<lb
@@ -3448,19 +3448,19 @@
  n="0038c09" ed="T"/>俗非真勝義。真勝義中心言絕故。如伽他<lb
  n="0038c10" ed="T"/>說。<lb
  n="0038c11" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 心意識八種　　俗故相有別　　<lb
  n="0038c12" ed="T"/>真故相無別　　相所相無故　　
 </ab><lb
- n="0038c13" ed="T"/><ab type="prose">已廣分別三能變相為自所變二分所依。云<lb
+ n="0038c13" ed="T"/><ab type='prose'>已廣分別三能變相為自所變二分所依。云<lb
  n="0038c14" ed="T"/>何應知依識所變假說我法非別實有。由<lb
  n="0038c15" ed="T"/>斯一切唯有識耶。頌曰。<lb
  n="0038c16" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 <head>１７</head>是諸識轉變　　分別所分別　　<lb
  n="0038c17" ed="T"/>由此彼皆無　　故一切唯識　　
 </ab><lb
- n="0038c18" ed="T"/><ab type="prose">論曰。是諸識者。謂前所說三能變識及彼心<lb
+ n="0038c18" ed="T"/><ab type='prose'>論曰。是諸識者。謂前所說三能變識及彼心<lb
  n="0038c19" ed="T"/>所。皆能變似見相二分。立轉變名。所變見<lb
  n="0038c20" ed="T"/>分說名分別。能取相故。所變相分名所分<lb
  n="0038c21" ed="T"/>別。見所取故。由此正理彼實我法離識所<lb
@@ -3495,11 +3495,11 @@
  n="0039a21" ed="T"/>前。境若是實何容不現。菩薩成就四智<lb
  n="0039a22" ed="T"/>者。於唯識理決定悟入。又伽他說。<lb
  n="0039a23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 心意識所緣　　皆非離自性　　<lb
  n="0039a24" ed="T"/>故我說一切　　唯有識無餘　　
 </ab><lb
- n="0039a25" ed="T"/><ab type="prose">此等聖教誠證非一。極成眼等識五隨一故<lb
+ n="0039a25" ed="T"/><ab type='prose'>此等聖教誠證非一。極成眼等識五隨一故<lb
  n="0039a26" ed="T"/>如餘不親緣離自色等。餘識識故如眼識<lb
  n="0039a27" ed="T"/>等亦不親緣離自諸法。此親所緣定非離<lb
  n="0039a28" ed="T"/>此。二隨一故如彼能緣。所緣法故如相應<lb
@@ -3508,13 +3508,13 @@
  n="0039b02" ed="T"/>無。離有離無故契中道。慈尊依此說二<lb
  n="0039b03" ed="T"/>頌言。<lb
  n="0039b04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 虛妄分別有　　於此二都無　　<lb
  n="0039b05" ed="T"/>此中唯有空　　於彼亦有此　　<lb
  n="0039b06" ed="T"/>故說一切法　　非空非不空　　<lb
  n="0039b07" ed="T"/>有無及有故　　是則契中道　　
 </ab><lb
- n="0039b08" ed="T"/><ab type="prose">此頌且依染依他說。理實亦有淨分依他。<lb
+ n="0039b08" ed="T"/><ab type='prose'>此頌且依染依他說。理實亦有淨分依他。<lb
  n="0039b09" ed="T"/>若唯內識似外境起。寧見世間情非情物<lb
  n="0039b10" ed="T"/>處時身用定不定轉如夢境等。應釋此疑。<lb
  n="0039b11" ed="T"/>何緣世尊說十二處。依識所變非別實有。<lb
@@ -3532,11 +3532,11 @@
  n="0039b23" ed="T"/>此若無應無顛倒。便無雜染亦無淨法。是<lb
  n="0039b24" ed="T"/>故諸識亦似色現。如有頌言。<lb
  n="0039b25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 亂相及亂體　　應許為色識　　<lb
  n="0039b26" ed="T"/>及與非色識　　若無餘亦無　　
 </ab><lb
- n="0039b27" ed="T"/><ab type="prose">色等外境分明現證。現量所得。寧撥為無。<lb
+ n="0039b27" ed="T"/><ab type='prose'>色等外境分明現證。現量所得。寧撥為無。<lb
  n="0039b28" ed="T"/>現量證時不執為外。後意分別妄生外想。<lb
  n="0039b29" ed="T"/>故現量境是自相分。識所變故亦說為有。意<pb n="0039c" id="T31.1585.0039c" ed="T"/><lb
  n="0039c01" ed="T"/>識所執外實色等。妄計有故說彼為無。又<lb
@@ -3569,11 +3569,11 @@
  n="0039c28" ed="T"/>教理能成是事。故定應信一切唯識。若唯<lb
  n="0039c29" ed="T"/>有識都無外緣。由何而生種種分別。頌曰。<pb n="0040a" id="T31.1585.0040a" ed="T"/><lb
  n="0040a01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 <head>１８</head>由一切種識　　如是如是變　　<lb
  n="0040a02" ed="T"/>以展轉力故　　彼彼分別生　　
 </ab><lb
- n="0040a03" ed="T"/><ab type="prose">論曰。一切種識謂本識中能生自果功能差<lb
+ n="0040a03" ed="T"/><ab type='prose'>論曰。一切種識謂本識中能生自果功能差<lb
  n="0040a04" ed="T"/>別。此生等流異熟士用增上果。故名一切<lb
  n="0040a05" ed="T"/>種。除離繫者非種生故。彼雖可證而非<lb
  n="0040a06" ed="T"/>種果。要現起道斷結得故。有展轉義非此<lb
@@ -3693,15 +3693,15 @@
  n="0041b04" ed="T"/>不明利非後三根。二十二根自性如是。諸<lb
  n="0041b05" ed="T"/>餘門義如論應知。<lb
  n="0041b06" ed="T"/>
-</ab><ab type="juan" subtype="close">成唯識論卷第七</ab><lb
+</ab><ab type='juan' subtype='close'>成唯識論卷第七</ab><lb
  n="0041b07" ed="T"/><lb
  n="0041b08" ed="T"/><lb
  n="0041b09" ed="T"/>
-<ab type="juan" subtype="open">成唯識論卷第八</ab><lb
+<ab type='juan' subtype='open'>成唯識論卷第八</ab><lb
  n="0041b10" ed="T"/><lb
  n="0041b11" ed="T"/><byline>護法等菩薩造</byline><lb
  n="0041b12" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
- n="0041b13" ed="T"/><ab type="prose">如是四緣依十五處義差別故立為十因。<lb
+ n="0041b13" ed="T"/><ab type='prose'>如是四緣依十五處義差別故立為十因。<lb
  n="0041b14" ed="T"/>云何此依十五處立。一語依處。謂法名想所<lb
  n="0041b15" ed="T"/>起語性。即依此處立隨說因。謂依此語<lb
  n="0041b16" ed="T"/>隨見聞等說諸義故。此即能說為所說因。<lb
@@ -3844,11 +3844,11 @@
  n="0043a08" ed="T"/>分別。雖有內識而無外緣由何有情生死<lb
  n="0043a09" ed="T"/>相續。頌曰。<lb
  n="0043a10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 <head>１９</head>由諸業習氣　　二取習氣俱　　<lb
  n="0043a11" ed="T"/>前異熟既盡　　復生餘異熟　　
 </ab><lb
- n="0043a12" ed="T"/><ab type="prose">論曰。諸業謂福非福不動。即有漏善不善思<lb
+ n="0043a12" ed="T"/><ab type='prose'>論曰。諸業謂福非福不動。即有漏善不善思<lb
  n="0043a13" ed="T"/>業。業之眷屬亦立業名。同招引滿異熟果<lb
  n="0043a14" ed="T"/>故。此雖纔起無間即滅無義能招當異熟果。<lb
  n="0043a15" ed="T"/>而熏本識起自功能。即此功能說為習氣。<lb
@@ -4077,19 +4077,19 @@
  n="0045c06" ed="T"/>識何故世尊處處經中說有三性。應知三<lb
  n="0045c07" ed="T"/>性亦不離識。所以者何。頌曰。<lb
  n="0045c08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 <head>２０</head>由彼彼遍計　　遍計種種物　　<lb
  n="0045c09" ed="T"/>此遍計所執　　自性無所有　　
 </ab><lb
- n="0045c10" ed="T"/><ab type="verse">
+ n="0045c10" ed="T"/><ab type='verse'>
 <head>２１</head>依他起自性　　分別緣所生　　<lb
  n="0045c11" ed="T"/>圓成實於彼　　常遠離前性　　
 </ab><lb
- n="0045c12" ed="T"/><ab type="verse">
+ n="0045c12" ed="T"/><ab type='verse'>
 <head>２２</head>故此與依他　　非異非不異　　<lb
  n="0045c13" ed="T"/>如無常等性　　非不見此彼　　
 </ab><lb
- n="0045c14" ed="T"/><ab type="prose">論曰。周遍計度故名遍計。品類眾多說為彼<lb
+ n="0045c14" ed="T"/><ab type='prose'>論曰。周遍計度故名遍計。品類眾多說為彼<lb
  n="0045c15" ed="T"/>彼。謂能遍計虛妄分別。即由彼彼虛妄分別<lb
  n="0045c16" ed="T"/>遍計種種所遍計物。謂所妄執蘊處界等<lb
  n="0045c17" ed="T"/>若法若我自性差別。此所妄執自性差別總<lb
@@ -4168,11 +4168,11 @@
  n="0046c03" ed="T"/>事陽焰夢境鏡像光影谷響水月變化所成<lb
  n="0046c04" ed="T"/>非有似有。依如是義故。有頌言。<lb
  n="0046c05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 非不見真如　　而能了諸行　　<lb
  n="0046c06" ed="T"/>皆如幻事等　　雖有而非真　　
 </ab><lb
- n="0046c07" ed="T"/><ab type="prose">此中意說。三種自性。皆不遠離心心所法。<lb
+ n="0046c07" ed="T"/><ab type='prose'>此中意說。三種自性。皆不遠離心心所法。<lb
  n="0046c08" ed="T"/>謂心心所及所變現眾緣生故。如幻事等非<lb
  n="0046c09" ed="T"/>有似有誑惑愚夫。一切皆名依他起性。愚<lb
  n="0046c10" ed="T"/>夫於此橫執我法有無一異俱不俱等。如空<lb
@@ -4270,30 +4270,30 @@
  n="0047c15" ed="T"/>緣起真義別故。如是三性義類無邊。恐厭<lb
  n="0047c16" ed="T"/>繁文略示綱要。<lb
  n="0047c17" ed="T"/>
-</ab><ab type="juan" subtype="close">成唯識論卷第八</ab><lb
+</ab><ab type='juan' subtype='close'>成唯識論卷第八</ab><lb
  n="0047c18" ed="T"/><lb
  n="0047c19" ed="T"/><lb
  n="0047c20" ed="T"/>
-<ab type="juan" subtype="open">成唯識論卷第九</ab><lb
+<ab type='juan' subtype='open'>成唯識論卷第九</ab><lb
  n="0047c21" ed="T"/><lb
  n="0047c22" ed="T"/><byline>護法等菩薩造</byline><lb
  n="0047c23" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
- n="0047c24" ed="T"/><ab type="prose">若有三性。如何世尊說一切法皆無自性。<lb
+ n="0047c24" ed="T"/><ab type='prose'>若有三性。如何世尊說一切法皆無自性。<lb
  n="0047c25" ed="T"/>頌曰。<lb
  n="0047c26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 <head>２３</head>即依此三性　　立彼三無性　　<lb
  n="0047c27" ed="T"/>故佛密意說　　一切法無性　　
 </ab><lb
- n="0047c28" ed="T"/><ab type="verse">
+ n="0047c28" ed="T"/><ab type='verse'>
 <head>２４</head>初即相無性　　次無自然性　　<lb
  n="0047c29" ed="T"/>後由遠離前　　所執我法性　　
 </ab><pb n="0048a" id="T31.1585.0048a" ed="T"/><lb
- n="0048a01" ed="T"/><ab type="verse">
+ n="0048a01" ed="T"/><ab type='verse'>
 <head>２５</head>此諸法勝義　　亦即是真如　　<lb
  n="0048a02" ed="T"/>常如其性故　　即唯識實性　　
 </ab><lb
- n="0048a03" ed="T"/><ab type="prose">論曰。即依此前所說三性立彼後說三種<lb
+ n="0048a03" ed="T"/><ab type='prose'>論曰。即依此前所說三性立彼後說三種<lb
  n="0048a04" ed="T"/>無性。謂即相生勝義無性。故佛密意說一切<lb
  n="0048a05" ed="T"/>法皆無自性非性全無。說密意言顯非<lb
  n="0048a06" ed="T"/>了義。謂後二性雖體非無。而有愚夫於彼<lb
@@ -4342,11 +4342,11 @@
  n="0048b20" ed="T"/>情類復令悟入唯識相性。初資糧位其相云<lb
  n="0048b21" ed="T"/>何。頌曰。<lb
  n="0048b22" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 <head>２６</head>乃至未起識　　求住唯識性　　<lb
  n="0048b23" ed="T"/>於二取隨眠　　猶未能伏滅　　
 </ab><lb
- n="0048b24" ed="T"/><ab type="prose">論曰。從發深固大菩提心。乃至未起順決<lb
+ n="0048b24" ed="T"/><ab type='prose'>論曰。從發深固大菩提心。乃至未起順決<lb
  n="0048b25" ed="T"/>擇識求住唯識真勝義性。齊此皆是資糧<lb
  n="0048b26" ed="T"/>位攝。為趣無上正等菩提。修習種種勝資<lb
  n="0048b27" ed="T"/>糧故。為有情故勤求解脫。由此亦名順解<lb
@@ -4404,11 +4404,11 @@
  n="0049a21" ed="T"/>退。由斯三事練磨其心堅固熾然修諸勝<lb
  n="0049a22" ed="T"/>行。次加行位其相云何。頌曰。<lb
  n="0049a23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 <head>２７</head>現前立少物　　謂是唯識性　　<lb
  n="0049a24" ed="T"/>以有所得故　　非實住唯識　　
 </ab><lb
- n="0049a25" ed="T"/><ab type="prose">論曰。菩薩先於初無數劫善備福德智慧資<lb
+ n="0049a25" ed="T"/><ab type='prose'>論曰。菩薩先於初無數劫善備福德智慧資<lb
  n="0049a26" ed="T"/>糧順解脫分既圓滿已。為入見道住唯識<lb
  n="0049a27" ed="T"/>性復修加行伏除二取。謂煖頂忍世第一<lb
  n="0049a28" ed="T"/>法。此四總名順決擇分。順趣真實決擇分<lb
@@ -4442,13 +4442,13 @@
  n="0049b27" ed="T"/>安住真唯識理。彼相滅已方實安住。依如<lb
  n="0049b28" ed="T"/>是義故有頌言。<lb
  n="0049b29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 菩薩於定位　　觀影唯是心　　<pb n="0049c" id="T31.1585.0049c" ed="T"/><lb
  n="0049c01" ed="T"/>義相既滅除　　審觀唯自想　　<lb
  n="0049c02" ed="T"/>如是住內心　　知所取非有　　<lb
  n="0049c03" ed="T"/>次能取亦無　　後觸無所得　　
 </ab><lb
- n="0049c04" ed="T"/><ab type="prose">此加行位未遣相縛。於麁重縛亦未能斷。<lb
+ n="0049c04" ed="T"/><ab type='prose'>此加行位未遣相縛。於麁重縛亦未能斷。<lb
  n="0049c05" ed="T"/>唯能伏除分別二取違見道故。於俱生者<lb
  n="0049c06" ed="T"/>及二隨眠有漏觀心有所得故有分別故<lb
  n="0049c07" ed="T"/>未全伏除全未能滅。此位菩薩於安立諦<lb
@@ -4461,11 +4461,11 @@
  n="0049c14" ed="T"/>證唯識真勝義故。次通達位其相云何。頌<lb
  n="0049c15" ed="T"/>曰。<lb
  n="0049c16" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 <head>２８</head>若時於所緣　　智都無所得　　<lb
  n="0049c17" ed="T"/>爾時住唯識　　離二取相故　　
 </ab><lb
- n="0049c18" ed="T"/><ab type="prose">論曰。若時菩薩於所緣境無分別智都無所<lb
+ n="0049c18" ed="T"/><ab type='prose'>論曰。若時菩薩於所緣境無分別智都無所<lb
  n="0049c19" ed="T"/>得。不取種種戲論相故。爾時乃名實住唯<lb
  n="0049c20" ed="T"/>識真勝義性。即證真如智與真如平等平<lb
  n="0049c21" ed="T"/>等俱離能取所取相故。能所取相俱是分別。<lb
@@ -4554,11 +4554,11 @@
  n="0050c17" ed="T"/>能盡未來利樂一切。次修習位其相云何。<lb
  n="0050c18" ed="T"/>頌曰。<lb
  n="0050c19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 <head>２９</head>無得不思議　　是出世間智　　<lb
  n="0050c20" ed="T"/>捨二麁重故　　便證得轉依　　
 </ab><lb
- n="0050c21" ed="T"/><ab type="prose">論曰。菩薩從前見道起已。為斷餘障證<lb
+ n="0050c21" ed="T"/><ab type='prose'>論曰。菩薩從前見道起已。為斷餘障證<lb
  n="0050c22" ed="T"/>得轉依。復數修習無分別智。此智遠離所取<lb
  n="0050c23" ed="T"/>能取。故說無得及不思議。或離戲論說為<lb
  n="0050c24" ed="T"/>無得。妙用難測名不思議。是出世間無分別<lb
@@ -4826,14 +4826,14 @@
  n="0053c25" ed="T"/>所知障成阿羅漢及成如來證大涅槃大<lb
  n="0053c26" ed="T"/>菩提故。<lb
  n="0053c27" ed="T"/>
-</ab><ab type="juan" subtype="close">成唯識論卷第九</ab><pb n="0054a" id="T31.1585.0054a" ed="T"/><lb
+</ab><ab type='juan' subtype='close'>成唯識論卷第九</ab><pb n="0054a" id="T31.1585.0054a" ed="T"/><lb
  n="0054a01" ed="T"/><lb
  n="0054a02" ed="T"/>
-<ab type="juan" subtype="open">成唯識論卷第十</ab><lb
+<ab type='juan' subtype='open'>成唯識論卷第十</ab><lb
  n="0054a03" ed="T"/><lb
  n="0054a04" ed="T"/><byline>護法等菩薩造</byline><lb
  n="0054a05" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
- n="0054a06" ed="T"/><ab type="prose">此十一障二障所攝。煩惱障中見所斷種於<lb
+ n="0054a06" ed="T"/><ab type='prose'>此十一障二障所攝。煩惱障中見所斷種於<lb
  n="0054a07" ed="T"/>極喜地見道初斷。彼障現起地前已伏。修所<lb
  n="0054a08" ed="T"/>斷種金剛喻定現在前時一切頓斷。彼障現起<lb
  n="0054a09" ed="T"/>地前漸伏。初地以上能頓伏盡令永不行如<lb
@@ -5100,11 +5100,11 @@
  n="0057a09" ed="T"/>言故。此修習位說能證得。非已證得因位<lb
  n="0057a10" ed="T"/>攝故。後究竟位其相云何。頌曰。<lb
  n="0057a11" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 <head>３０</head>此即無漏界　　不思議善常　　<lb
  n="0057a12" ed="T"/>安樂解脫身　　大牟尼名法　　
 </ab><lb
- n="0057a13" ed="T"/><ab type="prose">論曰。前修習位所得轉依應知即是究竟位<lb
+ n="0057a13" ed="T"/><ab type='prose'>論曰。前修習位所得轉依應知即是究竟位<lb
  n="0057a14" ed="T"/>相。此謂此前二轉依果。即是究竟無漏界攝。<lb
  n="0057a15" ed="T"/>諸漏永盡非漏隨增性淨圓明故名無漏。界<lb
  n="0057a16" ed="T"/>是藏義。此中含容無邊希有大功德故。或是<lb
@@ -5288,17 +5288,17 @@
  n="0059a20" ed="T"/>論名唯識三十。由三十頌顯唯識理。乃得<lb
  n="0059a21" ed="T"/>圓滿非增減故。<lb
  n="0059a22" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 已依聖教及正理　　分別唯識性相義　　<lb
  n="0059a23" ed="T"/>所獲功德施群生　　願共速登無上覺　　
 </ab><lb
  n="0059a24" ed="T"/>
-<ab type="juan" subtype="close">成唯識論卷第十</ab><pb n="0059b" id="T31.1585.0059b" ed="T"/></div><lb
+<ab type='juan' subtype='close'>成唯識論卷第十</ab></div><pb n="0059b" id="T31.1585.0059b" ed="T"/><lb
  n="0059b01" ed="T"/><lb
- n="0059b02" ed="T"/><div type="xu" level="2"><head>成唯識論後序</head><lb
+ n="0059b02" ed="T"/><div type='xu' level='2'><head>成唯識論後序</head><lb
  n="0059b03" ed="T"/><lb
  n="0059b04" ed="T"/><byline>吳興沈玄明撰</byline><lb
- n="0059b05" ed="T"/><ab type="prose">原夫。覺海澂玄。涵萬流而濬宗極。神幾闡<lb
+ n="0059b05" ed="T"/><ab type='prose'>原夫。覺海澂玄。涵萬流而濬宗極。神幾闡<lb
  n="0059b06" ed="T"/>妙。被眾象而凝至真。朗慧日而鏡六幽。洩慈<lb
  n="0059b07" ed="T"/>雲而清八㝢。演一音而懸解。逸三乘以遐騖。<lb
  n="0059b08" ed="T"/>體陳如之半器。津有有於鹿園。照善現之滿<lb

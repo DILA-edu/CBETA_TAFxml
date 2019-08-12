@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1361</idno>
                 </bibl>
@@ -39,15 +39,15 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0878b" id="T21.1361.0878b" ed="T"/><lb
  n="0878b01" ed="T"/><lb
- n="0878b02" ed="T"/><div type="jing" level="2"><lb
+ n="0878b02" ed="T"/><div type='jing' level='2'><lb
  n="0878b03" ed="T"/>
-<ab type="juan" subtype="open">六門陀羅尼經論</ab><lb
+<ab type='juan' subtype='open'>六門陀羅尼經論</ab><lb
  n="0878b04" ed="T"/><lb
  n="0878b05" ed="T"/><byline>世親菩薩造</byline><lb
- n="0878b06" ed="T"/><ab type="prose">當知此陀羅尼經以六義故。說一慧圓滿。二<lb
+ n="0878b06" ed="T"/><ab type='prose'>當知此陀羅尼經以六義故。說一慧圓滿。二<lb
  n="0878b07" ed="T"/>慈力清淨。三自性清淨。四令知他所作障。五<lb
  n="0878b08" ed="T"/>攝一切菩提資糧。六彼果正智及真如也。<lb
  n="0878b09" ed="T"/>復有異門。一於苦時攝取有情界。二於樂時<lb
@@ -94,13 +94,13 @@
  n="0878c21" ed="T"/>五速成資糧及能證得成種智定。六盡諸世<lb
  n="0878c22" ed="T"/>界及有情界現利生事成就彼故。</ab></div><lb
  n="0878c23" ed="T"/>
-<ab type="juan" subtype="close">六門陀羅尼經論一卷</ab><lb
- n="0878c24" ed="T"/><div type="廣釋" level="2"><head>六門陀羅尼經論廣釋</head><byline>尊者智威造</byline><lb
- n="0878c25" ed="T"/><ab type="verse">
+<ab type='juan' subtype='close'>六門陀羅尼經論一卷</ab><lb
+ n="0878c24" ed="T"/><div type='廣釋' level='2'><head>六門陀羅尼經論廣釋</head><byline>尊者智威造</byline><lb
+ n="0878c25" ed="T"/><ab type='verse'>
 敬禮圓滿六度乘　　及以善巧六處者　　<lb
  n="0878c26" ed="T"/>并能具足六神通　　然後廣開六門義　　
 </ab><lb
- n="0878c27" ed="T"/><ab type="prose">經曰。如是我聞一時者。此即是其集經者辭。<lb
+ n="0878c27" ed="T"/><ab type='prose'>經曰。如是我聞一時者。此即是其集經者辭。<lb
  n="0878c28" ed="T"/>為欲顯示如來所說諸餘經等相連故也。若<lb
  n="0878c29" ed="T"/>不如是不相連故。即便輕賤不生恭敬。又涅<pb n="0879a" id="T21.1361.0879a" ed="T"/><lb
  n="0879a01" ed="T"/>槃時世尊告曰。我滅度後。汝等善男子當結<lb
@@ -179,11 +179,11 @@
  n="0879c14" ed="T"/>言一切資糧者。當知即是福之資糧及智資<lb
  n="0879c15" ed="T"/>糧。彼謂應知即六度性。如有說言。<lb
  n="0879c16" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 施戒福資糧　　智資糧是慧　　<lb
  n="0879c17" ed="T"/>餘三二種攝　　五亦智資糧　　
 </ab><lb
- n="0879c18" ed="T"/><ab type="prose">如是當知所集資糧悉皆迴向無上正等菩提<lb
+ n="0879c18" ed="T"/><ab type='prose'>如是當知所集資糧悉皆迴向無上正等菩提<lb
  n="0879c19" ed="T"/>是故經曰。我諸所有波羅蜜多所攝善根。皆<lb
  n="0879c20" ed="T"/>當速證無上智果。論言六所集資糧為自利<lb
  n="0879c21" ed="T"/>滿及顯他利滿者。此中且初依自利者。如經<lb

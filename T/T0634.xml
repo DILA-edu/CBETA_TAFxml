@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T15</biblScope>
                     <idno type="Taisho">T15n0634</idno>
                 </bibl>
@@ -44,11 +44,11 @@
  n="0474c11" ed="T"/><lb
  n="0474c12" ed="T"/><lb
  n="0474c13" ed="T"/>
-<ab type="juan" subtype="open">佛說大乘智印經卷第一</ab><lb
+<ab type='juan' subtype='open'>佛說大乘智印經卷第一</ab><lb
  n="0474c14" ed="T"/><lb
  n="0474c15" ed="T"/><byline>西天三藏寶法大師賜紫沙門<lb
  n="0474c16" ed="T"/>智吉祥等奉　詔譯</byline><lb
- n="0474c17" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時世尊入王舍大城，次第乞食，<lb
+ n="0474c17" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時世尊入王舍大城，次第乞食，<lb
  n="0474c18" ed="T"/>受施充足，還迦蘭陀林。食時食已，結跏趺坐，<lb
  n="0474c19" ed="T"/>與大比丘眾及諸菩薩百萬人俱，歡喜圍繞。<lb
  n="0474c20" ed="T"/>是諸大眾皆得陀羅尼平等無礙，心悟總持，<lb
@@ -230,14 +230,14 @@
  n="0476c22" ed="T"/>故汝等於佛身相及與住處不可得見，亦不<lb
  n="0476c23" ed="T"/>了知。」<lb
  n="0476c24" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說大乘智印經卷第一</ab><pb n="0477a" ed="T" id="T15.0634.0477a"/><lb
+</ab><ab type='juan' subtype='close'>佛說大乘智印經卷第一</ab><pb n="0477a" ed="T" id="T15.0634.0477a"/><lb
  n="0477a01" ed="T"/><lb
  n="0477a02" ed="T"/>
-<ab type="juan" subtype="open">佛說大乘智印經卷第二</ab><lb
+<ab type='juan' subtype='open'>佛說大乘智印經卷第二</ab><lb
  n="0477a03" ed="T"/><lb
  n="0477a04" ed="T"/><byline>西天三藏寶法大師賜紫沙門<lb
  n="0477a05" ed="T"/>智吉祥等奉　詔譯</byline><lb
- n="0477a06" ed="T"/><ab type="prose">爾時佛告舍利弗：「諸佛、如來若身、若心所獲<lb
+ n="0477a06" ed="T"/><ab type='prose'>爾時佛告舍利弗：「諸佛、如來若身、若心所獲<lb
  n="0477a07" ed="T"/>功德難修、難證，亦難悟入。何以故？舍利弗！諸<lb
  n="0477a08" ed="T"/>佛、如來眼觀諸色，是識不以色境而動；耳聽<lb
  n="0477a09" ed="T"/>諸聲，是識不以聲境而動；鼻嗅諸香，是識不<lb
@@ -292,7 +292,7 @@
  n="0477b29" ed="T"/>得名無相？云何智印三摩地周遍平等？」爾時<pb n="0477c" ed="T" id="T15.0634.0477c"/><lb
  n="0477c01" ed="T"/>世尊欲重宣此義，而說偈言：<lb
  n="0477c02" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「如來身心相，　　由定智所生，　　<lb
  n="0477c03" ed="T"/>不假外境牽，　　識相分別動。　　<lb
  n="0477c04" ed="T"/>意緣一切法，　　與身無有異，　　<lb
@@ -340,7 +340,7 @@
  n="0478a17" ed="T"/>若但了知空，　　設如蘇部底，　　<lb
  n="0478a18" ed="T"/>於佛智印門，　　亦無所悟入。」　　
 </ab><lb
- n="0478a19" ed="T"/><ab type="prose">爾時世尊說是偈已，告舍利弗：「如我所說如<lb
+ n="0478a19" ed="T"/><ab type='prose'>爾時世尊說是偈已，告舍利弗：「如我所說如<lb
  n="0478a20" ed="T"/>來智印三摩地法，若諸菩薩能於十方諸佛<lb
  n="0478a21" ed="T"/>世界為欲圓滿無礙智慧，應當修學是三昧<lb
  n="0478a22" ed="T"/>地，晝夜精進，身心安住而不散亂，亦不懈廢。<lb
@@ -413,7 +413,7 @@
  n="0479a02" ed="T"/>應當精勤修學。」爾時世尊欲重宣此義，而說<lb
  n="0479a03" ed="T"/>偈言：<lb
  n="0479a04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「如來所有智，　　最上更無等，　　<lb
  n="0479a05" ed="T"/>隨性相差別，　　一切皆能證。　　<lb
  n="0479a06" ed="T"/>平等智光明，　　普照諸縛著，　　<lb
@@ -467,14 +467,14 @@
  n="0479b25" ed="T"/>出生智印寶，　　如來功德藏。」　　
 </ab><lb
  n="0479b26" ed="T"/>
-<ab type="juan" subtype="close">佛說大乘智印經卷第二</ab><pb n="0479c" ed="T" id="T15.0634.0479c"/><lb
+<ab type='juan' subtype='close'>佛說大乘智印經卷第二</ab><pb n="0479c" ed="T" id="T15.0634.0479c"/><lb
  n="0479c01" ed="T"/><lb
  n="0479c02" ed="T"/>
-<ab type="juan" subtype="open">佛說大乘智印經卷第三</ab><lb
+<ab type='juan' subtype='open'>佛說大乘智印經卷第三</ab><lb
  n="0479c03" ed="T"/><lb
  n="0479c04" ed="T"/><byline>西天三藏寶法大師賜紫沙門<lb
  n="0479c05" ed="T"/>智吉祥等奉　詔譯</byline><lb
- n="0479c06" ed="T"/><ab type="prose">爾時會中復有殑伽沙那庾多數一切菩薩，<lb
+ n="0479c06" ed="T"/><ab type='prose'>爾時會中復有殑伽沙那庾多數一切菩薩，<lb
  n="0479c07" ed="T"/>聞佛如來說是三摩地，離諸障礙，心得解脫；<lb
  n="0479c08" ed="T"/>於陀羅尼祕密深法隨意悟入，印證明了，決<lb
  n="0479c09" ed="T"/>定住持。復有六十八那庾多菩薩，於百千劫<lb
@@ -586,7 +586,7 @@
  n="0480c28" ed="T"/>五法具足了知，名阿惟越致，能成無上正等<lb
  n="0480c29" ed="T"/>正覺。」爾時世尊而說偈言：<pb n="0481a" ed="T" id="T15.0634.0481a"/><lb
  n="0481a01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「無智眾生類，　　妄說法非法，　　<lb
  n="0481a02" ed="T"/>論世俗語言，　　研求於好醜，　　<lb
  n="0481a03" ed="T"/>自身口意業，　　而不能守護。　　<lb
@@ -697,15 +697,15 @@
  n="0482a21" ed="T"/>未來世成佛，　　號名曰釋迦。」　　
 </ab><lb
  n="0482a22" ed="T"/>
-<ab type="juan" subtype="close">佛說大乘智印經卷第三</ab><lb
+<ab type='juan' subtype='close'>佛說大乘智印經卷第三</ab><lb
  n="0482a23" ed="T"/><lb
  n="0482a24" ed="T"/><lb
  n="0482a25" ed="T"/>
-<ab type="juan" subtype="open">佛說大乘智印經卷第四</ab><lb
+<ab type='juan' subtype='open'>佛說大乘智印經卷第四</ab><lb
  n="0482a26" ed="T"/><lb
  n="0482a27" ed="T"/><byline>西天三藏寶法大師賜紫沙門<lb
  n="0482a28" ed="T"/>智吉祥等奉　詔譯</byline><lb
- n="0482a29" ed="T"/><ab type="prose">爾時會中有頻婆娑王，其王夫人名賢吉祥，<pb n="0482b" ed="T" id="T15.0634.0482b"/><lb
+ n="0482a29" ed="T"/><ab type='prose'>爾時會中有頻婆娑王，其王夫人名賢吉祥，<pb n="0482b" ed="T" id="T15.0634.0482b"/><lb
  n="0482b01" ed="T"/>亦名酤胝金光——阿闍世王是彼所生——從座而<lb
  n="0482b02" ed="T"/>起，五體投地，禮如來足。如是禮已，雙膝踞地，<lb
  n="0482b03" ed="T"/>長跪合掌，色相怡悅，以妙音聲讚歎佛德。復<lb
@@ -752,7 +752,7 @@
  n="0482c15" ed="T"/>恭敬合掌，雙膝長跪，頂禮世尊，精勤三業，讚<lb
  n="0482c16" ed="T"/>歎佛德，而說偈言：<lb
  n="0482c17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「佛德差別無邊際，　　三界最勝無與等，　　<lb
  n="0482c18" ed="T"/>如華開敷正芬芳，　　似月印空已圓滿。　　<lb
  n="0482c19" ed="T"/>佛心平等離憂喜，　　云何今者現微笑？　　<lb
@@ -795,10 +795,10 @@
  n="0483a27" ed="T"/>惟願世尊雨法雨，　　慈悲演說無上法，　　<lb
  n="0483a28" ed="T"/>冀能圓滿無漏音，　　究竟得成菩提果。」　　
 </ab><lb
- n="0483a29" ed="T"/><ab type="prose">爾時世尊聞是賢吉祥酤胝金光夫人說是偈<pb n="0483b" ed="T" id="T15.0634.0483b"/><lb
+ n="0483a29" ed="T"/><ab type='prose'>爾時世尊聞是賢吉祥酤胝金光夫人說是偈<pb n="0483b" ed="T" id="T15.0634.0483b"/><lb
  n="0483b01" ed="T"/>已，復於眾會而說偈言：<lb
  n="0483b02" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「我於無量世，　　殑伽沙劫中，　　<lb
  n="0483b03" ed="T"/>時有大法王，　　名無相福光。　　<lb
  n="0483b04" ed="T"/>佛壽極長遠，　　七十六酤胝，　　<lb
@@ -903,7 +903,7 @@
  n="0484b16" ed="T"/>世尊見彼已，　　而生親善想，　　<lb
  n="0484b17" ed="T"/>憐憫心護持，　　歡喜而攝受。　　
 </ab><lb
- n="0484b18" ed="T"/><ab type="prose">爾時彌勒菩薩摩訶薩白佛言：「世尊！有幾乘<lb
+ n="0484b18" ed="T"/><ab type='prose'>爾時彌勒菩薩摩訶薩白佛言：「世尊！有幾乘<lb
  n="0484b19" ed="T"/>性人而能受持此三摩地智印法門，於彼未<lb
  n="0484b20" ed="T"/>來世之中護持正法，於是正法而生愛樂，能<lb
  n="0484b21" ed="T"/>於如來祕密甚深智印法門而生信解、好樂<lb
@@ -1007,15 +1007,15 @@
  n="0485c03" ed="T"/>門，了達一切善惡事業，安住法中勤修眾<lb
  n="0485c04" ed="T"/>行。」<lb
  n="0485c05" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說大乘智印經卷第四</ab><lb
+</ab><ab type='juan' subtype='close'>佛說大乘智印經卷第四</ab><lb
  n="0485c06" ed="T"/><lb
  n="0485c07" ed="T"/><lb
  n="0485c08" ed="T"/>
-<ab type="juan" subtype="open">佛說大乘智印經卷第五</ab><lb
+<ab type='juan' subtype='open'>佛說大乘智印經卷第五</ab><lb
  n="0485c09" ed="T"/><lb
  n="0485c10" ed="T"/><byline>西天寶輪大師賜紫沙門<lb
  n="0485c11" ed="T"/>金總持等奉　詔譯</byline><lb
- n="0485c12" ed="T"/><ab type="prose">爾時歡喜王菩薩、彌勒菩薩、妙吉祥菩薩，并<lb
+ n="0485c12" ed="T"/><ab type='prose'>爾時歡喜王菩薩、彌勒菩薩、妙吉祥菩薩，并<lb
  n="0485c13" ed="T"/>六十不可思議菩薩摩訶薩等，在大眾中而<lb
  n="0485c14" ed="T"/>為上首，合掌恭敬，咸白佛言：「大悲世尊！我等<lb
  n="0485c15" ed="T"/>今者得聞如是微妙勝法，於彼未來堅固守<lb
@@ -1030,7 +1030,7 @@
  n="0485c24" ed="T"/>法心，安樂眾生利益語已，於大眾中以清淨<lb
  n="0485c25" ed="T"/>音而說偈言：<lb
  n="0485c26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「種諸善根離諂慢，　　寂靜安住無諸惡，　　<lb
  n="0485c27" ed="T"/>深忍堅固不動搖，　　常正憶念於勝慧。　　<lb
  n="0485c28" ed="T"/>如是安住具大力，　　而能守護法財聚，　　<lb
@@ -1088,7 +1088,7 @@
  n="0486b22" ed="T"/>如是功德共較量，　　譬如算數不能及，　　<lb
  n="0486b23" ed="T"/>應當於此甚深經，　　長時精進而修學。」　　
 </ab><lb
- n="0486b24" ed="T"/><ab type="prose">爾時歡喜王菩薩、彌勒菩薩、妙吉祥菩薩，并<lb
+ n="0486b24" ed="T"/><ab type='prose'>爾時歡喜王菩薩、彌勒菩薩、妙吉祥菩薩，并<lb
  n="0486b25" ed="T"/>六十不可思議菩薩摩訶薩等，聞佛世尊說<lb
  n="0486b26" ed="T"/>是偈已，發起堅固大菩提心，踊躍精進，復白<lb
  n="0486b27" ed="T"/>佛言：「大悲世尊！所有第一義諦、最勝涅槃甚<lb
@@ -1135,7 +1135,7 @@
  n="0487a10" ed="T"/>無有滅。如是了知是名守護。」爾時世尊為諸<lb
  n="0487a11" ed="T"/>菩薩復說偈言：<lb
  n="0487a12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「無作勝法非空有，　　離諸言說及分別，　　<lb
  n="0487a13" ed="T"/>若有得法著二邊，　　是名分別諸戲論，　　<lb
  n="0487a14" ed="T"/>而於是法不相應，　　但能增長於染慧。　　<lb
@@ -1180,7 +1180,7 @@
  n="0487b24" ed="T"/>其有受者智印門，　　夢中常與諸佛會。　　<lb
  n="0487b25" ed="T"/>汝等皆懷勇猛心，　　堅固修習無退捨。」　　
 </ab><lb
- n="0487b26" ed="T"/><ab type="prose">爾時世尊復告妙吉祥童真菩薩言：「妙吉祥！<lb
+ n="0487b26" ed="T"/><ab type='prose'>爾時世尊復告妙吉祥童真菩薩言：「妙吉祥！<lb
  n="0487b27" ed="T"/>若諸菩薩及末世眾生為欲成就無上菩提，<lb
  n="0487b28" ed="T"/>於是三摩地智印深法相應修學；為欲成就<lb
  n="0487b29" ed="T"/>如來八十種好，於是三摩地智印深法相應<pb n="0487c" ed="T" id="T15.0634.0487c"/><lb
@@ -1213,7 +1213,7 @@
  n="0487c27" ed="T"/>有所證。妙吉祥！我於爾時因是願行而得菩<lb
  n="0487c28" ed="T"/>提及與涅槃。」爾時世尊而說偈言：<lb
  n="0487c29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「若欲是法而相應，　　獲得如來無量慧，　　<pb n="0488a" ed="T" id="T15.0634.0488a"/><lb
  n="0488a01" ed="T"/>十方百億諸世尊，　　皆悉來護修習者。　　<lb
  n="0488a02" ed="T"/>若於甘露甚深法，　　能解一切諸妙義，　　<lb
@@ -1243,7 +1243,7 @@
  n="0488a26" ed="T"/>此會河沙信解人，　　究竟皆得無生忍，　　<lb
  n="0488a27" ed="T"/>諸餘剎土未來眾，　　展轉聞法心歡喜。」　　
 </ab><lb
- n="0488a28" ed="T"/><ab type="prose">爾時世尊說是偈已，阿僧祇數諸眾生等各<lb
+ n="0488a28" ed="T"/><ab type='prose'>爾時世尊說是偈已，阿僧祇數諸眾生等各<lb
  n="0488a29" ed="T"/>踊躍發菩提心。復有八十那庾多數諸大<pb n="0488b" ed="T" id="T15.0634.0488b"/><lb
  n="0488b01" ed="T"/>菩薩得聞是法，於無上道得不退轉。復有六<lb
  n="0488b02" ed="T"/>萬三酤胝菩薩摩訶薩得無生法忍。復有六<lb
@@ -1256,5 +1256,5 @@
  n="0488b09" ed="T"/>闥婆王、阿修羅等，聞佛所說，皆大歡喜，信受<lb
  n="0488b10" ed="T"/>奉行。<lb
  n="0488b11" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說大乘智印經卷第五</ab></div>
+</ab><ab type='juan' subtype='close'>佛說大乘智印經卷第五</ab></div>
 </body></text></TEI>

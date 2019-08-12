@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1154</idno>
                 </bibl>
@@ -39,19 +39,19 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0637b10" ed="T"/><lb
  n="0637b11" ed="T"/><lb
  n="0637b12" ed="T"/><lb
  n="0637b13" ed="T"/><lb
  n="0637b14" ed="T"/>
-<ab type="juan" subtype="open">佛說隨求即得大自在陀羅尼神<lb
+<ab type='juan' subtype='open'>佛說隨求即得大自在陀羅尼神<lb
  n="0637b15" ed="T"/>呪經</ab><lb
  n="0637b16" ed="T"/><lb
  n="0637b17" ed="T"/><byline>大唐北印度迦濕彌羅國<lb
  n="0637b18" ed="T"/>三藏寶思惟於天宮寺譯</byline><lb
- n="0637b19" ed="T"/><div type="jing" level="2"><ab type="prose">如是我聞。一時婆伽婆。在王舍大城耆闍<lb
+ n="0637b19" ed="T"/><div type='jing' level='2'><ab type='prose'>如是我聞。一時婆伽婆。在王舍大城耆闍<lb
  n="0637b20" ed="T"/>崛山。與諸弟子共會說法。於是娑婆世界主<lb
  n="0637b21" ed="T"/>大梵天王。來詣佛所右繞三匝。頂禮佛足合<lb
  n="0637b22" ed="T"/>掌向佛。而白佛言唯願世尊。為利益眾生故。<lb
@@ -98,7 +98,7 @@
  n="0638a05" ed="T"/>相向者。不能為害持此呪者。一切樂欲所求<lb
  n="0638a06" ed="T"/>皆得。爾時世尊即說呪曰。<lb
  n="0638a07" ed="T"/></ab>
-<ab type="dharani">那牟󰷍婆怛他揭多囔那牟勃陀噠摩僧<lb
+<ab type='dharani'>那牟󰷍婆怛他揭多囔那牟勃陀噠摩僧<lb
  n="0638a08" ed="T"/>祇瓢唵毘補羅󰽚鞞毘末󰽦闍<lb
  n="0638a09" ed="T"/>㖿󰽚鞞筏折囉時嚩羅󰽚鞞揭<lb
  n="0638a10" ed="T"/>底伽訶泥伽伽那毘輸達泥󰷍婆<lb
@@ -110,17 +110,17 @@
  n="0638a16" ed="T"/>折隷折隷牟質隷逝曳毘逝曳<lb
  n="0638a17" ed="T"/>󰷍婆婆㖿毘揭底揭婆三婆囉尼<lb
  n="0638a18" ed="T"/>私唎徙唎以唎以唎三曼多迦唎<lb
- n="0638a19" ed="T"/>沙尼設覩噌鉢囉末咃儞󰶽叉<lb
- n="0638a20" ed="T"/>󰶽叉麼麼寫毘唎毘唎毘<lb
+ n="0638a19" ed="T"/>沙尼設覩噌鉢囉末咃儞𭊽叉<lb
+ n="0638a20" ed="T"/>𭊽叉麼麼寫毘唎毘唎毘<lb
  n="0638a21" ed="T"/>揭多筏囉尼婆㖿波舍蘇哩蘇哩<lb
  n="0638a22" ed="T"/>質里迦末隷視曳視㖿婆醯視㖿<lb
  n="0638a23" ed="T"/>婆底婆伽跋底褐囉怛那<lb
  n="0638a24" ed="T"/>摩俱吒摩羅達唎毘質多羅鞞沙波<lb
  n="0638a25" ed="T"/>陀唎尼婆伽跋底苾地㖿弟<lb
- n="0638a26" ed="T"/>毘󰶽叉都摩寫三曼多迦囉毘輸<lb
+ n="0638a26" ed="T"/>毘𭊽叉都摩寫三曼多迦囉毘輸<lb
  n="0638a27" ed="T"/>達儞呼嚧呼嚧諾剎怛囉摩羅<pb n="0638b" id="T20.1154.0638b" ed="T"/><lb
  n="0638b01" ed="T"/>陀唎尼氈拏氈拏氈尼鞞伽跋帝<lb
- n="0638b02" ed="T"/>󰷍婆󰽨瑟吒儞婆囉尼設覩嚕<lb
+ n="0638b02" ed="T"/>󰷍婆𭓧瑟吒儞婆囉尼設覩嚕<lb
  n="0638b03" ed="T"/>博叉鉢囉末咃儞毘闍㖿婆呬<lb
  n="0638b04" ed="T"/>虎嚧虎嚧姥嚧姥嚧朱嚧朱嚧阿<lb
  n="0638b05" ed="T"/>庾波剌儞蘇囉婆囉摩闥儞󰷍婆提<lb
@@ -128,7 +128,7 @@
  n="0638b07" ed="T"/>吉帝鉢囉鞞蘇鉢囉婆輸<lb
  n="0638b08" ed="T"/>悌󰷍婆跛波毘輸達儞馱囉馱囉<lb
  n="0638b09" ed="T"/>馱囉尼跋囉馱㘑蘇姥蘇姥蘇姥<lb
- n="0638b10" ed="T"/>嚧折隷折隷遮囉㖿󰽨瑟吒晡囉㖿阿賞施唎婆晡陀囉折<lb
+ n="0638b10" ed="T"/>嚧折隷折隷遮囉㖿𭓧瑟吒晡囉㖿阿賞施唎婆晡陀囉折<lb
  n="0638b12" ed="T"/>㖿迦末隷器史尼器史尼<lb
  n="0638b13" ed="T"/>󰷍婆提婆多婆囉陀𪀱俱施唵<lb
  n="0638b14" ed="T"/>鉢特摩毘輸提輸達儞輸提<lb
@@ -150,7 +150,7 @@
  n="0638c05" ed="T"/>筏唎沙都提婆娑曼帝那姪毘喻<lb
  n="0638c06" ed="T"/>陀計那阿蜜㗚多筏唎沙尼提<lb
  n="0638c07" ed="T"/>婆多婆多㗚尼阿毘詵遮都迷阿蜜㗚<lb
- n="0638c08" ed="T"/>多跋囉婆晡曬󰶽叉󰶽叉麼摩寫<lb
+ n="0638c08" ed="T"/>多跋囉婆晡曬𭊽叉𭊽叉麼摩寫<lb
  n="0638c09" ed="T"/>󰷍婆怛囉󰷍婆陀󰷍婆婆曳瓢<lb
  n="0638c10" ed="T"/>󰷍蒲烏波達囉陛瓢󰷍蒲烏<lb
  n="0638c11" ed="T"/>鉢󰷍祇瓢󰷍婆突瑟吒婆曳毘<lb
@@ -198,13 +198,13 @@
  n="0639a27" ed="T"/>嚕茶揭嬭瓢莎呵緊那囉揭嬭瓢莎呵<pb n="0639b" id="T20.1154.0639b" ed="T"/><lb
  n="0639b01" ed="T"/>摩呼囉伽揭嬭瓢莎呵褐囉剎娑揭嬭<lb
  n="0639b02" ed="T"/>瓢莎呵摩努曬瓢莎呵阿摩努曬<lb
- n="0639b03" ed="T"/>瓢莎呵󰷍婆伽󰶽醯瓢莎呵󰷍婆<lb
+ n="0639b03" ed="T"/>瓢莎呵󰷍婆伽𭊽醯瓢莎呵󰷍婆<lb
  n="0639b04" ed="T"/>步底瓢莎呵閇㘑底曳瓢<lb
  n="0639b05" ed="T"/>莎呵畢舍制瓢莎呵罨波薩摩<lb
  n="0639b06" ed="T"/>㘑瓢莎呵割槃嬭瓢莎呵唵<lb
  n="0639b07" ed="T"/>度嚧度嚧莎呵覩嚧覩嚧莎呵牟嚧牟嚧莎呵訶那󰷍婆設覩嚕<lb
- n="0639b09" ed="T"/>囔麼摩寫莎呵馱訶馱訶󰷍婆󰽨瑟<lb
- n="0639b10" ed="T"/>吒鉢囉󰽨瑟吒麼摩寫莎呵<lb
+ n="0639b09" ed="T"/>囔麼摩寫莎呵馱訶馱訶󰷍婆𭓧瑟<lb
+ n="0639b10" ed="T"/>吒鉢囉𭓧瑟吒麼摩寫莎呵<lb
  n="0639b11" ed="T"/>鉢遮鉢遮󰷍婆鉢囉底<lb
  n="0639b12" ed="T"/>㖿鐵迦鉢囉底㖿蜜多<lb
  n="0639b13" ed="T"/>囉麼摩寫莎呵時嚩栗多<lb
@@ -240,10 +240,10 @@
  n="0639c19" ed="T"/>室唎㖿時嚩羅儞莎呵那牟支莎<lb
  n="0639c20" ed="T"/>呵摩嚕支莎呵鞞伽筏底莎呵<lb
  n="0639c22" ed="T"/></ab>
-<ab type="prose">右已前是根本呪竟。<lb
+<ab type='prose'>右已前是根本呪竟。<lb
  n="0639c23" ed="T"/>一切佛心呪<lb
  n="0639c24" ed="T"/></ab>
-<ab type="dharani">唵󰷍婆怛他揭多慕㗚帝鉢囉筏囉<lb
+<ab type='dharani'>唵󰷍婆怛他揭多慕㗚帝鉢囉筏囉<lb
  n="0639c25" ed="T"/>揭多婆曳奢摩演都麼摩寫󰷍婆跛閉<lb
  n="0639c26" ed="T"/>瓢莎悉底囉婆筏都牟支牟支<lb
  n="0639c27" ed="T"/>毘牟支遮唎遮羅儞揭帝婆陀囉嬭<pb n="0640a" id="T20.1154.0640a" ed="T"/><lb
@@ -251,41 +251,41 @@
  n="0640a02" ed="T"/>利勃地臨󰷍婆怛他揭多頡㗚馱㖿<lb
  n="0640a03" ed="T"/>樹瑟𪘨莎呵<lb
  n="0640a04" ed="T"/></ab>
-<ab type="prose">一切佛心印呪<lb
+<ab type='prose'>一切佛心印呪<lb
  n="0640a05" ed="T"/></ab>
-<ab type="dharani">唵跋折囉跋底跋折囉鉢囉<lb
+<ab type='dharani'>唵跋折囉跋底跋折囉鉢囉<lb
  n="0640a06" ed="T"/>底瑟耻多輸提怛他揭多姥<lb
  n="0640a07" ed="T"/>陀囉地瑟咤那地瑟恥底莎呵<lb
  n="0640a08" ed="T"/></ab>
-<ab type="prose">灌頂呪<lb
+<ab type='prose'>灌頂呪<lb
  n="0640a09" ed="T"/></ab>
-<ab type="dharani">唵牟儞牟儞牟儞筏㘑阿毘詵者都咩<lb
+<ab type='dharani'>唵牟儞牟儞牟儞筏㘑阿毘詵者都咩<lb
  n="0640a10" ed="T"/>󰷍婆怛他揭多摩寫󰷍婆苾他㖿毘曬罽摩訶跋折囉筏遮姥陀囉姥地唎底怛他揭多頡㗚馱<lb
  n="0640a13" ed="T"/>㖿地瑟恥多跋折㘑莎呵<lb
  n="0640a14" ed="T"/></ab>
-<ab type="prose">灌頂印呪<lb
+<ab type='prose'>灌頂印呪<lb
  n="0640a15" ed="T"/></ab>
-<ab type="dharani">唵阿蜜㗚多筏㘑嚩囉嚩囉鉢<lb
+<ab type='dharani'>唵阿蜜㗚多筏㘑嚩囉嚩囉鉢<lb
  n="0640a16" ed="T"/>囉嚩囉毘輸提𤙣𤙣泮吒泮吒莎<lb
  n="0640a17" ed="T"/>呵<lb
  n="0640a18" ed="T"/></ab>
-<ab type="prose">結界呪<lb
+<ab type='prose'>結界呪<lb
  n="0640a19" ed="T"/></ab>
-<ab type="dharani">唵阿蜜㗚多毘盧羯儞揭婆󰶽剎<lb
+<ab type='dharani'>唵阿蜜㗚多毘盧羯儞揭婆𭊽剎<lb
  n="0640a20" ed="T"/>尼阿羯囉沙尼𤙖𤙖泮吒泮吒<lb
  n="0640a21" ed="T"/>莎呵<lb
  n="0640a22" ed="T"/></ab>
-<ab type="prose">佛心呪<lb
+<ab type='prose'>佛心呪<lb
  n="0640a23" ed="T"/></ab>
-<ab type="dharani">唵毘摩隷闍㖿筏底阿蜜㗚帝𤙣<lb
+<ab type='dharani'>唵毘摩隷闍㖿筏底阿蜜㗚帝𤙣<lb
  n="0640a24" ed="T"/>𤙖𤙖𤙣泮吒泮吒泮吒泮吒莎呵<lb
  n="0640a25" ed="T"/></ab>
-<ab type="prose">心中心呪<lb
+<ab type='prose'>心中心呪<lb
  n="0640a26" ed="T"/></ab>
-<ab type="dharani">唵跋囉跋囉三跋囉印地㗚<lb
+<ab type='dharani'>唵跋囉跋囉三跋囉印地㗚<lb
  n="0640a27" ed="T"/>㖿毘輸達儞𤙖𤙣噌嚧遮隷莎呵<lb
  n="0640a28" ed="T"/></ab>
-<ab type="prose">。<lb
+<ab type='prose'>。<lb
  n="0640b04" ed="T"/>爾時世尊說此神呪已告大梵言。若有暫聞<lb
  n="0640b05" ed="T"/>此陀羅尼者。彼諸善男子善女人。所有一切<lb
  n="0640b06" ed="T"/>罪障悉得消滅。若能誦持者。當知是人即是<lb
@@ -462,11 +462,11 @@
  n="0642b03" ed="T"/>此經已。時大梵天王聞佛所說。心大歡喜信<lb
  n="0642b04" ed="T"/>受奉行。<lb
  n="0642b05" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說隨求即得大自在陀羅尼神呪經</ab></div><lb
- n="0642b06" ed="T"/><div type="w" level="2"><ab type="dharani">那麼薩婆怛他揭哆南那謨㪍陀達摩<lb
- n="0642b07" ed="T"/>僧祇瓢唵毘補羅揭󰻇<lb
- n="0642b08" ed="T"/>毘末隷闍耶揭󰻇伐舌囉什嚩<lb
- n="0642b09" ed="T"/>囉揭󰻇揭底伽呵泥伽伽那<lb
+</ab><ab type='juan' subtype='close'>佛說隨求即得大自在陀羅尼神呪經</ab></div><lb
+ n="0642b06" ed="T"/><div type='w' level='2'><ab type='dharani'>那麼薩婆怛他揭哆南那謨㪍陀達摩<lb
+ n="0642b07" ed="T"/>僧祇瓢唵毘補羅揭𭌢<lb
+ n="0642b08" ed="T"/>毘末隷闍耶揭𭌢伐舌囉什嚩<lb
+ n="0642b09" ed="T"/>囉揭𭌢揭底伽呵泥伽伽那<lb
  n="0642b10" ed="T"/>毘輸達泥薩婆跛波毘輸達泥唵瞿<lb
  n="0642b11" ed="T"/>拏伐底伽伽唎尼祇哩<lb
  n="0642b12" ed="T"/>祇哩伽末哩伽呵伽呵伽揭哩<lb
@@ -601,9 +601,9 @@
  n="0644a10" ed="T"/>那牟支莎呵摩嚕支莎呵鞞伽<lb
  n="0644a11" ed="T"/>伐底莎呵<lb
  n="0644a12" ed="T"/></ab>
-<ab type="prose">一切佛心呪<lb
+<ab type='prose'>一切佛心呪<lb
  n="0644a13" ed="T"/></ab>
-<ab type="dharani">唵薩婆怛他揭多暮㗚帝鉢喇嚩<lb
+<ab type='dharani'>唵薩婆怛他揭多暮㗚帝鉢喇嚩<lb
  n="0644a14" ed="T"/>囉揭多婆曳舍摩覩演麼麼<lb
  n="0644a15" ed="T"/>寫薩婆婆閉瓢薩婆婆曳瓢莎悉底<lb
  n="0644a16" ed="T"/>曷囉婆伐覩牟支牟支毘牟支折唎<lb
@@ -612,38 +612,38 @@
  n="0644a19" ed="T"/>怛他揭多呬哩馱耶樹瑟𪘨莎<lb
  n="0644a20" ed="T"/>呵<lb
  n="0644a21" ed="T"/></ab>
-<ab type="prose">一切佛心印呪<lb
+<ab type='prose'>一切佛心印呪<lb
  n="0644a22" ed="T"/></ab>
-<ab type="dharani">唵伐舌囉伐底伐舌囉鉢喇底<lb
+<ab type='dharani'>唵伐舌囉伐底伐舌囉鉢喇底<lb
  n="0644a23" ed="T"/>瑟恥帝󰡊提怛他揭多暮陀囉地瑟咤<lb
  n="0644a24" ed="T"/>那地瑟恥帝莎呵<lb
  n="0644a25" ed="T"/></ab>
-<ab type="prose">灌頂呪<lb
+<ab type='prose'>灌頂呪<lb
  n="0644a26" ed="T"/></ab>
-<ab type="dharani">唵姥儞姥儞姥儞伐㘑阿毘詵者覩迷<lb
+<ab type='dharani'>唵姥儞姥儞姥儞伐㘑阿毘詵者覩迷<lb
  n="0644a27" ed="T"/>薩婆怛他揭多曼麼麼寫薩<lb
  n="0644a28" ed="T"/>婆苾地耶毘曬雞摩訶伐折囉迦伐<pb n="0644b" id="T20.1154.0644b" ed="T"/><lb
  n="0644b01" ed="T"/>遮暮陀囉暮地唎帝怛他揭多呬哩<lb
  n="0644b02" ed="T"/>馱耶地瑟恥多伐折隷莎呵<lb
  n="0644b03" ed="T"/></ab>
-<ab type="prose">灌頂印呪<lb
+<ab type='prose'>灌頂印呪<lb
  n="0644b04" ed="T"/></ab>
-<ab type="dharani">唵阿蜜㗚多伐㘑嚩囉嚩囉鉢囉嚩<lb
+<ab type='dharani'>唵阿蜜㗚多伐㘑嚩囉嚩囉鉢囉嚩<lb
  n="0644b05" ed="T"/>囉毘󰡊提唅唅泮吒泮吒莎呵<lb
  n="0644b06" ed="T"/></ab>
-<ab type="prose">結界呪<lb
+<ab type='prose'>結界呪<lb
  n="0644b07" ed="T"/></ab>
-<ab type="dharani">唵阿蜜㗚多吒盧羯儞揭婆𠸪剎尼<lb
+<ab type='dharani'>唵阿蜜㗚多吒盧羯儞揭婆𠸪剎尼<lb
  n="0644b08" ed="T"/>阿羯㗚沙尼唅唅泮吒泮吒莎呵<lb
  n="0644b09" ed="T"/></ab>
-<ab type="prose">佛心呪<lb
+<ab type='prose'>佛心呪<lb
  n="0644b10" ed="T"/></ab>
-<ab type="dharani">唵毘麼㘑闍耶伐底阿蜜㗚帝<lb
+<ab type='dharani'>唵毘麼㘑闍耶伐底阿蜜㗚帝<lb
  n="0644b11" ed="T"/>唅唅唅唅泮吒泮吒泮吒莎呵<lb
  n="0644b12" ed="T"/></ab>
-<ab type="prose">心中心呪<lb
+<ab type='prose'>心中心呪<lb
  n="0644b13" ed="T"/></ab>
-<ab type="dharani">唵蘇嚕蘇嚕跋囉跋囉三跋囉三跋囉<lb
+<ab type='dharani'>唵蘇嚕蘇嚕跋囉跋囉三跋囉三跋囉<lb
  n="0644b14" ed="T"/>印涅唎耶毘輸達儞唅唅嚕嚧遮<lb
  n="0644b15" ed="T"/>㘑迦嚕遮隷莎呵</ab></div></div>
 </body></text></TEI>

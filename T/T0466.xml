@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0466</idno>
                 </bibl>
@@ -43,10 +43,10 @@
  n="0487a01" ed="T"/><lb
  n="0487a02" ed="T"/><lb
  n="0487a03" ed="T"/>
-<ab type="juan" subtype="open">佛說象頭精舍經</ab><lb
+<ab type='juan' subtype='open'>佛說象頭精舍經</ab><lb
  n="0487a04" ed="T"/><lb
  n="0487a05" ed="T"/><byline>隋天竺三藏毘尼多流支譯</byline><lb
- n="0487a06" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時婆伽婆住伽耶城象頭精舍。<lb
+ n="0487a06" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時婆伽婆住伽耶城象頭精舍。<lb
  n="0487a07" ed="T"/>爾時，如來成佛未久，與大比丘眾滿足千人——<lb
  n="0487a08" ed="T"/>皆是過去往昔螺髻仙人，所作已辦，棄捨重<lb
  n="0487a09" ed="T"/>擔，久離生死，盡諸煩惱，平等空慧，正受智心，<lb
@@ -289,5 +289,5 @@
  n="0489c14" ed="T"/>師利、無量天、人、阿修羅、乾闥婆等一切大眾，<lb
  n="0489c15" ed="T"/>聞佛說法，信受頂禮，歡喜奉行。</ab></div><lb
  n="0489c16" ed="T"/>
-<ab type="juan" subtype="close">象頭精舍經</ab>
+<ab type='juan' subtype='close'>象頭精舍經</ab>
 </body></text></TEI>

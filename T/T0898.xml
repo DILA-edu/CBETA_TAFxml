@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T18</biblScope>
                     <idno type="Taisho">T18n0898</idno>
                 </bibl>
@@ -39,15 +39,15 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0773a05" ed="T"/><lb
  n="0773a06" ed="T"/><lb
  n="0773a07" ed="T"/><lb
  n="0773a08" ed="T"/>
-<ab type="juan" subtype="open">佛說毘奈耶經</ab><lb
+<ab type='juan' subtype='open'>佛說毘奈耶經</ab><lb
  n="0773a09" ed="T"/><lb
- n="0773a10" ed="T"/><div type="jing" level="2"><ab type="prose">爾時佛在王舍城鷲峯山。與無量菩薩及持<lb
+ n="0773a10" ed="T"/><div type='jing' level='2'><ab type='prose'>爾時佛在王舍城鷲峯山。與無量菩薩及持<lb
  n="0773a11" ed="T"/>呪仙大賢梵王地神等俱。說呪法。時執金剛<lb
  n="0773a12" ed="T"/>從座而起。頂禮佛足而作是言。我今樂說持<lb
  n="0773a13" ed="T"/>呪律法。復願世尊諸大賢等。各說其要。示現<lb
@@ -134,35 +134,35 @@
  n="0774a07" ed="T"/>金剛羂索印或佛頂印。即大瞋怒心。以默誦<lb
  n="0774a08" ed="T"/>大金剛羂索呪。<lb
  n="0774a09" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄙖跋􄦽折羅􄖶跛引􄙨勢􇩵訶唎二合引<lb
+<ab type='dharani'>􇩂唵􄙖跋􄦽折羅􄖶跛引􄙨勢􇩵訶唎二合引<lb
  n="0774a10" ed="T"/><lb
  n="0774a11" ed="T"/></ab>
-<ab type="prose">若結佛頂印即誦此呪。<lb
+<ab type='prose'>若結佛頂印即誦此呪。<lb
  n="0774a12" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄑘揭􄑘揭􄖪那引􄗥麼􄗽羅􆿁𤙖長呼<lb
+<ab type='dharani'>􇩂唵􄑘揭􄑘揭􄖪那引􄗥麼􄗽羅􆿁𤙖長呼<lb
  n="0774a13" ed="T"/><lb
  n="0774a14" ed="T"/></ab>
-<ab type="prose">向南想法事已。次復想西。心念結金剛幡<lb
+<ab type='prose'>向南想法事已。次復想西。心念結金剛幡<lb
  n="0774a15" ed="T"/>印。以瞋怒默誦呪念言。我今結西方界呪曰。<lb
  n="0774a16" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄕗多􈇂楞央􅍋祇儞二合􄗽羅􈁆吒半音呼<lb
+<ab type='dharani'>􇩂唵􄕗多􈇂楞央􅍋祇儞二合􄗽羅􈁆吒半音呼<lb
  n="0774a17" ed="T"/><lb
  n="0774a18" ed="T"/></ab>
-<ab type="prose">次想北方。結金剛摧碎印。誦呪准前念。<lb
+<ab type='prose'>次想北方。結金剛摧碎印。誦呪准前念。<lb
  n="0774a19" ed="T"/></ab>
-<ab type="dharani">􇩂唵􈁐呵唎二合􄙖跋􄦽折囉􄑁迦引􄙌利􄗥麼􈁆吒半音呼<lb
+<ab type='dharani'>􇩂唵􈁐呵唎二合􄙖跋􄦽折囉􄑁迦引􄙌利􄗥麼􈁆吒半音呼<lb
  n="0774a20" ed="T"/><lb
  n="0774a21" ed="T"/></ab>
-<ab type="prose">次想東方。結金剛峯印。准前誦呪念言。結東<lb
+<ab type='prose'>次想東方。結金剛峯印。准前誦呪念言。結東<lb
  n="0774a22" ed="T"/>方界呪曰。<lb
  n="0774a23" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄙖跋􄦽折囉二合􄙤施􄑌佉􄙀唎􄙂嚧􄗥麼􈁆吒<lb
+<ab type='dharani'>􇩂唵􄙖跋􄦽折囉二合􄙤施􄑌佉􄙀唎􄙂嚧􄗥麼􈁆吒<lb
  n="0774a24" ed="T"/><lb
  n="0774a25" ed="T"/></ab>
-<ab type="prose">作此法已。即成四方界。然須起坐。思念本呪<lb
+<ab type='prose'>作此法已。即成四方界。然須起坐。思念本呪<lb
  n="0774a26" ed="T"/>延請呪神。手執香爐燒香供養。想我今依呼<lb
  n="0774a27" ed="T"/>住大威神德。以身投地禮拜。思念本呪。取淨<lb
- n="0774a28" ed="T"/>水灑散身上。安坐手著胸間。默誦搯珠。未<lb
+ n="0774a28" ed="T"/>水灑散身上。安坐手著胸間。默誦掐珠。未<lb
  n="0774a29" ed="T"/>困之間疲倦。任起以取香花供養。欲出門<pb n="0774b" id="T18.0898.0774b" ed="T"/><lb
  n="0774b01" ed="T"/>時一心誦呪。若有散亂。其時一切毘那夜迦<lb
  n="0774b02" ed="T"/>鬼神等作念設計。令其呪師心亂使法不成。<lb
@@ -239,8 +239,8 @@
  n="0775a15" ed="T"/>在寺求尊自為貢高。或嫌佛教誹謗正法。大<lb
  n="0775a16" ed="T"/>梵當知如此人等。浪為輕慢我淨法故即有<lb
  n="0775a17" ed="T"/>毘那夜迦名曰能障。之所執持廣造諸惡而<lb
- n="0775a18" ed="T"/>無厭患。若欲遣除須造俱胝塔像。於尊師䠒跪。<lb
- n="0775a19" ed="T"/>重受禁約要期。亦須入蓮花壇內得灌頂。<lb
+ n="0775a18" ed="T"/>無厭患。若欲遣除須造俱胝塔像。於尊師䠒<lb
+ n="0775a19" ed="T"/>跪。重受禁約要期。亦須入蓮花壇內得灌頂。<lb
  n="0775a20" ed="T"/>以其所執者方可除滅。所求學問誦持法易<lb
  n="0775a21" ed="T"/>成就。爾時堅牢地神從地涌出頂禮佛足而<lb
  n="0775a22" ed="T"/>白佛言。世尊呪師云何護淨身心。云何經<lb
@@ -254,18 +254,18 @@
  n="0775b01" ed="T"/>為內淨。外淨行者。若呪師浴身入水之時。先<lb
  n="0775b02" ed="T"/>著浴衣思念此呪。揩摩身體呪曰。<lb
  n="0775b03" ed="T"/></ab>
-<ab type="dharani">􇩂唵􈃁度􄖷卑􈃁度􄖷卑􄑁迦引􄗱耶􈃁度􄖷卑􄪼鉢囉二合<lb
+<ab type='dharani'>􇩂唵􈃁度􄖷卑􈃁度􄖷卑􄑁迦引􄗱耶􈃁度􄖷卑􄪼鉢囉二合<lb
  n="0775b04" ed="T"/><lb
  n="0775b05" ed="T"/>􈁊闍跋二合􄙌利􄕙儞􅁥莎􄚩訶<lb
  n="0775b06" ed="T"/><lb
  n="0775b07" ed="T"/></ab>
-<ab type="prose">然洗身首。以甎石揩脚足。即取土分作三分。<lb
+<ab type='prose'>然洗身首。以甎石揩脚足。即取土分作三分。<lb
  n="0775b08" ed="T"/>以左手握取一分。誦此呪曰。<lb
  n="0775b09" ed="T"/></ab>
-<ab type="dharani">􇩂唵􈃉部􇧾闍跋二合􄙊羅􆿁𤙖<lb
+<ab type='dharani'>􇩂唵􈃉部􇧾闍跋二合􄙊羅􆿁𤙖<lb
  n="0775b10" ed="T"/><lb
  n="0775b11" ed="T"/></ab>
-<ab type="prose">心誦呪洗下身分次取第二分心誦呪。用洗<lb
+<ab type='prose'>心誦呪洗下身分次取第二分心誦呪。用洗<lb
  n="0775b12" ed="T"/>脚洗手淨已。次取第三分誦呪。用洗頭已。誦<lb
  n="0775b13" ed="T"/>前呪以水灑身上。更兩掌滿盛淨水。復誦前<lb
  n="0775b14" ed="T"/>呪表本心言。是水奉本呪神。著新淨衣。隨<lb
@@ -275,12 +275,12 @@
  n="0775b18" ed="T"/>之時任意起行道乞求食飲得食飲已用誦<lb
  n="0775b19" ed="T"/>此呪。呪食然後分喫呪曰。<lb
  n="0775b20" ed="T"/></ab>
-<ab type="dharani">􄖩那􄗰麼􄙺薩􅞣婆􈎭菩􇧺陀􄗕菩􄕽提􄙺薩􄽙埵􈁀南􇩂唵<lb
+<ab type='dharani'>􄖩那􄗰麼􄙺薩􅞣婆􈎭菩􇧺陀􄗕菩􄕽提􄙺薩􄽙埵􈁀南􇩂唵<lb
  n="0775b21" ed="T"/><lb
  n="0775b22" ed="T"/>􄙖婆􄙔覽􄕯陀􄕵帝􄕝底􄒾誓􄗦摩引􄙀利􄖫儞􅁥莎􄚩訶<lb
  n="0775b23" ed="T"/><lb
  n="0775b24" ed="T"/></ab>
-<ab type="prose">誦呪三遍已。先捻少許獻本呪神。然自足食。<lb
+<ab type='prose'>誦呪三遍已。先捻少許獻本呪神。然自足食。<lb
  n="0775b25" ed="T"/>洗鉢淨口已。准前洗浴還入道場。供養懺悔<lb
  n="0775b26" ed="T"/>讀誦經典。然坐誦呪至不疲困。身倦任起行<lb
  n="0775b27" ed="T"/>道。至暮亦然。誦呪若困。行道供養諸佛菩薩。<lb
@@ -288,10 +288,10 @@
  n="0775b29" ed="T"/>終是苦空不淨皮骨假合成就。誦念此呪而<pb n="0775c" id="T18.0898.0775c" ed="T"/><lb
  n="0775c01" ed="T"/>入睡眠呪曰。<lb
  n="0775c02" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄙖跋􄦽折羅二合􄙢賒􄖫儞􆿁吽長呼<lb
+<ab type='dharani'>􇩂唵􄙖跋􄦽折羅二合􄙢賒􄖫儞􆿁吽長呼<lb
  n="0775c03" ed="T"/><lb
  n="0775c04" ed="T"/></ab>
-<ab type="prose">若誦此呪。一切惡夢皆悉消滅。善神衛護早<lb
+<ab type='prose'>若誦此呪。一切惡夢皆悉消滅。善神衛護早<lb
  n="0775c05" ed="T"/>得法驗。如是淨行時節軌儀。爾時地神復白<lb
  n="0775c06" ed="T"/>佛言。世尊呪師誦持法教之時。夢想云何得<lb
  n="0775c07" ed="T"/>知法驗善惡之事。佛告地神言。若呪師等。愛<lb
@@ -318,12 +318,12 @@
  n="0775c28" ed="T"/>遍。即成護身。得除障難自然見夢。見眾善相<lb
  n="0775c29" ed="T"/>呪曰。<pb n="0776a" id="T18.0898.0776a" ed="T"/><lb
  n="0776a01" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄙖跋􄦽折羅二合􄕯那􄗽羅􄚨訶􄖩那􄗥麼􄕣他􄗙盤<lb
+<ab type='dharani'>􇩂唵􄙖跋􄦽折羅二合􄕯那􄗽羅􄚨訶􄖩那􄗥麼􄕣他􄗙盤<lb
  n="0776a02" ed="T"/><lb
  n="0776a03" ed="T"/>􅗭闍􄗽囉􄕋拏􆿁𤙖􄗁泮􈁆吒半音<lb
  n="0776a04" ed="T"/><lb
  n="0776a05" ed="T"/></ab>
-<ab type="prose">復次地神。有毘那夜迦名勤勇者頂。若見呪<lb
+<ab type='prose'>復次地神。有毘那夜迦名勤勇者頂。若見呪<lb
  n="0776a06" ed="T"/>師意。欲精進成就呪法。遂被發生進退之心。<lb
  n="0776a07" ed="T"/>延度時日令身不安。意望其山某處作法好。<lb
  n="0776a08" ed="T"/>因此被惱即懶不勤。復向餘人問某處所。他<lb
@@ -346,7 +346,7 @@
  n="0776a25" ed="T"/>如下說。呪香水百八遍用沐浴身。當得除滅<lb
  n="0776a26" ed="T"/>毘那夜迦。如來佛頂呪曰。<lb
  n="0776a27" ed="T"/></ab>
-<ab type="dharani">􄖩那􄗭謨􈎭菩􇧺陀引􄗱耶􇩵呵唎二合引􆿉烏􈃇沙尼二合引<lb
+<ab type='dharani'>􄖩那􄗭謨􈎭菩􇧺陀引􄗱耶􇩵呵唎二合引􆿉烏􈃇沙尼二合引<lb
  n="0776a28" ed="T"/><lb
  n="0776a29" ed="T"/>􄙮沙􄕻馱􄗽羅􄙖跋􄦽折羅二合􄺸闍跋二合引􄙁利􄖫儞<lb
  n="0776a30" ed="T"/><pb n="0776b" id="T18.0898.0776b" ed="T"/><lb
@@ -359,12 +359,12 @@
  n="0776b07" ed="T"/>􄗥末􄖧曇􆿁𤙖􄗁􈁆泮<lb
  n="0776b08" ed="T"/><lb
  n="0776b09" ed="T"/></ab>
-<ab type="prose">并誦六字心呪曰。<lb
+<ab type='prose'>并誦六字心呪曰。<lb
  n="0776b10" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄙈囉菴二合引􄙖盤􄾫陀􅁥莎􄚩訶<lb
+<ab type='dharani'>􇩂唵􄙈囉菴二合引􄙖盤􄾫陀􅁥莎􄚩訶<lb
  n="0776b11" ed="T"/><lb
  n="0776b12" ed="T"/></ab>
-<ab type="prose">此呪多誦最為第一。其毘那夜迦即當遠離。<lb
+<ab type='prose'>此呪多誦最為第一。其毘那夜迦即當遠離。<lb
  n="0776b13" ed="T"/>復有毘那夜迦名金剛𣐍。令人失心迷亂本<lb
  n="0776b14" ed="T"/>性。或使人於拔等之中。應念者令生異念。曾<lb
  n="0776b15" ed="T"/>往所作相現於前。狀似鬼魅之所執持。而無<lb
@@ -397,8 +397,8 @@
  n="0776c13" ed="T"/>羅那喃那。此云大金剛峯侍者。宜畫訖已。<lb
  n="0776c14" ed="T"/>隨其力分以辨諸具。依此奉行。</ab></div><lb
  n="0776c15" ed="T"/>
-<ab type="juan" subtype="close">毘奈耶經終</ab><lb
- n="0776c16" ed="T"/><div type="w" level="2"><ab type="prose">靈雲校本末云　右奉騰寫秘密藏毘奈<lb
+<ab type='juan' subtype='close'>毘奈耶經終</ab><lb
+ n="0776c16" ed="T"/><div type='w' level='2'><ab type='prose'>靈雲校本末云　右奉騰寫秘密藏毘奈<lb
  n="0776c17" ed="T"/>耶經一卷　伏希後來密徒欽若淨則沙<lb
  n="0776c18" ed="T"/>界群類洽潤法澤。<lb
  n="0776c19" ed="T"/>　　貞享甲子初商二十四烏一校了<lb

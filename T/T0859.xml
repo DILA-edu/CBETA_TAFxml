@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T18</biblScope>
                     <idno type="Taisho">T18n0859</idno>
                 </bibl>
@@ -39,24 +39,24 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0177c09" ed="T"/><lb
  n="0177c10" ed="T"/><lb
  n="0177c11" ed="T"/><lb
  n="0177c12" ed="T"/>
-<ab type="juan" subtype="open">供養儀式</ab><lb
+<ab type='juan' subtype='open'>供養儀式</ab><lb
  n="0177c13" ed="T"/><lb
- n="0177c14" ed="T"/><div type="jing" level="2"><ab type="verse">
+ n="0177c14" ed="T"/><div type='jing' level='2'><ab type='verse'>
 略有二十四法則：　　<lb
  n="0177c15" ed="T"/>稽首毘盧遮那佛，　　開敷淨眼如青蓮，　　<lb
  n="0177c16" ed="T"/>我依大日經王說，　　供養所資眾儀軌；　　<lb
  n="0177c17" ed="T"/>為成次第真言法，　　如彼當得速成就，　　<lb
  n="0177c18" ed="T"/>又令本心離垢故，　　我今隨要略宣說。　　
 </ab><lb
- n="0177c19" ed="T"/><ab type="prose">次擇所法第一：<lb
+ n="0177c19" ed="T"/><ab type='prose'>次擇所法第一：<lb
  n="0177c20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 依於地分所宜處，　　妙山輔峯半巖間，　　<lb
  n="0177c21" ed="T"/>種種龕窟兩山中，　　於一切時得安穩。　　<lb
  n="0177c22" ed="T"/>芰荷青蓮遍嚴池，　　大河流川洲岸側，　　<lb
@@ -68,13 +68,13 @@
  n="0178a04" ed="T"/>勤轉五欲諸蓋纏，　　一向深樂於法味，　　<lb
  n="0178a05" ed="T"/>長養其心來悉地。　　
 </ab><lb
- n="0178a06" ed="T"/><ab type="prose">若得依前所說地，先須澡浴，沐浴有印明，<lb
+ n="0178a06" ed="T"/><ab type='prose'>若得依前所說地，先須澡浴，沐浴有印明，<lb
  n="0178a07" ed="T"/>真言曰：<lb
  n="0178a08" ed="T"/></ab>
-<ab type="dharani">「􄙈藍􄙠鑁」<lb
+<ab type='dharani'>「􄙈藍􄙠鑁」<lb
  n="0178a09" ed="T"/><lb
  n="0178a10" ed="T"/></ab>
-<ab type="prose"><lb
+<ab type='prose'><lb
  n="0178a11" ed="T"/><lb
  n="0178a12" ed="T"/><lb
  n="0178a13" ed="T"/><lb
@@ -82,10 +82,10 @@
  n="0178a15" ed="T"/>後指八方及上下，即是沐浴。<lb
  n="0178a16" ed="T"/>若掘地，亦須密印真言，真言曰：<lb
  n="0178a17" ed="T"/></ab>
-<ab type="dharani">「􄖩南􄗰麼􄙺三􄗥曼􆩖多􈎭勃􇧺馱􈁀喃􄚨訶」<lb
+<ab type='dharani'>「􄖩南􄗰麼􄙺三􄗥曼􆩖多􈎭勃􇧺馱􈁀喃􄚨訶」<lb
  n="0178a18" ed="T"/><lb
  n="0178a19" ed="T"/></ab>
-<ab type="prose"><lb
+<ab type='prose'><lb
  n="0178a20" ed="T"/><lb
  n="0178a21" ed="T"/><lb
  n="0178a22" ed="T"/><lb
@@ -93,10 +93,10 @@
  n="0178a24" ed="T"/>解了旋轉者，諸有所作皆成就。<lb
  n="0178a25" ed="T"/>次若揣土時，亦須密印真言，真言曰：<lb
  n="0178a26" ed="T"/></ab>
-<ab type="dharani">「􄖩南􄗰麼􄙺三􄗥曼􆩖多􈎭勃􇧺馱􈁀喃􄑖劍」<lb
+<ab type='dharani'>「􄖩南􄗰麼􄙺三􄗥曼􆩖多􈎭勃􇧺馱􈁀喃􄑖劍」<lb
  n="0178a27" ed="T"/><lb
  n="0178a28" ed="T"/></ab>
-<ab type="prose">若欲加持地，先入法界心，淨除於世間，最下<lb
+<ab type='prose'>若欲加持地，先入法界心，淨除於世間，最下<lb
  n="0178a29" ed="T"/>安大空，從空起風輪，乃至於地輪，等香水海<pb n="0178b" ed="T" id="T18.0859.0178b"/><lb
  n="0178b01" ed="T"/>觀。<lb
  n="0178b02" ed="T"/><lb
@@ -128,7 +128,7 @@
  n="0178b28" ed="T"/>次若事法畢，則向道場坐。<lb
  n="0178b29" ed="T"/>入佛三昧耶真言曰：<pb n="0178c" ed="T" id="T18.0859.0178c"/><lb
  n="0178c01" ed="T"/></ab>
-<ab type="dharani">「􄖩南􄗰麼􄙺薩􅞣婆􄕗怛􄕤他引􄑘蘖􄕝帝􄢥󰴁􄙘微􈂫濕嚩二合<lb
+<ab type='dharani'>「􄖩南􄗰麼􄙺薩􅞣婆􄕗怛􄕤他引􄑘蘖􄕝帝􄢥𭍇􄙘微􈂫濕嚩二合<lb
  n="0178c02" ed="T"/><lb
  n="0178c03" ed="T"/>􈁃目􈁽契二合􄢥弊􇩂唵􆿅阿􄙺三􄗫迷􄩠怛履二合<lb
  n="0178c04" ed="T"/><lb
@@ -136,30 +136,30 @@
  n="0178c06" ed="T"/><lb
  n="0178c07" ed="T"/>􅁥莎􄚩訶」<lb
  n="0178c08" ed="T"/></ab>
-<ab type="prose"><lb
+<ab type='prose'><lb
  n="0178c09" ed="T"/>當結三昧耶印，所謂淨除三業，遍觸諸支<lb
  n="0178c10" ed="T"/>分，誦持真實語，纔結此密印，能淨如來地也。<lb
  n="0178c11" ed="T"/>次結法界生，密慧之幖幟，淨身口意故，遍<lb
  n="0178c12" ed="T"/>轉於其身。真言曰：<lb
  n="0178c13" ed="T"/></ab>
-<ab type="dharani">「􄖩南􄗰麼􄙺三􄗥曼􆩖多􈎭勃􇧺馱􈁀喃􄕻達􈆺麼􄕼駄􄕛睹<lb
+<ab type='dharani'>「􄖩南􄗰麼􄙺三􄗥曼􆩖多􈎭勃􇧺馱􈁀喃􄕻達􈆺麼􄕼駄􄕛睹<lb
  n="0178c14" ed="T"/><lb
  n="0178c15" ed="T"/>􅁤薩嚩二合􄗙婆􄙖嚩􄑈句<lb
  n="0178c16" ed="T"/><lb
  n="0178c17" ed="T"/>􄚲痕」<lb
  n="0178c18" ed="T"/></ab>
-<ab type="prose"><lb
+<ab type='prose'><lb
  n="0178c19" ed="T"/>如法界自性，而觀於自身，或以真實語，三<lb
  n="0178c20" ed="T"/>轉而宣說。當見住法體，無垢如虛空。<lb
  n="0178c21" ed="T"/>次，以金剛甲冑，莊嚴於自身，當觀所被服，<lb
  n="0178c22" ed="T"/>遍體生焰光。真言曰：<lb
  n="0178c23" ed="T"/></ab>
-<ab type="dharani">「􄖩南􄗰麼􄙺三􄗥曼􆩖多􄙖伐􄦽折囉二合􈁰赧􇩂唵<lb
+<ab type='dharani'>「􄖩南􄗰麼􄙺三􄗥曼􆩖多􄙖伐􄦽折囉二合􈁰赧􇩂唵<lb
  n="0178c24" ed="T"/><lb
  n="0178c25" ed="T"/>􄙖伐􄦽折囉二合􄑀迦􄙖嚩􄑼遮􆿁吽」<lb
  n="0178c26" ed="T"/><lb
  n="0178c27" ed="T"/></ab>
-<ab type="prose"><lb
+<ab type='prose'><lb
  n="0178c28" ed="T"/><lb
  n="0178c29" ed="T"/><pb n="0179a" ed="T" id="T18.0859.0179a"/><lb
  n="0179a01" ed="T"/>避諸魔除自障者，要誦彼真言已，當觀無垢<lb
@@ -167,7 +167,7 @@
  n="0179a03" ed="T"/>次懺諸罪根，須觀􄙈㘕字門，色如日初出，燒<lb
  n="0179a04" ed="T"/>除無始罪。真言曰：<lb
  n="0179a05" ed="T"/></ab>
-<ab type="dharani">「􄖩南􄗰麼􄙺薩􅞣婆􄕗怛􄕤他引􄑘蘖􄕝帝􄢥󰴁􄙘微􈂫濕嚩二合<lb
+<ab type='dharani'>「􄖩南􄗰麼􄙺薩􅞣婆􄕗怛􄕤他引􄑘蘖􄕝帝􄢥𭍇􄙘微􈂫濕嚩二合<lb
  n="0179a06" ed="T"/><lb
  n="0179a07" ed="T"/>􈁃目􈁽契二合􇧸弊􄙺薩􇩆嚩二合􄕤他􄑖欠<lb
  n="0179a08" ed="T"/><lb
@@ -176,7 +176,7 @@
  n="0179a11" ed="T"/>􄖩那􄑊劍􅁥莎􄚩訶」<lb
  n="0179a12" ed="T"/><lb
  n="0179a13" ed="T"/></ab>
-<ab type="prose"><lb
+<ab type='prose'><lb
  n="0179a14" ed="T"/><lb
  n="0179a15" ed="T"/><lb
  n="0179a16" ed="T"/><lb
@@ -186,14 +186,14 @@
  n="0179a20" ed="T"/>次結諸方界，以不動印真言，及去垢辟除，<lb
  n="0179a21" ed="T"/>護持自身真言曰：<lb
  n="0179a22" ed="T"/></ab>
-<ab type="dharani">「􄖩南􄗰麼􄙺三􄗥曼􆩖多􄙖伐􄦽折囉二合、引􈁰赧􄑼戰􆧽拏<lb
+<ab type='dharani'>「􄖩南􄗰麼􄙺三􄗥曼􆩖多􄙖伐􄦽折囉二合、引􈁰赧􄑼戰􆧽拏<lb
  n="0179a23" ed="T"/><lb
  n="0179a24" ed="T"/>􄗥摩􄚩訶􄙆路􄙮灑􄕋儜上􆷱娑破二合􈁆吒􄗱也􆿁吽<lb
  n="0179a25" ed="T"/><lb
  n="0179a26" ed="T"/>􄩟怛羅二合􄑀迦􈁅悍􈁝漫」<lb
  n="0179a27" ed="T"/><lb
  n="0179a28" ed="T"/></ab>
-<ab type="prose">定手住其心，慧手普旋轉，應知所觸物，即名<lb
+<ab type='prose'>定手住其心，慧手普旋轉，應知所觸物，即名<lb
  n="0179a29" ed="T"/>為去垢，以此而左旋，因是成辟除。若結方<pb n="0179b" ed="T" id="T18.0859.0179b"/><lb
  n="0179b01" ed="T"/><lb
  n="0179b02" ed="T"/><lb
@@ -203,11 +203,11 @@
  n="0179b06" ed="T"/>次以真言印，而請召眾聖，諸佛菩薩說，依本<lb
  n="0179b07" ed="T"/>誓而來。真言曰：<lb
  n="0179b08" ed="T"/></ab>
-<ab type="dharani">「􇩂唵􄙖嚩􄦽折囉二合􄙺薩􄽙埵嚩二合􆿁吽􆿁吽<lb
+<ab type='dharani'>「􇩂唵􄙖嚩􄦽折囉二合􄙺薩􄽙埵嚩二合􆿁吽􆿁吽<lb
  n="0179b09" ed="T"/><lb
  n="0179b10" ed="T"/>􈂯醯曳􈂯醯曳」<lb
  n="0179b11" ed="T"/></ab>
-<ab type="prose"><lb
+<ab type='prose'><lb
  n="0179b12" ed="T"/><lb
  n="0179b13" ed="T"/><lb
  n="0179b14" ed="T"/>諸佛救世者，以茲召一切，安住十地等，大<lb
@@ -216,21 +216,21 @@
  n="0179b17" ed="T"/>次奉三昧耶，以真言印，印相如上觀，諸三昧<lb
  n="0179b18" ed="T"/>耶教。真言曰：<lb
  n="0179b19" ed="T"/></ab>
-<ab type="dharani">「􄖩南􄗰麼􄙺三􄗥曼􆩖多􈎭勃􇧺馱􈂳喃􆿅阿􄙺三􄗫迷<lb
+<ab type='dharani'>「􄖩南􄗰麼􄙺三􄗥曼􆩖多􈎭勃􇧺馱􈂳喃􆿅阿􄙺三􄗫迷<lb
  n="0179b20" ed="T"/><lb
- n="0179b21" ed="T"/>􄩠怛󰓑􄙺三􄗫迷􄙺三􄗥麼􄗷曳􅁥莎􄚩訶<lb
+ n="0179b21" ed="T"/>􄩠怛𭌆􄙺三􄗫迷􄙺三􄗥麼􄗷曳􅁥莎􄚩訶<lb
  n="0179b22" ed="T"/>」<lb
  n="0179b23" ed="T"/></ab>
-<ab type="prose">以如是方便，正示三昧耶，則能普增益，一切<lb
+<ab type='prose'>以如是方便，正示三昧耶，則能普增益，一切<lb
  n="0179b24" ed="T"/>眾生類，當得成悉地，速滿無上願，令本真言<lb
  n="0179b25" ed="T"/>主諸明歡喜，如是發願。<lb
  n="0179b26" ed="T"/>次辟除眾魔，鉤本尊，便入歡喜門，令生尊<lb
  n="0179b27" ed="T"/>歡喜，誦辟除真言。真言曰：<lb
  n="0179b28" ed="T"/></ab>
-<ab type="dharani">「􆿁吽􄖫泥􈂼蘇吽二合􆹊婆􄖫儞􆿁吽」<lb
+<ab type='dharani'>「􆿁吽􄖫泥􈂼蘇吽二合􆹊婆􄖫儞􆿁吽」<lb
  n="0179b29" ed="T"/><pb n="0179c" ed="T" id="T18.0859.0179c"/><lb
  n="0179c01" ed="T"/></ab>
-<ab type="prose"><lb
+<ab type='prose'><lb
  n="0179c02" ed="T"/><lb
  n="0179c03" ed="T"/><lb
  n="0179c04" ed="T"/><lb
@@ -241,29 +241,29 @@
  n="0179c09" ed="T"/>次奉獻閼伽水。所獻閼伽水，先已具嚴備，以<lb
  n="0179c10" ed="T"/>本尊真言，加持真言曰：<lb
  n="0179c11" ed="T"/></ab>
-<ab type="dharani">「􄖩南􄗰麼􄙺三􄗥曼􆩖多􈎭勃􇧺駄􈁀喃􄑘伽􄑘伽􄖩那􄙺三<lb
+<ab type='dharani'>「􄖩南􄗰麼􄙺三􄗥曼􆩖多􈎭勃􇧺駄􈁀喃􄑘伽􄑘伽􄖩那􄙺三<lb
  n="0179c12" ed="T"/><lb
  n="0179c13" ed="T"/>􄗦摩􄙺三􄗥摩􅁥莎􄚩訶」<lb
  n="0179c14" ed="T"/></ab>
-<ab type="prose"><lb
+<ab type='prose'><lb
  n="0179c15" ed="T"/><lb
  n="0179c16" ed="T"/>奉諸善逝者，用浴無垢身，次當淨一切，佛口<lb
  n="0179c17" ed="T"/>所生子。<lb
  n="0179c18" ed="T"/>次奉金剛座，即作蓮花印，令坐真言曰：<lb
  n="0179c19" ed="T"/></ab>
-<ab type="dharani">「􄖩南􄗰麼􄙺三􄗥曼􆩖多􈎭勃<lb
+<ab type='dharani'>「􄖩南􄗰麼􄙺三􄗥曼􆩖多􈎭勃<lb
  n="0179c20" ed="T"/><lb
  n="0179c21" ed="T"/>􇧺馱􈁀喃􇩱阿引聲急呼」<lb
  n="0179c22" ed="T"/></ab>
-<ab type="prose"><lb
+<ab type='prose'><lb
  n="0179c23" ed="T"/>遍置一切處，覺者所安坐。<lb
  n="0179c24" ed="T"/>次當辟除自身所生障，以大慧刀印，聖不動<lb
  n="0179c25" ed="T"/>真言。真言曰：<lb
  n="0179c26" ed="T"/></ab>
-<ab type="dharani">「􄖩南􄗰麼􄙺三􄗥曼􆩖多􄙖嚩􄦽折囉二合􈁰𧹞􄙠鑁」<lb
+<ab type='dharani'>「􄖩南􄗰麼􄙺三􄗥曼􆩖多􄙖嚩􄦽折囉二合􈁰𧹞􄙠鑁」<lb
  n="0179c27" ed="T"/><lb
  n="0179c28" ed="T"/></ab>
-<ab type="prose">當觀最勝金剛焰，焚燒一切障，令盡無有餘，<lb
+<ab type='prose'>當觀最勝金剛焰，焚燒一切障，令盡無有餘，<lb
  n="0179c29" ed="T"/>智者當轉作，金剛薩埵身，真言印相應，遍布<pb n="0180a" ed="T" id="T18.0859.0180a"/><lb
  n="0180a01" ed="T"/>諸支分。<lb
  n="0180a02" ed="T"/>次頻誦真言，各說本真言，及自所持明，應如<lb
@@ -272,20 +272,20 @@
  n="0180a05" ed="T"/>名中。<lb
  n="0180a06" ed="T"/>塗香時，以密印用。真言曰：<lb
  n="0180a07" ed="T"/></ab>
-<ab type="dharani">「􄖩南􄗰麼􄙺三􄗥曼􆩖多􈎭勃􇧺馱􈁀喃􄙘微􄙦輸􇧹駄<lb
+<ab type='dharani'>「􄖩南􄗰麼􄙺三􄗥曼􆩖多􈎭勃􇧺馱􈁀喃􄙘微􄙦輸􇧹駄<lb
  n="0180a08" ed="T"/><lb
  n="0180a09" ed="T"/>􄑘健􈁇杜引􆹊嗢婆二合􄙖嚩􅁥莎􄚩訶」<lb
  n="0180a10" ed="T"/><lb
  n="0180a11" ed="T"/></ab>
-<ab type="prose"><lb
+<ab type='prose'><lb
  n="0180a12" ed="T"/>次焚香供養。真言曰：<lb
  n="0180a13" ed="T"/></ab>
-<ab type="dharani">「􄖩南􄗰麼􄙺三􄗥曼􆩖多􈎭勃􇧺馱􈁀喃􄕻達􈆺麼􄕼馱<lb
+<ab type='dharani'>「􄖩南􄗰麼􄙺三􄗥曼􆩖多􈎭勃􇧺馱􈁀喃􄕻達􈆺麼􄕼馱<lb
  n="0180a14" ed="T"/><lb
  n="0180a15" ed="T"/>􄕛睹􆲪弩蘖􄕝帝􅁥莎􄚩訶」<lb
  n="0180a16" ed="T"/><lb
  n="0180a17" ed="T"/></ab>
-<ab type="prose"><lb
+<ab type='prose'><lb
  n="0180a18" ed="T"/><lb
  n="0180a19" ed="T"/><lb
  n="0180a20" ed="T"/><lb
@@ -293,27 +293,27 @@
  n="0180a22" ed="T"/><lb
  n="0180a23" ed="T"/>次燃燈供養。真言曰：<lb
  n="0180a24" ed="T"/></ab>
-<ab type="dharani">「􄖩南􄗰麼􄙺三􄗥曼􆩖多􈎭勃􇧺馱􈁀喃􇩂唵􄕗怛􄕤他引<lb
+<ab type='dharani'>「􄖩南􄗰麼􄙺三􄗥曼􆩖多􈎭勃􇧺馱􈁀喃􇩂唵􄕗怛􄕤他引<lb
  n="0180a25" ed="T"/><lb
  n="0180a26" ed="T"/>􄑘蘖􄕘多引􅗗唎旨二合􆷱薩叵二合􄗽囉􄕋儜􄙖嚩􄗚婆去<lb
  n="0180a27" ed="T"/><lb
  n="0180a28" ed="T"/>􄙺娑􄖩那􄑘伽􄑘伽􄖲猱􄕯陀􅝩哩耶二合􅁥莎􄚩訶」<lb
  n="0180a29" ed="T"/><pb n="0180b" ed="T" id="T18.0859.0180b"/><lb
  n="0180b01" ed="T"/></ab>
-<ab type="prose"><lb
+<ab type='prose'><lb
  n="0180b02" ed="T"/><lb
  n="0180b03" ed="T"/><lb
  n="0180b04" ed="T"/><lb
  n="0180b05" ed="T"/>次雜食飲供養。真言曰：<lb
  n="0180b06" ed="T"/></ab>
-<ab type="dharani">「􄖩南􄗰麼􄙺三􄗥曼􆩖多􈎭勃􇧺馱􈁀喃􄙺阿􄗽囉􄗽囉<lb
+<ab type='dharani'>「􄖩南􄗰麼􄙺三􄗥曼􆩖多􈎭勃􇧺馱􈁀喃􄙺阿􄗽囉􄗽囉<lb
  n="0180b07" ed="T"/><lb
  n="0180b08" ed="T"/>􄑀迦􄗽囉􄗽囉􄙖沫􈂶隣􄕯捺􄕯娜􄗧弭􄙖沫􈂶隣􄕯捺􄖯泥<lb
  n="0180b09" ed="T"/><lb
- n="0180b10" ed="T"/>􄗥摩􄚩訶引􄙖沫􈁖󰓑􅁥莎􄚩訶」<lb
+ n="0180b10" ed="T"/>􄗥摩􄚩訶引􄙖沫􈁖𭌆􅁥莎􄚩訶」<lb
  n="0180b11" ed="T"/><lb
  n="0180b12" ed="T"/></ab>
-<ab type="prose"><lb
+<ab type='prose'><lb
  n="0180b13" ed="T"/><lb
  n="0180b14" ed="T"/><lb
  n="0180b15" ed="T"/>次及餘供養具，所應奉獻者，依隨此法則，淨<lb
@@ -328,10 +328,10 @@
  n="0180b24" ed="T"/>座，便入三摩地，將以本種子，安置自體內，<lb
  n="0180b25" ed="T"/>轉成本尊身。真言曰：<lb
  n="0180b26" ed="T"/></ab>
-<ab type="dharani">「􄖩南􄗰麼􄙺三􄗥曼􆩖多􈎭勃􇧺馱􈁀喃􆿅阿」<lb
+<ab type='dharani'>「􄖩南􄗰麼􄙺三􄗥曼􆩖多􈎭勃􇧺馱􈁀喃􆿅阿」<lb
  n="0180b27" ed="T"/><lb
  n="0180b28" ed="T"/></ab>
-<ab type="prose">次持誦法之念誦三落叉，三昧即現前，轉成<lb
+<ab type='prose'>次持誦法之念誦三落叉，三昧即現前，轉成<lb
  n="0180b29" ed="T"/>法界身。念誦既畢已，遍數寄本尊，復獻閼伽<pb n="0180c" ed="T" id="T18.0859.0180c"/><lb
  n="0180c01" ed="T"/>等，諸供養等物，準初廣作之，護尊及己身。所<lb
  n="0180c02" ed="T"/>作既畢已，頂解三昧耶，護道場及己身，轉讀<lb
@@ -343,11 +343,11 @@
  n="0180c08" ed="T"/>者罪障淨除之相也。若其法事竟，當誦此偈，<lb
  n="0180c09" ed="T"/>偈曰：<lb
  n="0180c10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「諸法從緣生，　　此法從緣滅，　　<lb
  n="0180c11" ed="T"/>彼法從因滅，　　是大沙門說。」　　
 </ab><lb
- n="0180c12" ed="T"/><ab type="prose">凡作曼荼羅者，依前法也，若其度量分短之<lb
+ n="0180c12" ed="T"/><ab type='prose'>凡作曼荼羅者，依前法也，若其度量分短之<lb
  n="0180c13" ed="T"/>能造，最大三十六肘、二十八肘、十六肘、八肘、<lb
  n="0180c14" ed="T"/>六肘、四肘，極小二肘，皆取受方福人身手肘<lb
  n="0180c15" ed="T"/>量，形狀如前。若為國王大臣長者，具有種種<lb
@@ -367,7 +367,7 @@
  n="0180c29" ed="T"/>為道場主，及般若乃至菩薩等，隨意安置中，<pb n="0181a" ed="T" id="T18.0859.0181a"/><lb
  n="0181a01" ed="T"/>隨主。</ab></div><lb
  n="0181a02" ed="T"/>
-<ab type="juan" subtype="close">供養儀式</ab><lb
- n="0181a03" ed="T"/><div type="w" level="2"><ab type="prose">靈雲校本末云貞享三年四月廿三日一校<lb
+<ab type='juan' subtype='close'>供養儀式</ab><lb
+ n="0181a03" ed="T"/><div type='w' level='2'><ab type='prose'>靈雲校本末云貞享三年四月廿三日一校<lb
  n="0181a04" ed="T"/>　并點爛脫了　淨嚴</ab></div></div>
 </body></text></TEI>

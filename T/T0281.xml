@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T10</biblScope>
                     <idno type="Taisho">T10n0281</idno>
                 </bibl>
@@ -39,15 +39,15 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0446b24" ed="T"/><lb
  n="0446b25" ed="T"/><lb
  n="0446b26" ed="T"/>
-<ab type="juan" subtype="open">佛說菩薩本業經一卷</ab><lb
+<ab type='juan' subtype='open'>佛說菩薩本業經一卷</ab><lb
  n="0446b27" ed="T"/><lb
  n="0446b28" ed="T"/><byline>吳月氏優婆塞支謙譯</byline><lb
- n="0446b29" ed="T"/><div type="None" level="2"><ab type="prose">聞如是：一時佛遊於摩竭道場，初始得佛，光<pb n="0446c" ed="T" id="T10.0281.0446c"/><lb
+ n="0446b29" ed="T"/><div type='' level='2'><ab type='prose'>聞如是：一時佛遊於摩竭道場，初始得佛，光<pb n="0446c" ed="T" id="T10.0281.0446c"/><lb
  n="0446c01" ed="T"/>景甚明，自然蓮華寶師子座，古昔諸佛所坐<lb
  n="0446c02" ed="T"/>皆爾，道德威儀相好如一，身意清淨，福行普<lb
  n="0446c03" ed="T"/>具，明所徹照人剎法處，去來現在無復罣礙，<lb
@@ -65,7 +65,7 @@
  n="0446c15" ed="T"/>定，無量變化隨時，四事不護，四無所畏，十八<lb
  n="0446c16" ed="T"/>不絕，一切敏慧，無上道德，眾事敷露。」<lb
  n="0446c17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 東去無極，　　有香林剎，　　<lb
  n="0446c18" ed="T"/>佛名入精進，　　菩薩字敬首；　　<lb
  n="0446c19" ed="T"/>南去無極，　　有樂林剎，　　<lb
@@ -87,7 +87,7 @@
  n="0447a05" ed="T"/>上方無極，　　有欲林剎，　　<lb
  n="0447a06" ed="T"/>佛名至精進，　　菩薩字賢首。　　
 </ab><lb
- n="0447a07" ed="T"/><ab type="prose">是賢首等，皆彼第一，各與無數上人俱來，<lb
+ n="0447a07" ed="T"/><ab type='prose'>是賢首等，皆彼第一，各與無數上人俱來，<lb
  n="0447a08" ed="T"/>稽首佛足，坐一面蓮華上。彼時敬首菩薩，承<lb
  n="0447a09" ed="T"/>佛聖旨，歎曰：「快哉，今上人會，為未曾有，觀其<lb
  n="0447a10" ed="T"/>所止，佛國清淨，至於被服如來德戒，修行<lb
@@ -115,8 +115,8 @@
  n="0447b02" ed="T"/>各有百億。此為一佛剎，號曰忍世界，釋迦<lb
  n="0447b03" ed="T"/>文佛，分身百億，悉遍其中。於時天人，覩眾小<lb
  n="0447b04" ed="T"/>國，諸佛菩薩，若近相見。</ab></div><lb
- n="0447b05" ed="T"/><div type="pin" level="2"><head>願行品第二</head><lb
- n="0447b06" ed="T"/><ab type="prose">智首菩薩問敬首曰：「本何修行？成佛聖道，<lb
+ n="0447b05" ed="T"/><div type='pin' level='2'><head>願行品第二</head><lb
+ n="0447b06" ed="T"/><ab type='prose'>智首菩薩問敬首曰：「本何修行？成佛聖道，<lb
  n="0447b07" ed="T"/>身口意淨，不念人惡，亦使天下不得其短，仁<lb
  n="0447b08" ed="T"/>慈至大，內性明了，殊過弟子別覺之上，一<lb
  n="0447b09" ed="T"/>切眾邪莫能迴動，出生端正，色相無比，族<lb
@@ -136,7 +136,7 @@
  n="0447b23" ed="T"/>無得增減，以誓自要，念安世間，奉戒行願，<lb
  n="0447b24" ed="T"/>以立德本。<lb
  n="0447b25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「居家奉戒，　　當願眾生，　　貪欲意解，　　<lb
  n="0447b26" ed="T"/>入空法中。　　孝事父母，　　當願眾生，　　<lb
  n="0447b27" ed="T"/>一切護視，　　使得佛道。　　順教妻子，　　<lb
@@ -318,8 +318,8 @@
  n="0449b23" ed="T"/>得佛十八，　　不絕之法。　　是為菩薩，　　<lb
  n="0449b24" ed="T"/>誡願俱行，　　兼愛博施，　　不捨十方。」　　
 </ab></div><lb
- n="0449b25" ed="T"/><div type="pin" level="2"><head>十地品第三</head><lb
- n="0449b26" ed="T"/><ab type="prose">於是忍世界百億天帝釋，皆於忉利紫紺殿<lb
+ n="0449b25" ed="T"/><div type='pin' level='2'><head>十地品第三</head><lb
+ n="0449b26" ed="T"/><ab type='prose'>於是忍世界百億天帝釋，皆於忉利紫紺殿<lb
  n="0449b27" ed="T"/>上，化作七寶師子之座，施交露帳，席以綵<lb
  n="0449b28" ed="T"/>縶已，各稽首請佛。佛意悉知，即為分身，遍<lb
  n="0449b29" ed="T"/>諸釋殿，一一佛者，從眾菩薩，一切天帝，莫不<lb
@@ -438,5 +438,5 @@
  n="0450c25" ed="T"/>由此興，是法無際，所照無量，度人無極，智心<lb
  n="0450c26" ed="T"/>無盡。」佛說是已，皆大歡喜，為佛作禮。</ab></div><lb
  n="0450c27" ed="T"/>
-<ab type="juan" subtype="close">佛說菩薩本業經</ab></div>
+<ab type='juan' subtype='close'>佛說菩薩本業經</ab></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0029</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0811a27" ed="T"/><lb
  n="0811a28" ed="T"/><lb
- n="0811a29" ed="T"/><div type="jing" level="1"><pb n="0811b" ed="T" id="T01.0029.0811b"/><lb
+ n="0811a29" ed="T"/><div type='jing' level='1'><pb n="0811b" ed="T" id="T01.0029.0811b"/><lb
  n="0811b01" ed="T"/>
-<ab type="juan" subtype="open">佛說鹹水喻經</ab><lb
+<ab type='juan' subtype='open'>佛說鹹水喻經</ab><lb
  n="0811b02" ed="T"/><lb
  n="0811b03" ed="T"/><byline>失譯人名今附西晉錄</byline><lb
- n="0811b04" ed="T"/><ab type="prose">聞如是：一時，婆伽婆在舍衛城祇樹給孤獨<lb
+ n="0811b04" ed="T"/><ab type='prose'>聞如是：一時，婆伽婆在舍衛城祇樹給孤獨<lb
  n="0811b05" ed="T"/>園。爾時世尊告諸比丘：「我與汝等說水喻七<lb
  n="0811b06" ed="T"/>事，諦聽諦思念之，我當說。」對曰：「如是，世尊！」<lb
  n="0811b07" ed="T"/>爾時諸比丘從佛聞教。世尊告曰：「云何，比丘！<lb
@@ -89,5 +89,5 @@
  n="0811c14" ed="T"/>有悔。是謂我所教勅。」爾時諸比丘聞佛所說，<lb
  n="0811c15" ed="T"/>歡喜奉行。<lb
  n="0811c16" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說鹹水喻經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說鹹水喻經</ab></div>
 </body></text></TEI>

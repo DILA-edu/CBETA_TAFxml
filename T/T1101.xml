@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1101</idno>
                 </bibl>
@@ -39,19 +39,19 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0450a" id="T20.1101.0450a" ed="T"/><lb
  n="0450a01" ed="T"/><lb
  n="0450a02" ed="T"/><lb
  n="0450a03" ed="T"/>
-<ab type="juan" subtype="open">佛說大方廣曼殊室利經</ab><lb
+<ab type='juan' subtype='open'>佛說大方廣曼殊室利經</ab><lb
  n="0450a04" ed="T"/><lb
  n="0450a05" ed="T"/><byline>開府儀同三司特進試鴻臚卿肅國<lb
  n="0450a06" ed="T"/>公食邑三千戶賜紫贈司空諡大鑒<lb
  n="0450a07" ed="T"/>正號大廣智大興善寺三藏沙門<lb
  n="0450a08" ed="T"/>不空奉　詔譯</byline><lb
- n="0450a09" ed="T"/><div type="pin" level="2"><head>觀自在菩薩授記品</head><lb
- n="0450a10" ed="T"/><ab type="prose">爾時世尊。復遍觀察淨居天宮。告觀自在菩<lb
+ n="0450a09" ed="T"/><div type='pin' level='2'><head>觀自在菩薩授記品</head><lb
+ n="0450a10" ed="T"/><ab type='prose'>爾時世尊。復遍觀察淨居天宮。告觀自在菩<lb
  n="0450a11" ed="T"/>薩摩訶薩言。善哉善哉善男子。汝能愍念多<lb
  n="0450a12" ed="T"/>眾生故。住陀羅尼形。而為眾生演說安立。勸<lb
  n="0450a13" ed="T"/>進隨喜解其理趣。為修行者開示法要及諸<lb
@@ -94,7 +94,7 @@
  n="0450b21" ed="T"/>來今日為觀自在菩薩摩訶薩。作法輪王摩<lb
  n="0450b22" ed="T"/>訶灌頂。<lb
  n="0450b23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 無量莊嚴具　　及與妙音聲　　<lb
  n="0450b24" ed="T"/>過人天所讚　　如是皆來現　　<lb
  n="0450b25" ed="T"/>十方諸如來　　一切菩薩眾　　<lb
@@ -104,7 +104,7 @@
  n="0450b29" ed="T"/>皆持妙供具　　來獻佛菩薩　　<pb n="0450c" id="T20.1101.0450c" ed="T"/><lb
  n="0450c01" ed="T"/>同願於未來　　皆如觀自在　　
 </ab><lb
- n="0450c02" ed="T"/><ab type="prose">爾時觀自在菩薩摩訶薩。頂禮尊足讚如來<lb
+ n="0450c02" ed="T"/><ab type='prose'>爾時觀自在菩薩摩訶薩。頂禮尊足讚如來<lb
  n="0450c03" ed="T"/>已。還就本座作如是言。此陀羅尼過去諸佛<lb
  n="0450c04" ed="T"/>毘婆尸等。及我世尊釋迦如來。所共宣說隨<lb
  n="0450c05" ed="T"/>喜印可。及於未來彌勒世尊。阿僧祇等一切<lb
@@ -124,7 +124,7 @@
  n="0450c19" ed="T"/>了。復過於是含嬉微笑。憐愍眾生猶如慈<lb
  n="0450c20" ed="T"/>母。以慈悲光普照佛剎。諸天光明皆悉不現。<lb
  n="0450c21" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 爾時觀自在　　吉祥清淨者　　<lb
  n="0450c22" ed="T"/>作禮世尊已　　偈作如是說　　<lb
  n="0450c23" ed="T"/>我於俱胝劫　　演說是多羅　　<lb
@@ -189,21 +189,21 @@
  n="0451b24" ed="T"/>皆稱是我母　　慈育諸有情　　<lb
  n="0451b25" ed="T"/>安載如大地　　
 </ab><lb
- n="0451b26" ed="T"/><ab type="prose">爾時觀自在說是偈已。即為多羅菩薩。說陀<lb
+ n="0451b26" ed="T"/><ab type='prose'>爾時觀自在說是偈已。即為多羅菩薩。說陀<lb
  n="0451b27" ed="T"/>羅尼曰。<lb
  n="0451b28" ed="T"/></ab>
-<ab type="dharani">那慕囉怛娜怛囉夜耶娜莫阿利耶<lb
+<ab type='dharani'>那慕囉怛娜怛囉夜耶娜莫阿利耶<lb
  n="0451b29" ed="T"/>嚩嚕吉帝濕嚩囉耶冒地薩埵耶摩訶薩<pb n="0451c" id="T20.1101.0451c" ed="T"/><lb
  n="0451c01" ed="T"/>埵耶摩訶迦路尼迦耶怛姪他唵多利咄多<lb
  n="0451c02" ed="T"/>唎咄唎莎嚩訶<lb
  n="0451c03" ed="T"/></ab>
-<ab type="prose">時觀自在菩薩說陀羅尼已。以多羅菩薩威<lb
+<ab type='prose'>時觀自在菩薩說陀羅尼已。以多羅菩薩威<lb
  n="0451c04" ed="T"/>神力故。一切世界所有眾生。離諸苦惱皆獲<lb
  n="0451c05" ed="T"/>安樂。悉發無上菩提之心。悉與法界體性相<lb
  n="0451c06" ed="T"/>應。入於出生無邊門藏。一切眾會心生奇特<lb
  n="0451c07" ed="T"/>歎未曾有。</ab></div><lb
- n="0451c08" ed="T"/><div type="pin" level="2"><head>觀自在多羅菩薩經曼荼羅品第二</head><lb
- n="0451c09" ed="T"/><ab type="prose">爾時觀自在菩薩摩訶薩。告多羅菩薩言。若<lb
+ n="0451c08" ed="T"/><div type='pin' level='2'><head>觀自在多羅菩薩經曼荼羅品第二</head><lb
+ n="0451c09" ed="T"/><ab type='prose'>爾時觀自在菩薩摩訶薩。告多羅菩薩言。若<lb
  n="0451c10" ed="T"/>女人為欲成就一切種智。及欲滿足世間勝<lb
  n="0451c11" ed="T"/>願。應當修習如是祕要。其曼荼羅。一如今日<lb
  n="0451c12" ed="T"/>釋迦如來在淨居天宮。與諸菩薩集會之位。<lb
@@ -278,9 +278,9 @@
  n="0452b23" ed="T"/>酪。先以酥三杓供養火天燒之。次蜜酪各三<lb
  n="0452b24" ed="T"/>杓。然後以五種子三置火中。陀羅尼曰。<lb
  n="0452b25" ed="T"/></ab>
-<ab type="dharani">唵阿祇儞莎嚩訶<lb
+<ab type='dharani'>唵阿祇儞莎嚩訶<lb
  n="0452b26" ed="T"/></ab>
-<ab type="prose">誦此密言而加持之。復取白檀欝金龍腦香<lb
+<ab type='prose'>誦此密言而加持之。復取白檀欝金龍腦香<lb
  n="0452b27" ed="T"/>等相和香水。盛以瓦木金銀熟銅新淨之器<lb
  n="0452b28" ed="T"/>右邊安之。請火天已。取華香誦根本陀羅尼<lb
  n="0452b29" ed="T"/>擲燒供養火天。右手取香水右旋灑火及用<pb n="0452c" id="T20.1101.0452c" ed="T"/><lb
@@ -309,8 +309,8 @@
  n="0452c23" ed="T"/>蓮華根莖。亦不得踐履窣堵波影及阿闍梨<lb
  n="0452c24" ed="T"/>父母之影清淨比丘修行人影。乃至七佛菩<lb
  n="0452c25" ed="T"/>提樹影並不應履。</ab></div><lb
- n="0452c26" ed="T"/><div type="pin" level="2"><head>觀自在多羅菩薩經畫像品</head><lb
- n="0452c27" ed="T"/><ab type="prose">爾時釋迦牟尼佛。又復觀察淨居天宮。告觀<lb
+ n="0452c26" ed="T"/><div type='pin' level='2'><head>觀自在多羅菩薩經畫像品</head><lb
+ n="0452c27" ed="T"/><ab type='prose'>爾時釋迦牟尼佛。又復觀察淨居天宮。告觀<lb
  n="0452c28" ed="T"/>自在菩薩摩訶薩言。汝今次應為多羅菩薩<lb
  n="0452c29" ed="T"/>說畫像法。時觀自在菩薩摩訶薩。承佛聖旨<pb n="0453a" id="T20.1101.0453a" ed="T"/><lb
  n="0453a01" ed="T"/>從坐而起。禮佛雙足復遍觀察淨居天宮。而<lb
@@ -344,8 +344,8 @@
  n="0453a29" ed="T"/>相。上畫寶蓋諸天妓樂。四邊空處悉畫龍<pb n="0453b" id="T20.1101.0453b" ed="T"/><lb
  n="0453b01" ed="T"/>華。若修行者至誠供養頂禮一拜。滅除億劫<lb
  n="0453b02" ed="T"/>生死之罪。</ab></div><lb
- n="0453b03" ed="T"/><div type="pin" level="2"><head>觀自在多羅菩薩第二畫像品</head><lb
- n="0453b04" ed="T"/><ab type="prose">爾時觀自在菩薩摩訶薩。復告多羅菩薩言。<lb
+ n="0453b03" ed="T"/><div type='pin' level='2'><head>觀自在多羅菩薩第二畫像品</head><lb
+ n="0453b04" ed="T"/><ab type='prose'>爾時觀自在菩薩摩訶薩。復告多羅菩薩言。<lb
  n="0453b05" ed="T"/>若修行人復欲成就第二畫像法者。先於中<lb
  n="0453b06" ed="T"/>台畫無量壽佛。倚菩提樹。左邊畫離垢菩薩<lb
  n="0453b07" ed="T"/>白色種種莊嚴衣紗縠衣。手持白拂側顧向<lb
@@ -392,16 +392,16 @@
  n="0453c19" ed="T"/>觀自在宮。如是等一切上願。世出世間無不<lb
  n="0453c20" ed="T"/>成就。復誦此密言發遣聖者。陀羅尼曰。<lb
  n="0453c21" ed="T"/></ab>
-<ab type="dharani">娜慕囉怛那怛囉夜耶那莫阿唎耶<lb
+<ab type='dharani'>娜慕囉怛那怛囉夜耶那莫阿唎耶<lb
  n="0453c22" ed="T"/>嚩魯吉帝濕嚩囉耶菩地薩埵耶摩訶薩<lb
  n="0453c23" ed="T"/>埵耶呬唎呬唎蘇𡀔蘇𡀔薩嚩薩埵迦𡀔尼<lb
  n="0453c24" ed="T"/>迦孽蹉孽蹉耶阿唎耶嚩魯吉帝濕嚩囉<lb
  n="0453c25" ed="T"/>也他三麼耶滿努薩麼囉薩嚩訶<lb
  n="0453c26" ed="T"/></ab>
-<ab type="prose">行者捧諸香華。誦此真言七遍加持。已散菩<lb
+<ab type='prose'>行者捧諸香華。誦此真言七遍加持。已散菩<lb
  n="0453c27" ed="T"/>薩足下則成發遣一髻羅剎陀羅尼曰。<lb
  n="0453c28" ed="T"/></ab>
-<ab type="dharani">娜慕囉怛那怛囉夜耶娜莫阿唎耶<lb
+<ab type='dharani'>娜慕囉怛那怛囉夜耶娜莫阿唎耶<lb
  n="0453c29" ed="T"/>嚩魯吉帝　濕嚩囉耶冒地薩埵耶摩訶<pb n="0454a" id="T20.1101.0454a" ed="T"/><lb
  n="0454a01" ed="T"/>薩埵耶娜慕翳迦惹吒耶麼訶囉乞灑斯<lb
  n="0454a02" ed="T"/>阿夜囉麼麼摩訶囉乞灑斯麼麼母迦薩<lb
@@ -409,8 +409,8 @@
  n="0454a04" ed="T"/>訶惹夜也娑嚩訶薩嚩微近娜尾那夜建<lb
  n="0454a05" ed="T"/>𠸪乞叉𠸪乞叉娑嚩訶<lb
  n="0454a06" ed="T"/></ab>
-<ab type="prose">此陀羅尼能令用功少成就疾。亦是多羅菩<lb
+<ab type='prose'>此陀羅尼能令用功少成就疾。亦是多羅菩<lb
  n="0454a07" ed="T"/>薩使者。故諸修行人應當誦念。<lb
  n="0454a08" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說大方廣曼殊室利經</ab></div></div>
+</ab><ab type='juan' subtype='close'>佛說大方廣曼殊室利經</ab></div></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1084</idno>
                 </bibl>
@@ -39,26 +39,26 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0202b06" ed="T"/><lb
  n="0202b07" ed="T"/><lb
  n="0202b08" ed="T"/><lb
  n="0202b09" ed="T"/>
-<ab type="juan" subtype="open">觀世音菩薩如意摩尼輪陀羅尼<lb
+<ab type='juan' subtype='open'>觀世音菩薩如意摩尼輪陀羅尼<lb
  n="0202b10" ed="T"/>念誦法</ab><lb
  n="0202b11" ed="T"/><lb
  n="0202b12" ed="T"/><byline>三藏法師寶思惟奉　詔譯</byline><lb
- n="0202b13" ed="T"/><div type="jing" level="2"><ab type="prose">根本呪曰。<lb
+ n="0202b13" ed="T"/><div type='jing' level='2'><ab type='prose'>根本呪曰。<lb
  n="0202b14" ed="T"/></ab>
-<ab type="dharani">那謨喝囉怛曩怛囉夜也那摩阿唎也婆<lb
+<ab type='dharani'>那謨喝囉怛曩怛囉夜也那摩阿唎也婆<lb
  n="0202b15" ed="T"/>嚕吉帝說婆囉吔菩提薩埵婆吧摩訶<lb
  n="0202b16" ed="T"/>薩埵婆也摩訶迦嚧尼迦吔怛姪他唵<lb
  n="0202b17" ed="T"/>斫迦羅靺哩底震哆摩尼摩訶鉢特<lb
  n="0202b18" ed="T"/>迷嚕嚕底瑟吒鉢羅阿羯贈哩灑<lb
  n="0202b19" ed="T"/>吔虎吽泮吒娑嚩訶<lb
  n="0202b20" ed="T"/></ab>
-<ab type="prose">若有善男子善女人持誦此呪。若每日平旦<lb
+<ab type='prose'>若有善男子善女人持誦此呪。若每日平旦<lb
  n="0202b21" ed="T"/>嚼楊枝始念誦。若誦此呪滿十萬。聖如意輪<lb
  n="0202b22" ed="T"/>菩薩現身與所求願。<lb
  n="0202b23" ed="T"/>凡誦此呪。不簡在家出家飲酒食肉有妻子。<lb
@@ -71,61 +71,61 @@
  n="0202c01" ed="T"/>身即如本尊威神威力。諸大力魔不得便。<lb
  n="0202c02" ed="T"/>次心呪曰。<lb
  n="0202c03" ed="T"/></ab>
-<ab type="dharani">烏唵鉢特摩震多末尼啜羅虎<lb
+<ab type='dharani'>烏唵鉢特摩震多末尼啜羅虎<lb
  n="0202c04" ed="T"/>𤙖<lb
  n="0202c05" ed="T"/></ab>
-<ab type="prose">次隨心呪曰。<lb
+<ab type='prose'>次隨心呪曰。<lb
  n="0202c06" ed="T"/></ab>
-<ab type="dharani">嗚唵嚩羅陀鉢特迷企<lb
+<ab type='dharani'>嗚唵嚩羅陀鉢特迷企<lb
  n="0202c07" ed="T"/></ab>
-<ab type="prose">次以右手逆覆左手。以右小指頭押左大指<lb
+<ab type='prose'>次以右手逆覆左手。以右小指頭押左大指<lb
  n="0202c08" ed="T"/>頭。以右大指頭押左小指頭。呪曰。<lb
  n="0202c09" ed="T"/></ab>
-<ab type="dharani">唵阿唎耶婆路吉帝攝跋羅耶<lb
+<ab type='dharani'>唵阿唎耶婆路吉帝攝跋羅耶<lb
  n="0202c10" ed="T"/>菩提薩埵耶摩訶薩埵耶摩訶迦嚧<lb
  n="0202c11" ed="T"/>尼迦耶哆姪他唵者揭唎者揭<lb
  n="0202c12" ed="T"/>唎摩訶者揭𠼝者揭𠼝他𠼝者揭𠼝<lb
  n="0202c13" ed="T"/>馱羅娑訶<lb
  n="0202c14" ed="T"/></ab>
-<ab type="prose">以印誦此呪三返散頂上。<lb
+<ab type='prose'>以印誦此呪三返散頂上。<lb
  n="0202c15" ed="T"/>馬頭觀音護身結界法印呪兩手從中指<lb
  n="0202c16" ed="T"/>以下三指向外相叉。各博著手背合掌。二食<lb
  n="0202c17" ed="T"/>指直竪相去五分許。並二大指相著。各屈一<lb
  n="0202c18" ed="T"/>節勿著食指頭來去。呪曰。<lb
  n="0202c19" ed="T"/></ab>
-<ab type="dharani">唵鉢囉毘迦悉跢跋折囉涉囉支莎<lb
+<ab type='dharani'>唵鉢囉毘迦悉跢跋折囉涉囉支莎<lb
  n="0202c20" ed="T"/>訶<lb
  n="0202c21" ed="T"/></ab>
-<ab type="prose">馬頭大法身印　兩手食指以下三指向外相<lb
+<ab type='prose'>馬頭大法身印　兩手食指以下三指向外相<lb
  n="0202c22" ed="T"/>叉。指頭各轉著手背合掌。以二小指並竪相<lb
  n="0202c23" ed="T"/>合。並二大指相著屈怒大指來去。呪曰。<lb
  n="0202c24" ed="T"/></ab>
-<ab type="dharani">唵杜那杜那摩他摩他可馱可馱可馱<lb
+<ab type='dharani'>唵杜那杜那摩他摩他可馱可馱可馱<lb
  n="0202c25" ed="T"/>訶那揭唎婆嗚𤙖莎訶<lb
  n="0202c26" ed="T"/></ab>
-<ab type="prose">馬頭法身印　以二手食指以下四指向外相<lb
+<ab type='prose'>馬頭法身印　以二手食指以下四指向外相<lb
  n="0202c27" ed="T"/>叉。頭各著手背合掌。並二大指相著。各屈一<lb
  n="0202c28" ed="T"/>節勿著食指大指來去。呪曰。<lb
  n="0202c29" ed="T"/></ab>
-<ab type="dharani">唵阿密唎都知婆嗚𤙖莎訶<pb n="0203a" id="T20.1084.0203a" ed="T"/><lb
+<ab type='dharani'>唵阿密唎都知婆嗚𤙖莎訶<pb n="0203a" id="T20.1084.0203a" ed="T"/><lb
  n="0203a01" ed="T"/></ab>
-<ab type="prose">次結界馬頭觀音印作避除結界。二手合掌<lb
+<ab type='prose'>次結界馬頭觀音印作避除結界。二手合掌<lb
  n="0203a02" ed="T"/>二頭指二無名指屈入掌各相背。並二大指<lb
  n="0203a03" ed="T"/>微屈勿著頭指。即誦馬頭明王呪曰。<lb
  n="0203a04" ed="T"/></ab>
-<ab type="dharani">唵阿密㗚妬納婆吽發吒娑嚩訶<lb
+<ab type='dharani'>唵阿密㗚妬納婆吽發吒娑嚩訶<lb
  n="0203a05" ed="T"/></ab>
-<ab type="prose">誦三返即以印左轉三匝。避除一切諸魔皆<lb
+<ab type='prose'>誦三返即以印左轉三匝。避除一切諸魔皆<lb
  n="0203a06" ed="T"/>自退散。以印右旋三匝。即成堅固大界。<lb
  n="0203a07" ed="T"/>　已上護身之法亦用毘俱胝印地結。</ab></div><lb
  n="0203a08" ed="T"/><head>觀世音菩薩毘俱胝地結法</head><lb
- n="0203a09" ed="T"/><ab type="prose">左右中指以下反叉。掌中右押左。指背搏掌。<lb
+ n="0203a09" ed="T"/><ab type='prose'>左右中指以下反叉。掌中右押左。指背搏掌。<lb
  n="0203a10" ed="T"/>以二大指敘竝相柱直竪。屈二食指相搏甲<lb
  n="0203a11" ed="T"/>相背。以二大指柱地結呪。<lb
  n="0203a12" ed="T"/></ab>
-<ab type="dharani">唵倍移跢知嗚𤙖<lb
+<ab type='dharani'>唵倍移跢知嗚𤙖<lb
  n="0203a13" ed="T"/></ab>
-<ab type="prose">凡上根中根下根念誦具經列。此法不出念<lb
+<ab type='prose'>凡上根中根下根念誦具經列。此法不出念<lb
  n="0203a14" ed="T"/>誦法竟。<lb
  n="0203a15" ed="T"/>誦此呪諸智者得大安樂。貨食必定成就。富<lb
  n="0203a16" ed="T"/>貴資具無不豐足。凡三世諸佛出世皆說此<lb
@@ -169,10 +169,10 @@
  n="0203b25" ed="T"/>主心願之意也。是大祕密口傳也。護摩時被<lb
  n="0203b26" ed="T"/>用心呪。所謂。<lb
  n="0203b27" ed="T"/></ab>
-<ab type="dharani">唵󰺽娜摩振多摩抳入嚩囉吽讚迦摩攞<lb
+<ab type='dharani'>唵𭊱娜摩振多摩抳入嚩囉吽讚迦摩攞<lb
  n="0203b29" ed="T"/></ab>
-<ab type="prose">王本尊面者一切佛菩薩金剛可依息災等<pb n="0203c" id="T20.1084.0203c" ed="T"/><lb
+<ab type='prose'>王本尊面者一切佛菩薩金剛可依息災等<pb n="0203c" id="T20.1084.0203c" ed="T"/><lb
  n="0203c01" ed="T"/>法。但至此法攝依受行人向西行宜歟。前前<lb
  n="0203c02" ed="T"/>人師多依此方修行也。<lb
- n="0203c03" ed="T"/></ab><div type="w" level="2"><ab type="prose">　　　　　　　　　金剛佛子興然本</ab></div></div>
+ n="0203c03" ed="T"/></ab><div type='w' level='2'><ab type='prose'>　　　　　　　　　金剛佛子興然本</ab></div></div>
 </body></text></TEI>

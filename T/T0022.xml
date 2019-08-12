@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0022</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0270c24" ed="T"/><lb
  n="0270c25" ed="T"/><lb
- n="0270c26" ed="T"/><div type="jing" level="1"><lb
+ n="0270c26" ed="T"/><div type='jing' level='1'><lb
  n="0270c27" ed="T"/>
-<ab type="juan" subtype="open">佛說寂志果經</ab><lb
+<ab type='juan' subtype='open'>佛說寂志果經</ab><lb
  n="0270c28" ed="T"/><lb
  n="0270c29" ed="T"/><byline>東晉西域沙門竺曇無蘭譯</byline><pb n="0271a" ed="T" id="T01.0022.0271a"/><lb
- n="0271a01" ed="T"/><ab type="prose">聞如是：一時，佛遊王舍城，耆域奈園，與比<lb
+ n="0271a01" ed="T"/><ab type='prose'>聞如是：一時，佛遊王舍城，耆域奈園，與比<lb
  n="0271a02" ed="T"/>丘眾千二百五十俱。時，王阿闍世，七月十<lb
  n="0271a03" ed="T"/>五日，過新歲臘，與群臣百官俱，眷屬圍繞，<lb
  n="0271a04" ed="T"/>上寂安觀，謂群臣言：「諸卿當知，如是我修<lb
@@ -446,7 +446,7 @@
  n="0275b20" ed="T"/>昧正受，心淨無瑕，至于證智逮得神通，心<lb
  n="0275b21" ed="T"/>無所著，眼能徹視，見天上天下善惡所趣，<lb
  n="0275b22" ed="T"/>耳能徹聽，聞諸天人所語，及蚑行喘息人<lb
- n="0275b23" ed="T"/>物之聲。譬如達士丈夫，吹大鳴󰨿，立大<lb
+ n="0275b23" ed="T"/>物之聲。譬如達士丈夫，吹大鳴𮕗，立大<lb
  n="0275b24" ed="T"/>臺上，盡力吹之，其聲四聞。比丘如是，道耳<lb
  n="0275b25" ed="T"/>徹聽，諸天人善惡所歸，皆悉聞知，用得道<lb
  n="0275b26" ed="T"/>證神通，普徹知他人心所念善惡，有欲無<lb
@@ -511,15 +511,15 @@
  n="0276a27" ed="T"/>者，為得善利，佛天中天，先受其請故。」時，佛<lb
  n="0276a28" ed="T"/>為阿闍世王說法，令心開解，佛說偈言：<lb
  n="0276a29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「有作火祠者，　　一切自謂上，　　<pb n="0276b" ed="T" id="T01.0022.0276b"/><lb
  n="0276b01" ed="T"/>王者人中尊，　　海為眾流本，　　<lb
  n="0276b02" ed="T"/>星宿中月明，　　日者晝垂光，　　<lb
  n="0276b03" ed="T"/>上下所往來，　　所事謂萌類，　　<lb
  n="0276b04" ed="T"/>天上及世間，　　佛道為最尊。」　　
 </ab><lb
- n="0276b05" ed="T"/><ab type="prose">佛說經已，王阿闍世，諸比丘眾，諸天、阿須<lb
+ n="0276b05" ed="T"/><ab type='prose'>佛說經已，王阿闍世，諸比丘眾，諸天、阿須<lb
  n="0276b06" ed="T"/>倫，聞經歡喜，作禮而去。<lb
  n="0276b07" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說寂志果經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說寂志果經</ab></div>
 </body></text></TEI>

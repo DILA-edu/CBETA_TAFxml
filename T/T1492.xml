@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T24</biblScope>
                     <idno type="Taisho">T24n1492</idno>
                 </bibl>
@@ -43,10 +43,10 @@
  n="1090a01" ed="T"/><lb
  n="1090a02" ed="T"/><lb
  n="1090a03" ed="T"/>
-<ab type="juan" subtype="open">佛說舍利弗悔過經</ab><lb
+<ab type='juan' subtype='open'>佛說舍利弗悔過經</ab><lb
  n="1090a04" ed="T"/><lb
  n="1090a05" ed="T"/><byline>後漢安息國三藏安世高譯</byline><lb
- n="1090a06" ed="T"/><div type="jing" level="1"><ab type="prose">佛在羅閱祇耆闍崛山中，時與千二百五十<lb
+ n="1090a06" ed="T"/><div type='jing' level='1'><ab type='prose'>佛在羅閱祇耆闍崛山中，時與千二百五十<lb
  n="1090a07" ed="T"/>比丘菩薩千人共坐。第一弟子舍利弗起前<lb
  n="1090a08" ed="T"/>長跪，叉手問佛言：「若有善男子、善女人意欲<lb
  n="1090a09" ed="T"/>求佛道，若前世為惡，當何用悔之乎？」佛言：<lb
@@ -168,5 +168,5 @@
  n="1091b09" ed="T"/>過讀一日，其得福勝供養天下阿羅漢、辟支<lb
  n="1091b10" ed="T"/>佛，百倍千倍萬倍億倍。」</ab></div><lb
  n="1091b11" ed="T"/>
-<ab type="juan" subtype="close">佛說舍利弗悔過經</ab>
+<ab type='juan' subtype='close'>佛說舍利弗悔過經</ab>
 </body></text></TEI>

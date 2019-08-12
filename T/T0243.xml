@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T08</biblScope>
                     <idno type="Taisho">T08n0243</idno>
                 </bibl>
@@ -43,12 +43,12 @@
  n="0784a07" ed="T"/><lb
  n="0784a08" ed="T"/><lb
  n="0784a09" ed="T"/>
-<ab type="juan" subtype="open">大樂金剛不空真實三麼耶經</ab><lb
+<ab type='juan' subtype='open'>大樂金剛不空真實三麼耶經</ab><lb
  n="0784a10" ed="T"/><byline>開府儀同三司特進試鴻臚卿肅國公<lb
  n="0784a11" ed="T"/>食邑三千戶賜紫贈司空謚大正監號大<lb
  n="0784a12" ed="T"/>廣智大興善寺三藏沙門不空奉　詔譯</byline><lb
- n="0784a13" ed="T"/><div type="None" level="1"><head>般若波羅蜜多理趣品</head><lb
- n="0784a14" ed="T"/><ab type="prose">如是我聞：一時薄伽梵，成就殊勝一切如<lb
+ n="0784a13" ed="T"/><div type='' level='1'><head>般若波羅蜜多理趣品</head><lb
+ n="0784a14" ed="T"/><ab type='prose'>如是我聞：一時薄伽梵，成就殊勝一切如<lb
  n="0784a15" ed="T"/>來金剛加持三麼耶智，已得一切如來灌頂<lb
  n="0784a16" ed="T"/>寶冠，為三界主，已證一切如來一切智智，<lb
  n="0784a17" ed="T"/>瑜伽自在，能作一切如來一切印平等種種<lb
@@ -100,9 +100,9 @@
  n="0784c05" ed="T"/>薄伽梵如是說已，欲重顯明此義故，熈怡<lb
  n="0784c06" ed="T"/>微笑，持智拳印，說一切法自性平等心：<lb
  n="0784c07" ed="T"/></ab>
-<ab type="dharani">「惡」<lb
+<ab type='dharani'>「惡」<lb
  n="0784c08" ed="T"/></ab>
-<ab type="prose">時調伏難調釋迦牟尼如來，復說一切法平<lb
+<ab type='prose'>時調伏難調釋迦牟尼如來，復說一切法平<lb
  n="0784c09" ed="T"/>等最勝出生般若理趣。所謂：「欲無戲論性故，<lb
  n="0784c10" ed="T"/>瞋無戲論性；瞋無戲論性故，癡無戲論性；癡<lb
  n="0784c11" ed="T"/>無戲論性故，一切法無戲論性；一切法無戲<lb
@@ -126,9 +126,9 @@
  n="0784c29" ed="T"/>故，熈怡微笑，作開敷蓮花勢，觀欲不染，說<pb n="0785a" id="T08.0243.0785a" ed="T"/><lb
  n="0785a01" ed="T"/>一切群生種種色心：<lb
  n="0785a02" ed="T"/></ab>
-<ab type="dharani">「紇唎」<lb
+<ab type='dharani'>「紇唎」<lb
  n="0785a03" ed="T"/></ab>
-<ab type="prose">時薄伽梵一切三界主如來，復說一切如<lb
+<ab type='prose'>時薄伽梵一切三界主如來，復說一切如<lb
  n="0785a04" ed="T"/>來灌頂智藏般若理趣。所謂：「以灌頂施故，<lb
  n="0785a05" ed="T"/>能得三界法王位；義利施故，得一切意願<lb
  n="0785a06" ed="T"/>滿足；以法施故，得圓滿一切法；資生施故，<lb
@@ -136,9 +136,9 @@
  n="0785a08" ed="T"/>重顯明此義故，熈怡微笑，以金剛寶鬘自<lb
  n="0785a09" ed="T"/>繫其首，說一切灌頂三麼耶寶心：<lb
  n="0785a10" ed="T"/></ab>
-<ab type="dharani">「怛覽」<lb
+<ab type='dharani'>「怛覽」<lb
  n="0785a11" ed="T"/></ab>
-<ab type="prose">時薄伽梵得一切如來智印如來，復說一<lb
+<ab type='prose'>時薄伽梵得一切如來智印如來，復說一<lb
  n="0785a12" ed="T"/>切如來智印加持般若理趣。所謂：「持一切如<lb
  n="0785a13" ed="T"/>來身印，即為一切如來身；持一切如來語<lb
  n="0785a14" ed="T"/>印，即得一切如來法；持一切如來心印，即<lb
@@ -151,9 +151,9 @@
  n="0785a21" ed="T"/>故，熈怡微笑，持金剛拳大三麼耶印，說此<lb
  n="0785a22" ed="T"/>一切堅固金剛印悉地三麼耶自真心：<lb
  n="0785a23" ed="T"/></ab>
-<ab type="dharani">「噁」<lb
+<ab type='dharani'>「噁」<lb
  n="0785a24" ed="T"/></ab>
-<ab type="prose">時薄伽梵一切無戲論如來，復說轉字輪<lb
+<ab type='prose'>時薄伽梵一切無戲論如來，復說轉字輪<lb
  n="0785a25" ed="T"/>般若理趣。所謂：「諸法空，與無自性相應故；<lb
  n="0785a26" ed="T"/>諸法無相，與無相性相應故；諸法無願，與<lb
  n="0785a27" ed="T"/>無願性相應故；諸法光明，般若波羅蜜多清<lb
@@ -161,9 +161,9 @@
  n="0785a29" ed="T"/>熈怡微笑，以自劍揮斫一切如來已，說<pb n="0785b" id="T08.0243.0785b" ed="T"/><lb
  n="0785b01" ed="T"/>此般若波羅蜜多最勝心：<lb
  n="0785b02" ed="T"/></ab>
-<ab type="dharani">「菴」<lb
+<ab type='dharani'>「菴」<lb
  n="0785b03" ed="T"/></ab>
-<ab type="prose">時薄伽梵一切如來入大輪如來，復說入<lb
+<ab type='prose'>時薄伽梵一切如來入大輪如來，復說入<lb
  n="0785b04" ed="T"/>大輪般若理趣。所謂：「入金剛平等，則入一<lb
  n="0785b05" ed="T"/>切如來法輪；入義平等，則入大菩薩輪；入<lb
  n="0785b06" ed="T"/>一切法平等，則入妙法輪；入一切業平等，<lb
@@ -171,9 +171,9 @@
  n="0785b08" ed="T"/>欲重顯明此義故，熈怡微笑，轉金剛輪說<lb
  n="0785b09" ed="T"/>一切金剛三麼耶心：<lb
  n="0785b10" ed="T"/></ab>
-<ab type="dharani">「吽」<lb
+<ab type='dharani'>「吽」<lb
  n="0785b11" ed="T"/></ab>
-<ab type="prose">時薄伽梵一切如來種種供養藏廣大儀<lb
+<ab type='prose'>時薄伽梵一切如來種種供養藏廣大儀<lb
  n="0785b12" ed="T"/>式如來，復說一切供養最勝出生般若理趣。<lb
  n="0785b13" ed="T"/>所謂：「發菩提心，則為於諸如來廣大供養；<lb
  n="0785b14" ed="T"/>救濟一切眾生，則為於諸如來廣大供養；<lb
@@ -183,9 +183,9 @@
  n="0785b18" ed="T"/>時虛空庫大菩薩，欲重顯明此義故，熈怡<lb
  n="0785b19" ed="T"/>微笑，說此一切事業不空三麼耶一切金剛心：<lb
  n="0785b20" ed="T"/></ab>
-<ab type="dharani">「唵」<lb
+<ab type='dharani'>「唵」<lb
  n="0785b21" ed="T"/></ab>
-<ab type="prose">時薄伽梵能調持智拳如來，復說一切調<lb
+<ab type='prose'>時薄伽梵能調持智拳如來，復說一切調<lb
  n="0785b22" ed="T"/>伏智藏般若理趣。所謂：「一切有情平等故，忿<lb
  n="0785b23" ed="T"/>怒平等；一切有情調伏故，忿怒調伏；一切有<lb
  n="0785b24" ed="T"/>情法性故，忿怒法性；一切有情金剛性故，<lb
@@ -194,9 +194,9 @@
  n="0785b27" ed="T"/>故，熈怡微笑，以金剛藥叉形，持金剛牙，恐<lb
  n="0785b28" ed="T"/>怖一切如來已，說金剛忿怒大笑心：<lb
  n="0785b29" ed="T"/></ab>
-<ab type="dharani">「郝」<pb n="0785c" id="T08.0243.0785c" ed="T"/><lb
+<ab type='dharani'>「郝」<pb n="0785c" id="T08.0243.0785c" ed="T"/><lb
  n="0785c01" ed="T"/></ab>
-<ab type="prose">時薄伽梵一切平等建立如來，復說一切<lb
+<ab type='prose'>時薄伽梵一切平等建立如來，復說一切<lb
  n="0785c02" ed="T"/>法三麼耶最勝出生般若理趣。所謂：「一切平<lb
  n="0785c03" ed="T"/>等性故，般若波羅蜜多平等性；一切義利性<lb
  n="0785c04" ed="T"/>故，般若波羅蜜多義利性；一切法性故，般<lb
@@ -205,9 +205,9 @@
  n="0785c07" ed="T"/>菩薩三麼耶加持三摩地，說一切不空三麼<lb
  n="0785c08" ed="T"/>耶心：<lb
  n="0785c09" ed="T"/></ab>
-<ab type="dharani">「吽」<lb
+<ab type='dharani'>「吽」<lb
  n="0785c10" ed="T"/></ab>
-<ab type="prose">時薄伽梵如來，復說一切有情加持般若理<lb
+<ab type='prose'>時薄伽梵如來，復說一切有情加持般若理<lb
  n="0785c11" ed="T"/>趣。所謂：「一切有情如來藏，以普賢菩薩<lb
  n="0785c12" ed="T"/>一切我故；一切有情金剛藏，以金剛藏灌<lb
  n="0785c13" ed="T"/>頂故；一切有情妙法藏，能轉一切語言故；<lb
@@ -215,23 +215,23 @@
  n="0785c15" ed="T"/>金剛部，欲重顯明此義故，作歡喜聲，說<lb
  n="0785c16" ed="T"/>金剛自在自真實心：<lb
  n="0785c17" ed="T"/></ab>
-<ab type="dharani">「怛𡃤」<lb
+<ab type='dharani'>「怛𡃤」<lb
  n="0785c18" ed="T"/></ab>
-<ab type="prose">爾時諸母女天，頂禮佛足，獻鈎召攝入能<lb
+<ab type='prose'>爾時諸母女天，頂禮佛足，獻鈎召攝入能<lb
  n="0785c19" ed="T"/>殺能成三麼耶真實心：<lb
  n="0785c20" ed="T"/></ab>
-<ab type="dharani">「毘欲」<lb
+<ab type='dharani'>「毘欲」<lb
  n="0785c21" ed="T"/></ab>
-<ab type="prose">爾時末度迦羅天三兄弟等，親禮佛足，獻自<lb
+<ab type='prose'>爾時末度迦羅天三兄弟等，親禮佛足，獻自<lb
  n="0785c22" ed="T"/>心：<lb
  n="0785c23" ed="T"/></ab>
-<ab type="dharani">「娑嚩」<lb
+<ab type='dharani'>「娑嚩」<lb
  n="0785c24" ed="T"/></ab>
-<ab type="prose">爾時四姊妹女天，獻自心：<lb
+<ab type='prose'>爾時四姊妹女天，獻自心：<lb
  n="0785c25" ed="T"/></ab>
-<ab type="dharani">「㟏」<lb
+<ab type='dharani'>「㟏」<lb
  n="0785c26" ed="T"/></ab>
-<ab type="prose">時薄伽梵無量無邊究竟如來，為欲加持<lb
+<ab type='prose'>時薄伽梵無量無邊究竟如來，為欲加持<lb
  n="0785c27" ed="T"/>此教令究竟圓滿故，復說平等金剛出生<lb
  n="0785c28" ed="T"/>般若理趣。所謂：「般若波羅蜜多無量故，一<lb
  n="0785c29" ed="T"/>切如來無量；般若波羅蜜多無邊故，一切如<pb n="0786a" id="T08.0243.0786a" ed="T"/><lb
@@ -253,7 +253,7 @@
  n="0786a16" ed="T"/>轉，以大精進常處生死，救攝一切利益安<lb
  n="0786a17" ed="T"/>樂，最勝究竟皆悉成就。何以故？<lb
  n="0786a18" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「菩薩勝慧者，　　乃至盡生死，　　<lb
  n="0786a19" ed="T"/>恒作眾生利，　　而不趣涅槃。　　<lb
  n="0786a20" ed="T"/>般若及方便，　　智度所加持，　　<lb
@@ -265,19 +265,19 @@
  n="0786a26" ed="T"/>大欲得清淨，　　大安樂富饒，　　<lb
  n="0786a27" ed="T"/>三界得自在，　　能作堅固利。　　
 </ab><lb
- n="0786a28" ed="T"/><ab type="prose">「金剛手！若有聞此本初般若理趣，日日晨<lb
+ n="0786a28" ed="T"/><ab type='prose'>「金剛手！若有聞此本初般若理趣，日日晨<lb
  n="0786a29" ed="T"/>朝或誦或聽，彼獲一切安樂悅意大樂金<pb n="0786b" id="T08.0243.0786b" ed="T"/><lb
  n="0786b01" ed="T"/>剛不空三昧耶究竟悉地，現世獲得一切<lb
  n="0786b02" ed="T"/>法自在悅樂，以十六大菩薩生，得於如來執<lb
  n="0786b03" ed="T"/>金剛位。<lb
  n="0786b04" ed="T"/></ab>
-<ab type="dharani">「吽」<lb
+<ab type='dharani'>「吽」<lb
  n="0786b05" ed="T"/></ab>
-<ab type="prose">爾時一切如來，及持金剛菩薩摩訶薩等，皆<lb
+<ab type='prose'>爾時一切如來，及持金剛菩薩摩訶薩等，皆<lb
  n="0786b06" ed="T"/>來集會。欲令此法，不空無礙，速成就故，咸<lb
  n="0786b07" ed="T"/>共稱讚金剛手言：<lb
  n="0786b08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「善哉，善哉！大薩埵！　　善哉，善哉！大安樂！　　<lb
  n="0786b09" ed="T"/>善哉，善哉！摩訶衍！　　善哉，善哉！大智慧！　　<lb
  n="0786b10" ed="T"/>善能演說此法教，　　金剛修多羅加持，　　<lb
@@ -287,5 +287,5 @@
  n="0786b14" ed="T"/>為令持者速成就，　　皆大歡喜信受行。　　
 </ab></div><lb
  n="0786b15" ed="T"/>
-<ab type="juan" subtype="close">大樂金剛不空真實三麼耶經</ab>
+<ab type='juan' subtype='close'>大樂金剛不空真實三麼耶經</ab>
 </body></text></TEI>

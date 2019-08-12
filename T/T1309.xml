@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1309</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0452b22" ed="T"/><lb
  n="0452b23" ed="T"/><lb
- n="0452b24" ed="T"/><div type="jing" level="2"><lb
+ n="0452b24" ed="T"/><div type='jing' level='2'><lb
  n="0452b25" ed="T"/>
-<ab type="juan" subtype="open">七曜星辰別行法</ab><lb
+<ab type='juan' subtype='open'>七曜星辰別行法</ab><lb
  n="0452b26" ed="T"/><lb
  n="0452b27" ed="T"/><byline>一行撰</byline><lb
- n="0452b28" ed="T"/><ab type="prose">　正月十五日　　二月十五日<lb
+ n="0452b28" ed="T"/><ab type='prose'>　正月十五日　　二月十五日<lb
  n="0452b29" ed="T"/>　三月十五日　　四月十五日<pb n="0452c" id="T21.1309.0452c" ed="T"/><lb
  n="0452c01" ed="T"/>　五月十五日　　六月十五日<lb
  n="0452c02" ed="T"/>　七月十五日　　八月十五日<lb
@@ -436,6 +436,6 @@
  n="0457a07" ed="T"/>平常人。竝不得於星宿露臥。忽遇此病不知<lb
  n="0457a08" ed="T"/>之者狂死矣。慎慎慎。<lb
  n="0457a09" ed="T"/>
-</ab><ab type="juan" subtype="close">七曜星辰別行法</ab></div><lb
- n="0457a10" ed="T"/><div type="w" level="2"><ab type="prose">。</ab></div></div>
+</ab><ab type='juan' subtype='close'>七曜星辰別行法</ab></div><lb
+ n="0457a10" ed="T"/><div type='w' level='2'><ab type='prose'>。</ab></div></div>
 </body></text></TEI>

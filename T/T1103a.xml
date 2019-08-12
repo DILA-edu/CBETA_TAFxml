@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1103a</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0457b11" ed="T"/><lb
  n="0457b12" ed="T"/><lb
  n="0457b13" ed="T"/><lb
  n="0457b14" ed="T"/>
-<ab type="juan" subtype="open">觀自在菩薩隨心呪經</ab><lb
+<ab type='juan' subtype='open'>觀自在菩薩隨心呪經</ab><lb
  n="0457b15" ed="T"/><lb
  n="0457b16" ed="T"/><byline>大唐總持寺沙門釋智通奉　制譯</byline><lb
- n="0457b17" ed="T"/><div type="jing" level="2"><ab type="prose">如是我聞。一時佛在王舍大城耆闍崛山中。<lb
+ n="0457b17" ed="T"/><div type='jing' level='2'><ab type='prose'>如是我聞。一時佛在王舍大城耆闍崛山中。<lb
  n="0457b18" ed="T"/>與無量大比丘俱。復有無量天龍夜叉揵闥<lb
  n="0457b19" ed="T"/>婆阿素羅伽嚕茶緊那羅。各并眷屬。復有<lb
  n="0457b20" ed="T"/>無量無數比丘比丘尼優婆塞優婆夷恭敬圍<lb
@@ -63,11 +63,11 @@
  n="0457b29" ed="T"/>世尊哀垂聽許。我以大悲憐愍一切諸眾生<pb n="0457c" id="T20.1103a.0457c" ed="T"/><lb
  n="0457c01" ed="T"/>故。說此根本印呪之法即說慕陀羅尼法。</ab></div><lb
  n="0457c02" ed="T"/><head>隨心印呪第一</head><lb
- n="0457c03" ed="T"/><ab type="prose">二手中指無名指小指三指。向外相叉。合掌<lb
+ n="0457c03" ed="T"/><ab type='prose'>二手中指無名指小指三指。向外相叉。合掌<lb
  n="0457c04" ed="T"/>右押左。指頭總摶掌背。並竪二食指相著。大<lb
  n="0457c05" ed="T"/>指亦然。各摶食指。大指來去。即說呪曰。<lb
  n="0457c06" ed="T"/></ab>
-<ab type="dharani">那謨喝囉怛那跢囉夜耶那謨<lb
+<ab type='dharani'>那謨喝囉怛那跢囉夜耶那謨<lb
  n="0457c07" ed="T"/>阿𠼝耶婆路枳帝攝婆羅耶菩<lb
  n="0457c08" ed="T"/>提薩埵耶摩訶薩埵耶摩訶迦嚧尼<lb
  n="0457c09" ed="T"/>迦耶跢姪他唵哆唎哆利都多<lb
@@ -77,47 +77,47 @@
  n="0457c13" ed="T"/>𠼝耶婆路枳帝攝婆囉耶囉<lb
  n="0457c14" ed="T"/>跢那怛囉薩帝那莎婆訶<lb
  n="0457c15" ed="T"/></ab>
-<ab type="prose">用此呪呪安悉香一七遍燒。請菩薩則來。若<lb
+<ab type='prose'>用此呪呪安悉香一七遍燒。請菩薩則來。若<lb
  n="0457c16" ed="T"/>欲誦前多唎心呪。先誦此呪七遍然後誦之。<lb
  n="0457c17" ed="T"/><head>啟請印呪第三</head><lb
  n="0457c18" ed="T"/>以右手向前。把左手腕。於頭上以左手四指<lb
  n="0457c19" ed="T"/>來去。即說呪曰。<lb
  n="0457c20" ed="T"/></ab>
-<ab type="dharani">唵薩婆菩提薩埵那湮醯湮醯莎訶<lb
+<ab type='dharani'>唵薩婆菩提薩埵那湮醯湮醯莎訶<lb
  n="0457c22" ed="T"/><head>華臺印呪第四</head><lb
  n="0457c23" ed="T"/></ab>
-<ab type="prose">准前印。唯改仰兩手掌向上。五指各向上屈<lb
+<ab type='prose'>准前印。唯改仰兩手掌向上。五指各向上屈<lb
  n="0457c24" ed="T"/>少許。呪曰。<pb n="0458a" id="T20.1103a.0458a" ed="T"/><lb
  n="0458a01" ed="T"/></ab>
-<ab type="dharani">唵薩婆跛囉鼻瑟吒菩陀那<lb
+<ab type='dharani'>唵薩婆跛囉鼻瑟吒菩陀那<lb
  n="0458a02" ed="T"/>莎訶<lb
  n="0458a03" ed="T"/><head>香華印呪第五</head><lb
  n="0458a04" ed="T"/></ab>
-<ab type="prose">以右手大母指。捻無名指甲上。餘三指直展。<lb
+<ab type='prose'>以右手大母指。捻無名指甲上。餘三指直展。<lb
  n="0458a05" ed="T"/>又以左手掌承右手下。呪曰。<lb
  n="0458a06" ed="T"/></ab>
-<ab type="dharani">唵薩婆跛耶布瑟波伽耶莎訶<lb
+<ab type='dharani'>唵薩婆跛耶布瑟波伽耶莎訶<lb
  n="0458a07" ed="T"/><lb
  n="0458a08" ed="T"/></ab>
-<ab type="prose">作此法時。感得天龍八部皆來供養。<lb
+<ab type='prose'>作此法時。感得天龍八部皆來供養。<lb
  n="0458a09" ed="T"/><head>香水印呪第六</head><lb
  n="0458a10" ed="T"/>以兩手中指無名指及少指。各把大母指如<lb
  n="0458a11" ed="T"/>拳法。合腕以二頭指相跓。呪曰。<lb
  n="0458a12" ed="T"/></ab>
-<ab type="dharani">唵薩婆烏馱迦耶曷囉闍莎訶<lb
+<ab type='dharani'>唵薩婆烏馱迦耶曷囉闍莎訶<lb
  n="0458a13" ed="T"/>此印供養恒沙一切諸佛菩薩<lb
  n="0458a14" ed="T"/><head>護身印呪第七</head><lb
  n="0458a15" ed="T"/></ab>
-<ab type="prose">先合掌。屈二小指甲相背。二大母指附二食<lb
+<ab type='prose'>先合掌。屈二小指甲相背。二大母指附二食<lb
  n="0458a16" ed="T"/>指。餘三指合頭相跓。掌中開少許。當於頂上<lb
  n="0458a17" ed="T"/>頭指來去。呪曰。<lb
  n="0458a18" ed="T"/></ab>
-<ab type="dharani">跢姪他阿𠼝多𠼝都多𠼝都𠼝<lb
+<ab type='dharani'>跢姪他阿𠼝多𠼝都多𠼝都𠼝<lb
  n="0458a19" ed="T"/>醯囒拏夜揭囉鞞曷囉叉曷<lb
  n="0458a20" ed="T"/>囉叉麼闍薩婆突薩𥅗谿弊治菩<lb
  n="0458a21" ed="T"/>薩跛達囉鞞弊治莎訶<lb
  n="0458a22" ed="T"/></ab>
-<ab type="prose">作此印誦呪漏十萬遍。一切諸魔外道等輩。<lb
+<ab type='prose'>作此印誦呪漏十萬遍。一切諸魔外道等輩。<lb
  n="0458a23" ed="T"/>人非人等無敢害者。用此護身。又作此印誦<lb
  n="0458a24" ed="T"/>前身呪。於舍利塔前。至心發露懺悔眾罪。能<lb
  n="0458a25" ed="T"/>滅四重五逆等罪。<lb
@@ -125,43 +125,43 @@
  n="0458a27" ed="T"/>准前護身印。唯改以二頭指捻二大指甲頭<lb
  n="0458a28" ed="T"/>相跓。當於心上。呪曰。<lb
  n="0458a29" ed="T"/></ab>
-<ab type="dharani">唵薩婆嘻𠼝陀耶菩陀耶莎<pb n="0458b" id="T20.1103a.0458b" ed="T"/><lb
+<ab type='dharani'>唵薩婆嘻𠼝陀耶菩陀耶莎<pb n="0458b" id="T20.1103a.0458b" ed="T"/><lb
  n="0458b01" ed="T"/>訶<lb
  n="0458b02" ed="T"/></ab>
-<ab type="prose">作此印已誦心呪時。悉能除滅三業眾罪。<lb
+<ab type='prose'>作此印已誦心呪時。悉能除滅三業眾罪。<lb
  n="0458b03" ed="T"/><head>口印呪第九</head><lb
  n="0458b04" ed="T"/>准前心印。唯改以二大指。屈向二掌中。竝二<lb
  n="0458b05" ed="T"/>小指節上。呪曰。<lb
  n="0458b06" ed="T"/></ab>
-<ab type="dharani">唵毘婆施伽耶莎訶<lb
+<ab type='dharani'>唵毘婆施伽耶莎訶<lb
  n="0458b07" ed="T"/></ab>
-<ab type="prose">作此印已。誦口呪時能除口業一切罪障。<lb
+<ab type='prose'>作此印已。誦口呪時能除口業一切罪障。<lb
  n="0458b08" ed="T"/><head>大懺悔印呪第十</head><lb
  n="0458b09" ed="T"/>先以右手大母指。捻中指甲上。餘三指直舒。<lb
  n="0458b10" ed="T"/>左手亦爾。以右手大母指。押左手大母指甲<lb
  n="0458b11" ed="T"/>上。正當心前。呪曰。<lb
  n="0458b12" ed="T"/></ab>
-<ab type="dharani">唵薩婆菩陀菩提薩埵耶莎訶<lb
+<ab type='dharani'>唵薩婆菩陀菩提薩埵耶莎訶<lb
  n="0458b13" ed="T"/></ab>
-<ab type="prose">誦呪懺悔。能除一切業障等罪。<lb
+<ab type='prose'>誦呪懺悔。能除一切業障等罪。<lb
  n="0458b14" ed="T"/><head>召喚一切大力鬼神天龍八部印呪第十一</head><lb
  n="0458b15" ed="T"/>以右手捻左手背上。四指向下相叉。以左手<lb
  n="0458b16" ed="T"/>四指來去。呪曰。<lb
  n="0458b17" ed="T"/></ab>
-<ab type="dharani">唵俱嚕陀薩婆提婆那莎訶<lb
+<ab type='dharani'>唵俱嚕陀薩婆提婆那莎訶<lb
  n="0458b18" ed="T"/><head>大結界辟毘那夜迦印呪第十二</head><lb
  n="0458b19" ed="T"/></ab>
-<ab type="prose">先以右手無名指。叉入左手無名指背上。左<lb
+<ab type='prose'>先以右手無名指。叉入左手無名指背上。左<lb
  n="0458b20" ed="T"/>手大母指。鉤取右手小指。在右手掌中。以左<lb
  n="0458b21" ed="T"/>手食指及中指無名指。鉤取右手中指。並押<lb
  n="0458b22" ed="T"/>右手無名指甲上。以右手頭指。與左手小指<lb
  n="0458b23" ed="T"/>頭相跓。右手大母指。押左手頭指中指背上<lb
  n="0458b24" ed="T"/>綟左腕。呪曰。<lb
  n="0458b25" ed="T"/></ab>
-<ab type="dharani">唵薩婆藥叉囉叉沙那槃陀槃陀莎<lb
+<ab type='dharani'>唵薩婆藥叉囉叉沙那槃陀槃陀莎<lb
  n="0458b26" ed="T"/>訶<lb
  n="0458b27" ed="T"/></ab>
-<ab type="prose">作此印呪時。一切鬼神自然歸伏。<lb
+<ab type='prose'>作此印呪時。一切鬼神自然歸伏。<lb
  n="0458b28" ed="T"/><head>隨心印第十三</head><lb
  n="0458b29" ed="T"/>准前結界印。唯改以右手頭指。與左手小指<pb n="0458c" id="T20.1103a.0458c" ed="T"/><lb
  n="0458c01" ed="T"/>相去開一寸許。此名隨心印作此印已誦隨<lb
@@ -180,9 +180,9 @@
  n="0458c14" ed="T"/>二無名指各押二小指甲上。中間使開。當額<lb
  n="0458c15" ed="T"/>上著。呪曰。<lb
  n="0458c16" ed="T"/></ab>
-<ab type="dharani">唵薩婆者芻陀羅伽囉耶莎訶<lb
+<ab type='dharani'>唵薩婆者芻陀羅伽囉耶莎訶<lb
  n="0458c17" ed="T"/></ab>
-<ab type="prose">通師本誦身呪。<lb
+<ab type='prose'>通師本誦身呪。<lb
  n="0458c18" ed="T"/><head>施甘露印第十七</head><lb
  n="0458c19" ed="T"/>以左手頭指。與大母指相捻。餘三指直竪向<lb
  n="0458c20" ed="T"/>外託。又以右手垂臂向下。直舒五指向下垂。<lb
@@ -192,82 +192,82 @@
  n="0458c24" ed="T"/>以右手大母指。叉右肋指頭向後。餘四指把<lb
  n="0458c25" ed="T"/>拳。左手亦爾。向前努臂。呪曰。<lb
  n="0458c26" ed="T"/></ab>
-<ab type="dharani">唵薩婆圖瑟吒那瞋馱瞋馱莎<lb
+<ab type='dharani'>唵薩婆圖瑟吒那瞋馱瞋馱莎<lb
  n="0458c27" ed="T"/>訶<lb
  n="0458c28" ed="T"/></ab>
-<ab type="prose">作此印呪法時。為伏一切天魔難降伏者。悉<lb
+<ab type='prose'>作此印呪法時。為伏一切天魔難降伏者。悉<lb
  n="0458c29" ed="T"/>皆歸伏無敢當者。<lb
  n="0458c30" ed="T"/><head>自在印呪第十九</head><pb n="0459a" id="T20.1103a.0459a" ed="T"/><lb
  n="0459a01" ed="T"/>以兩手四指反相叉。又以二頭指相跓。二大<lb
  n="0459a02" ed="T"/>母指相去向上直竪。呪曰。<lb
  n="0459a03" ed="T"/></ab>
-<ab type="dharani">唵薩婆菩陀哆囉耶摩羅耶莎訶<lb
+<ab type='dharani'>唵薩婆菩陀哆囉耶摩羅耶莎訶<lb
  n="0459a04" ed="T"/><head>三昧印第二十</head><lb
  n="0459a05" ed="T"/></ab>
-<ab type="prose">正坐加趺。以左手掌承右手背相押。當心前<lb
+<ab type='prose'>正坐加趺。以左手掌承右手背相押。當心前<lb
  n="0459a06" ed="T"/>誦身呪。即入滅盡定。<lb
  n="0459a07" ed="T"/><head>喚閻羅王印呪第二十一</head><lb
  n="0459a08" ed="T"/>以二小指反相鉤右押左。屈二中指二無名<lb
  n="0459a09" ed="T"/>指。各押二大母指甲上。竪二頭指相去五寸<lb
  n="0459a10" ed="T"/>許。頭指來去。呪曰。<lb
  n="0459a11" ed="T"/></ab>
-<ab type="dharani">唵薩婆焰摩囉闍第毘耶莎訶<lb
+<ab type='dharani'>唵薩婆焰摩囉闍第毘耶莎訶<lb
  n="0459a12" ed="T"/></ab>
-<ab type="prose">若人欲知地獄罪人數量多少問其姓名。王<lb
+<ab type='prose'>若人欲知地獄罪人數量多少問其姓名。王<lb
  n="0459a13" ed="T"/>自將領諸師官從。自來具報行者。<lb
  n="0459a14" ed="T"/><head>喚召四天王印呪第二十二</head><lb
  n="0459a15" ed="T"/>以兩手四指反內相叉。二大母指屈入掌中<lb
  n="0459a16" ed="T"/>令藏指頭。指頭來去。呪曰。<lb
  n="0459a17" ed="T"/></ab>
-<ab type="dharani">唵薩婆第婆羯囉訶那莎訶<lb
+<ab type='dharani'>唵薩婆第婆羯囉訶那莎訶<lb
  n="0459a18" ed="T"/></ab>
-<ab type="prose">作此印呪去時。四天大王一時俱來。行者各<lb
+<ab type='prose'>作此印呪去時。四天大王一時俱來。行者各<lb
  n="0459a19" ed="T"/>問四天下事。悉皆報知之。<lb
  n="0459a20" ed="T"/><head>持戒印呪第二十三</head><lb
  n="0459a21" ed="T"/>胡跪右膝著地。舉頭向上。合掌當心。又以二<lb
  n="0459a22" ed="T"/>頭指。押中指背上第一節上。二大指各附二<lb
  n="0459a23" ed="T"/>頭指側。呪曰。<lb
  n="0459a24" ed="T"/></ab>
-<ab type="dharani">唵薩婆波羅提慕叉嘻𠼝陀耶<lb
+<ab type='dharani'>唵薩婆波羅提慕叉嘻𠼝陀耶<lb
  n="0459a25" ed="T"/>莎訶<lb
  n="0459a26" ed="T"/></ab>
-<ab type="prose">作此印誦此呪時。無量諸類眾生得清淨戒。<lb
+<ab type='prose'>作此印誦此呪時。無量諸類眾生得清淨戒。<lb
  n="0459a27" ed="T"/><head>隱身隨形入六道印呪第二十四</head><lb
  n="0459a28" ed="T"/>以右手大母指。押無名指中指甲上。頭指及<lb
  n="0459a29" ed="T"/>小指直竪。左手亦爾。以右手大母指。從左手<pb n="0459b" id="T20.1103a.0459b" ed="T"/><lb
  n="0459b01" ed="T"/>下下向上。入左掌中。鉤取左手中指無名指。<lb
  n="0459b02" ed="T"/>右押左。呪曰。<lb
  n="0459b03" ed="T"/></ab>
-<ab type="dharani">唵俱𠼝耶武薩婆迦𠼝耶莎訶<lb
+<ab type='dharani'>唵俱𠼝耶武薩婆迦𠼝耶莎訶<lb
  n="0459b04" ed="T"/></ab>
-<ab type="prose">作此印法時。隨意隱沒遊行自在。一切如願。<lb
+<ab type='prose'>作此印法時。隨意隱沒遊行自在。一切如願。<lb
  n="0459b05" ed="T"/><head>喚召五通等仙人印呪第二十五</head><lb
  n="0459b06" ed="T"/>以兩手中指無名指小指。各把拳兩手相合。<lb
  n="0459b07" ed="T"/>二大母指各附中指側。頭指來去。呪曰。<lb
  n="0459b08" ed="T"/></ab>
-<ab type="dharani">唵薩婆訖唎知耶羯摩婆羅那<lb
+<ab type='dharani'>唵薩婆訖唎知耶羯摩婆羅那<lb
  n="0459b09" ed="T"/>瞿跢曳莎訶<lb
  n="0459b10" ed="T"/></ab>
-<ab type="prose">作此印法時。一切仙人呼喚並至。問其仙法<lb
+<ab type='prose'>作此印法時。一切仙人呼喚並至。問其仙法<lb
  n="0459b11" ed="T"/>一一具陳。<lb
  n="0459b12" ed="T"/><head>灌頂清淨印呪第二十六</head><lb
  n="0459b13" ed="T"/>准前五通印。上唯改以頭指。各押大指頭指<lb
  n="0459b14" ed="T"/>頭相跓。又以二中指直竪頭相跓。向頂上著。<lb
  n="0459b15" ed="T"/>呪曰。<lb
  n="0459b16" ed="T"/></ab>
-<ab type="dharani">唵提健婆慕跢囉僧建莎訶<lb
+<ab type='dharani'>唵提健婆慕跢囉僧建莎訶<lb
  n="0459b17" ed="T"/></ab>
-<ab type="prose">行者若作三曼茶羅大道場已。用此法印誦<lb
+<ab type='prose'>行者若作三曼茶羅大道場已。用此法印誦<lb
  n="0459b18" ed="T"/>呪灌頂。無邊眾生皆得清淨。<lb
  n="0459b19" ed="T"/><head>水難印呪第二十七</head><lb
  n="0459b20" ed="T"/>先以兩手中指無名指。相叉右押左。二頭指<lb
  n="0459b21" ed="T"/>及二小指直竪頭相跓。二大母指屈入掌中。<lb
  n="0459b22" ed="T"/>呪曰。<lb
  n="0459b23" ed="T"/></ab>
-<ab type="dharani">唵烏馱伽薩婆弟婆烏馱伽莎<lb
+<ab type='dharani'>唵烏馱伽薩婆弟婆烏馱伽莎<lb
  n="0459b24" ed="T"/>訶<lb
  n="0459b25" ed="T"/></ab>
-<ab type="prose">作此印法水不能漂。一切水天悉皆歸伏。<lb
+<ab type='prose'>作此印法水不能漂。一切水天悉皆歸伏。<lb
  n="0459b26" ed="T"/><head>火難印第二十八</head><lb
  n="0459b27" ed="T"/>准前水難印。上唯改二頭指二小指。各相去<lb
  n="0459b28" ed="T"/>一寸許。用水難呪。<lb
@@ -291,44 +291,44 @@
  n="0459c17" ed="T"/>准前天難印。唯改二無名指。平屈頭相跓。呪<lb
  n="0459c18" ed="T"/>曰。<lb
  n="0459c19" ed="T"/></ab>
-<ab type="dharani">唵伽吒旁伽賀悉跢曳莎訶<lb
+<ab type='dharani'>唵伽吒旁伽賀悉跢曳莎訶<lb
  n="0459c20" ed="T"/></ab>
-<ab type="prose">作此印法時。一切地神悉皆歸伏。<lb
+<ab type='prose'>作此印法時。一切地神悉皆歸伏。<lb
  n="0459c21" ed="T"/><head>賊難印呪第三十二</head><lb
  n="0459c22" ed="T"/>以右手頭指中指無名指及小指。反鉤左手<lb
  n="0459c23" ed="T"/>四指。二大母指各散直竪。呪曰。<lb
  n="0459c24" ed="T"/></ab>
-<ab type="dharani">唵薩婆圖瑟吒跛囉圖瑟吒那<lb
+<ab type='dharani'>唵薩婆圖瑟吒跛囉圖瑟吒那<lb
  n="0459c25" ed="T"/>瞋陀耶莎訶<lb
  n="0459c26" ed="T"/></ab>
-<ab type="prose">作此印時。一切賊難皆悉自縛不能為害。<lb
+<ab type='prose'>作此印時。一切賊難皆悉自縛不能為害。<lb
  n="0459c27" ed="T"/><head>王難印呪第三十三</head><lb
  n="0459c28" ed="T"/>准前賊難印。上唯改右手大母指。鉤取左手<lb
  n="0459c29" ed="T"/>大母指。即說呪曰。<pb n="0460a" id="T20.1103a.0460a" ed="T"/><lb
  n="0460a01" ed="T"/></ab>
-<ab type="dharani">唵薩婆曷囉闍圖瑟吒那莎訶<lb
+<ab type='dharani'>唵薩婆曷囉闍圖瑟吒那莎訶<lb
  n="0460a02" ed="T"/></ab>
-<ab type="prose">作此印法時。一切王難苦具刀杖等不能為<lb
+<ab type='prose'>作此印法時。一切王難苦具刀杖等不能為<lb
  n="0460a03" ed="T"/>害。<lb
  n="0460a04" ed="T"/><head>施無畏印呪第三十四</head><lb
  n="0460a05" ed="T"/>起立以左臂直舒向下。五指亦舒向下。掌背<lb
  n="0460a06" ed="T"/>向後。右手亦爾。以掌向前。如施甘露右手印<lb
  n="0460a07" ed="T"/>法。呪曰。<lb
  n="0460a08" ed="T"/></ab>
-<ab type="dharani">跢姪他阿𠼝跢𠼝都跢𠼝都𠼝醯<lb
+<ab type='dharani'>跢姪他阿𠼝跢𠼝都跢𠼝都𠼝醯<lb
  n="0460a09" ed="T"/>蘭拏夜伽囉鞞囉叉囉叉麼闍薩婆突契比冶薩婆跢達羅鞞比冶<lb
  n="0460a11" ed="T"/>莎訶<lb
  n="0460a12" ed="T"/></ab>
-<ab type="prose">誦呪滿十萬遍。作此印時一切眾生有恐怖<lb
+<ab type='prose'>誦呪滿十萬遍。作此印時一切眾生有恐怖<lb
  n="0460a13" ed="T"/>者皆得無畏。<lb
  n="0460a14" ed="T"/><head>防毒難印呪第三十五</head><lb
  n="0460a15" ed="T"/>以兩手四指反相叉。二大母指頭相跓。反掌<lb
  n="0460a16" ed="T"/>向外。呪曰。<lb
  n="0460a17" ed="T"/></ab>
-<ab type="dharani">唵跛囉伽舍夜延槃陀槃陀莎<lb
+<ab type='dharani'>唵跛囉伽舍夜延槃陀槃陀莎<lb
  n="0460a18" ed="T"/>訶<lb
  n="0460a19" ed="T"/></ab>
-<ab type="prose">若入山谷作此印呪時。一切毒蛇虎狼師子。<lb
+<ab type='prose'>若入山谷作此印呪時。一切毒蛇虎狼師子。<lb
  n="0460a20" ed="T"/>諸毒禽獸不能傷害。一切諸毒亦不能害。<lb
  n="0460a21" ed="T"/><head>求聰明印呪第三十六</head><lb
  n="0460a22" ed="T"/>以兩手大母指。各捻二無名指甲上。二小指<lb
@@ -369,9 +369,9 @@
  n="0460b28" ed="T"/>准前印上。唯改以左手中指。屈入右手無名<lb
  n="0460b29" ed="T"/>指及頭指岐間。右中指押左中指背上。呪曰。<pb n="0460c" id="T20.1103a.0460c" ed="T"/><lb
  n="0460c01" ed="T"/></ab>
-<ab type="dharani">跢姪他伊𠼝哆𠼝莎訶<lb
+<ab type='dharani'>跢姪他伊𠼝哆𠼝莎訶<lb
  n="0460c02" ed="T"/></ab>
-<ab type="prose">通師本。若作此印誦此呪。滿足十萬遍時。十<lb
+<ab type='prose'>通師本。若作此印誦此呪。滿足十萬遍時。十<lb
  n="0460c03" ed="T"/>方諸佛來為行者摩頂授記。通師云。通為病<lb
  n="0460c04" ed="T"/>經三日乃至七日。志求作印法。親蒙摩頂授<lb
  n="0460c05" ed="T"/>記。後一切法皆得成就。作此印時每有異香<lb
@@ -380,11 +380,11 @@
  n="0460c08" ed="T"/>以兩手反。合掌背相著。綟腕向外。以二大母<lb
  n="0460c09" ed="T"/>指正當眉。向下垂。即說呪曰。<lb
  n="0460c10" ed="T"/></ab>
-<ab type="dharani">跢姪他薩婆菩陀耶薩婆跛刺腎若<lb
+<ab type='dharani'>跢姪他薩婆菩陀耶薩婆跛刺腎若<lb
  n="0460c11" ed="T"/>波羅弭陀曳唵賀婆賀婆莎訶<lb
  n="0460c12" ed="T"/>跢姪他弭哩弭哩多哩莎訶<lb
  n="0460c13" ed="T"/></ab>
-<ab type="prose">作此印時。起菩薩心。普觀一切眾生猶如赤<lb
+<ab type='prose'>作此印時。起菩薩心。普觀一切眾生猶如赤<lb
  n="0460c14" ed="T"/>子。作此念已。至心誦呪滿十萬遍。由是法力。<lb
  n="0460c15" ed="T"/>一切眾生皆悉具足六波羅蜜。所願滿足。恒<lb
  n="0460c16" ed="T"/>河沙等一切世界。諸佛世尊皆悉歡喜。<lb
@@ -437,10 +437,10 @@
  n="0461b05" ed="T"/>兩手腕仰相叉。右手大母指押左手大母指。<lb
  n="0461b06" ed="T"/>兩手八指急怒把拳。呪曰。<lb
  n="0461b07" ed="T"/></ab>
-<ab type="dharani">唵薩婆那庾多慕陀囉耶盤陀盤陀<lb
+<ab type='dharani'>唵薩婆那庾多慕陀囉耶盤陀盤陀<lb
  n="0461b08" ed="T"/>莎訶<lb
  n="0461b09" ed="T"/></ab>
-<ab type="prose">此總攝印呪。能總攝一切印呪等。若受持此<lb
+<ab type='prose'>此總攝印呪。能總攝一切印呪等。若受持此<lb
  n="0461b10" ed="T"/>呪者。盡一形不得食五辛酒肉葫荽芸薹。勿<lb
  n="0461b11" ed="T"/>婬。清淨梵行常念觀世音菩薩名號。齋戒一<lb
  n="0461b12" ed="T"/>心者。誦此呪滿十萬遍已。滅八萬億劫生死<lb
@@ -554,9 +554,9 @@
  n="0462c04" ed="T"/>他作功德。隨意一切皆須請一切諸佛為護。<lb
  n="0462c05" ed="T"/>須得淨口誦此呪。呪曰。<lb
  n="0462c06" ed="T"/></ab>
-<ab type="dharani">南無婆帝吒那利帝吒莎訶<lb
+<ab type='dharani'>南無婆帝吒那利帝吒莎訶<lb
  n="0462c07" ed="T"/></ab>
-<ab type="prose">誦亦三七遍。凡欲誦呪作法者。當用白月八<lb
+<ab type='prose'>誦亦三七遍。凡欲誦呪作法者。當用白月八<lb
  n="0462c08" ed="T"/>日十四日十五日作之。一切皆悉成就。行此<lb
  n="0462c09" ed="T"/>呪法。食大麥乳糜。或以水和大麥󰉓。或純果<lb
  n="0462c10" ed="T"/>或單乞食或不食。如是七種。唯得食一種不<lb
@@ -565,7 +565,7 @@
  n="0462c13" ed="T"/>場。四遍隨自自想為界場怨惡不入。五遍二<lb
  n="0462c14" ed="T"/>足四足悉被呪撲。六遍得入尸陀林。七遍眾<lb
  n="0462c15" ed="T"/>生愛已不起惡念。又法取青綖。呪一遍一<lb
- n="0462c16" ed="T"/>結如是七結。繫臍下繞腰󰍺身。除痔病下痢<lb
+ n="0462c16" ed="T"/>結如是七結。繫臍下繞腰𭣋身。除痔病下痢<lb
  n="0462c17" ed="T"/>病。繫項除一切病。人得毒藥呪之亦差。若<lb
  n="0462c18" ed="T"/>死呪水散灑之即起。若被他擔。取水一抄呪<lb
  n="0462c19" ed="T"/>七遍自服。呪被所擔死人即起。若不起者呪<lb
@@ -591,10 +591,10 @@
  n="0463a10" ed="T"/>見異相光明。隨何等願皆悉與之。又法呪<lb
  n="0463a11" ed="T"/>馬鞭及杖。三畫地地上水流。<lb
  n="0463a12" ed="T"/></ab>
-<ab type="dharani">君杜嚕香<lb
+<ab type='dharani'>君杜嚕香<lb
  n="0463a13" ed="T"/>陀羅尼攝捉將來縛勒力莎訶<lb
  n="0463a14" ed="T"/></ab>
-<ab type="prose">此呪隨心用攝鬼。此一印通於師三藏玄奘<lb
+<ab type='prose'>此呪隨心用攝鬼。此一印通於師三藏玄奘<lb
  n="0463a15" ed="T"/>法師邊親受。三藏知此印闕故授與智通師<lb
  n="0463a16" ed="T"/>中天竺國長年跋吒那羅延。與罽賓國沙門<lb
  n="0463a17" ed="T"/>喝囉那僧伽。同三曼茶羅會受持此法。後因<lb
@@ -609,5 +609,5 @@
  n="0463a26" ed="T"/>依法遵崇。呪文雖少功德彌多廣說窮劫不<lb
  n="0463a27" ed="T"/>盡。<lb
  n="0463a28" ed="T"/>
-</ab><ab type="juan" subtype="close">觀自在菩薩隨心呪經</ab></div>
+</ab><ab type='juan' subtype='close'>觀自在菩薩隨心呪經</ab></div>
 </body></text></TEI>

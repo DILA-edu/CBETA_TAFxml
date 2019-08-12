@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T31</biblScope>
                     <idno type="Taisho">T31n1606</idno>
                 </bibl>
@@ -39,18 +39,18 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0694b11" ed="T"/><lb
  n="0694b12" ed="T"/><lb
- n="0694b13" ed="T"/><div type="pin" level="2"><lb
+ n="0694b13" ed="T"/><div type='pin' level='2'><lb
  n="0694b14" ed="T"/>
-<ab type="juan" subtype="open">大乘阿毘達磨雜集論卷第一</ab><lb
+<ab type='juan' subtype='open'>大乘阿毘達磨雜集論卷第一</ab><lb
  n="0694b15" ed="T"/><lb
  n="0694b16" ed="T"/><byline>安慧菩薩糅</byline><lb
  n="0694b17" ed="T"/><byline>大唐三藏法師玄奘奉　詔譯</byline><lb
  n="0694b18" ed="T"/><head>本事分中三法品第一之一</head><lb
- n="0694b19" ed="T"/><ab type="verse">
+ n="0694b19" ed="T"/><ab type='verse'>
 諸會真淨究竟理　　超聖行海昇彼岸　　<lb
  n="0694b20" ed="T"/>證得一切法自在　　善權化導不思議　　<lb
  n="0694b21" ed="T"/>無量希有勝功德　　自他並利所依止　　<lb
@@ -58,7 +58,7 @@
  n="0694b23" ed="T"/>敬禮開演本論師　　親承聖旨分別者　　<lb
  n="0694b24" ed="T"/>由悟契經及解釋　　爰發正勤乃參綜　　
 </ab><lb
- n="0694b25" ed="T"/><ab type="prose">今此頌中無倒稱讚最勝功德敬申頂禮。以<lb
+ n="0694b25" ed="T"/><ab type='prose'>今此頌中無倒稱讚最勝功德敬申頂禮。以<lb
  n="0694b26" ed="T"/>供養三寶及造此論經釋二師隨其所應。所<lb
  n="0694b27" ed="T"/>以者何。此論所依及能起故。佛薄伽梵是契<lb
  n="0694b28" ed="T"/>經等一切教法平等所依。無師自悟諸法實<lb
@@ -93,13 +93,13 @@
  n="0694c28" ed="T"/>等義所攝故。僧寶者。隨此修學所生故。庶令<lb
  n="0694c29" ed="T"/>學者無諸怖畏。方造論端建茲體性。<pb n="0695a" id="T31.1606.0695a" ed="T"/><lb
  n="0695a01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 本事與決擇　　是各有四種　　<lb
  n="0695a02" ed="T"/>三法攝應成　　諦法得論議　　<lb
  n="0695a03" ed="T"/>幾何因取相　　建立與次第　　<lb
  n="0695a04" ed="T"/>義喻廣分別　　集總頌應知　　
 </ab><lb
- n="0695a05" ed="T"/><ab type="prose">問何故論端先辯蘊等。答欲令學者於幾何<lb
+ n="0695a05" ed="T"/><ab type='prose'>問何故論端先辯蘊等。答欲令學者於幾何<lb
  n="0695a06" ed="T"/>因等諸思擇處得善巧故。所以者何。由此善<lb
  n="0695a07" ed="T"/>巧能得二種稱讚利益。所謂作意稱讚利益。<lb
  n="0695a08" ed="T"/>論議決擇稱讚利益。作意稱讚利益者。謂善<lb
@@ -538,16 +538,16 @@
  n="0700a06" ed="T"/>令不生故。當知忿等諸隨煩惱能障慈等。各<lb
  n="0700a07" ed="T"/>別對治亦爾。<lb
  n="0700a08" ed="T"/>
-</ab><ab type="juan" subtype="close">大乘阿毘達磨雜集論卷第一</ab><lb
+</ab><ab type='juan' subtype='close'>大乘阿毘達磨雜集論卷第一</ab><lb
  n="0700a09" ed="T"/><lb
  n="0700a10" ed="T"/><lb
  n="0700a11" ed="T"/>
-<ab type="juan" subtype="open">大乘阿毘達磨雜集論卷第二</ab><lb
+<ab type='juan' subtype='open'>大乘阿毘達磨雜集論卷第二</ab><lb
  n="0700a12" ed="T"/><lb
  n="0700a13" ed="T"/><byline>安慧菩薩糅</byline><lb
  n="0700a14" ed="T"/><byline>大唐三藏法師玄奘奉　詔譯</byline><lb
  n="0700a15" ed="T"/><head>本事分中三法品第一之二</head><lb
- n="0700a16" ed="T"/><ab type="prose">何等名為心不相應行。謂得無想定滅盡定<lb
+ n="0700a16" ed="T"/><ab type='prose'>何等名為心不相應行。謂得無想定滅盡定<lb
  n="0700a17" ed="T"/>無想異熟命根眾同分生老住無常名身句身<lb
  n="0700a18" ed="T"/>文身異生性流轉定異相應勢速次第時方數<lb
  n="0700a19" ed="T"/>和合等。如是心不相應行。應以五門建立差<lb
@@ -949,22 +949,22 @@
  n="0704c09" ed="T"/>是經所說諸句義。又為對治我淨樂常四顛<lb
  n="0704c10" ed="T"/>倒故。如其次第說無我等諸句差別。<lb
  n="0704c11" ed="T"/>
-</ab><ab type="juan" subtype="close">大乘阿毘達磨雜集論卷第二</ab><lb
+</ab><ab type='juan' subtype='close'>大乘阿毘達磨雜集論卷第二</ab><lb
  n="0704c12" ed="T"/><lb
  n="0704c13" ed="T"/><lb
  n="0704c14" ed="T"/>
-<ab type="juan" subtype="open">大乘阿毘達磨雜集論卷第三</ab><lb
+<ab type='juan' subtype='open'>大乘阿毘達磨雜集論卷第三</ab><lb
  n="0704c15" ed="T"/><lb
  n="0704c16" ed="T"/><byline>安慧菩薩糅</byline><lb
  n="0704c17" ed="T"/><byline>大唐三藏法師玄奘奉　詔譯</byline><lb
  n="0704c18" ed="T"/><head>本事分中三法品第一之三</head><lb
- n="0704c19" ed="T"/><ab type="prose">復次蘊界處廣分別云何嗢拕南曰。<lb
+ n="0704c19" ed="T"/><ab type='prose'>復次蘊界處廣分別云何嗢拕南曰。<lb
  n="0704c20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 實有性等所知等　　色等漏等已生等　　<lb
  n="0704c21" ed="T"/>過去世等諸緣等　　云何幾種為何義　　
 </ab><lb
- n="0704c22" ed="T"/><ab type="prose">問蘊界處中云何實有。幾是實有。為何義<lb
+ n="0704c22" ed="T"/><ab type='prose'>問蘊界處中云何實有。幾是實有。為何義<lb
  n="0704c23" ed="T"/>故觀實有耶。答謂不待名言此餘根境是實<lb
  n="0704c24" ed="T"/>有義。一切皆是實有。為捨執著實有我故。觀<lb
  n="0704c25" ed="T"/>察實有。所以建立此三問者。為斷相事二<lb
@@ -1349,15 +1349,15 @@
  n="0709a27" ed="T"/>寂靜者。由此增上力故。發起勝品神通等世<lb
  n="0709a28" ed="T"/>出世共不共功德。<lb
  n="0709a29" ed="T"/>
-</ab><ab type="juan" subtype="close">大乘阿毘達磨雜集論卷第三</ab><pb n="0709b" id="T31.1606.0709b" ed="T"/><lb
+</ab><ab type='juan' subtype='close'>大乘阿毘達磨雜集論卷第三</ab><pb n="0709b" id="T31.1606.0709b" ed="T"/><lb
  n="0709b01" ed="T"/><lb
  n="0709b02" ed="T"/>
-<ab type="juan" subtype="open">大乘阿毘達磨雜集論卷第四</ab><lb
+<ab type='juan' subtype='open'>大乘阿毘達磨雜集論卷第四</ab><lb
  n="0709b03" ed="T"/><lb
  n="0709b04" ed="T"/><byline>安慧菩薩糅</byline><lb
  n="0709b05" ed="T"/><byline>大唐三藏法師玄奘奉　詔譯</byline><lb
  n="0709b06" ed="T"/><head>本事分中三法品第一之四</head><lb
- n="0709b07" ed="T"/><ab type="prose">云何不善。幾是不善。為何義故觀不善耶謂<lb
+ n="0709b07" ed="T"/><ab type='prose'>云何不善。幾是不善。為何義故觀不善耶謂<lb
  n="0709b08" ed="T"/>自性故相屬故隨逐故發起故第一義故生得<lb
  n="0709b09" ed="T"/>故方便故現前供養故損害故引攝故所治故<lb
  n="0709b10" ed="T"/>障礙故。是不善義。五蘊十界四處一分是不<lb
@@ -1758,17 +1758,17 @@
  n="0713c28" ed="T"/>立異熟因。善有漏言為簡無漏。由違生死故<lb
  n="0713c29" ed="T"/>不能感異熟果。<pb n="0714a" id="T31.1606.0714a" ed="T"/><lb
  n="0714a01" ed="T"/>
-</ab><ab type="juan" subtype="close">大乘阿毘達磨雜集論卷第四</ab><lb
+</ab><ab type='juan' subtype='close'>大乘阿毘達磨雜集論卷第四</ab><lb
  n="0714a02" ed="T"/><lb
  n="0714a03" ed="T"/><lb
  n="0714a04" ed="T"/><lb
  n="0714a05" ed="T"/>
-<ab type="juan" subtype="open">大乘阿毘達磨雜集論卷第五</ab><lb
+<ab type='juan' subtype='open'>大乘阿毘達磨雜集論卷第五</ab><lb
  n="0714a06" ed="T"/><lb
  n="0714a07" ed="T"/><byline>安慧菩薩糅</byline><lb
  n="0714a08" ed="T"/><byline>大唐三藏法師玄奘奉　詔譯</byline><lb
  n="0714a09" ed="T"/><head>本事分中三法品第一之五</head><lb
- n="0714a10" ed="T"/><ab type="prose">等無間緣者。謂中無間隔。等無間故。同分異<lb
+ n="0714a10" ed="T"/><ab type='prose'>等無間緣者。謂中無間隔。等無間故。同分異<lb
  n="0714a11" ed="T"/>分心心法生。等無間故。是等無間緣義。中無<lb
  n="0714a12" ed="T"/>間隔等無間者。不必剎那中無間隔。雖隔剎<lb
  n="0714a13" ed="T"/>那。但於中間無異心隔。亦名中無間隔。若不<lb
@@ -1894,7 +1894,7 @@
  n="0715b17" ed="T"/>智者。謂自在智。觀察智無。分別智。為顯四<lb
  n="0715b18" ed="T"/>因。乃說頌曰。<lb
  n="0715b19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 鬼傍生人天　　各隨其所應　　<lb
  n="0715b20" ed="T"/>等事心異故　　許義非真實　　<lb
  n="0715b21" ed="T"/>於過去事等　　夢像二影中　　<lb
@@ -1908,7 +1908,7 @@
  n="0715b29" ed="T"/>無分別智行　　諸義皆不現　　<pb n="0715c" id="T31.1606.0715c" ed="T"/><lb
  n="0715c01" ed="T"/>當知無有義　　由此亦無識　　
 </ab><lb
- n="0715c02" ed="T"/><ab type="prose">遍知者。謂如實知相差別安立所緣境界。<lb
+ n="0715c02" ed="T"/><ab type='prose'>遍知者。謂如實知相差別安立所緣境界。<lb
  n="0715c03" ed="T"/>斷者。謂聲聞等及與大乘所得轉依。聲聞乘<lb
  n="0715c04" ed="T"/>等所得轉依。雖於蘊界處所緣得解脫。然於<lb
  n="0715c05" ed="T"/>彼不得自在。大乘所得轉依具得二種已說。<lb
@@ -2058,8 +2058,8 @@
  n="0717b04" ed="T"/>無學。暫時差別者。謂諸無學最後剎那蘊界<lb
  n="0717b05" ed="T"/>處。顯示差別者。謂諸佛及已得究竟菩薩摩<lb
  n="0717b06" ed="T"/>訶薩。所示現諸蘊界處。</ab></div><lb
- n="0717b07" ed="T"/><div type="pin" level="2"><head>大乘阿毘達磨雜集論本事分中攝品第二</head><lb
- n="0717b08" ed="T"/><ab type="prose">復次若略說攝有十一種。謂相攝界攝種類<lb
+ n="0717b07" ed="T"/><div type='pin' level='2'><head>大乘阿毘達磨雜集論本事分中攝品第二</head><lb
+ n="0717b08" ed="T"/><ab type='prose'>復次若略說攝有十一種。謂相攝界攝種類<lb
  n="0717b09" ed="T"/>攝分位攝。伴攝方攝時攝一分攝具分攝更<lb
  n="0717b10" ed="T"/>互攝勝義攝。<lb
  n="0717b11" ed="T"/>相攝者。謂蘊界處一一自相即體自攝。如<lb
@@ -2125,9 +2125,9 @@
  n="0718a13" ed="T"/>說。<lb
  n="0718a14" ed="T"/>問於攝善巧得何勝利。答得於所緣略集勝<lb
  n="0718a15" ed="T"/>利隨彼彼境略聚其心。如是如是善根增勝。</ab></div><lb
- n="0718a16" ed="T"/><div type="pin" level="2"><head>大乘阿毘達磨雜集論本事分中相應品第<lb
+ n="0718a16" ed="T"/><div type='pin' level='2'><head>大乘阿毘達磨雜集論本事分中相應品第<lb
  n="0718a17" ed="T"/>三</head><lb
- n="0718a18" ed="T"/><ab type="prose">復次略說相應有六種。謂不相離相應。和合<lb
+ n="0718a18" ed="T"/><ab type='prose'>復次略說相應有六種。謂不相離相應。和合<lb
  n="0718a19" ed="T"/>相應。聚集相應。俱有相應。作事相應。同行<lb
  n="0718a20" ed="T"/>相應。不相離相應者。謂一切有方分色與極<lb
  n="0718a21" ed="T"/>微處互不相離。由諸色等極微所攝同一處<lb
@@ -2168,9 +2168,9 @@
  n="0718b27" ed="T"/>依止心。有受想等染淨諸法相應不相應義。<lb
  n="0718b28" ed="T"/>由此了悟。即能捨離計我能受能想能思能<lb
  n="0718b29" ed="T"/>念染淨執著。又能善巧速入無我。</ab></div><pb n="0718c" id="T31.1606.0718c" ed="T"/><lb
- n="0718c01" ed="T"/><div type="pin" level="2"><head>大乘阿毘達磨雜集論本事分中成就品第<lb
+ n="0718c01" ed="T"/><div type='pin' level='2'><head>大乘阿毘達磨雜集論本事分中成就品第<lb
  n="0718c02" ed="T"/>四</head><lb
- n="0718c03" ed="T"/><ab type="prose">復次成就相如前已說謂於善不善無記法。<lb
+ n="0718c03" ed="T"/><ab type='prose'>復次成就相如前已說謂於善不善無記法。<lb
  n="0718c04" ed="T"/>若增若減假立獲得成就。此差別有三種。謂<lb
  n="0718c05" ed="T"/>種子成就。自在成就。現行成就。<lb
  n="0718c06" ed="T"/>種子成就者。謂若生欲界。欲色無色界繫煩<lb
@@ -2213,16 +2213,16 @@
  n="0719a14" ed="T"/>增減。知增減故。於世興衰離決定想。乃至能<lb
  n="0719a15" ed="T"/>斷若愛若恚。<lb
  n="0719a16" ed="T"/>
-</ab><ab type="juan" subtype="close">大乘阿毘達磨雜集論卷第五</ab></div><lb
+</ab><ab type='juan' subtype='close'>大乘阿毘達磨雜集論卷第五</ab></div><lb
  n="0719a17" ed="T"/><lb
- n="0719a18" ed="T"/><div type="pin" level="2"><lb
+ n="0719a18" ed="T"/><div type='pin' level='2'><lb
  n="0719a19" ed="T"/>
-<ab type="juan" subtype="open">大乘阿毘達磨雜集論卷第六</ab><lb
+<ab type='juan' subtype='open'>大乘阿毘達磨雜集論卷第六</ab><lb
  n="0719a20" ed="T"/><lb
  n="0719a21" ed="T"/><byline>安慧菩薩糅</byline><lb
  n="0719a22" ed="T"/><byline>大唐三藏法師玄奘奉　詔譯</byline><lb
  n="0719a23" ed="T"/><head>決擇分中諦品第一之一</head><lb
- n="0719a24" ed="T"/><ab type="prose">復次略說決擇有四種。謂諦決擇法決擇得<lb
+ n="0719a24" ed="T"/><ab type='prose'>復次略說決擇有四種。謂諦決擇法決擇得<lb
  n="0719a25" ed="T"/>決擇論議決擇。諦決擇復有四種。謂依苦集<lb
  n="0719a26" ed="T"/>滅道四聖諦說。<lb
  n="0719a27" ed="T"/>苦諦云何。謂有情生及生所依處。即有情世<lb
@@ -2502,13 +2502,13 @@
  n="0722b11" ed="T"/>或受卵生。或受胎生。或受濕生。或受化生。<lb
  n="0722b12" ed="T"/>如緣起中說者。謂名色等前後次第如說。<lb
  n="0722b13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 最初羯邏藍　　次生頞部曇　　<lb
  n="0722b14" ed="T"/>從此生閉尸　　閉尸生鍵南　　<lb
  n="0722b15" ed="T"/>次鉢羅奢佉　　後髮毛爪等　　<lb
  n="0722b16" ed="T"/>及色根形相　　漸漸而生長　　
 </ab><lb
- n="0722b17" ed="T"/><ab type="prose">云何集諦。謂諸煩惱及煩惱增上所生諸業。<lb
+ n="0722b17" ed="T"/><ab type='prose'>云何集諦。謂諸煩惱及煩惱增上所生諸業。<lb
  n="0722b18" ed="T"/>俱說名集諦。由此集起生死苦故。煩惱增上<lb
  n="0722b19" ed="T"/>所生業者。謂有漏業。若爾何故。世尊唯說<lb
  n="0722b20" ed="T"/>愛為集諦。由最勝故。謂薄伽梵隨勝而說。若<lb
@@ -2660,15 +2660,15 @@
  n="0724a21" ed="T"/>解脫解脫方便。隨其次第三見二取。如結中<lb
  n="0724a22" ed="T"/>說。於佛聖教正法毘柰耶中。猶豫疑惑。<lb
  n="0724a23" ed="T"/>
-</ab><ab type="juan" subtype="close">大乘阿毘達磨雜集論卷第六</ab><pb n="0724b" id="T31.1606.0724b" ed="T"/><lb
+</ab><ab type='juan' subtype='close'>大乘阿毘達磨雜集論卷第六</ab><pb n="0724b" id="T31.1606.0724b" ed="T"/><lb
  n="0724b01" ed="T"/><lb
  n="0724b02" ed="T"/>
-<ab type="juan" subtype="open">大乘阿毘達磨雜集論卷第七</ab><lb
+<ab type='juan' subtype='open'>大乘阿毘達磨雜集論卷第七</ab><lb
  n="0724b03" ed="T"/><lb
  n="0724b04" ed="T"/><byline>安慧菩薩糅</byline><lb
  n="0724b05" ed="T"/><byline>大唐三藏法師玄奘奉　詔譯</byline><lb
  n="0724b06" ed="T"/><head>決擇分中諦品第一之二</head><lb
- n="0724b07" ed="T"/><ab type="prose">隨煩惱者。謂所有諸煩惱皆是隨煩惱。有隨<lb
+ n="0724b07" ed="T"/><ab type='prose'>隨煩惱者。謂所有諸煩惱皆是隨煩惱。有隨<lb
  n="0724b08" ed="T"/>煩惱非煩惱。謂除煩惱所餘染污行蘊所攝<lb
  n="0724b09" ed="T"/>一切心法。此復云何。謂除貪等六煩惱。所<lb
  n="0724b10" ed="T"/>餘染污行蘊所攝忿等諸心法。又貪瞋癡名<lb
@@ -3152,15 +3152,15 @@
  n="0729c24" ed="T"/>各有二種。隨順樂等感樂等異熟。隨其所應。<lb
  n="0729c25" ed="T"/>如是名為此經密意。<lb
  n="0729c26" ed="T"/>
-</ab><ab type="juan" subtype="close">大乘阿毘達磨雜集論卷第七</ab><pb n="0730a" id="T31.1606.0730a" ed="T"/><lb
+</ab><ab type='juan' subtype='close'>大乘阿毘達磨雜集論卷第七</ab><pb n="0730a" id="T31.1606.0730a" ed="T"/><lb
  n="0730a01" ed="T"/><lb
  n="0730a02" ed="T"/>
-<ab type="juan" subtype="open">大乘阿毘達磨雜集論卷第八</ab><lb
+<ab type='juan' subtype='open'>大乘阿毘達磨雜集論卷第八</ab><lb
  n="0730a03" ed="T"/><lb
  n="0730a04" ed="T"/><byline>安慧菩薩糅</byline><lb
  n="0730a05" ed="T"/><byline>大唐三藏法師玄奘奉　詔譯</byline><lb
  n="0730a06" ed="T"/><head>決擇分中諦品第一之三</head><lb
- n="0730a07" ed="T"/><ab type="prose">復次業差別有三種。謂律儀業。不律儀業。非<lb
+ n="0730a07" ed="T"/><ab type='prose'>復次業差別有三種。謂律儀業。不律儀業。非<lb
  n="0730a08" ed="T"/>律儀非不律儀業。律儀業復有三種。謂別解<lb
  n="0730a09" ed="T"/>脫律儀所攝。靜慮律儀所攝。無漏律儀所攝。<lb
  n="0730a10" ed="T"/>別解脫律儀所攝業者。即是七眾所受律儀。<lb
@@ -3580,16 +3580,16 @@
  n="0734c18" ed="T"/>別內證於諸諦中無間心三摩地鉢羅若。及<lb
  n="0734c19" ed="T"/>彼相應等法。從此無間必起最初出世道故。<lb
  n="0734c20" ed="T"/>
-</ab><ab type="juan" subtype="close">大乘阿毘達磨雜集論卷第八</ab><lb
+</ab><ab type='juan' subtype='close'>大乘阿毘達磨雜集論卷第八</ab><lb
  n="0734c21" ed="T"/><lb
  n="0734c22" ed="T"/><lb
  n="0734c23" ed="T"/>
-<ab type="juan" subtype="open">大乘阿毘達磨雜集論卷第九</ab><lb
+<ab type='juan' subtype='open'>大乘阿毘達磨雜集論卷第九</ab><lb
  n="0734c24" ed="T"/><lb
  n="0734c25" ed="T"/><byline>安慧菩薩糅</byline><lb
  n="0734c26" ed="T"/><byline>大唐三藏法師玄奘奉　詔譯</byline><lb
  n="0734c27" ed="T"/><head>決擇分中諦品第一之四</head><lb
- n="0734c28" ed="T"/><ab type="prose">云何見道若總說。謂世第一法無間。無所得<lb
+ n="0734c28" ed="T"/><ab type='prose'>云何見道若總說。謂世第一法無間。無所得<lb
  n="0734c29" ed="T"/>三摩地鉢羅若。及彼相應等法。由無分別奢<pb n="0735a" id="T31.1606.0735a" ed="T"/><lb
  n="0735a01" ed="T"/>摩他毘鉢舍那等為體相故。<lb
  n="0735a02" ed="T"/>又所緣能緣平等平等智為其相。由此通達<lb
@@ -3924,16 +3924,16 @@
  n="0738c12" ed="T"/>根攝方便道及見道。已知根攝修道。具知根<lb
  n="0738c13" ed="T"/>攝究竟道。<lb
  n="0738c14" ed="T"/>
-</ab><ab type="juan" subtype="close">大乘阿毘達磨雜集論卷第九</ab><lb
+</ab><ab type='juan' subtype='close'>大乘阿毘達磨雜集論卷第九</ab><lb
  n="0738c15" ed="T"/><lb
  n="0738c16" ed="T"/><lb
  n="0738c17" ed="T"/>
-<ab type="juan" subtype="open">大乘阿毘達磨雜集論卷第十</ab><lb
+<ab type='juan' subtype='open'>大乘阿毘達磨雜集論卷第十</ab><lb
  n="0738c18" ed="T"/><lb
  n="0738c19" ed="T"/><byline>安慧菩薩糅</byline><lb
  n="0738c20" ed="T"/><byline>大唐三藏法師玄奘奉　詔譯</byline><lb
  n="0738c21" ed="T"/><head>決擇分中諦品第一之五</head><lb
- n="0738c22" ed="T"/><ab type="prose">復次一切菩提分法無有差別。皆由五門而<lb
+ n="0738c22" ed="T"/><ab type='prose'>復次一切菩提分法無有差別。皆由五門而<lb
  n="0738c23" ed="T"/>得建立。謂所緣故自體故助伴故修習故修<lb
  n="0738c24" ed="T"/>果故。如初四念住有五門。所餘菩提分法亦<lb
  n="0738c25" ed="T"/>爾。<lb
@@ -4318,15 +4318,15 @@
  n="0743a26" ed="T"/>門見此是無常義。如無常行於無常義。餘行<lb
  n="0743a27" ed="T"/>於餘義。隨其所應亦如是。<lb
  n="0743a28" ed="T"/>
-</ab><ab type="juan" subtype="close">大乘阿毘達磨雜集論卷第十</ab><pb n="0743b" id="T31.1606.0743b" ed="T"/></div><lb
- n="0743b01" ed="T"/><div type="pin" level="2"><lb
+</ab><ab type='juan' subtype='close'>大乘阿毘達磨雜集論卷第十</ab></div><pb n="0743b" id="T31.1606.0743b" ed="T"/><lb
+ n="0743b01" ed="T"/><div type='pin' level='2'><lb
  n="0743b02" ed="T"/>
-<ab type="juan" subtype="open">大乘阿毘達磨雜集論卷第十一</ab><lb
+<ab type='juan' subtype='open'>大乘阿毘達磨雜集論卷第十一</ab><lb
  n="0743b03" ed="T"/><lb
  n="0743b04" ed="T"/><byline>安慧菩薩糅釋上集論</byline><lb
  n="0743b05" ed="T"/><byline>大唐三藏法師玄奘奉　詔譯</byline><lb
  n="0743b06" ed="T"/><head>決擇分中法品第二之一</head><lb
- n="0743b07" ed="T"/><ab type="prose">云何法決擇。法者。謂十二分聖教。何者十<lb
+ n="0743b07" ed="T"/><ab type='prose'>云何法決擇。法者。謂十二分聖教。何者十<lb
  n="0743b08" ed="T"/>二。一契經。二應頌。三記別。四諷頌。五自說。<lb
  n="0743b09" ed="T"/>六緣起。七譬喻。八本事。九本生。十方廣。十<lb
  n="0743b10" ed="T"/>一希法。十二論議。<lb
@@ -4771,17 +4771,17 @@
  n="0748b14" ed="T"/>出世間後所得慧。得寂靜智者。謂修道中治<lb
  n="0748b15" ed="T"/>煩惱慧。勝德智者。謂能引發勝功德慧。<lb
  n="0748b16" ed="T"/>
-</ab><ab type="juan" subtype="close">大乘阿毘達磨雜集論卷第十一</ab><lb
+</ab><ab type='juan' subtype='close'>大乘阿毘達磨雜集論卷第十一</ab><lb
  n="0748b17" ed="T"/><lb
  n="0748b18" ed="T"/><lb
  n="0748b19" ed="T"/><lb
  n="0748b20" ed="T"/>
-<ab type="juan" subtype="open">大乘阿毘達磨雜集論卷第十二</ab><lb
+<ab type='juan' subtype='open'>大乘阿毘達磨雜集論卷第十二</ab><lb
  n="0748b21" ed="T"/><lb
  n="0748b22" ed="T"/><byline>安慧菩薩糅釋上集論</byline><lb
  n="0748b23" ed="T"/><byline>大唐三藏法師玄奘奉　詔譯</byline><lb
  n="0748b24" ed="T"/><head>決擇分中法品第二之二</head><lb
- n="0748b25" ed="T"/><ab type="prose">云何修。略有五種。謂依止任持修。依止作意<lb
+ n="0748b25" ed="T"/><ab type='prose'>云何修。略有五種。謂依止任持修。依止作意<lb
  n="0748b26" ed="T"/>修。依止意樂修。依止方便修。依止自在修。<lb
  n="0748b27" ed="T"/>依止任持修復有四種。一依止因修。謂由種<lb
  n="0748b28" ed="T"/>性力於波羅蜜多修習正行。二依止報修。謂<lb
@@ -5163,15 +5163,15 @@
  n="0752c27" ed="T"/>切眾生利益安樂所依處故。能建大義故。無<lb
  n="0752c28" ed="T"/>上無量大功德聚所生處故。<lb
  n="0752c29" ed="T"/>
-</ab><ab type="juan" subtype="close">大乘阿毘達磨雜集論卷第十二</ab><pb n="0753a" id="T31.1606.0753a" ed="T"/></div><lb
- n="0753a01" ed="T"/><div type="pin" level="2"><lb
+</ab><ab type='juan' subtype='close'>大乘阿毘達磨雜集論卷第十二</ab></div><pb n="0753a" id="T31.1606.0753a" ed="T"/><lb
+ n="0753a01" ed="T"/><div type='pin' level='2'><lb
  n="0753a02" ed="T"/>
-<ab type="juan" subtype="open">大乘阿毘達磨雜集論卷第十三</ab><lb
+<ab type='juan' subtype='open'>大乘阿毘達磨雜集論卷第十三</ab><lb
  n="0753a03" ed="T"/><lb
  n="0753a04" ed="T"/><byline>安慧菩薩糅釋上集論</byline><lb
  n="0753a05" ed="T"/><byline>大唐三藏法師玄奘奉　詔譯</byline><lb
  n="0753a06" ed="T"/><head>決擇分中得品第三之一</head><lb
- n="0753a07" ed="T"/><ab type="prose">云何得決擇。略說有二種。謂建立補特伽<lb
+ n="0753a07" ed="T"/><ab type='prose'>云何得決擇。略說有二種。謂建立補特伽<lb
  n="0753a08" ed="T"/>羅。建立現觀。前為能證。後是所證。補特伽<lb
  n="0753a09" ed="T"/>羅雖非實有。由四種緣是故建立。謂言說易<lb
  n="0753a10" ed="T"/>故。順世間故。離怖畏故。顯示自他具德失<lb
@@ -5720,15 +5720,15 @@
  n="0759b02" ed="T"/>由遍處故成滿。若於彼得成滿。即於解脫<lb
  n="0759b03" ed="T"/>究竟。<lb
  n="0759b04" ed="T"/>
-</ab><ab type="juan" subtype="close">大乘阿毘達磨雜集論卷第十三</ab><lb
+</ab><ab type='juan' subtype='close'>大乘阿毘達磨雜集論卷第十三</ab><lb
  n="0759b05" ed="T"/><lb
  n="0759b06" ed="T"/>
-<ab type="juan" subtype="open">大乘阿毘達磨雜集論卷第十四</ab><lb
+<ab type='juan' subtype='open'>大乘阿毘達磨雜集論卷第十四</ab><lb
  n="0759b07" ed="T"/><lb
  n="0759b08" ed="T"/><byline>安慧菩薩糅釋上集論</byline><lb
  n="0759b09" ed="T"/><byline>大唐三藏法師玄奘奉　詔譯</byline><lb
  n="0759b10" ed="T"/><head>決擇分中得品第三之二</head><lb
- n="0759b11" ed="T"/><ab type="prose">復次無諍者。謂依止靜慮於防護他所應起<lb
+ n="0759b11" ed="T"/><ab type='prose'>復次無諍者。謂依止靜慮於防護他所應起<lb
  n="0759b12" ed="T"/>煩惱住具足中。若定若慧及彼相應諸心心<lb
  n="0759b13" ed="T"/>法。所以者何。住無諍者若欲往詣一切有情<lb
  n="0759b14" ed="T"/>所應見處。先於自所住處以願智力觀彼有<lb
@@ -6246,16 +6246,16 @@
  n="0765b04" ed="T"/>諸菩薩等根品差別應不可得。然有可得。是<lb
  n="0765b05" ed="T"/>故利根復有差別。<lb
  n="0765b06" ed="T"/>
-</ab><ab type="juan" subtype="close">大乘阿毘達磨雜集論卷第十四</ab></div><lb
+</ab><ab type='juan' subtype='close'>大乘阿毘達磨雜集論卷第十四</ab></div><lb
  n="0765b07" ed="T"/><lb
- n="0765b08" ed="T"/><div type="pin" level="2"><lb
+ n="0765b08" ed="T"/><div type='pin' level='2'><lb
  n="0765b09" ed="T"/>
-<ab type="juan" subtype="open">大乘阿毘達磨雜集論卷第十五</ab><lb
+<ab type='juan' subtype='open'>大乘阿毘達磨雜集論卷第十五</ab><lb
  n="0765b10" ed="T"/><lb
  n="0765b11" ed="T"/><byline>安慧菩薩糅釋上集論</byline><lb
  n="0765b12" ed="T"/><byline>大唐三藏法師玄奘奉　詔譯</byline><lb
  n="0765b13" ed="T"/><head>決擇分中論品第四之一</head><lb
- n="0765b14" ed="T"/><ab type="prose">云何論決擇。略說有七種。謂義決擇。釋決<lb
+ n="0765b14" ed="T"/><ab type='prose'>云何論決擇。略說有七種。謂義決擇。釋決<lb
  n="0765b15" ed="T"/>擇。分別顯示。決擇。等論決擇。攝決擇。論軌<lb
  n="0765b16" ed="T"/>決擇。祕密決擇。<lb
  n="0765b17" ed="T"/>義決擇者。謂依六義而起決擇。何等六義。謂<lb
@@ -6539,11 +6539,11 @@
  n="0768c05" ed="T"/>覺者。謂開曉愚情令解妙義。<lb
  n="0768c06" ed="T"/>復有五種等論決擇道理。謂如頌言。<lb
  n="0768c07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 自性所依識　　清淨方便等　　<lb
  n="0768c08" ed="T"/>當知五各六　　觀所知諸法　　
 </ab><lb
- n="0768c09" ed="T"/><ab type="prose">自性等六者一自性二因三境界四行相五等<lb
+ n="0768c09" ed="T"/><ab type='prose'>自性等六者一自性二因三境界四行相五等<lb
  n="0768c10" ed="T"/>無間六增上。所依等六者。一所依二依三攝<lb
  n="0768c11" ed="T"/>四相應五成就六雜染。識等六者。一識二受<lb
  n="0768c12" ed="T"/>三想四作意五智六遍知。清淨等六者。一清<lb
@@ -6607,16 +6607,16 @@
  n="0769b12" ed="T"/>究竟下劣究竟廣大究竟。引發有二十種。謂<lb
  n="0769b13" ed="T"/>無量引發乃至一切種妙智引發。<lb
  n="0769b14" ed="T"/>
-</ab><ab type="juan" subtype="close">大乘阿毘達磨雜集論卷第十五</ab><lb
+</ab><ab type='juan' subtype='close'>大乘阿毘達磨雜集論卷第十五</ab><lb
  n="0769b15" ed="T"/><lb
  n="0769b16" ed="T"/><lb
  n="0769b17" ed="T"/>
-<ab type="juan" subtype="open">大乘阿毘達磨雜集論卷第十六</ab><lb
+<ab type='juan' subtype='open'>大乘阿毘達磨雜集論卷第十六</ab><lb
  n="0769b18" ed="T"/><lb
  n="0769b19" ed="T"/><byline>安慧菩薩糅釋上集論</byline><lb
  n="0769b20" ed="T"/><byline>大唐三藏法師玄奘奉　詔譯</byline><lb
  n="0769b21" ed="T"/><head>決擇分中論品第四之二</head><lb
- n="0769b22" ed="T"/><ab type="prose">實自性者。謂諸法實有性。假自性者。謂諸法<lb
+ n="0769b22" ed="T"/><ab type='prose'>實自性者。謂諸法實有性。假自性者。謂諸法<lb
  n="0769b23" ed="T"/>假有性。世俗自性者。謂諸法世俗有性。勝義<lb
  n="0769b24" ed="T"/>自性者。謂諸法勝義有性。生因者。謂因等四<lb
  n="0769b25" ed="T"/>緣。成因者。謂三量。一現量二比量三聲量。<lb
@@ -6934,11 +6934,11 @@
  n="0773a18" ed="T"/>得退。祕密決擇者。謂說餘義名句文身。隱密<lb
  n="0773a19" ed="T"/>轉變更顯餘義。如經言。<lb
  n="0773a20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 逆害於父母　　王及二多聞　　<lb
  n="0773a21" ed="T"/>誅國及隨行　　是人說清淨　　
 </ab><lb
- n="0773a22" ed="T"/><ab type="prose">今此頌中詮表世間共可極重罪惡文字。轉<lb
+ n="0773a22" ed="T"/><ab type='prose'>今此頌中詮表世間共可極重罪惡文字。轉<lb
  n="0773a23" ed="T"/>變密顯餘清淨義。何等世間共可極重罪惡。<lb
  n="0773a24" ed="T"/>謂逆害尊人及大眾。尊人有二。一別二共。共<lb
  n="0773a25" ed="T"/>又二種。一護世間。二應供養。別亦二種。謂<lb
@@ -6958,11 +6958,11 @@
  n="0773b10" ed="T"/>境界。猶如世間國及隨行。若能永斷如是等<lb
  n="0773b11" ed="T"/>法。當知是人最為清淨。又如經說。<lb
  n="0773b12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 不信不知恩　　斷密無容處　　<lb
  n="0773b13" ed="T"/>恒食人所吐　　是最上丈夫　　
 </ab><lb
- n="0773b14" ed="T"/><ab type="prose">今此頌中宣說世間極下劣義。所有文字轉<lb
+ n="0773b14" ed="T"/><ab type='prose'>今此頌中宣說世間極下劣義。所有文字轉<lb
  n="0773b15" ed="T"/>變密顯餘最上義。世間下劣凡有四種。謂意<lb
  n="0773b16" ed="T"/>業下劣身業下劣語業下劣受用下劣。意業<lb
  n="0773b17" ed="T"/>下劣復有二種。一者不信善生相違。不信有<lb
@@ -6981,11 +6981,11 @@
  n="0773c01" ed="T"/>假資具力暫持身。而於命財不生欣樂故。若<lb
  n="0773c02" ed="T"/>能如是。是最上丈夫。又如經說。<lb
  n="0773c03" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 覺不堅為堅　　善住於顛倒　　<lb
  n="0773c04" ed="T"/>極煩惱所惱　　得最上菩提　　
 </ab><lb
- n="0773c05" ed="T"/><ab type="prose">此如前說。然其體性。謂諸菩薩依三摩地。由<lb
+ n="0773c05" ed="T"/><ab type='prose'>此如前說。然其體性。謂諸菩薩依三摩地。由<lb
  n="0773c06" ed="T"/>見修二道證大菩提。<lb
  n="0773c07" ed="T"/>又餘經說。菩薩摩訶薩成就五法施波羅蜜<lb
  n="0773c08" ed="T"/>多速得圓滿。何等為五。一者增益慳悋法性。<lb
@@ -7016,5 +7016,5 @@
  n="0774a04" ed="T"/>大乘阿毘達磨經中諸思擇處故。正所集者。<lb
  n="0774a05" ed="T"/>謂由無倒結集方便。乃至證得佛菩提故。<lb
  n="0774a06" ed="T"/>
-</ab><ab type="juan" subtype="close">大乘阿毘達磨雜集論卷第十六</ab></div></div>
+</ab><ab type='juan' subtype='close'>大乘阿毘達磨雜集論卷第十六</ab></div></div>
 </body></text></TEI>

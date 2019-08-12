@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T18</biblScope>
                     <idno type="Taisho">T18n0867</idno>
                 </bibl>
@@ -39,17 +39,17 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0253c11" ed="T"/><lb
  n="0253c12" ed="T"/><lb
  n="0253c13" ed="T"/>
-<ab type="juan" subtype="open">金剛峯樓閣一切瑜伽瑜祇經卷<lb
+<ab type='juan' subtype='open'>金剛峯樓閣一切瑜伽瑜祇經卷<lb
  n="0253c14" ed="T"/>上</ab><lb
  n="0253c15" ed="T"/><lb
  n="0253c16" ed="T"/><byline>唐南天竺國三藏沙門金剛智譯</byline><lb
- n="0253c17" ed="T"/><div type="pin" level="2"><head>序品第一</head><lb
- n="0253c18" ed="T"/><ab type="prose">如是我聞。一時薄伽梵金剛界遍照如來。以<pb n="0254a" id="T18.0867.0254a" ed="T"/><lb
+ n="0253c17" ed="T"/><div type='pin' level='2'><head>序品第一</head><lb
+ n="0253c18" ed="T"/><ab type='prose'>如是我聞。一時薄伽梵金剛界遍照如來。以<pb n="0254a" id="T18.0867.0254a" ed="T"/><lb
  n="0254a01" ed="T"/>五智所成四種法身。於本有金剛界自在大<lb
  n="0254a02" ed="T"/>三昧耶自覺本初大菩提心普賢滿月不壞金<lb
  n="0254a03" ed="T"/>剛光明心殿中。與自性所成眷屬金剛手等<lb
@@ -70,159 +70,159 @@
  n="0254a18" ed="T"/>賢金剛手等十六大菩薩。從定而起遍照虛<lb
  n="0254a19" ed="T"/>空。金剛自性成辦清淨光明。同聲以偈讚曰。<lb
  n="0254a20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 大日金剛峯　　微細住自然　　<lb
  n="0254a21" ed="T"/>光明常遍照　　不壞清淨業　　
 </ab><lb
- n="0254a22" ed="T"/><ab type="prose">說此讚已。時金剛手菩薩。以右手五峯金<lb
+ n="0254a22" ed="T"/><ab type='prose'>說此讚已。時金剛手菩薩。以右手五峯金<lb
  n="0254a23" ed="T"/>剛。擲於虛空。寂然一體還住手中。說此金<lb
  n="0254a24" ed="T"/>剛曰。<lb
  n="0254a25" ed="T"/></ab>
-<ab type="dharani">􈅼吽引<lb
+<ab type='dharani'>􈅼吽引<lb
  n="0254a26" ed="T"/><lb
  n="0254a27" ed="T"/></ab>
-<ab type="prose">時金剛王菩薩。以所持鉤擲於虛空。寂然一<lb
+<ab type='prose'>時金剛王菩薩。以所持鉤擲於虛空。寂然一<lb
  n="0254a28" ed="T"/>體還住手中。說此摩尼曰。<lb
  n="0254a29" ed="T"/></ab>
-<ab type="dharani">􄩩怛𠸪二合<pb n="0254b" id="T18.0867.0254b" ed="T"/><lb
+<ab type='dharani'>􄩩怛𠸪二合<pb n="0254b" id="T18.0867.0254b" ed="T"/><lb
  n="0254b01" ed="T"/><lb
  n="0254b02" ed="T"/></ab>
-<ab type="prose">時金剛染菩薩以金剛白蓮擲於虛空。寂然<lb
+<ab type='prose'>時金剛染菩薩以金剛白蓮擲於虛空。寂然<lb
  n="0254b03" ed="T"/>一體還住手中。說此蓮花曰。<lb
  n="0254b04" ed="T"/></ab>
-<ab type="dharani">􇩵紇哩以三合<lb
+<ab type='dharani'>􇩵紇哩以三合<lb
  n="0254b05" ed="T"/><lb
  n="0254b06" ed="T"/></ab>
-<ab type="prose">時金剛稱菩薩以金剛箜篌擲於虛空。寂然<lb
+<ab type='prose'>時金剛稱菩薩以金剛箜篌擲於虛空。寂然<lb
  n="0254b07" ed="T"/>一體還住手中。說此羯磨曰。<lb
  n="0254b08" ed="T"/></ab>
-<ab type="dharani">􆿔噁<lb
+<ab type='dharani'>􆿔噁<lb
  n="0254b09" ed="T"/><lb
  n="0254b10" ed="T"/></ab>
-<ab type="prose">時四大菩薩。同聲告金剛界如來言。我今現<lb
+<ab type='prose'>時四大菩薩。同聲告金剛界如來言。我今現<lb
  n="0254b11" ed="T"/>此神通。為動一切有情本性。開顯鉤召彼愚<lb
  n="0254b12" ed="T"/>童。令染愛諸佛妙法。成熟本有法身故。時<lb
  n="0254b13" ed="T"/>虛空藏菩薩。復以手中寶瓶擲於虛空。寂然<lb
  n="0254b14" ed="T"/>一體還來手中。說此金剛藏曰。<lb
  n="0254b15" ed="T"/></ab>
-<ab type="dharani">􄓁惹<lb
+<ab type='dharani'>􄓁惹<lb
  n="0254b16" ed="T"/><lb
  n="0254b17" ed="T"/></ab>
-<ab type="prose">時金光菩薩。以手中日輪擲於虛空。寂然一<lb
+<ab type='prose'>時金光菩薩。以手中日輪擲於虛空。寂然一<lb
  n="0254b18" ed="T"/>體還來手中。說此金剛光曰。<lb
  n="0254b19" ed="T"/></ab>
-<ab type="dharani">􈅼吽引<lb
+<ab type='dharani'>􈅼吽引<lb
  n="0254b20" ed="T"/><lb
  n="0254b21" ed="T"/></ab>
-<ab type="prose">時虛空旗菩薩。以手中幢旗擲於虛空。寂然<lb
+<ab type='prose'>時虛空旗菩薩。以手中幢旗擲於虛空。寂然<lb
  n="0254b22" ed="T"/>一體還來手中。說此金剛旗曰。<lb
  n="0254b23" ed="T"/></ab>
-<ab type="dharani">􈆯鑁<lb
+<ab type='dharani'>􈆯鑁<lb
  n="0254b24" ed="T"/><lb
  n="0254b25" ed="T"/></ab>
-<ab type="prose">時虛空笑菩薩。以手中金剛旛擲於虛空。寂<lb
+<ab type='prose'>時虛空笑菩薩。以手中金剛旛擲於虛空。寂<lb
  n="0254b26" ed="T"/>然一體還來手中。說此金剛旛曰。<lb
  n="0254b27" ed="T"/></ab>
-<ab type="dharani">􈁟鵠<lb
+<ab type='dharani'>􈁟鵠<lb
  n="0254b28" ed="T"/><lb
  n="0254b29" ed="T"/></ab>
-<ab type="prose">時四大菩薩。同聲告金剛界如來言。我今現<pb n="0254c" id="T18.0867.0254c" ed="T"/><lb
+<ab type='prose'>時四大菩薩。同聲告金剛界如來言。我今現<pb n="0254c" id="T18.0867.0254c" ed="T"/><lb
  n="0254c01" ed="T"/>此神通。為欲鉤召一切有情。令入法界。以索<lb
  n="0254c02" ed="T"/>引至金剛場。以鎖堅諸藏誐。以鈴適悅彼<lb
  n="0254c03" ed="T"/>性。令快樂故。時觀自在菩薩。以手中鏡擲於<lb
  n="0254c04" ed="T"/>虛空。寂然一體還住手中。說此金剛智曰。<lb
  n="0254c05" ed="T"/></ab>
-<ab type="dharani">􆿅阿上聲<lb
+<ab type='dharani'>􆿅阿上聲<lb
  n="0254c06" ed="T"/><lb
  n="0254c07" ed="T"/></ab>
-<ab type="prose">時妙吉祥菩薩。以手中鉢惹夾擲於虛空。寂<lb
+<ab type='prose'>時妙吉祥菩薩。以手中鉢惹夾擲於虛空。寂<lb
  n="0254c08" ed="T"/>然一體還住手中。說摩尼行曰。<lb
  n="0254c09" ed="T"/></ab>
-<ab type="dharani">􆿆阿引<lb
+<ab type='dharani'>􆿆阿引<lb
  n="0254c10" ed="T"/><lb
  n="0254c11" ed="T"/></ab>
-<ab type="prose">時轉法輪菩薩。以手中輪擲於虛空。寂然一<lb
+<ab type='prose'>時轉法輪菩薩。以手中輪擲於虛空。寂然一<lb
  n="0254c12" ed="T"/>體還住手中。說蓮花定曰。<lb
  n="0254c13" ed="T"/></ab>
-<ab type="dharani">􈆰暗引<lb
+<ab type='dharani'>􈆰暗引<lb
  n="0254c14" ed="T"/><lb
  n="0254c15" ed="T"/></ab>
-<ab type="prose">時金剛言菩薩。以手中螺擲於虛空。寂然一<lb
+<ab type='prose'>時金剛言菩薩。以手中螺擲於虛空。寂然一<lb
  n="0254c16" ed="T"/>體還住手中。說此羯磨曰。<lb
  n="0254c17" ed="T"/></ab>
-<ab type="dharani">􆿔噁引<lb
+<ab type='dharani'>􆿔噁引<lb
  n="0254c18" ed="T"/><lb
  n="0254c19" ed="T"/></ab>
-<ab type="prose">時四大菩薩。同聲告金剛界如來言。我今現<lb
+<ab type='prose'>時四大菩薩。同聲告金剛界如來言。我今現<lb
  n="0254c20" ed="T"/>此神通。為欲開一切有情本有不生性故。令<lb
  n="0254c21" ed="T"/>修行萬行滿足故。令成就大菩提故。入不動<lb
  n="0254c22" ed="T"/>如如智故。<lb
  n="0254c23" ed="T"/>時金剛業菩薩。以手中綠寶擲於虛空。寂然<lb
  n="0254c24" ed="T"/>一體還住手中。說此瑜伽曰。<lb
  n="0254c25" ed="T"/></ab>
-<ab type="dharani">􆿇伊去聲引<lb
+<ab type='dharani'>􆿇伊去聲引<lb
  n="0254c26" ed="T"/><lb
  n="0254c27" ed="T"/></ab>
-<ab type="prose">時金剛護菩薩。以手中傘蓋擲於虛空。寂然<lb
+<ab type='prose'>時金剛護菩薩。以手中傘蓋擲於虛空。寂然<lb
  n="0254c28" ed="T"/>一體還住手中。說此瑜伽曰。<lb
  n="0254c29" ed="T"/></ab>
-<ab type="dharani">􆿈伊引<pb n="0255a" id="T18.0867.0255a" ed="T"/><lb
+<ab type='dharani'>􆿈伊引<pb n="0255a" id="T18.0867.0255a" ed="T"/><lb
  n="0255a01" ed="T"/><lb
  n="0255a02" ed="T"/></ab>
-<ab type="prose">時金剛蓋菩薩。以手中羯磨首擲於虛空。<lb
+<ab type='prose'>時金剛蓋菩薩。以手中羯磨首擲於虛空。<lb
  n="0255a03" ed="T"/>寂然一體還住手中。說此瑜伽曰。<lb
  n="0255a04" ed="T"/></ab>
-<ab type="dharani">􇇳污<lb
+<ab type='dharani'>􇇳污<lb
  n="0255a05" ed="T"/><lb
  n="0255a06" ed="T"/></ab>
-<ab type="prose">時金剛持菩薩。以手中月擲於虛空。寂然<lb
+<ab type='prose'>時金剛持菩薩。以手中月擲於虛空。寂然<lb
  n="0255a07" ed="T"/>一體還住手中。說此瑜伽曰。<lb
  n="0255a08" ed="T"/></ab>
-<ab type="dharani">􇇴奧上聲<lb
+<ab type='dharani'>􇇴奧上聲<lb
  n="0255a09" ed="T"/><lb
  n="0255a10" ed="T"/></ab>
-<ab type="prose">時四大菩薩。同聲告金剛界如來言。我今現<lb
+<ab type='prose'>時四大菩薩。同聲告金剛界如來言。我今現<lb
  n="0255a11" ed="T"/>此神通。為欲出生一切法。令一切有情隨其受<lb
  n="0255a12" ed="T"/>用。為欲成就如來三身。為欲成就遍周法界<lb
  n="0255a13" ed="T"/>一切有情身。為欲於生死中。得自在之樂故。<lb
  n="0255a14" ed="T"/>時四方如來。為欲現證一切如來本有金剛<lb
  n="0255a15" ed="T"/>同聲說四種一字心密言曰。<lb
  n="0255a16" ed="T"/></ab>
-<ab type="dharani">􈅼吽引<lb
+<ab type='dharani'>􈅼吽引<lb
  n="0255a17" ed="T"/><lb
  n="0255a18" ed="T"/></ab>
-<ab type="prose">時四波羅蜜菩薩。為欲利益一切有情。修行大<lb
+<ab type='prose'>時四波羅蜜菩薩。為欲利益一切有情。修行大<lb
  n="0255a19" ed="T"/>悲行願故。同聲說四種一字心方便瑜伽曰。<lb
  n="0255a20" ed="T"/></ab>
-<ab type="dharani">􈁴唵<lb
+<ab type='dharani'>􈁴唵<lb
  n="0255a21" ed="T"/><lb
  n="0255a22" ed="T"/></ab>
-<ab type="prose">時內修供養天女使者。為欲顯如來內神通<lb
+<ab type='prose'>時內修供養天女使者。為欲顯如來內神通<lb
  n="0255a23" ed="T"/>遊戲喜鬘歌舞等供養。同聲說此四種一字<lb
  n="0255a24" ed="T"/>金剛心。<lb
  n="0255a25" ed="T"/></ab>
-<ab type="dharani">􈉦鵠<lb
+<ab type='dharani'>􈉦鵠<lb
  n="0255a26" ed="T"/><lb
  n="0255a27" ed="T"/></ab>
-<ab type="prose">時外供養天女使者。為欲令一切有情。諸行<lb
+<ab type='prose'>時外供養天女使者。為欲令一切有情。諸行<lb
  n="0255a28" ed="T"/>速得圓滿故。說此四種一字心。<lb
  n="0255a29" ed="T"/></ab>
-<ab type="dharani">􈅼吽引<pb n="0255b" id="T18.0867.0255b" ed="T"/><lb
+<ab type='dharani'>􈅼吽引<pb n="0255b" id="T18.0867.0255b" ed="T"/><lb
  n="0255b01" ed="T"/><lb
  n="0255b02" ed="T"/></ab>
-<ab type="prose">時四門使者天女。為欲攝入一切有情。至法<lb
+<ab type='prose'>時四門使者天女。為欲攝入一切有情。至法<lb
  n="0255b03" ed="T"/>界宮故。同聲說此四種一字心。<lb
  n="0255b04" ed="T"/></ab>
-<ab type="dharani">􈅛吽引<lb
+<ab type='dharani'>􈅛吽引<lb
  n="0255b05" ed="T"/><lb
  n="0255b06" ed="T"/></ab>
-<ab type="prose">時金剛界如來。復說窣覩波法界普賢一<lb
+<ab type='prose'>時金剛界如來。復說窣覩波法界普賢一<lb
  n="0255b07" ed="T"/>字心密言曰。<lb
  n="0255b08" ed="T"/></ab>
-<ab type="dharani">􈆯鑁<lb
+<ab type='dharani'>􈆯鑁<lb
  n="0255b09" ed="T"/><lb
  n="0255b10" ed="T"/></ab>
-<ab type="prose">爾時金剛界如來。復告金剛手言。若有善男<lb
+<ab type='prose'>爾時金剛界如來。復告金剛手言。若有善男<lb
  n="0255b11" ed="T"/>子善女人。受持此深密瑜伽金剛一切如來<lb
  n="0255b12" ed="T"/>大勝金剛心瑜伽。成就三十七尊自覺聖智<lb
  n="0255b13" ed="T"/>者。應用金剛界中三十七羯磨印成就。常當<lb
@@ -235,7 +235,7 @@
  n="0255b20" ed="T"/>得大普賢薩埵之身。爾時金剛界普賢如來。<lb
  n="0255b21" ed="T"/>以偈讚曰。<lb
  n="0255b22" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 大有金剛性　　光明遍照王　　<lb
  n="0255b23" ed="T"/>清淨妙蓮染　　無為而作業　　<lb
  n="0255b24" ed="T"/>金剛鉤召起　　熾盛威三界　　<lb
@@ -254,19 +254,19 @@
  n="0255c08" ed="T"/>次誦一字明　　結大羯磨印　　<lb
  n="0255c09" ed="T"/>時時不間斷　　三十七圓滿　　
 </ab></div><lb
- n="0255c10" ed="T"/><div type="pin" level="2"><head>一切如來金剛最勝王義利堅固染愛王心品<lb
+ n="0255c10" ed="T"/><div type='pin' level='2'><head>一切如來金剛最勝王義利堅固染愛王心品<lb
  n="0255c11" ed="T"/>第二</head><lb
- n="0255c12" ed="T"/><ab type="prose">爾時世尊。復入馬陰藏三摩地。一切如來幽<lb
+ n="0255c12" ed="T"/><ab type='prose'>爾時世尊。復入馬陰藏三摩地。一切如來幽<lb
  n="0255c13" ed="T"/>隱玄深。寂靜熾然。光明勇猛忿怒威峻。師<lb
  n="0255c14" ed="T"/>子吼音。振動電掣。天鼓鳴。香象王聲。大金<lb
  n="0255c15" ed="T"/>剛聲。大商佉聲。作如是等聲。時金剛手及金<lb
  n="0255c16" ed="T"/>剛持等菩薩。見如是相巳。齊聲讚曰。<lb
  n="0255c17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 諸佛甚奇特　　金剛振吼音　　<lb
  n="0255c18" ed="T"/>欲說何法教　　願如來敷演　　
 </ab><lb
- n="0255c19" ed="T"/><ab type="prose">時金剛界如來。告金剛手等言。金剛手有真<lb
+ n="0255c19" ed="T"/><ab type='prose'>時金剛界如來。告金剛手等言。金剛手有真<lb
  n="0255c20" ed="T"/>言。名一切如來金剛最勝王義利堅固染愛<lb
  n="0255c21" ed="T"/>王心真言。於一切瑜伽中。最尊最勝。速獲悉<lb
  n="0255c22" ed="T"/>地。能令一切見者。皆生父母妻子之想。所作<lb
@@ -277,14 +277,14 @@
  n="0255c27" ed="T"/>羅王。皆悉集會。一時與成就。速得大金剛<lb
  n="0255c28" ed="T"/>位乃至普賢菩薩位。爾時世尊即說明曰。<lb
  n="0255c29" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄗥摩􄚩訶引􄗽囉􄑘誐􄙖嚩􄒾日囉二合􈃇瑟抳二合􄙮沙<pb n="0256a" id="T18.0867.0256a" ed="T"/><lb
+<ab type='dharani'>􇩂唵􄗥摩􄚩訶引􄗽囉􄑘誐􄙖嚩􄒾日囉二合􈃇瑟抳二合􄙮沙<pb n="0256a" id="T18.0867.0256a" ed="T"/><lb
  n="0256a01" ed="T"/><lb
  n="0256a02" ed="T"/>􄙖嚩􄦽日囉二合􄙺薩􄽙怛嚩二合􈆲惹引􈅼吽引􄙠鑁􈁟斛引<lb
  n="0256a03" ed="T"/><lb
  n="0256a04" ed="T"/></ab>
-<ab type="prose">爾時世尊復說頌曰。<lb
+<ab type='prose'>爾時世尊復說頌曰。<lb
  n="0256a05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 二手金剛拳　　相叉內為縛　　<lb
  n="0256a06" ed="T"/>直竪忍願針　　相交即成染　　<lb
  n="0256a07" ed="T"/>是名根本印　　若持此真言　　<lb
@@ -296,16 +296,16 @@
  n="0256a13" ed="T"/>若毒若相憎　　纔結誦當息　　<lb
  n="0256a14" ed="T"/>加持食七遍　　我當降甘露　　
 </ab></div><lb
- n="0256a15" ed="T"/><div type="pin" level="2"><head>攝一切如來大阿闍梨位品第三</head><lb
- n="0256a16" ed="T"/><ab type="prose">爾時金剛界如來。復入一切如來眼色如明<lb
+ n="0256a15" ed="T"/><div type='pin' level='2'><head>攝一切如來大阿闍梨位品第三</head><lb
+ n="0256a16" ed="T"/><ab type='prose'>爾時金剛界如來。復入一切如來眼色如明<lb
  n="0256a17" ed="T"/>照三摩地。復說攝一切阿闍梨行位真言曰。<lb
  n="0256a18" ed="T"/></ab>
-<ab type="dharani">􇩂唵引􄙖嚩􄦽日囉二合􈂼素􈆳訖叉麼三合􄗥□<lb
+<ab type='dharani'>􇩂唵引􄙖嚩􄦽日囉二合􈂼素􈆳訖叉麼三合􄗥□<lb
  n="0256a19" ed="T"/><lb
  n="0256a20" ed="T"/>􄚩□􄙺薩􄽙怛嚩二合􈅼吽􈅼吽<lb
  n="0256a21" ed="T"/><lb
  n="0256a22" ed="T"/></ab>
-<ab type="prose">若真言行者。持此明日日誦持。經一月所。是<lb
+<ab type='prose'>若真言行者。持此明日日誦持。經一月所。是<lb
  n="0256a23" ed="T"/>一切阿闍梨所修行法事。一切智慧。通達義<lb
  n="0256a24" ed="T"/>利。善巧方便速當獲得。一切如來常應覆<lb
  n="0256a25" ed="T"/>護。金剛薩埵常為親友。常住行人心中。所憶<lb
@@ -317,19 +317,19 @@
  n="0256b02" ed="T"/>位法性大日之身。一切見者皆悉禮足。降伏<lb
  n="0256b03" ed="T"/>歡喜。其印以定慧手。屈肘向上合掌。與肩<lb
  n="0256b04" ed="T"/>齊。各屈戒方忍願入掌。或坐或立皆成就。</ab></div><lb
- n="0256b05" ed="T"/><div type="pin" level="2"><head>金剛薩埵冒地心品第四</head><lb
- n="0256b06" ed="T"/><ab type="prose">爾時世尊。復說一切有情本有金剛光明遍<lb
+ n="0256b05" ed="T"/><div type='pin' level='2'><head>金剛薩埵冒地心品第四</head><lb
+ n="0256b06" ed="T"/><ab type='prose'>爾時世尊。復說一切有情本有金剛光明遍<lb
  n="0256b07" ed="T"/>照。清淨不染本來寂靜。常恒三世無有休息。<lb
  n="0256b08" ed="T"/>金剛堅固薩埵。真實大覺本來寂然熾盛。觀<lb
  n="0256b09" ed="T"/>一切有情金剛平等性。即說金剛薩埵菩提<lb
  n="0256b10" ed="T"/>心明曰。<lb
  n="0256b11" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄙖嚩引􄦽日囉二合􄑈句􄙢舍􄗕沒􄕽馱<lb
+<ab type='dharani'>􇩂唵􄙖嚩引􄦽日囉二合􄑈句􄙢舍􄗕沒􄕽馱<lb
  n="0256b12" ed="T"/><lb
  n="0256b13" ed="T"/>􄑾涅􆽖哆􈅼吽引<lb
  n="0256b14" ed="T"/><lb
  n="0256b15" ed="T"/></ab>
-<ab type="prose">金剛手若有持此真言者。即當親近諸佛為<lb
+<ab type='prose'>金剛手若有持此真言者。即當親近諸佛為<lb
  n="0256b16" ed="T"/>長子。於普賢中亦為上首。若日日持此真言<lb
  n="0256b17" ed="T"/>七遍。即當見世替諸佛。現生救度有情。名<lb
  n="0256b18" ed="T"/>大金剛薩埵。亦名大覺本有金剛。若有側近<lb
@@ -339,18 +339,18 @@
  n="0256b22" ed="T"/>行願力故。替諸佛行行救度有情故。以能供<lb
  n="0256b23" ed="T"/>諸佛。同行行願。於一切法。平等薩埵。其印二<lb
  n="0256b24" ed="T"/>羽內相叉。各以禪智捻進力。</ab></div><lb
- n="0256b25" ed="T"/><div type="pin" level="2"><head>愛染王品第五</head><lb
- n="0256b26" ed="T"/><ab type="prose">爾時金剛手復白佛言。世尊我今更說愛染<lb
+ n="0256b25" ed="T"/><div type='pin' level='2'><head>愛染王品第五</head><lb
+ n="0256b26" ed="T"/><ab type='prose'>爾時金剛手復白佛言。世尊我今更說愛染<lb
  n="0256b27" ed="T"/>王。一切如來共成就雜法悉地。及畫像法。<lb
  n="0256b28" ed="T"/></ab>
-<ab type="dharani">扇底迦布瑟置迦嚩始迦囉拏<lb
+<ab type='dharani'>扇底迦布瑟置迦嚩始迦囉拏<lb
  n="0256b29" ed="T"/>伽多耶阿毘左嚕迦法等<pb n="0256c" id="T18.0867.0256c" ed="T"/><lb
  n="0256c01" ed="T"/></ab>
-<ab type="prose">爾時遍照薄伽梵。告金剛手言。我已說於一<lb
+<ab type='prose'>爾時遍照薄伽梵。告金剛手言。我已說於一<lb
  n="0256c02" ed="T"/>切如來所。曾修學。汝今為諸末法世中善男<lb
  n="0256c03" ed="T"/>子善女人等。廣說利樂。時金剛手以偈頌曰。<lb
  n="0256c04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 於白月鬼宿　　取淨白素㲲　　<lb
  n="0256c05" ed="T"/>畫愛染金剛　　身色如日暉　　<lb
  n="0256c06" ed="T"/>住於熾盛輪　　三目威怒視　　<lb
@@ -393,12 +393,12 @@
  n="0257a18" ed="T"/>護世四天王　　速除令失命　　<lb
  n="0257a19" ed="T"/>復說愛染王　　
 </ab><lb
- n="0257a20" ed="T"/><ab type="prose">一字心明曰。<lb
+ n="0257a20" ed="T"/><ab type='prose'>一字心明曰。<lb
  n="0257a21" ed="T"/></ab>
-<ab type="dharani">􈅛吽引􄓚吒􄑂枳􈆭吽引􈆲惹入聲<lb
+<ab type='dharani'>􈅛吽引􄓚吒􄑂枳􈆭吽引􈆲惹入聲<lb
  n="0257a22" ed="T"/><lb
  n="0257a23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 復說根本印　　二手金剛縛　　<lb
  n="0257a24" ed="T"/>忍願竪相合　　進力如鉤形　　<lb
  n="0257a25" ed="T"/>檀慧與禪智　　竪合如五峯　　<lb
@@ -422,16 +422,16 @@
  n="0257b14" ed="T"/>金剛央俱施　　一切時作業　　<lb
  n="0257b15" ed="T"/>大染金剛頂　　五密印說竟　　
 </ab></div><lb
- n="0257b16" ed="T"/><div type="pin" level="2"><head>一切佛頂最上遍照王勝義難摧摧邪一切處<lb
+ n="0257b16" ed="T"/><div type='pin' level='2'><head>一切佛頂最上遍照王勝義難摧摧邪一切處<lb
  n="0257b17" ed="T"/>瑜伽四行攝法品第六</head><lb
- n="0257b18" ed="T"/><ab type="prose">爾時金剛手。復說一切處無不相應真言曰。<lb
+ n="0257b18" ed="T"/><ab type='prose'>爾時金剛手。復說一切處無不相應真言曰。<lb
  n="0257b19" ed="T"/></ab>
-<ab type="dharani">􈁴唵􄙖嚩􄦽日囉二合􄙺薩􄽙怛嚩二合􈆲惹<lb
+<ab type='dharani'>􈁴唵􄙖嚩􄦽日囉二合􄙺薩􄽙怛嚩二合􈆲惹<lb
  n="0257b20" ed="T"/><lb
  n="0257b21" ed="T"/>􈅼吽引􈆯鑁􈁟斛<lb
  n="0257b22" ed="T"/><lb
  n="0257b23" ed="T"/></ab>
-<ab type="prose">復白佛言。世尊此四行攝法。於一切處一切<lb
+<ab type='prose'>復白佛言。世尊此四行攝法。於一切處一切<lb
  n="0257b24" ed="T"/>事世間染愛及世間一切法。皆生四攝行想。<lb
  n="0257b25" ed="T"/>起慈鉤悲引喜縛捨等。但於一切事處。皆<lb
  n="0257b26" ed="T"/>生此四攝行法。於一切聲聞獨覺乘中。常<lb
@@ -445,38 +445,38 @@
  n="0257c05" ed="T"/>處。生無違相。用此四種眼法。常於一切時。起<lb
  n="0257c06" ed="T"/>壞二乘心。誦此壞二乘心真言曰。<lb
  n="0257c07" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄗥摩􄚩訶引􄗱野􅑈怛那二合􄙖嚩􄦽日囉二合<lb
+<ab type='dharani'>􇩂唵􄗥摩􄚩訶引􄗱野􅑈怛那二合􄙖嚩􄦽日囉二合<lb
  n="0257c08" ed="T"/><lb
  n="0257c09" ed="T"/>􄙺薩􄽙怛嚩二合􄙺薩􅞣嚩􄕻達􅝝磨􄙘尾􄙦戍􇧼馱<lb
  n="0257c10" ed="T"/><lb
  n="0257c11" ed="T"/>􈅼吽<lb
  n="0257c12" ed="T"/><lb
  n="0257c13" ed="T"/></ab>
-<ab type="prose">常誦此真言。於一切時。觀察自心。壞一切<lb
+<ab type='prose'>常誦此真言。於一切時。觀察自心。壞一切<lb
  n="0257c14" ed="T"/>執著。觀一切法本來清淨。由此福德增長。於<lb
  n="0257c15" ed="T"/>現生獲得一切法清淨金剛乘金剛性。增長<lb
  n="0257c16" ed="T"/>一切福德。一切如來常所加護。一切金剛常<lb
  n="0257c17" ed="T"/>以破業。令於現生證大金剛位處。</ab></div><lb
- n="0257c18" ed="T"/><div type="pin" level="2"><head>一切如來大勝金剛心瑜伽成就品第七</head><lb
- n="0257c19" ed="T"/><ab type="prose">爾時金剛手。復說成就金剛薩埵。一字心大<lb
+ n="0257c18" ed="T"/><div type='pin' level='2'><head>一切如來大勝金剛心瑜伽成就品第七</head><lb
+ n="0257c19" ed="T"/><ab type='prose'>爾時金剛手。復說成就金剛薩埵。一字心大<lb
  n="0257c20" ed="T"/>勝心相應。說此真言曰。<lb
  n="0257c21" ed="T"/></ab>
-<ab type="dharani">􇩴吽引􄙼蘇悉􇧻地<lb
+<ab type='dharani'>􇩴吽引􄙼蘇悉􇧻地<lb
  n="0257c22" ed="T"/><lb
  n="0257c23" ed="T"/></ab>
-<ab type="prose">復次真言。若常誦持。得一切天人愛敬降伏。<lb
+<ab type='prose'>復次真言。若常誦持。得一切天人愛敬降伏。<lb
  n="0257c24" ed="T"/>能令一切人見者歡喜。能成就一切心願。悉皆<lb
  n="0257c25" ed="T"/>圓滿。速得成就金剛薩埵身悉地。現生世間。<lb
  n="0257c26" ed="T"/>獲得一切法平等金剛心。時會中諸地菩薩。各<lb
  n="0257c27" ed="T"/>各以神力以福德威光。歎金剛手說偈言。<lb
  n="0257c28" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 一切諸菩薩　　所不能見聞　　<lb
  n="0257c29" ed="T"/>今演此法教　　善解我心密　　<pb n="0258a" id="T18.0867.0258a" ed="T"/><lb
  n="0258a01" ed="T"/>諸法無自性　　無願無染淨　　<lb
  n="0258a02" ed="T"/>金剛一為乘　　不壞諸法教　　
 </ab><lb
- n="0258a03" ed="T"/><ab type="prose">時會中忽有一障不從空生。亦不從他方而<lb
+ n="0258a03" ed="T"/><ab type='prose'>時會中忽有一障不從空生。亦不從他方而<lb
  n="0258a04" ed="T"/>來。亦不從地出忽然而現。諸菩薩各如醉<lb
  n="0258a05" ed="T"/>不知所從來處。時薄伽梵面門微笑。告金剛<lb
  n="0258a06" ed="T"/>手及諸菩薩等言。此障從何而來。從一切眾<lb
@@ -489,7 +489,7 @@
  n="0258a13" ed="T"/>欲說此自生障金剛頂法。唯願許我解說。時<lb
  n="0258a14" ed="T"/>金剛手承佛聖旨。而說頌曰。<lb
  n="0258a15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若諸真言師　　持誦真言法　　<lb
  n="0258a16" ed="T"/>於一散亂心　　此障即為便　　<lb
  n="0258a17" ed="T"/>能奪真言師　　所修功德業　　<lb
@@ -505,10 +505,10 @@
  n="0258a27" ed="T"/>自性所生障　　無得此方便　　<lb
  n="0258a28" ed="T"/>決定同金剛　　三界無能越　　
 </ab><lb
- n="0258a29" ed="T"/><ab type="prose">時自性障聞此語已。忽然不現。</ab></div><pb n="0258b" id="T18.0867.0258b" ed="T"/><lb
- n="0258b01" ed="T"/><div type="pin" level="2"><head>一切如來大勝金剛頂最勝真實大三昧耶<lb
+ n="0258a29" ed="T"/><ab type='prose'>時自性障聞此語已。忽然不現。</ab></div><pb n="0258b" id="T18.0867.0258b" ed="T"/><lb
+ n="0258b01" ed="T"/><div type='pin' level='2'><head>一切如來大勝金剛頂最勝真實大三昧耶<lb
  n="0258b02" ed="T"/>品第八</head><lb
- n="0258b03" ed="T"/><ab type="prose">爾時遍照薄伽梵。復現種種光明。於頂上放<lb
+ n="0258b03" ed="T"/><ab type='prose'>爾時遍照薄伽梵。復現種種光明。於頂上放<lb
  n="0258b04" ed="T"/>金剛威怒光明。照諸菩薩。金剛手等皆各默<lb
  n="0258b05" ed="T"/>然。復現身手。具十二臂。持智拳印。復持五<lb
  n="0258b06" ed="T"/>山峯金剛蓮華摩尼羯磨鉤索鎖鈴智劍法<lb
@@ -516,14 +516,14 @@
  n="0258b08" ed="T"/>五髻光明。其光無主遍於十方。面門微笑。即<lb
  n="0258b09" ed="T"/>說大勝金剛頂最勝真實大三昧耶真言曰。<lb
  n="0258b10" ed="T"/></ab>
-<ab type="dharani">􈁴唵􄗥摩􄚩訶引􄙖嚩􄧅日囉二合􈃇瑟抳二合􄙮灑<lb
+<ab type='dharani'>􈁴唵􄗥摩􄚩訶引􄙖嚩􄧅日囉二合􈃇瑟抳二合􄙮灑<lb
  n="0258b11" ed="T"/><lb
  n="0258b12" ed="T"/>􈅼吽􄩩怛𠸪二合􇩵紇哩二合􆿔噁􈅼吽引<lb
  n="0258b13" ed="T"/><lb
  n="0258b14" ed="T"/></ab>
-<ab type="prose">說此明已復說頌曰。<lb
+<ab type='prose'>說此明已復說頌曰。<lb
  n="0258b15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 十方淨妙國　　三世及三界　　<lb
  n="0258b16" ed="T"/>最尊獨無比　　此大轉輪王　　<lb
  n="0258b17" ed="T"/>能摧諸佛頂　　能攝諸等覺　　<lb
@@ -555,78 +555,78 @@
  n="0258c14" ed="T"/>隨作皆成就　　一切願皆滿　　<lb
  n="0258c15" ed="T"/>成就最勝尊　　金剛頂明曰　　
 </ab><lb
- n="0258c16" ed="T"/><ab type="dharani">􈁴唵􄙖嚩􄦽日囉二合􄙺薩􄽙怛嚩二合􄑈句􄙢捨<lb
+ n="0258c16" ed="T"/><ab type='dharani'>􈁴唵􄙖嚩􄦽日囉二合􄙺薩􄽙怛嚩二合􄑈句􄙢捨<lb
  n="0258c17" ed="T"/><lb
  n="0258c18" ed="T"/>􈅼吽引<lb
  n="0258c19" ed="T"/><lb
  n="0258c20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 成就金剛手　　最勝摩尼曰　　
 </ab><lb
- n="0258c21" ed="T"/><ab type="dharani">􈁴唵􄙖嚩􄦽日囉二合􄗽囉􅑈怛那二合􄑈句􄙣捨􄩩怛𠸪二合<lb
+ n="0258c21" ed="T"/><ab type='dharani'>􈁴唵􄙖嚩􄦽日囉二合􄗽囉􅑈怛那二合􄑈句􄙣捨􄩩怛𠸪二合<lb
  n="0258c22" ed="T"/><lb
  n="0258c23" ed="T"/><lb
  n="0258c24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 成就金剛手　　蓮華最勝心　　
 </ab><lb
- n="0258c25" ed="T"/><ab type="dharani">􈁴唵􄙖嚩􄦽日囉二合􄕻達􅝝摩􄑈句􄙢舍􇩵紇哩二合<lb
+ n="0258c25" ed="T"/><ab type='dharani'>􈁴唵􄙖嚩􄦽日囉二合􄕻達􅝝摩􄑈句􄙢舍􇩵紇哩二合<lb
  n="0258c26" ed="T"/><lb
  n="0258c27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 成就金剛手　　巧業最勝心　　
 </ab><lb
- n="0258c28" ed="T"/><ab type="dharani">􈁴唵􄙖嚩􄦽日囉二合􄑀羯􅝝磨􄑈句􄙢舍􆿔噁入聲<lb
+ n="0258c28" ed="T"/><ab type='dharani'>􈁴唵􄙖嚩􄦽日囉二合􄑀羯􅝝磨􄑈句􄙢舍􆿔噁入聲<lb
  n="0258c29" ed="T"/><pb n="0259a" id="T18.0867.0259a" ed="T"/><lb
  n="0259a01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 成就金剛鉤　　最勝者能鉤　　
 </ab><lb
- n="0259a02" ed="T"/><ab type="dharani">􈁴唵􄙖嚩􄦽日囉二合􄙺薩􄽚怛鑁􄑄句􄙢捨􈆲惹入聲<lb
+ n="0259a02" ed="T"/><ab type='dharani'>􈁴唵􄙖嚩􄦽日囉二合􄙺薩􄽚怛鑁􄑄句􄙢捨􈆲惹入聲<lb
  n="0259a03" ed="T"/><lb
  n="0259a04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 成就金剛索　　最勝者能引　　
 </ab><lb
- n="0259a05" ed="T"/><ab type="dharani">􈁴唵􄙖嚩􄦽日囉二合􄗽囉􇩋怛那二合􄖶播􄙢捨􆿁吽引<lb
+ n="0259a05" ed="T"/><ab type='dharani'>􈁴唵􄙖嚩􄦽日囉二合􄗽囉􇩋怛那二合􄖶播􄙢捨􆿁吽引<lb
  n="0259a06" ed="T"/><lb
  n="0259a07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 成就金剛鎖　　最勝者能縛　　
 </ab><lb
- n="0259a08" ed="T"/><ab type="dharani">􈁴唵􄙖嚩􄦽日囉二合􄖵鉢􇪯納麼二合􆷵娑破二合􈁆吒<lb
+ n="0259a08" ed="T"/><ab type='dharani'>􈁴唵􄙖嚩􄦽日囉二合􄖵鉢􇪯納麼二合􆷵娑破二合􈁆吒<lb
  n="0259a09" ed="T"/><lb
  n="0259a10" ed="T"/>􈆯鑁<lb
  n="0259a11" ed="T"/><lb
  n="0259a12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 成就金剛鈴　　最勝者能喜　　
 </ab><lb
- n="0259a13" ed="T"/><ab type="dharani">􈁴唵􄙖嚩􄦽日囉二合􄑀羯􅝝磨􄑢欠􈁆吒􈁟斛<lb
+ n="0259a13" ed="T"/><ab type='dharani'>􈁴唵􄙖嚩􄦽日囉二合􄑀羯􅝝磨􄑢欠􈁆吒􈁟斛<lb
  n="0259a14" ed="T"/><lb
  n="0259a15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 由持八大明　　能成百千事　　<lb
  n="0259a16" ed="T"/>印如金剛界　　真言者當知　　<lb
  n="0259a17" ed="T"/>一切難勝者　　應用此印明　　<lb
  n="0259a18" ed="T"/>復次金剛劍　　密語應當知　　
 </ab><lb
- n="0259a19" ed="T"/><ab type="dharani">􈁴唵􄙖嚩􄦽日囉二合􄙺薩􄽙怛嚩二合􄕚底􈁵訖叉拏三合<lb
+ n="0259a19" ed="T"/><ab type='dharani'>􈁴唵􄙖嚩􄦽日囉二合􄙺薩􄽙怛嚩二合􄕚底􈁵訖叉拏三合<lb
  n="0259a20" ed="T"/><lb
  n="0259a21" ed="T"/>􈅼吽引<lb
  n="0259a22" ed="T"/><lb
  n="0259a23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 能壞無智城　　能生諸佛慧　　<lb
  n="0259a24" ed="T"/>印同妙吉祥　　羯磨三昧耶　　<lb
  n="0259a25" ed="T"/>復次金剛輪　　密語應當聽　　
 </ab><lb
- n="0259a26" ed="T"/><ab type="dharani">􈁴唵􄙖嚩􄦽日囉二合􄑼斫􄥇訖囉二合􈅼吽引􈆲惹<lb
+ n="0259a26" ed="T"/><ab type='dharani'>􈁴唵􄙖嚩􄦽日囉二合􄑼斫􄥇訖囉二合􈅼吽引􈆲惹<lb
  n="0259a27" ed="T"/><lb
  n="0259a28" ed="T"/>􈅼吽引􈆯鑁􈁟斛􇩴吽<lb
  n="0259a29" ed="T"/><pb n="0259b" id="T18.0867.0259b" ed="T"/><lb
  n="0259b01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 二羽金剛拳　　檀慧與進力　　<lb
  n="0259b02" ed="T"/>四度互鉤結　　是名彼密印　　<lb
  n="0259b03" ed="T"/>若真言行者　　不作曼拏羅　　<lb
@@ -636,7 +636,7 @@
  n="0259b07" ed="T"/>更無過上味　　復次四攝明　　<lb
  n="0259b08" ed="T"/>密語應當說　　
 </ab><lb
- n="0259b09" ed="T"/><ab type="dharani">􈁴唵􄙺薩􅞣嚩􄕗怛􄕤他引􄑘誐􈂩擔􄑄句􄙨始􈅼吽引<lb
+ n="0259b09" ed="T"/><ab type='dharani'>􈁴唵􄙺薩􅞣嚩􄕗怛􄕤他引􄑘誐􈂩擔􄑄句􄙨始􈅼吽引<lb
  n="0259b10" ed="T"/><lb
  n="0259b11" ed="T"/>􈆲惹入聲<lb
  n="0259b12" ed="T"/><lb
@@ -651,17 +651,17 @@
  n="0259b21" ed="T"/>􈁴唵􄙺薩􇩆嚩􄕗怛􄕤他引􄑘誐􄕘多引􄙝尾􄙢舍􈅼吽􈁟斛<lb
  n="0259b22" ed="T"/><lb
  n="0259b23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 纔誦此密言　　十六大菩薩　　<lb
  n="0259b24" ed="T"/>從法界出生　　各持本幖幟　　<lb
  n="0259b25" ed="T"/>次誦八供養　　及以四攝明　　<lb
  n="0259b26" ed="T"/>即成大圓壇　　次誦本尊句　　<lb
  n="0259b27" ed="T"/>八供及四攝　　密言次當說　　
 </ab><lb
- n="0259b28" ed="T"/><ab type="dharani">􈁴唵􄙺薩􅞣嚩􈁂布􄒶惹􈆲惹入聲􈅼吽引􈆯鑁􈁟斛<lb
+ n="0259b28" ed="T"/><ab type='dharani'>􈁴唵􄙺薩􅞣嚩􈁂布􄒶惹􈆲惹入聲􈅼吽引􈆯鑁􈁟斛<lb
  n="0259b29" ed="T"/><pb n="0259c" id="T18.0867.0259c" ed="T"/><lb
  n="0259c01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 復次祕密主　　我此心最心　　<lb
  n="0259c02" ed="T"/>更說祕密法　　佛名五瑜伽　　<lb
  n="0259c03" ed="T"/>當觀遍照主　　自身悉同等　　<lb
@@ -683,15 +683,15 @@
  n="0259c19" ed="T"/>一心觀佛心　　歡喜而安住　　
 </ab></div><lb
  n="0259c20" ed="T"/>
-<ab type="juan" subtype="close">金剛峯樓閣一切瑜伽瑜祇經卷上</ab><lb
+<ab type='juan' subtype='close'>金剛峯樓閣一切瑜伽瑜祇經卷上</ab><lb
  n="0259c21" ed="T"/><lb
  n="0259c22" ed="T"/>
-<ab type="juan" subtype="open">金剛峯樓閣一切瑜伽瑜祇經卷<lb
+<ab type='juan' subtype='open'>金剛峯樓閣一切瑜伽瑜祇經卷<lb
  n="0259c23" ed="T"/>下</ab><lb
  n="0259c24" ed="T"/><lb
  n="0259c25" ed="T"/><byline>唐南天竺國三藏沙門金剛智譯</byline><lb
- n="0259c26" ed="T"/><div type="pin" level="2"><head>金剛吉祥大成就品第九</head><lb
- n="0259c27" ed="T"/><ab type="prose">爾時金剛薩埵。復於一切如來前。說一切<lb
+ n="0259c26" ed="T"/><div type='pin' level='2'><head>金剛吉祥大成就品第九</head><lb
+ n="0259c27" ed="T"/><ab type='prose'>爾時金剛薩埵。復於一切如來前。說一切<lb
  n="0259c28" ed="T"/>佛眼大金剛吉祥一切佛母心。出生一切法。<lb
  n="0259c29" ed="T"/>成就一切明。能滿一切願。能除一切不祥。<pb n="0260a" id="T18.0867.0260a" ed="T"/><lb
  n="0260a01" ed="T"/>能生一切福。能滅一切罪。能令一切有<lb
@@ -711,7 +711,7 @@
  n="0260a15" ed="T"/>出生一切佛母金剛吉祥。顧視一切方所。說<lb
  n="0260a16" ed="T"/>根本明王曰。<lb
  n="0260a17" ed="T"/></ab>
-<ab type="dharani">􄖩曩􄗭謨􄗙婆􄑘誐􄙖嚩􄕟底􈃇瑟抳二合􄙮沙􈁴唵􄙂嚕<lb
+<ab type='dharani'>􄖩曩􄗭謨􄗙婆􄑘誐􄙖嚩􄕟底􈃇瑟抳二合􄙮沙􈁴唵􄙂嚕<lb
  n="0260a18" ed="T"/><lb
  n="0260a19" ed="T"/>􄙂嚕􆷵娑跛二合􄙂嚕􈁊入嚩二合􄙊攞􄕙底􆵋瑟吒二合<lb
  n="0260a20" ed="T"/><lb
@@ -720,7 +720,7 @@
  n="0260a23" ed="T"/>􄙻娑􄕻馱􄖫𩕳􄗷曳􅁥娑嚩二合􄚩訶引<lb
  n="0260a24" ed="T"/><lb
  n="0260a25" ed="T"/></ab>
-<ab type="prose">爾時佛母。告諸如來言。若有金剛生金剛子<lb
+<ab type='prose'>爾時佛母。告諸如來言。若有金剛生金剛子<lb
  n="0260a26" ed="T"/>等。常持此明者。身如金剛山。如金剛杵。如<lb
  n="0260a27" ed="T"/>金剛頂峯。如金剛界如來。如彼薩埵金剛。如<lb
  n="0260a28" ed="T"/>彼蓮華手。如彼虛空寶。如彼毘首羯磨。如<lb
@@ -753,7 +753,7 @@
  n="0260b26" ed="T"/>輪王皆悉供養圍遶誦妙伽陀一百八名大<lb
  n="0260b27" ed="T"/>金剛吉祥無上勝。讚曰。<lb
  n="0260b28" ed="T"/></ab>
-<ab type="dharani">􄙖嚩􄦽日囉二合􄙺薩􄽙怛嚩二合􄗥摩􄚩訶引􄙺薩<lb
+<ab type='dharani'>􄙖嚩􄦽日囉二合􄙺薩􄽙怛嚩二合􄗥摩􄚩訶引􄙺薩<lb
  n="0260b29" ed="T"/><pb n="0260c" id="T18.0867.0260c" ed="T"/><lb
  n="0260c01" ed="T"/>􄽙怛嚩二合􄙖嚩􄦽日囉二合􄗾囉􄒶惹􄗥摩􄚩訶引<lb
  n="0260c02" ed="T"/><lb
@@ -785,20 +785,20 @@
  n="0260c28" ed="T"/><lb
  n="0260c29" ed="T"/>􄕻達􅝝摩􄙖嚩􄦿日哩二合􄖩南􄗭謨􆶭窣覩􄕝帝<pb n="0261a" id="T18.0867.0261a" ed="T"/><lb
  n="0261a01" ed="T"/><lb
- n="0261a02" ed="T"/>􄕻達􆍇弭􄙖嚩􄧀日哩二合􄖩南􄗭謨􆶭窣覩􄕝帝<lb
+ n="0261a02" ed="T"/>􄕻達􈖩弭􄙖嚩􄧀日哩二合􄖩南􄗭謨􆶭窣覩􄕝帝<lb
  n="0261a03" ed="T"/><lb
  n="0261a04" ed="T"/>􄑀羯􅝝磨􄙖嚩􄦿日哩二合􄖩南􄗭謨􆶭窣覩􄕝帝<lb
  n="0261a05" ed="T"/><lb
- n="0261a06" ed="T"/>􄑀羯􆍇弭􄙖嚩􄧀日哩二合􄖩南􄗭謨􆶭窣覩􄕝帝<lb
+ n="0261a06" ed="T"/>􄑀羯􈖩弭􄙖嚩􄧀日哩二合􄖩南􄗭謨􆶭窣覩􄕝帝<lb
  n="0261a07" ed="T"/><lb
  n="0261a08" ed="T"/>􄙖嚩􄦽日囉二合􄙺薩􄽙怛嚩二合􄖩南􄗭謨􆶭窣覩􄕝帝<lb
  n="0261a09" ed="T"/><lb
  n="0261a10" ed="T"/>􄙖嚩􄦿日哩二合􄙺薩􄽛怛吠二合􄖩南􄗭謨􆶭窣覩􄕝帝<lb
  n="0261a11" ed="T"/><lb
  n="0261a12" ed="T"/></ab>
-<ab type="prose">嚩日哩囉𡁠南謨窣覩帝<lb
+<ab type='prose'>嚩日哩囉𡁠南謨窣覩帝<lb
  n="0261a13" ed="T"/></ab>
-<ab type="dharani">􄙖嚩􄦽日囉􄗾囉􄒶惹􄖩南􄗭謨引􆶭窣覩二合􄕝帝<lb
+<ab type='dharani'>􄙖嚩􄦽日囉􄗾囉􄒶惹􄖩南􄗭謨引􆶭窣覩二合􄕝帝<lb
  n="0261a14" ed="T"/><lb
  n="0261a15" ed="T"/>􄙖嚩􄦽日囉􄗾囉􄑘誐􄖩南􄗭謨引􆶭窣覩二合􄕝帝<lb
  n="0261a16" ed="T"/><lb
@@ -880,7 +880,7 @@
  n="0262a08" ed="T"/><lb
  n="0262a09" ed="T"/>􄕝帝<lb
  n="0262a10" ed="T"/><lb
- n="0262a11" ed="T"/>􄙖嚩􄦽日哩二合􄙻散􄾫地􄖩南􄗭謨引􆶭窣覩二合􄕝帝<lb
+ n="0262a11" ed="T"/>􄙖嚩􄦽日哩二合􄙻散􆩺地􄖩南􄗭謨引􆶭窣覩二合􄕝帝<lb
  n="0262a12" ed="T"/><lb
  n="0262a13" ed="T"/>􄙖嚩􄦿日囉二合􈁃母􆵍瑟智二合􄖩南􄗭謨引􆶭窣覩二合<lb
  n="0262a14" ed="T"/><lb
@@ -954,14 +954,14 @@
  n="0262c25" ed="T"/><lb
  n="0262c26" ed="T"/>􄕝帝<lb
  n="0262c27" ed="T"/><lb
- n="0262c28" ed="T"/>􄙖嚩􄦽日哩二合􄕝吠􄙢捨􄖩南􄗭謨引􆶭窣覩二合􄕝帝<lb
+ n="0262c28" ed="T"/>􄙖嚩􄦽日哩二合􄙜吠􄙢捨􄖩南􄗭謨引􆶭窣覩二合􄕝帝<lb
  n="0262c29" ed="T"/><pb n="0263a" id="T18.0867.0263a" ed="T"/><lb
  n="0263a01" ed="T"/>􇩂唵􄙖嚩􄦽日囉二合􄭠室哩二合􄗷曳􅁥娑嚩二合<lb
  n="0263a02" ed="T"/><lb
  n="0263a03" ed="T"/>􄚩賀引<lb
  n="0263a04" ed="T"/><lb
  n="0263a05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若持此讚王　　纔一遍稱誦　　<lb
  n="0263a06" ed="T"/>諸佛悉雲集　　三十七智圓　　<lb
  n="0263a07" ed="T"/>若當誦兩遍　　諸佛悉入身　　<lb
@@ -974,7 +974,7 @@
  n="0263a14" ed="T"/>能生無量福　　若有金剛子　　<lb
  n="0263a15" ed="T"/>常持此讚王　　諸佛常衛護　　
 </ab><lb
- n="0263a16" ed="T"/><ab type="prose">說此語已。時本所出生大金剛吉祥母。復<lb
+ n="0263a16" ed="T"/><ab type='prose'>說此語已。時本所出生大金剛吉祥母。復<lb
  n="0263a17" ed="T"/>說畫像曼拏攞法。取淨素㲲。等自身量而<lb
  n="0263a18" ed="T"/>圖畫之。凡一切瑜伽中像。皆身自坐等量畫<lb
  n="0263a19" ed="T"/>之。於中應畫三會八葉蓮華。中畫我身。當於<lb
@@ -993,19 +993,19 @@
  n="0263b04" ed="T"/>爾時佛母金剛吉祥。復說成就大悲胎藏八<lb
  n="0263b05" ed="T"/>字真言曰。<lb
  n="0263b06" ed="T"/></ab>
-<ab type="dharani">􇩱阿􄙙尾􄗽囉􈅼吽􈆹欠􇩴吽􇩵紇哩二合􆿔噁<lb
+<ab type='dharani'>􇩱阿􄙙尾􄗽囉􈅼吽􈆹欠􇩴吽􇩵紇哩二合􆿔噁<lb
  n="0263b07" ed="T"/><lb
  n="0263b08" ed="T"/></ab>
-<ab type="prose">若誦滿一千萬遍。獲得大悲胎藏中一切法<lb
+<ab type='prose'>若誦滿一千萬遍。獲得大悲胎藏中一切法<lb
  n="0263b09" ed="T"/>一時頓證。其印如釋迦牟尼鉢印。以印從定<lb
  n="0263b10" ed="T"/>起。旋轉便結本三昧耶印。以二羽虛心合<lb
  n="0263b11" ed="T"/>掌。復當心即成。爾時復說成就富貴金剛虛<lb
  n="0263b12" ed="T"/>空藏鉤召五字明王曰。<lb
  n="0263b13" ed="T"/></ab>
-<ab type="dharani">􈆯鑁􈅼吽􄩩怛洛二合􇩵纈唎二合􆿔惡<lb
+<ab type='dharani'>􈆯鑁􈅼吽􄩩怛洛二合􇩵纈唎二合􆿔惡<lb
  n="0263b14" ed="T"/><lb
  n="0263b15" ed="T"/></ab>
-<ab type="prose">行者應畫五大金剛虛空藏。於一圓明中。等<lb
+<ab type='prose'>行者應畫五大金剛虛空藏。於一圓明中。等<lb
  n="0263b16" ed="T"/>自身量畫之。於一圓中。更分為五。於中圓畫<lb
  n="0263b17" ed="T"/>白色虛空藏。左手執鉤右手持寶。前圓中畫<lb
  n="0263b18" ed="T"/>黃色虛空藏。左持鉤右執寶金剛。右圓中畫<lb
@@ -1019,7 +1019,7 @@
  n="0263b26" ed="T"/>千萬遍。即得富貴成就。時時護摩。速獲大悉<lb
  n="0263b27" ed="T"/>地次當說印相。<lb
  n="0263b28" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 毘首羯磨三昧耶　　忍願相合峯如針　　<lb
  n="0263b29" ed="T"/>是名法界虛空藏　　三昧密印應當知　　<pb n="0263c" id="T18.0867.0263c" ed="T"/><lb
  n="0263c01" ed="T"/>次改進力如三股　　是名金剛虛空藏　　<lb
@@ -1027,9 +1027,9 @@
  n="0263c03" ed="T"/>又屈進力如蓮葉　　印名蓮花虛空藏　　<lb
  n="0263c04" ed="T"/>戒方進力互相叉　　是名業用虛空藏　　
 </ab><lb
- n="0263c05" ed="T"/><ab type="prose">爾時復說金剛吉祥成就一切明曰。<lb
+ n="0263c05" ed="T"/><ab type='prose'>爾時復說金剛吉祥成就一切明曰。<lb
  n="0263c06" ed="T"/></ab>
-<ab type="dharani">􈁴唵􄙖嚩􄦽日羅二合􈊸室哩二合􄗥摩􄚩訶引􄭠室哩二合<lb
+<ab type='dharani'>􈁴唵􄙖嚩􄦽日羅二合􈊸室哩二合􄗥摩􄚩訶引􄭠室哩二合<lb
  n="0263c07" ed="T"/><lb
  n="0263c08" ed="T"/>􆿆阿􄕱涅寧逸反􄟗底也二合􈊸室哩二合􄚤素􄗥麼<lb
  n="0263c09" ed="T"/><lb
@@ -1044,31 +1044,31 @@
  n="0263c18" ed="T"/>􄗷耶􈊸室哩二合􅁥娑嚩二合􄚩賀引<lb
  n="0263c19" ed="T"/><lb
  n="0263c20" ed="T"/></ab>
-<ab type="prose">復說妙吉祥破諸宿曜明曰。<lb
+<ab type='prose'>復說妙吉祥破諸宿曜明曰。<lb
  n="0263c21" ed="T"/></ab>
-<ab type="dharani">􈁴唵􄙺薩􅞣嚩􄩞怛囉二合􄙺三􄗥摩􄗷耶􈊸室哩二合<lb
+<ab type='dharani'>􈁴唵􄙺薩􅞣嚩􄩞怛囉二合􄙺三􄗥摩􄗷耶􈊸室哩二合<lb
  n="0263c22" ed="T"/><lb
  n="0263c23" ed="T"/>􄗷曳􅁥娑嚩二合􄚩賀引<lb
  n="0263c24" ed="T"/><lb
  n="0263c25" ed="T"/></ab>
-<ab type="prose">復次行者。應用金剛子為珠。以綠金剛線穿<lb
+<ab type='prose'>復次行者。應用金剛子為珠。以綠金剛線穿<lb
  n="0263c26" ed="T"/>之。對像前誦三百遍。一切希願皆悉滿足。其<lb
  n="0263c27" ed="T"/>印相。二羽金剛掌。以檀慧內相鉤。戒方雙屈<lb
  n="0263c28" ed="T"/>入掌。忍願相合如峯。屈進力各捻忍願上節。<lb
  n="0263c29" ed="T"/>以禪智各捻忍願初文。是金剛吉祥印。<pb n="0264a" id="T18.0867.0264a" ed="T"/><lb
  n="0264a01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 內縛統指節　　並逼竪二空　　<lb
  n="0264a02" ed="T"/>是名破宿曜　　一切不祥印　　<lb
  n="0264a03" ed="T"/>當觀妙吉祥　　而作降伏事　　<lb
  n="0264a04" ed="T"/>結印誦百遍　　不久即成就　　
 </ab><lb
- n="0264a05" ed="T"/><ab type="prose">時本所出生一切佛母。復於頂上。放百千道<lb
+ n="0264a05" ed="T"/><ab type='prose'>時本所出生一切佛母。復於頂上。放百千道<lb
  n="0264a06" ed="T"/>雜色光明。於一一光中。出生無量金剛杵。勇<lb
  n="0264a07" ed="T"/>健熾盛。於足下亦然。即說成就一切明真言<lb
  n="0264a08" ed="T"/>曰。<lb
  n="0264a09" ed="T"/></ab>
-<ab type="dharani">􈁴唵􄓚吒􄓛吒􄓞吒烏短聲􄓜置􄓝智􄓜置􄓝智􄓞吒烏短聲<lb
+<ab type='dharani'>􈁴唵􄓚吒􄓛吒􄓞吒烏短聲􄓜置􄓝智􄓜置􄓝智􄓞吒烏短聲<lb
  n="0264a10" ed="T"/><lb
  n="0264a11" ed="T"/>􄓞吒烏引􄓞吒烏引􄓞吒烏􄙖嚩􄦽日囉二合􄙺薩􄽹怛嚩二合<lb
  n="0264a12" ed="T"/><lb
@@ -1077,7 +1077,7 @@
  n="0264a15" ed="T"/>􈅼吽<lb
  n="0264a16" ed="T"/><lb
  n="0264a17" ed="T"/></ab>
-<ab type="prose">此真言能成就一切明。能攝伏一切天。能成<lb
+<ab type='prose'>此真言能成就一切明。能攝伏一切天。能成<lb
  n="0264a18" ed="T"/>辦一切事。若欲知未來之事。即結印安於左<lb
  n="0264a19" ed="T"/>脇。誦真言一百八遍。隨印便睡。本尊阿尾奢。<lb
  n="0264a20" ed="T"/>即於夢中見一切吉凶之事。其印以定慧手。<lb
@@ -1090,8 +1090,8 @@
  n="0264a27" ed="T"/>取點眉中間。一切摩奴曬皆伏從愛敬。時諸<lb
  n="0264a28" ed="T"/>佛頂輪王。各各還來。入薩埵佛母一一毛孔<lb
  n="0264a29" ed="T"/>中。忽然不現。時大會眾一時寂然。</ab></div><pb n="0264b" id="T18.0867.0264b" ed="T"/><lb
- n="0264b01" ed="T"/><div type="pin" level="2"><head>一切如來內護摩金剛軌儀品第十</head><lb
- n="0264b02" ed="T"/><ab type="verse">
+ n="0264b01" ed="T"/><div type='pin' level='2'><head>一切如來內護摩金剛軌儀品第十</head><lb
+ n="0264b02" ed="T"/><ab type='verse'>
 復次金剛手　　我說內護摩　　<lb
  n="0264b03" ed="T"/>謂淨除固業　　令獲菩提心　　<lb
  n="0264b04" ed="T"/>端坐成月輪　　觀水字光焰　　<lb
@@ -1118,7 +1118,7 @@
  n="0264b25" ed="T"/>汝當寂心聽　　五種如來智　　<lb
  n="0264b26" ed="T"/>及四波羅蜜　　
 </ab><lb
- n="0264b27" ed="T"/><ab type="dharani">􈁴唵引􄙖嚩􄦽日囉二合􄕼馱引􄕟覩􆿅阿􅍋儗儞二合􄙠鑁<lb
+ n="0264b27" ed="T"/><ab type='dharani'>􈁴唵引􄙖嚩􄦽日囉二合􄕼馱引􄕟覩􆿅阿􅍋儗儞二合􄙠鑁<lb
  n="0264b28" ed="T"/><lb
  n="0264b29" ed="T"/>􈁴唵引􄙖嚩􄦽日囉二合􆿅阿􄚵乞芻二合􄡹毘也二合<pb n="0264c" id="T18.0867.0264c" ed="T"/><lb
  n="0264c01" ed="T"/><lb
@@ -1128,7 +1128,7 @@
  n="0264c05" ed="T"/><lb
  n="0264c06" ed="T"/>􄙗縛􆿅阿􅍋儗儞􄩩怛𠸪<lb
  n="0264c07" ed="T"/><lb
- n="0264c08" ed="T"/>􈁴唵引􄙖嚩􄦽日囉二合􄙒路􄑆計􈂫濕嚩􄗽囉􄒶囉􄗾惹<lb
+ n="0264c08" ed="T"/>􈁴唵引􄙖嚩􄦽日囉二合􄙒路􄑆計􈂫濕嚩􄗽囉􄗾囉􄒶惹<lb
  n="0264c09" ed="T"/><lb
  n="0264c10" ed="T"/>􆿅阿􅍋儗儞􇩵紇哩<lb
  n="0264c11" ed="T"/><lb
@@ -1137,47 +1137,47 @@
  n="0264c14" ed="T"/>􆿔噁<lb
  n="0264c15" ed="T"/><lb
  n="0264c16" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 復次一心聽　　金剛薩埵明　　<lb
  n="0264c17" ed="T"/>結本羯磨印　　因字生金剛　　<lb
  n="0264c18" ed="T"/>滿彼大空界　　遍此金剛火　　<lb
  n="0264c19" ed="T"/>能召諸金剛　　攝伏為僕使　　
 </ab><lb
- n="0264c20" ed="T"/><ab type="dharani">􈁴唵􄙖嚩􄦽日囉二合􄙺薩􄽚怛縛二合􆿅阿􅍋儗儞二合<lb
+ n="0264c20" ed="T"/><ab type='dharani'>􈁴唵􄙖嚩􄦽日囉二合􄙺薩􄽚怛縛二合􆿅阿􅍋儗儞二合<lb
  n="0264c21" ed="T"/><lb
  n="0264c22" ed="T"/>􈆭吽􆿔噁<lb
  n="0264c23" ed="T"/><lb
  n="0264c24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 復次金剛王　　本業三昧耶　　<lb
  n="0264c25" ed="T"/>鉤字生大鉤　　遍鉤等法界　　<lb
  n="0264c26" ed="T"/>十方一切佛　　盡來為成就　　<lb
  n="0264c27" ed="T"/>隨心所愛樂　　速獲無時限　　
 </ab><lb
- n="0264c28" ed="T"/><ab type="dharani">􈁴唵􄙖嚩􄦽日囉二合􄗾囉􄒶惹􆿅阿􅍋儗儞二合􈆭吽<lb
+ n="0264c28" ed="T"/><ab type='dharani'>􈁴唵􄙖嚩􄦽日囉二合􄗾囉􄒶惹􆿅阿􅍋儗儞二合􈆭吽<lb
  n="0264c29" ed="T"/><pb n="0265a" id="T18.0867.0265a" ed="T"/><lb
  n="0265a01" ed="T"/>􈆲弱入聲<lb
  n="0265a02" ed="T"/><lb
  n="0265a03" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 復次金剛染　　本業三昧耶　　<lb
  n="0265a04" ed="T"/>說字生歡喜　　聲遍十方界　　<lb
  n="0265a05" ed="T"/>一切佛菩薩　　盡為染愛妻　　<lb
  n="0265a06" ed="T"/>三界世中天　　人王等敬愛　　
 </ab><lb
- n="0265a07" ed="T"/><ab type="dharani">􈁴唵􄙖嚩􄦽日囉二合􄗾囉􄑙誐􆿅阿􅍋儗儞二合􈆭吽􈁟鵠<lb
+ n="0265a07" ed="T"/><ab type='dharani'>􈁴唵􄙖嚩􄦽日囉二合􄗾囉􄑙誐􆿅阿􅍋儗儞二合􈆭吽􈁟鵠<lb
  n="0265a08" ed="T"/><lb
  n="0265a09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 復次金剛稱　　本業三昧耶　　<lb
  n="0265a10" ed="T"/>讚字生適悅　　得生受三昧　　<lb
  n="0265a11" ed="T"/>遍於大空界　　自他生適悅　　<lb
  n="0265a12" ed="T"/>大悅得平等　　諸冤悉退散　　
 </ab><lb
- n="0265a13" ed="T"/><ab type="dharani">􈁴唵􄙖嚩􄦽日囉二合􄙻娑􈃁度􆿅阿􅍋儗儞二合􈆭吽􄚧索<lb
+ n="0265a13" ed="T"/><ab type='dharani'>􈁴唵􄙖嚩􄦽日囉二合􄙻娑􈃁度􆿅阿􅍋儗儞二合􈆭吽􄚧索<lb
  n="0265a14" ed="T"/><lb
  n="0265a15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 如上四寂災　　諸佛甚深密　　<lb
  n="0265a16" ed="T"/>所有三世苦　　速滅無有餘　　<lb
  n="0265a17" ed="T"/>復次金剛手　　金剛寶威光　　<lb
@@ -1185,39 +1185,39 @@
  n="0265a19" ed="T"/>威德墮諸天　　及以王人等　　<lb
  n="0265a20" ed="T"/>一切皆隨順　　增長自所求　　
 </ab><lb
- n="0265a21" ed="T"/><ab type="dharani">􈁴唵􄙖嚩􄦽日囉二合􄗽囉􅑈怛曩二合􆿅阿􅍋儗儞二合<lb
+ n="0265a21" ed="T"/><ab type='dharani'>􈁴唵􄙖嚩􄦽日囉二合􄗽囉􅑈怛曩二合􆿅阿􅍋儗儞二合<lb
  n="0265a22" ed="T"/><lb
  n="0265a23" ed="T"/>􈆭吽􈁴唵<lb
  n="0265a24" ed="T"/><lb
  n="0265a25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 金剛光明威　　熾然自發光　　<lb
  n="0265a26" ed="T"/>一切天主王　　釋梵及人越　　<lb
  n="0265a27" ed="T"/>日月三世有　　無能敢申覩　　<lb
  n="0265a28" ed="T"/>彼等有所能　　盡皆得隨順　　
 </ab><lb
- n="0265a29" ed="T"/><ab type="dharani">􈁴唵􄙖嚩􄦽日囉二合􄕝帝􄒶惹􆿅阿􅍋儗儞二合􆿁吽􈂵暗引<pb n="0265b" id="T18.0867.0265b" ed="T"/><lb
+ n="0265a29" ed="T"/><ab type='dharani'>􈁴唵􄙖嚩􄦽日囉二合􄕝帝􄒶惹􆿅阿􅍋儗儞二合􆿁吽􈂵暗引<pb n="0265b" id="T18.0867.0265b" ed="T"/><lb
  n="0265b01" ed="T"/><lb
  n="0265b02" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 金剛幢大軍　　生字雨諸寶　　<lb
  n="0265b03" ed="T"/>結彼本業印　　能召一切寶　　
 </ab><lb
- n="0265b04" ed="T"/><ab type="dharani">􈁴唵􄙖嚩􄦽日囉二合􄑆計􄕛都平聲􆿅阿􄑲儗儞二合􈆭吽<lb
+ n="0265b04" ed="T"/><ab type='dharani'>􈁴唵􄙖嚩􄦽日囉二合􄑆計􄕛都平聲􆿅阿􅍋儗儞二合􈆭吽<lb
  n="0265b05" ed="T"/><lb
  n="0265b06" ed="T"/>􈂷怛㘕二合引<lb
  n="0265b07" ed="T"/><lb
  n="0265b08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 金剛笑菩薩　　喜字生音聲　　<lb
  n="0265b09" ed="T"/>結彼本業印　　能長一切愛　　
 </ab><lb
- n="0265b10" ed="T"/><ab type="dharani">􈁴唵􄙖嚩􄦽日囉二合􄚩賀􄙻娑引􆿅阿􅍋儗儞二合􈆭吽<lb
+ n="0265b10" ed="T"/><ab type='dharani'>􈁴唵􄙖嚩􄦽日囉二合􄚩賀􄙻娑引􆿅阿􅍋儗儞二合􈆭吽<lb
  n="0265b11" ed="T"/><lb
  n="0265b12" ed="T"/>􄚳鵠<lb
  n="0265b13" ed="T"/><lb
  n="0265b14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 如是四祕密　　諸佛密增長　　<lb
  n="0265b15" ed="T"/>所求皆悉成　　增長自身佛　　<lb
  n="0265b16" ed="T"/>三界天人見　　悉皆云是我　　<lb
@@ -1227,35 +1227,35 @@
  n="0265b20" ed="T"/>地獄諸惡趣　　悉淨如蓮華　　<lb
  n="0265b21" ed="T"/>結本羯磨印　　能伏如是苦　　
 </ab><lb
- n="0265b22" ed="T"/><ab type="dharani">􈁴唵􄙖嚩􄦽日囉二合􄕻達􅝞摩􆿅阿􅍋儗儞二合􈆭吽<lb
+ n="0265b22" ed="T"/><ab type='dharani'>􈁴唵􄙖嚩􄦽日囉二合􄕻達􅝞摩􆿅阿􅍋儗儞二合􈆭吽<lb
  n="0265b23" ed="T"/><lb
  n="0265b24" ed="T"/>􇩵纈唎二合<lb
  n="0265b25" ed="T"/><lb
  n="0265b26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 金剛猛利刀　　劍字放大光　　<lb
  n="0265b27" ed="T"/>照徹三界暗　　能伏訥瑟吒　　
 </ab><lb
- n="0265b28" ed="T"/><ab type="dharani">􈁴唵􄙖嚩􄦽日囉二合􄕚底􈁵乞叉拏三合􆿅阿􅍋儗儞二合<lb
+ n="0265b28" ed="T"/><ab type='dharani'>􈁴唵􄙖嚩􄦽日囉二合􄕚底􈁵乞叉拏三合􆿅阿􅍋儗儞二合<lb
  n="0265b29" ed="T"/><pb n="0265c" id="T18.0867.0265c" ed="T"/><lb
  n="0265c01" ed="T"/>􈆭吽􄖧談<lb
  n="0265c02" ed="T"/><lb
  n="0265c03" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 金剛轉輪者　　輪字化諸輪　　<lb
  n="0265c04" ed="T"/>能殺那羅延　　及龍金翅鳥　　
 </ab><lb
- n="0265c05" ed="T"/><ab type="dharani">􈁴唵􄙖嚩􄦽日囉二合􄚮系􄕛覩􆿅阿􅍋儗儞二合􇩴吽􄗯𤚥<lb
+ n="0265c05" ed="T"/><ab type='dharani'>􈁴唵􄙖嚩􄦽日囉二合􄚮系􄕛覩􆿅阿􅍋儗儞二合􇩴吽􄗯𤚥<lb
  n="0265c06" ed="T"/><lb
  n="0265c07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 金剛語言誦　　密字化諸雹　　<lb
  n="0265c08" ed="T"/>打破諸修羅　　及一切宿曜　　
 </ab><lb
- n="0265c09" ed="T"/><ab type="dharani">􈁴唵􄙖嚩􄦽日囉二合􄗚婆引􄙯灑􆿅阿􅍋儗儞二合􈆭吽􄙈㘕<lb
+ n="0265c09" ed="T"/><ab type='dharani'>􈁴唵􄙖嚩􄦽日囉二合􄗚婆引􄙯灑􆿅阿􅍋儗儞二合􈆭吽􄙈㘕<lb
  n="0265c10" ed="T"/><lb
  n="0265c11" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 系系金剛手　　如是四祕密　　<lb
  n="0265c12" ed="T"/>誦結破諸天　　一切不祥事　　<lb
  n="0265c13" ed="T"/>三世三界怨　　人及非人等　　<lb
@@ -1267,37 +1267,37 @@
  n="0265c19" ed="T"/>金剛手復聽　　羯磨金剛藏　　<lb
  n="0265c20" ed="T"/>輪字發光明　　能令一切愛　　
 </ab><lb
- n="0265c21" ed="T"/><ab type="dharani">􈁴唵引􄙖嚩􄦽日囉二合􄑌羯􅝞磨􆿅阿􅍋儗儞二合􈆭吽<lb
+ n="0265c21" ed="T"/><ab type='dharani'>􈁴唵引􄙖嚩􄦽日囉二合􄑌羯􅝞磨􆿅阿􅍋儗儞二合􈆭吽<lb
  n="0265c22" ed="T"/><lb
  n="0265c23" ed="T"/>􄑊劍<lb
  n="0265c24" ed="T"/><lb
  n="0265c25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 結彼本業印　　金剛甲冑光　　<lb
  n="0265c26" ed="T"/>甲字發光明　　能令一切愛　　
 </ab><lb
- n="0265c27" ed="T"/><ab type="dharani">􈁴唵引􄙖嚩􄦽日囉二合􄗽𠸪􄚵乞叉二合􆿅阿􅍋儗儞二合<lb
+ n="0265c27" ed="T"/><ab type='dharani'>􈁴唵引􄙖嚩􄦽日囉二合􄗽𠸪􄚵乞叉二合􆿅阿􅍋儗儞二合<lb
  n="0265c28" ed="T"/><lb
  n="0265c29" ed="T"/>􈆭吽􄚲憾<pb n="0266a" id="T18.0867.0266a" ed="T"/><lb
  n="0266a01" ed="T"/><lb
  n="0266a02" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 金剛怖食噉　　牙字發光明　　<lb
  n="0266a03" ed="T"/>見觸皆清淨　　悉令彼敬愛　　
 </ab><lb
- n="0266a04" ed="T"/><ab type="dharani">􈁴唵􄙖嚩􄦽日囉二合􄗱藥􄚵乞叉二合􆿅阿􅍋儗儞二合<lb
+ n="0266a04" ed="T"/><ab type='dharani'>􈁴唵􄙖嚩􄦽日囉二合􄗱藥􄚵乞叉二合􆿅阿􅍋儗儞二合<lb
  n="0266a05" ed="T"/><lb
  n="0266a06" ed="T"/>􈆭吽引􈆭吽引<lb
  n="0266a07" ed="T"/><lb
  n="0266a08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 金剛密持尊　　持字放光明　　<lb
  n="0266a09" ed="T"/>結彼本業契　　能令一切愛　　
 </ab><lb
- n="0266a10" ed="T"/><ab type="dharani">􈁴唵􄙖嚩􄦽日囉二合􄙺散􄾭地􆿅阿􅍋儗儞二合􈆭吽􄙠鑁<lb
+ n="0266a10" ed="T"/><ab type='dharani'>􈁴唵􄙖嚩􄦽日囉二合􄙺散􆩺地􆿅阿􅍋儗儞二合􈆭吽􄙠鑁<lb
  n="0266a11" ed="T"/><lb
  n="0266a12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 由此四祕密　　金剛內護摩　　<lb
  n="0266a13" ed="T"/>能一切敬愛　　無有不隨順　　<lb
  n="0266a14" ed="T"/>上至諸如來　　下至一切人　　<lb
@@ -1326,7 +1326,7 @@
  n="0266b08" ed="T"/>兼無智慧人　　金剛內護摩　　<lb
  n="0266b09" ed="T"/>我今當說竟　　
 </ab><lb
- n="0266b10" ed="T"/><ab type="dharani">􈁴唵引􄙖嚩􄦽日囉二合􄙋邏􄣨細􆿅阿􅍋儗儞二合<lb
+ n="0266b10" ed="T"/><ab type='dharani'>􈁴唵引􄙖嚩􄦽日囉二合􄙋邏􄣨細􆿅阿􅍋儗儞二合<lb
  n="0266b11" ed="T"/><lb
  n="0266b12" ed="T"/>􈆭吽􈁟鵠<lb
  n="0266b13" ed="T"/><lb
@@ -1348,13 +1348,13 @@
  n="0266b29" ed="T"/><pb n="0266c" id="T18.0867.0266c" ed="T"/><lb
  n="0266c01" ed="T"/>􈁴唵引􄙖嚩􄦽日囉二合􄖹補􈆵瑟波二合􆿅阿􅍋儗儞二合<lb
  n="0266c02" ed="T"/><lb
- n="0266c03" ed="T"/>􈁴吽􇩂唵<lb
+ n="0266c03" ed="T"/>􈆭吽􇩂唵<lb
  n="0266c04" ed="T"/><lb
  n="0266c05" ed="T"/>􈆭唵引􄙖嚩􄦽日囉二合􄙆路􄑆計􆿅阿􅍋儗儞二合􈆭吽<lb
  n="0266c06" ed="T"/><lb
  n="0266c07" ed="T"/>􈁹禰入聲<lb
  n="0266c08" ed="T"/><lb
- n="0266c09" ed="T"/>􈁴唵引􄙖嚩􄦽日囉二合􄑘喭􄾫馱􆿅阿􅍋儗儞二合􈆭吽<lb
+ n="0266c09" ed="T"/>􈁴唵引􄙖嚩􄦽日囉二合􄑘喭􆩺馱􆿅阿􅍋儗儞二合􈆭吽<lb
  n="0266c10" ed="T"/><lb
  n="0266c11" ed="T"/>􄑣虐<lb
  n="0266c12" ed="T"/><lb
@@ -1371,13 +1371,13 @@
  n="0266c23" ed="T"/><lb
  n="0266c24" ed="T"/>􈁴唵引􄙖嚩􄦽日囉二合􄙜吠􄙢舍􆿅阿􅍋儗儞二合􈆭吽􈁟斛</ab></div><lb
  n="0266c25" ed="T"/><lb
- n="0266c26" ed="T"/><div type="pin" level="2"><head>金剛薩埵菩提心內作業灌頂悉地品第十<lb
+ n="0266c26" ed="T"/><div type='pin' level='2'><head>金剛薩埵菩提心內作業灌頂悉地品第十<lb
  n="0266c27" ed="T"/>一</head><lb
- n="0266c28" ed="T"/><ab type="prose">爾時世尊復告金剛手言。我今更為汝說。成<lb
+ n="0266c28" ed="T"/><ab type='prose'>爾時世尊復告金剛手言。我今更為汝說。成<lb
  n="0266c29" ed="T"/>就金剛薩埵一字心極密無上深勇智光密<pb n="0267a" id="T18.0867.0267a" ed="T"/><lb
  n="0267a01" ed="T"/>言。而說頌曰。<lb
  n="0267a02" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 持真言行者　　觀身如佛形　　<lb
  n="0267a03" ed="T"/>根本命金剛　　釋論以為虛　　<lb
  n="0267a04" ed="T"/>多羅為二目　　毘俱胝為耳　　<lb
@@ -1393,18 +1393,18 @@
  n="0267a14" ed="T"/>是即極深密　　真言者當知　　<lb
  n="0267a15" ed="T"/>金剛薩埵心　　菩提密言曰　　
 </ab><lb
- n="0267a16" ed="T"/><ab type="dharani">􈆭吽􄑼斫􄥇訖囉二合􄕗多􄗽囉􄑼斫􄮯乞蒭二合􆱄渤哩二合<lb
+ n="0267a16" ed="T"/><ab type='dharani'>􈆭吽􄑼斫􄥇訖囉二合􄕗多􄗽囉􄑼斫􄮯乞蒭二合􆱄渤哩二合<lb
  n="0267a17" ed="T"/><lb
  n="0267a18" ed="T"/>􄑄句􄓝胝􄗯曼􈃲殊􈊸室利二合􄗱曳􄙖嚩􄦽日囉<lb
  n="0267a19" ed="T"/><lb
- n="0267a20" ed="T"/>􄗾攞􄕙細􄮦󰳵唎二合􆿁吽􈉆悉􄙒怛哩二合􄛀路<lb
+ n="0267a20" ed="T"/>􄗾攞􄕙細􄮦𭍋唎二合􆿁吽􈉆悉􄙒怛哩二合􄛀路<lb
  n="0267a21" ed="T"/><lb
  n="0267a22" ed="T"/>􄑼枳也二合􄙊左囉􈆭吽􄙠鑁􄑖欠􈊸室哩二合<lb
  n="0267a23" ed="T"/><lb
  n="0267a24" ed="T"/>􆿆阿􄑁迦􄙢捨􄗥麼􄙊㘑􄕝帝􄒼惹􇩴吽<lb
  n="0267a25" ed="T"/><lb
  n="0267a26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 誦此成就明　　作法成尊身　　<lb
  n="0267a27" ed="T"/>然後入薩埵　　一字心密語　　<lb
  n="0267a28" ed="T"/>作薩埵業印　　安立自身分　　<lb
@@ -1412,10 +1412,10 @@
  n="0267b01" ed="T"/>一一布支分　　而成大悉地　　<lb
  n="0267b02" ed="T"/>金剛薩埵心　　一字密言曰　　
 </ab><lb
- n="0267b03" ed="T"/><ab type="dharani">􈅼吽引<lb
+ n="0267b03" ed="T"/><ab type='dharani'>􈅼吽引<lb
  n="0267b04" ed="T"/><lb
  n="0267b05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 金剛阿闍梨　　教授諸弟子　　<lb
  n="0267b06" ed="T"/>以緋繒掩面　　與彼作加持　　<lb
  n="0267b07" ed="T"/>令次阿闍梨　　教彼薩埵誓　　<lb
@@ -1454,14 +1454,14 @@
  n="0267c11" ed="T"/>方可作此法　　而乃傳與人　　<lb
  n="0267c12" ed="T"/>勿妄作諸過　　
 </ab><lb
- n="0267c13" ed="T"/><ab type="prose">次說遜婆明王根本真言曰。<lb
+ n="0267c13" ed="T"/><ab type='prose'>次說遜婆明王根本真言曰。<lb
  n="0267c14" ed="T"/></ab>
-<ab type="dharani">􈁴唵􄙖嚩􄦽日囉二合􇩴吽引􄑀羯􄗽囉􈆭吽短聲􈆭吽短聲<lb
+<ab type='dharani'>􈁴唵􄙖嚩􄦽日囉二合􇩴吽引􄑀羯􄗽囉􈆭吽短聲􈆭吽短聲<lb
  n="0267c15" ed="T"/><lb
- n="0267c16" ed="T"/>􈆭吽短聲􄖫𩕳􄗙遜􈂱婆􈆭吽短聲<lb
+ n="0267c16" ed="T"/>􈆭吽短聲􄖫𩕳􈂱遜􄗙婆􈆭吽短聲<lb
  n="0267c17" ed="T"/><lb
  n="0267c18" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 先住菩提大印已　　羯磨四印作加持　　<lb
  n="0267c19" ed="T"/>以成三世大誓身　　兩臂青色薩埵儀　　<lb
  n="0267c20" ed="T"/>然後入忿怒王業　　二羽掙擲金剛杵　　<lb
@@ -1470,7 +1470,7 @@
  n="0267c23" ed="T"/>即能廣作諸事業　　是名最初吽迦囉　　<lb
  n="0267c24" ed="T"/>如前所結誦心密　　方應作此護摩業　　
 </ab><lb
- n="0267c25" ed="T"/><ab type="prose">所用護摩物其體同。此明皆從心流出。各隨<lb
+ n="0267c25" ed="T"/><ab type='prose'>所用護摩物其體同。此明皆從心流出。各隨<lb
  n="0267c26" ed="T"/>其本色。傳之爾。<lb
  n="0267c27" ed="T"/>又取黑鹽護摩。能召一切天。隨名呼之。能滿<lb
  n="0267c28" ed="T"/>所求事又取以烏牛糞護摩。能召一切妙吉<lb
@@ -1481,7 +1481,7 @@
  n="0268a04" ed="T"/>又法以黑土而作護摩業悉皆能召集一切地<lb
  n="0268a05" ed="T"/>居天。<lb
  n="0268a06" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若以白色華　　護摩作供養　　<lb
  n="0268a07" ed="T"/>一切吉祥天　　賜與金寶藏　　<lb
  n="0268a08" ed="T"/>恣意而受用　　護摩白樹汁　　<lb
@@ -1539,11 +1539,11 @@
  n="0268c02" ed="T"/>釧於檀慧節　　親近諸悉地　　<lb
  n="0268c03" ed="T"/>一切佛歡喜　　不違本誓力　　
 </ab></div><lb
- n="0268c04" ed="T"/><div type="pin" level="2"><head>大金剛焰口降伏一切魔怨品第十二</head><lb
- n="0268c05" ed="T"/><ab type="prose">爾時世尊復觀一切未來世諸薄福有情。住<lb
+ n="0268c04" ed="T"/><div type='pin' level='2'><head>大金剛焰口降伏一切魔怨品第十二</head><lb
+ n="0268c05" ed="T"/><ab type='prose'>爾時世尊復觀一切未來世諸薄福有情。住<lb
  n="0268c06" ed="T"/>大悲盡三昧。而說伽陀曰。<lb
  n="0268c07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 有佛名金剛　　大藥叉吞噉　　<lb
  n="0268c08" ed="T"/>一切惡有情　　及無情等物　　<lb
  n="0268c09" ed="T"/>三世一切惡　　穢觸染慾心　　<lb
@@ -1551,14 +1551,14 @@
  n="0268c11" ed="T"/>汝金剛薩埵　　一心聽此明　　<lb
  n="0268c12" ed="T"/>廣布諸有情　　金剛盡明曰　　
 </ab><lb
- n="0268c13" ed="T"/><ab type="dharani">􈁴唵􄗥摩􄚩賀引􄗱藥􄚴乞叉二合􄙖嚩􄦽日囉二合<lb
+ n="0268c13" ed="T"/><ab type='dharani'>􈁴唵􄗥摩􄚩賀引􄗱藥􄚴乞叉二合􄙖嚩􄦽日囉二合<lb
  n="0268c14" ed="T"/><lb
  n="0268c15" ed="T"/>􄙺薩􄽙怛嚩二合􄓁弱入聲􆿁吽引􄙠鑁􈁟斛引<lb
  n="0268c16" ed="T"/><lb
  n="0268c17" ed="T"/>􄪼跛囉二合􄙜吠􄙢捨􈆭吽短<lb
  n="0268c18" ed="T"/><lb
  n="0268c19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 此名金剛食　　主宰諸能摧　　<lb
  n="0268c20" ed="T"/>菩薩化身天　　及正業受果　　<lb
  n="0268c21" ed="T"/>誦此一千八　　隨順而攝受　　<lb
@@ -1647,17 +1647,17 @@
  n="0269c17" ed="T"/>系金剛薩埵　　此名最祕密　　<lb
  n="0269c18" ed="T"/>勿妄傳與人　　當付智慧者　　
 </ab><lb
- n="0269c19" ed="T"/><ab type="dharani">􈁴唵􄓚吒􈁡枳􆿁吽􆷲娑破􄓚吒􄪼鉢囉􄙜吠􄙢捨􇩴吽<lb
+ n="0269c19" ed="T"/><ab type='dharani'>􈁴唵􄓚吒􈁡枳􆿁吽􆷲娑破􄓚吒􄪼鉢囉􄙜吠􄙢捨􇩴吽<lb
  n="0269c20" ed="T"/><lb
  n="0269c21" ed="T"/>􄗁發􈁆吒引<lb
  n="0269c22" ed="T"/><lb
  n="0269c23" ed="T"/></ab>
-<ab type="prose">爾時大眾十六大菩薩。及諸忿怒金剛等。皆<lb
+<ab type='prose'>爾時大眾十六大菩薩。及諸忿怒金剛等。皆<lb
  n="0269c24" ed="T"/>悉禮佛依住。時佛菩薩等忽然不現。諸金剛<lb
  n="0269c25" ed="T"/>等各各互相謂言。何故諸佛忽然不現。即於<lb
  n="0269c26" ed="T"/>是時。遍於法界而有聲言。善哉諸金剛等。<lb
  n="0269c27" ed="T"/>我本無有言。但為利益說。時金剛手等亦復<lb
  n="0269c28" ed="T"/>不現。</ab></div><lb
  n="0269c29" ed="T"/>
-<ab type="juan" subtype="close">金剛峯樓閣一切瑜伽瑜祇經</ab></div>
+<ab type='juan' subtype='close'>金剛峯樓閣一切瑜伽瑜祇經</ab></div>
 </body></text></TEI>

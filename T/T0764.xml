@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T17</biblScope>
                     <idno type="Taisho">T17n0764</idno>
                 </bibl>
@@ -43,11 +43,11 @@
  n="0660b01" ed="T"/><lb
  n="0660b02" ed="T"/><lb
  n="0660b03" ed="T"/>
-<ab type="juan" subtype="open">佛說法集名數經</ab><lb
+<ab type='juan' subtype='open'>佛說法集名數經</ab><lb
  n="0660b04" ed="T"/><lb
  n="0660b05" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚少卿<lb
  n="0660b06" ed="T"/>傳法大師臣施護奉　詔譯</byline><lb
- n="0660b07" ed="T"/><div type="jing" level="1"><ab type="prose">歸命頂禮一切佛、一切智智、天人師。無邊無<lb
+ n="0660b07" ed="T"/><div type='jing' level='1'><ab type='prose'>歸命頂禮一切佛、一切智智、天人師。無邊無<lb
  n="0660b08" ed="T"/>數佛說法，略集所說正法名。先歸命三寶，所<lb
  n="0660b09" ed="T"/>謂佛、法、僧。<lb
  n="0660b10" ed="T"/>云何三乘？所謂大乘、緣覺、聲聞。<lb
@@ -66,8 +66,8 @@
  n="0660b23" ed="T"/>云何四攝法？所謂布施、愛語、利行、同事。<lb
  n="0660b24" ed="T"/>云何五通？所謂天眼、天耳、他心、宿命、神境。<lb
  n="0660b25" ed="T"/>云何四聖諦？所謂苦諦、集諦、滅諦、道諦。<lb
- n="0660b26" ed="T"/>云何五蘊？所謂色蘊？受蘊？想蘊？行蘊？識蘊。<lb
- n="0660b27" ed="T"/>云何出世五蘊？所謂戒蘊？定蘊？慧蘊？解脫蘊？<lb
+ n="0660b26" ed="T"/>云何五蘊？所謂色蘊、受蘊、想蘊、行蘊、識蘊。<lb
+ n="0660b27" ed="T"/>云何出世五蘊？所謂戒蘊、定蘊、慧蘊、解脫蘊、<lb
  n="0660b28" ed="T"/>解脫知見蘊。<lb
  n="0660b29" ed="T"/>云何十二緣生？所謂無明、行、識、名色、六入、觸、<pb n="0660c" ed="T" id="T17.0764.0660c"/><lb
  n="0660c01" ed="T"/>受、愛、取、有、生、老死。<lb
@@ -164,7 +164,7 @@
  n="0661c05" ed="T"/>諸怖畏好、肢節稠密安布妙善好、身肢安定<lb
  n="0661c06" ed="T"/>不掉動好、身相光淨周匝端嚴好、周匝身光<lb
  n="0661c07" ed="T"/>恒自照耀好、腹形方正柔軟不現好、臍深圓<lb
- n="0661c08" ed="T"/>妙清淨殊異好、臍厚妙好、無󰯦凸好、皮膚清<lb
+ n="0661c08" ed="T"/>妙清淨殊異好、臍厚妙好、無𮃹凸好、皮膚清<lb
  n="0661c09" ed="T"/>淨無諸垢染好、手足充滿好、手文不斷好、<lb
  n="0661c10" ed="T"/>脣如頻婆菓好、面門如量端嚴好、舌相廣薄<lb
  n="0661c11" ed="T"/>好、梵音深遠好、梵音美妙具足好、鼻高脩<lb
@@ -222,5 +222,5 @@
  n="0662b05" ed="T"/>天、無量靜天、無雲天、福生天、廣果天、無煩<lb
  n="0662b06" ed="T"/>天、無熱天、善見天、善現天、色究竟天。</ab></div><lb
  n="0662b07" ed="T"/>
-<ab type="juan" subtype="close">法集名數經</ab>
+<ab type='juan' subtype='close'>法集名數經</ab>
 </body></text></TEI>

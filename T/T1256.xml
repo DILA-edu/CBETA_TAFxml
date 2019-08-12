@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1256</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0261b23" ed="T"/><lb
  n="0261b24" ed="T"/><lb
- n="0261b25" ed="T"/><div type="jing" level="1"><lb
+ n="0261b25" ed="T"/><div type='jing' level='1'><lb
  n="0261b26" ed="T"/>
-<ab type="juan" subtype="open">佛說摩利支天陀羅尼呪經</ab><lb
+<ab type='juan' subtype='open'>佛說摩利支天陀羅尼呪經</ab><lb
  n="0261b27" ed="T"/><lb
  n="0261b28" ed="T"/><byline>失譯人名今附梁錄</byline><lb
- n="0261b29" ed="T"/><ab type="prose">如是我聞。一時婆伽婆。在舍衛國祇樹給孤<pb n="0261c" id="T21.1256.0261c" ed="T"/><lb
+ n="0261b29" ed="T"/><ab type='prose'>如是我聞。一時婆伽婆。在舍衛國祇樹給孤<pb n="0261c" id="T21.1256.0261c" ed="T"/><lb
  n="0261c01" ed="T"/>獨園。與大比丘眾千二百五十人俱。爾時世<lb
  n="0261c02" ed="T"/>尊告諸比丘。有天名摩利支天。常行日月<lb
  n="0261c03" ed="T"/>前。彼摩利支天。無人能見無人能捉。不為人<lb
@@ -63,11 +63,11 @@
  n="0261c13" ed="T"/>怨家能得我便。爾時世尊告諸比丘。是摩利<lb
  n="0261c14" ed="T"/>支天有陀羅尼呪。能守護人即說呪曰。<lb
  n="0261c15" ed="T"/></ab>
-<ab type="dharani">多姪他遏迦摩私末迦摩私支婆羅摩<lb
+<ab type='dharani'>多姪他遏迦摩私末迦摩私支婆羅摩<lb
  n="0261c16" ed="T"/>私支婆羅摩私摩訶支婆羅摩私安陀<lb
  n="0261c17" ed="T"/>利陀那摩私<lb
  n="0261c18" ed="T"/></ab>
-<ab type="prose">於行路中護我。非行路中護我。晝日中護我<lb
+<ab type='prose'>於行路中護我。非行路中護我。晝日中護我<lb
  n="0261c19" ed="T"/>夜中護我。於怨家中護我於王難中護我。於<lb
  n="0261c20" ed="T"/>賊難中護我。於水難中護我於火難中護我。<lb
  n="0261c21" ed="T"/>於疫病中護我於阿鳩隷阿鳩隷無利支帝。<lb
@@ -94,5 +94,5 @@
  n="0262a13" ed="T"/>如願已設齋散座。一切厄難無不滅除。爾時<lb
  n="0262a14" ed="T"/>諸比丘聞佛所說。皆大歡喜信受奉持。<lb
  n="0262a15" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說摩利支天陀羅尼呪經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說摩利支天陀羅尼呪經</ab></div>
 </body></text></TEI>

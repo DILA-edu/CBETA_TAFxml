@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1302</idno>
                 </bibl>
@@ -41,12 +41,12 @@
     <text>
         <body><pb n="0420a" id="T21.1302.0420a" ed="T"/><lb
  n="0420a01" ed="T"/><lb
- n="0420a02" ed="T"/><div type="jing" level="1"><lb
+ n="0420a02" ed="T"/><div type='jing' level='1'><lb
  n="0420a03" ed="T"/>
-<ab type="juan" subtype="open">諸星母陀羅尼經</ab><lb
+<ab type='juan' subtype='open'>諸星母陀羅尼經</ab><lb
  n="0420a04" ed="T"/><lb
  n="0420a05" ed="T"/><byline>沙門法成於甘州脩多寺譯</byline><lb
- n="0420a06" ed="T"/><ab type="prose">如是我聞。一時薄伽梵住於曠野大聚落中。<lb
+ n="0420a06" ed="T"/><ab type='prose'>如是我聞。一時薄伽梵住於曠野大聚落中。<lb
  n="0420a07" ed="T"/>諸天及龍藥叉羅剎乾闥婆阿須羅迦樓羅緊<lb
  n="0420a08" ed="T"/>那羅莫呼落迦諸魔。日月熒或太白鎮星餘<lb
  n="0420a09" ed="T"/>星歲星羅睺長尾星神二十八宿諸大眾等。<lb
@@ -74,7 +74,7 @@
  n="0420b01" ed="T"/>密義。汝今諦聽善思念之。我當說其惡星瞋<lb
  n="0420b02" ed="T"/>怒破壞之法。及說供養行施念誦祕密之義。<lb
  n="0420b03" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若行供養當供養　　若作其惡當作惡　　<lb
  n="0420b04" ed="T"/>如是諸星刑色等　　云何而令生歡喜　　<lb
  n="0420b05" ed="T"/>諸天及與諸非天　　緊那羅等及諸龍　　<lb
@@ -82,7 +82,7 @@
  n="0420b07" ed="T"/>猛利威德諸大神　　瞋怒云何而殄滅　　<lb
  n="0420b08" ed="T"/>祕密言辭供養法　　今當次第而宣說　　
 </ab><lb
- n="0420b09" ed="T"/><ab type="prose">爾時釋迦如來從自心上而放慈心遊戲光<lb
+ n="0420b09" ed="T"/><ab type='prose'>爾時釋迦如來從自心上而放慈心遊戲光<lb
  n="0420b10" ed="T"/>明。入於諸星頂髻足中。尋時日月一切星神<lb
  n="0420b11" ed="T"/>從座而起。以諸天供即以供養釋迦如來。膝<lb
  n="0420b12" ed="T"/>輪著地合掌作禮而白佛言。世尊如來應供<lb
@@ -92,14 +92,14 @@
  n="0420b16" ed="T"/>爾時釋迦如來即便為說供養星法及以密言<lb
  n="0420b17" ed="T"/>陀羅尼曰。<lb
  n="0420b18" ed="T"/></ab>
-<ab type="dharani">　唵謨呼羅迦耶莎訶　唵尸儅奢蔽莎訶<lb
+<ab type='dharani'>　唵謨呼羅迦耶莎訶　唵尸儅奢蔽莎訶<lb
  n="0420b19" ed="T"/>　唵落落當伽俱麼囉也莎訶　唵報䫂也報<lb
  n="0420b20" ed="T"/>䫂也莎訶　唵報伽阿悉婆䫂世莎訶　唵訶<lb
  n="0420b21" ed="T"/>須囉薩多麼也莎訶　唵吃哩悉囊簸囉那也<lb
  n="0420b22" ed="T"/>莎訶　唵阿蜜多畢哩耶莎訶　唵藉底羯多<lb
  n="0420b23" ed="T"/>蔽莎訶<lb
  n="0420b24" ed="T"/></ab>
-<ab type="prose">金剛手。此則是彼八星祕密心呪。讀便成辦。<lb
+<ab type='prose'>金剛手。此則是彼八星祕密心呪。讀便成辦。<lb
  n="0420b25" ed="T"/>當作十二指一色香壇中安供養。或瓦或銅<lb
  n="0420b26" ed="T"/>金銀等器奉獻供養。一一供養當誦一百八<lb
  n="0420b27" ed="T"/>遍。金剛手。然後誦此諸星母陀羅尼祕密言<lb
@@ -113,7 +113,7 @@
  n="0420c06" ed="T"/>爾時釋迦如來即便為說諸星母陀羅尼。即<lb
  n="0420c07" ed="T"/>說呪曰。<lb
  n="0420c08" ed="T"/></ab>
-<ab type="dharani">南謨佛陀耶　南謨婆桚囉馱羅耶　南麼鉢<lb
+<ab type='dharani'>南謨佛陀耶　南謨婆桚囉馱羅耶　南麼鉢<lb
  n="0420c09" ed="T"/>麼達囉耶　南麼薩婆迦囉訶　南麼薩婆阿<lb
  n="0420c10" ed="T"/>奢波囉甫迦喃　南謨諾奢多囉喃　南謨埵<lb
  n="0420c11" ed="T"/>爹奢囉尸喃　怛也沒底沒底　簸窒囉簸窒<lb
@@ -121,7 +121,7 @@
  n="0420c13" ed="T"/>　三婆囉三婆囉　基多耶基多耶　麼囉麼<lb
  n="0420c14" ed="T"/>囉　麼訖陀麼訖陀　伽䫂耶　薩婆碧建<lb
  n="0420c15" ed="T"/>　俱嚕俱嚕　晉那晉那　乞舍波耶乞舍波耶<lb
- n="0420c16" ed="T"/>　扇胝󰿈低　䫂麼耶䫂麼曳　咄嚕多儞<lb
+ n="0420c16" ed="T"/>　扇胝𭥐低　䫂麼耶䫂麼曳　咄嚕多儞<lb
  n="0420c17" ed="T"/>　達奢耶羯麼喃　薄伽薄帝　落叉耶落叉耶<lb
  n="0420c18" ed="T"/>　麼那婆波哩波藍　娑囉波薩都王悉荼<lb
  n="0420c19" ed="T"/>　薩婆吃訶　那乞奢多囉　陂多麼簸儞　簸<lb
@@ -133,14 +133,14 @@
  n="0420c25" ed="T"/>莎訶　唵莎訶　吽莎訶　紇哩莎訶　吽莎<lb
  n="0420c26" ed="T"/>訶　󰌳航莎訶　鉢麼䫂囉莎訶　阿窒哆耶<lb
  n="0420c27" ed="T"/>莎訶　蘇磨耶莎訶　䫂囉儞須多耶莎訶<lb
- n="0420c28" ed="T"/>　沒他耶莎訶　勃多悉波低曳莎訶　󱁕伽囉<lb
+ n="0420c28" ed="T"/>　沒他耶莎訶　勃多悉波低曳莎訶　𬿟伽囉<lb
  n="0420c29" ed="T"/>耶沙訶　吃奢那跋那耶莎訶　囉訶蔽莎訶<pb n="0421a" id="T21.1302.0421a" ed="T"/><lb
  n="0421a01" ed="T"/>　𪁰多蔽莎訶　沒他耶莎訶　簸桚囉達囉<lb
  n="0421a02" ed="T"/>耶莎訶　鉢麼䫂囉莎訶　拘麼囉耶莎訶<lb
  n="0421a03" ed="T"/>　諾乞沙多囉難莎訶　薩婆鳥鉢多囉簸難莎<lb
  n="0421a04" ed="T"/>訶　唵薩婆簸比底叭叭莎訶<lb
  n="0421a05" ed="T"/></ab>
-<ab type="prose">金剛手。此是諸星母陀羅尼祕密呪句。成辦<lb
+<ab type='prose'>金剛手。此是諸星母陀羅尼祕密呪句。成辦<lb
  n="0421a06" ed="T"/>一切諸事根本。金剛手。此陀羅尼祕密呪句。<lb
  n="0421a07" ed="T"/>從於九月白月七日而起於首具足長淨。至<lb
  n="0421a08" ed="T"/>十四日供養諸星。而受持之月十五日。若能<lb
@@ -150,5 +150,5 @@
  n="0421a12" ed="T"/>授與之。爾時諸星禮世尊已讚言善哉。忽然<lb
  n="0421a13" ed="T"/>不現。<lb
  n="0421a14" ed="T"/>
-</ab><ab type="juan" subtype="close">諸星母陀羅尼經一卷</ab></div>
+</ab><ab type='juan' subtype='close'>諸星母陀羅尼經一卷</ab></div>
 </body></text></TEI>

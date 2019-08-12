@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0011</idno>
                 </bibl>
@@ -43,13 +43,13 @@
  n="0222a15" ed="T"/><lb
  n="0222a16" ed="T"/><lb
  n="0222a17" ed="T"/><lb
- n="0222a18" ed="T"/><div type="jing" level="1"><lb
+ n="0222a18" ed="T"/><div type='jing' level='1'><lb
  n="0222a19" ed="T"/>
-<ab type="juan" subtype="open">佛說尼拘陀梵志經卷上</ab><lb
+<ab type='juan' subtype='open'>佛說尼拘陀梵志經卷上</ab><lb
  n="0222a20" ed="T"/><lb
  n="0222a21" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0222a22" ed="T"/>傳法大師賜紫沙門臣施護等奉　詔譯</byline><lb
- n="0222a23" ed="T"/><ab type="prose">如是我聞：一時，世尊在王舍城迦蘭陀竹林<lb
+ n="0222a23" ed="T"/><ab type='prose'>如是我聞：一時，世尊在王舍城迦蘭陀竹林<lb
  n="0222a24" ed="T"/>精舍。時，彼城中有一長者，名曰和合，於一<lb
  n="0222a25" ed="T"/>日中，飯食事訖，出王舍城，詣迦蘭陀竹林<lb
  n="0222a26" ed="T"/>精舍佛世尊所，瞻禮親近。是時，長者，其出<lb
@@ -253,15 +253,15 @@
  n="0224b21" ed="T"/>故他眾，不作恭敬供養於我尼拘陀？』此即是<lb
  n="0224b22" ed="T"/>為汝所修行煩惱隨增。<lb
  n="0224b23" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說尼拘陀梵志經卷上</ab><lb
+</ab><ab type='juan' subtype='close'>佛說尼拘陀梵志經卷上</ab><lb
  n="0224b24" ed="T"/><lb
  n="0224b25" ed="T"/><lb
  n="0224b26" ed="T"/>
-<ab type="juan" subtype="open">佛說尼拘陀梵志經卷下</ab><lb
+<ab type='juan' subtype='open'>佛說尼拘陀梵志經卷下</ab><lb
  n="0224b27" ed="T"/><lb
  n="0224b28" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0224b29" ed="T"/>傳法大師賜紫沙門臣施護等奉　詔譯</byline><pb n="0224c" ed="T" id="T01.0011.0224c"/><lb
- n="0224c01" ed="T"/><ab type="prose">「復次，尼拘陀！汝等修行，若於如來、或於如<lb
+ n="0224c01" ed="T"/><ab type='prose'>「復次，尼拘陀！汝等修行，若於如來、或於如<lb
  n="0224c02" ed="T"/>來弟子之所，方伸請問，嫌恚旋生。瞋惱既<lb
  n="0224c03" ed="T"/>興，障礙斯作，以障礙故，起諸過失。尼拘陀！<lb
  n="0224c04" ed="T"/>此即是為汝所修行煩惱隨增。<lb
@@ -431,5 +431,5 @@
  n="0226b23" ed="T"/>喜已，身放光明，廣大熾盛，普徧照耀。即於<lb
  n="0226b24" ed="T"/>會中，踴身虛空，還迦蘭陀竹林精舍。<lb
  n="0226b25" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說尼拘陀梵志經卷下</ab></div>
+</ab><ab type='juan' subtype='close'>佛說尼拘陀梵志經卷下</ab></div>
 </body></text></TEI>

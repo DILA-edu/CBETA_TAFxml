@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T15</biblScope>
                     <idno type="Taisho">T15n0611</idno>
                 </bibl>
@@ -43,10 +43,10 @@
  n="0240b23" ed="T"/><lb
  n="0240b24" ed="T"/><lb
  n="0240b25" ed="T"/>
-<ab type="juan" subtype="open">法觀經</ab><lb
+<ab type='juan' subtype='open'>法觀經</ab><lb
  n="0240b26" ed="T"/><lb
  n="0240b27" ed="T"/><byline>西晉月氏國三藏竺法護譯</byline><lb
- n="0240b28" ed="T"/><div type="jing" level="1"><ab type="prose">佛言：「第一、何以故數息？用息輕易知故。以世<lb
+ n="0240b28" ed="T"/><div type='jing' level='1'><ab type='prose'>佛言：「第一、何以故數息？用息輕易知故。以世<lb
  n="0240b29" ed="T"/>間人皆貪身，未能捨身守意，又身中事難分<pb n="0240c" ed="T" id="T15.0611.0240c"/><lb
  n="0240c01" ed="T"/>別，皆不信本無意不止。何以有故說空意？顛<lb
  n="0240c02" ed="T"/>倒習息見有無，故先說息；稍稍解人意，上頭<lb
@@ -173,7 +173,7 @@
  n="0242a07" ed="T"/>禍行，種五道根本。道人精思，自守四意，欲止<lb
  n="0242a08" ed="T"/>無邪，念識思想走。何道人欲滅念識思想，當<lb
  n="0242a09" ed="T"/>一切行非常，斷身十事。身、口、意三者，從五陰<lb
- n="0242a10" ed="T"/>六衰乃至三定者，口無所知為口定，身無所<lb
+ n="0242a10" ed="T"/>六衰乃止。三定者，口無所知為口定，身無所<lb
  n="0242a11" ed="T"/>知為身定，意無所復念為意定。」<lb
  n="0242a12" ed="T"/>佛言：「道有四要，界持啟封乃得出。何等為四？<lb
  n="0242a13" ed="T"/>一為識苦，不復向萬物，是為得出三惡道啟；<lb
@@ -185,5 +185,5 @@
  n="0242a19" ed="T"/>四要界，得第一禪。上七天無有身景。何以故？<lb
  n="0242a20" ed="T"/>行道壞身故。」</ab></div><lb
  n="0242a21" ed="T"/>
-<ab type="juan" subtype="close">法觀經</ab>
+<ab type='juan' subtype='close'>法觀經</ab>
 </body></text></TEI>

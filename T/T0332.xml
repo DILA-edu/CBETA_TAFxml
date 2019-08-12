@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T12</biblScope>
                     <idno type="Taisho">T12n0332</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0070c06" ed="T"/><lb
  n="0070c07" ed="T"/><lb
  n="0070c08" ed="T"/>
-<ab type="juan" subtype="open">佛說優填王經</ab><lb
+<ab type='juan' subtype='open'>佛說優填王經</ab><lb
  n="0070c09" ed="T"/><lb
  n="0070c10" ed="T"/><byline>西晉沙門釋法炬奉　詔譯</byline><lb
- n="0070c11" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時佛在拘深國，王號曰優填。拘<lb
+ n="0070c11" ed="T"/><div type='jing' level='1'><ab type='prose'>聞如是：一時佛在拘深國，王號曰優填。拘<lb
  n="0070c12" ed="T"/>深國有逝心，名摩回提，生女端正華色世間<lb
  n="0070c13" ed="T"/>少雙。父覩女容一國希有，名曰無比。鄰國諸<lb
  n="0070c14" ed="T"/>王群僚豪姓靡不娉焉。父答曰：「若有君子<lb
@@ -62,11 +62,11 @@
  n="0070c23" ed="T"/>必自清淨無復婬欲，將不取吾女，無自辱也。」<lb
  n="0070c24" ed="T"/>夫曰：「何以知其然？」妻因說偈言：<lb
  n="0070c25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「婬人曳踵行，　　恚者操指步，　　<lb
  n="0070c26" ed="T"/>愚者足躘地；　　斯跡天人尊。」　　
 </ab><lb
- n="0070c27" ed="T"/><ab type="prose">逝心曰：「非爾女人所知，汝不樂者便還歸。」<lb
+ n="0070c27" ed="T"/><ab type='prose'>逝心曰：「非爾女人所知，汝不樂者便還歸。」<lb
  n="0070c28" ed="T"/>乃自將女詣佛所，稽首佛足，白佛言：「大人<lb
  n="0070c29" ed="T"/>勤勞教授，身無供養。有是麁女，願給箕󰆠。」佛<pb n="0071a" id="T12.0332.0071a" ed="T"/><lb
  n="0071a01" ed="T"/>言：「汝以女為好耶？」答曰：「生得此女顏容實<lb
@@ -145,7 +145,7 @@
  n="0071c16" ed="T"/>墮三塗，當審遠此態免苦耳。復聽說女人之<lb
  n="0071c17" ed="T"/>惡。」佛便說偈言：<lb
  n="0071c18" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「已為欲所使，　　放意不能安，　　<lb
  n="0071c19" ed="T"/>習施於非法，　　將何以為賢？　　<lb
  n="0071c20" ed="T"/>欲為畜生行，　　以欲還自殃，　　<lb
@@ -193,11 +193,11 @@
  n="0072b04" ed="T"/>亦如魚食鉤，　　飛蛾入燈火，　　<lb
  n="0072b05" ed="T"/>愚者見歡喜，　　不惟後受禍。」　　
 </ab><lb
- n="0072b06" ed="T"/><ab type="prose">佛說如是，優填王歡喜，即以頭面著地，白佛<lb
+ n="0072b06" ed="T"/><ab type='prose'>佛說如是，優填王歡喜，即以頭面著地，白佛<lb
  n="0072b07" ed="T"/>言：「實從生以來不聞女人之惡乃爾，男子<lb
  n="0072b08" ed="T"/>悖亂隨之墮罪，但不知故不制心意。從今<lb
  n="0072b09" ed="T"/>已後終身自悔，歸命三尊不敢復犯。」為佛作<lb
  n="0072b10" ed="T"/>禮，歡喜而去。</ab></div><lb
  n="0072b11" ed="T"/>
-<ab type="juan" subtype="close">佛說優填王經</ab>
+<ab type='juan' subtype='close'>佛說優填王經</ab>
 </body></text></TEI>

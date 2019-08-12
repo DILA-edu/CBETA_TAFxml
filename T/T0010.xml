@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0010</idno>
                 </bibl>
@@ -44,14 +44,14 @@
  n="0216b06" ed="T"/><lb
  n="0216b07" ed="T"/><lb
  n="0216b08" ed="T"/><lb
- n="0216b09" ed="T"/><div type="jing" level="1"><lb
+ n="0216b09" ed="T"/><div type='jing' level='1'><lb
  n="0216b10" ed="T"/>
-<ab type="juan" subtype="open">佛說白衣金幢二婆羅門緣起經<lb
+<ab type='juan' subtype='open'>佛說白衣金幢二婆羅門緣起經<lb
  n="0216b11" ed="T"/>卷上</ab><lb
  n="0216b12" ed="T"/><lb
  n="0216b13" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿傳<lb
  n="0216b14" ed="T"/>法大師賜紫沙門臣施護等奉　詔譯</byline><lb
- n="0216b15" ed="T"/><ab type="prose">如是我聞：一時，世尊在舍衛國故廢園林鹿<lb
+ n="0216b15" ed="T"/><ab type='prose'>如是我聞：一時，世尊在舍衛國故廢園林鹿<lb
  n="0216b16" ed="T"/>母堂中。是時，彼處有白衣、金幢二婆羅門，<lb
  n="0216b17" ed="T"/>去佛近住，樂求出家，成苾芻相。<lb
  n="0216b18" ed="T"/>爾時，世尊，日後分時，自房而出，詣鹿母堂，<lb
@@ -218,15 +218,15 @@
  n="0218b05" ed="T"/>勝。如是正見，諸法本母，是即增上，畢竟歸<lb
  n="0218b06" ed="T"/>趣。<lb
  n="0218b07" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說白衣金幢二婆羅門緣起經卷上</ab><lb
+</ab><ab type='juan' subtype='close'>佛說白衣金幢二婆羅門緣起經卷上</ab><lb
  n="0218b08" ed="T"/><lb
  n="0218b09" ed="T"/>
-<ab type="juan" subtype="open">佛說白衣金幢二婆羅門緣起經<lb
+<ab type='juan' subtype='open'>佛說白衣金幢二婆羅門緣起經<lb
  n="0218b10" ed="T"/>卷中</ab><lb
  n="0218b11" ed="T"/><lb
  n="0218b12" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0218b13" ed="T"/>傳法大師賜紫沙門臣施護等奉　詔譯</byline><lb
- n="0218b14" ed="T"/><ab type="prose">「復次，白衣！過極久遠，此界壞時，當界有情，<lb
+ n="0218b14" ed="T"/><ab type='prose'>「復次，白衣！過極久遠，此界壞時，當界有情，<lb
  n="0218b15" ed="T"/>還復往生光音天中。過極久遠，此界成時，<lb
  n="0218b16" ed="T"/>別界有情，光音天歿，而來生此。是諸有情，<lb
  n="0218b17" ed="T"/>各有身光，清淨皎潔騰空而行，隨欲能往，適<lb
@@ -380,15 +380,15 @@
  n="0220a20" ed="T"/>汝盜人，何故復來，竊我香稻！』盜人答言：『我<lb
  n="0220a21" ed="T"/>不如是，不曾取汝界中香稻。』<lb
  n="0220a22" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說白衣金幢二婆羅門緣起經卷中</ab><lb
+</ab><ab type='juan' subtype='close'>佛說白衣金幢二婆羅門緣起經卷中</ab><lb
  n="0220a23" ed="T"/><lb
  n="0220a24" ed="T"/>
-<ab type="juan" subtype="open">佛說白衣金幢二婆羅門緣起經<lb
+<ab type='juan' subtype='open'>佛說白衣金幢二婆羅門緣起經<lb
  n="0220a25" ed="T"/>卷下</ab><lb
  n="0220a26" ed="T"/><lb
  n="0220a27" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0220a28" ed="T"/>傳法大師賜紫沙門臣施護等奉　詔譯</byline><lb
- n="0220a29" ed="T"/><ab type="prose">「復次，白衣！前人又於第三時中，往取香稻，<pb n="0220b" ed="T" id="T01.0010.0220b"/><lb
+ n="0220a29" ed="T"/><ab type='prose'>「復次，白衣！前人又於第三時中，往取香稻，<pb n="0220b" ed="T" id="T01.0010.0220b"/><lb
  n="0220b01" ed="T"/>亦復難得，乃作是念：『我今云何能得所食？云<lb
  n="0220b02" ed="T"/>何令我養活其命？我今自分香稻將盡，他界<lb
  n="0220b03" ed="T"/>雖有，然彼不許，我今于三盜其少分。』作是念<lb
@@ -523,11 +523,11 @@
  n="0221c16" ed="T"/>修習七覺支已，自能證悟彼涅槃界。<lb
  n="0221c17" ed="T"/>「復次，白衣！彼最初時，大梵天王，說伽陀曰：<lb
  n="0221c18" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『剎帝利族人中尊，　　種姓真實復清淨，　　<lb
  n="0221c19" ed="T"/>三明諸行悉周圓，　　為人天中勝尊者。』　　
 </ab><lb
- n="0221c20" ed="T"/><ab type="prose">「白衣！彼大梵天王所說伽陀，深為善說，為<lb
+ n="0221c20" ed="T"/><ab type='prose'>「白衣！彼大梵天王所說伽陀，深為善說，為<lb
  n="0221c21" ed="T"/>善歌詠，此語誠實，非妄說者。何以故？我亦<lb
  n="0221c22" ed="T"/>宣說：『剎帝利族，為人中尊，種姓真實，又復<lb
  n="0221c23" ed="T"/>清淨，三明諸行，皆悉圓滿，於人天中，是尊<lb
@@ -551,5 +551,5 @@
  n="0222a12" ed="T"/>漏盡三明。具三明已，是正知者，聞所說法，<lb
  n="0222a13" ed="T"/>得大利益。<lb
  n="0222a14" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說白衣金幢二婆羅門緣起經卷下</ab></div>
+</ab><ab type='juan' subtype='close'>佛說白衣金幢二婆羅門緣起經卷下</ab></div>
 </body></text></TEI>

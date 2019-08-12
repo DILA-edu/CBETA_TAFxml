@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1063</idno>
                 </bibl>
@@ -42,9 +42,9 @@
         <body><pb n="0114c" id="T20.1063.0114c" ed="T"/><lb
  n="0114c01" ed="T"/><lb
  n="0114c03" ed="T"/>
-<ab type="juan" subtype="open">番大悲神呪</ab><lb
+<ab type='juan' subtype='open'>番大悲神呪</ab><lb
  n="0114c04" ed="T"/><lb
- n="0114c05" ed="T"/><div type="dharani" level="1"><ab type="dharani">捺麼囉得捺得囉牙牙󰋂麼阿㗚牙<lb
+ n="0114c05" ed="T"/><div type='dharani' level='1'><ab type='dharani'>捺麼囉得捺得囉牙牙󰋂麼阿㗚牙<lb
  n="0114c06" ed="T"/>啞斡盧雞帝說囉牙布提薩咄牙麼曷<lb
  n="0114c07" ed="T"/>薩咄牙麼曷葛嚕禰葛牙怛爹塔唵<lb
  n="0114c08" ed="T"/>薩㗚斡板塔捺妻達納葛囉牙薩㗚斡巴鈸薩麼度嚕束攝納葛囉牙薩㗚<lb
@@ -84,7 +84,7 @@
  n="0115a17" ed="T"/>思貼怛辛曷麻渴曷薩曷薩門拶門拶麻<lb
  n="0115a18" ed="T"/>曷劄劄哈薩禰㗚捺爹儞伊兮歇蒲蒲麻曷<lb
  n="0115a19" ed="T"/>悉塔由吉說囉班塔班塔咓咱薩塔牙薩塔<lb
- n="0115a20" ed="T"/>牙微店思麻囉思麻囉󰺿兮杷葛頑嚕葛<lb
+ n="0115a20" ed="T"/>牙微店思麻囉思麻囉𭋬兮杷葛頑嚕葛<lb
  n="0115a21" ed="T"/>月魯葛思端怛塔葛達怛達歇迷怛哩賒<lb
  n="0115a22" ed="T"/>喃不囉薩塔牙迷莎訶席塔牙莎訶麻曷席塔<lb
  n="0115a23" ed="T"/>牙莎訶席塔由吉說囉牙莎訶禰辣竿剎牙<lb
@@ -109,5 +109,5 @@
  n="0115b13" ed="T"/>薩埵牙麻曷薩埵牙麻曷葛嚕禰葛牙席<lb
  n="0115b14" ed="T"/>甸都迷滿特囉巴達禰莎曷<lb
  n="0115b15" ed="T"/>
-</ab><ab type="juan" subtype="close">番大悲神呪</ab></div>
+</ab><ab type='juan' subtype='close'>番大悲神呪</ab></div>
 </body></text></TEI>

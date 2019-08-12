@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0495</idno>
                 </bibl>
@@ -42,9 +42,9 @@
         <body><lb
  n="0758b05" ed="T"/><lb
  n="0758b06" ed="T"/>
-<ab type="juan" subtype="open">佛說阿難分別經</ab><lb
+<ab type='juan' subtype='open'>佛說阿難分別經</ab><lb
  n="0758b07" ed="T"/><byline>乞伏秦沙門釋法堅譯</byline><lb
- n="0758b08" ed="T"/><div type="jing" level="1"><ab type="prose">阿難白佛言：「有人事佛得富貴諧利者，有衰<lb
+ n="0758b08" ed="T"/><div type='jing' level='1'><ab type='prose'>阿難白佛言：「有人事佛得富貴諧利者，有衰<lb
  n="0758b09" ed="T"/>耗不偶者，云何不等耶？願天中天，普為說<lb
  n="0758b10" ed="T"/>之。」佛告阿難：「有人奉佛，從明師受戒，專信<lb
  n="0758b11" ed="T"/>不犯，精進奉行，不失所受。形像鮮明，朝暮禮<lb
@@ -142,7 +142,7 @@
  n="0759b12" ed="T"/>後，經法稍替漸衰滅矣！嗚呼！痛哉！將何恃怙？」<lb
  n="0759b13" ed="T"/>阿難墮淚，因事說曰：<lb
  n="0759b14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「佛為三界護，　　恩廣大慈普，　　<lb
  n="0759b15" ed="T"/>世弊不見佛，　　值法者亦難。　　<lb
  n="0759b16" ed="T"/>痛矣不識者，　　盲盲不別真，　　<lb
@@ -200,10 +200,10 @@
  n="0760a06" ed="T"/>慧船到彼岸，　　法磬引大千，　　<lb
  n="0760a07" ed="T"/>彼我無有二，　　願發無上真。」　　
 </ab><lb
- n="0760a08" ed="T"/><ab type="prose">阿難說如是，諸會大眾信解，僧那大鎧甘露<lb
+ n="0760a08" ed="T"/><ab type='prose'>阿難說如是，諸會大眾信解，僧那大鎧甘露<lb
  n="0760a09" ed="T"/>之音，香熏三千。從是得度，開現道地，為作橋<lb
  n="0760a10" ed="T"/>梁，國王、臣民、天龍、鬼神，聞經所記，阿難所<lb
  n="0760a11" ed="T"/>說，且悲、且喜，稽首佛足，及禮阿難，受教而去。</ab></div><lb
  n="0760a12" ed="T"/>
-<ab type="juan" subtype="close">佛說阿難分別經</ab>
+<ab type='juan' subtype='close'>佛說阿難分別經</ab>
 </body></text></TEI>

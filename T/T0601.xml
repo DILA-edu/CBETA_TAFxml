@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T15</biblScope>
                     <idno type="Taisho">T15n0601</idno>
                 </bibl>
@@ -44,15 +44,15 @@
  n="0159b05" ed="T"/><lb
  n="0159b06" ed="T"/><lb
  n="0159b07" ed="T"/>
-<ab type="juan" subtype="open">佛為娑伽羅龍王所說大乘經</ab><lb
+<ab type='juan' subtype='open'>佛為娑伽羅龍王所說大乘經</ab><lb
  n="0159b08" ed="T"/><lb
  n="0159b09" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚少卿<lb
  n="0159b10" ed="T"/>傳法大師臣施護奉　詔譯</byline><lb
- n="0159b11" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時，佛在大海中娑伽羅龍王宮<lb
+ n="0159b11" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時，佛在大海中娑伽羅龍王宮<lb
  n="0159b12" ed="T"/>莊嚴道場，與大比丘眾七千五百人俱，并諸<lb
  n="0159b13" ed="T"/>得大智慧菩薩摩訶薩，自十方世界皆來集<lb
  n="0159b14" ed="T"/>會；復有百千俱胝那由他梵王、帝釋及護世<lb
- n="0159b15" ed="T"/>等，天龍、夜叉、乾闥婆、阿修羅、誐嚕拏、緊那羅、<lb
+ n="0159b15" ed="T"/>等，天、龍、夜叉、乾闥婆、阿修羅、誐嚕拏、緊那羅、<lb
  n="0159b16" ed="T"/>摩睺羅伽等亦來集會。<lb
  n="0159b17" ed="T"/>爾時，世尊見彼一切大眾來集會已，告娑伽<lb
  n="0159b18" ed="T"/>羅龍王言：「龍主！觀此世間，種種行業皆從妄<lb
@@ -77,7 +77,7 @@
  n="0159c08" ed="T"/>專注觀想、瞻仰如來最妙之身；實知此身，一<lb
  n="0159c09" ed="T"/>切色相殊妙莊嚴，皆從善業所集而得。<lb
  n="0159c10" ed="T"/>「龍主！如汝住宮，一切莊嚴亦福所生。至於梵<lb
- n="0159c11" ed="T"/>王、帝釋及護世等，乃至天龍、夜叉、乾闥婆、阿<lb
+ n="0159c11" ed="T"/>王、帝釋及護世等，乃至天、龍、夜叉、乾闥婆、阿<lb
  n="0159c12" ed="T"/>修羅、迦樓羅、緊曩羅、摩睺羅伽、人非人等，所有<lb
  n="0159c13" ed="T"/>一切莊嚴皆福所生。<lb
  n="0159c14" ed="T"/>「龍主！又此大海之中，所有眾生種種，或有<lb
@@ -287,5 +287,5 @@
  n="0162a15" ed="T"/>切聲聞及天、人、阿修羅、乾闥婆等一切大眾，聞<lb
  n="0162a16" ed="T"/>佛所說，歡喜奉行。</ab></div><lb
  n="0162a17" ed="T"/>
-<ab type="juan" subtype="close">佛為娑伽羅龍王所說大乘法經</ab>
+<ab type='juan' subtype='close'>佛為娑伽羅龍王所說大乘法經</ab>
 </body></text></TEI>

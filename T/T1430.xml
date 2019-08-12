@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T22</biblScope>
                     <idno type="Taisho">T22n1430</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="1023a12" ed="T"/><lb
  n="1023a13" ed="T"/><lb
- n="1023a14" ed="T"/><div type="jing" level="1"><lb
+ n="1023a14" ed="T"/><div type='jing' level='1'><lb
  n="1023a15" ed="T"/>
-<ab type="juan" subtype="open">四分僧戒本</ab><lb
+<ab type='juan' subtype='open'>四分僧戒本</ab><lb
  n="1023a16" ed="T"/><lb
  n="1023a17" ed="T"/><byline>後秦世罽賓三藏佛陀耶舍譯</byline><lb
- n="1023a18" ed="T"/><ab type="verse">
+ n="1023a18" ed="T"/><ab type='verse'>
 稽首禮諸佛，　　及法比丘僧，　　<lb
  n="1023a19" ed="T"/>今演毘尼法，　　令正法久住。　　<lb
  n="1023a20" ed="T"/>戒如海無崖，　　如寶求無厭，　　<lb
@@ -73,7 +73,7 @@
  n="1023b11" ed="T"/>一切眾律中，　　戒經為上最，　　<lb
  n="1023b12" ed="T"/>如來立禁戒，　　半月半月說。　　
 </ab><lb
- n="1023b13" ed="T"/><ab type="prose">「和合僧集會？未受大戒者出？不來諸比丘說<lb
+ n="1023b13" ed="T"/><ab type='prose'>「和合僧集會？未受大戒者出？不來諸比丘說<lb
  n="1023b14" ed="T"/>欲及清淨？誰遣比丘尼來受教誡？僧今和<lb
  n="1023b15" ed="T"/>合何所作為？」「大德僧聽！今僧十五<lb
  n="1023b16" ed="T"/>日布薩說戒。若僧時到僧忍聽，和合說戒。白<lb
@@ -89,7 +89,7 @@
  n="1023b26" ed="T"/>持。<lb
  n="1023b27" ed="T"/>「諸大德！是四棄法，半月半月，戒經中說。若比<lb
  n="1023b28" ed="T"/>丘，與比丘共戒同戒，不捨戒，戒羸不自悔，犯<lb
- n="1023b29" ed="T"/>不淨行，行淫欲法；乃至共畜生。是比丘波羅<pb n="1023c" ed="T" id="T22.1430.1023c"/><lb
+ n="1023b29" ed="T"/>不淨行，行婬欲法；乃至共畜生。是比丘波羅<pb n="1023c" ed="T" id="T22.1430.1023c"/><lb
  n="1023c01" ed="T"/>夷，不共住。<lb
  n="1023c02" ed="T"/>「若比丘，在聚落中，若閑靜處，不與物，懷盜心<lb
  n="1023c03" ed="T"/>取；隨不與取法，若為王、王大臣所捉，若殺、<lb
@@ -157,7 +157,7 @@
  n="1024b07" ed="T"/>此比丘所說，我等心忍可。何以故！此比丘非<lb
  n="1024b08" ed="T"/>法語比丘、非律語比丘。大德！莫欲壞和合<lb
  n="1024b09" ed="T"/>僧，汝等當樂欲和合僧。大德！與僧和合，歡喜<lb
- n="1024b10" ed="T"/>不諍，同一師學，如水乳合，於佛法中者增益<lb
+ n="1024b10" ed="T"/>不諍，同一師學，如水乳合，於佛法中有增益<lb
  n="1024b11" ed="T"/>安樂住。』是比丘如是諫時，堅持不捨；彼比丘<lb
  n="1024b12" ed="T"/>應三諫，捨是事故，乃至三諫。捨者善；若不捨<lb
  n="1024b13" ed="T"/>者，僧伽婆尸沙。<lb
@@ -309,7 +309,7 @@
  n="1026a14" ed="T"/>若逈遠有疑恐怖畏難處，比丘在如是處住，<lb
  n="1026a15" ed="T"/>於三衣中，若留一一衣置村舍內，及有因緣<lb
  n="1026a16" ed="T"/>離衣宿，乃至六夜。若過者，尼薩耆波逸提。<lb
- n="1026a17" ed="T"/>「若比丘，知他欲與僧物，自迴入已者，尼薩耆<lb
+ n="1026a17" ed="T"/>「若比丘，知他欲與僧物，自迴入己者，尼薩耆<lb
  n="1026a18" ed="T"/>波逸提。<lb
  n="1026a19" ed="T"/>「諸大德！我已說三十尼薩耆波逸提法。今問<lb
  n="1026a20" ed="T"/>諸大德！是中清淨不？<lb
@@ -565,7 +565,7 @@
  n="1029a09" ed="T"/>「不得大揣飯食，應當學。<lb
  n="1029a10" ed="T"/>「不得大張口待飯食，應當學。<lb
  n="1029a11" ed="T"/>「不得含食語，應當學。<lb
- n="1029a12" ed="T"/>「不得揣飯搖擲口中食，應當學。<lb
+ n="1029a12" ed="T"/>「不得揣飯遙擲口中食，應當學。<lb
  n="1029a13" ed="T"/>「不得遺落飯食，應當學。<lb
  n="1029a14" ed="T"/>「不得頰飯食，應當學。<lb
  n="1029a15" ed="T"/>「不得故嚼飯作聲食，應當學。<lb
@@ -632,7 +632,7 @@
  n="1029c18" ed="T"/>「人持蓋，不應為說法，除病，應當學。<lb
  n="1029c19" ed="T"/>「諸大德！我已說眾學法。今問諸大德！是中<lb
  n="1029c20" ed="T"/>清淨不？「諸大德！是中清淨，默然故，是事<lb
- n="1029c21" ed="T"/>是持。<lb
+ n="1029c21" ed="T"/>如是持。<lb
  n="1029c22" ed="T"/>「諸大德！是七滅諍法，半月半月，戒經中說。<lb
  n="1029c23" ed="T"/>「若比丘有諍事起，即應除滅。<lb
  n="1029c24" ed="T"/>「應與現前毘尼，當與現前毘尼。「應與憶念<lb
@@ -652,57 +652,57 @@
  n="1030a09" ed="T"/>經中來。若更有餘佛法，是中皆共和合，應當<lb
  n="1030a10" ed="T"/>學。<lb
  n="1030a11" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『忍辱第一道，　　佛說無為最，　　<lb
  n="1030a12" ed="T"/>出家惱他人，　　不名為沙門。』　　
 </ab><lb
- n="1030a13" ed="T"/><ab type="prose">「此是毘婆尸如來、無所著、等正覺，說是戒經。<lb
+ n="1030a13" ed="T"/><ab type='prose'>「此是毘婆尸如來、無所著、等正覺，說是戒經。<lb
  n="1030a14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『譬如明眼人，　　能避險惡道，　　<lb
  n="1030a15" ed="T"/>世有聰明人，　　能遠離諸惡。』　　
 </ab><lb
- n="1030a16" ed="T"/><ab type="prose">「此是尸棄如來、無所著、等正覺，說是戒經。<lb
+ n="1030a16" ed="T"/><ab type='prose'>「此是尸棄如來、無所著、等正覺，說是戒經。<lb
  n="1030a17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『不謗亦不嫉，　　常奉於戒行，　　<lb
  n="1030a18" ed="T"/>飲食知止足，　　常樂在空閑，　　<lb
  n="1030a19" ed="T"/>心定樂精進，　　是名諸佛教。』　　
 </ab><lb
- n="1030a20" ed="T"/><ab type="prose">「此是毘葉羅如來、無所著、等正覺，說是戒經。<lb
+ n="1030a20" ed="T"/><ab type='prose'>「此是毘葉羅如來、無所著、等正覺，說是戒經。<lb
  n="1030a21" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『譬如蜂採華，　　不壞色與香，　　<lb
  n="1030a22" ed="T"/>但取其味去；　　比丘入聚落，　　<lb
  n="1030a23" ed="T"/>不違戾他事，　　不觀作不作，　　<lb
  n="1030a24" ed="T"/>但自觀身行，　　若正若不正。』　　
 </ab><lb
- n="1030a25" ed="T"/><ab type="prose">「此是拘留孫如來、無所著、等正覺，說是戒經。<lb
+ n="1030a25" ed="T"/><ab type='prose'>「此是拘留孫如來、無所著、等正覺，說是戒經。<lb
  n="1030a26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『心莫作放逸，　　聖法當勤學，　　<lb
  n="1030a27" ed="T"/>如是無憂愁，　　心定入涅槃。』　　
 </ab><lb
- n="1030a28" ed="T"/><ab type="prose">「此是拘那含牟尼如來、無所著、等正覺，說是<lb
+ n="1030a28" ed="T"/><ab type='prose'>「此是拘那含牟尼如來、無所著、等正覺，說是<lb
  n="1030a29" ed="T"/>戒經。<pb n="1030b" ed="T" id="T22.1430.1030b"/><lb
  n="1030b01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『一切惡莫作，　　當奉行諸善，　　<lb
  n="1030b02" ed="T"/>自淨其志意，　　是則諸佛教。』　　
 </ab><lb
- n="1030b03" ed="T"/><ab type="prose">「此是迦葉如來、無所著、等正覺，說是戒經。<lb
+ n="1030b03" ed="T"/><ab type='prose'>「此是迦葉如來、無所著、等正覺，說是戒經。<lb
  n="1030b04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『善護於口言，　　自淨其志意，　　<lb
  n="1030b05" ed="T"/>身莫作諸惡，　　此三業道淨，　　<lb
  n="1030b06" ed="T"/>能得如是行，　　是大仙人道。』　　
 </ab><lb
- n="1030b07" ed="T"/><ab type="prose">「此是釋迦牟尼如來、無所著、等正覺，於十二<lb
+ n="1030b07" ed="T"/><ab type='prose'>「此是釋迦牟尼如來、無所著、等正覺，於十二<lb
  n="1030b08" ed="T"/>年中，為無事僧說是戒經。從是已後，廣分別<lb
  n="1030b09" ed="T"/>說。諸比丘，自為樂法、樂沙門者，有慚、有愧，<lb
  n="1030b10" ed="T"/>樂學戒者，當於中學。<lb
  n="1030b11" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「明人能護戒，　　能得三種樂，　　<lb
  n="1030b12" ed="T"/>名譽及利養，　　死得生天上。　　<lb
  n="1030b13" ed="T"/>當觀如是處，　　有智勤護戒，　　<lb
@@ -733,5 +733,5 @@
  n="1030c09" ed="T"/>施一切眾生，　　皆共成佛道。」　　
 </ab><lb
  n="1030c10" ed="T"/>
-<ab type="juan" subtype="close">四分僧戒本</ab></div>
+<ab type='juan' subtype='close'>四分僧戒本</ab></div>
 </body></text></TEI>

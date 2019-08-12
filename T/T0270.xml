@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T09</biblScope>
                     <idno type="Taisho">T09n0270</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0290b10" ed="T"/><lb
  n="0290b11" ed="T"/><lb
  n="0290b12" ed="T"/>
-<ab type="juan" subtype="open">大法鼓經卷上</ab><lb
+<ab type='juan' subtype='open'>大法鼓經卷上</ab><lb
  n="0290b13" ed="T"/><lb
  n="0290b14" ed="T"/><byline>宋天竺三藏求那跋陀羅譯</byline><lb
- n="0290b15" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時佛住舍衛國祇樹給孤獨園，<lb
+ n="0290b15" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時佛住舍衛國祇樹給孤獨園，<lb
  n="0290b16" ed="T"/>與大比丘眾五百人俱，復有百千大菩薩眾，<lb
  n="0290b17" ed="T"/>復有眾多天、龍、夜叉、健闥婆眾，復有百千諸<lb
  n="0290b18" ed="T"/>優婆塞、優婆夷眾，復有娑婆世界主、梵天王、<lb
@@ -199,11 +199,11 @@
  n="0292a19" ed="T"/>水及細末香，安慰悅樂一切眾生，應為世尊<lb
  n="0292a20" ed="T"/>之所建立為法長子。」時天龍眾同聲說偈：<lb
  n="0292a21" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「王於舍衛城，　　伐鼓吹戰䗍；　　<lb
  n="0292a22" ed="T"/>法王祇洹林，　　擊于大法鼓。」　　
 </ab><lb
- n="0292a23" ed="T"/><ab type="prose">佛告迦葉：「汝今當以問難之桴擊大法鼓，如<lb
+ n="0292a23" ed="T"/><ab type='prose'>佛告迦葉：「汝今當以問難之桴擊大法鼓，如<lb
  n="0292a24" ed="T"/>來法王當為汝說，天中之天當決汝疑。」<lb
  n="0292a25" ed="T"/>爾時，世尊告大迦葉：「有比丘名信大方廣，若<lb
  n="0292a26" ed="T"/>有四眾聞其名者，貪恚癡箭悉皆拔出。所以<lb
@@ -239,7 +239,7 @@
  n="0292b27" ed="T"/>當求斷有。」爾時世尊欲重宣此義，而說偈<lb
  n="0292b28" ed="T"/>言：<lb
  n="0292b29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「一切有無常，　　亦無不變異，　　<pb n="0292c" ed="T" id="T09.0270.0292c"/><lb
  n="0292c01" ed="T"/>彼有有苦樂，　　無有無苦樂。　　<lb
  n="0292c02" ed="T"/>不為無苦樂，　　為則有苦樂，　　<lb
@@ -247,19 +247,19 @@
  n="0292c04" ed="T"/>若人得安樂，　　還復墜於苦；　　<lb
  n="0292c05" ed="T"/>若不到涅槃，　　不住安樂處。」　　
 </ab><lb
- n="0292c06" ed="T"/><ab type="prose">爾時迦葉以偈答言：<lb
+ n="0292c06" ed="T"/><ab type='prose'>爾時迦葉以偈答言：<lb
  n="0292c07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「眾生不為有，　　涅槃第一樂，　　<lb
  n="0292c08" ed="T"/>彼則名字樂，　　無有受樂者。」　　
 </ab><lb
- n="0292c09" ed="T"/><ab type="prose">爾時世尊復說偈言：<lb
+ n="0292c09" ed="T"/><ab type='prose'>爾時世尊復說偈言：<lb
  n="0292c10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「常解脫非名，　　妙色湛然住，　　<lb
  n="0292c11" ed="T"/>非聲聞緣覺、　　菩薩之境界。」　　
 </ab><lb
- n="0292c12" ed="T"/><ab type="prose">迦葉白佛言：「世尊！云何言色而復常住？」佛告<lb
+ n="0292c12" ed="T"/><ab type='prose'>迦葉白佛言：「世尊！云何言色而復常住？」佛告<lb
  n="0292c13" ed="T"/>迦葉：「今當說譬。譬如士夫從南方摩頭邏來。<lb
  n="0292c14" ed="T"/>有人問彼：『汝從何來？』士夫答言：『從摩頭邏來。』<lb
  n="0292c15" ed="T"/>即復問言：『摩頭邏為在何方？』時彼士夫即指<lb
@@ -267,13 +267,13 @@
  n="0292c17" ed="T"/>以是士夫自見彼來故。如是，迦葉！以我見故，<lb
  n="0292c18" ed="T"/>汝當信我。」爾時世尊即說偈言：<lb
  n="0292c19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「譬如有士夫，　　以手指虛空，　　<lb
  n="0292c20" ed="T"/>我今亦如是，　　名字說解脫。　　<lb
  n="0292c21" ed="T"/>譬如彼士夫，　　遠自南方來，　　<lb
  n="0292c22" ed="T"/>今我亦如是，　　從彼涅槃出。　　
 </ab><lb
- n="0292c23" ed="T"/><ab type="prose">「然彼，迦葉！若見義者，則不須因緣；若不見義，<lb
+ n="0292c23" ed="T"/><ab type='prose'>「然彼，迦葉！若見義者，則不須因緣；若不見義，<lb
  n="0292c24" ed="T"/>則須因緣。如是，迦葉！諸佛世尊常以無量因<lb
  n="0292c25" ed="T"/>緣顯示解脫。」迦葉白佛言：「云何為因？」佛告迦<lb
  n="0292c26" ed="T"/>葉：「因者是事。」迦葉白佛言：「云何為緣？」佛告迦<lb
@@ -448,13 +448,13 @@
  n="0294c22" ed="T"/>舍壞則為虛空；如是，如是！諸佛涅槃即是<lb
  n="0294c23" ed="T"/>解脫。」<lb
  n="0294c24" ed="T"/>
-</ab><ab type="juan" subtype="close">大法鼓經卷上</ab><pb n="0295a" ed="T" id="T09.0270.0295a"/><lb
+</ab><ab type='juan' subtype='close'>大法鼓經卷上</ab><pb n="0295a" ed="T" id="T09.0270.0295a"/><lb
  n="0295a01" ed="T"/><lb
  n="0295a02" ed="T"/>
-<ab type="juan" subtype="open">大法鼓經卷下</ab><lb
+<ab type='juan' subtype='open'>大法鼓經卷下</ab><lb
  n="0295a03" ed="T"/><lb
  n="0295a04" ed="T"/><byline>宋天竺三藏求那跋陀羅譯</byline><lb
- n="0295a05" ed="T"/><ab type="prose">爾時世尊告大迦葉：「譬如有王能行布施，彼<lb
+ n="0295a05" ed="T"/><ab type='prose'>爾時世尊告大迦葉：「譬如有王能行布施，彼<lb
  n="0295a06" ed="T"/>王國中多出伏藏。所以者何？以彼國王種種<lb
  n="0295a07" ed="T"/>周給貧苦眾生，是故伏藏自然發出。如是，迦<lb
  n="0295a08" ed="T"/>葉！大方便菩薩廣為眾生說甚深法寶故，得<lb
@@ -913,15 +913,15 @@
  n="0300a26" ed="T"/>典，是故彼為說解脫因，得授佛記。時諸大<lb
  n="0300a27" ed="T"/>眾同聲說偈：<lb
  n="0300a28" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『奇哉！一切，　　世間樂見。　　為比丘像，　　<lb
  n="0300a29" ed="T"/>擊大法鼓，　　護持佛法，　　令得久住。　　<pb n="0300b" ed="T" id="T09.0270.0300b"/><lb
  n="0300b01" ed="T"/>般涅槃後，　　世間虛空；　　彼滅度後，　　<lb
  n="0300b02" ed="T"/>無與等者。　　如是比丘，　　世間難得，　　<lb
  n="0300b03" ed="T"/>能為世間，　　說究竟道。』」　　
 </ab><lb
- n="0300b04" ed="T"/><ab type="prose">爾時，迦葉、阿難、賢護菩薩等無量大眾，聞佛<lb
+ n="0300b04" ed="T"/><ab type='prose'>爾時，迦葉、阿難、賢護菩薩等無量大眾，聞佛<lb
  n="0300b05" ed="T"/>所說，歡喜奉行。</ab></div><lb
  n="0300b06" ed="T"/>
-<ab type="juan" subtype="close">大法鼓經卷下</ab>
+<ab type='juan' subtype='close'>大法鼓經卷下</ab>
 </body></text></TEI>

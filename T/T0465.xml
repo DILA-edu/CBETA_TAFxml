@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0465</idno>
                 </bibl>
@@ -43,10 +43,10 @@
  n="0483c12" ed="T"/><lb
  n="0483c13" ed="T"/><lb
  n="0483c14" ed="T"/>
-<ab type="juan" subtype="open">伽耶山頂經</ab><lb
+<ab type='juan' subtype='open'>伽耶山頂經</ab><lb
  n="0483c15" ed="T"/><lb
  n="0483c16" ed="T"/><byline>元魏天竺三藏菩提流支譯</byline><lb
- n="0483c17" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時，婆伽婆住伽耶城伽耶山頂<lb
+ n="0483c17" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時，婆伽婆住伽耶城伽耶山頂<lb
  n="0483c18" ed="T"/>塔初得菩提，與大比丘眾滿足千人俱，其先<lb
  n="0483c19" ed="T"/>悉是編髮梵志，應作已作、所作已辦，棄捨重<lb
  n="0483c20" ed="T"/>擔，逮得己利盡諸有結，正智心得解脫，一<lb
@@ -317,5 +317,5 @@
  n="0486c25" ed="T"/>王子等，一切世間天、人、阿修羅等，聞佛所說，<lb
  n="0486c26" ed="T"/>皆大歡喜，信受奉行。</ab></div><lb
  n="0486c27" ed="T"/>
-<ab type="juan" subtype="close">伽耶山頂經</ab>
+<ab type='juan' subtype='close'>伽耶山頂經</ab>
 </body></text></TEI>

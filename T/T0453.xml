@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0453</idno>
                 </bibl>
@@ -39,15 +39,15 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0421a" ed="T" id="T14.0453.0421a"/><lb
  n="0421a01" ed="T"/><lb
  n="0421a02" ed="T"/><lb
  n="0421a03" ed="T"/>
-<ab type="juan" subtype="open">佛說彌勒下生經</ab><lb
+<ab type='juan' subtype='open'>佛說彌勒下生經</ab><lb
  n="0421a04" ed="T"/><lb
  n="0421a05" ed="T"/><byline>西晉月氏三藏竺法護譯</byline><lb
- n="0421a06" ed="T"/><div type="jing" level="2"><ab type="prose">聞如是：一時佛在舍衛國祇樹給孤獨園，<lb
+ n="0421a06" ed="T"/><div type='jing' level='2'><ab type='prose'>聞如是：一時佛在舍衛國祇樹給孤獨園，<lb
  n="0421a07" ed="T"/>與大比丘眾五百人俱。爾時，阿難偏露<lb
  n="0421a08" ed="T"/>右肩，右膝著地，白佛言：「如來玄鑒，無事<lb
  n="0421a09" ed="T"/>不察，當來、過去、現在三世，皆悉明了；過去諸<lb
@@ -92,7 +92,7 @@
  n="0421b19" ed="T"/>珍之藏：乾陀越國伊羅鉢寶藏，多諸珍琦<lb
  n="0421b20" ed="T"/>異物不可稱計；第二彌梯羅國綢羅大<lb
  n="0421b21" ed="T"/>藏，亦多珍寶；第三須賴吒大國有大寶藏，<lb
- n="0421b22" ed="T"/>亦多珍寶；第四波羅㮈蠰佉有大寶藏，<lb
+ n="0421b22" ed="T"/>亦多珍寶；第四婆羅㮈蠰佉有大寶藏，<lb
  n="0421b23" ed="T"/>多諸珍寶不可稱計。此四大藏自然應現，<lb
  n="0421b24" ed="T"/>諸守藏人各來白王：『唯願大王以此寶藏之<lb
  n="0421b25" ed="T"/>物惠施貧窮。』爾時，蠰佉大王得此寶已，亦<lb
@@ -218,7 +218,7 @@
  n="0423a04" ed="T"/>或復承事供養，來至我所者。』「是時，彌勒便<lb
  n="0423a05" ed="T"/>說此偈：<lb
  n="0423a06" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『增益戒聞德，　　禪及思惟業，　　<lb
  n="0423a07" ed="T"/>善修於梵行，　　而來至我所。　　<lb
  n="0423a08" ed="T"/>勸施發歡心，　　修行心原本，　　<lb
@@ -238,17 +238,17 @@
  n="0423a22" ed="T"/>是故於佛法，　　承事於聖眾，　　<lb
  n="0423a23" ed="T"/>專心事三寶，　　必至無為處。』　　
 </ab><lb
- n="0423a24" ed="T"/><ab type="prose">「阿難當知，彌勒如來在彼眾中當說此偈。<lb
+ n="0423a24" ed="T"/><ab type='prose'>「阿難當知，彌勒如來在彼眾中當說此偈。<lb
  n="0423a25" ed="T"/>爾時，彼眾中諸天人民思惟此十想，十一姟<lb
  n="0423a26" ed="T"/>人諸塵垢盡，得法眼淨。彌勒如來千歲之中，<lb
  n="0423a27" ed="T"/>眾僧無有瑕穢。爾時，恒以一偈以為禁<lb
  n="0423a28" ed="T"/>戒：<lb
  n="0423a29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『口、意不行惡，　　身亦無所犯，　　<pb n="0423b" ed="T" id="T14.0453.0423b"/><lb
  n="0423b01" ed="T"/>當除此三行，　　速脫生死關。』　　
 </ab><lb
- n="0423b02" ed="T"/><ab type="prose">「過千歲後，當有犯戒之人，遂復立戒。「彌勒<lb
+ n="0423b02" ed="T"/><ab type='prose'>「過千歲後，當有犯戒之人，遂復立戒。「彌勒<lb
  n="0423b03" ed="T"/>如來當壽八萬四千歲。般涅槃後，遺法當<lb
  n="0423b04" ed="T"/>在八萬四千歲。所以然者，爾時眾生皆是<lb
  n="0423b05" ed="T"/>利根。「其有善男子、善女人欲得見彌勒佛<lb
@@ -260,8 +260,8 @@
  n="0423b11" ed="T"/>如是，阿難！當作是學。」爾時，阿難及諸大會，<lb
  n="0423b12" ed="T"/>聞佛所說，歡喜奉行。</ab></div><lb
  n="0423b13" ed="T"/>
-<ab type="juan" subtype="close">佛說彌勒下生經</ab><lb
- n="0423b14" ed="T"/><div type="w" level="2"><ab type="prose">按《開元錄》有譯無本中有法護譯《彌勒<lb
+<ab type='juan' subtype='close'>佛說彌勒下生經</ab><lb
+ n="0423b14" ed="T"/><div type='w' level='2'><ab type='prose'>按《開元錄》有譯無本中有法護譯《彌勒<lb
  n="0423b15" ed="T"/>成佛經》，一名「彌勒當來下生經」者。乍觀此<lb
  n="0423b16" ed="T"/>經即彼失本而還得之，其實非也。何則？羅<lb
  n="0423b17" ed="T"/>什譯《彌勒成佛經》目下注云：「與《下生經》異<lb

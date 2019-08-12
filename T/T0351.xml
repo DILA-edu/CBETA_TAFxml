@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T12</biblScope>
                     <idno type="Taisho">T12n0351</idno>
                 </bibl>
@@ -43,10 +43,10 @@
  n="0194a20" ed="T"/><lb
  n="0194a21" ed="T"/><lb
  n="0194a22" ed="T"/>
-<ab type="juan" subtype="open">佛說摩訶衍寶嚴經</ab><lb
+<ab type='juan' subtype='open'>佛說摩訶衍寶嚴經</ab><lb
  n="0194a23" ed="T"/><lb
  n="0194a24" ed="T"/><byline>晉代譯失三藏名</byline><lb
- n="0194a25" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時，佛遊王舍城耆闍崛山中，與大<lb
+ n="0194a25" ed="T"/><div type='jing' level='1'><ab type='prose'>聞如是：一時，佛遊王舍城耆闍崛山中，與大<lb
  n="0194a26" ed="T"/>比丘眾八千人俱，菩薩萬六千人，從諸佛國<lb
  n="0194a27" ed="T"/>而來集此，悉志無上正真之道。爾時，世尊告<lb
  n="0194a28" ed="T"/>尊者大迦葉曰：「菩薩有四法，失般若波羅蜜，<lb
@@ -209,7 +209,7 @@
  n="0196a12" ed="T"/>可得。譬如三十三天遊雜園觀，一切樂具皆<lb
  n="0196a13" ed="T"/>悉同等；如是迦葉！菩薩至誠清淨，為一切眾<lb
  n="0196a14" ed="T"/>生方便同等，悉無差降。譬如有毒，因呪藥故<lb
- n="0196a15" ed="T"/>不能為害；如是迦葉！菩薩結毒，因智樂故不<lb
+ n="0196a15" ed="T"/>不能為害；如是迦葉！菩薩結毒，因智藥故不<lb
  n="0196a16" ed="T"/>能為害。譬如城邑有諸糞壤饒益田用；如是<lb
  n="0196a17" ed="T"/>迦葉！菩薩因結學薩芸若用。是故迦葉！菩薩<lb
  n="0196a18" ed="T"/>欲學此寶嚴經者，當正觀諸法。云何為正觀？<lb
@@ -490,7 +490,7 @@
  n="0199b03" ed="T"/>戒，是謂，迦葉！無漏聖戒而無所墮，出於三界<lb
  n="0199b04" ed="T"/>離一切倚。」於是世尊，說此頌曰：<lb
  n="0199b05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「持戒不有亦無垢，　　持戒無憍而不倚；　　<lb
  n="0199b06" ed="T"/>持戒不闇無所縛，　　持戒無塵無污穢；　　<lb
  n="0199b07" ed="T"/>究竟止息無上寂，　　無想不想亦無穢；　　<lb
@@ -512,7 +512,7 @@
  n="0199b23" ed="T"/>善住淨戒得禪定，　　已獲禪定修智慧；　　<lb
  n="0199b24" ed="T"/>已修智慧便得脫，　　已逮解脫平等戒。」　　
 </ab><lb
- n="0199b25" ed="T"/><ab type="prose">說此偈已，八百比丘逮得漏盡，三萬二千人<lb
+ n="0199b25" ed="T"/><ab type='prose'>說此偈已，八百比丘逮得漏盡，三萬二千人<lb
  n="0199b26" ed="T"/>遠塵離垢諸法眼生。五百比丘昔已得定，<lb
  n="0199b27" ed="T"/>聞佛說此甚深之法不能解了，從座起去。於<lb
  n="0199b28" ed="T"/>是，大迦葉白世尊曰：「此五百比丘昔已得<lb
@@ -540,7 +540,7 @@
  n="0199c21" ed="T"/>壽命？謂般泥洹，何所法盡便得般泥洹？」五百<lb
  n="0199c22" ed="T"/>比丘曰：「婬怒癡盡便得般泥洹。」化比丘問<lb
  n="0199c23" ed="T"/>曰：「諸賢！有婬怒癡盡耶？而言此盡便得般泥<lb
- n="0199c24" ed="T"/>洹。」五百比丘答曰：「諸賢！淫怒癡者，不在於<lb
+ n="0199c24" ed="T"/>洹。」五百比丘答曰：「諸賢！婬怒癡者，不在於<lb
  n="0199c25" ed="T"/>內而不在外，亦不在兩中間，亦非無思想而<lb
  n="0199c26" ed="T"/>有也。」化比丘曰：「是故諸賢！不當思想，亦莫反<lb
  n="0199c27" ed="T"/>想。若不思想、不反想者，則無染不染。若無<lb
@@ -613,5 +613,5 @@
  n="0200c07" ed="T"/>大迦葉，一切天、龍、鬼神、世間人民，聞佛說已，<lb
  n="0200c08" ed="T"/>歡喜奉行。</ab></div><lb
  n="0200c09" ed="T"/>
-<ab type="juan" subtype="close">佛說摩訶衍寶嚴經</ab>
+<ab type='juan' subtype='close'>佛說摩訶衍寶嚴經</ab>
 </body></text></TEI>

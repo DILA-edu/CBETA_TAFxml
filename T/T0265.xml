@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T09</biblScope>
                     <idno type="Taisho">T09n0265</idno>
                 </bibl>
@@ -41,12 +41,12 @@
     <text>
         <body><pb n="0197a" ed="T" id="T09.0265.0197a"/><lb
  n="0197a01" ed="T"/><lb
- n="0197a02" ed="T"/><div type="jing" level="1"><lb
+ n="0197a02" ed="T"/><div type='jing' level='1'><lb
  n="0197a03" ed="T"/>
-<ab type="juan" subtype="open">薩曇分陀利經一卷</ab><lb
+<ab type='juan' subtype='open'>薩曇分陀利經一卷</ab><lb
  n="0197a04" ed="T"/><lb
  n="0197a05" ed="T"/><byline>失譯人名今附西晉錄</byline><lb
- n="0197a06" ed="T"/><ab type="prose">聞如是：佛在羅閱祇耆闍崛山中，與大比丘<lb
+ n="0197a06" ed="T"/><ab type='prose'>聞如是：佛在羅閱祇耆闍崛山中，與大比丘<lb
  n="0197a07" ed="T"/>眾四萬二千人俱。三慢陀󰉈陀、文殊師利菩<lb
  n="0197a08" ed="T"/>薩等，八萬四千人；彌勒菩薩等，拔陀劫中千<lb
  n="0197a09" ed="T"/>人。釋王等，與忉利諸天不可復計；梵王，與諸<lb
@@ -67,12 +67,12 @@
  n="0197a24" ed="T"/>佛，上講堂就於金床而坐，便說《薩曇分陀利<lb
  n="0197a25" ed="T"/>經》，復說無央數偈言：<lb
  n="0197a26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「聞樂寶佛，　　知名字者，　　不畏生死，　　<lb
  n="0197a27" ed="T"/>不復勤苦；　　聞藥王佛，　　知字名者，　　<lb
  n="0197a28" ed="T"/>不得愈病，　　自識宿命。」　　
 </ab><lb
- n="0197a29" ed="T"/><ab type="prose">於是釋迦文佛，說無央數阿僧祇劫，復說無<pb n="0197b" ed="T" id="T09.0265.0197b"/><lb
+ n="0197a29" ed="T"/><ab type='prose'>於是釋迦文佛，說無央數阿僧祇劫，復說無<pb n="0197b" ed="T" id="T09.0265.0197b"/><lb
  n="0197b01" ed="T"/>央數阿僧祇劫。「我行菩薩道時，求索《薩曇分<lb
  n="0197b02" ed="T"/>陀利經》布施與人，在所求索，飯食衣被七寶<lb
  n="0197b03" ed="T"/>妻子，初無愛戀心。「我為有國王時，是世極長<lb
@@ -83,12 +83,12 @@
  n="0197b08" ed="T"/>去，一心作奴，汲水、掃地、採花菓，飲食婆羅<lb
  n="0197b09" ed="T"/>門，千歲不懈息。」佛於是說偈言：<lb
  n="0197b10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「撾鼓搖鈴願，　　自衒言誰欲？　　<lb
  n="0197b11" ed="T"/>持我作奴者，　　我欲行供養，　　<lb
  n="0197b12" ed="T"/>奴心善意行。」　　
 </ab><lb
- n="0197b13" ed="T"/><ab type="prose">佛言：「是時，王者，我身是也；時，婆羅門者，調達<lb
+ n="0197b13" ed="T"/><ab type='prose'>佛言：「是時，王者，我身是也；時，婆羅門者，調達<lb
  n="0197b14" ed="T"/>是。誰恩令我得滿六波羅蜜者、三十二相八<lb
  n="0197b15" ed="T"/>十種好？皆是調達福恩。調達是我善師，善<lb
  n="0197b16" ed="T"/>師恩令我得滿六波羅蜜、三十二相八十種<lb
@@ -143,5 +143,5 @@
  n="0198a07" ed="T"/>鬼神、無央數人，皆發無上正真道意；三千大<lb
  n="0198a08" ed="T"/>千國土，六反震動；三萬須陀洹，得阿惟越致。<lb
  n="0198a09" ed="T"/>
-</ab><ab type="juan" subtype="close">薩曇分陀利經一卷</ab></div>
+</ab><ab type='juan' subtype='close'>薩曇分陀利經一卷</ab></div>
 </body></text></TEI>

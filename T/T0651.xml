@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T15</biblScope>
                     <idno type="Taisho">T15n0651</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0761b24" ed="T"/><lb
  n="0761b25" ed="T"/><lb
  n="0761b26" ed="T"/>
-<ab type="juan" subtype="open">佛說諸法本無經卷上</ab><lb
+<ab type='juan' subtype='open'>佛說諸法本無經卷上</ab><lb
  n="0761b27" ed="T"/><lb
  n="0761b28" ed="T"/><byline>隋天竺三藏闍那崛多譯</byline><lb
- n="0761b29" ed="T"/><div type="jing" level="1"><ab type="prose">復次婆伽婆遊於王舍鷲聚山中，與大比丘<pb n="0761c" ed="T" id="T15.0651.0761c"/><lb
+ n="0761b29" ed="T"/><div type='jing' level='1'><ab type='prose'>復次婆伽婆遊於王舍鷲聚山中，與大比丘<pb n="0761c" ed="T" id="T15.0651.0761c"/><lb
  n="0761c01" ed="T"/>眾五百人俱，菩薩九萬二千，所謂莊嚴瑩飾<lb
  n="0761c02" ed="T"/>菩薩摩訶薩、師子遊步菩薩摩訶薩、無礙焰<lb
  n="0761c03" ed="T"/>淨光德威王菩薩摩訶薩、迷留山頂音王菩<lb
@@ -66,7 +66,7 @@
  n="0761c16" ed="T"/>從坐而起，整理衣服，一肩郁多羅僧伽作已，<lb
  n="0761c17" ed="T"/>右膝著地向佛合掌，即以歌頌而問佛義：<lb
  n="0761c18" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「無我無命無育法，　　無邊名稱為我宣；　　<lb
  n="0761c19" ed="T"/>寂靜極寂常寂然，　　如是此眾最勝者。　　<lb
  n="0761c20" ed="T"/>諸見云何是菩提？　　憍慢瞋恚及嫉妬，　　<lb
@@ -106,7 +106,7 @@
  n="0762a25" ed="T"/>若說導師最勝法，　　若說惡意諸外道；　　<lb
  n="0762a26" ed="T"/>此二云何是一行，　　諸字如是皆入一？」　　
 </ab><lb
- n="0762a27" ed="T"/><ab type="prose">爾時，世尊讚師子遊步菩薩摩訶薩言：「甚善<lb
+ n="0762a27" ed="T"/><ab type='prose'>爾時，世尊讚師子遊步菩薩摩訶薩言：「甚善<lb
  n="0762a28" ed="T"/>甚善！希有善家子！汝今所問，乃至諸世不<lb
  n="0762a29" ed="T"/>能信受，諸天等世當住迷惑。善家子！汝今<pb n="0762b" ed="T" id="T15.0651.0762b"/><lb
  n="0762b01" ed="T"/>不須問是因緣。善家子！初業菩薩於此非地，<lb
@@ -150,7 +150,7 @@
  n="0762c10" ed="T"/>當為演說。」師子遊步菩薩摩訶薩言：「如是世<lb
  n="0762c11" ed="T"/>尊！我當正聞。」爾時世尊說此伽他：<lb
  n="0762c12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「若欲當覺妙菩提，　　彼莫分別貪欲過；　　<lb
  n="0762c13" ed="T"/>諸法常是貪自性，　　若知是者得勝尊。　　<lb
  n="0762c14" ed="T"/>貪瞋及癡不可得，　　亦無已得今得者；　　<lb
@@ -240,7 +240,7 @@
  n="0763c11" ed="T"/>即得無邊樂說辯，　　諸佛皆與彼辯才；　　<lb
  n="0763c12" ed="T"/>說修多羅寶非一，　　無邊辯說彼當有。」　　
 </ab><lb
- n="0763c13" ed="T"/><ab type="prose">爾時師子遊步菩薩摩訶薩而白佛言：「大德<lb
+ n="0763c13" ed="T"/><ab type='prose'>爾時師子遊步菩薩摩訶薩而白佛言：「大德<lb
  n="0763c14" ed="T"/>世尊！說此伽他，幾許眾生聞作利益？」如是<lb
  n="0763c15" ed="T"/>語已，佛告師子遊步菩薩摩訶薩言：「善家子！<lb
  n="0763c16" ed="T"/>見此眾集論不？」答言：「我已見。婆伽婆！我已<lb
@@ -368,13 +368,13 @@
  n="0765a22" ed="T"/>彼。何以故？善家子！菩薩摩訶薩因此道故<lb
  n="0765a23" ed="T"/>得淨業障，諸眾生中遠離愛憎速到遍智。」<lb
  n="0765a24" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說諸法本無經卷上</ab><pb n="0765b" ed="T" id="T15.0651.0765b"/><lb
+</ab><ab type='juan' subtype='close'>佛說諸法本無經卷上</ab><pb n="0765b" ed="T" id="T15.0651.0765b"/><lb
  n="0765b01" ed="T"/><lb
  n="0765b02" ed="T"/>
-<ab type="juan" subtype="open">佛說諸法本無經卷中</ab><lb
+<ab type='juan' subtype='open'>佛說諸法本無經卷中</ab><lb
  n="0765b03" ed="T"/><lb
  n="0765b04" ed="T"/><byline>隋天竺三藏闍那崛多譯</byline><lb
- n="0765b05" ed="T"/><ab type="prose">爾時曼殊尸利童真而白佛言：「佛說業障淨<lb
+ n="0765b05" ed="T"/><ab type='prose'>爾時曼殊尸利童真而白佛言：「佛說業障淨<lb
  n="0765b06" ed="T"/>者，世尊！菩薩云何業障當淨？」佛言：「曼殊尸<lb
  n="0765b07" ed="T"/>利！若有菩薩見於諸法無業無報，彼當到業<lb
  n="0765b08" ed="T"/>障淨。復次曼殊尸利！若有菩薩即於欲際而<lb
@@ -441,7 +441,7 @@
  n="0766a11" ed="T"/>如是說，若有圓想彼則非有，若有法想彼<lb
  n="0766a12" ed="T"/>亦非有，於是法中隨順法觀，說為念處。」如<lb
  n="0766a13" ed="T"/>是語已，曼殊尸利復白佛言：「世尊！四念處更<lb
- n="0766a14" ed="T"/>云何熏修？」佛言：「不須。曼殊尸利！如來所說<lb
+ n="0766a14" ed="T"/>云何薰修？」佛言：「不須。曼殊尸利！如來所說<lb
  n="0766a15" ed="T"/>別意難知。」曼殊尸利白言：「大德世尊！但當<lb
  n="0766a16" ed="T"/>為說薰修念處。」佛言：「曼殊尸利！若見其身<lb
  n="0766a17" ed="T"/>等如虛空，此是身中隨順身觀念處。曼殊<lb
@@ -554,7 +554,7 @@
  n="0767b08" ed="T"/>眾生應一向癡。曼殊尸利！是故諸受不內不<lb
  n="0767b09" ed="T"/>外、不東方不南方、不西方不北方、不下方<lb
  n="0767b10" ed="T"/>不上方、不十方中可得。是故諸眾生等皆似<lb
- n="0767b11" ed="T"/>草本及壁，本性不生不滅故，彼是此寂靜句。<lb
+ n="0767b11" ed="T"/>草木及壁，本性不生不滅故，彼是此寂靜句。<lb
  n="0767b12" ed="T"/>曼殊尸利！想是種子句。」曼殊尸利言：「世尊！<lb
  n="0767b13" ed="T"/>何因是種子句？」佛言：「曼殊尸利！分別起想<lb
  n="0767b14" ed="T"/>不如實生，空拳相似如焰自相，本性離故，<lb
@@ -648,14 +648,14 @@
  n="0768b15" ed="T"/>竟已捨，本性不取常是棄捨，彼非智所行，非<lb
  n="0768b16" ed="T"/>無智所行故，彼是此雞羅句。」<lb
  n="0768b17" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說諸法本無經卷中</ab><lb
+</ab><ab type='juan' subtype='close'>佛說諸法本無經卷中</ab><lb
  n="0768b18" ed="T"/><lb
  n="0768b19" ed="T"/><lb
  n="0768b20" ed="T"/>
-<ab type="juan" subtype="open">佛說諸法本無經卷下</ab><lb
+<ab type='juan' subtype='open'>佛說諸法本無經卷下</ab><lb
  n="0768b21" ed="T"/><lb
  n="0768b22" ed="T"/><byline>隋天竺三藏闍那崛多譯</byline><lb
- n="0768b23" ed="T"/><ab type="prose">爾時曼殊尸利童真復白佛言：「世尊！我欲說<lb
+ n="0768b23" ed="T"/><ab type='prose'>爾時曼殊尸利童真復白佛言：「世尊！我欲說<lb
  n="0768b24" ed="T"/>雞羅句。」佛言：「曼殊尸利！汝可辯說。」曼殊尸利<lb
  n="0768b25" ed="T"/>言：「世尊！諸眾生得到菩提是雞羅句。」佛言：<lb
  n="0768b26" ed="T"/>「曼殊尸利！何因是雞羅句？」曼殊尸利言：「諸<lb
@@ -993,7 +993,7 @@
  n="0772b10" ed="T"/>至令作修助菩提法因。』爾時喜根菩薩欲令<lb
  n="0772b11" ed="T"/>眾信，即於諸比丘僧前，說此伽陀：<lb
  n="0772b12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『貪欲說涅槃，　　恚癡亦如是！　　<lb
  n="0772b13" ed="T"/>於中道當覺，　　佛菩提不思。　　<lb
  n="0772b14" ed="T"/>若分別貪欲，　　及諸恚癡等；　　<lb
@@ -1063,7 +1063,7 @@
  n="0773a20" ed="T"/>不以著名念所說，　　而見蘭拏有所住；　　<lb
  n="0773a21" ed="T"/>少欲知足分別已，　　復為貪欲力所牽。　　<lb
  n="0773a22" ed="T"/>若人避於欲法走，　　彼於欲法不可脫；　　<lb
- n="0773a23" ed="T"/>若能順覺欲法實，　　彼則見法飲乃離。　　<lb
+ n="0773a23" ed="T"/>若能順覺欲法實，　　彼則見法欲乃離。　　<lb
  n="0773a24" ed="T"/>守護禁戒雖長夜，　　出生定意無邊劫；　　<lb
  n="0773a25" ed="T"/>此佛教中彼不脫，　　以不覺此真實際。　　<lb
  n="0773a26" ed="T"/>若覺此法無所有，　　於諸法中彼無著；　　<lb
@@ -1081,7 +1081,7 @@
  n="0773b09" ed="T"/>無知而有淨相想，　　聞此實法有驚怖；　　<lb
  n="0773b10" ed="T"/>彼俱致劫受多苦，　　常受苦分無有間。』　　
 </ab><lb
- n="0773b11" ed="T"/><ab type="prose">「說此伽陀時，三十千天子等無生法中得忍；<lb
+ n="0773b11" ed="T"/><ab type='prose'>「說此伽陀時，三十千天子等無生法中得忍；<lb
  n="0773b12" ed="T"/>十八千比丘以不受故，諸漏心皆解脫。即時<lb
  n="0773b13" ed="T"/>地裂，勝意菩薩死墮大啼叫泥犁耶中。彼業<lb
  n="0773b14" ed="T"/>障故，於百千俱致劫大泥犁耶中，受諸極重<lb
@@ -1135,5 +1135,5 @@
  n="0774a04" ed="T"/>天子及餘天子，并彼大菩薩眾，諸天、人、犍<lb
  n="0774a05" ed="T"/>闥婆、阿修羅等，聞佛所說，皆大歡喜。<lb
  n="0774a06" ed="T"/>
-</ab><ab type="juan" subtype="close">諸法本無經卷下</ab></div>
+</ab><ab type='juan' subtype='close'>諸法本無經卷下</ab></div>
 </body></text></TEI>

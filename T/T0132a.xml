@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T02</biblScope>
                     <idno type="Taisho">T02n0132a</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><pb n="0854c" ed="T" id="T02.0132a.0854c"/><lb
  n="0854c01" ed="T"/><lb
  n="0854c02" ed="T"/><lb
- n="0854c03" ed="T"/><div type="jing" level="1"><lb
+ n="0854c03" ed="T"/><div type='jing' level='1'><lb
  n="0854c04" ed="T"/>
-<ab type="juan" subtype="open">佛說食施獲五福報經</ab><lb
+<ab type='juan' subtype='open'>佛說食施獲五福報經</ab><lb
  n="0854c05" ed="T"/><lb
  n="0854c06" ed="T"/><byline>失譯人名今附東晉錄</byline><lb
- n="0854c07" ed="T"/><ab type="prose">聞如是：一時，佛在舍衛國祇樹給孤獨園。佛<lb
+ n="0854c07" ed="T"/><ab type='prose'>聞如是：一時，佛在舍衛國祇樹給孤獨園。佛<lb
  n="0854c08" ed="T"/>告諸比丘：「當知食以節度，受而不損。」佛言：「人<lb
  n="0854c09" ed="T"/>持飯食施人，有五福德令人得道，智者消息<lb
  n="0854c10" ed="T"/>意度弘廓，則獲五福。何等為五？一曰施命，二<lb
@@ -81,5 +81,5 @@
  n="0855a09" ed="T"/>說是時，天龍鬼神、世間人民，帝主大臣、四輩<lb
  n="0855a10" ed="T"/>弟子，靡不歡喜，為佛作禮。<lb
  n="0855a11" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說食施獲五福報經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說食施獲五福報經</ab></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0473</idno>
                 </bibl>
@@ -44,12 +44,12 @@
  n="0516b22" ed="T"/><lb
  n="0516b23" ed="T"/><lb
  n="0516b24" ed="T"/>
-<ab type="juan" subtype="open">佛說妙吉祥菩薩所問大乘法螺<lb
+<ab type='juan' subtype='open'>佛說妙吉祥菩薩所問大乘法螺<lb
  n="0516b25" ed="T"/>經</ab><lb
  n="0516b26" ed="T"/><lb
  n="0516b27" ed="T"/><byline>西天譯經三藏、朝散大夫、試光祿<lb
  n="0516b28" ed="T"/>卿、明教大師臣法賢奉　詔譯</byline><lb
- n="0516b29" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時佛在舍衛國普遍殿內，坐寶<pb n="0516c" ed="T" id="T14.0473.0516c"/><lb
+ n="0516b29" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時佛在舍衛國普遍殿內，坐寶<pb n="0516c" ed="T" id="T14.0473.0516c"/><lb
  n="0516c01" ed="T"/>師子之座，與大苾芻眾萬二千五百人俱，復<lb
  n="0516c02" ed="T"/>有菩薩摩訶薩，及百千緣熟所度之眾。<lb
  n="0516c03" ed="T"/>爾時妙吉祥菩薩摩訶薩，承佛威神即從座<lb
@@ -132,7 +132,7 @@
  n="0517b22" ed="T"/>來手足之下相文福德之量。如是各各相文，<lb
  n="0517b23" ed="T"/>皆有八十種好，顯現手足之下。」頌曰：<lb
  n="0517b24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「傘蓋幢吉祥，　　鬘鉤冠寶杖，　　<lb
  n="0517b25" ed="T"/>寶瓶象馬虎，　　金翅摩竭魚，　　<lb
  n="0517b26" ed="T"/>龜魚及孔雀，　　迦陵頻伽鳥，　　<lb
@@ -153,13 +153,13 @@
  n="0517c12" ed="T"/>如是等八十，　　一一俱名好，　　<lb
  n="0517c13" ed="T"/>出現手足下。」　　
 </ab><lb
- n="0517c14" ed="T"/><ab type="prose">佛告妙吉祥菩薩：「所有如是八十種好一切<lb
+ n="0517c14" ed="T"/><ab type='prose'>佛告妙吉祥菩薩：「所有如是八十種好一切<lb
  n="0517c15" ed="T"/>福德，如是挍量無數百千俱胝那由他倍，是<lb
  n="0517c16" ed="T"/>即如來身分之中一大丈夫相福德。如是佛<lb
  n="0517c17" ed="T"/>身三十二大丈夫相，一一各有如前福德，於<lb
  n="0517c18" ed="T"/>佛身中分明出現。」頌曰：<lb
  n="0517c19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「烏瑟膩沙相，　　螺髻髮紺青，　　<lb
  n="0517c20" ed="T"/>滋潤而右旋，　　額廣而平正，　　<lb
  n="0517c21" ed="T"/>眉間白毫光，　　皮膚妙柔軟，　　<lb
@@ -177,7 +177,7 @@
  n="0518a04" ed="T"/>足下而平正，　　常現千輻輪，　　<lb
  n="0518a05" ed="T"/>如是大丈夫，　　三十二種相。」　　
 </ab><lb
- n="0518a06" ed="T"/><ab type="prose">佛告妙吉祥菩薩：「如是三十二大丈夫相，於<lb
+ n="0518a06" ed="T"/><ab type='prose'>佛告妙吉祥菩薩：「如是三十二大丈夫相，於<lb
  n="0518a07" ed="T"/>此三十二相所有福德，而以挍量阿僧祇不<lb
  n="0518a08" ed="T"/>可思議、不可稱量，無等等、不可說不可說倍<lb
  n="0518a09" ed="T"/>數，為緣熟度眾所願圓滿福德，是故如來說<lb
@@ -219,5 +219,5 @@
  n="0518b16" ed="T"/>巘達哩嚩等，聞佛所說皆大歡喜，信受奉<lb
  n="0518b17" ed="T"/>行。</ab></div><lb
  n="0518b18" ed="T"/>
-<ab type="juan" subtype="close">佛說妙吉祥菩薩所問大乘法螺經</ab>
+<ab type='juan' subtype='close'>佛說妙吉祥菩薩所問大乘法螺經</ab>
 </body></text></TEI>

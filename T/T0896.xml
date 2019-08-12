@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T18</biblScope>
                     <idno type="Taisho">T18n0896</idno>
                 </bibl>
@@ -39,18 +39,18 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0746b22" ed="T"/><lb
  n="0746b23" ed="T"/><lb
  n="0746b24" ed="T"/><lb
  n="0746b25" ed="T"/>
-<ab type="juan" subtype="open">妙臂菩薩所問經卷第一</ab><lb
+<ab type='juan' subtype='open'>妙臂菩薩所問經卷第一</ab><lb
  n="0746b26" ed="T"/><lb
  n="0746b27" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚少卿<lb
  n="0746b28" ed="T"/>傳教大師臣法天奉　詔譯</byline><lb
- n="0746b29" ed="T"/><div type="fen" level="2"><head>得勝師助伴速獲悉地分第一</head><pb n="0746c" id="T18.0896.0746c" ed="T"/><lb
- n="0746c01" ed="T"/><ab type="prose">爾時藥叉主金剛手菩薩。有大慈悲愍於後<lb
+ n="0746b29" ed="T"/><div type='fen' level='2'><head>得勝師助伴速獲悉地分第一</head><pb n="0746c" id="T18.0896.0746c" ed="T"/><lb
+ n="0746c01" ed="T"/><ab type='prose'>爾時藥叉主金剛手菩薩。有大慈悲愍於後<lb
  n="0746c02" ed="T"/>世。放千光明端心而住。於是妙臂菩薩。以持<lb
  n="0746c03" ed="T"/>誦者於一切真言明。得成就義不成就義。一<lb
  n="0746c04" ed="T"/>心敬禮彼藥叉主金剛手菩薩。而發問言。菩<lb
@@ -126,8 +126,8 @@
  n="0747b16" ed="T"/>道及天魔等。此為住賢劫中。具足功德修行<lb
  n="0747b17" ed="T"/>助伴。諸持誦人於諸修行。速獲成就如此應<lb
  n="0747b18" ed="T"/>知。</ab></div><lb
- n="0747b19" ed="T"/><div type="fen" level="2"><head>妙臂菩薩所問經選求勝處分第二</head><lb
- n="0747b20" ed="T"/><ab type="prose">復次持誦行人。若欲修真言行求成就者。先<lb
+ n="0747b19" ed="T"/><div type='fen' level='2'><head>妙臂菩薩所問經選求勝處分第二</head><lb
+ n="0747b20" ed="T"/><ab type='prose'>復次持誦行人。若欲修真言行求成就者。先<lb
  n="0747b21" ed="T"/>求諸佛所說。佛及菩薩辟支聲聞昔所住處。<lb
  n="0747b22" ed="T"/>是為勝地。如是等處。常有天龍阿修羅等。而<lb
  n="0747b23" ed="T"/>為守護供養恭敬。何以故以有天上人間。最<lb
@@ -216,9 +216,9 @@
  n="0748b19" ed="T"/>意。行人持誦或行或坐得通思念。唯除臥時<lb
  n="0748b20" ed="T"/>不許持念。念誦訖已。恒於六時思念功德。心<lb
  n="0748b21" ed="T"/>無間斷祈於圓滿。</ab></div><lb
- n="0748b22" ed="T"/><div type="fen" level="2"><head>妙臂菩薩所問經分別數珠持心離障分第<lb
+ n="0748b22" ed="T"/><div type='fen' level='2'><head>妙臂菩薩所問經分別數珠持心離障分第<lb
  n="0748b23" ed="T"/>三</head><lb
- n="0748b24" ed="T"/><ab type="prose">復次欲等煩惱與心合故。說為輪迴。根本煩<lb
+ n="0748b24" ed="T"/><ab type='prose'>復次欲等煩惱與心合故。說為輪迴。根本煩<lb
  n="0748b25" ed="T"/>惱若除。由如清淨玻胝迦寶。若離輪迴乃名<lb
  n="0748b26" ed="T"/>解脫。又如水本清淨。於一剎那間塵能渾<lb
  n="0748b27" ed="T"/>濁。亦如有情心源本淨。於剎那頃被諸煩惱<lb
@@ -279,9 +279,9 @@
  n="0749a24" ed="T"/>睡。於本尊側不近不遠。地上敷吉祥草於草<lb
  n="0749a25" ed="T"/>上坐臥。坐定後然。於一切有情起利樂心。<lb
  n="0749a26" ed="T"/>作慈悲喜捨等觀然後眠睡。</ab></div><lb
- n="0749a27" ed="T"/><div type="fen" level="2"><head>妙臂菩薩所問經說金剛杵頻那夜迦分第<lb
+ n="0749a27" ed="T"/><div type='fen' level='2'><head>妙臂菩薩所問經說金剛杵頻那夜迦分第<lb
  n="0749a28" ed="T"/>四</head><lb
- n="0749a29" ed="T"/><ab type="prose">我今分別說諸跋折羅量。其量或長八指或<pb n="0749b" id="T18.0896.0749b" ed="T"/><lb
+ n="0749a29" ed="T"/><ab type='prose'>我今分別說諸跋折羅量。其量或長八指或<pb n="0749b" id="T18.0896.0749b" ed="T"/><lb
  n="0749b01" ed="T"/>長十指。或十二指或十六指。或最長者不過<lb
  n="0749b02" ed="T"/>二十指。如是五類無有過者。造跋折羅物或<lb
  n="0749b03" ed="T"/>金或木。隨所求事種種不同。若欲求佛法真<lb
@@ -294,7 +294,7 @@
  n="0749b10" ed="T"/>若欲降伏夜叉女者。可用末度木作。若欲降<lb
  n="0749b11" ed="T"/>伏冤家用刺木作。若降害極惡冤敵者。可用<lb
  n="0749b12" ed="T"/>人骨作。若欲成幻術者。用玻璃寶作。若欲<lb
- n="0749b13" ed="T"/>令極相憎嫌者。用苦棟木作。若欲興兵鬪敵<lb
+ n="0749b13" ed="T"/>令極相憎嫌者。用苦楝木作。若欲興兵鬪敵<lb
  n="0749b14" ed="T"/>及降鬼神。用吠鼻多迦木作。若欲成就夜叉<lb
  n="0749b15" ed="T"/>乾闥婆阿修羅者。可用柏木及松木作。若欲<lb
  n="0749b16" ed="T"/>成就龍女愛重者。當以龍木作。若欲成就變<lb
@@ -348,16 +348,16 @@
  n="0750a06" ed="T"/>就妙曼拏羅及以護摩。使作障難頻那夜迦<lb
  n="0750a07" ed="T"/>退散遠離。<lb
  n="0750a08" ed="T"/>
-</ab><ab type="juan" subtype="close">妙臂菩薩所問經卷第一</ab><lb
+</ab><ab type='juan' subtype='close'>妙臂菩薩所問經卷第一</ab><lb
  n="0750a09" ed="T"/><lb
  n="0750a10" ed="T"/><lb
  n="0750a11" ed="T"/>
-<ab type="juan" subtype="open">妙臂菩薩所問經卷第二<lb
+<ab type='juan' subtype='open'>妙臂菩薩所問經卷第二<lb
  n="0750a12" ed="T"/><lb
  n="0750a13" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚少卿<lb
  n="0750a14" ed="T"/>傳教大師臣法天奉　詔譯</byline><lb
  n="0750a15" ed="T"/>說金剛杵頻那夜迦分第四之餘</ab><lb
- n="0750a16" ed="T"/><ab type="prose">復次行人於持誦時。及供養時乃至護摩時。<lb
+ n="0750a16" ed="T"/><ab type='prose'>復次行人於持誦時。及供養時乃至護摩時。<lb
  n="0750a17" ed="T"/>若不依法及闕儀則。彼作障者而得其便。又<lb
  n="0750a18" ed="T"/>復行人心不決定。而有疑惑。謂此真言而可<lb
  n="0750a19" ed="T"/>誦邪。謂彼真言而可誦邪。若作是念。彼作<lb
@@ -431,8 +431,8 @@
  n="0750c29" ed="T"/>著障人頂。彼著障人即得解脫。此曼拏羅非<pb n="0751a" id="T18.0896.0751a" ed="T"/><lb
  n="0751a01" ed="T"/>獨解脫魔障。亦能滅一切罪增無量福。若能<lb
  n="0751a02" ed="T"/>依法修持。無不獲得果驗者。</ab></div><lb
- n="0751a03" ed="T"/><div type="fen" level="2"><head>妙臂菩薩所問經分別悉地相分第五</head><lb
- n="0751a04" ed="T"/><ab type="prose">爾時彼持誦行人。被諸魔障種種惱亂欲令<lb
+ n="0751a03" ed="T"/><div type='fen' level='2'><head>妙臂菩薩所問經分別悉地相分第五</head><lb
+ n="0751a04" ed="T"/><ab type='prose'>爾時彼持誦行人。被諸魔障種種惱亂欲令<lb
  n="0751a05" ed="T"/>退心者。既知是魔。即須作法而為除解。得除<lb
  n="0751a06" ed="T"/>解已。身心安靜無惱無垢。譬如明月得雲退<lb
  n="0751a07" ed="T"/>散。離於障閉朗然天際。住於空中照耀無<lb
@@ -577,8 +577,8 @@
  n="0752c01" ed="T"/>若或得此如上吉祥好夢。應須策勤精進歡<lb
  n="0752c02" ed="T"/>喜勇猛。何以故應知或於一月半月。或一日<lb
  n="0752c03" ed="T"/>或一剎那間。必定獲得廣大悉地。</ab></div><lb
- n="0752c04" ed="T"/><div type="fen" level="2"><head>妙臂菩薩所問經知近悉地分第六</head><lb
- n="0752c05" ed="T"/><ab type="prose">復次行人自審持誦有力倍生愛樂。於其染<lb
+ n="0752c04" ed="T"/><div type='fen' level='2'><head>妙臂菩薩所問經知近悉地分第六</head><lb
+ n="0752c05" ed="T"/><ab type='prose'>復次行人自審持誦有力倍生愛樂。於其染<lb
  n="0752c06" ed="T"/>境心不攀緣。於諸違犯罪不生起。自無寒熱<lb
  n="0752c07" ed="T"/>飢渴苦惱等事。至於蚊虻飛蟲乃至毒蛇血<lb
  n="0752c08" ed="T"/>食之類皆不能害。又復餓鬼毘舍左羯吒布<lb
@@ -664,8 +664,8 @@
  n="0753c01" ed="T"/>奉獻供養。更念本尊真言。又念諸部發遣真<lb
  n="0753c02" ed="T"/>言。當依儀軌誦真言已。禮拜請諸賢聖各還<lb
  n="0753c03" ed="T"/>本位。</ab></div><lb
- n="0753c04" ed="T"/><div type="fen" level="2"><head>妙臂菩薩所問經說成就分第七</head><lb
- n="0753c05" ed="T"/><ab type="prose">復次行人專注持誦精勤不懈。雖得如願所<lb
+ n="0753c04" ed="T"/><div type='fen' level='2'><head>妙臂菩薩所問經說成就分第七</head><lb
+ n="0753c05" ed="T"/><ab type='prose'>復次行人專注持誦精勤不懈。雖得如願所<lb
  n="0753c06" ed="T"/>作成就。但一切時恒須用意。何以故緣彼一<lb
  n="0753c07" ed="T"/>切極惡鬼神以惡業故。於諸行人不欲成就。<lb
  n="0753c08" ed="T"/>若其成就彼真言力威德及處。或百由旬或<lb
@@ -725,16 +725,16 @@
  n="0754b04" ed="T"/>所傷害。行人若是不起上行不自擁護。當被<lb
  n="0754b05" ed="T"/>諸惡魔障。而得其便亦復如是。</ab></div><lb
  n="0754b06" ed="T"/>
-<ab type="juan" subtype="close">妙臂菩薩所問經卷第二</ab><lb
+<ab type='juan' subtype='close'>妙臂菩薩所問經卷第二</ab><lb
  n="0754b07" ed="T"/><lb
  n="0754b08" ed="T"/><lb
  n="0754b09" ed="T"/>
-<ab type="juan" subtype="open">妙臂菩薩所問經卷第三</ab><lb
+<ab type='juan' subtype='open'>妙臂菩薩所問經卷第三</ab><lb
  n="0754b10" ed="T"/><lb
  n="0754b11" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚少卿<lb
  n="0754b12" ed="T"/>傳教大師臣法天奉　詔譯</byline><lb
- n="0754b13" ed="T"/><div type="fen" level="2"><head>召請鉢天說事分第八</head><lb
- n="0754b14" ed="T"/><ab type="prose">復次若欲召請鉢天來下說事者。彼鉢天下處<lb
+ n="0754b13" ed="T"/><div type='fen' level='2'><head>召請鉢天說事分第八</head><lb
+ n="0754b14" ed="T"/><ab type='prose'>復次若欲召請鉢天來下說事者。彼鉢天下處<lb
  n="0754b15" ed="T"/>而有數種。所謂手指銅鏡清水火聚。平正地<lb
  n="0754b16" ed="T"/>琉璃地。燈焰童子虛空中。及諸供養器等處。<lb
  n="0754b17" ed="T"/>皆是鉢天下處。若有行人請得來已。於前所<lb
@@ -819,8 +819,8 @@
  n="0755b09" ed="T"/>三遍或七遍。彼障魔更不敢住自然退去。諸<lb
  n="0755b10" ed="T"/>有智者。當須解了如是之法一一修行。若為<lb
  n="0755b11" ed="T"/>是事勿令辛勤無所靈應。</ab></div><lb
- n="0755b12" ed="T"/><div type="fen" level="2"><head>妙臂菩薩所問經說諸遮難分第九</head><lb
- n="0755b13" ed="T"/><ab type="prose">復次妙臂菩薩問金剛手言。行人修行持誦<lb
+ n="0755b12" ed="T"/><div type='fen' level='2'><head>妙臂菩薩所問經說諸遮難分第九</head><lb
+ n="0755b13" ed="T"/><ab type='prose'>復次妙臂菩薩問金剛手言。行人修行持誦<lb
  n="0755b14" ed="T"/>有何罪障不獲悉地願為宣說。當令未來諸<lb
  n="0755b15" ed="T"/>修行人一一了知。於諸修行而無疑惑。<lb
  n="0755b16" ed="T"/>爾時金剛手菩薩告妙臂菩薩言。妙臂若有<lb
@@ -884,8 +884,8 @@
  n="0756a16" ed="T"/>菩薩或復示以種種真言明主之相。為欲隨<lb
  n="0756a17" ed="T"/>願滿足有情之心。是故應須信禮一切真言<lb
  n="0756a18" ed="T"/>明主之師。</ab></div><lb
- n="0756a19" ed="T"/><div type="fen" level="2"><head>妙臂菩薩所問經說勝道分第十</head><lb
- n="0756a20" ed="T"/><ab type="prose">復次持誦行人。於所修行勿生疑念。當以八<lb
+ n="0756a19" ed="T"/><div type='fen' level='2'><head>妙臂菩薩所問經說勝道分第十</head><lb
+ n="0756a20" ed="T"/><ab type='prose'>復次持誦行人。於所修行勿生疑念。當以八<lb
  n="0756a21" ed="T"/>正道常為資持。行此道者於真言行定獲悉<lb
  n="0756a22" ed="T"/>地。又復當來常生天上人間勝妙之處。過去<lb
  n="0756a23" ed="T"/>諸佛修行此道得成正覺。現在未來諸佛世尊<lb
@@ -974,7 +974,7 @@
  n="0757a19" ed="T"/>食已。即須虔心一一呼名。啟請願各降臨。受<lb
  n="0757a20" ed="T"/>於供養助成悉地。即誦此啟請真言真言曰。<lb
  n="0757a21" ed="T"/></ab>
-<ab type="dharani">禰嚩阿酥囉夜叉部󰴔誐悉馱哆<lb
+<ab type='dharani'>禰嚩阿酥囉夜叉部󰴔誐悉馱哆<lb
  n="0757a22" ed="T"/>叉也酥波囉拏羯吒布怛曩室左巘達里嚩囉剎仡囉賀惹多野室左<lb
  n="0757a24" ed="T"/>曳計唧部冒尾曩扇帝禰尾也<lb
  n="0757a25" ed="T"/>儞也悉帶迦惹努必里體尾多隷<lb
@@ -1026,16 +1026,16 @@
  n="0757c13" ed="T"/>劍悉弟彌𤚥禰扇覩𪾼鑁覩藥薩里嚩<lb
  n="0757c14" ed="T"/>儞拏左囉𧹞迦嚕怛也惹娑覽末隣迦里摩迦里焰</ab></div><lb
  n="0757c16" ed="T"/>
-<ab type="juan" subtype="close">妙臂菩薩所問經卷第三</ab><lb
+<ab type='juan' subtype='close'>妙臂菩薩所問經卷第三</ab><lb
  n="0757c17" ed="T"/><lb
  n="0757c18" ed="T"/><lb
  n="0757c19" ed="T"/>
-<ab type="juan" subtype="open">妙臂菩薩所問經卷第四</ab><lb
+<ab type='juan' subtype='open'>妙臂菩薩所問經卷第四</ab><lb
  n="0757c20" ed="T"/><lb
  n="0757c21" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚少卿<lb
  n="0757c22" ed="T"/>傳教大師臣法天奉　詔譯</byline><lb
- n="0757c23" ed="T"/><div type="fen" level="2"><head>分別諸部分第十一</head><lb
- n="0757c24" ed="T"/><ab type="prose">復次我今於持明藏。分別佛菩薩等。乃至諸<lb
+ n="0757c23" ed="T"/><div type='fen' level='2'><head>分別諸部分第十一</head><lb
+ n="0757c24" ed="T"/><ab type='prose'>復次我今於持明藏。分別佛菩薩等。乃至諸<lb
  n="0757c25" ed="T"/>部所說真言印契等。如來所說三俱胝五洛<lb
  n="0757c26" ed="T"/>叉真言。及說明主名字故名持明藏。又觀自<lb
  n="0757c27" ed="T"/>在菩薩亦說三俱胝五洛叉真言。而此部中真<lb
@@ -1101,8 +1101,8 @@
  n="0758b29" ed="T"/>主說二洛叉真言。如是天等各各具說種種真<pb n="0758c" id="T18.0896.0758c" ed="T"/><lb
  n="0758c01" ed="T"/>言印契。并曼拏羅儀軌等。可依法受持。若違<lb
  n="0758c02" ed="T"/>本教。不唯真言不得成就。亦乃自招過咎。</ab></div><lb
- n="0758c03" ed="T"/><div type="fen" level="2"><head>妙臂菩薩所問經說八法分第十二</head><lb
- n="0758c04" ed="T"/><ab type="prose">復次成就之法總有八種。所謂成真言法。成<lb
+ n="0758c03" ed="T"/><div type='fen' level='2'><head>妙臂菩薩所問經說八法分第十二</head><lb
+ n="0758c04" ed="T"/><ab type='prose'>復次成就之法總有八種。所謂成真言法。成<lb
  n="0758c05" ed="T"/>長年法。藥成就法。出伏藏法。入修羅宮法。合<lb
  n="0758c06" ed="T"/>成金法。土成金法。成無價寶法。此之八法說<lb
  n="0758c07" ed="T"/>為三品。成真言成長年入修羅宮。此三為上<lb
@@ -1265,5 +1265,5 @@
  n="0760b19" ed="T"/>菩薩稟受奉行頂禮而退。即於世間廣為有<lb
  n="0760b20" ed="T"/>情流傳宣說。</ab></div><lb
  n="0760b21" ed="T"/>
-<ab type="juan" subtype="close">妙臂菩薩所問經卷第四</ab></div>
+<ab type='juan' subtype='close'>妙臂菩薩所問經卷第四</ab></div>
 </body></text></TEI>

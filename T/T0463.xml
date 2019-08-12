@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0463</idno>
                 </bibl>
@@ -43,10 +43,10 @@
  n="0480b01" ed="T"/><lb
  n="0480b02" ed="T"/><lb
  n="0480b03" ed="T"/>
-<ab type="juan" subtype="open">佛說文殊師利般涅槃經</ab><lb
+<ab type='juan' subtype='open'>佛說文殊師利般涅槃經</ab><lb
  n="0480b04" ed="T"/><lb
  n="0480b05" ed="T"/><byline>西晉居士聶道真譯</byline><lb
- n="0480b06" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時佛在舍衛國祇樹給孤獨園，<lb
+ n="0480b06" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時佛在舍衛國祇樹給孤獨園，<lb
  n="0480b07" ed="T"/>與大比丘僧八千人俱，長老舍利弗、大目揵<lb
  n="0480b08" ed="T"/>連、摩訶迦葉、摩訶迦旃延，如是等眾上首者<lb
  n="0480b09" ed="T"/>也；復有菩薩摩訶薩十六人等，賢劫千菩薩<lb
@@ -150,5 +150,5 @@
  n="0481b20" ed="T"/>等諸大菩薩，舍利弗等諸大聲聞、天龍八部，<lb
  n="0481b21" ed="T"/>聞佛所說皆大歡喜，禮佛而去。</ab></div><lb
  n="0481b22" ed="T"/>
-<ab type="juan" subtype="close">佛說文殊師利般涅槃經</ab>
+<ab type='juan' subtype='close'>佛說文殊師利般涅槃經</ab>
 </body></text></TEI>

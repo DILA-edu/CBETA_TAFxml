@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0459</idno>
                 </bibl>
@@ -43,10 +43,10 @@
  n="0441c01" ed="T"/><lb
  n="0441c02" ed="T"/><lb
  n="0441c03" ed="T"/>
-<ab type="juan" subtype="open">佛說文殊悔過經</ab><lb
+<ab type='juan' subtype='open'>佛說文殊悔過經</ab><lb
  n="0441c04" ed="T"/><lb
- n="0441c05" ed="T"/><byline>西晉月支國三藏竺法護譯</byline><lb
- n="0441c06" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時佛在羅閱祇耆闍崛山中，與大<lb
+ n="0441c05" ed="T"/><byline>西晉月氏國三藏竺法護譯</byline><lb
+ n="0441c06" ed="T"/><div type='jing' level='1'><ab type='prose'>聞如是：一時佛在羅閱祇耆闍崛山中，與大<lb
  n="0441c07" ed="T"/>比丘眾俱，比丘千二百五十，菩薩無央數——<lb
  n="0441c08" ed="T"/>一切大聖神通已達，逮得總持，攬十方慧，立<lb
  n="0441c09" ed="T"/>三脫門，曉了三世，無所罣礙頒宣三寶救<lb
@@ -66,7 +66,7 @@
  n="0441c23" ed="T"/>殊師利各隨所問而發遣之，可悅其心令無<lb
  n="0441c24" ed="T"/>餘疑。爾時，會中有諸新學發意菩薩而來聽<lb
  n="0441c25" ed="T"/>受——不能將護罪福之緣，陰蓋所覆而為虛妄、<lb
- n="0441c26" ed="T"/>狐疑所蔽，習在顛倒、無勇猛志、依倚形色、垉<lb
+ n="0441c26" ed="T"/>狐疑所蔽，習在顛倒、無勇猛志、依倚形色、抱<lb
  n="0441c27" ed="T"/>怯弱心，不能諮啟文殊師利，淨除因緣一切<lb
  n="0441c28" ed="T"/>罪苦、修學大乘至無上道。時彼會中有一<lb
  n="0441c29" ed="T"/>菩薩，名曰如來齊光照燿，見諸新學菩薩心<pb n="0442a" ed="T" id="T14.0459.0442a"/><lb
@@ -613,5 +613,5 @@
  n="0448a19" ed="T"/>菩薩、賢者阿難，諸天、龍、神、阿須倫、世間人<lb
  n="0448a20" ed="T"/>民，莫不歡喜，作禮而退。</ab></div><lb
  n="0448a21" ed="T"/>
-<ab type="juan" subtype="close">佛說文殊悔過經</ab>
+<ab type='juan' subtype='close'>佛說文殊悔過經</ab>
 </body></text></TEI>

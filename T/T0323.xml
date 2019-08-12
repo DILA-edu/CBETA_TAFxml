@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T12</biblScope>
                     <idno type="Taisho">T12n0323</idno>
                 </bibl>
@@ -39,17 +39,17 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0023a09" ed="T"/><lb
  n="0023a10" ed="T"/><lb
  n="0023a11" ed="T"/><lb
  n="0023a12" ed="T"/>
-<ab type="juan" subtype="open">郁迦羅越問菩薩行經</ab><lb
+<ab type='juan' subtype='open'>郁迦羅越問菩薩行經</ab><lb
  n="0023a13" ed="T"/><lb
  n="0023a14" ed="T"/><byline>西晉月支國三藏竺法護譯</byline><lb
- n="0023a15" ed="T"/><div type="pin" level="2"><head>上士品第一</head><lb
- n="0023a16" ed="T"/><ab type="prose">聞如是：一時佛遊舍衛國祇樹之園給孤獨<lb
+ n="0023a15" ed="T"/><div type='pin' level='2'><head>上士品第一</head><lb
+ n="0023a16" ed="T"/><ab type='prose'>聞如是：一時佛遊舍衛國祇樹之園給孤獨<lb
  n="0023a17" ed="T"/>精舍，與大比丘眾千二百五十人，慈氏菩薩、<lb
  n="0023a18" ed="T"/>軟首菩薩、除惡菩薩、光世音菩薩等五千人<lb
  n="0023a19" ed="T"/>俱。爾時，世尊與無央數百千之眾圍遶說法。<lb
@@ -162,8 +162,8 @@
  n="0024b10" ed="T"/>是比像而立家地，是為上士居家行也。不失<lb
  n="0024b11" ed="T"/>如是無所著等正覺之戒則為至誠，所為如<lb
  n="0024b12" ed="T"/>法，不轉不退於無上正真道。</ab></div><lb
- n="0024b13" ed="T"/><div type="pin" level="2"><head>戒品第二</head><lb
- n="0024b14" ed="T"/><ab type="prose">「復次，長者！居家菩薩當受五戒：一者、不樂殺<lb
+ n="0024b13" ed="T"/><div type='pin' level='2'><head>戒品第二</head><lb
+ n="0024b14" ed="T"/><ab type='prose'>「復次，長者！居家菩薩當受五戒：一者、不樂殺<lb
  n="0024b15" ed="T"/>生。手不得持刀仗、瓦石有所擊害，不嬈他<lb
  n="0024b16" ed="T"/>人，等心於一切，常有慈心行。二者、不樂犯不<lb
  n="0024b17" ed="T"/>與取。自於財物知足，不貪他人財，遠離諛<lb
@@ -192,8 +192,8 @@
  n="0024c11" ed="T"/>不失慈心、所言如語而不可動。斷諸勤苦，無<lb
  n="0024c12" ed="T"/>傷害意，以忍辱之力乘僧那涅之鎧，當為<lb
  n="0024c13" ed="T"/>正見、遠離邪見，其所施與無所適莫。</ab></div><lb
- n="0024c14" ed="T"/><div type="pin" level="2"><head>醫品第三</head><lb
- n="0024c15" ed="T"/><ab type="prose">「復次，長者！居家菩薩所在郡國縣邑居止，<lb
+ n="0024c14" ed="T"/><div type='pin' level='2'><head>醫品第三</head><lb
+ n="0024c15" ed="T"/><ab type='prose'>「復次，長者！居家菩薩所在郡國縣邑居止，<lb
  n="0024c16" ed="T"/>當以法護於郡國縣邑。其無信者，教令有信；<lb
  n="0024c17" ed="T"/>無恭敬者，教令恭敬；其無智者，教令有智；其<lb
  n="0024c18" ed="T"/>不孝父母、不顧義理者，當教以法，忠孝尊老，<lb
@@ -220,8 +220,8 @@
  n="0025a10" ed="T"/>諸人有咎。菩薩亦如是，所在郡國縣邑居止，<lb
  n="0025a11" ed="T"/>不念救護諸人，若令一人有墮惡道者，其菩<lb
  n="0025a12" ed="T"/>薩於如來、無所著、等正覺為有咎也。</ab></div><lb
- n="0025a13" ed="T"/><div type="pin" level="2"><head>穢居品第四</head><lb
- n="0025a14" ed="T"/><ab type="prose">「復次，長者！居家菩薩當別知在家污穢之事。<lb
+ n="0025a13" ed="T"/><div type='pin' level='2'><head>穢居品第四</head><lb
+ n="0025a14" ed="T"/><ab type='prose'>「復次，長者！居家菩薩當別知在家污穢之事。<lb
  n="0025a15" ed="T"/>當作是念：『何以故名為居家？斷諸善根本，是<lb
  n="0025a16" ed="T"/>名居家；不護尊品、諸功德，是名居家；居諸不<lb
  n="0025a17" ed="T"/>善塵垢、居諸不善之想、居諸不善之行，常與<lb
@@ -258,8 +258,8 @@
  n="0025b19" ed="T"/>居家常畏怨敵，謂五賊、冤家、惡子故；居家為<lb
  n="0025b20" ed="T"/>少安隱、不得度脫，用無等故。』如是，長者！居家<lb
  n="0025b21" ed="T"/>菩薩當別知在家為穢。</ab></div><lb
- n="0025b22" ed="T"/><div type="pin" level="2"><head>施品第五</head><lb
- n="0025b23" ed="T"/><ab type="prose">「復次，長者！居家菩薩當布施、持戒、忍辱、精進，<lb
+ n="0025b22" ed="T"/><div type='pin' level='2'><head>施品第五</head><lb
+ n="0025b23" ed="T"/><ab type='prose'>「復次，長者！居家菩薩當布施、持戒、忍辱、精進，<lb
  n="0025b24" ed="T"/>多為諸善。當作是念言：『所施者為是我所，<lb
  n="0025b25" ed="T"/>在家者為非我所；施與者為要，在家者為無<lb
  n="0025b26" ed="T"/>要；施與者為後世安，在家者為後世苦；施與<lb
@@ -384,8 +384,8 @@
  n="0027a01" ed="T"/>平相不可限。』所以者何？欲平相人則為平相<lb
  n="0027a02" ed="T"/>如來，如來所知非我所究，如是，於彼不當作<lb
  n="0027a03" ed="T"/>惡心，取其長短也。</ab></div><lb
- n="0027a04" ed="T"/><div type="pin" level="2"><head>禮塔品第六</head><lb
- n="0027a05" ed="T"/><ab type="prose">「復次，長者！居家菩薩入佛寺精舍，當住門外<lb
+ n="0027a04" ed="T"/><div type='pin' level='2'><head>禮塔品第六</head><lb
+ n="0027a05" ed="T"/><ab type='prose'>「復次，長者！居家菩薩入佛寺精舍，當住門外<lb
  n="0027a06" ed="T"/>至心作禮，然後當入精舍。當作是念言：『是為<lb
  n="0027a07" ed="T"/>空寺，無境界、無有想、有願，為慈悲喜護居<lb
  n="0027a08" ed="T"/>寺、為得平等所居。』自念言：『我何時當得如<lb
@@ -442,8 +442,8 @@
  n="0027c01" ed="T"/>髮。佛說是居家菩薩戒德寂法品時，千二百<lb
  n="0027c02" ed="T"/>人具足發無上正真道意，二千五百菩薩得<lb
  n="0027c03" ed="T"/>音響忍，四千天及人得柔順法忍。</ab></div><lb
- n="0027c04" ed="T"/><div type="pin" level="2"><head>止足品第七</head><lb
- n="0027c05" ed="T"/><ab type="prose">是時，郁迦長者白佛言：「如來、無所著、等正覺<lb
+ n="0027c04" ed="T"/><div type='pin' level='2'><head>止足品第七</head><lb
+ n="0027c05" ed="T"/><ab type='prose'>是時，郁迦長者白佛言：「如來、無所著、等正覺<lb
  n="0027c06" ed="T"/>以說居家地之善惡，於大乘所當行布施、持<lb
  n="0027c07" ed="T"/>戒、忍辱、精進、一心、智慧。願世尊復說出家下<lb
  n="0027c08" ed="T"/>鬚髮菩薩之行，持戒、精進、智慧、止足之德。天<lb
@@ -506,8 +506,8 @@
  n="0028b07" ed="T"/>前；八者、以醫藥斷諸塵勞；九者、斷自諸見著；<lb
  n="0028b08" ed="T"/>十者、疾斷諸病瘦得安隱。長者！是為十事行，<lb
  n="0028b09" ed="T"/>出家菩薩盡形壽當習醫藥。</ab></div><lb
- n="0028b10" ed="T"/><div type="pin" level="2"><head>閑居品第八</head><lb
- n="0028b11" ed="T"/><ab type="prose">「復次，長者！出家菩薩在閑居行，當作是念言：<lb
+ n="0028b10" ed="T"/><div type='pin' level='2'><head>閑居品第八</head><lb
+ n="0028b11" ed="T"/><ab type='prose'>「復次，長者！出家菩薩在閑居行，當作是念言：<lb
  n="0028b12" ed="T"/>『我何故來在閑居？』當復更念言：『不但在閑居<lb
  n="0028b13" ed="T"/>為沙門也。所以者何？彼閑居大有不調定、不<lb
  n="0028b14" ed="T"/>成就、無法則、無義理者，謂麞、鹿、飛鳥之眾，<lb
@@ -731,5 +731,5 @@
  n="0030c29" ed="T"/>諸天、阿須倫、世間人民，聞經歡喜，皆前為佛<pb n="0031a" id="T12.0323.0031a" ed="T"/><lb
  n="0031a01" ed="T"/>作禮而去。</ab></div><lb
  n="0031a02" ed="T"/>
-<ab type="juan" subtype="close">郁迦羅越問菩薩行經</ab></div>
+<ab type='juan' subtype='close'>郁迦羅越問菩薩行經</ab></div>
 </body></text></TEI>

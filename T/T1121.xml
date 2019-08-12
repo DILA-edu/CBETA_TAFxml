@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1121</idno>
                 </bibl>
@@ -39,35 +39,35 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0521b" id="T20.1121.0521b" ed="T"/><lb
  n="0521b01" ed="T"/><lb
  n="0521b02" ed="T"/><lb
  n="0521b03" ed="T"/><lb
  n="0521b04" ed="T"/>
-<ab type="juan" subtype="open">金剛頂普賢瑜伽大教王經大<lb
+<ab type='juan' subtype='open'>金剛頂普賢瑜伽大教王經大<lb
  n="0521b05" ed="T"/>樂不空金剛薩埵一切時方成<lb
  n="0521b06" ed="T"/>就儀</ab><lb
  n="0521b07" ed="T"/><lb
- n="0521b08" ed="T"/><div type="jing" level="2"><ab type="verse">
+ n="0521b08" ed="T"/><div type='jing' level='2'><ab type='verse'>
 稽首禮大密　　從持金剛生　　<lb
  n="0521b09" ed="T"/>密言易成就　　我說念誦儀　　<lb
  n="0521b10" ed="T"/>密語有先應　　發心盡利樂　　<lb
  n="0521b11" ed="T"/>無餘有情界　　隨意稱誦此　　<lb
  n="0521b12" ed="T"/>性成就密言　　應發菩提心　　
 </ab><lb
- n="0521b13" ed="T"/><ab type="prose">　。<lb
+ n="0521b13" ed="T"/><ab type='prose'>　。<lb
  n="0521b14" ed="T"/></ab>
-<ab type="dharani">唵薩嚩喻誐質多母答跛那夜弭<lb
+<ab type='dharani'>唵薩嚩喻誐質多母答跛那夜弭<lb
  n="0521b15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 由纔誦密言　　發菩提心故　　<lb
  n="0521b16" ed="T"/>彌除一切障　　獲諸樂悅意　　<lb
  n="0521b17" ed="T"/>不被眾魔阻　　等同正遍知　　<lb
  n="0521b18" ed="T"/>受諸世間供　　復觀一切法　　<lb
  n="0521b19" ed="T"/>色無自性空　　
 </ab><lb
- n="0521b20" ed="T"/><ab type="verse">
+ n="0521b20" ed="T"/><ab type='verse'>
 即徹見本心　　圓白如滿月　　<lb
  n="0521b21" ed="T"/>五峯素金剛　　踴立月輪面　　<lb
  n="0521b22" ed="T"/>即觀智金剛　　變成婆伽梵　　<lb
@@ -200,7 +200,7 @@
  n="0523a04" ed="T"/>曩婆放前儀　　怛鑁嚩日囉　　<lb
  n="0523a05" ed="T"/>薩埵跛囉麼　　索囉跢妙陀　　<lb
  n="0523a06" ed="T"/>婆嚩銘磨訶　　蘇佉爾哩住　　<lb
- n="0523a07" ed="T"/>縒囉也那幢　　鉢囉底幡󰽕　　<lb
+ n="0523a07" ed="T"/>縒囉也那幢　　鉢囉底幡𭀍　　<lb
  n="0523a08" ed="T"/>悉地者攞具　　鉢囉拏多慢　　<lb
  n="0523a09" ed="T"/>由此金剛歌　　大樂隨愛樂　　<lb
  n="0523a10" ed="T"/>適悅為堅固　　皆得如意成　　<lb
@@ -262,8 +262,8 @@
  n="0523c08" ed="T"/>遍照堅固體　　及諸隨願身　　
 </ab><lb
  n="0523c09" ed="T"/>
-<ab type="juan" subtype="close">普賢瑜伽經大樂金剛薩埵成就儀軌</ab></div><lb
- n="0523c10" ed="T"/><div type="w" level="2"><ab type="prose">大歷三年八月十四日西京青龍寺僧願力<lb
+<ab type='juan' subtype='close'>普賢瑜伽經大樂金剛薩埵成就儀軌</ab></div><lb
+ n="0523c10" ed="T"/><div type='w' level='2'><ab type='prose'>大歷三年八月十四日西京青龍寺僧願力<lb
  n="0523c11" ed="T"/>書寫梵漢字記<lb
  n="0523c12" ed="T"/>應德元年九月二十八日辰剋於桂林房以<lb
  n="0523c13" ed="T"/>前唐院唐本傳寫了件唐本千手儀軌在諦<lb

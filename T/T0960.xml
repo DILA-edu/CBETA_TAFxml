@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n0960</idno>
                 </bibl>
@@ -41,17 +41,17 @@
     <text>
         <body><pb n="0330a" id="T19.0960.0330a" ed="T"/><lb
  n="0330a01" ed="T"/><lb
- n="0330a02" ed="T"/><div type="jing" level="1"><lb
+ n="0330a02" ed="T"/><div type='jing' level='1'><lb
  n="0330a03" ed="T"/>
-<ab type="juan" subtype="open">一切如來說佛頂輪王一百八名<lb
+<ab type='juan' subtype='open'>一切如來說佛頂輪王一百八名<lb
  n="0330a04" ed="T"/>讚</ab><lb
  n="0330a05" ed="T"/><lb
  n="0330a06" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚卿<lb
  n="0330a07" ed="T"/>傳法大師臣施護奉　詔譯</byline><lb
- n="0330a08" ed="T"/><ab type="prose">爾時一切如來。說無量功德大明呪主轉輪<lb
+ n="0330a08" ed="T"/><ab type='prose'>爾時一切如來。說無量功德大明呪主轉輪<lb
  n="0330a09" ed="T"/>王一百八名。即說讚曰。<lb
  n="0330a10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 歸命最上師　　一切世間主　　<lb
  n="0330a11" ed="T"/>恒懷大慈悲　　顯揚大名稱　　<lb
  n="0330a12" ed="T"/>十力大丈夫　　福德超三界　　<lb
@@ -92,5 +92,5 @@
  n="0330b18" ed="T"/>無盡功德聚　　是名一百八　　
 </ab><lb
  n="0330b19" ed="T"/>
-<ab type="juan" subtype="close">一切如來說佛頂輪王一百八名讚</ab></div>
+<ab type='juan' subtype='close'>一切如來說佛頂輪王一百八名讚</ab></div>
 </body></text></TEI>

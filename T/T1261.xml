@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1261</idno>
                 </bibl>
@@ -43,24 +43,24 @@
  n="0289b15" ed="T"/><lb
  n="0289b16" ed="T"/><lb
  n="0289b17" ed="T"/><lb
- n="0289b18" ed="T"/><div type="jing" level="1"><lb
+ n="0289b18" ed="T"/><div type='jing' level='1'><lb
  n="0289b19" ed="T"/>
-<ab type="juan" subtype="open">訶利帝母真言經</ab><lb
+<ab type='juan' subtype='open'>訶利帝母真言經</ab><lb
  n="0289b20" ed="T"/><lb
  n="0289b21" ed="T"/><byline>開府儀同三司特進試鴻臚卿肅國<lb
  n="0289b22" ed="T"/>公食邑三千戶賜紫贈司空諡大鑒<lb
  n="0289b23" ed="T"/>正號大廣智大興善寺三藏沙門<lb
  n="0289b24" ed="T"/>不空奉　詔譯</byline><lb
- n="0289b25" ed="T"/><ab type="prose">爾時訶利帝藥叉女。在佛眾會從座而起。五<lb
+ n="0289b25" ed="T"/><ab type='prose'>爾時訶利帝藥叉女。在佛眾會從座而起。五<lb
  n="0289b26" ed="T"/>體投地禮佛雙足。而白佛言。我有心真言。<lb
  n="0289b27" ed="T"/>由如真多摩尼寶能滿一切意願。為利益安<lb
  n="0289b28" ed="T"/>樂閻浮提諸善男子及善女人。唯願世尊<lb
  n="0289b29" ed="T"/>哀愍聽許。我今說之。<pb n="0289c" id="T21.1261.0289c" ed="T"/><lb
  n="0289c01" ed="T"/>真言曰。<lb
  n="0289c02" ed="T"/></ab>
-<ab type="dharani">唵弩弩麼里迦呬帝娑嚩訶<lb
+<ab type='dharani'>唵弩弩麼里迦呬帝娑嚩訶<lb
  n="0289c03" ed="T"/></ab>
-<ab type="prose">若有女人不宜男女。或在胎中墮落斷緒不<lb
+<ab type='prose'>若有女人不宜男女。或在胎中墮落斷緒不<lb
  n="0289c04" ed="T"/>收。皆由四大不不能調適。或被鬼神作諸障<lb
  n="0289c05" ed="T"/>難。或是宿業因緣不宜男女。應取白㲲或一<lb
  n="0289c06" ed="T"/>肘或一搩手或長五寸隨意大小。畫訶利<lb
@@ -113,9 +113,9 @@
  n="0290b01" ed="T"/>訶利帝母念誦法。<lb
  n="0290b02" ed="T"/>愛子心真言曰。<lb
  n="0290b03" ed="T"/></ab>
-<ab type="dharani">唵知尾知𩕳娑嚩訶<lb
+<ab type='dharani'>唵知尾知𩕳娑嚩訶<lb
  n="0290b04" ed="T"/></ab>
-<ab type="prose">印合掌屈二大拇指入掌中。誦心真言供養<lb
+<ab type='prose'>印合掌屈二大拇指入掌中。誦心真言供養<lb
  n="0290b05" ed="T"/>訖。於頂上放二大拇指即散去。請召發遣皆<lb
  n="0290b06" ed="T"/>放此印。以白檀香。橫量六指作童子形。具<lb
  n="0290b07" ed="T"/>足兩手各把菓子與人。頭上作三髻角子。於<lb
@@ -135,5 +135,5 @@
  n="0290b21" ed="T"/>又法被禁閉。誦一萬遍即解脫。治病加持菴<lb
  n="0290b22" ed="T"/>羅菓芽乳中漬燒加持。除一切病。<lb
  n="0290b23" ed="T"/>
-</ab><ab type="juan" subtype="close">訶利帝母經</ab></div>
+</ab><ab type='juan' subtype='close'>訶利帝母經</ab></div>
 </body></text></TEI>

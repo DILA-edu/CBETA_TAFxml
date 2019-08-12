@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T08</biblScope>
                     <idno type="Taisho">T08n0255</idno>
                 </bibl>
@@ -43,10 +43,10 @@
  n="0850b18" ed="T"/><lb
  n="0850b19" ed="T"/><lb
  n="0850b20" ed="T"/>
-<ab type="juan" subtype="open">般若波羅蜜多心經</ab><lb
+<ab type='juan' subtype='open'>般若波羅蜜多心經</ab><lb
  n="0850b21" ed="T"/><lb
  n="0850b22" ed="T"/><byline>國大德三藏法師沙門法成譯</byline><lb
- n="0850b23" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時薄伽梵住王舍城鷲峯山中，<lb
+ n="0850b23" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時薄伽梵住王舍城鷲峯山中，<lb
  n="0850b24" ed="T"/>與大苾蒭眾及諸菩薩摩訶薩俱。爾時，世尊<lb
  n="0850b25" ed="T"/>等入甚深明了三摩地法之異門。復於爾時，<lb
  n="0850b26" ed="T"/>觀自在菩薩摩訶薩行深般若波羅蜜多時，<lb
@@ -74,9 +74,9 @@
  n="0850c19" ed="T"/>若波羅蜜多是祕密咒。」即說般若波羅蜜多<lb
  n="0850c20" ed="T"/>咒曰：<lb
  n="0850c21" ed="T"/></ab>
-<ab type="dharani">「峩帝　峩帝　波囉峩帝　波囉僧峩帝　菩提　莎訶<lb
+<ab type='dharani'>「峩帝　峩帝　波囉峩帝　波囉僧峩帝　菩提　莎訶<lb
  n="0850c22" ed="T"/></ab>
-<ab type="prose">「舍利子！菩薩摩訶薩應如是修學甚深般若<lb
+<ab type='prose'>「舍利子！菩薩摩訶薩應如是修學甚深般若<lb
  n="0850c23" ed="T"/>波羅蜜多。」爾時，世尊從彼定起，告聖者觀自<lb
  n="0850c24" ed="T"/>在菩薩摩訶薩曰：「善哉，善哉！善男子！如是，如<lb
  n="0850c25" ed="T"/>是！如汝所說。彼當如是修學般若波羅蜜多。<lb
@@ -85,5 +85,5 @@
  n="0850c28" ed="T"/>間天、人、阿蘇羅、乾闥婆等，聞佛所說，皆大歡<lb
  n="0850c29" ed="T"/>喜，信受奉行。</ab></div><pb n="0851a" id="T08.0255.0851a" ed="T"/><lb
  n="0851a01" ed="T"/>
-<ab type="juan" subtype="close">般若波羅蜜多心經</ab>
+<ab type='juan' subtype='close'>般若波羅蜜多心經</ab>
 </body></text></TEI>

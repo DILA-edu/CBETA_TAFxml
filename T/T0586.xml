@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T15</biblScope>
                     <idno type="Taisho">T15n0586</idno>
                 </bibl>
@@ -39,17 +39,17 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0033a20" ed="T"/><lb
- n="0033a21" ed="T"/><div type="pin" level="2"><lb
+ n="0033a21" ed="T"/><div type='pin' level='2'><lb
  n="0033a22" ed="T"/>
-<ab type="juan" subtype="open">思益梵天所問經卷第一</ab><lb
+<ab type='juan' subtype='open'>思益梵天所問經卷第一</ab><lb
  n="0033a23" ed="T"/><lb
  n="0033a24" ed="T"/><byline>姚秦龜茲國三藏<lb
  n="0033a25" ed="T"/>鳩摩羅什譯</byline><lb
  n="0033a26" ed="T"/><head>序品第一</head><lb
- n="0033a27" ed="T"/><ab type="prose">如是我聞：一時佛住王舍城迦蘭陀竹林，與<lb
+ n="0033a27" ed="T"/><ab type='prose'>如是我聞：一時佛住王舍城迦蘭陀竹林，與<lb
  n="0033a28" ed="T"/>大比丘僧六萬四千人俱。菩薩摩訶薩七萬<lb
  n="0033a29" ed="T"/>二千人，皆眾所知識，得陀羅尼無礙辯才及<pb n="0033b" ed="T" id="T15.0586.0033b"/><lb
  n="0033b01" ed="T"/>諸三昧，於諸神通無所罣礙，善能曉了諸法<lb
@@ -180,7 +180,7 @@
  n="0034c10" ed="T"/>俱，頭面禮佛足，右遶三匝，合掌向佛，以<lb
  n="0034c11" ed="T"/>偈讚曰：<lb
  n="0034c12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「世尊大名稱，　　普聞於十方，　　<lb
  n="0034c13" ed="T"/>所在諸如來，　　無不稱歎者。　　<lb
  n="0034c14" ed="T"/>有諸餘淨國，　　無三惡道名，　　<lb
@@ -227,8 +227,8 @@
  n="0035a26" ed="T"/>佛雖無疲倦，　　而我有所請，　　<lb
  n="0035a27" ed="T"/>悔過於世尊，　　願說菩提道。」　　
 </ab></div><lb
- n="0035a28" ed="T"/><div type="pin" level="2"><head>四法品第二</head><pb n="0035b" ed="T" id="T15.0586.0035b"/><lb
- n="0035b01" ed="T"/><ab type="prose">爾時思益梵天說此偈已，白佛言：「世尊！何<lb
+ n="0035a28" ed="T"/><div type='pin' level='2'><head>四法品第二</head><pb n="0035b" ed="T" id="T15.0586.0035b"/><lb
+ n="0035b01" ed="T"/><ab type='prose'>爾時思益梵天說此偈已，白佛言：「世尊！何<lb
  n="0035b02" ed="T"/>謂菩薩其心堅固而無疲倦？何謂菩薩所言<lb
  n="0035b03" ed="T"/>決定而不中悔？何謂菩薩增長善根？何謂菩<lb
  n="0035b04" ed="T"/>薩無所恐畏威儀不動？何謂菩薩成就白法？<lb
@@ -311,8 +311,8 @@
  n="0036a24" ed="T"/>多羅三藐三菩提心；五千人得無生法忍。十<lb
  n="0036a25" ed="T"/>方諸來菩薩供養於佛，所散天花周遍三千<lb
  n="0036a26" ed="T"/>大千世界，積至于膝。</ab></div><lb
- n="0036a27" ed="T"/><div type="pin" level="2"><head>分別品第三</head><lb
- n="0036a28" ed="T"/><ab type="prose">爾時網明菩薩問思益梵天言：「佛說：『汝於正<lb
+ n="0036a27" ed="T"/><div type='pin' level='2'><head>分別品第三</head><lb
+ n="0036a28" ed="T"/><ab type='prose'>爾時網明菩薩問思益梵天言：「佛說：『汝於正<lb
  n="0036a29" ed="T"/>問菩薩中為最第一。』何謂菩薩所問為正問<pb n="0036b" ed="T" id="T15.0586.0036b"/><lb
  n="0036b01" ed="T"/>耶？」梵天言：「網明！若菩薩以彼、我問，名為邪<lb
  n="0036b02" ed="T"/>問；分別法問，名為邪問。若無彼、我問，名為正<lb
@@ -437,7 +437,7 @@
  n="0037c05" ed="T"/>言：「捨於外法。」「世尊！何謂名為菩薩遍行？」佛<lb
  n="0037c06" ed="T"/>言：「能淨身口意業。」爾時世尊而說偈言：<lb
  n="0037c07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「若身淨無惡，　　口淨常實語，　　<lb
  n="0037c08" ed="T"/>心淨常行慈，　　是菩薩遍行。　　<lb
  n="0037c09" ed="T"/>行慈無貪著，　　觀不淨無恚，　　<lb
@@ -459,13 +459,13 @@
  n="0037c25" ed="T"/>於過去未來，　　及與現在世，　　<lb
  n="0037c26" ed="T"/>一切無分別，　　是菩薩遍行。」　　
 </ab><lb
- n="0037c27" ed="T"/><ab type="prose"><lb
+ n="0037c27" ed="T"/><ab type='prose'><lb
  n="0037c28" ed="T"/>爾時思益梵天白佛言：「世尊！何謂菩薩過<lb
  n="0037c29" ed="T"/>世間法？通達世間法？通達世間法已，度眾生？<pb n="0038a" ed="T" id="T15.0586.0038a"/><lb
  n="0038a01" ed="T"/>於世間法行於世間，而不壞世間？」爾時世尊<lb
  n="0038a02" ed="T"/>以偈答言：<lb
  n="0038a03" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「說五陰是世，　　世間所依止，　　<lb
  n="0038a04" ed="T"/>依止於五陰，　　不脫世間法。　　<lb
  n="0038a05" ed="T"/>菩薩有智慧，　　知世間實相，　　<lb
@@ -533,8 +533,8 @@
  n="0038c09" ed="T"/>若有深愛樂，　　如是世間法，　　<lb
  n="0038c10" ed="T"/>則能降眾魔，　　疾得無上道。」　　
 </ab></div><lb
- n="0038c11" ed="T"/><div type="pin" level="2"><head>解諸法品第四</head><lb
- n="0038c12" ed="T"/><ab type="prose">佛復告思益梵天：「如來出過世間，亦說世間<lb
+ n="0038c11" ed="T"/><div type='pin' level='2'><head>解諸法品第四</head><lb
+ n="0038c12" ed="T"/><ab type='prose'>佛復告思益梵天：「如來出過世間，亦說世間<lb
  n="0038c13" ed="T"/>苦、世間集、世間滅、世間滅道。梵天！五陰名為<lb
  n="0038c14" ed="T"/>世間苦，貪著五陰名為世間集，五陰盡名為<lb
  n="0038c15" ed="T"/>世間滅，以無二法求五陰名為世間滅道。<lb
@@ -687,16 +687,16 @@
  n="0040b18" ed="T"/>是之人，我以一劫若減一劫，說其功德猶不<lb
  n="0040b19" ed="T"/>能盡。」<lb
  n="0040b20" ed="T"/>
-</ab><ab type="juan" subtype="close">思益梵天所問經卷第一</ab></div><lb
+</ab><ab type='juan' subtype='close'>思益梵天所問經卷第一</ab></div><lb
  n="0040b21" ed="T"/><lb
- n="0040b22" ed="T"/><div type="pin" level="2"><lb
+ n="0040b22" ed="T"/><div type='pin' level='2'><lb
  n="0040b23" ed="T"/>
-<ab type="juan" subtype="open">思益梵天所問經卷第二<lb
+<ab type='juan' subtype='open'>思益梵天所問經卷第二<lb
  n="0040b24" ed="T"/><lb
  n="0040b25" ed="T"/><byline>姚秦龜茲國三藏<lb
  n="0040b26" ed="T"/>鳩摩羅什譯</byline><lb
  n="0040b27" ed="T"/>解諸法品第四之餘</ab><lb
- n="0040b29" ed="T"/><ab type="prose">佛告梵天：「汝何能稱說是人功德？如如來以<pb n="0040c" ed="T" id="T15.0586.0040c"/><lb
+ n="0040b29" ed="T"/><ab type='prose'>佛告梵天：「汝何能稱說是人功德？如如來以<pb n="0040c" ed="T" id="T15.0586.0040c"/><lb
  n="0040c01" ed="T"/>無礙智慧之所知乎，是人所有功德復過於<lb
  n="0040c02" ed="T"/>此。若人能於如來所說文字、言說、章句，通<lb
  n="0040c03" ed="T"/>達隨順、不違不逆、和合為一，隨其義理，不<lb
@@ -839,8 +839,8 @@
  n="0042a27" ed="T"/>田威德具足，常能利益一切眾生。」說是大悲<lb
  n="0042a28" ed="T"/>法門品時，三萬二千人皆發阿耨多羅三藐<lb
  n="0042a29" ed="T"/>三菩提心，八千菩薩得無生法忍。</ab></div><pb n="0042b" ed="T" id="T15.0586.0042b"/><lb
- n="0042b01" ed="T"/><div type="pin" level="2"><head>難問品第五</head><lb
- n="0042b02" ed="T"/><ab type="prose">爾時網明菩薩摩訶薩白佛言：「世尊！是思益<lb
+ n="0042b01" ed="T"/><div type='pin' level='2'><head>難問品第五</head><lb
+ n="0042b02" ed="T"/><ab type='prose'>爾時網明菩薩摩訶薩白佛言：「世尊！是思益<lb
  n="0042b03" ed="T"/>梵天云何聞是大悲法門而不喜悅？」梵<lb
  n="0042b04" ed="T"/>天言：「善男子！若識在二法則有喜悅，若識<lb
  n="0042b05" ed="T"/>在無二實際法中則無喜悅。譬如幻人見幻<lb
@@ -1003,8 +1003,8 @@
  n="0044a17" ed="T"/>發阿耨多羅三藐三菩提心已，願生彼國，白<lb
  n="0044a18" ed="T"/>佛言：「網明菩薩得成佛時，我等願生其<lb
  n="0044a19" ed="T"/>國！」</ab></div><lb
- n="0044a20" ed="T"/><div type="pin" level="2"><head>問談品第六</head><lb
- n="0044a21" ed="T"/><ab type="prose">爾時長老大迦葉白佛言：「世尊！網明菩薩幾<lb
+ n="0044a20" ed="T"/><div type='pin' level='2'><head>問談品第六</head><lb
+ n="0044a21" ed="T"/><ab type='prose'>爾時長老大迦葉白佛言：「世尊！網明菩薩幾<lb
  n="0044a22" ed="T"/>時當得阿耨多羅三藐三菩提？」佛言：「迦葉！汝<lb
  n="0044a23" ed="T"/>自問網明。」於是迦葉問網明菩薩言：「善<lb
  n="0044a24" ed="T"/>男子！仁者幾時當得阿耨多羅三藐三菩提？」<lb
@@ -1261,16 +1261,16 @@
  n="0047a17" ed="T"/>法喜故；捨是菩薩家，離貪著故；不捨菩提<lb
  n="0047a18" ed="T"/>是菩薩家，不貪聲聞、辟支佛地故。」<lb
  n="0047a19" ed="T"/>
-</ab><ab type="juan" subtype="close">思益梵天所問經卷第二</ab></div><lb
+</ab><ab type='juan' subtype='close'>思益梵天所問經卷第二</ab></div><lb
  n="0047a20" ed="T"/><lb
- n="0047a21" ed="T"/><div type="pin" level="2"><lb
+ n="0047a21" ed="T"/><div type='pin' level='2'><lb
  n="0047a22" ed="T"/>
-<ab type="juan" subtype="open">思益梵天所問經卷第三</ab><lb
+<ab type='juan' subtype='open'>思益梵天所問經卷第三</ab><lb
  n="0047a23" ed="T"/><lb
  n="0047a24" ed="T"/><byline>姚秦龜茲國三藏<lb
  n="0047a25" ed="T"/>鳩摩羅什譯</byline><lb
  n="0047a26" ed="T"/><head>談論品第七</head><lb
- n="0047a27" ed="T"/><ab type="prose">爾時思益梵天白佛言：「世尊！是文殊師利法<lb
+ n="0047a27" ed="T"/><ab type='prose'>爾時思益梵天白佛言：「世尊！是文殊師利法<lb
  n="0047a28" ed="T"/>王子在此大會而無所說。」佛即告文殊師利：<lb
  n="0047a29" ed="T"/>「汝於此會所說法中可少說之。」文殊師利白<pb n="0047b" ed="T" id="T15.0586.0047b"/><lb
  n="0047b01" ed="T"/>佛言：「世尊！佛所得法寧可識不？」佛言：「不可<lb
@@ -1443,8 +1443,8 @@
  n="0049a24" ed="T"/>爾時佛告等行菩薩：「若菩薩能代一切眾生<lb
  n="0049a25" ed="T"/>受諸苦惱，亦復能捨一切福事與諸眾生，是<lb
  n="0049a26" ed="T"/>名菩薩。」</ab></div><lb
- n="0049a27" ed="T"/><div type="pin" level="2"><head>論寂品第八</head><lb
- n="0049a28" ed="T"/><ab type="prose">爾時思益梵天問等行菩薩言：「善男子！汝今<lb
+ n="0049a27" ed="T"/><div type='pin' level='2'><head>論寂品第八</head><lb
+ n="0049a28" ed="T"/><ab type='prose'>爾時思益梵天問等行菩薩言：「善男子！汝今<lb
  n="0049a29" ed="T"/>以何行為行？」答言：「我以隨一切有為法眾<pb n="0049b" ed="T" id="T15.0586.0049b"/><lb
  n="0049b01" ed="T"/>生行為行。」又問：「隨一切有為法眾生以何<lb
  n="0049b02" ed="T"/>為行？」答言：「諸佛所行，是隨一切有為法眾<lb
@@ -1676,8 +1676,8 @@
  n="0051c25" ed="T"/>乎？勿造斯觀！無盡意者今文殊師利是，益<lb
  n="0051c26" ed="T"/>意菩薩者今汝身是，妙光梵天者今思益<lb
  n="0051c27" ed="T"/>梵天是。」</ab></div><lb
- n="0051c28" ed="T"/><div type="pin" level="2"><head>仂行品第九</head><pb n="0052a" ed="T" id="T15.0586.0052a"/><lb
- n="0052a01" ed="T"/><ab type="prose">爾時等行菩薩白佛言：「未曾有也。世尊！諸佛<lb
+ n="0051c28" ed="T"/><div type='pin' level='2'><head>仂行品第九</head><pb n="0052a" ed="T" id="T15.0586.0052a"/><lb
+ n="0052a01" ed="T"/><ab type='prose'>爾時等行菩薩白佛言：「未曾有也。世尊！諸佛<lb
  n="0052a02" ed="T"/>菩提為大饒益。如所說行精進眾生。世尊！其<lb
  n="0052a03" ed="T"/>懈怠不能如說行者，雖值百千萬佛無能為<lb
  n="0052a04" ed="T"/>也，當知從勤精進得出菩提。」爾時文殊師<lb
@@ -1723,11 +1723,11 @@
  n="0052b15" ed="T"/>不失如故。」又問：「諸佛、世尊得何等故，號名<lb
  n="0052b16" ed="T"/>為佛？」答言：「諸佛、世尊通達諸法性相如故，說<lb
  n="0052b17" ed="T"/>名如來、正遍知者。」</ab></div><lb
- n="0052b18" ed="T"/><div type="pin" level="2"><head>志大乘品第十</head><lb
- n="0052b19" ed="T"/><ab type="prose">於是等行菩薩白佛言：「世尊！何謂菩薩發行<lb
+ n="0052b18" ed="T"/><div type='pin' level='2'><head>志大乘品第十</head><lb
+ n="0052b19" ed="T"/><ab type='prose'>於是等行菩薩白佛言：「世尊！何謂菩薩發行<lb
  n="0052b20" ed="T"/>大乘？」爾時世尊以偈答言：<lb
  n="0052b21" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「菩薩不壞色，　　發行菩提心，　　<lb
  n="0052b22" ed="T"/>知色即菩提，　　是名行菩提。　　<lb
  n="0052b23" ed="T"/>如色菩提然，　　等入於如相，　　<lb
@@ -1890,12 +1890,12 @@
  n="0054b06" ed="T"/>若人於佛後，　　能解說是經，　　<lb
  n="0054b07" ed="T"/>佛雖不在世，　　為能作佛事。」　　
 </ab><lb
- n="0054b08" ed="T"/><ab type="prose">佛說是偈時，五千天子皆發阿耨多羅三藐<lb
+ n="0054b08" ed="T"/><ab type='prose'>佛說是偈時，五千天子皆發阿耨多羅三藐<lb
  n="0054b09" ed="T"/>三菩提心；二千菩薩得無生法忍；十千比<lb
  n="0054b10" ed="T"/>丘不受諸法，漏盡，心得解脫；三萬二千人遠<lb
  n="0054b11" ed="T"/>塵離垢，於諸法中得法眼淨。</ab></div><lb
- n="0054b12" ed="T"/><div type="pin" level="2"><head>行道品第十一</head><lb
- n="0054b13" ed="T"/><ab type="prose">爾時文殊師利法王子白佛言：「世尊！如我解<lb
+ n="0054b12" ed="T"/><div type='pin' level='2'><head>行道品第十一</head><lb
+ n="0054b13" ed="T"/><ab type='prose'>爾時文殊師利法王子白佛言：「世尊！如我解<lb
  n="0054b14" ed="T"/>佛所說義，若有人發菩提願，是為邪願。所<lb
  n="0054b15" ed="T"/>以者何？諸有所得悉皆是邪。若計得菩提而<lb
  n="0054b16" ed="T"/>發願者，是人諸所作行皆為是邪。所以者何？<lb
@@ -1944,15 +1944,15 @@
  n="0055a01" ed="T"/>教誨。所以者何？如說法性、不說法性亦如是。<lb
  n="0055a02" ed="T"/>是故說一切法住於如中，是如亦無所住。」<lb
  n="0055a03" ed="T"/>
-</ab><ab type="juan" subtype="close">思益梵天所問經卷第三</ab></div><lb
+</ab><ab type='juan' subtype='close'>思益梵天所問經卷第三</ab></div><lb
  n="0055a04" ed="T"/><lb
- n="0055a05" ed="T"/><div type="pin" level="2"><lb
+ n="0055a05" ed="T"/><div type='pin' level='2'><lb
  n="0055a06" ed="T"/>
-<ab type="juan" subtype="open">思益梵天所問經卷第四</ab><lb
+<ab type='juan' subtype='open'>思益梵天所問經卷第四</ab><lb
  n="0055a07" ed="T"/><lb
  n="0055a08" ed="T"/><byline>姚秦龜茲國三藏鳩摩羅什譯</byline><lb
  n="0055a09" ed="T"/><head>稱歎品第十二</head><lb
- n="0055a10" ed="T"/><ab type="prose">爾時釋、梵、四天王俱在會中，即以天花散<lb
+ n="0055a10" ed="T"/><ab type='prose'>爾時釋、梵、四天王俱在會中，即以天花散<lb
  n="0055a11" ed="T"/>於佛上而作是言：「世尊！若善男子、善女人聞<lb
  n="0055a12" ed="T"/>文殊師利說是法，有信解者，當知是人能破<lb
  n="0055a13" ed="T"/>魔怨。所以者何？文殊師利今所說法，能破<lb
@@ -1969,8 +1969,8 @@
  n="0055a24" ed="T"/>當隨侍說是經者，此善男子常為諸天之所<lb
  n="0055a25" ed="T"/>擁護。若人書寫是經，讀誦、解說時，無量諸<lb
  n="0055a26" ed="T"/>天為聽法故來至其所。」</ab></div><lb
- n="0055a27" ed="T"/><div type="pin" level="2"><head>詠德品第十三</head><lb
- n="0055a28" ed="T"/><ab type="prose">爾時世尊讚釋、梵、四天王等大眾言：「善哉，<lb
+ n="0055a27" ed="T"/><div type='pin' level='2'><head>詠德品第十三</head><lb
+ n="0055a28" ed="T"/><ab type='prose'>爾時世尊讚釋、梵、四天王等大眾言：「善哉，<lb
  n="0055a29" ed="T"/>善哉！如汝所說，若三千大千世界滿中珍寶<pb n="0055b" ed="T" id="T15.0586.0055b"/><lb
  n="0055b01" ed="T"/>以為一分，聞是經者所得功德以為一分，福<lb
  n="0055b02" ed="T"/>勝於彼。置是三千大千世界，若恒河沙等十<lb
@@ -2016,8 +2016,8 @@
  n="0055c13" ed="T"/>場；是名破壞諸魔；是名轉於法輪。諸善男<lb
  n="0055c14" ed="T"/>子！我若一劫、若減一劫，稱揚、讚歎說是如說<lb
  n="0055c15" ed="T"/>修行功德不可窮盡，如來之辯亦不可盡。」</ab></div><lb
- n="0055c16" ed="T"/><div type="pin" level="2"><head>等行品第十四</head><lb
- n="0055c17" ed="T"/><ab type="prose">爾時會中有天子，名不退轉，白佛言：「世尊！<lb
+ n="0055c16" ed="T"/><div type='pin' level='2'><head>等行品第十四</head><lb
+ n="0055c17" ed="T"/><ab type='prose'>爾時會中有天子，名不退轉，白佛言：「世尊！<lb
  n="0055c18" ed="T"/>所說隨法行，隨法行者為何謂耶？」佛告天子：<lb
  n="0055c19" ed="T"/>「隨法行者，不行一切法。所以者何？若不行<lb
  n="0055c20" ed="T"/>諸法，則不分別是正是邪。如是行者則不<lb
@@ -2045,8 +2045,8 @@
  n="0056a13" ed="T"/>是法位相非眼所見，非耳、鼻、舌、身、意、識所知；<lb
  n="0056a14" ed="T"/>但應隨如相——見如、眼如、乃至意如，法位如亦<lb
  n="0056a15" ed="T"/>如是。若能如是見者，是名正見。」</ab></div><lb
- n="0056a16" ed="T"/><div type="pin" level="2"><head>授不退轉天子記品第十五</head><lb
- n="0056a17" ed="T"/><ab type="prose">爾時釋提桓因白佛言：「世尊！譬如賈客主<lb
+ n="0056a16" ed="T"/><div type='pin' level='2'><head>授不退轉天子記品第十五</head><lb
+ n="0056a17" ed="T"/><ab type='prose'>爾時釋提桓因白佛言：「世尊！譬如賈客主<lb
  n="0056a18" ed="T"/>入於寶洲，其人所見皆是寶物。如是成就不<lb
  n="0056a19" ed="T"/>可思議功德者，有所樂說皆是法寶，所樂說<lb
  n="0056a20" ed="T"/>者皆是實際。所樂說者，於諸法中無所貪著，<lb
@@ -2092,7 +2092,7 @@
  n="0056c02" ed="T"/>梵世蔽日月光，還繞身三匝，從頂相入。於是<lb
  n="0056c03" ed="T"/>思益梵天向佛合掌，以偈讚曰：<lb
  n="0056c04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「度一切慧最勝尊，　　悉知三世眾生行，　　<lb
  n="0056c05" ed="T"/>智慧功德及解脫，　　唯願演說笑因緣。　　<lb
  n="0056c06" ed="T"/>佛慧無量無障礙，　　聲聞緣覺所不及，　　<lb
@@ -2110,7 +2110,7 @@
  n="0056c18" ed="T"/>佛為醫王滅眾病，　　那羅延力救世者，　　<lb
  n="0056c19" ed="T"/>趣舍燈明究竟道，　　天人供養說笑緣。」　　
 </ab><lb
- n="0056c20" ed="T"/><ab type="prose">爾時佛告思益梵天：「汝見是不退轉天子不？」<lb
+ n="0056c20" ed="T"/><ab type='prose'>爾時佛告思益梵天：「汝見是不退轉天子不？」<lb
  n="0056c21" ed="T"/>「唯然，已見！」「梵天！此不退轉天子從今已後，過<lb
  n="0056c22" ed="T"/>三百二十萬阿僧祇劫當得作佛，號須彌燈<lb
  n="0056c23" ed="T"/>王如來、應供、正遍知、明行足、善逝、世間解、無上<lb
@@ -2240,7 +2240,7 @@
  n="0058b02" ed="T"/>微塵猶可數知，此諸菩薩功德無量不可數<lb
  n="0058b03" ed="T"/>也。」爾時世尊欲重宣此事，而說偈言：<lb
  n="0058b04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「譬如大海能悉受，　　一切眾水無滿時，　　<lb
  n="0058b05" ed="T"/>此諸菩薩亦如是，　　常求法利無厭足。　　<lb
  n="0058b06" ed="T"/>又如大海納眾流，　　一切悉歸無損益，　　<lb
@@ -2322,8 +2322,8 @@
  n="0059a24" ed="T"/>若人發心願作佛，　　是則恭敬供養我，　　<lb
  n="0059a25" ed="T"/>於諸去來現在佛，　　亦皆恭敬供養已。」　　
 </ab></div><lb
- n="0059a26" ed="T"/><div type="pin" level="2"><head>建立法品第十六</head><lb
- n="0059a27" ed="T"/><ab type="prose">爾時思益梵天謂文殊師利法王子：「當請<lb
+ n="0059a26" ed="T"/><div type='pin' level='2'><head>建立法品第十六</head><lb
+ n="0059a27" ed="T"/><ab type='prose'>爾時思益梵天謂文殊師利法王子：「當請<lb
  n="0059a28" ed="T"/>如來護念斯經，於後末世五百歲時令廣流<lb
  n="0059a29" ed="T"/>布。」文殊師利言：「於意云何？佛於是經，有法、<pb n="0059b" ed="T" id="T15.0586.0059b"/><lb
  n="0059b01" ed="T"/>有說、有示、可護念不？」思益言：「不也。」「梵天！是<lb
@@ -2400,8 +2400,8 @@
  n="0060a14" ed="T"/>不喜、不得菩提而諸佛授記。世尊！我等今見<lb
  n="0060a15" ed="T"/>上方八萬四千諸佛，諸佛皆與我等受阿<lb
  n="0060a16" ed="T"/>耨多羅三藐三菩提記。」</ab></div><lb
- n="0060a17" ed="T"/><div type="pin" level="2"><head>諸天歎品第十七</head><lb
- n="0060a18" ed="T"/><ab type="prose">爾時文殊師利白佛言：「惟願世尊護念是<lb
+ n="0060a17" ed="T"/><div type='pin' level='2'><head>諸天歎品第十七</head><lb
+ n="0060a18" ed="T"/><ab type='prose'>爾時文殊師利白佛言：「惟願世尊護念是<lb
  n="0060a19" ed="T"/>法，於當來世後五百歲，廣宣流布此閻浮提，<lb
  n="0060a20" ed="T"/>令得久住；又令大莊嚴善男子、善女人咸得<lb
  n="0060a21" ed="T"/>聞之；設魔事種種起而能不隨魔，若魔民亦<lb
@@ -2418,7 +2418,7 @@
  n="0060b03" ed="T"/>怨賊得其便者，使是法師行、立、坐、臥一心安<lb
  n="0060b04" ed="T"/>詳。文殊師利！何等為呪術章句？<lb
  n="0060b05" ed="T"/></ab>
-<ab type="dharani">「『欝頭隸　頭頭隸　摩隸　遮隸　麑隸　梯<lb
+<ab type='dharani'>「『欝頭隸　頭頭隸　摩隸　遮隸　麑隸　梯<lb
  n="0060b06" ed="T"/>隷緹隸　彌隷　睺樓　睺樓　睺樓　堙<lb
  n="0060b07" ed="T"/>婆隷　韋多隷　麴丘隷　阿那禰　伽帝<lb
  n="0060b08" ed="T"/>　摩醯履　摩那徙　摩禰　婆睺乾地<lb
@@ -2431,7 +2431,7 @@
  n="0060b15" ed="T"/>浮多伽羅呵南無佛馱悉纏鬪曼<lb
  n="0060b16" ed="T"/>哆邏』<lb
  n="0060b17" ed="T"/></ab>
-<ab type="prose">「一切眾生中慈說聖諦，梵天所讚歎！諸賢<lb
+<ab type='prose'>「一切眾生中慈說聖諦，梵天所讚歎！諸賢<lb
  n="0060b18" ed="T"/>聖所讚歎！此中住召一切諸神，南無諸佛，<lb
  n="0060b19" ed="T"/>當成就是呪術。<lb
  n="0060b20" ed="T"/>「文殊師利！是為呪術章句。若菩薩摩訶薩欲<lb
@@ -2466,32 +2466,32 @@
  n="0060c20" ed="T"/>茶、鳩槃茶子等，不能得便。」爾時毘樓勒迦<lb
  n="0060c21" ed="T"/>護世天王即說偈言：<pb n="0061a" ed="T" id="T15.0586.0061a"/><lb
  n="0061a01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「我所有眷屬，　　親戚及人民，　　<lb
  n="0061a02" ed="T"/>皆當共衛護，　　供養是法師。」　　
 </ab><lb
- n="0061a03" ed="T"/><ab type="prose">爾時毘樓婆叉天王即說偈言：<lb
+ n="0061a03" ed="T"/><ab type='prose'>爾時毘樓婆叉天王即說偈言：<lb
  n="0061a04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「我是法王子，　　從法而化生，　　<lb
  n="0061a05" ed="T"/>求菩提佛子，　　我皆當供給。」　　
 </ab><lb
- n="0061a06" ed="T"/><ab type="prose">爾時犍馱羅吒天王即說偈言：<lb
+ n="0061a06" ed="T"/><ab type='prose'>爾時犍馱羅吒天王即說偈言：<lb
  n="0061a07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「若有諸法師，　　能持如是經，　　<lb
  n="0061a08" ed="T"/>我常當衛護，　　周遍於十方。」　　
 </ab><lb
- n="0061a09" ed="T"/><ab type="prose">爾時毘賒婆那天王即說偈言：<lb
+ n="0061a09" ed="T"/><ab type='prose'>爾時毘賒婆那天王即說偈言：<lb
  n="0061a10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「是人發道心，　　所應受供養，　　<lb
  n="0061a11" ed="T"/>一切諸眾生，　　無能辦之者。」　　
 </ab><lb
- n="0061a12" ed="T"/><ab type="prose">爾時毘賒婆那天王子，名曰善寶，持七寶蓋，<lb
+ n="0061a12" ed="T"/><ab type='prose'>爾時毘賒婆那天王子，名曰善寶，持七寶蓋，<lb
  n="0061a13" ed="T"/>奉上如來，即說偈言：<lb
  n="0061a14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「世尊我今當，　　受持如是經，　　<lb
  n="0061a15" ed="T"/>亦為他人說，　　我有如是心。　　<lb
  n="0061a16" ed="T"/>世尊知我心，　　及先世所行，　　<lb
@@ -2513,7 +2513,7 @@
  n="0061b03" ed="T"/>壽命盡一劫，　　若滅度已後，　　<lb
  n="0061b04" ed="T"/>正法住半劫，　　利益諸眾生。」　　
 </ab><lb
- n="0061b05" ed="T"/><ab type="prose">爾時釋提桓因與無數百千諸天圍遶，白佛<lb
+ n="0061b05" ed="T"/><ab type='prose'>爾時釋提桓因與無數百千諸天圍遶，白佛<lb
  n="0061b06" ed="T"/>言：「世尊！我今亦當衛護能持如是比經諸<lb
  n="0061b07" ed="T"/>法師等，供養供給。是經所在之處，若讀誦、解<lb
  n="0061b08" ed="T"/>說，我為聽受法故往詣其所；又當增益法師<lb
@@ -2521,7 +2521,7 @@
  n="0061b10" ed="T"/>爾時釋提桓因子名曰劬婆伽，持真珠蓋七<lb
  n="0061b11" ed="T"/>寶莊嚴，奉上如來，即說偈言：<lb
  n="0061b12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「我常現了知，　　世尊之所說，　　<lb
  n="0061b13" ed="T"/>亦當如是行，　　求佛一切智。　　<lb
  n="0061b14" ed="T"/>世尊於前世，　　無物不施與，　　<lb
@@ -2539,14 +2539,14 @@
  n="0061b26" ed="T"/>過於千億劫，　　又復過百億，　　<lb
  n="0061b27" ed="T"/>爾乃得成佛，　　號曰為智王。」　　
 </ab><lb
- n="0061b28" ed="T"/><ab type="prose">爾時娑婆世界主梵天王白佛言：「世尊！我捨<pb n="0061c" ed="T" id="T15.0586.0061c"/><lb
+ n="0061b28" ed="T"/><ab type='prose'>爾時娑婆世界主梵天王白佛言：「世尊！我捨<pb n="0061c" ed="T" id="T15.0586.0061c"/><lb
  n="0061c01" ed="T"/>禪定樂，往詣法師，若善男子、善女人，能說是<lb
  n="0061c02" ed="T"/>法者。所以者何？從如是等經出帝釋、梵王、諸<lb
  n="0061c03" ed="T"/>豪尊等。世尊！我當供養是諸善男子，是諸<lb
  n="0061c04" ed="T"/>善男子應受一切世間天、人、阿修羅之所供<lb
  n="0061c05" ed="T"/>養。」爾時妙梵天王即說偈言：<lb
  n="0061c06" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「比丘比丘尼，　　諸清信士女，　　<lb
  n="0061c07" ed="T"/>其能受是經，　　是世供養處。　　<lb
  n="0061c08" ed="T"/>乃至有一人，　　能行是經者，　　<lb
@@ -2560,8 +2560,8 @@
  n="0061c16" ed="T"/>能開佛道經，　　若欲得聞者，　　<lb
  n="0061c17" ed="T"/>積寶如須彌，　　應盡供是人。」　　
 </ab></div><lb
- n="0061c18" ed="T"/><div type="pin" level="2"><head>囑累品第十八</head><lb
- n="0061c19" ed="T"/><ab type="prose">爾時世尊現神通力，令魔波旬及其軍眾來<lb
+ n="0061c18" ed="T"/><div type='pin' level='2'><head>囑累品第十八</head><lb
+ n="0061c19" ed="T"/><ab type='prose'>爾時世尊現神通力，令魔波旬及其軍眾來<lb
  n="0061c20" ed="T"/>詣佛所，作是言：「世尊！我與眷屬今於佛前立<lb
  n="0061c21" ed="T"/>此誓願：『是經所流布處，若說法者及聽法者，<lb
  n="0061c22" ed="T"/>并彼國土不起魔事，亦當擁護是經！』」爾時世<lb
@@ -2594,5 +2594,5 @@
  n="0062a20" ed="T"/>等行菩薩、長老摩訶迦葉、慧命阿難，及諸<lb
  n="0062a21" ed="T"/>天眾、一切世人，受持佛語，皆大歡喜。<lb
  n="0062a22" ed="T"/>
-</ab><ab type="juan" subtype="close">思益梵天所問經卷第四</ab></div></div>
+</ab><ab type='juan' subtype='close'>思益梵天所問經卷第四</ab></div></div>
 </body></text></TEI>

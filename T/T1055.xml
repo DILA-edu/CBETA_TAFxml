@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1055</idno>
                 </bibl>
@@ -39,14 +39,14 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0070c10" ed="T"/><lb
  n="0070c11" ed="T"/><lb
  n="0070c12" ed="T"/><lb
- n="0070c13" ed="T"/><div type="xu" level="2"><head>大明太宗文皇帝御製觀音讚</head><lb
+ n="0070c13" ed="T"/><div type='xu' level='2'><head>大明太宗文皇帝御製觀音讚</head><lb
  n="0070c14" ed="T"/><lb
- n="0070c15" ed="T"/><ab type="verse">
+ n="0070c15" ed="T"/><ab type='verse'>
 大聖自在觀世音　　百千萬億應無盡　　<lb
  n="0070c16" ed="T"/>神通無礙無所住　　大慈大悲愍眾生　　<lb
  n="0070c17" ed="T"/>六根互用智慧深　　聞思修入三摩地　　<lb
@@ -82,16 +82,16 @@
  n="0071a17" ed="T"/><lb
  n="0071a18" ed="T"/><lb
  n="0071a19" ed="T"/>
-<ab type="juan" subtype="open">佛說聖觀自在菩薩梵讚</ab><lb
+<ab type='juan' subtype='open'>佛說聖觀自在菩薩梵讚</ab><lb
  n="0071a20" ed="T"/><lb
  n="0071a21" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚卿<lb
  n="0071a22" ed="T"/>傳教大師臣法賢奉　詔譯</byline><lb
- n="0071a23" ed="T"/><ab type="verse">
+ n="0071a23" ed="T"/><ab type='verse'>
 歸命佛法僧　　頂禮觀自在　　<lb
  n="0071a24" ed="T"/>我今稱讚彼　　大悲功德林　　
 </ab><lb
  n="0071a25" ed="T"/><head>梵讚第一</head><lb
- n="0071a26" ed="T"/><ab type="dharani">部嚩曩怛囉野晚禰多路迦虞隴阿摩囉<lb
+ n="0071a26" ed="T"/><ab type='dharani'>部嚩曩怛囉野晚禰多路迦虞隴阿摩囉<lb
  n="0071a27" ed="T"/>地波底孕窣覩帝沒囉憾摩嚩<lb
  n="0071a28" ed="T"/>覽母儞囉惹覽度魯嚩悉地迦覽鉢囉<lb
  n="0071a29" ed="T"/>拏摩彌嚩路吉多曩他嚩覽<pb n="0071b" id="T20.1055.0071b" ed="T"/><lb
@@ -130,5 +130,5 @@
  n="0071c05" ed="T"/>嚩囉剎囉摩護那地嚩囉拏馱覽室里<lb
  n="0071c06" ed="T"/>布多羅迦地儞嚩娑迦覽<lb
  n="0071c07" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說聖觀自在菩薩梵讚</ab></div>
+</ab><ab type='juan' subtype='close'>佛說聖觀自在菩薩梵讚</ab></div>
 </body></text></TEI>

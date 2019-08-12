@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T11</biblScope>
                     <idno type="Taisho">T11n0317</idno>
                 </bibl>
@@ -43,10 +43,10 @@
  n="0886a01" ed="T"/><lb
  n="0886a02" ed="T"/><lb
  n="0886a03" ed="T"/>
-<ab type="juan" subtype="open">佛說胞胎經</ab><lb
+<ab type='juan' subtype='open'>佛說胞胎經</ab><lb
  n="0886a04" ed="T"/><lb
  n="0886a05" ed="T"/><byline>西晉月氏國三藏竺法護奉　制譯</byline><lb
- n="0886a06" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時，佛遊舍衛國祇樹給孤獨園。於<lb
+ n="0886a06" ed="T"/><div type='jing' level='1'><ab type='prose'>聞如是：一時，佛遊舍衛國祇樹給孤獨園。於<lb
  n="0886a07" ed="T"/>時賢者難陀燕坐思惟，即起詣佛，及五百比<lb
  n="0886a08" ed="T"/>丘俱共詣佛所，稽首足下住坐一面。佛告難<lb
  n="0886a09" ed="T"/>陀及諸比丘：「當為汝說經，初語亦善，中語亦<lb
@@ -448,5 +448,5 @@
  n="0890b28" ed="T"/>者阿難得諸法眼生，其五百比丘漏盡意解，<lb
  n="0890b29" ed="T"/>賢者阿難五百弟子、諸天、龍神，聞經歡喜。</ab></div><pb n="0890c" ed="T" id="T11.0317.0890c"/><lb
  n="0890c01" ed="T"/>
-<ab type="juan" subtype="close">佛說胞胎經</ab>
+<ab type='juan' subtype='close'>佛說胞胎經</ab>
 </body></text></TEI>

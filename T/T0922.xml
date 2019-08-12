@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n0922</idno>
                 </bibl>
@@ -39,14 +39,14 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0020b" id="T19.0922.0020b" ed="T"/><lb
  n="0020b01" ed="T"/><lb
  n="0020b02" ed="T"/>
-<ab type="juan" subtype="open">藥師瑠璃光如來消災除難念誦<lb
+<ab type='juan' subtype='open'>藥師瑠璃光如來消災除難念誦<lb
  n="0020b03" ed="T"/>儀軌</ab><lb
  n="0020b04" ed="T"/><lb
- n="0020b05" ed="T"/><ab type="verse">
+ n="0020b05" ed="T"/><ab type='verse'>
 先淨身口意　　歸命佛法僧　　<lb
  n="0020b06" ed="T"/>敬禮遍照尊　　十方諸聖眾　　<lb
  n="0020b07" ed="T"/>我今略開演　　祕密消災法　　<lb
@@ -77,11 +77,11 @@
  n="0020c03" ed="T"/>雙慧俱申竪　　觀佛滿虛空　　<lb
  n="0020c04" ed="T"/>誦真言七遍　　頂上而散印　　
 </ab><lb
- n="0020c05" ed="T"/><ab type="prose">真言曰。<lb
+ n="0020c05" ed="T"/><ab type='prose'>真言曰。<lb
  n="0020c06" ed="T"/></ab>
-<ab type="dharani">唵爾曩爾迦娑嚩賀<lb
+<ab type='dharani'>唵爾曩爾迦娑嚩賀<lb
  n="0020c07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 由此加持故　　諸佛悉雲集　　<lb
  n="0020c08" ed="T"/>光明照行人　　離障速成就　　<lb
  n="0020c09" ed="T"/>次結蓮華部　　心印如前契　　<lb
@@ -89,11 +89,11 @@
  n="0020c11" ed="T"/>應觀觀自在　　與蓮華眷屬　　<lb
  n="0020c12" ed="T"/>在諸如來右　　念真言七遍　　<lb
  n="0020c13" ed="T"/>頂右而散印　　
-</ab><ab type="prose">真言曰<lb
+</ab><ab type='prose'>真言曰<lb
  n="0020c14" ed="T"/></ab>
-<ab type="dharani">唵阿魯力迦娑嚩賀<lb
+<ab type='dharani'>唵阿魯力迦娑嚩賀<lb
  n="0020c15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 由此加持故　　菩薩眾雲集　　<lb
  n="0020c16" ed="T"/>行人為同事　　所求皆滿足　　<lb
  n="0020c17" ed="T"/>次結金剛部　　心印亦如前　　<lb
@@ -101,11 +101,11 @@
  n="0020c19" ed="T"/>應觀金剛手　　一切持金剛　　<lb
  n="0020c20" ed="T"/>住在如來右　　念真言七遍　　<lb
  n="0020c21" ed="T"/>頂左而散印　　
-</ab><ab type="prose">真言曰<lb
+</ab><ab type='prose'>真言曰<lb
  n="0020c22" ed="T"/></ab>
-<ab type="dharani">唵嚩日囉地力迦娑嚩賀<lb
+<ab type='dharani'>唵嚩日囉地力迦娑嚩賀<lb
  n="0020c23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 以此加持故　　金剛眾雲集　　<lb
  n="0020c24" ed="T"/>承佛本悲願　　衛護修行者　　<pb n="0021a" id="T19.0922.0021a" ed="T"/><lb
  n="0021a01" ed="T"/>三業如金剛　　堅固無能壞　　<lb
@@ -113,11 +113,11 @@
  n="0021a03" ed="T"/>持輪橫在掌　　止拳而安心　　<lb
  n="0021a04" ed="T"/>觀拳加五處　　額兩肩心喉　　<lb
  n="0021a05" ed="T"/>加持頂上散　　
-</ab><ab type="prose">真言曰<lb
+</ab><ab type='prose'>真言曰<lb
  n="0021a06" ed="T"/></ab>
-<ab type="dharani">唵僕入嚩攞帝惹吽<lb
+<ab type='dharani'>唵僕入嚩攞帝惹吽<lb
  n="0021a07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 由此印真言　　加持被甲故　　<lb
  n="0021a08" ed="T"/>諸魔不陵逼　　速疾獲成就　　<lb
  n="0021a09" ed="T"/>一切佛頂中　　是印大威德　　<lb
@@ -128,11 +128,11 @@
  n="0021a14" ed="T"/>印地念真言　　加持滿七遍　　<lb
  n="0021a15" ed="T"/>轉此雜染所　　成淨妙佛土　　
 </ab><lb
- n="0021a16" ed="T"/><ab type="prose">真言曰<lb
+ n="0021a16" ed="T"/><ab type='prose'>真言曰<lb
  n="0021a17" ed="T"/></ab>
-<ab type="dharani">唵步欠<lb
+<ab type='dharani'>唵步欠<lb
  n="0021a18" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 由此加持故　　成本尊淨土　　<lb
  n="0021a19" ed="T"/>有大寶宮殿　　種種持莊嚴　　<lb
  n="0021a20" ed="T"/>於寶宮殿中　　想藥師如來　　<lb
@@ -140,12 +140,12 @@
  n="0021a22" ed="T"/>次結迎請印　　用前佛部心　　<lb
  n="0021a23" ed="T"/>二輪向身招　　念真言三遍　　
 </ab><lb
- n="0021a24" ed="T"/><ab type="prose">真言曰<lb
+ n="0021a24" ed="T"/><ab type='prose'>真言曰<lb
  n="0021a25" ed="T"/></ab>
-<ab type="dharani">唵爾曩爾迦翳醯曳呬婆誐嚩妬瑟抳<lb
+<ab type='dharani'>唵爾曩爾迦翳醯曳呬婆誐嚩妬烏瑟抳<lb
  n="0021a26" ed="T"/>灑野娑嚩賀<lb
  n="0021a27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 由此加持故　　一切作障者　　<lb
  n="0021a28" ed="T"/>悉皆而遠走　　恭敬修行者　　<lb
  n="0021a29" ed="T"/>次獻閼伽水　　時花汎其上　　<pb n="0021b" id="T19.0922.0021b" ed="T"/><lb
@@ -153,22 +153,22 @@
  n="0021b02" ed="T"/>捧至頂上獻　　念真言七遍　　<lb
  n="0021b03" ed="T"/>想浴聖眾足　　稱所求之願　　
 </ab><lb
- n="0021b04" ed="T"/><ab type="prose">真言曰<lb
+ n="0021b04" ed="T"/><ab type='prose'>真言曰<lb
  n="0021b05" ed="T"/></ab>
-<ab type="dharani">曩莫三滿哆沒馱喃唵誐誐曩娑麼娑麼<lb
+<ab type='dharani'>曩莫三滿哆沒馱喃唵誐誐曩娑麼娑麼<lb
  n="0021b06" ed="T"/>娑縛賀<lb
  n="0021b07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 由獻香水故　　離垢獲清淨　　<lb
  n="0021b08" ed="T"/>當得灌頂地　　證如來法身　　<lb
  n="0021b09" ed="T"/>次結獻座印　　五頂開敷花　　<lb
  n="0021b10" ed="T"/>想從印流出　　蓮華師子座　　
 </ab><lb
- n="0021b11" ed="T"/><ab type="prose">真言曰<lb
+ n="0021b11" ed="T"/><ab type='prose'>真言曰<lb
  n="0021b12" ed="T"/></ab>
-<ab type="dharani">唵迦麼攞悉孕賀娑嚩賀<lb
+<ab type='dharani'>唵迦麼攞悉孕賀娑嚩賀<lb
  n="0021b13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 由此真言印　　本尊并眷屬　　<lb
  n="0021b14" ed="T"/>各受寶蓮華　　金剛師子座　　<lb
  n="0021b15" ed="T"/>次結普供養　　大印之儀則　　<lb
@@ -180,12 +180,12 @@
  n="0021b21" ed="T"/>皆從印流出　　遍虛空法界　　<lb
  n="0021b22" ed="T"/>供養諸如來　　菩薩及聖眾　　
 </ab><lb
- n="0021b23" ed="T"/><ab type="prose">真言曰<lb
+ n="0021b23" ed="T"/><ab type='prose'>真言曰<lb
  n="0021b24" ed="T"/></ab>
-<ab type="dharani">曩莫三滿哆沒馱喃薩嚩他欠嗢娜誐<lb
+<ab type='dharani'>曩莫三滿哆沒馱喃薩嚩他欠嗢娜誐<lb
  n="0021b25" ed="T"/>帝娑頗囉呬𤚥誐誐曩劍娑嚩賀<lb
  n="0021b26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 便以三等力　　真實妙伽陀　　<lb
  n="0021b27" ed="T"/>誠心念三遍　　一切皆成就　　<lb
  n="0021b28" ed="T"/>以我功德力　　如來加持力　　<lb
@@ -194,12 +194,12 @@
  n="0021c02" ed="T"/>五頂堅固縛　　勝輪頂竪合　　<lb
  n="0021c03" ed="T"/>印心額喉頂　　等諸佛自體　　
 </ab><lb
- n="0021c04" ed="T"/><ab type="prose">真言曰<lb
+ n="0021c04" ed="T"/><ab type='prose'>真言曰<lb
  n="0021c05" ed="T"/></ab>
-<ab type="dharani">唵沒馱昧怛哩嚩日囉洛乞叉<lb
+<ab type='dharani'>唵沒馱昧怛哩嚩日囉洛乞叉<lb
  n="0021c06" ed="T"/>唅<lb
  n="0021c07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 由此加持故　　一切魔障難　　<lb
  n="0021c08" ed="T"/>及惡人相害　　疾起於慈心　　<lb
  n="0021c09" ed="T"/>次結佛眼印　　應以三補吒　　<lb
@@ -207,13 +207,13 @@
  n="0021c11" ed="T"/>屈二輪各持　　二光中節文　　<lb
  n="0021c12" ed="T"/>印自身五處　　佛母常加護　　<lb
  n="0021c13" ed="T"/>念佛眼根本　　
-</ab><ab type="prose">真言曰<lb
+</ab><ab type='prose'>真言曰<lb
  n="0021c14" ed="T"/></ab>
-<ab type="dharani">曩謨婆誐嚩妬烏瑟抳灑野唵嚕嚕<lb
+<ab type='dharani'>曩謨婆誐嚩妬烏瑟抳灑野唵嚕嚕<lb
  n="0021c15" ed="T"/>娑普嚕入嚩攞底瑟姹悉馱路左<lb
  n="0021c16" ed="T"/>儞薩嚩羅他娑馱𩕳娑嚩賀<lb
  n="0021c17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 由此印真言　　加持威力故　　<lb
  n="0021c18" ed="T"/>能滿一切願　　除一切不祥　　<lb
  n="0021c19" ed="T"/>生一切福德　　滅一切罪障　　<lb
@@ -226,9 +226,9 @@
  n="0021c26" ed="T"/>根本之密印　　二羽內相叉　　<lb
  n="0021c27" ed="T"/>兩腕稍相去　　開張三二寸　　<lb
  n="0021c28" ed="T"/>禪智而來去　　
-</ab><ab type="prose">彼大真言曰<lb
+</ab><ab type='prose'>彼大真言曰<lb
  n="0021c29" ed="T"/></ab>
-<ab type="dharani">􄖩曩􄗭謨引􄗚婆去􄑘誐􄙖嚩􄕝帝􄗠佩􄙵殺􄝕紫野二合<pb n="0022a" id="T19.0922.0022a" ed="T"/><lb
+<ab type='dharani'>􄖩曩􄗭謨引􄗚婆去􄑘誐􄙖嚩􄕝帝􄗠佩􄙵殺􄝕紫野二合<pb n="0022a" id="T19.0922.0022a" ed="T"/><lb
  n="0022a01" ed="T"/><lb
  n="0022a02" ed="T"/>􄑜虞􄙂嚕􄙝吠􄕛𠯆􅝩哩也二合􄪼鉢羅二合􄗚婆􄗾囉<lb
  n="0022a03" ed="T"/><lb
@@ -243,7 +243,7 @@
  n="0022a12" ed="T"/>􅁥娑嚩二合􄚩賀引<lb
  n="0022a13" ed="T"/><lb
  n="0022a14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 由是本尊故　　誦真言遍數　　<lb
  n="0022a15" ed="T"/>七遍至百八　　散印於頂上　　<lb
  n="0022a16" ed="T"/>陳所祈願心　　對彼本尊前　　<lb
@@ -251,11 +251,11 @@
  n="0022a18" ed="T"/>次即取數珠　　盤置雙掌內　　<lb
  n="0022a19" ed="T"/>加持成七遍　　捧珠安頂上　　
 </ab><lb
- n="0022a20" ed="T"/><ab type="prose">真言曰<lb
+ n="0022a20" ed="T"/><ab type='prose'>真言曰<lb
  n="0022a21" ed="T"/></ab>
-<ab type="dharani">唵嚩日囉虞醯曳惹跛三麼曳吽<lb
+<ab type='dharani'>唵嚩日囉虞醯曳惹跛三麼曳吽<lb
  n="0022a22" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 由此真言印　　加持念珠故　　<lb
  n="0022a23" ed="T"/>從母珠初起　　一遍捻一珠　　<lb
  n="0022a24" ed="T"/>真言末字畢　　至母珠却迴　　<lb
@@ -264,7 +264,7 @@
  n="0022a27" ed="T"/>限數既終畢　　再捧珠加持　　<lb
  n="0022a28" ed="T"/>稱所祈求事　　志心普迴施　　
 </ab><lb
- n="0022a29" ed="T"/><ab type="prose">是法印呪。若善男子善女人等。多諸障難一<pb n="0022b" id="T19.0922.0022b" ed="T"/><lb
+ n="0022a29" ed="T"/><ab type='prose'>是法印呪。若善男子善女人等。多諸障難一<pb n="0022b" id="T19.0922.0022b" ed="T"/><lb
  n="0022b01" ed="T"/>切疾病。女人難月產厄。願欲轉禍求福。并<lb
  n="0022b02" ed="T"/>患鬼神病難差者。以五色線搓索。呪繫病人<lb
  n="0022b03" ed="T"/>項及手足腰腹等。仍須請七僧。建置道場造<lb
@@ -274,7 +274,7 @@
  n="0022b07" ed="T"/>線發願。又以印拄於線上。更呪四十九遍。結<lb
  n="0022b08" ed="T"/>四十九結。復念此真言。加持真言曰。<lb
  n="0022b09" ed="T"/></ab>
-<ab type="dharani">曩謨囉怛曩怛囉夜耶那謨金毘<lb
+<ab type='dharani'>曩謨囉怛曩怛囉夜耶那謨金毘<lb
  n="0022b10" ed="T"/>羅和耆囉彌佉羅安陀羅摩尼羅<lb
  n="0022b11" ed="T"/>素藍羅因達羅婆耶羅摩休羅真持<lb
  n="0022b12" ed="T"/>羅照頭羅毘伽羅那謨毘舍闍瞿<lb
@@ -282,7 +282,7 @@
  n="0022b14" ed="T"/>怛姪他唵毘舍施毘舍施毘舍闍<lb
  n="0022b15" ed="T"/>娑摩揭帝娑嚩賀<lb
  n="0022b16" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 復讚禮本尊　　結本尊密印　　<lb
  n="0022b17" ed="T"/>念真言七遍　　復獻閼伽水　　<lb
  n="0022b18" ed="T"/>如前申供養　　辨事佛頂印　　<lb
@@ -291,10 +291,10 @@
  n="0022b21" ed="T"/>二輪向外撥　　想像虛空中　　<lb
  n="0022b22" ed="T"/>還歸於淨土　　安居寶宮殿　　
 </ab><lb
- n="0022b23" ed="T"/><ab type="dharani">唵爾曩爾迦蘖蹉蘖蹉婆誐嚩妬瑟膩<lb
- n="0022b24" ed="T"/>灑野婆嚩賀<lb
+ n="0022b23" ed="T"/><ab type='dharani'>唵爾曩爾迦蘖蹉蘖蹉婆誐嚩妬烏瑟膩<lb
+ n="0022b24" ed="T"/>灑野娑嚩賀<lb
  n="0022b25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 奉送本尊已　　即結佛慈護　　<lb
  n="0022b26" ed="T"/>三昧耶密契　　加持印四處　　<lb
  n="0022b27" ed="T"/>復結佛眼印　　真言印五處　　<lb
@@ -303,8 +303,8 @@
  n="0022c01" ed="T"/>禮佛發大願　　隨意任經行　　
 </ab><lb
  n="0022c02" ed="T"/>
-<ab type="juan" subtype="close">藥師如來消災除難念誦儀軌</ab><lb
- n="0022c03" ed="T"/><div type="w" level="2"><ab type="prose">藥師瑠璃光如來消災除難念誦儀軌一<lb
+<ab type='juan' subtype='close'>藥師如來消災除難念誦儀軌</ab><lb
+ n="0022c03" ed="T"/><div type='w' level='2'><ab type='prose'>藥師瑠璃光如來消災除難念誦儀軌一<lb
  n="0022c04" ed="T"/>部。一行阿闍梨撰。東大寺奝然弟子祚壹<lb
  n="0022c05" ed="T"/>之所請也。而今所刻者。靈雲開山淨嚴和<lb
  n="0022c06" ed="T"/>尚之挍本。所希壽諸梓以布普天。九橫宏<lb

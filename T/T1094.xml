@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1094</idno>
                 </bibl>
@@ -39,15 +39,15 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0402b02" ed="T"/><lb
  n="0402b03" ed="T"/><lb
  n="0402b05" ed="T"/>
-<ab type="juan" subtype="open">不空羂索神呪心經</ab><lb
+<ab type='juan' subtype='open'>不空羂索神呪心經</ab><lb
  n="0402b06" ed="T"/><lb
  n="0402b07" ed="T"/><byline>唐三藏法師玄奘奉　詔譯</byline><lb
- n="0402b08" ed="T"/><div type="jing" level="2"><ab type="prose">如是我聞。一時薄伽梵。在布怛洛迦山觀自<lb
+ n="0402b08" ed="T"/><div type='jing' level='2'><ab type='prose'>如是我聞。一時薄伽梵。在布怛洛迦山觀自<lb
  n="0402b09" ed="T"/>在宮殿。其中多有寶娑羅樹。耽摩羅樹瞻博<lb
  n="0402b10" ed="T"/>迦樹。阿輸迦樹極解脫樹。復有無量諸雜寶<lb
  n="0402b11" ed="T"/>樹周匝莊嚴。香花軟草處處皆有。復有無量<lb
@@ -190,105 +190,105 @@
  n="0404a03" ed="T"/>事業速得成辦。令我一切所怖畏事疾得除<lb
  n="0404a04" ed="T"/>滅。作是念已應讀誦言。<lb
  n="0404a05" ed="T"/></ab>
-<ab type="dharani">怛姪他闇　折洛折洛　止履止履　主魯<lb
+<ab type='dharani'>怛姪他闇　折洛折洛　止履止履　主魯<lb
  n="0404a06" ed="T"/>主魯<lb
  n="0404a07" ed="T"/></ab>
-<ab type="prose">稽首具大悲者。<lb
+<ab type='prose'>稽首具大悲者。<lb
  n="0404a08" ed="T"/></ab>
-<ab type="dharani">薩洛薩洛　死履死履　止履止履　鼻履鼻<lb
+<ab type='dharani'>薩洛薩洛　死履死履　止履止履　鼻履鼻<lb
  n="0404a09" ed="T"/>履<lb
  n="0404a10" ed="T"/></ab>
-<ab type="prose">稽首大蓮花手。<lb
+<ab type='prose'>稽首大蓮花手。<lb
  n="0404a11" ed="T"/></ab>
-<ab type="dharani">羯邏羯邏　吉利吉利　屈路屈路<lb
+<ab type='dharani'>羯邏羯邏　吉利吉利　屈路屈路<lb
  n="0404a12" ed="T"/></ab>
-<ab type="prose">稽首大淨有情。<lb
+<ab type='prose'>稽首大淨有情。<lb
  n="0404a13" ed="T"/></ab>
-<ab type="dharani">渤縛渤縛　拕婆拕婆　緊尼緊尼<lb
+<ab type='dharani'>渤縛渤縛　拕婆拕婆　緊尼緊尼<lb
  n="0404a14" ed="T"/></ab>
-<ab type="prose">稽首極淨有情。<lb
+<ab type='prose'>稽首極淨有情。<lb
  n="0404a15" ed="T"/></ab>
-<ab type="dharani">羯洛羯洛　枳利枳利　矩魯矩魯<lb
+<ab type='dharani'>羯洛羯洛　枳利枳利　矩魯矩魯<lb
  n="0404a16" ed="T"/></ab>
-<ab type="prose">稽首得大勢者。<lb
+<ab type='prose'>稽首得大勢者。<lb
  n="0404a17" ed="T"/></ab>
-<ab type="dharani">折邏折邏　珊折邏珊折邏　毘折邏毘折邏<lb
+<ab type='dharani'>折邏折邏　珊折邏珊折邏　毘折邏毘折邏<lb
  n="0404a18" ed="T"/>　醫哳吒醫哳吒　跋洛跋洛　鼻利鼻利<lb
  n="0404a19" ed="T"/>　部魯部魯　翳呬翳呬<lb
  n="0404a20" ed="T"/></ab>
-<ab type="prose">稽首大悲大獸王相。<lb
+<ab type='prose'>稽首大悲大獸王相。<lb
  n="0404a21" ed="T"/></ab>
-<ab type="dharani">達洛達洛　薩洛薩洛　折洛折洛　鉢洛鉢<lb
+<ab type='dharani'>達洛達洛　薩洛薩洛　折洛折洛　鉢洛鉢<lb
  n="0404a22" ed="T"/>洛　喝洛喝洛　呵呵呬呬　呼呼　蓊迦洛<lb
  n="0404a23" ed="T"/></ab>
-<ab type="prose">稽首大梵王相。<lb
+<ab type='prose'>稽首大梵王相。<lb
  n="0404a24" ed="T"/></ab>
-<ab type="dharani">達洛達洛　地唎地唎　杜魯杜魯　怛洛<lb
+<ab type='dharani'>達洛達洛　地唎地唎　杜魯杜魯　怛洛<lb
  n="0404a25" ed="T"/>怛洛　薩洛薩洛　鉢洛鉢洛　筏洛筏洛<lb
  n="0404a26" ed="T"/></ab>
-<ab type="prose">稽首百千光莊嚴身。<lb
+<ab type='prose'>稽首百千光莊嚴身。<lb
  n="0404a27" ed="T"/></ab>
-<ab type="dharani">什筏邏什筏邏　答播答播　薄伽梵<lb
+<ab type='dharani'>什筏邏什筏邏　答播答播　薄伽梵<lb
  n="0404a28" ed="T"/></ab>
-<ab type="prose">稽首日月琰摩筏魯拏炬吠羅釋梵。與財等<lb
+<ab type='prose'>稽首日月琰摩筏魯拏炬吠羅釋梵。與財等<lb
  n="0404a29" ed="T"/>天仙眾所供養之。<pb n="0404b" id="T20.1094.0404b" ed="T"/><lb
  n="0404b01" ed="T"/></ab>
-<ab type="dharani">沫洛沫洛　弭履弭履　母魯母魯　窣魯窣<lb
+<ab type='dharani'>沫洛沫洛　弭履弭履　母魯母魯　窣魯窣<lb
  n="0404b02" ed="T"/>魯　主魯主魯<lb
  n="0404b03" ed="T"/></ab>
-<ab type="prose">稽首薩捺童子魯達羅衣毘瑟怒達捺陀仙那<lb
+<ab type='prose'>稽首薩捺童子魯達羅衣毘瑟怒達捺陀仙那<lb
  n="0404b04" ed="T"/>藥迦毘那藥迦眾多形相。<lb
  n="0404b05" ed="T"/></ab>
-<ab type="dharani">達洛達洛　地履地履　杜魯杜魯　闥洛闥<lb
+<ab type='dharani'>達洛達洛　地履地履　杜魯杜魯　闥洛闥<lb
  n="0404b06" ed="T"/>洛　揭洛揭洛　鉢洛鉢洛　杜洛杜洛<lb
  n="0404b07" ed="T"/>　刺洛刺洛　喝洛喝洛　沫洛沫洛　筏洛筏<lb
  n="0404b08" ed="T"/>洛<lb
  n="0404b09" ed="T"/></ab>
-<ab type="prose">稽首與願普觀勝觀世自在大自在。<lb
+<ab type='prose'>稽首與願普觀勝觀世自在大自在。<lb
  n="0404b10" ed="T"/></ab>
-<ab type="dharani">母呼母呼　母魯母魯　母耶母耶　悶遮悶<lb
+<ab type='dharani'>母呼母呼　母魯母魯　母耶母耶　悶遮悶<lb
  n="0404b11" ed="T"/>遮　洛叉洛叉<lb
  n="0404b12" ed="T"/></ab>
-<ab type="prose">稽首能令我及一切有情。解脫一切怖畏解<lb
+<ab type='prose'>稽首能令我及一切有情。解脫一切怖畏解<lb
  n="0404b13" ed="T"/>脫一切厭蠱。解脫一切災橫。解脫一切疾病。<lb
  n="0404b14" ed="T"/>解脫一切邪魅魍魎。解脫一切怨家殺縛恐<lb
  n="0404b15" ed="T"/>喝捶打。解脫一切王難賊難。解脫一切水火<lb
  n="0404b16" ed="T"/>風難。解脫一切刀毒等難者。<lb
  n="0404b17" ed="T"/></ab>
-<ab type="dharani">羯拏羯拏　緊尼緊尼　屈忸屈忸　折洛折<lb
+<ab type='dharani'>羯拏羯拏　緊尼緊尼　屈忸屈忸　折洛折<lb
  n="0404b18" ed="T"/>洛<lb
  n="0404b19" ed="T"/></ab>
-<ab type="prose">稽首能開示一切根力覺支道支四聖諦者。<lb
+<ab type='prose'>稽首能開示一切根力覺支道支四聖諦者。<lb
  n="0404b20" ed="T"/></ab>
-<ab type="dharani">答摩答摩　颯摩颯摩　沫娑沫娑<lb
+<ab type='dharani'>答摩答摩　颯摩颯摩　沫娑沫娑<lb
  n="0404b21" ed="T"/></ab>
-<ab type="prose">稽首能除諸大黑闇。生長滿足六波羅蜜多<lb
+<ab type='prose'>稽首能除諸大黑闇。生長滿足六波羅蜜多<lb
  n="0404b22" ed="T"/>者。<lb
  n="0404b23" ed="T"/></ab>
-<ab type="dharani">弭履弭履　吒吒吒吒　詑詑詑詑　置置置<lb
+<ab type='dharani'>弭履弭履　吒吒吒吒　詑詑詑詑　置置置<lb
  n="0404b24" ed="T"/>置　澍澍澍澍<lb
  n="0404b25" ed="T"/></ab>
-<ab type="prose">稽首被服醫泥耶皮。具大慈悲自在大自<lb
+<ab type='prose'>稽首被服醫泥耶皮。具大慈悲自在大自<lb
  n="0404b26" ed="T"/>在。能破一切惡鬼神者。速來速來救護我等。<lb
  n="0404b27" ed="T"/></ab>
-<ab type="dharani">炬盧炬盧　鉢洛鉢洛　薩洛薩洛　羯洛<lb
+<ab type='dharani'>炬盧炬盧　鉢洛鉢洛　薩洛薩洛　羯洛<lb
  n="0404b28" ed="T"/>羯洛　羯吒羯吒　沫吒沫吒<lb
  n="0404b29" ed="T"/></ab>
-<ab type="prose">稽首住淨土具大悲者。身佩白吉祥縷。頸帶<pb n="0404c" id="T20.1094.0404c" ed="T"/><lb
+<ab type='prose'>稽首住淨土具大悲者。身佩白吉祥縷。頸帶<pb n="0404c" id="T20.1094.0404c" ed="T"/><lb
  n="0404c01" ed="T"/>眾寶瓔珞。首冠花鬘寶冠。於寶冠中當于頂<lb
  n="0404c02" ed="T"/>上有一切智像。手執希有大寶蓮花。於諸靜<lb
  n="0404c03" ed="T"/>慮等持解脫眾妙功德。皆不傾動。善能成熟<lb
  n="0404c04" ed="T"/>一切有情。具大慈悲。能除一切業障。能救一<lb
  n="0404c05" ed="T"/>切病苦。普能安慰一切有情。<lb
  n="0404c06" ed="T"/></ab>
-<ab type="dharani">闇頡利怛賴路迦毘闍耶唵暮伽播奢　頡利<lb
+<ab type='dharani'>闇頡利怛賴路迦毘闍耶唵暮伽播奢　頡利<lb
  n="0404c07" ed="T"/>達耶　唵鉢剌底喝多<lb
  n="0404c08" ed="T"/>罨沛莎訶　納幕阿幕伽耶莎訶　納莫阿<lb
  n="0404c09" ed="T"/>氏多耶莎訶　納莫阿鉢羅底多耶莎訶<lb
  n="0404c10" ed="T"/>　納慕筏洛鉢刺柁耶莎訶　納慕薩婆羯磨<lb
  n="0404c11" ed="T"/>悉達曳莎訶　罨社耶戇莎訶<lb
  n="0404c12" ed="T"/></ab>
-<ab type="prose">此神呪心誦必有驗。能受持者所欲皆成。諸<lb
+<ab type='prose'>此神呪心誦必有驗。能受持者所欲皆成。諸<lb
  n="0404c13" ed="T"/>有日日三時各誦一百八遍。五無間罪定得<lb
  n="0404c14" ed="T"/>除滅。一切業障無不清淨。欲念誦時應先結<lb
  n="0404c15" ed="T"/>界。其結界法。取灰或水或白芥子或擔山橛。<lb
@@ -384,9 +384,9 @@
  n="0405c18" ed="T"/>在天眾大梵天王。及餘天眾聲聞菩薩。皆大<lb
  n="0405c19" ed="T"/>歡喜信受奉行。<lb
  n="0405c20" ed="T"/>
-</ab><ab type="juan" subtype="close">不空羂索神呪心經</ab></div><lb
- n="0405c21" ed="T"/><div type="xu" level="2"><head>不空羂索神呪心經後序</head><lb
- n="0405c22" ed="T"/><ab type="prose">神呪心經者。斯蓋三際種智之格言。十地證<lb
+</ab><ab type='juan' subtype='close'>不空羂索神呪心經</ab></div><lb
+ n="0405c21" ed="T"/><div type='xu' level='2'><head>不空羂索神呪心經後序</head><lb
+ n="0405c22" ed="T"/><ab type='prose'>神呪心經者。斯蓋三際種智之格言。十地證<lb
  n="0405c23" ed="T"/>真之極趣也。裂四魔之便罟。折六師之邪<lb
  n="0405c24" ed="T"/>幢。運諸子之安車。詣道場之夷路者。何莫由<lb
  n="0405c25" ed="T"/>斯之道也。況乃勦當累殲宿殃。清眾瘼懷庶<lb

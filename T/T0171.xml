@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T03</biblScope>
                     <idno type="Taisho">T03n0171</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0418c16" ed="T"/><lb
  n="0418c17" ed="T"/><lb
  n="0418c18" ed="T"/>
-<ab type="juan" subtype="open">太子須大拏經</ab><lb
+<ab type='juan' subtype='open'>太子須大拏經</ab><lb
  n="0418c19" ed="T"/><lb
  n="0418c20" ed="T"/><byline>西秦沙門聖堅奉　詔譯</byline><lb
- n="0418c21" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時佛在舍衛國祇洹阿難邠坻阿<lb
+ n="0418c21" ed="T"/><div type='jing' level='1'><ab type='prose'>聞如是：一時佛在舍衛國祇洹阿難邠坻阿<lb
  n="0418c22" ed="T"/>藍。時與無央數比丘、比丘尼、優婆塞、優婆夷<lb
  n="0418c23" ed="T"/>俱，在四部弟子中央坐。時佛笑，口中五色<lb
  n="0418c24" ed="T"/>光出。阿難從坐起，整衣服，叉手長跪，白佛<lb
@@ -475,7 +475,7 @@
  n="0423c14" ed="T"/>耳。』使者復齎書往，太子得書，頭面著地作禮，<lb
  n="0423c15" ed="T"/>却遶七匝便發視之。山中諸禽獸聞太子當<lb
  n="0423c16" ed="T"/>還，跳踉宛轉自撲而號呼，泉水為之空竭，<lb
- n="0423c17" ed="T"/>禽獸為不乳，百鳥皆悲嗚，用失太子故。太子<lb
+ n="0423c17" ed="T"/>禽獸為不乳，百鳥皆悲鳴，用失太子故。太子<lb
  n="0423c18" ed="T"/>即著衣與妃俱還。「敵國怨家聞太子當還，即<lb
  n="0423c19" ed="T"/>遣使者，裝被白象金銀鞍勒，以金鉢盛銀粟、<lb
  n="0423c20" ed="T"/>銀鉢盛金粟，逆於道中以還太子。辭謝悔過<lb
@@ -505,5 +505,5 @@
  n="0424a22" ed="T"/>數劫。當持是經典為諸沙門一切說之，菩<lb
  n="0424a23" ed="T"/>薩行檀波羅蜜，布施如是。」<lb
  n="0424a24" ed="T"/>
-</ab><ab type="juan" subtype="close">太子須大拏經</ab></div>
+</ab><ab type='juan' subtype='close'>太子須大拏經</ab></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1034</idno>
                 </bibl>
@@ -39,15 +39,15 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0017a" id="T20.1034.0017a" ed="T"/><lb
  n="0017a01" ed="T"/><lb
  n="0017a03" ed="T"/>
-<ab type="juan" subtype="open">呪五首</ab><lb
+<ab type='juan' subtype='open'>呪五首</ab><lb
  n="0017a04" ed="T"/><lb
  n="0017a05" ed="T"/><byline>大唐三藏法師玄奘奉　詔譯</byline><lb
  n="0017a06" ed="T"/><head>能滅眾罪千轉陀羅尼呪</head><lb
- n="0017a07" ed="T"/><ab type="dharani">納慕曷喇怛那怛喇夜耶納慕阿<lb
+ n="0017a07" ed="T"/><ab type='dharani'>納慕曷喇怛那怛喇夜耶納慕阿<lb
  n="0017a08" ed="T"/>喇耶縛盧枳低濕筏囉耶步地<lb
  n="0017a09" ed="T"/>薩埵耶莫訶薩埵耶莫訶迦嚧匿迦<lb
  n="0017a10" ed="T"/>耶怛姪他闍曳闍曳闍耶縛<lb
@@ -76,8 +76,8 @@
  n="0017b06" ed="T"/>匿迦耶怛姪他瓮多囇咄多囇咄多<lb
  n="0017b07" ed="T"/>囇　莎賀<lb
  n="0017b08" ed="T"/>
-</ab><ab type="juan" subtype="close">呪五首</ab><lb
- n="0017b09" ed="T"/><div type="w" level="2"><ab type="dharani">􄖩􄗭􄗽􇩋􄩞􄗲􄗱􄖩􄗰􆿆􅝩􄙖􄙒􄑂<lb
+</ab><ab type='juan' subtype='close'>呪五首</ab><lb
+ n="0017b09" ed="T"/><div type='w' level='2'><ab type='dharani'>􄖩􄗭􄗽􇩋􄩞􄗲􄗱􄖩􄗰􆿆􅝩􄙖􄙒􄑂<lb
  n="0017b10" ed="T"/>􄕝􈂫􄗾􄗱􄗕􄕽􄙺􄽚􄗱􄗥􄚩􄙺􄽚􄗱<lb
  n="0017b11" ed="T"/>􄗥􄚩􄑁􄙂􄕍􄑁􄗱􄕗􄛼􄕤􄒶􄗷􇥗􄒶<lb
  n="0017b12" ed="T"/>􄗱􄙖􄚪􄖫􄒶􄗹􄕗􄙀􄑀􄗽􇥗􄗥􄗽􇥗<lb

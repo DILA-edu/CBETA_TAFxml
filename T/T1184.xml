@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1184</idno>
                 </bibl>
@@ -39,30 +39,30 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0784b" id="T20.1184.0784b" ed="T"/><lb
  n="0784b01" ed="T"/><lb
  n="0784b02" ed="T"/><lb
- n="0784b03" ed="T"/><div type="jing" level="2"><lb
+ n="0784b03" ed="T"/><div type='jing' level='2'><lb
  n="0784b04" ed="T"/>
-<ab type="juan" subtype="open">大聖妙吉祥菩薩祕密八字陀<lb
+<ab type='juan' subtype='open'>大聖妙吉祥菩薩祕密八字陀<lb
  n="0784b05" ed="T"/>羅尼修行曼荼羅次第儀軌法<lb
  n="0784b06" ed="T"/>一卷</ab><lb
  n="0784b07" ed="T"/><lb
  n="0784b08" ed="T"/><byline>中天竺國大那爛陀寺戒行沙門<lb
  n="0784b09" ed="T"/>菩提㗚使淨智金剛譯親承<lb
  n="0784b10" ed="T"/>筆授僧義雲傳流</byline><lb
- n="0784b11" ed="T"/><ab type="prose">爾時世尊。告金剛密迹主言。是八字最勝大<lb
+ n="0784b11" ed="T"/><ab type='prose'>爾時世尊。告金剛密迹主言。是八字最勝大<lb
  n="0784b12" ed="T"/>威德心真言所住之處。如佛在世無有異也。<lb
  n="0784b13" ed="T"/>能現諸佛種種神力不可思議。亦能作大無<lb
  n="0784b14" ed="T"/>量神通變化。我今略讚此陀羅尼少分功德。<lb
  n="0784b15" ed="T"/>我若具說。無量俱胝那庾多百千大劫說不<lb
  n="0784b16" ed="T"/>能盡。爾時世尊。即說八字大威德心真言曰。<lb
  n="0784b17" ed="T"/></ab>
-<ab type="dharani">􇩂唵引􇩱阿引入惡聲􄙙味引􄗽羅􈅼𤙖引􄑌佉􄑼左􄙉洛<lb
+<ab type='dharani'>􇩂唵引􇩱阿引入惡聲􄙙味引􄗽羅􈅼𤙖引􄑌佉􄑼左􄙉洛<lb
  n="0784b18" ed="T"/><lb
  n="0784b19" ed="T"/></ab>
-<ab type="prose">復告金剛密迹主言。此陀羅尼。若有男子<lb
+<ab type='prose'>復告金剛密迹主言。此陀羅尼。若有男子<lb
  n="0784b20" ed="T"/>女人不能辦作承事供養法者。復緣在家迫<lb
  n="0784b21" ed="T"/>迮作種種生業。但能憶持不忘依時念誦。隨<lb
  n="0784b22" ed="T"/>分不闕供養少分。隨自力辦亦得成就。除不<lb
@@ -211,7 +211,7 @@
  n="0786a24" ed="T"/>一萬遍即得消滅。若擬作持念應具八方便。<lb
  n="0786a25" ed="T"/>然可作念誦即說頌曰。<lb
  n="0786a26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 澡浴著淨衣　　塗香嚴身體　　<lb
  n="0786a27" ed="T"/>歸命念真言　　至誠恭敬禮　　<lb
  n="0786a28" ed="T"/>焚香懺諸罪　　隨喜及勸請　　<lb
@@ -219,7 +219,7 @@
  n="0786b01" ed="T"/>如此八方便　　勤行勿遺忘　　<lb
  n="0786b02" ed="T"/>然後淨三業　　依法作持念　　
 </ab><lb
- n="0786b03" ed="T"/><ab type="prose">大聖妙吉祥菩薩最勝威德祕密八字陀羅尼<lb
+ n="0786b03" ed="T"/><ab type='prose'>大聖妙吉祥菩薩最勝威德祕密八字陀羅尼<lb
  n="0786b04" ed="T"/>修行念誦儀軌次第法。<lb
  n="0786b05" ed="T"/>我今依真言次第法門說。行人先當從阿闍<lb
  n="0786b06" ed="T"/>梨得受灌頂。及親傳受已。及再入持明悉地<lb
@@ -239,7 +239,7 @@
  n="0786b20" ed="T"/>薩金剛密迹一切賢聖等前。一一自身而禮<lb
  n="0786b21" ed="T"/>聖眾。普禮一切佛菩薩金剛等真言曰。<lb
  n="0786b22" ed="T"/></ab>
-<ab type="dharani">􇩂唵引􄙺薩􅞣嚩轉舌􄕗怛􄕤佗引􄑘蘗􄕗多􄑀迦􄗱耶<lb
+<ab type='dharani'>􇩂唵引􄙺薩􅞣嚩轉舌􄕗怛􄕤佗引􄑘蘗􄕗多􄑀迦􄗱耶<lb
  n="0786b23" ed="T"/><lb
  n="0786b24" ed="T"/>􄙖嚩􄹄紇唧二合􄕗多􄙖嚩無撥反􄦽折囉二合􄪼鉢羅二合<lb
  n="0786b25" ed="T"/><lb
@@ -248,12 +248,12 @@
  n="0786b28" ed="T"/>􄖩南􄑀迦􄙆嚕􄗧弭<lb
  n="0786b29" ed="T"/><pb n="0786c" id="T20.1184.0786c" ed="T"/><lb
  n="0786c01" ed="T"/></ab>
-<ab type="prose">又心密明曰。<lb
+<ab type='prose'>又心密明曰。<lb
  n="0786c02" ed="T"/></ab>
-<ab type="dharani">􇩂唵引􄙖嚩􄦽日囉二合􈂬微微一切􄕗多<lb
+<ab type='dharani'>􇩂唵引􄙖嚩􄦽日囉二合􈂬微微一切􄕗多<lb
  n="0786c03" ed="T"/><lb
  n="0786c04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 先合金剛掌　　十度外相交　　<lb
  n="0786c05" ed="T"/>五輪皆委地　　至誠恭敬禮　　<lb
  n="0786c06" ed="T"/>復以長跪坐　　合掌似含蓮　　<lb
@@ -262,22 +262,22 @@
  n="0786c09" ed="T"/>而為不壞體　　然虔誠奉請　　<lb
  n="0786c10" ed="T"/>一切諸聖尊　　誦是四句偈　　
 </ab><lb
- n="0786c11" ed="T"/><ab type="verse">
+ n="0786c11" ed="T"/><ab type='verse'>
 稽首無上法醫王　　難救能救慈悲主　　<lb
  n="0786c12" ed="T"/>我今歸命恭敬請　　唯願速來降道場　　
 </ab><lb
- n="0786c13" ed="T"/><ab type="verse">
+ n="0786c13" ed="T"/><ab type='verse'>
 如是三重請　　作前啟白言　　<lb
  n="0786c14" ed="T"/>二手蓮華合　　復誦淨三業　　<lb
  n="0786c15" ed="T"/>令身器清淨　　用加持五處　　<lb
  n="0786c16" ed="T"/>額兩肩心喉　　念彼真言曰　　
 </ab><lb
- n="0786c17" ed="T"/><ab type="dharani">􇩂唵引􅁤娑嚩二合􄗚婆去􄙖嚩􄙦戍􇧺馱引􄙺薩􅞣嚩<lb
+ n="0786c17" ed="T"/><ab type='dharani'>􇩂唵引􅁤娑嚩二合􄗚婆去􄙖嚩􄙦戍􇧺馱引􄙺薩􅞣嚩<lb
  n="0786c18" ed="T"/><lb
  n="0786c19" ed="T"/>􄕻達􈆺磨􅁤娑嚩二合􄗙婆􄙖嚩􄙦戍􈒻度􄚲唅引<lb
  n="0786c20" ed="T"/><lb
  n="0786c21" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 己淨三業竟　　結佛三昧耶　　<lb
  n="0786c22" ed="T"/>定慧合蓮掌　　豎合二火峯　　<lb
  n="0786c23" ed="T"/>二風屈上節　　二空捻風根　　<lb
@@ -288,33 +288,33 @@
  n="0786c28" ed="T"/>諦觀一切佛　　由如對目前　　<lb
  n="0786c29" ed="T"/>隨念召請尊　　雙舉而並召　　
 </ab><pb n="0787a" id="T20.1184.0787a" ed="T"/><lb
- n="0787a01" ed="T"/><ab type="prose">真言曰。<lb
+ n="0787a01" ed="T"/><ab type='prose'>真言曰。<lb
  n="0787a02" ed="T"/></ab>
-<ab type="dharani">􇩂唵引􄒸爾慈以反􄖩曩􄒸區而翼反􈅝迦半音􅁥娑嚩二合<lb
+<ab type='dharani'>􇩂唵引􄒸爾慈以反􄖩曩􄒸區而翼反􈅝迦半音􅁥娑嚩二合<lb
  n="0787a03" ed="T"/><lb
  n="0787a04" ed="T"/>􄚩賀引<lb
  n="0787a05" ed="T"/><lb
  n="0787a06" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 復結蓮華部　　祕密三昧耶　　<lb
  n="0787a07" ed="T"/>印相亦如前　　左入右舒出　　<lb
  n="0787a08" ed="T"/>三誦三召請　　安右而散之　　<lb
  n="0787a09" ed="T"/>念彼真言曰　　
 </ab><lb
- n="0787a10" ed="T"/><ab type="dharani">􇩂唵引􆿆阿引􄙂盧􄙌力􈅝迦半音􅁥娑嚩二合􄚩賀引<lb
+ n="0787a10" ed="T"/><ab type='dharani'>􇩂唵引􆿆阿引􄙂盧􄙌力􈅝迦半音􅁥娑嚩二合􄚩賀引<lb
  n="0787a11" ed="T"/><lb
  n="0787a12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 復次金剛部　　微妙三昧契　　<lb
  n="0787a13" ed="T"/>前契改空輪　　右入左竪招　　<lb
  n="0787a14" ed="T"/>專心存念尊　　念彼真言曰　　
 </ab><lb
- n="0787a15" ed="T"/><ab type="dharani">􇩂唵引􄙖嚩􄦽日羅二合􆯯地力二合􈅝迦半音􅁥娑嚩二合<lb
+ n="0787a15" ed="T"/><ab type='dharani'>􇩂唵引􄙖嚩􄦽日羅二合􆯯地力二合􈅝迦半音􅁥娑嚩二合<lb
  n="0787a16" ed="T"/><lb
  n="0787a17" ed="T"/>􄚩賀引<lb
  n="0787a18" ed="T"/><lb
  n="0787a19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 佛部印安額　　蓮華右耳邊　　<lb
  n="0787a20" ed="T"/>金剛左耳邊　　同於頂上散　　<lb
  n="0787a21" ed="T"/>復次被甲契　　檀慧及戒方　　<lb
@@ -324,7 +324,7 @@
  n="0787a25" ed="T"/>念加身五處　　額右肩并左　　<lb
  n="0787a26" ed="T"/>心喉散頂門　　念彼真言曰　　
 </ab><lb
- n="0787a27" ed="T"/><ab type="dharani">􇩂唵引􄑼斫􄥇羯羅二合􄙖󰽣轉舌呼􈃪㗚底二合􄪼鉢羅二合<lb
+ n="0787a27" ed="T"/><ab type='dharani'>􇩂唵引􄑼斫􄥇羯羅二合􄙖󰽣轉舌呼􈃪㗚底二合􄪼鉢羅二合<lb
  n="0787a28" ed="T"/><lb
  n="0787a29" ed="T"/>􄙢賒􄗧弭􄕘多引􄗾囉􄩷捺囉引二合􄗾囉引<lb
  n="0787a30" ed="T"/><pb n="0787b" id="T20.1184.0787b" ed="T"/><lb
@@ -335,33 +335,33 @@
  n="0787b05" ed="T"/>􈅼吽􄗁發􈁆吒􅁥娑嚩二合引􄚩訶引<lb
  n="0787b06" ed="T"/><lb
  n="0787b07" ed="T"/></ab>
-<ab type="prose">次說金剛地界𣐍印。<lb
+<ab type='prose'>次說金剛地界𣐍印。<lb
  n="0787b08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 定手方願度　　雙入戒忍間　　<lb
  n="0787b09" ed="T"/>方㧙絞戒後　　入於檀戒間　　<lb
  n="0787b10" ed="T"/>願絞入忍進　　檀慧與進力　　<lb
  n="0787b11" ed="T"/>禪智各相合　　三旋下釘之　　<lb
  n="0787b12" ed="T"/>即念真言曰　　
 </ab><lb
- n="0787b13" ed="T"/><ab type="dharani">􇩂唵引􄑂枳􄙌里􄑂􄙌枳里􄙖嚩􄦽日囉二合􄙖嚩􄦿日里二合<lb
+ n="0787b13" ed="T"/><ab type='dharani'>􇩂唵引􄑂枳􄙌里􄑂􄙌枳里􄙖嚩􄦽日囉二合􄙖嚩􄦿日里二合<lb
  n="0787b14" ed="T"/><lb
  n="0787b15" ed="T"/>􄗞步引􄗽𠷈􄙖滿􆩺馱􄙖滿􆩺馱􆿁吽引􄗁發􈁆吒<lb
  n="0787b16" ed="T"/><lb
  n="0787b17" ed="T"/></ab>
-<ab type="prose">復說金剛牆界印。<lb
+<ab type='prose'>復說金剛牆界印。<lb
  n="0787b18" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 準前地界印　　㰅開禪智竪　　<lb
  n="0787b19" ed="T"/>右旋如牆院　　隨誦而轉之　　<lb
  n="0787b20" ed="T"/>心想金剛牆　　念彼真言曰　　
 </ab><lb
- n="0787b21" ed="T"/><ab type="dharani">􇩂唵引􄙺薩􄗽羅􄙺􄗽薩羅􄙖嚩􄦽日囉二合􄪼鉢羅二合􄑀迦<lb
+ n="0787b21" ed="T"/><ab type='dharani'>􇩂唵引􄙺薩􄗽羅􄙺􄗽薩羅􄙖嚩􄦽日囉二合􄪼鉢羅二合􄑀迦<lb
  n="0787b22" ed="T"/><lb
  n="0787b23" ed="T"/>􄗾羅引􈅼吽􄗁發􈁆吒<lb
  n="0787b24" ed="T"/><lb
  n="0787b25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 復次虛空藏　　十度外相交　　<lb
  n="0787b26" ed="T"/>進力蹙如寶　　想成妙樓閣　　<lb
  n="0787b27" ed="T"/>上有大蓮華　　諦心觀本尊　　<lb
@@ -369,21 +369,21 @@
  n="0787b29" ed="T"/>天衣香雲海　　遍滿於虛空　　<pb n="0787c" id="T20.1184.0787c" ed="T"/><lb
  n="0787c01" ed="T"/>眷屬中圍繞　　念彼真言曰　　
 </ab><lb
- n="0787c02" ed="T"/><ab type="dharani">􇩂唵引􄑘誐􄑘誐􄖩曩􄙺三􄗚婆去引􄙖嚩􄙖嚩無撥反<lb
+ n="0787c02" ed="T"/><ab type='dharani'>􇩂唵引􄑘誐􄑘誐􄖩曩􄙺三􄗚婆去引􄙖嚩􄙖嚩無撥反<lb
  n="0787c03" ed="T"/><lb
  n="0787c04" ed="T"/>􄦽日囉二合􈁟斛引<lb
  n="0787c05" ed="T"/><lb
  n="0787c06" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 次結車輅印　　定慧仰相叉　　<lb
  n="0787c07" ed="T"/>以右押於左　　禪智捻進力　　<lb
  n="0787c08" ed="T"/>最下第一文　　旋轉送向前　　<lb
  n="0787c09" ed="T"/>想成寶車輅　　念彼真言曰　　
 </ab><lb
- n="0787c10" ed="T"/><ab type="dharani">􇩂唵引􄕛覩􄙂嚕􄕛􄙂覩嚕􆿁吽引<lb
+ n="0787c10" ed="T"/><ab type='dharani'>􇩂唵引􄕛覩􄙂嚕􄕛􄙂覩嚕􆿁吽引<lb
  n="0787c11" ed="T"/><lb
  n="0787c12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 三遍或七遍　　運想迎本尊　　<lb
  n="0787c13" ed="T"/>不解此前印　　移禪智度端　　<lb
  n="0787c14" ed="T"/>舉捻忍願頭　　想尊乘車輅　　<lb
@@ -391,7 +391,7 @@
  n="0787c16" ed="T"/>住於虛空中　　待請而來入　　<lb
  n="0787c17" ed="T"/>不違本誓願　　念彼真言曰　　
 </ab><lb
- n="0787c18" ed="T"/><ab type="dharani">􄖩曩􄗰莫􈅾悉底哩野四合􈉀地尾二合􄑁迦引􄖳南􄕗怛<lb
+ n="0787c18" ed="T"/><ab type='dharani'>􄖩曩􄗰莫􈅾悉底哩野四合􈉀地尾二合􄑁迦引􄖳南􄕗怛<lb
  n="0787c19" ed="T"/><lb
  n="0787c20" ed="T"/>􄕤他引􄑘蘖􄕗跢􈁀南引􇩂唵􄙖嚩􈁺折朗二合􄑚祇<lb
  n="0787c21" ed="T"/><lb
@@ -400,7 +400,7 @@
  n="0787c24" ed="T"/>􄚩賀引<lb
  n="0787c25" ed="T"/><pb n="0788a" id="T20.1184.0788a" ed="T"/><lb
  n="0788a01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 由此真言力　　及結契相應　　<lb
  n="0788a02" ed="T"/>能召於本尊　　并及餘眷屬　　<lb
  n="0788a03" ed="T"/>降臨道場所　　施願與行人　　<lb
@@ -409,14 +409,14 @@
  n="0788a06" ed="T"/>淨治虛中路　　後乃請聖尊　　<lb
  n="0788a07" ed="T"/>想香至彼宮　　念彼真言曰　　
 </ab><lb
- n="0788a08" ed="T"/><ab type="dharani">􇩂唵引􈂼素􄙼悉􇧻地􄑀揭􄙀哩􄺸入嚩二合􄙌理􄕗哆<lb
+ n="0788a08" ed="T"/><ab type='dharani'>􇩂唵引􈂼素􄙼悉􇧻地􄑀揭􄙀哩􄺸入嚩二合􄙌理􄕗哆<lb
  n="0788a09" ed="T"/><lb
  n="0788a10" ed="T"/>􄖩難􄕗多􄗭慕引􄗽羅􄕘多去􄗷曳􄺸入嚩二合􄙊攞􄙖滿<lb
  n="0788a11" ed="T"/><lb
  n="0788a12" ed="T"/>􆩺馱􄙖􆩺滿馱􄚨賀􄖩喃􄚨賀􄖩喃􈅼吽􄗁發􈁆吒半音<lb
  n="0788a13" ed="T"/><lb
  n="0788a14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若作此妙法　　其空中關籥　　<lb
  n="0788a15" ed="T"/>悉皆自開解　　亦成辟除障　　<lb
  n="0788a16" ed="T"/>乃至清淨等　　及成警覺尊　　<lb
@@ -424,7 +424,7 @@
  n="0788a18" ed="T"/>印契誦後明　　召集諸聖賢　　<lb
  n="0788a19" ed="T"/>入曼荼羅內　　請召真言曰　　
 </ab><lb
- n="0788a20" ed="T"/><ab type="dharani">􆿏曀􈂯醯曳􄚪呬􄗚婆去􄑘誐􄙠鑁􄖯寧􄚨賀􄚨薄􈁍訖底<lb
+ n="0788a20" ed="T"/><ab type='dharani'>􆿏曀􈂯醯曳􄚪呬􄗚婆去􄑘誐􄙠鑁􄖯寧􄚨賀􄚨薄􈁍訖底<lb
  n="0788a21" ed="T"/><lb
  n="0788a22" ed="T"/>􄗱也􄖩曩􄙺三􄗥麼􄗷曳􄖩囊􄑼者􆿅閼􄑮羅健二合􄑼者<lb
  n="0788a23" ed="T"/><lb
@@ -433,7 +433,7 @@
  n="0788a26" ed="T"/>􈁄儞也二合􄪼鉢羅二合􄙼枲􄕯娜􄗫咩<lb
  n="0788a27" ed="T"/><lb
  n="0788a28" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 或三或七遍　　召請入道場　　<lb
  n="0788a29" ed="T"/>殷勤陳所請　　<pb n="0788b" id="T20.1184.0788b" ed="T"/><lb
  n="0788b01" ed="T"/>復請妙吉祥　　密迹金剛主　　<lb
@@ -442,7 +442,7 @@
  n="0788b04" ed="T"/>二空並竪之　　風橫押空峯　　<lb
  n="0788b05" ed="T"/>誦密言三召　　
 </ab><lb
- n="0788b06" ed="T"/><ab type="dharani">􄖩曩􄗰莫􄙺三􄗥曼􆩖多􈎭沒􇧺馱引􈁀南上引􄚮係􄚮係<lb
+ n="0788b06" ed="T"/><ab type='dharani'>􄖩曩􄗰莫􄙺三􄗥曼􆩖多􈎭沒􇧺馱引􈁀南上引􄚮係􄚮係<lb
  n="0788b07" ed="T"/><lb
  n="0788b08" ed="T"/>􄑄俱􄗥摩􄗽羅􄑀迦􄙘尾􈁃目􈁍訖底丁以反􄖵鉢􄕤佗引<lb
  n="0788b09" ed="T"/><lb
@@ -451,7 +451,7 @@
  n="0788b12" ed="T"/>􄪼鉢羅二合􄕙底􈇍枳然二合􅁥娑嚩二合引􄚩賀引<lb
  n="0788b13" ed="T"/><lb
  n="0788b14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 復次部明王　　辟除諸障者　　<lb
  n="0788b15" ed="T"/>定慧合蓮掌　　水風並下垂　　<lb
  n="0788b16" ed="T"/>俱入滿月間　　空並離風節　　<lb
@@ -462,21 +462,21 @@
  n="0788b21" ed="T"/>三面現六臂　　操持鉞棓瓶　　<lb
  n="0788b22" ed="T"/>蓮華及數珠　　念彼真言曰　　
 </ab><lb
- n="0788b23" ed="T"/><ab type="dharani">􇩂唵引􈃁度􄖩曩􈃁度􄖩曩􄗥麼􄕣佗􄗥麼􄕣佗<lb
+ n="0788b23" ed="T"/><ab type='dharani'>􇩂唵引􈃁度􄖩曩􈃁度􄖩曩􄗥麼􄕣佗􄗥麼􄕣佗<lb
  n="0788b24" ed="T"/><lb
  n="0788b25" ed="T"/>􄚨訶􄖩曩􄚨訶􄖩曩􄚨賀􄗱野􄥢儗里二合􄙖縛無可反<lb
  n="0788b26" ed="T"/><lb
  n="0788b27" ed="T"/>􈅼吽引􄗁發􈁆吒半音<lb
  n="0788b28" ed="T"/><lb
  n="0788b29" ed="T"/></ab>
-<ab type="prose">又心明曰。<pb n="0788c" id="T20.1184.0788c" ed="T"/><lb
+<ab type='prose'>又心明曰。<pb n="0788c" id="T20.1184.0788c" ed="T"/><lb
  n="0788c01" ed="T"/></ab>
-<ab type="dharani">􇩂唵引􆿅阿引􆱈密㗚二合􄕟覩􆹊納婆二合􄙖嚩􈅼吽引<lb
+<ab type='dharani'>􇩂唵引􆿅阿引􆱈密㗚二合􄕟覩􆹊納婆二合􄙖嚩􈅼吽引<lb
  n="0788c02" ed="T"/><lb
  n="0788c03" ed="T"/>􄗁發􈁆吒半音呼<lb
  n="0788c04" ed="T"/><lb
  n="0788c05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 由是真言故　　及以印加持　　<lb
  n="0788c06" ed="T"/>能令諸障除　　行人少施功　　<lb
  n="0788c07" ed="T"/>速獲得成就　　<lb
@@ -488,24 +488,24 @@
  n="0788c13" ed="T"/>牆外至於地　　一切不能穿　　<lb
  n="0788c14" ed="T"/>觀成如金剛　　念彼真言曰　　
 </ab><lb
- n="0788c15" ed="T"/><ab type="dharani">􇩂唵引􄙘尾􆷵娑普二合􄗽羅􄩶捺羅二合􄚴乞叉二合<lb
+ n="0788c15" ed="T"/><ab type='dharani'>􇩂唵引􄙘尾􆷵娑普二合􄗽羅􄩶捺羅二合􄚴乞叉二合<lb
  n="0788c16" ed="T"/><lb
  n="0788c17" ed="T"/>􄙖嚩􄦽折羅二合􄖿半􄒶惹􄗽羅􈅼𤙖引􄗁發􈁆吒半音<lb
  n="0788c18" ed="T"/><lb
  n="0788c19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 復次火院印　　密縫焰暉光　　<lb
  n="0788c20" ed="T"/>周匝網外圍　　赫奕劫火熾　　<lb
  n="0788c21" ed="T"/>如風右旋繞　　怖畏諸惡魔　　<lb
  n="0788c22" ed="T"/>一切設覩嚕　　無能為惱害　　<lb
  n="0788c23" ed="T"/>行人堅住觀　　念彼真言曰　　
 </ab><lb
- n="0788c24" ed="T"/><ab type="dharani">􇩂唵引􆿅阿􄙺三􄗦莽引去􅍋儗儞二合􄚨訶􄗽羅􈅼吽引<lb
+ n="0788c24" ed="T"/><ab type='dharani'>􇩂唵引􆿅阿􄙺三􄗦莽引去􅍋儗儞二合􄚨訶􄗽羅􈅼吽引<lb
  n="0788c25" ed="T"/><lb
  n="0788c26" ed="T"/>􄗁發􈁆吒半音呼<lb
  n="0788c27" ed="T"/><lb
  n="0788c28" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 三遍或七遍　　諦想作加持　　<lb
  n="0788c29" ed="T"/>觀中光焰暉　　然後而旋轉　　<pb n="0789a" id="T20.1184.0789a" ed="T"/><lb
  n="0789a01" ed="T"/>動然焰輝赫　　令法無不成　　<lb
@@ -514,12 +514,12 @@
  n="0789a04" ed="T"/>二空捻風下　　想成眾寶池　　<lb
  n="0789a05" ed="T"/>清徹底金沙　　念彼真言曰　　
 </ab><lb
- n="0789a06" ed="T"/><ab type="dharani">􄖩曩􄗰莫􄙺三􄗥曼􆩖多􈎭勃上􇧺馱引􈁀南引􄑘誐􄑘誐􄖩曩<lb
+ n="0789a06" ed="T"/><ab type='dharani'>􄖩曩􄗰莫􄙺三􄗥曼􆩖多􈎭勃上􇧺馱引􈁀南引􄑘誐􄑘誐􄖩曩<lb
  n="0789a07" ed="T"/><lb
  n="0789a08" ed="T"/>􄙺三􄗦摩引􄙺三􄗥摩上􅁥娑嚩二合引􄚩賀引<lb
  n="0789a09" ed="T"/><lb
  n="0789a10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 三遍或七遍　　心想寶池中　　<lb
  n="0789a11" ed="T"/>蓮華菡萏開　　遍浴諸聖眾　　<lb
  n="0789a12" ed="T"/>先浴本尊足　　次浴諸賢聖　　<lb
@@ -530,10 +530,10 @@
  n="0789a17" ed="T"/>空並仰前出　　由如師子勢　　<lb
  n="0789a18" ed="T"/>想上有蓮華　　念彼真言曰　　
 </ab><lb
- n="0789a19" ed="T"/><ab type="dharani">􇩂唵引􆿅阿􄑼佐􄙊攞􄙘尾􄗽羅􄗱野􈅼𤙖引<lb
+ n="0789a19" ed="T"/><ab type='dharani'>􇩂唵引􆿅阿􄑼佐􄙊攞􄙘尾􄗽羅􄗱野􈅼𤙖引<lb
  n="0789a20" ed="T"/><lb
  n="0789a21" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 次陳普供養　　十度金剛合　　<lb
  n="0789a22" ed="T"/>二風如寶形　　塗香華食燈　　<lb
  n="0789a23" ed="T"/>運想如雲海　　幢幡眾妓樂　　<lb
@@ -541,7 +541,7 @@
  n="0789a25" ed="T"/>供養增福聚　　念是真言句　　<lb
  n="0789a26" ed="T"/>而以獻諸尊　　供養真言曰　　
 </ab><lb
- n="0789a27" ed="T"/><ab type="dharani">􄖩曩􄗰莫􄙺三􄗥曼􆩖多􈎭勃􇧺馱引􈁀喃引􇩂唵引<lb
+ n="0789a27" ed="T"/><ab type='dharani'>􄖩曩􄗰莫􄙺三􄗥曼􆩖多􈎭勃􇧺馱引􈁀喃引􇩂唵引<lb
  n="0789a28" ed="T"/><lb
  n="0789b01" ed="T"/>􄙺薩􅞣羅縛二合􄕤佗引􄑖欠􇇳溫􆲪娜蘖二合􄕝帝<lb
  n="0789b02" ed="T"/><lb
@@ -550,14 +550,14 @@
  n="0789b05" ed="T"/>􄚩訶引<lb
  n="0789b06" ed="T"/><lb
  n="0789b07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 由此供養故　　當獲無等利　　<lb
  n="0789b08" ed="T"/>能成眾事業　　資糧從是生　　<lb
  n="0789b09" ed="T"/>復次明讚歎　　不解前印契　　<lb
  n="0789b10" ed="T"/>改寶而交合　　梵音誦讚言　　<lb
  n="0789b11" ed="T"/>令眾聖歡喜　　念是密言曰　　
 </ab><lb
- n="0789b12" ed="T"/><ab type="dharani">􇩂唵引􄙖嚩􄦽日囉二合􄕙底丁以反􈁵乞儭拏三合􄗥摩<lb
+ n="0789b12" ed="T"/><ab type='dharani'>􇩂唵引􄙖嚩􄦽日囉二合􄕙底丁以反􈁵乞儭拏三合􄗥摩<lb
  n="0789b13" ed="T"/><lb
  n="0789b14" ed="T"/>􄚩賀引􄗱夜引􄖩曩􄙖縛􄦽日囉二合􄑈句引􄙢舍􄗥摩<lb
  n="0789b15" ed="T"/><lb
@@ -568,9 +568,9 @@
  n="0789b20" ed="T"/>􈎭沒􇧼弟􄖩曩􄗭謨引􆶭率都二合􄕝帝引<lb
  n="0789b21" ed="T"/><lb
  n="0789b22" ed="T"/></ab>
-<ab type="prose">又復有漢語大讚。<lb
+<ab type='prose'>又復有漢語大讚。<lb
  n="0789b23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 歸命密迹主　　摧伏諸魔者　　<lb
  n="0789b24" ed="T"/>童真法王子　　具普賢眾行　　<lb
  n="0789b25" ed="T"/>住是本有身　　無始無終寂　　<lb
@@ -586,7 +586,7 @@
  n="0789c06" ed="T"/>慧手結為拳　　舒風如鉤狀　　<lb
  n="0789c07" ed="T"/>七遍而三召　　即說真言曰　　
 </ab><lb
- n="0789c08" ed="T"/><ab type="dharani">􄖩曩􄗰莫􄙺三􄗥曼􆩖多􈎭沒􇧺馱引􈁀南上引􆿆阿引<lb
+ n="0789c08" ed="T"/><ab type='dharani'>􄖩曩􄗰莫􄙺三􄗥曼􆩖多􈎭沒􇧺馱引􈁀南上引􆿆阿引<lb
  n="0789c09" ed="T"/><lb
  n="0789c10" ed="T"/>􄑀羯􅞻囉灑二合􄗱野􄙺薩􄽣鑁引􄑄矩􄙂嚕􆿅阿<lb
  n="0789c11" ed="T"/><lb
@@ -595,77 +595,77 @@
  n="0789c14" ed="T"/>􄚩賀引<lb
  n="0789c15" ed="T"/><lb
  n="0789c16" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 復次計設尼　　印相如後說　　<lb
  n="0789c17" ed="T"/>智慧羽為拳　　火風相合竪　　<lb
  n="0789c18" ed="T"/>由同刀標相　　念彼密言曰　　
 </ab><lb
- n="0789c19" ed="T"/><ab type="dharani">􄖩曩􄗰莫􄙺三􄗥曼􆩖多􈎭沒􇧺馱引􈁀南上引􄚮係􄚮係􄑄矩<lb
+ n="0789c19" ed="T"/><ab type='dharani'>􄖩曩􄗰莫􄙺三􄗥曼􆩖多􈎭沒􇧺馱引􈁀南上引􄚮係􄚮係􄑄矩<lb
  n="0789c20" ed="T"/><lb
- n="0789c21" ed="T"/>􄗦忙􄙀󰓑􄑆計引􄕯娜􄗱耶􈂤枳壞二合􄖳難􅋌娑麼二合<lb
+ n="0789c21" ed="T"/>􄗦忙􄙀𭌆􄑆計引􄕯娜􄗱耶􈂤枳壞二合􄖳難􅋌娑麼二合<lb
  n="0789c22" ed="T"/><lb
  n="0789c23" ed="T"/>􄗽羅􅋖娑摩二合􄗽羅􄪼鉢羅二合􄕙底􈇍吉然二合<lb
  n="0789c24" ed="T"/><lb
  n="0789c25" ed="T"/>􅁥娑嚩二合引􄚩賀引<lb
  n="0789c26" ed="T"/><lb
  n="0789c27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 復次尊右方　　救護慧童子　　<lb
  n="0789c28" ed="T"/>左手金剛拳　　端坐安腰側　　<lb
  n="0789c29" ed="T"/>右舒五輪直　　當以掩其心　　<pb n="0790a" id="T20.1184.0790a" ed="T"/><lb
  n="0790a01" ed="T"/>磔竪於空輪　　念彼真言曰　　
 </ab><lb
- n="0790a02" ed="T"/><ab type="dharani">􄖩曩􄗰莫􄙺三􄗥曼􆩖多􈎭沒􇧺馱引􈁀南上引􄚮係􄗥摩􄚩訶引<lb
+ n="0790a02" ed="T"/><ab type='dharani'>􄖩曩􄗰莫􄙺三􄗥曼􆩖多􈎭沒􇧺馱引􈁀南上引􄚮係􄗥摩􄚩訶引<lb
  n="0790a03" ed="T"/><lb
  n="0790a04" ed="T"/>􄗥摩􄚩訶引􅋌娑麼二合􄗽囉􄪼鉢囉二合􄕙底<lb
  n="0790a05" ed="T"/><lb
  n="0790a06" ed="T"/>􈇍枳然二合􅁥娑嚩二合引􄚩賀引<lb
  n="0790a07" ed="T"/><lb
  n="0790a08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 烏波計室尼　　智慧手為拳　　<lb
  n="0790a09" ed="T"/>而甲火輪直　　風屈指中節　　<lb
  n="0790a10" ed="T"/>如同戟標相　　說彼真言曰　　
 </ab><lb
- n="0790a11" ed="T"/><ab type="dharani">􄖩曩􄗰莫􄙺三􄗥曼􆩖多􈎭沒􇧺馱引􈁀南上引􄗛頻􆩮娜<lb
+ n="0790a11" ed="T"/><ab type='dharani'>􄖩曩􄗰莫􄙺三􄗥曼􆩖多􈎭沒􇧺馱引􈁀南上引􄗛頻􆩮娜<lb
  n="0790a12" ed="T"/><lb
- n="0790a13" ed="T"/>􄗱夜􈂤枳壞二合􄖳難􄚮係􄑄矩􄗥忙􄙀󰓑􄑆計􅁥娑嚩二合引<lb
+ n="0790a13" ed="T"/>􄗱夜􈂤枳壞二合􄖳難􄚮係􄑄矩􄗥忙􄙀𭌆􄑆計􅁥娑嚩二合引<lb
  n="0790a14" ed="T"/><lb
  n="0790a15" ed="T"/>􄚩訶引<lb
  n="0790a16" ed="T"/><lb
  n="0790a17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 復次光網尊　　內眷屬童子　　<lb
  n="0790a18" ed="T"/>印契如後說　　三昧手為拳　　<lb
  n="0790a19" ed="T"/>風輪舉如鉤　　為攝諸含識　　<lb
  n="0790a20" ed="T"/>令住解脫地　　即說真言曰　　
 </ab><lb
- n="0790a21" ed="T"/><ab type="dharani">􄖩曩􄗰莫􄙺三􄗥曼􆩖多􈎭沒􇧺馱引􈁀南上引􄚮係􄚮係<lb
+ n="0790a21" ed="T"/><ab type='dharani'>􄖩曩􄗰莫􄙺三􄗥曼􆩖多􈎭沒􇧺馱引􈁀南上引􄚮係􄚮係<lb
  n="0790a22" ed="T"/><lb
  n="0790a23" ed="T"/>􄑄矩􄗥忙􄗽羅􄗥忙􄗱耶􄑘蘖􄕗多􅁥娑嚩二合􄚩婆去引<lb
  n="0790a24" ed="T"/><lb
  n="0790a25" ed="T"/>􄙖嚩􆶷悉體二合佗以反􄕗哆􅁥娑嚩二合引􄚩賀引<lb
  n="0790a26" ed="T"/><lb
  n="0790a27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 復次地慧幢　　內眷之幖幟　　<lb
  n="0790a28" ed="T"/>三昧手為拳　　而舒地水輪　　<lb
  n="0790a29" ed="T"/>直竪如幢相　　說是密言曰　　
 </ab><pb n="0790b" id="T20.1184.0790b" ed="T"/><lb
- n="0790b01" ed="T"/><ab type="dharani">􄖩曩􄗰莫􄙺三􄗥曼􆩖多􈎭沒􇧺馱引􈁀南上引􄚮係<lb
+ n="0790b01" ed="T"/><ab type='dharani'>􄖩曩􄗰莫􄙺三􄗥曼􆩖多􈎭沒􇧺馱引􈁀南上引􄚮係<lb
  n="0790b02" ed="T"/><lb
  n="0790b03" ed="T"/>􅋌娑摩二合􄗽羅􈂤枳壞二合􄖩曩􄑆計􄕛都引<lb
  n="0790b04" ed="T"/><lb
  n="0790b05" ed="T"/>􅁥娑嚩二合引􄚩賀引<lb
  n="0790b06" ed="T"/><lb
  n="0790b07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 次復無垢光　　矩忙囉密主　　<lb
  n="0790b08" ed="T"/>如前三昧手　　舒上一切輪　　<lb
  n="0790b09" ed="T"/>悉皆微屈之　　如佛身光明　　<lb
  n="0790b10" ed="T"/>其焰徹暉照　　稱念彼真言　　
 </ab><lb
- n="0790b11" ed="T"/><ab type="dharani">􄖩曩􄗰莫􄙺三􄗥曼􆩖多􈎭沒􇧺馱引􈁀南上引􄚮係􄚮係<lb
+ n="0790b11" ed="T"/><ab type='dharani'>􄖩曩􄗰莫􄙺三􄗥曼􆩖多􈎭沒􇧺馱引􈁀南上引􄚮係􄚮係<lb
  n="0790b12" ed="T"/><lb
  n="0790b13" ed="T"/>􄑄矩􄗥忙引􄗽囉􄙘微􄑾質􄩞怛囉二合􄑘蘖􄕙底􄑄矩<lb
  n="0790b14" ed="T"/><lb
@@ -674,21 +674,21 @@
  n="0790b17" ed="T"/>􄚩賀引<lb
  n="0790b18" ed="T"/><lb
  n="0790b19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 復不思議慧　　印相如後陳　　<lb
  n="0790b20" ed="T"/>定慧內相叉　　一合為拳印　　<lb
  n="0790b21" ed="T"/>二風別屈舒　　屈三節對之　　<lb
  n="0790b22" ed="T"/>合甲急相背　　二空並直竪　　<lb
  n="0790b23" ed="T"/>名為奉教者　　復說密言曰　　
 </ab><lb
- n="0790b24" ed="T"/><ab type="dharani">􄖩曩􄗰莫􄙺三􄗥曼􆩖多􈎭勃􇧺馱引􈁀南上引􄚮係􄚮係引<lb
+ n="0790b24" ed="T"/><ab type='dharani'>􄖩曩􄗰莫􄙺三􄗥曼􆩖多􈎭勃􇧺馱引􈁀南上引􄚮係􄚮係引<lb
  n="0790b25" ed="T"/><lb
  n="0790b26" ed="T"/>􈆡緊􄑾旨茲以切􄗽囉􄗷拽􄙼徙􇩱阿去急呼􄙘尾<lb
  n="0790b27" ed="T"/><lb
  n="0790b28" ed="T"/>􅋌娑麼二合􄗱也􄕍儜􄗷曳􅁥娑嚩二合引􄚩賀引<lb
  n="0790b29" ed="T"/><pb n="0790c" id="T20.1184.0790c" ed="T"/><lb
  n="0790c01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 爾時修行者　　安住慈愍心　　<lb
  n="0790c02" ed="T"/>為一切有情　　發大弘誓願　　<lb
  n="0790c03" ed="T"/>至誠起殷敬　　觀想於本尊　　<lb
@@ -701,11 +701,11 @@
  n="0790c10" ed="T"/>定慧含蓮相　　當口用加持　　<lb
  n="0790c11" ed="T"/>祕密珠明曰　　
 </ab><lb
- n="0790c12" ed="T"/><ab type="dharani">􇩂唵引􄙝毘􄙂盧􄑼左􄖩曩􄗥麼􄙊攞􅁥娑嚩二合引􄚩賀引<lb
+ n="0790c12" ed="T"/><ab type='dharani'>􇩂唵引􄙝毘􄙂盧􄑼左􄖩曩􄗥麼􄙊攞􅁥娑嚩二合引􄚩賀引<lb
  n="0790c13" ed="T"/><lb
  n="0790c14" ed="T"/><lb
  n="0790c15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 加持七遍已　　旋轉三珠易　　<lb
  n="0790c16" ed="T"/>空地對捻珠　　隨誦移三匝　　<lb
  n="0790c17" ed="T"/>誦八字明句　　一千或一萬　　<lb
@@ -753,8 +753,8 @@
  n="0791b01" ed="T"/>世出世間願　　所求皆滿足　　
 </ab><lb
  n="0791b02" ed="T"/>
-<ab type="juan" subtype="close">文殊八字儀軌</ab></div><lb
- n="0791b03" ed="T"/><div type="w" level="2"><ab type="prose">長慶四年八月三十日。東塔院青龍寺持<lb
+<ab type='juan' subtype='close'>文殊八字儀軌</ab></div><lb
+ n="0791b03" ed="T"/><div type='w' level='2'><ab type='prose'>長慶四年八月三十日。東塔院青龍寺持<lb
  n="0791b04" ed="T"/>念沙門義雲法金剛。與中天三藏菩提仙。<lb
  n="0791b05" ed="T"/>同譯筆受。結偈潤文僧義雲寫。勘終記之<lb
  n="0791b06" ed="T"/>耳。<lb

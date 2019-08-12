@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1229</idno>
                 </bibl>
@@ -39,17 +39,17 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0159b" id="T21.1229.0159b" ed="T"/><lb
  n="0159b01" ed="T"/><lb
  n="0159b02" ed="T"/><lb
- n="0159b03" ed="T"/><div type="jing" level="2"><lb
+ n="0159b03" ed="T"/><div type='jing' level='2'><lb
  n="0159b04" ed="T"/>
-<ab type="juan" subtype="open">穢跡金剛禁百變法經一卷</ab><lb
+<ab type='juan' subtype='open'>穢跡金剛禁百變法經一卷</ab><lb
  n="0159b05" ed="T"/><lb
  n="0159b06" ed="T"/><byline>北天竺國三藏沙門阿質<lb
  n="0159b07" ed="T"/>達霰唐言無能勝將譯</byline><lb
- n="0159b08" ed="T"/><ab type="prose">爾時金剛復白佛言。世尊若有善男子善女<lb
+ n="0159b08" ed="T"/><ab type='prose'>爾時金剛復白佛言。世尊若有善男子善女<lb
  n="0159b09" ed="T"/>人。持我此呪無効驗者無有是處。欲令山摧<lb
  n="0159b10" ed="T"/>者。取白芥子三升上好安悉香。於山中疑有<lb
  n="0159b11" ed="T"/>寶。取鑌鐵刀一枚。畫四方為界。耳淨巾<lb
@@ -208,8 +208,8 @@
  n="0161b01" ed="T"/>法已。大眾倍加悲喜。及諸天龍大鬼神等。各<lb
  n="0161b02" ed="T"/>奉聖言禮足而去。<lb
  n="0161b03" ed="T"/>
-</ab><ab type="juan" subtype="close">穢跡金剛禁百變經一卷</ab></div><lb
- n="0161b04" ed="T"/><div type="w" level="2"><ab type="prose">。<lb
+</ab><ab type='juan' subtype='close'>穢跡金剛禁百變經一卷</ab></div><lb
+ n="0161b04" ed="T"/><div type='w' level='2'><ab type='prose'>。<lb
  n="0161b05" ed="T"/>唵𠲽咶　啒㖀摩訶般囉　很那𠵨　吻汁<lb
  n="0161b06" ed="T"/>吻　（醯）（摩）（尼）𡀎咭𡀎　摩那棲（唵）（斫）（急）<lb
  n="0161b07" ed="T"/>（那）烏深暮　啒㖀吽吽（吽）泮泮泮（泮）（泮）娑<lb

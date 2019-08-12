@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1070</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0149a11" ed="T"/><lb
  n="0149a12" ed="T"/><lb
  n="0149a13" ed="T"/><lb
  n="0149a14" ed="T"/>
-<ab type="juan" subtype="open">佛說十一面觀世音神呪經</ab><lb
+<ab type='juan' subtype='open'>佛說十一面觀世音神呪經</ab><lb
  n="0149a15" ed="T"/><lb
  n="0149a16" ed="T"/><byline>周宇文氏天竺三藏耶舍崛多譯</byline><lb
- n="0149a17" ed="T"/><div type="jing" level="2"><ab type="prose">如是我聞。一時佛在王舍城耆闍崛山中。與<lb
+ n="0149a17" ed="T"/><div type='jing' level='2'><ab type='prose'>如是我聞。一時佛在王舍城耆闍崛山中。與<lb
  n="0149a18" ed="T"/>無量菩薩摩訶薩大眾俱前後圍繞。爾時觀<lb
  n="0149a19" ed="T"/>世音菩薩摩訶薩。與無數持呪賢聖俱。前後<lb
  n="0149a20" ed="T"/>圍繞來詣佛所。到佛所已五體投地頂禮佛<lb
@@ -127,7 +127,7 @@
  n="0150a06" ed="T"/>五體投地頂禮佛足。禮佛足已却坐一面。白<lb
  n="0150a07" ed="T"/>佛言世尊。我今當承佛神力而說呪曰。<lb
  n="0150a08" ed="T"/></ab>
-<ab type="dharani">南無佛陀耶　南無達摩耶　南無僧伽耶<lb
+<ab type='dharani'>南無佛陀耶　南無達摩耶　南無僧伽耶<lb
  n="0150a09" ed="T"/>　南無若那娑伽羅　毘盧遮那耶　多他伽多<lb
  n="0150a10" ed="T"/>耶　南無阿利耶跋路　吉帝攝婆羅耶　菩<lb
  n="0150a11" ed="T"/>提薩埵耶　摩訶薩埵耶　摩訶伽樓膩伽耶<lb
@@ -138,68 +138,68 @@
  n="0150a16" ed="T"/>婆離　伊利彌利脂致　闍羅摩波那耶　冒<lb
  n="0150a17" ed="T"/>地薩埵　摩訶伽　盧尼迦　娑波呵<lb
  n="0150a18" ed="T"/></ab>
-<ab type="prose">爾時觀世音菩薩。白佛言。世尊此呪有如是<lb
+<ab type='prose'>爾時觀世音菩薩。白佛言。世尊此呪有如是<lb
  n="0150a19" ed="T"/>神力最為上首。復說呪曰。</ab>
-<ab type="dharani">南無阿利耶跋<lb
+<ab type='dharani'>南無阿利耶跋<lb
  n="0150a20" ed="T"/>路吉諦　攝婆羅耶　菩提薩埵耶　摩訶薩<lb
  n="0150a21" ed="T"/>埵耶　多姪他　呵呵呵呵　一離彌離脂離<lb
  n="0150a22" ed="T"/>毘離詰離醯離　娑波呵</ab>
-<ab type="prose">時觀世音菩薩<lb
+<ab type='prose'>時觀世音菩薩<lb
  n="0150a23" ed="T"/>白佛言世尊此呪名呪水呪衣呪。若復有人<lb
  n="0150a24" ed="T"/>入道場時。先以此呪呪水七遍以浴其身。浴<lb
  n="0150a25" ed="T"/>其身已復以此呪。呪衣七遍著入道場。<lb
  n="0150a26" ed="T"/></ab>
-<ab type="dharani">南無阿利耶　跋路吉氐攝婆羅耶　菩提<lb
+<ab type='dharani'>南無阿利耶　跋路吉氐攝婆羅耶　菩提<lb
  n="0150a27" ed="T"/>薩埵耶　摩訶薩埵耶　多姪他　晝樓晝樓<lb
  n="0150a28" ed="T"/>　呵呵呵呵　娑波呵</ab>
-<ab type="prose">此名呪香呪。初入<lb
+<ab type='prose'>此名呪香呪。初入<lb
  n="0150a29" ed="T"/>道場時呪香七遍。然後乃燒。<pb n="0150b" id="T20.1070.0150b" ed="T"/><lb
  n="0150b01" ed="T"/></ab>
-<ab type="dharani">南無佛陀耶　南無達摩耶　南無僧伽耶<lb
+<ab type='dharani'>南無佛陀耶　南無達摩耶　南無僧伽耶<lb
  n="0150b02" ed="T"/>　南無阿利耶　跋路吉氐攝婆羅耶　菩提<lb
  n="0150b03" ed="T"/>薩埵耶　摩訶薩埵耶　摩訶伽樓尼伽耶<lb
  n="0150b04" ed="T"/>多姪他　私利私利地利　地利地利私利<lb
  n="0150b05" ed="T"/>　娑波呵</ab>
-<ab type="prose">此名呪華呪油呪呪花散佛呪<lb
+<ab type='prose'>此名呪華呪油呪呪花散佛呪<lb
  n="0150b06" ed="T"/>油然燈。各呪百遍。<lb
  n="0150b07" ed="T"/></ab>
-<ab type="dharani">南無佛陀耶　南無達摩耶　南無僧伽耶<lb
+<ab type='dharani'>南無佛陀耶　南無達摩耶　南無僧伽耶<lb
  n="0150b08" ed="T"/>　南無阿利耶　跋路吉氐攝婆羅耶　菩提<lb
  n="0150b09" ed="T"/>薩埵耶　摩訶薩埵耶　多姪他娑第　娑第<lb
  n="0150b10" ed="T"/>　娑地娑地　藪茶藪茶　娑波呵</ab>
-<ab type="prose">此名呪<lb
+<ab type='prose'>此名呪<lb
  n="0150b11" ed="T"/>食呪。獻佛食時所有飲食及諸雜果。先呪二<lb
  n="0150b12" ed="T"/>十一遍然後乃獻。<lb
  n="0150b13" ed="T"/></ab>
-<ab type="dharani">南無佛陀耶　南無達摩耶　南無僧伽耶<lb
+<ab type='dharani'>南無佛陀耶　南無達摩耶　南無僧伽耶<lb
  n="0150b14" ed="T"/>　南無阿利耶　跋路吉氐攝婆羅耶　菩提<lb
  n="0150b15" ed="T"/>薩埵耶　摩訶薩埵耶　摩訶伽樓尼伽耶<lb
  n="0150b16" ed="T"/>　多姪他　訶私陀私　呼樓呼樓周樓　蘇樓<lb
  n="0150b17" ed="T"/>　蘇樓　娑波呵</ab>
-<ab type="prose">此名呪火呪。用蘇曼木<lb
+<ab type='prose'>此名呪火呪。用蘇曼木<lb
  n="0150b18" ed="T"/>然火。別以蘇曼木寸截三十一段。用酪酥蜜<lb
  n="0150b19" ed="T"/>三種和之。取蘇曼木段塗酪酥蜜。呪之一遍<lb
  n="0150b20" ed="T"/>擲著火中。盡三十一段次第而呪。呪已然後<lb
  n="0150b21" ed="T"/>如法修行。<lb
  n="0150b22" ed="T"/></ab>
-<ab type="dharani">南無佛陀耶　南無達摩耶　南無僧伽耶<lb
+<ab type='dharani'>南無佛陀耶　南無達摩耶　南無僧伽耶<lb
  n="0150b23" ed="T"/>　南無阿利耶　跋路吉氐攝婆羅耶　菩提<lb
  n="0150b24" ed="T"/>薩埵耶　摩訶薩埵耶　摩訶伽樓尼伽耶<lb
  n="0150b25" ed="T"/>　多姪他　伊利　彌利　脂利彌利　提利醯<lb
  n="0150b26" ed="T"/>利　娑波呵<lb
  n="0150b27" ed="T"/></ab>
-<ab type="prose">此呪名結界呪。或呪水用之散著四方。或呪<lb
+<ab type='prose'>此呪名結界呪。或呪水用之散著四方。或呪<lb
  n="0150b28" ed="T"/>芥子散著四方。或呪淨灰散著四方。各呪七<lb
  n="0150b29" ed="T"/>遍。<pb n="0150c" id="T20.1070.0150c" ed="T"/><lb
  n="0150c01" ed="T"/></ab>
-<ab type="dharani">南無佛陀耶　南無達摩耶　南無僧伽耶<lb
+<ab type='dharani'>南無佛陀耶　南無達摩耶　南無僧伽耶<lb
  n="0150c02" ed="T"/>　南無阿利耶跋路　吉氐攝婆羅耶　菩提<lb
  n="0150c03" ed="T"/>薩埵耶　摩訶薩埵耶　摩訶伽樓尼伽耶<lb
  n="0150c04" ed="T"/>　多姪他　賴致帝利脂致　伽車　伽車　婆<lb
  n="0150c05" ed="T"/>伽畔　阿利耶跋路　吉氐攝婆羅耶　娑<lb
  n="0150c06" ed="T"/>婆婆能　娑波呵<lb
  n="0150c07" ed="T"/></ab>
-<ab type="prose">行道訖竟。誦此呪七遍繞觀世音。此呪別更<lb
+<ab type='prose'>行道訖竟。誦此呪七遍繞觀世音。此呪別更<lb
  n="0150c08" ed="T"/>有神力。若有人患寒熱病者。或一日一發或<lb
  n="0150c09" ed="T"/>二日一發或三日一發。以此呪之悉得除愈。<lb
  n="0150c10" ed="T"/>若被惡鬼打之。或被鬼子母所打。或被羅剎<lb
@@ -314,7 +314,7 @@
  n="0152a03" ed="T"/>當受持。說此經已彼諸大眾一時俱起。繞佛<lb
  n="0152a04" ed="T"/>三匝作禮而去。<lb
  n="0152a05" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說十一面觀世音神呪經</ab></div><lb
- n="0152a06" ed="T"/><div type="w" level="2"><ab type="prose">此經名金剛大道場神呪經。十萬偈成部。<lb
+</ab><ab type='juan' subtype='close'>佛說十一面觀世音神呪經</ab></div><lb
+ n="0152a06" ed="T"/><div type='w' level='2'><ab type='prose'>此經名金剛大道場神呪經。十萬偈成部。<lb
  n="0152a07" ed="T"/>略出十一面觀世音一品。</ab></div></div>
 </body></text></TEI>

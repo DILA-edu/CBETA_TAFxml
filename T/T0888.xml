@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T18</biblScope>
                     <idno type="Taisho">T18n0888</idno>
                 </bibl>
@@ -43,17 +43,17 @@
  n="0536c14" ed="T"/><lb
  n="0536c15" ed="T"/><lb
  n="0536c16" ed="T"/><lb
- n="0536c17" ed="T"/><div type="jing" level="1"><lb
+ n="0536c17" ed="T"/><div type='jing' level='1'><lb
  n="0536c18" ed="T"/>
-<ab type="juan" subtype="open">一切祕密最上名義大教王儀軌<lb
+<ab type='juan' subtype='open'>一切祕密最上名義大教王儀軌<lb
  n="0536c19" ed="T"/>卷上</ab><lb
- n="0536c20" ed="T"/><ab type="prose">此於瑜伽大部中略出。<lb
+ n="0536c20" ed="T"/><ab type='prose'>此於瑜伽大部中略出。<lb
  n="0536c21" ed="T"/><lb
  n="0536c22" ed="T"/><byline>西天譯經三藏傳法大師<lb
  n="0536c23" ed="T"/>賜紫沙門臣施護奉　詔譯</byline><lb
  n="0536c24" ed="T"/>歸命一切佛。<lb
  n="0536c25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 五身作者如是生　　不見眾生決定身　　<lb
  n="0536c26" ed="T"/>亦復不見決定心　　觀想諸佛亦如是　　<lb
  n="0536c27" ed="T"/>若欲頂禮佛大士　　應當頂禮自實智　　<lb
@@ -252,16 +252,16 @@
  n="0539a17" ed="T"/>智住真如實性中　　此即金剛拳菩薩　　
 </ab><lb
  n="0539a18" ed="T"/>
-<ab type="juan" subtype="close">一切祕密最上名義大教王儀軌卷上</ab><lb
+<ab type='juan' subtype='close'>一切祕密最上名義大教王儀軌卷上</ab><lb
  n="0539a19" ed="T"/><lb
  n="0539a20" ed="T"/><lb
  n="0539a21" ed="T"/>
-<ab type="juan" subtype="open">一切祕密最上名義大教王儀軌<lb
+<ab type='juan' subtype='open'>一切祕密最上名義大教王儀軌<lb
  n="0539a22" ed="T"/>卷下</ab><lb
  n="0539a23" ed="T"/><lb
  n="0539a24" ed="T"/><byline>西天譯經三藏傳法大師<lb
  n="0539a25" ed="T"/>賜紫臣施護奉　詔譯</byline><lb
- n="0539a26" ed="T"/><ab type="verse">
+ n="0539a26" ed="T"/><ab type='verse'>
 布施波羅蜜多法　　即是金剛大嬉戲　　<lb
  n="0539a27" ed="T"/>遊戲自在常清淨　　此即金剛戲菩薩　　<lb
  n="0539a28" ed="T"/>持戒波羅蜜多法　　即是金剛妙寶鬘　　<lb
@@ -453,30 +453,30 @@
  n="0541b11" ed="T"/>身諸相分皆圓滿　　明妃自在嬉戲尊　　<lb
  n="0541b12" ed="T"/>手持黃優鉢羅華　　一切眾生悉歸命　　
 </ab><lb
- n="0541b13" ed="T"/><ab type="prose">如是四菩薩彼彼心大明。<lb
+ n="0541b13" ed="T"/><ab type='prose'>如是四菩薩彼彼心大明。<lb
  n="0541b14" ed="T"/>佛眼菩薩大明曰。<lb
  n="0541b15" ed="T"/></ab>
-<ab type="dharani">唵嚕嚕塞普嚕入嚩羅底瑟<lb
+<ab type='dharani'>唵嚕嚕塞普嚕入嚩羅底瑟<lb
  n="0541b16" ed="T"/>吒悉馱路左儞薩哩嚩囉他<lb
  n="0541b17" ed="T"/>娑達儞莎賀<lb
  n="0541b18" ed="T"/></ab>
-<ab type="prose">摩摩枳菩薩大明曰。<lb
+<ab type='prose'>摩摩枳菩薩大明曰。<lb
  n="0541b19" ed="T"/></ab>
-<ab type="dharani">唵商葛黎扇底葛黎瞿吒瞿吒<lb
+<ab type='dharani'>唵商葛黎扇底葛黎瞿吒瞿吒<lb
  n="0541b20" ed="T"/>瞿吒儞伽多野伽多野瞿致儞莎賀<lb
  n="0541b21" ed="T"/><lb
  n="0541b22" ed="T"/></ab>
-<ab type="prose">白衣菩薩大明曰。<lb
+<ab type='prose'>白衣菩薩大明曰。<lb
  n="0541b23" ed="T"/></ab>
-<ab type="dharani">唵葛致尾葛致儞葛致葛啗葛<lb
+<ab type='dharani'>唵葛致尾葛致儞葛致葛啗葛<lb
  n="0541b24" ed="T"/>致葛嚕吒尾哩曳莎賀<lb
  n="0541b25" ed="T"/></ab>
-<ab type="prose">多羅菩薩大明曰。<lb
+<ab type='prose'>多羅菩薩大明曰。<lb
  n="0541b26" ed="T"/></ab>
-<ab type="dharani">唵多黎覩多黎覩黎莎賀<lb
+<ab type='dharani'>唵多黎覩多黎覩黎莎賀<lb
  n="0541b27" ed="T"/><lb
  n="0541b28" ed="T"/></ab>
-<ab type="prose">如是四菩薩四種大明。總攝祕密身語心業。<lb
+<ab type='prose'>如是四菩薩四種大明。總攝祕密身語心業。<lb
  n="0541b29" ed="T"/>諸供養中是真供養。金剛三密普護一切。於<pb n="0541c" id="T18.0888.0541c" ed="T"/><lb
  n="0541c01" ed="T"/>一切處常所出生。一切所作無不成就。此相<lb
  n="0541c02" ed="T"/>應法自性清淨。諸修相應行者。當如實知如<lb
@@ -489,5 +489,5 @@
  n="0541c09" ed="T"/>復能圓滿解脫大智。四祕密法亦得成就。如<lb
  n="0541c10" ed="T"/>諸佛所說此名大智者。<lb
  n="0541c11" ed="T"/>
-</ab><ab type="juan" subtype="close">一切祕密最上名義儀軌卷下</ab></div>
+</ab><ab type='juan' subtype='close'>一切祕密最上名義儀軌卷下</ab></div>
 </body></text></TEI>

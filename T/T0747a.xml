@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T17</biblScope>
                     <idno type="Taisho">T17n0747a</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0562b07" ed="T"/><lb
  n="0562b08" ed="T"/><lb
  n="0562b09" ed="T"/>
-<ab type="juan" subtype="open">佛說罪福報應經</ab><lb
+<ab type='juan' subtype='open'>佛說罪福報應經</ab><lb
  n="0562b10" ed="T"/><lb
  n="0562b11" ed="T"/><byline>宋于闐國三藏求那跋陀羅譯</byline><lb
- n="0562b12" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時佛在迦維羅衛國釋氏精舍，與<lb
+ n="0562b12" ed="T"/><div type='jing' level='1'><ab type='prose'>聞如是：一時佛在迦維羅衛國釋氏精舍，與<lb
  n="0562b13" ed="T"/>千二百五十比丘俱。九月本齋一時畢竟，從<lb
  n="0562b14" ed="T"/>神室出，往至舍衛國祇樹給孤獨園。二國之<lb
  n="0562b15" ed="T"/>間有一大樹，名尼拘類，高二十里，枝布方圓<lb
@@ -76,7 +76,7 @@
  n="0562c09" ed="T"/>不視經法不聽經故；為人奴婢，負債不償故；<lb
  n="0562c10" ed="T"/>為人卑賤，不禮三尊故；為人醜黑，遮佛前光<lb
  n="0562c11" ed="T"/>明故；生在裸國，輕衣搪揬佛精舍故；生馬蹄<lb
- n="0562c12" ed="T"/>人國，屐躡佛前故；生穿胸人國，布施作福悔<lb
+ n="0562c12" ed="T"/>人國，著屐躡佛前故；生穿胸人國，布施作福悔<lb
  n="0562c13" ed="T"/>惜心故；生麞鹿麋塵中，憙驚怖人故；生墮<lb
  n="0562c14" ed="T"/>龍中，憙調戲故；身生惡瘡治護難差，憙鞭榜<lb
  n="0562c15" ed="T"/>眾生故；人見歡喜，前生見人歡悅故；人見不<lb
@@ -110,8 +110,8 @@
  n="0563a14" ed="T"/>心者，從豺狼狸鷹中來。生世短命，胞胎傷墮<lb
  n="0563a15" ed="T"/>不全，生世未幾而早命終，墮在三塗，數千萬<lb
  n="0563a16" ed="T"/>劫無得竟時。慎之，慎之！」<lb
- n="0563a17" ed="T"/>佛言：「凡作功德皆應身，為燒香、福食及以轉<lb
- n="0563a18" ed="T"/>經，不得請人而不嚫願，如倩人食，豈得自飽<lb
+ n="0563a17" ed="T"/>佛言：「凡作功德皆應身為，燒香、福食及以轉<lb
+ n="0563a18" ed="T"/>經不得請人而不嚫願，如倩人食，豈得自飽<lb
  n="0563a19" ed="T"/>不復飢耶？燒香潔淨，逮薩云若攝一切想。然<lb
  n="0563a20" ed="T"/>燈聰明，得三達智無所罣礙。燒香齋食、讀經<lb
  n="0563a21" ed="T"/>達嚫以為常法，布施得福諸天扶將，萬惡皆<lb
@@ -124,13 +124,13 @@
  n="0563a28" ed="T"/>限。」佛言：「阿難！施一得萬倍，言不虛也。」佛時頌<lb
  n="0563a29" ed="T"/>曰：<pb n="0563b" ed="T" id="T17.0747a.0563b"/><lb
  n="0563b01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「賢者好布施，　　天人自扶將，　　<lb
  n="0563b02" ed="T"/>施一得萬倍，　　安樂壽命長。　　<lb
  n="0563b03" ed="T"/>今日施善人，　　其福不可量，　　<lb
  n="0563b04" ed="T"/>皆當得佛道，　　度脫於十方。」　　
 </ab><lb
- n="0563b05" ed="T"/><ab type="prose">佛語阿難：「世人無知生死，肉眼不知罪福。吾<lb
+ n="0563b05" ed="T"/><ab type='prose'>佛語阿難：「世人無知生死，肉眼不知罪福。吾<lb
  n="0563b06" ed="T"/>以道眼，覩無數劫來至于今日罪福報應，猶<lb
  n="0563b07" ed="T"/>如掌中觀寶瑠璃，內外明徹無狐疑也。」阿難<lb
  n="0563b08" ed="T"/>即前整衣服，作禮而白佛言：「演說此法，當<lb
@@ -142,5 +142,5 @@
  n="0563b14" ed="T"/>清信女六千人，悉履道跡。皆前為佛作禮而<lb
  n="0563b15" ed="T"/>去。</ab></div><lb
  n="0563b16" ed="T"/>
-<ab type="juan" subtype="close">佛說罪福報應經</ab>
+<ab type='juan' subtype='close'>佛說罪福報應經</ab>
 </body></text></TEI>

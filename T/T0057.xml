@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0057</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0851b24" ed="T"/><lb
  n="0851b25" ed="T"/><lb
- n="0851b26" ed="T"/><div type="jing" level="1"><lb
+ n="0851b26" ed="T"/><div type='jing' level='1'><lb
  n="0851b27" ed="T"/>
-<ab type="juan" subtype="open">佛說漏分布經</ab><lb
+<ab type='juan' subtype='open'>佛說漏分布經</ab><lb
  n="0851b28" ed="T"/><lb
  n="0851b29" ed="T"/><byline>後漢三藏安世高譯</byline><pb n="0851c" ed="T" id="T01.0057.0851c"/><lb
- n="0851c01" ed="T"/><ab type="prose">聞如是：一時，佛在拘留國行治處名為法。時，<lb
+ n="0851c01" ed="T"/><ab type='prose'>聞如是：一時，佛在拘留國行治處名為法。時，<lb
  n="0851c02" ed="T"/>拘留國人會在。時，佛告：「諸比丘！」比丘應：「唯然。」<lb
  n="0851c03" ed="T"/>比丘從佛聞。佛便告如是：「比丘聽。當為說<lb
  n="0851c04" ed="T"/>法，上起亦利、中起亦利、遍竟亦利，有利有方<lb
@@ -237,5 +237,5 @@
  n="0853c14" ed="T"/>道令苦盡畢。」佛說如是。比丘受著意，佛所說<lb
  n="0853c15" ed="T"/>樂行，從行致清淨無為。<lb
  n="0853c16" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說漏分布經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說漏分布經</ab></div>
 </body></text></TEI>

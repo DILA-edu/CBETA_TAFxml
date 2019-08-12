@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T25</biblScope>
                     <idno type="Taisho">T25n1510b</idno>
                 </bibl>
@@ -42,11 +42,11 @@
         <body><pb n="0766b" ed="T" id="T25.1510b.0766b"/><lb
  n="0766b01" ed="T"/><lb
  n="0766b02" ed="T"/>
-<ab type="juan" subtype="open">金剛般若波羅蜜經論卷上</ab><lb
+<ab type='juan' subtype='open'>金剛般若波羅蜜經論卷上</ab><lb
  n="0766b04" ed="T"/><lb
  n="0766b05" ed="T"/><byline>無著菩薩造</byline><lb
  n="0766b06" ed="T"/><byline>隋南天竺三藏法師達摩岌多譯</byline><lb
- n="0766b07" ed="T"/><div type="jing" level="1"><ab type="verse">
+ n="0766b07" ed="T"/><div type='jing' level='1'><ab type='verse'>
 出生佛法無與等，　　顯了法界最第一；　　<lb
  n="0766b08" ed="T"/>金剛難壞句義聚，　　一切聖人不能入。　　<lb
  n="0766b09" ed="T"/>此小金剛波羅蜜，　　以如是名顯勢力；　　<lb
@@ -54,7 +54,7 @@
  n="0766b11" ed="T"/>歸命彼類及此輩，　　皆以正心而頂禮；　　<lb
  n="0766b12" ed="T"/>我應精勤立彼義，　　解釋相續為自他。　　
 </ab><lb
- n="0766b13" ed="T"/><ab type="prose">論曰：成立七種義句已，此般若波羅蜜即<lb
+ n="0766b13" ed="T"/><ab type='prose'>論曰：成立七種義句已，此般若波羅蜜即<lb
  n="0766b14" ed="T"/>得成立。七義句者，一種性不斷，二發起行<lb
  n="0766b15" ed="T"/>相，三行所住處，四對治，五不失，六地，七<lb
  n="0766b16" ed="T"/>立名。此等七義，於般若波羅蜜經中成立，<lb
@@ -490,22 +490,22 @@
  n="0771b11" ed="T"/>言受持。為他說者，解釋句味故。無量者，過<lb
  n="0771b12" ed="T"/>譬喻故。阿僧祇者，顯多故。已說欲住處竟。<lb
  n="0771b13" ed="T"/>
-</ab><ab type="juan" subtype="close">金剛般若波羅蜜經論卷上</ab><lb
+</ab><ab type='juan' subtype='close'>金剛般若波羅蜜經論卷上</ab><lb
  n="0771b14" ed="T"/><lb
  n="0771b15" ed="T"/><lb
  n="0771b16" ed="T"/>
-<ab type="juan" subtype="open">金剛般若波羅蜜經論卷中</ab><lb
+<ab type='juan' subtype='open'>金剛般若波羅蜜經論卷中</ab><lb
  n="0771b17" ed="T"/><lb
  n="0771b18" ed="T"/><byline>無著菩薩造</byline><lb
  n="0771b19" ed="T"/><byline>隋南天竺三藏法師達摩岌多譯</byline><lb
- n="0771b20" ed="T"/><ab type="prose">經曰：「須菩提！於意云何？須陀洹能作是念<lb
+ n="0771b20" ed="T"/><ab type='prose'>經曰：「須菩提！於意云何？須陀洹能作是念<lb
  n="0771b21" ed="T"/>『我得須陀洹果』不？」須菩提言：「不也。世尊！何<lb
  n="0771b22" ed="T"/>以故？實無有法名須陀洹，不入色、聲、香、味、<lb
  n="0771b23" ed="T"/>觸、法，是名須陀洹。」佛言：「須菩提！於意云何？<lb
  n="0771b24" ed="T"/>斯陀含能作是念『我得斯陀含果』不？」須菩<lb
  n="0771b25" ed="T"/>提言：「不也。世尊！何以故？實無有法名斯陀<lb
  n="0771b26" ed="T"/>含，是名斯陀含。」「須菩提！於意云何？阿那含<lb
- n="0771b27" ed="T"/>能作是念『我得阿那含果？』不？」須菩提言：「不<lb
+ n="0771b27" ed="T"/>能作是念『我得阿那含果』不？」須菩提言：「不<lb
  n="0771b28" ed="T"/>也。世尊！何以故？實無有法名阿那含，是名<lb
  n="0771b29" ed="T"/>阿那含。」「須菩提！於意云何？阿羅漢能作是<pb n="0771c" ed="T" id="T25.1510b.0771c"/><lb
  n="0771c01" ed="T"/>念『我得阿羅漢果』不？」須菩提言：「不也。世尊！<lb
@@ -938,15 +938,15 @@
  n="0776b22" ed="T"/>菩提！所言一切法、一切法者，即非一切法，<lb
  n="0776b23" ed="T"/>是名一切法」故。<lb
  n="0776b24" ed="T"/>
-</ab><ab type="juan" subtype="close">金剛般若波羅蜜經論卷中</ab><lb
+</ab><ab type='juan' subtype='close'>金剛般若波羅蜜經論卷中</ab><lb
  n="0776b25" ed="T"/><pb n="0776c" ed="T" id="T25.1510b.0776c"/><lb
  n="0776c01" ed="T"/><lb
  n="0776c02" ed="T"/>
-<ab type="juan" subtype="open">金剛般若波羅蜜經論卷下</ab><lb
+<ab type='juan' subtype='open'>金剛般若波羅蜜經論卷下</ab><lb
  n="0776c03" ed="T"/><lb
  n="0776c04" ed="T"/><byline>無著菩薩造</byline><lb
  n="0776c05" ed="T"/><byline>隋南天竺三藏法師達摩岌多譯</byline><lb
- n="0776c06" ed="T"/><ab type="prose">經曰：「須菩提！譬如有人，其身妙大。」須菩提<lb
+ n="0776c06" ed="T"/><ab type='prose'>經曰：「須菩提！譬如有人，其身妙大。」須菩提<lb
  n="0776c07" ed="T"/>言：「世尊！如來說人身妙大，則非大身，是故<lb
  n="0776c08" ed="T"/>如來說名大身。」佛言：「須菩提！菩薩亦如是。<lb
  n="0776c09" ed="T"/>若作是言：『我當滅度無量眾生。』則非菩薩。」<lb
@@ -1150,13 +1150,13 @@
  n="0779a04" ed="T"/>是故，非以相成就得見如來。」爾時，世尊而<lb
  n="0779a05" ed="T"/>說偈言：<lb
  n="0779a06" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「若以色見我，　　以音聲求我，　　<lb
  n="0779a07" ed="T"/>是人行邪道，　　不能見如來。　　<lb
  n="0779a08" ed="T"/>彼如來妙體，　　即法身諸佛，　　<lb
  n="0779a09" ed="T"/>法體不可見，　　彼識不能知。　　
 </ab><lb
- n="0779a10" ed="T"/><ab type="prose">「須菩提！於意云何？如來可以相成就得阿<lb
+ n="0779a10" ed="T"/><ab type='prose'>「須菩提！於意云何？如來可以相成就得阿<lb
  n="0779a11" ed="T"/>耨多羅三藐三菩提耶？須菩提！莫作是念：<lb
  n="0779a12" ed="T"/>『如來以相成就得阿耨多羅三藐三菩提。』」<lb
  n="0779a13" ed="T"/>論曰：此下第四於彼心具足中，為攝取法<lb
@@ -1301,11 +1301,11 @@
  n="0780c07" ed="T"/>德勝彼無量阿僧祇。云何為人演說，而不<lb
  n="0780c08" ed="T"/>名說，是名為說？<lb
  n="0780c09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「一切有為法，　　如星、翳、燈、幻、　　<lb
  n="0780c10" ed="T"/>露、泡、夢、電、雲，　　應作如是觀。」　　
 </ab><lb
- n="0780c11" ed="T"/><ab type="prose">論曰：此下第三為不染行住。於中二種：一<lb
+ n="0780c11" ed="T"/><ab type='prose'>論曰：此下第三為不染行住。於中二種：一<lb
  n="0780c12" ed="T"/>為說法不染，二為流轉不染。為說法不染<lb
  n="0780c13" ed="T"/>故，經言「須菩提！若有菩薩摩訶薩，以滿無<lb
  n="0780c14" ed="T"/>量阿僧祇世界七寶」如是等。此何所顯示？<lb
@@ -1344,12 +1344,12 @@
  n="0781a18" ed="T"/>大歡喜，信受奉行。<lb
  n="0781a19" ed="T"/>論曰偈言：<lb
  n="0781a20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若聞如是義，　　於大乘無覺，　　<lb
  n="0781a21" ed="T"/>我念過於石，　　究竟無因故。　　<lb
  n="0781a22" ed="T"/>下人於深法，　　不能覺及信，　　<lb
  n="0781a23" ed="T"/>世人多如此，　　是故法荒廢。　　
 </ab></div><lb
  n="0781a24" ed="T"/>
-<ab type="juan" subtype="close">金剛般若波羅蜜經論卷下</ab>
+<ab type='juan' subtype='close'>金剛般若波羅蜜經論卷下</ab>
 </body></text></TEI>

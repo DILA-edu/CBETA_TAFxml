@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T17</biblScope>
                     <idno type="Taisho">T17n0731</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0528b12" ed="T"/><lb
  n="0528b13" ed="T"/><lb
  n="0528b14" ed="T"/>
-<ab type="juan" subtype="open">佛說十八泥犁經</ab><lb
+<ab type='juan' subtype='open'>佛說十八泥犁經</ab><lb
  n="0528b15" ed="T"/><lb
  n="0528b16" ed="T"/><byline>後漢安息國三藏安世高譯</byline><lb
- n="0528b17" ed="T"/><div type="jing" level="1"><ab type="prose">佛言：「人生見日少，不見日多，善惡之變，不相<lb
+ n="0528b17" ed="T"/><div type='jing' level='1'><ab type='prose'>佛言：「人生見日少，不見日多，善惡之變，不相<lb
  n="0528b18" ed="T"/>類。侮父母，犯天子，死入泥犁，中有深淺，火<lb
  n="0528b19" ed="T"/>泥犁有八，寒泥犁有十。入地半以下火泥犁，<lb
  n="0528b20" ed="T"/>天地際者寒泥犁。有前惡後為善，不入泥犁。<lb
@@ -65,7 +65,7 @@
  n="0528c03" ed="T"/>此犁中，相見即欲鬪，乎中無兵而自有兵，相<lb
  n="0528c04" ed="T"/>傷殺無歲數又不死。有人來語起不死，以風<lb
  n="0528c05" ed="T"/>來吹即愈。如是無歲數，已復持熱鐵劍相<lb
- n="0528c06" ed="T"/>傷殺，已復有鐵椎相殺，以手拳極利相傷，<lb
+ n="0528c06" ed="T"/>傷殺，已復用鐵椎相殺，以手拳極利相傷，<lb
  n="0528c07" ed="T"/>久久無歲數，是其類。其人長且大，壽人間<lb
  n="0528c08" ed="T"/>三千七百五十歲為一日，三十日為一月，十<lb
  n="0528c09" ed="T"/>二月為一歲，萬歲為人間百三十五億歲。<lb
@@ -195,5 +195,5 @@
  n="0530a17" ed="T"/>鬼，是安得鬼食乎？」<lb
  n="0530a18" ed="T"/>佛言：「人為善上天，後復生為人形。」</ab></div><lb
  n="0530a19" ed="T"/>
-<ab type="juan" subtype="close">佛說十八泥犁經</ab>
+<ab type='juan' subtype='close'>佛說十八泥犁經</ab>
 </body></text></TEI>

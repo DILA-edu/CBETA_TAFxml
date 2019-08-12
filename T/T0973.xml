@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n0973</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0368b" id="T19.0973.0368b" ed="T"/><lb
  n="0368b01" ed="T"/><lb
  n="0368b02" ed="T"/><lb
  n="0368b03" ed="T"/>
-<ab type="juan" subtype="open">尊勝佛頂脩瑜伽法軌儀卷上</ab><lb
+<ab type='juan' subtype='open'>尊勝佛頂脩瑜伽法軌儀卷上</ab><lb
  n="0368b04" ed="T"/><lb
  n="0368b05" ed="T"/><byline>三藏善無畏</byline><lb
- n="0368b06" ed="T"/><div type="pin" level="2"><head>尊勝真言序品第一</head><lb
- n="0368b07" ed="T"/><ab type="verse">
+ n="0368b06" ed="T"/><div type='pin' level='2'><head>尊勝真言序品第一</head><lb
+ n="0368b07" ed="T"/><ab type='verse'>
 稽首一切薄伽梵　　及以東方金剛部　　<lb
  n="0368b08" ed="T"/>雄猛阿閦金剛藏　　寶生如來虛空寶　　<lb
  n="0368b09" ed="T"/>達磨句攞無量壽　　觀自在王蓮華眼　　<lb
@@ -64,7 +64,7 @@
  n="0368b19" ed="T"/>是故我今禮瑜伽　　瑜伽即是大日尊　　<lb
  n="0368b20" ed="T"/>是故我今修瑜伽　　為利法界諸含識　　
 </ab><lb
- n="0368b21" ed="T"/><ab type="prose">我今略說尊勝陀羅尼法。即是除一切障滅<lb
+ n="0368b21" ed="T"/><ab type='prose'>我今略說尊勝陀羅尼法。即是除一切障滅<lb
  n="0368b22" ed="T"/>一切地獄傍生等身。故號尊勝佛頂之義。是<lb
  n="0368b23" ed="T"/>故如來為善住天子。說除七遍畜生之身。即<lb
  n="0368b24" ed="T"/>此修瑜伽者不同事法。若於一念頃證無<lb
@@ -90,33 +90,33 @@
  n="0368c15" ed="T"/>淡辛等。各依本法相應作之。護摩等法各有<lb
  n="0368c16" ed="T"/>殊異所有焚燒柴木等。亦須臨時看取本法<lb
  n="0368c17" ed="T"/>相應作之。</ab></div><lb
- n="0368c18" ed="T"/><div type="pin" level="2"><head>尊勝真言持誦法則品第二</head><lb
- n="0368c19" ed="T"/><ab type="prose">復次若欲作法念誦時。先須入淨法界三摩<lb
+ n="0368c18" ed="T"/><div type='pin' level='2'><head>尊勝真言持誦法則品第二</head><lb
+ n="0368c19" ed="T"/><ab type='prose'>復次若欲作法念誦時。先須入淨法界三摩<lb
  n="0368c20" ed="T"/>地。於頂上想有􄙈藍字。三角智火形。色<pb n="0369a" id="T19.0973.0369a" ed="T"/><lb
  n="0369a01" ed="T"/>如日初出時。遍身為智火焚燒四大五蘊。唯<lb
  n="0369a02" ed="T"/>有空寂其法界真言曰。<lb
  n="0369a03" ed="T"/></ab>
-<ab type="dharani">娜摩三曼多勃馱喃㘕􄙈<lb
+<ab type='dharani'>娜摩三曼多勃馱喃㘕􄙈<lb
  n="0369a04" ed="T"/></ab>
-<ab type="prose">心念口誦想頂及遍體為三角智火形<lb
+<ab type='prose'>心念口誦想頂及遍體為三角智火形<lb
  n="0369a05" ed="T"/>如上圖。次即入五輪三摩地。便入金剛輪三<lb
  n="0369a06" ed="T"/>摩地。觀己身臍已下方形紫金色。為金剛<lb
  n="0369a07" ed="T"/>輪。便誦真言曰。<lb
  n="0369a08" ed="T"/></ab>
-<ab type="dharani">娜麼三曼多勃馱喃阿􆿅<lb
+<ab type='dharani'>娜麼三曼多勃馱喃阿􆿅<lb
  n="0369a09" ed="T"/></ab>
-<ab type="prose">每字想時。口誦並歸命。心想本體字。其形<lb
+<ab type='prose'>每字想時。口誦並歸命。心想本體字。其形<lb
  n="0369a10" ed="T"/>如圖。阿字金剛輪黃色。次觀臍中􄙖嚩字。<lb
  n="0369a11" ed="T"/>為大悲水輪色如商佉或如乳色。形如滿月。<lb
  n="0369a12" ed="T"/>如圖在下。鑁字水輪真言曰。<lb
  n="0369a13" ed="T"/></ab>
-<ab type="dharani">娜摩三曼多勃馱南鑁􄙠<lb
+<ab type='dharani'>娜摩三曼多勃馱南鑁􄙠<lb
  n="0369a14" ed="T"/></ab>
-<ab type="prose">次說火輪真言曰。<lb
+<ab type='prose'>次說火輪真言曰。<lb
  n="0369a15" ed="T"/></ab>
-<ab type="dharani">那摩三曼多勃馱南㘕􄙈<lb
+<ab type='dharani'>那摩三曼多勃馱南㘕􄙈<lb
  n="0369a16" ed="T"/></ab>
-<ab type="prose">當心上觀三角火輪。色如日初出時。光焰猛<lb
+<ab type='prose'>當心上觀三角火輪。色如日初出時。光焰猛<lb
  n="0369a17" ed="T"/>利如劫火形。其形如三角曼荼羅。<lb
  n="0369a18" ed="T"/>次想􄚨訶字。大空點形如仰月黑色。名􄚲<lb
  n="0369a19" ed="T"/>含字。即是天風輪。安置於眉上靉靆如劫<lb
@@ -126,17 +126,17 @@
  n="0369a23" ed="T"/>火風空。即以普通印加持五支。即成真實智。<lb
  n="0369a24" ed="T"/>即說普通真言曰。<lb
  n="0369a25" ed="T"/></ab>
-<ab type="dharani">唵薩婆他欠嗢那蘗諦薩叵囉醯䐽<lb
+<ab type='dharani'>唵薩婆他欠嗢那蘗諦薩叵囉醯䐽<lb
  n="0369a26" ed="T"/>伽伽那劍莎嚩賀<lb
  n="0369a27" ed="T"/></ab>
-<ab type="prose">次以定慧二手叉十輪。頂戴及以加五支。<lb
+<ab type='prose'>次以定慧二手叉十輪。頂戴及以加五支。<lb
  n="0369a28" ed="T"/>即成金剛不壞身。即入三昧耶故。即同一切<lb
  n="0369a29" ed="T"/>諸佛菩薩三昧耶身。作三昧耶身施作佛<pb n="0369b" id="T19.0973.0369b" ed="T"/><lb
  n="0369b01" ed="T"/>事。先入三昧耶。真言曰。<lb
  n="0369b02" ed="T"/></ab>
-<ab type="dharani">唵嚩日囒惹里三麼野<lb
+<ab type='dharani'>唵嚩日囒惹里三麼野<lb
  n="0369b03" ed="T"/></ab>
-<ab type="prose">每加印處。並誦真言而加持之。其手印相智<lb
+<ab type='prose'>每加印處。並誦真言而加持之。其手印相智<lb
  n="0369b04" ed="T"/>定相叉。齊輪合掌以智押禪。此名一切佛心<lb
  n="0369b05" ed="T"/>三昧耶印。因作此印生一切印。是故先作<lb
  n="0369b06" ed="T"/>此印從三昧耶起。即同從三昧加持五處。<lb
@@ -154,18 +154,18 @@
  n="0369b18" ed="T"/>大立無為五大。故先觀曼荼羅地相時。先<lb
  n="0369b19" ed="T"/>從空起上觀風等如左。<lb
  n="0369b20" ed="T"/></ab>
-<ab type="dharani">􆿓􄙠􄙈􄚲􄑖<lb
+<ab type='dharani'>􆿓􄙠􄙈􄚲􄑖<lb
  n="0369b21" ed="T"/></ab>
-<ab type="prose"><lb
+<ab type='prose'><lb
  n="0369b22" ed="T"/><lb
  n="0369b23" ed="T"/>以淨法界心。先燒曼荼羅地中穢惡觸等。<lb
  n="0369b24" ed="T"/>然後依次第安立五大輪。即以結界護身辟<lb
  n="0369b25" ed="T"/>除。光顯淨除三業堅固菩提心等。是故復入<lb
  n="0369b26" ed="T"/>金剛三昧耶真言及印。真言曰。<lb
  n="0369b27" ed="T"/></ab>
-<ab type="dharani">唵嚩日囉滿馱怛囉吒<lb
+<ab type='dharani'>唵嚩日囉滿馱怛囉吒<lb
  n="0369b28" ed="T"/></ab>
-<ab type="prose">其手印相。作前金剛掌印。便合作拳置繫<lb
+<ab type='prose'>其手印相。作前金剛掌印。便合作拳置繫<lb
  n="0369b29" ed="T"/>心上。當繫心時散其合拳雙下三繫。此<pb n="0369c" id="T19.0973.0369c" ed="T"/><lb
  n="0369c01" ed="T"/>名結金剛界印。三繫心已。由是真言及印力<lb
  n="0369c02" ed="T"/>故。能淨三業堅菩提心。<lb
@@ -177,31 +177,31 @@
  n="0369c08" ed="T"/>真言及手印而加持。各能成辦諸事等。<lb
  n="0369c09" ed="T"/>次誦降三世真言曰。<lb
  n="0369c10" ed="T"/></ab>
-<ab type="dharani">唵寧三婆嚩日囉𤙖<lb
+<ab type='dharani'>唵寧三婆嚩日囉𤙖<lb
  n="0369c11" ed="T"/></ab>
-<ab type="prose">此名降三世尊言及手印。名成辦諸事者。<lb
+<ab type='prose'>此名降三世尊言及手印。名成辦諸事者。<lb
  n="0369c12" ed="T"/>其印相智定各為拳。竪其風幢。屈二大空輪<lb
  n="0369c13" ed="T"/>入掌內。以地水火三輪押之即成。其印以定<lb
  n="0369c14" ed="T"/>手印置在心上。以智印用觸諸物。及結地界<lb
  n="0369c15" ed="T"/>四方乃至上下等界。右轉三遍上下即成結<lb
  n="0369c16" ed="T"/>界。</ab></div><lb
- n="0369c17" ed="T"/><div type="pin" level="2"><head>尊勝佛頂真言召請本尊等品第三</head><pb n="0370a" id="T19.0973.0370a" ed="T"/><lb
- n="0370a01" ed="T"/><ab type="prose">復次應警覺諸佛及八大佛頂輪王或本<lb
+ n="0369c17" ed="T"/><div type='pin' level='2'><head>尊勝佛頂真言召請本尊等品第三</head><pb n="0370a" id="T19.0973.0370a" ed="T"/><lb
+ n="0370a01" ed="T"/><ab type='prose'>復次應警覺諸佛及八大佛頂輪王或本<lb
  n="0370a02" ed="T"/>部尊等。從三昧耶起觀瞻。愍念真言者故。降<lb
  n="0370a03" ed="T"/>赴道場。所謂發生真言曰。<lb
  n="0370a04" ed="T"/></ab>
-<ab type="dharani">唵嚩日囉底瑟吒<lb
+<ab type='dharani'>唵嚩日囉底瑟吒<lb
  n="0370a05" ed="T"/></ab>
-<ab type="prose">其手印相。智定二手。地輪鉤鎖相連。其大<lb
+<ab type='prose'>其手印相。智定二手。地輪鉤鎖相連。其大<lb
  n="0370a06" ed="T"/>空令入掌中。以水輪及以火輪雙押空輪。風<lb
  n="0370a07" ed="T"/>幢向前相著。以掌向上便誦真言。以印從下<lb
  n="0370a08" ed="T"/>發起諸尊。是名發生之印。<lb
  n="0370a09" ed="T"/>次請本尊等。真言手印發請真言曰。<lb
  n="0370a10" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄙖嚩􄦽日囉二合􄙺三􄗯芒􄒶惹􄓁惹重急呼<lb
+<ab type='dharani'>􇩂唵􄙖嚩􄦽日囉二合􄙺三􄗯芒􄒶惹􄓁惹重急呼<lb
  n="0370a11" ed="T"/><lb
  n="0370a12" ed="T"/></ab>
-<ab type="prose">其手印相以智定相叉作金剛拳。不解此拳。<lb
+<ab type='prose'>其手印相以智定相叉作金剛拳。不解此拳。<lb
  n="0370a13" ed="T"/>以智風輪撥智大空。定手亦然。如是三彈即<lb
  n="0370a14" ed="T"/>成發請諸尊之法。心想本尊所在之處建竪<lb
  n="0370a15" ed="T"/>樓閣。想其樓閣內有寶蓮華。上觀大圓明。<lb
@@ -228,62 +228,62 @@
  n="0370b07" ed="T"/>曼荼羅品具明。<lb
  n="0370b08" ed="T"/>迎請真言曰。<lb
  n="0370b09" ed="T"/></ab>
-<ab type="dharani">唵嚩日囒俱捨惹􄓁<lb
+<ab type='dharani'>唵嚩日囒俱捨惹􄓁<lb
  n="0370b10" ed="T"/></ab>
-<ab type="prose">其手印相。用降三世印。以二風輪舉作鉤<lb
+<ab type='prose'>其手印相。用降三世印。以二風輪舉作鉤<lb
  n="0370b11" ed="T"/>形。而動其鉤便成奉請。<lb
  n="0370b12" ed="T"/>既蒙來赴。次應請入念誦道場請入真言曰。<lb
  n="0370b13" ed="T"/></ab>
-<ab type="dharani">唵嚩日囉跛捨吽􆿁<lb
+<ab type='dharani'>唵嚩日囉跛捨吽􆿁<lb
  n="0370b14" ed="T"/></ab>
-<ab type="prose">其手印相。以金剛拳竪二地輪。二空輪交結<lb
+<ab type='prose'>其手印相。以金剛拳竪二地輪。二空輪交結<lb
  n="0370b15" ed="T"/>入掌。右押左。既奉請入作三昧耶。依請而<lb
  n="0370b16" ed="T"/>住。請住真言曰。<lb
  n="0370b17" ed="T"/></ab>
-<ab type="dharani">唵嚩日囉建吒阿􆿔<lb
+<ab type='dharani'>唵嚩日囉建吒阿􆿔<lb
  n="0370b18" ed="T"/></ab>
-<ab type="prose">其手印相。作金剛拳竪二地輪。二空輪交<lb
+<ab type='prose'>其手印相。作金剛拳竪二地輪。二空輪交<lb
  n="0370b19" ed="T"/>結入掌右押左。請召乃至歡喜。令其堅固<lb
  n="0370b20" ed="T"/>故。而誦真言。堅固真言曰。<lb
  n="0370b21" ed="T"/></ab>
-<ab type="dharani">唵薩囉嚩怛他蘗多毘三菩<lb
+<ab type='dharani'>唵薩囉嚩怛他蘗多毘三菩<lb
  n="0370b22" ed="T"/>地捺㗚荼嚩日囉底瑟姹<lb
  n="0370b23" ed="T"/></ab>
-<ab type="prose">其手印相。智定相拍便成堅固。<lb
+<ab type='prose'>其手印相。智定相拍便成堅固。<lb
  n="0370b24" ed="T"/>次應灌沐本尊及己身。灌頂真言曰。<lb
  n="0370b25" ed="T"/></ab>
-<ab type="dharani">唵嚩日囉諾迦咤<lb
+<ab type='dharani'>唵嚩日囉諾迦咤<lb
  n="0370b26" ed="T"/></ab>
-<ab type="prose">其手印相。以其智手水輪空輪相捻。餘輪<lb
+<ab type='prose'>其手印相。以其智手水輪空輪相捻。餘輪<lb
  n="0370b27" ed="T"/>並竪按誦水器。想沐浴本尊。灑印己身頂<lb
  n="0370b28" ed="T"/>上。奉獻閼伽。想灌尊頂。亦用此印拜誦真<lb
  n="0370b29" ed="T"/>言七遍。</ab></div><pb n="0370c" id="T19.0973.0370c" ed="T"/><lb
- n="0370c01" ed="T"/><div type="pin" level="2"><head>尊勝佛頂真言修瑜伽奉獻香華品第四</head><lb
- n="0370c02" ed="T"/><ab type="prose">次獻香華飲食燈火等。以本真言誦持而用<lb
+ n="0370c01" ed="T"/><div type='pin' level='2'><head>尊勝佛頂真言修瑜伽奉獻香華品第四</head><lb
+ n="0370c02" ed="T"/><ab type='prose'>次獻香華飲食燈火等。以本真言誦持而用<lb
  n="0370c03" ed="T"/>奉獻。先奉燒香真言曰。<lb
  n="0370c04" ed="T"/></ab>
-<ab type="dharani">唵嚩日羅度弊<lb
+<ab type='dharani'>唵嚩日羅度弊<lb
  n="0370c05" ed="T"/></ab>
-<ab type="prose">其手印相。作金剛拳按其香上。持誦真言<lb
+<ab type='prose'>其手印相。作金剛拳按其香上。持誦真言<lb
  n="0370c06" ed="T"/>經一七遍。即成真實寶香遍滿十方虛空法<lb
  n="0370c07" ed="T"/>界。<lb
  n="0370c08" ed="T"/>次奉獻華真言曰。<lb
  n="0370c09" ed="T"/></ab>
-<ab type="dharani">唵嚩日囉扶瑟弊<lb
+<ab type='dharani'>唵嚩日囉扶瑟弊<lb
  n="0370c10" ed="T"/></ab>
-<ab type="prose">其手印相。合金剛掌用印加持。誦真言經<lb
+<ab type='prose'>其手印相。合金剛掌用印加持。誦真言經<lb
  n="0370c11" ed="T"/>一七遍。即成真實寶華等。<lb
  n="0370c12" ed="T"/>次奉獻寶燈真言印。真言曰。<lb
  n="0370c13" ed="T"/></ab>
-<ab type="dharani">唵嚩日囉地幣<lb
+<ab type='dharani'>唵嚩日囉地幣<lb
  n="0370c14" ed="T"/></ab>
-<ab type="prose">其手印相。作金剛拳。竪二大空置於心上。<lb
+<ab type='prose'>其手印相。作金剛拳。竪二大空置於心上。<lb
  n="0370c15" ed="T"/>持誦真言經七遍。便成寶燈遍虛空界。<lb
  n="0370c16" ed="T"/>次奉塗香真言曰。<lb
  n="0370c17" ed="T"/></ab>
-<ab type="dharani">唵嚩日囉誐度<pb n="0371a" id="T19.0973.0371a" ed="T"/><lb
+<ab type='dharani'>唵嚩日囉誐度<pb n="0371a" id="T19.0973.0371a" ed="T"/><lb
  n="0371a01" ed="T"/></ab>
-<ab type="prose">其手印相。智定覆掌散舒其輪。以智大空押<lb
+<ab type='prose'>其手印相。智定覆掌散舒其輪。以智大空押<lb
  n="0371a02" ed="T"/>定空輪。持誦真言經一七遍。<lb
  n="0371a03" ed="T"/>次當歸依三寶出罪懺悔隨喜功德勸請功<lb
  n="0371a04" ed="T"/>德。常住發菩提心讚歎佛德發勝上願。其歸<lb
@@ -300,9 +300,9 @@
  n="0371a15" ed="T"/>當如是發菩提心。以真言加持。令菩提心堅<lb
  n="0371a16" ed="T"/>固不退。真言曰。<lb
  n="0371a17" ed="T"/></ab>
-<ab type="dharani">唵菩提質多牟怛跛陀夜弭<lb
+<ab type='dharani'>唵菩提質多牟怛跛陀夜弭<lb
  n="0371a18" ed="T"/></ab>
-<ab type="prose">其手印相。合金剛掌發菩提心。持誦真言<lb
+<ab type='prose'>其手印相。合金剛掌發菩提心。持誦真言<lb
  n="0371a19" ed="T"/>經一七遍。隨喜功德者。三世如來及諸菩薩。<lb
  n="0371a20" ed="T"/>為眾生故備無量功德。所有功德我當隨喜。<lb
  n="0371a21" ed="T"/>勸請常住者。唯願諸佛久住於世。依瑜伽理<lb
@@ -322,50 +322,50 @@
  n="0371b06" ed="T"/>運心供養。誦持真言及作手印。如上所想悉<lb
  n="0371b07" ed="T"/>皆成就。運心真言曰。<lb
  n="0371b08" ed="T"/></ab>
-<ab type="dharani">唵薩婆他欠嗢怛蘗帝薩叵<lb
+<ab type='dharani'>唵薩婆他欠嗢怛蘗帝薩叵<lb
  n="0371b09" ed="T"/>囉醯麼暗誐誐娜劍婆嚩<lb
  n="0371b10" ed="T"/>賀<lb
  n="0371b11" ed="T"/></ab>
-<ab type="prose">誦真言七遍。即成普通供養。<lb
+<ab type='prose'>誦真言七遍。即成普通供養。<lb
  n="0371b12" ed="T"/>其手印相。作合金剛掌置於頂上。誦此真<lb
  n="0371b13" ed="T"/>言經七遍。即成就諸供養具。次以真言<lb
  n="0371b14" ed="T"/>及印護身五處。真言曰。<lb
  n="0371b15" ed="T"/></ab>
-<ab type="dharani">唵質多鉢囉底吠能迦路弭<lb
+<ab type='dharani'>唵質多鉢囉底吠能迦路弭<lb
  n="0371b16" ed="T"/></ab>
-<ab type="prose">誦此真言令住一切如來具足三昧耶。能辦<lb
+<ab type='prose'>誦此真言令住一切如來具足三昧耶。能辦<lb
  n="0371b17" ed="T"/>一切諸佛事業。速得成就。</ab></div><lb
- n="0371b18" ed="T"/><div type="pin" level="2"><head>尊勝真言修瑜伽五智品第五</head><lb
- n="0371b19" ed="T"/><ab type="prose">復次修瑜伽瑜祇者。自住妙菩提心故。速入<lb
+ n="0371b18" ed="T"/><div type='pin' level='2'><head>尊勝真言修瑜伽五智品第五</head><lb
+ n="0371b19" ed="T"/><ab type='prose'>復次修瑜伽瑜祇者。自住妙菩提心故。速入<lb
  n="0371b20" ed="T"/>觀菩提心智。觀菩提心真言曰。<lb
  n="0371b21" ed="T"/></ab>
-<ab type="dharani">唵菩地質多牟怛簸那夜弭<lb
+<ab type='dharani'>唵菩地質多牟怛簸那夜弭<lb
  n="0371b22" ed="T"/></ab>
-<ab type="prose">此名發菩提心真言。亦名大圓鏡智。速令發<lb
+<ab type='prose'>此名發菩提心真言。亦名大圓鏡智。速令發<lb
  n="0371b23" ed="T"/>菩提心。初發心時便成正覺。即是法身之<lb
  n="0371b24" ed="T"/>義。<lb
  n="0371b25" ed="T"/>次說平等性智真言曰。<lb
  n="0371b26" ed="T"/></ab>
-<ab type="dharani">唵底瑟姹縛折囉<lb
+<ab type='dharani'>唵底瑟姹縛折囉<lb
  n="0371b27" ed="T"/></ab>
-<ab type="prose">誦此真言。速令心住不令散亂。即是應身之<lb
+<ab type='prose'>誦此真言。速令心住不令散亂。即是應身之<lb
  n="0371b28" ed="T"/>義。<lb
  n="0371b29" ed="T"/>次說成所作智真言曰。<pb n="0371c" id="T19.0973.0371c" ed="T"/><lb
  n="0371c01" ed="T"/></ab>
-<ab type="dharani">唵拽他薩囉嚩怛他蘗多娑<lb
+<ab type='dharani'>唵拽他薩囉嚩怛他蘗多娑<lb
  n="0371c02" ed="T"/>多他痕<lb
  n="0371c03" ed="T"/></ab>
-<ab type="prose">次說妙觀察智真言曰。<lb
+<ab type='prose'>次說妙觀察智真言曰。<lb
  n="0371c04" ed="T"/></ab>
-<ab type="dharani">唵娑嚩婆嚩戍度痕<lb
+<ab type='dharani'>唵娑嚩婆嚩戍度痕<lb
  n="0371c05" ed="T"/></ab>
-<ab type="prose">此名妙觀察智。是應身之義。亦是後得智<lb
+<ab type='prose'>此名妙觀察智。是應身之義。亦是後得智<lb
  n="0371c06" ed="T"/>法身之義。<lb
  n="0371c07" ed="T"/>次說方便究竟智真言曰。<lb
  n="0371c08" ed="T"/></ab>
-<ab type="dharani">唵薩囉嚩三謨痕<lb
+<ab type='dharani'>唵薩囉嚩三謨痕<lb
  n="0371c09" ed="T"/></ab>
-<ab type="prose">此名方便究竟智。化身之義。或進修門中<lb
+<ab type='prose'>此名方便究竟智。化身之義。或進修門中<lb
  n="0371c10" ed="T"/>以方便為究竟。即是後得智法身之義。此明<lb
  n="0371c11" ed="T"/>中胎五方安之。其五智真言。印相以智定二<lb
  n="0371c12" ed="T"/>羽外叉。合掌為拳。直竪二火輪。以二地輪<lb
@@ -380,9 +380,9 @@
  n="0372a04" ed="T"/>處。<lb
  n="0372a05" ed="T"/>其一切佛頂輪王心真言曰。<lb
  n="0372a06" ed="T"/></ab>
-<ab type="dharani">唵度嚕𤙖𤙖泮吒<lb
+<ab type='dharani'>唵度嚕𤙖𤙖泮吒<lb
  n="0372a07" ed="T"/></ab>
-<ab type="prose">其手印相。兩手內相叉為拳。竪直二中輪<lb
+<ab type='prose'>其手印相。兩手內相叉為拳。竪直二中輪<lb
  n="0372a08" ed="T"/>即是。此印真言通一切用辨事。召請發遣結<lb
  n="0372a09" ed="T"/>界護身一切處通用。復次說本尊真言曰<lb
  n="0372a10" ed="T"/>其印相者兩手外叉。合掌為拳曲鉤右<lb
@@ -393,8 +393,8 @@
  n="0372a15" ed="T"/>執數珠念誦。當一一與本法相應念誦。速得<lb
  n="0372a16" ed="T"/>成就所求之願。除不至心及以惡事。却被<lb
  n="0372a17" ed="T"/>自損。</ab></div><lb
- n="0372a18" ed="T"/><div type="pin" level="2"><head>尊勝佛頂修瑜伽本尊真言品第六</head><lb
- n="0372a19" ed="T"/><ab type="prose">復次我今略說修本尊真言法。每月十五日<lb
+ n="0372a18" ed="T"/><div type='pin' level='2'><head>尊勝佛頂修瑜伽本尊真言品第六</head><lb
+ n="0372a19" ed="T"/><ab type='prose'>復次我今略說修本尊真言法。每月十五日<lb
  n="0372a20" ed="T"/>自誦。或遣人誦滿一千八遍。能除一切災殃<lb
  n="0372a21" ed="T"/>長壽增福。或每日三時。觀本尊心上圓明<lb
  n="0372a22" ed="T"/>中。或觀己身為本尊。於心上圓明中。旋轉安<lb
@@ -403,7 +403,7 @@
  n="0372a25" ed="T"/>己身為尊勝佛頂法界曼荼羅體。其本尊尊<lb
  n="0372a26" ed="T"/>勝佛頂真言曰。<lb
  n="0372a27" ed="T"/></ab>
-<ab type="dharani">􄖩南􄗭謨􄗙薄􄑘伽􄙖婆􄕝􇟄諦􄩥怛㘑二合􄙒路􄛀迦吉耶反<lb
+<ab type='dharani'>􄖩南􄗭謨􄗙薄􄑘伽􄙖婆􄕝􇟄諦􄩥怛㘑二合􄙒路􄛀迦吉耶反<lb
  n="0372a28" ed="T"/><pb n="0372b" id="T19.0973.0372b" ed="T"/><lb
  n="0372b01" ed="T"/>􄪼鉢囉二合􄕙底丁以反􄙘微􄙤室􆵋瑟咤二合􄗱耶<lb
  n="0372b02" ed="T"/><lb
@@ -486,7 +486,7 @@
  n="0373a29" ed="T"/>􄚩訶􈇰母􄩼姪㘑二合􅁥莎嚩二合引􄚩訶引<lb
  n="0373a30" ed="T"/><pb n="0373b" id="T19.0973.0373b" ed="T"/><lb
  n="0373b01" ed="T"/></ab>
-<ab type="prose">。<lb
+<ab type='prose'>。<lb
  n="0373b03" ed="T"/>念誦疲乏隨意住。或觀己身心圓明中安本<lb
  n="0373b04" ed="T"/>尊。己身坐於圓明中。遍法界為一身心。<lb
  n="0373b05" ed="T"/>以真言輪至於乏極。即廣作發弘願。迴向施<lb
@@ -495,18 +495,18 @@
  n="0373b08" ed="T"/>誦真言所列勝願迴向皆得成就。列願迴<lb
  n="0373b09" ed="T"/>向真言曰。<lb
  n="0373b10" ed="T"/></ab>
-<ab type="dharani">唵薩囉嚩俱捨邏慕攞寧鉢囉<lb
+<ab type='dharani'>唵薩囉嚩俱捨邏慕攞寧鉢囉<lb
  n="0373b11" ed="T"/>寧度夜弭薩囉嚩俱捨邏慕攞<lb
  n="0373b12" ed="T"/>三摩多鉢　囉半遮達囉莽多<lb
  n="0373b13" ed="T"/>娑嚩婆嚩悉地夜囉誐曩多<lb
  n="0373b14" ed="T"/>曳<lb
  n="0373b15" ed="T"/></ab>
-<ab type="prose">持誦既畢。次應發遣本尊解金剛界次<lb
+<ab type='prose'>持誦既畢。次應發遣本尊解金剛界次<lb
  n="0373b16" ed="T"/>以真言解所結界。解界真言曰。<lb
  n="0373b17" ed="T"/></ab>
-<ab type="dharani">唵嚩折囉謨乞灑謀<lb
+<ab type='dharani'>唵嚩折囉謨乞灑謀<lb
  n="0373b18" ed="T"/></ab>
-<ab type="prose">其手印相。智定相叉。作金剛拳向頂上解。<lb
+<ab type='prose'>其手印相。智定相叉。作金剛拳向頂上解。<lb
  n="0373b19" ed="T"/>是名能解所結之界。亦能成發遣本尊等<lb
  n="0373b20" ed="T"/>事。從次已後具明曼荼羅畫像護摩等事。<lb
  n="0373b21" ed="T"/>第一法者。若人欲得壽命長遠不墮地獄餓<lb
@@ -677,8 +677,8 @@
  n="0375c02" ed="T"/>第三十四法者。若有大水汎漲損傷人者。即<lb
  n="0375c03" ed="T"/>誦真言加持水二十一遍。將投大水中更不<lb
  n="0375c04" ed="T"/>汎溢。</ab></div><lb
- n="0375c05" ed="T"/><div type="pin" level="2"><head>尊勝佛頂真言修瑜伽畫像品第七</head><lb
- n="0375c06" ed="T"/><ab type="prose">復次我今更說修瑜伽速證有相無相悉地。<lb
+ n="0375c05" ed="T"/><div type='pin' level='2'><head>尊勝佛頂真言修瑜伽畫像品第七</head><lb
+ n="0375c06" ed="T"/><ab type='prose'>復次我今更說修瑜伽速證有相無相悉地。<lb
  n="0375c07" ed="T"/>準例內外有異。外相法者。先須畫像。擇取<lb
  n="0375c08" ed="T"/>吉善好月時日。晨朝起畫。好月者。正二三<lb
  n="0375c09" ed="T"/>四五六七十二月等。此為最上好月。好<lb
@@ -762,8 +762,8 @@
  n="0376c09" ed="T"/>須數數發露懺悔起大慈悲發弘誓願永不退<lb
  n="0376c10" ed="T"/>轉。當爾之時即知法成。更莫疑慮。</ab></div><lb
  n="0376c11" ed="T"/>
-<ab type="juan" subtype="close">尊勝佛頂真言修瑜伽法卷上</ab><pb n="0377a" id="T19.0973.0377a" ed="T"/><lb
- n="0377a01" ed="T"/><div type="w" level="2"><ab type="dharani">曩謨婆誐縛帝怛賴路枳也鉢羅底尾始瑟吒野沒馱野婆誐<lb
+<ab type='juan' subtype='close'>尊勝佛頂真言修瑜伽法卷上</ab><pb n="0377a" id="T19.0973.0377a" ed="T"/><lb
+ n="0377a01" ed="T"/><div type='w' level='2'><ab type='dharani'>曩謨婆誐縛帝怛賴路枳也鉢羅底尾始瑟吒野沒馱野婆誐<lb
  n="0377a03" ed="T"/>嚩帝怛儞也佗唵尾戍馱野尾戍<lb
  n="0377a04" ed="T"/>馱野娑麼娑麼三滿跢縛婆娑娑<lb
  n="0377a05" ed="T"/>頗羅拏誐底誐賀曩娑嚩婆嚩<lb
@@ -826,11 +826,11 @@
  n="0377c14" ed="T"/><lb
  n="0377c15" ed="T"/><lb
  n="0377c16" ed="T"/>
-<ab type="juan" subtype="open">尊勝佛頂真言修瑜伽軌儀卷下</ab><lb
+<ab type='juan' subtype='open'>尊勝佛頂真言修瑜伽軌儀卷下</ab><lb
  n="0377c17" ed="T"/><lb
  n="0377c18" ed="T"/><byline>善無畏三藏</byline><lb
- n="0377c19" ed="T"/><div type="pin" level="2"><head>大灌頂曼荼羅品第八</head><lb
- n="0377c20" ed="T"/><ab type="prose">我今復說修瑜祇者觀曼荼羅并畫諸聖眾<lb
+ n="0377c19" ed="T"/><div type='pin' level='2'><head>大灌頂曼荼羅品第八</head><lb
+ n="0377c20" ed="T"/><ab type='prose'>我今復說修瑜祇者觀曼荼羅并畫諸聖眾<lb
  n="0377c21" ed="T"/>樣者。淨與不淨。但發菩提心為淨。內外緣合<lb
  n="0377c22" ed="T"/>不擇時日。若擇清淨者。內外淨。一一依如上<lb
  n="0377c23" ed="T"/>說。日月時節及清淨勝地佛堂殿宇蘭若伽<lb
@@ -859,10 +859,10 @@
  n="0378a17" ed="T"/>但所用物。皆須此二明王真言印等。其一<lb
  n="0378a18" ed="T"/>切佛頂輪王真言曰。<lb
  n="0378a19" ed="T"/></ab>
-<ab type="dharani">􇩂唵􈊿度嚕𤙖􈆭𤙖􄗁􈁆泮吒<lb
+<ab type='dharani'>􇩂唵􈊿度嚕𤙖􈆭𤙖􄗁􈁆泮吒<lb
  n="0378a20" ed="T"/><lb
  n="0378a21" ed="T"/></ab>
-<ab type="prose">其手印相者。以兩手勾內叉十指合掌。直竪<lb
+<ab type='prose'>其手印相者。以兩手勾內叉十指合掌。直竪<lb
  n="0378a22" ed="T"/>二中指合頭。加持五處為護身。加持所用器<lb
  n="0378a23" ed="T"/>物彩色。及指地為清淨光顯護淨等事。若召<lb
  n="0378a24" ed="T"/>請時。二中指合屈來去三召。若奉送本尊<lb
@@ -870,10 +870,10 @@
  n="0378a26" ed="T"/>難勝忿怒王真言及手印。便成辦事。一切處<lb
  n="0378a27" ed="T"/>用。難勝忿怒王。真言曰。<lb
  n="0378a28" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄙘微􄥇枳囉二合􆩮娜􈆴度􄖩那􈆴度􄖩那􆿁𤙖<lb
+<ab type='dharani'>􇩂唵􄙘微􄥇枳囉二合􆩮娜􈆴度􄖩那􈆴度􄖩那􆿁𤙖<lb
  n="0378a29" ed="T"/><pb n="0378b" id="T19.0973.0378b" ed="T"/><lb
  n="0378b01" ed="T"/></ab>
-<ab type="prose">若不得此二明王及印。作一切佛頂法。法則<lb
+<ab type='prose'>若不得此二明王及印。作一切佛頂法。法則<lb
  n="0378b02" ed="T"/>不成。要須作前件一切法等真言印契了。仍<lb
  n="0378b03" ed="T"/>須加此二法。寧不得上件所說諸契真言等。<lb
  n="0378b04" ed="T"/>但用此一切佛頂印真言難勝忿怒王真言<lb
@@ -994,8 +994,8 @@
  n="0379c09" ed="T"/>門相對名增益曼荼羅。息炎曼荼羅者<lb
  n="0379c10" ed="T"/>唯改圓。若降伏三角。若攝召半月形。餘皆<lb
  n="0379c11" ed="T"/>同。</ab></div><lb
- n="0379c12" ed="T"/><div type="pin" level="2"><head>尊勝真言證瑜伽悉地品第九</head><lb
- n="0379c13" ed="T"/><ab type="prose">復次如是畫上中下曼荼羅。如法供養作法<lb
+ n="0379c12" ed="T"/><div type='pin' level='2'><head>尊勝真言證瑜伽悉地品第九</head><lb
+ n="0379c13" ed="T"/><ab type='prose'>復次如是畫上中下曼荼羅。如法供養作法<lb
  n="0379c14" ed="T"/>念誦十萬遍。必得上悉地。若一百二百三百<lb
  n="0379c15" ed="T"/>四百萬遍不作法亦得成就。一切世間所求<lb
  n="0379c16" ed="T"/>勝事無不隨意。除遣五逆事背恩德等餘皆<lb
@@ -1044,8 +1044,8 @@
  n="0380b01" ed="T"/>一體。一念之頃越三妄執度三僧祇行。初發<lb
  n="0380b02" ed="T"/>心時便成正覺。即是悉地之身也。此是無相<lb
  n="0380b03" ed="T"/>悉地中最上悉地之法也。</ab></div><lb
- n="0380b04" ed="T"/><div type="pin" level="2"><head>尊勝佛頂真言修瑜伽護摩品第十</head><lb
- n="0380b05" ed="T"/><ab type="prose">我今復說護摩之法。護摩雖有多種。今略說<lb
+ n="0380b04" ed="T"/><div type='pin' level='2'><head>尊勝佛頂真言修瑜伽護摩品第十</head><lb
+ n="0380b05" ed="T"/><ab type='prose'>我今復說護摩之法。護摩雖有多種。今略說<lb
  n="0380b06" ed="T"/>四種。盡攝一切護摩之法。所謂除災圓爐。增<lb
  n="0380b07" ed="T"/>益方爐。攝召半月。降伏三角。如是四種護<lb
  n="0380b08" ed="T"/>摩具有兩種。一者外護摩。二者內護摩。若外<lb
@@ -1118,8 +1118,8 @@
  n="0381a17" ed="T"/>本法作。若除災等一依外護摩。能轉一切障。<lb
  n="0381a18" ed="T"/>令生諸福德。一依毘盧遮那經十二種火法<lb
  n="0381a19" ed="T"/>次第而用之。</ab></div><lb
- n="0381a20" ed="T"/><div type="pin" level="2"><head>尊勝真言修瑜伽祈雨法品第十一</head><lb
- n="0381a21" ed="T"/><ab type="prose">我今次說祈雨之法。為利群品。略說祈雨之<lb
+ n="0381a20" ed="T"/><div type='pin' level='2'><head>尊勝真言修瑜伽祈雨法品第十一</head><lb
+ n="0381a21" ed="T"/><ab type='prose'>我今次說祈雨之法。為利群品。略說祈雨之<lb
  n="0381a22" ed="T"/>法。天氣亢旱甘澤不調。赤旱千里苗稼不生。<lb
  n="0381a23" ed="T"/>萬類惶惶國土不寧。火天災競起。水陸眾<lb
  n="0381a24" ed="T"/>生命在朝夕。修瑜祇者。見如是眾生受苦起<lb
@@ -1177,7 +1177,7 @@
  n="0381c18" ed="T"/>一如大壇供養食香華等同。其四肘二肘者。<lb
  n="0381c19" ed="T"/>不假須如法畫形像。但畫印契或但書種子<lb
  n="0381c20" ed="T"/>字或書名字。其曼荼羅外二尺平淨處。以<lb
- n="0381c21" ed="T"/>苦棟葉擣取汁遍塗青色。四面各畫大龍王<lb
+ n="0381c21" ed="T"/>苦楝葉擣取汁遍塗青色。四面各畫大龍王<lb
  n="0381c22" ed="T"/>并侍者等。又對畫妃并眷屬等。三首五頭<lb
  n="0381c23" ed="T"/>七八九首等。各依本方畫之。其西門蹈道中<lb
  n="0381c24" ed="T"/>涌出半身。中央龍王并妃眷屬。向諸尊等恭<lb
@@ -1229,8 +1229,8 @@
  n="0382b12" ed="T"/>安五瓶。諸飲食等一依大壇法不異。若不依<lb
  n="0382b13" ed="T"/>如是者。法不成。後迴難請。必須依法作之。速<lb
  n="0382b14" ed="T"/>得成就。</ab></div><lb
- n="0382b15" ed="T"/><div type="pin" level="2"><head>尊勝佛頂陀羅尼入成就境界品第十二</head><lb
- n="0382b16" ed="T"/><ab type="prose">我今復說修瑜伽者欲成就真言之相。若具<lb
+ n="0382b15" ed="T"/><div type='pin' level='2'><head>尊勝佛頂陀羅尼入成就境界品第十二</head><lb
+ n="0382b16" ed="T"/><ab type='prose'>我今復說修瑜伽者欲成就真言之相。若具<lb
  n="0382b17" ed="T"/>說者。窮劫不盡。唯佛乃能說之。若有瑜祇者。<lb
  n="0382b18" ed="T"/>百千萬遍必獲成就。若欲成就時。先應七<lb
  n="0382b19" ed="T"/>種吉祥上妙境界。必知瑜祇者速得悉地。<lb
@@ -1323,9 +1323,9 @@
  n="0383b19" ed="T"/>無生平等五智。成就大毘盧遮那如來之身<lb
  n="0383b20" ed="T"/>矣。</ab></div><lb
  n="0383b21" ed="T"/>
-<ab type="juan" subtype="close">尊勝佛頂瑜伽軌儀卷下</ab><lb
+<ab type='juan' subtype='close'>尊勝佛頂瑜伽軌儀卷下</ab><lb
  n="0383b22" ed="T"/><lb
- n="0383b23" ed="T"/><div type="w" level="2"><ab type="prose">尊勝佛頂瑜伽法軌儀二卷。無畏三藏譯。慈<lb
+ n="0383b23" ed="T"/><div type='w' level='2'><ab type='prose'>尊勝佛頂瑜伽法軌儀二卷。無畏三藏譯。慈<lb
  n="0383b24" ed="T"/>覺圓行慧運之請來也。而今所鍥未決是孰<lb
  n="0383b25" ed="T"/>師本。但以靈雲淨嚴大苾芻之挍本及別本。<lb
  n="0383b26" ed="T"/>而挍閱之。然傳寫異同不少。故猥冠注之。後<lb

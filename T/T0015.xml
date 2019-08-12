@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0015</idno>
                 </bibl>
@@ -41,13 +41,13 @@
     <text>
         <body><pb n="0246b" ed="T" id="T01.0015.0246b"/><lb
  n="0246b01" ed="T"/><lb
- n="0246b02" ed="T"/><div type="jing" level="1"><lb
+ n="0246b02" ed="T"/><div type='jing' level='1'><lb
  n="0246b03" ed="T"/>
-<ab type="juan" subtype="open">佛說帝釋所問經</ab><lb
+<ab type='juan' subtype='open'>佛說帝釋所問經</ab><lb
  n="0246b04" ed="T"/><lb
  n="0246b05" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0246b06" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
- n="0246b07" ed="T"/><ab type="prose">如是我聞：一時，佛在摩伽陀國王舍城東菴<lb
+ n="0246b07" ed="T"/><ab type='prose'>如是我聞：一時，佛在摩伽陀國王舍城東菴<lb
  n="0246b08" ed="T"/>羅園，大婆羅門聚落之北，毘提呬山帝釋巖<lb
  n="0246b09" ed="T"/>中，與大眾俱。<lb
  n="0246b10" ed="T"/>爾時，帝釋天主聞佛在摩伽陀國毘提呬<lb
@@ -77,7 +77,7 @@
  n="0246c05" ed="T"/>作此念已，即動所持瑠璃寶裝箜篌，於其聲<lb
  n="0246c06" ed="T"/>中而出伽陀，於伽陀中說所樂事，彼伽陀曰：<lb
  n="0246c07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「汝日光賢女，　　當請求父王，　　<lb
  n="0246c08" ed="T"/>與我為眷屬，　　是知汝賢良。　　<lb
  n="0246c09" ed="T"/>我所戀慕汝，　　譬如熱惱者，　　<lb
@@ -93,7 +93,7 @@
  n="0246c19" ed="T"/>我求日光女，　　是意甚堅固，　　<lb
  n="0246c20" ed="T"/>帝釋諸天主，　　當施我所願。」　　
 </ab><lb
- n="0246c21" ed="T"/><ab type="prose">爾時，世尊於帝釋巖中，以天耳通遙聞其聲，<lb
+ n="0246c21" ed="T"/><ab type='prose'>爾時，世尊於帝釋巖中，以天耳通遙聞其聲，<lb
  n="0246c22" ed="T"/>即以神力遙告五髻乾闥婆王子言：「善哉！善<lb
  n="0246c23" ed="T"/>哉！乾闥婆王子，汝善於樂！鼓動絃時，出微<lb
  n="0246c24" ed="T"/>妙音如妙歌聲，作歌聲時復如絃音。以何<lb
@@ -162,7 +162,7 @@
  n="0247b29" ed="T"/>行天子作承事者。時，彼密行天向尾那乾闥<pb n="0247c" ed="T" id="T01.0015.0247c"/><lb
  n="0247c01" ed="T"/>婆子，說伽陀曰：<lb
  n="0247c02" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『我昔為女人，　　具智名密行，　　<lb
  n="0247c03" ed="T"/>厭女求男相，　　常供佛法僧。　　<lb
  n="0247c04" ed="T"/>時見汝三子，　　而修聲聞行，　　<lb
@@ -206,7 +206,7 @@
  n="0248a15" ed="T"/>所有未了法，　　彼二悉正知，　　<lb
  n="0248a16" ed="T"/>當得勝果報，　　而生於梵天。』　　
 </ab><lb
- n="0248a17" ed="T"/><ab type="prose">「世尊！我於爾時聞密行天子說是偈已，我於<lb
+ n="0248a17" ed="T"/><ab type='prose'>「世尊！我於爾時聞密行天子說是偈已，我於<lb
  n="0248a18" ed="T"/>此事有所未決，故來佛所，欲伸請問。願佛<lb
  n="0248a19" ed="T"/>垂愍，為我宣說。」<lb
  n="0248a20" ed="T"/>爾時，世尊而作是念：「帝釋天主於長夜中無<lb
@@ -214,17 +214,17 @@
  n="0248a22" ed="T"/>魔事，彼有所問當為宣說。」作是念已即說<lb
  n="0248a23" ed="T"/>伽陀，告帝釋曰：<lb
  n="0248a24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「帝釋今當知，　　汝心中所樂，　　<lb
  n="0248a25" ed="T"/>欲有所問義，　　當問我為說。」　　
 </ab><lb
- n="0248a26" ed="T"/><ab type="prose">爾時，帝釋天主即說伽陀，白世尊曰：<lb
+ n="0248a26" ed="T"/><ab type='prose'>爾時，帝釋天主即說伽陀，白世尊曰：<lb
  n="0248a27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「今蒙佛聽許，　　如我意所樂，　　<lb
  n="0248a28" ed="T"/>我今當啟請，　　願佛為宣說。」　　
 </ab><lb
- n="0248a29" ed="T"/><ab type="prose">帝釋天主說伽陀已，白佛言：「世尊！所有天人、<pb n="0248b" ed="T" id="T01.0015.0248b"/><lb
+ n="0248a29" ed="T"/><ab type='prose'>帝釋天主說伽陀已，白佛言：「世尊！所有天人、<pb n="0248b" ed="T" id="T01.0015.0248b"/><lb
  n="0248b01" ed="T"/>阿修羅、乾闥婆及諸異生等，以何為煩惱？」<lb
  n="0248b02" ed="T"/>佛言：「以憎愛為煩惱。帝釋天主！所有天人、阿<lb
  n="0248b03" ed="T"/>修羅、乾闥婆乃至諸異生等，而作是念：『嗚呼！<lb
@@ -354,7 +354,7 @@
  n="0249c11" ed="T"/>從今日誓歸依佛為聲聞弟子。』我於爾時即<lb
  n="0249c12" ed="T"/>說伽陀，答彼天曰：<lb
  n="0249c13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『汝等起邪念，　　所言亦不正，　　<lb
  n="0249c14" ed="T"/>求佛心差別，　　由是長受苦。　　<lb
  n="0249c15" ed="T"/>或見於沙門，　　及彼婆羅門，　　<lb
@@ -373,7 +373,7 @@
  n="0249c28" ed="T"/>無畏大丈夫，　　善斷貪愛病。　　<lb
  n="0249c29" ed="T"/>如來大日尊，　　汝今稽首禮。』」　　
 </ab><pb n="0250a" ed="T" id="T01.0015.0250a"/><lb
- n="0250a01" ed="T"/><ab type="prose">爾時，帝釋天主說是事已，佛復告言：「天主！<lb
+ n="0250a01" ed="T"/><ab type='prose'>爾時，帝釋天主說是事已，佛復告言：「天主！<lb
  n="0250a02" ed="T"/>汝可知彼過去之事，謂分別利及適悅利。」帝<lb
  n="0250a03" ed="T"/>釋白言：「世尊！我今憶念，往昔一時天與脩羅<lb
  n="0250a04" ed="T"/>而相鬪戰，天人得勝，脩羅退敗。我作是念：<lb
@@ -420,11 +420,11 @@
  n="0250b16" ed="T"/>已，禮佛雙足，却坐一面，合掌頂禮，說伽陀<lb
  n="0250b17" ed="T"/>曰：<lb
  n="0250b18" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「帝釋為多利，　　向佛問正法，　　<lb
  n="0250b19" ed="T"/>佛以微妙音，　　為除斷疑惑。」　　
 </ab><lb
- n="0250b20" ed="T"/><ab type="prose">爾時，梵王說伽陀已，白言：「世尊！佛說正法時。<lb
+ n="0250b20" ed="T"/><ab type='prose'>爾時，梵王說伽陀已，白言：「世尊！佛說正法時。<lb
  n="0250b21" ed="T"/>帝釋天主遠塵離垢得法眼淨，八萬天人亦<lb
  n="0250b22" ed="T"/>得法眼淨。」佛言：「如是，如是。」時，娑婆界主大<lb
  n="0250b23" ed="T"/>梵天王，聞佛語已歡喜信受，禮佛足已隱身<lb
@@ -434,15 +434,15 @@
  n="0250b27" ed="T"/>梵天王，來詣我所。禮我足已，合掌恭敬說伽<lb
  n="0250b28" ed="T"/>陀曰：<lb
  n="0250b29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『帝釋為多利，　　向佛問正法，　　<pb n="0250c" ed="T" id="T01.0015.0250c"/><lb
  n="0250c01" ed="T"/>佛以微妙音，　　為除斷疑惑。』　　
 </ab><lb
- n="0250c02" ed="T"/><ab type="prose">「復謂我言：『帝釋天主聞正法時得法眼淨，及<lb
+ n="0250c02" ed="T"/><ab type='prose'>「復謂我言：『帝釋天主聞正法時得法眼淨，及<lb
  n="0250c03" ed="T"/>八萬天人亦得法眼淨。』我即告言：『如是，如<lb
  n="0250c04" ed="T"/>是。』時，彼梵王聞我所說歡喜信受，禮我足已，<lb
  n="0250c05" ed="T"/>隱身不現還於天界。」是時，諸苾芻眾聞佛說<lb
  n="0250c06" ed="T"/>是法已，皆大歡喜禮佛而退。<lb
  n="0250c07" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說帝釋所問經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說帝釋所問經</ab></div>
 </body></text></TEI>

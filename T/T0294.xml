@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T10</biblScope>
                     <idno type="Taisho">T10n0294</idno>
                 </bibl>
@@ -43,11 +43,11 @@
  n="0851c13" ed="T"/><lb
  n="0851c14" ed="T"/><lb
  n="0851c15" ed="T"/><lb
- n="0851c16" ed="T"/><div type="jing" level="1">
-<ab type="juan" subtype="open">佛說羅摩伽經卷上</ab><lb
+ n="0851c16" ed="T"/><div type='jing' level='1'>
+<ab type='juan' subtype='open'>佛說羅摩伽經卷上</ab><lb
  n="0851c17" ed="T"/><lb
  n="0851c18" ed="T"/><byline>西秦沙門聖堅譯</byline><lb
- n="0851c19" ed="T"/><ab type="prose">如是我聞：一時佛在舍衛國祇樹給孤獨園<lb
+ n="0851c19" ed="T"/><ab type='prose'>如是我聞：一時佛在舍衛國祇樹給孤獨園<lb
  n="0851c20" ed="T"/>莊嚴重閣善勝講堂，與菩薩摩訶薩普賢菩<lb
  n="0851c21" ed="T"/>薩、文殊師利菩薩等，其名曰：光明幢菩薩、須<lb
  n="0851c22" ed="T"/>彌山幢菩薩、寶幢菩薩、無礙幢菩薩、花幢菩<lb
@@ -834,14 +834,14 @@
  n="0860c20" ed="T"/>生眾生善根心流，我當云何能知能說彼功<lb
  n="0860c21" ed="T"/>德行？」<lb
  n="0860c22" ed="T"/>
-</ab><ab type="juan" subtype="close">羅摩伽經卷上</ab><lb
+</ab><ab type='juan' subtype='close'>羅摩伽經卷上</ab><lb
  n="0860c23" ed="T"/><lb
  n="0860c24" ed="T"/><lb
  n="0860c25" ed="T"/>
-<ab type="juan" subtype="open">佛說羅摩伽經卷中</ab><lb
+<ab type='juan' subtype='open'>佛說羅摩伽經卷中</ab><lb
  n="0860c26" ed="T"/><lb
  n="0860c27" ed="T"/><byline>西秦沙門聖堅譯</byline><lb
- n="0860c28" ed="T"/><ab type="prose">爾時東方有一菩薩，名無異行，寶花承足，<lb
+ n="0860c28" ed="T"/><ab type='prose'>爾時東方有一菩薩，名無異行，寶花承足，<lb
  n="0860c29" ed="T"/>步虛而來，詣娑婆世界金剛輪山，足蹈山時，<pb n="0861a" ed="T" id="T10.0294.0861a"/><lb
  n="0861a01" ed="T"/>娑婆世界六種震動，變成眾寶以為莊嚴。舉<lb
  n="0861a02" ed="T"/>身毛孔普放光明，皆悉映蔽日月星辰，梵釋<lb
@@ -1243,7 +1243,7 @@
  n="0865b21" ed="T"/>明普照諸法壞散眾生愚癡法門，承佛威神，<lb
  n="0865b22" ed="T"/>觀察十方，即為善財童子，以偈頌曰：<lb
  n="0865b23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「我所成妙法，　　知時諸門地，　　<lb
  n="0865b24" ed="T"/>照除愚癡闇，　　普觀一切法。　　<lb
  n="0865b25" ed="T"/>我法門寂靜，　　久修慈心得，　　<lb
@@ -1285,7 +1285,7 @@
  n="0866a03" ed="T"/>見盧舍那佛，　　道場成正覺，　　<lb
  n="0866a04" ed="T"/>十方微塵剎，　　悉轉正法輪。」　　
 </ab><lb
- n="0866a05" ed="T"/><ab type="prose">爾時善財童子白天神言：「發阿耨多羅三藐<lb
+ n="0866a05" ed="T"/><ab type='prose'>爾時善財童子白天神言：「發阿耨多羅三藐<lb
  n="0866a06" ed="T"/>三菩提心，為已幾時？得此法門，其已久如，乃<lb
  n="0866a07" ed="T"/>能如是饒益眾生？」答言：「佛子！乃往古世，過<lb
  n="0866a08" ed="T"/>須彌山微塵數等劫，復過是數無量無邊，彼<lb
@@ -1380,7 +1380,7 @@
  n="0867a10" ed="T"/>薩行，修菩薩道？」爾時善財童子即以偈讚婆<lb
  n="0867a11" ed="T"/>娑婆陀，而說頌曰：<lb
  n="0867a12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「我見尊淨身，　　相好自莊嚴，　　<lb
  n="0867a13" ed="T"/>超出於世間，　　猶如須彌山。　　<lb
  n="0867a14" ed="T"/>法身湛然淨，　　三世悉平等，　　<lb
@@ -1402,18 +1402,18 @@
  n="0867b01" ed="T"/>百千微塵劫，　　讚歎一切德，　　<lb
  n="0867b02" ed="T"/>眾劫猶可盡，　　功德無窮已。」　　
 </ab><lb
- n="0867b03" ed="T"/><ab type="prose">爾時善財童子頭面敬禮彼夜天足，遶無數<lb
+ n="0867b03" ed="T"/><ab type='prose'>爾時善財童子頭面敬禮彼夜天足，遶無數<lb
  n="0867b04" ed="T"/>匝，眷仰觀察，心無厭足，辭退南行，向摩伽<lb
  n="0867b05" ed="T"/>陀國。<lb
  n="0867b06" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說羅摩伽經卷中</ab><lb
+</ab><ab type='juan' subtype='close'>佛說羅摩伽經卷中</ab><lb
  n="0867b07" ed="T"/><lb
  n="0867b08" ed="T"/><lb
  n="0867b09" ed="T"/>
-<ab type="juan" subtype="open">佛說羅摩伽經卷下</ab><lb
+<ab type='juan' subtype='open'>佛說羅摩伽經卷下</ab><lb
  n="0867b10" ed="T"/><lb
  n="0867b11" ed="T"/><byline>西秦沙門聖堅譯</byline><lb
- n="0867b12" ed="T"/><ab type="prose">爾時善財童子，一心思惟彼夜天教，初發<lb
+ n="0867b12" ed="T"/><ab type='prose'>爾時善財童子，一心思惟彼夜天教，初發<lb
  n="0867b13" ed="T"/>道心，圓滿清淨；思惟是已，即得深入諸菩薩<lb
  n="0867b14" ed="T"/>藏出生菩薩大願法海，淨諸菩薩波羅蜜道，<lb
  n="0867b15" ed="T"/>窮盡菩薩圓滿勝淨行業，發起成就深入智<lb
@@ -1512,7 +1512,7 @@
  n="0868b21" ed="T"/>修菩薩道？」爾時普甚深微妙功德離垢光明<lb
  n="0868b22" ed="T"/>夜天，欲重宣此法門義，以偈頌曰：<lb
  n="0868b23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「深入現前定，　　普見三世佛，　　<lb
  n="0868b24" ed="T"/>淨眼無垢稱，　　分別諸佛海，　　<lb
  n="0868b25" ed="T"/>觀察淨妙身，　　深入佛相好，　　<lb
@@ -1542,7 +1542,7 @@
  n="0868c20" ed="T"/>不遠有夜天，　　名喜目觀察，　　<lb
  n="0868c21" ed="T"/>汝可詣彼問，　　云何菩薩行？」　　
 </ab><lb
- n="0868c22" ed="T"/><ab type="prose">爾時善財童子，頭面敬禮彼夜天足，遶無數<lb
+ n="0868c22" ed="T"/><ab type='prose'>爾時善財童子，頭面敬禮彼夜天足，遶無數<lb
  n="0868c23" ed="T"/>匝，眷仰辭退，向喜目觀察眾生夜天所。爾時<lb
  n="0868c24" ed="T"/>善財童子，專求善知識，正念善知識教，因善<lb
  n="0868c25" ed="T"/>知識，生諸功德，發菩提心；善知識者，難見難<lb
@@ -1856,7 +1856,7 @@
  n="0872b14" ed="T"/>爾時善財童子，即起恭敬合掌，以偈讚歎彼<lb
  n="0872b15" ed="T"/>夜天曰：<lb
  n="0872b16" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「無量無數劫，　　深入最勝法，　　<lb
  n="0872b17" ed="T"/>顯現妙法身，　　隨眾所應見，　　<lb
  n="0872b18" ed="T"/>了知群生心，　　無明顛倒惑，　　<lb
@@ -1878,11 +1878,11 @@
  n="0872c05" ed="T"/>相好備嚴飾，　　猶如普賢像，　　<lb
  n="0872c06" ed="T"/>隨應受化者，　　顯現無礙身。」　　
 </ab><lb
- n="0872c07" ed="T"/><ab type="prose">爾時善財童子，偈讚歎已，白言：「天神！發阿耨<lb
+ n="0872c07" ed="T"/><ab type='prose'>爾時善財童子，偈讚歎已，白言：「天神！發阿耨<lb
  n="0872c08" ed="T"/>多羅三藐三菩提心，為已幾時？得此法門，其<lb
  n="0872c09" ed="T"/>已久如？」爾時夜天以偈答言：<lb
  n="0872c10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「我念過去世，　　無量剎塵劫，　　<lb
  n="0872c11" ed="T"/>爾時有一劫，　　名曰寂靜音，　　<lb
  n="0872c12" ed="T"/>城有轉輪王，　　清淨妙色身，　　<lb
@@ -2077,7 +2077,7 @@
  n="0874c27" ed="T"/>三世方便海，　　修習無量行，　　<lb
  n="0874c28" ed="T"/>一心具佛智，　　智慧悉通達。」　　
 </ab><lb
- n="0874c29" ed="T"/><ab type="prose">爾時夜天說此偈已，頭面敬禮一切諸佛，未<pb n="0875a" ed="T" id="T10.0294.0875a"/><lb
+ n="0874c29" ed="T"/><ab type='prose'>爾時夜天說此偈已，頭面敬禮一切諸佛，未<pb n="0875a" ed="T" id="T10.0294.0875a"/><lb
  n="0875a01" ed="T"/>舉頭頃，見一切如來足下千輻相輪，逆觀如<lb
  n="0875a02" ed="T"/>來一切相好，於佛相好中，身心明了，不著相<lb
  n="0875a03" ed="T"/>好，以廣大心，速疾聞佛五分法身香，究竟一<lb
@@ -2192,5 +2192,5 @@
  n="0876a25" ed="T"/>眾生等，發阿耨多羅三藐三菩提心，一切大<lb
  n="0876a26" ed="T"/>眾，皆大歡喜，禮佛而退。</ab></div><lb
  n="0876a27" ed="T"/>
-<ab type="juan" subtype="close">佛說羅摩伽經卷下</ab>
+<ab type='juan' subtype='close'>佛說羅摩伽經卷下</ab>
 </body></text></TEI>

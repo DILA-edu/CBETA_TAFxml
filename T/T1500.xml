@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T24</biblScope>
                     <idno type="Taisho">T24n1500</idno>
                 </bibl>
@@ -43,11 +43,11 @@
  n="1107a01" ed="T"/><lb
  n="1107a02" ed="T"/><lb
  n="1107a03" ed="T"/>
-<ab type="juan" subtype="open">菩薩戒本一卷</ab><lb
+<ab type='juan' subtype='open'>菩薩戒本一卷</ab><lb
  n="1107a04" ed="T"/><lb
  n="1107a05" ed="T"/><byline>慈氏菩薩說</byline><lb
  n="1107a06" ed="T"/><byline>北涼天竺三藏曇無讖於姑臧譯</byline><lb
- n="1107a07" ed="T"/><div type="jing" level="1"><ab type="verse">
+ n="1107a07" ed="T"/><div type='jing' level='1'><ab type='verse'>
 歸命盧舍那，　　十方金剛佛；　　<lb
  n="1107a08" ed="T"/>亦禮前論主，　　當覺慈氏尊。　　<lb
  n="1107a09" ed="T"/>今說三聚戒，　　菩薩咸共聽；　　<lb
@@ -57,7 +57,7 @@
  n="1107a13" ed="T"/>離世速成佛，　　唯此法為最！　　<lb
  n="1107a14" ed="T"/>是故諸菩薩，　　應當勤護持。　　
 </ab><lb
- n="1107a15" ed="T"/><ab type="prose">「諸大士！此四波羅夷法，是菩薩摩得勒伽，和<lb
+ n="1107a15" ed="T"/><ab type='prose'>「諸大士！此四波羅夷法，是菩薩摩得勒伽，和<lb
  n="1107a16" ed="T"/>合說。<lb
  n="1107a17" ed="T"/>「若菩薩，為貪利故，自歎己德，毀呰他人，是名<lb
  n="1107a18" ed="T"/>第一波羅夷處法。<lb
@@ -328,5 +328,5 @@
  n="1110a22" ed="T"/>永不滅盡；心得正住，自成佛法；教化眾生，常<lb
  n="1110a23" ed="T"/>無勞倦；善業畢竟，速成佛道！」</ab></div><lb
  n="1110a24" ed="T"/>
-<ab type="juan" subtype="close">菩薩戒本</ab>
+<ab type='juan' subtype='close'>菩薩戒本</ab>
 </body></text></TEI>

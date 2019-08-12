@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0555b</idno>
                 </bibl>
@@ -43,10 +43,10 @@
  n="0907a19" ed="T"/><lb
  n="0907a20" ed="T"/><lb
  n="0907a21" ed="T"/>
-<ab type="juan" subtype="open">五母子經</ab><lb
+<ab type='juan' subtype='open'>五母子經</ab><lb
  n="0907a22" ed="T"/><lb
  n="0907a23" ed="T"/><byline>吳優婆塞支謙譯</byline><lb
- n="0907a24" ed="T"/><div type="jing" level="1"><ab type="prose">昔者有阿羅漢在山中奉行道禁。有一小<lb
+ n="0907a24" ed="T"/><div type='jing' level='1'><ab type='prose'>昔者有阿羅漢在山中奉行道禁。有一小<lb
  n="0907a25" ed="T"/>兒年始七歲，大好道，棄家去作沙門，隨<lb
  n="0907a26" ed="T"/>師在山中，從師學法，精進不懈。年八歲<lb
  n="0907a27" ed="T"/>便得四通：一者眼能徹視，二者耳能徹<lb
@@ -87,5 +87,5 @@
  n="0907c04" ed="T"/>當泥洹，泥洹快樂。」為師說是語，前作禮<lb
  n="0907c05" ed="T"/>已，便飛去。</ab></div><lb
  n="0907c06" ed="T"/>
-<ab type="juan" subtype="close">五母子經</ab>
+<ab type='juan' subtype='close'>五母子經</ab>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T12</biblScope>
                     <idno type="Taisho">T12n0367</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0348b20" ed="T"/><lb
  n="0348b21" ed="T"/><lb
  n="0348b22" ed="T"/>
-<ab type="juan" subtype="open">稱讚淨土佛攝受經</ab><lb
+<ab type='juan' subtype='open'>稱讚淨土佛攝受經</ab><lb
  n="0348b23" ed="T"/><lb
  n="0348b24" ed="T"/><byline>大唐三藏法師玄奘奉　詔譯</byline><lb
- n="0348b25" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時，薄伽梵在室羅筏住誓多林<lb
+ n="0348b25" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時，薄伽梵在室羅筏住誓多林<lb
  n="0348b26" ed="T"/>給孤獨園，與大苾芻眾千二百五十人俱，一<lb
  n="0348b27" ed="T"/>切皆是尊宿聲聞眾望所識大阿羅漢，其名<lb
  n="0348b28" ed="T"/>曰：尊者舍利子、摩訶目犍連、摩訶迦葉、阿泥<lb
@@ -307,5 +307,5 @@
  n="0351b21" ed="T"/>人、阿素洛等，一切大眾聞佛所說皆大歡喜<lb
  n="0351b22" ed="T"/>信受奉行。<lb
  n="0351b23" ed="T"/>
-</ab><ab type="juan" subtype="close">稱讚淨土佛攝受經</ab></div>
+</ab><ab type='juan' subtype='close'>稱讚淨土佛攝受經</ab></div>
 </body></text></TEI>

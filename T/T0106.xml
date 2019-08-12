@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T02</biblScope>
                     <idno type="Taisho">T02n0106</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0501c05" ed="T"/><lb
  n="0501c06" ed="T"/><lb
- n="0501c07" ed="T"/><div type="jing" level="1"><lb
+ n="0501c07" ed="T"/><div type='jing' level='1'><lb
  n="0501c08" ed="T"/>
-<ab type="juan" subtype="open">佛說水沫所漂經</ab><lb
+<ab type='juan' subtype='open'>佛說水沫所漂經</ab><lb
  n="0501c09" ed="T"/><lb
  n="0501c10" ed="T"/><byline>東晉西域沙門竺曇無蘭譯</byline><lb
- n="0501c11" ed="T"/><ab type="prose">聞如是：一時，婆伽婆在阿迎闍恒水<lb
+ n="0501c11" ed="T"/><ab type='prose'>聞如是：一時，婆伽婆在阿迎闍恒水<lb
  n="0501c12" ed="T"/>側，與大比丘眾五百人俱。時，有大聚沫為水<lb
  n="0501c13" ed="T"/>所漂。世尊見已告諸比丘：「汝等頗見此沫聚<lb
  n="0501c14" ed="T"/>為恒水所漂不？」諸比丘對曰：「如是。世尊！」世尊<lb
@@ -92,7 +92,7 @@
  n="0502a24" ed="T"/>無往，亦不堅固，此識陰有何堅固？」爾時，世尊<lb
  n="0502a25" ed="T"/>便說偈言：<lb
  n="0502a26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「色如彼聚沫，　　痛如彼水泡，　　<lb
  n="0502a27" ed="T"/>想如夏野馬，　　行如芭蕉樹，　　<lb
  n="0502a28" ed="T"/>識如彼幻術，　　最勝之所說。　　<lb
@@ -102,7 +102,7 @@
  n="0502b03" ed="T"/>當滅此三法，　　能捨除去色，　　<lb
  n="0502b04" ed="T"/>此行亦如是，　　幻師不真術。」　　
 </ab><lb
- n="0502b05" ed="T"/><ab type="prose">爾時，諸比丘聞佛所說，歡喜奉行。<lb
+ n="0502b05" ed="T"/><ab type='prose'>爾時，諸比丘聞佛所說，歡喜奉行。<lb
  n="0502b06" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說水沫所漂經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說水沫所漂經</ab></div>
 </body></text></TEI>

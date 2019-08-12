@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T24</biblScope>
                     <idno type="Taisho">T24n1504</idno>
                 </bibl>
@@ -45,10 +45,10 @@
  n="1121b18" ed="T"/><lb
  n="1121b19" ed="T"/><lb
  n="1121b20" ed="T"/>
-<ab type="juan" subtype="open">菩薩五法懺悔文</ab><lb
+<ab type='juan' subtype='open'>菩薩五法懺悔文</ab><lb
  n="1121b21" ed="T"/><lb
  n="1121b22" ed="T"/><byline>失譯人名今附梁錄</byline><lb
- n="1121b23" ed="T"/><div type="jing" level="1"><ab type="prose">「十方三世佛，五眼照世間，三大無不知，明見<lb
+ n="1121b23" ed="T"/><div type='jing' level='1'><ab type='prose'>「十方三世佛，五眼照世間，三大無不知，明見<lb
  n="1121b24" ed="T"/>罪福相。弟子某甲等，從無數劫來，不遇善知<lb
  n="1121b25" ed="T"/>識，造作一切罪。破戒犯四重、六重及八重，謗<lb
  n="1121b26" ed="T"/>法斷善根，具足一闡提。幸遇諸如來，經法賢<lb
@@ -88,5 +88,5 @@
  n="1122a02" ed="T"/>輪現泥洹，眾生不盡成佛，不捨普賢文殊<lb
  n="1122a03" ed="T"/>願。」發願已竟，洗心作禮。</ab></div><lb
  n="1122a04" ed="T"/>
-<ab type="juan" subtype="close">菩薩五法懺悔文</ab>
+<ab type='juan' subtype='close'>菩薩五法懺悔文</ab>
 </body></text></TEI>

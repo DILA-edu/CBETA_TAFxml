@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T08</biblScope>
                     <idno type="Taisho">T08n0231</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0687a" id="T08.0231.0687a" ed="T"/><lb
  n="0687a01" ed="T"/><lb
  n="0687a02" ed="T"/><lb
  n="0687a03" ed="T"/>
-<ab type="juan" subtype="open">勝天王般若波羅蜜經卷第一</ab><lb
+<ab type='juan' subtype='open'>勝天王般若波羅蜜經卷第一</ab><lb
  n="0687a04" ed="T"/><lb
  n="0687a05" ed="T"/><byline>陳優禪尼國王子月婆首那譯</byline><lb
- n="0687a06" ed="T"/><div type="pin" level="2"><head>通達品第一</head><lb
- n="0687a07" ed="T"/><ab type="prose">如是我聞：一時婆伽婆在王舍大城耆闍崛<lb
+ n="0687a06" ed="T"/><div type='pin' level='2'><head>通達品第一</head><lb
+ n="0687a07" ed="T"/><ab type='prose'>如是我聞：一時婆伽婆在王舍大城耆闍崛<lb
  n="0687a08" ed="T"/>山，與大比丘眾四萬二千人俱——皆是阿羅漢，<lb
  n="0687a09" ed="T"/>諸漏永盡所作已辦，捨諸重擔逮得己利，盡<lb
  n="0687a10" ed="T"/>諸有結心善解脫，善得自在猶如大龍；唯阿<lb
@@ -387,8 +387,8 @@
  n="0690c23" ed="T"/>法。何以故？如如一故。不見我能修及所修<lb
  n="0690c24" ed="T"/>法，無二無別，自性離故。』是名菩薩摩訶薩行<lb
  n="0690c25" ed="T"/>般若波羅蜜通達智波羅蜜。」</ab></div><lb
- n="0690c26" ed="T"/><div type="pin" level="2"><head>勝天王般若波羅蜜經顯相品第二</head><lb
- n="0690c27" ed="T"/><ab type="prose">爾時，勝天王即從座起，偏袒右肩，右膝著地，<lb
+ n="0690c26" ed="T"/><div type='pin' level='2'><head>勝天王般若波羅蜜經顯相品第二</head><lb
+ n="0690c27" ed="T"/><ab type='prose'>爾時，勝天王即從座起，偏袒右肩，右膝著地，<lb
  n="0690c28" ed="T"/>合掌向佛，頭面作禮，而白佛言：「世尊！是般若<lb
  n="0690c29" ed="T"/>波羅蜜甚深。何者是般若波羅蜜相？」佛告勝<lb
  n="0690c30" ed="T"/>天王言：「如地、水、火、風相，般若波羅蜜相亦復<pb n="0691a" id="T08.0231.0691a" ed="T"/><lb
@@ -489,7 +489,7 @@
  n="0692a08" ed="T"/>菩薩摩訶薩行般若波羅蜜，若在城邑聚落，<lb
  n="0692a09" ed="T"/>人間天上悉具戒香。又如蓮華體性清淨，婆<lb
  n="0692a10" ed="T"/>羅門、剎利長者居士之所愛重；菩薩摩訶薩<lb
- n="0692a11" ed="T"/>行般若波羅蜜，天龍、夜叉、乾闥婆、阿修羅、迦<lb
+ n="0692a11" ed="T"/>行般若波羅蜜，天、龍、夜叉、乾闥婆、阿修羅、迦<lb
  n="0692a12" ed="T"/>樓羅、緊那羅、摩睺羅伽、人非人等，菩薩，諸佛咸<lb
  n="0692a13" ed="T"/>所愛敬。又如蓮華始欲敷啟，能悅眾心；菩薩<lb
  n="0692a14" ed="T"/>摩訶薩行般若波羅蜜，面門常笑，曾無嚬蹙，<lb
@@ -640,15 +640,15 @@
  n="0693c14" ed="T"/>菩薩摩訶薩行般若波羅蜜，以方便力得無<lb
  n="0693c15" ed="T"/>礙辯才，隨眾生根性說是甚深般若波羅蜜。」</ab></div><lb
  n="0693c16" ed="T"/>
-<ab type="juan" subtype="close">勝天王般若波羅蜜經卷第一</ab><lb
+<ab type='juan' subtype='close'>勝天王般若波羅蜜經卷第一</ab><lb
  n="0693c17" ed="T"/><lb
  n="0693c18" ed="T"/><lb
  n="0693c19" ed="T"/>
-<ab type="juan" subtype="open">勝天王般若波羅蜜經卷第二</ab><lb
+<ab type='juan' subtype='open'>勝天王般若波羅蜜經卷第二</ab><lb
  n="0693c20" ed="T"/><lb
  n="0693c21" ed="T"/><byline>陳優禪尼國王子月婆首那譯</byline><lb
- n="0693c22" ed="T"/><div type="pin" level="2"><head>法界品第三</head><lb
- n="0693c23" ed="T"/><ab type="prose">爾時，勝天王即從座起，偏袒右肩右膝著地，<lb
+ n="0693c22" ed="T"/><div type='pin' level='2'><head>法界品第三</head><lb
+ n="0693c23" ed="T"/><ab type='prose'>爾時，勝天王即從座起，偏袒右肩右膝著地，<lb
  n="0693c24" ed="T"/>合掌向佛頭面作禮，而白佛言：「世尊！云何菩<lb
  n="0693c25" ed="T"/>薩摩訶薩學般若波羅蜜通達甚深法界？」爾<lb
  n="0693c26" ed="T"/>時，佛讚勝天王言：「善哉，大王！諦聽，諦聽！善思<lb
@@ -959,8 +959,8 @@
  n="0697b12" ed="T"/>生示如如道，不說言語；著生死者示涅槃道，<lb
  n="0697b13" ed="T"/>不說世間；為迷塗者而說正道。大王！是名<lb
  n="0697b14" ed="T"/>菩薩知邪正路。」</ab></div><lb
- n="0697b15" ed="T"/><div type="pin" level="2"><head>勝天王般若波羅蜜經念處品第四</head><lb
- n="0697b16" ed="T"/><ab type="prose">爾時，勝天王即從座起，偏袒右肩右膝著地，<lb
+ n="0697b15" ed="T"/><div type='pin' level='2'><head>勝天王般若波羅蜜經念處品第四</head><lb
+ n="0697b16" ed="T"/><ab type='prose'>爾時，勝天王即從座起，偏袒右肩右膝著地，<lb
  n="0697b17" ed="T"/>合掌向佛頭面作禮，而白佛言：「世尊！菩薩<lb
  n="0697b18" ed="T"/>摩訶薩行般若波羅蜜，能如是知路非路者，<lb
  n="0697b19" ed="T"/>心緣何住？」佛告勝天王言：「大王！菩薩摩訶<lb
@@ -1233,14 +1233,14 @@
  n="0700b25" ed="T"/>離垢法眼淨，無量無邊眾生發阿耨多羅三<lb
  n="0700b26" ed="T"/>藐三菩提心。</ab></div><lb
  n="0700b27" ed="T"/>
-<ab type="juan" subtype="close">勝天王般若波羅蜜經卷第二</ab><pb n="0700c" id="T08.0231.0700c" ed="T"/><lb
+<ab type='juan' subtype='close'>勝天王般若波羅蜜經卷第二</ab><pb n="0700c" id="T08.0231.0700c" ed="T"/><lb
  n="0700c01" ed="T"/><lb
  n="0700c02" ed="T"/>
-<ab type="juan" subtype="open">勝天王般若波羅蜜經卷第三</ab><lb
+<ab type='juan' subtype='open'>勝天王般若波羅蜜經卷第三</ab><lb
  n="0700c03" ed="T"/><lb
  n="0700c04" ed="T"/><byline>陳優禪尼國王子月婆首那譯</byline><lb
- n="0700c05" ed="T"/><div type="pin" level="2"><head>法性品第五</head><lb
- n="0700c06" ed="T"/><ab type="prose">爾時，勝天王即從坐起，偏袒右肩右膝著地，<lb
+ n="0700c05" ed="T"/><div type='pin' level='2'><head>法性品第五</head><lb
+ n="0700c06" ed="T"/><ab type='prose'>爾時，勝天王即從坐起，偏袒右肩右膝著地，<lb
  n="0700c07" ed="T"/>合掌向佛頭面作禮，而白佛言：「希有世尊！如<lb
  n="0700c08" ed="T"/>來、應供、正遍知，快說微妙大神通力。諸佛如<lb
  n="0700c09" ed="T"/>來因何得此？唯願世尊分別解說。」佛告勝天<lb
@@ -1736,14 +1736,14 @@
  n="0706b03" ed="T"/>若人供養如來形像，不如供養般若波羅蜜。<lb
  n="0706b04" ed="T"/>何以故？三世諸佛皆因般若波羅蜜生故。」</ab></div><lb
  n="0706b05" ed="T"/>
-<ab type="juan" subtype="close">勝天王般若波羅蜜經卷第三</ab><lb
+<ab type='juan' subtype='close'>勝天王般若波羅蜜經卷第三</ab><lb
  n="0706b06" ed="T"/><lb
  n="0706b07" ed="T"/>
-<ab type="juan" subtype="open">勝天王般若波羅蜜經卷第四</ab><lb
+<ab type='juan' subtype='open'>勝天王般若波羅蜜經卷第四</ab><lb
  n="0706b08" ed="T"/><lb
  n="0706b09" ed="T"/><byline>陳優禪尼國王子月婆首那譯</byline><lb
- n="0706b10" ed="T"/><div type="pin" level="2"><head>平等品第六</head><lb
- n="0706b11" ed="T"/><ab type="prose">爾時，勝天王即從坐起，偏袒右肩右膝著地，<lb
+ n="0706b10" ed="T"/><div type='pin' level='2'><head>平等品第六</head><lb
+ n="0706b11" ed="T"/><ab type='prose'>爾時，勝天王即從坐起，偏袒右肩右膝著地，<lb
  n="0706b12" ed="T"/>向佛合掌頭面作禮，而白佛言：「世尊！如佛所<lb
  n="0706b13" ed="T"/>說法性平等。何者是平等？等何法故名為平<lb
  n="0706b14" ed="T"/>等？」佛告勝天王言：「大王！等觀諸法不生不<lb
@@ -1910,8 +1910,8 @@
  n="0708b01" ed="T"/>時，三千大千世界六種震動，諸天伎樂不鼓<lb
  n="0708b02" ed="T"/>自鳴，散眾天華以供養佛及勝天王。時勝天<lb
  n="0708b03" ed="T"/>王從空中下，頭面禮佛，退坐一面。</ab></div><lb
- n="0708b04" ed="T"/><div type="pin" level="2"><head>勝天王般若波羅蜜經現相品第七</head><lb
- n="0708b05" ed="T"/><ab type="prose">爾時，大智舍利弗白勝天王言：「菩薩摩訶薩<lb
+ n="0708b04" ed="T"/><div type='pin' level='2'><head>勝天王般若波羅蜜經現相品第七</head><lb
+ n="0708b05" ed="T"/><ab type='prose'>爾時，大智舍利弗白勝天王言：「菩薩摩訶薩<lb
  n="0708b06" ed="T"/>行般若波羅蜜，通達法性，即應坐道場、轉法<lb
  n="0708b07" ed="T"/>輪，何因緣故，先修苦行降伏惡魔？」爾時，勝天<lb
  n="0708b08" ed="T"/>王答舍利弗言：「善男子！菩薩摩訶薩行般若<lb
@@ -2176,16 +2176,16 @@
  n="0711b06" ed="T"/>一心則能通達一切佛法，達佛法故利益眾<lb
  n="0711b07" ed="T"/>生，不見眾生與佛法異。何以故？理無二故。」</ab></div><lb
  n="0711b08" ed="T"/>
-<ab type="juan" subtype="close">勝天王般若波羅蜜經卷第四</ab><lb
+<ab type='juan' subtype='close'>勝天王般若波羅蜜經卷第四</ab><lb
  n="0711b09" ed="T"/><lb
  n="0711b10" ed="T"/><lb
  n="0711b11" ed="T"/><lb
  n="0711b12" ed="T"/>
-<ab type="juan" subtype="open">勝天王般若波羅蜜經卷第五</ab><lb
+<ab type='juan' subtype='open'>勝天王般若波羅蜜經卷第五</ab><lb
  n="0711b13" ed="T"/><lb
  n="0711b14" ed="T"/><byline>陳優禪尼國王子月婆首那譯</byline><lb
- n="0711b15" ed="T"/><div type="pin" level="2"><head>無所得品第八</head><lb
- n="0711b16" ed="T"/><ab type="prose">爾時，眾中有一菩薩摩訶薩，名須真胝，白勝<lb
+ n="0711b15" ed="T"/><div type='pin' level='2'><head>無所得品第八</head><lb
+ n="0711b16" ed="T"/><ab type='prose'>爾時，眾中有一菩薩摩訶薩，名須真胝，白勝<lb
  n="0711b17" ed="T"/>天王言：「如來為大王授記乎？」勝天王答善思<lb
  n="0711b18" ed="T"/>惟菩薩言：「善男子！我授記如夢相。」又問：「大<lb
  n="0711b19" ed="T"/>王！如此授記當得何法？」答曰：「善男子！佛授<lb
@@ -2433,8 +2433,8 @@
  n="0714b02" ed="T"/>生法忍，八千天子得阿鞞跋致，一萬二千天<lb
  n="0714b03" ed="T"/>子得遠塵離垢法眼淨，四萬人天發阿耨多<lb
  n="0714b04" ed="T"/>羅三藐三菩提心。</ab></div><lb
- n="0714b05" ed="T"/><div type="pin" level="2"><head>勝天王般若波羅蜜經證勸品第九</head><lb
- n="0714b06" ed="T"/><ab type="prose">爾時，佛告勝天王言：「過去之世阿僧祇阿僧<lb
+ n="0714b05" ed="T"/><div type='pin' level='2'><head>勝天王般若波羅蜜經證勸品第九</head><lb
+ n="0714b06" ed="T"/><ab type='prose'>爾時，佛告勝天王言：「過去之世阿僧祇阿僧<lb
  n="0714b07" ed="T"/>祇劫，不可數不可思量，此時有佛，名功德<lb
  n="0714b08" ed="T"/>寶王如來、應供、正遍知、明行足、善逝、世間解、無<lb
  n="0714b09" ed="T"/>上士、調御丈夫、天人師、佛、世尊，國名寶莊嚴，<lb
@@ -2628,14 +2628,14 @@
  n="0716b23" ed="T"/>養世尊般若波羅蜜，異口同音一時讚曰：「善<lb
  n="0716b24" ed="T"/>哉，善哉！世尊！快說般若波羅蜜。」</ab></div><lb
  n="0716b25" ed="T"/>
-<ab type="juan" subtype="close">勝天王般若波羅蜜經卷第五</ab><pb n="0716c" id="T08.0231.0716c" ed="T"/><lb
+<ab type='juan' subtype='close'>勝天王般若波羅蜜經卷第五</ab><pb n="0716c" id="T08.0231.0716c" ed="T"/><lb
  n="0716c01" ed="T"/><lb
  n="0716c02" ed="T"/>
-<ab type="juan" subtype="open">勝天王般若波羅蜜經卷第六</ab><lb
+<ab type='juan' subtype='open'>勝天王般若波羅蜜經卷第六</ab><lb
  n="0716c03" ed="T"/><lb
  n="0716c04" ed="T"/><byline>陳優禪尼國王子月婆首那譯</byline><lb
- n="0716c05" ed="T"/><div type="pin" level="2"><head>述德品第十</head><lb
- n="0716c06" ed="T"/><ab type="prose">爾時，文殊師利菩薩摩訶薩即從座起，偏袒<lb
+ n="0716c05" ed="T"/><div type='pin' level='2'><head>述德品第十</head><lb
+ n="0716c06" ed="T"/><ab type='prose'>爾時，文殊師利菩薩摩訶薩即從座起，偏袒<lb
  n="0716c07" ed="T"/>右肩右膝著地，合掌向佛頭面作禮，而白佛<lb
  n="0716c08" ed="T"/>言：「世尊！菩薩摩訶薩於幾劫數行般若波<lb
  n="0716c09" ed="T"/>羅蜜，供養幾佛，而能如是對揚如來，說甚深<lb
@@ -2780,8 +2780,8 @@
  n="0718b03" ed="T"/>萬五千菩薩得無生法忍，四萬五千人、天發<lb
  n="0718b04" ed="T"/>阿耨多羅三藐三菩提心，一萬二千天子得<lb
  n="0718b05" ed="T"/>遠塵離垢法眼淨。</ab></div><lb
- n="0718b06" ed="T"/><div type="pin" level="2"><head>勝天王般若波羅蜜經現化品第十一</head><lb
- n="0718b07" ed="T"/><ab type="prose">爾時，善思惟菩薩摩訶薩白勝天王言：「如來<lb
+ n="0718b06" ed="T"/><div type='pin' level='2'><head>勝天王般若波羅蜜經現化品第十一</head><lb
+ n="0718b07" ed="T"/><ab type='prose'>爾時，善思惟菩薩摩訶薩白勝天王言：「如來<lb
  n="0718b08" ed="T"/>所造化佛，更能化不？」爾時，勝天王答善思惟<lb
  n="0718b09" ed="T"/>菩薩言：「今對世尊以為明證，佛所化佛更能<lb
  n="0718b10" ed="T"/>化作恒河沙數無量化佛種種色相，神通說<lb
@@ -2890,8 +2890,8 @@
  n="0719b26" ed="T"/>六萬四千菩薩得不退轉，三萬菩薩得無生<lb
  n="0719b27" ed="T"/>法忍，二萬人天得遠塵離垢法眼淨，無量無<lb
  n="0719b28" ed="T"/>邊人、天發阿耨多羅三藐三菩提心。</ab></div><lb
- n="0719b29" ed="T"/><div type="pin" level="2"><head>勝天王般若波羅蜜經陀羅尼品第十二</head><pb n="0719c" id="T08.0231.0719c" ed="T"/><lb
- n="0719c01" ed="T"/><ab type="prose">爾時，文殊師利菩薩摩訶薩即從坐起，偏袒<lb
+ n="0719b29" ed="T"/><div type='pin' level='2'><head>勝天王般若波羅蜜經陀羅尼品第十二</head><pb n="0719c" id="T08.0231.0719c" ed="T"/><lb
+ n="0719c01" ed="T"/><ab type='prose'>爾時，文殊師利菩薩摩訶薩即從坐起，偏袒<lb
  n="0719c02" ed="T"/>右肩右膝著地，合掌向佛頭面作禮，而白佛<lb
  n="0719c03" ed="T"/>言：「希有世尊！如來所說菩薩摩訶薩得是<lb
  n="0719c04" ed="T"/>眾法不入陀羅尼，所成功德無量無邊。」爾時，<lb
@@ -2980,17 +2980,17 @@
  n="0720b29" ed="T"/>汝身是。以此因緣，汝能說是陀羅尼門。」爾時，<pb n="0720c" id="T08.0231.0720c" ed="T"/><lb
  n="0720c01" ed="T"/>文殊師利菩薩而說偈言：<lb
  n="0720c02" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「總持如妙藥，　　能療眾惑病，　　<lb
  n="0720c03" ed="T"/>猶彼天甘露，　　得者永不死。」　　
 </ab><lb
- n="0720c04" ed="T"/><ab type="prose">爾時，功德華王菩薩而說偈言：<lb
+ n="0720c04" ed="T"/><ab type='prose'>爾時，功德華王菩薩而說偈言：<lb
  n="0720c05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「總持無文字，　　文字顯總持，　　<lb
  n="0720c06" ed="T"/>般若大悲力，　　離言文字說。」　　
 </ab><lb
- n="0720c07" ed="T"/><ab type="prose">爾時，珊兜率陀天王即從坐起，偏袒右肩右<lb
+ n="0720c07" ed="T"/><ab type='prose'>爾時，珊兜率陀天王即從坐起，偏袒右肩右<lb
  n="0720c08" ed="T"/>膝著地，合掌向佛頭面作禮，而白佛言：「世尊！<lb
  n="0720c09" ed="T"/>諸佛如來不可思議，諸佛說法亦不可思議，<lb
  n="0720c10" ed="T"/>諸大菩薩所行所說亦不可思議。我等諸天<lb
@@ -3011,26 +3011,26 @@
  n="0720c25" ed="T"/>量無邊阿僧祇阿僧祇劫數行菩薩道時，聞虛<lb
  n="0720c26" ed="T"/>空中諸天說偈：<lb
  n="0720c27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『天人遠離大寶藏，　　王賊水火所去失，　　<lb
  n="0720c28" ed="T"/>百千萬劫法難聞，　　得聞不持不施等。　　<lb
  n="0720c29" ed="T"/>道心為本化眾生，　　如實修行心寂靜，　　<pb n="0721a" id="T08.0231.0721a" ed="T"/><lb
  n="0721a01" ed="T"/>自利利他平等心，　　如是修行供養佛。』　　
 </ab><lb
- n="0721a02" ed="T"/><ab type="prose">「大王！我於往昔初聞此偈，即為他說，有八千<lb
+ n="0721a02" ed="T"/><ab type='prose'>「大王！我於往昔初聞此偈，即為他說，有八千<lb
  n="0721a03" ed="T"/>人發阿耨多羅三藐三菩提心。是故，大王！以<lb
  n="0721a04" ed="T"/>法供養最為第一。何以故？一切諸佛從法生<lb
  n="0721a05" ed="T"/>故。」</ab></div><lb
  n="0721a06" ed="T"/>
-<ab type="juan" subtype="close">勝天王般若波羅蜜經卷第六</ab><lb
+<ab type='juan' subtype='close'>勝天王般若波羅蜜經卷第六</ab><lb
  n="0721a07" ed="T"/><lb
  n="0721a08" ed="T"/><lb
  n="0721a09" ed="T"/>
-<ab type="juan" subtype="open">勝天王般若波羅蜜經卷第七</ab><lb
+<ab type='juan' subtype='open'>勝天王般若波羅蜜經卷第七</ab><lb
  n="0721a10" ed="T"/><lb
  n="0721a11" ed="T"/><byline>陳優禪尼國王子月婆首那譯</byline><lb
- n="0721a12" ed="T"/><div type="pin" level="2"><head>勸誡品第十三</head><lb
- n="0721a13" ed="T"/><ab type="prose">爾時，文殊師利菩薩即從座起，偏袒右肩右<lb
+ n="0721a12" ed="T"/><div type='pin' level='2'><head>勸誡品第十三</head><lb
+ n="0721a13" ed="T"/><ab type='prose'>爾時，文殊師利菩薩即從座起，偏袒右肩右<lb
  n="0721a14" ed="T"/>膝著地，合掌向佛頭面作禮，而白佛言：「世尊！<lb
  n="0721a15" ed="T"/>如來所說甚深般若波羅蜜，於未來世末代<lb
  n="0721a16" ed="T"/>之中，頗有眾生能信受不？若善男子、善女人，<lb
@@ -3134,8 +3134,8 @@
  n="0722a27" ed="T"/>是惡人所得罪報，不能究盡。文殊師利！若求<lb
  n="0722a28" ed="T"/>現在、未來世樂，勿得於此修多羅中毀謗不<lb
  n="0722a29" ed="T"/>信、作大障礙。」</ab></div><pb n="0722b" id="T08.0231.0722b" ed="T"/><lb
- n="0722b01" ed="T"/><div type="pin" level="2"><head>勝天王般若波羅蜜經二行品第十四</head><lb
- n="0722b02" ed="T"/><ab type="prose">爾時，佛告文殊師利菩薩言：「菩薩摩訶薩行<lb
+ n="0722b01" ed="T"/><div type='pin' level='2'><head>勝天王般若波羅蜜經二行品第十四</head><lb
+ n="0722b02" ed="T"/><ab type='prose'>爾時，佛告文殊師利菩薩言：「菩薩摩訶薩行<lb
  n="0722b03" ed="T"/>般若波羅蜜，宜應成就前後般若波羅蜜。何<lb
  n="0722b04" ed="T"/>以故？菩薩摩訶薩有二種行：成就般若、教化<lb
  n="0722b05" ed="T"/>眾生。」文殊師利菩薩白佛言：「世尊！云何菩<lb
@@ -3259,8 +3259,8 @@
  n="0723c07" ed="T"/>十四、身不染；七十五、光遍身各一丈；七十六、<lb
  n="0723c08" ed="T"/>光照身而行；七十七、身清淨；七十八、光色潤<lb
  n="0723c09" ed="T"/>澤猶如青珠；七十九、手足滿；八十、手足德字。」</ab></div><lb
- n="0723c10" ed="T"/><div type="pin" level="2"><head>勝天王般若波羅蜜經讚歎品第十五</head><lb
- n="0723c11" ed="T"/><ab type="prose">爾時，文殊師利菩薩即從坐起，偏袒右肩右<lb
+ n="0723c10" ed="T"/><div type='pin' level='2'><head>勝天王般若波羅蜜經讚歎品第十五</head><lb
+ n="0723c11" ed="T"/><ab type='prose'>爾時，文殊師利菩薩即從坐起，偏袒右肩右<lb
  n="0723c12" ed="T"/>膝著地，合掌向佛頭面作禮，而白佛言：「世尊！<lb
  n="0723c13" ed="T"/>如來功德，希有無等，不可思議，三世諸佛同<lb
  n="0723c14" ed="T"/>一無別。若見如來，或聞功德，此等眾生亦不<lb
@@ -3268,7 +3268,7 @@
  n="0723c16" ed="T"/>踊躍，得未曾有。」爾時文殊師利菩薩，即昇虛<lb
  n="0723c17" ed="T"/>空高七多羅樹，合掌讚曰：<lb
  n="0723c18" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「一切眾生，　　唯佛大尊，　　尚無等者，　　<lb
  n="0723c19" ed="T"/>況當有勝。　　人法二空，　　理無等等，　　<lb
  n="0723c20" ed="T"/>唯佛如來，　　等無等等。　　煩惱習氣，　　<lb
@@ -3280,11 +3280,11 @@
  n="0723c26" ed="T"/>無量善巧，　　種種方便，　　以為眾生，　　<lb
  n="0723c27" ed="T"/>令得利益。」　　
 </ab><lb
- n="0723c28" ed="T"/><ab type="prose">爾時，眾中有一天子，名蘇樓波，即從<lb
+ n="0723c28" ed="T"/><ab type='prose'>爾時，眾中有一天子，名蘇樓波，即從<lb
  n="0723c29" ed="T"/>座起，偏袒右肩右膝著地，合掌向佛頭面作<pb n="0724a" id="T08.0231.0724a" ed="T"/><lb
  n="0724a01" ed="T"/>禮，說偈讚云：<lb
  n="0724a02" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「世間或說等佛者，　　如是之言名口過；　　<lb
  n="0724a03" ed="T"/>若說法王最極尊，　　此非虛妄為實語。　　<lb
  n="0724a04" ed="T"/>人天之儔正問難，　　無有能折我大師，　　<lb
@@ -3307,11 +3307,11 @@
  n="0724a21" ed="T"/>先說破諸結賊法，　　久摧天魔幻化軍，　　<lb
  n="0724a22" ed="T"/>世尊已說三有過，　　廣示涅槃無量德。」　　
 </ab><lb
- n="0724a23" ed="T"/><ab type="prose">爾時，眾中有一天子，名蘇那摩，即從座<lb
+ n="0724a23" ed="T"/><ab type='prose'>爾時，眾中有一天子，名蘇那摩，即從座<lb
  n="0724a24" ed="T"/>起，偏袒右肩右膝著地，合掌向佛頭面作禮，<lb
  n="0724a25" ed="T"/>說偈讚云：<lb
  n="0724a26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「如來世尊行大悲，　　設可度智與他者，　　<lb
  n="0724a27" ed="T"/>尚令調達最前得，　　況復其餘眾生類。　　<lb
  n="0724a28" ed="T"/>我今不愜為空過，　　修治正行報佛恩，　　<lb
@@ -3337,10 +3337,10 @@
  n="0724b19" ed="T"/>佛以功德正法水，　　洗諸垢穢悉無餘，　　<lb
  n="0724b20" ed="T"/>世尊本來內外淨，　　我今頂禮真淨身。」　　
 </ab><lb
- n="0724b21" ed="T"/><ab type="prose">爾時，娑婆世界主大梵天即從坐起，偏袒右<lb
+ n="0724b21" ed="T"/><ab type='prose'>爾時，娑婆世界主大梵天即從坐起，偏袒右<lb
  n="0724b22" ed="T"/>肩右膝著地，合掌向佛頭面作禮，以偈讚云：<lb
  n="0724b23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「功德智慧佛具足，　　利益眾生不暫休，　　<lb
  n="0724b24" ed="T"/>常雨甘露令眾飽，　　我今頂禮能利他。　　<lb
  n="0724b25" ed="T"/>世間最勝可敬者，　　此人猶故恭敬佛，　　<lb
@@ -3350,7 +3350,7 @@
  n="0724b29" ed="T"/>敬禮微妙金色身！　　敬禮所說甘露法！　　<pb n="0724c" id="T08.0231.0724c" ed="T"/><lb
  n="0724c01" ed="T"/>敬禮清淨無垢智！　　敬禮一切功德林！」　　
 </ab><lb
- n="0724c02" ed="T"/><ab type="prose">爾時，世尊告大梵天言：「善哉，善哉！如大梵天<lb
+ n="0724c02" ed="T"/><ab type='prose'>爾時，世尊告大梵天言：「善哉，善哉！如大梵天<lb
  n="0724c03" ed="T"/>所讚世尊，此事真實。何以故？諸佛如來於<lb
  n="0724c04" ed="T"/>無量劫，修習種種功德智慧，是故得果無不<lb
  n="0724c05" ed="T"/>備足。何以故？具足檀波羅蜜、尸波羅蜜、羼<lb
@@ -3381,8 +3381,8 @@
  n="0725a01" ed="T"/>波羅蜜久久住世。十方佛土說般若波羅蜜，<lb
  n="0725a02" ed="T"/>此之二人即來聽受；猶我今日放大光明，尋<lb
  n="0725a03" ed="T"/>光來集。」</ab></div><lb
- n="0725a04" ed="T"/><div type="pin" level="2"><head>勝天王般若波羅蜜經付囑品第十六</head><lb
- n="0725a05" ed="T"/><ab type="prose">爾時，世尊告阿難言：「汝可受持此般若波羅<lb
+ n="0725a04" ed="T"/><div type='pin' level='2'><head>勝天王般若波羅蜜經付囑品第十六</head><lb
+ n="0725a05" ed="T"/><ab type='prose'>爾時，世尊告阿難言：「汝可受持此般若波羅<lb
  n="0725a06" ed="T"/>蜜修多羅。」爾時，阿難即從坐起，偏袒右肩右<lb
  n="0725a07" ed="T"/>膝著地，合掌向佛頭面作禮，白佛言：「世尊！云<lb
  n="0725a08" ed="T"/>何受持？」佛告阿難言：「受持此修多羅，有十種<lb
@@ -3401,34 +3401,34 @@
  n="0725a21" ed="T"/>為護持法故，即從坐起，偏袒右肩右膝著地，<lb
  n="0725a22" ed="T"/>合掌向佛頭面作禮，說偈讚云：<lb
  n="0725a23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「我等捨身命，　　不求未來報，　　<lb
  n="0725a24" ed="T"/>護持甚深法，　　世尊之所說。」　　
 </ab><lb
- n="0725a25" ed="T"/><ab type="prose">爾時，眾中五百天子，賢王為上首，即從坐起，<lb
+ n="0725a25" ed="T"/><ab type='prose'>爾時，眾中五百天子，賢王為上首，即從坐起，<lb
  n="0725a26" ed="T"/>偏袒右肩右膝著地，合掌向佛頭面作禮，說<lb
  n="0725a27" ed="T"/>偈讚云：<lb
  n="0725a28" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「為度諸眾生，　　成就大悲願，　　<lb
  n="0725a29" ed="T"/>護持甚深法，　　世尊之所說。」　　
 </ab><pb n="0725b" id="T08.0231.0725b" ed="T"/><lb
- n="0725b01" ed="T"/><ab type="prose">爾時，釋提桓因、尸棄大梵、毘沙門天王，即從<lb
+ n="0725b01" ed="T"/><ab type='prose'>爾時，釋提桓因、尸棄大梵、毘沙門天王，即從<lb
  n="0725b02" ed="T"/>坐起，偏袒右肩右膝著地，合掌向佛頭面作<lb
  n="0725b03" ed="T"/>禮，說偈讚云：<lb
  n="0725b04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「般若微妙藥，　　能治一切病，　　<lb
  n="0725b05" ed="T"/>我等頂戴持，　　世尊之所說。」　　
 </ab><lb
- n="0725b06" ed="T"/><ab type="prose">爾時，執金剛神即從坐起，偏袒右肩右膝著<lb
+ n="0725b06" ed="T"/><ab type='prose'>爾時，執金剛神即從坐起，偏袒右肩右膝著<lb
  n="0725b07" ed="T"/>地，合掌向佛頭面作禮，說偈讚云：<lb
  n="0725b08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「法本無名字，　　佛以名字說，　　<lb
  n="0725b09" ed="T"/>世尊大悲教，　　我等頂戴持。」　　
 </ab><lb
- n="0725b10" ed="T"/><ab type="prose">爾時，世尊告尸棄梵天言：「梵天！佛有三事最<lb
+ n="0725b10" ed="T"/><ab type='prose'>爾時，世尊告尸棄梵天言：「梵天！佛有三事最<lb
  n="0725b11" ed="T"/>為無上。何等為三？一者、能發阿耨多羅三藐<lb
  n="0725b12" ed="T"/>三菩提心，二者、護持正法，三者、如聞修行。梵<lb
  n="0725b13" ed="T"/>天！如此三法最為無上。若復有人能修行者，<lb
@@ -3469,9 +3469,9 @@
  n="0725c19" ed="T"/>乾闥婆、阿修羅、迦樓羅、緊那羅、摩睺羅伽、人非<lb
  n="0725c20" ed="T"/>人等，聞佛所說，信受奉行。</ab></div><lb
  n="0725c21" ed="T"/>
-<ab type="juan" subtype="close">勝天王般若波羅蜜經卷第七</ab><lb
- n="0725c22" ed="T"/><div type="w" level="2"><div type="xu" level="3"><head>經序</head><lb
- n="0725c23" ed="T"/><ab type="prose">《仁王般若經》初，眾相謂曰：「大覺世尊！前已為<lb
+<ab type='juan' subtype='close'>勝天王般若波羅蜜經卷第七</ab><lb
+ n="0725c22" ed="T"/><div type='w' level='2'><div type='xu' level='3'><head>經序</head><lb
+ n="0725c23" ed="T"/><ab type='prose'>《仁王般若經》初，眾相謂曰：「大覺世尊！前已為<lb
  n="0725c24" ed="T"/>我二十九年說《摩訶般若》、《金剛般若》、《天王問<lb
  n="0725c25" ed="T"/>般若》、《光讚般若》。」則此經目題，久傳上國。有梁<lb
  n="0725c26" ed="T"/>太清二年六月，于闐沙門求那跋陁，齎<lb
@@ -3485,7 +3485,7 @@
  n="0726a05" ed="T"/>戴逃亡，未暇翻譯。民之所欲，天必從焉。屬我<lb
  n="0726a06" ed="T"/>大陳，膺期󰌡運，重光累業，再清四海，車書混<lb
  n="0726a07" ed="T"/>同，華夷󰣅睦。首那貧笈懷經自達而至，江洲<lb
- n="0726a08" ed="T"/>刺史儀同黃法󰋩，駈傳本洲，錫珪分陜，護持<lb
+ n="0726a08" ed="T"/>刺史儀同黃法𭯬，駈傳本洲，錫珪分陜，護持<lb
  n="0726a09" ed="T"/>正法，渴仰大乘。以天嘉六年歲次乙酉七月<lb
  n="0726a10" ed="T"/>辛巳朔二十三日癸卯，勸請首那於洲聽事，<lb
  n="0726a11" ed="T"/>略開題序，說無遮大會，四眾雲集五千餘人。<lb

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T02</biblScope>
                     <idno type="Taisho">T02n0126</idno>
                 </bibl>
@@ -41,13 +41,13 @@
     <text>
         <body><pb n="0831a" ed="T" id="T02.0126.0831a"/><lb
  n="0831a01" ed="T"/><lb
- n="0831a02" ed="T"/><div type="jing" level="1"><lb
+ n="0831a02" ed="T"/><div type='jing' level='1'><lb
  n="0831a03" ed="T"/>
-<ab type="juan" subtype="open">佛說阿羅漢具德經</ab><lb
+<ab type='juan' subtype='open'>佛說阿羅漢具德經</ab><lb
  n="0831a04" ed="T"/><lb
  n="0831a05" ed="T"/><byline>西天譯經三藏朝散大夫試光祿卿<lb
  n="0831a06" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
- n="0831a07" ed="T"/><ab type="prose">爾時世尊，在舍衛國給孤獨精舍之內，敷座<lb
+ n="0831a07" ed="T"/><ab type='prose'>爾時世尊，在舍衛國給孤獨精舍之內，敷座<lb
  n="0831a08" ed="T"/>而坐。有諸苾芻及天龍八部人非人等，圍繞<lb
  n="0831a09" ed="T"/>世尊，默然合掌聽佛所說。<lb
  n="0831a10" ed="T"/>爾時，世尊告諸苾芻：「我今稱讚諸大聲聞，能<lb
@@ -68,7 +68,7 @@
  n="0831a25" ed="T"/>是。<lb
  n="0831a26" ed="T"/>「復有聲聞於大眾中能說妙法，富樓那彌多<lb
  n="0831a27" ed="T"/>羅尼子苾芻是。<lb
- n="0831a28" ed="T"/>「復有聲聞坐臥等物悉皆具足，捺羅󰪞末羅<lb
+ n="0831a28" ed="T"/>「復有聲聞坐臥等物悉皆具足，捺羅𭣒末羅<lb
  n="0831a29" ed="T"/>子苾芻是。<pb n="0831b" ed="T" id="T02.0126.0831b"/><lb
  n="0831b01" ed="T"/>「復有聲聞說法之音如師子吼，賓度羅跋囉<lb
  n="0831b02" ed="T"/>墮舍苾芻是。<lb
@@ -233,7 +233,7 @@
  n="0833a16" ed="T"/>芻是。」<lb
  n="0833a17" ed="T"/>爾時世尊復說頌曰：<lb
  n="0833a18" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「梵行少貪欲，　　智慧與神通，　　<lb
  n="0833a19" ed="T"/>天眼及多聞，　　清淨能持律，　　<lb
  n="0833a20" ed="T"/>坐臥等安樂，　　具師子吼音，　　<lb
@@ -277,11 +277,11 @@
  n="0833b28" ed="T"/>清淨愚迷者，　　具如是功德，　　<lb
  n="0833b29" ed="T"/>故名阿羅漢。」　　
 </ab><pb n="0833c" ed="T" id="T02.0126.0833c"/><lb
- n="0833c01" ed="T"/><ab type="prose">爾時，世尊說是頌已，復告諸苾芻曰：「於此眾<lb
+ n="0833c01" ed="T"/><ab type='prose'>爾時，世尊說是頌已，復告諸苾芻曰：「於此眾<lb
  n="0833c02" ed="T"/>中而有十大聲聞，我今稱說，汝應善聽。<lb
  n="0833c03" ed="T"/>「所謂憍陳如苾芻、迦旃延苾芻、富樓那苾芻、<lb
  n="0833c04" ed="T"/>薄拘羅苾芻、離婆多苾芻、盎堀摩羅苾芻、<lb
- n="0833c05" ed="T"/>耶輸那苾芻、蘇惹多苾芻、酤胝羯蘭拏苾芻<lb
+ n="0833c05" ed="T"/>耶輸那苾芻、蘇惹多苾芻、酤胝羯蘭拏苾芻、<lb
  n="0833c06" ed="T"/>吠舍羅苾芻，如是十大聲聞，於此眾中而為<lb
  n="0833c07" ed="T"/>上首。」<lb
  n="0833c08" ed="T"/>爾時，世尊復告諸苾芻曰：「我今稱讚諸大聲<lb
@@ -358,5 +358,5 @@
  n="0834b21" ed="T"/>爾時，大苾芻眾及天、人、阿修羅等，聞佛所說，<lb
  n="0834b22" ed="T"/>皆大歡喜，信受奉行。<lb
  n="0834b23" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說阿羅漢具德經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說阿羅漢具德經</ab></div>
 </body></text></TEI>

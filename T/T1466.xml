@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T24</biblScope>
                     <idno type="Taisho">T24n1466</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0903a12" ed="T"/><lb
  n="0903a13" ed="T"/><lb
  n="0903a14" ed="T"/>
-<ab type="juan" subtype="open">優波離問佛經</ab><lb
+<ab type='juan' subtype='open'>優波離問佛經</ab><lb
  n="0903a15" ed="T"/><lb
  n="0903a16" ed="T"/><byline>宋元嘉年求那跋摩譯</byline><lb
- n="0903a17" ed="T"/><div type="jing" level="1"><ab type="prose">彼時佛世尊遊舍衛祇樹給孤獨園。於是賢<lb
+ n="0903a17" ed="T"/><div type='jing' level='1'><ab type='prose'>彼時佛世尊遊舍衛祇樹給孤獨園。於是賢<lb
  n="0903a18" ed="T"/>者優波離往世尊所，稽首畢一面坐。一面坐<lb
  n="0903a19" ed="T"/>已，白世尊言：「唯世尊！比丘成就幾事，盡命非<lb
  n="0903a20" ed="T"/>不依止？」「優波離！我比丘成就五事，盡命非不<lb
@@ -244,7 +244,7 @@
  n="0905b06" ed="T"/>戒得服、狂、先作。<lb
  n="0905b07" ed="T"/>九十二事。<lb
  n="0905b08" ed="T"/>知而妄語，犯五事：欲著故，不真實稱過人<lb
- n="0905b09" ed="T"/>法，波羅夷。無根波羅夷法驅棄，僧迦婆尸<lb
+ n="0905b09" ed="T"/>法，波羅夷。無根波羅夷法驅棄，僧伽婆尸<lb
  n="0905b10" ed="T"/>沙。說彼精舍住比丘阿羅漢，解者土羅遮，不<lb
  n="0905b11" ed="T"/>解者突吉羅。知而妄語，波逸提。不犯者，本<lb
  n="0905b12" ed="T"/>說、誤說、狂、先作。<lb
@@ -265,8 +265,8 @@
  n="0905b27" ed="T"/>說突吉羅，向說已波逸提。不犯者，向具足實、<lb
  n="0905b28" ed="T"/>狂、先作。<lb
  n="0905b29" ed="T"/>向未具足說比丘所犯罪，犯二事：方便向說<pb n="0905c" ed="T" id="T24.1466.0905c"/><lb
- n="0905c01" ed="T"/>突吉羅，說已波逸提。不犯者，向說床、不事<lb
- n="0905c02" ed="T"/>事、若說非床、比丘要、狂、先作。<lb
+ n="0905c01" ed="T"/>突吉羅，說已波逸提。不犯者，向說狀、不事<lb
+ n="0905c02" ed="T"/>事、若說非狀、比丘要、狂、先作。<lb
  n="0905c03" ed="T"/>同僧與衣後違法，犯二事：方便違突吉羅，違<lb
  n="0905c04" ed="T"/>已波逸提。不犯，愛恚癡畏與、破不成與、故<lb
  n="0905c05" ed="T"/>違、狂、先作。<lb
@@ -522,7 +522,7 @@
  n="0908b26" ed="T"/>綿纏結作床榻，犯二事：方便作突吉羅，作已<lb
  n="0908b27" ed="T"/>波逸提。不犯者，禪帶腰帶鉢囊漉水物作、<lb
  n="0908b28" ed="T"/>枕他作、得破用、狂、先作。<lb
- n="0908b29" ed="T"/>過重作兩被，犯二事：方便作突吉羅，作已波<pb n="0908c" ed="T" id="T24.1466.0908c"/><lb
+ n="0908b29" ed="T"/>過量作兩被，犯二事：方便作突吉羅，作已波<pb n="0908c" ed="T" id="T24.1466.0908c"/><lb
  n="0908c01" ed="T"/>逸提。不犯者，如量作、減作、他過量作得截用、<lb
  n="0908c02" ed="T"/>狂、先作。<lb
  n="0908c03" ed="T"/>過量作泥洹僧，犯二事：方便作突吉羅，作已<lb
@@ -673,5 +673,5 @@
  n="0910b03" ed="T"/>立作大小便，突吉羅。不犯者，不故、不念、不知、<lb
  n="0910b04" ed="T"/>病、狂、先作。</ab></div><lb
  n="0910b05" ed="T"/>
-<ab type="juan" subtype="close">優波離問佛經</ab>
+<ab type='juan' subtype='close'>優波離問佛經</ab>
 </body></text></TEI>

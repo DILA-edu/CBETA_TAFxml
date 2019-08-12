@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1300</idno>
                 </bibl>
@@ -39,17 +39,17 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0399c21" ed="T"/><lb
  n="0399c22" ed="T"/><lb
- n="0399c23" ed="T"/><div type="pin" level="2"><lb
+ n="0399c23" ed="T"/><div type='pin' level='2'><lb
  n="0399c24" ed="T"/>
-<ab type="juan" subtype="open">摩登伽經卷上</ab><lb
+<ab type='juan' subtype='open'>摩登伽經卷上</ab><lb
  n="0399c25" ed="T"/><lb
  n="0399c26" ed="T"/><byline>吳天竺三藏竺律炎共支謙譯</byline><lb
  n="0399c27" ed="T"/><head>度性女品第一</head><lb
- n="0399c28" ed="T"/><ab type="prose">如是我聞。一時佛在舍衛國。祇樹給孤獨園。<lb
+ n="0399c28" ed="T"/><ab type='prose'>如是我聞。一時佛在舍衛國。祇樹給孤獨園。<lb
  n="0399c29" ed="T"/>與諸比丘。圍遶說法。於晨朝時。尊者阿難。著<pb n="0400a" id="T21.1300.0400a" ed="T"/><lb
  n="0400a01" ed="T"/>衣持鉢。入城乞食。分衛已訖。還祇洹林。於其<lb
  n="0400a02" ed="T"/>路次。有一大池。聚落人眾。遊集其上。池側有<lb
@@ -82,12 +82,12 @@
  n="0400a29" ed="T"/>火。百有八枚妙遏迦花。誦呪一周。輒以一莖<pb n="0400b" id="T21.1300.0400b" ed="T"/><lb
  n="0400b01" ed="T"/>投之火中。其呪言曰。<lb
  n="0400b02" ed="T"/></ab>
-<ab type="dharani">　阿磨利　毘磨利　鳩鳩彌　三磨禰　移<lb
+<ab type='dharani'>　阿磨利　毘磨利　鳩鳩彌　三磨禰　移<lb
  n="0400b03" ed="T"/>　那婆頭賜　頻頭彌車養<lb
  n="0400b04" ed="T"/>提菩跋利沙提　毘地踰多提揭闍提　毘三<lb
  n="0400b05" ed="T"/>磨耶　磨羅闍　三磨提　跋陀夷闍<lb
  n="0400b06" ed="T"/></ab>
-<ab type="prose">若天。若魔。若乾闥婆。火神。地神。聞我是呪。<lb
+<ab type='prose'>若天。若魔。若乾闥婆。火神。地神。聞我是呪。<lb
  n="0400b07" ed="T"/>及吾祠祀。宜應急令阿難至此。作是語已。尊<lb
  n="0400b08" ed="T"/>者阿難。心即迷亂。不自覺知。便行往詣栴陀<lb
  n="0400b09" ed="T"/>羅舍。爾時女母。遙見阿難安詳而來。告其女<lb
@@ -99,20 +99,20 @@
  n="0400b15" ed="T"/>令無嬈害。爾時如來以淨天眼。觀見阿難為<lb
  n="0400b16" ed="T"/>彼女人之所惑亂。為擁護故。即說呪曰。<lb
  n="0400b17" ed="T"/></ab>
-<ab type="dharani">悉挮帝　阿朱帝　阿尼帝<lb
+<ab type='dharani'>悉挮帝　阿朱帝　阿尼帝<lb
  n="0400b18" ed="T"/></ab>
-<ab type="prose">於是世尊。說此呪已。而作是言。吾以斯呪。安<lb
+<ab type='prose'>於是世尊。說此呪已。而作是言。吾以斯呪。安<lb
  n="0400b19" ed="T"/>隱一切怖畏眾生。亦欲利安諸苦惱者。若有<lb
  n="0400b20" ed="T"/>眾生無歸依處。我當為作真實歸依。爾時世<lb
  n="0400b21" ed="T"/>尊。復說偈曰。<lb
  n="0400b22" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 戒池清涼淨無垢　　能浴眾生煩惱熱　　<lb
  n="0400b23" ed="T"/>若有智者入此池　　無明闇障永滅盡　　<lb
  n="0400b24" ed="T"/>是故三世諸賢聖　　咸皆頂戴共稱歎　　<lb
  n="0400b25" ed="T"/>若我真實浴此流　　當令侍者速還返　　
 </ab><lb
- n="0400b26" ed="T"/><ab type="prose">爾時阿難。以佛神力。及善根力。栴陀羅呪。無<lb
+ n="0400b26" ed="T"/><ab type='prose'>爾時阿難。以佛神力。及善根力。栴陀羅呪。無<lb
  n="0400b27" ed="T"/>所能為。即出其舍。還祇洹林。時彼女人。見阿<lb
  n="0400b28" ed="T"/>難歸。白其母言。比丘去矣。母告之曰。沙門瞿<lb
  n="0400b29" ed="T"/>曇。必以威力。而護念之。是故能令吾呪斷壞。<pb n="0400c" id="T21.1300.0400c" ed="T"/><lb
@@ -132,12 +132,12 @@
  n="0400c14" ed="T"/>持讀誦。是故汝今宜加修習讚歎供養。無令<lb
  n="0400c15" ed="T"/>忘失。即說呪曰。<lb
  n="0400c16" ed="T"/></ab>
-<ab type="dharani">耶頭多　安茶利　槃茶利　抧由利　他<lb
+<ab type='dharani'>耶頭多　安茶利　槃茶利　抧由利　他<lb
  n="0400c17" ed="T"/>彌曷賜帝　薩羅結利毘槃頭摩帝大羅毘<lb
  n="0400c18" ed="T"/>沙　脂利　彌利　婆膩隣陀　耶陀三跋兜<lb
  n="0400c19" ed="T"/>　羅布羅波底　迦談必羅耶<lb
  n="0400c20" ed="T"/></ab>
-<ab type="prose">佛告阿難。若有眾生。受持如是六句神呪。臨<lb
+<ab type='prose'>佛告阿難。若有眾生。受持如是六句神呪。臨<lb
  n="0400c21" ed="T"/>應刑戮。以呪力故。輕被鞭撻。而得免脫。若<lb
  n="0400c22" ed="T"/>當鞭撻。此呪因緣。呵責得免。若應呵責。由此<lb
  n="0400c23" ed="T"/>神呪威德力故。永無呵毀。坦然安樂阿難我<lb
@@ -185,8 +185,8 @@
  n="0401b07" ed="T"/>汝已得之。於佛法中。獲真實果。所謂生死已<lb
  n="0401b08" ed="T"/>盡。梵行已立。所作已辦。不受後有。是故汝今<lb
  n="0401b09" ed="T"/>宜應精進。慎莫放逸。</ab></div><lb
- n="0401b10" ed="T"/><div type="pin" level="2"><head>摩登伽經明往緣品第二</head><lb
- n="0401b11" ed="T"/><ab type="prose">爾時城中。諸婆羅門長者居士。聞佛度於栴<lb
+ n="0401b10" ed="T"/><div type='pin' level='2'><head>摩登伽經明往緣品第二</head><lb
+ n="0401b11" ed="T"/><ab type='prose'>爾時城中。諸婆羅門長者居士。聞佛度於栴<lb
  n="0401b12" ed="T"/>陀羅女。出家為道。咸生嫌忿。而作是言。此下<lb
  n="0401b13" ed="T"/>賤種。云何當與諸四部眾。同修梵行。云何當<lb
  n="0401b14" ed="T"/>入諸豪貴家。受於供養。如是展轉。共議斯事。<lb
@@ -233,7 +233,7 @@
  n="0401c26" ed="T"/>見蓮花實。安詳而來。威德殊特。心生歡喜。以<lb
  n="0401c27" ed="T"/>偈讚曰。<lb
  n="0401c28" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 如日初出　　光明照曜　　大士威德　　<lb
  n="0401c29" ed="T"/>亦復如是　　如雪山藥　　眾藥中勝　　<pb n="0402a" id="T21.1300.0402a" ed="T"/><lb
  n="0402a01" ed="T"/>仁者高遠　　更無能比　　德力深妙　　<lb
@@ -243,7 +243,7 @@
  n="0402a05" ed="T"/>端嚴殊絕　　更無能喻　　我但略讚　　<lb
  n="0402a06" ed="T"/>汝之功德　　若廣說者　　不可窮盡　　
 </ab><lb
- n="0402a07" ed="T"/><ab type="prose">說是偈已。即起奉迎。更相慰問。然後就坐。蓮<lb
+ n="0402a07" ed="T"/><ab type='prose'>說是偈已。即起奉迎。更相慰問。然後就坐。蓮<lb
  n="0402a08" ed="T"/>花實言。汝栴陀羅下劣之甚。而來至此。欲何<lb
  n="0402a09" ed="T"/>所為。答言。仁者世有四事。宜應修習。何等為<lb
  n="0402a10" ed="T"/>四。一者本所為事。憶而不忘。二者應當利安<lb
@@ -379,8 +379,8 @@
  n="0403b24" ed="T"/>可限量。豈可名為下劣人耶。以是因緣。諸姓<lb
  n="0403b25" ed="T"/>平等。可以汝女用妻吾子。財幣珍異。恣意相<lb
  n="0403b26" ed="T"/>與。</ab></div><lb
- n="0403b27" ed="T"/><div type="pin" level="2"><head>摩登伽經示真實品第三</head><lb
- n="0403b28" ed="T"/><ab type="prose">爾時帝勝伽王。語蓮華實。仁者善聽。我當為<lb
+ n="0403b27" ed="T"/><div type='pin' level='2'><head>摩登伽經示真實品第三</head><lb
+ n="0403b28" ed="T"/><ab type='prose'>爾時帝勝伽王。語蓮華實。仁者善聽。我當為<lb
  n="0403b29" ed="T"/>汝斷邪見網。開真實路。淨菩提道。起人天行。<pb n="0403c" id="T21.1300.0403c" ed="T"/><lb
  n="0403c01" ed="T"/>就汝法中。有五祠法。言斯祠者。是涅槃因。能<lb
  n="0403c02" ed="T"/>生天上。何者為五。一殺害人取脂用祭。二者<lb
@@ -416,8 +416,8 @@
  n="0404a03" ed="T"/>本無異。別為多姓。是故汝今應諦觀察。為法<lb
  n="0404a04" ed="T"/>利故。為斷虛妄求真實故。宜以貴女用妻吾<lb
  n="0404a05" ed="T"/>子。欲有所求。必相滿願。可速為婚。不宜久留。</ab></div><lb
- n="0404a06" ed="T"/><div type="pin" level="2"><head>摩登伽經眾相問品第四</head><lb
- n="0404a07" ed="T"/><ab type="prose">時蓮華實。聞是語已。生大歡喜。得未曾有。語<lb
+ n="0404a06" ed="T"/><div type='pin' level='2'><head>摩登伽經眾相問品第四</head><lb
+ n="0404a07" ed="T"/><ab type='prose'>時蓮華實。聞是語已。生大歡喜。得未曾有。語<lb
  n="0404a08" ed="T"/>帝勝伽。善哉仁者所說誠諦。汝於往昔。曾為<lb
  n="0404a09" ed="T"/>何等。智慧言辭。乃能若是。修習何行。作何<lb
  n="0404a10" ed="T"/>功德。唯願為我廣宣分別。帝勝伽言。我念過<lb
@@ -435,32 +435,32 @@
  n="0404a22" ed="T"/>凡有三章二十一句。復有三章。唯有八句。汝<lb
  n="0404a23" ed="T"/>今善聽。吾當宣說。<lb
  n="0404a24" ed="T"/></ab>
-<ab type="dharani">旦提他　菴　浮婆蘇婆　旦娑婆鬪婆利<lb
+<ab type='dharani'>旦提他　菴　浮婆蘇婆　旦娑婆鬪婆利<lb
  n="0404a25" ed="T"/>茹被瞿提婆　斯提麼提由那　婆羅提那<lb
  n="0404a26" ed="T"/></ab>
-<ab type="prose">此即名為婆羅門呪。<lb
+<ab type='prose'>此即名為婆羅門呪。<lb
  n="0404a27" ed="T"/></ab>
-<ab type="dharani">菴闍致囉　多波藪浮埵　伽呵男婆那摩<lb
+<ab type='dharani'>菴闍致囉　多波藪浮埵　伽呵男婆那摩<lb
  n="0404a28" ed="T"/>失多　幹毘羅　旦多羅　毘利多婆豔提婆<lb
  n="0404a29" ed="T"/>婆　失利　尸絺緘　薩闍男憂波男　婆羅<pb n="0404b" id="T21.1300.0404b" ed="T"/><lb
  n="0404b01" ed="T"/>陀斯磨<lb
  n="0404b02" ed="T"/></ab>
-<ab type="prose">此即名為剎利神呪。<lb
+<ab type='prose'>此即名為剎利神呪。<lb
  n="0404b03" ed="T"/></ab>
-<ab type="dharani">菴　質多羅摩醯帝　毘舍斤若　阿他娑斤<lb
+<ab type='dharani'>菴　質多羅摩醯帝　毘舍斤若　阿他娑斤<lb
  n="0404b04" ed="T"/>若　遏陀多　婆羅毘那<lb
  n="0404b05" ed="T"/></ab>
-<ab type="prose">此即名為毘舍神呪。<lb
+<ab type='prose'>此即名為毘舍神呪。<lb
  n="0404b06" ed="T"/></ab>
-<ab type="dharani">菴　阿多波　婆羅多波　示毘陀貪婆利沙<lb
+<ab type='dharani'>菴　阿多波　婆羅多波　示毘陀貪婆利沙<lb
  n="0404b07" ed="T"/>賒耽波貰　陀貪　菴羅<lb
  n="0404b08" ed="T"/></ab>
-<ab type="prose">此即名為首陀神呪。<lb
+<ab type='prose'>此即名為首陀神呪。<lb
  n="0404b09" ed="T"/></ab>
-<ab type="dharani">菴　有形必有欲　有欲必有苦　若能離此<lb
+<ab type='dharani'>菴　有形必有欲　有欲必有苦　若能離此<lb
  n="0404b10" ed="T"/>欲　定得梵天處<lb
  n="0404b11" ed="T"/></ab>
-<ab type="prose">此即名為大梵天王婆毘羅呪。<lb
+<ab type='prose'>此即名為大梵天王婆毘羅呪。<lb
  n="0404b12" ed="T"/>蓮華實言。汝姓何等。曰姓三無。又問。仁者汝<lb
  n="0404b13" ed="T"/>原何出。答曰。原從水生。汝師是誰。答言。吾<lb
  n="0404b14" ed="T"/>師名迦藍延。汝宗族中。誰為勇健。答曰。我門<lb
@@ -473,8 +473,8 @@
  n="0404b21" ed="T"/>若卑賤人能為善事便名豪勝。是故一切<lb
  n="0404b22" ed="T"/>稱尊貴者。由修善業。不以種族名為勝人。汝<lb
  n="0404b23" ed="T"/>既知已。當除憍慢。</ab></div><lb
- n="0404b24" ed="T"/><div type="pin" level="2"><head>摩登伽經說星圖品第五</head><lb
- n="0404b25" ed="T"/><ab type="prose">爾時蓮華實。問帝勝伽。仁者豈知占星事不。<lb
+ n="0404b24" ed="T"/><div type='pin' level='2'><head>摩登伽經說星圖品第五</head><lb
+ n="0404b25" ed="T"/><ab type='prose'>爾時蓮華實。問帝勝伽。仁者豈知占星事不。<lb
  n="0404b26" ed="T"/>帝勝伽言。大婆羅門。過此祕要。吾尚通達。況<lb
  n="0404b27" ed="T"/>斯小事。而不知耶。汝當善聽。吾今宣說。星紀<lb
  n="0404b28" ed="T"/>雖多。要者其唯二十有八。一名昴宿。二名為<lb
@@ -554,15 +554,15 @@
  n="0405b15" ed="T"/>星。是名為七。羅睺。彗星。通則為九。如是等<lb
  n="0405b16" ed="T"/>名。占星等事。汝宜應當深諦觀察。<lb
  n="0405b17" ed="T"/>
-</ab><ab type="juan" subtype="close">摩登伽經卷上</ab></div><lb
+</ab><ab type='juan' subtype='close'>摩登伽經卷上</ab></div><lb
  n="0405b18" ed="T"/><lb
- n="0405b19" ed="T"/><div type="pin" level="2"><lb
+ n="0405b19" ed="T"/><div type='pin' level='2'><lb
  n="0405b20" ed="T"/>
-<ab type="juan" subtype="open">摩登伽經卷下</ab><lb
+<ab type='juan' subtype='open'>摩登伽經卷下</ab><lb
  n="0405b21" ed="T"/><lb
  n="0405b22" ed="T"/><byline>吳天竺三藏竺律炎共支謙譯</byline><lb
  n="0405b23" ed="T"/><head>觀災祥品第六</head><lb
- n="0405b24" ed="T"/><ab type="prose">帝勝伽言。仁者善聽。吾當更說星紀所行善<lb
+ n="0405b24" ed="T"/><ab type='prose'>帝勝伽言。仁者善聽。吾當更說星紀所行善<lb
  n="0405b25" ed="T"/>惡之相。月離昴宿。是日生者。有大名稱。人所<lb
  n="0405b26" ed="T"/>恭敬。月離於畢者。所生豪貴。眾共讚歎。月離<lb
  n="0405b27" ed="T"/>於觜。是日生者。喜多忿諍。含毒害心。月離參<lb
@@ -845,8 +845,8 @@
  n="0408c14" ed="T"/>子時動者。害貧賤者及與婦人。月初旬動。害<lb
  n="0408c15" ed="T"/>於商人。中旬動者。害豪勝人及童幼者。下旬<lb
  n="0408c16" ed="T"/>地動。為災尠少。</ab></div><lb
- n="0408c17" ed="T"/><div type="pin" level="2"><head>摩登伽經明時分別品第七</head><lb
- n="0408c18" ed="T"/><ab type="prose">大婆羅門。我今更說晝夜分數長短時節。汝<lb
+ n="0408c17" ed="T"/><div type='pin' level='2'><head>摩登伽經明時分別品第七</head><lb
+ n="0408c18" ed="T"/><ab type='prose'>大婆羅門。我今更說晝夜分數長短時節。汝<lb
  n="0408c19" ed="T"/>當善聽。冬十一月。其日最短。晝夜分別。有三<lb
  n="0408c20" ed="T"/>十分。晝十二分。夜十八分。五月夏至日。晝十<lb
  n="0408c21" ed="T"/>八分。夜十二分。八月二月。晝夜停等。自從五<lb
@@ -987,8 +987,8 @@
  n="0410b11" ed="T"/>丘遠塵離垢。得阿羅漢。諸婆羅門得法眼淨。<lb
  n="0410b12" ed="T"/>佛說是經已。波斯匿王及四部眾。歡喜奉行。<lb
  n="0410b13" ed="T"/>
-</ab><ab type="juan" subtype="close">摩登伽經卷下</ab></div><lb
- n="0410b14" ed="T"/><div type="w" level="2"><ab type="prose">此卷第三紙第二十行。月離女星之上丹<lb
+</ab><ab type='juan' subtype='close'>摩登伽經卷下</ab></div><lb
+ n="0410b14" ed="T"/><div type='w' level='2'><ab type='prose'>此卷第三紙第二十行。月離女星之上丹<lb
  n="0410b15" ed="T"/>藏有注云。脫牛宿。挍曰下此注者曾未知<lb
  n="0410b16" ed="T"/>西域唯用二十七宿。凡言脫者。言其容有<lb
  n="0410b17" ed="T"/>而無。彼本不用經無理然。何云脫耶。如孰<lb

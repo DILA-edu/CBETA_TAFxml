@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n0976</idno>
                 </bibl>
@@ -42,13 +42,13 @@
         <body><lb
  n="0401a20" ed="T"/><lb
  n="0401a21" ed="T"/><lb
- n="0401a22" ed="T"/><div type="jing" level="1"><lb
+ n="0401a22" ed="T"/><div type='jing' level='1'><lb
  n="0401a23" ed="T"/>
-<ab type="juan" subtype="open">佛頂大白傘蓋陀羅尼經</ab><lb
+<ab type='juan' subtype='open'>佛頂大白傘蓋陀羅尼經</ab><lb
  n="0401a24" ed="T"/><lb
  n="0401a25" ed="T"/><byline>光祿大夫大司徒三藏<lb
  n="0401a26" ed="T"/>法師沙囉巴奉　詔譯</byline><lb
- n="0401a27" ed="T"/><ab type="prose">如是我聞。一時婆伽梵在三十三天善法堂<lb
+ n="0401a27" ed="T"/><ab type='prose'>如是我聞。一時婆伽梵在三十三天善法堂<lb
  n="0401a28" ed="T"/>中。與諸比丘諸大菩薩天主帝釋無量眾俱。<lb
  n="0401a29" ed="T"/>爾時婆伽梵敷座而坐。即入普觀烏瑟尾沙<pb n="0401b" id="T19.0976.0401b" ed="T"/><lb
  n="0401b01" ed="T"/>三昧。時婆伽梵忽從肉髻。演出祕密微妙法<lb
@@ -85,10 +85,10 @@
  n="0401c03" ed="T"/>所有一切起毒害者。并諸惡夢皆使殄滅。又<lb
  n="0401c04" ed="T"/>能救除毒藥器械水火等難。<lb
  n="0401c05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 無敵大勢力　　暴惡大力母　　<lb
  n="0401c06" ed="T"/>熾盛威光母　　白蓋大力母　　<lb
- n="0401c07" ed="T"/>焰鬘白衣母　　多羅󰸞蹙相　　<lb
+ n="0401c07" ed="T"/>焰鬘白衣母　　多羅𮜫蹙相　　<lb
  n="0401c08" ed="T"/>稱鬘勝金剛　　蓮相金剛相　　<lb
  n="0401c09" ed="T"/>具鬘無能敵　　金剛牆摧母　　<lb
  n="0401c10" ed="T"/>諸善天恭敬　　善相大威光　　<lb
@@ -98,9 +98,9 @@
  n="0401c14" ed="T"/>窈窕母持杵　　眼如金光母　　<lb
  n="0401c15" ed="T"/>金剛炬白母　　蓮華日月光　　
 </ab><lb
- n="0401c16" ed="T"/><ab type="prose">諸手印眾願擁護我願擁護我。<lb
+ n="0401c16" ed="T"/><ab type='prose'>諸手印眾願擁護我願擁護我。<lb
  n="0401c17" ed="T"/></ab>
-<ab type="dharani">唵唎瑟羯拏般囉舍悉多耶薩唎嚩<lb
+<ab type='dharani'>唵唎瑟羯拏般囉舍悉多耶薩唎嚩<lb
  n="0401c18" ed="T"/>怛他伽跢烏瑟尼沙悉怛怛鉢帝唎吽覩嚧雍暫鉢拏迦唎吽覩嚧雍悉<lb
  n="0401c20" ed="T"/>耽嚩拏迦唎吽覩嚧雍摩喝拏伽唎<lb
  n="0401c21" ed="T"/>吽覩嚧雍摩訶逼姪耶三囉佉拏迦唎<lb
@@ -115,9 +115,9 @@
  n="0402a01" ed="T"/>囉訶喃毘耽薩拏伽唎吽覩嚧雍囉叉<lb
  n="0402a02" ed="T"/>囉叉𤙖<lb
  n="0402a03" ed="T"/></ab>
-<ab type="prose">願擁護我願擁護我　婆伽婆帝佛頂大白傘<lb
+<ab type='prose'>願擁護我願擁護我　婆伽婆帝佛頂大白傘<lb
  n="0402a04" ed="T"/>蓋金剛頂髻般囉當雞囉母千手千臂。有<lb
- n="0402a05" ed="T"/>百千俱胝那眼。不二熾󰷨之相金剛廣大母。<lb
+ n="0402a05" ed="T"/>百千俱胝那眼。不二熾𭵵之相金剛廣大母。<lb
  n="0402a06" ed="T"/>於三界內得大自在。願擁護我願擁護我。<lb
  n="0402a07" ed="T"/>唵國王怖賊寇怖火怖水怖。毒藥怖兵器怖<lb
  n="0402a08" ed="T"/>他兵來侵怖。饑饉怖冤害怖疾疫怖霹靂怖。<lb
@@ -151,7 +151,7 @@
  n="0402b07" ed="T"/>呪。悉皆斷除釘金剛鐝　南謨婆伽婆帝佛<lb
  n="0402b08" ed="T"/>頂大白傘蓋母願擁護我願擁護我。<lb
  n="0402b09" ed="T"/></ab>
-<ab type="dharani">唵阿悉怛阿拏辣囉迦鉢囉波悉普吒毘迦悉怛怛鉢帝唎拶辣拶辣迦<lb
+<ab type='dharani'>唵阿悉怛阿拏辣囉迦鉢囉波悉普吒毘迦悉怛怛鉢帝唎拶辣拶辣迦<lb
  n="0402b11" ed="T"/>怛迦怛陀囉陀囉毘陀囉毘陀囉親陀親<lb
  n="0402b12" ed="T"/>陀頻陀頻陀吽吽發吒發吒莎嚩訶<lb
  n="0402b13" ed="T"/>醯醯發吒呼呼發吒阿牟羯耶發吒阿<lb
@@ -199,7 +199,7 @@
  n="0403a02" ed="T"/>帝夷發吒羯鉢栗夷發吒阿地穆帝尸<lb
  n="0403a03" ed="T"/>摩舍拏婆悉尼夷發吒<lb
  n="0403a04" ed="T"/></ab>
-<ab type="prose">若有眾生於我起毒害心者　起暴惡心者<lb
+<ab type='prose'>若有眾生於我起毒害心者　起暴惡心者<lb
  n="0403a05" ed="T"/>　食神者　食精氣者　食胎者　食血者　食<lb
  n="0403a06" ed="T"/>膏者　食肉者　食脂者　食髓者　食產者<lb
  n="0403a07" ed="T"/>　奪命者　食吐者　食不淨者　食小便者<lb
@@ -231,12 +231,12 @@
  n="0403b04" ed="T"/>如是悉以明呪槃縛。威神繫縛。諸明呪繫縛。<lb
  n="0403b05" ed="T"/>所有鬼魅亦皆繫縛。<lb
  n="0403b06" ed="T"/></ab>
-<ab type="dharani">哆姪耶他唵阿拏隷阿拏隷毖瑟帝毖<lb
+<ab type='dharani'>哆姪耶他唵阿拏隷阿拏隷毖瑟帝毖<lb
  n="0403b07" ed="T"/>瑟帝鼻囉鼻囉嚩日囉陀唎斑<lb
  n="0403b08" ed="T"/>陀斑陀嚩日囉跋尼發吒吽吽發吒發<lb
  n="0403b09" ed="T"/>吒吽覩嚧雍斑陀發吒莎嚩訶<lb
  n="0403b10" ed="T"/></ab>
-<ab type="prose">若人齎此佛頂大白傘蓋般囉當鷄囉母<lb
+<ab type='prose'>若人齎此佛頂大白傘蓋般囉當鷄囉母<lb
  n="0403b11" ed="T"/>陀羅尼經。或以樺皮貝葉素㲲書寫是已。或<lb
  n="0403b12" ed="T"/>帶身上或繫於項。當知是人盡其生年毒不<lb
  n="0403b13" ed="T"/>能害。并諸器械水火寶毒蠱毒呪詛皆不能<lb
@@ -263,7 +263,7 @@
  n="0403c05" ed="T"/>即消滅。疫癘諸病惱害鬪諍。他兵侵擾一切<lb
  n="0403c06" ed="T"/>災厄悉皆消滅。<lb
  n="0403c07" ed="T"/></ab>
-<ab type="dharani">跢姪耶他唵瑟覩嚧甕斑陀斑陀<lb
+<ab type='dharani'>跢姪耶他唵瑟覩嚧甕斑陀斑陀<lb
  n="0403c08" ed="T"/>願擁護我願擁護我莎嚩訶囉叉囉叉𤚥唵<lb
  n="0403c09" ed="T"/>吽瑟覩嚧甕斑陀斑陀嚩日囉願擁<lb
  n="0403c10" ed="T"/>護我囉叉囉叉𤚥嚩日囉鉢尼夷吽發<lb
@@ -279,11 +279,11 @@
  n="0403c21" ed="T"/>怛多鉢底唎吽發吒莎嚩訶吽麻麻吽<lb
  n="0403c22" ed="T"/>尼莎嚩訶<lb
  n="0403c23" ed="T"/></ab>
-<ab type="prose">若能依佛修習。所有一切諸天龍王。隨順時<lb
+<ab type='prose'>若能依佛修習。所有一切諸天龍王。隨順時<lb
  n="0403c24" ed="T"/>序降霔甘雨。爾時一切諸佛諸大菩薩天龍<lb
  n="0403c25" ed="T"/>藥叉徤達縛阿素洛揭路荼緊捺洛莫呼洛伽<lb
  n="0403c26" ed="T"/>人非人等。一切大眾聞佛所說。皆大歡喜信<lb
  n="0403c27" ed="T"/>受奉行。<lb
  n="0403c28" ed="T"/>
-</ab><ab type="juan" subtype="close">佛頂大白傘蓋陀羅尼經</ab></div>
+</ab><ab type='juan' subtype='close'>佛頂大白傘蓋陀羅尼經</ab></div>
 </body></text></TEI>

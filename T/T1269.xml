@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1269</idno>
                 </bibl>
@@ -42,16 +42,16 @@
         <body><lb
  n="0303a04" ed="T"/><lb
  n="0303a05" ed="T"/><lb
- n="0303a06" ed="T"/><div type="jing" level="1"><lb
+ n="0303a06" ed="T"/><div type='jing' level='1'><lb
  n="0303a07" ed="T"/>
-<ab type="juan" subtype="open">佛說金色迦那鉢底陀羅尼經</ab><lb
+<ab type='juan' subtype='open'>佛說金色迦那鉢底陀羅尼經</ab><lb
  n="0303a08" ed="T"/><lb
  n="0303a09" ed="T"/><byline>三藏金剛智奉　詔譯</byline><lb
- n="0303a10" ed="T"/><ab type="prose">如是我聞。一時佛在舍衛國迦蘭竹林園。<lb
+ n="0303a10" ed="T"/><ab type='prose'>如是我聞。一時佛在舍衛國迦蘭竹林園。<lb
  n="0303a11" ed="T"/>大說法愍念一切眾生。說此陀羅尼。屬金<lb
  n="0303a12" ed="T"/>色迦那鉢底。爾時世尊即說真言曰。<lb
  n="0303a13" ed="T"/></ab>
-<ab type="dharani">曩謨率都底迦吒迦吒底吒摩吒<lb
+<ab type='dharani'>曩謨率都底迦吒迦吒底吒摩吒<lb
  n="0303a14" ed="T"/>起哩亹拏起哩亹拏畔惹<lb
  n="0303a15" ed="T"/>畔惹曩謨率都帝護嚕捺跛惹尼<lb
  n="0303a16" ed="T"/>曳娑縛賀阿部多浪拏乞懺質<lb
@@ -59,7 +59,7 @@
  n="0303a18" ed="T"/>摩賀悉底諾乞曩鉢羅句跛野弭矩嚕矩嚕祖嚕祖嚕<lb
  n="0303a20" ed="T"/>謨嚕謨嚕曩謨曩謨<lb
  n="0303a21" ed="T"/></ab>
-<ab type="prose">佛告舍利弗。此是金色迦那鉢底除障難真<lb
+<ab type='prose'>佛告舍利弗。此是金色迦那鉢底除障難真<lb
  n="0303a22" ed="T"/>言。若眾生受持真言者。所作諸法無不成。<lb
  n="0303a23" ed="T"/>大驗當知。定有障難。即於白月若黑月二日<lb
  n="0303a24" ed="T"/>八日十五日。牛糞塗地作壇種種供養所作<lb
@@ -88,5 +88,5 @@
  n="0303b18" ed="T"/>入色孝家生產處。印法并通用。諸毘那翼<lb
  n="0303b19" ed="T"/>迦法通用。勿親惡人。同行者施之無妨。<lb
  n="0303b20" ed="T"/>
-</ab><ab type="juan" subtype="close">金色迦那鉢底經</ab></div>
+</ab><ab type='juan' subtype='close'>金色迦那鉢底經</ab></div>
 </body></text></TEI>

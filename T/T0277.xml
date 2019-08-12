@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T09</biblScope>
                     <idno type="Taisho">T09n0277</idno>
                 </bibl>
@@ -43,10 +43,10 @@
  n="0389b23" ed="T"/><lb
  n="0389b24" ed="T"/><lb
  n="0389b25" ed="T"/>
-<ab type="juan" subtype="open">佛說觀普賢菩薩行法經</ab><lb
+<ab type='juan' subtype='open'>佛說觀普賢菩薩行法經</ab><lb
  n="0389b26" ed="T"/><lb
  n="0389b27" ed="T"/><byline>宋元嘉年曇無蜜多於楊州譯</byline><lb
- n="0389b28" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時佛在毘舍離國大林精舍重閣<lb
+ n="0389b28" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時佛在毘舍離國大林精舍重閣<lb
  n="0389b29" ed="T"/>講堂，告諸比丘：「却後三月我當般涅槃。」尊者<pb n="0389c" ed="T" id="T09.0277.0389c"/><lb
  n="0389c01" ed="T"/>阿難即從座起，整衣服，叉手合掌，遶佛三匝<lb
  n="0389c02" ed="T"/>為佛作禮，胡跪合掌，諦觀如來，目不暫捨。長<lb
@@ -297,7 +297,7 @@
  n="0392b15" ed="T"/>說大乘，於諸佛前自說己過。諸佛如來是汝<lb
  n="0392b16" ed="T"/>慈父，汝當自說舌根所作不善惡業。此舌根<lb
  n="0392b17" ed="T"/>者，動惡業相，妄言、綺語、惡口、兩舌、誹謗、妄語、<lb
- n="0392b18" ed="T"/>讚歎、邪見、說無益語，如是眾多諸雜惡業；<lb
+ n="0392b18" ed="T"/>讚歎邪見、說無益語，如是眾多諸雜惡業；<lb
  n="0392b19" ed="T"/>搆鬪壞亂、法說非法……如是眾罪，今悉懺悔<lb
  n="0392b20" ed="T"/>諸世雄前。』「作是語已，五體投地遍禮十方佛，<lb
  n="0392b21" ed="T"/>合掌長跪，當作是語：『此舌過患無量無邊，諸<lb
@@ -353,7 +353,7 @@
  n="0393a13" ed="T"/>典，當知此人具佛功德，諸惡永滅，從佛慧生。」<lb
  n="0393a14" ed="T"/>爾時，世尊而說偈言：<lb
  n="0393a15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「若有眼根惡、　　業障眼不淨，　　<lb
  n="0393a16" ed="T"/>但當誦大乘、　　思念第一義，　　<lb
  n="0393a17" ed="T"/>是名懺悔眼，　　盡諸不善業。　　<lb
@@ -383,7 +383,7 @@
  n="0393b12" ed="T"/>眾罪如霜露，　　慧日能消除，　　<lb
  n="0393b13" ed="T"/>是故應至心，　　懺悔六情根。」　　
 </ab><lb
- n="0393b14" ed="T"/><ab type="prose">說是偈已，佛告阿難：「汝今持是『懺悔六根觀<lb
+ n="0393b14" ed="T"/><ab type='prose'>說是偈已，佛告阿難：「汝今持是『懺悔六根觀<lb
  n="0393b15" ed="T"/>普賢菩薩法』，普為十方諸天世人廣分別說。<lb
  n="0393b16" ed="T"/>佛滅度後，佛諸弟子若有受持、讀誦、解說方<lb
  n="0393b17" ed="T"/>等經典，應於靜處，若在塚間、若林樹下、阿<lb
@@ -468,5 +468,5 @@
  n="0394b09" ed="T"/>法眼淨，彌勒菩薩……等諸大菩薩及以阿難，聞<lb
  n="0394b10" ed="T"/>佛所說，歡喜奉行。</ab></div><lb
  n="0394b11" ed="T"/>
-<ab type="juan" subtype="close">佛說觀普賢菩薩行法經</ab>
+<ab type='juan' subtype='close'>佛說觀普賢菩薩行法經</ab>
 </body></text></TEI>

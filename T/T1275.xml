@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1275</idno>
                 </bibl>
@@ -39,15 +39,15 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0324a" id="T21.1275.0324a" ed="T"/><lb
  n="0324a01" ed="T"/><lb
- n="0324a02" ed="T"/><div type="jing" level="2"><lb
+ n="0324a02" ed="T"/><div type='jing' level='2'><lb
  n="0324a03" ed="T"/>
-<ab type="juan" subtype="open">聖歡喜天式法</ab><lb
+<ab type='juan' subtype='open'>聖歡喜天式法</ab><lb
  n="0324a04" ed="T"/><lb
  n="0324a05" ed="T"/><byline>三藏法師般若惹羯羅撰</byline><lb
- n="0324a06" ed="T"/><ab type="prose">若於聖天法大欲開靈驗者。先造立天地盤。<lb
+ n="0324a06" ed="T"/><ab type='prose'>若於聖天法大欲開靈驗者。先造立天地盤。<lb
  n="0324a07" ed="T"/>則天盤長三寸又四寸。地盤長方七寸。以有<lb
  n="0324a08" ed="T"/>乳木及香木。一日之內造之。天地共以白木<lb
  n="0324a09" ed="T"/>作之。造畫時不可見下劣之人。必必精進潔<lb
@@ -80,31 +80,31 @@
  n="0324b07" ed="T"/>以二大指亦竪付近頭指側。大指去來。明曰<lb
  n="0324b08" ed="T"/>。<lb
  n="0324b09" ed="T"/></ab>
-<ab type="dharani">唵簸迦羅主拏禰縛哆野<lb
+<ab type='dharani'>唵簸迦羅主拏禰縛哆野<lb
  n="0324b10" ed="T"/></ab>
-<ab type="prose">次用普印伴呪曰。<lb
+<ab type='prose'>次用普印伴呪曰。<lb
  n="0324b11" ed="T"/></ab>
-<ab type="dharani">唵簸迦羅三萬眷屬從恒河沙守護自他<lb
+<ab type='dharani'>唵簸迦羅三萬眷屬從恒河沙守護自他<lb
  n="0324b12" ed="T"/>祈祈決定急急如律令<lb
  n="0324b13" ed="T"/></ab>
-<ab type="prose">次地盤眾等召請印。作帝殊羅施印。以二小<lb
+<ab type='prose'>次地盤眾等召請印。作帝殊羅施印。以二小<lb
  n="0324b14" ed="T"/>指二無名指叉於掌內竪。二中指頭相捻。以<lb
  n="0324b15" ed="T"/>二頭指各加中指背節下半分。大指來去。呪<lb
  n="0324b16" ed="T"/>曰。<lb
  n="0324b17" ed="T"/></ab>
-<ab type="dharani">唵鑠都嚕波羅摩馱儞曳莎訶<lb
+<ab type='dharani'>唵鑠都嚕波羅摩馱儞曳莎訶<lb
  n="0324b18" ed="T"/></ab>
-<ab type="prose">次二十八宿三十六禽召請印呪曰。<lb
+<ab type='prose'>次二十八宿三十六禽召請印呪曰。<lb
  n="0324b19" ed="T"/></ab>
-<ab type="dharani">唵知里安疑嚕儞曳莎訶<lb
+<ab type='dharani'>唵知里安疑嚕儞曳莎訶<lb
  n="0324b20" ed="T"/></ab>
-<ab type="prose">次請一切諸天類等印呪。金剛合掌立二空<lb
+<ab type='prose'>次請一切諸天類等印呪。金剛合掌立二空<lb
  n="0324b21" ed="T"/>去來。呪曰。<lb
  n="0324b22" ed="T"/></ab>
-<ab type="dharani">富順愛神相合部類宴坐引入伴族一億二億<lb
+<ab type='dharani'>富順愛神相合部類宴坐引入伴族一億二億<lb
  n="0324b23" ed="T"/>一切諸頭頭契來入入入娑婆呵<lb
  n="0324b24" ed="T"/></ab>
-<ab type="prose">次次供養契印。悉求他之中。<lb
+<ab type='prose'>次次供養契印。悉求他之中。<lb
  n="0324b25" ed="T"/><lb
  n="0324b26" ed="T"/>盛冥文符<lb
  n="0324b27" ed="T"/><lb
@@ -140,7 +140,7 @@
  n="0324c28" ed="T"/>欲止雨降難者。以愛王天加帝釋天。<lb
  n="0324c29" ed="T"/>欲止旱魃降雨者。以議特天加水天王。<pb n="0325a" id="T21.1275.0325a" ed="T"/><lb
  n="0325a01" ed="T"/>欲止腹病頭病者。以日輪天加炎魔天。<lb
- n="0325a02" ed="T"/>欲遂論議決󱂹者。以日輪天加大自在。呼二<lb
+ n="0325a02" ed="T"/>欲遂論議決𬿥者。以日輪天加大自在。呼二<lb
  n="0325a03" ed="T"/>十八宿等。<lb
  n="0325a04" ed="T"/>欲付公私遂所聖事者。以愛王天加帝釋天。<lb
  n="0325a05" ed="T"/>欲得愜年穀者。以議特天加帝釋天。<lb
@@ -154,23 +154,23 @@
  n="0325a13" ed="T"/>次結三部護身印明依諸通印。<lb
  n="0325a14" ed="T"/>都合攝鉤印。二手內縛置頂上散。呪曰。<lb
  n="0325a15" ed="T"/></ab>
-<ab type="dharani">唵薩羅薩羅天地都合禁禁吽吽跘<lb
+<ab type='dharani'>唵薩羅薩羅天地都合禁禁吽吽跘<lb
  n="0325a16" ed="T"/></ab>
-<ab type="prose">次結對印不動謁哦印。呪曰。<lb
+<ab type='prose'>次結對印不動謁哦印。呪曰。<lb
  n="0325a17" ed="T"/></ab>
-<ab type="dharani">吽吽吉儞吉儞吽泮娑婆呵<lb
+<ab type='dharani'>吽吽吉儞吉儞吽泮娑婆呵<lb
  n="0325a18" ed="T"/></ab>
-<ab type="prose">次十方結界印　地結方牆虛空結印等真言<lb
+<ab type='prose'>次十方結界印　地結方牆虛空結印等真言<lb
  n="0325a19" ed="T"/>亦爾。<lb
  n="0325a20" ed="T"/>次以糸對之。呪曰。<lb
  n="0325a21" ed="T"/></ab>
-<ab type="dharani">唵乞曳曳曳吽<lb
+<ab type='dharani'>唵乞曳曳曳吽<lb
  n="0325a22" ed="T"/></ab>
-<ab type="prose">件法天法國於菩提寺所傳也。其調度不多<lb
+<ab type='prose'>件法天法國於菩提寺所傳也。其調度不多<lb
  n="0325a23" ed="T"/>類。時人皆號驗法焉。<lb
  n="0325a24" ed="T"/>
-</ab><ab type="juan" subtype="close">聖天式法一卷</ab></div><lb
- n="0325a25" ed="T"/><div type="w" level="2"><ab type="prose"><lb
+</ab><ab type='juan' subtype='close'>聖天式法一卷</ab></div><lb
+ n="0325a25" ed="T"/><div type='w' level='2'><ab type='prose'><lb
  n="0325a26" ed="T"/>同天次第一卷<lb
  n="0325a27" ed="T"/>先淨三業印真言　次護身真言印　次向建<lb
  n="0325a28" ed="T"/>受三度建吞之　次天鼓三七返　次向本尊<lb

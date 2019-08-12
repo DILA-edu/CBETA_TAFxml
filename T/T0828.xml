@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T17</biblScope>
                     <idno type="Taisho">T17n0828</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0870c10" ed="T"/><lb
  n="0870c11" ed="T"/><lb
  n="0870c12" ed="T"/>
-<ab type="juan" subtype="open">無字寶篋經</ab><lb
+<ab type='juan' subtype='open'>無字寶篋經</ab><lb
  n="0870c13" ed="T"/><lb
  n="0870c14" ed="T"/><byline>元魏天竺三藏菩提流支譯</byline><lb
- n="0870c15" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時，婆伽婆住王舍大城耆闍崛<lb
+ n="0870c15" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時，婆伽婆住王舍大城耆闍崛<lb
  n="0870c16" ed="T"/>山中。時，有無量百千萬億大菩薩眾圍遶如<lb
  n="0870c17" ed="T"/>來，皆是大智，善權方便，勇猛精進；善能通達<lb
  n="0870c18" ed="T"/>無字法門；善能清淨是處、非處；慚愧解脫羅<lb
@@ -151,7 +151,7 @@
  n="0871c29" ed="T"/>彼法爾時得名為藏。<pb n="0872a" ed="T" id="T17.0828.0872a"/><lb
  n="0872a01" ed="T"/>「善男子！我亦復說一切諸法如幻如焰，是佛<lb
  n="0872a02" ed="T"/>所覺。性相一味解脫之法，是佛所覺。所有性<lb
- n="0872a03" ed="T"/>相一味解脫，是一切法廣博嚴莊。<lb
+ n="0872a03" ed="T"/>相一味解脫，是一切法廣博嚴藏。<lb
  n="0872a04" ed="T"/>「善男子！若善男子、善女人，復有一法，是佛所<lb
  n="0872a05" ed="T"/>覺。善男子！所謂：諸法不去不來、無因無緣、無<lb
  n="0872a06" ed="T"/>生無滅、無思不思、無增無減。善男子！若法<lb
@@ -198,5 +198,5 @@
  n="0872b18" ed="T"/>諸天及四大王，人、天、阿修羅、迦樓羅、緊那羅、<lb
  n="0872b19" ed="T"/>乾闥婆等，一切世間，聞佛所說，皆大歡喜。</ab></div><lb
  n="0872b20" ed="T"/>
-<ab type="juan" subtype="close">無字寶篋經</ab>
+<ab type='juan' subtype='close'>無字寶篋經</ab>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0054</idno>
                 </bibl>
@@ -41,12 +41,12 @@
     <text>
         <body><pb n="0848b" ed="T" id="T01.0054.0848b"/><lb
  n="0848b01" ed="T"/><lb
- n="0848b02" ed="T"/><div type="jing" level="1"><lb
+ n="0848b02" ed="T"/><div type='jing' level='1'><lb
  n="0848b03" ed="T"/>
-<ab type="juan" subtype="open">佛說釋摩男本四子經</ab><lb
+<ab type='juan' subtype='open'>佛說釋摩男本四子經</ab><lb
  n="0848b04" ed="T"/><lb
  n="0848b05" ed="T"/><byline>吳月支國居士支謙譯</byline><lb
- n="0848b06" ed="T"/><ab type="prose">聞如是：一時佛在釋羈瘦國，行在迦維羅衛<lb
+ n="0848b06" ed="T"/><ab type='prose'>聞如是：一時佛在釋羈瘦國，行在迦維羅衛<lb
  n="0848b07" ed="T"/>兜國泥拘類園，坐於樹下。是時有釋人名曰<lb
  n="0848b08" ed="T"/>摩男，到佛所前，以頭面著佛足為禮，白佛言：<lb
  n="0848b09" ed="T"/>「我常聞佛語，輙著意中。我聞佛說，人心有三<lb
@@ -147,5 +147,5 @@
  n="0849b17" ed="T"/>言：「我當歸思惟諷誦是經典，日當到佛所。」摩<lb
  n="0849b18" ed="T"/>男前為佛作禮而去。<lb
  n="0849b19" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說釋摩男本四子經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說釋摩男本四子經</ab></div>
 </body></text></TEI>

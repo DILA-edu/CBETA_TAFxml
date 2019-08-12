@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1408</idno>
                 </bibl>
@@ -42,13 +42,13 @@
         <body><lb
  n="0922c07" ed="T"/><lb
  n="0922c08" ed="T"/><lb
- n="0922c09" ed="T"/><div type="jing" level="1"><lb
+ n="0922c09" ed="T"/><div type='jing' level='1'><lb
  n="0922c10" ed="T"/>
-<ab type="juan" subtype="open">佛說最上意陀羅尼經</ab><lb
+<ab type='juan' subtype='open'>佛說最上意陀羅尼經</ab><lb
  n="0922c11" ed="T"/><lb
  n="0922c12" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚少卿<lb
  n="0922c13" ed="T"/>傳法大師臣施護奉　詔譯</byline><lb
- n="0922c14" ed="T"/><ab type="prose">如是我聞。一時佛在救鴿城牛頭栴檀精舍。<lb
+ n="0922c14" ed="T"/><ab type='prose'>如是我聞。一時佛在救鴿城牛頭栴檀精舍。<lb
  n="0922c15" ed="T"/>與大比丘眾俱。及天龍八部恭敬圍繞瞻仰<lb
  n="0922c16" ed="T"/>而住。<lb
  n="0922c17" ed="T"/>爾時世尊告阿難陀及諸大眾言。我觀此南<lb
@@ -100,7 +100,7 @@
  n="0923b05" ed="T"/>即誦陀羅尼。時彼神人為傳教比丘。宣說最<lb
  n="0923b06" ed="T"/>上意陀羅尼曰。<lb
  n="0923b07" ed="T"/></ab>
-<ab type="dharani">怛儞也他尾布羅誐里𡁠帝尾布羅濕嚩<lb
+<ab type='dharani'>怛儞也他尾布羅誐里𡁠帝尾布羅濕嚩<lb
  n="0923b08" ed="T"/>哩尾布羅喻儞世阿羅誐帝莎賀曩謨薩哩嚩<lb
  n="0923b09" ed="T"/>儞嚩囉抳尾瑟劍比拏怛他誐多寫怛儞<lb
  n="0923b10" ed="T"/>也他呬摩呬摩賀摩呬莎賀曩謨虞<lb
@@ -144,7 +144,7 @@
  n="0923c21" ed="T"/>具波三摩野莎賀摩摩薩哩嚩喃左<lb
  n="0923c22" ed="T"/>莎賀<lb
  n="0923c23" ed="T"/></ab>
-<ab type="prose">爾時神人說此最上意陀羅尼已。告比丘傳<lb
+<ab type='prose'>爾時神人說此最上意陀羅尼已。告比丘傳<lb
  n="0923c24" ed="T"/>教言。汝今以此陀羅尼於南閻浮提十方之<lb
  n="0923c25" ed="T"/>內。國邑聚落處處傳說。使諸眾生咸得聞知。<lb
  n="0923c26" ed="T"/>當令此陀羅尼廣宣流布。何以故。為與眾生<lb
@@ -189,5 +189,5 @@
  n="0924b07" ed="T"/>諸大眾。聞佛說已咸悉歡喜。專心受持禮佛<lb
  n="0924b08" ed="T"/>而退。<lb
  n="0924b09" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說最上意陀羅尼經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說最上意陀羅尼經</ab></div>
 </body></text></TEI>

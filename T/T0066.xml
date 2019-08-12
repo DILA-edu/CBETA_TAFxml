@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0066</idno>
                 </bibl>
@@ -40,12 +40,12 @@
     </teiHeader>
     <text>
         <body><pb n="0864b" ed="T" id="T01.0066.0864b"/><lb
- n="0864b01" ed="T"/><div type="jing" level="1"><lb
+ n="0864b01" ed="T"/><div type='jing' level='1'><lb
  n="0864b02" ed="T"/>
-<ab type="juan" subtype="open">佛說魔嬈亂經</ab><lb
+<ab type='juan' subtype='open'>佛說魔嬈亂經</ab><lb
  n="0864b03" ed="T"/><lb
  n="0864b04" ed="T"/><byline>失譯人名附後漢錄</byline><lb
- n="0864b05" ed="T"/><ab type="prose">聞如是：一時，婆伽婆在跋祇尸牧摩鼻量鹿野<lb
+ n="0864b05" ed="T"/><ab type='prose'>聞如是：一時，婆伽婆在跋祇尸牧摩鼻量鹿野<lb
  n="0864b06" ed="T"/>園中。彼時，尊者大目乾連，為世尊作窟，時<lb
  n="0864b07" ed="T"/>露地彷徉，教授令作。彼時，魔波旬自化其身<lb
  n="0864b08" ed="T"/>令微小，入尊者目乾連腹中。彼時目乾連，<lb
@@ -209,7 +209,7 @@
  n="0866a21" ed="T"/>獄中，以滿百歲在地獄中。』彼時魔波旬，便恐<lb
  n="0866a22" ed="T"/>怖身毛皆竪。」尊者大目乾連，即時說偈曰：<lb
  n="0866a23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「云何止地獄，　　而令惡在中，　　<lb
  n="0866a24" ed="T"/>犯佛婆羅門，　　及犯此比丘。　　<lb
  n="0866a25" ed="T"/>名阿鼻泥犁，　　而令惡止中，　　<lb
@@ -274,5 +274,5 @@
  n="0866c26" ed="T"/>恐怖極恐懼，　　忽然則不現。　　
 </ab><lb
  n="0866c27" ed="T"/>
-<ab type="juan" subtype="close">佛說魔嬈亂經</ab></div>
+<ab type='juan' subtype='close'>佛說魔嬈亂經</ab></div>
 </body></text></TEI>

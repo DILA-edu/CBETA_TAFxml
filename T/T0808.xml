@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T17</biblScope>
                     <idno type="Taisho">T17n0808</idno>
                 </bibl>
@@ -43,15 +43,15 @@
  n="0754a01" ed="T"/><lb
  n="0754a02" ed="T"/><lb
  n="0754a03" ed="T"/>
-<ab type="juan" subtype="open">佛說犢子經</ab><lb
+<ab type='juan' subtype='open'>佛說犢子經</ab><lb
  n="0754a04" ed="T"/><lb
  n="0754a05" ed="T"/><byline>吳月氏優婆塞支謙譯</byline><lb
- n="0754a06" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時佛在舍衛國祇洹阿那邠遲阿<lb
+ n="0754a06" ed="T"/><div type='jing' level='1'><ab type='prose'>聞如是：一時佛在舍衛國祇洹阿那邠遲阿<lb
  n="0754a07" ed="T"/>藍精舍。爾時佛遇風患，當須牛乳。時有婆羅<lb
  n="0754a08" ed="T"/>門大富，去城不遠。時佛遣阿難言：「汝往到婆<lb
  n="0754a09" ed="T"/>羅門家從乞牛乳。」阿難受教而往，便至婆<lb
  n="0754a10" ed="T"/>羅門家。婆羅門問阿難言：「來何所求？」阿難<lb
- n="0754a11" ed="T"/>言：「如來向者少遇風患，故遣我乞牛乳耳。」<lb
+ n="0754a11" ed="T"/>言：「如來向者小遇風患，故遣我乞牛乳耳。」<lb
  n="0754a12" ed="T"/>婆羅門言：「牛在彼間，自𤚲取之。」阿難即往到<lb
  n="0754a13" ed="T"/>牛群所。有一牸牛，性常弊惡，無人能近。阿<lb
  n="0754a14" ed="T"/>難即自思惟：「我法不應自𤚲取牛乳。」<lb
@@ -85,5 +85,5 @@
  n="0754b13" ed="T"/>佛不可不信，經不可不讀，道不可不學。普<lb
  n="0754b14" ed="T"/>告天上、天下，皆悉令知。」</ab></div><lb
  n="0754b15" ed="T"/>
-<ab type="juan" subtype="close">佛說犢子經</ab>
+<ab type='juan' subtype='close'>佛說犢子經</ab>
 </body></text></TEI>

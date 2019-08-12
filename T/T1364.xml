@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1364</idno>
                 </bibl>
@@ -41,12 +41,12 @@
     <text>
         <body><pb n="0883b" id="T21.1364.0883b" ed="T"/><lb
  n="0883b01" ed="T"/><lb
- n="0883b02" ed="T"/><div type="jing" level="1"><lb
+ n="0883b02" ed="T"/><div type='jing' level='1'><lb
  n="0883b03" ed="T"/>
-<ab type="juan" subtype="open">妙臂印幢陀羅尼經</ab><lb
+<ab type='juan' subtype='open'>妙臂印幢陀羅尼經</ab><lb
  n="0883b04" ed="T"/><lb
  n="0883b05" ed="T"/><byline>大唐于闐三藏實叉難陀奉　制譯</byline><lb
- n="0883b06" ed="T"/><ab type="prose">如是我聞。一時佛在雞羅娑山諸獸依處妙<lb
+ n="0883b06" ed="T"/><ab type='prose'>如是我聞。一時佛在雞羅娑山諸獸依處妙<lb
  n="0883b07" ed="T"/>宮殿中。與大比丘眾千二百五十人。又與無<lb
  n="0883b08" ed="T"/>量菩薩摩訶薩俱。文殊師利法王子而為上<lb
  n="0883b09" ed="T"/>首。靡不皆如童子之形。并賢護等十六丈夫。<lb
@@ -63,17 +63,17 @@
  n="0883b20" ed="T"/>印幢。若能常念誦習思惟。速得除滅五無間<lb
  n="0883b21" ed="T"/>罪。富貴安樂大姓家生。爾時世尊即說呪曰。<lb
  n="0883b22" ed="T"/></ab>
-<ab type="dharani">怛姪他迦囉迦囉枳利枳利句嚕句<lb
+<ab type='dharani'>怛姪他迦囉迦囉枳利枳利句嚕句<lb
  n="0883b23" ed="T"/>嚕娑囉娑囉徙唎徙唎蘇嚕蘇嚕　薩婆<lb
  n="0883b24" ed="T"/>佛陀阿婆盧枳帝陀囉陀囉達摩阿婆<lb
  n="0883b25" ed="T"/>盧枳帝蔗囉蔗囉僧伽阿提瑟恥帝跋<lb
- n="0883b26" ed="T"/>囉跋囉阿佞迦佛陀俱胝婆瑟低󰍺那󰍺那薩婆阿跋囉那儞寐<lb
+ n="0883b26" ed="T"/>囉跋囉阿佞迦佛陀俱胝婆瑟低𭣋那𭣋那薩婆阿跋囉那儞寐<lb
  n="0883b28" ed="T"/>薩婆毒佉阿婆那耶勃囇多勃囇<lb
  n="0883b29" ed="T"/>多姪曬多姪曬多怛吒怛吒<pb n="0883c" id="T21.1364.0883c" ed="T"/><lb
  n="0883c01" ed="T"/>薩普吒耶薩普吒耶薩婆阿跋囉那阿<lb
  n="0883c02" ed="T"/>播耶突揭帝寧蘇婆呵<lb
  n="0883c03" ed="T"/></ab>
-<ab type="prose">善男子此陀羅尼。恒河沙等諸佛所說。阿難<lb
+<ab type='prose'>善男子此陀羅尼。恒河沙等諸佛所說。阿難<lb
  n="0883c04" ed="T"/>佛世難遇人身難得。受持此呪轉復為難。善<lb
  n="0883c05" ed="T"/>男子我念往昔。毘婆尸佛次第乃至迦葉如<lb
  n="0883c06" ed="T"/>來。咸為我說此陀羅尼。普欲安樂諸眾生故。<lb
@@ -81,5 +81,5 @@
  n="0883c08" ed="T"/>自在菩薩摩訶薩等。及天龍八部一切眾會。<lb
  n="0883c09" ed="T"/>聞佛所說皆大歡喜信受奉行。<lb
  n="0883c10" ed="T"/>
-</ab><ab type="juan" subtype="close">妙臂印幢陀羅尼經</ab></div>
+</ab><ab type='juan' subtype='close'>妙臂印幢陀羅尼經</ab></div>
 </body></text></TEI>

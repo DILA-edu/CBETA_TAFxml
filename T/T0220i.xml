@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T07</biblScope>
                     <idno type="Taisho">T07n0220i</idno>
                 </bibl>
@@ -39,12 +39,13 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><pb n="0986a" ed="T" id="T07.0220i.0986a"/><lb
+        <body><div level='1'>
+<pb n="0986a" ed="T" id="T07.0220i.0986a"/><lb
  n="0986a01" ed="T"/><lb
- n="0986a02" ed="T"/><div type="hui" level="1"><head>大般若經第十會般若理趣分</head><div type="xu" level="2"><head>序</head><lb
+ n="0986a02" ed="T"/><div type='hui' level='2'><head>大般若經第十會般若理趣分</head><div type='xu' level='3'><head>序</head><lb
  n="0986a03" ed="T"/><lb
  n="0986a04" ed="T"/><byline>西明寺沙門玄則撰</byline><lb
- n="0986a05" ed="T"/><ab type="prose">般若理趣分者，蓋乃覈諸會之旨歸、綰積篇<lb
+ n="0986a05" ed="T"/><ab type='prose'>般若理趣分者，蓋乃覈諸會之旨歸、綰積篇<lb
  n="0986a06" ed="T"/>之宗緒，眇詞筌而動眷、燭意象以興言。是<lb
  n="0986a07" ed="T"/>以瞬德寶之所叢，則金剛之慧為極；晞觀照<lb
  n="0986a08" ed="T"/>之攸炫，則圓鏡之智居尊。所以上集天宮，因<lb
@@ -61,15 +62,15 @@
  n="0986a19" ed="T"/>理則理邃環中，談趣則趣沖垓表。雖一軸單<lb
  n="0986a20" ed="T"/>譯而具該諸分，若不留連此旨、咀詠斯文，何<lb
  n="0986a21" ed="T"/>能指𥆐遙津、搜奇密藏矣？</ab></div><lb
- n="0986a22" ed="T"/><div type="fen" level="2"><lb
+ n="0986a22" ed="T"/><div type='fen' level='3'><lb
  n="0986a23" ed="T"/><lb
  n="0986a24" ed="T"/>
-<ab type="juan" subtype="open">大般若波羅蜜多經卷第五百七<lb
+<ab type='juan' subtype='open'>大般若波羅蜜多經卷第五百七<lb
  n="0986a25" ed="T"/>十八</ab><lb
  n="0986a26" ed="T"/><lb
  n="0986a27" ed="T"/><byline>三藏法師玄奘奉　詔譯</byline><lb
  n="0986a28" ed="T"/><head>第十般若理趣分</head><lb
- n="0986a29" ed="T"/><ab type="prose">如是我聞：一時，薄伽梵妙善成就一切如來<pb n="0986b" ed="T" id="T07.0220i.0986b"/><lb
+ n="0986a29" ed="T"/><ab type='prose'>如是我聞：一時，薄伽梵妙善成就一切如來<pb n="0986b" ed="T" id="T07.0220i.0986b"/><lb
  n="0986b01" ed="T"/>金剛住持平等性智種種希有殊勝功德，已<lb
  n="0986b02" ed="T"/>能善獲一切如來灌頂寶冠超過三界，已能<lb
  n="0986b03" ed="T"/>善得一切如來遍金剛智大觀自在，已得圓<lb
@@ -460,7 +461,7 @@
  n="0990c11" ed="T"/>又大貪等能得清淨、大樂、大財、三界自在，常<lb
  n="0990c12" ed="T"/>能堅固饒益有情。」爾時，如來即說神呪：<lb
  n="0990c13" ed="T"/></ab>
-<ab type="dharani">「納慕薄伽筏帝　鉢剌壤波囉弭多曳　薄底<lb
+<ab type='dharani'>「納慕薄伽筏帝　鉢剌壤波囉弭多曳　薄底<lb
  n="0990c14" ed="T"/>筏攃羅曳　罨跛履弭多窶拏曳<lb
  n="0990c15" ed="T"/>　薩縛呾他揭多跛履布視多曳　薩縛呾他揭<lb
  n="0990c16" ed="T"/>多奴壤多奴壤多邲壤多曳　呾姪他　鉢剌<lb
@@ -468,23 +469,23 @@
  n="0990c18" ed="T"/>娑羯囇　鉢剌壤路迦羯囇　案馱迦囉毘談<lb
  n="0990c19" ed="T"/>末埿　悉遞　蘇悉遞　悉殿都漫薄伽筏底<lb
  n="0990c20" ed="T"/>　薩防伽孫達囇　薄底筏攃囇　鉢剌娑履<lb
- n="0990c21" ed="T"/>多喝悉帝　參磨濕嚩娑羯囇　勃󰊲勃󰊲<lb
- n="0990c22" ed="T"/>　悉󰊲悉󰊲　劍波劍波　浙羅浙羅　曷<lb
+ n="0990c21" ed="T"/>多喝悉帝　參磨濕嚩娑羯囇　勃𭈪勃𭈪<lb
+ n="0990c22" ed="T"/>　悉𭈪悉𭈪　劍波劍波　浙羅浙羅　曷<lb
  n="0990c23" ed="T"/>邏嚩曷邏嚩　阿揭車阿揭車　薄伽筏底<lb
  n="0990c24" ed="T"/>　麼毘濫婆　莎訶<lb
  n="0990c25" ed="T"/></ab>
-<ab type="prose">「如是神呪，三世諸佛皆共宣說、同所護念，能<lb
+<ab type='prose'>「如是神呪，三世諸佛皆共宣說、同所護念，能<lb
  n="0990c26" ed="T"/>受持者一切障滅，隨心所欲無不成辦，疾證<lb
  n="0990c27" ed="T"/>無上正等菩提。」爾時，如來復說神呪：<lb
  n="0990c28" ed="T"/></ab>
-<ab type="dharani">「納慕薄伽筏帝　鉢剌壤波囉弭多曳　呾姪<lb
+<ab type='dharani'>「納慕薄伽筏帝　鉢剌壤波囉弭多曳　呾姪<lb
  n="0990c29" ed="T"/>他　牟尼達䜝　僧揭洛訶達䜝　遏奴揭洛<pb n="0991a" ed="T" id="T07.0220i.0991a"/><lb
  n="0991a01" ed="T"/>訶達䜝　毘目底達䜝　薩馱奴揭洛訶達䜝<lb
  n="0991a02" ed="T"/>　吠室洛末拏達䜝　參漫多奴跛履筏剌呾<lb
  n="0991a03" ed="T"/>那達䜝　窶拏僧揭洛訶達䜝　薩縛迦羅跛<lb
  n="0991a04" ed="T"/>履波剌那達䜝　莎訶<lb
  n="0991a05" ed="T"/></ab>
-<ab type="prose">「如是神呪是諸佛母，能誦持者一切罪滅，常<lb
+<ab type='prose'>「如是神呪是諸佛母，能誦持者一切罪滅，常<lb
  n="0991a06" ed="T"/>見諸佛得宿住智，疾證無上正等菩提。」爾時，<lb
  n="0991a07" ed="T"/>如來復說神呪：<lb
  n="0991a08" ed="T"/>「納慕薄伽筏帝　鉢剌壤波囉弭多曳　呾姪<lb
@@ -518,5 +519,5 @@
  n="0991b07" ed="T"/>剛手等諸大菩薩及餘天眾，聞佛所說皆大<lb
  n="0991b08" ed="T"/>歡喜、信受奉行。<lb
  n="0991b09" ed="T"/>
-</ab><ab type="juan" subtype="close">大般若波羅蜜多經卷第五百七十八</ab></div></div>
+</ab><ab type='juan' subtype='close'>大般若波羅蜜多經卷第五百七十八</ab></div></div></div>
 </body></text></TEI>

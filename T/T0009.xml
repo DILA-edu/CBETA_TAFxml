@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0009</idno>
                 </bibl>
@@ -41,13 +41,13 @@
     <text>
         <body><lb
  n="0213c20" ed="T"/><lb
- n="0213c21" ed="T"/><div type="jing" level="1"><lb
+ n="0213c21" ed="T"/><div type='jing' level='1'><lb
  n="0213c22" ed="T"/>
-<ab type="juan" subtype="open">佛說人仙經</ab><lb
+<ab type='juan' subtype='open'>佛說人仙經</ab><lb
  n="0213c23" ed="T"/><lb
  n="0213c24" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿<lb
  n="0213c25" ed="T"/>卿明教大師臣法賢奉　詔譯</byline><lb
- n="0213c26" ed="T"/><ab type="prose">如是我聞：一時，佛在那提迦城崐左迦精舍<lb
+ n="0213c26" ed="T"/><ab type='prose'>如是我聞：一時，佛在那提迦城崐左迦精舍<lb
  n="0213c27" ed="T"/>中，與大眾俱。爾時，尊者阿難獨止一處，起<lb
  n="0213c28" ed="T"/>如是念：「我佛世尊，先說所有諸方諸國，及諸<lb
  n="0213c29" ed="T"/>城隍，所謂：盎誐國、摩伽陀國、迦尸國、憍薩<pb n="0214a" ed="T" id="T01.0009.0214a"/><lb
@@ -150,7 +150,7 @@
  n="0215a10" ed="T"/>子形，於彼勝會，忽然出現。頭有五髻，色相<lb
  n="0215a11" ed="T"/>具足，於彼會中即便說偈，告諸天曰：<lb
  n="0215a12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『「汝歸佛世尊，　　世間為眼目，　　<lb
  n="0215a13" ed="T"/>善說微妙法，　　令得寂靜句。　　<lb
  n="0215a14" ed="T"/>汝等諸天眾，　　威力大色相，　　<lb
@@ -162,7 +162,7 @@
  n="0215a20" ed="T"/>梵王說偈時，　　具五種妙音，　　<lb
  n="0215a21" ed="T"/>甚深如雲雷，　　聞者樂真實。」　　
 </ab><lb
- n="0215a22" ed="T"/><ab type="prose">「『大梵天王說偈之時，具五種妙音，所謂大梵<lb
+ n="0215a22" ed="T"/><ab type='prose'>「『大梵天王說偈之時，具五種妙音，所謂大梵<lb
  n="0215a23" ed="T"/>音、迦陵頻伽音、大鼓音、大雷音、及愛樂音<lb
  n="0215a24" ed="T"/>等。又彼梵王於勝會中，攝童子形，復現大<lb
  n="0215a25" ed="T"/>身。於意云何？大梵天王隨眾心樂，而現其<lb
@@ -261,5 +261,5 @@
  n="0216b02" ed="T"/>爾時，人仙說是法已，阿難尊者及諸會眾，<lb
  n="0216b03" ed="T"/>得聞是法，歡喜信受，禮佛而退。<lb
  n="0216b04" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說人仙經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說人仙經</ab></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0039</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0822b09" ed="T"/><lb
  n="0822b10" ed="T"/><lb
- n="0822b11" ed="T"/><div type="jing" level="1"><lb
+ n="0822b11" ed="T"/><div type='jing' level='1'><lb
  n="0822b12" ed="T"/>
-<ab type="juan" subtype="open">佛說頂生王故事經</ab><lb
+<ab type='juan' subtype='open'>佛說頂生王故事經</ab><lb
  n="0822b13" ed="T"/><lb
  n="0822b14" ed="T"/><byline>西晉三藏法炬譯</byline><lb
- n="0822b15" ed="T"/><ab type="prose">聞如是：一時，婆伽婆在舍衛城祇樹給孤獨<lb
+ n="0822b15" ed="T"/><ab type='prose'>聞如是：一時，婆伽婆在舍衛城祇樹給孤獨<lb
  n="0822b16" ed="T"/>園。爾時，尊者阿難在閑獨處，便作是念：「乃至<lb
  n="0822b17" ed="T"/>貪欲染著皆悉藏貯，貪欲無厭足。」爾時，尊者<lb
  n="0822b18" ed="T"/>阿難便從坐起，往至世尊所，到已頭面作禮，<lb
@@ -185,7 +185,7 @@
  n="0824a05" ed="T"/>足，染著於欲聚集藏貯，欲無厭足。所謂足者，<lb
  n="0824a06" ed="T"/>至賢聖道，然後乃足。」爾時，世尊便說偈言：<lb
  n="0824a07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「不以錢財業，　　覺知欲厭足，　　<lb
  n="0824a08" ed="T"/>樂少苦惱多，　　智者所不為。　　<lb
  n="0824a09" ed="T"/>設於五欲中，　　竟不愛樂彼，　　<lb
@@ -195,7 +195,7 @@
  n="0824a13" ed="T"/>諸法悉無常，　　生者必壞敗，　　<lb
  n="0824a14" ed="T"/>生生悉歸盡，　　彼滅第一樂。」　　
 </ab><lb
- n="0824a15" ed="T"/><ab type="prose">爾時，尊者阿難聞佛所說，歡喜奉行。<lb
+ n="0824a15" ed="T"/><ab type='prose'>爾時，尊者阿難聞佛所說，歡喜奉行。<lb
  n="0824a16" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說頂生王故事經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說頂生王故事經</ab></div>
 </body></text></TEI>

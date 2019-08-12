@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1180</idno>
                 </bibl>
@@ -39,18 +39,18 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0779b08" ed="T"/><lb
  n="0779b09" ed="T"/><lb
- n="0779b10" ed="T"/><div type="dharani" level="2"><lb
+ n="0779b10" ed="T"/><div type='dharani' level='2'><lb
  n="0779b11" ed="T"/>
-<ab type="juan" subtype="open">六字神呪經</ab><lb
+<ab type='juan' subtype='open'>六字神呪經</ab><lb
  n="0779b12" ed="T"/><lb
  n="0779b13" ed="T"/><byline>南天竺國三藏菩提流志奉　詔譯</byline><lb
- n="0779b14" ed="T"/><ab type="dharani">唵婆髻馱那莫<lb
+ n="0779b14" ed="T"/><ab type='dharani'>唵婆髻馱那莫<lb
  n="0779b15" ed="T"/></ab>
-<ab type="prose">此文殊師利六字呪功能我今欲說。若有持<lb
+<ab type='prose'>此文殊師利六字呪功能我今欲說。若有持<lb
  n="0779b16" ed="T"/>此呪欲成就者。或食乳糜或食菜。或食菓食<lb
  n="0779b17" ed="T"/>乳。應食此食日別三時洗浴。謂入五更以後<lb
  n="0779b18" ed="T"/>為初時。午時已後是第二時。黃昏已後至初<lb
@@ -94,8 +94,8 @@
  n="0779c27" ed="T"/>文殊師利。隨心所願皆得受生。文殊師利為<lb
  n="0779c28" ed="T"/>利益眾生故。於諸功能中略說少許。<lb
  n="0779c29" ed="T"/>
-</ab><ab type="juan" subtype="close">六字神呪經</ab></div><pb n="0780a" id="T20.1180.0780a" ed="T"/><lb
- n="0780a01" ed="T"/><div type="w" level="2"><ab type="prose">宋藏此函更有六字神呪王經菩提流志譯<lb
+</ab><ab type='juan' subtype='close'>六字神呪經</ab></div><pb n="0780a" id="T20.1180.0780a" ed="T"/><lb
+ n="0780a01" ed="T"/><div type='w' level='2'><ab type='prose'>宋藏此函更有六字神呪王經菩提流志譯<lb
  n="0780a02" ed="T"/>者。丹藏則無。按開元錄才函中。有六字神<lb
  n="0780a03" ed="T"/>呪經菩提流志譯者。云與陀羅尼集經第<lb
  n="0780a04" ed="T"/>六卷文殊師利菩薩呪法及呪五首經六字<lb

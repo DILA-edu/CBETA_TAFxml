@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0041</idno>
                 </bibl>
@@ -42,13 +42,13 @@
         <body><lb
  n="0825a16" ed="T"/><lb
  n="0825a17" ed="T"/><lb
- n="0825a18" ed="T"/><div type="jing" level="1"><lb
+ n="0825a18" ed="T"/><div type='jing' level='1'><lb
  n="0825a19" ed="T"/>
-<ab type="juan" subtype="open">佛說頻婆娑羅王經</ab><lb
+<ab type='juan' subtype='open'>佛說頻婆娑羅王經</ab><lb
  n="0825a20" ed="T"/><lb
  n="0825a21" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0825a22" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
- n="0825a23" ed="T"/><ab type="prose">如是我聞：一時，佛在王舍城中，與大苾芻眾<lb
+ n="0825a23" ed="T"/><ab type='prose'>如是我聞：一時，佛在王舍城中，與大苾芻眾<lb
  n="0825a24" ed="T"/>俱——皆是法中耆舊大阿羅漢，諸漏已盡所作<lb
  n="0825a25" ed="T"/>已辦，除諸重擔逮得己利，盡諸有結證得解<lb
  n="0825a26" ed="T"/>脫——如是之眾滿一千人。<lb
@@ -82,25 +82,25 @@
  n="0825b25" ed="T"/>世尊知彼婆羅門及長者等心生疑念，即便<lb
  n="0825b26" ed="T"/>說偈問迦葉曰：<lb
  n="0825b27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「汝優樓頻螺迦葉，　　往昔事火無間斷，　　<lb
  n="0825b28" ed="T"/>見何利故得何法？　　此義速當為我說。」　　
 </ab><lb
- n="0825b29" ed="T"/><ab type="prose">爾時，尊者迦葉說偈答言：<pb n="0825c" ed="T" id="T01.0041.0825c"/><lb
+ n="0825b29" ed="T"/><ab type='prose'>爾時，尊者迦葉說偈答言：<pb n="0825c" ed="T" id="T01.0041.0825c"/><lb
  n="0825c01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「世間所有飲食味，　　乃至慾樂人所樂，　　<lb
  n="0825c02" ed="T"/>我見此利而志求，　　是故事火無間斷。」　　
 </ab><lb
- n="0825c03" ed="T"/><ab type="prose">佛又說偈問迦葉言：<lb
+ n="0825c03" ed="T"/><ab type='prose'>佛又說偈問迦葉言：<lb
  n="0825c04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「云何耽戀慾樂事，　　乃至貪於飲食味，　　<lb
  n="0825c05" ed="T"/>人間天上心愛樂，　　是義速當為我說。」　　
 </ab><lb
- n="0825c06" ed="T"/><ab type="prose">尊者迦葉以偈答曰：<lb
+ n="0825c06" ed="T"/><ab type='prose'>尊者迦葉以偈答曰：<lb
  n="0825c07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「我於最上寂靜句，　　由不了故生退屈，　　<lb
  n="0825c08" ed="T"/>唯耽五慾非如理，　　是故事火無間斷。　　<lb
  n="0825c09" ed="T"/>圍陀事火證解脫，　　眾生由此心迷惑，　　<lb
@@ -108,7 +108,7 @@
  n="0825c11" ed="T"/>我今見實無為法，　　大龍最上師善說，　　<lb
  n="0825c12" ed="T"/>能仁為大利益故，　　世尊出現大精進。」　　
 </ab><lb
- n="0825c13" ed="T"/><ab type="prose">佛復告言：「迦葉！汝善來，善住無諸邪念，善能<lb
+ n="0825c13" ed="T"/><ab type='prose'>佛復告言：「迦葉！汝善來，善住無諸邪念，善能<lb
  n="0825c14" ed="T"/>分別最上之法。迦葉！汝今當可善化眾會。」於<lb
  n="0825c15" ed="T"/>是尊者迦葉受佛勅已，即入三摩地現大神<lb
  n="0825c16" ed="T"/>通，於眾會沒，於東方虛空中出現四威儀行<lb
@@ -205,5 +205,5 @@
  n="0826c20" ed="T"/>爾時，世尊受王請已默然而住。大王見佛默<lb
  n="0826c21" ed="T"/>然許已，頭面著地禮佛而退。<lb
  n="0826c22" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說頻婆娑羅王經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說頻婆娑羅王經</ab></div>
 </body></text></TEI>

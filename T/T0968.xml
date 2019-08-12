@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n0968</idno>
                 </bibl>
@@ -41,12 +41,12 @@
     <text>
         <body><pb n="0353a" id="T19.0968.0353a" ed="T"/><lb
  n="0353a01" ed="T"/><lb
- n="0353a02" ed="T"/><div type="jing" level="1"><lb
+ n="0353a02" ed="T"/><div type='jing' level='1'><lb
  n="0353a03" ed="T"/>
-<ab type="juan" subtype="open">佛頂尊勝陀羅尼經</ab><lb
+<ab type='juan' subtype='open'>佛頂尊勝陀羅尼經</ab><lb
  n="0353a04" ed="T"/><lb
  n="0353a05" ed="T"/><byline>大唐京兆杜行顗奉　詔譯</byline><lb
- n="0353a06" ed="T"/><ab type="prose">稽首一切智。<lb
+ n="0353a06" ed="T"/><ab type='prose'>稽首一切智。<lb
  n="0353a07" ed="T"/>如是我聞。一時佛在舍衛國祇樹給孤獨園。<lb
  n="0353a08" ed="T"/>與大比丘眾八千人俱。菩薩三萬二千。逮得<lb
  n="0353a09" ed="T"/>正智照明諸法。於知所知了無罣礙。其名曰<lb
@@ -100,7 +100,7 @@
  n="0353b28" ed="T"/>說清淨諸趣佛頂尊勝陀羅尼。爾時聖尊受<lb
  n="0353b29" ed="T"/>天帝請。即說陀羅尼曰。<pb n="0353c" id="T19.0968.0353c" ed="T"/><lb
  n="0353c01" ed="T"/></ab>
-<ab type="dharani">南謨薄伽婆帝底嚟盧吉夜鉢<lb
+<ab type='dharani'>南謨薄伽婆帝底嚟盧吉夜鉢<lb
  n="0353c02" ed="T"/>羅底毘始瑟吒夜勃陀夜怛姪他烏牟毘輸陀夜<lb
  n="0353c04" ed="T"/>麼麼娑曼多皤婆娑馺<lb
  n="0353c05" ed="T"/>叵囉拏伽底伽訶那瑣婆皤<lb
@@ -129,7 +129,7 @@
  n="0354a02" ed="T"/>多地瑟奼那地瑟祉低<lb
  n="0354a03" ed="T"/>莎訶<lb
  n="0354a05" ed="T"/></ab>
-<ab type="prose">天帝此清淨諸趣佛頂尊勝陀羅尼。淨諸罪<lb
+<ab type='prose'>天帝此清淨諸趣佛頂尊勝陀羅尼。淨諸罪<lb
  n="0354a06" ed="T"/>障除諸惡趣。八十八俱胝百千恒河沙諸佛。<lb
  n="0354a07" ed="T"/>所共宣說守護喜讚。一切如來智印印之。為<lb
  n="0354a08" ed="T"/>除一切眾惡趣故。一切地獄畜生閻摩盧迦。<lb
@@ -217,5 +217,5 @@
  n="0355a03" ed="T"/>佛已退坐聽法。佛申金色右手。慰護善住而<lb
  n="0355a04" ed="T"/>與授記。<lb
  n="0355a05" ed="T"/>
-</ab><ab type="juan" subtype="close">佛頂尊勝陀羅尼經</ab></div>
+</ab><ab type='juan' subtype='close'>佛頂尊勝陀羅尼經</ab></div>
 </body></text></TEI>

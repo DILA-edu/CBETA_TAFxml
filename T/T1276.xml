@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1276</idno>
                 </bibl>
@@ -41,16 +41,16 @@
     <text>
         <body><pb n="0325c" id="T21.1276.0325c" ed="T"/><lb
  n="0325c01" ed="T"/><lb
- n="0325c02" ed="T"/><div type="jing" level="1"><lb
+ n="0325c02" ed="T"/><div type='jing' level='1'><lb
  n="0325c03" ed="T"/>
-<ab type="juan" subtype="open">文殊師利菩薩根本大教王經<lb
+<ab type='juan' subtype='open'>文殊師利菩薩根本大教王經<lb
  n="0325c04" ed="T"/>金翅鳥王品一卷</ab><lb
  n="0325c05" ed="T"/><lb
  n="0325c06" ed="T"/><byline>開府儀同三司特進試鴻臚卿肅國<lb
  n="0325c07" ed="T"/>公食邑三千戶賜紫贈司空諡大鑒<lb
  n="0325c08" ed="T"/>正號大廣智大興善寺三藏沙門<lb
  n="0325c09" ed="T"/>不空奉　詔譯</byline><lb
- n="0325c10" ed="T"/><ab type="prose">爾時釋迦牟尼佛。復觀淨居天宮。告文殊師<lb
+ n="0325c10" ed="T"/><ab type='prose'>爾時釋迦牟尼佛。復觀淨居天宮。告文殊師<lb
  n="0325c11" ed="T"/>利童真菩薩言。文殊師利於汝大教中。一切<lb
  n="0325c12" ed="T"/>如來之所稱讚隨喜。順大真言行。令一切有<lb
  n="0325c13" ed="T"/>情入三昧耶壇故。通學地水火風空五種由<lb
@@ -68,7 +68,7 @@
  n="0325c25" ed="T"/>利言。汝應宣說過去百種法并其深密法要。<lb
  n="0325c26" ed="T"/>爾時金翅鳥王即說真言曰。<lb
  n="0325c27" ed="T"/></ab>
-<ab type="dharani">曩莫三滿多沒馱南阿鉢囉底賀<lb
+<ab type='dharani'>曩莫三滿多沒馱南阿鉢囉底賀<lb
  n="0325c28" ed="T"/>多捨薩那南怛儞野他唵捨句娜<lb
  n="0325c29" ed="T"/>摩賀捨句娜尾旦多跛乞叉薩<pb n="0326a" id="T21.1276.0326a" ed="T"/><lb
  n="0326a01" ed="T"/>嚩跛曩誐那迦佉佉佉呬佉呬三摩<lb
@@ -76,7 +76,7 @@
  n="0326a03" ed="T"/>冒地薩怛舞枳孃跛野底娑嚩<lb
  n="0326a04" ed="T"/>賀<lb
  n="0326a05" ed="T"/></ab>
-<ab type="prose">爾時金翅鳥王說真言已。次當宣說過去百<lb
+<ab type='prose'>爾時金翅鳥王說真言已。次當宣說過去百<lb
  n="0326a06" ed="T"/>種法。召龍調龍捉龍。或有被龍嚙及不嚙者。<lb
  n="0326a07" ed="T"/>皆令神著說過去未來一切事。召蛇罰謫蛇<lb
  n="0326a08" ed="T"/>取毒戲劇。不為毒中召一切毒。或纔稱意念。<lb
@@ -321,9 +321,9 @@
  n="0328c15" ed="T"/>一切諸龍若見此印。悉皆消融不敢違命。此<lb
  n="0328c16" ed="T"/>即印低下餘指來去招。即成召龍印真言曰。<lb
  n="0328c17" ed="T"/></ab>
-<ab type="dharani">唵弱<lb
+<ab type='dharani'>唵弱<lb
  n="0328c18" ed="T"/></ab>
-<ab type="prose">此印真言能調伏龍。亦能調伏難調伏者。又<lb
+<ab type='prose'>此印真言能調伏龍。亦能調伏難調伏者。又<lb
  n="0328c19" ed="T"/>以二手合掌如未敷蓮華。二大母指入。便<lb
  n="0328c20" ed="T"/>各握為拳相合。此印名調伏天上人間諸龍<lb
  n="0328c21" ed="T"/>印。能成辦一切。又說印二手合掌。二無名<lb
@@ -362,6 +362,6 @@
  n="0329a25" ed="T"/>若欲喚遠人。燒水牛肉即得。一日三時時別<lb
  n="0329a26" ed="T"/>一千八遍即得成就。<lb
  n="0329a27" ed="T"/>
-</ab><ab type="juan" subtype="close">文殊師利菩薩根本大教王經金翅鳥王品<lb
+</ab><ab type='juan' subtype='close'>文殊師利菩薩根本大教王經金翅鳥王品<lb
  n="0329a28" ed="T"/>一卷</ab></div>
 </body></text></TEI>

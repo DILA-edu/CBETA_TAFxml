@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T16</biblScope>
                     <idno type="Taisho">T16n0662</idno>
                 </bibl>
@@ -43,10 +43,10 @@
  n="0330c18" ed="T"/><lb
  n="0330c19" ed="T"/><lb
  n="0330c20" ed="T"/>
-<ab type="juan" subtype="open">大乘百福莊嚴相經</ab><lb
+<ab type='juan' subtype='open'>大乘百福莊嚴相經</ab><lb
  n="0330c21" ed="T"/><lb
  n="0330c22" ed="T"/><byline>大唐天竺三藏地婆訶羅再譯</byline><lb
- n="0330c23" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時婆伽婆在舍衛大城普妙宮<lb
+ n="0330c23" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時婆伽婆在舍衛大城普妙宮<lb
  n="0330c24" ed="T"/>殿，為欲化導無量眾生，坐寶莊嚴師子之座，<lb
  n="0330c25" ed="T"/>與大比丘等千二百五十人俱，菩薩摩訶薩<lb
  n="0330c26" ed="T"/>無央數眾，皆共恭敬周匝圍繞，瞻仰世尊身<lb
@@ -115,9 +115,9 @@
  n="0331c02" ed="T"/>「文殊師利！如是如來身諸隨好，略說其數有<lb
  n="0331c03" ed="T"/>八十種。何謂八十？一者首分圓滿、二者髮際<lb
  n="0331c04" ed="T"/>嚴好、三者髮色青紺、四者髮香芬馥、五者髮<lb
- n="0331c05" ed="T"/>甚柔軟、六者髮不紛亂、七者髮不稀概、八者<lb
+ n="0331c05" ed="T"/>甚柔軟、六者髮不紛亂、七者髮不稀穊、八者<lb
  n="0331c06" ed="T"/>髮常增長、九者髮本波委、十者髮端螺旋、十<lb
- n="0331c07" ed="T"/>一者髮狀華輪、十二者髮如德字、十三者面<lb
+ n="0331c07" ed="T"/>一者髮狀花輪、十二者髮如德字、十三者面<lb
  n="0331c08" ed="T"/>部平正、十四者毫分充足、十五者眉色青紺、<lb
  n="0331c09" ed="T"/>十六者眉不雜亂、十七者兩目美好、十八者<lb
  n="0331c10" ed="T"/>兩目修廣、十九者兩目清淨、二十者兩目明<lb
@@ -173,7 +173,7 @@
  n="0332b02" ed="T"/>七者矛矟像、三十八者鉞斧像、三十九者羂<lb
  n="0332b03" ed="T"/>索像、四十者長鉤像、四十一者䡴刃像、四<lb
  n="0332b04" ed="T"/>十二者金鎚像、四十三者天棒像、四十四<lb
- n="0332b05" ed="T"/>者天鼓像、四十五者金螺像、四十六者腰鼓<lb
+ n="0332b05" ed="T"/>者天鼓像、四十五者天螺像、四十六者腰鼓<lb
  n="0332b06" ed="T"/>像、四十七者花輪像、四十八者宮殿像、四十<lb
  n="0332b07" ed="T"/>九者寶座像、五十者浴池像、五十一者蓮花<lb
  n="0332b08" ed="T"/>像、五十二者粉米像、五十三者麰麥像、五十<lb
@@ -269,5 +269,5 @@
  n="0333b11" ed="T"/>彼諸比丘及諸菩薩摩訶薩等，歡喜合掌，信<lb
  n="0333b12" ed="T"/>受奉行。</ab></div><lb
  n="0333b13" ed="T"/>
-<ab type="juan" subtype="close">大乘百福莊嚴相經</ab>
+<ab type='juan' subtype='close'>大乘百福莊嚴相經</ab>
 </body></text></TEI>

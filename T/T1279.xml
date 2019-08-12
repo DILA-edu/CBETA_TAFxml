@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1279</idno>
                 </bibl>
@@ -39,25 +39,25 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0339c23" ed="T"/><lb
  n="0339c24" ed="T"/><lb
- n="0339c25" ed="T"/><div type="jing" level="2"><lb
+ n="0339c25" ed="T"/><div type='jing' level='2'><lb
  n="0339c26" ed="T"/>
-<ab type="juan" subtype="open">摩醯首羅天法要</ab><lb
+<ab type='juan' subtype='open'>摩醯首羅天法要</ab><lb
  n="0339c27" ed="T"/><lb
- n="0339c28" ed="T"/><ab type="prose">爾時摩醯首羅天。於天上與諸天女遊戲化<lb
+ n="0339c28" ed="T"/><ab type='prose'>爾時摩醯首羅天。於天上與諸天女遊戲化<lb
  n="0339c29" ed="T"/>樂作諸伎樂。忽然於髮中化出一天女。容顏<pb n="0340a" id="T21.1279.0340a" ed="T"/><lb
  n="0340a01" ed="T"/>端正伎藝第一。諸天之眾無能過者。而說呪<lb
  n="0340a02" ed="T"/>曰。<lb
  n="0340a03" ed="T"/></ab>
-<ab type="dharani">曩謨欝爾灑摩毘藥尸佉地毘也鉢囉<lb
+<ab type='dharani'>曩謨欝爾灑摩毘藥尸佉地毘也鉢囉<lb
  n="0340a04" ed="T"/>鉢底野式伽羅者僧林僧林但儞<lb
  n="0340a05" ed="T"/>也他濕嚩諾底兼跋囉麼諾哩儞吽泮<lb
  n="0340a06" ed="T"/>吒<lb
  n="0340a07" ed="T"/></ab>
-<ab type="prose">持誦此呪者。不問淨與不淨。有妻無妻。食五<lb
+<ab type='prose'>持誦此呪者。不問淨與不淨。有妻無妻。食五<lb
  n="0340a08" ed="T"/>辛酒肉與不食。常誦持者。一切善願悉得成<lb
  n="0340a09" ed="T"/>就。況三業清淨人早成悉地。更有何疑。若有<lb
  n="0340a10" ed="T"/>人日沒之時。誦此呪一百八反。即有効驗。<lb
@@ -69,10 +69,10 @@
  n="0340a16" ed="T"/>次說手印相。二羽外相叉。左押右成縛。檀惠<lb
  n="0340a17" ed="T"/>進力竪禪智申相合禪庾為請召。真言曰。<lb
  n="0340a18" ed="T"/></ab>
-<ab type="dharani">唵尾跢羅娑柅跛羅摩哩馱抳瞋馱抳瞋馱<lb
+<ab type='dharani'>唵尾跢羅娑柅跛羅摩哩馱抳瞋馱抳瞋馱<lb
  n="0340a19" ed="T"/>抳頻馱尼頻馱抳娑嚩賀<lb
  n="0340a20" ed="T"/></ab>
-<ab type="prose">若有人日日受持此印真言。供養摩醯首羅<lb
+<ab type='prose'>若有人日日受持此印真言。供養摩醯首羅<lb
  n="0340a21" ed="T"/>天者。種種得驗。亦每作是印呪。供養一切諸<lb
  n="0340a22" ed="T"/>佛。諸佛生歡喜。兼療一切諸病有驗。<lb
  n="0340a23" ed="T"/>若誦滿一千反。令婦人生歡喜。若誦二千反。<lb
@@ -96,6 +96,6 @@
  n="0340b12" ed="T"/>以水呪七反。散灑四方。隨意遠近如法成結<lb
  n="0340b13" ed="T"/>界。<lb
  n="0340b14" ed="T"/>
-</ab><ab type="juan" subtype="close">摩醯首羅天王法要</ab></div><lb
- n="0340b15" ed="T"/><div type="w" level="2"><ab type="prose">此法中摩醯首羅者東北伊舍那天也。</ab></div></div>
+</ab><ab type='juan' subtype='close'>摩醯首羅天王法要</ab></div><lb
+ n="0340b15" ed="T"/><div type='w' level='2'><ab type='prose'>此法中摩醯首羅者東北伊舍那天也。</ab></div></div>
 </body></text></TEI>

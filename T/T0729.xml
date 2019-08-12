@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T17</biblScope>
                     <idno type="Taisho">T17n0729</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0516c20" ed="T"/><lb
  n="0516c21" ed="T"/><lb
  n="0516c22" ed="T"/>
-<ab type="juan" subtype="open">佛說分別善惡所起經</ab><lb
+<ab type='juan' subtype='open'>佛說分別善惡所起經</ab><lb
  n="0516c23" ed="T"/><lb
  n="0516c24" ed="T"/><byline>後漢安息國三藏安世高譯</byline><lb
- n="0516c25" ed="T"/><div type="jing" level="1"><ab type="prose">佛在舍衛國祇洹阿難邠坻阿藍。時佛傷哀<lb
+ n="0516c25" ed="T"/><div type='jing' level='1'><ab type='prose'>佛在舍衛國祇洹阿難邠坻阿藍。時佛傷哀<lb
  n="0516c26" ed="T"/>諸所有生死之類故，結出讖微，分別善惡，都<lb
  n="0516c27" ed="T"/>有五道——人作善惡有多少，瞋恚有薄厚，天道<lb
  n="0516c28" ed="T"/>無親，常與善人——何謂五道？一謂天道，二謂人<lb
@@ -291,13 +291,13 @@
  n="0519c05" ed="T"/>稻得稻、種豆得豆，如人作善得善、作惡得惡<lb
  n="0519c06" ed="T"/>矣！」<lb
  n="0519c07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 傳遠踈通戒於太察，　　篤信守一戒於壅蔽，　　<lb
  n="0519c08" ed="T"/>勇猛剛毅戒於暴亂，　　仁愛溫良戒於不斷，　　<lb
  n="0519c09" ed="T"/>廣心浩大戒於狐疑，　　沈清安舒戒於後時，　　<lb
  n="0519c10" ed="T"/>刻削溢急戒於剽疾，　　多人長辭戒於無實。　　
 </ab><lb
- n="0519c11" ed="T"/><ab type="verse">
+ n="0519c11" ed="T"/><ab type='verse'>
 賢者且守戒，　　行之有三善，　　<lb
  n="0519c12" ed="T"/>見敬多求愚，　　壽盡受天身。　　<lb
  n="0519c13" ed="T"/>住戒行已盡，　　已慧制意行，　　<lb
@@ -635,5 +635,5 @@
  n="0523b26" ed="T"/>寂放滅苦辛，　　是樂最第一。　　
 </ab></div><lb
  n="0523b27" ed="T"/>
-<ab type="juan" subtype="close">佛說分別善惡所起經</ab>
+<ab type='juan' subtype='close'>佛說分別善惡所起經</ab>
 </body></text></TEI>

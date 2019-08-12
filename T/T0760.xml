@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T17</biblScope>
                     <idno type="Taisho">T17n0760</idno>
                 </bibl>
@@ -43,10 +43,10 @@
  n="0605a01" ed="T"/><lb
  n="0605a02" ed="T"/><lb
  n="0605a03" ed="T"/>
-<ab type="juan" subtype="open">惟日雜難經一卷</ab><lb
+<ab type='juan' subtype='open'>惟日雜難經一卷</ab><lb
  n="0605a04" ed="T"/><lb
  n="0605a05" ed="T"/><byline>吳月支優婆塞支謙譯</byline><lb
- n="0605a06" ed="T"/><div type="jing" level="1"><ab type="prose">初受道遮利菩薩，遮利者為受行轉上至阿<lb
+ n="0605a06" ed="T"/><div type='jing' level='1'><ab type='prose'>初受道遮利菩薩，遮利者為受行轉上至阿<lb
  n="0605a07" ed="T"/>惟越致，阿惟越致者為不復轉心；次為菩夷<lb
  n="0605a08" ed="T"/>菩薩，一為飛行菩薩；次為作佛菩薩，一名度<lb
  n="0605a09" ed="T"/>士，亦為道人。菩薩行亦出十二門，斷三惡道<lb
@@ -230,7 +230,7 @@
  n="0607a13" ed="T"/>去，用是故轉向阿羅漢。無是意、無死轉、不避<lb
  n="0607a14" ed="T"/>苦，要當得佛道。<lb
  n="0607a15" ed="T"/>菩薩、阿羅漢皆從三十七品經行，所以得佛<lb
- n="0607a16" ed="T"/>者，持用四意菩薩所常行。何等為四？一者、<lb
+ n="0607a16" ed="T"/>者，持有四意菩薩所常行。何等為四？一者、<lb
  n="0607a17" ed="T"/>幸得佛業值佛識，我身要當如佛治；二者、常<lb
  n="0607a18" ed="T"/>持悲意向十方，從悲意盡力未曾離，當脫十方<lb
  n="0607a19" ed="T"/>人非人；三者、本上頭願佛、意不轉；四者、願在<lb
@@ -446,5 +446,5 @@
  n="0609b26" ed="T"/>第十八、如來行有散慧意離覺，<lb
  n="0609b27" ed="T"/>是為十八不共。</ab></div><lb
  n="0609b28" ed="T"/>
-<ab type="juan" subtype="close">惟日雜難經一卷</ab>
+<ab type='juan' subtype='close'>惟日雜難經一卷</ab>
 </body></text></TEI>

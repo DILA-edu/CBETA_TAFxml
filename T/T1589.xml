@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T31</biblScope>
                     <idno type="Taisho">T31n1589</idno>
                 </bibl>
@@ -39,14 +39,14 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0070a23" ed="T"/><lb
  n="0070a24" ed="T"/><lb
  n="0070a25" ed="T"/><lb
- n="0070a26" ed="T"/><div type="xu" level="2"><head>大乘唯識論序</head><lb
+ n="0070a26" ed="T"/><div type='xu' level='2'><head>大乘唯識論序</head><lb
  n="0070a27" ed="T"/><lb
- n="0070a28" ed="T"/><ab type="prose">唯識論者。乃是諸佛甚深境界。非是凡夫二<lb
+ n="0070a28" ed="T"/><ab type='prose'>唯識論者。乃是諸佛甚深境界。非是凡夫二<lb
  n="0070a29" ed="T"/>乘所知。然此論始末明三種空。何者為三。一<pb n="0070b" id="T31.1589.0070b" ed="T"/><lb
  n="0070b01" ed="T"/>者人無我空。二者因緣法體空。三者真歸佛<lb
  n="0070b02" ed="T"/>性空。我空者。我本自無。但凡夫之人愚癡顛<lb
@@ -93,25 +93,25 @@
  n="0070c14" ed="T"/><lb
  n="0070c15" ed="T"/><lb
  n="0070c16" ed="T"/>
-<ab type="juan" subtype="open">大乘唯識論一卷</ab><lb
+<ab type='juan' subtype='open'>大乘唯識論一卷</ab><lb
  n="0070c17" ed="T"/><lb
  n="0070c18" ed="T"/><byline>天親菩薩造</byline><lb
  n="0070c19" ed="T"/><byline>陳天竺三藏真諦譯</byline><lb
- n="0070c20" ed="T"/><ab type="verse">
+ n="0070c20" ed="T"/><ab type='verse'>
 修道不共他　　能說無等義　　<lb
  n="0070c21" ed="T"/>頂禮大乘理　　當說立及破　　<lb
  n="0070c22" ed="T"/>無量佛所修　　除障及根本　　<lb
  n="0070c23" ed="T"/>唯識自性靜　　昧劣人不信　　
 </ab><lb
- n="0070c24" ed="T"/><ab type="prose">於大乘中立三界唯有識。如經言。佛子三界<lb
+ n="0070c24" ed="T"/><ab type='prose'>於大乘中立三界唯有識。如經言。佛子三界<lb
  n="0070c25" ed="T"/>者唯有心。心意識等是總名。應知此心有相<lb
  n="0070c26" ed="T"/>應法。唯言者為除色塵等。<lb
  n="0070c27" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 實無有外塵　　似塵識生故　　<lb
  n="0070c28" ed="T"/>猶如瞖眼人　　見毛二月等　　
 </ab><lb
- n="0070c29" ed="T"/><ab type="prose">大乘中立義。外塵實無所有。若爾云何見有<pb n="0071a" id="T31.1589.0071a" ed="T"/><lb
+ n="0070c29" ed="T"/><ab type='prose'>大乘中立義。外塵實無所有。若爾云何見有<pb n="0071a" id="T31.1589.0071a" ed="T"/><lb
  n="0071a01" ed="T"/>外塵。為證此義故言。似塵識生故。由識似塵<lb
  n="0071a02" ed="T"/>現故。眾生於無塵中見塵。為顯此識故立斯<lb
  n="0071a03" ed="T"/>譬如眼有病及眼根亂。於無物中識似二月<lb
@@ -119,11 +119,11 @@
  n="0071a05" ed="T"/>無外塵。識轉似塵顯。三性二諦同無性性。名<lb
  n="0071a06" ed="T"/>非安立。<lb
  n="0071a07" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 處時悉無定　　無相續不定　　<lb
  n="0071a08" ed="T"/>作事悉不成　　若唯識無塵　　
 </ab><lb
- n="0071a09" ed="T"/><ab type="prose">此偈欲顯何義。若離六塵。色等識生不從塵<lb
+ n="0071a09" ed="T"/><ab type='prose'>此偈欲顯何義。若離六塵。色等識生不從塵<lb
  n="0071a10" ed="T"/>生。何因此識有處得生。非一切處生。於此<lb
  n="0071a11" ed="T"/>處中或生不生而不恒生。若眾人同在一時<lb
  n="0071a12" ed="T"/>一處。是識不定相續生非隨一人。如人眼有<lb
@@ -160,19 +160,19 @@
  n="0071b14" ed="T"/>獄畜生及餓鬼別類等生地獄中名為獄卒。<lb
  n="0071b15" ed="T"/>是事不然。<lb
  n="0071b16" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 如畜生生天　　地獄無雜道　　<lb
  n="0071b17" ed="T"/>地獄中苦報　　由彼不能受　　
 </ab><lb
- n="0071b18" ed="T"/><ab type="prose">若畜生生天由雜業能感起世界樂。生中受<lb
+ n="0071b18" ed="T"/><ab type='prose'>若畜生生天由雜業能感起世界樂。生中受<lb
  n="0071b19" ed="T"/>天樂報。獄卒等不爾。不受地獄苦報故。是故<lb
  n="0071b20" ed="T"/>畜生及餓鬼。無道理得生地獄中。<lb
  n="0071b21" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 由罪人業故　　似獄卒等生　　<lb
  n="0071b22" ed="T"/>若許彼變異　　於識何不許　　
 </ab><lb
- n="0071b23" ed="T"/><ab type="prose">由地獄人業報故。四大別類生獄卒等種種<lb
+ n="0071b23" ed="T"/><ab type='prose'>由地獄人業報故。四大別類生獄卒等種種<lb
  n="0071b24" ed="T"/>差別顯現色形量異。說名獄卒等。變異亦爾。<lb
  n="0071b25" ed="T"/>或顯現動搖手足等。生彼怖畏作殺害事。或<lb
  n="0071b26" ed="T"/>有兩山相似羺羊乍合乍離。鐵樹林中鐵樹<lb
@@ -180,11 +180,11 @@
  n="0071b28" ed="T"/>識起業識有變異。而說是四大有此變異。復<lb
  n="0071b29" ed="T"/>次。<pb n="0071c" id="T31.1589.0071c" ed="T"/><lb
  n="0071c01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 業熏習識內　　執果生於外　　<lb
  n="0071c02" ed="T"/>何因熏習處　　於中不說果　　
 </ab><lb
- n="0071c03" ed="T"/><ab type="prose">是罪人業於地獄中。能見如此等事四大聚<lb
+ n="0071c03" ed="T"/><ab type='prose'>是罪人業於地獄中。能見如此等事四大聚<lb
  n="0071c04" ed="T"/>及其變異。此業熏習在地獄人識相續中。不<lb
  n="0071c05" ed="T"/>在餘處。此熏習處是識變異似獄卒等。是業<lb
  n="0071c06" ed="T"/>果報而不許在本處。非熏習處而許業果生。<lb
@@ -192,36 +192,36 @@
  n="0071c08" ed="T"/>生無色等外塵。佛世尊。不應說實有色等諸<lb
  n="0071c09" ed="T"/>入。此阿含非因。以非阿含意故。<lb
  n="0071c10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 色等入有教　　為化執我人　　<lb
  n="0071c11" ed="T"/>由隨別意說　　如說化生生　　
 </ab><lb
- n="0071c12" ed="T"/><ab type="prose">如佛世尊說有化生眾生。由別意故說。幻相<lb
+ n="0071c12" ed="T"/><ab type='prose'>如佛世尊說有化生眾生。由別意故說。幻相<lb
  n="0071c13" ed="T"/>續不斷乃至來生。復次佛說。<lb
  n="0071c14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 無眾生及我　　但法有因果　　
 </ab><lb
- n="0071c15" ed="T"/><ab type="prose">由此別說知是別教。佛世尊說。色等諸入亦<lb
+ n="0071c15" ed="T"/><ab type='prose'>由此別說知是別教。佛世尊說。色等諸入亦<lb
  n="0071c16" ed="T"/>如是。為度宜聞說入眾生。此說依教意。別教<lb
  n="0071c17" ed="T"/>意云何。<lb
  n="0071c18" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 識自種子生　　顯現起似塵　　<lb
  n="0071c19" ed="T"/>為成內外入　　故佛說此二　　
 </ab><lb
- n="0071c20" ed="T"/><ab type="prose">此偈欲顯何義。似塵識從自種子勝類變異<lb
+ n="0071c20" ed="T"/><ab type='prose'>此偈欲顯何義。似塵識從自種子勝類變異<lb
  n="0071c21" ed="T"/>生。是種子及似塵。顯現為似色識生方便門<lb
  n="0071c22" ed="T"/>故。佛世尊次第說。眼入色入乃至似觸識。<lb
  n="0071c23" ed="T"/>從自種子至變異差別生。是種子及似觸。顯<lb
  n="0071c24" ed="T"/>現為觸識生方便門故佛世尊說。為身入及<lb
  n="0071c25" ed="T"/>觸入若約此義說入。有何利益。<lb
  n="0071c26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若他依此教　　得入人無我　　<lb
  n="0071c27" ed="T"/>由別教能除　　分別入法空　　
 </ab><lb
- n="0071c28" ed="T"/><ab type="prose">若佛世尊由此義說諸入。受化弟子得入人<lb
+ n="0071c28" ed="T"/><ab type='prose'>若佛世尊由此義說諸入。受化弟子得入人<lb
  n="0071c29" ed="T"/>空。從唯六雙但六識生。無一法為見者乃至<pb n="0072a" id="T31.1589.0072a" ed="T"/><lb
  n="0072a01" ed="T"/>為觸者。若知此義說人空。所化弟子得入<lb
  n="0072a02" ed="T"/>人我空。由別說者。由說唯識教。得入法我空。<lb
@@ -240,11 +240,11 @@
  n="0072a15" ed="T"/>實有。色等入為眼識等境界。由如此理是義<lb
  n="0072a16" ed="T"/>可信。<lb
  n="0072a17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 外塵與隣虛　　不一亦不異　　<lb
  n="0072a18" ed="T"/>彼聚亦非塵　　隣虛不成故　　
 </ab><lb
- n="0072a19" ed="T"/><ab type="prose">此偈欲顯何義。是色等入各各是眼識等境。<lb
+ n="0072a19" ed="T"/><ab type='prose'>此偈欲顯何義。是色等入各各是眼識等境。<lb
  n="0072a20" ed="T"/>為當與隣虛一如有分色鞞世師所執。為當不<lb
  n="0072a21" ed="T"/>一由隣虛各別故。為當是隣虛聚色入與隣<lb
  n="0072a22" ed="T"/>虛成一作眼識境。是義不然。是有分色於分<lb
@@ -252,11 +252,11 @@
  n="0072a24" ed="T"/>故。亦非多隣虛聚集成塵。由隣虛不成一物<lb
  n="0072a25" ed="T"/>故。云何不成。<lb
  n="0072a26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 一時六共聚　　隣虛成六方　　<lb
  n="0072a27" ed="T"/>若六同一處　　聚量如隣虛　　
 </ab><lb
- n="0072a28" ed="T"/><ab type="prose">有六隣虛從六方來。與一隣虛共聚。是一隣<lb
+ n="0072a28" ed="T"/><ab type='prose'>有六隣虛從六方來。與一隣虛共聚。是一隣<lb
  n="0072a29" ed="T"/>虛不成一物。有六方分故。是一隣虛處他方<pb n="0072b" id="T31.1589.0072b" ed="T"/><lb
  n="0072b01" ed="T"/>隣虛不得住故。若一隣虛處即是六處。一切<lb
  n="0072b02" ed="T"/>同一處故。則一切聚物量同隣虛。更互不相<lb
@@ -266,21 +266,21 @@
  n="0072b06" ed="T"/>應問之。如汝所說隣虛聚物。此聚不異隣<lb
  n="0072b07" ed="T"/>虛。<lb
  n="0072b08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若隣虛不合　　聚中誰和合　　<lb
  n="0072b09" ed="T"/>復次無方分　　隣虛聚不成　　
 </ab><lb
- n="0072b10" ed="T"/><ab type="prose">若隣虛無和合。於聚中此和合屬何法。若汝<lb
+ n="0072b10" ed="T"/><ab type='prose'>若隣虛無和合。於聚中此和合屬何法。若汝<lb
  n="0072b11" ed="T"/>言隣虛更互得和合。此義不然。何以故。隣虛<lb
  n="0072b12" ed="T"/>無方分故。若和合不成。何況有假名聚。應如<lb
  n="0072b13" ed="T"/>此說。聚有方分。若和合義不可立。無方分隣<lb
  n="0072b14" ed="T"/>虛云何和合得成。是故隣虛不成一物。隣虛<lb
  n="0072b15" ed="T"/>和合。若可然若不可然。今所不論。<lb
  n="0072b16" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若物有方分　　不應成一物　　
 </ab><lb
- n="0072b17" ed="T"/><ab type="prose">隣虛東方分異餘五方。乃至下方分亦如是。<lb
+ n="0072b17" ed="T"/><ab type='prose'>隣虛東方分異餘五方。乃至下方分亦如是。<lb
  n="0072b18" ed="T"/>若分有異隣虛取分為體。云何得成一物<lb
  n="0072b19" ed="T"/>影障復云何。<lb
  n="0072b20" ed="T"/>若一隣虛無有方分。日正出時云何一邊有<lb
@@ -299,11 +299,11 @@
  n="0072c04" ed="T"/>一物若爾有何失。若多者其失如前。若一者<lb
  n="0072c05" ed="T"/>亦有過。如偈言。<lb
  n="0072c06" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若一無次行　　俱無已未得　　<lb
  n="0072c07" ed="T"/>及別類多事　　亦無細難見　　
 </ab><lb
- n="0072c08" ed="T"/><ab type="prose">若一切青黃等無有隔別。是眼境界執為一<lb
+ n="0072c08" ed="T"/><ab type='prose'>若一切青黃等無有隔別。是眼境界執為一<lb
  n="0072c09" ed="T"/>物。於地則無次第行。若一下足應遍行一切。<lb
  n="0072c10" ed="T"/>此間已得彼處未得。於一時中此二不成。何<lb
  n="0072c11" ed="T"/>以故。一時中一物不應有已得未得。不應有<lb
@@ -321,17 +321,17 @@
  n="0072c23" ed="T"/>證量最勝。若塵實無如此證智。云何得起。所<lb
  n="0072c24" ed="T"/>謂我證如此。<lb
  n="0072c25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 證智如夢中　　
 </ab><lb
- n="0072c26" ed="T"/><ab type="prose">如夢時。離塵見山樹等色。無有外塵。證智亦<lb
+ n="0072c26" ed="T"/><ab type='prose'>如夢時。離塵見山樹等色。無有外塵。證智亦<lb
  n="0072c27" ed="T"/>如此。<lb
  n="0072c28" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 是時如證智　　是時不見塵　　<lb
  n="0072c29" ed="T"/>云何塵可證　　
 </ab><pb n="0073a" id="T31.1589.0073a" ed="T"/><lb
- n="0073a01" ed="T"/><ab type="prose">如汝所說證智起時。謂我如此證。此時中汝<lb
+ n="0073a01" ed="T"/><ab type='prose'>如汝所說證智起時。謂我如此證。此時中汝<lb
  n="0073a02" ed="T"/>不得見塵。但意識分別。眼識已滅故。是塵<lb
  n="0073a03" ed="T"/>云何可證若人說剎那滅。此人是時執色乃<lb
  n="0073a04" ed="T"/>至觸已謝。問若非五識所量。意不能憶持。<lb
@@ -350,10 +350,10 @@
  n="0073a17" ed="T"/>所見。復次夢有更起義。覺時則不爾。非一切<lb
  n="0073a18" ed="T"/>無塵。答此言非證。<lb
  n="0073a19" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 夢見塵非有　　未覺不能知　　
 </ab><lb
- n="0073a20" ed="T"/><ab type="prose">如是虛妄分別串習惛熟。世人見非實塵如<lb
+ n="0073a20" ed="T"/><ab type='prose'>如是虛妄分別串習惛熟。世人見非實塵如<lb
  n="0073a21" ed="T"/>夢所見謂為實有。覺則不爾。如實能解夢塵<lb
  n="0073a22" ed="T"/>非有。如是若觀行人修出世治道得無分別<lb
  n="0073a23" ed="T"/>智。入非安立聖諦見位得覺悟。是時無分別<lb
@@ -363,29 +363,29 @@
  n="0073a27" ed="T"/>正邪二法。眾生有正邪二定。云何得成。若所<lb
  n="0073a28" ed="T"/>親近及說實無。<lb
  n="0073a29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 更互增上故　　二識正邪定　　
 </ab><pb n="0073b" id="T31.1589.0073b" ed="T"/><lb
- n="0073b01" ed="T"/><ab type="prose">一切眾生由更互識增上故。有二種識定成。<lb
+ n="0073b01" ed="T"/><ab type='prose'>一切眾生由更互識增上故。有二種識定成。<lb
  n="0073b02" ed="T"/>或正定或邪定。更互者。自他共成自他事。是<lb
  n="0073b03" ed="T"/>故別識相續勝能故。別識相續勝能生。不從<lb
  n="0073b04" ed="T"/>外塵起。若如夢識無境界。覺識亦如此者。云<lb
  n="0073b05" ed="T"/>何夢覺二人。行善作惡愛憎兩果。未來不同。<lb
  n="0073b06" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 夢識由眠壞　　未來果不同　　
 </ab><lb
- n="0073b07" ed="T"/><ab type="prose">是正因。能令夢心無有果報。謂惛睡所壞故。<lb
+ n="0073b07" ed="T"/><ab type='prose'>是正因。能令夢心無有果報。謂惛睡所壞故。<lb
  n="0073b08" ed="T"/>心弱不能成善惡業。問若一切唯有識。則無<lb
  n="0073b09" ed="T"/>身及言。云何牛羊等畜生。非屠兒所害而死。<lb
  n="0073b10" ed="T"/>若彼死非屠兒所作。屠兒云何得殺生罪。答<lb
  n="0073b11" ed="T"/>曰。<lb
  n="0073b12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 由他識變異　　死事於此成　　<lb
  n="0073b13" ed="T"/>如他失心等　　因鬼等心力　　
 </ab><lb
- n="0073b14" ed="T"/><ab type="prose">猶如鬼神等心變異故。令他或失念。或得夢。<lb
+ n="0073b14" ed="T"/><ab type='prose'>猶如鬼神等心變異故。令他或失念。或得夢。<lb
  n="0073b15" ed="T"/>或著鬼等。諸變異得成。復次有神通人心願<lb
  n="0073b16" ed="T"/>故。有如此事。如娑羅那王等得夢。由大迦旃<lb
  n="0073b17" ed="T"/>延心願故。復次阿蘭若仙人瞋心故。毘摩質<lb
@@ -393,43 +393,43 @@
  n="0073b19" ed="T"/>命根。因此事故。同類相續斷說名為死。此義<lb
  n="0073b20" ed="T"/>應知。復次。<lb
  n="0073b21" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 云何檀陀林　　空寂由仙瞋　　
 </ab><lb
- n="0073b22" ed="T"/><ab type="prose">若由他識變異增上不許眾生死。世尊。成立<lb
+ n="0073b22" ed="T"/><ab type='prose'>若由他識變異增上不許眾生死。世尊。成立<lb
  n="0073b23" ed="T"/>心重罰最為大罪。問優婆離長者。長者汝曾<lb
  n="0073b24" ed="T"/>聞不。云何檀陀柯林。迦陵伽林。摩登伽林。<lb
  n="0073b25" ed="T"/>空寂清淨。長者答言。瞿曇。曾聞由仙人瞋心。<lb
  n="0073b26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 心重罰大罪　　若爾云何成　　
 </ab><lb
- n="0073b27" ed="T"/><ab type="prose">若汝執有諸鬼神愛敬仙人故。殺害此中眾<lb
+ n="0073b27" ed="T"/><ab type='prose'>若汝執有諸鬼神愛敬仙人故。殺害此中眾<lb
  n="0073b28" ed="T"/>生。不由仙人瞋心。若爾云何由此業心重罰<lb
  n="0073b29" ed="T"/>大罪。劇於身口重罰。由仙人瞋心故。如是多<pb n="0073c" id="T31.1589.0073c" ed="T"/><lb
  n="0073c01" ed="T"/>眾生死故。心重罰成大罪。若一切唯識。他心<lb
  n="0073c02" ed="T"/>通人為知他心為不知。若爾有何所以。若不<lb
  n="0073c03" ed="T"/>知云何得他心通。若知云何言識無境。<lb
  n="0073c04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 他心通人智　　不如境云何　　<lb
  n="0073c05" ed="T"/>如知自心故　　不知如佛境　　
 </ab><lb
- n="0073c06" ed="T"/><ab type="prose">是他心智境云何不如由無智故。如不可言<lb
+ n="0073c06" ed="T"/><ab type='prose'>是他心智境云何不如由無智故。如不可言<lb
  n="0073c07" ed="T"/>體他心則成佛境如此不能知故。此二境界<lb
  n="0073c08" ed="T"/>不如非是如此顯現故。能取所取分別未滅故。<lb
  n="0073c09" ed="T"/>此唯識理無窮。簡擇品類甚深無底。<lb
  n="0073c10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 成就唯識理　　我造隨自能　　<lb
  n="0073c11" ed="T"/>如理及如量　　難思佛等境　　
 </ab><lb
- n="0073c12" ed="T"/><ab type="prose">我等作一切功用。不能思度此理。此理非覺<lb
+ n="0073c12" ed="T"/><ab type='prose'>我等作一切功用。不能思度此理。此理非覺<lb
  n="0073c13" ed="T"/>觀所緣故。何人能遍通達此境。是佛境界。何<lb
  n="0073c14" ed="T"/>以故。諸佛世尊於一切法知無礙故。如量如<lb
  n="0073c15" ed="T"/>理。此境唯佛所見。<lb
  n="0073c16" ed="T"/>婆藪槃豆菩薩造唯識論竟。<lb
- n="0073c17" ed="T"/></ab><div type="xu" level="2"><ab type="prose">菩提留支法師。先於北翻出唯識論。慧愷以<lb
+ n="0073c17" ed="T"/></ab><div type='xu' level='2'><ab type='prose'>菩提留支法師。先於北翻出唯識論。慧愷以<lb
  n="0073c18" ed="T"/>陳天嘉四年歲次癸未正月十六日。於廣州<lb
  n="0073c19" ed="T"/>制旨寺。請三藏法師拘羅那他。重譯此論。<lb
  n="0073c20" ed="T"/>行翻行講。至三月五日方竟。此論外國本有<lb
@@ -441,7 +441,7 @@
  n="0073c26" ed="T"/>文。安於論後。庶披閱者為易耳。此論是佛法<lb
  n="0073c27" ed="T"/>正義。外國盛弘　沙門慧愷記。<lb
  n="0073c28" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 修道不共他　　能說無等義　　<lb
  n="0073c29" ed="T"/>頂禮大乘理　　當說立及破　　<pb n="0074a" id="T31.1589.0074a" ed="T"/><lb
  n="0074a01" ed="T"/>無量佛所修　　除障及根本　　<lb
@@ -492,5 +492,5 @@
  n="0074b17" ed="T"/>如理及如量　　難思佛等境　　
 </ab></div><lb
  n="0074b18" ed="T"/>
-<ab type="juan" subtype="close">大乘唯識論</ab></div>
+<ab type='juan' subtype='close'>大乘唯識論</ab></div>
 </body></text></TEI>

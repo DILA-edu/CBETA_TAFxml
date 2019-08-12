@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1083</idno>
                 </bibl>
@@ -43,10 +43,10 @@
  n="0200b01" ed="T"/><lb
  n="0200b02" ed="T"/><lb
  n="0200b03" ed="T"/>
-<ab type="juan" subtype="open">觀世音菩薩如意摩尼陀羅尼經</ab><lb
+<ab type='juan' subtype='open'>觀世音菩薩如意摩尼陀羅尼經</ab><lb
  n="0200b04" ed="T"/><lb
  n="0200b05" ed="T"/><byline>唐天竺三藏寶思惟譯</byline><lb
- n="0200b06" ed="T"/><div type="jing" level="1"><ab type="prose">爾時觀世音菩薩。白佛言世尊。我有明呪法<lb
+ n="0200b06" ed="T"/><div type='jing' level='1'><ab type='prose'>爾時觀世音菩薩。白佛言世尊。我有明呪法<lb
  n="0200b07" ed="T"/>大壇。名蓮花峯金剛加持祕密無礙觀世音<lb
  n="0200b08" ed="T"/>蓮華如意摩尼轉輪心陀羅尼。觀世音心最<lb
  n="0200b09" ed="T"/>勝成就。世尊為能與一切眾生願成就故。於<lb
@@ -58,7 +58,7 @@
  n="0200b15" ed="T"/>所頂禮佛足。右繞三匝於世尊前熙怡微笑。<lb
  n="0200b16" ed="T"/>以大悲心說此呪王。呪曰。<lb
  n="0200b17" ed="T"/></ab>
-<ab type="dharani">那謨喝囉怛曩怛囉㖡吔那摩阿<lb
+<ab type='dharani'>那謨喝囉怛曩怛囉㖡吔那摩阿<lb
  n="0200b18" ed="T"/>哩吔婆嚕吉帝說婆囉吔菩提薩埵<lb
  n="0200b19" ed="T"/>吔摩訶薩埵吔摩訶迦嚧膩迦吔怛姪<lb
  n="0200b20" ed="T"/>他烏唵斫迦囉靺哩底震哆末<lb
@@ -66,16 +66,16 @@
  n="0200b22" ed="T"/>啜囉阿羯哩灑耶虎𤙖泮吒<lb
  n="0200b23" ed="T"/>莎訶此名根本呪<lb
  n="0200b24" ed="T"/></ab>
-<ab type="prose">次說心呪呪曰。<lb
+<ab type='prose'>次說心呪呪曰。<lb
  n="0200b25" ed="T"/></ab>
-<ab type="dharani">烏唵鉢特摩震哆末尼啜囉<lb
+<ab type='dharani'>烏唵鉢特摩震哆末尼啜囉<lb
  n="0200b26" ed="T"/>虎𤙖<lb
  n="0200b27" ed="T"/></ab>
-<ab type="prose">次說隨心呪呪曰。<lb
+<ab type='prose'>次說隨心呪呪曰。<lb
  n="0200b28" ed="T"/></ab>
-<ab type="dharani">烏唵嚩囉陀鉢特迷虎𤙖<lb
+<ab type='dharani'>烏唵嚩囉陀鉢特迷虎𤙖<lb
  n="0200b29" ed="T"/></ab>
-<ab type="prose">說此呪已。大地應時六種震動。一切天宮亦<pb n="0200c" id="T20.1083.0200c" ed="T"/><lb
+<ab type='prose'>說此呪已。大地應時六種震動。一切天宮亦<pb n="0200c" id="T20.1083.0200c" ed="T"/><lb
  n="0200c01" ed="T"/>皆搖動。一切龍宮亦皆戰掉。一切夜叉乾闥<lb
  n="0200c02" ed="T"/>婆阿修羅迦樓羅緊那羅摩睺落伽。種種皆<lb
  n="0200c03" ed="T"/>大戰掉。一切惡魔及頻那野迦。作障礙者悉<lb
@@ -226,5 +226,5 @@
  n="0202b03" ed="T"/>明呪諸願成滿。是故世尊我今誠諦。唯願世<lb
  n="0202b04" ed="T"/>尊慈悲加護。<lb
  n="0202b05" ed="T"/>
-</ab><ab type="juan" subtype="close">觀世音菩薩如意摩尼陀羅尼經</ab></div>
+</ab><ab type='juan' subtype='close'>觀世音菩薩如意摩尼陀羅尼經</ab></div>
 </body></text></TEI>

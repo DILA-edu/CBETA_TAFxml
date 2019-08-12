@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0064</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0862b02" ed="T"/><lb
  n="0862b03" ed="T"/><lb
- n="0862b04" ed="T"/><div type="jing" level="1"><lb
+ n="0862b04" ed="T"/><div type='jing' level='1'><lb
  n="0862b05" ed="T"/>
-<ab type="juan" subtype="open">佛說瞻婆比丘經</ab><lb
+<ab type='juan' subtype='open'>佛說瞻婆比丘經</ab><lb
  n="0862b06" ed="T"/><lb
  n="0862b07" ed="T"/><byline>西晉三藏法師法炬譯</byline><lb
- n="0862b08" ed="T"/><ab type="prose">聞如是：一時，婆伽婆在瞻婆恒伽上法賴池<lb
+ n="0862b08" ed="T"/><ab type='prose'>聞如是：一時，婆伽婆在瞻婆恒伽上法賴池<lb
  n="0862b09" ed="T"/>水上。彼時，世尊十五日說戒，在比丘僧前坐。<lb
  n="0862b10" ed="T"/>世尊坐已，觀諸比丘意之所念。觀諸比丘意<lb
  n="0862b11" ed="T"/>之所念已，夜初一分時坐默然住。於是，有異<lb
@@ -122,7 +122,7 @@
  n="0863a22" ed="T"/>彼知已，棄著外。何以故？恐壞餘淨比丘故。說<lb
  n="0863a23" ed="T"/>偈曰：<lb
  n="0863a24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「共止及當知，　　惡求及瞋恚，　　<lb
  n="0863a25" ed="T"/>恚恨不捨貪，　　不棄幻諛諂。　　<lb
  n="0863a26" ed="T"/>莊人詐言息，　　自說是沙門，　　<lb
@@ -134,7 +134,7 @@
  n="0863b03" ed="T"/>不與惡共止，　　數數及日日，　　<lb
  n="0863b04" ed="T"/>悉皆共集會，　　當棄此苦際。」　　
 </ab><lb
- n="0863b05" ed="T"/><ab type="prose">佛如是說，彼諸比丘聞世尊所說，歡喜而樂。<lb
+ n="0863b05" ed="T"/><ab type='prose'>佛如是說，彼諸比丘聞世尊所說，歡喜而樂。<lb
  n="0863b06" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說瞻婆比丘經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說瞻婆比丘經</ab></div>
 </body></text></TEI>

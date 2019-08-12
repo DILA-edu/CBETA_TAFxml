@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1203</idno>
                 </bibl>
@@ -39,15 +39,15 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0027b23" ed="T"/><lb
  n="0027b24" ed="T"/><lb
- n="0027b25" ed="T"/><div type="jing" level="2"><lb
+ n="0027b25" ed="T"/><div type='jing' level='2'><lb
  n="0027b26" ed="T"/>
-<ab type="juan" subtype="open">聖無動尊安鎮家國等法</ab><lb
+<ab type='juan' subtype='open'>聖無動尊安鎮家國等法</ab><lb
  n="0027b27" ed="T"/><lb
- n="0027b28" ed="T"/><ab type="prose">爾時毘盧遮那如來。為愍念一切有情。常於<lb
+ n="0027b28" ed="T"/><ab type='prose'>爾時毘盧遮那如來。為愍念一切有情。常於<lb
  n="0027b29" ed="T"/>煩惱苦海之中。流浪生死不出三界。受眾苦<pb n="0027c" id="T21.1203.0027c" ed="T"/><lb
  n="0027c01" ed="T"/>故。展轉造作無量苦業相續不絕。我為拔濟<lb
  n="0027c02" ed="T"/>一切有情。於三界中現威德光明自在之身。<lb
@@ -103,7 +103,7 @@
  n="0028b09" ed="T"/>長國土榮盛。有大威力如師子王無能勝者。<lb
  n="0028b10" ed="T"/>爾時世尊以偈讚曰。<lb
  n="0028b11" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 我大日如來　　安鎮家國法　　<lb
  n="0028b12" ed="T"/>現威德自在　　號不動明王　　<lb
  n="0028b13" ed="T"/>於一切有情　　斷三惡道業　　<lb
@@ -143,7 +143,7 @@
  n="0028c18" ed="T"/>迴奉十方佛　　我願滿眾生　　<lb
  n="0028c19" ed="T"/>大千國土中　　一切同安樂　　
 </ab><lb
- n="0028c20" ed="T"/><ab type="prose">次說隨安鎮法。當欲鎮時。先起東方。東方<lb
+ n="0028c20" ed="T"/><ab type='prose'>次說隨安鎮法。當欲鎮時。先起東方。東方<lb
  n="0028c21" ed="T"/>擇勝上地。無諸穢惡結界加持。當其鎮處<lb
  n="0028c22" ed="T"/>掘深三肘廣亦三肘。以瞿摩塗飾。辦備塗<lb
  n="0028c23" ed="T"/>香閼伽燈明飲食蘇乳菓子。別作一肘方曼<lb
@@ -189,7 +189,7 @@
  n="0029b05" ed="T"/>四斤或二斤。五穀巨勝乳酪飲食。菓子蠟燭<lb
  n="0029b06" ed="T"/>菉豆子。塗香五味沈香檀蘇合。龍腦欝金安<lb
  n="0029b07" ed="T"/>悉乳頭白芥子蜜。隨施主年記。乳木長十二<lb
- n="0029b08" ed="T"/>指。菉豆白膠󱂿子及羅惹上服以代其位。<lb
+ n="0029b08" ed="T"/>指。菉豆白膠𮏷子及羅惹上服以代其位。<lb
  n="0029b09" ed="T"/>如同道場將用所表。如親自供養瞻仰無異。<lb
  n="0029b10" ed="T"/>每鎮鑌鐵橛銅輪。各一橛長八指一半已上。<lb
  n="0029b11" ed="T"/>作獨股形仍具楞。已下橛形可入輪齊。四指<lb
@@ -224,7 +224,7 @@
  n="0029c11" ed="T"/>教修學戶摩鑪樣及布列像。若調伏時不應<lb
  n="0029c12" ed="T"/>顯名目作。必須祕密為之。勿使當處知。唯監<lb
  n="0029c13" ed="T"/>者知之。藥物先須備擬。自將行要即用之。</ab></div><lb
- n="0029c14" ed="T"/><div type="w" level="2"><ab type="prose">如此祕法不許出家人行。持此法者。所作<lb
+ n="0029c14" ed="T"/><div type='w' level='2'><ab type='prose'>如此祕法不許出家人行。持此法者。所作<lb
  n="0029c15" ed="T"/>供養皆須自禮拜諸天。出家人具佛禁戒。<lb
  n="0029c16" ed="T"/>令諸人不安不敢受拜。所求福德悉不<lb
  n="0029c17" ed="T"/>成就故。違行者當犯大罪。是以不傳出家<lb
@@ -235,96 +235,96 @@
  n="0029c22" ed="T"/>慳法只流尊樣。於諸部中以為大護。殊不<lb
  n="0029c23" ed="T"/>知有安鎮家國等法。金剛智三藏受與行<lb
  n="0029c24" ed="T"/>者王光此儀軌法。</ab></div><pb n="0030a" id="T21.1203.0030a" ed="T"/><lb
- n="0030a01" ed="T"/><div type="jing" level="2"><ab type="prose">不動尊摧他敵八方天王旗幡并八方天降怨<lb
+ n="0030a01" ed="T"/><div type='jing' level='2'><ab type='prose'>不動尊摧他敵八方天王旗幡并八方天降怨<lb
  n="0030a02" ed="T"/>真言法<lb
  n="0030a03" ed="T"/>東方作白色旗。旗上畫帝釋天王。右手持獨<lb
  n="0030a04" ed="T"/>股杵。左手叉腰。乘六牙白象。持白旗人誦天<lb
  n="0030a05" ed="T"/>帝釋降怨真言。明曰。<lb
  n="0030a06" ed="T"/></ab>
-<ab type="dharani">􇩂唵􆿈因􈁋捺羅二合􄗱野􄕯泥􄙖嚩􄕽地􄖵婆􄕗多􄗷曳<lb
+<ab type='dharani'>􇩂唵􆿈因􈁋捺羅二合􄗱野􄕯泥􄙖嚩􄕽地􄖵婆􄕗多􄗷曳<lb
  n="0030a07" ed="T"/><lb
  n="0030a08" ed="T"/>􆿁吽􄗁發􈁆吒􅁥娑嚩二合􄚩賀<lb
  n="0030a09" ed="T"/><lb
  n="0030a10" ed="T"/></ab>
-<ab type="prose">若東行時。先引此旗。想天帝釋領無量眷屬<lb
+<ab type='prose'>若東行時。先引此旗。想天帝釋領無量眷屬<lb
  n="0030a11" ed="T"/>天眾。持種種器仗衝彼賊眾。<lb
  n="0030a12" ed="T"/>東南方作黃色旗。旗上畫四臂火天。乘青羊<lb
  n="0030a13" ed="T"/>遍身火焰。右手作施無畏。第二持念珠。左<lb
  n="0030a14" ed="T"/>手持仙杖。第二持澡瓶。持旗人誦火天降怨<lb
  n="0030a15" ed="T"/>真言。明曰。<lb
  n="0030a16" ed="T"/></ab>
-<ab type="dharani">􇩂唵􆿅阿􅍉誐曩二合􄗷曳􅞾㗚旨二合􆿅阿􄕽地􄖵頗<lb
+<ab type='dharani'>􇩂唵􆿅阿􅍉誐曩二合􄗷曳􅞾㗚旨二合􆿅阿􄕽地􄖵頗<lb
  n="0030a17" ed="T"/><lb
  n="0030a18" ed="T"/>􄕗多􄗷曳􆿁吽􄗁發􈁆吒􅁥娑嚩二合􄚩賀<lb
  n="0030a19" ed="T"/><lb
  n="0030a20" ed="T"/></ab>
-<ab type="prose">若東南行時。先引此旗。想火天領無量火仙<lb
+<ab type='prose'>若東南行時。先引此旗。想火天領無量火仙<lb
  n="0030a21" ed="T"/>軍持種種器仗衝彼賊眾。<lb
  n="0030a22" ed="T"/>南方作黑色旗。旗上畫焰摩羅天。乘水牛。右<lb
  n="0030a23" ed="T"/>手持焰摩幢。左手叉腰。持旗人誦焰摩王降<lb
  n="0030a24" ed="T"/>怨真言。明曰。<lb
  n="0030a25" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄗻閻􄗦摩􄗱野􄪼波󰖊三合􄕘多􄕽地􄖵頗􄕗多<lb
+<ab type='dharani'>􇩂唵􄗻閻􄗦摩􄗱野􄪼波󰖊三合􄕘多􄕽地􄖵頗􄕗多<lb
  n="0030a26" ed="T"/><lb
  n="0030a27" ed="T"/>􄗷曳􆿁吽􄗁發􈁆吒􅁥娑嚩二合􄚩賀<lb
  n="0030a28" ed="T"/><lb
  n="0030a29" ed="T"/></ab>
-<ab type="prose">若南行時。先引此旗。想炎摩王領無量鬼<pb n="0030b" id="T21.1203.0030b" ed="T"/><lb
+<ab type='prose'>若南行時。先引此旗。想炎摩王領無量鬼<pb n="0030b" id="T21.1203.0030b" ed="T"/><lb
  n="0030b01" ed="T"/>軍。持種種器仗衝彼賊眾。<lb
  n="0030b02" ed="T"/>西南方作慘色旗。旗上畫羅剎主。乘師子。<lb
  n="0030b03" ed="T"/>右手持劍。左手叉腰。持旗人誦羅剎主降<lb
  n="0030b04" ed="T"/>怨真言。明曰。<lb
  n="0030b05" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄕙底􄙀哩􅝰地曳二合􄗽羅􄚴乞剎􄙻沙􄕽地<lb
+<ab type='dharani'>􇩂唵􄕙底􄙀哩􅝰地曳二合􄗽羅􄚴乞剎􄙻沙􄕽地<lb
  n="0030b06" ed="T"/><lb
  n="0030b07" ed="T"/>􄖵頗􄕗多􄗷曳􆿁吽􄗁發􈁆吒􅁥娑嚩二合􄚩賀<lb
  n="0030b08" ed="T"/><lb
  n="0030b09" ed="T"/></ab>
-<ab type="prose">若西南行時。先引此旗。想羅剎主領無量羅<lb
+<ab type='prose'>若西南行時。先引此旗。想羅剎主領無量羅<lb
  n="0030b10" ed="T"/>剎。持種種器仗衝彼賊眾。<lb
  n="0030b11" ed="T"/>西方作赤色旗。旗上畫水天。乘龜。右執蛇<lb
  n="0030b12" ed="T"/>索。左手叉腰。其天頭上有七龍頭狀如蛇形。<lb
  n="0030b13" ed="T"/>持旗人誦水天降怨真言。明曰。<lb
  n="0030b14" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄙖嚩􄙂嚕􄕋拏􄗱野􄖩曩􄑙誐􄕽地􄖵頗􄕗多􄗷曳􆿁吽<lb
+<ab type='dharani'>􇩂唵􄙖嚩􄙂嚕􄕋拏􄗱野􄖩曩􄑙誐􄕽地􄖵頗􄕗多􄗷曳􆿁吽<lb
  n="0030b15" ed="T"/><lb
  n="0030b16" ed="T"/>􄗁發􈁆吒􅁥娑嚩二合􄚩賀<lb
  n="0030b17" ed="T"/><lb
  n="0030b18" ed="T"/></ab>
-<ab type="prose">若西行時。先引此旗。想水天領無量毒龍。持<lb
+<ab type='prose'>若西行時。先引此旗。想水天領無量毒龍。持<lb
  n="0030b19" ed="T"/>種種器仗衝彼賊眾。<lb
  n="0030b20" ed="T"/>西北方作青色旗。旗上畫風天。乘麞。右手持<lb
  n="0030b21" ed="T"/>旗。左手叉腰。持旗人誦風天降怨真言。明<lb
  n="0030b22" ed="T"/>曰。<lb
  n="0030b23" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄙗嚩􄗱野􄙜吠􄑌佉􄑼左􄗾嚕􄕽地􄖵頗􄕗多􄗷曳􆿁吽<lb
+<ab type='dharani'>􇩂唵􄙗嚩􄗱野􄙜吠􄑌佉􄑼左􄗾嚕􄕽地􄖵頗􄕗多􄗷曳􆿁吽<lb
  n="0030b24" ed="T"/><lb
  n="0030b25" ed="T"/>􄗁發􈁆吒􅁥娑嚩二合􄚩賀<lb
  n="0030b26" ed="T"/><lb
  n="0030b27" ed="T"/></ab>
-<ab type="prose">若西方行時。先引此旗。想風天領無量金翅<lb
+<ab type='prose'>若西方行時。先引此旗。想風天領無量金翅<lb
  n="0030b28" ed="T"/>鳥王。持種種器仗衝彼賊眾。<lb
  n="0030b29" ed="T"/>北方作黃色旗。旗上畫毘沙門天王。乘鬼。右<pb n="0030c" id="T21.1203.0030c" ed="T"/><lb
  n="0030c01" ed="T"/>手持寶塔。左手叉腰。持旗人誦毘沙門天王<lb
  n="0030c02" ed="T"/>降怨真言。明曰。<lb
  n="0030c03" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄑄俱􄙝吠􄗽囉􄗱夜􄚵乞叉二合􄕽地􄖵頗􄕗多<lb
+<ab type='dharani'>􇩂唵􄑄俱􄙝吠􄗽囉􄗱夜􄚵乞叉二合􄕽地􄖵頗􄕗多<lb
  n="0030c04" ed="T"/><lb
  n="0030c05" ed="T"/>􄗷曳􆿁吽􄗁發􈁆吒􅁥娑嚩二合􄚩賀<lb
  n="0030c06" ed="T"/><lb
  n="0030c07" ed="T"/></ab>
-<ab type="prose">若北行時。先引此旗。想毘沙門天王領無量<lb
+<ab type='prose'>若北行時。先引此旗。想毘沙門天王領無量<lb
  n="0030c08" ed="T"/>藥叉軍眾。持種種器仗衝彼賊眾。<lb
  n="0030c09" ed="T"/>東北方作線色旗。上畫伊舍那天。乘𤛆牛。<lb
  n="0030c10" ed="T"/>右手持三股叉。在手叉腰。持旗人誦伊舍那<lb
  n="0030c11" ed="T"/>天降怨真言。明曰。<lb
  n="0030c12" ed="T"/></ab>
-<ab type="dharani">􇩂唵􆿈伊􄙣舍􄖩那􄗱野􄗝步􄕘多􄕽地􄖵頗􄕗多􄗷曳<lb
+<ab type='dharani'>􇩂唵􆿈伊􄙣舍􄖩那􄗱野􄗝步􄕘多􄕽地􄖵頗􄕗多􄗷曳<lb
  n="0030c13" ed="T"/><lb
  n="0030c14" ed="T"/>􇩴吽􄗁發􈁆吒􅁥娑嚩二合􄚩賀<lb
  n="0030c15" ed="T"/><lb
  n="0030c16" ed="T"/></ab>
-<ab type="prose">若東北方行時。先引此旗。想伊舍那天領無<lb
+<ab type='prose'>若東北方行時。先引此旗。想伊舍那天領無<lb
  n="0030c17" ed="T"/>量鬼軍將士。持種種器仗衝彼賊眾。<lb
  n="0030c18" ed="T"/>大將自誦不動尊明王真言。想自身成不動<lb
  n="0030c19" ed="T"/>明王。又想不動尊明王號令八方天王云。<lb
@@ -333,14 +333,14 @@
  n="0030c22" ed="T"/>自當殄滅決定無疑。即說聖不動明王真言。<lb
  n="0030c23" ed="T"/>明曰。<lb
  n="0030c24" ed="T"/></ab>
-<ab type="dharani">􄖩曩􄗰莫􄙺三􄗥滿􆩖多􄙖嚩􄦽日囉二合􄕕𧹞􄑼戰􆧽荼􄗥摩<lb
+<ab type='dharani'>􄖩曩􄗰莫􄙺三􄗥滿􆩖多􄙖嚩􄦽日囉二合􄕕𧹞􄑼戰􆧽荼􄗥摩<lb
  n="0030c25" ed="T"/><lb
  n="0030c26" ed="T"/>􄚩訶􄙆嚕􄙮灑􄕋拏<lb
  n="0030c27" ed="T"/><lb
  n="0030c28" ed="T"/>􆷱沙頗二合􈁆吒􄗱野􆿁吽􄩞怛囉􈁆吒􈆢憾𤚥<lb
  n="0030c29" ed="T"/><pb n="0031a" id="T21.1203.0031a" ed="T"/><lb
  n="0031a01" ed="T"/></ab>
-<ab type="prose">若行營所八旗在外。各依本方圍諸軍將士<lb
+<ab type='prose'>若行營所八旗在外。各依本方圍諸軍將士<lb
  n="0031a02" ed="T"/>卒所下營止宿。亦各依本方竪立八旗。執旗<lb
  n="0031a03" ed="T"/>人燒安息香。以諸素淨飲食供養。本方旗幡<lb
  n="0031a04" ed="T"/>大將於中止宿。燒沈水香真妙上者。亦以淨<lb
@@ -348,8 +348,8 @@
  n="0031a06" ed="T"/>彼人形。及書彼姓名。以此石像當上厭<lb
  n="0031a07" ed="T"/>之。如是不久自當消滅矣。</ab></div><lb
  n="0031a08" ed="T"/>
-<ab type="juan" subtype="close">不動明王安鎮家國法</ab><lb
- n="0031a09" ed="T"/><div type="w" level="2"><ab type="prose">八家祕錄云。不動明王安鎮家國等法一<lb
+<ab type='juan' subtype='close'>不動明王安鎮家國法</ab><lb
+ n="0031a09" ed="T"/><div type='w' level='2'><ab type='prose'>八家祕錄云。不動明王安鎮家國等法一<lb
  n="0031a10" ed="T"/>卷金剛智三藏付王無海錄外。<lb
  n="0031a11" ed="T"/>享和元辛酉天後秋月索此本於洛東智積<lb
  n="0031a12" ed="T"/>教院更校餘本點國字鏤版。<lb

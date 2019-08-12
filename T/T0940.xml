@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n0940</idno>
                 </bibl>
@@ -41,13 +41,13 @@
     <text>
         <body><lb
  n="0095c03" ed="T"/><lb
- n="0095c04" ed="T"/><div type="jing" level="1"><lb
+ n="0095c04" ed="T"/><div type='jing' level='1'><lb
  n="0095c05" ed="T"/>
-<ab type="juan" subtype="open">佛說帝釋巖祕密成就儀軌</ab><lb
+<ab type='juan' subtype='open'>佛說帝釋巖祕密成就儀軌</ab><lb
  n="0095c06" ed="T"/><lb
  n="0095c07" ed="T"/><byline>西天譯經三藏朝奉大夫試鴻臚卿<lb
  n="0095c08" ed="T"/>傳法大師臣施護奉　詔譯</byline><lb
- n="0095c09" ed="T"/><ab type="prose">爾時釋迦牟尼佛。告金剛手大祕密主菩薩<lb
+ n="0095c09" ed="T"/><ab type='prose'>爾時釋迦牟尼佛。告金剛手大祕密主菩薩<lb
  n="0095c10" ed="T"/>言。汝今當知摩伽陀國菴沒羅聚落北韋提<lb
  n="0095c11" ed="T"/>希山。有帝釋巖。而彼巖中有九十九宮。有一<lb
  n="0095c12" ed="T"/>俱胝大菩薩眾。並天龍八部諸神仙等安止<lb
@@ -135,16 +135,16 @@
  n="0096c07" ed="T"/>我根本大明。即得安樂無諸難事而見我身。<lb
  n="0096c08" ed="T"/>根本大明曰。<lb
  n="0096c09" ed="T"/></ab>
-<ab type="dharani">那謨囉怛那怛囉夜野那謨吠<lb
+<ab type='dharani'>那謨囉怛那怛囉夜野那謨吠<lb
  n="0096c10" ed="T"/>嚕左那莎彌儞怛他誐多野阿囉喝<lb
- n="0096c11" ed="T"/>帝三藐訖三沒馱野怛󰴖他<lb
+ n="0096c11" ed="T"/>帝三藐訖三沒馱野怛𭔧他<lb
  n="0096c12" ed="T"/>唵昧咄侶怛里昧怛囉嚩婆<lb
  n="0096c13" ed="T"/>悉儞昧咄侶怛葛吒野三摩囉<lb
  n="0096c14" ed="T"/>三摩囉莎剛鉢囉底倪也娑囉<lb
  n="0096c15" ed="T"/>娑囉尾娑囉尾娑囉󰂛馱野󰂛馱野󰂛馱耨誐帝摩賀󰂛地波哩嚩哩<lb
  n="0096c17" ed="T"/>底多摩那細莎賀<lb
  n="0096c18" ed="T"/></ab>
-<ab type="prose">菩薩告言。善男子今此大明有大威力。若諸<lb
+<ab type='prose'>菩薩告言。善男子今此大明有大威力。若諸<lb
  n="0096c19" ed="T"/>修瑜伽行者。能發志心持誦此明。是人得見<lb
  n="0096c20" ed="T"/>我身決定無疑。<lb
  n="0096c21" ed="T"/>復次慈氏菩薩告行人言。汝今來此何所求<lb
@@ -157,5 +157,5 @@
  n="0096c28" ed="T"/>爾時金剛手菩薩。聞釋迦牟尼佛說是法已。<lb
  n="0096c29" ed="T"/>歡喜信受依教奉行。<pb n="0097a" id="T19.0940.0097a" ed="T"/><lb
  n="0097a01" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說帝釋巖祕密成就儀軌</ab></div>
+</ab><ab type='juan' subtype='close'>佛說帝釋巖祕密成就儀軌</ab></div>
 </body></text></TEI>

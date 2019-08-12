@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T18</biblScope>
                     <idno type="Taisho">T18n0903</idno>
                 </bibl>
@@ -41,15 +41,15 @@
     <text>
         <body><pb n="0898c" id="T18.0903.0898c" ed="T"/><lb
  n="0898c01" ed="T"/><lb
- n="0898c02" ed="T"/><div type="jing" level="1"><lb
+ n="0898c02" ed="T"/><div type='jing' level='1'><lb
  n="0898c03" ed="T"/>
-<ab type="juan" subtype="open">都部陀羅尼目一卷</ab><lb
+<ab type='juan' subtype='open'>都部陀羅尼目一卷</ab><lb
  n="0898c04" ed="T"/><lb
  n="0898c05" ed="T"/><byline>開府儀同王司特進試鴻臚卿肅國<lb
  n="0898c06" ed="T"/>公食邑三千戶賜紫贈司空諡大鑒<lb
  n="0898c07" ed="T"/>正號大廣智大興善寺三藏沙門<lb
  n="0898c08" ed="T"/>不空奉　詔譯</byline><lb
- n="0898c09" ed="T"/><ab type="prose">瑜伽本經都十萬偈。有十八會。初會經名一<lb
+ n="0898c09" ed="T"/><ab type='prose'>瑜伽本經都十萬偈。有十八會。初會經名一<lb
  n="0898c10" ed="T"/>切如來真實攝。其經說五部。佛部<lb
  n="0898c11" ed="T"/>金剛部寶部蓮花部羯<lb
  n="0898c12" ed="T"/>磨部彼五部主。各有四菩薩以為<lb
@@ -62,11 +62,11 @@
  n="0898c19" ed="T"/>并妃后。<lb
  n="0898c20" ed="T"/>復有五類成二十。五類者上界四天。<lb
  n="0898c21" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 住虛空四天　　遊虛空四天　　<lb
  n="0898c22" ed="T"/>地居有四天　　居地底四天　　
 </ab><lb
- n="0898c23" ed="T"/><ab type="prose">瑜伽部曼茶羅有四。一金剛界。二降三世。<lb
+ n="0898c23" ed="T"/><ab type='prose'>瑜伽部曼茶羅有四。一金剛界。二降三世。<lb
  n="0898c24" ed="T"/>三遍調伏。四一切義成就。此四曼茶羅。表毘<lb
  n="0898c25" ed="T"/>盧遮那佛內四智菩薩。謂金剛灌頂蓮花<lb
  n="0898c26" ed="T"/>羯磨為四智。<lb
@@ -113,10 +113,10 @@
  n="0899b12" ed="T"/>量。有三種三昧耶。佛部蓮花部金剛部。有三<lb
  n="0899b13" ed="T"/>部心真言。<lb
  n="0899b14" ed="T"/></ab>
-<ab type="dharani">爾那爾迦阿嚧力嚩日囉地叨<lb
+<ab type='dharani'>爾那爾迦阿嚧力嚩日囉地叨<lb
  n="0899b15" ed="T"/><lb
  n="0899b16" ed="T"/></ab>
-<ab type="prose">部主有三種。金輪王佛頂佛部主。蓮花部主<lb
+<ab type='prose'>部主有三種。金輪王佛頂佛部主。蓮花部主<lb
  n="0899b17" ed="T"/>馬頭觀自在。金剛部主三世勝金剛。<lb
  n="0899b18" ed="T"/>三種部母。佛部佛眼以為部母。蓮花部白衣<lb
  n="0899b19" ed="T"/>觀自在以為部母。金剛部忙麼鷄菩薩以為<lb
@@ -169,5 +169,5 @@
  n="0900a17" ed="T"/>殘食。彼等至無上菩提諸有作障者毘那夜<lb
  n="0900a18" ed="T"/>迦不。得其便。速證無上菩提。<lb
  n="0900a19" ed="T"/>
-</ab><ab type="juan" subtype="close">都部陀羅尼目一卷</ab></div>
+</ab><ab type='juan' subtype='close'>都部陀羅尼目一卷</ab></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1394</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0911a14" ed="T"/><lb
  n="0911a15" ed="T"/><lb
- n="0911a16" ed="T"/><div type="jing" level="1"><lb
+ n="0911a16" ed="T"/><div type='jing' level='1'><lb
  n="0911a17" ed="T"/>
-<ab type="juan" subtype="open">佛說安宅神呪經</ab><lb
+<ab type='juan' subtype='open'>佛說安宅神呪經</ab><lb
  n="0911a18" ed="T"/><lb
  n="0911a19" ed="T"/><byline>後漢失譯人名</byline><lb
- n="0911a20" ed="T"/><ab type="prose">如是我聞。一時佛住舍衛國祇樹給孤獨園。<lb
+ n="0911a20" ed="T"/><ab type='prose'>如是我聞。一時佛住舍衛國祇樹給孤獨園。<lb
  n="0911a21" ed="T"/>與千二百五十比丘。皆阿羅漢諸漏已盡。身<lb
  n="0911a22" ed="T"/>心澄靜六通無礙。其名曰大智舍利弗摩訶<lb
  n="0911a23" ed="T"/>目揵連。摩訶迦葉摩訶迦旃延須菩提等。復<lb
@@ -104,26 +104,26 @@
  n="0911c16" ed="T"/>頭。破作七分如多羅樹枝。<lb
  n="0911c17" ed="T"/>爾時世尊而說呪曰。<lb
  n="0911c18" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 南無佛陀四野　　南無達摩四野　　<lb
  n="0911c19" ed="T"/>南無僧伽四野　　
 </ab><lb
- n="0911c20" ed="T"/><ab type="prose">今為弟子某甲承佛威力而說神呪。<lb
+ n="0911c20" ed="T"/><ab type='prose'>今為弟子某甲承佛威力而說神呪。<lb
  n="0911c21" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 一足眾生莫惱我　　二足眾生莫惱我　　<lb
  n="0911c22" ed="T"/>三足眾生莫惱我　　四足眾生莫惱我　　
 </ab><lb
- n="0911c23" ed="T"/><ab type="prose">我有一切大慈大悲愍念一切眾生。汝等惡<lb
+ n="0911c23" ed="T"/><ab type='prose'>我有一切大慈大悲愍念一切眾生。汝等惡<lb
  n="0911c24" ed="T"/>魔各還所屬。不得橫忓擾亂我弟子等。復說<lb
  n="0911c25" ed="T"/>呪曰。<lb
  n="0911c26" ed="T"/></ab>
-<ab type="dharani">白黑龍王　善子龍王　漚鉢羅龍王　阿<lb
+<ab type='dharani'>白黑龍王　善子龍王　漚鉢羅龍王　阿<lb
  n="0911c27" ed="T"/>耨大龍王<lb
  n="0911c28" ed="T"/></ab>
-<ab type="prose">結界呪文<lb
+<ab type='prose'>結界呪文<lb
  n="0911c29" ed="T"/></ab>
-<ab type="dharani">伽婆致　伽婆致　悉波呵　東方大神龍<pb n="0912a" id="T21.1394.0912a" ed="T"/><lb
+<ab type='dharani'>伽婆致　伽婆致　悉波呵　東方大神龍<pb n="0912a" id="T21.1394.0912a" ed="T"/><lb
  n="0912a01" ed="T"/>王　七里結界　金剛宅　南方大神龍王<lb
  n="0912a02" ed="T"/>　七里結界　金剛宅　西方大神龍王　七里<lb
  n="0912a03" ed="T"/>結界　金剛宅　北方大神龍王　七里結界<lb
@@ -134,11 +134,11 @@
  n="0912a08" ed="T"/>　北方婆鳩深山娑羅伽扠汝百鬼頸著枷<lb
  n="0912a09" ed="T"/>　如是三說<lb
  n="0912a10" ed="T"/></ab>
-<ab type="prose">主疾病者主頭痛者。主人舍宅門戶者。當歛<lb
+<ab type='prose'>主疾病者主頭痛者。主人舍宅門戶者。當歛<lb
  n="0912a11" ed="T"/>諸毒不得擾我諸弟子。若不順我呪頭破作<lb
  n="0912a12" ed="T"/>七分。爾時世尊而說偈言。<lb
  n="0912a13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 造宅立堂宇　　安育諸群生　　<lb
  n="0912a14" ed="T"/>園林并池沼　　門牆及與圊　　<lb
  n="0912a15" ed="T"/>起心興舍室　　動靜應聖靈　　<lb
@@ -148,9 +148,9 @@
  n="0912a19" ed="T"/>如來慈普潤　　威光徹無邊　　<lb
  n="0912a20" ed="T"/>莫等咸歸命　　眾邪各自遷　　
 </ab><lb
- n="0912a21" ed="T"/><ab type="prose">佛告日月五星二十八宿天神龍鬼。皆來受<lb
+ n="0912a21" ed="T"/><ab type='prose'>佛告日月五星二十八宿天神龍鬼。皆來受<lb
  n="0912a22" ed="T"/>教明聽　佛告言。不得前却某甲之家。或作<lb
- n="0912a23" ed="T"/>東廂西廂南󱁨北堂。勅日遊月殺土府將軍。<lb
+ n="0912a23" ed="T"/>東廂西廂南𭓟北堂。勅日遊月殺土府將軍。<lb
  n="0912a24" ed="T"/>青龍白虎朱雀玄武。歲月劫殺六甲禁忌。土<lb
  n="0912a25" ed="T"/>府伏龍莫妄東西。若有動靜燒香啟聞。某甲<lb
  n="0912a26" ed="T"/>宅舍是佛金剛之地。面二百步佛有約言。諸<lb
@@ -166,5 +166,5 @@
  n="0912b07" ed="T"/>眾生安宅破魔神呪佛說經竟大眾歡喜作禮<lb
  n="0912b08" ed="T"/>奉行。<lb
  n="0912b09" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說安宅神呪經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說安宅神呪經</ab></div>
 </body></text></TEI>

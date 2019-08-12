@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0446a</idno>
                 </bibl>
@@ -39,14 +39,14 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0364c" ed="T" id="T14.0446a.0364c"/><lb
  n="0364c01" ed="T"/><lb
  n="0364c02" ed="T"/><lb
- n="0364c03" ed="T"/><div type="xu" level="2"><head>三劫三千佛緣起</head><lb
+ n="0364c03" ed="T"/><div type='xu' level='2'><head>三劫三千佛緣起</head><lb
  n="0364c04" ed="T"/><lb
  n="0364c05" ed="T"/><byline>宋畺良耶舍譯</byline><lb
- n="0364c06" ed="T"/><ab type="prose">爾時釋迦牟尼佛告大眾言：「我曾往昔無數<lb
+ n="0364c06" ed="T"/><ab type='prose'>爾時釋迦牟尼佛告大眾言：「我曾往昔無數<lb
  n="0364c07" ed="T"/>劫時，於妙光佛末法之中，出家學道，聞是五<lb
  n="0364c08" ed="T"/>十三佛名。聞已合掌，心生歡喜，復教他人，令<lb
  n="0364c09" ed="T"/>得聞持。他人聞已，展轉相教，乃至三千人。此<lb
@@ -90,10 +90,10 @@
  n="0365a18" ed="T"/><lb
  n="0365a19" ed="T"/><lb
  n="0365a20" ed="T"/>
-<ab type="juan" subtype="open">過去莊嚴劫千佛名經</ab><lb
+<ab type='juan' subtype='open'>過去莊嚴劫千佛名經</ab><lb
  n="0365a21" ed="T"/><lb
  n="0365a22" ed="T"/><byline>闕譯人名，今附梁錄</byline><lb
- n="0365a23" ed="T"/><div type="jing" level="2"><ab type="prose">若有善男子、善女人，聞是三世三劫諸佛世<lb
+ n="0365a23" ed="T"/><div type='jing' level='2'><ab type='prose'>若有善男子、善女人，聞是三世三劫諸佛世<lb
  n="0365a24" ed="T"/>尊名號，歡喜信樂，持、諷、讀、誦，而不誹謗，或能<lb
  n="0365a25" ed="T"/>書寫為他人說，或能畫作立佛形像，或能供<lb
  n="0365a26" ed="T"/>養香華伎樂，歎佛功德至心作禮者，勝用十<lb
@@ -520,7 +520,7 @@
  n="0370a12" ed="T"/>之上，一息不還便應墮落。忽有知識營功福<lb
  n="0370a13" ed="T"/>德，令修未來善法資糧，執此慳心無肯作理。<lb
  n="0370a14" ed="T"/>夫如此者，極為愚惑。何以故爾？經中佛說：『生<lb
- n="0370a15" ed="T"/>時不賚一文而來，死亦不持一文而去，苦身<lb
+ n="0370a15" ed="T"/>時不賷一文而來，死亦不持一文而去，苦身<lb
  n="0370a16" ed="T"/>積聚為之憂惱，於己無益，徒為他有。無善可<lb
  n="0370a17" ed="T"/>恃，無德可怙，致使命終，墮諸惡道。』是故弟子<lb
  n="0370a18" ed="T"/>等，今日稽顙，懇到歸依於佛。<lb
@@ -603,5 +603,5 @@
  n="0371a08" ed="T"/>佛、南無金剛王佛。<lb
  n="0371a09" ed="T"/>一千佛。</ab></div><lb
  n="0371a10" ed="T"/>
-<ab type="juan" subtype="close">過去莊嚴劫千佛名經</ab></div>
+<ab type='juan' subtype='close'>過去莊嚴劫千佛名經</ab></div>
 </body></text></TEI>

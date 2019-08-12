@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T08</biblScope>
                     <idno type="Taisho">T08n0227</idno>
                 </bibl>
@@ -39,15 +39,15 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0536c12" ed="T"/><lb
  n="0536c13" ed="T"/><lb
  n="0536c14" ed="T"/><lb
- n="0536c15" ed="T"/><div type="xu" level="2"><head>小品經序</head><lb
+ n="0536c15" ed="T"/><div type='xu' level='2'><head>小品經序</head><lb
  n="0536c16" ed="T"/><lb
  n="0536c17" ed="T"/><byline>釋僧叡</byline><lb
- n="0536c18" ed="T"/><ab type="prose">般若波羅蜜經者，窮理盡性之格言，菩薩成<lb
+ n="0536c18" ed="T"/><ab type='prose'>般若波羅蜜經者，窮理盡性之格言，菩薩成<lb
  n="0536c19" ed="T"/>佛之弘軌也。軌不弘，則不足以寮群異指其<lb
  n="0536c20" ed="T"/>歸；性不盡，則物何以登道場成正覺。正覺之<lb
  n="0536c21" ed="T"/>所以成，群異之所以一，何莫由斯道也。是以<lb
@@ -79,12 +79,12 @@
  n="0537a18" ed="T"/><lb
  n="0537a19" ed="T"/><lb
  n="0537a20" ed="T"/>
-<ab type="juan" subtype="open">摩訶般若波羅蜜經卷第一<lb
+<ab type='juan' subtype='open'>摩訶般若波羅蜜經卷第一<lb
  n="0537a21" ed="T"/></ab><lb
  n="0537a22" ed="T"/><lb
  n="0537a23" ed="T"/><byline>後秦龜茲國三藏鳩摩羅什譯</byline><lb
- n="0537a24" ed="T"/><div type="pin" level="2"><head>初品第一</head><lb
- n="0537a25" ed="T"/><ab type="prose">如是我聞：一時佛在王舍城耆闍崛山中，與<lb
+ n="0537a24" ed="T"/><div type='pin' level='2'><head>初品第一</head><lb
+ n="0537a25" ed="T"/><ab type='prose'>如是我聞：一時佛在王舍城耆闍崛山中，與<lb
  n="0537a26" ed="T"/>大比丘僧千二百五十人俱，皆是阿羅漢，諸<lb
  n="0537a27" ed="T"/>漏已盡，如調象王，所作已辦，捨於重擔，逮得<lb
  n="0537a28" ed="T"/>己利，盡諸有結，正智解脫，心得自在，唯除阿<lb
@@ -327,8 +327,8 @@
  n="0540a04" ed="T"/>眾生離故，念亦離；眾生不可得故，念亦不可<lb
  n="0540a05" ed="T"/>得。舍利弗！我欲令菩薩，以是念行般若波羅<lb
  n="0540a06" ed="T"/>蜜。」</ab></div><lb
- n="0540a07" ed="T"/><div type="pin" level="2"><head>摩訶般若波羅蜜釋提桓因品第二</head><lb
- n="0540a08" ed="T"/><ab type="prose">爾時釋提桓因，與四萬天子，俱在會中；四天<lb
+ n="0540a07" ed="T"/><div type='pin' level='2'><head>摩訶般若波羅蜜釋提桓因品第二</head><lb
+ n="0540a08" ed="T"/><ab type='prose'>爾時釋提桓因，與四萬天子，俱在會中；四天<lb
  n="0540a09" ed="T"/>王，與二萬天子，俱在會中；娑婆世界主、梵天<lb
  n="0540a10" ed="T"/>王，與萬梵天，俱在會中；乃至淨居天眾，無數<lb
  n="0540a11" ed="T"/>千種，俱在會中。是諸天眾，業報光明，以佛身<lb
@@ -460,15 +460,15 @@
  n="0541b21" ed="T"/>也！何以故？眾生從本已來，常清淨故。」「憍尸<lb
  n="0541b22" ed="T"/>迦！是故當知眾生無邊，般若波羅蜜無邊。」<lb
  n="0541b23" ed="T"/>
-</ab><ab type="juan" subtype="close">小品般若經卷第一</ab><pb n="0541c" id="T08.0227.0541c" ed="T"/></div><lb
+</ab><ab type='juan' subtype='close'>小品般若經卷第一</ab></div><pb n="0541c" id="T08.0227.0541c" ed="T"/><lb
  n="0541c01" ed="T"/><lb
  n="0541c02" ed="T"/><lb
  n="0541c03" ed="T"/>
-<ab type="juan" subtype="open">小品般若波羅蜜經卷第二</ab><lb
+<ab type='juan' subtype='open'>小品般若波羅蜜經卷第二</ab><lb
  n="0541c04" ed="T"/><lb
  n="0541c05" ed="T"/><byline>後秦龜茲國三藏鳩摩羅什譯</byline><lb
- n="0541c06" ed="T"/><div type="pin" level="2"><head>塔品第三</head><lb
- n="0541c07" ed="T"/><ab type="prose">爾時釋提桓因、梵天王、自在天王，及眾生主、<lb
+ n="0541c06" ed="T"/><div type='pin' level='2'><head>塔品第三</head><lb
+ n="0541c07" ed="T"/><ab type='prose'>爾時釋提桓因、梵天王、自在天王，及眾生主、<lb
  n="0541c08" ed="T"/>諸天女等，皆大歡喜，同時三唱：「快哉，快哉！佛<lb
  n="0541c09" ed="T"/>出世故，須菩提乃能演說是法。」爾時諸天大<lb
  n="0541c10" ed="T"/>眾俱白佛言：「世尊！若菩薩能不離般若波羅<lb
@@ -625,8 +625,8 @@
  n="0543b16" ed="T"/>尊重讚歎，華香乃至伎樂供養，於前功德，百<lb
  n="0543b17" ed="T"/>分不及一，分千分萬分、百千萬億分不及一，<lb
  n="0543b18" ed="T"/>乃至算數譬喻所不能及。」</ab></div><lb
- n="0543b19" ed="T"/><div type="pin" level="2"><head>摩訶般若波羅蜜明呪品第四</head><lb
- n="0543b20" ed="T"/><ab type="prose">爾時釋提桓因與四萬天子在會中者，語釋<lb
+ n="0543b19" ed="T"/><div type='pin' level='2'><head>摩訶般若波羅蜜明呪品第四</head><lb
+ n="0543b20" ed="T"/><ab type='prose'>爾時釋提桓因與四萬天子在會中者，語釋<lb
  n="0543b21" ed="T"/>提桓因言：「憍尸迦！應受持讀誦般若波羅蜜。」<lb
  n="0543b22" ed="T"/>佛告釋提桓因：「憍尸迦！汝受持讀誦般若波<lb
  n="0543b23" ed="T"/>羅蜜，若阿修羅生念：『欲與忉利諸天共鬪。』爾<lb
@@ -774,8 +774,8 @@
  n="0545a20" ed="T"/>受持讀誦般若波羅蜜，如所說行，當書寫經<lb
  n="0545a21" ed="T"/>卷，供養恭敬，尊重讚歎，以好華香、塗香、末香、燒<lb
  n="0545a22" ed="T"/>香、雜香，衣服、幢幡、伎樂供養。」</ab></div><lb
- n="0545a23" ed="T"/><div type="pin" level="2"><head>摩訶般若波羅蜜舍利品第五</head><lb
- n="0545a24" ed="T"/><ab type="prose">爾時佛告釋提桓因言：「憍尸迦！滿閻浮提舍<lb
+ n="0545a23" ed="T"/><div type='pin' level='2'><head>摩訶般若波羅蜜舍利品第五</head><lb
+ n="0545a24" ed="T"/><ab type='prose'>爾時佛告釋提桓因言：「憍尸迦！滿閻浮提舍<lb
  n="0545a25" ed="T"/>利以為一分，般若波羅蜜經卷以為一分。二<lb
  n="0545a26" ed="T"/>分之中，為取何分？」釋提桓因白佛言：「世尊！我<lb
  n="0545a27" ed="T"/>取般若波羅蜜。何以故？世尊！我於舍利非不<lb
@@ -856,15 +856,15 @@
  n="0546a15" ed="T"/>善男子、善女人，在在處處為人解說般若波<lb
  n="0546a16" ed="T"/>羅蜜，其福甚多。」</ab></div><lb
  n="0546a17" ed="T"/>
-<ab type="juan" subtype="close">小品般若經卷第二</ab><lb
+<ab type='juan' subtype='close'>小品般若經卷第二</ab><lb
  n="0546a18" ed="T"/><lb
  n="0546a19" ed="T"/><lb
  n="0546a20" ed="T"/>
-<ab type="juan" subtype="open">小品般若波羅蜜經卷第三</ab><lb
+<ab type='juan' subtype='open'>小品般若波羅蜜經卷第三</ab><lb
  n="0546a21" ed="T"/><lb
  n="0546a22" ed="T"/><byline>後秦龜茲國三藏鳩摩羅什譯</byline><lb
- n="0546a23" ed="T"/><div type="pin" level="2"><head>佐助品第六</head><lb
- n="0546a24" ed="T"/><ab type="prose">佛告釋提桓因言：「憍尸迦！若有善男子、善女<lb
+ n="0546a23" ed="T"/><div type='pin' level='2'><head>佐助品第六</head><lb
+ n="0546a24" ed="T"/><ab type='prose'>佛告釋提桓因言：「憍尸迦！若有善男子、善女<lb
  n="0546a25" ed="T"/>人，教閻浮提人令行十善道。於意云何？是<lb
  n="0546a26" ed="T"/>人以是因緣，得福多不？」釋提桓因言：「甚多，世<lb
  n="0546a27" ed="T"/>尊！」佛言：「憍尸迦！不如善男子、善女人，以般若<lb
@@ -997,8 +997,8 @@
  n="0547c09" ed="T"/>阿耨多羅三藐三菩提。憍尸迦！佛初發意時，<lb
  n="0547c10" ed="T"/>過去諸佛及諸弟子，以六波羅蜜應安慰佐<lb
  n="0547c11" ed="T"/>助故，得阿耨多羅三藐三菩提。」</ab></div><lb
- n="0547c12" ed="T"/><div type="pin" level="2"><head>摩訶般若波羅蜜迴向品第七</head><lb
- n="0547c13" ed="T"/><ab type="prose">爾時彌勒菩薩語須菩提：「菩薩摩訶薩隨喜<lb
+ n="0547c12" ed="T"/><div type='pin' level='2'><head>摩訶般若波羅蜜迴向品第七</head><lb
+ n="0547c13" ed="T"/><ab type='prose'>爾時彌勒菩薩語須菩提：「菩薩摩訶薩隨喜<lb
  n="0547c14" ed="T"/>福德，於餘眾生，布施持戒，修禪福德，最大最<lb
  n="0547c15" ed="T"/>勝，最上最妙。」爾時須菩提問彌勒菩薩：「若菩<lb
  n="0547c16" ed="T"/>薩於十方無量阿僧祇世界，過去無量滅度<lb
@@ -1186,8 +1186,8 @@
  n="0549c24" ed="T"/>忍辱、精進、禪定，於此隨喜迴向福德，百分不<lb
  n="0549c25" ed="T"/>及一，百千萬億分不及一，乃至算數譬喻所<lb
  n="0549c26" ed="T"/>不能及。」</ab></div><lb
- n="0549c27" ed="T"/><div type="pin" level="2"><head>摩訶般若波羅蜜泥犁品第八</head><lb
- n="0549c28" ed="T"/><ab type="prose">爾時舍利弗白佛言：「世尊！是般若波羅蜜，佛<lb
+ n="0549c27" ed="T"/><div type='pin' level='2'><head>摩訶般若波羅蜜泥犁品第八</head><lb
+ n="0549c28" ed="T"/><ab type='prose'>爾時舍利弗白佛言：「世尊！是般若波羅蜜，佛<lb
  n="0549c29" ed="T"/>言是般若波羅蜜。世尊！般若波羅蜜能作照<pb n="0550a" id="T08.0227.0550a" ed="T"/><lb
  n="0550a01" ed="T"/>明。世尊！般若波羅蜜所應敬禮。世尊！般若波<lb
  n="0550a02" ed="T"/>羅蜜能與光明。世尊！般若波羅蜜除諸闇冥。<lb
@@ -1334,15 +1334,15 @@
  n="0551b27" ed="T"/>菩提！薩婆若淨，受、想、行、識淨，無二無別，無異<lb
  n="0551b28" ed="T"/>無壞。」</ab></div><lb
  n="0551b29" ed="T"/>
-<ab type="juan" subtype="close">小品般若經卷第三</ab><pb n="0551c" id="T08.0227.0551c" ed="T"/><lb
+<ab type='juan' subtype='close'>小品般若經卷第三</ab><pb n="0551c" id="T08.0227.0551c" ed="T"/><lb
  n="0551c01" ed="T"/><lb
  n="0551c02" ed="T"/><lb
  n="0551c03" ed="T"/>
-<ab type="juan" subtype="open">小品般若波羅蜜經卷第四</ab><lb
+<ab type='juan' subtype='open'>小品般若波羅蜜經卷第四</ab><lb
  n="0551c04" ed="T"/><lb
  n="0551c05" ed="T"/><byline>後秦龜茲國三藏鳩摩羅什譯</byline><lb
- n="0551c06" ed="T"/><div type="pin" level="2"><head>歎淨品第九</head><lb
- n="0551c07" ed="T"/><ab type="prose">爾時舍利弗白佛言：「世尊！是淨甚深。」佛言：「淨<lb
+ n="0551c06" ed="T"/><div type='pin' level='2'><head>歎淨品第九</head><lb
+ n="0551c07" ed="T"/><ab type='prose'>爾時舍利弗白佛言：「世尊！是淨甚深。」佛言：「淨<lb
  n="0551c08" ed="T"/>故。」「世尊！是淨明。」佛言：「淨故。」「世尊！是淨不生欲<lb
  n="0551c09" ed="T"/>界，不生色界，不生無色界。」佛言：「淨故。」「世尊！是<lb
  n="0551c10" ed="T"/>淨無垢無淨。」佛言：「淨故。」「世尊！是淨無得無果。」<lb
@@ -1525,8 +1525,8 @@
  n="0553c13" ed="T"/>所畏波羅蜜是般若波羅蜜，心不沒故。世尊！<lb
  n="0553c14" ed="T"/>如波羅蜜是般若波羅蜜，諸法不異故。世尊！<lb
  n="0553c15" ed="T"/>自然波羅蜜是般若波羅蜜，諸法無性故。」</ab></div><lb
- n="0553c16" ed="T"/><div type="pin" level="2"><head>摩訶般若波羅蜜不可思議品第十</head><lb
- n="0553c17" ed="T"/><ab type="prose">爾時釋提桓因作是念：「若人得聞般若波羅<lb
+ n="0553c16" ed="T"/><div type='pin' level='2'><head>摩訶般若波羅蜜不可思議品第十</head><lb
+ n="0553c17" ed="T"/><ab type='prose'>爾時釋提桓因作是念：「若人得聞般若波羅<lb
  n="0553c18" ed="T"/>蜜者，當知是人，已曾供養諸佛，何況受持讀<lb
  n="0553c19" ed="T"/>誦，如所說學，如所說行。若人聞說深般若波<lb
  n="0553c20" ed="T"/>羅蜜，受持讀誦，如所說行當知是人，已曾多<lb
@@ -1694,15 +1694,15 @@
  n="0555c08" ed="T"/>藐三菩提，亦自於中學，是人轉身，應諸波羅<lb
  n="0555c09" ed="T"/>蜜深經，亦不求而得。」<lb
  n="0555c10" ed="T"/>
-</ab><ab type="juan" subtype="close">小品般若經卷第四</ab></div><lb
+</ab><ab type='juan' subtype='close'>小品般若經卷第四</ab></div><lb
  n="0555c11" ed="T"/><lb
  n="0555c12" ed="T"/><lb
  n="0555c13" ed="T"/>
-<ab type="juan" subtype="open">小品般若波羅蜜經卷第五</ab><lb
+<ab type='juan' subtype='open'>小品般若波羅蜜經卷第五</ab><lb
  n="0555c14" ed="T"/><lb
  n="0555c15" ed="T"/><byline>後秦龜茲國三藏鳩摩羅什譯</byline><lb
- n="0555c16" ed="T"/><div type="pin" level="2"><head>魔事品第十一</head><lb
- n="0555c17" ed="T"/><ab type="prose">爾時須菩提白佛言：「世尊！已說善男子、善女<lb
+ n="0555c16" ed="T"/><div type='pin' level='2'><head>魔事品第十一</head><lb
+ n="0555c17" ed="T"/><ab type='prose'>爾時須菩提白佛言：「世尊！已說善男子、善女<lb
  n="0555c18" ed="T"/>人功德，云何起留難？」「須菩提！若說法者，不即<lb
  n="0555c19" ed="T"/>樂說。菩薩當知，是為魔事。復次，須菩提！說法<lb
  n="0555c20" ed="T"/>者，樂說不止。菩薩當知，是為魔事。須菩提！說<lb
@@ -1846,8 +1846,8 @@
  n="0557b13" ed="T"/>須菩提！菩薩當知，亦為魔事。「復次，須菩提！復<lb
  n="0557b14" ed="T"/>有魔事，若菩薩行般若波羅蜜，即證實際，取<lb
  n="0557b15" ed="T"/>聲聞果。如是，須菩提！菩薩當知，亦為魔事。」</ab></div><lb
- n="0557b16" ed="T"/><div type="pin" level="2"><head>摩訶般若波羅蜜小如品第十二</head><lb
- n="0557b17" ed="T"/><ab type="prose">佛告須菩提：「般若波羅蜜多有如是諸留難<lb
+ n="0557b16" ed="T"/><div type='pin' level='2'><head>摩訶般若波羅蜜小如品第十二</head><lb
+ n="0557b17" ed="T"/><ab type='prose'>佛告須菩提：「般若波羅蜜多有如是諸留難<lb
  n="0557b18" ed="T"/>事。」須菩提白佛言：「如是，如是！世尊！般若波羅<lb
  n="0557b19" ed="T"/>蜜多有留難。譬如珍寶，多有怨賊，般若波羅<lb
  n="0557b20" ed="T"/>蜜亦如是。若人不受持讀誦修習般若波羅<lb
@@ -1942,8 +1942,8 @@
  n="0558b22" ed="T"/>為眾生說是如相。如是如相，誰能信者？」「唯有<lb
  n="0558b23" ed="T"/>阿毘跋致菩薩，及具足正見者，滿願阿羅漢，<lb
  n="0558b24" ed="T"/>乃能信之。須菩提！是如無盡，佛如實說無盡。」</ab></div><lb
- n="0558b25" ed="T"/><div type="pin" level="2"><head>摩訶般若波羅蜜相無相品第十三</head><lb
- n="0558b26" ed="T"/><ab type="prose">爾時釋提桓因，及欲界萬天子，梵世二萬天<lb
+ n="0558b25" ed="T"/><div type='pin' level='2'><head>摩訶般若波羅蜜相無相品第十三</head><lb
+ n="0558b26" ed="T"/><ab type='prose'>爾時釋提桓因，及欲界萬天子，梵世二萬天<lb
  n="0558b27" ed="T"/>子，俱詣佛所，頭面禮佛足，却住一面。各白<lb
  n="0558b28" ed="T"/>佛言：「世尊！是法甚深，於此法中，云何作相？」佛<lb
  n="0558b29" ed="T"/>告諸天子：「諸法以空為相，以無相、無作、無起、<pb n="0558c" id="T08.0227.0558c" ed="T"/><lb
@@ -2091,8 +2091,8 @@
  n="0560a26" ed="T"/>當知是菩薩新發大乘，是菩薩信心清淨，若<lb
  n="0560a27" ed="T"/>不為般若波羅蜜所護，於二地中，當墮一處，<lb
  n="0560a28" ed="T"/>若聲聞地，若辟支佛地。」</ab></div><lb
- n="0560a29" ed="T"/><div type="pin" level="2"><head>摩訶般若波羅蜜船喻品第十四</head><pb n="0560b" id="T08.0227.0560b" ed="T"/><lb
- n="0560b01" ed="T"/><ab type="prose">爾時佛告須菩提：「譬如大海中船卒破，其中人<lb
+ n="0560a29" ed="T"/><div type='pin' level='2'><head>摩訶般若波羅蜜船喻品第十四</head><pb n="0560b" id="T08.0227.0560b" ed="T"/><lb
+ n="0560b01" ed="T"/><ab type='prose'>爾時佛告須菩提：「譬如大海中船卒破，其中人<lb
  n="0560b02" ed="T"/>若不取木，若板，若浮囊，若死屍，當知是人不<lb
  n="0560b03" ed="T"/>到彼岸，沒水而死。須菩提！其中人若取木板、<lb
  n="0560b04" ed="T"/>浮囊、死屍，當知是人，不沒水死，安隱無惱，得<lb
@@ -2151,15 +2151,15 @@
  n="0560c28" ed="T"/>知是菩薩不中道退轉，能至阿耨多羅三藐<lb
  n="0560c29" ed="T"/>三菩提。」</ab></div><pb n="0561a" id="T08.0227.0561a" ed="T"/><lb
  n="0561a01" ed="T"/>
-<ab type="juan" subtype="close">小品般若經卷第五</ab><lb
+<ab type='juan' subtype='close'>小品般若經卷第五</ab><lb
  n="0561a02" ed="T"/><lb
  n="0561a03" ed="T"/><lb
  n="0561a04" ed="T"/>
-<ab type="juan" subtype="open">小品般若波羅蜜經卷第六</ab><lb
+<ab type='juan' subtype='open'>小品般若波羅蜜經卷第六</ab><lb
  n="0561a05" ed="T"/><lb
  n="0561a06" ed="T"/><byline>後秦龜茲國三藏鳩摩羅什譯</byline><lb
- n="0561a07" ed="T"/><div type="pin" level="2"><head>大如品第十五</head><lb
- n="0561a08" ed="T"/><ab type="prose">爾時須菩提白佛言：「世尊！新發意菩薩，云何<lb
+ n="0561a07" ed="T"/><div type='pin' level='2'><head>大如品第十五</head><lb
+ n="0561a08" ed="T"/><ab type='prose'>爾時須菩提白佛言：「世尊！新發意菩薩，云何<lb
  n="0561a09" ed="T"/>應學般若波羅蜜？」佛告須菩提：「新發意菩薩<lb
  n="0561a10" ed="T"/>若欲學般若波羅蜜，先當親近善知識，能說<lb
  n="0561a11" ed="T"/>般若波羅蜜者。是人如是教：『善男子，來！汝所<lb
@@ -2412,9 +2412,9 @@
  n="0563c24" ed="T"/>弄心，父母心，兄弟心，與共語言。舍利弗！若菩<lb
  n="0563c25" ed="T"/>薩欲成就阿耨多羅三藐三菩提，應如是學，<lb
  n="0563c26" ed="T"/>應如是行。」</ab></div><lb
- n="0563c27" ed="T"/><div type="pin" level="2"><head>摩訶般若波羅蜜阿惟越致相品第十<lb
+ n="0563c27" ed="T"/><div type='pin' level='2'><head>摩訶般若波羅蜜阿惟越致相品第十<lb
  n="0563c28" ed="T"/>六</head><lb
- n="0563c29" ed="T"/><ab type="prose">爾時須菩提白佛言：「世尊！何等是阿惟越致<pb n="0564a" id="T08.0227.0564a" ed="T"/><lb
+ n="0563c29" ed="T"/><ab type='prose'>爾時須菩提白佛言：「世尊！何等是阿惟越致<pb n="0564a" id="T08.0227.0564a" ed="T"/><lb
  n="0564a01" ed="T"/>菩薩相貌？我當云何知是阿惟越致菩薩？」佛<lb
  n="0564a02" ed="T"/>告須菩提：「所有凡夫地、聲聞地、辟支佛地、如<lb
  n="0564a03" ed="T"/>來地，是諸地於如中不壞不二不別。菩薩以<lb
@@ -2587,15 +2587,15 @@
  n="0565c25" ed="T"/>無生忍故。須菩提！菩薩成就如是功德相貌，<lb
  n="0565c26" ed="T"/>當知是阿惟越致菩薩。」</ab></div><lb
  n="0565c27" ed="T"/>
-<ab type="juan" subtype="close">小品般若經卷第六</ab><pb n="0566a" id="T08.0227.0566a" ed="T"/><lb
+<ab type='juan' subtype='close'>小品般若經卷第六</ab><pb n="0566a" id="T08.0227.0566a" ed="T"/><lb
  n="0566a01" ed="T"/><lb
  n="0566a02" ed="T"/><lb
  n="0566a03" ed="T"/>
-<ab type="juan" subtype="open">小品般若波羅蜜經卷第七</ab><lb
+<ab type='juan' subtype='open'>小品般若波羅蜜經卷第七</ab><lb
  n="0566a04" ed="T"/><lb
  n="0566a05" ed="T"/><byline>後秦龜茲國三藏鳩摩羅什譯</byline><lb
- n="0566a06" ed="T"/><div type="pin" level="2"><head>深功德品第十七</head><lb
- n="0566a07" ed="T"/><ab type="prose">爾時須菩提白佛言：「希有，世尊！是阿毘跋致<lb
+ n="0566a06" ed="T"/><div type='pin' level='2'><head>深功德品第十七</head><lb
+ n="0566a07" ed="T"/><ab type='prose'>爾時須菩提白佛言：「希有，世尊！是阿毘跋致<lb
  n="0566a08" ed="T"/>菩薩，成就大功德。世尊能說阿毘跋致菩薩，<lb
  n="0566a09" ed="T"/>恒河沙等相貌。說是相貌，則是說深般若波<lb
  n="0566a10" ed="T"/>羅蜜相。」佛言：「善哉，善哉！須菩提！汝能示諸菩<lb
@@ -2798,8 +2798,8 @@
  n="0568b04" ed="T"/>想，不應念前際是久遠。前際雖為久遠，而與<lb
  n="0568b05" ed="T"/>一念相應。如是，舍利弗！若菩薩久乃得阿耨<lb
  n="0568b06" ed="T"/>多羅三藐三菩提，不應驚怖退沒。」</ab></div><lb
- n="0568b07" ed="T"/><div type="pin" level="2"><head>摩訶般若波羅蜜恒伽提婆品第十八</head><lb
- n="0568b08" ed="T"/><ab type="prose">爾時會中有一女人，字恒伽提婆，從座而起，<lb
+ n="0568b07" ed="T"/><div type='pin' level='2'><head>摩訶般若波羅蜜恒伽提婆品第十八</head><lb
+ n="0568b08" ed="T"/><ab type='prose'>爾時會中有一女人，字恒伽提婆，從座而起，<lb
  n="0568b09" ed="T"/>偏袒右肩，右膝著地，合掌向佛，白佛言：「世尊！<lb
  n="0568b10" ed="T"/>我於是事不驚不怖。我於來世，亦為眾生演<lb
  n="0568b11" ed="T"/>說斯要。」即持金華散佛，當佛頂上，虛空中住。<lb
@@ -2925,8 +2925,8 @@
  n="0569c15" ed="T"/>菩提！少有菩薩能得阿毘跋致記者。若得受<lb
  n="0569c16" ed="T"/>記，則能如是正答。當知是菩薩，善根明淨；當<lb
  n="0569c17" ed="T"/>知是菩薩，一切世間、天、人、阿修羅，所不能及。」</ab></div><lb
- n="0569c18" ed="T"/><div type="pin" level="2"><head>摩訶般若波羅蜜阿毘跋致覺魔品第十九</head><lb
- n="0569c19" ed="T"/><ab type="prose">佛告須菩提：「若菩薩摩訶薩，乃至夢中不貪<lb
+ n="0569c18" ed="T"/><div type='pin' level='2'><head>摩訶般若波羅蜜阿毘跋致覺魔品第十九</head><lb
+ n="0569c19" ed="T"/><ab type='prose'>佛告須菩提：「若菩薩摩訶薩，乃至夢中不貪<lb
  n="0569c20" ed="T"/>著三界，及聲聞、辟支佛地，觀一切法如夢，而<lb
  n="0569c21" ed="T"/>不取證。須菩提！當知是阿毘跋致菩薩相。「復<lb
  n="0569c22" ed="T"/>次，須菩提！若菩薩夢中，見佛處在大眾高座<lb
@@ -3069,15 +3069,15 @@
  n="0571b14" ed="T"/>三菩提時，無如是惡，若其起者，當疾除滅。須<lb
  n="0571b15" ed="T"/>菩提！如是行者，是為菩薩智慧之力。」</ab></div><lb
  n="0571b16" ed="T"/>
-<ab type="juan" subtype="close">小品般若經卷第七</ab><lb
+<ab type='juan' subtype='close'>小品般若經卷第七</ab><lb
  n="0571b17" ed="T"/><lb
  n="0571b18" ed="T"/><lb
  n="0571b19" ed="T"/>
-<ab type="juan" subtype="open">小品般若波羅蜜經卷第八</ab><lb
+<ab type='juan' subtype='open'>小品般若波羅蜜經卷第八</ab><lb
  n="0571b20" ed="T"/><lb
  n="0571b21" ed="T"/><byline>後秦龜茲國三藏鳩摩羅什譯</byline><lb
- n="0571b22" ed="T"/><div type="pin" level="2"><head>深心求菩提品第二十</head><lb
- n="0571b23" ed="T"/><ab type="prose">佛告須菩提：「若菩薩欲得阿耨多羅三藐三<lb
+ n="0571b22" ed="T"/><div type='pin' level='2'><head>深心求菩提品第二十</head><lb
+ n="0571b23" ed="T"/><ab type='prose'>佛告須菩提：「若菩薩欲得阿耨多羅三藐三<lb
  n="0571b24" ed="T"/>菩提，應當親近善知識。」須菩提白佛言：「世尊！<lb
  n="0571b25" ed="T"/>何等是菩薩善知識？」佛告須菩提：「諸佛世尊，<lb
  n="0571b26" ed="T"/>是菩薩善知識。何以故？能教菩薩令入般若<lb
@@ -3228,8 +3228,8 @@
  n="0573a26" ed="T"/>大千世界，諸魔皆生疑惑。是菩薩，為當中道，<lb
  n="0573a27" ed="T"/>證實際，墮聲聞、辟支佛地，為當直至阿耨多<lb
  n="0573a28" ed="T"/>羅三藐三菩提。」</ab></div><lb
- n="0573a29" ed="T"/><div type="pin" level="2"><head>摩訶般若波羅蜜恭敬菩薩品第二十一</head><pb n="0573b" id="T08.0227.0573b" ed="T"/><lb
- n="0573b01" ed="T"/><ab type="prose">佛告阿難：「若菩薩不離般若波羅蜜行，爾時<lb
+ n="0573a29" ed="T"/><div type='pin' level='2'><head>摩訶般若波羅蜜恭敬菩薩品第二十一</head><pb n="0573b" id="T08.0227.0573b" ed="T"/><lb
+ n="0573b01" ed="T"/><ab type='prose'>佛告阿難：「若菩薩不離般若波羅蜜行，爾時<lb
  n="0573b02" ed="T"/>惡魔憂惱如箭入心，放大雨雹，雷電霹靂，<lb
  n="0573b03" ed="T"/>欲令菩薩驚怖毛竪，其心退沒，於阿耨多羅三<lb
  n="0573b04" ed="T"/>藐三菩提，乃至一念錯亂。阿難！惡魔不必普<lb
@@ -3332,8 +3332,8 @@
  n="0574b18" ed="T"/>波羅蜜者。於隨學中，少能得阿毘跋致者。<lb
  n="0574b19" ed="T"/>是故，須菩提！菩薩欲在少中之少，當學般若<lb
  n="0574b20" ed="T"/>波羅蜜，修習般若波羅蜜。」</ab></div><lb
- n="0574b21" ed="T"/><div type="pin" level="2"><head>摩訶般若波羅蜜無慳煩惱品第二十二</head><lb
- n="0574b22" ed="T"/><ab type="prose">佛告須菩提：「若菩薩如是學般若波羅蜜，則<lb
+ n="0574b21" ed="T"/><div type='pin' level='2'><head>摩訶般若波羅蜜無慳煩惱品第二十二</head><lb
+ n="0574b22" ed="T"/><ab type='prose'>佛告須菩提：「若菩薩如是學般若波羅蜜，則<lb
  n="0574b23" ed="T"/>不生煩惱心，不生慳心，不生破戒心，不生瞋<lb
  n="0574b24" ed="T"/>惱心，不生懈怠心，不生散亂心，不生愚癡<lb
  n="0574b25" ed="T"/>心。須菩提！菩薩如是學，皆攝諸波羅蜜。須<lb
@@ -3432,15 +3432,15 @@
  n="0575c02" ed="T"/>蜜。如是，須菩提！亦不離般若波羅蜜。得阿耨<lb
  n="0575c03" ed="T"/>多羅三藐三菩提，亦不以離得離。」</ab></div><lb
  n="0575c04" ed="T"/>
-<ab type="juan" subtype="close">小品般若經卷第八</ab><lb
+<ab type='juan' subtype='close'>小品般若經卷第八</ab><lb
  n="0575c05" ed="T"/><lb
  n="0575c06" ed="T"/><lb
  n="0575c07" ed="T"/>
-<ab type="juan" subtype="open">小品般若波羅蜜經卷第九</ab><lb
+<ab type='juan' subtype='open'>小品般若波羅蜜經卷第九</ab><lb
  n="0575c08" ed="T"/><lb
  n="0575c09" ed="T"/><byline>後秦龜茲國三藏鳩摩羅什譯</byline><lb
- n="0575c10" ed="T"/><div type="pin" level="2"><head>稱揚菩薩品第二十三</head><lb
- n="0575c11" ed="T"/><ab type="prose">爾時須菩提白佛言：「世尊！菩薩行般若波羅<lb
+ n="0575c10" ed="T"/><div type='pin' level='2'><head>稱揚菩薩品第二十三</head><lb
+ n="0575c11" ed="T"/><ab type='prose'>爾時須菩提白佛言：「世尊！菩薩行般若波羅<lb
  n="0575c12" ed="T"/>蜜，即是行甚深義。」「如是，如是！須菩提！菩薩行<lb
  n="0575c13" ed="T"/>般若波羅蜜，即是行甚深義。須菩提！菩薩所<lb
  n="0575c14" ed="T"/>為甚難，行甚深義而不證是義，所謂若聲聞<lb
@@ -3552,8 +3552,8 @@
  n="0577a04" ed="T"/>藐三菩提記。須菩提！若菩薩行般若波羅蜜，<lb
  n="0577a05" ed="T"/>諸佛說法時稱揚讚歎者，當知是菩薩，必至<lb
  n="0577a06" ed="T"/>阿毘跋致。」</ab></div><lb
- n="0577a07" ed="T"/><div type="pin" level="2"><head>摩訶般若波羅蜜囑累品第二十四</head><lb
- n="0577a08" ed="T"/><ab type="prose">佛告須菩提：「若菩薩聞是甚深般若波羅蜜，<lb
+ n="0577a07" ed="T"/><div type='pin' level='2'><head>摩訶般若波羅蜜囑累品第二十四</head><lb
+ n="0577a08" ed="T"/><ab type='prose'>佛告須菩提：「若菩薩聞是甚深般若波羅蜜，<lb
  n="0577a09" ed="T"/>信解不疑，不悔不難，是菩薩當於阿閦佛，及<lb
  n="0577a10" ed="T"/>諸菩薩所，聞深般若波羅蜜，亦復信解。須菩<lb
  n="0577a11" ed="T"/>提！菩薩若能信解如佛所說般若波羅蜜，是<lb
@@ -3566,8 +3566,8 @@
  n="0577a18" ed="T"/>羅三藐三菩提，誰當說法者。如是，如是！須菩<lb
  n="0577a19" ed="T"/>提！離如更無法，住如中。如尚不可得，何況住<lb
  n="0577a20" ed="T"/>如者。如，不能得阿耨多羅三藐三菩提；離如，<lb
- n="0577a21" ed="T"/>亦不能得阿耨多羅三藐三菩提。如，無說法；<lb
- n="0577a22" ed="T"/>者離如，亦無說法者。」爾時釋提桓因白佛<lb
+ n="0577a21" ed="T"/>亦不能得阿耨多羅三藐三菩提。如，無說法<lb
+ n="0577a22" ed="T"/>者；離如，亦無說法者。」爾時釋提桓因白佛<lb
  n="0577a23" ed="T"/>言：「世尊！無住如者，無得阿耨多羅三藐三菩<lb
  n="0577a24" ed="T"/>提者，無說法者。而菩薩聞是深法，不疑不悔<lb
  n="0577a25" ed="T"/>不難，而欲得阿耨多羅三藐三菩提，是為甚<lb
@@ -3611,7 +3611,7 @@
  n="0577c05" ed="T"/>人欲行上行，當行般若波羅蜜。若菩薩欲行<lb
  n="0577c06" ed="T"/>如來行，當行般若波羅蜜。阿難！若菩薩行般<lb
  n="0577c07" ed="T"/>若波羅蜜，當知是人，從人間命終，若於兜率<lb
- n="0577c08" ed="T"/>天上命終，來生人間。何以故？人中、兜術天<lb
+ n="0577c08" ed="T"/>天上命終，來生人間。何以故？人中、兜率天<lb
  n="0577c09" ed="T"/>上行般若波羅蜜易故。阿難！若菩薩行般<lb
  n="0577c10" ed="T"/>若波羅蜜，信樂受持，讀誦書寫。書寫已，以般<lb
  n="0577c11" ed="T"/>若波羅蜜，示教利喜，諸餘菩薩。當知是人，為<lb
@@ -3674,8 +3674,8 @@
  n="0578b10" ed="T"/>切聲聞、辟支佛，善根福德不可相比。若菩薩<lb
  n="0578b11" ed="T"/>如是行，如是念，於阿耨多羅三藐三菩提退<lb
  n="0578b12" ed="T"/>轉者，無有是處。」</ab></div><lb
- n="0578b13" ed="T"/><div type="pin" level="2"><head>摩訶般若波羅蜜見阿閦佛品第二十五</head><lb
- n="0578b14" ed="T"/><ab type="prose">佛說般若波羅蜜是時會中，四眾比丘、比丘<lb
+ n="0578b13" ed="T"/><div type='pin' level='2'><head>摩訶般若波羅蜜見阿閦佛品第二十五</head><lb
+ n="0578b14" ed="T"/><ab type='prose'>佛說般若波羅蜜是時會中，四眾比丘、比丘<lb
  n="0578b15" ed="T"/>尼、優婆塞、優婆夷，天、龍、夜叉、乾闥婆、阿修羅、<lb
  n="0578b16" ed="T"/>迦樓羅、緊那羅、摩睺羅伽、人非人等，佛神力<lb
  n="0578b17" ed="T"/>故，見阿閦佛在大會中，恭敬圍繞，而為說法。<lb
@@ -3760,8 +3760,8 @@
  n="0579b09" ed="T"/>日。如香象菩薩，今在阿閦佛所，行菩薩道，常<lb
  n="0579b10" ed="T"/>不離般若波羅蜜行。」說是法時，諸比丘眾，一<lb
  n="0579b11" ed="T"/>切大會天、人、阿修羅，皆大歡喜。</ab></div><lb
- n="0579b12" ed="T"/><div type="pin" level="2"><head>摩訶般若波羅蜜隨知品第二十六</head><lb
- n="0579b13" ed="T"/><ab type="prose">佛告須菩提：「一切法無分別，當知般若波羅<lb
+ n="0579b12" ed="T"/><div type='pin' level='2'><head>摩訶般若波羅蜜隨知品第二十六</head><lb
+ n="0579b13" ed="T"/><ab type='prose'>佛告須菩提：「一切法無分別，當知般若波羅<lb
  n="0579b14" ed="T"/>蜜亦如是；一切法無壞，當知般若波羅蜜亦<lb
  n="0579b15" ed="T"/>如是；一切法但假名字，當知般若波羅蜜亦如<lb
  n="0579b16" ed="T"/>是；一切法以言說故有，當知般若波羅蜜亦如<lb
@@ -3770,7 +3770,7 @@
  n="0579b19" ed="T"/>亦如是；一切法無量，當知般若波羅蜜亦如是；<lb
  n="0579b20" ed="T"/>色無量，當知般若波羅蜜亦如是；受、想、行、識<lb
  n="0579b21" ed="T"/>無量，當知般若波羅蜜亦如是；一切法無相，<lb
- n="0579b22" ed="T"/>當知般若波羅蜜亦如是；一切法通達，相當知<lb
+ n="0579b22" ed="T"/>當知般若波羅蜜亦如是；一切法通達相，當知<lb
  n="0579b23" ed="T"/>般若波羅蜜亦如是；一切法本來清淨，當知般<lb
  n="0579b24" ed="T"/>若波羅蜜亦如是；一切法無言說，當知般若波<lb
  n="0579b25" ed="T"/>羅蜜亦如是；一切法同於滅，當知般若波羅<lb
@@ -3823,15 +3823,15 @@
  n="0580a14" ed="T"/>不可壞；色是師子吼，受、想、行、識是師子吼。當<lb
  n="0580a15" ed="T"/>知般若波羅蜜亦如是。」</ab></div><lb
  n="0580a16" ed="T"/>
-<ab type="juan" subtype="close">小品般若經卷第九</ab><lb
+<ab type='juan' subtype='close'>小品般若經卷第九</ab><lb
  n="0580a17" ed="T"/><lb
  n="0580a18" ed="T"/><lb
  n="0580a19" ed="T"/>
-<ab type="juan" subtype="open">小品般若波羅蜜經卷第十</ab><lb
+<ab type='juan' subtype='open'>小品般若波羅蜜經卷第十</ab><lb
  n="0580a20" ed="T"/><lb
  n="0580a21" ed="T"/><byline>後秦龜茲國三藏鳩摩羅什譯</byline><lb
- n="0580a22" ed="T"/><div type="pin" level="2"><head>薩陀波崙品第二十七</head><lb
- n="0580a23" ed="T"/><ab type="prose">佛告須菩提：「若菩薩欲求般若波羅蜜，當如<lb
+ n="0580a22" ed="T"/><div type='pin' level='2'><head>薩陀波崙品第二十七</head><lb
+ n="0580a23" ed="T"/><ab type='prose'>佛告須菩提：「若菩薩欲求般若波羅蜜，當如<lb
  n="0580a24" ed="T"/>薩陀波崙菩薩，今在雷音威王佛所，行菩薩道。」<lb
  n="0580a25" ed="T"/>須菩提白佛言：「世尊！薩陀波崙菩薩云何求<lb
  n="0580a26" ed="T"/>般若波羅蜜？」佛告須菩提：「薩陀波崙菩薩，本<lb
@@ -4170,8 +4170,8 @@
  n="0584a17" ed="T"/>能為我說諸佛從何所來，去至何所？」惟願大<lb
  n="0584a18" ed="T"/>師，今當為我說諸佛從何所來，去至何所，令<lb
  n="0584a19" ed="T"/>我常得不離見佛。』</ab></div><lb
- n="0584a20" ed="T"/><div type="pin" level="2"><head>摩訶般若波羅蜜曇無竭品第二十八</head><lb
- n="0584a21" ed="T"/><ab type="prose">「爾時曇無竭菩薩語薩陀波崙菩薩言：『善男<lb
+ n="0584a20" ed="T"/><div type='pin' level='2'><head>摩訶般若波羅蜜曇無竭品第二十八</head><lb
+ n="0584a21" ed="T"/><ab type='prose'>「爾時曇無竭菩薩語薩陀波崙菩薩言：『善男<lb
  n="0584a22" ed="T"/>子！諸佛無所從來，去無所至。何以故？諸法如，<lb
  n="0584a23" ed="T"/>不動故。諸法如，即是如來。善男子！無生無來<lb
  n="0584a24" ed="T"/>無去，無生即是如來。實際無來無去，實際即<lb
@@ -4354,8 +4354,8 @@
  n="0586b03" ed="T"/>性不可得三昧、諸法無等三昧、諸法無所作<lb
  n="0586b04" ed="T"/>三昧、諸法不可思議三昧。得如是等六百萬<lb
  n="0586b05" ed="T"/>三昧。」</ab></div><lb
- n="0586b06" ed="T"/><div type="pin" level="2"><head>摩訶般若波羅蜜囑累品第二十九</head><lb
- n="0586b07" ed="T"/><ab type="prose">爾時佛告須菩提：「薩陀波崙菩薩得六百萬<lb
+ n="0586b06" ed="T"/><div type='pin' level='2'><head>摩訶般若波羅蜜囑累品第二十九</head><lb
+ n="0586b07" ed="T"/><ab type='prose'>爾時佛告須菩提：「薩陀波崙菩薩得六百萬<lb
  n="0586b08" ed="T"/>三昧門已，即見十方如恒河沙等世界諸<lb
  n="0586b09" ed="T"/>佛，與大比丘眾，恭敬圍繞，皆以是文字章句<lb
  n="0586b10" ed="T"/>相貌，說般若波羅蜜。如我今於此三千大千<lb
@@ -4385,5 +4385,5 @@
  n="0586c05" ed="T"/>諸聲聞眾，一切世間天、人、阿修羅等，聞佛<lb
  n="0586c06" ed="T"/>所說，歡喜信受。<lb
  n="0586c07" ed="T"/>
-</ab><ab type="juan" subtype="close">小品般若經卷第十</ab></div></div>
+</ab><ab type='juan' subtype='close'>小品般若經卷第十</ab></div></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T10</biblScope>
                     <idno type="Taisho">T10n0296</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0878c20" ed="T"/><lb
  n="0878c21" ed="T"/><lb
  n="0878c22" ed="T"/>
-<ab type="juan" subtype="open">文殊師利發願經</ab><lb
+<ab type='juan' subtype='open'>文殊師利發願經</ab><lb
  n="0878c23" ed="T"/><lb
  n="0878c24" ed="T"/><byline>東晉天竺三藏佛陀跋陀羅譯</byline><lb
- n="0878c25" ed="T"/><div type="jing" level="1"><ab type="verse">
+ n="0878c25" ed="T"/><div type='jing' level='1'><ab type='verse'>
 身口意清淨，　　除滅諸垢穢，　　<lb
  n="0878c26" ed="T"/>一心恭敬禮，　　十方三世佛。　　<lb
  n="0878c27" ed="T"/>普賢願力故，　　悉覩見諸佛，　　<lb
@@ -138,5 +138,5 @@
  n="0879c25" ed="T"/>盡未來際劫，　　究竟菩薩行。　　
 </ab></div><lb
  n="0879c26" ed="T"/>
-<ab type="juan" subtype="close">文殊師利發願經</ab>
+<ab type='juan' subtype='close'>文殊師利發願經</ab>
 </body></text></TEI>

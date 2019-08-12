@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T18</biblScope>
                     <idno type="Taisho">T18n0897</idno>
                 </bibl>
@@ -39,25 +39,25 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0760c" id="T18.0897.0760c" ed="T"/><lb
  n="0760c01" ed="T"/><lb
  n="0760c02" ed="T"/><lb
  n="0760c03" ed="T"/>
-<ab type="juan" subtype="open">蕤呬耶經卷上</ab><lb
+<ab type='juan' subtype='open'>蕤呬耶經卷上</ab><lb
  n="0760c04" ed="T"/><lb
  n="0760c05" ed="T"/><byline>大唐大興善寺開府儀同三司<lb
  n="0760c06" ed="T"/>試鴻臚卿三藏和尚奉　詔譯</byline><lb
- n="0760c07" ed="T"/><div type="pin" level="2"><head>序品第一</head><lb
- n="0760c08" ed="T"/><ab type="prose">我今當說通攝一切。作曼荼羅祕密次第。廣<lb
+ n="0760c07" ed="T"/><div type='pin' level='2'><head>序品第一</head><lb
+ n="0760c08" ed="T"/><ab type='prose'>我今當說通攝一切。作曼荼羅祕密次第。廣<lb
  n="0760c09" ed="T"/>略大小總在之經。於諸佛部曼荼羅中。無能<lb
  n="0760c10" ed="T"/>勝明王曼荼羅者而為上首。於蓮華部曼荼<lb
  n="0760c11" ed="T"/>羅中。善住明王曼荼羅者而為上首。於金剛<lb
  n="0760c12" ed="T"/>部曼荼羅中。除避明王曼荼羅者而為上首。<lb
  n="0760c13" ed="T"/>我今都說彼等三千五百曼荼羅中次第之法。<lb
  n="0760c14" ed="T"/>是故應當要此經法。而作一切諸曼荼羅門。</ab></div><lb
- n="0760c15" ed="T"/><div type="pin" level="2"><head>阿闍梨相品第二</head><lb
- n="0760c16" ed="T"/><ab type="prose">我今當說阿闍梨相。廣解諸法具戒正直慈<lb
+ n="0760c15" ed="T"/><div type='pin' level='2'><head>阿闍梨相品第二</head><lb
+ n="0760c16" ed="T"/><ab type='prose'>我今當說阿闍梨相。廣解諸法具戒正直慈<lb
  n="0760c17" ed="T"/>悲能忍淨信正念加有威德。不懼非人。辯才<lb
  n="0760c18" ed="T"/>無礙處眾無畏。聰明智惠善解方法。調伏諸<lb
  n="0760c19" ed="T"/>根能覆歸者。復有善巧深信大乘。愛慕經典<lb
@@ -70,8 +70,8 @@
  n="0760c26" ed="T"/>手印等一切諸印。及善解畫曼荼羅法。又<lb
  n="0760c27" ed="T"/>明念誦及供養法。具如是等一切法事。學內<lb
  n="0760c28" ed="T"/>外明已作曼荼羅。</ab></div><lb
- n="0760c29" ed="T"/><div type="pin" level="2"><head>揀擇地相品第三</head><pb n="0761a" id="T18.0897.0761a" ed="T"/><lb
- n="0761a01" ed="T"/><ab type="prose">我今次說地相善惡。應作不應作曼荼羅處。<lb
+ n="0760c29" ed="T"/><div type='pin' level='2'><head>揀擇地相品第三</head><pb n="0761a" id="T18.0897.0761a" ed="T"/><lb
+ n="0761a01" ed="T"/><ab type='prose'>我今次說地相善惡。應作不應作曼荼羅處。<lb
  n="0761a02" ed="T"/>謂於高下及有荊棘碎髑髏片。近崖坑坎<lb
  n="0761a03" ed="T"/>枯井枯池。饒有樹根及有蟲窠。鹹鹻炭灰<lb
  n="0761a04" ed="T"/>饒石瓦礫。自然乾土并髮蟲饒如是等地。應<lb
@@ -195,8 +195,8 @@
  n="0762b07" ed="T"/>好相方可起首。何況吉祥事不看相。隨其先<lb
  n="0762b08" ed="T"/>相。即知成就及不成就。是故慇懃觀其徵相<lb
  n="0762b09" ed="T"/>方可作法。</ab></div><lb
- n="0762b10" ed="T"/><div type="pin" level="2"><head>淨地品第四</head><lb
- n="0762b11" ed="T"/><ab type="prose">次說淨地之法。作曼荼羅時。七日已前往於<lb
+ n="0762b10" ed="T"/><div type='pin' level='2'><head>淨地品第四</head><lb
+ n="0762b11" ed="T"/><ab type='prose'>次說淨地之法。作曼荼羅時。七日已前往於<lb
  n="0762b12" ed="T"/>其地。如法護身及護弟子。供養地神及其地。<lb
  n="0762b13" ed="T"/>方起掘地除去地過。若不去過而作法者。必<lb
  n="0762b14" ed="T"/>不成就。是故當除其地骨石炭灰樹根蟲窠。<lb
@@ -213,8 +213,8 @@
  n="0762b25" ed="T"/>女合線。以辦事真言。各持誦七遍。以心觀念<lb
  n="0762b26" ed="T"/>一一弟子。及稱名號。更持誦七遍。一誦一結<lb
  n="0762b27" ed="T"/>乃至七結。如是受持弟子無諸障難。</ab></div><lb
- n="0762b28" ed="T"/><div type="pin" level="2"><head>召請品第五</head><lb
- n="0762b29" ed="T"/><ab type="prose">次應作召請法。一日已前。於晨朝看日出。方<pb n="0762c" id="T18.0897.0762c" ed="T"/><lb
+ n="0762b28" ed="T"/><div type='pin' level='2'><head>召請品第五</head><lb
+ n="0762b29" ed="T"/><ab type='prose'>次應作召請法。一日已前。於晨朝看日出。方<pb n="0762c" id="T18.0897.0762c" ed="T"/><lb
  n="0762c01" ed="T"/>著衣而記以心。布置諸尊座位。依其本法所<lb
  n="0762c02" ed="T"/>說。飲食如法淨潔意所愛樂。自及弟子應喫<lb
  n="0762c03" ed="T"/>其食。於日沒時澡浴清淨。著淨白衣。及與弟<lb
@@ -237,8 +237,8 @@
  n="0762c20" ed="T"/>碎伏難故。應作降伏護摩。次為自增益故。以<lb
  n="0762c21" ed="T"/>部心真言。作增益護摩。然後以寂靜真言。<lb
  n="0762c22" ed="T"/>作息災護摩。</ab></div><lb
- n="0762c23" ed="T"/><div type="pin" level="2"><head>揀擇弟子品第六</head><lb
- n="0762c24" ed="T"/><ab type="prose">初應揀擇弟子。然後方可受持。謂族姓家生。<lb
+ n="0762c23" ed="T"/><div type='pin' level='2'><head>揀擇弟子品第六</head><lb
+ n="0762c24" ed="T"/><ab type='prose'>初應揀擇弟子。然後方可受持。謂族姓家生。<lb
  n="0762c25" ed="T"/>清淨無畏深樂正法。具信能忍。勇猛精進心<lb
  n="0762c26" ed="T"/>求大乘不懷我慢顏貌有相。盛年端正具解<lb
  n="0762c27" ed="T"/>諸論。智惠具足正直調伏。能攝歸者善言懷<lb
@@ -331,19 +331,19 @@
  n="0763c27" ed="T"/>牛蘇。經以百遍。即除災障便成清淨。以憐<lb
  n="0763c28" ed="T"/>愍故隨意將入。</ab></div><lb
  n="0763c29" ed="T"/>
-<ab type="juan" subtype="close">蕤呬耶經卷上</ab><pb n="0764a" id="T18.0897.0764a" ed="T"/><lb
- n="0764a01" ed="T"/><div type="w" level="2"><ab type="prose">靈雲校本末云　貞亨三稔六月九日一<lb
+<ab type='juan' subtype='close'>蕤呬耶經卷上</ab><pb n="0764a" id="T18.0897.0764a" ed="T"/><lb
+ n="0764a01" ed="T"/><div type='w' level='2'><ab type='prose'>靈雲校本末云　貞亨三稔六月九日一<lb
  n="0764a02" ed="T"/>校了是為明日授與諸徒也。<lb
  n="0764a03" ed="T"/>河南教興傳瑜伽上乘沙門淨嚴</ab></div><lb
  n="0764a04" ed="T"/><lb
  n="0764a05" ed="T"/><lb
  n="0764a06" ed="T"/>
-<ab type="juan" subtype="open">蕤呬耶經卷中</ab><lb
+<ab type='juan' subtype='open'>蕤呬耶經卷中</ab><lb
  n="0764a07" ed="T"/><lb
  n="0764a08" ed="T"/><byline>大唐大興善寺開府儀同三司試鴻臚卿<lb
  n="0764a09" ed="T"/>三藏和尚奉　詔譯</byline><lb
- n="0764a10" ed="T"/><div type="pin" level="2"><head>摩訶曼荼羅品第七</head><lb
- n="0764a11" ed="T"/><ab type="prose">次於晨朝時。自應念誦。著新淨衣。於曼荼羅<lb
+ n="0764a10" ed="T"/><div type='pin' level='2'><head>摩訶曼荼羅品第七</head><lb
+ n="0764a11" ed="T"/><ab type='prose'>次於晨朝時。自應念誦。著新淨衣。於曼荼羅<lb
  n="0764a12" ed="T"/>所用真言。先須熟誦。詣於彼處。先以辦事<lb
  n="0764a13" ed="T"/>真言。持誦香水散灑。還以此真言持誦五色<lb
  n="0764a14" ed="T"/>繩。得好瑞相方可合繩。其五色者。謂白赤黃<lb
@@ -565,8 +565,8 @@
  n="0766b27" ed="T"/>而安置之。其作食處以白色界道。所有食飲<lb
  n="0766b28" ed="T"/>皆置一處。所有幢幡瓶等諸供養具。亦以白<lb
  n="0766b29" ed="T"/>色界道。其處而安置。</ab></div><pb n="0766c" id="T18.0897.0766c" ed="T"/><lb
- n="0766c01" ed="T"/><div type="pin" level="2"><head>瞿醯經奉請供養品第八</head><lb
- n="0766c02" ed="T"/><ab type="prose">次說奉請及供養法。作曼荼羅畢。及觀視已。<lb
+ n="0766c01" ed="T"/><div type='pin' level='2'><head>瞿醯經奉請供養品第八</head><lb
+ n="0766c02" ed="T"/><ab type='prose'>次說奉請及供養法。作曼荼羅畢。及觀視已。<lb
  n="0766c03" ed="T"/>出外灑淨。面向東。禮一切諸尊而取好相。念<lb
  n="0766c04" ed="T"/>誦曼荼羅主真言。或誦部心真言。勿令心散<lb
  n="0766c05" ed="T"/>亂。乃至當見吉祥之相。得好相已。以心生<lb
@@ -778,19 +778,19 @@
  n="0769a12" ed="T"/>遍。然後次第。應作諸尊一一手印持誦三遍。<lb
  n="0769a13" ed="T"/>如是作已。悉皆歡喜滿其所願。</ab></div><lb
  n="0769a14" ed="T"/>
-<ab type="juan" subtype="close">蕤呬耶經卷中</ab><lb
- n="0769a15" ed="T"/><div type="w" level="2"><ab type="prose">靈雲校本末云　時貞亨三丙寅年六月<lb
+<ab type='juan' subtype='close'>蕤呬耶經卷中</ab><lb
+ n="0769a15" ed="T"/><div type='w' level='2'><ab type='prose'>靈雲校本末云　時貞亨三丙寅年六月<lb
  n="0769a16" ed="T"/>十一日校了是明日授于諸禪侶故也。<lb
  n="0769a17" ed="T"/>河南教興苾芻淨嚴</ab></div><lb
  n="0769a18" ed="T"/><lb
  n="0769a19" ed="T"/><lb
  n="0769a20" ed="T"/>
-<ab type="juan" subtype="open">蕤呬耶經卷下</ab><lb
+<ab type='juan' subtype='open'>蕤呬耶經卷下</ab><lb
  n="0769a21" ed="T"/><lb
  n="0769a22" ed="T"/><byline>大唐大興善寺開府儀同三司<lb
  n="0769a23" ed="T"/>試鴻臚卿三藏和尚奉　詔譯</byline><lb
- n="0769a24" ed="T"/><div type="pin" level="2"><head>分別相品第九</head><lb
- n="0769a25" ed="T"/><ab type="prose">亦名三部三摩耶印。於一切曼荼羅。通用之<lb
+ n="0769a24" ed="T"/><div type='pin' level='2'><head>分別相品第九</head><lb
+ n="0769a25" ed="T"/><ab type='prose'>亦名三部三摩耶印。於一切曼荼羅。通用之<lb
  n="0769a26" ed="T"/>印。其護身印及結方印。驚覺奉迎之印及灌<lb
  n="0769a27" ed="T"/>頂印。辟除障難印奉獻香華等印。息災難印<lb
  n="0769a28" ed="T"/>碎伏難印。繫縛難印解放難印。如是等印。於<lb
@@ -886,8 +886,8 @@
  n="0770b02" ed="T"/>意護摩。最後以滿蘇護摩。其請火神及與發<lb
  n="0770b03" ed="T"/>遣用彼。真言其灑淨等用前真言。或隨餘說。<lb
  n="0770b04" ed="T"/>如有真言之於護摩用者。隨意而用。</ab></div><lb
- n="0770b05" ed="T"/><div type="pin" level="2"><head>瞿醯壇怛囉經分別護摩品第十</head><lb
- n="0770b06" ed="T"/><ab type="prose">次說息災增益及降伏事。三種護摩差別之<lb
+ n="0770b05" ed="T"/><div type='pin' level='2'><head>瞿醯壇怛囉經分別護摩品第十</head><lb
+ n="0770b06" ed="T"/><ab type='prose'>次說息災增益及降伏事。三種護摩差別之<lb
  n="0770b07" ed="T"/>法。依作彼曼荼羅。隨事而作護摩。若作息<lb
  n="0770b08" ed="T"/>災護摩。面向北坐。若作增益護摩。面向東坐。<lb
  n="0770b09" ed="T"/>若作降伏護摩。面向南坐。若作息災曼荼<lb
@@ -1060,8 +1060,8 @@
  n="0772b03" ed="T"/>苾芻苾芻尼及優婆塞優婆夷。其弟子乃至<lb
  n="0772b04" ed="T"/>少分不得用之。其第二日為滿所闕之法并<lb
  n="0772b05" ed="T"/>息災故護摩百八遍。</ab></div><lb
- n="0772b06" ed="T"/><div type="pin" level="2"><head>補闕品第十一</head><lb
- n="0772b07" ed="T"/><ab type="prose">次復更說如前不說闕少之法。於諸曼荼羅<lb
+ n="0772b06" ed="T"/><div type='pin' level='2'><head>補闕品第十一</head><lb
+ n="0772b07" ed="T"/><ab type='prose'>次復更說如前不說闕少之法。於諸曼荼羅<lb
  n="0772b08" ed="T"/>法所未說者。其阿闍梨善解明藏及與真言。<lb
  n="0772b09" ed="T"/>具戒清淨及有慈悲。妙解畫曼荼羅。直心清<lb
  n="0772b10" ed="T"/>淨者。應作曼荼羅。或於舍上。廣淨其處<lb
@@ -1114,8 +1114,8 @@
  n="0772c28" ed="T"/>者。先教明王真言手印及大手印諸曼荼羅。<lb
  n="0772c29" ed="T"/>然後方與此祕密法。</ab></div><pb n="0773a" id="T18.0897.0773a" ed="T"/><lb
  n="0773a01" ed="T"/>
-<ab type="juan" subtype="close">蕤呬耶經卷下終</ab><lb
- n="0773a02" ed="T"/><div type="w" level="2"><ab type="prose">靈雲校本末云　貞享三年六月十夕一<lb
+<ab type='juan' subtype='close'>蕤呬耶經卷下終</ab><lb
+ n="0773a02" ed="T"/><div type='w' level='2'><ab type='prose'>靈雲校本末云　貞享三年六月十夕一<lb
  n="0773a03" ed="T"/>校了。<lb
  n="0773a04" ed="T"/>　　　　　　　　　　　　　淨嚴</ab></div></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T16</biblScope>
                     <idno type="Taisho">T16n0677</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0711b23" ed="T"/><lb
  n="0711b24" ed="T"/><lb
  n="0711b25" ed="T"/>
-<ab type="juan" subtype="open">佛說解節經一卷</ab><lb
+<ab type='juan' subtype='open'>佛說解節經一卷</ab><lb
  n="0711b26" ed="T"/><lb
  n="0711b27" ed="T"/><byline>陳天竺三藏真諦譯</byline><lb
- n="0711b28" ed="T"/><div type="pin" level="2"><head>不可言無二品第一</head><lb
- n="0711b29" ed="T"/><ab type="prose">如是我聞：一時佛婆伽婆，住王舍城耆闍崛<pb n="0711c" ed="T" id="T16.0677.0711c"/><lb
+ n="0711b28" ed="T"/><div type='pin' level='2'><head>不可言無二品第一</head><lb
+ n="0711b29" ed="T"/><ab type='prose'>如是我聞：一時佛婆伽婆，住王舍城耆闍崛<pb n="0711c" ed="T" id="T16.0677.0711c"/><lb
  n="0711c01" ed="T"/>山，與大比丘眾九萬九千人俱，皆阿羅漢——諸<lb
  n="0711c02" ed="T"/>漏已盡，所作已辦，捨諸重擔，獲得己利，盡諸<lb
  n="0711c03" ed="T"/>有結，心善得解脫，善得自在，善得奢摩他、毘<lb
@@ -120,14 +120,14 @@
  n="0712b11" ed="T"/>實相，故說教句，謂是所作、非所作等。」<lb
  n="0712b12" ed="T"/>爾時能解甚深義節菩薩，即說偈言：<lb
  n="0712b13" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「佛說絕言法，　　無二非凡境。　　<lb
  n="0712b14" ed="T"/>愚夫於中迷，　　緣二著戲論，　　<lb
  n="0712b15" ed="T"/>不決邪決故，　　常輪轉諸有。　　<lb
  n="0712b16" ed="T"/>智人離見聞，　　簡擇中實義。」　　
 </ab></div><lb
- n="0712b17" ed="T"/><div type="pin" level="2"><head>解節經過覺觀境品第二</head><lb
- n="0712b18" ed="T"/><ab type="prose">爾時，曇無竭菩薩白佛言：「世尊！從此娑訶世<lb
+ n="0712b17" ed="T"/><div type='pin' level='2'><head>解節經過覺觀境品第二</head><lb
+ n="0712b18" ed="T"/><ab type='prose'>爾時，曇無竭菩薩白佛言：「世尊！從此娑訶世<lb
  n="0712b19" ed="T"/>界，向東最遠極東方世界，過七十七恒河沙<lb
  n="0712b20" ed="T"/>數世界，有世界曰善名聞，佛號廣大善聞修<lb
  n="0712b21" ed="T"/>伽陀住處。我於一時，往彼佛所，即於彼中見<lb
@@ -165,12 +165,12 @@
  n="0712c24" ed="T"/>持非覺觀境，無有是處。」佛說經竟，重說偈<lb
  n="0712c25" ed="T"/>言：<lb
  n="0712c26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「自證無相法，　　離言絕四事，　　<lb
  n="0712c27" ed="T"/>無諍法通相，　　過諸覺觀境。」　　
 </ab></div><lb
- n="0712c28" ed="T"/><div type="pin" level="2"><head>解節經過一異品第三</head><lb
- n="0712c29" ed="T"/><ab type="prose">爾時，淨慧菩薩白佛言：「世尊！是言正說，甚深<pb n="0713a" ed="T" id="T16.0677.0713a"/><lb
+ n="0712c28" ed="T"/><div type='pin' level='2'><head>解節經過一異品第三</head><lb
+ n="0712c29" ed="T"/><ab type='prose'>爾時，淨慧菩薩白佛言：「世尊！是言正說，甚深<pb n="0713a" ed="T" id="T16.0677.0713a"/><lb
  n="0713a01" ed="T"/>希有。如世尊說，是真實理，微細甚深，難可通<lb
  n="0713a02" ed="T"/>達，謂過一異相。「世尊！我於一時，見一方地大<lb
  n="0713a03" ed="T"/>菩薩眾修菩提行，在願樂地。於此方所聚集<lb
@@ -238,14 +238,14 @@
  n="0713c07" ed="T"/>了已，為他解說，安立正教，開示顯現，令義淺<lb
  n="0713c08" ed="T"/>易。」「佛說經已，重說偈言：<lb
  n="0713c09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「真實與行法，　　無一異俱相。　　<lb
  n="0713c10" ed="T"/>若執一異俱，　　說行不如理，　　<lb
  n="0713c11" ed="T"/>修行奢摩他，　　及毘鉢舍那，　　<lb
  n="0713c12" ed="T"/>是人能解脫，　　相惑麁重結。」　　
 </ab></div><lb
- n="0713c13" ed="T"/><div type="pin" level="2"><head>解節經一味品第四</head><lb
- n="0713c14" ed="T"/><ab type="prose">爾時，佛告須菩提言：「須菩提！汝見、汝知幾多<lb
+ n="0713c13" ed="T"/><div type='pin' level='2'><head>解節經一味品第四</head><lb
+ n="0713c14" ed="T"/><ab type='prose'>爾時，佛告須菩提言：「須菩提！汝見、汝知幾多<lb
  n="0713c15" ed="T"/>眾生，在眾生界有增上慢，由此慢心記自所<lb
  n="0713c16" ed="T"/>得？復次，汝見、汝知幾多眾生，在眾生界無增<lb
  n="0713c17" ed="T"/>上慢，不由慢心記自所得？」須菩提言：「世尊！我<lb
@@ -316,13 +316,13 @@
  n="0714b24" ed="T"/>味真如，等無差別，亦復如是。」爾時，世尊說是<lb
  n="0714b25" ed="T"/>經已，重說偈言：<lb
  n="0714b26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「法通相一味，　　諸佛說平等。　　<lb
  n="0714b27" ed="T"/>若於中執異，　　是人增上慢。　　<lb
  n="0714b28" ed="T"/>逆生死流道，　　微細深難見，　　<lb
  n="0714b29" ed="T"/>欲染癡覆故，　　凡人不能得。」　　
 </ab><pb n="0714c" ed="T" id="T16.0677.0714c"/><lb
- n="0714c01" ed="T"/><ab type="prose">爾時，觀世音菩薩，右膝著地，合掌恭敬，而白<lb
+ n="0714c01" ed="T"/><ab type='prose'>爾時，觀世音菩薩，右膝著地，合掌恭敬，而白<lb
  n="0714c02" ed="T"/>佛言：「世尊！我今從佛聞得如是解節深法，<lb
  n="0714c03" ed="T"/>得未曾有，頂戴奉持。世尊！當何名此經？云何<lb
  n="0714c04" ed="T"/>受持？」佛告觀世音菩薩：「此經名為『了義正說』，<lb
@@ -333,5 +333,5 @@
  n="0714c09" ed="T"/>諸流心得解脫，無數眾生於大乘法生信樂<lb
  n="0714c10" ed="T"/>心。</ab></div><lb
  n="0714c11" ed="T"/>
-<ab type="juan" subtype="close">佛說解節經</ab></div>
+<ab type='juan' subtype='close'>佛說解節經</ab></div>
 </body></text></TEI>

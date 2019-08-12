@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T02</biblScope>
                     <idno type="Taisho">T02n0132b</idno>
                 </bibl>
@@ -43,10 +43,10 @@
  n="0855a12" ed="T"/><lb
  n="0855a13" ed="T"/><lb
  n="0855a14" ed="T"/>
-<ab type="juan" subtype="open">施食獲五福報經</ab><lb
+<ab type='juan' subtype='open'>施食獲五福報經</ab><lb
  n="0855a16" ed="T"/><lb
  n="0855a17" ed="T"/><byline>失譯人名今附東晉錄</byline><lb
- n="0855a18" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時，佛遊舍衛國祇樹給孤獨園。<lb
+ n="0855a18" ed="T"/><div type='jing' level='1'><ab type='prose'>聞如是：一時，佛遊舍衛國祇樹給孤獨園。<lb
  n="0855a19" ed="T"/>是時，佛告諸比丘眾：「當知食以節受而名<lb
  n="0855a20" ed="T"/>損。」佛言：「人持飯食施人，有五福德，智者<lb
  n="0855a21" ed="T"/>消息意度弘廓，則有五福德道。何謂為五？<lb
@@ -81,5 +81,5 @@
  n="0855b21" ed="T"/>時，諸比丘眾、天龍鬼神、四部弟子，莫不歡<lb
  n="0855b22" ed="T"/>喜，作禮而去。<lb
  n="0855b23" ed="T"/>
-</ab><ab type="juan" subtype="close">施食獲五福報經</ab></div>
+</ab><ab type='juan' subtype='close'>施食獲五福報經</ab></div>
 </body></text></TEI>

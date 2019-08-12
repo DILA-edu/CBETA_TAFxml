@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0032</idno>
                 </bibl>
@@ -41,12 +41,12 @@
     <text>
         <body><lb
  n="0814b06" ed="T"/><lb
- n="0814b07" ed="T"/><div type="jing" level="1"><lb
+ n="0814b07" ed="T"/><div type='jing' level='1'><lb
  n="0814b08" ed="T"/>
-<ab type="juan" subtype="open">佛說四諦經</ab><lb
+<ab type='juan' subtype='open'>佛說四諦經</ab><lb
  n="0814b09" ed="T"/><lb
  n="0814b10" ed="T"/><byline>後漢安息國三藏安世高譯</byline><lb
- n="0814b11" ed="T"/><ab type="prose">聞如是：一時，佛在舍衛國祇樹給孤獨園。是<lb
+ n="0814b11" ed="T"/><ab type='prose'>聞如是：一時，佛在舍衛國祇樹給孤獨園。是<lb
  n="0814b12" ed="T"/>時，佛告諸比丘：「比丘！」應：「唯然。」比丘便從佛<lb
  n="0814b13" ed="T"/>聞。佛便說是：「比丘！真正法說，為是四諦。具思<lb
  n="0814b14" ed="T"/>惟見、開了分別發見。若所有比丘過世時，從<lb
@@ -85,7 +85,7 @@
  n="0814c18" ed="T"/>疲。從念熱惱，從更復更，從受復受，生，賢者！苦<lb
  n="0814c19" ed="T"/>上說苦，是故說從是有老。「賢者！苦老為何等？<lb
  n="0814c20" ed="T"/>所各各疲疲人，其為是老，皺白力動以老，僂<lb
- n="0814c21" ed="T"/>拄杖、鬢髮墮、黑子生󰩞󰩞、根已熟、身欲壞、<lb
+ n="0814c21" ed="T"/>拄杖、鬢髮墮、黑子生𭣛𭣛、根已熟、身欲壞、<lb
  n="0814c22" ed="T"/>色已轉、老已壽，是名為老。老，賢者！苦。何因緣<lb
  n="0814c23" ed="T"/>說老苦？以人老身更苦，從更復更，行受復受，<lb
  n="0814c24" ed="T"/>意念更苦。從更復更，作受復作受，身意亦苦。<lb
@@ -268,5 +268,5 @@
  n="0816c27" ed="T"/>舍利曰說如是，比丘受行。<lb
  n="0816c28" ed="T"/>持宿命觀。<lb
  n="0816c29" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說四諦經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說四諦經</ab></div>
 </body></text></TEI>

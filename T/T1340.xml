@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1340</idno>
                 </bibl>
@@ -39,19 +39,19 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0661a07" ed="T"/><lb
  n="0661a08" ed="T"/><lb
  n="0661a09" ed="T"/><lb
  n="0661a10" ed="T"/>
-<ab type="juan" subtype="open">大法炬陀薩尼經卷第一</ab><lb
+<ab type='juan' subtype='open'>大法炬陀薩尼經卷第一</ab><lb
  n="0661a11" ed="T"/><lb
  n="0661a12" ed="T"/><byline>隋天竺三藏法師闍那崛多等譯</byline><lb
- n="0661a13" ed="T"/><div type="toc" level="2">緣起品第一<lb
+ n="0661a13" ed="T"/><div type='toc' level='2'>緣起品第一<lb
  n="0661a14" ed="T"/>伏魔品第二</div><lb
- n="0661a15" ed="T"/><div type="pin" level="2"><head>緣起品第一</head><lb
- n="0661a16" ed="T"/><ab type="prose">如是我聞。一時婆伽婆。在王舍城耆闍崛山<lb
+ n="0661a15" ed="T"/><div type='pin' level='2'><head>緣起品第一</head><lb
+ n="0661a16" ed="T"/><ab type='prose'>如是我聞。一時婆伽婆。在王舍城耆闍崛山<lb
  n="0661a17" ed="T"/>中。與大比丘眾千二百五十人俱。皆阿羅漢。<lb
  n="0661a18" ed="T"/>諸漏已盡無復煩惱。咸得自在心善解脫慧<lb
  n="0661a19" ed="T"/>善解脫。悉能調伏猶如大龍。所作已辦棄捨<lb
@@ -323,8 +323,8 @@
  n="0664a24" ed="T"/>等今者勿疑是事。此諸句義非魔眷屬所能<lb
  n="0664a25" ed="T"/>得聞。亦非魔黨堪行斯事。若不能修習懷疑<lb
  n="0664a26" ed="T"/>心者。當知此是魔之所化。</ab></div><lb
- n="0664a27" ed="T"/><div type="pin" level="2"><head>大法炬陀羅尼經伏魔品第二</head><lb
- n="0664a28" ed="T"/><ab type="prose">佛告阿難。時彼諸菩薩摩訶薩眾。及彼九億<lb
+ n="0664a27" ed="T"/><div type='pin' level='2'><head>大法炬陀羅尼經伏魔品第二</head><lb
+ n="0664a28" ed="T"/><ab type='prose'>佛告阿難。時彼諸菩薩摩訶薩眾。及彼九億<lb
  n="0664a29" ed="T"/>諸聲聞眾等。皆以一心合十指掌。向放光佛<pb n="0664b" id="T21.1340.0664b" ed="T"/><lb
  n="0664b01" ed="T"/>接足頂禮。何以故。以魔事隱密欲諮問故。恐<lb
  n="0664b02" ed="T"/>當來世有諸眾生。不能得免微細魔事多受<lb
@@ -356,7 +356,7 @@
  n="0664b28" ed="T"/>如是法門。我當頂受。阿難。爾時放光如來。即<lb
  n="0664b29" ed="T"/>為宣說法句呪曰。<pb n="0664c" id="T21.1340.0664c" ed="T"/><lb
  n="0664c01" ed="T"/></ab>
-<ab type="dharani">多姪他阿多隷婆多隷波迦<lb
+<ab type='dharani'>多姪他阿多隷婆多隷波迦<lb
  n="0664c02" ed="T"/>多隷波迦裒留篩伽帝伽陀利旃陀利<lb
  n="0664c03" ed="T"/>蘇陀利何利甝婆利訶帝波囉<lb
  n="0664c04" ed="T"/>陀訶帝波囉迦囉摩帝伊低尼提<lb
@@ -369,7 +369,7 @@
  n="0664c12" ed="T"/>那迦那舍娑恒伽婆訶跋妬四<lb
  n="0664c13" ed="T"/>佛多羅毘娑婆訶<lb
  n="0664c14" ed="T"/></ab>
-<ab type="prose">摩那婆。是為方便守護。我說汝等宜應一心<lb
+<ab type='prose'>摩那婆。是為方便守護。我說汝等宜應一心<lb
  n="0664c15" ed="T"/>諦聽。我今更開過去諸佛所說陀羅尼典。說<lb
  n="0664c16" ed="T"/>此呪時。彼三千大千世界諸大魔王及其眷<lb
  n="0664c17" ed="T"/>屬魔軍兵眾皆大叫呼。其聲亦滿三千世界。<lb
@@ -418,19 +418,19 @@
  n="0665b02" ed="T"/>悔。世尊。我從今日如佛所教聞悉。奉行住正<lb
  n="0665b03" ed="T"/>思惟不敢放逸。</ab></div><lb
  n="0665b04" ed="T"/>
-<ab type="juan" subtype="close">大法炬陀羅尼經卷第一</ab><lb
+<ab type='juan' subtype='close'>大法炬陀羅尼經卷第一</ab><lb
  n="0665b05" ed="T"/><lb
  n="0665b06" ed="T"/><lb
  n="0665b07" ed="T"/>
-<ab type="juan" subtype="open">大法炬陀羅尼經卷第二</ab><lb
+<ab type='juan' subtype='open'>大法炬陀羅尼經卷第二</ab><lb
  n="0665b08" ed="T"/><lb
  n="0665b09" ed="T"/><byline>隋天竺三藏法師闍那崛多等譯</byline><lb
- n="0665b10" ed="T"/><div type="toc" level="2">授魔記品第三<lb
+ n="0665b10" ed="T"/><div type='toc' level='2'>授魔記品第三<lb
  n="0665b11" ed="T"/>三乘行品第四<lb
  n="0665b12" ed="T"/>問法性品第五<lb
  n="0665b13" ed="T"/>菩薩行品第六</div><lb
- n="0665b14" ed="T"/><div type="pin" level="2"><head>授魔記品第三</head><lb
- n="0665b15" ed="T"/><ab type="prose">阿難。爾時放光如來告魔王言。闍致。汝今乃<lb
+ n="0665b14" ed="T"/><div type='pin' level='2'><head>授魔記品第三</head><lb
+ n="0665b15" ed="T"/><ab type='prose'>阿難。爾時放光如來告魔王言。闍致。汝今乃<lb
  n="0665b16" ed="T"/>能發大勇猛具足精進。當固汝心勿違本志。<lb
  n="0665b17" ed="T"/>如護戒者自誓莊嚴。心所願求莫不成就。阿<lb
  n="0665b18" ed="T"/>難。時放光佛知諸魔眾精進淳固一切不退<lb
@@ -501,8 +501,8 @@
  n="0666a25" ed="T"/>世。好與聲聞諸弟子眾恒起鬪諍。既忿諍已<lb
  n="0666a26" ed="T"/>增長惡業。便能喪滅諸餘善事。是故未來多<lb
  n="0666a27" ed="T"/>受苦惱。</ab></div><lb
- n="0666a28" ed="T"/><div type="pin" level="2"><head>大法炬陀羅尼經三乘行品第四</head><lb
- n="0666a29" ed="T"/><ab type="prose">佛告阿難。爾時放光如來復語眾菩薩言。摩<pb n="0666b" id="T21.1340.0666b" ed="T"/><lb
+ n="0666a28" ed="T"/><div type='pin' level='2'><head>大法炬陀羅尼經三乘行品第四</head><lb
+ n="0666a29" ed="T"/><ab type='prose'>佛告阿難。爾時放光如來復語眾菩薩言。摩<pb n="0666b" id="T21.1340.0666b" ed="T"/><lb
  n="0666b01" ed="T"/>那婆。汝等當念。如來十力無有缺減。具足威<lb
  n="0666b02" ed="T"/>儀不斷所作。善能分別彼四聖諦。方便教誨<lb
  n="0666b03" ed="T"/>成就聲聞行。亦當善說六波羅蜜。勸進菩薩<lb
@@ -568,8 +568,8 @@
  n="0667a05" ed="T"/>為汝略說斯事。如彼愚人專樂惡業。以是因<lb
  n="0667a06" ed="T"/>緣生於惡趣。是則名為非人處也。摩那婆。智<lb
  n="0667a07" ed="T"/>慧之人。應當善知諸佛如來微密妙語。</ab></div><lb
- n="0667a08" ed="T"/><div type="pin" level="2"><head>大法炬陀羅尼經問法性品第五</head><lb
- n="0667a09" ed="T"/><ab type="prose">佛告阿難。時彼眾中有一菩薩摩訶薩。名曰<lb
+ n="0667a08" ed="T"/><div type='pin' level='2'><head>大法炬陀羅尼經問法性品第五</head><lb
+ n="0667a09" ed="T"/><ab type='prose'>佛告阿難。時彼眾中有一菩薩摩訶薩。名曰<lb
  n="0667a10" ed="T"/>無畏。本是醫方救世家子。昔常與彼放光如<lb
  n="0667a11" ed="T"/>來共相親友。時放光佛於大眾中。直視觀察<lb
  n="0667a12" ed="T"/>無畏菩薩。無畏菩薩既蒙顧已。遂於佛前偏<lb
@@ -763,8 +763,8 @@
  n="0669a26" ed="T"/>言。我得羅漢所作已辦。如是摩那婆。若有欲<lb
  n="0669a27" ed="T"/>行佛法事者。應發是心。如須彌山安住不動。<lb
  n="0669a28" ed="T"/>隨順修行。</ab></div><lb
- n="0669a29" ed="T"/><div type="pin" level="2"><head>大法炬陀羅尼經菩薩行品第六之一</head><pb n="0669b" id="T21.1340.0669b" ed="T"/><lb
- n="0669b01" ed="T"/><ab type="prose">阿難爾時無畏菩薩。復白放光如來應供正<lb
+ n="0669a29" ed="T"/><div type='pin' level='2'><head>大法炬陀羅尼經菩薩行品第六之一</head><pb n="0669b" id="T21.1340.0669b" ed="T"/><lb
+ n="0669b01" ed="T"/><ab type='prose'>阿難爾時無畏菩薩。復白放光如來應供正<lb
  n="0669b02" ed="T"/>遍覺言。快哉世尊。大慈慜我及餘未學諸眾<lb
  n="0669b03" ed="T"/>生等。如我無異。世尊。我等頻重諮問是義。如<lb
  n="0669b04" ed="T"/>來悲愛教誨我等。猶如父母。然我今者。於佛<lb
@@ -823,16 +823,16 @@
  n="0669c28" ed="T"/>是摩那婆。如來常教諸菩薩等。次第修行六<lb
  n="0669c29" ed="T"/>波羅蜜。欲令成熟亦復如是。<pb n="0670a" id="T21.1340.0670a" ed="T"/><lb
  n="0670a01" ed="T"/>
-</ab><ab type="juan" subtype="close">大法炬陀羅尼經卷第二</ab><lb
+</ab><ab type='juan' subtype='close'>大法炬陀羅尼經卷第二</ab><lb
  n="0670a02" ed="T"/><lb
  n="0670a03" ed="T"/><lb
  n="0670a04" ed="T"/>
-<ab type="juan" subtype="open">大法炬陀羅尼經卷第三</ab><lb
+<ab type='juan' subtype='open'>大法炬陀羅尼經卷第三</ab><lb
  n="0670a05" ed="T"/><lb
  n="0670a06" ed="T"/><byline>隋天竺三藏法師闍那崛多等譯</byline><lb
  n="0670a07" ed="T"/>菩薩行品之餘<lb
  n="0670a08" ed="T"/>相好品第七<lb
- n="0670a09" ed="T"/><ab type="prose">菩薩行品之餘<lb
+ n="0670a09" ed="T"/><ab type='prose'>菩薩行品之餘<lb
  n="0670a10" ed="T"/>復次摩那婆。我先已說教諸菩薩方便修行<lb
  n="0670a11" ed="T"/>諸波羅蜜攝眾生法。凡教授菩薩令不退轉。<lb
  n="0670a12" ed="T"/>有二種波羅蜜。何等為二。所謂精進波羅蜜。<lb
@@ -938,8 +938,8 @@
  n="0671a25" ed="T"/>菩薩摩訶薩。成就如是大慈大悲。成就具足<lb
  n="0671a26" ed="T"/>如是精進故。必定當得三十二相。摩那婆。是<lb
  n="0671a27" ed="T"/>為如來略說菩薩慈悲因緣也。</ab></div><lb
- n="0671a28" ed="T"/><div type="pin" level="2"><head>大法炬陀羅尼經相好品第七之一</head><lb
- n="0671a29" ed="T"/><ab type="prose">阿難爾時無畏菩薩摩訶薩復白放光如來<pb n="0671b" id="T21.1340.0671b" ed="T"/><lb
+ n="0671a28" ed="T"/><div type='pin' level='2'><head>大法炬陀羅尼經相好品第七之一</head><lb
+ n="0671a29" ed="T"/><ab type='prose'>阿難爾時無畏菩薩摩訶薩復白放光如來<pb n="0671b" id="T21.1340.0671b" ed="T"/><lb
  n="0671b01" ed="T"/>言。世尊。唯願為我具說菩薩成就諸相無有<lb
  n="0671b02" ed="T"/>缺減。又復如來應供正遍覺。先為我等說波<lb
  n="0671b03" ed="T"/>羅蜜方便教菩薩行。我等未解。是故更問此<lb
@@ -1228,15 +1228,15 @@
  n="0674b25" ed="T"/>摩那婆。是為如來身真金色善根因緣。我今<lb
  n="0674b26" ed="T"/>說竟。<lb
  n="0674b27" ed="T"/>
-</ab><ab type="juan" subtype="close">大法炬陀羅尼經卷第三</ab><pb n="0674c" id="T21.1340.0674c" ed="T"/><lb
+</ab><ab type='juan' subtype='close'>大法炬陀羅尼經卷第三</ab><pb n="0674c" id="T21.1340.0674c" ed="T"/><lb
  n="0674c01" ed="T"/><lb
  n="0674c02" ed="T"/>
-<ab type="juan" subtype="open">大法炬陀羅尼經卷第四</ab><lb
+<ab type='juan' subtype='open'>大法炬陀羅尼經卷第四</ab><lb
  n="0674c03" ed="T"/><lb
  n="0674c04" ed="T"/><byline>隋天竺三藏法師闍那崛多等譯</byline><lb
  n="0674c05" ed="T"/>相好品之餘<lb
  n="0674c06" ed="T"/>四念處品第八<lb
- n="0674c07" ed="T"/><ab type="prose">相好品之餘<lb
+ n="0674c07" ed="T"/><ab type='prose'>相好品之餘<lb
  n="0674c08" ed="T"/>復次摩那婆。如來有常光相成就因緣。我今<lb
  n="0674c09" ed="T"/>當說。汝等諦聽無令心亂。摩那婆。若諸菩薩<lb
  n="0674c10" ed="T"/>於如來所。凡有造業終不虛也。假使發心莊<lb
@@ -1477,8 +1477,8 @@
  n="0677b13" ed="T"/>固。闍毘之日唯骨不燒。本願滿故。遺身餘骨。<lb
  n="0677b14" ed="T"/>猶能普現種種佛事。阿難。時彼無畏菩薩摩<lb
  n="0677b15" ed="T"/>訶薩等。聞佛所說皆大歡喜。</ab></div><lb
- n="0677b16" ed="T"/><div type="pin" level="2"><head>大法炬陀羅尼經四念處品第八</head><lb
- n="0677b17" ed="T"/><ab type="prose">阿難。爾時放光如來應供正遍覺。說是法已。<lb
+ n="0677b16" ed="T"/><div type='pin' level='2'><head>大法炬陀羅尼經四念處品第八</head><lb
+ n="0677b17" ed="T"/><ab type='prose'>阿難。爾時放光如來應供正遍覺。說是法已。<lb
  n="0677b18" ed="T"/>從師子座安詳而起。即以佛眼觀察十方。還<lb
  n="0677b19" ed="T"/>復本座結加趺坐。入於師子奮迅三昧。放大<lb
  n="0677b20" ed="T"/>光明遍照十方無量無邊一切世界。爾時十<lb
@@ -1660,17 +1660,17 @@
  n="0679b22" ed="T"/>人於是內外諸法。如虛空住。當知彼人解脫<lb
  n="0679b23" ed="T"/>諸有。</ab></div><lb
  n="0679b24" ed="T"/>
-<ab type="juan" subtype="close">大法炬陀羅尼經卷第四</ab><pb n="0679c" id="T21.1340.0679c" ed="T"/><lb
+<ab type='juan' subtype='close'>大法炬陀羅尼經卷第四</ab><pb n="0679c" id="T21.1340.0679c" ed="T"/><lb
  n="0679c01" ed="T"/><lb
  n="0679c02" ed="T"/>
-<ab type="juan" subtype="open">大法炬陀羅尼經卷第五</ab><lb
+<ab type='juan' subtype='open'>大法炬陀羅尼經卷第五</ab><lb
  n="0679c03" ed="T"/><lb
  n="0679c04" ed="T"/><byline>隋天竺三藏法師闍那崛多等譯</byline><lb
- n="0679c05" ed="T"/><div type="toc" level="2">四聖諦品第九<lb
+ n="0679c05" ed="T"/><div type='toc' level='2'>四聖諦品第九<lb
  n="0679c06" ed="T"/>忍校量品第十<lb
  n="0679c07" ed="T"/>三乘教品第十一</div><lb
- n="0679c08" ed="T"/><div type="pin" level="2"><head>四聖諦品第九</head><lb
- n="0679c09" ed="T"/><ab type="prose">佛告阿難。爾時放光如來復告眉間白毫梵<lb
+ n="0679c08" ed="T"/><div type='pin' level='2'><head>四聖諦品第九</head><lb
+ n="0679c09" ed="T"/><ab type='prose'>佛告阿難。爾時放光如來復告眉間白毫梵<lb
  n="0679c10" ed="T"/>天言。梵天。汝今將非自以具足辯才問斯義<lb
  n="0679c11" ed="T"/>耶。汝豈不知此菩提門順諸聖諦乎。梵天言。<lb
  n="0679c12" ed="T"/>世尊。云何名為順於聖諦。佛告梵天。可不用<lb
@@ -1722,8 +1722,8 @@
  n="0680a29" ed="T"/>過去曾如是來。亦為虛妄。梵天當知。一切諸<pb n="0680b" id="T21.1340.0680b" ed="T"/><lb
  n="0680b01" ed="T"/>法皆是分別。無有真實亦復如是。是則名為<lb
  n="0680b02" ed="T"/>清淨道也。</ab></div><lb
- n="0680b03" ed="T"/><div type="pin" level="2"><head>大法炬陀羅尼經忍校量品第十</head><lb
- n="0680b04" ed="T"/><ab type="prose">阿難。爾時彼放光佛復告眉間白毫梵天言。<lb
+ n="0680b03" ed="T"/><div type='pin' level='2'><head>大法炬陀羅尼經忍校量品第十</head><lb
+ n="0680b04" ed="T"/><ab type='prose'>阿難。爾時彼放光佛復告眉間白毫梵天言。<lb
  n="0680b05" ed="T"/>梵天。此陀羅尼法門寬大無邊。今當為汝開<lb
  n="0680b06" ed="T"/>顯初問菩薩行法少分之事。當知如來方便<lb
  n="0680b07" ed="T"/>密教。梵天。譬如商主為求寶故欲入大海。於<lb
@@ -1969,11 +1969,11 @@
  n="0683a14" ed="T"/>不動搖。梵天。菩薩如是結加坐時。有一魔王<lb
  n="0683a15" ed="T"/>名拘知舍住菩薩前以偈讚曰。<lb
  n="0683a16" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 丈夫速成佛　　為世安樂故　　<lb
  n="0683a17" ed="T"/>無憂甘露句　　滅盡諸煩惱　　
 </ab><lb
- n="0683a18" ed="T"/><ab type="prose">佛告梵天。我於爾時作婆羅門。名速疾身。覩<lb
+ n="0683a18" ed="T"/><ab type='prose'>佛告梵天。我於爾時作婆羅門。名速疾身。覩<lb
  n="0683a19" ed="T"/>彼菩薩坐道樹下將成正覺。內自思念。我今<lb
  n="0683a20" ed="T"/>要當在菩薩前一心合掌恭敬而立。彼成佛<lb
  n="0683a21" ed="T"/>時乃可休息。於是七日七夜住立。諦觀更無<lb
@@ -2005,8 +2005,8 @@
  n="0683b18" ed="T"/>寬大無量無際無邊不可窮盡。若宣說者。令<lb
  n="0683b19" ed="T"/>諸眾生身心清淨安隱快樂。昔所未得今悉<lb
  n="0683b20" ed="T"/>得之。斯皆由波如來藏故。</ab></div><lb
- n="0683b21" ed="T"/><div type="pin" level="2"><head>大法炬陀羅尼經三乘教品第十一</head><lb
- n="0683b22" ed="T"/><ab type="prose">佛告阿難。時放光如來於大眾中。命一婆羅<lb
+ n="0683b21" ed="T"/><div type='pin' level='2'><head>大法炬陀羅尼經三乘教品第十一</head><lb
+ n="0683b22" ed="T"/><ab type='prose'>佛告阿難。時放光如來於大眾中。命一婆羅<lb
  n="0683b23" ed="T"/>門子毘舍佉言。汝毘舍佉。若聲聞人凡欲教<lb
  n="0683b24" ed="T"/>化。云何能令他人歡喜。先當自淨身口意業。<lb
  n="0683b25" ed="T"/>發誓精進善學法義。常多思惟成就智慧。然<lb
@@ -2057,19 +2057,19 @@
  n="0684a12" ed="T"/>如是行。毘舍佉。上至諸天猶皆樂彼丈夫所<lb
  n="0684a13" ed="T"/>行。何況人也。是故汝等。應當勤學大丈夫行。</ab></div><lb
  n="0684a14" ed="T"/>
-<ab type="juan" subtype="close">大法炬陀羅尼經卷第五</ab><lb
+<ab type='juan' subtype='close'>大法炬陀羅尼經卷第五</ab><lb
  n="0684a15" ed="T"/><lb
  n="0684a16" ed="T"/><lb
  n="0684a17" ed="T"/>
-<ab type="juan" subtype="open">大法炬陀羅尼經卷第六</ab><lb
+<ab type='juan' subtype='open'>大法炬陀羅尼經卷第六</ab><lb
  n="0684a18" ed="T"/><lb
  n="0684a19" ed="T"/><byline>隋天竺三藏法師闍那崛多等譯</byline><lb
- n="0684a20" ed="T"/><div type="toc" level="2">三法藏品第十二<lb
+ n="0684a20" ed="T"/><div type='toc' level='2'>三法藏品第十二<lb
  n="0684a21" ed="T"/>法師相品第十三<lb
  n="0684a22" ed="T"/>謗法果報品第十四<lb
  n="0684a23" ed="T"/>勸受持品第十五</div><lb
- n="0684a24" ed="T"/><div type="pin" level="2"><head>三法藏品第十二</head><lb
- n="0684a25" ed="T"/><ab type="prose">爾時放光如來復告毘舍佉言。毘舍佉。如我<lb
+ n="0684a24" ed="T"/><div type='pin' level='2'><head>三法藏品第十二</head><lb
+ n="0684a25" ed="T"/><ab type='prose'>爾時放光如來復告毘舍佉言。毘舍佉。如我<lb
  n="0684a26" ed="T"/>所說三種業藏。若善思義。則能得入一切法<lb
  n="0684a27" ed="T"/>門。毘舍佉。若人願樂成就此法。當勤精進。何<lb
  n="0684a28" ed="T"/>以故。懈怠之人終不能到。所以者何。是人不<lb
@@ -2175,8 +2175,8 @@
  n="0685b12" ed="T"/>有眾苦。一心拔濟無異思惟。故名大悲。利益<lb
  n="0685b13" ed="T"/>彼故。故言言教。毘舍佉。此三業藏所生住處。<lb
  n="0685b14" ed="T"/>諸佛菩薩常一心念作彼護持。</ab></div><lb
- n="0685b15" ed="T"/><div type="pin" level="2"><head>大法炬陀羅尼經法師相品第十三</head><lb
- n="0685b16" ed="T"/><ab type="prose">復次婆羅門。更有加持力因常精進生。云何<lb
+ n="0685b15" ed="T"/><div type='pin' level='2'><head>大法炬陀羅尼經法師相品第十三</head><lb
+ n="0685b16" ed="T"/><ab type='prose'>復次婆羅門。更有加持力因常精進生。云何<lb
  n="0685b17" ed="T"/>名為加持力因精進生也。若有沙門婆羅門。<lb
  n="0685b18" ed="T"/>欲得具足如來辯者。皆由勤心精進所致。而<lb
  n="0685b19" ed="T"/>能於一時間說百千萬億修多羅章句無有窮<lb
@@ -2355,8 +2355,8 @@
  n="0687b18" ed="T"/>人無諍論故。若諸法師當說法時。眾中有人<lb
  n="0687b19" ed="T"/>起諍論者。法師應教念彼智力陀羅尼句滅<lb
  n="0687b20" ed="T"/>彼魔事。</ab></div><lb
- n="0687b21" ed="T"/><div type="pin" level="2"><head>大法炬陀羅尼經謗法果報品第十四</head><lb
- n="0687b22" ed="T"/><ab type="prose">爾時毘舍佉婆羅門復白佛言。世尊。若人於<lb
+ n="0687b21" ed="T"/><div type='pin' level='2'><head>大法炬陀羅尼經謗法果報品第十四</head><lb
+ n="0687b22" ed="T"/><ab type='prose'>爾時毘舍佉婆羅門復白佛言。世尊。若人於<lb
  n="0687b23" ed="T"/>此三種法中生疑謗者。當云何滅。佛告婆羅<lb
  n="0687b24" ed="T"/>門。若有於此三種法門生疑謗者。在家出家。<lb
  n="0687b25" ed="T"/>一切法師悉不能除。何以故。毘舍佉。於佛智<lb
@@ -2400,8 +2400,8 @@
  n="0688a05" ed="T"/>有一切草木樹林盡以為籌。計其罪報不可<lb
  n="0688a06" ed="T"/>為比。身形麁醜難可具論。凡所至處皆成苦<lb
  n="0688a07" ed="T"/>緣。斯由謗法獲如是報。</ab></div><lb
- n="0688a08" ed="T"/><div type="pin" level="2"><head>大法炬陀羅尼經勸受持品第十五</head><lb
- n="0688a09" ed="T"/><ab type="prose">阿難。時放光如來告毘舍佉婆羅門言。毘舍<lb
+ n="0688a08" ed="T"/><div type='pin' level='2'><head>大法炬陀羅尼經勸受持品第十五</head><lb
+ n="0688a09" ed="T"/><ab type='prose'>阿難。時放光如來告毘舍佉婆羅門言。毘舍<lb
  n="0688a10" ed="T"/>佉。是故汝等從佛所聞如是三種言教藏義。<lb
  n="0688a11" ed="T"/>應至心聽專念受持勿興餘想。毘舍佉。如來<lb
  n="0688a12" ed="T"/>所說三藏法門。無法可說無可聞見。亦無一<lb
@@ -2461,18 +2461,18 @@
  n="0688c08" ed="T"/>修證如是如來藏者。應於如來及如來法中<lb
  n="0688c09" ed="T"/>起平等想行平等行。</ab></div><lb
  n="0688c10" ed="T"/>
-<ab type="juan" subtype="close">大法炬陀羅尼經卷第六</ab><lb
+<ab type='juan' subtype='close'>大法炬陀羅尼經卷第六</ab><lb
  n="0688c11" ed="T"/><lb
  n="0688c12" ed="T"/><lb
  n="0688c13" ed="T"/>
-<ab type="juan" subtype="open">大法炬陀羅尼經卷第七</ab><lb
+<ab type='juan' subtype='open'>大法炬陀羅尼經卷第七</ab><lb
  n="0688c14" ed="T"/><lb
  n="0688c15" ed="T"/><byline>隋天竺三藏法師闍那崛多等譯</byline><lb
- n="0688c16" ed="T"/><div type="toc" level="2">智成就品第十六<lb
+ n="0688c16" ed="T"/><div type='toc' level='2'>智成就品第十六<lb
  n="0688c17" ed="T"/>忍成就品第十七<lb
  n="0688c18" ed="T"/>證涅槃品第十八</div><lb
- n="0688c19" ed="T"/><div type="pin" level="2"><head>智成就品第十六</head><lb
- n="0688c20" ed="T"/><ab type="prose">佛告阿難。時彼眾中有一菩薩摩訶薩。名栴<lb
+ n="0688c19" ed="T"/><div type='pin' level='2'><head>智成就品第十六</head><lb
+ n="0688c20" ed="T"/><ab type='prose'>佛告阿難。時彼眾中有一菩薩摩訶薩。名栴<lb
  n="0688c21" ed="T"/>檀那。白放光如來應供正遍覺言。世尊。如佛<lb
  n="0688c22" ed="T"/>所說三法藏門。攝諸言教。我等已聞。世尊。我<lb
  n="0688c23" ed="T"/>雖聞是三種言教未達義理。今更諮問唯願<lb
@@ -2567,8 +2567,8 @@
  n="0689c25" ed="T"/>是力無畏等。摩那婆。或有眾生聞上所說諸<lb
  n="0689c26" ed="T"/>功德事不生信者。我於是人亦常教攝終不<lb
  n="0689c27" ed="T"/>放捨。是故汝等常應修學。</ab></div><lb
- n="0689c28" ed="T"/><div type="pin" level="2"><head>大法炬陀羅尼經忍成就品第十七</head><lb
- n="0689c29" ed="T"/><ab type="prose">爾時栴檀那菩薩復白放光佛言。世尊。云何<pb n="0690a" id="T21.1340.0690a" ed="T"/><lb
+ n="0689c28" ed="T"/><div type='pin' level='2'><head>大法炬陀羅尼經忍成就品第十七</head><lb
+ n="0689c29" ed="T"/><ab type='prose'>爾時栴檀那菩薩復白放光佛言。世尊。云何<pb n="0690a" id="T21.1340.0690a" ed="T"/><lb
  n="0690a01" ed="T"/>菩薩摩訶薩成就忍力。學佛如來為諸眾生<lb
  n="0690a02" ed="T"/>作利益事。住自忍中而能於彼外道邪師一<lb
  n="0690a03" ed="T"/>切大眾百千問難無有傾動。佛言。摩那婆。汝<lb
@@ -2685,8 +2685,8 @@
  n="0691a27" ed="T"/>勝上乘諸佛所行一切智智具足圓滿者。便<lb
  n="0691a28" ed="T"/>能成就無上菩提。摩那婆。是為具忍菩薩摩<lb
  n="0691a29" ed="T"/>訶薩第八增上勝功德事。</ab></div><pb n="0691b" id="T21.1340.0691b" ed="T"/><lb
- n="0691b01" ed="T"/><div type="pin" level="2"><head>大法炬陀羅尼經證涅槃品第十八之一</head><lb
- n="0691b02" ed="T"/><ab type="prose">佛告阿難。爾時栴檀那菩薩摩訶薩。復白放<lb
+ n="0691b01" ed="T"/><div type='pin' level='2'><head>大法炬陀羅尼經證涅槃品第十八之一</head><lb
+ n="0691b02" ed="T"/><ab type='prose'>佛告阿難。爾時栴檀那菩薩摩訶薩。復白放<lb
  n="0691b03" ed="T"/>光如來言。世尊。如來於此陀羅尼經。已說第<lb
  n="0691b04" ed="T"/>七思量法義。然尚未說此法門中一句別義<lb
  n="0691b05" ed="T"/>故令我等不得了知。世尊。先說有一法門名<lb
@@ -2866,16 +2866,16 @@
  n="0693b05" ed="T"/>宿命明。於夜中分獲天眼明。於夜後分證漏<lb
  n="0693b06" ed="T"/>盡明。<lb
  n="0693b07" ed="T"/>
-</ab><ab type="juan" subtype="close">大法炬陀羅尼經卷第七</ab><lb
+</ab><ab type='juan' subtype='close'>大法炬陀羅尼經卷第七</ab><lb
  n="0693b08" ed="T"/><lb
  n="0693b09" ed="T"/><lb
  n="0693b10" ed="T"/>
-<ab type="juan" subtype="open">大法炬陀羅尼經卷第八</ab><lb
+<ab type='juan' subtype='open'>大法炬陀羅尼經卷第八</ab><lb
  n="0693b11" ed="T"/><lb
  n="0693b12" ed="T"/><byline>隋天竺三藏法師闍那崛多等譯</byline><lb
  n="0693b13" ed="T"/>證涅槃品之餘<lb
  n="0693b14" ed="T"/>勸證品第十九<lb
- n="0693b15" ed="T"/><ab type="prose">證涅槃品之餘<lb
+ n="0693b15" ed="T"/><ab type='prose'>證涅槃品之餘<lb
  n="0693b16" ed="T"/>爾時魔王及其眷屬。不覺不知菩薩已證阿<lb
  n="0693b17" ed="T"/>耨多羅三藐三菩提。亦既成道。彼十八億諸<lb
  n="0693b18" ed="T"/>眾生等及魔王眾咸來佛所頂禮佛足右繞三<lb
@@ -3021,8 +3021,8 @@
  n="0695a13" ed="T"/>等當知非以受故能得知見。若以受事得有<lb
  n="0695a14" ed="T"/>知者。當知是受即無明使及以貪使憍慢使<lb
  n="0695a15" ed="T"/>等。是三種使和合因緣故。能造作彼諸行業。</ab></div><lb
- n="0695a16" ed="T"/><div type="pin" level="2"><head>大法炬陀羅尼經勸證品第十九之一</head><lb
- n="0695a17" ed="T"/><ab type="prose">復次摩那婆。於意云何。我今問汝。隨汝意答。<lb
+ n="0695a16" ed="T"/><div type='pin' level='2'><head>大法炬陀羅尼經勸證品第十九之一</head><lb
+ n="0695a17" ed="T"/><ab type='prose'>復次摩那婆。於意云何。我今問汝。隨汝意答。<lb
  n="0695a18" ed="T"/>此陀羅尼修多羅。及陀羅尼法門。及三言教<lb
  n="0695a19" ed="T"/>方便業藏。及億數入。及著鎧甲者。及思惟智<lb
  n="0695a20" ed="T"/>所作業。及流轉無明作事。及八盡際入法<lb
@@ -3251,15 +3251,15 @@
  n="0697c11" ed="T"/>切法則無住處。若有能知是方便說。是為真<lb
  n="0697c12" ed="T"/>說。<lb
  n="0697c13" ed="T"/>
-</ab><ab type="juan" subtype="close">大法炬陀羅尼經卷第八</ab><lb
+</ab><ab type='juan' subtype='close'>大法炬陀羅尼經卷第八</ab><lb
  n="0697c14" ed="T"/><lb
  n="0697c15" ed="T"/>
-<ab type="juan" subtype="open">大法炬陀羅尼經卷第九</ab><lb
+<ab type='juan' subtype='open'>大法炬陀羅尼經卷第九</ab><lb
  n="0697c16" ed="T"/><lb
  n="0697c17" ed="T"/><byline>隋天竺三藏法師闍那崛多等譯</byline><lb
  n="0697c18" ed="T"/>勸證品之餘<lb
  n="0697c19" ed="T"/>法師行相品第二十<lb
- n="0697c20" ed="T"/><ab type="prose">勸證品之餘<lb
+ n="0697c20" ed="T"/><ab type='prose'>勸證品之餘<lb
  n="0697c21" ed="T"/>摩那婆。若有人能入是門者。則於一切法門<lb
  n="0697c22" ed="T"/>皆得明了。摩那婆。汝等應證如是法相。既自<lb
  n="0697c23" ed="T"/>證已為人演說。汝等當得無量無邊樂說辯<lb
@@ -3397,8 +3397,8 @@
  n="0699b10" ed="T"/>癡不淨垢穢。煩惱亂心信根羸劣。雖聞法音<lb
  n="0699b11" ed="T"/>不能聽受。因是增長種種煩惱隨逐熏心。成<lb
  n="0699b12" ed="T"/>就惡業苦報熾然。</ab></div><lb
- n="0699b13" ed="T"/><div type="pin" level="2"><head>大法炬陀羅尼經法師行相品第二十</head><lb
- n="0699b14" ed="T"/><ab type="prose">爾時彼諸菩薩摩訶薩眾復白放光如來應供<lb
+ n="0699b13" ed="T"/><div type='pin' level='2'><head>大法炬陀羅尼經法師行相品第二十</head><lb
+ n="0699b14" ed="T"/><ab type='prose'>爾時彼諸菩薩摩訶薩眾復白放光如來應供<lb
  n="0699b15" ed="T"/>正遍覺言。希有世尊。希有世尊。善能護持諸<lb
  n="0699b16" ed="T"/>佛法藏。世尊我等於此甚深法中無復疑惑。<lb
  n="0699b17" ed="T"/>但為當來無量眾生故。欲宣揚如來世尊甚<lb
@@ -3616,18 +3616,18 @@
  n="0701c26" ed="T"/>汝若求於有為行法。當自觀察先捨攀緣。攀<lb
  n="0701c27" ed="T"/>緣滅已則名實相當如是持亦如斯證。</ab></div><lb
  n="0701c28" ed="T"/>
-<ab type="juan" subtype="close">大法炬陀羅尼經卷第九</ab><pb n="0702a" id="T21.1340.0702a" ed="T"/><lb
+<ab type='juan' subtype='close'>大法炬陀羅尼經卷第九</ab><pb n="0702a" id="T21.1340.0702a" ed="T"/><lb
  n="0702a01" ed="T"/><lb
  n="0702a02" ed="T"/>
-<ab type="juan" subtype="open">大法炬陀羅尼經卷第十</ab><lb
+<ab type='juan' subtype='open'>大法炬陀羅尼經卷第十</ab><lb
  n="0702a03" ed="T"/><lb
  n="0702a04" ed="T"/><byline>隋天竺三藏法師闍那崛多等譯</byline><lb
- n="0702a05" ed="T"/><div type="toc" level="2">遮謗品第二十一<lb
+ n="0702a05" ed="T"/><div type='toc' level='2'>遮謗品第二十一<lb
  n="0702a06" ed="T"/>持經功德品第二十二<lb
  n="0702a07" ed="T"/>為他悔過品第二十三<lb
  n="0702a08" ed="T"/>六度品第二十四</div><lb
- n="0702a09" ed="T"/><div type="pin" level="2"><head>遮謗品第二十一</head><lb
- n="0702a10" ed="T"/><ab type="prose">爾時彼諸菩薩摩訶薩復白放光佛言。世尊。<lb
+ n="0702a09" ed="T"/><div type='pin' level='2'><head>遮謗品第二十一</head><lb
+ n="0702a10" ed="T"/><ab type='prose'>爾時彼諸菩薩摩訶薩復白放光佛言。世尊。<lb
  n="0702a11" ed="T"/>若人聞是陀羅尼經。生疑惑心起顛倒想。生<lb
  n="0702a12" ed="T"/>惑倒已更起增上重誹謗心。世尊。彼等何因<lb
  n="0702a13" ed="T"/>能謗此法。如是眾生云何受持是法門也。爾<lb
@@ -3698,8 +3698,8 @@
  n="0702c20" ed="T"/>一字得生信心。最為希有。即得無量無邊福<lb
  n="0702c21" ed="T"/>聚。慎勿令彼起不信心不信因緣。當受無量<lb
  n="0702c22" ed="T"/>無邊惡果。</ab></div><lb
- n="0702c23" ed="T"/><div type="pin" level="2"><head>大法炬陀羅尼經持經功德品第二十二</head><lb
- n="0702c24" ed="T"/><ab type="prose">爾時彼諸菩薩摩訶薩。復白佛言。世尊。若諸<lb
+ n="0702c23" ed="T"/><div type='pin' level='2'><head>大法炬陀羅尼經持經功德品第二十二</head><lb
+ n="0702c24" ed="T"/><ab type='prose'>爾時彼諸菩薩摩訶薩。復白佛言。世尊。若諸<lb
  n="0702c25" ed="T"/>眾生自能讀誦受持是法。起憐慜心為人演<lb
  n="0702c26" ed="T"/>說。乃至一句令他受持。如是之人獲幾功德<lb
  n="0702c27" ed="T"/>住何善根。能說是法不起疑心。是人往昔修<lb
@@ -3762,8 +3762,8 @@
  n="0703b26" ed="T"/>劫乃至無量劫。終不能知不能稱量。不能宣<lb
  n="0703b27" ed="T"/>說三教藏門少分邊際。摩那婆。唯除如來智<lb
  n="0703b28" ed="T"/>慧辯才能譬喻證能入是處決斷疑網。</ab></div><lb
- n="0703b29" ed="T"/><div type="pin" level="2"><head>大法炬陀羅尼經為他悔過品第二十三</head><pb n="0703c" id="T21.1340.0703c" ed="T"/><lb
- n="0703c01" ed="T"/><ab type="prose">爾時栴檀那菩薩摩訶薩從座而起。整持威<lb
+ n="0703b29" ed="T"/><div type='pin' level='2'><head>大法炬陀羅尼經為他悔過品第二十三</head><pb n="0703c" id="T21.1340.0703c" ed="T"/><lb
+ n="0703c01" ed="T"/><ab type='prose'>爾時栴檀那菩薩摩訶薩從座而起。整持威<lb
  n="0703c02" ed="T"/>儀偏袒右髆右膝著地。合掌恭敬白放光如<lb
  n="0703c03" ed="T"/>來言。世尊。我於今者在世尊前。為如是等<lb
  n="0703c04" ed="T"/>諸惡眾生誠心悔過。以彼謗法諸惡眾生。於<lb
@@ -3922,8 +3922,8 @@
  n="0705b12" ed="T"/>己心。聚積貨財增長惡業。哀哉祖考今生何<lb
  n="0705b13" ed="T"/>處。辛勤營理竟何所成。徒事虛名求勝他耳。<lb
  n="0705b14" ed="T"/>妬嫉連綿貪婪味著。是業因緣永淪惡道。</ab></div><lb
- n="0705b15" ed="T"/><div type="pin" level="2"><head>大法炬陀羅尼經六度品第二十四之一</head><lb
- n="0705b16" ed="T"/><ab type="prose">佛告阿難。爾時放光如來告彼善覺菩薩摩<lb
+ n="0705b15" ed="T"/><div type='pin' level='2'><head>大法炬陀羅尼經六度品第二十四之一</head><lb
+ n="0705b16" ed="T"/><ab type='prose'>佛告阿難。爾時放光如來告彼善覺菩薩摩<lb
  n="0705b17" ed="T"/>訶薩言。摩那婆。汝宜諦聽善思念之。今當為<lb
  n="0705b18" ed="T"/>汝說菩薩法。若諸菩薩持戒清淨無有缺減。<lb
  n="0705b19" ed="T"/>決定成就義利莊嚴。如諸菩薩住正戒中最<lb
@@ -4043,17 +4043,17 @@
  n="0706c17" ed="T"/>忍中轉更牢固。摩那婆。是為第三菩薩摩訶<lb
  n="0706c18" ed="T"/>薩樂行住彼羼提波羅蜜中。<lb
  n="0706c19" ed="T"/>
-</ab><ab type="juan" subtype="close">大法炬陀羅尼經第十卷</ab><pb n="0707a" id="T21.1340.0707a" ed="T"/><lb
+</ab><ab type='juan' subtype='close'>大法炬陀羅尼經第十卷</ab><pb n="0707a" id="T21.1340.0707a" ed="T"/><lb
  n="0707a01" ed="T"/><lb
  n="0707a02" ed="T"/>
-<ab type="juan" subtype="open">大法炬陀羅尼經卷第十一</ab><lb
+<ab type='juan' subtype='open'>大法炬陀羅尼經卷第十一</ab><lb
  n="0707a03" ed="T"/><lb
  n="0707a04" ed="T"/><byline>隋天竺三藏闍那崛多譯</byline><lb
  n="0707a05" ed="T"/>六度品之餘<lb
  n="0707a06" ed="T"/>求證品第二十五<lb
  n="0707a07" ed="T"/>諸菩薩證三昧品第二十六<lb
  n="0707a08" ed="T"/>召諸菩薩品第二十七<lb
- n="0707a09" ed="T"/><ab type="prose">六度品之餘<lb
+ n="0707a09" ed="T"/><ab type='prose'>六度品之餘<lb
  n="0707a10" ed="T"/>復次摩那婆。云何名為第四菩薩樂行毘梨<lb
  n="0707a11" ed="T"/>耶波羅蜜者。謂彼菩薩行毘梨耶波羅蜜時。<lb
  n="0707a12" ed="T"/>或在居家若見如來及諸菩薩聲聞大眾。凡<lb
@@ -4088,17 +4088,17 @@
  n="0707b12" ed="T"/>驚怖。時彼菩薩即隨如來金手光明。從園林<lb
  n="0707b13" ed="T"/>出直趣寶火佛世尊前。頭面禮足以偈白曰。<lb
  n="0707b14" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 世尊我今大恐怖　　以獨入彼深林間　　<lb
  n="0707b15" ed="T"/>端坐安禪失正念　　願天人尊為我說　　
 </ab><lb
- n="0707b16" ed="T"/><ab type="prose">摩那婆。爾時寶火如來。復以偈答彼菩薩曰。<lb
+ n="0707b16" ed="T"/><ab type='prose'>摩那婆。爾時寶火如來。復以偈答彼菩薩曰。<lb
  n="0707b17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 汝為丈夫未失念　　汝向所見恐怖事　　<lb
  n="0707b18" ed="T"/>我故示之警悟汝　　汝以昏惑不覺知　　
 </ab><lb
- n="0707b19" ed="T"/><ab type="prose">摩那婆。時彼菩薩頭面禮敬彼世尊足。未起<lb
+ n="0707b19" ed="T"/><ab type='prose'>摩那婆。時彼菩薩頭面禮敬彼世尊足。未起<lb
  n="0707b20" ed="T"/>之間。法服著體自成沙門。既出家已不捨禪<lb
  n="0707b21" ed="T"/>波羅蜜。而更發起增上精進行禪波羅蜜。便<lb
  n="0707b22" ed="T"/>得具足三摩跋提。究竟禪定到於彼岸。摩那<lb
@@ -4232,8 +4232,8 @@
  n="0709a05" ed="T"/>諸菩薩。煩惱未斷智根未成未證大地。雖復<lb
  n="0709a06" ed="T"/>聞說般若波羅蜜。則不堪受。猶如彼人惡先<lb
  n="0709a07" ed="T"/>生棗棄餘美味。</ab></div><lb
- n="0709a08" ed="T"/><div type="pin" level="2"><head>大法炬陀羅尼經求證品第二十五</head><lb
- n="0709a09" ed="T"/><ab type="prose">阿難爾時彼眾有淨行子名須達多。問善覺<lb
+ n="0709a08" ed="T"/><div type='pin' level='2'><head>大法炬陀羅尼經求證品第二十五</head><lb
+ n="0709a09" ed="T"/><ab type='prose'>阿難爾時彼眾有淨行子名須達多。問善覺<lb
  n="0709a10" ed="T"/>菩薩言。善覺我於今日宜共億數諸菩薩等。<lb
  n="0709a11" ed="T"/>至林樹間或山澤所。得一空閑寂靜之處。共<lb
  n="0709a12" ed="T"/>論如來方便密教。若得證知最為大善。如不<lb
@@ -4338,9 +4338,9 @@
  n="0710a24" ed="T"/>滅是中若此三種語言。即苦聖諦。苦集聖諦。<lb
  n="0710a25" ed="T"/>苦滅聖諦。入此三處智知陰滅。求道思聞故<lb
  n="0710a26" ed="T"/>言滅苦道也。</ab></div><lb
- n="0710a27" ed="T"/><div type="pin" level="2"><head>大法炬陀羅尼經諸菩薩證三昧品第二十<lb
+ n="0710a27" ed="T"/><div type='pin' level='2'><head>大法炬陀羅尼經諸菩薩證三昧品第二十<lb
  n="0710a28" ed="T"/>六</head><lb
- n="0710a29" ed="T"/><ab type="prose">佛告阿難。爾時彼諸菩薩復作是念。如來所<pb n="0710b" id="T21.1340.0710b" ed="T"/><lb
+ n="0710a29" ed="T"/><ab type='prose'>佛告阿難。爾時彼諸菩薩復作是念。如來所<pb n="0710b" id="T21.1340.0710b" ed="T"/><lb
  n="0710b01" ed="T"/>說四聖諦法。我於彼義不覺不知。是故長夜<lb
  n="0710b02" ed="T"/>往來輪轉。是中誰為輪轉。謂彼愚人以彼愚<lb
  n="0710b03" ed="T"/>癡增長苦聚故。令我等長受大苦。如來於中<lb
@@ -4397,8 +4397,8 @@
  n="0710c25" ed="T"/>詳論已一切皆得念佛三昧。彼諸菩薩即從<lb
  n="0710c26" ed="T"/>彼林飛昇虛空。到須彌山頂。到山頂已出大<lb
  n="0710c27" ed="T"/>音聲。三稱南無佛陀夜。</ab></div><lb
- n="0710c28" ed="T"/><div type="pin" level="2"><head>大法炬陀羅尼經召諸菩薩品第二十七</head><lb
- n="0710c29" ed="T"/><ab type="prose">佛告阿難。爾時放光佛語眉間白毫梵天言。<pb n="0711a" id="T21.1340.0711a" ed="T"/><lb
+ n="0710c28" ed="T"/><div type='pin' level='2'><head>大法炬陀羅尼經召諸菩薩品第二十七</head><lb
+ n="0710c29" ed="T"/><ab type='prose'>佛告阿難。爾時放光佛語眉間白毫梵天言。<pb n="0711a" id="T21.1340.0711a" ed="T"/><lb
  n="0711a01" ed="T"/>梵天汝今知彼諸菩薩眾所覺不耶。白毫梵<lb
  n="0711a02" ed="T"/>天言。世尊。我實不知彼諸菩薩今所覺者。梵<lb
  n="0711a03" ed="T"/>天汝可詣彼與天帝釋及此億數諸魔眾等一<lb
@@ -4443,11 +4443,11 @@
  n="0711b13" ed="T"/>儀。頭面禮敬放光世尊。縱闊一拘盧舍。圍繞<lb
  n="0711b14" ed="T"/>七匝而說偈言。<lb
  n="0711b15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 世尊智行法界中　　最上德願久圓備　　<lb
  n="0711b16" ed="T"/>悕望分別斯已除　　不著如雲無窮盡　　
 </ab><lb
- n="0711b17" ed="T"/><ab type="prose">爾時放光如來告彼諸菩薩言。善哉善哉。諸<lb
+ n="0711b17" ed="T"/><ab type='prose'>爾時放光如來告彼諸菩薩言。善哉善哉。諸<lb
  n="0711b18" ed="T"/>摩那婆。汝等在彼諸樹下時。一心思惟如是<lb
  n="0711b19" ed="T"/>妙義。今已證於不退墮處。斷除生死離諸語<lb
  n="0711b20" ed="T"/>言。破壞愛心功德已滿。於解脫門獲如是相。<lb
@@ -4465,17 +4465,17 @@
  n="0711c03" ed="T"/>法波羅蜜中常聞解說。摩那婆。彼等若能<lb
  n="0711c04" ed="T"/>學汝所行。當得大利。</ab></div><lb
  n="0711c05" ed="T"/>
-<ab type="juan" subtype="close">大法炬陀羅尼經卷第十一</ab><lb
+<ab type='juan' subtype='close'>大法炬陀羅尼經卷第十一</ab><lb
  n="0711c06" ed="T"/><lb
  n="0711c07" ed="T"/><lb
  n="0711c08" ed="T"/>
-<ab type="juan" subtype="open">大法炬陀羅尼經卷第十二</ab><lb
+<ab type='juan' subtype='open'>大法炬陀羅尼經卷第十二</ab><lb
  n="0711c09" ed="T"/><lb
  n="0711c10" ed="T"/><byline>隋天竺三藏闍那崛多譯</byline><lb
- n="0711c11" ed="T"/><div type="toc" level="2">問等覺品第二十八<lb
+ n="0711c11" ed="T"/><div type='toc' level='2'>問等覺品第二十八<lb
  n="0711c12" ed="T"/>三昧因緣品第二十九</div><lb
- n="0711c13" ed="T"/><div type="pin" level="2"><head>問等覺品第二十八</head><lb
- n="0711c14" ed="T"/><ab type="prose">阿難。爾時眉間白毫梵天白放光如來言。世<lb
+ n="0711c13" ed="T"/><div type='pin' level='2'><head>問等覺品第二十八</head><lb
+ n="0711c14" ed="T"/><ab type='prose'>阿難。爾時眉間白毫梵天白放光如來言。世<lb
  n="0711c15" ed="T"/>尊。如彼億數諸菩薩等。發是法言佛陀佛陀<lb
  n="0711c16" ed="T"/>者。彼於是中見何義故。而諸菩薩三稱佛名。<lb
  n="0711c17" ed="T"/>善哉世尊。是佛名義我等樂聞。世尊。一切眾<lb
@@ -4579,8 +4579,8 @@
  n="0712c28" ed="T"/>不能知。何能知彼不可聞說究竟涅槃。是故<lb
  n="0712c29" ed="T"/>要當發大精進熾然願求。然後能於如來所<pb n="0713a" id="T21.1340.0713a" ed="T"/><lb
  n="0713a01" ed="T"/>說方便密法可得知解。</ab></div><lb
- n="0713a02" ed="T"/><div type="pin" level="2"><head>大法炬陀羅尼經三昧因緣品第二十九</head><lb
- n="0713a03" ed="T"/><ab type="prose">佛告阿難。時天帝釋白彼放光如來言。世尊。<lb
+ n="0713a02" ed="T"/><div type='pin' level='2'><head>大法炬陀羅尼經三昧因緣品第二十九</head><lb
+ n="0713a03" ed="T"/><ab type='prose'>佛告阿難。時天帝釋白彼放光如來言。世尊。<lb
  n="0713a04" ed="T"/>何因何緣。先此億數諸菩薩等請問法門。如<lb
  n="0713a05" ed="T"/>來不即為其解釋。因此詣於祭火王園。如來<lb
  n="0713a06" ed="T"/>世尊任其所趣。而亦獲斯大利益也。爾時放<lb
@@ -4796,13 +4796,13 @@
  n="0715b13" ed="T"/>坐起。偏袒右髆右膝著地。合掌向佛而說偈<lb
  n="0715b14" ed="T"/>言。<lb
  n="0715b15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 誰知佛教音　　入此總持門　　<lb
  n="0715b16" ed="T"/>誰能分別問　　巧方便無礙　　<lb
  n="0715b17" ed="T"/>知時而為說　　非時聖不言　　<lb
  n="0715b18" ed="T"/>善達時宜趣　　如來開法眼　　
 </ab><lb
- n="0715b19" ed="T"/><ab type="prose">阿難。時彼帝釋憶念過去九億佛所諸願行<lb
+ n="0715b19" ed="T"/><ab type='prose'>阿難。時彼帝釋憶念過去九億佛所諸願行<lb
  n="0715b20" ed="T"/>事。了了分明猶夢所覩晝曾更事皆能憶知。<lb
  n="0715b21" ed="T"/>此亦如是過去所有一切事業。分明了知無<lb
  n="0715b22" ed="T"/>所疑惑。所謂彼時住處皆悉覺知。及彼色相<lb
@@ -4862,15 +4862,15 @@
  n="0716a18" ed="T"/>是念。我今且住自宮。聽佛世尊垂慈念我。我<lb
  n="0716a19" ed="T"/>當歸敬。</ab></div><lb
  n="0716a20" ed="T"/>
-<ab type="juan" subtype="close">大法炬陀羅尼經卷第十二</ab><lb
+<ab type='juan' subtype='close'>大法炬陀羅尼經卷第十二</ab><lb
  n="0716a21" ed="T"/><lb
  n="0716a22" ed="T"/><lb
  n="0716a23" ed="T"/>
-<ab type="juan" subtype="open">大法炬陀羅尼經卷第十三</ab><lb
+<ab type='juan' subtype='open'>大法炬陀羅尼經卷第十三</ab><lb
  n="0716a24" ed="T"/><lb
  n="0716a25" ed="T"/><byline>隋天竺三藏闍那崛多譯</byline><lb
- n="0716a26" ed="T"/><div type="pin" level="2"><head>供養法師品第三十</head><lb
- n="0716a27" ed="T"/><ab type="prose">佛告阿難。爾時有一天子菩薩摩訶薩。名須<lb
+ n="0716a26" ed="T"/><div type='pin' level='2'><head>供養法師品第三十</head><lb
+ n="0716a27" ed="T"/><ab type='prose'>佛告阿難。爾時有一天子菩薩摩訶薩。名須<lb
  n="0716a28" ed="T"/>夜摩。白放光如來言。世尊。我等在於林間有<lb
  n="0716a29" ed="T"/>所思念。初來歸敬佛世尊時。皆已諮白。時放<pb n="0716b" id="T21.1340.0716b" ed="T"/><lb
  n="0716b01" ed="T"/>光佛從天菩薩聞如是諮。即以神力出大音<lb
@@ -5063,13 +5063,13 @@
  n="0718b14" ed="T"/>呪法令不斷者。彼諸法師欲說法時。斂容端<lb
  n="0718b15" ed="T"/>坐先誦呪曰。<lb
  n="0718b16" ed="T"/></ab>
-<ab type="dharani">怛姪他　阿迦那　阿迦界　迦那　迦那<lb
+<ab type='dharani'>怛姪他　阿迦那　阿迦界　迦那　迦那<lb
  n="0718b17" ed="T"/>迦　那那迦　迦迦那迦　阿迦迦那迦　迦<lb
  n="0718b18" ed="T"/>那阿迦那　迦迦那　婆鼻殺帝　夜他婆<lb
  n="0718b19" ed="T"/>鼻殺帝　夜他伽伽那　多他婆鼻殺帝<lb
  n="0718b20" ed="T"/>　多他摩迦舍　那迦舍　那迦那　迦迦舍<lb
  n="0718b21" ed="T"/></ab>
-<ab type="prose">法師。爾時眷屬圍繞。即得成此加護方便。護<lb
+<ab type='prose'>法師。爾時眷屬圍繞。即得成此加護方便。護<lb
  n="0718b22" ed="T"/>方便故令彼法師心不動亂。說法不斷滅除<lb
  n="0718b23" ed="T"/>欲執。須夜摩言。世尊。云何欲執。佛告摩那婆。<lb
  n="0718b24" ed="T"/>所言欲執。猶為向時羅剎女名。彼無信心既<lb
@@ -5151,11 +5151,11 @@
  n="0719b13" ed="T"/>愚癡眾生。聞說不受亦復如是。時彼世尊以<lb
  n="0719b14" ed="T"/>偈頌曰。<lb
  n="0719b15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 如狂者持蓋　　若瞽設燈燭　　<lb
  n="0719b16" ed="T"/>裸形擔衣筐　　彼愚夫亦爾　　
 </ab><lb
- n="0719b17" ed="T"/><ab type="prose">摩那婆。是故汝等常應思惟如是法門。何以<lb
+ n="0719b17" ed="T"/><ab type='prose'>摩那婆。是故汝等常應思惟如是法門。何以<lb
  n="0719b18" ed="T"/>故。摩那婆。此佛菩提甚深微妙。終不可以淺<lb
  n="0719b19" ed="T"/>智能知。所以者何。我今現在說如是法。彼諸<lb
  n="0719b20" ed="T"/>眾生尚不能受。我滅度後云何能入難入法<lb
@@ -5286,17 +5286,17 @@
  n="0721a01" ed="T"/>中迦字身受五分。以蔭數分別。作富伽羅相<lb
  n="0721a02" ed="T"/>故五分說。彼那字等不復更說。</ab></div><lb
  n="0721a03" ed="T"/>
-<ab type="juan" subtype="close">大法炬陀羅尼經卷第十三</ab><lb
+<ab type='juan' subtype='close'>大法炬陀羅尼經卷第十三</ab><lb
  n="0721a04" ed="T"/><lb
  n="0721a05" ed="T"/><lb
  n="0721a06" ed="T"/>
-<ab type="juan" subtype="open">大法炬陀羅尼經卷第十四</ab><lb
+<ab type='juan' subtype='open'>大法炬陀羅尼經卷第十四</ab><lb
  n="0721a07" ed="T"/><lb
  n="0721a08" ed="T"/><byline>隋天竺三藏闍那崛多譯</byline><lb
- n="0721a09" ed="T"/><div type="toc" level="2">入海神變品第三十一<lb
+ n="0721a09" ed="T"/><div type='toc' level='2'>入海神變品第三十一<lb
  n="0721a10" ed="T"/>佛昇須彌山頂品第三十二</div><lb
- n="0721a11" ed="T"/><div type="pin" level="2"><head>入海神變品第三十一</head><lb
- n="0721a12" ed="T"/><ab type="prose">佛告阿難。時放光如來應供正遍覺捨是師<lb
+ n="0721a11" ed="T"/><div type='pin' level='2'><head>入海神變品第三十一</head><lb
+ n="0721a12" ed="T"/><ab type='prose'>佛告阿難。時放光如來應供正遍覺捨是師<lb
  n="0721a13" ed="T"/>子奮迅大三昧已。即以大慈及一切智。遍觀<lb
  n="0721a14" ed="T"/>十方及以大眾。時彼眾中有一菩薩摩訶薩。<lb
  n="0721a15" ed="T"/>厥名井宿。本是作寶摩尼家子。時彼世尊即<lb
@@ -5594,9 +5594,9 @@
  n="0724b17" ed="T"/>是如是。時諸修羅既蒙許已。皆大歡喜踊躍<lb
  n="0724b18" ed="T"/>無量。從彼眾出詣佛足下。白言。世尊。蒙垂哀<lb
  n="0724b19" ed="T"/>許隨宜備辦。</ab></div><lb
- n="0724b20" ed="T"/><div type="pin" level="2"><head>大法炬陀羅尼經佛昇須彌山頂品第三十<lb
+ n="0724b20" ed="T"/><div type='pin' level='2'><head>大法炬陀羅尼經佛昇須彌山頂品第三十<lb
  n="0724b21" ed="T"/>二</head><lb
- n="0724b22" ed="T"/><ab type="prose">阿難。爾時放光如來欲從大海燋熱口出昇<lb
+ n="0724b22" ed="T"/><ab type='prose'>阿難。爾時放光如來欲從大海燋熱口出昇<lb
  n="0724b23" ed="T"/>須彌頂忉利天宮。時天帝釋即使命一主食<lb
  n="0724b24" ed="T"/>天子名曰慢上。作如是言。汝所造食得成辦<lb
  n="0724b25" ed="T"/>不。食天答言。唯然天王。食皆辦具。天帝復<lb
@@ -5744,20 +5744,20 @@
  n="0726a22" ed="T"/>此善臂阿修羅王分張共食。諸餘阿修羅陀<lb
  n="0726a23" ed="T"/>那婆等。咸施無畏不令恐怖也。</ab></div><lb
  n="0726a24" ed="T"/>
-<ab type="juan" subtype="close">大法炬陀羅尼經卷第十四</ab><pb n="0726b" id="T21.1340.0726b" ed="T"/><lb
+<ab type='juan' subtype='close'>大法炬陀羅尼經卷第十四</ab><pb n="0726b" id="T21.1340.0726b" ed="T"/><lb
  n="0726b01" ed="T"/><lb
  n="0726b02" ed="T"/>
-<ab type="juan" subtype="open">大法炬陀羅尼經卷第十五</ab><lb
+<ab type='juan' subtype='open'>大法炬陀羅尼經卷第十五</ab><lb
  n="0726b03" ed="T"/><lb
  n="0726b04" ed="T"/><byline>隋天竺三藏闍那崛多譯</byline><lb
- n="0726b05" ed="T"/><div type="toc" level="2">天伏阿修羅品第三十三<lb
+ n="0726b05" ed="T"/><div type='toc' level='2'>天伏阿修羅品第三十三<lb
  n="0726b06" ed="T"/>阿修羅本業品第三十四<lb
  n="0726b07" ed="T"/>雜類本業品第三十五<lb
  n="0726b08" ed="T"/>說無相品第三十六<lb
  n="0726b09" ed="T"/>勸修行品第三十七<lb
  n="0726b10" ed="T"/>三字門品第三十八</div><lb
- n="0726b11" ed="T"/><div type="pin" level="2"><head>天伏阿修羅品第三十三</head><lb
- n="0726b12" ed="T"/><ab type="prose">爾時世尊告天帝釋言。憍尸迦。汝今善能以<lb
+ n="0726b11" ed="T"/><div type='pin' level='2'><head>天伏阿修羅品第三十三</head><lb
+ n="0726b12" ed="T"/><ab type='prose'>爾時世尊告天帝釋言。憍尸迦。汝今善能以<lb
  n="0726b13" ed="T"/>四種法。開示攝受諸所須者。寬大開覺皆能<lb
  n="0726b14" ed="T"/>令彼自厭生處。不令退轉菩提之心。時天帝<lb
  n="0726b15" ed="T"/>釋白佛言。世尊。我今能令諸阿修羅陀那婆<lb
@@ -5817,11 +5817,11 @@
  n="0727a11" ed="T"/>難。爾時天帝釋知諸阿修羅陀那婆等悉調伏<lb
  n="0727a12" ed="T"/>已。告一天曰。汝今宜往彼象王所。密宣此呪。<lb
  n="0727a13" ed="T"/></ab>
-<ab type="dharani">訶訶滯　迦耶婆訶滯　難陀陀　浮底<lb
+<ab type='dharani'>訶訶滯　迦耶婆訶滯　難陀陀　浮底<lb
  n="0727a14" ed="T"/>　曷薩多曷多　阿揭車答梵　娑婆禰　鞞舍<lb
  n="0727a15" ed="T"/>南<lb
  n="0727a16" ed="T"/></ab>
-<ab type="prose">爾時象王聞是呪已。即便收攝如是變化諸<lb
+<ab type='prose'>爾時象王聞是呪已。即便收攝如是變化諸<lb
  n="0727a17" ed="T"/>莊嚴事。還至本處以鼻卷取諸阿修羅陀那<lb
  n="0727a18" ed="T"/>婆等。悉持往詣天帝釋前。<lb
  n="0727a19" ed="T"/>爾時世尊告天帝釋言。憍尸迦。此大象王與<lb
@@ -5834,8 +5834,8 @@
  n="0727a26" ed="T"/>憍尸迦。汝於今者當應教示諸阿修羅。何以<lb
  n="0727a27" ed="T"/>故。諸阿修羅陀那婆等。皆受天報。彼受報時<lb
  n="0727a28" ed="T"/>多有亂心。是故應須開示彼等二種悔法。</ab></div><lb
- n="0727a29" ed="T"/><div type="pin" level="2"><head>大法炬陀羅尼經阿修羅本業品第三十四</head><pb n="0727b" id="T21.1340.0727b" ed="T"/><lb
- n="0727b01" ed="T"/><ab type="prose">爾時天帝釋復白佛言。世尊。以何因緣。諸阿<lb
+ n="0727a29" ed="T"/><div type='pin' level='2'><head>大法炬陀羅尼經阿修羅本業品第三十四</head><pb n="0727b" id="T21.1340.0727b" ed="T"/><lb
+ n="0727b01" ed="T"/><ab type='prose'>爾時天帝釋復白佛言。世尊。以何因緣。諸阿<lb
  n="0727b02" ed="T"/>修羅乃生如是燋熱口中。寧當無有諸功德<lb
  n="0727b03" ed="T"/>法。出彼燋熱至四大王宮殿住處。而彼獨有<lb
  n="0727b04" ed="T"/>往昔惡願無一善法。其後壽終生於惡道。世<lb
@@ -5896,8 +5896,8 @@
  n="0728a01" ed="T"/>行。乃至盡壽生如是處。以其往昔作如是業。<lb
  n="0728a02" ed="T"/>盡壽生彼大地獄中。憍尸迦。是為諸阿修羅<lb
  n="0728a03" ed="T"/>受身因緣。汝應憶持。</ab></div><lb
- n="0728a04" ed="T"/><div type="pin" level="2"><head>大法炬陀羅尼經雜類本業品第三十五</head><lb
- n="0728a05" ed="T"/><ab type="prose">爾時佛復告天帝釋言。憍尸迦。諸餘所有畜<lb
+ n="0728a04" ed="T"/><div type='pin' level='2'><head>大法炬陀羅尼經雜類本業品第三十五</head><lb
+ n="0728a05" ed="T"/><ab type='prose'>爾時佛復告天帝釋言。憍尸迦。諸餘所有畜<lb
  n="0728a06" ed="T"/>生之類。業行果報者。如彼受身。既受身已復<lb
  n="0728a07" ed="T"/>捨心藏。隨受何身。造業願求復受彼身。從何<lb
  n="0728a08" ed="T"/>所來得受此身。彼心所作行差別事。我今當<lb
@@ -5980,8 +5980,8 @@
  n="0728c27" ed="T"/>諍。分別二名得名師子。如是憍尸迦。若有眾<lb
  n="0728c28" ed="T"/>生不知分別如是諸法。既不生信亦不思求。<lb
  n="0728c29" ed="T"/>如是癡人必墮惡趣。</ab></div><pb n="0729a" id="T21.1340.0729a" ed="T"/><lb
- n="0729a01" ed="T"/><div type="pin" level="2"><head>大法炬陀羅尼經說無相品第三十六</head><lb
- n="0729a02" ed="T"/><ab type="prose">爾時放光如來復告天帝釋言。憍尸迦。若人<lb
+ n="0729a01" ed="T"/><div type='pin' level='2'><head>大法炬陀羅尼經說無相品第三十六</head><lb
+ n="0729a02" ed="T"/><ab type='prose'>爾時放光如來復告天帝釋言。憍尸迦。若人<lb
  n="0729a03" ed="T"/>分別如是法句。於真如中終不可得。何以故。<lb
  n="0729a04" ed="T"/>彼真如中人不可得。天不可得。阿修羅不可<lb
  n="0729a05" ed="T"/>得。陀那婆不可得。諸神羅剎亦不可得。乃至<lb
@@ -6027,10 +6027,10 @@
  n="0729b16" ed="T"/>持尋致忘失。世尊。我等咸以不奉聖教。是故<lb
  n="0729b17" ed="T"/>莫知如來所說。若使如來更為我說十二句<lb
  n="0729b18" ed="T"/>者。我當依教一心奉持。佛言。憍尸迦。汝知<lb
- n="0729b19" ed="T"/>如來方便分別解脫句門義不。而汝方便設<lb
+ n="0729b19" ed="T"/>如來方便分別解說句門義不。而汝方便設<lb
  n="0729b20" ed="T"/>如是問。我亦為汝悉分別已。</ab></div><lb
- n="0729b21" ed="T"/><div type="pin" level="2"><head>大法炬陀羅尼經勸修行品第三十七</head><lb
- n="0729b22" ed="T"/><ab type="prose">爾時帝釋復白佛言。世尊。如佛所說我如是<lb
+ n="0729b21" ed="T"/><div type='pin' level='2'><head>大法炬陀羅尼經勸修行品第三十七</head><lb
+ n="0729b22" ed="T"/><ab type='prose'>爾時帝釋復白佛言。世尊。如佛所說我如是<lb
  n="0729b23" ed="T"/>解。實即不離三種言教業藏行法。如來所說<lb
  n="0729b24" ed="T"/>阿字等門。我已少分能得解了。而更於中思<lb
  n="0729b25" ed="T"/>惟決疑。不及世尊一切明了。佛言。憍尸迦。如<lb
@@ -6082,8 +6082,8 @@
  n="0730a13" ed="T"/>迦。諸餘眾生無智慧者。當須諮問久行菩薩。<lb
  n="0730a14" ed="T"/>如是一切句義言論。阿字發起是初宮殿。憍<lb
  n="0730a15" ed="T"/>尸迦。汝等善持此阿字門。</ab></div><lb
- n="0730a16" ed="T"/><div type="pin" level="2"><head>大法炬陀羅尼經三字門品第三十八</head><lb
- n="0730a17" ed="T"/><ab type="prose">阿難。爾時彼佛眾中復有一菩薩摩訶薩。號<lb
+ n="0730a16" ed="T"/><div type='pin' level='2'><head>大法炬陀羅尼經三字門品第三十八</head><lb
+ n="0730a17" ed="T"/><ab type='prose'>阿難。爾時彼佛眾中復有一菩薩摩訶薩。號<lb
  n="0730a18" ed="T"/>上名意。從座而起。偏袒右髆右膝著地合掌<lb
  n="0730a19" ed="T"/>恭敬。白放光佛言。世尊。如來已說是三字門<lb
  n="0730a20" ed="T"/>阿迦那等。言阿字者是人言教。言迦字者即<lb
@@ -6212,17 +6212,17 @@
  n="0731b27" ed="T"/>菩薩專求。其事亦爾。當如彼人專精久習自<lb
  n="0731b28" ed="T"/>然得成。後證法時豈有障礙。</ab></div><lb
  n="0731b29" ed="T"/>
-<ab type="juan" subtype="close">大法炬陀羅尼經卷第十五</ab><pb n="0731c" id="T21.1340.0731c" ed="T"/><lb
+<ab type='juan' subtype='close'>大法炬陀羅尼經卷第十五</ab><pb n="0731c" id="T21.1340.0731c" ed="T"/><lb
  n="0731c01" ed="T"/><lb
  n="0731c02" ed="T"/>
-<ab type="juan" subtype="open">大法炬陀羅尼經卷第十六</ab><lb
+<ab type='juan' subtype='open'>大法炬陀羅尼經卷第十六</ab><lb
  n="0731c03" ed="T"/><lb
  n="0731c04" ed="T"/><byline>隋天竺三藏闍那崛多譯</byline><lb
- n="0731c05" ed="T"/><div type="toc" level="2">將護法師品第三十九<lb
+ n="0731c05" ed="T"/><div type='toc' level='2'>將護法師品第三十九<lb
  n="0731c06" ed="T"/>放光佛本事品第四十<lb
  n="0731c07" ed="T"/>教證法品第四十一</div><lb
- n="0731c08" ed="T"/><div type="pin" level="2"><head>將護法師品第三十九</head><lb
- n="0731c09" ed="T"/><ab type="prose">阿難。爾時上名意菩薩白放光如來言。世尊。<lb
+ n="0731c08" ed="T"/><div type='pin' level='2'><head>將護法師品第三十九</head><lb
+ n="0731c09" ed="T"/><ab type='prose'>阿難。爾時上名意菩薩白放光如來言。世尊。<lb
  n="0731c10" ed="T"/>如來說一切諸法少分名字。若人學已得成<lb
  n="0731c11" ed="T"/>就者。彼離世間諸波羅蜜。於此法中云何相<lb
  n="0731c12" ed="T"/>應。世尊。若無相智知一切法者此一切法無<lb
@@ -6316,8 +6316,8 @@
  n="0732c13" ed="T"/>復往詣亦不聞法。以不聞故不知善惡業行<lb
  n="0732c14" ed="T"/>之事。是所應作。是不應作。當知爾時世間多<lb
  n="0732c15" ed="T"/>有如是眾生。</ab></div><lb
- n="0732c16" ed="T"/><div type="pin" level="2"><head>大法炬陀羅尼經放光佛本事品第四十</head><lb
- n="0732c17" ed="T"/><ab type="prose">爾時放光如來告上名意菩薩摩訶薩言。摩<lb
+ n="0732c16" ed="T"/><div type='pin' level='2'><head>大法炬陀羅尼經放光佛本事品第四十</head><lb
+ n="0732c17" ed="T"/><ab type='prose'>爾時放光如來告上名意菩薩摩訶薩言。摩<lb
  n="0732c18" ed="T"/>那婆。我念往昔初有一劫。名曰難伏。復第二<lb
  n="0732c19" ed="T"/>劫。名曰除樂。過是劫已復有一劫。如是三劫<lb
  n="0732c20" ed="T"/>空無有佛。於彼劫內一切眾生凡所生處。乃<lb
@@ -6464,8 +6464,8 @@
  n="0734b16" ed="T"/>藏智門。摩那婆。今者如來已為汝等方便解<lb
  n="0734b17" ed="T"/>說三言教藏。而汝尚未捨離重擔。更問如來<lb
  n="0734b18" ed="T"/>此三言教業藏因緣。</ab></div><lb
- n="0734b19" ed="T"/><div type="pin" level="2"><head>大法炬陀羅尼經教證法品第四十一</head><lb
- n="0734b20" ed="T"/><ab type="prose">阿難。爾時上名意菩薩復白放光如來言。世<lb
+ n="0734b19" ed="T"/><div type='pin' level='2'><head>大法炬陀羅尼經教證法品第四十一</head><lb
+ n="0734b20" ed="T"/><ab type='prose'>阿難。爾時上名意菩薩復白放光如來言。世<lb
  n="0734b21" ed="T"/>尊。如來曾說菩薩求法不捨重擔。有所不知<lb
  n="0734b22" ed="T"/>還問世尊。以是因緣。我今不捨精進重擔數<lb
  n="0734b23" ed="T"/>請世尊。世尊雖欲捨置於我。然我仍願諮問<lb
@@ -6556,17 +6556,17 @@
  n="0735b21" ed="T"/>得少微緣還起亂心。是故汝等於是法中莫<lb
  n="0735b22" ed="T"/>生疲懈。</ab></div><lb
  n="0735b23" ed="T"/>
-<ab type="juan" subtype="close">大法炬陀羅尼經卷第十六</ab><pb n="0735c" id="T21.1340.0735c" ed="T"/><lb
+<ab type='juan' subtype='close'>大法炬陀羅尼經卷第十六</ab><pb n="0735c" id="T21.1340.0735c" ed="T"/><lb
  n="0735c01" ed="T"/><lb
  n="0735c02" ed="T"/>
-<ab type="juan" subtype="open">大法炬陀羅尼經卷第十七</ab><lb
+<ab type='juan' subtype='open'>大法炬陀羅尼經卷第十七</ab><lb
  n="0735c03" ed="T"/><lb
  n="0735c04" ed="T"/><byline>隋天竺三藏闍那崛多譯</byline><lb
- n="0735c05" ed="T"/><div type="toc" level="2">說無住品第四十二<lb
+ n="0735c05" ed="T"/><div type='toc' level='2'>說無住品第四十二<lb
  n="0735c06" ed="T"/>說聽功德品第四十三<lb
  n="0735c07" ed="T"/>諸菩薩證相品第四十四</div><lb
- n="0735c08" ed="T"/><div type="pin" level="2"><head>說無住品第四十二</head><lb
- n="0735c09" ed="T"/><ab type="prose">阿難。時諸菩薩摩訶薩眾於放光如來前。陳<lb
+ n="0735c08" ed="T"/><div type='pin' level='2'><head>說無住品第四十二</head><lb
+ n="0735c09" ed="T"/><ab type='prose'>阿難。時諸菩薩摩訶薩眾於放光如來前。陳<lb
  n="0735c10" ed="T"/>白己心所念六事向如來說。爾時彼佛知諸<lb
  n="0735c11" ed="T"/>菩薩心有所念。即復告言。摩那婆。汝等意念<lb
  n="0735c12" ed="T"/>所入境界寬大無量。汝於是中莫生厭倦。摩<lb
@@ -6683,8 +6683,8 @@
  n="0737a07" ed="T"/>得證知心亂處故。爾時便得真見純直。既得<lb
  n="0737a08" ed="T"/>純直見心量故即得光明。得光明故於諸因<lb
  n="0737a09" ed="T"/>緣無有住想。無住想故即得諸法無住真處。</ab></div><lb
- n="0737a10" ed="T"/><div type="pin" level="2"><head>大法炬陀羅尼經說聽功德品第四十三</head><lb
- n="0737a11" ed="T"/><ab type="prose">復次摩那婆。是諸法師不應住彼一切法也。<lb
+ n="0737a10" ed="T"/><div type='pin' level='2'><head>大法炬陀羅尼經說聽功德品第四十三</head><lb
+ n="0737a11" ed="T"/><ab type='prose'>復次摩那婆。是諸法師不應住彼一切法也。<lb
  n="0737a12" ed="T"/>應作不住一切法想。應如是入。如是入已。則<lb
  n="0737a13" ed="T"/>當覺知無量名字所說諸法。彼名字法應當<lb
  n="0737a14" ed="T"/>自然而得增長。如是法師住幾種法幾種名<lb
@@ -6848,8 +6848,8 @@
  n="0738c27" ed="T"/>切世間難可得知。云何而言此是如來。夫如<lb
  n="0738c28" ed="T"/>來者既不可以眼根知故。云何可見。摩那<lb
  n="0738c29" ed="T"/>婆。當知此乃一切諸法虛空處也。</ab></div><pb n="0739a" id="T21.1340.0739a" ed="T"/><lb
- n="0739a01" ed="T"/><div type="pin" level="2"><head>大法炬陀羅尼經諸菩薩證相品第四十四</head><lb
- n="0739a02" ed="T"/><ab type="prose">阿難。爾時放光如來為諸菩薩摩訶薩眾。說<lb
+ n="0739a01" ed="T"/><div type='pin' level='2'><head>大法炬陀羅尼經諸菩薩證相品第四十四</head><lb
+ n="0739a02" ed="T"/><ab type='prose'>阿難。爾時放光如來為諸菩薩摩訶薩眾。說<lb
  n="0739a03" ed="T"/>是虛空宮殿門。時有四那由他眾生。於諸漏<lb
  n="0739a04" ed="T"/>法中心得解脫。時彼億數諸菩薩眾。皆得入<lb
  n="0739a05" ed="T"/>是大宮殿三昧。阿難。彼諸菩薩摩訶薩眾。以<lb
@@ -6971,17 +6971,17 @@
  n="0740b05" ed="T"/>憍尸迦。諸佛如來諸有弟子。自見法故不取<lb
  n="0740b06" ed="T"/>他言。其義亦爾。</ab></div><lb
  n="0740b07" ed="T"/>
-<ab type="juan" subtype="close">大法炬陀羅尼經卷第十七</ab><lb
+<ab type='juan' subtype='close'>大法炬陀羅尼經卷第十七</ab><lb
  n="0740b08" ed="T"/><lb
  n="0740b09" ed="T"/><lb
  n="0740b10" ed="T"/>
-<ab type="juan" subtype="open">大法炬陀羅尼經卷第十八</ab><lb
+<ab type='juan' subtype='open'>大法炬陀羅尼經卷第十八</ab><lb
  n="0740b11" ed="T"/><lb
  n="0740b12" ed="T"/><byline>隋天竺三藏闍那崛多譯</byline><lb
- n="0740b13" ed="T"/><div type="toc" level="2">如化品第四十五<lb
+ n="0740b13" ed="T"/><div type='toc' level='2'>如化品第四十五<lb
  n="0740b14" ed="T"/>緣生法品第四十六</div><lb
- n="0740b15" ed="T"/><div type="pin" level="2"><head>如化品第四十五</head><lb
- n="0740b16" ed="T"/><ab type="prose">阿難。爾時天帝釋復白放光如來言。世尊。我<lb
+ n="0740b15" ed="T"/><div type='pin' level='2'><head>如化品第四十五</head><lb
+ n="0740b16" ed="T"/><ab type='prose'>阿難。爾時天帝釋復白放光如來言。世尊。我<lb
  n="0740b17" ed="T"/>於是中都無疑惑。世尊。亦當先體我心。然我<lb
  n="0740b18" ed="T"/>今日冀得如來久住於此忉利天宮哀受我等<lb
  n="0740b19" ed="T"/>輕微供養。以是義故。我問如來。世尊。今者將<lb
@@ -7114,8 +7114,8 @@
  n="0742a01" ed="T"/>為顯示說義。於如是等諸波羅蜜即解脫。因<lb
  n="0742a02" ed="T"/>如來說法因斷諍故。不起諍競故。雖斷於生<lb
  n="0742a03" ed="T"/>而不斷故。</ab></div><lb
- n="0742a04" ed="T"/><div type="pin" level="2"><head>大法炬陀羅尼經緣生法品第四十六</head><lb
- n="0742a05" ed="T"/><ab type="prose">爾時諸菩薩復白放光佛言。世尊。云何名為<lb
+ n="0742a04" ed="T"/><div type='pin' level='2'><head>大法炬陀羅尼經緣生法品第四十六</head><lb
+ n="0742a05" ed="T"/><ab type='prose'>爾時諸菩薩復白放光佛言。世尊。云何名為<lb
  n="0742a06" ed="T"/>令生不斷不全斷故。佛言。若如是者一切諸<lb
  n="0742a07" ed="T"/>法如實說中無有疑處。無疑處故如是證知。<lb
  n="0742a08" ed="T"/>當於爾時令生不斷亦非不斷。持是法行得<lb
@@ -7350,18 +7350,18 @@
  n="0744c05" ed="T"/>處謂風輪也。摩那婆。是為凡夫諸眾生等未<lb
  n="0744c06" ed="T"/>得正法無住處者。</ab></div><lb
  n="0744c07" ed="T"/>
-<ab type="juan" subtype="close">大法炬陀羅尼經卷第十八</ab><lb
+<ab type='juan' subtype='close'>大法炬陀羅尼經卷第十八</ab><lb
  n="0744c08" ed="T"/><lb
  n="0744c09" ed="T"/><lb
  n="0744c10" ed="T"/>
-<ab type="juan" subtype="open">大法炬陀羅尼經卷第十九</ab><lb
+<ab type='juan' subtype='open'>大法炬陀羅尼經卷第十九</ab><lb
  n="0744c11" ed="T"/><lb
  n="0744c12" ed="T"/><byline>隋天竺三藏闍那崛多譯</byline><lb
- n="0744c13" ed="T"/><div type="toc" level="2">信解品第四十七<lb
+ n="0744c13" ed="T"/><div type='toc' level='2'>信解品第四十七<lb
  n="0744c14" ed="T"/>離惡友品第四十八<lb
  n="0744c15" ed="T"/>辯田讚施品第四十九</div><lb
- n="0744c16" ed="T"/><div type="pin" level="2"><head>信解品第四十七</head><lb
- n="0744c17" ed="T"/><ab type="prose">爾時彼諸菩薩白佛言。世尊。若諸菩薩摩訶<lb
+ n="0744c16" ed="T"/><div type='pin' level='2'><head>信解品第四十七</head><lb
+ n="0744c17" ed="T"/><ab type='prose'>爾時彼諸菩薩白佛言。世尊。若諸菩薩摩訶<lb
  n="0744c18" ed="T"/>薩將欲為他解說法時。應先請佛。若他來問<lb
  n="0744c19" ed="T"/>無邊法門。我當云何為眾生說。又眾生等若<lb
  n="0744c20" ed="T"/>問不問。復云何說復當為他多少說也。我今<lb
@@ -7484,8 +7484,8 @@
  n="0746a21" ed="T"/>等。勿受其言莫行其事。不得供養不應親近。<lb
  n="0746a22" ed="T"/>何以故。以彼無有增長成就利益諸事惟有<lb
  n="0746a23" ed="T"/>損減破壞善故。</ab></div><lb
- n="0746a24" ed="T"/><div type="pin" level="2"><head>大法炬陀羅尼經離惡友品第四十八</head><lb
- n="0746a25" ed="T"/><ab type="prose">復次摩那婆。如有人家施設種種上妙美膳<lb
+ n="0746a24" ed="T"/><div type='pin' level='2'><head>大法炬陀羅尼經離惡友品第四十八</head><lb
+ n="0746a25" ed="T"/><ab type='prose'>復次摩那婆。如有人家施設種種上妙美膳<lb
  n="0746a26" ed="T"/>人間所無等輪王食。如是妙食味中最上。然<lb
  n="0746a27" ed="T"/>雜微毒如芥子許。摩那婆。於意云何。有人飢<lb
  n="0746a28" ed="T"/>虛思求麁食。忽逢毒膳為取食不。諸菩薩言。<lb
@@ -7544,8 +7544,8 @@
  n="0746c23" ed="T"/>等愚盲不行我法住邪法中。應如是知。摩那<lb
  n="0746c24" ed="T"/>婆。諸佛世尊常作是說。若諸眾生未入正法。<lb
  n="0746c25" ed="T"/>亦未入於聲聞法中。若供養者果報減少。</ab></div><lb
- n="0746c26" ed="T"/><div type="pin" level="2"><head>大法炬陀羅尼經辯田讚施品第四十九</head><lb
- n="0746c27" ed="T"/><ab type="prose">爾時彼佛告諸菩薩言。摩那婆。若人供養或<lb
+ n="0746c26" ed="T"/><div type='pin' level='2'><head>大法炬陀羅尼經辯田讚施品第四十九</head><lb
+ n="0746c27" ed="T"/><ab type='prose'>爾時彼佛告諸菩薩言。摩那婆。若人供養或<lb
  n="0746c28" ed="T"/>須陀洹。乃至養飼畜生餓狗。隨其品類悉有<lb
  n="0746c29" ed="T"/>功德。是故應當一切處施。隨施主心得報差<pb n="0747a" id="T21.1340.0747a" ed="T"/><lb
  n="0747a01" ed="T"/>別。摩那婆。施持戒人得果報異。施破戒人得<lb
@@ -7785,18 +7785,18 @@
  n="0749c03" ed="T"/>眾天。憍尸迦。以是因緣布施果報差別無量。<lb
  n="0749c04" ed="T"/>我今為汝異解說已。</ab></div><lb
  n="0749c05" ed="T"/>
-<ab type="juan" subtype="close">大法炬陀羅尼經卷第十九</ab><lb
+<ab type='juan' subtype='close'>大法炬陀羅尼經卷第十九</ab><lb
  n="0749c06" ed="T"/><lb
  n="0749c07" ed="T"/><lb
  n="0749c08" ed="T"/>
-<ab type="juan" subtype="open">大法炬陀羅尼經卷第二十</ab><lb
+<ab type='juan' subtype='open'>大法炬陀羅尼經卷第二十</ab><lb
  n="0749c09" ed="T"/><lb
  n="0749c10" ed="T"/><byline>隋天竺三藏闍那崛多譯</byline><lb
- n="0749c11" ed="T"/><div type="toc" level="2">付菩薩品第五十<lb
+ n="0749c11" ed="T"/><div type='toc' level='2'>付菩薩品第五十<lb
  n="0749c12" ed="T"/>付天帝釋品第五十一<lb
  n="0749c13" ed="T"/>法師護品第五十二</div><lb
- n="0749c14" ed="T"/><div type="pin" level="2"><head>付菩薩品第五十</head><lb
- n="0749c15" ed="T"/><ab type="prose">阿難。爾時放光如來復告天帝釋言。憍尸迦。<lb
+ n="0749c14" ed="T"/><div type='pin' level='2'><head>付菩薩品第五十</head><lb
+ n="0749c15" ed="T"/><ab type='prose'>阿難。爾時放光如來復告天帝釋言。憍尸迦。<lb
  n="0749c16" ed="T"/>其有異施得無量報。如菩薩乘無量無邊。此<lb
  n="0749c17" ed="T"/>乃諸佛如來莊嚴之事。所謂於如來前聽聞<lb
  n="0749c18" ed="T"/>正法。得如是等無量善根。說此經時一切眾<lb
@@ -7902,8 +7902,8 @@
  n="0751a02" ed="T"/>諸眾生等若信不信皆悉須知。何等眾生今<lb
  n="0751a03" ed="T"/>信如來。知彼信已不作損減。而為說法攝受<lb
  n="0751a04" ed="T"/>眾生。自成佛法故。</ab></div><lb
- n="0751a05" ed="T"/><div type="pin" level="2"><head>大法炬陀羅尼經付天帝釋品第五十一</head><lb
- n="0751a06" ed="T"/><ab type="prose">阿難。時天帝釋白放光如來應供正遍覺言。<lb
+ n="0751a05" ed="T"/><div type='pin' level='2'><head>大法炬陀羅尼經付天帝釋品第五十一</head><lb
+ n="0751a06" ed="T"/><ab type='prose'>阿難。時天帝釋白放光如來應供正遍覺言。<lb
  n="0751a07" ed="T"/>世尊。諸佛如來凡所教誨要觀其信耶。佛告<lb
  n="0751a08" ed="T"/>天帝釋言。憍尸迦。汝謂是中何所教誨。如來<lb
  n="0751a09" ed="T"/>當復云何教他憍尸迦。汝於是處應當善知<lb
@@ -7963,8 +7963,8 @@
  n="0751c05" ed="T"/>業藏。世尊。於是藏中我等無有一念修行。況<lb
  n="0751c06" ed="T"/>復能知為他解釋。惟願世尊。獨為如是渴仰<lb
  n="0751c07" ed="T"/>眾生。演說斯義令斷疑心。</ab></div><lb
- n="0751c08" ed="T"/><div type="pin" level="2"><head>大法炬陀羅尼經法師弘護品第五十二</head><lb
- n="0751c09" ed="T"/><ab type="prose">阿難。爾時放光如來應供正遍覺告天帝釋<lb
+ n="0751c08" ed="T"/><div type='pin' level='2'><head>大法炬陀羅尼經法師弘護品第五十二</head><lb
+ n="0751c09" ed="T"/><ab type='prose'>阿難。爾時放光如來應供正遍覺告天帝釋<lb
  n="0751c10" ed="T"/>言。憍尸迦。我說如是方便譬喻。汝能知耶。<lb
  n="0751c11" ed="T"/>憍尸迦。是故應先知此語言為是十四菩薩<lb
  n="0751c12" ed="T"/>摩訶薩何以故。是等先生此諸天中。以何義<lb
@@ -8223,5 +8223,5 @@
  n="0754c04" ed="T"/>諸天世人阿修羅等。一切大眾聞佛所說。頂<lb
  n="0754c05" ed="T"/>受奉行。</ab></div><lb
  n="0754c06" ed="T"/>
-<ab type="juan" subtype="close">大法炬陀羅尼經卷第二十</ab></div>
+<ab type='juan' subtype='close'>大法炬陀羅尼經卷第二十</ab></div>
 </body></text></TEI>

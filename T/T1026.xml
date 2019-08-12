@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n1026</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0726a04" ed="T"/><lb
  n="0726a05" ed="T"/><lb
  n="0726a06" ed="T"/><lb
  n="0726a07" ed="T"/>
-<ab type="juan" subtype="open">佛說造塔延命功德經</ab><lb
+<ab type='juan' subtype='open'>佛說造塔延命功德經</ab><lb
  n="0726a08" ed="T"/><lb
  n="0726a09" ed="T"/><byline>罽賓國三藏沙門般若奉　詔譯</byline><lb
- n="0726a10" ed="T"/><div type="jing" level="2"><ab type="prose">如是我聞。一時佛在舍衛國祇樹給孤獨園。<lb
+ n="0726a10" ed="T"/><div type='jing' level='2'><ab type='prose'>如是我聞。一時佛在舍衛國祇樹給孤獨園。<lb
  n="0726a11" ed="T"/>與大苾芻眾及菩薩摩訶薩眾俱。爾時波斯<lb
  n="0726a12" ed="T"/>匿王在大眾中。即從座起整理衣服。偏袒右<lb
  n="0726a13" ed="T"/>肩右膝著地。禮佛雙足合掌恭敬。而白佛言。<lb
@@ -98,7 +98,7 @@
  n="0726b28" ed="T"/>第一採集妙華。以陀羅尼加持七遍。散布壇<lb
  n="0726b29" ed="T"/>上供養如來。陀羅尼曰。<pb n="0726c" id="T19.1026.0726c" ed="T"/><lb
  n="0726c01" ed="T"/></ab>
-<ab type="dharani">􄖩曩􄗰謨􄙺薩􈋹怛他二合􄗱耶􄕘埵􆿅阿􄖭耨􄑀羯􄕗多􄪼跛<lb
+<ab type='dharani'>􄖩曩􄗰謨􄙺薩􈋹怛他二合􄗱耶􄕘埵􆿅阿􄖭耨􄑀羯􄕗多􄪼跛<lb
  n="0726c02" ed="T"/><lb
  n="0726c03" ed="T"/>羅􄕙底􆵍瑟恥二合􄕝帝􈁂布􈆵數波􄑆罽􅇇答迷􄕗怛<lb
  n="0726c04" ed="T"/><lb
@@ -109,10 +109,10 @@
  n="0726c09" ed="T"/>􅁥娑縛二合􄚩賀引<lb
  n="0726c10" ed="T"/><lb
  n="0726c11" ed="T"/></ab>
-<ab type="prose">第二埏埴作泥團時。作􆿅婀字觀。此是如來<lb
+<ab type='prose'>第二埏埴作泥團時。作􆿅婀字觀。此是如來<lb
  n="0726c12" ed="T"/>法界身。先當歸命作如是言。<lb
  n="0726c13" ed="T"/></ab>
-<ab type="dharani">􄖩曩􄗭謨􄕯捺􄙣闍􄖨溺􄚼崛芻二合􅚾悉底二合􄗱耶􄕯捺<lb
+<ab type='dharani'>􄖩曩􄗭謨􄕯捺􄙣闍􄖨溺􄚼崛芻二合􅚾悉底二合􄗱耶􄕯捺<lb
  n="0726c14" ed="T"/><lb
  n="0726c15" ed="T"/>􄙖嚩平􄙺薩􅞣嚩􄕗怛􄕤他􄑘蘖􄕗多􄖳難􄙖滿􆩴泥上􄗽囉􅑈怛<lb
  n="0726c16" ed="T"/><lb
@@ -123,12 +123,12 @@
  n="0726c21" ed="T"/>􄑂枳􄕝帝􈂽濕嚩二合􄗾羅􄗱耶􄑜麌􄙂嚕<lb
  n="0726c22" ed="T"/><lb
  n="0726c23" ed="T"/></ab>
-<ab type="prose">正埏埴時。以俱胝陀羅尼。加持其泥二十一<lb
+<ab type='prose'>正埏埴時。以俱胝陀羅尼。加持其泥二十一<lb
  n="0726c24" ed="T"/>遍。造一佛塔如造一俱胝佛塔。所獲功德等<lb
  n="0726c25" ed="T"/>無有異。是故此陀羅尼名為俱胝陀羅尼。陀<lb
  n="0726c26" ed="T"/>羅尼曰。<lb
  n="0726c27" ed="T"/></ab>
-<ab type="dharani">􄕗怛􄟯儞也二合􄕤他􇩂唵􄚢􄑌􅋀蘇上佉澁茗四合􄚢􄑌􅋀蘇佉澁茗四合<lb
+<ab type='dharani'>􄕗怛􄟯儞也二合􄕤他􇩂唵􄚢􄑌􅋀蘇上佉澁茗四合􄚢􄑌􅋀蘇佉澁茗四合<lb
  n="0726c28" ed="T"/><lb
  n="0726c29" ed="T"/>􄚢􄑌􅋀蘇佉澁麼四合􆿅阿􄖭耨􄑀羯􄕝諦􄑼訕􆩜諦􄑼訕<lb
  n="0726c30" ed="T"/><pb n="0727a" id="T19.1026.0727a" ed="T"/><lb
@@ -141,77 +141,77 @@
  n="0727a07" ed="T"/>􄕙底􄕝羝􅁥娑嚩二合引􄚩賀引<lb
  n="0727a08" ed="T"/><lb
  n="0727a09" ed="T"/></ab>
-<ab type="prose">第三次於泥團作􆷱娑頗二合字觀。當觀此<lb
+<ab type='prose'>第三次於泥團作􆷱娑頗二合字觀。當觀此<lb
  n="0727a10" ed="T"/>泥團猶如水精。又如頗胝迦寶。內外清淨分<lb
  n="0727a11" ed="T"/>明瑩徹。以陀羅尼加持一遍。陀羅尼曰。<lb
  n="0727a12" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄙖嚩􄦽日羅二合􆿉嗢􄕗多􄗙皤􄗙嚩􄗱耶􅁥娑嚩二合引<lb
+<ab type='dharani'>􇩂唵􄙖嚩􄦽日羅二合􆿉嗢􄕗多􄗙皤􄗙嚩􄗱耶􅁥娑嚩二合引<lb
  n="0727a13" ed="T"/><lb
  n="0727a14" ed="T"/>􄚩賀引<lb
  n="0727a15" ed="T"/><lb
  n="0727a16" ed="T"/></ab>
-<ab type="prose">第四次塗赤土時。作火色觀。即知一切世間<lb
+<ab type='prose'>第四次塗赤土時。作火色觀。即知一切世間<lb
  n="0727a17" ed="T"/>出世間法。皆從微塵而得成就。作此觀已。取<lb
  n="0727a18" ed="T"/>乾赤土遍塗泥團。觀一切法本來無生畢竟<lb
  n="0727a19" ed="T"/>空寂。作􄚲含字觀。想此泥團如鎔金色。然<lb
  n="0727a20" ed="T"/>後造塔。以陀羅尼加持一遍。陀羅尼曰。<lb
  n="0727a21" ed="T"/></ab>
-<ab type="dharani">􇩂唵􆿅阿􄗽羅􄑼左􄙘尾􄗽羅􄑼左􅁥娑嚩二合引􄚩賀<lb
+<ab type='dharani'>􇩂唵􆿅阿􄗽羅􄑼左􄙘尾􄗽羅􄑼左􅁥娑嚩二合引􄚩賀<lb
  n="0727a22" ed="T"/><lb
  n="0727a23" ed="T"/></ab>
-<ab type="prose">第五次以泥團入模時。用陀羅尼加持一遍。<lb
+<ab type='prose'>第五次以泥團入模時。用陀羅尼加持一遍。<lb
  n="0727a24" ed="T"/>然後入模。陀羅尼曰。<lb
  n="0727a25" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄙖嚩􄦽日羅二合引􄕼馱􄕛都􄑘蘖􅝗陛􅁥娑嚩二合引􄚩賀引<lb
+<ab type='dharani'>􇩂唵􄙖嚩􄦽日羅二合引􄕼馱􄕛都􄑘蘖􅝗陛􅁥娑嚩二合引􄚩賀引<lb
  n="0727a26" ed="T"/><lb
  n="0727a27" ed="T"/></ab>
-<ab type="prose">第六次入法身真言時。用此陀羅尼加持一<lb
+<ab type='prose'>第六次入法身真言時。用此陀羅尼加持一<lb
  n="0727a28" ed="T"/>遍。然後入印子中。陀羅尼曰。<pb n="0727b" id="T19.1026.0727b" ed="T"/><lb
  n="0727b01" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄕻達􈆺摩􄕼馱􄕛都􄑘蘖􅝗陛􅁥娑嚩􄚩賀引<lb
+<ab type='dharani'>􇩂唵􄕻達􈆺摩􄕼馱􄕛都􄑘蘖􅝗陛􅁥娑嚩􄚩賀引<lb
  n="0727b02" ed="T"/><lb
  n="0727b03" ed="T"/></ab>
-<ab type="prose">第七次椎打塔印時。用陀羅尼加持一遍。然<lb
+<ab type='prose'>第七次椎打塔印時。用陀羅尼加持一遍。然<lb
  n="0727b04" ed="T"/>後椎打。陀羅尼曰。<lb
  n="0727b05" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄙖嚩􄦽日囉二合引􈁂補􄖭特􄑤伽􄗽羅􄑄拘􄓚吒􄗱耶􄑄􄓚􄗱拘吒耶<lb
+<ab type='dharani'>􇩂唵􄙖嚩􄦽日囉二合引􈁂補􄖭特􄑤伽􄗽羅􄑄拘􄓚吒􄗱耶􄑄􄓚􄗱拘吒耶<lb
  n="0727b06" ed="T"/><lb
  n="0727b07" ed="T"/>􅁥娑嚩二合引􄚩賀<lb
  n="0727b08" ed="T"/><lb
  n="0727b09" ed="T"/></ab>
-<ab type="prose">第八次椎打竟。以手作塔階時。用陀羅尼加<lb
+<ab type='prose'>第八次椎打竟。以手作塔階時。用陀羅尼加<lb
  n="0727b10" ed="T"/>持一遍。安置塔階。陀羅尼曰。<lb
  n="0727b11" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄙖嚩􄦽日羅二合引􄗱喻􄙴曬􅁥娑嚩二合引􄚩賀<lb
+<ab type='dharani'>􇩂唵􄙖嚩􄦽日羅二合引􄗱喻􄙴曬􅁥娑嚩二合引􄚩賀<lb
  n="0727b12" ed="T"/><lb
  n="0727b13" ed="T"/></ab>
-<ab type="prose">第九次塔正從模中出時。用陀羅尼加持一<lb
+<ab type='prose'>第九次塔正從模中出時。用陀羅尼加持一<lb
  n="0727b14" ed="T"/>遍。然後出之。陀羅尼曰。<lb
  n="0727b15" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄕻達􈆺摩􄕙底􄙦珠􅁥娑嚩二合引􄚩賀<lb
+<ab type='dharani'>􇩂唵􄕻達􈆺摩􄕙底􄙦珠􅁥娑嚩二合引􄚩賀<lb
  n="0727b16" ed="T"/><lb
  n="0727b17" ed="T"/></ab>
-<ab type="prose">第十次脫塔出模已安置塔時。用陀羅尼加<lb
+<ab type='prose'>第十次脫塔出模已安置塔時。用陀羅尼加<lb
  n="0727b18" ed="T"/>持一遍。陀羅尼曰。<lb
  n="0727b19" ed="T"/></ab>
-<ab type="dharani">􇩂唵􈂼蘇􄪼鉢羅二合引􄕙底􆵍瑟恥二合􄕗多􄙖嚩􄦽日入羅二合<lb
+<ab type='dharani'>􇩂唵􈂼蘇􄪼鉢羅二合引􄕙底􆵍瑟恥二合􄕗多􄙖嚩􄦽日入羅二合<lb
  n="0727b20" ed="T"/><lb
  n="0727b21" ed="T"/>􅁥娑嚩二合􄚩賀引<lb
  n="0727b22" ed="T"/><lb
  n="0727b23" ed="T"/></ab>
-<ab type="prose">第十一次安置塔座了。以手按塔頂上。以陀<lb
+<ab type='prose'>第十一次安置塔座了。以手按塔頂上。以陀<lb
  n="0727b24" ed="T"/>羅尼加持一遍。陀羅尼曰。<lb
  n="0727b25" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄖿􄙊跛羅藍三合􄗥摩􄕗哆􈁀喃􄗷曳平􅁥娑嚩二合引􄚩賀引<lb
+<ab type='dharani'>􇩂唵􄖿􄙊跛羅藍三合􄗥摩􄕗哆􈁀喃􄗷曳平􅁥娑嚩二合引􄚩賀引<lb
  n="0727b26" ed="T"/><lb
  n="0727b27" ed="T"/></ab>
-<ab type="prose">第十二次於塔上安傘蓋時。以陀羅尼加持<lb
+<ab type='prose'>第十二次於塔上安傘蓋時。以陀羅尼加持<lb
  n="0727b28" ed="T"/>一遍。陀羅尼曰。<pb n="0727c" id="T19.1026.0727c" ed="T"/><lb
  n="0727c01" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄖿􄙊跛羅藍三合􄗥摩􆿅婀􄗹喻􄗷曬􅁥娑嚩二合􄚩賀<lb
+<ab type='dharani'>􇩂唵􄖿􄙊跛羅藍三合􄗥摩􆿅婀􄗹喻􄗷曬􅁥娑嚩二合􄚩賀<lb
  n="0727c02" ed="T"/><lb
  n="0727c03" ed="T"/></ab>
-<ab type="prose">佛告大王。若善男子善女人。以清淨心依此<lb
+<ab type='prose'>佛告大王。若善男子善女人。以清淨心依此<lb
  n="0727c04" ed="T"/>軌儀造作佛塔。若自作若教人作。若復讚歎<lb
  n="0727c05" ed="T"/>若當信受。所得功德與造佛塔等無差別。當<lb
  n="0727c06" ed="T"/>知是人於此一生。不為一切毒藥所中。壽命<lb
@@ -237,8 +237,8 @@
  n="0727c26" ed="T"/>爾時波斯匿王及諸大眾。聞佛所說皆大歡<lb
  n="0727c27" ed="T"/>喜信受奉行。</ab></div><lb
  n="0727c28" ed="T"/>
-<ab type="juan" subtype="close">佛說造塔延命功德經</ab><lb
- n="0727c29" ed="T"/><div type="w" level="2"><ab type="prose">　中天竺三藏牟尼室利　　　說梵語<pb n="0728a" id="T19.1026.0728a" ed="T"/><lb
+<ab type='juan' subtype='close'>佛說造塔延命功德經</ab><lb
+ n="0727c29" ed="T"/><div type='w' level='2'><ab type='prose'>　中天竺三藏牟尼室利　　　說梵語<pb n="0728a" id="T19.1026.0728a" ed="T"/><lb
  n="0728a01" ed="T"/>　　西明寺大德賜紫沙門圓照　筆　授<lb
  n="0728a02" ed="T"/>　　章教寺大德沙門鑑虛　　　潤文<lb
  n="0728a03" ed="T"/>靈雲校本云　貞享四丁卯稔中春二十三<lb

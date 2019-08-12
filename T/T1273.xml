@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1273</idno>
                 </bibl>
@@ -39,24 +39,24 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0321b19" ed="T"/><lb
  n="0321b20" ed="T"/><lb
  n="0321b21" ed="T"/><lb
  n="0321b22" ed="T"/><lb
  n="0321b23" ed="T"/>
-<ab type="juan" subtype="open">毘那夜迦誐那鉢底瑜伽悉地品<lb
+<ab type='juan' subtype='open'>毘那夜迦誐那鉢底瑜伽悉地品<lb
  n="0321b24" ed="T"/>祕要</ab><lb
- n="0321b25" ed="T"/><div type="w" level="2"><lb
+ n="0321b25" ed="T"/><div type='w' level='2'><lb
  n="0321b26" ed="T"/><byline>含光記</byline><lb
- n="0321b27" ed="T"/><ab type="prose">古今諸師。深祕之故不載經中。或出真言<lb
+ n="0321b27" ed="T"/><ab type='prose'>古今諸師。深祕之故不載經中。或出真言<lb
  n="0321b28" ed="T"/>不顯其理。末代學者多被障礙。是故含光<lb
  n="0321b29" ed="T"/>法師親從不空智和尚。纔受此法祕義。仍<pb n="0321c" id="T21.1273.0321c" ed="T"/><lb
  n="0321c01" ed="T"/>今聊舉略記之。</ab></div><lb
- n="0321c02" ed="T"/><ab type="prose">誐那鉢底王真言曰。<lb
+ n="0321c02" ed="T"/><ab type='prose'>誐那鉢底王真言曰。<lb
  n="0321c03" ed="T"/></ab>
-<ab type="dharani">􄖩曩􄗭謨􄙘尾􄖩那􈃷翼􄑀迦二合􄙢瀉􄚨賀􄙼悉􄽳底二合<lb
+<ab type='dharani'>􄖩曩􄗭謨􄙘尾􄖩那􈃷翼􄑀迦二合􄙢瀉􄚨賀􄙼悉􇧻底二合<lb
  n="0321c04" ed="T"/><lb
  n="0321c05" ed="T"/>􈁃母􄑌佉􄙢瀉􄕗怛􄟯儞野二合􄕤他引􇩂唵􄖩娜去聲<lb
  n="0321c06" ed="T"/><lb
@@ -70,7 +70,7 @@
  n="0321c14" ed="T"/>􅁥娑婆􄚩賀<lb
  n="0321c15" ed="T"/><lb
  n="0321c16" ed="T"/></ab>
-<ab type="prose">若欲息災。於娑婆賀上加扇底迦羅之<lb
+<ab type='prose'>若欲息災。於娑婆賀上加扇底迦羅之<lb
  n="0321c17" ed="T"/>句。若欲求財。於娑婆賀上加輔瑟置迦<lb
  n="0321c18" ed="T"/>之句。若欲求愛。除前句加縛試羯羅拏之句。<lb
  n="0321c19" ed="T"/>若欲伏惡。除前句加阿毘遮嚕迦之句。若欲<lb
@@ -79,10 +79,10 @@
  n="0321c22" ed="T"/>也。<lb
  n="0321c23" ed="T"/>毘那夜迦生歡喜心雙身真言曰。<lb
  n="0321c24" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄮦儗哩二合入􄑣虐娑縛賀<lb
+<ab type='dharani'>􇩂唵􄮦儗哩二合入􄑣虐娑縛賀<lb
  n="0321c25" ed="T"/><lb
  n="0321c26" ed="T"/></ab>
-<ab type="prose">行者常誦此呪無有障礙。是真言中顯權<lb
+<ab type='prose'>行者常誦此呪無有障礙。是真言中顯權<lb
  n="0321c27" ed="T"/>實義。所以者何。儗哩者是觀自在菩薩種子<lb
  n="0321c28" ed="T"/>字也。菩薩現此身為其婦而勸進。令毘那夜<lb
  n="0321c29" ed="T"/>迦不作障礙。有往昔因緣如餘部說。是為權<pb n="0322a" id="T21.1273.0322a" ed="T"/><lb
@@ -101,9 +101,9 @@
  n="0322a13" ed="T"/>有除毘那夜迦難之證文。如餘部廣說<lb
  n="0322a14" ed="T"/>雙身毘那夜迦調伏他惡真言曰。<lb
  n="0322a15" ed="T"/></ab>
-<ab type="dharani">唵虐虐吽娑嚩賀<lb
+<ab type='dharani'>唵虐虐吽娑嚩賀<lb
  n="0322a16" ed="T"/></ab>
-<ab type="prose">行者若欲縛惡人用此真言。若欲遣除惡人<lb
+<ab type='prose'>行者若欲縛惡人用此真言。若欲遣除惡人<lb
  n="0322a17" ed="T"/>亦用此呪。此真言偏顯兩實義。是故以一字<lb
  n="0322a18" ed="T"/>重為二字。尋其實即權。何故權。謂佛菩薩<lb
  n="0322a19" ed="T"/>為降伏諸懈怠故。現此身也。諸有障難從懈<lb
@@ -165,37 +165,37 @@
  n="0322c17" ed="T"/>障者。唯號誐那鉢底也。<lb
  n="0322c18" ed="T"/>毘盧遮那五字真言曰。<lb
  n="0322c19" ed="T"/></ab>
-<ab type="dharani">阿尾羅吽劍<lb
+<ab type='dharani'>阿尾羅吽劍<lb
  n="0322c20" ed="T"/></ab>
-<ab type="prose">觀世音十一面毘俱胝諸佛所說真言不空譯。<lb
+<ab type='prose'>觀世音十一面毘俱胝諸佛所說真言不空譯。<lb
  n="0322c22" ed="T"/></ab>
-<ab type="dharani">唵娜羅娜羅地哩地哩度嚕度嚕壹知<lb
+<ab type='dharani'>唵娜羅娜羅地哩地哩度嚕度嚕壹知<lb
  n="0322c23" ed="T"/>嚩知者隷者隷鉢羅者隷鉢羅者隷矩蘇銘矩<lb
  n="0322c24" ed="T"/>蘇摩縛隷壹里弭里止里止里致惹羅<lb
  n="0322c25" ed="T"/>摩跛曩也跛羅摩󰡊馱薩怛嚩摩訶迦嚕尼迦<lb
  n="0322c26" ed="T"/>娑婆訶<lb
  n="0322c27" ed="T"/></ab>
-<ab type="prose">軍荼利菩薩除障難真言曰。<lb
+<ab type='prose'>軍荼利菩薩除障難真言曰。<lb
  n="0322c28" ed="T"/></ab>
-<ab type="dharani">曩謨囉怛曩怛羅夜野曩莫室戰<lb
+<ab type='dharani'>曩謨囉怛曩怛羅夜野曩莫室戰<lb
  n="0322c29" ed="T"/>拏嚩日羅鉢拏曳摩訶藥乞叉<pb n="0323a" id="T21.1273.0323a" ed="T"/><lb
  n="0323a01" ed="T"/>細曩鉢多曳曩謨嚩日羅句嚕馱野唵呼嚕<lb
  n="0323a02" ed="T"/>呼嚕地瑟吒地瑟吒盤多盤多地訶曩<lb
  n="0323a03" ed="T"/>地訶曩阿蜜㗚帝吽發吒<lb
  n="0323a04" ed="T"/></ab>
-<ab type="prose">如上微妙祕義。末代智者應以祕之。應安梵<lb
+<ab type='prose'>如上微妙祕義。末代智者應以祕之。應安梵<lb
  n="0323a05" ed="T"/>夾中。於非器人勿妄傳授放。何謂非器。所<lb
  n="0323a06" ed="T"/>謂無智與不信。及惡人不守口人等。是非器<lb
  n="0323a07" ed="T"/>人也。若於是等人前恣宣傳者。恐有誹謗之<lb
  n="0323a08" ed="T"/>罪。是故不撰器人者即有障難。所以今更加<lb
  n="0323a09" ed="T"/>制言也。智者修之速得悉地。<lb
  n="0323a10" ed="T"/>
-</ab><ab type="juan" subtype="close">誐那鉢底瑜迦祕要一帖</ab><lb
- n="0323a11" ed="T"/><div type="w" level="2"><ab type="prose">一渧酒成萬斛呪<lb
+</ab><ab type='juan' subtype='close'>誐那鉢底瑜迦祕要一帖</ab><lb
+ n="0323a11" ed="T"/><div type='w' level='2'><ab type='prose'>一渧酒成萬斛呪<lb
  n="0323a12" ed="T"/></ab>
-<ab type="dharani">􈁴􄙺􄗭􄕻􄗷􆿁􅁥􄚩<lb
+<ab type='dharani'>􈁴􄙺􄗭􄕻􄗷􆿁􅁥􄚩<lb
  n="0323a13" ed="T"/></ab>
-<ab type="prose">大自在天呪曰　聖天儀軌文。<lb
+<ab type='prose'>大自在天呪曰　聖天儀軌文。<lb
  n="0323a14" ed="T"/>唵毘跢羅薩尼婆羅末利達尼瞋達尼瞋達尼<lb
  n="0323a15" ed="T"/>頻達尼頻達尼娑婆訶<lb
  n="0323a16" ed="T"/>寬文十一年六月十五日晝寫挍合了<lb

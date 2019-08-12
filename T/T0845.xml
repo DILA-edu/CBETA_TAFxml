@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T17</biblScope>
                     <idno type="Taisho">T17n0845</idno>
                 </bibl>
@@ -44,11 +44,11 @@
  n="0932b05" ed="T"/><lb
  n="0932b06" ed="T"/><lb
  n="0932b07" ed="T"/>
-<ab type="juan" subtype="open">佛說尊那經</ab><lb
+<ab type='juan' subtype='open'>佛說尊那經</ab><lb
  n="0932b08" ed="T"/><lb
  n="0932b09" ed="T"/><byline>西天譯經三藏朝散大夫試光祿卿<lb
  n="0932b10" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
- n="0932b11" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時世尊在憍睒彌國瞿師羅林<lb
+ n="0932b11" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時世尊在憍睒彌國瞿師羅林<lb
  n="0932b12" ed="T"/>中，爾時有大尊者名曰尊那，來詣佛所。到已<lb
  n="0932b13" ed="T"/>致敬頭面禮足，住立一面而白佛言：「世尊！無<lb
  n="0932b14" ed="T"/>盡功德還可得不？唯願世尊為我敷演。」爾時<lb
@@ -189,14 +189,14 @@
  n="0934a04" ed="T"/>大名聞及大果報，功德甚多，名為大功德蘊。」<lb
  n="0934a05" ed="T"/>爾時世尊而說頌曰：<lb
  n="0934a06" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「清淨修禪行，　　唯修聖跡中；　　<lb
  n="0934a07" ed="T"/>採寶無過海，　　如河濟有情。　　<lb
  n="0934a08" ed="T"/>河水無邊際，　　眾流還復源；　　<lb
  n="0934a09" ed="T"/>布施獲多福，　　如河常流海。」　　
 </ab><lb
- n="0934a10" ed="T"/><ab type="prose">爾時大尊者尊那聞佛說已，歡喜作禮，信受<lb
+ n="0934a10" ed="T"/><ab type='prose'>爾時大尊者尊那聞佛說已，歡喜作禮，信受<lb
  n="0934a11" ed="T"/>奉行。</ab></div><lb
  n="0934a12" ed="T"/>
-<ab type="juan" subtype="close">佛說尊那經</ab>
+<ab type='juan' subtype='close'>佛說尊那經</ab>
 </body></text></TEI>

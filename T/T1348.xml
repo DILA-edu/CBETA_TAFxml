@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1348</idno>
                 </bibl>
@@ -42,13 +42,13 @@
         <body><lb
  n="0860c15" ed="T"/><lb
  n="0860c16" ed="T"/><lb
- n="0860c17" ed="T"/><div type="jing" level="1"><lb
+ n="0860c17" ed="T"/><div type='jing' level='1'><lb
  n="0860c18" ed="T"/>
-<ab type="juan" subtype="open">佛說十二佛名神呪校量功德除<lb
+<ab type='juan' subtype='open'>佛說十二佛名神呪校量功德除<lb
  n="0860c19" ed="T"/>障滅罪經</ab><lb
  n="0860c20" ed="T"/><lb
  n="0860c21" ed="T"/><byline>隋天竺三藏法師闍那崛多譯</byline><lb
- n="0860c22" ed="T"/><ab type="prose">如是我聞。一時婆伽婆。住王舍城耆闍崛山<lb
+ n="0860c22" ed="T"/><ab type='prose'>如是我聞。一時婆伽婆。住王舍城耆闍崛山<lb
  n="0860c23" ed="T"/>中。與大比丘眾千二百五十人俱。復有菩薩<lb
  n="0860c24" ed="T"/>大眾一萬二千人俱。阿逸多菩薩為首。<lb
  n="0860c25" ed="T"/>爾時世尊告彌勒菩薩言。彌勒東方去此佛<lb
@@ -116,16 +116,16 @@
  n="0861b29" ed="T"/>姓之家。身相具足亦得善和眷屬圍遶。爾時<pb n="0861c" id="T21.1348.0861c" ed="T"/><lb
  n="0861c01" ed="T"/>世尊重宣此義而說偈言。<lb
  n="0861c02" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 若有善男子　　若善女人等　　<lb
  n="0861c03" ed="T"/>受持此佛名　　生生世世中　　<lb
  n="0861c04" ed="T"/>得他人愛敬　　光明威力大　　<lb
  n="0861c05" ed="T"/>生處為人尊　　於後得成佛　　
 </ab><lb
- n="0861c06" ed="T"/><ab type="prose">佛復告彌勒。若有善男子善女人。若當受持<lb
+ n="0861c06" ed="T"/><ab type='prose'>佛復告彌勒。若有善男子善女人。若當受持<lb
  n="0861c07" ed="T"/>此佛名者。亦須誦此陀羅尼呪。<lb
  n="0861c08" ed="T"/></ab>
-<ab type="dharani">多絰他阿企摩企三曼多目企燥帝<lb
+<ab type='dharani'>多絰他阿企摩企三曼多目企燥帝<lb
  n="0861c09" ed="T"/>育羯帝尼陸帝尼陸帝鉢脾三摩余祇<lb
  n="0861c10" ed="T"/>質多毘跋帝阿企摩企摩陀禰毘拔<lb
  n="0861c11" ed="T"/>帝三漫多求禰薩底耶羅彌育吉<lb
@@ -136,9 +136,9 @@
  n="0861c18" ed="T"/>薩多脾毘耶悉田妒漫帶波陀佛陀<lb
  n="0861c19" ed="T"/>提瑟帝多<lb
  n="0861c20" ed="T"/></ab>
-<ab type="prose">爾時世尊說是呪已重說偈言。<lb
+<ab type='prose'>爾時世尊說是呪已重說偈言。<lb
  n="0861c21" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 受持此呪者　　得值六十億　　<lb
  n="0861c22" ed="T"/>現在十方佛　　常憶念是人　　<lb
  n="0861c23" ed="T"/>一切受生處　　常遇善知識　　<lb
@@ -232,10 +232,10 @@
  n="0862c23" ed="T"/>常勤不放逸　　恒近善知識　　<lb
  n="0862c24" ed="T"/>得聞此經典　　後趣菩提道　　
 </ab><lb
- n="0862c25" ed="T"/><ab type="prose">佛說此經已。彌勒菩薩摩訶薩。及諸菩薩眾<lb
+ n="0862c25" ed="T"/><ab type='prose'>佛說此經已。彌勒菩薩摩訶薩。及諸菩薩眾<lb
  n="0862c26" ed="T"/>大比丘眾。天龍夜叉乾闥婆阿修羅迦樓羅<lb
  n="0862c27" ed="T"/>緊那羅摩睺羅伽人非人等。聞佛所說歡喜<lb
  n="0862c28" ed="T"/>奉行。<lb
  n="0862c29" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說十二佛名神呪校量功德除障滅罪經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說十二佛名神呪校量功德除障滅罪經</ab></div>
 </body></text></TEI>

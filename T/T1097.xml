@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1097</idno>
                 </bibl>
@@ -39,27 +39,27 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0421b13" ed="T"/><lb
  n="0421b14" ed="T"/><lb
  n="0421b15" ed="T"/>
-<ab type="juan" subtype="open">不空羂索陀羅尼自在王呪經<lb
+<ab type='juan' subtype='open'>不空羂索陀羅尼自在王呪經<lb
  n="0421b16" ed="T"/>卷上</ab><lb
  n="0421b17" ed="T"/><lb
  n="0421b18" ed="T"/><byline>唐天竺三藏寶思惟奉　詔譯</byline><lb
- n="0421b19" ed="T"/><div type="dharani" level="2"><ab type="dharani">南謨囉哆那怛囉夜耶　南謨阿唎耶　阿弭<lb
+ n="0421b19" ed="T"/><div type='dharani' level='2'><ab type='dharani'>南謨囉哆那怛囉夜耶　南謨阿唎耶　阿弭<lb
  n="0421b20" ed="T"/>哆婆耶　怛他孽多耶　南謨阿唎耶　跋嚧<lb
  n="0421b21" ed="T"/>吉帝　失筏囉耶　菩地薩埵耶　摩訶薩埵<lb
  n="0421b22" ed="T"/>耶　摩訶迦嚧尼迦耶　怛跌他　唵阿慕伽<lb
  n="0421b23" ed="T"/>　鉢囉底喝多𤙖𤙖𠰢吒　娑婆訶<lb
  n="0421b24" ed="T"/></ab>
-<ab type="prose">如是所說不空陀羅尼自在王呪。即是一切<lb
+<ab type='prose'>如是所說不空陀羅尼自在王呪。即是一切<lb
  n="0421b25" ed="T"/>祕密神呪之主。若有人能誦此神呪成就之<lb
  n="0421b26" ed="T"/>者。即能通達一切神呪。但是呪法所有事業<lb
  n="0421b27" ed="T"/>皆得圓滿。</ab></div><lb
  n="0421b28" ed="T"/><head>成就尊者說不空神呪功德分第一</head><lb
- n="0421b29" ed="T"/><ab type="prose">爾時聖觀自在菩薩摩訶薩。復說不空羂索<pb n="0421c" id="T20.1097.0421c" ed="T"/><lb
+ n="0421b29" ed="T"/><ab type='prose'>爾時聖觀自在菩薩摩訶薩。復說不空羂索<pb n="0421c" id="T20.1097.0421c" ed="T"/><lb
  n="0421c01" ed="T"/>神呪王法。若成就者福不唐捐。能令無量無<lb
  n="0421c02" ed="T"/>邊諸眾生界。一切業障悉皆清淨。能集無量<lb
  n="0421c03" ed="T"/>福德資糧。增長善根方便善巧。通達無邊智<lb
@@ -172,69 +172,69 @@
  n="0422c23" ed="T"/>合掌。敬禮一切諸佛菩薩。即誦護身呪。呪曰<lb
  n="0422c24" ed="T"/>第二。<lb
  n="0422c25" ed="T"/></ab>
-<ab type="dharani">唵　阿慕伽　鉢囉底訶多囉叉囉叉𤙖<lb
+<ab type='dharani'>唵　阿慕伽　鉢囉底訶多囉叉囉叉𤙖<lb
  n="0422c26" ed="T"/>泮吒<lb
  n="0422c27" ed="T"/></ab>
-<ab type="prose">若欲護身時取自髮一莖。應以此呪呪二十<lb
+<ab type='prose'>若欲護身時取自髮一莖。應以此呪呪二十<lb
  n="0422c28" ed="T"/>一遍。常護自身無能損害。<lb
  n="0422c29" ed="T"/>呪。<pb n="0423a" id="T20.1097.0423a" ed="T"/><lb
  n="0423a01" ed="T"/>鬼神呪呪曰第三。<lb
  n="0423a02" ed="T"/></ab>
-<ab type="dharani">唵　阿慕伽　漫陀　𤙖𤙖　泮吒<lb
+<ab type='dharani'>唵　阿慕伽　漫陀　𤙖𤙖　泮吒<lb
  n="0423a03" ed="T"/></ab>
-<ab type="prose">若呪鬼神先誦此呪。呪五色綖一百八遍繫<lb
+<ab type='prose'>若呪鬼神先誦此呪。呪五色綖一百八遍繫<lb
  n="0423a04" ed="T"/>壇四面。然後呪水一百八遍。或呪芥子或呪<lb
  n="0423a05" ed="T"/>淨灰。隨四方面壇內散之。即令一切惡鬼神<lb
  n="0423a06" ed="T"/>等無能惱亂。<lb
  n="0423a07" ed="T"/>禁惡鬼呪呪曰第四。<lb
  n="0423a08" ed="T"/></ab>
-<ab type="dharani">唵　阿慕伽　鉢囉底訶多唵𤙖泮吒<lb
+<ab type='dharani'>唵　阿慕伽　鉢囉底訶多唵𤙖泮吒<lb
  n="0423a09" ed="T"/></ab>
-<ab type="prose">若禁惡鬼應誦此呪。呪水一百八遍。或呪白<lb
+<ab type='prose'>若禁惡鬼應誦此呪。呪水一百八遍。或呪白<lb
  n="0423a10" ed="T"/>芥子或呪淨灰。隨四方面壇外散之。令諸惡<lb
  n="0423a11" ed="T"/>鬼不得其便。<lb
  n="0423a12" ed="T"/>禁惡魔呪呪曰第五。<lb
  n="0423a13" ed="T"/></ab>
-<ab type="dharani">唵　阿慕伽　帝曬路枳耶　毘闍耶　俱嚕<lb
+<ab type='dharani'>唵　阿慕伽　帝曬路枳耶　毘闍耶　俱嚕<lb
  n="0423a14" ed="T"/>磨𤙖泮吒<lb
  n="0423a15" ed="T"/></ab>
-<ab type="prose">若呪魔時應誦此呪。呪水一百八遍。或白芥<lb
+<ab type='prose'>若呪魔時應誦此呪。呪水一百八遍。或白芥<lb
  n="0423a16" ed="T"/>子及呪淨灰。於其壇外散灑十方。即禁諸惡<lb
  n="0423a17" ed="T"/>魔不能嬈亂。<lb
  n="0423a18" ed="T"/>禁諸惡魔鬼呪呪曰第六。<lb
  n="0423a19" ed="T"/></ab>
-<ab type="dharani">唵　阿慕伽　囉叉娑婆訶<lb
+<ab type='dharani'>唵　阿慕伽　囉叉娑婆訶<lb
  n="0423a20" ed="T"/></ab>
-<ab type="prose">若欲禁諸惡魔鬼時。應以此呪呪水一百八<lb
+<ab type='prose'>若欲禁諸惡魔鬼時。應以此呪呪水一百八<lb
  n="0423a21" ed="T"/>遍。或白芥子及呪淨灰。點自頂上額上心上<lb
  n="0423a22" ed="T"/>及兩肩上。遍灑其身。即令一切惡鬼惡魔不<lb
  n="0423a23" ed="T"/>能惱亂。<lb
  n="0423a24" ed="T"/>呪同伴人呪呪曰第七。<lb
  n="0423a25" ed="T"/></ab>
-<ab type="dharani">唵　阿慕伽　𤙖佉<lb
+<ab type='dharani'>唵　阿慕伽　𤙖佉<lb
  n="0423a26" ed="T"/></ab>
-<ab type="prose">若欲呪同伴人時。應誦此呪。呪水一百八遍。<lb
+<ab type='prose'>若欲呪同伴人時。應誦此呪。呪水一百八遍。<lb
  n="0423a27" ed="T"/>或白芥子及呪淨灰。於其壇內散灑同伴。即<lb
  n="0423a28" ed="T"/>護彼人。惡魔鬼眾無能惱亂。<lb
  n="0423a29" ed="T"/>呪香呪呪曰第八。<pb n="0423b" id="T20.1097.0423b" ed="T"/><lb
  n="0423b01" ed="T"/></ab>
-<ab type="dharani">唵　阿慕伽　淡磨淡磨　𤙖泮吒<lb
+<ab type='dharani'>唵　阿慕伽　淡磨淡磨　𤙖泮吒<lb
  n="0423b02" ed="T"/></ab>
-<ab type="prose">若燒香時。先以此呪。呪種種香二十一遍。然<lb
+<ab type='prose'>若燒香時。先以此呪。呪種種香二十一遍。然<lb
  n="0423b03" ed="T"/>後燒香恭敬供養。<lb
  n="0423b04" ed="T"/>呪飲食及華果呪呪曰第九。<lb
  n="0423b05" ed="T"/></ab>
-<ab type="dharani">唵　阿慕伽　䞘醯利儜　䞘醯唎儜　𤙖泮<lb
+<ab type='dharani'>唵　阿慕伽　䞘醯利儜　䞘醯唎儜　𤙖泮<lb
  n="0423b06" ed="T"/>吒<lb
  n="0423b07" ed="T"/></ab>
-<ab type="prose">若以飲食及華果等欲散之時。先誦此呪呪<lb
+<ab type='prose'>若以飲食及華果等欲散之時。先誦此呪呪<lb
  n="0423b08" ed="T"/>一百八遍。然後於其壇外。隨四方面而遍散<lb
  n="0423b09" ed="T"/>之。<lb
  n="0423b10" ed="T"/>隨作事成就呪呪曰第十。<lb
  n="0423b11" ed="T"/></ab>
-<ab type="dharani">唵　阿慕伽　毘闍耶　𤙖泮吒<lb
+<ab type='dharani'>唵　阿慕伽　毘闍耶　𤙖泮吒<lb
  n="0423b12" ed="T"/></ab>
-<ab type="prose">隨作何事若誦此呪悉皆成就。<lb
+<ab type='prose'>隨作何事若誦此呪悉皆成就。<lb
  n="0423b13" ed="T"/>世尊能持呪者。作是法已。於其壇內。應誦不<lb
  n="0423b14" ed="T"/>空陀羅尼自在王呪。若見聖觀自在菩薩像<lb
  n="0423b15" ed="T"/>幀動時。或煙出時或焰出時。如常誦呪不應<lb
@@ -274,15 +274,15 @@
  n="0423c20" ed="T"/>具足。乃至持呪之者盡形已來。隨意皆得無<lb
  n="0423c21" ed="T"/>所乏少。<lb
  n="0423c22" ed="T"/>
-</ab><ab type="juan" subtype="close">不空羂索陀羅尼自在王呪經卷上</ab><pb n="0424a" id="T20.1097.0424a" ed="T"/><lb
+</ab><ab type='juan' subtype='close'>不空羂索陀羅尼自在王呪經卷上</ab><pb n="0424a" id="T20.1097.0424a" ed="T"/><lb
  n="0424a01" ed="T"/><lb
  n="0424a02" ed="T"/>
-<ab type="juan" subtype="open">不空羂索陀羅尼自在王呪經卷<lb
+<ab type='juan' subtype='open'>不空羂索陀羅尼自在王呪經卷<lb
  n="0424a03" ed="T"/>中</ab><lb
  n="0424a04" ed="T"/><lb
  n="0424a05" ed="T"/><byline>唐天竺三藏寶思惟奉　詔譯</byline><lb
  n="0424a06" ed="T"/><head>成就驅策僮僕使者分第六</head><lb
- n="0424a07" ed="T"/><ab type="prose">爾時聖觀自在菩薩復作是言。若欲成就驅<lb
+ n="0424a07" ed="T"/><ab type='prose'>爾時聖觀自在菩薩復作是言。若欲成就驅<lb
  n="0424a08" ed="T"/>策僮僕。其持呪者應先造作僮僕者形。而此<lb
  n="0424a09" ed="T"/>使者即是不空羂索王神呪之僮僕。容貌端<lb
  n="0424a10" ed="T"/>正。當以一切莊飾之具。而嚴其身。於其頭上<lb
@@ -349,10 +349,10 @@
  n="0424c13" ed="T"/>燒香散華如法結界。<lb
  n="0424c14" ed="T"/>第十一。<lb
  n="0424c15" ed="T"/></ab>
-<ab type="dharani">唵　阿慕伽　播奢鉢囉底訶多帝囇嚕枳耶<lb
+<ab type='dharani'>唵　阿慕伽　播奢鉢囉底訶多帝囇嚕枳耶<lb
  n="0424c16" ed="T"/>微闍耶　囉叉𤙖𤙖泮吒<lb
  n="0424c17" ed="T"/></ab>
-<ab type="prose">此呪呪自身及與同伴。如是呪已。應作大印<lb
+<ab type='prose'>此呪呪自身及與同伴。如是呪已。應作大印<lb
  n="0424c18" ed="T"/>誦聖觀自在菩薩不空羂索心神呪王。若一<lb
  n="0424c19" ed="T"/>日二日。誦此呪時若有毘那夜迦鬼來。故相<lb
  n="0424c20" ed="T"/>驚怖而作障礙。其持呪人應起勇猛勿生恐<lb
@@ -362,10 +362,10 @@
  n="0424c24" ed="T"/>亦復如是。<lb
  n="0424c25" ed="T"/>呪吉祥瓶呪曰第十二。<lb
  n="0424c26" ed="T"/></ab>
-<ab type="dharani">唵　阿慕伽　阿波囉耳多　訶曩訶曩　𤙖<lb
+<ab type='dharani'>唵　阿慕伽　阿波囉耳多　訶曩訶曩　𤙖<lb
  n="0424c27" ed="T"/>泮吒<lb
  n="0424c28" ed="T"/></ab>
-<ab type="prose">此呪呪吉祥瓶。呪呪瓶之時瓶現異相。或傾<lb
+<ab type='prose'>此呪呪吉祥瓶。呪呪瓶之時瓶現異相。或傾<lb
  n="0424c29" ed="T"/>或側或動或搖。呪人見已如常誦呪。不應驚<pb n="0425a" id="T20.1097.0425a" ed="T"/><lb
  n="0425a01" ed="T"/>怖亦不解其結加趺坐何以故。以吉祥瓶如<lb
  n="0425a02" ed="T"/>末尼珠。隨心所欲一切皆得。要當策勵加功<lb
@@ -498,10 +498,10 @@
  n="0426b13" ed="T"/>呪自護己身。欲取藥時先誦此呪呪曰。第十<lb
  n="0426b14" ed="T"/>三。<lb
  n="0426b15" ed="T"/></ab>
-<ab type="dharani">唵　阿慕伽　鉢囉底訶多𤙖什筏囉什筏囉<lb
+<ab type='dharani'>唵　阿慕伽　鉢囉底訶多𤙖什筏囉什筏囉<lb
  n="0426b16" ed="T"/>泮吒　娑婆訶<lb
  n="0426b17" ed="T"/></ab>
-<ab type="prose">誦此呪已即取眼藥。石上研之使其為末。安<lb
+<ab type='prose'>誦此呪已即取眼藥。石上研之使其為末。安<lb
  n="0426b18" ed="T"/>著眼中即令餘人不得見於誦呪之者。復身<lb
  n="0426b19" ed="T"/>能自見一切伏藏。所欲往處隨其意樂。或入<lb
  n="0426b20" ed="T"/>或出復能自見。一切菩薩天龍藥叉健達縛<lb
@@ -541,28 +541,28 @@
  n="0426c25" ed="T"/>妙香塗身。著白淨衣種種莊具而嚴其身。令<lb
  n="0426c26" ed="T"/>於壇中結加趺坐。應誦此呪結童子髮。呪曰<lb
  n="0426c27" ed="T"/>第十四。</ab>
-<ab type="dharani">泮吒<lb
+<ab type='dharani'>泮吒<lb
  n="0426c28" ed="T"/></ab>
-<ab type="prose">誦此神呪結童子髮已。復取雜華滿於所呪<lb
+<ab type='prose'>誦此神呪結童子髮已。復取雜華滿於所呪<lb
  n="0426c29" ed="T"/>童子手中。又以妙香若熏若塗及末散之。復<pb n="0427a" id="T20.1097.0427a" ed="T"/><lb
  n="0427a01" ed="T"/>呪粳米及與華水灑散壇內。應燒沈香誦不<lb
  n="0427a02" ed="T"/>空羂索神呪。呪華三遍散童子面。童子身動。<lb
  n="0427a03" ed="T"/>若欲令語應誦此呪。呪淨水灑童子面呪曰。<lb
  n="0427a04" ed="T"/>第十五。<lb
  n="0427a05" ed="T"/></ab>
-<ab type="dharani">唵　阿慕伽　鉢囉訶底多囉叉囉叉薩<lb
+<ab type='dharani'>唵　阿慕伽　鉢囉訶底多囉叉囉叉薩<lb
  n="0427a06" ed="T"/>婆裴曳弊　𤙖漫陀　泮吒　娑婆訶<lb
  n="0427a07" ed="T"/></ab>
-<ab type="prose">誦此神呪。不得以手觸所呪人。如此呪已童<lb
+<ab type='prose'>誦此神呪。不得以手觸所呪人。如此呪已童<lb
  n="0427a08" ed="T"/>子即語。若問去來現在好惡之事。皆能答之。<lb
  n="0427a09" ed="T"/>其持呪者若欲發遣著童子神。復應誦此呪。<lb
  n="0427a10" ed="T"/>呪曰。<lb
  n="0427a11" ed="T"/>第十六。<lb
  n="0427a12" ed="T"/></ab>
-<ab type="dharani">唵　阿慕伽囉闍　鉢囉底訶多𤙖沒地<lb
+<ab type='dharani'>唵　阿慕伽囉闍　鉢囉底訶多𤙖沒地<lb
  n="0427a13" ed="T"/>耶咤待耶　若臘波波耶　𤙖𤙖泮吒<lb
  n="0427a14" ed="T"/></ab>
-<ab type="prose">復次有法。若欲成立。以手摩觸所呪之人令<lb
+<ab type='prose'>復次有法。若欲成立。以手摩觸所呪之人令<lb
  n="0427a15" ed="T"/>其病差。應作壇場散諸香華。復燒沈香安置<lb
  n="0427a16" ed="T"/>病人於壇中坐。呪之令動。其持呪人以無名<lb
  n="0427a17" ed="T"/>指押。一本云。左手中指及無名指捏作印。<lb
@@ -570,10 +570,10 @@
  n="0427a19" ed="T"/>放捨終不敢來。若不發語應以此呪更治罰<lb
  n="0427a20" ed="T"/>之。呪曰第十七。<lb
  n="0427a21" ed="T"/></ab>
-<ab type="dharani">唵　阿慕伽　鉢囉底訶多孽車孽車　娑婆<lb
+<ab type='dharani'>唵　阿慕伽　鉢囉底訶多孽車孽車　娑婆<lb
  n="0427a22" ed="T"/>訶<lb
  n="0427a23" ed="T"/></ab>
-<ab type="prose">誦此呪已。所呪病人身如火熱作如是言。我<lb
+<ab type='prose'>誦此呪已。所呪病人身如火熱作如是言。我<lb
  n="0427a24" ed="T"/>今即去永不復來。<lb
  n="0427a25" ed="T"/>復次有法。若為諸鬼之所魅著。或瘦或癲。應<lb
  n="0427a26" ed="T"/>誦神呪呪白芥子。或呪三遍或復七遍火中<lb
@@ -593,16 +593,16 @@
  n="0427b11" ed="T"/>以牛乳和鹽。呪之一遍一燒。如是誦呪或一<lb
  n="0427b12" ed="T"/>日或三日。一切惡事即自銷滅。<lb
  n="0427b13" ed="T"/>
-</ab><ab type="juan" subtype="close">不空羂索陀羅尼自在王呪經卷中</ab><lb
+</ab><ab type='juan' subtype='close'>不空羂索陀羅尼自在王呪經卷中</ab><lb
  n="0427b14" ed="T"/><lb
  n="0427b15" ed="T"/><lb
  n="0427b16" ed="T"/>
-<ab type="juan" subtype="open">不空羂索陀羅尼自在王呪經卷<lb
+<ab type='juan' subtype='open'>不空羂索陀羅尼自在王呪經卷<lb
  n="0427b17" ed="T"/>下</ab><lb
  n="0427b18" ed="T"/><lb
  n="0427b19" ed="T"/><byline>唐天竺三藏寶思惟奉　詔譯</byline><lb
  n="0427b20" ed="T"/><head>成就入壇法分第十三</head><lb
- n="0427b21" ed="T"/><ab type="prose">爾時聖觀自在菩薩。說不空羂索神呪壇法。<lb
+ n="0427b21" ed="T"/><ab type='prose'>爾時聖觀自在菩薩。說不空羂索神呪壇法。<lb
  n="0427b22" ed="T"/>此壇是大乘法。為諸菩薩之所攝受。其應入<lb
  n="0427b23" ed="T"/>壇若王若臣若諸凡夫。想持願者與佛平等。<lb
  n="0427b24" ed="T"/>以持呪故能益自他。不生惡趣常生善道。故<lb
@@ -702,54 +702,54 @@
  n="0428c02" ed="T"/>白芥子散於十方。呪曰。<lb
  n="0428c03" ed="T"/>第十八<lb
  n="0428c04" ed="T"/></ab>
-<ab type="dharani">唵　阿慕伽　赦䚡耶　赦䚡耶　𤙖泮吒<lb
+<ab type='dharani'>唵　阿慕伽　赦䚡耶　赦䚡耶　𤙖泮吒<lb
  n="0428c05" ed="T"/></ab>
-<ab type="prose">此是結界呪。欲結界時先以此呪呪白芥子。<lb
+<ab type='prose'>此是結界呪。欲結界時先以此呪呪白芥子。<lb
  n="0428c06" ed="T"/>散十方面而為防護呪曰。<lb
  n="0428c07" ed="T"/>第十九<lb
  n="0428c08" ed="T"/></ab>
-<ab type="dharani">唵　阿慕伽　鉢囉底訶多　漫陀漫陀<lb
+<ab type='dharani'>唵　阿慕伽　鉢囉底訶多　漫陀漫陀<lb
  n="0428c09" ed="T"/>囉叉囉叉囉攘　薩婆薩埵𤙖　俱㘕唵<lb
  n="0428c10" ed="T"/>泮吒娑婆訶<lb
  n="0428c11" ed="T"/></ab>
-<ab type="prose">此是結壇神呪。欲結壇時。先以此呪呪水。呪<lb
+<ab type='prose'>此是結壇神呪。欲結壇時。先以此呪呪水。呪<lb
  n="0428c12" ed="T"/>灰或白芥子。散灑四方隨其遠近。即成界畔<lb
  n="0428c13" ed="T"/>而為防護。呪曰。<lb
  n="0428c14" ed="T"/>第二十<lb
  n="0428c15" ed="T"/></ab>
-<ab type="dharani">唵　帝曬嚕枳耶　微闍耶　慕伽播賒娑<lb
+<ab type='dharani'>唵　帝曬嚕枳耶　微闍耶　慕伽播賒娑<lb
  n="0428c16" ed="T"/>蟒囉　三摩耶　地瑟咤南　摩訶娑蟒耶鉢<lb
  n="0428c17" ed="T"/>囉答波𤙖若<lb
  n="0428c18" ed="T"/></ab>
-<ab type="prose">此是禁自身呪。若入道場。先以此呪呪禁自<lb
+<ab type='prose'>此是禁自身呪。若入道場。先以此呪呪禁自<lb
  n="0428c19" ed="T"/>身。不令非人而得其便。呪曰。<lb
  n="0428c20" ed="T"/>第二十一<lb
  n="0428c21" ed="T"/></ab>
-<ab type="dharani">唵　阿慕伽　囉叉囉叉𤙖泮吒<lb
+<ab type='dharani'>唵　阿慕伽　囉叉囉叉𤙖泮吒<lb
  n="0428c22" ed="T"/></ab>
-<ab type="prose">此是呪香呪。若入壇場欲燒香時。先以此呪<lb
+<ab type='prose'>此是呪香呪。若入壇場欲燒香時。先以此呪<lb
  n="0428c23" ed="T"/>呪香然後燒之供養。<lb
  n="0428c24" ed="T"/>第二十二<lb
  n="0428c25" ed="T"/></ab>
-<ab type="dharani">唵　阿慕伽　淡磨淡磨　鉢囉　底　掣度<lb
+<ab type='dharani'>唵　阿慕伽　淡磨淡磨　鉢囉　底　掣度<lb
  n="0428c26" ed="T"/>　謗忙　微㘕麼　娑婆訶<lb
  n="0428c27" ed="T"/></ab>
-<ab type="prose">此是呪華呪。若入壇場欲以華鬘供養時。先<lb
+<ab type='prose'>此是呪華呪。若入壇場欲以華鬘供養時。先<lb
  n="0428c28" ed="T"/>以此呪呪華鬘用散壇場。<lb
  n="0428c29" ed="T"/>第二十三<pb n="0429a" id="T20.1097.0429a" ed="T"/><lb
  n="0429a01" ed="T"/></ab>
-<ab type="dharani">唵　阿慕伽　阿訶囉　阿訶囉　布澁波達<lb
+<ab type='dharani'>唵　阿慕伽　阿訶囉　阿訶囉　布澁波達<lb
  n="0429a02" ed="T"/>嚩闇微麼　阿遮唎尼　𤙖泮吒<lb
  n="0429a03" ed="T"/></ab>
-<ab type="prose">此是獻供神呪。欲獻供時。先以此呪呪水粳<lb
+<ab type='prose'>此是獻供神呪。欲獻供時。先以此呪呪水粳<lb
  n="0429a04" ed="T"/>米及諸雜華。然後散灑於壇之內奉獻供養。<lb
  n="0429a05" ed="T"/>第二十四<lb
  n="0429a06" ed="T"/></ab>
-<ab type="dharani">唵阿慕伽　阿囉闍　鉢囉底車傑囉伽<lb
+<ab type='dharani'>唵阿慕伽　阿囉闍　鉢囉底車傑囉伽<lb
  n="0429a07" ed="T"/>　跛店孽里醯拏　孽哩醯拏沫林<lb
  n="0429a08" ed="T"/>　娑婆訶<lb
  n="0429a09" ed="T"/></ab>
-<ab type="prose">此是呪座神呪。若欲坐時。先以此呪呪壇內<lb
+<ab type='prose'>此是呪座神呪。若欲坐時。先以此呪呪壇內<lb
  n="0429a10" ed="T"/>座。然後於上結加趺坐。以其兩手作蓮華印。<lb
  n="0429a11" ed="T"/>誦不空羂索心呪。如是誦呪威神力故。於虛<lb
  n="0429a12" ed="T"/>空由有異相現。或時聞有說法之聲。或聞彈<lb
@@ -855,14 +855,14 @@
  n="0430a25" ed="T"/>他國。即往龍池而誦此呪結界自護。呪曰。<lb
  n="0430a26" ed="T"/>第二十五<lb
  n="0430a27" ed="T"/></ab>
-<ab type="dharani">唵　阿慕伽　烏波味賒　𤙖泮吒<lb
+<ab type='dharani'>唵　阿慕伽　烏波味賒　𤙖泮吒<lb
  n="0430a28" ed="T"/></ab>
-<ab type="prose">丹本有呪云。<lb
+<ab type='prose'>丹本有呪云。<lb
  n="0430a29" ed="T"/></ab>
-<ab type="dharani">唵　阿慕伽　毘社耶　摩訶那漫陀漫陀<pb n="0430b" id="T20.1097.0430b" ed="T"/><lb
+<ab type='dharani'>唵　阿慕伽　毘社耶　摩訶那漫陀漫陀<pb n="0430b" id="T20.1097.0430b" ed="T"/><lb
  n="0430b01" ed="T"/>　娑婆訶<lb
  n="0430b02" ed="T"/></ab>
-<ab type="prose">此是護自身呪。欲結界時先誦此呪。以呪十<lb
+<ab type='prose'>此是護自身呪。欲結界時先誦此呪。以呪十<lb
  n="0430b03" ed="T"/>方隨心遠近作其界畔。一切非人無能得便。<lb
  n="0430b04" ed="T"/>以淨黃土於其界內。選擇淨地作四方壇。於<lb
  n="0430b05" ed="T"/>其壇內燒香散華。應畫羂索猶如蛇形名龍<lb
@@ -895,10 +895,10 @@
  n="0430c03" ed="T"/>日或十四日。治地作壇用水灑之。敷吉祥草<lb
  n="0430c04" ed="T"/>應誦此呪。自結頂髮而護其身。呪曰。<lb
  n="0430c05" ed="T"/></ab>
-<ab type="dharani">唵㫊慕伽跛囉視多𠸪叉𠸪叉我<lb
+<ab type='dharani'>唵㫊慕伽跛囉視多𠸪叉𠸪叉我<lb
  n="0430c06" ed="T"/>某甲𧵊撥娑嚩訶<lb
  n="0430c07" ed="T"/></ab>
-<ab type="prose">誦此呪已。應誦不空羂索王呪。呪白芥子三<lb
+<ab type='prose'>誦此呪已。應誦不空羂索王呪。呪白芥子三<lb
  n="0430c08" ed="T"/>遍散於四方。即得一切障礙鬼神。退散馳走<lb
  n="0430c09" ed="T"/>無能惱亂。然後於草上結加趺坐。以衣蒙頭<lb
  n="0430c10" ed="T"/>作定手印。應誦不空羂索神呪王滿一千八<lb
@@ -1023,14 +1023,14 @@
  n="0432a13" ed="T"/>量。一切皆如聖觀自在菩薩威德神力。<lb
  n="0432a14" ed="T"/>第二十六呪<lb
  n="0432a15" ed="T"/></ab>
-<ab type="dharani">南謨囉哆那　怛囉夜耶　南謨阿弭哆婆耶<lb
+<ab type='dharani'>南謨囉哆那　怛囉夜耶　南謨阿弭哆婆耶<lb
  n="0432a16" ed="T"/>　怛他𦽆多耶　南謨阿唎耶　跋嚧吉帝<lb
  n="0432a17" ed="T"/>　失筏囉耶　菩提薩埵耶　摩訶薩埵耶　摩<lb
  n="0432a18" ed="T"/>訶迦嚧尼迦耶　怛跌他　唵　阿慕伽鉢囉<lb
  n="0432a19" ed="T"/>底喝多　僧訶囉　僧訶囉𤙖泮吒<lb
  n="0432a20" ed="T"/></ab>
-<ab type="prose">此是收除呪。凡結壇事畢欲收除時。先誦此<lb
+<ab type='prose'>此是收除呪。凡結壇事畢欲收除時。先誦此<lb
  n="0432a21" ed="T"/>呪然後除之。<lb
  n="0432a22" ed="T"/>
-</ab><ab type="juan" subtype="close">不空羂索陀羅尼自在王呪經卷下</ab></div>
+</ab><ab type='juan' subtype='close'>不空羂索陀羅尼自在王呪經卷下</ab></div>
 </body></text></TEI>

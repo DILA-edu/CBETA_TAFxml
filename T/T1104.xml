@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T20</biblScope>
                     <idno type="Taisho">T20n1104</idno>
                 </bibl>
@@ -44,11 +44,11 @@
  n="0470b08" ed="T"/><lb
  n="0470b09" ed="T"/><lb
  n="0470b10" ed="T"/>
-<ab type="juan" subtype="open">佛說聖多羅菩薩經</ab><lb
+<ab type='juan' subtype='open'>佛說聖多羅菩薩經</ab><lb
  n="0470b11" ed="T"/><lb
  n="0470b12" ed="T"/><byline>西天譯經三藏朝散大夫試光祿卿<lb
  n="0470b13" ed="T"/>明教大師臣法賢奉　詔譯</byline><lb
- n="0470b14" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞。一時佛在香醉山五髻乾闥婆王<lb
+ n="0470b14" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞。一時佛在香醉山五髻乾闥婆王<lb
  n="0470b15" ed="T"/>宮。彼有種種鼓樂弦歌出微妙音。<lb
  n="0470b16" ed="T"/>爾時世尊處大殿中。與諸菩薩摩訶薩眾俱。<lb
  n="0470b17" ed="T"/>復有諸大聖眾皆來集會。所謂有學無學諸<lb
@@ -78,7 +78,7 @@
  n="0470c12" ed="T"/>爾時世尊為彼乾闥婆王及一切眾會。先說<lb
  n="0470c13" ed="T"/>聖多羅菩薩陀羅尼曰。<lb
  n="0470c14" ed="T"/></ab>
-<ab type="dharani">那莫三滿多那哩始毘藥薩哩嚩<lb
+<ab type='dharani'>那莫三滿多那哩始毘藥薩哩嚩<lb
  n="0470c15" ed="T"/>怛他誐帝毘踰阿囉曷訥毘藥三藐三沒提毘藥那謨婆誐嚩帶曳<lb
  n="0470c17" ed="T"/>阿哩也多囉曳唵薩哩嚩怛<lb
  n="0470c18" ed="T"/>他誐多怛他多部多酤致波哩戍<lb
@@ -86,11 +86,11 @@
  n="0470c21" ed="T"/>達哩摩帝摩賀那野波哩嚩哩<lb
  n="0470c22" ed="T"/>莎賀<lb
  n="0470c23" ed="T"/></ab>
-<ab type="prose">爾時世尊說此陀羅尼已。復為乾闥婆王及<lb
+<ab type='prose'>爾時世尊說此陀羅尼已。復為乾闥婆王及<lb
  n="0470c24" ed="T"/>一切眾會。宣說多羅菩薩一百八名。而說頌<lb
  n="0470c25" ed="T"/>曰。<lb
  n="0470c26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 是多羅菩薩　　本從阿字生　　<lb
  n="0470c27" ed="T"/>或生諸行相　　不生亦不滅　　<lb
  n="0470c28" ed="T"/>是相如虛空　　虛空性生故　　<lb
@@ -178,7 +178,7 @@
  n="0471c23" ed="T"/>離欲身應供　　寂靜道常安　　<lb
  n="0471c24" ed="T"/>正覺所讚揚　　是多羅菩薩　　
 </ab><lb
- n="0471c25" ed="T"/><ab type="prose">爾時世尊說此頌已。告乾闥婆王及一切眾<lb
+ n="0471c25" ed="T"/><ab type='prose'>爾時世尊說此頌已。告乾闥婆王及一切眾<lb
  n="0471c26" ed="T"/>會。此是多羅菩薩一百八名。我已為汝宣說。<lb
  n="0471c27" ed="T"/>汝等應當至心。受持此多羅菩薩一百八名<lb
  n="0471c28" ed="T"/>及陀羅尼。過去未來諸佛已說當說。為一切<lb
@@ -205,15 +205,15 @@
  n="0472a20" ed="T"/>種嚴身之具。供養於佛合掌恭敬。瞻仰世尊<lb
  n="0472a21" ed="T"/>而說讚曰。<lb
  n="0472a22" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 善哉世尊　　甚奇善逝　　常以悲心　　<lb
  n="0472a23" ed="T"/>救護一切　　而能為我　　及於眾會　　<lb
  n="0472a24" ed="T"/>說此最上　　真實之義　　
 </ab><lb
- n="0472a25" ed="T"/><ab type="prose">爾時世尊說是經已。彼諸菩薩摩訶薩。及諸<lb
+ n="0472a25" ed="T"/><ab type='prose'>爾時世尊說是經已。彼諸菩薩摩訶薩。及諸<lb
  n="0472a26" ed="T"/>聲聞并持明者。大忿怒主一切明王。諸天人<lb
  n="0472a27" ed="T"/>眾及五髻乾闥婆等。聞佛所說皆大歡喜信<lb
  n="0472a28" ed="T"/>受奉行。<lb
  n="0472a29" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說聖多羅菩薩經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說聖多羅菩薩經</ab></div>
 </body></text></TEI>

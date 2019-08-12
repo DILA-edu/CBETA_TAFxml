@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T18</biblScope>
                     <idno type="Taisho">T18n0881</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0339a17" ed="T"/><lb
  n="0339a18" ed="T"/><lb
  n="0339a19" ed="T"/><lb
  n="0339a20" ed="T"/><lb
  n="0339a21" ed="T"/>
-<ab type="juan" subtype="open">賢劫十六尊</ab><lb
+<ab type='juan' subtype='open'>賢劫十六尊</ab><lb
  n="0339a22" ed="T"/><lb
- n="0339a23" ed="T"/><div type="jing" level="2"><ab type="verse">
+ n="0339a23" ed="T"/><div type='jing' level='2'><ab type='verse'>
 於彼輪壇外　　賢劫千佛中　　<lb
  n="0339a24" ed="T"/>十六為上首　　彌勒持軍持　　<lb
  n="0339a25" ed="T"/>不空蓮華眼　　除憂梵夾相　　<lb
@@ -61,9 +61,9 @@
  n="0339b03" ed="T"/>普賢五智印　　種子初阿字　　<lb
  n="0339b04" ed="T"/>吽字左按地　　
 </ab><lb
- n="0339b05" ed="T"/><ab type="prose">彼彼真言曰。<lb
+ n="0339b05" ed="T"/><ab type='prose'>彼彼真言曰。<lb
  n="0339b06" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄗬每去􄩤怛隸二合􄗲夜􄗱野􇩉娑嚩􄚩賀􆿅阿<lb
+<ab type='dharani'>􇩂唵􄗬每去􄩤怛隸二合􄗲夜􄗱野􇩉娑嚩􄚩賀􆿅阿<lb
  n="0339b07" ed="T"/><lb
  n="0339b08" ed="T"/>􇩂唵􆿅阿􄗭目􄑤佉引􄕯那􈋧㗚捨二合􄖩曩􄗱野􅁥娑嚩􄚩賀<lb
  n="0339b09" ed="T"/><lb
@@ -111,7 +111,7 @@
  n="0339c22" ed="T"/>􇩂唵􄙺三􄗥曼􄕗多􄗙跋􄩶捺羅二合􄗱野􅁥娑嚩􄚩賀􆿔惡<lb
  n="0339c23" ed="T"/><lb
  n="0339c24" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 金剛界外院　　地居空行天　　<pb n="0340a" id="T18.0881.0340a" ed="T"/><lb
  n="0340a01" ed="T"/>略說有五類　　忿怒稱吽字　　<lb
  n="0340a02" ed="T"/>安布二十天　　芰荷以為座　　<lb
@@ -129,9 +129,9 @@
  n="0340a14" ed="T"/>調伏金剛劍　　門東多門天　　<lb
  n="0340a15" ed="T"/>掌塔持寶棒　　伊舍那戟印　　
 </ab><lb
- n="0340a16" ed="T"/><ab type="prose">彼彼真言曰。<lb
+ n="0340a16" ed="T"/><ab type='prose'>彼彼真言曰。<lb
  n="0340a17" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄗥摩􄙋羅􄙖縛􄦽日羅二合<lb
+<ab type='dharani'>􇩂唵􄗥摩􄙋羅􄙖縛􄦽日羅二合<lb
  n="0340a18" ed="T"/><lb
  n="0340a19" ed="T"/>􇩂唵􄙖縛􄦽日羅二合􈋩健􄓚吒<lb
  n="0340a20" ed="T"/><lb
@@ -172,19 +172,19 @@
  n="0340b27" ed="T"/>􇩂唵􄙂嚕􄩶捺羅二合􄗱野􄙖縛􄦽日囉二合<lb
  n="0340b28" ed="T"/><lb
  n="0340b29" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 如是大天眾　　威德有多門　　<pb n="0340c" id="T18.0881.0340c" ed="T"/><lb
  n="0340c01" ed="T"/>妃后並眷屬　　皆在曼荼羅　　<lb
  n="0340c02" ed="T"/>應當具開示　　供養夜迦天　　<lb
  n="0340c03" ed="T"/>應居北門東　　
 </ab><lb
- n="0340c04" ed="T"/><ab type="prose">彼真言曰。<lb
+ n="0340c04" ed="T"/><ab type='prose'>彼真言曰。<lb
  n="0340c05" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄙖縛􄦽日羅二合􄙘尾􄖩曩􄗱野􄑀迦􅁥娑嚩二合􄚩賀</ab></div><lb
+<ab type='dharani'>􇩂唵􄙖縛􄦽日羅二合􄙘尾􄖩曩􄗱野􄑀迦􅁥娑嚩二合􄚩賀</ab></div><lb
  n="0340c06" ed="T"/><lb
  n="0340c07" ed="T"/>
-<ab type="juan" subtype="close">十六尊</ab><lb
- n="0340c08" ed="T"/><div type="w" level="2"><ab type="prose">享和二壬戌年五月以京兆智積院之本挍。<lb
+<ab type='juan' subtype='close'>十六尊</ab><lb
+ n="0340c08" ed="T"/><div type='w' level='2'><ab type='prose'>享和二壬戌年五月以京兆智積院之本挍。<lb
  n="0340c09" ed="T"/>豐山小池坊什本梓印行於世。<lb
  n="0340c10" ed="T"/>長谷妙音院寓居上毛沙門快道誌</ab></div></div>
 </body></text></TEI>

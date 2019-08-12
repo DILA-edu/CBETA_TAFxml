@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T11</biblScope>
                     <idno type="Taisho">T11n0315b</idno>
                 </bibl>
@@ -43,10 +43,10 @@
  n="0777b09" ed="T"/><lb
  n="0777b10" ed="T"/><lb
  n="0777b11" ed="T"/>
-<ab type="juan" subtype="open">佛說普門品經</ab><lb
+<ab type='juan' subtype='open'>佛說普門品經</ab><lb
  n="0777b12" ed="T"/><lb
  n="0777b13" ed="T"/><byline>西晉竺法護譯</byline><lb
- n="0777b14" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時佛遊王舍城靈鷲山，與大比<lb
+ n="0777b14" ed="T"/><div type='jing' level='1'><ab type='prose'>聞如是：一時佛遊王舍城靈鷲山，與大比<lb
  n="0777b15" ed="T"/>丘眾比丘八百，菩薩四萬二千——得諸總持，<lb
  n="0777b16" ed="T"/>神通已達，聖智弘暢，辯才無礙，三昧已定，<lb
  n="0777b17" ed="T"/>無所不博。時有菩薩名離垢藏，與九萬二<lb
@@ -353,5 +353,5 @@
  n="0780c28" ed="T"/>溥首童真，賢者阿難，諸天、世人、揵沓和、阿<lb
  n="0780c29" ed="T"/>須倫，聞經歡喜，稽首而退。</ab></div><lb
  n="0780c30" ed="T"/>
-<ab type="juan" subtype="close">佛說普門品經</ab>
+<ab type='juan' subtype='close'>佛說普門品經</ab>
 </body></text></TEI>

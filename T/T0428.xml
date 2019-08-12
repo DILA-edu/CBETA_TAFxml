@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0428</idno>
                 </bibl>
@@ -43,10 +43,10 @@
  n="0073b01" ed="T"/><lb
  n="0073b02" ed="T"/><lb
  n="0073b03" ed="T"/>
-<ab type="juan" subtype="open">佛說八陽神呪經</ab><lb
+<ab type='juan' subtype='open'>佛說八陽神呪經</ab><lb
  n="0073b04" ed="T"/><lb
  n="0073b05" ed="T"/><byline>西晉月氏三藏竺法護譯</byline><lb
- n="0073b06" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時，佛在王舍城靈鳥山中，時與<lb
+ n="0073b06" ed="T"/><div type='jing' level='1'><ab type='prose'>聞如是：一時，佛在王舍城靈鳥山中，時與<lb
  n="0073b07" ed="T"/>大比丘眾千二百五十人、菩薩千人俱，皆如<lb
  n="0073b08" ed="T"/>彌勒菩薩等。佛告舍利弗：「東方去是過一恒<lb
  n="0073b09" ed="T"/>沙，有佛剎，佛號快樂如來、無所著、等正覺，今<lb
@@ -96,7 +96,7 @@
  n="0073c24" ed="T"/>疾痛者，持是八陽呪經呪之，立得除愈。」是時，<lb
  n="0073c25" ed="T"/>佛說要偈：<lb
  n="0073c26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「是土無如來，　　持是國土名，　　<lb
  n="0073c27" ed="T"/>一切眾惡除，　　疾得登正道。　　<lb
  n="0073c28" ed="T"/>所生常遇佛，　　見覺大歡喜，　　<lb
@@ -114,7 +114,7 @@
  n="0074a11" ed="T"/>五魔不能嬈，　　將帥及官屬，　　<lb
  n="0074a12" ed="T"/>奉行是經者，　　不能中得便。」　　
 </ab><lb
- n="0074a13" ed="T"/><ab type="prose">爾時，第一四天王、彌勒菩薩等，白佛言：「我曹<lb
+ n="0074a13" ed="T"/><ab type='prose'>爾時，第一四天王、彌勒菩薩等，白佛言：「我曹<lb
  n="0074a14" ed="T"/>當共擁護持是八陽呪經一切學者，我曹當<lb
  n="0074a15" ed="T"/>併力擁護，病者令愈。」佛說：「如是。」第一四天<lb
  n="0074a16" ed="T"/>王、彌勒菩薩等比丘眾，及諸天龍、鬼神、人民、<lb
@@ -131,5 +131,5 @@
  n="0074a27" ed="T"/>願持此一字之功德，願一切人皆如八菩薩<lb
  n="0074a28" ed="T"/>快也。</ab></div><lb
  n="0074a29" ed="T"/>
-<ab type="juan" subtype="close">佛說八陽神呪經</ab>
+<ab type='juan' subtype='close'>佛說八陽神呪經</ab>
 </body></text></TEI>

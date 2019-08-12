@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0093</idno>
                 </bibl>
@@ -42,12 +42,12 @@
         <body><lb
  n="0917a04" ed="T"/><lb
  n="0917a05" ed="T"/><lb
- n="0917a06" ed="T"/><div type="jing" level="1"><lb
+ n="0917a06" ed="T"/><div type='jing' level='1'><lb
  n="0917a07" ed="T"/>
-<ab type="juan" subtype="open">佛說邪見經</ab><lb
+<ab type='juan' subtype='open'>佛說邪見經</ab><lb
  n="0917a08" ed="T"/><lb
  n="0917a09" ed="T"/><byline>失譯人名今附東晉錄</byline><lb
- n="0917a10" ed="T"/><ab type="prose">聞如是：一時，尊者阿難，在羅閱祇城迦蘭陀<lb
+ n="0917a10" ed="T"/><ab type='prose'>聞如是：一時，尊者阿難，在羅閱祇城迦蘭陀<lb
  n="0917a11" ed="T"/>竹園。世尊般涅槃不久，於是有異邪命，是尊<lb
  n="0917a12" ed="T"/>者阿難𩮰角友，中食後行彷徉而行至尊者<lb
  n="0917a13" ed="T"/>阿難所，到已共尊者阿難面相慰勞。面相慰<lb
@@ -76,5 +76,5 @@
  n="0917b07" ed="T"/>阿難如是說。彼邪命聞尊者阿難所說，歡喜<lb
  n="0917b08" ed="T"/>而樂。<lb
  n="0917b09" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說邪見經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說邪見經</ab></div>
 </body></text></TEI>

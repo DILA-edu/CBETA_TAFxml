@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0008</idno>
                 </bibl>
@@ -44,13 +44,13 @@
  n="0207c14" ed="T"/><lb
  n="0207c15" ed="T"/><lb
  n="0207c16" ed="T"/><lb
- n="0207c17" ed="T"/><div type="jing" level="1"><lb
+ n="0207c17" ed="T"/><div type='jing' level='1'><lb
  n="0207c18" ed="T"/>
-<ab type="juan" subtype="open">佛說大堅固婆羅門緣起經卷上</ab><lb
+<ab type='juan' subtype='open'>佛說大堅固婆羅門緣起經卷上</ab><lb
  n="0207c19" ed="T"/><lb
  n="0207c20" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0207c21" ed="T"/>傳法大師賜紫臣施護等奉　詔譯</byline><lb
- n="0207c22" ed="T"/><ab type="prose">如是我聞：一時，世尊在王舍城鷲峯山中，<lb
+ n="0207c22" ed="T"/><ab type='prose'>如是我聞：一時，世尊在王舍城鷲峯山中，<lb
  n="0207c23" ed="T"/>與大眾俱。是時，有五髻乾闥婆王子，過於夜<lb
  n="0207c24" ed="T"/>分，至明旦時，來詣佛所——彼有身光廣大照耀，<lb
  n="0207c25" ed="T"/>彼鷲峯山都一光聚——到佛所已，頭面禮足，<lb
@@ -191,13 +191,13 @@
  n="0209b15" ed="T"/>時，大梵天王知彼天眾又復勝前，咸生歡喜<lb
  n="0209b16" ed="T"/>心意快然，即說伽陀曰：<lb
  n="0209b17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「帝釋天主并天眾，　　咸生如是歡喜心，　　<lb
  n="0209b18" ed="T"/>歸命稱讚佛如來，　　善說如來希有法。　　<lb
  n="0209b19" ed="T"/>昔見天中初生者，　　具足色相及威光，　　<lb
  n="0209b20" ed="T"/>由於梵行久已修，　　得生彼天具勝力。」　　
 </ab><lb
- n="0209b21" ed="T"/><ab type="prose">時，三十三天眾聞是伽陀已，又復勝前，咸生<lb
+ n="0209b21" ed="T"/><ab type='prose'>時，三十三天眾聞是伽陀已，又復勝前，咸生<lb
  n="0209b22" ed="T"/>歡喜，心意快然。<lb
  n="0209b23" ed="T"/>爾時，大梵天王知彼天眾又復勝前生歡喜<lb
  n="0209b24" ed="T"/>已，即告眾言：「汝等若欲樂聞，如來、應供、正<lb
@@ -283,14 +283,14 @@
  n="0210b17" ed="T"/>至王所。」』使人受命，即詣輔相大堅固婆羅門<lb
  n="0210b18" ed="T"/>所，到已如應宣示王言：『汝今宜應速至王所。』<lb
  n="0210b19" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說大堅固婆羅門緣起經卷上</ab><lb
+</ab><ab type='juan' subtype='close'>佛說大堅固婆羅門緣起經卷上</ab><lb
  n="0210b20" ed="T"/><lb
  n="0210b21" ed="T"/>
-<ab type="juan" subtype="open">佛說大堅固婆羅門緣起經卷下</ab><lb
+<ab type='juan' subtype='open'>佛說大堅固婆羅門緣起經卷下</ab><lb
  n="0210b22" ed="T"/><lb
  n="0210b23" ed="T"/><byline>西天譯經三藏朝奉大夫試光祿卿<lb
  n="0210b24" ed="T"/>傳法大師賜紫臣施護等奉　詔譯</byline><lb
- n="0210b25" ed="T"/><ab type="prose">「爾時，輔相大堅固婆羅門即時來詣黎努王<lb
+ n="0210b25" ed="T"/><ab type='prose'>「爾時，輔相大堅固婆羅門即時來詣黎努王<lb
  n="0210b26" ed="T"/>所，到已伸敬退坐一面。時，王歡喜顧囑慰安，<lb
  n="0210b27" ed="T"/>輔相亦復肅恭對答。王言：『大堅固！汝今為<lb
  n="0210b28" ed="T"/>我度此國境分為七分，我與六人童子各各<lb
@@ -346,41 +346,41 @@
  n="0211a20" ed="T"/>歡喜，仰觀虛空，乃見大梵天王處于空中，<lb
  n="0211a21" ed="T"/>即時合掌頂禮說伽陀曰：<lb
  n="0211a22" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『威神色相光明具，　　是何聖者現空中？　　<lb
  n="0211a23" ed="T"/>我今雖見不能知，　　惟願如實為我說。』　　
 </ab><lb
- n="0211a24" ed="T"/><ab type="prose">「爾時大梵天王即說伽陀，答輔相婆羅門曰：<lb
+ n="0211a24" ed="T"/><ab type='prose'>「爾時大梵天王即說伽陀，答輔相婆羅門曰：<lb
  n="0211a25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『彼諸淨行者悉知，　　我於梵界而常住，　　<lb
  n="0211a26" ed="T"/>又復諸天知我名，　　汝婆羅門應自審。』　　
 </ab><lb
- n="0211a27" ed="T"/><ab type="prose">「輔相婆羅門復說伽陀曰：<lb
+ n="0211a27" ed="T"/><ab type='prose'>「輔相婆羅門復說伽陀曰：<lb
  n="0211a28" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『所須淨水及座位，　　蘇蜜乳粥味中勝，　　<lb
  n="0211a29" ed="T"/>最初奉獻我專心，　　惟願梵王哀納受。』　　
 </ab><pb n="0211b" ed="T" id="T01.0008.0211b"/><lb
- n="0211b01" ed="T"/><ab type="prose">「大梵天王復說伽陀曰：<lb
+ n="0211b01" ed="T"/><ab type='prose'>「大梵天王復說伽陀曰：<lb
  n="0211b02" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『所須淨水及座位，　　蘇蜜乳粥味中勝，　　<lb
  n="0211b03" ed="T"/>汝婆羅門最初獻，　　我今如應為汝受。』　　
 </ab><lb
- n="0211b04" ed="T"/><ab type="prose">「輔相婆羅門說伽陀曰：<lb
+ n="0211b04" ed="T"/><ab type='prose'>「輔相婆羅門說伽陀曰：<lb
  n="0211b05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『五欲諸境名此界，　　得生梵世名他界，　　<lb
  n="0211b06" ed="T"/>我忻是義發問端，　　惟願梵王聽許我。』　　
 </ab><lb
- n="0211b07" ed="T"/><ab type="prose">「大梵天王說伽陀曰：<lb
+ n="0211b07" ed="T"/><ab type='prose'>「大梵天王說伽陀曰：<lb
  n="0211b08" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『此界他界二義中，　　隨汝所樂恣汝問，　　<lb
  n="0211b09" ed="T"/>我今聽許悉無疑，　　汝問云何當速說。』　　
 </ab><lb
- n="0211b10" ed="T"/><ab type="prose">「爾時，輔相婆羅門即作是念：『我於今時，欲解<lb
+ n="0211b10" ed="T"/><ab type='prose'>「爾時，輔相婆羅門即作是念：『我於今時，欲解<lb
  n="0211b11" ed="T"/>疑惑，先以何義，問彼梵王？為問此界義由<lb
  n="0211b12" ed="T"/>何發起邪？為問他界義由何得生邪？』輔<lb
  n="0211b13" ed="T"/>相婆羅門又復審思：『此界義者，謂由五欲發<lb
@@ -391,11 +391,11 @@
  n="0211b18" ed="T"/>生？』<lb
  n="0211b19" ed="T"/>「爾時，大梵天王即說伽陀，答輔相婆羅門曰：<lb
  n="0211b20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『修無我者即淨行，　　心住一境悲解脫，　　<lb
  n="0211b21" ed="T"/>離諸欲染煩惱除，　　此等得生於梵界。』　　
 </ab><lb
- n="0211b22" ed="T"/><ab type="prose">「時，輔相婆羅門白大梵天王言：『如大梵所說<lb
+ n="0211b22" ed="T"/><ab type='prose'>「時，輔相婆羅門白大梵天王言：『如大梵所說<lb
  n="0211b23" ed="T"/>伽陀中言，修無我者是即淨行，我於此義已<lb
  n="0211b24" ed="T"/>能解了，謂一類人起正信心，修出家法，剃<lb
  n="0211b25" ed="T"/>除鬚髮，被袈裟衣，捨諸富樂。若少若多，智<lb
@@ -420,13 +420,13 @@
  n="0211c15" ed="T"/>是中云何令修行者得生寂靜彼梵天界？』<lb
  n="0211c16" ed="T"/>「爾時大梵天王即說伽陀，答輔相婆羅門曰：<lb
  n="0211c17" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『貪瞋癡慢疑忿覆，　　惱害誑妄并慳嫉，　　<lb
  n="0211c18" ed="T"/>起此染法及謗他，　　是等名為諸煩惱。　　<lb
  n="0211c19" ed="T"/>遠離如是諸煩惱，　　即於人中得清淨，　　<lb
  n="0211c20" ed="T"/>諸煩惱海塞其源，　　得生寂靜梵天界。』　　
 </ab><lb
- n="0211c21" ed="T"/><ab type="prose">「時，輔相婆羅門白大梵天王言：『如大梵所說，<lb
+ n="0211c21" ed="T"/><ab type='prose'>「時，輔相婆羅門白大梵天王言：『如大梵所說，<lb
  n="0211c22" ed="T"/>諸煩惱法，我聞其言，了解是義。我若在家，<lb
  n="0211c23" ed="T"/>一向纏縛。我若出家，一向離過，當修清淨<lb
  n="0211c24" ed="T"/>正白梵行。何以故？有生皆滅，人命短促，若<lb
@@ -447,58 +447,58 @@
  n="0212a10" ed="T"/>輔相大堅固婆羅門作火事已，往詣黎努王<lb
  n="0212a11" ed="T"/>所。到已跪拜，恭向王前，說伽陀曰：<lb
  n="0212a12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『我有意願今啟白，　　黎努大王國界主，　　<lb
  n="0212a13" ed="T"/>我捨相位求出家，　　願王自理國政事。』　　
 </ab><lb
- n="0212a14" ed="T"/><ab type="prose">「爾時黎努大王即說伽陀，答輔相曰：<lb
+ n="0212a14" ed="T"/><ab type='prose'>「爾時黎努大王即說伽陀，答輔相曰：<lb
  n="0212a15" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『汝若闕少所須用，　　一切欲者我當與，　　<lb
  n="0212a16" ed="T"/>若人嬈汝今速言，　　我以王法為治罰。　　<lb
  n="0212a17" ed="T"/>汝如我父我如子，　　汝我相助豈相離？　　<lb
  n="0212a18" ed="T"/>汝雖為相亦我師，　　何故于今發是語？』　　
 </ab><lb
- n="0212a19" ed="T"/><ab type="prose">「輔相婆羅門說伽陀曰：<lb
+ n="0212a19" ed="T"/><ab type='prose'>「輔相婆羅門說伽陀曰：<lb
  n="0212a20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『我諸所用無闕乏，　　亦非他人相嬈惱，　　<lb
  n="0212a21" ed="T"/>但為我聞真實言，　　發出家心無改轉。』　　
 </ab><lb
- n="0212a22" ed="T"/><ab type="prose">「黎努大王說伽陀曰：<lb
+ n="0212a22" ed="T"/><ab type='prose'>「黎努大王說伽陀曰：<lb
  n="0212a23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『非人所說何真實，　　何故信聽如是言？　　<lb
  n="0212a24" ed="T"/>勿將斯語以為真，　　棄輔相位求出家。』　　
 </ab><lb
- n="0212a25" ed="T"/><ab type="prose">「輔相婆羅門說伽陀曰：<lb
+ n="0212a25" ed="T"/><ab type='prose'>「輔相婆羅門說伽陀曰：<lb
  n="0212a26" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『天子我先作火事，　　勇發清淨專注心，　　<lb
  n="0212a27" ed="T"/>依法布壇火祀天，　　以吉祥草而作用。　　<lb
  n="0212a28" ed="T"/>大梵天王大仙聖，　　應我所求即現身，　　<lb
  n="0212a29" ed="T"/>我聞彼說真實言，　　是故堅發出家意。』　　
 </ab><pb n="0212b" ed="T" id="T01.0008.0212b"/><lb
- n="0212b01" ed="T"/><ab type="prose">「黎努大王說伽陀曰：<lb
+ n="0212b01" ed="T"/><ab type='prose'>「黎努大王說伽陀曰：<lb
  n="0212b02" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『如汝輔相善所說，　　我今悉能生信解，　　<lb
  n="0212b03" ed="T"/>汝既得聞先聖言，　　此出家心何能轉。　　<lb
  n="0212b04" ed="T"/>汝心猶如虛空淨，　　復如淨妙瑠璃寶，　　<lb
  n="0212b05" ed="T"/>如汝所修我亦隨，　　我因汝故得開悟。』　　
 </ab><lb
- n="0212b06" ed="T"/><ab type="prose">「時，黎努王說伽陀已，又作是言：『大堅固！汝心<lb
+ n="0212b06" ed="T"/><ab type='prose'>「時，黎努王說伽陀已，又作是言：『大堅固！汝心<lb
  n="0212b07" ed="T"/>清淨，樂修善行，隨汝所欲，汝有歸趣，我亦<lb
  n="0212b08" ed="T"/>有歸。』<lb
  n="0212b09" ed="T"/>「時，輔相婆羅門復說伽陀，前白王曰：<lb
  n="0212b10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「『汝王當捨諸欲境，　　若執著者即愚夫，　　<lb
  n="0212b11" ed="T"/>應發堅固離著心，　　三摩呬多忍力具。　　<lb
  n="0212b12" ed="T"/>此所悟者清淨乘，　　此清淨道真常住，　　<lb
  n="0212b13" ed="T"/>此所宣說正法門，　　由此得生梵天界。』　　
 </ab><lb
- n="0212b14" ed="T"/><ab type="prose">「五髻！彼分理諸國者六王，聞輔相婆羅門捨<lb
+ n="0212b14" ed="T"/><ab type='prose'>「五髻！彼分理諸國者六王，聞輔相婆羅門捨<lb
  n="0212b15" ed="T"/>輔相位樂求出家，即集六王，共在一處。時，<lb
  n="0212b16" ed="T"/>輔相婆羅門乃自往詣彼六王所，到已跪拜，<lb
  n="0212b17" ed="T"/>白諸王言：『諸王！當知，我今欲捨彼輔相位，<lb
@@ -620,5 +620,5 @@
  n="0213c17" ed="T"/>佛說此經已，五髻乾闥婆王子等，一切大眾，<lb
  n="0213c18" ed="T"/>聞佛所說，皆大歡喜，信受奉行。<lb
  n="0213c19" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說大堅固婆羅門緣起經卷下</ab></div>
+</ab><ab type='juan' subtype='close'>佛說大堅固婆羅門緣起經卷下</ab></div>
 </body></text></TEI>

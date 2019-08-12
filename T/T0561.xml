@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0561</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0912c18" ed="T"/><lb
  n="0912c19" ed="T"/><lb
  n="0912c20" ed="T"/>
-<ab type="juan" subtype="open">佛說老母經</ab><lb
+<ab type='juan' subtype='open'>佛說老母經</ab><lb
  n="0912c21" ed="T"/><lb
  n="0912c22" ed="T"/><byline>僧祐錄云闕譯人名今附宋錄</byline><lb
- n="0912c23" ed="T"/><div type="jing" level="1"><ab type="prose">聞如是：一時佛在維耶羅國，所止處名曰樂<lb
+ n="0912c23" ed="T"/><div type='jing' level='1'><ab type='prose'>聞如是：一時佛在維耶羅國，所止處名曰樂<lb
  n="0912c24" ed="T"/>音。時與八百比丘僧、菩薩萬人俱。時有貧窮<lb
  n="0912c25" ed="T"/>老母，來到佛所，以頭面著地，為佛作禮，白佛<lb
  n="0912c26" ed="T"/>言：「願欲有所問。」佛言：「善哉！善哉！當問。」老母<lb
@@ -94,5 +94,5 @@
  n="0913b09" ed="T"/>龍、鬼神、阿須倫，皆大歡喜，前以頭面著地，為<lb
  n="0913b10" ed="T"/>佛作禮而去。</ab></div><lb
  n="0913b11" ed="T"/>
-<ab type="juan" subtype="close">佛說老母經</ab>
+<ab type='juan' subtype='close'>佛說老母經</ab>
 </body></text></TEI>

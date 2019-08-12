@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1280</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0340b16" ed="T"/><lb
  n="0340b17" ed="T"/><lb
- n="0340b18" ed="T"/><div type="jing" level="2"><lb
+ n="0340b18" ed="T"/><div type='jing' level='2'><lb
  n="0340b19" ed="T"/>
-<ab type="juan" subtype="open">摩醯首羅大自在天王神通化生<lb
+<ab type='juan' subtype='open'>摩醯首羅大自在天王神通化生<lb
  n="0340b20" ed="T"/>伎藝天女念誦法</ab><lb
  n="0340b21" ed="T"/><lb
- n="0340b22" ed="T"/><ab type="prose">爾時摩醯首羅天王。於大自在天上。與諸天<lb
+ n="0340b22" ed="T"/><ab type='prose'>爾時摩醯首羅天王。於大自在天上。與諸天<lb
  n="0340b23" ed="T"/>女前後圍繞。神通遊戲作諸伎樂。忽然之間<lb
  n="0340b24" ed="T"/>於髮際中化出一天女。顏容端正伎藝第一。<lb
  n="0340b25" ed="T"/>一切諸天無能勝者。於大眾中而作是言。我<lb
@@ -57,12 +57,12 @@
  n="0340b28" ed="T"/>就。我有祕密陀羅尼法要。今當說之即說陀<lb
  n="0340b29" ed="T"/>羅尼曰。<pb n="0340c" id="T21.1280.0340c" ed="T"/><lb
  n="0340c01" ed="T"/></ab>
-<ab type="dharani">曩謨榅支摩貌施佉地尾鉢羅鉢地野<lb
+<ab type='dharani'>曩謨榅支摩貌施佉地尾鉢羅鉢地野<lb
  n="0340c02" ed="T"/>試迦囉者嚕啉怛儞野他濕<lb
  n="0340c03" ed="T"/>嚩惹底㘑吠囉摩惹哩儞吽發吒娑<lb
  n="0340c04" ed="T"/>嚩賀<lb
  n="0340c05" ed="T"/></ab>
-<ab type="prose">是時眾伎藝天女。說此陀羅尼已。告諸天眾。<lb
+<ab type='prose'>是時眾伎藝天女。說此陀羅尼已。告諸天眾。<lb
  n="0340c06" ed="T"/>若欲誦持我此陀羅尼者。先須建立道場如<lb
  n="0340c07" ed="T"/>法嚴飾。種種香花以為供養。於二七日或一<lb
  n="0340c08" ed="T"/>七日。受持齋戒斷其婬欲。誦此陀羅尼滿其<lb
@@ -159,7 +159,7 @@
  n="0341c12" ed="T"/>先畫我壇并畫我像安置壇中。如法供養即<lb
  n="0341c13" ed="T"/>疾證驗即疾成就。</ab></div><lb
  n="0341c14" ed="T"/><head>大自在天女畫像法</head><lb
- n="0341c15" ed="T"/><ab type="prose">先畫摩醯首羅天王。三面六臂顏貌奇特端<lb
+ n="0341c15" ed="T"/><ab type='prose'>先畫摩醯首羅天王。三面六臂顏貌奇特端<lb
  n="0341c16" ed="T"/>正可畏。從其髮際化生一天女。殊妙可喜天<lb
  n="0341c17" ed="T"/>上人間無能勝者。著天衣服瓔珞嚴身兩手<lb
  n="0341c18" ed="T"/>腕上。各有鐶釧左手向上捧一天花。右手向<lb
@@ -185,10 +185,10 @@
  n="0342a09" ed="T"/>手背。二頭指微蹙頭似寶。二大指頭並來去。<lb
  n="0342a10" ed="T"/>即成誦請召明曰。<lb
  n="0342a11" ed="T"/></ab>
-<ab type="dharani">曩謨摩醯濕嚩羅野榅支摩冒試<lb
+<ab type='dharani'>曩謨摩醯濕嚩羅野榅支摩冒試<lb
  n="0342a12" ed="T"/>佉野曀醯呬娑嚩賀<lb
  n="0342a13" ed="T"/></ab>
-<ab type="prose">結此印已。隨誦此明七遍。請召本天與諸眷<lb
+<ab type='prose'>結此印已。隨誦此明七遍。請召本天與諸眷<lb
  n="0342a14" ed="T"/>屬。悉皆降至種種加備。<lb
  n="0342a15" ed="T"/>次結神通攝召一切印。以右手中指直竪。次<lb
  n="0342a16" ed="T"/>以名指苾在中指後。以頭指鉤召指頭。以大<lb
@@ -216,5 +216,5 @@
  n="0342b09" ed="T"/>若畫壇時。於壇四面地上畫作五色綵雲。如<lb
  n="0342b10" ed="T"/>捧壇從地踴出勢。<lb
  n="0342b11" ed="T"/>
-</ab><ab type="juan" subtype="close">摩醯首羅頂生天女法</ab></div>
+</ab><ab type='juan' subtype='close'>摩醯首羅頂生天女法</ab></div>
 </body></text></TEI>

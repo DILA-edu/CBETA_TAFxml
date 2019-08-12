@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0449</idno>
                 </bibl>
@@ -39,13 +39,13 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0401a" ed="T" id="T14.0449.0401a"/><lb
  n="0401a01" ed="T"/><lb
  n="0401a02" ed="T"/><lb
- n="0401a03" ed="T"/><div type="xu" level="2"><head>藥師如來本願功德經序</head><lb
+ n="0401a03" ed="T"/><div type='xu' level='2'><head>藥師如來本願功德經序</head><lb
  n="0401a04" ed="T"/><lb
- n="0401a05" ed="T"/><ab type="prose">藥師如來本願經者，致福消災之要法也；曼<lb
+ n="0401a05" ed="T"/><ab type='prose'>藥師如來本願經者，致福消災之要法也；曼<lb
  n="0401a06" ed="T"/>殊以慈悲之力請說尊號，如來以利物之心<lb
  n="0401a07" ed="T"/>盛陳功業；十二大願彰因行之弘遠，七寶莊<lb
  n="0401a08" ed="T"/>嚴顯果德之純淨；憶念稱名則眾苦咸脫，祈<lb
@@ -65,17 +65,17 @@
  n="0401a22" ed="T"/>深義人人共解，彼佛名號處處遍聞，十二夜<lb
  n="0401a23" ed="T"/>叉念佛恩而護國，七千眷屬承經力以利民，<lb
  n="0401a24" ed="T"/>帝祚遐永，群生安樂，式貽來世序云爾。</ab></div><lb
- n="0401a25" ed="T"/><div type="w" level="2"><head>佛說藥師如來本願經</head><lb
- n="0401a26" ed="T"/><ab type="prose">新翻藥師經，大業十二年十二月八日，沙<lb
+ n="0401a25" ed="T"/><div type='w' level='2'><head>佛說藥師如來本願經</head><lb
+ n="0401a26" ed="T"/><ab type='prose'>新翻藥師經，大業十二年十二月八日，沙<lb
  n="0401a27" ed="T"/>門慧矩等六人，於東都洛水南上林園譯<lb
  n="0401a28" ed="T"/>出。此本最定，諸讀誦者願莫更疑，得罪<lb
  n="0401a29" ed="T"/>不輕。</ab></div><pb n="0401b" ed="T" id="T14.0449.0401b"/><lb
  n="0401b01" ed="T"/><lb
  n="0401b02" ed="T"/>
-<ab type="juan" subtype="open">佛說藥師如來本願經</ab><lb
+<ab type='juan' subtype='open'>佛說藥師如來本願經</ab><lb
  n="0401b03" ed="T"/><lb
  n="0401b04" ed="T"/><byline>隋天竺三藏達摩笈多譯</byline><lb
- n="0401b05" ed="T"/><div type="jing" level="2"><ab type="prose">如是我聞：一時婆伽婆遊行人間至毘舍<lb
+ n="0401b05" ed="T"/><div type='jing' level='2'><ab type='prose'>如是我聞：一時婆伽婆遊行人間至毘舍<lb
  n="0401b06" ed="T"/>離國住樂音樹下，與大比丘眾八千人俱、<lb
  n="0401b07" ed="T"/>菩薩三萬六千、國王、大臣、婆羅門、居士、天龍、<lb
  n="0401b08" ed="T"/>阿修羅、揵達婆、伽樓茶、緊那羅、摩呼羅伽等，<lb
@@ -342,7 +342,7 @@
  n="0404b08" ed="T"/>爾時，眾中有十二夜叉大將，俱在會坐，所<lb
  n="0404b09" ed="T"/>謂：<lb
  n="0404b10" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 宮毘羅大將、　　跋折羅大將、　　<lb
  n="0404b11" ed="T"/>迷佉羅大將、　　安捺羅大將、　　<lb
  n="0404b12" ed="T"/>安怛羅大將、　　摩涅羅大將、　　<lb
@@ -350,7 +350,7 @@
  n="0404b14" ed="T"/>摩呼羅大將、　　真達羅大將、　　<lb
  n="0404b15" ed="T"/>招度羅大將、　　鼻羯羅大將，　　
 </ab><lb
- n="0404b16" ed="T"/><ab type="prose">此等十二夜叉大將，一一各有七千夜叉以<lb
+ n="0404b16" ed="T"/><ab type='prose'>此等十二夜叉大將，一一各有七千夜叉以<lb
  n="0404b17" ed="T"/>為眷屬，皆同一聲白世尊言：「我等今者蒙<lb
  n="0404b18" ed="T"/>佛威力，得聞世尊藥師琉璃光如來名號<lb
  n="0404b19" ed="T"/>已，不復更有惡道之怖。我今相與皆同一<lb
@@ -372,5 +372,5 @@
  n="0404c06" ed="T"/>士，及一切大眾阿修羅、揵達婆等，聞佛所說，<lb
  n="0404c07" ed="T"/>歡喜奉行。</ab></div><lb
  n="0404c08" ed="T"/>
-<ab type="juan" subtype="close">佛說藥師如來本願經</ab></div>
+<ab type='juan' subtype='close'>佛說藥師如來本願經</ab></div>
 </body></text></TEI>

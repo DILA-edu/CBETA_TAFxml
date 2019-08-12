@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T04</biblScope>
                     <idno type="Taisho">T04n0209</idno>
                 </bibl>
@@ -39,17 +39,17 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0543a" ed="T" id="T04.0209.0543a"/><lb
  n="0543a01" ed="T"/><lb
  n="0543a02" ed="T"/><lb
  n="0543a03" ed="T"/><lb
  n="0543a04" ed="T"/>
-<ab type="juan" subtype="open">百喻經卷第一</ab><lb
+<ab type='juan' subtype='open'>百喻經卷第一</ab><lb
  n="0543a05" ed="T"/><lb
  n="0543a06" ed="T"/><byline>尊者僧伽斯那撰</byline><lb
  n="0543a07" ed="T"/><byline>蕭齊天竺三藏求那毘地譯</byline><lb
- n="0543a08" ed="T"/><ab type="prose">愚人食鹽喻　愚人集牛乳喻　以梨打破頭<lb
+ n="0543a08" ed="T"/><ab type='prose'>愚人食鹽喻　愚人集牛乳喻　以梨打破頭<lb
  n="0543a09" ed="T"/>喻　婦詐語稱死喻　渴見水喻　子死欲停<lb
  n="0543a10" ed="T"/>置家中喻　認人為兄喻　山羗偷官庫喻<lb
  n="0543a11" ed="T"/>　歎父德行喻　三重樓喻　婆羅門殺子喻<lb
@@ -318,8 +318,8 @@
  n="0546a13" ed="T"/>現子。」愚人亦爾，為未生樂自投火坑，種種<lb
  n="0546a14" ed="T"/>害身為得生天。<lb
  n="0546a15" ed="T"/>
-</ab><ab type="juan" subtype="close">百喻經卷第一</ab><lb
- n="0546a16" ed="T"/><div type="w" level="2"><ab type="prose">聞如是：一時佛在王舍城，在鵲封竹園，<lb
+</ab><ab type='juan' subtype='close'>百喻經卷第一</ab><lb
+ n="0546a16" ed="T"/><div type='w' level='2'><ab type='prose'>聞如是：一時佛在王舍城，在鵲封竹園，<lb
  n="0546a17" ed="T"/>與諸大比丘菩薩摩訶薩及諸八部三萬六<lb
  n="0546a18" ed="T"/>千人俱。是時會中有異學梵志五百人俱，<lb
  n="0546a19" ed="T"/>從座而起白佛言：「吾聞佛道洪深，無能及<lb
@@ -347,11 +347,11 @@
  n="0546b12" ed="T"/><lb
  n="0546b13" ed="T"/><lb
  n="0546b14" ed="T"/>
-<ab type="juan" subtype="open">百喻經卷第二</ab><lb
+<ab type='juan' subtype='open'>百喻經卷第二</ab><lb
  n="0546b15" ed="T"/><lb
  n="0546b16" ed="T"/><byline>尊者僧伽斯那撰</byline><lb
  n="0546b17" ed="T"/><byline>蕭齊天竺三藏求那毘地譯</byline><lb
- n="0546b18" ed="T"/><ab type="prose">入海取沈水喻　賊盜錦繡用裹氀褐喻<lb
+ n="0546b18" ed="T"/><ab type='prose'>入海取沈水喻　賊盜錦繡用裹氀褐喻<lb
  n="0546b19" ed="T"/>　種熬胡麻子喻　水火喻　人効王眼瞤喻<lb
  n="0546b20" ed="T"/>　治鞭瘡喻　為婦貿鼻喻　貧人燒麤褐衣喻<lb
  n="0546b21" ed="T"/>　牧羊人喻　雇借瓦師喻　估客偷金喻<lb
@@ -611,15 +611,15 @@
  n="0549b14" ed="T"/>求果報，空無所得。若能修行善行及以布<lb
  n="0549b15" ed="T"/>施持戒禪定，便得離苦獲得道果。<lb
  n="0549b16" ed="T"/>
-</ab><ab type="juan" subtype="close">百喻經卷第二</ab><lb
+</ab><ab type='juan' subtype='close'>百喻經卷第二</ab><lb
  n="0549b17" ed="T"/><lb
  n="0549b18" ed="T"/><lb
  n="0549b19" ed="T"/>
-<ab type="juan" subtype="open">百喻經卷第三</ab><lb
+<ab type='juan' subtype='open'>百喻經卷第三</ab><lb
  n="0549b20" ed="T"/><lb
  n="0549b21" ed="T"/><byline>尊者僧伽斯那撰</byline><lb
  n="0549b22" ed="T"/><byline>蕭齊天竺三藏求那毘地譯</byline><lb
- n="0549b23" ed="T"/><ab type="prose">估客駝死喻　磨大石喻　欲食半餅喻　奴<lb
+ n="0549b23" ed="T"/><ab type='prose'>估客駝死喻　磨大石喻　欲食半餅喻　奴<lb
  n="0549b24" ed="T"/>守門喻　偷犛牛喻　貧人能作鴛鴦鳴喻<lb
  n="0549b25" ed="T"/>　野干為折樹枝所打喻　小兒爭分別毛喻<lb
  n="0549b26" ed="T"/>　醫治脊僂喻<lb
@@ -820,7 +820,7 @@
  n="0551c18" ed="T"/>如是漸冉乃至日沒，觀瓶不已失於衣食。<lb
  n="0551c19" ed="T"/>愚人亦爾，修理家務不覺非常。<lb
  n="0551c20" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 今日營此事，　　明日造彼業，　　<lb
  n="0551c21" ed="T"/>諸佛大龍出，　　雷音遍世間，　　<lb
  n="0551c22" ed="T"/>法雨無障礙，　　緣事故不聞。　　<lb
@@ -831,7 +831,7 @@
  n="0551c27" ed="T"/>永無解脫時。　　
 </ab><lb
  n="0551c28" ed="T"/><head>（六〇）見水底金影喻</head><lb
- n="0551c29" ed="T"/><ab type="prose">昔有癡人往大池所，見水底影有真金像，<pb n="0552a" ed="T" id="T04.0209.0552a"/><lb
+ n="0551c29" ed="T"/><ab type='prose'>昔有癡人往大池所，見水底影有真金像，<pb n="0552a" ed="T" id="T04.0209.0552a"/><lb
  n="0552a01" ed="T"/>謂呼有金，即入水中撓泥求覓。疲極不得，<lb
  n="0552a02" ed="T"/>還出復坐。須臾水清又現金色，復更入裏撓<lb
  n="0552a03" ed="T"/>泥更求覓，亦復不得。其如是，父覓子得來<lb
@@ -841,14 +841,14 @@
  n="0552a07" ed="T"/>於樹上，所以知之，影現水底。其父言曰：「必<lb
  n="0552a08" ed="T"/>飛鳥銜金著於樹上。」即隨父語，上樹求得。<lb
  n="0552a09" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 凡夫愚癡人，　　無智亦如是，　　<lb
  n="0552a10" ed="T"/>於無我陰中，　　橫生有我想；　　<lb
  n="0552a11" ed="T"/>如彼見金影，　　勤苦而求覓，　　<lb
  n="0552a12" ed="T"/>徒勞無所得。　　
 </ab><lb
  n="0552a13" ed="T"/><head>（六一）梵天弟子造物因喻</head><lb
- n="0552a14" ed="T"/><ab type="prose">婆羅門眾皆言：「大梵天王是世間父，能造萬<lb
+ n="0552a14" ed="T"/><ab type='prose'>婆羅門眾皆言：「大梵天王是世間父，能造萬<lb
  n="0552a15" ed="T"/>物。」造萬物主者有弟子，言我亦能造萬物，<lb
  n="0552a16" ed="T"/>實是愚癡自謂有智。語梵天言：「我欲造<lb
  n="0552a17" ed="T"/>萬物。」梵天王語言：「莫作此意，汝不能造。」不<lb
@@ -957,15 +957,15 @@
  n="0553b04" ed="T"/>此，況復善心歡喜布施？是故應當於福田<lb
  n="0553b05" ed="T"/>所勤心修施。<lb
  n="0553b06" ed="T"/>
-</ab><ab type="juan" subtype="close">百喻經卷第三</ab><lb
+</ab><ab type='juan' subtype='close'>百喻經卷第三</ab><lb
  n="0553b07" ed="T"/><lb
  n="0553b08" ed="T"/><lb
  n="0553b09" ed="T"/>
-<ab type="juan" subtype="open">百喻經卷第四</ab><lb
+<ab type='juan' subtype='open'>百喻經卷第四</ab><lb
  n="0553b10" ed="T"/><lb
  n="0553b11" ed="T"/><byline>尊者僧伽斯那撰</byline><lb
  n="0553b12" ed="T"/><byline>蕭齊天竺三藏求那毘地譯</byline><lb
- n="0553b13" ed="T"/><ab type="prose">口誦乘船法而不解用喻　夫婦食餅共為<lb
+ n="0553b13" ed="T"/><ab type='prose'>口誦乘船法而不解用喻　夫婦食餅共為<lb
  n="0553b14" ed="T"/>要喻　共相怨害喻　効其祖先急速食喻<lb
  n="0553b15" ed="T"/>　甞菴婆羅果喻　為二婦故喪其兩目喻　唵<lb
  n="0553b16" ed="T"/>米決口喻　詐言馬死喻　出家凡夫貪利養<lb
@@ -1249,14 +1249,14 @@
  n="0556c04" ed="T"/>墮三惡道，如彼愚人還為其主奪錢而去。<lb
  n="0556c05" ed="T"/>如偈所說：<lb
  n="0556c06" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「今日營此事，　　明日造彼事，　　<lb
  n="0556c07" ed="T"/>樂著不觀苦，　　不覺死賊至。　　<lb
  n="0556c08" ed="T"/>怱怱營眾務，　　凡人無不爾，　　<lb
  n="0556c09" ed="T"/>如彼數錢者，　　其事亦如是。」　　
 </ab><lb
  n="0556c10" ed="T"/><head>（九一）貧兒欲與富等財物喻</head><lb
- n="0556c11" ed="T"/><ab type="prose">昔有一貧人少有財物，見大富者意欲共<lb
+ n="0556c11" ed="T"/><ab type='prose'>昔有一貧人少有財物，見大富者意欲共<lb
  n="0556c12" ed="T"/>等，不能等故，雖有少財欲棄水中。傍人<lb
  n="0556c13" ed="T"/>語言：「此物雖尠，可得延君性命數日，何故<lb
  n="0556c14" ed="T"/>捨棄擲著水中？」世間愚人亦復如是，雖得<lb
@@ -1345,7 +1345,7 @@
  n="0557c10" ed="T"/>脫。」如是愚人不諦思惟，便用其語身壞命<lb
  n="0557c11" ed="T"/>終墮三惡道，如彼小兒擲龜水中。<lb
  n="0557c12" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 此論我所造，　　合和喜笑語，　　<lb
  n="0557c13" ed="T"/>多損正實說，　　觀義應不應。　　<lb
  n="0557c14" ed="T"/>如似苦毒藥，　　和合於石蜜，　　<lb
@@ -1359,7 +1359,7 @@
  n="0557c22" ed="T"/>戲笑如葉裹，　　實義在其中，　　<lb
  n="0557c23" ed="T"/>智者取正義，　　戲笑便應棄。　　
 </ab><lb
- n="0557c24" ed="T"/><ab type="prose">尊者僧伽斯那造作癡花鬘竟。<lb
+ n="0557c24" ed="T"/><ab type='prose'>尊者僧伽斯那造作癡花鬘竟。<lb
  n="0557c25" ed="T"/>
-</ab><ab type="juan" subtype="close">百喻經卷第四</ab></div>
+</ab><ab type='juan' subtype='close'>百喻經卷第四</ab></div>
 </body></text></TEI>

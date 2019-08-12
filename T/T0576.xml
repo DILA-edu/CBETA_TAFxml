@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T14</biblScope>
                     <idno type="Taisho">T14n0576</idno>
                 </bibl>
@@ -44,10 +44,10 @@
  n="0949a21" ed="T"/><lb
  n="0949a22" ed="T"/><lb
  n="0949a23" ed="T"/>
-<ab type="juan" subtype="open">佛說轉有經</ab><lb
+<ab type='juan' subtype='open'>佛說轉有經</ab><lb
  n="0949a24" ed="T"/><lb
  n="0949a25" ed="T"/><byline>元魏天竺三藏佛陀扇多譯</byline><lb
- n="0949a26" ed="T"/><div type="jing" level="1"><ab type="prose">如是我聞：一時，婆伽婆住王舍城迦蘭陀竹<lb
+ n="0949a26" ed="T"/><div type='jing' level='1'><ab type='prose'>如是我聞：一時，婆伽婆住王舍城迦蘭陀竹<lb
  n="0949a27" ed="T"/>林，大比丘眾之所圍遶，一千二百五十人俱，<lb
  n="0949a28" ed="T"/>菩薩摩訶薩無量無邊。爾時，摩伽陀王頻婆<lb
  n="0949a29" ed="T"/>娑羅出王舍城，往至迦蘭陀竹林住處。到<pb n="0949b" ed="T" id="T14.0576.0949b"/><lb
@@ -81,7 +81,7 @@
  n="0949b28" ed="T"/>心，識心順行隨在何處所受業報即往受故。」<lb
  n="0949b29" ed="T"/>爾時，世尊而說偈言：<pb n="0949c" ed="T" id="T14.0576.0949c"/><lb
  n="0949c01" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「善逝後說時，　　所有諸言語，　　<lb
  n="0949c02" ed="T"/>皆是假名說，　　假名想住故。　　<lb
  n="0949c03" ed="T"/>離於言語法，　　而無有可說，　　<lb
@@ -95,9 +95,9 @@
  n="0949c11" ed="T"/>世間我慢說，　　名本空無名，　　<lb
  n="0949c12" ed="T"/>一切法無名，　　而以假名說。」　　
 </ab><lb
- n="0949c13" ed="T"/><ab type="prose">說此法門時，頻婆娑羅王，及諸大眾、人、天、<lb
+ n="0949c13" ed="T"/><ab type='prose'>說此法門時，頻婆娑羅王，及諸大眾、人、天、<lb
  n="0949c14" ed="T"/>龍、神、乾闥婆等，聞佛所說，皆大歡喜，信受<lb
  n="0949c15" ed="T"/>奉行。</ab></div><lb
  n="0949c16" ed="T"/>
-<ab type="juan" subtype="close">佛說轉有經</ab>
+<ab type='juan' subtype='close'>佛說轉有經</ab>
 </body></text></TEI>

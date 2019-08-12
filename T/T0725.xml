@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T17</biblScope>
                     <idno type="Taisho">T17n0725</idno>
                 </bibl>
@@ -43,12 +43,12 @@
  n="0452c01" ed="T"/><lb
  n="0452c02" ed="T"/><lb
  n="0452c03" ed="T"/>
-<ab type="juan" subtype="open">佛說六道伽陀經</ab><lb
+<ab type='juan' subtype='open'>佛說六道伽陀經</ab><lb
  n="0452c04" ed="T"/><lb
  n="0452c05" ed="T"/><byline>西天中印度摩伽陀國那爛陀寺<lb
  n="0452c06" ed="T"/>三藏傳教大師賜紫沙門臣法天<lb
  n="0452c07" ed="T"/>奉　詔譯</byline><lb
- n="0452c08" ed="T"/><div type="jing" level="1"><ab type="verse">
+ n="0452c08" ed="T"/><div type='jing' level='1'><ab type='verse'>
 歸命一切佛，　　及諸菩薩眾，　　<lb
  n="0452c09" ed="T"/>願開正智慧，　　憶念佛功德。　　<lb
  n="0452c10" ed="T"/>歸依三界尊，　　身口意三業，　　<lb
@@ -124,9 +124,9 @@
  n="0453b22" ed="T"/>破結善種子，　　身口意俱罪，　　<lb
  n="0453b23" ed="T"/>智者勿作罪，　　地獄相如是。　　
 </ab><lb
- n="0453b24" ed="T"/><ab type="prose">地獄品頌竟。<lb
+ n="0453b24" ed="T"/><ab type='prose'>地獄品頌竟。<lb
  n="0453b25" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 牛驢猿猴等，　　鳩鴿鵝鴨身，　　<lb
  n="0453b26" ed="T"/>行恚與貪婬，　　獲報斯如是。　　<lb
  n="0453b27" ed="T"/>犲狼猛虎犳，　　蝮蝎及毒蛇，　　<lb
@@ -136,9 +136,9 @@
  n="0453c02" ed="T"/>如是傍生等，　　增益惡三業，　　<lb
  n="0453c03" ed="T"/>墜墮焰魔界，　　獲報斯如是。　　
 </ab><lb
- n="0453c04" ed="T"/><ab type="prose">傍生品頌竟。<lb
+ n="0453c04" ed="T"/><ab type='prose'>傍生品頌竟。<lb
  n="0453c05" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 障他布施福，　　偷盜於飲食，　　<lb
  n="0453c06" ed="T"/>墮在布怛那，　　飢虛為餓鬼。　　<lb
  n="0453c07" ed="T"/>愚癡慳鄙人，　　我慢乏禮樂，　　<lb
@@ -174,9 +174,9 @@
  n="0454a08" ed="T"/>慳貪瞋果報，　　餓鬼藥叉等，　　<lb
  n="0454a09" ed="T"/>苦樂隨自因，　　諸惡不須作。　　
 </ab><lb
- n="0454a10" ed="T"/><ab type="prose">餓鬼品頌竟。<lb
+ n="0454a10" ed="T"/><ab type='prose'>餓鬼品頌竟。<lb
  n="0454a11" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 天及修羅人，　　福壽有差等，　　<lb
  n="0454a12" ed="T"/>樂求生天者，　　堅持八齋戒，　　<lb
  n="0454a13" ed="T"/>快樂壽命長，　　遠離疾病苦。　　<lb
@@ -242,15 +242,15 @@
  n="0454c15" ed="T"/>寂靜心恬澹，　　一切善出生，　　<lb
  n="0454c16" ed="T"/>報應果不虛，　　速成離苦道。　　
 </ab><lb
- n="0454c17" ed="T"/><ab type="prose">人趣品頌竟。<lb
+ n="0454c17" ed="T"/><ab type='prose'>人趣品頌竟。<lb
  n="0454c18" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 諂誑行毀禁，　　毒害鬪諍深，　　<lb
  n="0454c19" ed="T"/>廣縱於無明，　　必墮修羅趣。　　
 </ab><lb
- n="0454c20" ed="T"/><ab type="prose">修羅品頌竟。<lb
+ n="0454c20" ed="T"/><ab type='prose'>修羅品頌竟。<lb
  n="0454c21" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 棄名利歡樂，　　遠離於親眷，　　<lb
  n="0454c22" ed="T"/>持禁中下品，　　生彼四王天。　　<lb
  n="0454c23" ed="T"/>父母親族等，　　種種作供養，　　<lb
@@ -273,5 +273,5 @@
  n="0455a11" ed="T"/>通達真實義，　　必至大解脫。　　
 </ab></div><lb
  n="0455a12" ed="T"/>
-<ab type="juan" subtype="close">佛說六道伽陀經</ab>
+<ab type='juan' subtype='close'>佛說六道伽陀經</ab>
 </body></text></TEI>

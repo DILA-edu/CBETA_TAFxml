@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T15</biblScope>
                     <idno type="Taisho">T15n0609</idno>
                 </bibl>
@@ -44,11 +44,11 @@
  n="0237c15" ed="T"/><lb
  n="0237c16" ed="T"/><lb
  n="0237c17" ed="T"/>
-<ab type="juan" subtype="open">禪要經</ab><lb
+<ab type='juan' subtype='open'>禪要經</ab><lb
  n="0237c18" ed="T"/><lb
  n="0237c19" ed="T"/><byline>失譯人名在後漢錄</byline><lb
- n="0237c20" ed="T"/><div type="pin" level="1"><head>訶欲品第一</head><lb
- n="0237c21" ed="T"/><ab type="prose">行者求道欲修定時，爾時法師應隨根相行<lb
+ n="0237c20" ed="T"/><div type='pin' level='1'><head>訶欲品第一</head><lb
+ n="0237c21" ed="T"/><ab type='prose'>行者求道欲修定時，爾時法師應隨根相行<lb
  n="0237c22" ed="T"/>四攝道，示教利喜、廣淨信戒。淨信戒已，次除<lb
  n="0237c23" ed="T"/>六欲。所謂：色欲、形容欲、威儀欲、言聲欲、細<lb
  n="0237c24" ed="T"/>滑欲、人相欲。著上五欲，令觀可得不淨之<lb
@@ -109,7 +109,7 @@
  n="0238b21" ed="T"/>羅漢已，婦將伎人盛自莊飾欲壞目連。目連<lb
  n="0238b22" ed="T"/>爾時為說偈言：<lb
  n="0238b23" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「汝身骨幹立，　　皮肉相纏裹，　　<lb
  n="0238b24" ed="T"/>不淨內充滿，　　無一是妙物。　　<lb
  n="0238b25" ed="T"/>皮囊盛屎尿，　　九孔常流血，　　<lb
@@ -117,13 +117,13 @@
  n="0238b27" ed="T"/>汝身如行廁，　　薄皮以自覆，　　<lb
  n="0238b28" ed="T"/>智者所棄遠，　　如人捨廁去。　　<lb
  n="0238b29" ed="T"/>若人知汝身，　　如我所惡厭，　　<pb n="0238c" ed="T" id="T15.0609.0238c"/><lb
- n="0238c01" ed="T"/>一切皆遠離，　　知人避屎坑。　　<lb
+ n="0238c01" ed="T"/>一切皆遠離，　　如人避屎坑。　　<lb
  n="0238c02" ed="T"/>汝身自嚴飾，　　香花以瓔珞，　　<lb
  n="0238c03" ed="T"/>凡愚所貪愛，　　智者所不惑。　　<lb
  n="0238c04" ed="T"/>汝是不淨聚，　　集諸穢惡物，　　<lb
  n="0238c05" ed="T"/>雖服珍妙衣，　　如莊嚴廁舍。　　<lb
  n="0238c06" ed="T"/>汝脇肋著脊，　　如椽依梁棟，　　<lb
- n="0238c07" ed="T"/>五藏在復內，　　不淨如屎篋。　　<lb
+ n="0238c07" ed="T"/>五藏在腹內，　　不淨如屎篋。　　<lb
  n="0238c08" ed="T"/>我觀汝不淨，　　猶如五色糞，　　<lb
  n="0238c09" ed="T"/>飾以珠瓔珞，　　外好如畫瓶。　　<lb
  n="0238c10" ed="T"/>若人欲染空，　　終始不可著，　　<lb
@@ -157,10 +157,10 @@
  n="0239a09" ed="T"/>俗人樂恩愛，　　道以為怨家，　　<lb
  n="0239a10" ed="T"/>富貴是苦本，　　如鳥墮網羅。　　<lb
  n="0239a11" ed="T"/>人命甚速駛，　　五馬不能追，　　<lb
- n="0239a12" ed="T"/>殘命日滅盡，　　各各自思惟。　　<lb
+ n="0239a12" ed="T"/>殘命日減盡，　　各各自思惟。　　<lb
  n="0239a13" ed="T"/>恩愛正合會，　　夫盛當有衰，　　<lb
  n="0239a14" ed="T"/>是故自拔出，　　得道當來歸。」　　
 </ab></div><lb
  n="0239a15" ed="T"/>
-<ab type="juan" subtype="close">禪要經</ab>
+<ab type='juan' subtype='close'>禪要經</ab>
 </body></text></TEI>

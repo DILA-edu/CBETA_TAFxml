@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T19</biblScope>
                     <idno type="Taisho">T19n0955</idno>
                 </bibl>
@@ -42,21 +42,21 @@
         <body><lb
  n="0313b19" ed="T"/><lb
  n="0313b20" ed="T"/><lb
- n="0313b21" ed="T"/><div type="jing" level="1"><lb
+ n="0313b21" ed="T"/><div type='jing' level='1'><lb
  n="0313b22" ed="T"/>
-<ab type="juan" subtype="open">一字頂輪王瑜伽觀行儀軌一<lb
+<ab type='juan' subtype='open'>一字頂輪王瑜伽觀行儀軌一<lb
  n="0313b23" ed="T"/>卷</ab><lb
  n="0313b24" ed="T"/><lb
  n="0313b25" ed="T"/><byline>開府儀同三司特進試鴻臚卿<lb
  n="0313b26" ed="T"/>肅國公食邑三千戶賜紫贈司<lb
  n="0313b27" ed="T"/>空謚大鑒正號大廣智大興善<lb
  n="0313b28" ed="T"/>寺三藏沙門不空奉　詔譯</byline><lb
- n="0313b29" ed="T"/><ab type="prose">真言行者若求安怛陀娜。應作是念。我云<pb n="0313c" id="T19.0955.0313c" ed="T"/><lb
+ n="0313b29" ed="T"/><ab type='prose'>真言行者若求安怛陀娜。應作是念。我云<pb n="0313c" id="T19.0955.0313c" ed="T"/><lb
  n="0313c01" ed="T"/>何能速取成就。當習是三摩地。所謂一切法<lb
  n="0313c02" ed="T"/>無色。猶如虛空性自成就。作如是勝解。當如<lb
  n="0313c03" ed="T"/>本教淨治地等。作是三摩地。<lb
  n="0313c04" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 普遍三千界　　充滿智成水　　<lb
  n="0313c05" ed="T"/>有大寶蓮華　　開敷在水中　　<lb
  n="0313c06" ed="T"/>寶莖如須彌　　上方珠網覆　　<lb
@@ -125,7 +125,7 @@
  n="0314b10" ed="T"/>我讚如雷聲　　分明稱吽字　　<lb
  n="0314b11" ed="T"/>我說金剛部　　
 </ab><lb
- n="0314b12" ed="T"/><ab type="prose">亦通摩醯首羅。念誦者成就南摩尼羯磨。<lb
+ n="0314b12" ed="T"/><ab type='prose'>亦通摩醯首羅。念誦者成就南摩尼羯磨。<lb
  n="0314b13" ed="T"/>此部念誦。如鈴鐸聲。如箜篌聲笛聲。如<lb
  n="0314b14" ed="T"/>舞動瓔珞聲。其聲如孔雀鳴。如一切部法<lb
  n="0314b15" ed="T"/>中。相應一切義。成如是音聲。而作念誦。與<lb
@@ -234,5 +234,5 @@
  n="0315c10" ed="T"/>焚燒一切罪。以真言色火。當離疑分別。求<lb
  n="0315c11" ed="T"/>大樂棄小樂。慇懃慧菩提。住真言儀則。<lb
  n="0315c12" ed="T"/>
-</ab><ab type="juan" subtype="close">一字頂輪王瑜伽觀行儀軌一卷</ab></div>
+</ab><ab type='juan' subtype='close'>一字頂輪王瑜伽觀行儀軌一卷</ab></div>
 </body></text></TEI>

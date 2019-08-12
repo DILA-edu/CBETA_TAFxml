@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T10</biblScope>
                     <idno type="Taisho">T10n0295</idno>
                 </bibl>
@@ -41,12 +41,12 @@
     <text>
         <body><pb n="0876b" ed="T" id="T10.0295.0876b"/><lb
  n="0876b01" ed="T"/><lb
- n="0876b02" ed="T"/><div type="jing" level="1"><lb
+ n="0876b02" ed="T"/><div type='jing' level='1'><lb
  n="0876b03" ed="T"/>
-<ab type="juan" subtype="open">大方廣佛華嚴經入法界品</ab><lb
+<ab type='juan' subtype='open'>大方廣佛華嚴經入法界品</ab><lb
  n="0876b04" ed="T"/><lb
  n="0876b05" ed="T"/><byline>唐天竺三藏地婆訶羅譯</byline><lb
- n="0876b06" ed="T"/><ab type="prose">爾時，摩耶夫人復告善財童子言：「善男子！於<lb
+ n="0876b06" ed="T"/><ab type='prose'>爾時，摩耶夫人復告善財童子言：「善男子！於<lb
  n="0876b07" ed="T"/>此世界三十三天，有王名正念，王有童女，名<lb
  n="0876b08" ed="T"/>天主光，汝詣彼問，云何菩薩學菩薩行、修菩<lb
  n="0876b09" ed="T"/>薩道？」時善財童子，敬受其教，頭面作禮，繞無<lb
@@ -262,5 +262,5 @@
  n="0878c16" ed="T"/>說。」時童子童女說自解脫已，諸善根力不思<lb
  n="0878c17" ed="T"/>議故，令善財身，柔軟光澤。</ab></div><lb
  n="0878c18" ed="T"/>
-<ab type="juan" subtype="close">大方廣佛華嚴經入法界品一卷</ab>
+<ab type='juan' subtype='close'>大方廣佛華嚴經入法界品一卷</ab>
 </body></text></TEI>

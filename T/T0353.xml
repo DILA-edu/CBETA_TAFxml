@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T12</biblScope>
                     <idno type="Taisho">T12n0353</idno>
                 </bibl>
@@ -39,16 +39,16 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0217a" id="T12.0353.0217a" ed="T"/><lb
  n="0217a01" ed="T"/><lb
  n="0217a02" ed="T"/><lb
  n="0217a03" ed="T"/>
-<ab type="juan" subtype="open">勝鬘師子吼一乘大方便方廣經</ab><lb
+<ab type='juan' subtype='open'>勝鬘師子吼一乘大方便方廣經</ab><lb
  n="0217a04" ed="T"/><lb
  n="0217a05" ed="T"/><byline>宋中印度三藏求那跋陀羅譯</byline><lb
  n="0217a06" ed="T"/><head>如來真實義功德章第一</head><lb
- n="0217a07" ed="T"/><ab type="prose">如是我聞：一時，佛住舍衛國祇樹給孤獨園。<lb
+ n="0217a07" ed="T"/><ab type='prose'>如是我聞：一時，佛住舍衛國祇樹給孤獨園。<lb
  n="0217a08" ed="T"/>時，波斯匿王及末利夫人信法未久，共相謂<lb
  n="0217a09" ed="T"/>言：「勝鬘夫人是我之女，聰慧利根，通敏易悟，<lb
  n="0217a10" ed="T"/>若見佛者必速解法，心得無疑。宜時遣信，<lb
@@ -58,7 +58,7 @@
  n="0217a14" ed="T"/>內敬授勝鬘。勝鬘得書歡喜頂受，讀誦受<lb
  n="0217a15" ed="T"/>持，生希有心，向旃提羅而說偈言：<lb
  n="0217a16" ed="T"/></ab>
-<ab type="verse">
+<ab type='verse'>
 「我聞佛音聲，　　世所未曾有；　　<lb
  n="0217a17" ed="T"/>所言真實者，　　應當修供養。　　<lb
  n="0217a18" ed="T"/>仰惟佛世尊！　　普為世間出；　　<lb
@@ -84,7 +84,7 @@
  n="0217b09" ed="T"/>「我已作功德，　　現在及餘世；　　<lb
  n="0217b10" ed="T"/>如是眾善本，　　唯願見攝受。」　　
 </ab><lb
- n="0217b11" ed="T"/><ab type="prose">爾時，勝鬘及諸眷屬，頭面禮佛，佛於眾中<lb
+ n="0217b11" ed="T"/><ab type='prose'>爾時，勝鬘及諸眷屬，頭面禮佛，佛於眾中<lb
  n="0217b12" ed="T"/>即為受記：「汝歎如來真實功德，以此善根，<lb
  n="0217b13" ed="T"/>當於無量阿僧祇劫天人之中為自在王，<lb
  n="0217b14" ed="T"/>一切生處常得見我，現前讚歎如今無異。<lb
@@ -366,7 +366,7 @@
  n="0220b29" ed="T"/>長；若無明住地斷者，過恒沙等如來菩提智<pb n="0220c" id="T12.0353.0220c" ed="T"/><lb
  n="0220c01" ed="T"/>所應斷法，皆亦隨斷。如是一切煩惱、上煩<lb
  n="0220c02" ed="T"/>惱斷，過恒沙等如來所得一切諸法，通達無<lb
- n="0220c03" ed="T"/>礙一切智見，離一切過惡，得一切功德。法王<lb
+ n="0220c03" ed="T"/>礙一切知見，離一切過惡，得一切功德。法王<lb
  n="0220c04" ed="T"/>法主，而得自在，登一切法自在之地。如來、<lb
  n="0220c05" ed="T"/>應、等正覺正師子吼：『我生已盡，梵行已立，所<lb
  n="0220c06" ed="T"/>作已辦，不受後有。』是故世尊以師子吼依<lb
@@ -611,6 +611,6 @@
  n="0223b13" ed="T"/>大會，天、人、阿修羅、乾闥婆等，聞佛所說，歡喜<lb
  n="0223b14" ed="T"/>奉行。<lb
  n="0223b15" ed="T"/>
-</ab><ab type="juan" subtype="close">勝鬘師子吼一乘大方便方廣經</ab><lb
- n="0223b16" ed="T"/><div type="w" level="2"><ab type="prose"></ab></div></div>
+</ab><ab type='juan' subtype='close'>勝鬘師子吼一乘大方便方廣經</ab><lb
+ n="0223b16" ed="T"/><div type='w' level='2'><ab type='prose'></ab></div></div>
 </body></text></TEI>

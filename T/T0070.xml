@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T01</biblScope>
                     <idno type="Taisho">T01n0070</idno>
                 </bibl>
@@ -41,12 +41,12 @@
     <text>
         <body><lb
  n="0875a09" ed="T"/><lb
- n="0875a10" ed="T"/><div type="jing" level="1"><lb
+ n="0875a10" ed="T"/><div type='jing' level='1'><lb
  n="0875a11" ed="T"/>
-<ab type="juan" subtype="open">佛說數經</ab><lb
+<ab type='juan' subtype='open'>佛說數經</ab><lb
  n="0875a12" ed="T"/><lb
  n="0875a13" ed="T"/><byline>西晉沙門釋法炬譯</byline><lb
- n="0875a14" ed="T"/><ab type="prose">聞如是：一時，婆伽婆在舍衛城東園中鹿講<lb
+ n="0875a14" ed="T"/><ab type='prose'>聞如是：一時，婆伽婆在舍衛城東園中鹿講<lb
  n="0875a15" ed="T"/>堂。彼時數婆羅門，中食後行彷徉，而行至世<lb
  n="0875a16" ed="T"/>尊所。到已，共世尊面相慰勞。面相慰勞已，却<lb
  n="0875a17" ed="T"/>坐一面。彼數婆羅門却坐一面已，白世尊曰：<lb
@@ -169,5 +169,5 @@
  n="0876b18" ed="T"/>今自歸。」佛如是說。常數目犍連婆羅門聞佛<lb
  n="0876b19" ed="T"/>所說，歡喜而樂。<lb
  n="0876b20" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說數經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說數經</ab></div>
 </body></text></TEI>

@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T17</biblScope>
                     <idno type="Taisho">T17n0804</idno>
                 </bibl>
@@ -43,11 +43,11 @@
  n="0749b01" ed="T"/><lb
  n="0749b02" ed="T"/><lb
  n="0749b03" ed="T"/>
-<ab type="juan" subtype="open">佛說解憂經</ab><lb
+<ab type='juan' subtype='open'>佛說解憂經</ab><lb
  n="0749b04" ed="T"/><lb
- n="0749b05" ed="T"/><byline>西天譯經三藏朝散大夫鴻臚卿<lb
+ n="0749b05" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚卿<lb
  n="0749b06" ed="T"/>傳教大師臣法天奉　詔譯</byline><lb
- n="0749b07" ed="T"/><div type="jing" level="1"><ab type="verse">
+ n="0749b07" ed="T"/><div type='jing' level='1'><ab type='verse'>
 稽首歸依正等覺，　　能度無邊大苦海。　　<lb
  n="0749b08" ed="T"/>恒以甘露潤群生，　　令得涅槃我頂禮。　　<lb
  n="0749b09" ed="T"/>稽首歸依正法藏，　　能止無邊苦惱因，　　<lb
@@ -55,7 +55,7 @@
  n="0749b11" ed="T"/>稽首歸依大苾芻，　　能與世間為福聚，　　<lb
  n="0749b12" ed="T"/>發行勤修安樂因，　　善斷輪迴我頂禮。　　
 </ab><lb
- n="0749b13" ed="T"/><ab type="verse">
+ n="0749b13" ed="T"/><ab type='verse'>
 愛別離最苦，　　憂火鎮燒然，　　<lb
  n="0749b14" ed="T"/>若欲自安心，　　端居作觀想。　　<lb
  n="0749b15" ed="T"/>譬如群鳥獸，　　暫聚各分飛，　　<lb
@@ -89,13 +89,13 @@
  n="0749c14" ed="T"/>龍居深海裏，　　眷屬常圍繞，　　<lb
  n="0749c15" ed="T"/>金翅鳥能食，　　別離苦亦爾。　　<lb
  n="0749c16" ed="T"/>或人往他界，　　欲避於無常，　　<lb
- n="0749c17" ed="T"/>如入磨竭魚，　　口中求安隱。　　<lb
+ n="0749c17" ed="T"/>如入摩竭魚，　　口中求安隱。　　<lb
  n="0749c18" ed="T"/>如是欲色界，　　及彼非非想，　　<lb
  n="0749c19" ed="T"/>未有於一物，　　不被無常吞。　　<lb
  n="0749c20" ed="T"/>唯有正等覺，　　是真依仗處，　　<lb
  n="0749c21" ed="T"/>信受汝諦聽，　　能解諸憂惱。　　
 </ab><lb
- n="0749c22" ed="T"/><ab type="prose">如是我聞：一時佛在舍衛國祇樹給孤獨園。<lb
+ n="0749c22" ed="T"/><ab type='prose'>如是我聞：一時佛在舍衛國祇樹給孤獨園。<lb
  n="0749c23" ed="T"/>爾時世尊告苾芻言：「眾生無數，輪迴無邊，如<lb
  n="0749c24" ed="T"/>蟻循環，無有窮盡。眾生貪愛，無明障閉，如陷<lb
  n="0749c25" ed="T"/>泥中，而不能出。過去有情，輪迴往復，數不能<lb
@@ -104,7 +104,7 @@
  n="0749c28" ed="T"/>子孫，每一人下一泥丸，如是泥丸下盡，父母<lb
  n="0749c29" ed="T"/>子孫數不能盡。苾芻！如是無邊輪迴眾生，貪<pb n="0750a" ed="T" id="T17.0804.0750a"/><lb
  n="0750a01" ed="T"/>愛無明，顛倒陷愛欲泥中，生死輪迴，不知其<lb
- n="0750a02" ed="T"/>數，是知令汝學斷輪迴。」佛言：「苾芻！如是補特<lb
+ n="0750a02" ed="T"/>數，是故令汝學斷輪迴。」佛言：「苾芻！如是補特<lb
  n="0750a03" ed="T"/>伽羅輪迴眾生以骨作聚，如妙高山，不壞不<lb
  n="0750a04" ed="T"/>爛。如是無學聲聞，證四聖諦，了知此苦，真實<lb
  n="0750a05" ed="T"/>為苦、苦滅，證苦聖諦。彼補特伽羅見此屍骨<lb
@@ -139,5 +139,5 @@
  n="0750b05" ed="T"/>於意云何？為與一切有情止息輪迴故。」苾芻<lb
  n="0750b06" ed="T"/>聞已，信受奉行。</ab></div><lb
  n="0750b07" ed="T"/>
-<ab type="juan" subtype="close">佛說解憂經</ab>
+<ab type='juan' subtype='close'>佛說解憂經</ab>
 </body></text></TEI>

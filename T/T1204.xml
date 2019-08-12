@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1204</idno>
                 </bibl>
@@ -39,18 +39,18 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <lb
  n="0031a18" ed="T"/><lb
  n="0031a19" ed="T"/><lb
  n="0031a20" ed="T"/><lb
- n="0031a21" ed="T"/><div type="jing" level="2"><lb
+ n="0031a21" ed="T"/><div type='jing' level='2'><lb
  n="0031a22" ed="T"/>
-<ab type="juan" subtype="open">聖無動尊一字出生八大童子祕<lb
+<ab type='juan' subtype='open'>聖無動尊一字出生八大童子祕<lb
  n="0031a23" ed="T"/>要法品</ab><lb
  n="0031a24" ed="T"/><lb
  n="0031a25" ed="T"/><byline>大興善寺翻經院述</byline><lb
- n="0031a26" ed="T"/><ab type="prose">金剛手言。一切眾生意想不同。或順或逆。是<lb
+ n="0031a26" ed="T"/><ab type='prose'>金剛手言。一切眾生意想不同。或順或逆。是<lb
  n="0031a27" ed="T"/>故如來現慈怒身。隨作利益。解云。諸佛大悲<lb
  n="0031a28" ed="T"/>愍眾生故。即於順者以順而勸。若於逆者<lb
  n="0031a29" ed="T"/>以逆而制也。一佛住忿怒三昧。時十方諸佛<pb n="0031b" id="T21.1204.0031b" ed="T"/><lb
@@ -97,61 +97,61 @@
  n="0031c13" ed="T"/>勝悉地。<lb
  n="0031c14" ed="T"/>慧光童子菩薩真言曰。<lb
  n="0031c15" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄙖嚩􄦽日囉二合􄗥摩􄕝帝􈁊入縛二合􄙊攞<lb
+<ab type='dharani'>􇩂唵􄙖嚩􄦽日囉二合􄗥摩􄕝帝􈁊入縛二合􄙊攞<lb
  n="0031c16" ed="T"/><lb
  n="0031c17" ed="T"/>􄗕菩􄕽地􄑾質􆽕多􄖩曩<lb
  n="0031c18" ed="T"/><lb
  n="0031c19" ed="T"/></ab>
-<ab type="prose">慧喜菩薩真言曰。<lb
+<ab type='prose'>慧喜菩薩真言曰。<lb
  n="0031c20" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄗽囉􅑈怛曩二合􄗥摩􄕝帝􄙺娑􈃁度􄗥摩􄚩訶􄗥摩<lb
+<ab type='dharani'>􇩂唵􄗽囉􅑈怛曩二合􄗥摩􄕝帝􄙺娑􈃁度􄗥摩􄚩訶􄗥摩<lb
  n="0031c21" ed="T"/><lb
  n="0031c22" ed="T"/>􄕍抳􄗰莫<lb
  n="0031c23" ed="T"/><lb
  n="0031c24" ed="T"/></ab>
-<ab type="prose">阿耨達菩薩真言曰。<lb
+<ab type='prose'>阿耨達菩薩真言曰。<lb
  n="0031c25" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄖵鉢􇪯納麼二合􄙺薩􅞣嚩􄕰娜引􄚨賀􄪼鉢囉二合<lb
+<ab type='dharani'>􇩂唵􄖵鉢􇪯納麼二合􄙺薩􅞣嚩􄕰娜引􄚨賀􄪼鉢囉二合<lb
  n="0031c26" ed="T"/><lb
  n="0031c27" ed="T"/>􄙢捨􄗧弭􄖩曩􄗥摩􄚩訶􄕻達􈆺摩􄚦三<lb
  n="0031c28" ed="T"/><pb n="0032a" id="T21.1204.0032a" ed="T"/><lb
  n="0032a01" ed="T"/></ab>
-<ab type="prose">指德童子菩薩真言曰。<lb
+<ab type='prose'>指德童子菩薩真言曰。<lb
  n="0032a02" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄑀羯􈆺羅摩二合􄗥摩􄚩訶􄙝吠􅝩哩耶􄖵鉢<lb
+<ab type='dharani'>􇩂唵􄑀羯􈆺羅摩二合􄗥摩􄚩訶􄙝吠􅝩哩耶􄖵鉢<lb
  n="0032a03" ed="T"/><lb
  n="0032a04" ed="T"/>􄙀哩􈁂布􄗽囉􄑀迦􄗯滿<lb
  n="0032a05" ed="T"/><lb
  n="0032a06" ed="T"/></ab>
-<ab type="prose">烏俱婆誐童子真言曰。<lb
+<ab type='prose'>烏俱婆誐童子真言曰。<lb
  n="0032a07" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄙖嚩􄦽日囉二合􄙺薩􄽙埵婆􇇳烏􄑄俱􄗙婆􄑘誐<lb
+<ab type='dharani'>􇩂唵􄙖嚩􄦽日囉二合􄙺薩􄽙埵婆􇇳烏􄑄俱􄗙婆􄑘誐<lb
  n="0032a08" ed="T"/><lb
  n="0032a09" ed="T"/>􄗥摩􄚩訶􄚥燥􄛌企耶二合􄕗多<lb
  n="0032a10" ed="T"/><lb
  n="0032a11" ed="T"/></ab>
-<ab type="prose">清淨比丘使者真言曰。<lb
+<ab type='prose'>清淨比丘使者真言曰。<lb
  n="0032a12" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄗥摩􄕍尼􄙘尾􄙫輸􄕻馱􄕻達􈆺摩􄑄俱􄙂嚕<lb
+<ab type='dharani'>􇩂唵􄗥摩􄕍尼􄙘尾􄙫輸􄕻馱􄕻達􈆺摩􄑄俱􄙂嚕<lb
  n="0032a13" ed="T"/><lb
  n="0032a14" ed="T"/>􄗽囉􄚴乞叉􄕻達􈆺摩􄙖嚩<lb
  n="0032a15" ed="T"/><lb
  n="0032a16" ed="T"/></ab>
-<ab type="prose">矜羯囉童子真言曰。<lb
+<ab type='prose'>矜羯囉童子真言曰。<lb
  n="0032a17" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄕻達􈆺嚕麼􈁅矜􄑀羯􄗽囉􄕙底􆵋瑟吒<lb
+<ab type='dharani'>􇩂唵􄕻達􈆺嚕麼􈁅矜􄑀羯􄗽囉􄕙底􆵋瑟吒<lb
  n="0032a18" ed="T"/><lb
  n="0032a19" ed="T"/>􄦽日囉二合<lb
  n="0032a20" ed="T"/><lb
  n="0032a21" ed="T"/></ab>
-<ab type="prose">制多迦童子真言曰。<lb
+<ab type='prose'>制多迦童子真言曰。<lb
  n="0032a22" ed="T"/></ab>
-<ab type="dharani">􇩂唵􄑀羯􈆺嚕麼􄑾制􄓚吒􄑀迦􆿁吽􈅼吽􄗁發􈁆吒<lb
+<ab type='dharani'>􇩂唵􄑀羯􈆺嚕麼􄑾制􄓚吒􄑀迦􆿁吽􈅼吽􄗁發􈁆吒<lb
  n="0032a23" ed="T"/><lb
  n="0032a24" ed="T"/>􄕕南<lb
  n="0032a25" ed="T"/><lb
  n="0032a26" ed="T"/></ab>
-<ab type="prose">次本尊真言曰。<lb
+<ab type='prose'>次本尊真言曰。<lb
  n="0032a27" ed="T"/>􇩂唵􆿅阿􄑼左􄙊囉􄑼贊􆧽拏􈁅唅<lb
  n="0032a28" ed="T"/><lb
  n="0032a29" ed="T"/>次說像法。<pb n="0032b" id="T21.1204.0032b" ed="T"/><lb
@@ -217,8 +217,8 @@
  n="0033a03" ed="T"/>者是世大樂。是眾生師。三摩地現前。速證<lb
  n="0033a04" ed="T"/>無上正等菩提。<lb
  n="0033a05" ed="T"/>
-</ab><ab type="juan" subtype="close">聖無動尊一字出生八大童子祕要法品</ab></div><lb
- n="0033a06" ed="T"/><div type="w" level="2"><ab type="prose">享保二十龍飛乙卯清明念八日。竊點師<lb
+</ab><ab type='juan' subtype='close'>聖無動尊一字出生八大童子祕要法品</ab></div><lb
+ n="0033a06" ed="T"/><div type='w' level='2'><ab type='prose'>享保二十龍飛乙卯清明念八日。竊點師<lb
  n="0033a07" ed="T"/>傳刊行焉。而無異本可以校者。則以其未<lb
  n="0033a08" ed="T"/>正冠書之。以備後人之取捨。冀為訂之。<lb
  n="0033a09" ed="T"/>　　　日域豐山長谷輪下桑門無等識</ab></div></div>

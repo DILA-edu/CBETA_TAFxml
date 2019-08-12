@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T21</biblScope>
                     <idno type="Taisho">T21n1411</idno>
                 </bibl>
@@ -42,13 +42,13 @@
         <body><lb
  n="0926b03" ed="T"/><lb
  n="0926b04" ed="T"/><lb
- n="0926b05" ed="T"/><div type="dharani" level="1"><lb
+ n="0926b05" ed="T"/><div type='dharani' level='1'><lb
  n="0926b06" ed="T"/>
-<ab type="juan" subtype="open">佛說蓮華眼陀羅尼經</ab><lb
+<ab type='juan' subtype='open'>佛說蓮華眼陀羅尼經</ab><lb
  n="0926b07" ed="T"/><lb
  n="0926b08" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚少卿<lb
  n="0926b09" ed="T"/>傳法大師臣施護奉　詔譯</byline><lb
- n="0926b10" ed="T"/><ab type="dharani">曩謨囉怛曩怛囉夜野曩麼阿<lb
+ n="0926b10" ed="T"/><ab type='dharani'>曩謨囉怛曩怛囉夜野曩麼阿<lb
  n="0926b11" ed="T"/>哩也鉢納摩儞怛囉野怛他<lb
  n="0926b12" ed="T"/>誐哆野曩謨薩哩嚩儞嚩囉拏尾瑟迦<lb
  n="0926b13" ed="T"/>鼻尼󰂛地薩怛嚩野摩賀薩怛嚩<lb
@@ -60,7 +60,7 @@
  n="0926b19" ed="T"/>怛他誐哆底瑟恥帝娑嚩賀麼<lb
  n="0926b20" ed="T"/>麼薩哩嚩薩怛嚩難左娑嚩賀<lb
  n="0926b21" ed="T"/></ab>
-<ab type="prose">此蓮華眼陀羅尼。若復有人於其晨朝恭敬<lb
+<ab type='prose'>此蓮華眼陀羅尼。若復有人於其晨朝恭敬<lb
  n="0926b22" ed="T"/>供養。及念此陀羅尼一百八遍。一日二日乃<lb
  n="0926b23" ed="T"/>至三七日志心持誦。一切罪障悉皆除滅。<lb
  n="0926b24" ed="T"/>亦不患其眼病耳病鼻舌身病。心不邪亂。復<lb
@@ -69,5 +69,5 @@
  n="0926b27" ed="T"/>恒發菩提心。與諸聖眾常得見佛。而聽妙法<lb
  n="0926b28" ed="T"/>直至菩提道場圓滿正覺。<lb
  n="0926b29" ed="T"/>
-</ab><ab type="juan" subtype="close">佛說蓮華眼陀羅尼經</ab></div>
+</ab><ab type='juan' subtype='close'>佛說蓮華眼陀羅尼經</ab></div>
 </body></text></TEI>

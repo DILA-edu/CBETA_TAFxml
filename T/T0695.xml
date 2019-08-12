@@ -18,9 +18,9 @@
                 <publisher>法鼓佛教學院</publisher>
                 <address>
                     <addrLine>20842 新北市金山區法鼓路620號</addrLine>
-                    <addrLine>da@ddbc.edu.tw</addrLine>
+                    <addrLine>da@dila.edu.tw</addrLine>
                 </address>
-                <date>2012-2013</date>
+                <date>2012-2016</date>
                 <availability>
                     <p>This document is published under a CC Attribution-Share Alike License</p>
                 </availability>
@@ -31,7 +31,7 @@
                     <editor>Chinese Buddhist Electornic Text Association (CBETA)</editor>
                     <pubPlace>臺灣‧臺北</pubPlace>
                     <publisher>Chinese Buddhist Electornic Text Association (CBETA)</publisher>
-                    <date>2011</date>
+                    <date>2015-10-15</date>
                     <biblScope type="vol">T16</biblScope>
                     <idno type="Taisho">T16n0695</idno>
                 </bibl>
@@ -39,15 +39,15 @@
         </fileDesc>
     </teiHeader>
     <text>
-        <body><div level="1">
+        <body><div level='1'>
 <pb n="0796c" ed="T" id="T16.0695.0796c"/><lb
  n="0796c01" ed="T"/><lb
  n="0796c02" ed="T"/><lb
  n="0796c03" ed="T"/>
-<ab type="juan" subtype="open">佛說灌洗佛形像經</ab><lb
+<ab type='juan' subtype='open'>佛說灌洗佛形像經</ab><lb
  n="0796c04" ed="T"/><lb
  n="0796c05" ed="T"/><byline>西晉沙門釋法炬譯</byline><lb
- n="0796c06" ed="T"/><div type="jing" level="2"><ab type="prose">爾時佛告摩訶剎頭諸天人民：「皆一心聽。」佛<lb
+ n="0796c06" ed="T"/><div type='jing' level='2'><ab type='prose'>爾時佛告摩訶剎頭諸天人民：「皆一心聽。」佛<lb
  n="0796c07" ed="T"/>言：「人身難得，無為道亦然，佛世難值。吾本<lb
  n="0796c08" ed="T"/>從阿僧祇劫時，身為白衣累劫積德，每生自<lb
  n="0796c09" ed="T"/>剋展轉五道，不貪財寶棄身施與無所愛惜。<lb
@@ -115,8 +115,8 @@
  n="0797b13" ed="T"/>家債主不得妄害。口舌消滅皆令厭伏，令其<lb
  n="0797b14" ed="T"/>精進莫得中悔，行如菩薩得道如佛。」</ab></div><lb
  n="0797b15" ed="T"/>
-<ab type="juan" subtype="close">佛說灌洗佛形像經</ab><lb
- n="0797b16" ed="T"/><div type="w" level="2"><ab type="prose">此經宋藏題云摩訶剎頭經聖堅譯，今按《開<lb
+<ab type='juan' subtype='close'>佛說灌洗佛形像經</ab><lb
+ n="0797b16" ed="T"/><div type='w' level='2'><ab type='prose'>此經宋藏題云摩訶剎頭經聖堅譯，今按《開<lb
  n="0797b17" ed="T"/>元錄》，宋藏錯亂，故依丹本改為灌洗佛形<lb
  n="0797b18" ed="T"/>像經，法炬譯。又宋藏此經初首即云「摩訶<lb
  n="0797b19" ed="T"/>剎等乃至二紙經文」，全是《摩訶剎頭經》文，<lb
