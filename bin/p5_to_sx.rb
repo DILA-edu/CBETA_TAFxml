@@ -35,6 +35,7 @@ end
 
 def convert_all
   %w[T J X].each do |canon|
+    $canon = canon
     folder = File.join(IN, canon)
     Dir.entries(folder).sort.each do |vol|
       next if vol.start_with?('.')
@@ -226,7 +227,6 @@ def convert_sutra(folder_in, folder_out, sutra)
   fn = File.join(folder_in, sutra+'.xml')
   new_xml = parse_xml(fn)
   
-  work_id = CBETA.get_work_id_from_file_basename(sutra)
   tei_header = $tei_header_template % {
     title: $title,
     vol: $vol,
@@ -235,7 +235,8 @@ def convert_sutra(folder_in, folder_out, sutra)
   new_xml = tei_header + new_xml
   new_xml += "\n</body></text></TEI>"
   
-  fn = File.join(folder_out, work_id+'.xml')
+  work_id = sutra.sub(/^#{$vol}\d*?n(.*)$/, "#{$canon}\\1")
+  fn = File.join(folder_out, "#{work_id}.xml")
   puts "write #{fn}"
   File.write(fn, new_xml)
 end
@@ -243,11 +244,10 @@ end
 def convert_vol(vol)
   puts "convert vol: #{vol}"
   $vol = vol
-  canon = vol[0]
-  dest = File.join(OUT, canon)
+  dest = File.join(OUT, $canon)
   Dir.mkdir(dest) unless Dir.exist? dest
     
-  source = File.join(IN, canon, vol)
+  source = File.join(IN, $canon, vol)
   Dir.entries(source).sort.each do |f|
     if f.end_with? '.xml'
       $sutra_no = File.basename(f, '.xml')
@@ -283,15 +283,17 @@ else
   if arg.include? '..'
     v1, v2 = ARGV[0].split('..')
   
-    canon = CBETA.get_canon_from_vol(v1)
-    folder = File.join(IN, canon)
+    $canon = CBETA.get_canon_from_vol(v1)
+    folder = File.join(IN, $canon)
     Dir.entries(folder).sort.each do |vol|
       next if vol.start_with? '.'
       next if (vol < v1) or (vol > v2)
       convert_vol(vol)
     end
   else
-    convert_vol(arg.upcase)
+    vol = arg.upcase
+    $canon = CBETA.get_canon_from_vol(vol)
+    convert_vol(vol)
   end
 end
 
