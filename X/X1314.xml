@@ -44,8 +44,7 @@
  ed="X" n="0001a02"/><lb
  ed="X" n="0001a03"/><lb
  ed="X" n="0001a04"/><lb
- ed="R119" n="0194a01"/>
-<ab type='juan' subtype='open'>今刊古尊宿語錄目錄</ab><lb
+ ed="R119" n="0194a01"/><ab type='juan' subtype='open'>今刊古尊宿語錄目錄</ab><lb
  ed="X" n="0001a05"/><lb
  ed="R119" n="0194a02"/><lb
  ed="X" n="0001a06"/><lb
@@ -201,12 +200,11 @@
  ed="X" n="0002a09"/><lb
  ed="R119" n="0196a06"/>佛照奏對錄<lb
  ed="X" n="0002a10"/><lb
- ed="R119" n="0196a07"/><ab type='prose'>新刊增鼓山本撰二十家者。一十六家。總三十六家。<lb
+ ed="R119" n="0196a07"/><ab type="prose">新刊增鼓山本撰二十家者。一十六家。總三十六家。</ab><lb
  ed="X" n="0002a11"/><lb
- ed="R119" n="0196a08"/>又新刊逸白雲端錄。<lb
+ ed="R119" n="0196a08"/><ab type="prose">又新刊逸白雲端錄。</ab><lb
  ed="X" n="0002a12"/><lb
- ed="R119" n="0196a09"/>又正燈錄。楊岐錄所引。古尊宿錄語。此本及續刊楊岐錄不載。然則東陽所覽。又別<lb
+ ed="R119" n="0196a09"/><ab type="prose">又正燈錄。楊岐錄所引。古尊宿錄語。此本及續刊楊岐錄不載。然則東陽所覽。又別<lb
  ed="X" n="0002a14"/><lb
- ed="R119" n="0196a11"/>刊也。</ab></div>
-<ab type='juan' subtype='close'></ab>
+ ed="R119" n="0196a11"/>刊也。</ab></div><ab type='juan' subtype='close'></ab>
 </body></text></TEI>

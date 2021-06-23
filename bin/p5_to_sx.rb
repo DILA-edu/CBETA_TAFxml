@@ -1,6 +1,7 @@
 # 讀 CBETA P5 XML 轉出較簡單的 XML 供文獻分析使用
 # 轉換規則見 simple-xml-rules.md
 # 執行例:
+#  轉全部(J,T,X): ruby p5_to_sx.rb
 #  轉大正藏第三冊: ruby p5_to_sx.rb T03
 #  轉大正藏第三冊至第八冊: ruby p5_to_sx.rb T03..T08
 
@@ -32,6 +33,16 @@ def cb2pua(cb)
   r
 end
 
+def convert_all
+  %w[T J X].each do |canon|
+    folder = File.join(IN, canon)
+    Dir.entries(folder).sort.each do |vol|
+      next if vol.start_with?('.')
+      convert_vol(vol)
+    end
+  end
+end
+
 class P5ToSimpleXML
   def initialize
     @ab_type = nil
@@ -46,7 +57,7 @@ class P5ToSimpleXML
     if divs.size > 1
       @div_level = 1
       r = "<div level='1'>\n" + traverse(e)
-      r += close_ab + '</div>'
+      r += '</div>'
       @div_level = 0
     else
       # 如果 body 只有一個 div, 而這個 div 的 type 是 other, 
@@ -55,11 +66,10 @@ class P5ToSimpleXML
       if div['type'] == 'other'
         @div_level = 1
         r += "<div level='1'>\n" + traverse(e)
-        r += close_ab + '</div>'
+        r += '</div>'
         @div_level = 0
       else
         r += traverse(e)
-        r += close_ab
       end
     end
     r
@@ -75,10 +85,8 @@ class P5ToSimpleXML
       r += traverse(e)
     else
       @div_level += 1
-      r = close_ab
-      r += "<div type='#{e['type']}' level='#{@div_level}'>"
+      r = "<div type='#{e['type']}' level='#{@div_level}'>"
       r += traverse(e)
-      r += close_ab
       @div_level -= 1
       r += '</div>'
     end
@@ -123,8 +131,7 @@ class P5ToSimpleXML
   end
   
   def e_juan(e)
-    r = "\n" + close_ab
-    r += "<ab type='juan' subtype='#{e['fun']}'>"
+    r = "<ab type='juan' subtype='#{e['fun']}'>"
     r += traverse(e) + '</ab>'
   end
   
@@ -134,19 +141,19 @@ class P5ToSimpleXML
   end
   
   def e_lg(e)
-    r = open_ab('verse') + "\n"
+    r = %(<ab type="verse">)
     r += traverse(e)
-    r += "\n" + close_ab
+    r += "</ab>"
   end
   
   def e_p(e)
     r = ''
     if e['type'] == "dharani"
-      r += open_ab("dharani")
+      r += '<ab type="dharani">'
     else
-      r += open_ab("prose")
+      r += '<ab type="prose">'
     end
-    r + traverse(e)
+    r + traverse(e) + '</ab>'
   end
   
   def e_t(e)
@@ -175,27 +182,6 @@ class P5ToSimpleXML
     r
   end
 
-  def open_ab(type)
-    r = ''
-    if @ab_type.nil?
-      r = "<ab type='#{type}'>"
-    elsif @ab_type != type
-      r = "</ab>\n"
-      r += "<ab type='#{type}'>"
-    end
-    @ab_type = type
-    r
-  end
-
-  def close_ab
-    r = ''
-    unless @ab_type.nil?
-      r = '</ab>'
-      @ab_type = nil
-    end
-    r
-  end
-    
   def handle_node(e)
     return '' if e.comment?
     return handle_text(e) if e.text?
@@ -290,19 +276,23 @@ $tei_header_template = File.read('header-template.txt')
 
 Dir.mkdir(OUT) unless Dir.exist? OUT
 
-arg = ARGV[0]
-if arg.include? '..'
-  v1, v2 = ARGV[0].split('..')
-
-  canon = CBETA.get_canon_from_vol(v1)
-  folder = File.join(IN, canon)
-  Dir.entries(folder).sort.each do |vol|
-    next if vol.start_with? '.'
-    next if (vol < v1) or (vol > v2)
-    convert_vol(vol)
-  end
+if ARGV.empty?
+  convert_all
 else
-  convert_vol(arg.upcase)
+  arg = ARGV[0]
+  if arg.include? '..'
+    v1, v2 = ARGV[0].split('..')
+  
+    canon = CBETA.get_canon_from_vol(v1)
+    folder = File.join(IN, canon)
+    Dir.entries(folder).sort.each do |vol|
+      next if vol.start_with? '.'
+      next if (vol < v1) or (vol > v2)
+      convert_vol(vol)
+    end
+  else
+    convert_vol(arg.upcase)
+  end
 end
 
 write_chars

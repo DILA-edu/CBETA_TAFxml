@@ -43,8 +43,7 @@
 <pb ed="X" id="X30.0601.0253a" n="0253a"/><lb
  ed="X" n="0253a01"/><lb
  ed="X" n="0253a02"/><lb
- ed="R047" n="0507a01"/>
-<ab type='juan' subtype='open'>法華經要解科</ab><lb
+ ed="R047" n="0507a01"/><ab type='juan' subtype='open'>法華經要解科</ab><lb
  ed="X" n="0253a03"/><lb
  ed="R047" n="0507a01"/><head>法華經弘傳序科文</head><lb
  ed="X" n="0253a04"/><lb
@@ -124,7 +123,7 @@
  ed="X" n="0253a41"/><lb
  ed="R047" n="0507a01"/><lb
  ed="X" n="0253a42"/><lb
- ed="R047" n="0507a01"/><ab type='prose'>法華經弘傳序科文<lb
+ ed="R047" n="0507a01"/><ab type="prose">法華經弘傳序科文</ab><lb
  ed="X" n="0253a43"/><lb
  ed="R047" n="0507a01"/><pb ed="X" id="X30.0601.0254a" n="0254a"/><lb
  ed="X" n="0254a01"/><lb
@@ -2776,6 +2775,5 @@
  ed="X" n="0275a37"/><lb
  ed="R047" n="0529a01"/><lb
  ed="X" n="0275a38"/><lb
- ed="R047" n="0529a01"/>
-</ab><ab type='juan' subtype='close'>妙法蓮華經解科文</ab></div>
+ ed="R047" n="0529a01"/><ab type='juan' subtype='close'>妙法蓮華經解科文</ab></div>
 </body></text></TEI>

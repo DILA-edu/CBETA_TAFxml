@@ -43,13 +43,12 @@
  ed="X" n="0880b01"/><lb
  ed="X" n="0880b02"/><lb
  ed="X" n="0880b03"/><lb
- ed="R041" n="0943a01"/>
-<ab type='juan' subtype='open'>心經小談</ab><lb
+ ed="R041" n="0943a01"/><ab type='juan' subtype='open'>心經小談</ab><lb
  ed="X" n="0880b04"/><lb
  ed="X" n="0880b05"/><lb
  ed="R041" n="0943a02"/><byline>明　觀衡　述</byline><lb
  ed="X" n="0880b06"/><lb
- ed="R041" n="0943a03"/><div type='' level='1'><ab type='prose'>摩訶般若波羅蜜多心經。此十字乃一經之題目。摩<lb
+ ed="R041" n="0943a03"/><div type='' level='1'><ab type="prose">摩訶般若波羅蜜多心經。此十字乃一經之題目。摩<lb
  ed="X" n="0880b07"/><lb
  ed="R041" n="0943a04"/>訶是梵語。唐言大。般若是梵語。唐言智慧。波羅蜜多<lb
  ed="X" n="0880b08"/><lb
@@ -65,9 +64,9 @@
  ed="X" n="0880b13"/><lb
  ed="R041" n="0943a10"/>也。此方從略。故但云經。故云摩訶般若波羅蜜多心<lb
  ed="X" n="0880b14"/><lb
- ed="R041" n="0943a11"/>經。<lb
+ ed="R041" n="0943a11"/>經。</ab><lb
  ed="X" n="0880b15"/><lb
- ed="R041" n="0943a12"/>觀自在菩薩。即能行般若之人。舉是人以顯般若之<lb
+ ed="R041" n="0943a12"/><ab type="prose">觀自在菩薩。即能行般若之人。舉是人以顯般若之<lb
  ed="X" n="0880b16"/><lb
  ed="R041" n="0943a13"/>法。觀自在三字。是此菩薩別名。菩薩二字是通號。何<lb
  ed="X" n="0880b17"/><lb
@@ -153,16 +152,13 @@
  ed="X" n="0881a09"/><lb
  ed="R041" n="0944a18"/>只觀自在三字盡矣。上顯說。下密說。故說般若波羅<lb
  ed="X" n="0881a10"/><lb
- ed="R041" n="0944b01"/>蜜多呪。即說呪曰。</ab>
-<ab type='dharani'>揭諦揭諦　波羅揭諦　波羅<lb
+ ed="R041" n="0944b01"/>蜜多呪。即說呪曰。</ab><ab type="dharani">揭諦揭諦　波羅揭諦　波羅<lb
  ed="X" n="0881a11"/><lb
- ed="R041" n="0944b02"/>僧揭諦　菩提娑訶</ab>
-<ab type='prose'>上顯說令人依義生慧。密說<lb
+ ed="R041" n="0944b02"/>僧揭諦　菩提娑訶</ab><ab type="prose">上顯說令人依義生慧。密說<lb
  ed="X" n="0881a12"/><lb
- ed="R041" n="0944b03"/>令人持誦生定。定慧均等。脩行備矣。<lb
+ ed="R041" n="0944b03"/>令人持誦生定。定慧均等。脩行備矣。</ab><lb
  ed="X" n="0881a13"/><lb
  ed="R041" n="0944b04"/><lb
  ed="X" n="0881a14"/><lb
- ed="R041" n="0944b05"/>
-</ab><ab type='juan' subtype='close'>心經小談</ab></div>
+ ed="R041" n="0944b05"/><ab type='juan' subtype='close'>心經小談</ab></div>
 </body></text></TEI>

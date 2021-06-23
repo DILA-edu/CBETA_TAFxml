@@ -42,8 +42,7 @@
         <body><pb ed="X" id="X10.0265.0772a" n="0772a"/><lb
  ed="X" n="0772a01"/><lb
  ed="X" n="0772a02"/><lb
- ed="R016" n="0437a01"/>
-<ab type='juan' subtype='open'>大佛頂首楞嚴經科</ab><lb
+ ed="R016" n="0437a01"/><ab type='juan' subtype='open'>大佛頂首楞嚴經科</ab><lb
  ed="X" n="0772a03"/><lb
  ed="R016" n="0437a01"/><byline>長水沙門　子璿　述</byline><lb
  ed="X" n="0772a04"/><lb
@@ -4377,11 +4376,11 @@
  ed="X" n="0807a62"/><lb
  ed="R016" n="0472a01"/><lb
  ed="X" n="0807a63"/><lb
- ed="R016" n="0472a01"/><ab type='prose'>大佛頂首楞嚴科終<lb
+ ed="R016" n="0472a01"/><ab type="prose">大佛頂首楞嚴科終</ab><lb
  ed="X" n="0807a64"/><lb
  ed="R016" n="0472a01"/><pb ed="X" id="X10.0265.0808a" n="0808a"/><lb
  ed="X" n="0808a01"/><lb
- ed="R016" n="0473a01"/>以義立此一科　初題目偈文一也　次十懸談二也　後筆頌三也<lb
+ ed="R016" n="0473a01"/><ab type="prose">以義立此一科　初題目偈文一也　次十懸談二也　後筆頌三也</ab><lb
  ed="X" n="0808a02"/><lb
  ed="R016" n="0473a01"/><lb
  ed="X" n="0808a03"/><lb
@@ -5317,5 +5316,5 @@
  ed="X" n="0814a69"/><lb
  ed="R016" n="0479a01"/>初釋文<lb
  ed="X" n="0814a70"/><lb
- ed="R016" n="0479a01"/>二結示</ab></div>
+ ed="R016" n="0479a01"/>二結示</div>
 </body></text></TEI>

@@ -48,7 +48,7 @@
  ed="R092" n="0811a01"/> 金剛經闡說序</head><lb
  ed="X" n="0868c05"/><lb
  ed="X" n="0868c06"/><lb
- ed="R092" n="0811a02"/><ab type='prose'>余觀註此經者。類皆高談元妙。騁其辭鋒。不顧經文<lb
+ ed="R092" n="0811a02"/><ab type="prose">余觀註此經者。類皆高談元妙。騁其辭鋒。不顧經文<lb
  ed="X" n="0868c07"/><lb
  ed="R092" n="0811a03"/>之上下前後。往往自相矛盾。甚至求深愈晦。欲望其<lb
  ed="X" n="0868c08"/><lb
@@ -76,9 +76,9 @@
  ed="X" n="0868c19"/><lb
  ed="R092" n="0811a15"/>即掃處思。恍然悟本來之自性。佛乃不得已而說也。<lb
  ed="X" n="0868c20"/><lb
- ed="R092" n="0811a16"/>此正如來護念付囑之深意耳。<lb
+ ed="R092" n="0811a16"/>此正如來護念付囑之深意耳。</ab><lb
  ed="X" n="0868c21"/><lb
- ed="R092" n="0811a17"/>嘉慶二十一年秋七月上浣古閩白雲山人存吾<lb
+ ed="R092" n="0811a17"/><ab type="prose">嘉慶二十一年秋七月上浣古閩白雲山人存吾<lb
  ed="X" n="0868c22"/><lb
  ed="R092" n="0811a18"/>氏手題於姑蘇會垣之淨信堂</ab></div><lb
  ed="X" n="0868c23"/><lb
@@ -92,7 +92,7 @@
  ed="R092" n="0811b01"/> 捐刊金剛經闡說序</head><lb
  ed="X" n="0869a07"/><lb
  ed="X" n="0869a08"/><lb
- ed="R092" n="0811b02"/><ab type='prose'>葢聞<lb
+ ed="R092" n="0811b02"/><ab type="prose">葢聞<lb
  ed="X" n="0869a09" type="honorific"/><lb
  ed="R092" n="0811b03"/>佛道宏深。以慈悲而利物。神功廣大。以智慧而覺人。<lb
  ed="X" n="0869a10"/><lb
@@ -132,9 +132,9 @@
  ed="X" n="0869b03"/><lb
  ed="R092" n="0812a03"/>心。少伸蓮舌。俾夫鏤成卷軸。用廣<lb
  ed="X" n="0869b04" type="honorific"/><lb
- ed="R092" n="0812a04"/>如來之慈悲。刷送流傳。大啟眾生之智慧。是為序。<lb
+ ed="R092" n="0812a04"/>如來之慈悲。刷送流傳。大啟眾生之智慧。是為序。</ab><lb
  ed="X" n="0869b05"/><lb
- ed="R092" n="0812a05"/>同治六年歲次丁卯梅夏臺陽洪壽椿敬撰於海<lb
+ ed="R092" n="0812a05"/><ab type="prose">同治六年歲次丁卯梅夏臺陽洪壽椿敬撰於海<lb
  ed="X" n="0869b06"/><lb
  ed="R092" n="0812a06"/>東尋樂山房之西軒</ab></div><lb
  ed="X" n="0869b07"/><lb
@@ -170,15 +170,14 @@
  ed="X" n="0869c01"/><lb
  ed="X" n="0869c02"/><lb
  ed="X" n="0869c03"/><lb
- ed="R092" n="0812b04"/>
-<ab type='juan' subtype='open'>金剛般若波羅蜜經</ab><lb
+ ed="R092" n="0812b04"/><ab type='juan' subtype='open'>金剛般若波羅蜜經</ab><lb
  ed="X" n="0869c04"/><lb
  ed="X" n="0869c05"/><lb
  ed="R092" n="0812b05"/><byline>古閩　白雲山人存吾氏　闡說</byline><lb
  ed="X" n="0869c06"/><lb
  ed="R092" n="0812b06"/><byline>冢孫　滋甫厚基陳氏　校刊</byline><lb
  ed="X" n="0869c07"/><lb
- ed="R092" n="0812b07"/><div type='commentary' level='2'><ab type='prose'>金者。鐵也。剛生金中。百鍊不消。最堅利。能斷壞萬<lb
+ ed="R092" n="0812b07"/><div type='commentary' level='2'><ab type="prose">金者。鐵也。剛生金中。百鍊不消。最堅利。能斷壞萬<lb
  ed="X" n="0869c08"/><lb
  ed="R092" n="0812b08"/>物。譬如智慧。能斷絕貪嗔癡一切顛倒之見。般若。<lb
  ed="X" n="0869c09"/><lb
@@ -192,9 +191,9 @@
  ed="X" n="0869c13"/><lb
  ed="R092" n="0812b13"/>經者梵語脩多羅。</ab></div><lb
  ed="X" n="0869c14"/><lb
- ed="R092" n="0812b14"/><div type='orig' level='2'><ab type='prose'>姚秦三藏法師鳩摩羅什譯</ab></div><lb
+ ed="R092" n="0812b14"/><div type='orig' level='2'><ab type="prose">姚秦三藏法師鳩摩羅什譯</ab></div><lb
  ed="X" n="0869c15"/><lb
- ed="R092" n="0812b15"/><div type='commentary' level='2'><ab type='prose'>姚秦。東晉孝武時小國也。先是符堅秦王。其子丕<lb
+ ed="R092" n="0812b15"/><div type='commentary' level='2'><ab type="prose">姚秦。東晉孝武時小國也。先是符堅秦王。其子丕<lb
  ed="X" n="0869c16"/><lb
  ed="R092" n="0812b16"/>稱帝。為符秦。太元十一年後。秦王姚萇稱帝。十九<lb
  ed="X" n="0869c17"/><lb
@@ -212,9 +211,9 @@
  ed="X" n="0869c23"/><lb
  ed="R092" n="0813a05"/>人諷誦。此經乃鳩摩羅什。所翻譯也。</ab></div><lb
  ed="X" n="0869c24"/><lb
- ed="R092" n="0813a06"/><div type='orig' level='2'><ab type='prose'>如是我聞一時佛在舍衛國洗足已敷座而坐。</ab></div><pb ed="X" id="X25.0508.0870a" n="0870a"/><lb
+ ed="R092" n="0813a06"/><div type='orig' level='2'><ab type="prose">如是我聞一時佛在舍衛國洗足已敷座而坐。</ab></div><pb ed="X" id="X25.0508.0870a" n="0870a"/><lb
  ed="X" n="0870a01"/><lb
- ed="R092" n="0813a07"/><div type='commentary' level='2'><ab type='prose'>梵語佛陀。華言覺者。說此經者。為釋迦牟尼佛。梵<lb
+ ed="R092" n="0813a07"/><div type='commentary' level='2'><ab type="prose">梵語佛陀。華言覺者。說此經者。為釋迦牟尼佛。梵<lb
  ed="X" n="0870a02"/><lb
  ed="R092" n="0813a08"/>語釋迦牟尼。華言能仁寂默。姓剎利氏。父淨飯王。<lb
  ed="X" n="0870a03"/><lb
@@ -262,9 +261,9 @@
  ed="X" n="0870a24"/><lb
  ed="R092" n="0813b12"/>為欲教化眾生。捨離憍慢也。</ab></div><pb ed="X" id="X25.0508.0870b" n="0870b"/><lb
  ed="X" n="0870b01"/><lb
- ed="R092" n="0813b13"/><div type='orig' level='2'><ab type='prose'>時長老須菩提云何應住云何降伏其心。</ab></div><lb
+ ed="R092" n="0813b13"/><div type='orig' level='2'><ab type="prose">時長老須菩提云何應住云何降伏其心。</ab></div><lb
  ed="X" n="0870b02"/><lb
- ed="R092" n="0813b14"/><div type='commentary' level='2'><ab type='prose'>長者。有齒德之稱也。須菩提。華言善現。一言善言。<lb
+ ed="R092" n="0813b14"/><div type='commentary' level='2'><ab type="prose">長者。有齒德之稱也。須菩提。華言善現。一言善言。<lb
  ed="X" n="0870b03"/><lb
  ed="R092" n="0813b15"/>一云空生。其生之日。室家皆空。父母驚異。相師占<lb
  ed="X" n="0870b04"/><lb
@@ -316,17 +315,17 @@
  ed="X" n="0870c03"/><lb
  ed="R092" n="0814b03"/>亂。一經所說。不出此住降而已。</ab></div><lb
  ed="X" n="0870c04"/><lb
- ed="R092" n="0814b04"/><div type='orig' level='2'><ab type='prose'>佛言善哉善哉須菩提唯然世尊願樂欲聞。</ab></div><lb
+ ed="R092" n="0814b04"/><div type='orig' level='2'><ab type="prose">佛言善哉善哉須菩提唯然世尊願樂欲聞。</ab></div><lb
  ed="X" n="0870c05"/><lb
- ed="R092" n="0814b05"/><div type='commentary' level='2'><ab type='prose'>善哉者。嘆其問之切也。諦審也。如是者。指下文所<lb
+ ed="R092" n="0814b05"/><div type='commentary' level='2'><ab type="prose">善哉者。嘆其問之切也。諦審也。如是者。指下文所<lb
  ed="X" n="0870c06"/><lb
  ed="R092" n="0814b06"/>言也。唯。應之速也。然。是其言也。願樂欲聞者。須菩<lb
  ed="X" n="0870c07"/><lb
  ed="R092" n="0814b07"/>提喜之甚。而不覺其詞之複也。</ab></div><lb
  ed="X" n="0870c08"/><lb
- ed="R092" n="0814b08"/><div type='orig' level='2'><ab type='prose'>佛告須菩提菩薩摩訶薩壽者相即非菩薩。</ab></div><lb
+ ed="R092" n="0814b08"/><div type='orig' level='2'><ab type="prose">佛告須菩提菩薩摩訶薩壽者相即非菩薩。</ab></div><lb
  ed="X" n="0870c09"/><lb
- ed="R092" n="0814b09"/><div type='commentary' level='2'><ab type='prose'>此段說降心。先言降而後言住者。猶言。先去私而<lb
+ ed="R092" n="0814b09"/><div type='commentary' level='2'><ab type="prose">此段說降心。先言降而後言住者。猶言。先去私而<lb
  ed="X" n="0870c10"/><lb
  ed="R092" n="0814b10"/>後存理也。然說降而住即在其中。摩訶。華言大也。<lb
  ed="X" n="0870c11"/><lb
@@ -374,9 +373,9 @@
  ed="X" n="0871a08"/><lb
  ed="R092" n="0815a14"/>是壽者相。有四相即是眾生。無四相即是佛。</ab></div><lb
  ed="X" n="0871a09"/><lb
- ed="R092" n="0815a15"/><div type='orig' level='2'><ab type='prose'>復次須菩提菩薩於法菩薩但應如所教住。</ab></div><lb
+ ed="R092" n="0815a15"/><div type='orig' level='2'><ab type="prose">復次須菩提菩薩於法菩薩但應如所教住。</ab></div><lb
  ed="X" n="0871a10"/><lb
- ed="R092" n="0815a16"/><div type='commentary' level='2'><ab type='prose'>復次。謂再偏次佛與須菩提答問之言也。此段說<lb
+ ed="R092" n="0815a16"/><div type='commentary' level='2'><ab type="prose">復次。謂再偏次佛與須菩提答問之言也。此段說<lb
  ed="X" n="0871a11"/><lb
  ed="R092" n="0815a17"/>住心也。然說住而降即在其中。無所住者。心不執<lb
  ed="X" n="0871a12"/><lb
@@ -408,13 +407,13 @@
  ed="X" n="0871b01"/><lb
  ed="R092" n="0815b13"/>蘊也。</ab></div><lb
  ed="X" n="0871b02"/><lb
- ed="R092" n="0815b14"/><div type='orig' level='2'><ab type='prose'>須菩提於意云何所說身相即非身相。</ab></div><lb
+ ed="R092" n="0815b14"/><div type='orig' level='2'><ab type="prose">須菩提於意云何所說身相即非身相。</ab></div><lb
  ed="X" n="0871b03"/><lb
- ed="R092" n="0815b15"/><div type='commentary' level='2'><ab type='prose'>身相即色身。得見如來。謂得見法身。</ab></div><lb
+ ed="R092" n="0815b15"/><div type='commentary' level='2'><ab type="prose">身相即色身。得見如來。謂得見法身。</ab></div><lb
  ed="X" n="0871b04"/><lb
- ed="R092" n="0815b16"/><div type='orig' level='2'><ab type='prose'>佛告須菩提凡有所相若見諸相非相即見如來。</ab></div><lb
+ ed="R092" n="0815b16"/><div type='orig' level='2'><ab type="prose">佛告須菩提凡有所相若見諸相非相即見如來。</ab></div><lb
  ed="X" n="0871b05"/><lb
- ed="R092" n="0815b17"/><div type='commentary' level='2'><ab type='prose'>凡有所相。皆是虗妄四句。經中最要語。即名四句<lb
+ ed="R092" n="0815b17"/><div type='commentary' level='2'><ab type="prose">凡有所相。皆是虗妄四句。經中最要語。即名四句<lb
  ed="X" n="0871b06"/><lb
  ed="R092" n="0815b18"/>偈。即下文所稱章句。以上二段。須菩提領悟身相<lb
  ed="X" n="0871b07"/><lb
@@ -424,9 +423,9 @@
  ed="X" n="0871b09"/><lb
  ed="R092" n="0816a03"/>也。</ab></div><lb
  ed="X" n="0871b10"/><lb
- ed="R092" n="0816a04"/><div type='orig' level='2'><ab type='prose'>須菩提白佛言世尊法尚應捨何況非法。</ab></div><lb
+ ed="R092" n="0816a04"/><div type='orig' level='2'><ab type="prose">須菩提白佛言世尊法尚應捨何況非法。</ab></div><lb
  ed="X" n="0871b11"/><lb
- ed="R092" n="0816a05"/><div type='commentary' level='2'><ab type='prose'>此段。乃佛獎勸學者婆心處。即護念也。通經皆護<lb
+ ed="R092" n="0816a05"/><div type='commentary' level='2'><ab type="prose">此段。乃佛獎勸學者婆心處。即護念也。通經皆護<lb
  ed="X" n="0871b12"/><lb
  ed="R092" n="0816a06"/>念。此其顯云。智度論云。佛法大海。信為能入。葢實<lb
  ed="X" n="0871b13"/><lb
@@ -442,9 +441,9 @@
  ed="X" n="0871b18"/><lb
  ed="R092" n="0816a12"/>船。此言盡之矣。</ab></div><lb
  ed="X" n="0871b19"/><lb
- ed="R092" n="0816a13"/><div type='orig' level='2'><ab type='prose'>須菩提於意何皆以無為法而有差別。</ab></div><lb
+ ed="R092" n="0816a13"/><div type='orig' level='2'><ab type="prose">須菩提於意何皆以無為法而有差別。</ab></div><lb
  ed="X" n="0871b20"/><lb
- ed="R092" n="0816a14"/><div type='commentary' level='2'><ab type='prose'>謝曰。非法。則不有。非非法。則不無。有無並無。理之<lb
+ ed="R092" n="0816a14"/><div type='commentary' level='2'><ab type="prose">謝曰。非法。則不有。非非法。則不無。有無並無。理之<lb
  ed="X" n="0871b21"/><lb
  ed="R092" n="0816a15"/>極也。按此即印無法相亦無非法相之言也。賢者。<lb
  ed="X" n="0871b22"/><lb
@@ -462,9 +461,9 @@
  ed="X" n="0871c04"/><lb
  ed="R092" n="0816b04"/>動也。</ab></div><lb
  ed="X" n="0871c05"/><lb
- ed="R092" n="0816b05"/><div type='orig' level='2'><ab type='prose'>須菩提於意云何是故如來說福德多。</ab></div><lb
+ ed="R092" n="0816b05"/><div type='orig' level='2'><ab type="prose">須菩提於意云何是故如來說福德多。</ab></div><lb
  ed="X" n="0871c06"/><lb
- ed="R092" n="0816b06"/><div type='commentary' level='2'><ab type='prose'>以上二段。是須菩提便悟處。釋典。以此世界之外。<lb
+ ed="R092" n="0816b06"/><div type='commentary' level='2'><ab type="prose">以上二段。是須菩提便悟處。釋典。以此世界之外。<lb
  ed="X" n="0871c07"/><lb
  ed="R092" n="0816b07"/>更有無數世界。統曰大千世界。心地觀經註曰。如<lb
  ed="X" n="0871c08"/><lb
@@ -486,15 +485,15 @@
  ed="X" n="0871c16"/><lb
  ed="R092" n="0816b16"/>多。多則易著。故即遣之。</ab></div><lb
  ed="X" n="0871c17"/><lb
- ed="R092" n="0816b17"/><div type='orig' level='2'><ab type='prose'>若復有人於此經中受持所謂佛法者即非佛法。</ab></div><lb
+ ed="R092" n="0816b17"/><div type='orig' level='2'><ab type="prose">若復有人於此經中受持所謂佛法者即非佛法。</ab></div><lb
  ed="X" n="0871c18"/><lb
- ed="R092" n="0816b18"/><div type='commentary' level='2'><ab type='prose'>此一段。佛言也。偈。釋氏詩詞也。所謂佛法非法。隨<lb
+ ed="R092" n="0816b18"/><div type='commentary' level='2'><ab type="prose">此一段。佛言也。偈。釋氏詩詞也。所謂佛法非法。隨<lb
  ed="X" n="0871c19"/><lb
  ed="R092" n="0817a01"/>說隨掃。一部經如是。</ab></div><lb
  ed="X" n="0871c20"/><lb
- ed="R092" n="0817a02"/><div type='orig' level='2'><ab type='prose'>須菩提於意云何須菩提是樂阿蘭那行。</ab></div><lb
+ ed="R092" n="0817a02"/><div type='orig' level='2'><ab type="prose">須菩提於意云何須菩提是樂阿蘭那行。</ab></div><lb
  ed="X" n="0871c21"/><lb
- ed="R092" n="0817a03"/><div type='commentary' level='2'><ab type='prose'>此段乃入道次第。而須菩提即以自證也。須陀洹。<lb
+ ed="R092" n="0817a03"/><div type='commentary' level='2'><ab type="prose">此段乃入道次第。而須菩提即以自證也。須陀洹。<lb
  ed="X" n="0871c22"/><lb
  ed="R092" n="0817a04"/>華言入流。謂已入聖賢之流果者。譬猶木之有實。<lb
  ed="X" n="0871c23"/><lb
@@ -552,9 +551,9 @@
  ed="X" n="0872b01"/><lb
  ed="R092" n="0817b13"/>以此觀之。亦是下學上達處。</ab></div><lb
  ed="X" n="0872b02"/><lb
- ed="R092" n="0817b14"/><div type='orig' level='2'><ab type='prose'>佛告須菩提於意云何即非莊嚴是名莊嚴。</ab></div><lb
+ ed="R092" n="0817b14"/><div type='orig' level='2'><ab type="prose">佛告須菩提於意云何即非莊嚴是名莊嚴。</ab></div><lb
  ed="X" n="0872b03"/><lb
- ed="R092" n="0817b15"/><div type='commentary' level='2'><ab type='prose'>然燈佛。是世尊授記之師。生時有光於眼耳口鼻<lb
+ ed="R092" n="0817b15"/><div type='commentary' level='2'><ab type="prose">然燈佛。是世尊授記之師。生時有光於眼耳口鼻<lb
  ed="X" n="0872b04"/><lb
  ed="R092" n="0817b16"/>有孔中放出。如燈之明。故號然燈。明心見性。乃是<lb
  ed="X" n="0872b05"/><lb
@@ -564,9 +563,9 @@
  ed="X" n="0872b07"/><lb
  ed="R092" n="0818a01"/>六祖云。本來無一物。何處惹塵埃。</ab></div><lb
  ed="X" n="0872b08"/><lb
- ed="R092" n="0818a02"/><div type='orig' level='2'><ab type='prose'>是故須菩提諸菩薩摩訶薩應無所住而生其心。</ab></div><lb
+ ed="R092" n="0818a02"/><div type='orig' level='2'><ab type="prose">是故須菩提諸菩薩摩訶薩應無所住而生其心。</ab></div><lb
  ed="X" n="0872b09"/><lb
- ed="R092" n="0818a03"/><div type='commentary' level='2'><ab type='prose'>以上二段。云云。千經萬典。大指會歸於此。葢有所<lb
+ ed="R092" n="0818a03"/><div type='commentary' level='2'><ab type="prose">以上二段。云云。千經萬典。大指會歸於此。葢有所<lb
  ed="X" n="0872b10"/><lb
  ed="R092" n="0818a04"/>住而生心。便是墮外道。無所住而不生心。便是斷<lb
  ed="X" n="0872b11"/><lb
@@ -588,9 +587,9 @@
  ed="X" n="0872b19"/><lb
  ed="R092" n="0818a13"/>世尊傳授心法點睛處。</ab></div><lb
  ed="X" n="0872b20"/><lb
- ed="R092" n="0818a14"/><div type='orig' level='2'><ab type='prose'>須菩提譬如有人佛說非身是名大身。</ab></div><lb
+ ed="R092" n="0818a14"/><div type='orig' level='2'><ab type="prose">須菩提譬如有人佛說非身是名大身。</ab></div><lb
  ed="X" n="0872b21"/><lb
- ed="R092" n="0818a15"/><div type='commentary' level='2'><ab type='prose'>須彌華言高妙。此山在四天下之中。高廣三百三<lb
+ ed="R092" n="0818a15"/><div type='commentary' level='2'><ab type="prose">須彌華言高妙。此山在四天下之中。高廣三百三<lb
  ed="X" n="0872b22"/><lb
  ed="R092" n="0818a16"/>十六萬里。日月遶山而行。以為晝夜。由此分四面<lb
  ed="X" n="0872b23"/><lb
@@ -600,9 +599,9 @@
  ed="X" n="0872c01"/><lb
  ed="R092" n="0818b01"/>壞。惟真性無形相。故無得而壞。</ab></div><lb
  ed="X" n="0872c02"/><lb
- ed="R092" n="0818b02"/><div type='orig' level='2'><ab type='prose'>須菩提如恒河中所有沙數而此福德勝前福德。</ab></div><lb
+ ed="R092" n="0818b02"/><div type='orig' level='2'><ab type="prose">須菩提如恒河中所有沙數而此福德勝前福德。</ab></div><lb
  ed="X" n="0872c03"/><lb
- ed="R092" n="0818b03"/><div type='commentary' level='2'><ab type='prose'>恒河西天竺之河。從阿耨地東流出。周迴四十里。<lb
+ ed="R092" n="0818b03"/><div type='commentary' level='2'><ab type="prose">恒河西天竺之河。從阿耨地東流出。周迴四十里。<lb
  ed="X" n="0872c04"/><lb
  ed="R092" n="0818b04"/>沙細如麵。佛多在此處說法。故取以為喻。僧肇曰<lb
  ed="X" n="0872c05"/><lb
@@ -612,9 +611,9 @@
  ed="X" n="0872c07"/><lb
  ed="R092" n="0818b07"/>福也。</ab></div><lb
  ed="X" n="0872c08"/><lb
- ed="R092" n="0818b08"/><div type='orig' level='2'><ab type='prose'>復次須菩提隨說是經即為有佛若尊重弟子。</ab></div><lb
+ ed="R092" n="0818b08"/><div type='orig' level='2'><ab type="prose">復次須菩提隨說是經即為有佛若尊重弟子。</ab></div><lb
  ed="X" n="0872c09"/><lb
- ed="R092" n="0818b09"/><div type='commentary' level='2'><ab type='prose'>天者。十八天人之類。人者。概僧俗而言。阿脩羅。即<lb
+ ed="R092" n="0818b09"/><div type='commentary' level='2'><ab type="prose">天者。十八天人之類。人者。概僧俗而言。阿脩羅。即<lb
  ed="X" n="0872c10"/><lb
  ed="R092" n="0818b10"/>卵胎化濕諸生。謝云封殯法身謂之塔。樹像虗空<lb
  ed="X" n="0872c11"/><lb
@@ -640,9 +639,9 @@
  ed="X" n="0872c21"/><lb
  ed="R092" n="0819a03"/>重經典。領起下文。</ab></div><lb
  ed="X" n="0872c22"/><lb
- ed="R092" n="0819a04"/><div type='orig' level='2'><ab type='prose'>爾時須菩提白佛言世尊是名般若波羅蜜。</ab></div><lb
+ ed="R092" n="0819a04"/><div type='orig' level='2'><ab type="prose">爾時須菩提白佛言世尊是名般若波羅蜜。</ab></div><lb
  ed="X" n="0872c23"/><lb
- ed="R092" n="0819a05"/><div type='commentary' level='2'><ab type='prose'>至此說明經名。顏柄曰。妙明本性。湛若大虗。體既<lb
+ ed="R092" n="0819a05"/><div type='commentary' level='2'><ab type="prose">至此說明經名。顏柄曰。妙明本性。湛若大虗。體既<lb
  ed="X" n="0872c24"/><lb
  ed="R092" n="0819a06"/>尚無。何名之有。如來恐人生斷滅見。不得已而強<pb ed="X" id="X25.0508.0873a" n="0873a"/><lb
  ed="X" n="0873a01"/><lb
@@ -650,9 +649,9 @@
  ed="X" n="0873a02"/><lb
  ed="R092" n="0819a08"/>虗名。</ab></div><lb
  ed="X" n="0873a03"/><lb
- ed="R092" n="0819a09"/><div type='orig' level='2'><ab type='prose'>須菩提於意云何非世界是名世界。</ab></div><lb
+ ed="R092" n="0819a09"/><div type='orig' level='2'><ab type="prose">須菩提於意云何非世界是名世界。</ab></div><lb
  ed="X" n="0873a04"/><lb
- ed="R092" n="0819a10"/><div type='commentary' level='2'><ab type='prose'>謂佛有說法則可。謂佛有所說則不可。玩所字。便<lb
+ ed="R092" n="0819a10"/><div type='commentary' level='2'><ab type="prose">謂佛有說法則可。謂佛有所說則不可。玩所字。便<lb
  ed="X" n="0873a05"/><lb
  ed="R092" n="0819a11"/>有造作的意思。陳雄曰。世尊答文文殊曰。在世離<lb
  ed="X" n="0873a06"/><lb
@@ -660,9 +659,9 @@
  ed="X" n="0873a07"/><lb
  ed="R092" n="0819a13"/>離塵離世也。</ab></div><lb
  ed="X" n="0873a08"/><lb
- ed="R092" n="0819a14"/><div type='orig' level='2'><ab type='prose'>須菩提於意云何即是非相是名三十二相。</ab></div><lb
+ ed="R092" n="0819a14"/><div type='orig' level='2'><ab type="prose">須菩提於意云何即是非相是名三十二相。</ab></div><lb
  ed="X" n="0873a09"/><lb
- ed="R092" n="0819a15"/><div type='commentary' level='2'><ab type='prose'>王日休曰。以上二段云云。三十二相者。般若經曰。<lb
+ ed="R092" n="0819a15"/><div type='commentary' level='2'><ab type="prose">王日休曰。以上二段云云。三十二相者。般若經曰。<lb
  ed="X" n="0873a10"/><lb
  ed="R092" n="0819a16"/>如來足下有平滿相。一。足下千福輪文。無不圓滿。<lb
  ed="X" n="0873a11"/><lb
@@ -712,9 +711,9 @@
  ed="X" n="0873b09"/><lb
  ed="R092" n="0820a03"/>二相。似屬複踏。但無可考。今姑存之。</ab></div><lb
  ed="X" n="0873b10"/><lb
- ed="R092" n="0820a04"/><div type='orig' level='2'><ab type='prose'>須菩提若有善男子離一切相即名諸佛。</ab></div><lb
+ ed="R092" n="0820a04"/><div type='orig' level='2'><ab type="prose">須菩提若有善男子離一切相即名諸佛。</ab></div><lb
  ed="X" n="0873b11"/><lb
- ed="R092" n="0820a05"/><div type='commentary' level='2'><ab type='prose'>此段乃須菩提深讚佛法以勉人處。涕淚非泣者<lb
+ ed="R092" n="0820a05"/><div type='commentary' level='2'><ab type="prose">此段乃須菩提深讚佛法以勉人處。涕淚非泣者<lb
  ed="X" n="0873b12"/><lb
  ed="R092" n="0820a06"/>以如是甚深經典。痛聞之不早也。陳曰。性中具如<lb
  ed="X" n="0873b13"/><lb
@@ -728,9 +727,9 @@
  ed="X" n="0873b17"/><lb
  ed="R092" n="0820a11"/>名諸佛。是須菩提與佛印證處。</ab></div><lb
  ed="X" n="0873b18"/><lb
- ed="R092" n="0820a12"/><div type='orig' level='2'><ab type='prose'>佛告須菩提如是如是是名忍辱波羅蜜。</ab></div><lb
+ ed="R092" n="0820a12"/><div type='orig' level='2'><ab type="prose">佛告須菩提如是如是是名忍辱波羅蜜。</ab></div><lb
  ed="X" n="0873b19"/><lb
- ed="R092" n="0820a13"/><div type='commentary' level='2'><ab type='prose'>此段佛隨舉布施。及忍辱波羅。蜜以示人。僧肇曰。<lb
+ ed="R092" n="0820a13"/><div type='commentary' level='2'><ab type="prose">此段佛隨舉布施。及忍辱波羅。蜜以示人。僧肇曰。<lb
  ed="X" n="0873b20"/><lb
  ed="R092" n="0820a14"/>得大乘聞慧解。一往聞經。身無懼相。故名不驚。得<lb
  ed="X" n="0873b21"/><lb
@@ -752,9 +751,9 @@
  ed="X" n="0873c05"/><lb
  ed="R092" n="0820b05"/>一波羅蜜者也。</ab></div><lb
  ed="X" n="0873c06"/><lb
- ed="R092" n="0820b06"/><div type='orig' level='2'><ab type='prose'>何以故須菩提如我昔為無眾生相無壽者相。</ab></div><lb
+ ed="R092" n="0820b06"/><div type='orig' level='2'><ab type="prose">何以故須菩提如我昔為無眾生相無壽者相。</ab></div><lb
  ed="X" n="0873c07"/><lb
- ed="R092" n="0820b07"/><div type='commentary' level='2'><ab type='prose'>此段佛以現身說法。證忍辱波羅蜜也。歌利。華言<lb
+ ed="R092" n="0820b07"/><div type='commentary' level='2'><ab type="prose">此段佛以現身說法。證忍辱波羅蜜也。歌利。華言<lb
  ed="X" n="0873c08"/><lb
  ed="R092" n="0820b08"/>極惡。如來昔因中。證初地已。山居脩道。王帶宮女<lb
  ed="X" n="0873c09"/><lb
@@ -768,9 +767,9 @@
  ed="X" n="0873c13"/><lb
  ed="R092" n="0820b13"/>如故。王乃歸信受記。或曰。爾時王者。即憍陳如也。</ab></div><lb
  ed="X" n="0873c14"/><lb
- ed="R092" n="0820b14"/><div type='orig' level='2'><ab type='prose'>是故須菩提菩薩應離一切眾生即非眾生。</ab></div><lb
+ ed="R092" n="0820b14"/><div type='orig' level='2'><ab type="prose">是故須菩提菩薩應離一切眾生即非眾生。</ab></div><lb
  ed="X" n="0873c15"/><lb
- ed="R092" n="0820b15"/><div type='commentary' level='2'><ab type='prose'>謝曰。不住色。無財物也。按之六祖曰。菩薩不為來<lb
+ ed="R092" n="0820b15"/><div type='commentary' level='2'><ab type="prose">謝曰。不住色。無財物也。按之六祖曰。菩薩不為來<lb
  ed="X" n="0873c16"/><lb
  ed="R092" n="0820b16"/>望自身五欲快樂。而行布施。但為內破慳心。外利<lb
  ed="X" n="0873c17"/><lb
@@ -782,9 +781,9 @@
  ed="X" n="0873c20"/><lb
  ed="R092" n="0821a02"/>非住者。謂心有所住。即非如來之以不住為住也。</ab></div><lb
  ed="X" n="0873c21"/><lb
- ed="R092" n="0821a03"/><div type='orig' level='2'><ab type='prose'>須菩提如來是真語者此法無實無虗。</ab></div><lb
+ ed="R092" n="0821a03"/><div type='orig' level='2'><ab type="prose">須菩提如來是真語者此法無實無虗。</ab></div><lb
  ed="X" n="0873c22"/><lb
- ed="R092" n="0821a04"/><div type='commentary' level='2'><ab type='prose'>謝曰。真不偽。實無虗。如必當理。不誑則非妄語。不<lb
+ ed="R092" n="0821a04"/><div type='commentary' level='2'><ab type="prose">謝曰。真不偽。實無虗。如必當理。不誑則非妄語。不<lb
  ed="X" n="0873c23"/><lb
  ed="R092" n="0821a05"/>異則始終恒一。聖言不謬。故直脩行也。六祖曰。無<lb
  ed="X" n="0873c24"/><lb
@@ -796,9 +795,9 @@
  ed="X" n="0874a03"/><lb
  ed="R092" n="0821a09"/>法。</ab></div><lb
  ed="X" n="0874a04"/><lb
- ed="R092" n="0821a10"/><div type='orig' level='2'><ab type='prose'>須菩提若菩薩心住於法日光明照見種種色。</ab></div><lb
+ ed="R092" n="0821a10"/><div type='orig' level='2'><ab type="prose">須菩提若菩薩心住於法日光明照見種種色。</ab></div><lb
  ed="X" n="0874a05"/><lb
- ed="R092" n="0821a11"/><div type='commentary' level='2'><ab type='prose'>利令智昏。公能生明。以上三段。皆反覆譬喻。以明<lb
+ ed="R092" n="0821a11"/><div type='commentary' level='2'><ab type="prose">利令智昏。公能生明。以上三段。皆反覆譬喻。以明<lb
  ed="X" n="0874a06"/><lb
  ed="R092" n="0821a12"/>不住心法也。住法布施者。如我立規條。以強人從<lb
  ed="X" n="0874a07"/><lb
@@ -808,17 +807,17 @@
  ed="X" n="0874a09"/><lb
  ed="R092" n="0821a15"/>性。則人己兩忘。同登彼岸。何等光明普照也。</ab></div><lb
  ed="X" n="0874a10"/><lb
- ed="R092" n="0821a16"/><div type='orig' level='2'><ab type='prose'>須菩提當來之世受持讀誦為人解說。</ab></div><lb
+ ed="R092" n="0821a16"/><div type='orig' level='2'><ab type="prose">須菩提當來之世受持讀誦為人解說。</ab></div><lb
  ed="X" n="0874a11"/><lb
- ed="R092" n="0821a17"/><div type='commentary' level='2'><ab type='prose'>初日中日後日。猶言一日早中晚也。劫華言世也。<lb
+ ed="R092" n="0821a17"/><div type='commentary' level='2'><ab type="prose">初日中日後日。猶言一日早中晚也。劫華言世也。<lb
  ed="X" n="0874a12"/><lb
  ed="R092" n="0821a18"/>經中每於段尾屢云較量福德者。皆佛獲念付囑<lb
  ed="X" n="0874a13"/><lb
  ed="R092" n="0821b01"/>菩薩之深心處。</ab></div><lb
  ed="X" n="0874a14"/><lb
- ed="R092" n="0821b02"/><div type='orig' level='2'><ab type='prose'>須菩提以要言之以諸華香而散其處。</ab></div><lb
+ ed="R092" n="0821b02"/><div type='orig' level='2'><ab type="prose">須菩提以要言之以諸華香而散其處。</ab></div><lb
  ed="X" n="0874a15"/><lb
- ed="R092" n="0821b03"/><div type='commentary' level='2'><ab type='prose'>云。為發最上乘者說。即中人以上可以語上也。云<lb
+ ed="R092" n="0821b03"/><div type='commentary' level='2'><ab type="prose">云。為發最上乘者說。即中人以上可以語上也。云<lb
  ed="X" n="0874a16"/><lb
  ed="R092" n="0821b04"/>若樂小法者云云。即中人以下不可語上也。此段<lb
  ed="X" n="0874a17"/><lb
@@ -836,9 +835,9 @@
  ed="X" n="0874a23"/><lb
  ed="R092" n="0821b11"/>付囑。通經旨付囑。此其重云。</ab></div><lb
  ed="X" n="0874a24"/><lb
- ed="R092" n="0821b12"/><div type='orig' level='2'><ab type='prose'>復次須菩提若善男子善女人果報亦不可思議。</ab></div><pb ed="X" id="X25.0508.0874b" n="0874b"/><lb
+ ed="R092" n="0821b12"/><div type='orig' level='2'><ab type="prose">復次須菩提若善男子善女人果報亦不可思議。</ab></div><pb ed="X" id="X25.0508.0874b" n="0874b"/><lb
  ed="X" n="0874b01"/><lb
- ed="R092" n="0821b13"/><div type='commentary' level='2'><ab type='prose'>此段是滅惡。訥曰。造作定業。不可逃。以行般若。故<lb
+ ed="R092" n="0821b13"/><div type='commentary' level='2'><ab type="prose">此段是滅惡。訥曰。造作定業。不可逃。以行般若。故<lb
  ed="X" n="0874b02"/><lb
  ed="R092" n="0821b14"/>易重為輕。地獄云云。陳曰。世人喜於為惡。嫉于為<lb
  ed="X" n="0874b03"/><lb
@@ -858,20 +857,18 @@
  ed="X" n="0874b10"/><lb
  ed="R092" n="0822a04"/><lb
  ed="X" n="0874b11"/><lb
- ed="R092" n="0822a05"/>
-<ab type='juan' subtype='close'>金剛經闡說卷上</ab><lb
+ ed="R092" n="0822a05"/><ab type='juan' subtype='close'>金剛經闡說卷上</ab><lb
  ed="X" n="0874b12"/><lb
  ed="X" n="0874b13"/><lb
  ed="X" n="0874b14"/><lb
  ed="X" n="0874b15"/><lb
- ed="R092" n="0822a07"/>
-<ab type='juan' subtype='open'>金剛經闡說卷下</ab><lb
+ ed="R092" n="0822a07"/><ab type='juan' subtype='open'>金剛經闡說卷下</ab><lb
  ed="X" n="0874b16"/><lb
  ed="R092" n="0822a08"/><lb
  ed="X" n="0874b17"/><lb
- ed="R092" n="0822a09"/><div type='orig' level='2'><ab type='prose'>爾時須菩提白佛言阿耨多羅三藐三菩提心者。</ab></div><lb
+ ed="R092" n="0822a09"/><div type='orig' level='2'><ab type="prose">爾時須菩提白佛言阿耨多羅三藐三菩提心者。</ab></div><lb
  ed="X" n="0874b18"/><lb
- ed="R092" n="0822a10"/><div type='commentary' level='2'><ab type='prose'>此段申明前文。而以無有法結云。葢須菩提敘述<lb
+ ed="R092" n="0822a10"/><div type='commentary' level='2'><ab type="prose">此段申明前文。而以無有法結云。葢須菩提敘述<lb
  ed="X" n="0874b19"/><lb
  ed="R092" n="0822a11"/>前此問答之詞。有請益之意。所以者何以下。佛答<lb
  ed="X" n="0874b20"/><lb
@@ -881,9 +878,9 @@
  ed="X" n="0874b22"/><lb
  ed="R092" n="0822a14"/>薩示之。菩薩應除能所心也。</ab></div><lb
  ed="X" n="0874b23"/><lb
- ed="R092" n="0822a15"/><div type='orig' level='2'><ab type='prose'>須菩提於意云何即非一切法是故名一切法。</ab></div><lb
+ ed="R092" n="0822a15"/><div type='orig' level='2'><ab type="prose">須菩提於意云何即非一切法是故名一切法。</ab></div><lb
  ed="X" n="0874b24"/><lb
- ed="R092" n="0822a16"/><div type='commentary' level='2'><ab type='prose'>此段佛又現身說法。以無上正等正覺。證實有得<pb ed="X" id="X25.0508.0874c" n="0874c"/><lb
+ ed="R092" n="0822a16"/><div type='commentary' level='2'><ab type="prose">此段佛又現身說法。以無上正等正覺。證實有得<pb ed="X" id="X25.0508.0874c" n="0874c"/><lb
  ed="X" n="0874c01"/><lb
  ed="R092" n="0822a17"/>阿耨多羅三藐三菩提也。如來。佛自謂也。正義云。<lb
  ed="X" n="0874c02"/><lb
@@ -899,9 +896,9 @@
  ed="X" n="0874c07"/><lb
  ed="R092" n="0822b05"/>即無虗不滅相也。即非一切法。即無實。不著相也。</ab></div><lb
  ed="X" n="0874c08"/><lb
- ed="R092" n="0822b06"/><div type='orig' level='2'><ab type='prose'>須菩提譬如人身長大如來說名真是菩薩。</ab></div><lb
+ ed="R092" n="0822b06"/><div type='orig' level='2'><ab type="prose">須菩提譬如人身長大如來說名真是菩薩。</ab></div><lb
  ed="X" n="0874c09"/><lb
- ed="R092" n="0822b07"/><div type='commentary' level='2'><ab type='prose'>此段又申覆前文。而以無我法結之。佛復述前譬<lb
+ ed="R092" n="0822b07"/><div type='commentary' level='2'><ab type="prose">此段又申覆前文。而以無我法結之。佛復述前譬<lb
  ed="X" n="0874c10"/><lb
  ed="R092" n="0822b08"/>之人身長大。須菩提既知非大身。是名大身。是悟<lb
  ed="X" n="0874c11"/><lb
@@ -921,9 +918,9 @@
  ed="X" n="0874c18"/><lb
  ed="R092" n="0822b16"/>菩薩去能所心也。亦通。</ab></div><lb
  ed="X" n="0874c19"/><lb
- ed="R092" n="0822b17"/><div type='orig' level='2'><ab type='prose'>須菩提於意云何如是世尊如來有佛眼。</ab></div><lb
+ ed="R092" n="0822b17"/><div type='orig' level='2'><ab type="prose">須菩提於意云何如是世尊如來有佛眼。</ab></div><lb
  ed="X" n="0874c20"/><lb
- ed="R092" n="0822b18"/><div type='commentary' level='2'><ab type='prose'>華嚴經云。肉眼。見一切色故。天眼。見一切眾生心<lb
+ ed="R092" n="0822b18"/><div type='commentary' level='2'><ab type="prose">華嚴經云。肉眼。見一切色故。天眼。見一切眾生心<lb
  ed="X" n="0874c21"/><lb
  ed="R092" n="0823a01"/>故。慧眼見一切眾生諸般境界故。法眼見一切法<lb
  ed="X" n="0874c22"/><lb
@@ -931,9 +928,9 @@
  ed="X" n="0874c23"/><lb
  ed="R092" n="0823a03"/>淨五眼是也。</ab></div><lb
  ed="X" n="0874c24"/><lb
- ed="R092" n="0823a04"/><div type='orig' level='2'><ab type='prose'>須菩提於意云何未來心不可得。</ab></div><pb ed="X" id="X25.0508.0875a" n="0875a"/><lb
+ ed="R092" n="0823a04"/><div type='orig' level='2'><ab type="prose">須菩提於意云何未來心不可得。</ab></div><pb ed="X" id="X25.0508.0875a" n="0875a"/><lb
  ed="X" n="0875a01"/><lb
- ed="R092" n="0823a05"/><div type='commentary' level='2'><ab type='prose'>此段重明不住心。而語益加切矣。王曰。佛世界者。<lb
+ ed="R092" n="0823a05"/><div type='commentary' level='2'><ab type="prose">此段重明不住心。而語益加切矣。王曰。佛世界者。<lb
  ed="X" n="0875a02"/><lb
  ed="R092" n="0823a06"/>謂凡一大世界。必有一佛設化。故凡大世界。皆謂<lb
  ed="X" n="0875a03"/><lb
@@ -955,9 +952,9 @@
  ed="X" n="0875a11"/><lb
  ed="R092" n="0823a15"/>來讀斷。下心不可得四字。連誦成句。</ab></div><lb
  ed="X" n="0875a12"/><lb
- ed="R092" n="0823a16"/><div type='orig' level='2'><ab type='prose'>須菩提於意云何如來說得福德多。</ab></div><lb
+ ed="R092" n="0823a16"/><div type='orig' level='2'><ab type="prose">須菩提於意云何如來說得福德多。</ab></div><lb
  ed="X" n="0875a13"/><lb
- ed="R092" n="0823a17"/><div type='commentary' level='2'><ab type='prose'>因緣者。由因而緣。因布施緣及福德也。福德有實<lb
+ ed="R092" n="0823a17"/><div type='commentary' level='2'><ab type="prose">因緣者。由因而緣。因布施緣及福德也。福德有實<lb
  ed="X" n="0875a14"/><lb
  ed="R092" n="0823a18"/>者。布施有用之福德。福德無者。即福德性。此多字。<lb
  ed="X" n="0875a15"/><lb
@@ -981,9 +978,9 @@
  ed="X" n="0875a24"/><lb
  ed="R092" n="0823b10"/>空。其福無量。</ab></div><pb ed="X" id="X25.0508.0875b" n="0875b"/><lb
  ed="X" n="0875b01"/><lb
- ed="R092" n="0823b11"/><div type='orig' level='2'><ab type='prose'>須菩提於意云何無法可說是名說法。</ab></div><lb
+ ed="R092" n="0823b11"/><div type='orig' level='2'><ab type="prose">須菩提於意云何無法可說是名說法。</ab></div><lb
  ed="X" n="0875b02"/><lb
- ed="R092" n="0823b12"/><div type='commentary' level='2'><ab type='prose'>此段亦覆前文。而以無法可說結之。具足。無欠缺<lb
+ ed="R092" n="0823b12"/><div type='commentary' level='2'><ab type="prose">此段亦覆前文。而以無法可說結之。具足。無欠缺<lb
  ed="X" n="0875b03"/><lb
  ed="R092" n="0823b13"/>也。具足諸相。則不止三十二相。凡種種變現神通<lb
  ed="X" n="0875b04"/><lb
@@ -995,9 +992,9 @@
  ed="X" n="0875b07"/><lb
  ed="R092" n="0823b17"/>名為說法而已。</ab></div><lb
  ed="X" n="0875b08"/><lb
- ed="R092" n="0823b18"/><div type='orig' level='2'><ab type='prose'>爾時慧命須菩提白佛言說非眾生是名眾生。</ab></div><lb
+ ed="R092" n="0823b18"/><div type='orig' level='2'><ab type="prose">爾時慧命須菩提白佛言說非眾生是名眾生。</ab></div><lb
  ed="X" n="0875b09"/><lb
- ed="R092" n="0824a01"/><div type='commentary' level='2'><ab type='prose'>此段佛若輕視。視眾生。可見慈悲心。無時無處不<lb
+ ed="R092" n="0824a01"/><div type='commentary' level='2'><ab type="prose">此段佛若輕視。視眾生。可見慈悲心。無時無處不<lb
  ed="X" n="0875b10"/><lb
  ed="R092" n="0824a02"/>有也。疏鈔云。言慧命者。善現達佛智海。入深法門。<lb
  ed="X" n="0875b11"/><lb
@@ -1015,9 +1012,9 @@
  ed="X" n="0875b17"/><lb
  ed="R092" n="0824a09"/>十年。令往濠州鐘離寺。求石󳬴全文補入。</ab></div><lb
  ed="X" n="0875b18"/><lb
- ed="R092" n="0824a10"/><div type='orig' level='2'><ab type='prose'>須菩提白佛言世尊是名阿耨多羅三藐三菩提。</ab></div><lb
+ ed="R092" n="0824a10"/><div type='orig' level='2'><ab type="prose">須菩提白佛言世尊是名阿耨多羅三藐三菩提。</ab></div><lb
  ed="X" n="0875b19"/><lb
- ed="R092" n="0824a11"/><div type='commentary' level='2'><ab type='prose'>此段須菩提以如來說非眾生。可見各有自性。佛<lb
+ ed="R092" n="0824a11"/><div type='commentary' level='2'><ab type="prose">此段須菩提以如來說非眾生。可見各有自性。佛<lb
  ed="X" n="0875b20"/><lb
  ed="R092" n="0824a12"/>之得阿耨多羅三藐三菩提。為得之自性而非得<lb
  ed="X" n="0875b21"/><lb
@@ -1033,9 +1030,9 @@
  ed="X" n="0875c02"/><lb
  ed="R092" n="0824a18"/>可以言說求也。但說名為無上正等正覺而見。</ab></div><lb
  ed="X" n="0875c03"/><lb
- ed="R092" n="0824b01"/><div type='orig' level='2'><ab type='prose'>復次須菩提是法平等即非善法是名善法。</ab></div><lb
+ ed="R092" n="0824b01"/><div type='orig' level='2'><ab type="prose">復次須菩提是法平等即非善法是名善法。</ab></div><lb
  ed="X" n="0875c04"/><lb
- ed="R092" n="0824b02"/><div type='commentary' level='2'><ab type='prose'>言上自諸佛。下至蠢動含靈。其真性一同。故云平<lb
+ ed="R092" n="0824b02"/><div type='commentary' level='2'><ab type="prose">言上自諸佛。下至蠢動含靈。其真性一同。故云平<lb
  ed="X" n="0875c05"/><lb
  ed="R092" n="0824b03"/>等。無有高下。即此名為無上正等正覺也。但眾生<lb
  ed="X" n="0875c06"/><lb
@@ -1051,17 +1048,17 @@
  ed="X" n="0875c11"/><lb
  ed="R092" n="0824b09"/>者受持之方。最喫緊處。全在以脩兩字著力。</ab></div><lb
  ed="X" n="0875c12"/><lb
- ed="R092" n="0824b10"/><div type='orig' level='2'><ab type='prose'>須菩提若三千大千世界中算數譬喻所不能及。</ab></div><lb
+ ed="R092" n="0824b10"/><div type='orig' level='2'><ab type="prose">須菩提若三千大千世界中算數譬喻所不能及。</ab></div><lb
  ed="X" n="0875c13"/><lb
- ed="R092" n="0824b11"/><div type='commentary' level='2'><ab type='prose'>五祖曰。自性若迷。福何可救。六祖曰。乘船永世求<lb
+ ed="R092" n="0824b11"/><div type='commentary' level='2'><ab type="prose">五祖曰。自性若迷。福何可救。六祖曰。乘船永世求<lb
  ed="X" n="0875c14"/><lb
  ed="R092" n="0824b12"/>珠。不知身是七寶。二佛之言。皆為世人不脩身脩<lb
  ed="X" n="0875c15"/><lb
  ed="R092" n="0824b13"/>性。徒施寶以求福道。</ab></div><lb
  ed="X" n="0875c16"/><lb
- ed="R092" n="0824b14"/><div type='orig' level='2'><ab type='prose'>須菩提於意云何即非凡夫是名凡夫。</ab></div><lb
+ ed="R092" n="0824b14"/><div type='orig' level='2'><ab type="prose">須菩提於意云何即非凡夫是名凡夫。</ab></div><lb
  ed="X" n="0875c17"/><lb
- ed="R092" n="0824b15"/><div type='commentary' level='2'><ab type='prose'>此段重戒人不當存有我私見也。呼汝等者。為提<lb
+ ed="R092" n="0824b15"/><div type='commentary' level='2'><ab type="prose">此段重戒人不當存有我私見也。呼汝等者。為提<lb
  ed="X" n="0875c18"/><lb
  ed="R092" n="0824b16"/>醒會下諸大眾也。僧訥曰。如來雖設法施。廣度眾<lb
  ed="X" n="0875c19"/><lb
@@ -1085,9 +1082,9 @@
  ed="X" n="0876a04"/><lb
  ed="R092" n="0825a08"/>容分別。</ab></div><lb
  ed="X" n="0876a05"/><lb
- ed="R092" n="0825a09"/><div type='orig' level='2'><ab type='prose'>須菩提於意云何是人行邪道不能見如來。</ab></div><lb
+ ed="R092" n="0825a09"/><div type='orig' level='2'><ab type="prose">須菩提於意云何是人行邪道不能見如來。</ab></div><lb
  ed="X" n="0876a06"/><lb
- ed="R092" n="0825a10"/><div type='commentary' level='2'><ab type='prose'>此段佛云云。上見就如來說。又云不應以具足色<lb
+ ed="R092" n="0825a10"/><div type='commentary' level='2'><ab type="prose">此段佛云云。上見就如來說。又云不應以具足色<lb
  ed="X" n="0876a07"/><lb
  ed="R092" n="0825a11"/>身。具足諸相見。此觀就學者說。轉輪聖王。即四天<lb
  ed="X" n="0876a08"/><lb
@@ -1117,9 +1114,9 @@
  ed="X" n="0876a20"/><lb
  ed="R092" n="0825b06"/>至聖不增。看時不見。悟則全彰。</ab></div><lb
  ed="X" n="0876a21"/><lb
- ed="R092" n="0825b07"/><div type='orig' level='2'><ab type='prose'>須菩提汝若作是念於法不說斷滅相。</ab></div><lb
+ ed="R092" n="0825b07"/><div type='orig' level='2'><ab type="prose">須菩提汝若作是念於法不說斷滅相。</ab></div><lb
  ed="X" n="0876a22"/><lb
- ed="R092" n="0825b08"/><div type='commentary' level='2'><ab type='prose'>此段戒人不可存斷滅見也。王曰。諸法斷滅者。謂<lb
+ ed="R092" n="0825b08"/><div type='commentary' level='2'><ab type="prose">此段戒人不可存斷滅見也。王曰。諸法斷滅者。謂<lb
  ed="X" n="0876a23"/><lb
  ed="R092" n="0825b09"/>一切法。皆斷之滅之而不用也。相謂凡法之相也。<lb
  ed="X" n="0876a24"/><lb
@@ -1153,9 +1150,9 @@
  ed="X" n="0876b14"/><lb
  ed="R092" n="0826a06"/>即得大凡。</ab></div><lb
  ed="X" n="0876b15"/><lb
- ed="R092" n="0826a07"/><div type='orig' level='2'><ab type='prose'>須菩提若菩薩以滿恒河沙等是故說不受福德。</ab></div><lb
+ ed="R092" n="0826a07"/><div type='orig' level='2'><ab type="prose">須菩提若菩薩以滿恒河沙等是故說不受福德。</ab></div><lb
  ed="X" n="0876b16"/><lb
- ed="R092" n="0826a08"/><div type='commentary' level='2'><ab type='prose'>知一切法二句。即宏毅以任重而道遠也。不受福<lb
+ ed="R092" n="0826a08"/><div type='commentary' level='2'><ab type="prose">知一切法二句。即宏毅以任重而道遠也。不受福<lb
  ed="X" n="0876b17"/><lb
  ed="R092" n="0826a09"/>德。即施德不望報意。此段承上文。言既不斷滅。而<lb
  ed="X" n="0876b18"/><lb
@@ -1171,17 +1168,17 @@
  ed="X" n="0876b23"/><lb
  ed="R092" n="0826a15"/>亦以見是法平等也。</ab></div><lb
  ed="X" n="0876b24"/><lb
- ed="R092" n="0826a16"/><div type='orig' level='2'><ab type='prose'>須菩提若有人言亦無所去故名如來。</ab></div><pb ed="X" id="X25.0508.0876c" n="0876c"/><lb
+ ed="R092" n="0826a16"/><div type='orig' level='2'><ab type="prose">須菩提若有人言亦無所去故名如來。</ab></div><pb ed="X" id="X25.0508.0876c" n="0876c"/><lb
  ed="X" n="0876c01"/><lb
- ed="R092" n="0826a17"/><div type='commentary' level='2'><ab type='prose'>此段云云。疏鈔云。如來者。來而不來。去而不去。住<lb
+ ed="R092" n="0826a17"/><div type='commentary' level='2'><ab type="prose">此段云云。疏鈔云。如來者。來而不來。去而不去。住<lb
  ed="X" n="0876c02"/><lb
  ed="R092" n="0826a18"/>而不住。非動非靜。上合諸佛。下等羣生。一性平等。<lb
  ed="X" n="0876c03"/><lb
  ed="R092" n="0826b01"/>故號如來。至此段明如來真性法身。</ab></div><lb
  ed="X" n="0876c04"/><lb
- ed="R092" n="0826b02"/><div type='orig' level='2'><ab type='prose'>須菩提若善男子善女人但凡夫之人貪著其事。</ab></div><lb
+ ed="R092" n="0826b02"/><div type='orig' level='2'><ab type="prose">須菩提若善男子善女人但凡夫之人貪著其事。</ab></div><lb
  ed="X" n="0876c05"/><lb
- ed="R092" n="0826b03"/><div type='commentary' level='2'><ab type='prose'>此段又重戒貪著也。世界者微塵之合也。微塵者。<lb
+ ed="R092" n="0826b03"/><div type='commentary' level='2'><ab type="prose">此段又重戒貪著也。世界者微塵之合也。微塵者。<lb
  ed="X" n="0876c06"/><lb
  ed="R092" n="0826b04"/>世界之散也。舉世界微塵。而萬事萬物皆然。顧欲<lb
  ed="X" n="0876c07"/><lb
@@ -1199,9 +1196,9 @@
  ed="X" n="0876c13"/><lb
  ed="R092" n="0826b11"/>之人。貪著其事。</ab></div><lb
  ed="X" n="0876c14"/><lb
- ed="R092" n="0826b12"/><div type='orig' level='2'><ab type='prose'>須菩提若人言佛說我見即非法相是名法相。</ab></div><lb
+ ed="R092" n="0826b12"/><div type='orig' level='2'><ab type="prose">須菩提若人言佛說我見即非法相是名法相。</ab></div><lb
  ed="X" n="0876c15"/><lb
- ed="R092" n="0826b13"/><div type='commentary' level='2'><ab type='prose'>黃蘗師曰。前說四相。此說四見。相粗而見精。因有<lb
+ ed="R092" n="0826b13"/><div type='commentary' level='2'><ab type="prose">黃蘗師曰。前說四相。此說四見。相粗而見精。因有<lb
  ed="X" n="0876c16"/><lb
  ed="R092" n="0826b14"/>四見。故形四相也。又云。佛以見性為見。人以見相<lb
  ed="X" n="0876c17"/><lb
@@ -1219,9 +1216,9 @@
  ed="X" n="0876c23"/><lb
  ed="R092" n="0827a03"/>是知見信解也。</ab></div><lb
  ed="X" n="0876c24"/><lb
- ed="R092" n="0827a04"/><div type='orig' level='2'><ab type='prose'>須菩提若有人以滿無量應作如是觀。</ab></div><pb ed="X" id="X25.0508.0877a" n="0877a"/><lb
+ ed="R092" n="0827a04"/><div type='orig' level='2'><ab type="prose">須菩提若有人以滿無量應作如是觀。</ab></div><pb ed="X" id="X25.0508.0877a" n="0877a"/><lb
  ed="X" n="0877a01"/><lb
- ed="R092" n="0827a05"/><div type='commentary' level='2'><ab type='prose'>凡佛所言四句偈等者。謂不必專於偈。凡可以演<lb
+ ed="R092" n="0827a05"/><div type='commentary' level='2'><ab type="prose">凡佛所言四句偈等者。謂不必專於偈。凡可以演<lb
  ed="X" n="0877a02"/><lb
  ed="R092" n="0827a06"/>說者皆是。況其為言之要者乎。顏曰如如不動。湛<lb
  ed="X" n="0877a03"/><lb
@@ -1247,16 +1244,15 @@
  ed="X" n="0877a13"/><lb
  ed="R092" n="0827a17"/>此則無聲無臭至矣。</ab></div><lb
  ed="X" n="0877a14"/><lb
- ed="R092" n="0827a18"/><div type='orig' level='2'><ab type='prose'>佛說是經已長老須菩提皆大歡喜信受奉行。</ab></div><lb
+ ed="R092" n="0827a18"/><div type='orig' level='2'><ab type="prose">佛說是經已長老須菩提皆大歡喜信受奉行。</ab></div><lb
  ed="X" n="0877a15"/><lb
- ed="R092" n="0827b01"/><div type='commentary' level='2'><ab type='prose'>優婆塞華言覲事男。優婆夷。華言覲事女。覲事者。<lb
+ ed="R092" n="0827b01"/><div type='commentary' level='2'><ab type="prose">優婆塞華言覲事男。優婆夷。華言覲事女。覲事者。<lb
  ed="X" n="0877a16"/><lb
  ed="R092" n="0827b02"/>謂在家全受五戒。恒以親供養三寶。而為其事也。</ab></div><lb
  ed="X" n="0877a17"/><lb
  ed="R092" n="0827b03"/><lb
  ed="X" n="0877a18"/><lb
- ed="R092" n="0827b04"/>
-<ab type='juan' subtype='close'>金剛經闡說卷下</ab><lb
+ ed="R092" n="0827b04"/><ab type='juan' subtype='close'>金剛經闡說卷下</ab><lb
  ed="X" n="0877a19"/><lb
  ed="X" n="0877a20"/><lb
  ed="X" n="0877a21"/><lb
@@ -1269,7 +1265,7 @@
  ed="R092" n="0827b06"/> 復題金剛經闡說後序</head><lb
  ed="X" n="0877b04"/><lb
  ed="X" n="0877b05"/><lb
- ed="R092" n="0827b07"/><ab type='prose'>陳子滋甫。予至契友也。常語予曰。昔先祖存吾公。知<lb
+ ed="R092" n="0827b07"/><ab type="prose">陳子滋甫。予至契友也。常語予曰。昔先祖存吾公。知<lb
  ed="X" n="0877b06"/><lb
  ed="R092" n="0827b08"/>常州府事。公餘之暇。著作甚富。必有可觀。惜與先生。<lb
  ed="X" n="0877b07"/><lb
@@ -1311,7 +1307,7 @@
  ed="X" n="0877c01"/><lb
  ed="R092" n="0828a09"/>人之有後也。故謂之功德不可思議也可。即謂之果<lb
  ed="X" n="0877c02"/><lb
- ed="R092" n="0828a10"/>報不可思議也。亦無不可。<lb
+ ed="R092" n="0828a10"/>報不可思議也。亦無不可。</ab><lb
  ed="X" n="0877c03"/><lb
- ed="R092" n="0828a11"/>同治丁卯夏月臺陽洪壽椿載撰</ab></div></div>
+ ed="R092" n="0828a11"/><ab type="prose">同治丁卯夏月臺陽洪壽椿載撰</ab></div></div>
 </body></text></TEI>

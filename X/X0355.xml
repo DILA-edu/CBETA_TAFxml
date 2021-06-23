@@ -42,8 +42,7 @@
         <body><pb ed="X" id="X20.0355.0016a" n="0016a"/><lb
  ed="X" n="0016a01"/><lb
  ed="X" n="0016a02"/><lb
- ed="R030" n="0774a01"/>
-<ab type='juan' subtype='open'>金光明經玄義科</ab><lb
+ ed="R030" n="0774a01"/><ab type='juan' subtype='open'>金光明經玄義科</ab><lb
  ed="X" n="0016a03"/><lb
  ed="R030" n="0774a01"/><byline>雙經沙門　明得排定</byline><lb
  ed="X" n="0016a04"/><lb
@@ -527,7 +526,7 @@
  ed="X" n="0019a64"/><lb
  ed="R030" n="0777a01"/><lb
  ed="X" n="0019a65"/><lb
- ed="R030" n="0777a01"/><ab type='prose'>△三譬喻釋竟。<lb
+ ed="R030" n="0777a01"/><ab type="prose">△三譬喻釋竟。</ab><lb
  ed="X" n="0019a66"/><lb
  ed="R030" n="0777a01"/><lb
  ed="X" n="0019a67"/><lb
@@ -637,7 +636,7 @@
  ed="X" n="0020a50"/><lb
  ed="R030" n="0778a01"/><lb
  ed="X" n="0020a51"/><lb
- ed="R030" n="0778a01"/>△初約教義釋竟。<lb
+ ed="R030" n="0778a01"/><ab type="prose">△初約教義釋竟。</ab><lb
  ed="X" n="0020a52"/><lb
  ed="R030" n="0778a01"/><lb
  ed="X" n="0020a53"/><lb
@@ -1095,7 +1094,7 @@
  ed="X" n="0024a30"/><lb
  ed="R030" n="0782a01"/><lb
  ed="X" n="0024a31"/><lb
- ed="R030" n="0782a01"/>△別名已竟。<lb
+ ed="R030" n="0782a01"/><ab type="prose">△別名已竟。</ab><lb
  ed="X" n="0024a32"/><lb
  ed="R030" n="0782a01"/><lb
  ed="X" n="0024a33"/><lb
@@ -1377,6 +1376,5 @@
  ed="X" n="0026a46"/><lb
  ed="R030" n="0784a01"/><lb
  ed="X" n="0026a47"/><lb
- ed="R030" n="0784a01"/>
-</ab><ab type='juan' subtype='close'>金光明經玄義科</ab></div>
+ ed="R030" n="0784a01"/><ab type='juan' subtype='close'>金光明經玄義科</ab></div>
 </body></text></TEI>

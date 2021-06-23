@@ -43,8 +43,7 @@
 <pb ed="X" id="X15.0304.0558a" n="0558a"/><lb
  ed="X" n="0558a01"/><lb
  ed="X" n="0558a02"/><lb
- ed="R023" n="0531a01"/>
-<ab type='juan' subtype='open'>大佛頂如來密因修證了義諸菩薩萬行首楞嚴經觀心定解科</ab><lb
+ ed="R023" n="0531a01"/><ab type='juan' subtype='open'>大佛頂如來密因修證了義諸菩薩萬行首楞嚴經觀心定解科</ab><lb
  ed="X" n="0558a03"/><lb
  ed="R023" n="0531a01"/><byline>天台比丘　靈耀全彰　述</byline><lb
  ed="X" n="0558a04"/><lb
@@ -128,7 +127,7 @@
  ed="X" n="0558a43"/><lb
  ed="R023" n="0531a01"/><lb
  ed="X" n="0558a44"/><lb
- ed="R023" n="0531a01"/><ab type='prose'>△一序分竟<lb
+ ed="R023" n="0531a01"/><ab type="prose">△一序分竟</ab><lb
  ed="X" n="0558a45"/><lb
  ed="R023" n="0531a01"/><lb
  ed="X" n="0558a46"/><lb
@@ -3572,7 +3571,7 @@
  ed="X" n="0584a68"/><lb
  ed="R023" n="0557a01"/><lb
  ed="X" n="0584a69"/><lb
- ed="R023" n="0557a01"/>△二正宗分竟<lb
+ ed="R023" n="0557a01"/><ab type="prose">△二正宗分竟</ab><lb
  ed="X" n="0584a70"/><lb
  ed="R023" n="0557a01"/><pb ed="X" id="X15.0304.0585a" n="0585a"/><lb
  ed="X" n="0585a01"/><lb
@@ -3600,10 +3599,9 @@
  ed="X" n="0585a12"/><lb
  ed="R023" n="0558a01"/><lb
  ed="X" n="0585a13"/><lb
- ed="R023" n="0558a01"/>△三流通分竟<lb
+ ed="R023" n="0558a01"/><ab type="prose">△三流通分竟</ab><lb
  ed="X" n="0585a14"/><lb
  ed="R023" n="0558a01"/><lb
  ed="X" n="0585a15"/><lb
- ed="R023" n="0558a01"/>
-</ab><ab type='juan' subtype='close'>首楞嚴經觀心定解科</ab></div>
+ ed="R023" n="0558a01"/><ab type='juan' subtype='close'>首楞嚴經觀心定解科</ab></div>
 </body></text></TEI>

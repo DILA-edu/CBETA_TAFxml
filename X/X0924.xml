@@ -50,7 +50,7 @@
  ed="R100" n="0001a01"/> 摩訶止觀貫義科序</head><lb
  ed="X" n="0206c07"/><lb
  ed="X" n="0206c08"/><lb
- ed="R100" n="0001a02"/><ab type='prose'>荊溪註解三部。均提大義。而於輔行事實尤為詳晰。<lb
+ ed="R100" n="0001a02"/><ab type="prose">荊溪註解三部。均提大義。而於輔行事實尤為詳晰。<lb
  ed="X" n="0206c09"/><lb
  ed="R100" n="0001a03"/>但湛師著述之時多。講說之日少。故於科章殊遜劼<lb
  ed="X" n="0206c10"/><lb
@@ -78,14 +78,13 @@
  ed="X" n="0206c21"/><lb
  ed="R100" n="0001a15"/>後。為弘經也。敢謂佛祖功臣。庶非埋沒佛祖宗旨於<lb
  ed="X" n="0206c22"/><lb
- ed="R100" n="0001a16"/>後人脚跟下之罪人云耳。壬戌秋日嗣興天台教觀<lb
+ ed="R100" n="0001a16"/>後人脚跟下之罪人云耳。</ab><ab type="prose">壬戌秋日嗣興天台教觀<lb
  ed="X" n="0206c23"/><lb
  ed="R100" n="0001a17"/>第五世比丘靈耀序於楞嚴講寺之大樹方丈</ab></div><lb
  ed="X" n="0206c24"/><pb ed="X" id="X56.0924.0207a" n="0207a"/><lb
  ed="X" n="0207a01"/><lb
  ed="X" n="0207a02"/><lb
- ed="R100" n="0002a01"/>
-<ab type='juan' subtype='open'>摩訶止觀貫義科上</ab><lb
+ ed="R100" n="0002a01"/><ab type='juan' subtype='open'>摩訶止觀貫義科上</ab><lb
  ed="X" n="0207a03"/><lb
  ed="R100" n="0002a02"/><byline>清　天溪和尚說</byline><lb
  ed="X" n="0207a04"/><lb
@@ -5238,11 +5237,9 @@
  ed="R100" n="0042a16"/>三出意<lb
  ed="X" n="0247a65"/><lb
  ed="X" n="0247a66"/><lb
- ed="R100" n="0042a18"/>
-<ab type='juan' subtype='close'>摩訶止觀貫義科上</ab><pb ed="X" id="X56.0924.0248a" n="0248a"/><lb
+ ed="R100" n="0042a18"/><ab type='juan' subtype='close'>摩訶止觀貫義科上</ab><pb ed="X" id="X56.0924.0248a" n="0248a"/><lb
  ed="X" n="0248a01"/><lb
- ed="R100" n="0043a01"/>
-<ab type='juan' subtype='open'>摩訶止觀貫義科下</ab><lb
+ ed="R100" n="0043a01"/><ab type='juan' subtype='open'>摩訶止觀貫義科下</ab><lb
  ed="X" n="0248a02"/><lb
  ed="R100" n="0043a02"/><byline>清　天溪和尚說</byline><lb
  ed="X" n="0248a03"/><lb
@@ -8176,7 +8173,7 @@
  ed="X" n="0270a67"/><lb
  ed="R100" n="0065a16"/>二歷餘一心<lb
  ed="X" n="0270a68"/><lb
- ed="R100" n="0065a17"/><ab type='prose'>正破遍竟。<lb
+ ed="R100" n="0065a17"/><ab type="prose">正破遍竟。</ab><lb
  ed="X" n="0270a69"/><lb
  ed="X" n="0270a70"/><lb
  ed="R100" n="0065a18"/>○三料簡<pb ed="X" id="X56.0924.0271a" n="0271a"/><lb
@@ -10056,9 +10053,9 @@
  ed="X" n="0285a45"/><lb
  ed="R100" n="0080a13"/>二釋出五藏致病<lb
  ed="X" n="0285a46"/><lb
- ed="R100" n="0080a13"/>一相囗致病<lb
+ ed="R100" n="0080a13"/>一相□致病<lb
  ed="X" n="0285a47"/><lb
- ed="R100" n="0080a13"/>二相囗致病<lb
+ ed="R100" n="0080a13"/>二相□致病<lb
  ed="X" n="0285a48"/><lb
  ed="R100" n="0080a13"/>三示於禪夢驗明<lb
  ed="X" n="0285a49"/><lb
@@ -12326,5 +12323,5 @@
  ed="X" n="0303a81"/><lb
  ed="R100" n="0098a18"/>三觀性淨解脫<lb
  ed="X" n="0303a82"/><lb
- ed="R100" n="0098a18"/>三結成</ab></div>
+ ed="R100" n="0098a18"/>三結成</div>
 </body></text></TEI>

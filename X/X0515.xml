@@ -47,7 +47,7 @@
  ed="R094" n="0855a01"/> 仁王護國般若波羅蜜多經科疏</head><lb
  ed="X" n="0190a04"/><lb
  ed="X" n="0190a05"/><lb
- ed="R094" n="0855a02"/><ab type='prose'>聞夫。真際寂寥。絕染淨於色心之域。法性空廓。超<lb
+ ed="R094" n="0855a02"/><ab type="prose">聞夫。真際寂寥。絕染淨於色心之域。法性空廓。超<lb
  ed="X" n="0190a06"/><lb
  ed="R094" n="0855a03"/>修證於理智之階。冲虗靈鑑。妙粹凝常。獨露萬<lb
  ed="X" n="0190a07"/><lb
@@ -193,7 +193,7 @@
  ed="X" n="0191a05" type="honorific"/><lb
  ed="R094" n="0857a02"/>國福民之葵誠。莊嚴聖教之丹悃也。疏成。非敢布諸<lb
  ed="X" n="0191a06"/><lb
- ed="R094" n="0857a03"/>講肆。取哂高明。唯便八十老人。自備遺忘耳。時<lb
+ ed="R094" n="0857a03"/>講肆。取哂高明。唯便八十老人。自備遺忘耳。</ab><ab type="prose">時<lb
  ed="X" n="0191a07" type="honorific"/><lb
  ed="R094" n="0857a04"/>明崇禎三年。歲次庚午。佛成道日<lb
  ed="X" n="0191a08" type="honorific"/><lb
@@ -253,7 +253,7 @@
  ed="X" n="0191b19"/><lb
  ed="R094" n="0857b07"/><lb
  ed="X" n="0191b20"/><lb
- ed="R094" n="0857b08"/><ab type='prose'>仁王經科疏目次<lb
+ ed="R094" n="0857b08"/><ab type="prose">仁王經科疏目次</ab><lb
  ed="X" n="0191b21"/><lb
  ed="X" n="0191b22"/><lb
  ed="X" n="0191b23"/><lb
@@ -285,8 +285,7 @@
  ed="X" n="0192a01"/><lb
  ed="X" n="0192a02"/><lb
  ed="X" n="0192a03"/><lb
- ed="R094" n="0858a01"/>
-</ab><ab type='juan' subtype='open'>仁王護國般若波羅蜜多經科疏科文</ab><lb
+ ed="R094" n="0858a01"/><ab type='juan' subtype='open'>仁王護國般若波羅蜜多經科疏科文</ab><lb
  ed="X" n="0192a04"/><lb
  ed="R094" n="0858a01"/><byline>明京師慈慧寺開山比丘　蜀東普真貴　述</byline><lb
  ed="X" n="0192a05"/><lb
@@ -1764,6 +1763,5 @@
  ed="X" n="0204a17"/><lb
  ed="R094" n="0870a01"/><lb
  ed="X" n="0204a18"/><lb
- ed="R094" n="0870a01"/>
-<ab type='juan' subtype='close'>仁王護國般若波羅蜜多經科疏科文</ab></div>
+ ed="R094" n="0870a01"/><ab type='juan' subtype='close'>仁王護國般若波羅蜜多經科疏科文</ab></div>
 </body></text></TEI>

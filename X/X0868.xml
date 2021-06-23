@@ -75,8 +75,7 @@
  ed="X" n="0120a17"/><lb
  ed="X" n="0120a18"/><lb
  ed="X" n="0120a19"/><lb
- ed="R096" n="0173a08"/>
-<ab type='juan' subtype='open'>肇論述科文</ab><lb
+ ed="R096" n="0173a08"/><ab type='juan' subtype='open'>肇論述科文</ab><lb
  ed="X" n="0120a20"/><lb
  ed="R096" n="0173a09"/><byline>姑蘇堯峯蘭若沙門　遵式　排定</byline><lb
  ed="X" n="0120a21"/><lb
@@ -930,7 +929,7 @@
  ed="X" n="0127a38"/><lb
  ed="R096" n="0180a09"/>二答外問○<lb
  ed="X" n="0127a39"/><lb
- ed="R096" n="0180a10"/><ab type='prose'>初論文竟<lb
+ ed="R096" n="0180a10"/><ab type="prose">初論文竟</ab><lb
  ed="X" n="0127a40"/><lb
  ed="X" n="0127a41"/><lb
  ed="R096" n="0180a11"/>○二答外問<lb
@@ -1877,5 +1876,5 @@
  ed="R096" n="0188a07"/>○後總結大意<lb
  ed="X" n="0135a25"/><lb
  ed="X" n="0135a26"/><lb
- ed="R096" n="0188a09"/>注肇論疏科文</ab></div></div>
+ ed="R096" n="0188a09"/><ab type="prose">注肇論疏科文</ab></div></div>
 </body></text></TEI>

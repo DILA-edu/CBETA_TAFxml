@@ -44,8 +44,7 @@
  ed="X" n="0086a01"/><lb
  ed="X" n="0086a02"/><lb
  ed="X" n="0086a03"/><lb
- ed="R055" n="0151a01"/>
-<ab type='juan' subtype='open'>觀音疏記會本科文</ab><lb
+ ed="R055" n="0151a01"/><ab type='juan' subtype='open'>觀音疏記會本科文</ab><lb
  ed="X" n="0086a04"/><lb
  ed="R055" n="0151a01"/><lb
  ed="X" n="0086a05"/><lb
@@ -1207,9 +1206,9 @@
  ed="X" n="0095a52"/><lb
  ed="R055" n="0160a01"/>二例明應<lb
  ed="X" n="0095a53"/><lb
- ed="R055" n="0160a01"/><ab type='prose'>疏上<lb
+ ed="R055" n="0160a01"/><ab type="prose">疏上</ab><lb
  ed="X" n="0095a54"/><lb
- ed="R055" n="0160a01"/>疏下<lb
+ ed="R055" n="0160a01"/><ab type="prose">疏下</ab><lb
  ed="X" n="0095a55"/><lb
  ed="R055" n="0160a01"/>○第二意業機<lb
  ed="X" n="0095a56"/><lb
@@ -2411,6 +2410,5 @@
  ed="X" n="0105a40"/><lb
  ed="R055" n="0170a01"/><lb
  ed="X" n="0105a41"/><lb
- ed="R055" n="0170a01"/>
-</ab><ab type='juan' subtype='close'>觀音疏記會本科</ab></div>
+ ed="R055" n="0170a01"/><ab type='juan' subtype='close'>觀音疏記會本科</ab></div>
 </body></text></TEI>

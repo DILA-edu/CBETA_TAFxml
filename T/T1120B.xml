@@ -43,10 +43,9 @@
 <pb n="0520b" id="T20.1120B.0520b" ed="T"/><lb
  n="0520b01" ed="T"/><lb
  n="0520b02" ed="T"/><lb
- n="0520b03" ed="T"/>
-<ab type='juan' subtype='open'>勝初瑜伽儀軌真言</ab><lb
+ n="0520b03" ed="T"/><ab type='juan' subtype='open'>勝初瑜伽儀軌真言</ab><lb
  n="0520b04" ed="T"/><lb
- n="0520b05" ed="T"/><div type='dharani' level='2'><ab type='dharani'>􇖵􈁴􄙺􅞣􄗹􄑘􄑾􅑈􈁃􈇪􄕯􄗧<lb
+ n="0520b05" ed="T"/><div type='dharani' level='2'><ab type="dharani">􇖵􈁴􄙺􅞣􄗹􄑘􄑾􅑈􈁃􈇪􄕯􄗧<lb
  n="0520b06" ed="T"/>􄙖􄧇􄒶􈃗　　　􄙖􄦽􄙖􄾫<lb
  n="0520b07" ed="T"/>􄙖􄦽􄙖􄾫􄩞􈁆　􄙖􄦽􄙜􄙢􆿔<lb
  n="0520b08" ed="T"/>􄙖􄦽􈁃􆵍􄙠　　􈂼􄗽􄩞􈁁<lb
@@ -125,7 +124,7 @@
  n="0521a23" ed="T"/>􄙺􅞣􄙺􄽚􅚼􄙼􇧻􅛈􆽖􄗱􄕤􄓲􄑙􄑘<lb
  n="0521a24" ed="T"/>􇩹􄾩􈎭􇧹􄙘􄙮􈉓􄖹􄗾􄑘􄗥􄖪􄗱􄕛<lb
  n="0521a25" ed="T"/>􈍇􈍇􈍇􈍇􈁴􄙖􄦽􄙺􄽙􈂭</ab></div><lb
- n="0521a26" ed="T"/><div type='w' level='2'><ab type='prose'>大治三年七月十一日於金剛峯寺書了<lb
- n="0521a27" ed="T"/>　　　　　　　　　請來梵本也<lb
- n="0521a28" ed="T"/>　　　　　　　　一交了</ab></div></div>
+ n="0521a26" ed="T"/><div type='w' level='2'><ab type="prose">大治三年七月十一日於金剛峯寺書了</ab><lb
+ n="0521a27" ed="T"/><ab type="prose">　　　　　　　　　請來梵本也</ab><lb
+ n="0521a28" ed="T"/><ab type="prose">　　　　　　　　一交了</ab></div></div>
 </body></text></TEI>

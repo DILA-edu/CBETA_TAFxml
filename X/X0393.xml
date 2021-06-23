@@ -47,7 +47,7 @@
  ed="R035" n="0812a01"/> 書寫上生經瑞應科文引</head><lb
  ed="X" n="0858c04"/><lb
  ed="X" n="0858c05"/><lb
- ed="R035" n="0812a02"/><ab type='prose'>蓋分科注脚者。源創乎秦道安。其來尚矣。其為科也。<lb
+ ed="R035" n="0812a02"/><ab type="prose">蓋分科注脚者。源創乎秦道安。其來尚矣。其為科也。<lb
  ed="X" n="0858c06"/><lb
  ed="R035" n="0812a03"/>分折文章之起盡。連以細系案之上層。由漸階降粲<lb
  ed="X" n="0858c07"/><lb
@@ -71,13 +71,13 @@
  ed="X" n="0858c16"/><lb
  ed="R035" n="0812a13"/>欲重顯其嘉舉之有所以。乃為是序。又猶有壽諸梓<lb
  ed="X" n="0858c17"/><lb
- ed="R035" n="0812a14"/>與疏同流行之志云。<lb
+ ed="R035" n="0812a14"/>與疏同流行之志云。</ab><lb
  ed="X" n="0858c18"/><lb
  ed="R035" n="0812a15"/><lb
  ed="X" n="0858c19"/><lb
- ed="R035" n="0812a16"/>享保歲次甲辰納稼糓旦<lb
+ ed="R035" n="0812a16"/><ab type="prose">享保歲次甲辰納稼糓旦</ab><lb
  ed="X" n="0858c20"/><lb
- ed="R035" n="0812a17"/>風禪子<lb
+ ed="R035" n="0812a17"/><ab type="prose">風禪子<lb
  ed="X" n="0858c21" type="honorific"/><lb
  ed="R035" n="0812a18"/>興福寺福園院識</ab></div><lb
  ed="X" n="0858c22"/><lb
@@ -86,8 +86,7 @@
  ed="X" n="0859a01"/><lb
  ed="X" n="0859a02"/><lb
  ed="X" n="0859a03"/><lb
- ed="R035" n="0813a01"/>
-<ab type='juan' subtype='open'>上生經瑞應科文</ab><lb
+ ed="R035" n="0813a01"/><ab type='juan' subtype='open'>上生經瑞應科文</ab><lb
  ed="X" n="0859a04"/><lb
  ed="R035" n="0813a01"/><byline>真定府龍興寺比丘僧　守千　集</byline><lb
  ed="X" n="0859a05"/><lb
@@ -7535,6 +7534,5 @@
  ed="X" n="0914a63"/><lb
  ed="R035" n="0868a01"/><lb
  ed="X" n="0914a64"/><lb
- ed="R035" n="0868a01"/>
-<ab type='juan' subtype='close'>上生經瑞應科文</ab></div>
+ ed="R035" n="0868a01"/><ab type='juan' subtype='close'>上生經瑞應科文</ab></div>
 </body></text></TEI>

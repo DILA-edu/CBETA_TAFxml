@@ -50,7 +50,7 @@
  ed="R108" n="0408a01"/> 西方發願文註敘</head><lb
  ed="X" n="0516b07"/><lb
  ed="X" n="0516b08"/><lb
- ed="R108" n="0408a02"/><ab type='prose'>或有問於余曰。諸經所載淨土文。總有三篇。其問詞<lb
+ ed="R108" n="0408a02"/><ab type="prose">或有問於余曰。諸經所載淨土文。總有三篇。其問詞<lb
  ed="X" n="0516b09"/><lb
  ed="R108" n="0408a03"/>致。咸可宗尚。而師獨於雲棲所作。極口讚歎。又其文<lb
  ed="X" n="0516b10"/><lb
@@ -108,24 +108,23 @@
  ed="X" n="0516c12"/><lb
  ed="R108" n="0408b12"/>者哉。余之所以讚歎而註釋者以此。問者唯唯而退。<lb
  ed="X" n="0516c13"/><lb
- ed="R108" n="0408b13"/>余因遂理前言而為之敘。<lb
+ ed="R108" n="0408b13"/>余因遂理前言而為之敘。</ab><lb
  ed="X" n="0516c14"/><lb
- ed="R108" n="0408b14"/>雍正四年歲次丙午嘉平月之既望東吳虞山沙彌<lb
+ ed="R108" n="0408b14"/><ab type="prose">雍正四年歲次丙午嘉平月之既望東吳虞山沙彌<lb
  ed="X" n="0516c15"/><lb
  ed="R108" n="0408b15"/>實賢書於海南蛟門之海雲精舍</ab></div><lb
  ed="X" n="0516c16"/><lb
  ed="X" n="0516c17"/><lb
  ed="X" n="0516c18"/><lb
- ed="R108" n="0409a01"/>
-<ab type='juan' subtype='open'>西方發願文註</ab><lb
+ ed="R108" n="0409a01"/><ab type='juan' subtype='open'>西方發願文註</ab><lb
  ed="X" n="0516c19"/><lb
  ed="R108" n="0409a02"/><byline>雲棲　蓮池大師　作</byline><lb
  ed="X" n="0516c20"/><lb
  ed="R108" n="0409a03"/><byline>後學沙彌　實賢　註</byline><lb
  ed="X" n="0516c21"/><lb
- ed="R108" n="0409a03"/><div type='orig' level='2'><ab type='prose'>西方發願文</ab></div><lb
+ ed="R108" n="0409a03"/><div type='orig' level='2'><ab type="prose">西方發願文</ab></div><lb
  ed="X" n="0516c22"/><lb
- ed="R108" n="0409a04"/><div type='commentary' level='2'><ab type='prose'>釋此願文。大分為二。初題目。二入文。題目五字。有<lb
+ ed="R108" n="0409a04"/><div type='commentary' level='2'><ab type="prose">釋此願文。大分為二。初題目。二入文。題目五字。有<lb
  ed="X" n="0516c23"/><lb
  ed="R108" n="0409a05"/>通有別。西方發願是別名。文之一字是通名。就別<lb
  ed="X" n="0516c24"/><lb
@@ -351,17 +350,15 @@
  ed="X" n="0518b20"/><lb
  ed="R108" n="0412a14"/>自他俱利。因果皆成。不徒為文字語言。音聲唱和<lb
  ed="X" n="0518b21"/><lb
- ed="R108" n="0412a15"/>而已。初釋題目竟。</ab></div><div type='' level='2'><ab type='prose'>△二入文為二。初歸命請加。二<lb
+ ed="R108" n="0412a15"/>而已。初釋題目竟。</ab></div><div type='' level='2'><ab type="prose">△二入文為二。初歸命請加。二<lb
  ed="X" n="0518b22"/><lb
  ed="R108" n="0412a16"/>發願回向　今初。</ab></div><lb
  ed="X" n="0518b23"/><lb
- ed="R108" n="0412a17"/><div type='orig' level='2'><ab type='verse'>
-稽首西方安樂國　　接引眾生大導師　　<lb
+ ed="R108" n="0412a17"/><div type='orig' level='2'><ab type="verse">稽首西方安樂國接引眾生大導師　　<lb
  ed="X" n="0518b24"/><lb
- ed="R108" n="0412a18"/>我今發願願往生　　唯願慈悲哀攝受　　
-</ab></div><pb ed="X" id="X61.1161.0518c" n="0518c"/><lb
+ ed="R108" n="0412a18"/>我今發願願往生唯願慈悲哀攝受　　</ab></div><pb ed="X" id="X61.1161.0518c" n="0518c"/><lb
  ed="X" n="0518c01"/><lb
- ed="R108" n="0412b01"/><div type='commentary' level='2'><ab type='prose'>偈文初二句是歸命。後二句是請加。發願之始。必<lb
+ ed="R108" n="0412b01"/><div type='commentary' level='2'><ab type="prose">偈文初二句是歸命。後二句是請加。發願之始。必<lb
  ed="X" n="0518c02"/><lb
  ed="R108" n="0412b02"/>先歸命於佛者。所以求證此心也。稽首者。禮佛之<lb
  ed="X" n="0518c03"/><lb
@@ -395,19 +392,19 @@
  ed="X" n="0518c17"/><lb
  ed="R108" n="0412b17"/>求加護。愛念名慈。憐愍名悲。如母念子。心無捨離。<lb
  ed="X" n="0518c18"/><lb
- ed="R108" n="0412b18"/>是名攝受。初歸命請加竟。</ab></div><ab type='prose'>△二發願回向二。初發<lb
+ ed="R108" n="0412b18"/>是名攝受。初歸命請加竟。</ab></div><ab type="prose">△二發願回向二。初發<lb
  ed="X" n="0518c19"/><lb
  ed="R108" n="0413a01"/>願。二回向。初又二。初自利。二利他。初又三。初發心<lb
  ed="X" n="0518c20"/><lb
- ed="R108" n="0413a02"/>持名。二懺悔三障。三發願　今初。<lb
+ ed="R108" n="0413a02"/>持名。二懺悔三障。三發願　今初。</ab><lb
  ed="X" n="0518c21"/><lb
- ed="R108" n="0413a03"/></ab><div type='orig' level='2'><ab type='prose'>弟子普為四恩三有。法界眾生。求於諸佛。一乘<lb
+ ed="R108" n="0413a03"/><div type='orig' level='2'><ab type="prose">弟子普為四恩三有。法界眾生。求於諸佛。一乘<lb
  ed="X" n="0518c22"/><lb
  ed="R108" n="0413a04"/>無上菩提道故。專心持念阿彌陀佛。萬德洪名。期生<lb
  ed="X" n="0518c23"/><lb
  ed="R108" n="0413a05"/>淨土。</ab></div><lb
  ed="X" n="0518c24"/><lb
- ed="R108" n="0413a06"/><div type='commentary' level='2'><ab type='prose'>普為四恩等。是所緣之境。求於諸佛等是能發之<pb ed="X" id="X61.1161.0519a" n="0519a"/><lb
+ ed="R108" n="0413a06"/><div type='commentary' level='2'><ab type="prose">普為四恩等。是所緣之境。求於諸佛等是能發之<pb ed="X" id="X61.1161.0519a" n="0519a"/><lb
  ed="X" n="0519a01"/><lb
  ed="R108" n="0413a07"/>心。專心持念等。是所念之佛。期生淨土。是所望之<lb
  ed="X" n="0519a02"/><lb
@@ -449,9 +446,9 @@
  ed="X" n="0519a20"/><lb
  ed="R108" n="0413b08"/>為正因。念佛為助緣。而後期生淨土。修淨業者不<lb
  ed="X" n="0519a21"/><lb
- ed="R108" n="0413b09"/>可不知。</ab></div><ab type='prose'>△二懺悔三障。<lb
+ ed="R108" n="0413b09"/>可不知。</ab></div><ab type="prose">△二懺悔三障。</ab><lb
  ed="X" n="0519a22"/><lb
- ed="R108" n="0413b10"/></ab><div type='orig' level='2'><ab type='prose'>又以業重福輕。障深慧淺。染心易熾。淨德難成。今於<lb
+ ed="R108" n="0413b10"/><div type='orig' level='2'><ab type="prose">又以業重福輕。障深慧淺。染心易熾。淨德難成。今於<lb
  ed="X" n="0519a23"/><lb
  ed="R108" n="0413b11"/>佛前。翹勤五體。披瀝一心。投誠懺悔。我及眾生。曠劫<lb
  ed="X" n="0519a24"/><lb
@@ -459,7 +456,7 @@
  ed="X" n="0519b01"/><lb
  ed="R108" n="0413b13"/>罪垢。無量無邊所結冤業。願悉消滅。</ab></div><lb
  ed="X" n="0519b02"/><lb
- ed="R108" n="0413b14"/><div type='commentary' level='2'><ab type='prose'>又以下明懺悔之因。今於下明懺悔之法。我及眾<lb
+ ed="R108" n="0413b14"/><div type='commentary' level='2'><ab type="prose">又以下明懺悔之因。今於下明懺悔之法。我及眾<lb
  ed="X" n="0519b03"/><lb
  ed="R108" n="0413b15"/>生下正陳懺悔。此一段文。承上文言。雖然念佛發<lb
  ed="X" n="0519b04"/><lb
@@ -599,15 +596,15 @@
  ed="X" n="0520a24"/><lb
  ed="R108" n="0415b12"/>百千劫。常在纏縛。此名淫冤。願悉消滅者。<lb
  ed="X" n="0520b02"/><lb
- ed="R108" n="0415b14"/>謂三障俱滅也。二懺悔三障竟。</ab></div><ab type='prose'>△三發願三。初總<lb
+ ed="R108" n="0415b14"/>謂三障俱滅也。二懺悔三障竟。</ab></div><ab type="prose">△三發願三。初總<lb
  ed="X" n="0520b03"/><lb
- ed="R108" n="0415b15"/>願。二別願。三總結　今初。<lb
+ ed="R108" n="0415b15"/>願。二別願。三總結　今初。</ab><lb
  ed="X" n="0520b04"/><lb
- ed="R108" n="0415b16"/></ab><div type='orig' level='2'><ab type='prose'>從於今日。立深誓願。遠離惡法誓不更造。勤修聖道。<lb
+ ed="R108" n="0415b16"/><div type='orig' level='2'><ab type="prose">從於今日。立深誓願。遠離惡法誓不更造。勤修聖道。<lb
  ed="X" n="0520b05"/><lb
  ed="R108" n="0415b17"/>誓不退惰。誓成正覺。誓度眾生。</ab></div><lb
  ed="X" n="0520b06"/><lb
- ed="R108" n="0415b18"/><div type='commentary' level='2'><ab type='prose'>此即四宏誓願也。修行若無誓願。則有退失。故以<lb
+ ed="R108" n="0415b18"/><div type='commentary' level='2'><ab type="prose">此即四宏誓願也。修行若無誓願。則有退失。故以<lb
  ed="X" n="0520b07"/><lb
  ed="R108" n="0416a01"/>此四法自制其心。則不生懈怠也。此之四宏。依於<lb
  ed="X" n="0520b08"/><lb
@@ -685,9 +682,9 @@
  ed="X" n="0521a02"/><lb
  ed="R108" n="0417a08"/>所成。此名無作四宏誓願。依於無作四諦而發也。</ab></div><lb
  ed="X" n="0521a03"/><lb
- ed="R108" n="0417a09"/><ab type='prose'>△二別願二。初求佛護念二正發願　今初。<lb
+ ed="R108" n="0417a09"/><ab type="prose">△二別願二。初求佛護念二正發願　今初。</ab><lb
  ed="X" n="0521a04"/><lb
- ed="R108" n="0417a10"/></ab><div type='orig' level='2'><ab type='prose'>阿彌陀佛以慈悲願力。當證知我。當哀愍我。當加被<lb
+ ed="R108" n="0417a10"/><div type='orig' level='2'><ab type="prose">阿彌陀佛以慈悲願力。當證知我。當哀愍我。當加被<lb
  ed="X" n="0521a05"/><lb
  ed="R108" n="0417a11"/>我。願禪觀之中。夢寐之際。得見阿彌陀佛金色之身。<lb
  ed="X" n="0521a06"/><lb
@@ -695,7 +692,7 @@
  ed="X" n="0521a07"/><lb
  ed="R108" n="0417a13"/>光明照身。手摩我頭。衣覆我體。</ab></div><lb
  ed="X" n="0521a08"/><lb
- ed="R108" n="0417a14"/><div type='commentary' level='2'><ab type='prose'>阿彌陀下五句。明護念之心。願禪觀下。明護念之<lb
+ ed="R108" n="0417a14"/><div type='commentary' level='2'><ab type="prose">阿彌陀下五句。明護念之心。願禪觀下。明護念之<lb
  ed="X" n="0521a09"/><lb
  ed="R108" n="0417a15"/>事。諸佛心者。是大慈悲。以慈悲故則有誓願。以誓<lb
  ed="X" n="0521a10"/><lb
@@ -731,15 +728,15 @@
  ed="X" n="0521b01"/><lb
  ed="R108" n="0417b13"/>宜慎之。金色身是正報。寶嚴土是依報。歷是經歷<lb
  ed="X" n="0521b02"/><lb
- ed="R108" n="0417b14"/>寶嚴者七寶莊嚴也。餘文可解。</ab></div><ab type='prose'>△二正發願三。初<lb
+ ed="R108" n="0417b14"/>寶嚴者七寶莊嚴也。餘文可解。</ab></div><ab type="prose">△二正發願三。初<lb
  ed="X" n="0521b03"/><lb
- ed="R108" n="0417b15"/>現生願。二臨終願。三往生願　今初。<lb
+ ed="R108" n="0417b15"/>現生願。二臨終願。三往生願　今初。</ab><lb
  ed="X" n="0521b04"/><lb
- ed="R108" n="0417b16"/></ab><div type='orig' level='2'><ab type='prose'>使我宿障自除。善根增長疾空煩惱。頓破無明。圓覺<lb
+ ed="R108" n="0417b16"/><div type='orig' level='2'><ab type="prose">使我宿障自除。善根增長疾空煩惱。頓破無明。圓覺<lb
  ed="X" n="0521b05"/><lb
  ed="R108" n="0417b17"/>妙心。廓然開悟。寂光真境。常得現前。</ab></div><lb
  ed="X" n="0521b06"/><lb
- ed="R108" n="0417b18"/><div type='commentary' level='2'><ab type='prose'>由甘露灌頂。故宿障除。由光明照身。故善根長。由<lb
+ ed="R108" n="0417b18"/><div type='commentary' level='2'><ab type="prose">由甘露灌頂。故宿障除。由光明照身。故善根長。由<lb
  ed="X" n="0521b07"/><lb
  ed="R108" n="0418a01"/>手摩我頭。故煩惱無明頓破。由衣覆我體。故妙心<lb
  ed="X" n="0521b08"/><lb
@@ -751,11 +748,11 @@
  ed="X" n="0521b11"/><lb
  ed="R108" n="0418a05"/>真境不能顯現。今二惑頓空。故開悟現前也。圓覺<lb
  ed="X" n="0521b12"/><lb
- ed="R108" n="0418a06"/>是能證智。寂光是所證理。現前者。洞然明白也。</ab></div><ab type='prose'>△<lb
+ ed="R108" n="0418a06"/>是能證智。寂光是所證理。現前者。洞然明白也。</ab></div><ab type="prose">△<lb
  ed="X" n="0521b13"/><lb
- ed="R108" n="0418a07"/>二臨終願。<lb
+ ed="R108" n="0418a07"/>二臨終願。</ab><lb
  ed="X" n="0521b14"/><lb
- ed="R108" n="0418a08"/></ab><div type='orig' level='2'><ab type='prose'>至於臨欲命終。預知時至身無一切病苦厄難。心無<lb
+ ed="R108" n="0418a08"/><div type='orig' level='2'><ab type="prose">至於臨欲命終。預知時至身無一切病苦厄難。心無<lb
  ed="X" n="0521b15"/><lb
  ed="R108" n="0418a09"/>一切貪戀迷惑。諸根悅豫。正念分明。捨報安詳。如入<lb
  ed="X" n="0521b16"/><lb
@@ -763,9 +760,9 @@
  ed="X" n="0521b17"/><lb
  ed="R108" n="0418a11"/>手提𢹂樓閣幢幡。異香天樂。西方聖境昭示目前。令<lb
  ed="X" n="0521b18"/><lb
- ed="R108" n="0418a12"/>諸眾主見者聞者。歡喜感歎。發菩提心。</ab></div><lb
+ ed="R108" n="0418a12"/>諸眾生見者聞者。歡喜感歎。發菩提心。</ab></div><lb
  ed="X" n="0521b19"/><lb
- ed="R108" n="0418a13"/><div type='commentary' level='2'><ab type='prose'>臨命終時。第八識將去時也。三日七日為預知四<lb
+ ed="R108" n="0418a13"/><div type='commentary' level='2'><ab type="prose">臨命終時。第八識將去時也。三日七日為預知四<lb
  ed="X" n="0521b20"/><lb
  ed="R108" n="0418a14"/>大不調名病苦。水火刀兵毒藥等名厄難。貪戀有<lb
  ed="X" n="0521b21"/><lb
@@ -783,9 +780,9 @@
  ed="X" n="0521c03"/><lb
  ed="R108" n="0418b03"/>明感應道交。令諸眾生下。明見聞利益。如文可知。</ab></div><lb
  ed="X" n="0521c04"/><lb
- ed="R108" n="0418b04"/><ab type='prose'>△三往生願。<lb
+ ed="R108" n="0418b04"/><ab type="prose">△三往生願。</ab><lb
  ed="X" n="0521c05"/><lb
- ed="R108" n="0418b05"/></ab><div type='orig' level='2'><ab type='prose'>我於爾時。乘金剛臺。隨從佛後。如彈指頃。生極樂國<lb
+ ed="R108" n="0418b05"/><div type='orig' level='2'><ab type="prose">我於爾時。乘金剛臺。隨從佛後。如彈指頃。生極樂國<lb
  ed="X" n="0521c06"/><lb
  ed="R108" n="0418b06"/>七寶池內勝蓮華中。華開見佛。見諸菩薩。聞妙法音。<lb
  ed="X" n="0521c07"/><lb
@@ -795,7 +792,7 @@
  ed="X" n="0521c09"/><lb
  ed="R108" n="0418b09"/>皆悉成就。</ab></div><lb
  ed="X" n="0521c10"/><lb
- ed="R108" n="0418b10"/><div type='commentary' level='2'><ab type='prose'>金剛臺。即蓮華座。其座金剛所成。故名金剛臺。又<lb
+ ed="R108" n="0418b10"/><div type='commentary' level='2'><ab type="prose">金剛臺。即蓮華座。其座金剛所成。故名金剛臺。又<lb
  ed="X" n="0521c11"/><lb
  ed="R108" n="0418b11"/>華內蓮房。亦名為臺。上品上生。乃有此臺。如彈指<lb
  ed="X" n="0521c12"/><lb
@@ -817,15 +814,15 @@
  ed="X" n="0521c20"/><lb
  ed="R108" n="0419a02"/>切功德句。總結上文。皆悉成就者。是初住分成就。<lb
  ed="X" n="0521c21"/><lb
- ed="R108" n="0419a03"/>非究竟成就也。初自利竟。</ab></div><ab type='prose'>△二利他。<lb
+ ed="R108" n="0419a03"/>非究竟成就也。初自利竟。</ab></div><ab type="prose">△二利他。</ab><lb
  ed="X" n="0521c22"/><lb
- ed="R108" n="0419a04"/></ab><div type='orig' level='2'><ab type='prose'>然後不違安養。回入娑婆。分身無數。徧十方剎。以不<lb
+ ed="R108" n="0419a04"/><div type='orig' level='2'><ab type="prose">然後不違安養。回入娑婆。分身無數。徧十方剎。以不<lb
  ed="X" n="0521c23"/><lb
  ed="R108" n="0419a05"/>可思議自在神力。種種方便。度脫眾生。咸令離染。還<lb
  ed="X" n="0521c24"/><lb
  ed="R108" n="0419a06"/>得淨心。同生西方。入不退地。</ab></div><pb ed="X" id="X61.1161.0522a" n="0522a"/><lb
  ed="X" n="0522a01"/><lb
- ed="R108" n="0419a07"/><div type='commentary' level='2'><ab type='prose'>問。菩薩化他。不於淨土而於穢土者。何也答。以淨<lb
+ ed="R108" n="0419a07"/><div type='commentary' level='2'><ab type="prose">問。菩薩化他。不於淨土而於穢土者。何也答。以淨<lb
  ed="X" n="0522a02"/><lb
  ed="R108" n="0419a08"/>土中人有善無惡。化度則易。穢土惡多善少。化度<lb
  ed="X" n="0522a03"/><lb
@@ -893,15 +890,15 @@
  ed="X" n="0522b10"/><lb
  ed="R108" n="0420a04"/>還鄉順風搖櫓。無求不利。無往不前。菩薩度生。所<lb
  ed="X" n="0522b11"/><lb
- ed="R108" n="0420a05"/>以必欲求生西方而後回入者。良由於此。</ab></div><ab type='prose'>△三總<lb
+ ed="R108" n="0420a05"/>以必欲求生西方而後回入者。良由於此。</ab></div><ab type="prose">△三總<lb
  ed="X" n="0522b12"/><lb
- ed="R108" n="0420a06"/>結二願。<lb
+ ed="R108" n="0420a06"/>結二願。</ab><lb
  ed="X" n="0522b13"/><lb
- ed="R108" n="0420a07"/></ab><div type='orig' level='2'><ab type='prose'>如是大願世界無盡眾生無盡。業及煩惱一切無盡。<lb
+ ed="R108" n="0420a07"/><div type='orig' level='2'><ab type="prose">如是大願世界無盡眾生無盡。業及煩惱一切無盡。<lb
  ed="X" n="0522b14"/><lb
  ed="R108" n="0420a08"/>我願無盡。</ab></div><lb
  ed="X" n="0522b15"/><lb
- ed="R108" n="0420a09"/><div type='commentary' level='2'><ab type='prose'>如是大願。總結前文。世界無盡等是舉例我願句<lb
+ ed="R108" n="0420a09"/><div type='commentary' level='2'><ab type="prose">如是大願。總結前文。世界無盡等是舉例我願句<lb
  ed="X" n="0522b16"/><lb
  ed="R108" n="0420a10"/>總顯無盡。如云世界不可盡。我願不可盡眾生不<lb
  ed="X" n="0522b17"/><lb
@@ -917,13 +914,13 @@
  ed="X" n="0522b22"/><lb
  ed="R108" n="0420a16"/>耳至於三十二相。方便施為。本非真實。尚何成與<lb
  ed="X" n="0522b23"/><lb
- ed="R108" n="0420a17"/>不成之可論哉初發願竟。</ab></div><ab type='prose'>△次回向。<lb
+ ed="R108" n="0420a17"/>不成之可論哉初發願竟。</ab></div><ab type="prose">△次回向。</ab><lb
  ed="X" n="0522b24"/><lb
- ed="R108" n="0420a18"/></ab><div type='orig' level='2'><ab type='prose'>願今禮佛發願修持功德。回施有情。四恩總報。三有<pb ed="X" id="X61.1161.0522c" n="0522c"/><lb
+ ed="R108" n="0420a18"/><div type='orig' level='2'><ab type="prose">願今禮佛發願修持功德。回施有情。四恩總報。三有<pb ed="X" id="X61.1161.0522c" n="0522c"/><lb
  ed="X" n="0522c01"/><lb
  ed="R108" n="0420b01"/>齊資。法界眾生。同圓種智。</ab></div><lb
  ed="X" n="0522c02"/><lb
- ed="R108" n="0420b02"/><div type='commentary' level='2'><ab type='prose'>菩薩修行。必先回向者。以若不回向。則是人天果<lb
+ ed="R108" n="0420b02"/><div type='commentary' level='2'><ab type="prose">菩薩修行。必先回向者。以若不回向。則是人天果<lb
  ed="X" n="0522c03"/><lb
  ed="R108" n="0420b03"/>報若能回向。則成出世正因故也。回向有三。一回<lb
  ed="X" n="0522c04"/><lb
@@ -1003,6 +1000,5 @@
  ed="X" n="0523a17"/><lb
  ed="R108" n="0421b05"/><lb
  ed="X" n="0523a18"/><lb
- ed="R108" n="0421b06"/>
-<ab type='juan' subtype='close'>西方發願文註</ab></div>
+ ed="R108" n="0421b06"/><ab type='juan' subtype='close'>西方發願文註</ab></div>
 </body></text></TEI>

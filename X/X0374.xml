@@ -45,7 +45,7 @@
  ed="X" n="0508a02"/><lb
  ed="X" n="0508a03"/><div type='xu' level='2'><head>No. 374-A</head><lb
  ed="X" n="0508a04"/><lb
- ed="R094" n="0737a01"/><ab type='prose'>盂蘭盆經者。乃大目犍連。解母青提夫人倒懸之苦。<lb
+ ed="R094" n="0737a01"/><ab type="prose">盂蘭盆經者。乃大目犍連。解母青提夫人倒懸之苦。<lb
  ed="X" n="0508a05"/><lb
  ed="R094" n="0737a02"/>張孝道之宗本。故請如來演說斯經。利及一切。以報<lb
  ed="X" n="0508a06"/><lb
@@ -75,7 +75,7 @@
  ed="X" n="0508a18"/><lb
  ed="R094" n="0737a15"/>知目連起教之由。因疏以能釋經大義。因鈔以申釋<lb
  ed="X" n="0508a19"/><lb
- ed="R094" n="0737a16"/>疏文之詳。其孝行之道。燦然具備焉。時<lb
+ ed="R094" n="0737a16"/>疏文之詳。其孝行之道。燦然具備焉。</ab><ab type="prose">時<lb
  ed="X" n="0508a20" type="honorific"/><lb
  ed="R094" n="0737a17"/>宣德己酉春二月僧錄司右講經兼<lb
  ed="X" n="0508a21" type="honorific"/><lb
@@ -87,7 +87,7 @@
  ed="X" n="0508b02"/><lb
  ed="X" n="0508b03"/><div type='xu' level='2'><head>No. 374-B</head><lb
  ed="X" n="0508b04"/><lb
- ed="R094" n="0737b01"/><ab type='prose'>盂蘭盆經疏鈔。舊本梵夾。經疏共一卷。鈔兩卷。科<lb
+ ed="R094" n="0737b01"/><ab type="prose">盂蘭盆經疏鈔。舊本梵夾。經疏共一卷。鈔兩卷。科<lb
  ed="X" n="0508b05"/><lb
  ed="R094" n="0737b02"/>一卷。壇式一卷。總為五卷。今將鈔會入經疏之下<lb
  ed="X" n="0508b06"/><lb
@@ -97,7 +97,7 @@
  ed="X" n="0508b08"/><lb
  ed="R094" n="0737b05"/>又有圓圈。乃鈔主自立主意。不隨疏轉者也。雖排<lb
  ed="X" n="0508b09"/><lb
- ed="R094" n="0737b06"/>布點校如此。閒有力不及處。博古君子參悉之。時<lb
+ ed="R094" n="0737b06"/>布點校如此。閒有力不及處。博古君子參悉之。</ab><ab type="prose">時<lb
  ed="X" n="0508b10" type="honorific"/><lb
  ed="R094" n="0737b07"/>皇明嘉靖甲子秋重陽日<lb
  ed="X" n="0508b11" type="honorific"/><lb
@@ -142,8 +142,7 @@
  ed="X" n="0509a01"/><lb
  ed="X" n="0509a02"/><lb
  ed="X" n="0509a03"/><lb
- ed="R094" n="0738a01"/>
-<ab type='juan' subtype='open'>佛說盂蘭盆經疏科文</ab><lb
+ ed="R094" n="0738a01"/><ab type='juan' subtype='open'>佛說盂蘭盆經疏科文</ab><lb
  ed="X" n="0509a04"/><lb
  ed="R094" n="0738a01"/><byline>講經律論沙門　遇榮　集定</byline><lb
  ed="X" n="0509a05"/><lb
@@ -1237,6 +1236,5 @@
  ed="X" n="0517a61"/><lb
  ed="R094" n="0746a01"/><lb
  ed="X" n="0517a62"/><lb
- ed="R094" n="0746a01"/>
-<ab type='juan' subtype='close'>佛說盂蘭盆經疏科文</ab></div>
+ ed="R094" n="0746a01"/><ab type='juan' subtype='close'>佛說盂蘭盆經疏科文</ab></div>
 </body></text></TEI>

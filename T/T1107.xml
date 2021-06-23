@@ -42,12 +42,11 @@
         <body><pb n="0476b" id="T20.1107.0476b" ed="T"/><lb
  n="0476b01" ed="T"/><lb
  n="0476b02" ed="T"/><lb
- n="0476b03" ed="T"/>
-<ab type='juan' subtype='open'>聖多羅菩薩梵讚</ab><lb
+ n="0476b03" ed="T"/><ab type='juan' subtype='open'>聖多羅菩薩梵讚</ab><lb
  n="0476b04" ed="T"/><lb
  n="0476b05" ed="T"/><byline>西天譯經三藏朝散大夫試鴻臚卿<lb
  n="0476b06" ed="T"/>傳法大師臣施護奉　詔譯</byline><lb
- n="0476b07" ed="T"/><div type='dharani' level='1'><ab type='dharani'>曩謨薩多囉曳婆誐嚩帝嚩囉提<lb
+ n="0476b07" ed="T"/><div type='dharani' level='1'><ab type="dharani">曩謨薩多囉曳婆誐嚩帝嚩囉提<lb
  n="0476b08" ed="T"/>惹曳禰嚩乃怛踰囉儗孕捺囉<lb
  n="0476b09" ed="T"/>禰跋訖帝鉢囉拏摩矩攞地也<lb
  n="0476b10" ed="T"/>曩多路攞祖拏摩尼摩踰砌多旦<lb
@@ -201,7 +200,6 @@
  n="0478b02" ed="T"/>尾多薩哩嚩訥佉多訖凌薩哩<lb
  n="0478b03" ed="T"/>嚩薩覩怛摩薩哩嚩薩埵囉他迦哩𡁠曩寫摩憾波誐嚩怛也阿<lb
  n="0478b05" ed="T"/>哩也多囉野難拏迦娑妬怛<lb
- n="0478b06" ed="T"/>囉三摩鉢多<lb
- n="0478b07" ed="T"/>
-</ab><ab type='juan' subtype='close'>聖多羅菩薩梵讚</ab></div>
+ n="0478b06" ed="T"/>囉三摩鉢多</ab><lb
+ n="0478b07" ed="T"/><ab type='juan' subtype='close'>聖多羅菩薩梵讚</ab></div>
 </body></text></TEI>
